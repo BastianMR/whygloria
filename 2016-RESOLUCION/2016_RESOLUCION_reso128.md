@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 119 (2016)"
+title: "Resolución N° 128 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

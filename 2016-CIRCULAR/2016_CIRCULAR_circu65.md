@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 65.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 de noviembre de 2016.- |

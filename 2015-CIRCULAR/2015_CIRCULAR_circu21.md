@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección de Asistencia al Contribuyente. Departamento de Atención y Asistencia de Contribuyentes.** | **CIRCULAR N° 21.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 de marzo de 2015 |

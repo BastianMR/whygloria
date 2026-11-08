@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°5.- 220105.2022 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 DE ENERO DE 2023 |

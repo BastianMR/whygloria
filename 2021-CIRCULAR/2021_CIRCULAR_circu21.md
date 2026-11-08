@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°21.- 179438.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 08 DE ABRIL DE 2021 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 10 (2020)"
+title: "Resolución N° 41 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

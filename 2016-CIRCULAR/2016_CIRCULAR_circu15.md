@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 06 de abril de 2016.- |

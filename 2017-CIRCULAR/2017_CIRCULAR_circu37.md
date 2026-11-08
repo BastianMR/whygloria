@@ -6,6 +6,7 @@ tags: [SII, 2017, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 37** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 de julio de 2017 |

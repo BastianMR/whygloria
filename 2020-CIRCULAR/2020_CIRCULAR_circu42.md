@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N° 42** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE JUNIO DE 2020 |

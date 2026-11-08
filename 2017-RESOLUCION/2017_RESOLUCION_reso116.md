@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 Tributario 2018.
 
 ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO

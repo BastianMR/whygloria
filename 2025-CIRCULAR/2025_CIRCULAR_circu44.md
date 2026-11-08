@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°44.- 328467.2025 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 DE JUNIO DE 2025 |

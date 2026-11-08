@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1993 (2020)"
+title: "Resolución N° 25 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

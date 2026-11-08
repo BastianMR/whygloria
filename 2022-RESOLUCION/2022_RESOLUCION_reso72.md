@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 119 (2022)"
+title: "Resolución N° 72 (2022)"
 description: "Ex. SII N° 119 de 2020, por el siguiente:"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 Ex. SII N° 119 de 2020, por el siguiente:

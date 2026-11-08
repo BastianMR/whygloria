@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 20 (2024)"
+title: "Resolución N° 14 (2024)"
 description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249

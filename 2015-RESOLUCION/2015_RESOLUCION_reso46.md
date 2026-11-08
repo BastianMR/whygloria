@@ -6,6 +6,7 @@ tags: [SII, 2015, resolucion]
 ---
 
 
+
 ## Servicio de Impuestos Internos Subdirección de Estudios
 
 APRUEBA CONVENIO DE COLABORACIÓN ENTRE MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA Y EL SERVICIO DE IMPUESTOS INTERNOS

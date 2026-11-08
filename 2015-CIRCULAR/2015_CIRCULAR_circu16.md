@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 | **GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 16.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 de febrero de 2015.- |

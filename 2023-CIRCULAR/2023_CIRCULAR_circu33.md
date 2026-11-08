@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°33.- GE255831** |
 | --- | --- |
 | SISTEMA DEPUBLICACIONES ADMINISTRATIVAS | FECHA: 9 DE AGOSTO DE 2023 |

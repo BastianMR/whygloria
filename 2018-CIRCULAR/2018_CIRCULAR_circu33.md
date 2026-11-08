@@ -6,6 +6,7 @@ tags: [SII, 2018, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 33** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 de junio de 2018 |

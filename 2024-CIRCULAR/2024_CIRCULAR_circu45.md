@@ -6,6 +6,7 @@ tags: [SII, 2024, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°45.- 299422.2024 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 DE OCTUBRE DE 2024. |

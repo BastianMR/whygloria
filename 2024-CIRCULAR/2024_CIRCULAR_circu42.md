@@ -6,6 +6,7 @@ tags: [SII, 2024, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°42.- 299395.2024 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE OCTUBRE DE 2024 |

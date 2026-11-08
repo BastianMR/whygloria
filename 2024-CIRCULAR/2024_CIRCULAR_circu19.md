@@ -6,6 +6,7 @@ tags: [SII, 2024, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°19.- 282557.2024 GE** |
 | --- | --- |
 | SISTEMA DEPUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE MAYO DE 2024 |

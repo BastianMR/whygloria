@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº26.- GE00274893** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 03 DE ABRIL DE 2025 |

@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 18** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 de abril de 2016 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 143 (2013)"
+title: "Resolución N° 54 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS

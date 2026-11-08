@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 40.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 05 de junio de 2015 |

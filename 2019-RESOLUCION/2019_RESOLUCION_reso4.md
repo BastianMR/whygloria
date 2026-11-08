@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras.

@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°49.- 188706.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:10 DE AGOSTO DE 2021 |

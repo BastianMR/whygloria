@@ -6,6 +6,7 @@ tags: [SII, 2017, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº15** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 22 de febrero de 2017 |

@@ -6,6 +6,7 @@ tags: [SII, 2018, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA.** | **CIRCULAR Nº 34.-** |
 | --- | --- |
 | SISTEMADEPUBLICACIONES ADMINISTRATIVAS | FECHA: 27 de junio de 2018 .- |

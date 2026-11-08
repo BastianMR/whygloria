@@ -6,6 +6,7 @@ tags: [SII, 2017, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 27.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 de mayo de 2017.- |

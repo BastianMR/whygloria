@@ -6,6 +6,7 @@ tags: [SII, 2024, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°25.- 285924.2024 GE** |
 | --- | --- |
 | SISTEMA DEPUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE JUNIO DE 2024 |

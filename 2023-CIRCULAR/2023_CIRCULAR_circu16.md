@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 16.- 242744.2023 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE ABRIL DE 2023 |

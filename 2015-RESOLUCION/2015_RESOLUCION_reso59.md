@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso59"
+title: "Resolución N° 59 (2015)"
 description: "ESTABLECE UNIDAD PROVIDENCIA DEPENDIENTE DE LA XV DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## Distribución:

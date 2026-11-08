@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº52.- GE00337730** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 14 DE AGOSTO DE 2025 |

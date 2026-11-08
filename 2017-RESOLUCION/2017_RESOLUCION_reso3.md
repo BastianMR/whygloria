@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 71 (2017)"
+title: "Resolución N° 3 (2017)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Chilena de gastronomía."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Chilena de gastronomía.

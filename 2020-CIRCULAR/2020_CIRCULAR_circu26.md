@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 26 046-2020 OGN** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 9 DE ABRIL DE 2020 |

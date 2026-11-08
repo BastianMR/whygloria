@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos.
 
 SANTIAGO, 12 DE AGOSTO DE 2020

@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Diseño de Procedimientos** | **CIRCULAR N° 29.- GE00213256** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 DE JUNIO DE 2022 |

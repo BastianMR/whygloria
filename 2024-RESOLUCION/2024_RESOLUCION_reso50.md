@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE279231
 
 MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos.

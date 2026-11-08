@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 91 (2022)"
+title: "Resolución N° 29 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00206100 188-SDAC"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 <unknown>

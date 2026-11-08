@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°11.- 174964 GE ID 21-2020** |
 | --- | --- |
 | SISTEMA DE ADMINISTRATIVAS | PUBLICACIONES FECHA: 17 DE FEBRERO DE 2021 |

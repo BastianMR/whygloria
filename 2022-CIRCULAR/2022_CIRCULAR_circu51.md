@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 51.- 228128.2022 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09 DE NOVIEMBRE DE 2022 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2014)"
+title: "Resolución N° 40 (2014)"
 description: "Diario Oficial (en extracto)"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## Distribución:

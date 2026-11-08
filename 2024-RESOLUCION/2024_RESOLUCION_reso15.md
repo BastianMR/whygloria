@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 151 (2024)"
+title: "Resolución N° 15 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE194763"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE194763

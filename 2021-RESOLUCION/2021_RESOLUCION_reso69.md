@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ADMINISTRATIVO
 
 ## VISTOS:

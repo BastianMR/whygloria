@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 60 (2023)"
+title: "Resolución N° 62 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL

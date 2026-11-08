@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 47 (2018)"
+title: "Resolución N° 41 (2018)"
 description: "MAT.: Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Interese..."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 MAT.: Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 47 de 2017.

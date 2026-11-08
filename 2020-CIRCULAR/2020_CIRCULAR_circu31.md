@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 11 (2020)"
+title: "Circular N° 31 (2020)"
 description: "Complementada por Circular N° 11, del 17 de febrero de 2021"
 tags: [SII, 2020, circular]
 ---
+
 
 
 ## Complementada por Circular N° 11, del 17 de febrero de 2021

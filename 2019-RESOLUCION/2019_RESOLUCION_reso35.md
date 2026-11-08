@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 78 (2019)"
+title: "Resolución N° 35 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 54 (2013)"
+title: "Circular N° 45 (2013)"
 description: "Modificada por Circular N° 54, del 25 de noviembre de 2013"
 tags: [SII, 2013, circular]
 ---
+
 
 
 Modificada por Circular N° 54, del 25 de noviembre de 2013

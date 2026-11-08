@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 60 (2022)"
+title: "Resolución N° 10 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

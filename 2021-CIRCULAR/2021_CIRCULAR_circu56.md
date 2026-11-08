@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°56.- 194184.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 DE OCTUBRE 2021 |

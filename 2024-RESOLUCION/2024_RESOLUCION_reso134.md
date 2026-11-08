@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00302711
 
 MATERIA: Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos.

@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE209341
 
 MATERIA: Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Villa Alemana.

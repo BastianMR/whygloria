@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos.

@@ -6,6 +6,7 @@ tags: [SII, 2024, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº41.- GE00296511** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE SEPTIEMBRE DE 2024. |

@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N° 32** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 29 DE ABRIL DEL 2020. |

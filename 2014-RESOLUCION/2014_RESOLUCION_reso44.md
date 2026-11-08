@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 349 (2014)"
+title: "Resolución N° 44 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURIDÍCA"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURIDÍCA

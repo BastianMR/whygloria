@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 46 (2018)"
+title: "Resolución N° 40 (2018)"
 description: "COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017.

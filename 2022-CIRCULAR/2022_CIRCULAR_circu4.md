@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N° 4.- GE00195417** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 18 DE ENERO DE 2022.- |

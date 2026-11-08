@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°42.- 250892.2023 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 04 DE OCTUBRE DE 2023 |

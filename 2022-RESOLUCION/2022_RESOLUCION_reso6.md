@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00200089
 
 MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección General de Promoción de Exportaciones y el Servicio de Impuestos Internos.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2023)"
+title: "Resolución N° 76 (2023)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA.

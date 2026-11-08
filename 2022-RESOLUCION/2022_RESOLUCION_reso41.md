@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 GE00210747

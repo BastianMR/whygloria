@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2014_RESOLUCION_reso02"
+title: "Resolución N° 2 (2014)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA

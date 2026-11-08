@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 150 (2017)"
+title: "Resolución N° 45 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

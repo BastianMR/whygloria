@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 05 de julio de 2016.- |

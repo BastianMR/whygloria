@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos.

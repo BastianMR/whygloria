@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 20 (2016)"
+title: "Resolución N° 73 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE CONTRALORÍA INTERNA"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE CONTRALORÍA INTERNA

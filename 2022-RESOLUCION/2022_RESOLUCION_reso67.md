@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 72 (2022)"
+title: "Resolución N° 67 (2022)"
 description: "2021 en todo lo no modificado."
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 2021 en todo lo no modificado.

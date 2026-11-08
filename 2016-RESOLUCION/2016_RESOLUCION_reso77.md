@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2016)"
+title: "Resolución N° 77 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera."
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera.

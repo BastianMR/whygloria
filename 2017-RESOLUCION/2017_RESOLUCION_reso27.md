@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2017)"
+title: "Resolución N° 27 (2017)"
 description: "DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## DELEGA FACULTAD QUE INDICA.

@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº 12.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 DE FEBRERO DE 2021 |

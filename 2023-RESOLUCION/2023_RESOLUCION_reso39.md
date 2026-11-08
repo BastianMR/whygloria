@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2023)"
+title: "Resolución N° 39 (2023)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE FECHA 29.12.2022, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 <unknown>

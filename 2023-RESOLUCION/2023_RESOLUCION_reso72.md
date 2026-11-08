@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 MATERIA:
 
 Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII MAPAS ' a la Ilustre Municipalidad de Cauquenes

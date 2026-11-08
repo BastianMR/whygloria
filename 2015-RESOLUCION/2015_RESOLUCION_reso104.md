@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 6 (2015)"
+title: "Resolución N° 104 (2015)"
 description: "MATERIA: Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 MATERIA: Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos.

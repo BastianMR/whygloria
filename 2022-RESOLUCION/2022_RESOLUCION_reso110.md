@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE219587
 
 Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 91 (2018)"
+title: "Resolución N° 39 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA

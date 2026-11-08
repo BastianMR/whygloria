@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 7 (2017)"
+title: "Resolución N° 47 (2017)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

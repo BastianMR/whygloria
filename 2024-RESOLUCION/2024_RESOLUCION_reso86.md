@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 98 (2024)"
+title: "Resolución N° 86 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549

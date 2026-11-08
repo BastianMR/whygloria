@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2017)"
+title: "Resolución N° 85 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 168 (2021)"
+title: "Resolución N° 50 (2021)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA.

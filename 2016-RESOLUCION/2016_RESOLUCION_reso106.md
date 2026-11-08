@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 119 (2016)"
+title: "Resolución N° 106 (2016)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES 822-SDF-2016 77316150859 4760-4764-4765-2016"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES 822-SDF-2016 77316150859 4760-4764-4765-2016

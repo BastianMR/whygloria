@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Departamento de Técnica Tributaria** | **CIRCULAR N°20.- 204839.2022 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 21 DE ABRIL DE 2022 |

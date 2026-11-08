@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 4 (2023)"
+title: "Resolución N° 12 (2023)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023."
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023.

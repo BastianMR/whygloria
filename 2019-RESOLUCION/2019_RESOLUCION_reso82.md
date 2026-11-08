@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 48 (2019)"
+title: "Resolución N° 82 (2019)"
 description: "SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES

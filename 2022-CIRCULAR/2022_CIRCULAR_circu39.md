@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N° 39.- GE204576.2022** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 31 DE AGOSTO DE 2022 |

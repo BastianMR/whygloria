@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos.

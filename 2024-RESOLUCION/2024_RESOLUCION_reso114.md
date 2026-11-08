@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59ª Asamblea General del CIAT.
 
 ## SANTIAGO, 05 DE DICIEMBRE DE 2024 RESOLUCIÓN EX. SII N°114.-

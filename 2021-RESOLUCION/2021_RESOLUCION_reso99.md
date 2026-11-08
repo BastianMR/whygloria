@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2021)"
+title: "Resolución N° 99 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

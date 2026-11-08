@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 97 (2015)"
+title: "Resolución N° 118 (2015)"
 description: "FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, AGRÍCOLA."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 Servicio.

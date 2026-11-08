@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 93 (2020)"
+title: "Resolución N° 82 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

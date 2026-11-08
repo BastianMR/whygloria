@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N° 37 19.2020 CIRC.SN 18.2020 CIRC. II** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 20 DE MAYO DE 2020. |

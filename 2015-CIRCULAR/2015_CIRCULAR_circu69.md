@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 66 (2015)"
+title: "Circular N° 69 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875"
 tags: [SII, 2015, circular]
 ---
+
 
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875

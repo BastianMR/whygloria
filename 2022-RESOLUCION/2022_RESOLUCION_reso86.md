@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 20 (2022)"
+title: "Resolución N° 86 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 222418"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 222418

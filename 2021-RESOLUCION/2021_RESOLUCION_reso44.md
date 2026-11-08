@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos.

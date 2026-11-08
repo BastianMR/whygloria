@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 MAT.:
 
 Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos.

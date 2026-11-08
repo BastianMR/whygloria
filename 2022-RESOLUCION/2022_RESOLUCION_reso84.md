@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2022)"
+title: "Resolución N° 84 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022.

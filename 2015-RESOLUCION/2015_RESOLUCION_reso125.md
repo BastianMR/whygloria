@@ -6,6 +6,7 @@ tags: [SII, 2015, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio de Colaboración entre el Comité de Seguros del Agro y el Servicio de Impuestos Internos.
 
 ## SANTIAGO, 31 DE DICIEMBRE DE 2015

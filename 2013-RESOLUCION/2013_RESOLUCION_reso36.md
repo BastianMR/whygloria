@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2013)"
+title: "Resolución N° 36 (2013)"
 description: "DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 ## DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES.

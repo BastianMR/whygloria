@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección Normativa Oficinade Gestión Normativa** | **CIRCULARN° 15.- 242550.2023 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:06 DEABRILDE 2023 |

@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
 
 Hoy se ha resuelto lo que sigue:

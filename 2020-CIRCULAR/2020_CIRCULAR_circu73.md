@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 4 (2020)"
+title: "Circular N° 73 (2020)"
 description: "Modificada por Circular N° 4, del 12 de enero de 2021"
 tags: [SII, 2020, circular]
 ---
+
 
 
 ## Modificada por Circular N° 4, del 12 de enero de 2021

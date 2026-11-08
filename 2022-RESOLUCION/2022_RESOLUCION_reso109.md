@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE204472
 
 Aprueba Addendum al Convenio de Colaboración entre el Ministerio Secretaría General de la Presidencia y el Servicio de Impuestos Internos.

@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE271782
 
 MATERIA: Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía.

@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 36 (2013)"
+title: "Circular N° 54 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N°: 54.- 19.2013 ID 008.2013 SN |"
 tags: [SII, 2013, circular]
 ---
+
 
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°: 54.- 19.2013 ID 008.2013 SN** |

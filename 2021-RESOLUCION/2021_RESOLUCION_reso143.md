@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2021_RESOLUCION_reso143"
+title: "Resolución N° 143 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 200604"
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE 200604

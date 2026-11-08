@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2016_RESOLUCION_reso39"
+title: "Resolución N° 39 (2016)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

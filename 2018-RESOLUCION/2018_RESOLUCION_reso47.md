@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 4 (2018)"
+title: "Resolución N° 47 (2018)"
 description: "RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018.

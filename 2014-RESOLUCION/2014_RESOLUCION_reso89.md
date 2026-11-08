@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2014_RESOLUCION_reso89"
+title: "Resolución N° 89 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

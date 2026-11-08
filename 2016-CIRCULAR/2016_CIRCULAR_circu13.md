@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 012-2016 II (01-2016 Circ-SN)
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 13.-** |

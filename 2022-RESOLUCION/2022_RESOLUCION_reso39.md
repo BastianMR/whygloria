@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 46 (2022)"
+title: "Resolución N° 39 (2022)"
 description: "SUBDIRECCION DE ASUNTOS CORPORATIVOS GE 210128"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## SUBDIRECCION DE ASUNTOS CORPORATIVOS GE 210128

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 73 (2017)"
+title: "Resolución N° 49 (2017)"
 description: "MATERIA: Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 MATERIA: Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos.

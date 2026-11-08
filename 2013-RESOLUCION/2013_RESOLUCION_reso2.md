@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 114 (2013)"
+title: "Resolución N° 2 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

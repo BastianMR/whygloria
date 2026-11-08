@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 MATERIA : Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos.
 
 ## SANTIAGO, 13 DE OCTUBRE 2017

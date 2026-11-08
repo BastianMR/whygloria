@@ -6,6 +6,7 @@ tags: [SII, 2013, resolucion]
 ---
 
 
+
 las siguientes facultades:
 
 1. En los procesos de contratación por medio de los convenios marco regidos por el artículo 14 bis del Decreto Supremo N°250 de 2004, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley Nº19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, cuyo monto sea superior a 800 UTM:

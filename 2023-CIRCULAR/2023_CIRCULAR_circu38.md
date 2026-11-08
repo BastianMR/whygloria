@@ -6,6 +6,7 @@ tags: [SII, 2023, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección de Avaluaciones** | **CIRCULAR N°38.- 256519.2023 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 06 DE SEPTIEMBRE DE 2023 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 39 (2015)"
+title: "Circular N° 71 (2015)"
 description: "Complementada por Circular N° 39, del 8 de julio de 2016"
 tags: [SII, 2015, circular]
 ---
+
 
 
 Complementada por Circular N° 39, del 8 de julio de 2016

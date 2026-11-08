@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 53 (2019)"
+title: "Resolución N° 81 (2019)"
 description: "DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 53, DE 30.04.2019. COMPLEMENTA RESOLUCIÓN EX. SII N° 208 DE 2009"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 53, DE 30.04.2019. COMPLEMENTA RESOLUCIÓN EX. SII N° 208 DE 2009

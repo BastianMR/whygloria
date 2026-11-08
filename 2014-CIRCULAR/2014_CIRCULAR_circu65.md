@@ -6,6 +6,7 @@ tags: [SII, 2014, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 65.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 15 de diciembre de 2014 |

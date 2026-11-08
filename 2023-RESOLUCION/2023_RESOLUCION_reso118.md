@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 MAT: Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile.
 
 ## SANTIAGO, 06 DE OCTUBRE DE 2023

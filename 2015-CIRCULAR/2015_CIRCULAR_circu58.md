@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 30 (2015)"
+title: "Circular N° 58 (2015)"
 description: "Complementada por Circular N° 30, del 10 de mayo de 2016"
 tags: [SII, 2015, circular]
 ---
+
 
 
 Complementada por Circular N° 30, del 10 de mayo de 2016

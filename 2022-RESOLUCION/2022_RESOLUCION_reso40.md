@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 110 (2022)"
+title: "Resolución N° 40 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS

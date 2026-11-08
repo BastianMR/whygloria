@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00186688
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos.

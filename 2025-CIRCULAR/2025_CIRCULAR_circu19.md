@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°19.- GE00306107** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 06 DE MARZO DE 2025. |

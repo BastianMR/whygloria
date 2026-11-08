@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 
 ## ESTUDIOS TRIBUTARIOS

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 30 (2023)"
+title: "Resolución N° 37 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

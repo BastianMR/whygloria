@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 349 (2016)"
+title: "Resolución N° 35 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

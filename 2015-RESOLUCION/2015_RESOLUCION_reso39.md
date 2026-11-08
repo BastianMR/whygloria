@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2015)"
+title: "Resolución N° 39 (2015)"
 description: "Individualiza sujetos pasivos, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley 20.730 que 'Regula el Lobby y las Gestiones que representen Intereses ..."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 Individualiza sujetos pasivos, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley 20.730 que 'Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios'.

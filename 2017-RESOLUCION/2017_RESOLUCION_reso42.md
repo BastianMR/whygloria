@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## MATERIA: DELEGA FACULTAD QUE INDICA.
 
 ## SANTIAGO, 13 de abril de 2017

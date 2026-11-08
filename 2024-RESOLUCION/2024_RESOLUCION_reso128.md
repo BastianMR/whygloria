@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 20 (2024)"
+title: "Resolución N° 128 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00307614"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00307614

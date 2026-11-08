@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE222813
 
 Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Chilena del Cobre y el Servicio de Impuestos Internos.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 2 (2018)"
+title: "Resolución N° 20 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

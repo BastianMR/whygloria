@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 4 (2013)"
+title: "Resolución N° 19 (2013)"
 description: "RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013."
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013.

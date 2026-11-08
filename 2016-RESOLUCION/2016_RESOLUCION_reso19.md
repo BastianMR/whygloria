@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 101 (2016)"
+title: "Resolución N° 19 (2016)"
 description: "MATERIA: FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851."
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 MATERIA: FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851.

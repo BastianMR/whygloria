@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 41 (2021)"
+title: "Resolución N° 109 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

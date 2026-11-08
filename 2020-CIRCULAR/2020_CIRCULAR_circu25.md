@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Depto. de Impuestos Indirectos 023.2020 CIRC.SN 020-2020 CIRC.II** | **CIRCULAR N° 25** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 08 DE ABRIL DE 2020 |

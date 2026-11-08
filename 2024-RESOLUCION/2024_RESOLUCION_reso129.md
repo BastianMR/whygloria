@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 57 (2024)"
+title: "Resolución N° 129 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE307616"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE307616

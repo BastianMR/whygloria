@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°7.- 174206 GE CIRC ID 18-2020** |
 | --- | --- |
 |  | FECHA: 29 DE ENERO DE 2021 |

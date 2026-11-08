@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 35 (2017)"
+title: "Circular N° 4 (2017)"
 description: "Modificada por Circular Nº 35, del 23 de junio de 2017"
 tags: [SII, 2017, circular]
 ---
+
 
 
 ## Modificada por Circular Nº 35, del 23 de junio de 2017

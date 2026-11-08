@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 64 (2018)"
+title: "Resolución N° 9 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

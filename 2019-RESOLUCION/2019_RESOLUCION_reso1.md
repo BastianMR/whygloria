@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 80 (2019)"
+title: "Resolución N° 1 (2019)"
 description: "OFICINA DE ASISTENCIA Y EDUCACIÓN AL"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## OFICINA DE ASISTENCIA Y EDUCACIÓN AL

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 65 (2016)"
+title: "Resolución N° 68 (2016)"
 description: "Subdirección de Fiscalización Oficina de Análisis de Elusión"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## Subdirección de Fiscalización Oficina de Análisis de Elusión

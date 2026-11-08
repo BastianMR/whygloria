@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 56 (2018)"
+title: "Resolución N° 25 (2018)"
 description: "DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015.

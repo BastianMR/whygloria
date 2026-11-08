@@ -6,6 +6,7 @@ tags: []
 ---
 
 
+
 # WhyGloria — SII Public Tax Information
 
 Open-source collection of Chilean **Servicio de Impuestos Internos (SII)** public

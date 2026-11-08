@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Jurídica. Asesoría Jurídica** | **CIRCULAR N°35.- 317829.2025 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 30 DE ABRIL DE 2025 |

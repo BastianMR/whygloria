@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 MATERIA: Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal.
 
 ## SANTIAGO, 16 de febrero de 2019

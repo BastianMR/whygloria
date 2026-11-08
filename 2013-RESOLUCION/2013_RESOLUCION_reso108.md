@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2013_RESOLUCION_reso108"
+title: "Resolución N° 108 (2013)"
 description: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 de 2014.

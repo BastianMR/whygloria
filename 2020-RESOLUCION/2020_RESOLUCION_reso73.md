@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 18 (2020)"
+title: "Resolución N° 73 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 <unknown>

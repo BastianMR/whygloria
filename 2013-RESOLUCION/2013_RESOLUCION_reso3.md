@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2013_RESOLUCION_reso3"
+title: "Resolución N° 3 (2013)"
 description: "Diario Oficial en extracto"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 ## DISTRIBUCIÓN

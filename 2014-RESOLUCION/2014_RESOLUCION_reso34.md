@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2014)"
+title: "Resolución N° 34 (2014)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 SUBDIRECCIÓN DE AVALUACIONES

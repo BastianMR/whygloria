@@ -6,6 +6,7 @@ tags: [SII, 2013, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección de Fiscalización Departamento de Atención y Asistencia de Contribuyentes** | **CIRCULAR N° 56.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 27 de noviembre de 2013.- |

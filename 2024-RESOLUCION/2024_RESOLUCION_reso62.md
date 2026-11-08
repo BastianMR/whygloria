@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2024)"
+title: "Resolución N° 62 (2024)"
 description: "RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCION EXENTA SII N° 8, DE 2024."
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCION EXENTA SII N° 8, DE 2024.

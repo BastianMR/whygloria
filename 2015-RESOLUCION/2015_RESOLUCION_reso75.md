@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 59 (2015)"
+title: "Resolución N° 75 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

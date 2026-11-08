@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 38 (2014)"
+title: "Circular N° 31 (2014)"
 description: "Complementada por Circular N° 38, del 30 de abril de 2025 Modificada por Circular N° 38, del 30 de abril de 2025 Complementada por Circular N° 26, del 03 de ..."
 tags: [SII, 2014, circular]
 ---
+
 
 
 Complementada por Circular N° 38, del 30 de abril de 2025 Modificada por Circular N° 38, del 30 de abril de 2025 Complementada por Circular N° 26, del 03 de abril de 2025

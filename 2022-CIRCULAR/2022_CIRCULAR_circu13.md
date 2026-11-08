@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica** | **CIRCULAR N°13.- 171101.2020 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 18 DE MARZO DE 2022 |

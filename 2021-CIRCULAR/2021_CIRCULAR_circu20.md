@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N° 20 178661.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 01 DEABRIL DE 2021 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 112 (2016)"
+title: "Resolución N° 113 (2016)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso120"
+title: "Resolución N° 120 (2015)"
 description: "MATERIA: CREA DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS ESTABLECE FUNCIONES Y AMBITO DE COMPETENCIA."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 DIRECCIÓN NACIONAL

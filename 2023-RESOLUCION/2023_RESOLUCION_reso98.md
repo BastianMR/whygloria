@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 19 (2023)"
+title: "Resolución N° 98 (2023)"
 description: "a) Los corredores de propiedades, intermediarios y mandatarios, de arrendadores o arrendatarios, de bienes raíces agrícolas y/o no agrícolas, cuya participac..."
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 por:

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 109 (2014)"
+title: "Resolución N° 107 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

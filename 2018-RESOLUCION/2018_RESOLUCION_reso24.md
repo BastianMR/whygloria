@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 90 (2018)"
+title: "Resolución N° 24 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

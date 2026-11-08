@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00223948
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Seguridad Social y el Servicio de Impuestos Internos.

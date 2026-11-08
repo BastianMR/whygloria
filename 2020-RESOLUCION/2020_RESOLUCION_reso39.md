@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1 (2020)"
+title: "Resolución N° 39 (2020)"
 description: "Subdirección de Administración"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 Subdirección de Administración

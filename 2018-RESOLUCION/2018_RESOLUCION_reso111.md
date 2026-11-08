@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2018)"
+title: "Resolución N° 111 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA

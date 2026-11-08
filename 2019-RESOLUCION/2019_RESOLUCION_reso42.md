@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 267 (2019)"
+title: "Resolución N° 42 (2019)"
 description: "SUPERINTENDENCIA DE SALUD RESOLUCIÓN SS/N° 267 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 42 TESORERÍA GENERAL DE LA REPÚBLICA CIRCULAR CONJUNTA N° ..."
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 Si

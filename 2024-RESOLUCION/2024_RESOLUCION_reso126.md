@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2024)"
+title: "Resolución N° 126 (2024)"
 description: "Lo que transcribo para su conocimiento y demás fines."
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 <unknown>

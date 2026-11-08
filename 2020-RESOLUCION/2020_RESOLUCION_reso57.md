@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 3 (2020)"
+title: "Resolución N° 57 (2020)"
 description: "RECTIFICA LISTA ANEXA DE LA RESOLUCION EX. SII N° 3, DE 2020."
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## RECTIFICA LISTA ANEXA DE LA RESOLUCION EX. SII N° 3, DE 2020.

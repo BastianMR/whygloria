@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 21 (2022)"
+title: "Resolución N° 68 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 77322451687"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 |

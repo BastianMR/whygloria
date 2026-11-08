@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2017)"
+title: "Resolución N° 93 (2017)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA.

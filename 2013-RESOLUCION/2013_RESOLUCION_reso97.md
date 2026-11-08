@@ -6,6 +6,7 @@ tags: [SII, 2013, resolucion]
 ---
 
 
+
 Anexo: Convenio de Colaboración
 
 Lo que transcribo a Ud., para su conocimiento y demás fines.

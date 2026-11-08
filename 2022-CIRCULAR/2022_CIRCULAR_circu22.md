@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección de Avaluaciones Subdirección Normativa, Departamento de Técnica Tributaria** | **CIRCULARNº 22.- GE205117** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:06 DEMAYODE2022 |

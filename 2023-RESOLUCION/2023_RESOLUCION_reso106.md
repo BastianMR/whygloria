@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos.
 
 SANTIAGO, 06 DE SEPTIEMBRE DE 2023.

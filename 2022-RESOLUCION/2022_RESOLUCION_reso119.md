@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 123 (2022)"
+title: "Resolución N° 119 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 <unknown>

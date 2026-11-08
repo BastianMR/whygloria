@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 14 (2021)"
+title: "Resolución N° 31 (2021)"
 description: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 ## COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021.

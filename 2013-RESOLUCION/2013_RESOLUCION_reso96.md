@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1055 (2013)"
+title: "Resolución N° 96 (2013)"
 description: "adjudicación, deberá consignarse'."
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 adjudicación, deberá consignarse'.

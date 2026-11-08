@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE249513
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Agrícola Ganadero y el Servicio de Impuestos Internos.

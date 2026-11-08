@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 56 (2020)"
+title: "Resolución N° 50 (2020)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

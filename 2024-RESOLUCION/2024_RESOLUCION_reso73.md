@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE AVALUACIONES GE281212
 
 RESOLUCIÓN EXENTA SII N° 73.-

@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 MATERIA: Otorga condonación sobre las multas infraccionales en los casos que se señalan.
 
 ## SANTIAGO, 21 de marzo de 2018

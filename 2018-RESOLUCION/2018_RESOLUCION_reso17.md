@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 MAT: Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero.
 
 SANTIAGO, 20 DE FEBRERO DE 2018

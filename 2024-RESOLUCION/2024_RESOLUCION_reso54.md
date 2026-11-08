@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 28 (2024)"
+title: "Resolución N° 54 (2024)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395

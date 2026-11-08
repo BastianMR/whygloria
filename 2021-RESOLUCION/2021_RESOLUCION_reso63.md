@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 146 (2021)"
+title: "Resolución N° 63 (2021)"
 description: "MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES."
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.

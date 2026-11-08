@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1055 (2024)"
+title: "Resolución N° 79 (2024)"
 description: "SANTIAGO, 23 DE AGOSTO DE 2024."
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SANTIAGO, 23 DE AGOSTO DE 2024.

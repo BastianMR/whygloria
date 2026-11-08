@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 41 (2019)"
+title: "Resolución N° 56 (2019)"
 description: "MAT.: Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan ..."
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 MAT.: Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 41 de 2018.

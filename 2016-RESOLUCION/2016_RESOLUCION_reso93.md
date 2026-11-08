@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 49 (2016)"
+title: "Resolución N° 93 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 350 -SDAC -1016"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 350 -SDAC -1016

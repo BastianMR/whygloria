@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## Anexos:
 
 * -Anexo 1: Planos de precios de terrenos

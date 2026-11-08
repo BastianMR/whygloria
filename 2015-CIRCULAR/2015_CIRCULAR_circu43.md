@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 25 (2015)"
+title: "Circular N° 43 (2015)"
 description: "Complementada por Circular N° 25, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
 ---
+
 
 
 ## Complementada por Circular N° 25, del 3 de mayo de 2016

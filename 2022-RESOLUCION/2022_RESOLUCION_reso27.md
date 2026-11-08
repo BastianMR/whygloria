@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755
 
 Instruye sobre la obligación de informar los activos relevantes del empresario que se incorporan al giro de la empresa individual de acuerdo a lo dispuesto en el inciso cuarto del artículo 68 del Código Tributario.

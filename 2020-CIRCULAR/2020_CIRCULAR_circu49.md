@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Subdirección Normativa, Depto. Técnica Tributaria** | **CIRCULAR N° 49** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 20 DE JULIO DE 2020 |

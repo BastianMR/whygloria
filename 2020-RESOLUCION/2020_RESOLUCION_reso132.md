@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 63 (2020)"
+title: "Resolución N° 132 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

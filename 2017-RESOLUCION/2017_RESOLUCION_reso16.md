@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2017_RESOLUCION_reso16"
+title: "Resolución N° 16 (2017)"
 description: "Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980, de Hacienda; en los artícu..."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## VISTOS:

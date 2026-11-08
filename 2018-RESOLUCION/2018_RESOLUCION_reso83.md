@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 54 (2018)"
+title: "Resolución N° 83 (2018)"
 description: "Subdirección de Fiscalización DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## Subdirección de Fiscalización DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

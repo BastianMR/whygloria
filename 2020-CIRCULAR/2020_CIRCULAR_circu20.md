@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 09.2020 CIRC SN 04.2020 CIRC ID** | **CIRCULAR N° 20** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 de marzo de 2020 |

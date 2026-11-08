@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 043-2014 II (008-2014 Circ-SN)
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 80.-** |

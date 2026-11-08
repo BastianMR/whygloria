@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR Impuestos Directos** | **CIRCULAR N° 43** |
 | --- | --- |
 | SISTEMADE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 DEJUNIODE 2020 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 123 (2019)"
+title: "Resolución N° 130 (2019)"
 description: "AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019.

@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 <unknown>
 
 -Diario oficial en extracto.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 142 (2022)"
+title: "Resolución N° 93 (2022)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES GE224790"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES GE224790

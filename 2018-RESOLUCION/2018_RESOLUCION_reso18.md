@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 129 (2018)"
+title: "Resolución N° 18 (2018)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA.

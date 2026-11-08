@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2020)"
+title: "Resolución N° 17 (2020)"
 description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE

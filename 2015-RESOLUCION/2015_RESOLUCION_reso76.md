@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2015)"
+title: "Resolución N° 76 (2015)"
 description: "MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003.

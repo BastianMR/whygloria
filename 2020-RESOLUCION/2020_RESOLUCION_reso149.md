@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 123 (2020)"
+title: "Resolución N° 149 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## Distribución

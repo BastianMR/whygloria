@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 74 (2022)"
+title: "Resolución N° 53 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE198200"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 <unknown>

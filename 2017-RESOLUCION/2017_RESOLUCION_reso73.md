@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2017)"
+title: "Resolución N° 73 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°503-496-497-490-SDF/2017 Folios N°3820-3776-2797-3210-3664/2017"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°503-496-497-490-SDF/2017 Folios N°3820-3776-2797-3210-3664/2017

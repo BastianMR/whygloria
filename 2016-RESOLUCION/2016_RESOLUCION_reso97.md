@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 119 (2016)"
+title: "Resolución N° 97 (2016)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES 600-SDF-2016 77316078349 3336-3339-16"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES 600-SDF-2016 77316078349 3336-3339-16

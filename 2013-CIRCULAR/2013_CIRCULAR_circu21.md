@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 50 (2013)"
+title: "Circular N° 21 (2013)"
 description: "Dejada sin efecto por Circular N° 50, del 20 de julio de 2016"
 tags: [SII, 2013, circular]
 ---
+
 
 
 ## Dejada sin efecto por Circular N° 50, del 20 de julio de 2016

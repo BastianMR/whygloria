@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 71 (2016)"
+title: "Circular N° 67 (2016)"
 description: "Complementada por Circular Nº 71, del 29 de diciembre de 2016"
 tags: [SII, 2016, circular]
 ---
+
 
 
 Complementada por Circular Nº 71, del 29 de diciembre de 2016

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 98 (2016)"
+title: "Resolución N° 65 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

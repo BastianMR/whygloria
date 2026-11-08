@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 147 (2019)"
+title: "Resolución N° 103 (2019)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES

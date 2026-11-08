@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Impuestos Directos** | **CIRCULAR N° 45 27.2020 SN 20.2020 ID** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 07 DE JULIO DE 2020 |

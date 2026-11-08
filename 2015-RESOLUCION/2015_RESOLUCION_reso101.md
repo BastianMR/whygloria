@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 112 (2015)"
+title: "Resolución N° 101 (2015)"
 description: "MATERIA: Fija plazo para presentación de declaraciones juradas que se indican."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 MATERIA: Fija plazo para presentación de declaraciones juradas que se indican.

@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en el N°3 de la Letra D) del Artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020.
 
 ## SANTIAGO, 31 DE MARZO DE 2021

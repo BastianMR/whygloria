@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE222050
 
 MATERIA: Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo.

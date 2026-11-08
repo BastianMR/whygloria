@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Addendum Modificación Convenio Intercambio de Información y Colaboración entre el Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos.

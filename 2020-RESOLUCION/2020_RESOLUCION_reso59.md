@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias.
 
 SANTIAGO, 01 DE JUNIO DE 2020.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 28 (2018)"
+title: "Resolución N° 127 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

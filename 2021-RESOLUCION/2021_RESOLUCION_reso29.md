@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 MATERIA: Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica.
 
 SANTIAGO, 9 DE MARZO DE 2021

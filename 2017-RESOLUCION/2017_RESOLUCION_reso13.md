@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2017_RESOLUCION_reso13"
+title: "Resolución N° 13 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

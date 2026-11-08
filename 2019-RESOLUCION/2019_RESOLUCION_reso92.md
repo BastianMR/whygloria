@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 3 (2019)"
+title: "Resolución N° 92 (2019)"
 description: "fecha 14 de enero de 2019, en el siguiente sentido:"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 fecha 14 de enero de 2019, en el siguiente sentido:

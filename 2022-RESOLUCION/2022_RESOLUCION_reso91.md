@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00211053
 
 Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Promoción de la Inversión Extranjera y el Servicio de Impuestos Internos.

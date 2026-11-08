@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES
 
 Santiago, 23 Agosto 2017 Hoy se ha resuelto lo que sigue RESOLUCIÓN EX. SII N°76

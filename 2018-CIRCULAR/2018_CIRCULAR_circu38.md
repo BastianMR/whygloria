@@ -6,6 +6,7 @@ tags: [SII, 2018, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR:** | **CIRCULAR Nº 38 .-** |
 | --- | --- |
 | -DEPARTAMENTO DE ASESORÍA JURÍDICA. -DEPARTAMENTO DE DEFENSA JUDICIAL PENAL |  |

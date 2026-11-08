@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198769
 
 MATERIA: Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamento.

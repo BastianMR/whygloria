@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos.
 
 SANTIAGO, 14 DE OCTUBRE DE 2021.

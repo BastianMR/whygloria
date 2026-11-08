@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00190311
 
 MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría del Interior y el Servicio de Impuestos Internos.

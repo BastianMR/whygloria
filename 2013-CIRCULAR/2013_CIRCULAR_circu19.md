@@ -6,6 +6,7 @@ tags: [SII, 2013, circular]
 ---
 
 
+
 1875
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 19 80-2012 ID 07-2012 SN Circ.** |

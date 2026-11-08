@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00224776
 
 Aprueba Addendum al Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuestos y el Servicio de Impuestos Internos.

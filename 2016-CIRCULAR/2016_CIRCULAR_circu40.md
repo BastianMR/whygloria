@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 11 (2016)"
+title: "Circular N° 40 (2016)"
 description: "Complementada por Circular N° 11, del 30 de enero de 2025"
 tags: [SII, 2016, circular]
 ---
+
 
 
 Complementada por Circular N° 11, del 30 de enero de 2025

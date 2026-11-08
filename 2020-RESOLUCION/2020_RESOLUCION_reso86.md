@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 71 (2020)"
+title: "Resolución N° 86 (2020)"
 description: "DESIGNACIÓN DE OFICIAL DE CUMPLIMIENTO TITULAR Y SUPLENTE PARA LA COORDINACIÓN E IMPLEMENTACIÓN DEL SISTEMA PREVENTIVO CONTRA DELITOS FUNCIONARIOS, LAVADO DE..."
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 <unknown>

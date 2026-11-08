@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2017_RESOLUCION_reso10"
+title: "Resolución N° 10 (2017)"
 description: "VVS/MDA/RPA/RGV/mbu Distribución:"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 VVS/MDA/RPA/RGV/mbu Distribución:

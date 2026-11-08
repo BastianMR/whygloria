@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos.
 
 ## SANTIAGO, 19 DE DICIEMBRE DE 2024

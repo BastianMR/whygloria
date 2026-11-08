@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°33 GE00307631** |
 | --- | --- |
 | SISTEMAS DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 DE ABRIL DE 2025 |

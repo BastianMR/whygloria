@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 149 (2019)"
+title: "Resolución N° 17 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 9 (2022)"
+title: "Resolución N° 83 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022.
@@ -119,12 +120,12 @@ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 |  |  |  | VOLKSWAGEN |  |  |  |  |  | Diésel | Mecánica |  |  | Full |
 | CT5430036 | 2021 | Camioneta | RAM | 700 | BIGHORN CD | 4 | 1400 | 128 | Bencina | Mecanica 5 | 4x2 (2WD) | BRASIL |  |
 | HB0770209 | 2021 | Hatchback | FIAT | 500 | SPORT CABRIO LIKE | 4 5 | 1400 | 95 | Bencina Mecanica | 5 | 4x2 (2WD) 4x2 (2WD) | BRASIL BRASIL |  |
-| HB0770210 | 2021 | Hatchback | FIAT | MOBI | 1.5 TSI AT - STYLE |  | 1000 1500 | 73 | Bencina | Mecanica 5 |  | REPÃšBLICA |  |
+| HB0770210 | 2021 | Hatchback | FIAT | MOBI | 1.5 TSI AT - STYLE |  | 1000 1500 | 73 | Bencina | Mecanica 5 |  | REPÚBLICA |  |
 | HB2210039 SU0130119 | 2021 2021 | Hatchback Suv | SKODA AUDI | SCALA Q7 | PI 55 TFSI (7P) | 5 7 | 3000 | 150 | Bencina Automatica | 7 | 4x2 (2WD) | CHECA |  |
 | SU0130120 | 2021 | Suv | AUDI | Q7 | PI 55 TFSI SPORT (5P) | 5 | 3000 | 340 Bencina 340 | Automatica Bencina Automatica | 8 8 | 4x4 (AWD) 4x4 (AWD) | ALEMANIA ALEMANIA |  |
 | SU0130121 | 2021 | Suv | AUDI | Q7 | PI 55 TFSI SPORT (7P) | 7 | 3000 | 340 Bencina | Automatica | 8 | 4x4 (AWD) | ALEMANIA |  |
 | SU2130010 | 2021 | Suv | SEAT | TARRACO | XCELLENCE 1.4 TSI DSG 6 | 5 | 1400 | 150 | Bencina | Automatica | 6 4x2 (2WD) | ALEMANIA |  |
-|  |  |  |  |  |  |  |  |  | Automatica |  |  | REPÃšBLICA |  |
+|  |  |  |  |  |  |  |  |  | Automatica |  |  | REPÚBLICA |  |
 | SU2210068 | 2021 | Suv | SKODA | KAMIQ | 1.5 TSI AT - STYLE | 5 | 1500 | 150 Bencina |  | 7 | 4x2 (2WD) | CHECA |  |
 
 | **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas** | **Tracción** | **Equipamiento** |

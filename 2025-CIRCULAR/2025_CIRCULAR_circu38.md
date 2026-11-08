@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR Subdirección de Asistencia al Contribuyente Departamento deCiclo de Vida Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°38.- GE320525** |
 | --- | --- |
 | SISTEMADEPUBLICACIONESADMINISTRATIVAS | FECHA: 30 DE ABRIL DE 2025. |

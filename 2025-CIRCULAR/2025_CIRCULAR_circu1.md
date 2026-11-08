@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº01.- 305745.2024 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 02 DE ENERO DE 2025 |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 379 (2016)"
+title: "Resolución N° 11 (2016)"
 description: "Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013."
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso47"
+title: "Resolución N° 47 (2015)"
 description: "MATERIA: Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación esta..."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 MATERIA: Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 13 bis del D.L. N° 828, de 1974.

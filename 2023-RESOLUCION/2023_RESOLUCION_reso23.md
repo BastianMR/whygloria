@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 48 (2023)"
+title: "Resolución N° 23 (2023)"
 description: "SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678

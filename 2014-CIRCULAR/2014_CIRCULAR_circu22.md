@@ -6,6 +6,7 @@ tags: [SII, 2014, circular]
 ---
 
 
+
 11
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 22 06-2012 SN (Circ) 67-2012 ID** |

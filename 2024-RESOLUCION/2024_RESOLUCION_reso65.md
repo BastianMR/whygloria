@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 48 (2024)"
+title: "Resolución N° 65 (2024)"
 description: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018."
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018.

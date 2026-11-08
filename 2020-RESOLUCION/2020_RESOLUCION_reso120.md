@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 110 (2020)"
+title: "Resolución N° 120 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

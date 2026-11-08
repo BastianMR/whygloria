@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 Subdirección de Fiscalización Departamento de Análisis Selectivo del Cumplimiento Tributario
 
 MAT. : Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016.

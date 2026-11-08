@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 MATERIA: Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020.
 
 SANTIAGO, 03 DE ABRIL DE 2020

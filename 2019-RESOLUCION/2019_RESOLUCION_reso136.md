@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo.
 
 ## SANTIAGO, 09 DE DICIEMBRE DE 2019

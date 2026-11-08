@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 13 (2017)"
+title: "Resolución N° 77 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS

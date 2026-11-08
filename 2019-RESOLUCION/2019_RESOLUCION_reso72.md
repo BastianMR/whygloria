@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: a prueba Adendum Anexo al Convenio de Colaboración Servicio de impuestos internos y Agencia Nacional de Inteligencia.

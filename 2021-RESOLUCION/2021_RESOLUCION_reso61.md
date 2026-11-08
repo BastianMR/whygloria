@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos.
 
 SANTIAGO, 14 DE JUNIO DE 2021

@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE231616
 
 MAT: Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria.

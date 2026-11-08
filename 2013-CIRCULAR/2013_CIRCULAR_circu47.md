@@ -6,6 +6,7 @@ tags: [SII, 2013, circular]
 ---
 
 
+
 | **SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA** | **CIRCULAR N° 47.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA, 26 de septiembre de 2013.- |

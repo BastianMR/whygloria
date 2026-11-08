@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547
 
 MATERIA: Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos.

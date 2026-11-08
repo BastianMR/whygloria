@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 293 (2019)"
+title: "Resolución N° 43 (2019)"
 description: "SUPERINTENDENCIA DE SALUD RESOLUCIÓN SS/N° 293 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 43 TESORERÍA GENERAL DE LA REPÚBLICA CIRCULAR CONJUNTA N° 5"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 Si

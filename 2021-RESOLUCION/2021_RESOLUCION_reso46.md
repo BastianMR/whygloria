@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 50 (2021)"
+title: "Resolución N° 46 (2021)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274"
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274

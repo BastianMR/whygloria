@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00172250
 
 MATERIA: Aprueba Modificación de Convenio de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos.

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 142 (2023)"
+title: "Resolución N° 6 (2023)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES GE00234258"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES GE00234258

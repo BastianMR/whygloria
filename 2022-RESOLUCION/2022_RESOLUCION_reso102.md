@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198216
 
 Aprueba convenio de intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago A.G.

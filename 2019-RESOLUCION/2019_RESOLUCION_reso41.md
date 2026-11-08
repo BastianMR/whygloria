@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 3409 (2019)"
+title: "Resolución N° 41 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL SERVICIO DE IMPUESTOS INTERNOS TESORERÍA GENERAL DE LA REPÚBLICA"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 Si

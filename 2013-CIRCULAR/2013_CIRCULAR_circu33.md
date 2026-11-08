@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 68 (2013)"
+title: "Circular N° 33 (2013)"
 description: "Complementada por Circular N° 68, del 26 de diciembre de 2014"
 tags: [SII, 2013, circular]
 ---
+
 
 
 Complementada por Circular N° 68, del 26 de diciembre de 2014

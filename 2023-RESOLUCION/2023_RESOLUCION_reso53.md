@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE196713
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Educación y el Servicio de Impuestos Internos.

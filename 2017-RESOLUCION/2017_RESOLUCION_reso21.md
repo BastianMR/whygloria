@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO.
 
 Santiago, 10 de febrero de 2017 Hoy se ha resuelto lo que sigue: RESOLUCIÓN EXENTA SII N° 21/

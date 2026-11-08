@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso121"
+title: "Resolución N° 121 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL

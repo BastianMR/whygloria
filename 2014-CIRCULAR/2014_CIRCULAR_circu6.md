@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 108 (2014)"
+title: "Circular N° 6 (2014)"
 description: "DEPARTAMENTO EMISOR | CIRCULAR N°: 6.- |"
 tags: [SII, 2014, circular]
 ---
+
 
 
 | **DEPARTAMENTO EMISOR** | **CIRCULAR N°: 6.-** |

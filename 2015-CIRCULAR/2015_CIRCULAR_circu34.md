@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 23 (2015)"
+title: "Circular N° 34 (2015)"
 description: "Modificada por Circular N° 23, del 3 de mayo de 2016 Modificada por Circular N° 12, del 17 de febrero de 2021 Dejada sin efecto por Circular N° 35, del 30 de..."
 tags: [SII, 2015, circular]
 ---
+
 
 
 Modificada por Circular N° 23, del 3 de mayo de 2016 Modificada por Circular N° 12, del 17 de febrero de 2021 Dejada sin efecto por Circular N° 35, del 30 de abril de 2025

@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 08.2020 SN 03.2020 ID** | **CIRCULAR N° 22** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 30 de marzo de 2020 |

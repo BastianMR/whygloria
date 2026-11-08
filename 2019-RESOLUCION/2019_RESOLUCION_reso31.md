@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile.
 
 ## SANTIAGO, 25 DE FEBRERO 2019

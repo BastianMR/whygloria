@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 59 (2014)"
+title: "Circular N° 14 (2014)"
 description: "Modificada por Circular N° 59, del 14 de noviembre de 2014"
 tags: [SII, 2014, circular]
 ---
+
 
 
 ## Modificada por Circular N° 59, del 14 de noviembre de 2014

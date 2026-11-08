@@ -6,6 +6,7 @@ tags: [SII, 2018, circular]
 ---
 
 
+
 ## DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA
 
 CIRCULAR N° 52.-

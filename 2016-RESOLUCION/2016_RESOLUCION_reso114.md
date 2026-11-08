@@ -6,6 +6,7 @@ tags: [SII, 2016, resolucion]
 ---
 
 
+
 MATERIA: Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017.
 
 ## SANTIAGO, 26 de diciembre de 2016

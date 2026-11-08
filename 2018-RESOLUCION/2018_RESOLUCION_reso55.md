@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 124 (2018)"
+title: "Resolución N° 55 (2018)"
 description: "MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
 tags: [SII, 2018, resolucion]
 ---
+
 
 
 MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017.

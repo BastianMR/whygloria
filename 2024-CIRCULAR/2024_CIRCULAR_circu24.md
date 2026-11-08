@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 38 (2024)"
+title: "Circular N° 24 (2024)"
 description: "Modificada por Circular N° 38, del 30 de abril de 2025"
 tags: [SII, 2024, circular]
 ---
+
 
 
 ## Modificada por Circular N° 38, del 30 de abril de 2025

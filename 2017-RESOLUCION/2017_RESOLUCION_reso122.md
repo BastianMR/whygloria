@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2017_RESOLUCION_reso122"
+title: "Resolución N° 122 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y

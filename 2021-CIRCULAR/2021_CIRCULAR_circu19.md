@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 19 178657.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 01 DEABRIL DE 2021 |

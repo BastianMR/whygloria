@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1 (2015)"
+title: "Resolución N° 61 (2015)"
 description: "AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA.

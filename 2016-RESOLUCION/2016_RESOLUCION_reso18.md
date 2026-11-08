@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 174 (2016)"
+title: "Resolución N° 18 (2016)"
 description: "SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN JURÍDICA

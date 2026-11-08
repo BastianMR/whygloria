@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente.
 
 ## SANTIAGO, 28 DE OCTUBRE 2019

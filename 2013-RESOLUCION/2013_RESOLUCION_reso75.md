@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 349 (2013)"
+title: "Resolución N° 75 (2013)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

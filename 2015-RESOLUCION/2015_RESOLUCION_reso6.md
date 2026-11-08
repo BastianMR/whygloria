@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso6"
+title: "Resolución N° 6 (2015)"
 description: "Servicio de Impuestos Internos Subdirección de Estudios"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## Servicio de Impuestos Internos Subdirección de Estudios

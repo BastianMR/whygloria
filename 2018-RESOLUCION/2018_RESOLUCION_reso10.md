@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G..
 
 ## SANTIAGO, 30 DE ENERO 2018

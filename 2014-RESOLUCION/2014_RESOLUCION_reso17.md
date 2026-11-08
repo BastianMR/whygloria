@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2014_RESOLUCION_reso17"
+title: "Resolución N° 17 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL

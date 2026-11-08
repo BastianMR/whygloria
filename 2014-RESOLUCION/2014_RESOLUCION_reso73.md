@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2014_RESOLUCION_reso73"
+title: "Resolución N° 73 (2014)"
 description: "SUBDIRECCIÓN DE ESTUDIOS"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ESTUDIOS

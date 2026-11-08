@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 33 (2023)"
+title: "Resolución N° 126 (2023)"
 description: "SUBDIRECCIÓN ASUNTOS CORPORATIVOS Oficina de Transparencia y Acceso a la Información"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN ASUNTOS CORPORATIVOS Oficina de Transparencia y Acceso a la Información

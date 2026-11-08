@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 24 (2015)"
+title: "Circular N° 41 (2015)"
 description: "Modificada por Circular Nº 24, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
 ---
+
 
 
 Modificada por Circular Nº 24, del 3 de mayo de 2016

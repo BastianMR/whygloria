@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00197579
 
 Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo.

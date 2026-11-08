@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 8 (2020)"
+title: "Resolución N° 22 (2020)"
 description: "MODIFICA SUBROGANCIA DE SECRETARÍA GENERAL"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 SECRETARIA GENERAL

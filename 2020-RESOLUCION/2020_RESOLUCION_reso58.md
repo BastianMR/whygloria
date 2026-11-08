@@ -6,6 +6,7 @@ tags: [SII, 2020, resolucion]
 ---
 
 
+
 MATERIA: Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017.
 
 ## SANTIAGO, 29 DE MAYO DE 2020.

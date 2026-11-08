@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 24 (2023)"
+title: "Resolución N° 134 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979

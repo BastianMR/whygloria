@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 6 (2024)"
+title: "Resolución N° 98 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

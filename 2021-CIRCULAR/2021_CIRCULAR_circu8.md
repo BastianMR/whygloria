@@ -6,6 +6,7 @@ tags: [SII, 2021, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa Subdirección Normativa** | **CIRCULAR N°8.- 175427.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE FEBRERO DE 2021 |

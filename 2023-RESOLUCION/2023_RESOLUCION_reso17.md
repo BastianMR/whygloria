@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE 227667
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Turismo, el Servicio Nacional de Turismo y el Servicio de Impuestos Internos.

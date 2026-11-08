@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 53 (2015)"
+title: "Resolución N° 71 (2015)"
 description: "Al Diario Oficial (en extracto)"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## DISTRIBUCIÓN:

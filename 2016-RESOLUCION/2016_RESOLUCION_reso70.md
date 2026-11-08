@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 50 (2016)"
+title: "Resolución N° 70 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016

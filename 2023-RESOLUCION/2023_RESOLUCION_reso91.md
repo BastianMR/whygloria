@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 MATERIA Crea el Archivo Histórico Institucional del Servicio de Impuestos internos.
 
 ## SANTIAGO, 23 DE AGOSTO DE 2023 RESOLUCIÓN EXENTA SII N°91.-

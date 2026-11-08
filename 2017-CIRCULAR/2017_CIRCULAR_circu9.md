@@ -6,6 +6,7 @@ tags: [SII, 2017, circular]
 ---
 
 
+
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS
 
 1875

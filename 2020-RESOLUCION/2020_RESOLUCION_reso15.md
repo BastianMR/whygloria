@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 139 (2020)"
+title: "Resolución N° 15 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1 (2015)"
+title: "Resolución N° 83 (2015)"
 description: "MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARA..."
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 contribuyente;

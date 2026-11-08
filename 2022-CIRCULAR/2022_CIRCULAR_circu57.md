@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones** | **CIRCULARN°57.- GE206755** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:26DEDICIEMBREDE2022 |

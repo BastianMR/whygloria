@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR N° 50.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA, 20 de julio de 2016.- |

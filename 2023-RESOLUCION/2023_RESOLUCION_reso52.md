@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 39 (2023)"
+title: "Resolución N° 52 (2023)"
 description: "MAT.: Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan ..."
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 MAT.: Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Revoca Resolución Exenta SII N° 39, de 2022.

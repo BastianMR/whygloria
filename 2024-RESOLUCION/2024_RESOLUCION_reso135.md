@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 ## FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024
 
 Hoy se ha resuelto lo que sigue:

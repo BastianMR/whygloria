@@ -6,6 +6,7 @@ tags: [SII, 2019, resolucion]
 ---
 
 
+
 DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA.
 
 Santiago, 15 de octubre 2019

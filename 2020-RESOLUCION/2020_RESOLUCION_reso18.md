@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2020_RESOLUCION_reso18"
+title: "Resolución N° 18 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

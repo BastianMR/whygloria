@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2020_RESOLUCION_reso31"
+title: "Resolución N° 31 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

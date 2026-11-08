@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00198028
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Geología y Minería y el Servicio de Impuestos Internos.

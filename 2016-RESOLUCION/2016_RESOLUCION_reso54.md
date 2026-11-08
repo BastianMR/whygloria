@@ -6,6 +6,7 @@ tags: [SII, 2016, resolucion]
 ---
 
 
+
 MATERIA: Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de importaciones de mercancías entre partes relacionadas.
 
 ## SANTIAGO, 17 de junio de 2016 Hoy se ha resuelto lo que sigue: RESOLUCION EXENTA SII N° 54 RESOLUCION EXENTA SNA N° 3637

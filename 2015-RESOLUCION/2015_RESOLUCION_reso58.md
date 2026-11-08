@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 125 (2015)"
+title: "Resolución N° 58 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

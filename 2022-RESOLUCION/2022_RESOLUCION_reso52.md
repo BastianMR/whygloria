@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198150
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Empresa Información Comercial Limitada y el Servicio de Impuestos Internos.

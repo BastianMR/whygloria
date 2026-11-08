@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 21 (2023)"
+title: "Resolución N° 38 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 |

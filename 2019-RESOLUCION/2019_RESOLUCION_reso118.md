@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 37 (2019)"
+title: "Resolución N° 118 (2019)"
 description: "Subdirección de Administración Depto. de Adquisiciones"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## Subdirección de Administración Depto. de Adquisiciones

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 123 (2019)"
+title: "Resolución N° 145 (2019)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE AVALUACIONES

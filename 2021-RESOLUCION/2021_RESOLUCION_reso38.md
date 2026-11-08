@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 
 Establece forma en que los contribuyentes podrán acogerse y la forma de acreditar los ajustes respectivos, conforme al artículo trigésimo segundo transitorio de la Ley N° 21.210, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen corresponda a diferencias en la determinación del capital propio tributario informado al Servicio de Impuestos Internos.

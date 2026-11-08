@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 MATERIA : Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas y la forma de emitir el giro correspondiente.
 
 SANTIAGO, 9 de abril 2018

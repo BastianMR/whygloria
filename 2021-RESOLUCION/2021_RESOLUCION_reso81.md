@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos.
 
 SANTIAGO, 09 DE JULIO DE 2021.

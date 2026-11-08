@@ -6,6 +6,7 @@ tags: [SII, 2020, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT** | **CIRCULAR N° 21** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 de marzo de 2020 |

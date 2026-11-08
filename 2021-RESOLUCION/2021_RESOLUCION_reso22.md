@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 123 (2021)"
+title: "Resolución N° 22 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 SUBDIRECCIÓN DE FISCALIZACIÓN

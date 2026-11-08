@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 5028 (2022)"
+title: "Resolución N° 1 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA"
 tags: [SII, 2022, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA

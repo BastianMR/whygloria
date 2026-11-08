@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº32.- GE00310456** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 DE ABRIL DE 2025 |

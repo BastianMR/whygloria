@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 
 VVS/MDA/RPA/JJM/OBA/mbu Distribución:

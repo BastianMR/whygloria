@@ -6,6 +6,7 @@ tags: [SII, 2022, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE216292
 
 Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos.

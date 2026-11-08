@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 109 (2014)"
+title: "Resolución N° 32 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL

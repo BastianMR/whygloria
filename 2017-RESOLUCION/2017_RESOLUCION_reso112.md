@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 128 (2017)"
+title: "Resolución N° 112 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°601-615 SDF-2017 Folio N°5041 5350-2017"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°601-615 SDF-2017 Folio N°5041 5350-2017

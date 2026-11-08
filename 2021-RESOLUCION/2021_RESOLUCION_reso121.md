@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 110 (2021)"
+title: "Resolución N° 121 (2021)"
 description: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
 tags: [SII, 2021, resolucion]
 ---
+
 
 
 <unknown>

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1600 (2017)"
+title: "Resolución N° 26 (2017)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia."
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia.

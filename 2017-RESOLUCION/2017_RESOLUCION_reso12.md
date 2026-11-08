@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 46 (2017)"
+title: "Resolución N° 12 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

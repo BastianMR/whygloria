@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 ## MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA.
 
 Santiago, 27 diciembre 2018

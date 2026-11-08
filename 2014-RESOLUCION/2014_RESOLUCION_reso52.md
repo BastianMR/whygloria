@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 9 (2014)"
+title: "Resolución N° 52 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA

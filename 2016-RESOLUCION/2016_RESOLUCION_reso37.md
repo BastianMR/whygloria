@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 349 (2016)"
+title: "Resolución N° 37 (2016)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE AVALUACIONES

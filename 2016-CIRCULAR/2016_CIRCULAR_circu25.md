@@ -6,6 +6,7 @@ tags: [SII, 2016, circular]
 ---
 
 
+
 25
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 25 .-** |

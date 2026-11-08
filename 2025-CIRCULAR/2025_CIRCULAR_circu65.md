@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Normas** | **CIRCULAR N°65.- 332912.2025 GE 334817.2025 GE** |
 | --- | --- |
 | Internacionales |  |

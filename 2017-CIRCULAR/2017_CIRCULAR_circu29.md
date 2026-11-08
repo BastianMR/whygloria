@@ -1,9 +1,10 @@
 ---
 type: "SII Circular"
-title: "Circular N° 3 (2017)"
+title: "Circular N° 29 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS"
 tags: [SII, 2017, circular]
 ---
+
 
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 3411 (2019)"
+title: "Resolución N° 44 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL"
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 SUPERINTENDENCIA DE SEGURIDAD SOCIAL

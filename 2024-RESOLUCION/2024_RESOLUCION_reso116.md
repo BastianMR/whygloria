@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 68 (2024)"
+title: "Resolución N° 116 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592

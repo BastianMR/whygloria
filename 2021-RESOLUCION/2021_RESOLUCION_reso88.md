@@ -6,6 +6,7 @@ tags: [SII, 2021, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto Forestal y el Servicio de Impuestos Internos.

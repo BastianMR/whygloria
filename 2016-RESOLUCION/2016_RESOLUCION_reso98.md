@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2016_RESOLUCION_reso98"
+title: "Resolución N° 98 (2016)"
 description: "DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2016, resolucion]
 ---
+
 
 
 ## DELEGA FACULTAD QUE INDICA.

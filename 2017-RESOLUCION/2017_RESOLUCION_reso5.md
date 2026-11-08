@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2017_RESOLUCION_reso5"
+title: "Resolución N° 5 (2017)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 tags: [SII, 2017, resolucion]
 ---
+
 
 
 ## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA

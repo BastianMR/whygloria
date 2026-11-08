@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 029-2015 II (009-2015 Circ-SN)
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 42.-** |

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 1040 (2014)"
+title: "Resolución N° 94 (2014)"
 description: "Subdirección Contraloría Interna"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## Subdirección Contraloría Interna

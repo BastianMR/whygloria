@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2015_RESOLUCION_reso2"
+title: "Resolución N° 2 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE AVALUACIONES

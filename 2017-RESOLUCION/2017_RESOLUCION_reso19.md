@@ -6,6 +6,7 @@ tags: [SII, 2017, resolucion]
 ---
 
 
+
 ## DELEGA FACULTAD QUE INDICA.
 
 ## SANTIAGO, 10 de febrero de 2017

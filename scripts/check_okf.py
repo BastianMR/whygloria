@@ -37,9 +37,14 @@ def clean_description(text: str) -> str:
 
 
 def extract_title(body: str, doc_type: str, year: str, fallback: str) -> str:
+    label = "Circular" if "Circular" in doc_type else "Resolución"
+    # The filename suffix carries the document number; prefer it over body text,
+    # which often cites other resolutions before its own number.
+    from_name = re.search(r"(?:circu|reso)(\d+)", fallback, re.IGNORECASE)
+    if from_name:
+        return f"{label} N° {int(from_name.group(1))} ({year})"
     match = TITLE_RE.search(body)
     if match:
-        label = "Circular" if "Circular" in doc_type else "Resolución"
         return f"{label} N° {int(match.group(1))} ({year})"
     return fallback
 

@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 131 (2024)"
+title: "Resolución N° 102 (2024)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE290455"
 tags: [SII, 2024, resolucion]
 ---
+
 
 
 SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE290455

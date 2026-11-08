@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 379 (2015)"
+title: "Resolución N° 85 (2015)"
 description: "SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2015, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE RECURSOS HUMANOS

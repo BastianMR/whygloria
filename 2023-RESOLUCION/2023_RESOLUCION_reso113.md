@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 MATERIA : Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital 'SII -MAPAS' a la Ilustre Municipalidad de Purranque.
 
 ## SANTIAGO, 22 DE SEPTIEMBRE DE 2023.

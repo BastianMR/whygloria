@@ -6,6 +6,7 @@ tags: [SII, 2023, resolucion]
 ---
 
 
+
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 
 MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos.

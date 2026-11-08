@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 106 (2023)"
+title: "Resolución N° 148 (2023)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE267349"
 tags: [SII, 2023, resolucion]
 ---
+
 
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE267349

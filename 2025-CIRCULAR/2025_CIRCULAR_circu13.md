@@ -6,6 +6,7 @@ tags: [SII, 2025, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamentode AsesoríaJurídica** | **CIRCULAR Nº13 304267.2024 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 07 DE FEBRERO DE 2025 |

@@ -6,6 +6,7 @@ tags: [SII, 2018, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación de Actores de Chile.
 
 ## SANTIAGO, 27 DICIEMBRE 2018

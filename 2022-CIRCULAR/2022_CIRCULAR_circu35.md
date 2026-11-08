@@ -6,6 +6,7 @@ tags: [SII, 2022, circular]
 ---
 
 
+
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica** | **CIRCULAR Nº 35.- GE126944** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 04 DE AGOSTO DE 2022. |

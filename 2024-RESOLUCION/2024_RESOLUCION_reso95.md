@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Pitrufquén.
 
 ## SANTIAGO, 10 DE OCTUBRE DE 2024 RESOLUCIÓN EXENTA SII N°95.-

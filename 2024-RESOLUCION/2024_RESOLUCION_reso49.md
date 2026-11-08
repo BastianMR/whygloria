@@ -6,6 +6,7 @@ tags: [SII, 2024, resolucion]
 ---
 
 
+
 MATERIA: Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos.
 
 ## SANTIAGO, 18 DE ABRIL DE 2024 RESOLUCIÓN EX. SII N°49.-

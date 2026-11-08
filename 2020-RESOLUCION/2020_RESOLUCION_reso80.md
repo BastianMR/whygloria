@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 27 (2020)"
+title: "Resolución N° 80 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
 ---
+
 
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

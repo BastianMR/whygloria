@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 35 (2019)"
+title: "Resolución N° 45 (2019)"
 description: "FONDO NACIONAL DE SALUD RESOLUCIÓN EXENTA N° 35 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 45 TESORERÍA GENERAL DE LA REPÚBLICA CIRCULAR CONJUNTA N°..."
 tags: [SII, 2019, resolucion]
 ---
+
 
 
 Sii

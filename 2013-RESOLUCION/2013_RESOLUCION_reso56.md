@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 132 (2013)"
+title: "Resolución N° 56 (2013)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2013, resolucion]
 ---
+
 
 
 SUBDIRECCIÓN DE AVALUACIONES

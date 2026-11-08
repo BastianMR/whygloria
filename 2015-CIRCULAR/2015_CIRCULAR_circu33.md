@@ -6,6 +6,7 @@ tags: [SII, 2015, circular]
 ---
 
 
+
 | **DEPARTAMENTOEMISOR: Departamento de Asesoría Jurídica 1875** | **CIRCULAR Nº 33** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 de mayo de 2015 |

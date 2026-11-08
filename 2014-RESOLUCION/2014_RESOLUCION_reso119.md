@@ -1,9 +1,10 @@
 ---
 type: "SII Resolución"
-title: "2014_RESOLUCION_reso119"
+title: "Resolución N° 119 (2014)"
 description: "SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
 ---
+
 
 
 ## SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN
