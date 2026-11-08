@@ -1,0 +1,72 @@
+﻿---
+okf_version: "0.2"
+title: SII public tax information (circulares y resoluciones)
+description: Open collection of Chilean SII public documents, organized by year and document type.
+---
+
+# SII public tax information
+
+## 2013
+
+* [2013-CIRCULAR](../2013-CIRCULAR/) - Circulares SII 2013
+* [2013-RESOLUCION](../2013-RESOLUCION/) - Resoluciones SII 2013
+
+## 2014
+
+* [2014-CIRCULAR](../2014-CIRCULAR/) - Circulares SII 2014
+* [2014-RESOLUCION](../2014-RESOLUCION/) - Resoluciones SII 2014
+
+## 2015
+
+* [2015-CIRCULAR](../2015-CIRCULAR/) - Circulares SII 2015
+* [2015-RESOLUCION](../2015-RESOLUCION/) - Resoluciones SII 2015
+
+## 2016
+
+* [2016-CIRCULAR](../2016-CIRCULAR/) - Circulares SII 2016
+* [2016-RESOLUCION](../2016-RESOLUCION/) - Resoluciones SII 2016
+
+## 2017
+
+* [2017-CIRCULAR](../2017-CIRCULAR/) - Circulares SII 2017
+* [2017-RESOLUCION](../2017-RESOLUCION/) - Resoluciones SII 2017
+
+## 2018
+
+* [2018-CIRCULAR](../2018-CIRCULAR/) - Circulares SII 2018
+* [2018-RESOLUCION](../2018-RESOLUCION/) - Resoluciones SII 2018
+
+## 2019
+
+* [2019-CIRCULAR](../2019-CIRCULAR/) - Circulares SII 2019
+* [2019-RESOLUCION](../2019-RESOLUCION/) - Resoluciones SII 2019
+
+## 2020
+
+* [2020-CIRCULAR](../2020-CIRCULAR/) - Circulares SII 2020
+* [2020-RESOLUCION](../2020-RESOLUCION/) - Resoluciones SII 2020
+
+## 2021
+
+* [2021-CIRCULAR](../2021-CIRCULAR/) - Circulares SII 2021
+* [2021-RESOLUCION](../2021-RESOLUCION/) - Resoluciones SII 2021
+
+## 2022
+
+* [2022-CIRCULAR](../2022-CIRCULAR/) - Circulares SII 2022
+* [2022-RESOLUCION](../2022-RESOLUCION/) - Resoluciones SII 2022
+
+## 2023
+
+* [2023-CIRCULAR](../2023-CIRCULAR/) - Circulares SII 2023
+* [2023-RESOLUCION](../2023-RESOLUCION/) - Resoluciones SII 2023
+
+## 2024
+
+* [2024-CIRCULAR](../2024-CIRCULAR/) - Circulares SII 2024
+* [2024-RESOLUCION](../2024-RESOLUCION/) - Resoluciones SII 2024
+
+## 2025
+
+* [2025-CIRCULAR](../2025-CIRCULAR/) - Circulares SII 2025
+

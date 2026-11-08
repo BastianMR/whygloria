@@ -32,7 +32,8 @@ Released under the [MIT License](./LICENSE). The SII documents themselves are
 public information published by the Chilean tax authority; this repository only
 repackages them for accessibility.
 
-## OKF index
+## OKF navigation
 
-See [OKF_INDEX.md](./OKF_INDEX.md) for the list of Google Open Knowledge Format
-(OKF) repositories and tools used to work with this knowledge base.
+This repository is an [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
+bundle under `knowledge/`. Start at [knowledge/index.md](./knowledge/index.md) for
+progressive disclosure of all documents.
