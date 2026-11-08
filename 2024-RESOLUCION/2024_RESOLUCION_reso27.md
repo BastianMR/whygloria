@@ -1,0 +1,67 @@
+---
+type: SII Resolución
+title: Resolución N° 1087 (2024)
+description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE
+resource: ./2024_RESOLUCION_reso27.md.docx
+tags: [SII, 2024, resolucion]
+---
+
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE
+
+## INCUMPLIMIENTO GE 267764
+
+EXIME DEL RÉGIMEN GENERAL DE OPERACIÓN DE VENTAS DE GAS LICUADO DE PETRÓLEO, ESTABLECIDO EN RESOLUCIÓN EX. SII N° 1087, DE 1978, A CONTRIBUYENTE QUE INDICA.
+
+SANTIAGO, 14 DE FEBRERO DE 2024.
+
+RESOLUCIÓN EXENTA SII N°27.-
+
+VISTOS:
+
+Lo dispuesto en los artículos 6°, letra A), N° 1, y 88°, ambos del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en la letra b), del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el inciso cuarto del artículo 3° y el Título IV de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; el Título XIII del D.S. N° 55. de Hacienda, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974; las Resoluciones Ex. SII N o 1087, de 1978, N° 1110, de 1978, N° 74, de 2020 y N° 176 de 2020; la solicitud presentada por el contribuyente identificado más adelante, y
+
+## CONSIDERANDO:
+
+1°Que, el inciso cuarto del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), faculta a la Dirección Nacional del Servicio de Impuestos Internos para determinar que las obligaciones que afecten a los contribuyentes a que se refieren los incisos primero y segundo de la misma norma correspondan a un vendedor o prestador del servicio, o al mandatario, también respecto del impuesto que debe recargar el adquirente o el beneficiario, por las ventas o servicios que estos últimos a su vez efectúen o presten a terceros, cuando se trate de contribuyentes de difícil fiscalización.
+
+2°Que, con fecha 28 de agosto de 1978, se publicó la Resolución Ex. SII N° 1087, que impartió instrucciones sobre la emisión de facturas y otras relacionadas con el Impuesto a las Ventas y Servicios en ventas de gas licuado de petróleo, efectuadas a partir del 01.09.1978, estableciéndose entre otras materias, que el Impuesto a las Ventas y Servicios correspondiente a los valores agregados, márgenes de comercialización o descuentos otorgados para los subdistribuidores, para los agentes y para otros contribuyentes que comercien en el ramo, será para las empresas concesionarias o distribuidoras de gas licuado de petróleo, un impuesto de retención.
+
+3°Que, el resolutivo octavo de la citada resolución Ex. SII N° 1087 prescribe que el contribuyente subdistribuidor, agente u otra persona revendedora de gas licuado de petróleo, podrá solicitar a la Dirección Nacional que se le excepcione del régimen general establecido en ella.
+
+4°Que, con fecha 30 de agosto de 1978, se publicó la Resolución Ex. SII N°1110, que exime de la obligación de otorgar boletas de ventas y servicios a ciertos grupos de contribuyentes encontrándose, entre ellos, quienes vendan directamente al consumidor final gas licuado de petróleo en cilindros.
+
+5ºQue, a través de la petición administrativa de fecha 29 de noviembre de 2023, el contribuyente SOCIEDAD INVERSIONES LMC SPA, RUT N° 77.804.885-K, ha solicitado a este Servicio exceptuarse de lo dispuesto en Resolución Ex. SII N° 1087, de 1978 y permitirle operar en base al régimen general según la LIVS, eximiéndose, además, del mecanismo de retención de IVA por parte del distribuidor.
+
+El peticionario registra como actividad la venta al por menor de gas licuado en bombonas (cilindros) en comercios especializados.
+
+6°Que, la Dirección Regional Talca, dio cuenta mediante Informe N° 28, del 16 de enero de 2024, que el contribuyente cumple con los requisitos para
+
+,
+
+acceder a la excepción, realizando las verificaciones pertinentes de comportamiento tributario.
+
+7°Que, en atención a lo expuesto anteriormente este Servicio, haciendo uso de sus facultades, ha determinado acoger la solicitud del contribuyente, en la forma y condiciones que a continuación se indican.
+
+## SE RESUELVE:
+
+1°-EXÍMASE al contribuyente SOCIEDAD INVERSIONES LMC SPA, RUT N° 77.804.885-K , del régimen establecido en la Resolución Ex. SII N°1087, de 1978, quedando de esta forma sometido al régimen previsto en las disposiciones generales de la Ley sobre Impuesto a las Ventas y Servicios.
+
+En consecuencia, el contribuyente deberá emitir boletas electrónicas de ventas y servicios por las ventas de gas licuado de petróleo en cilindro, que realice directamente al consumidor final, de acuerdo con lo establecido en la Resolución Ex. SII N° 74, de 2020, y Resolución Ex N° 176, de 2020, y sus modificaciones.
+
+2°Conforme a lo anterior, la liberación contenida en la letra B) del resolutivo tercero de la Resolución Ex SII N°1110, de 1978, no resultará aplicable a SOCIEDAD INVERSIONES LMC SPA, RUT N° 77.804.885-K .
+
+3°La presente eximición comenzará a regir respecto del contribuyente señalado a contar del 1 de marzo de 2024.
+
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+
+<unknown>
+
+DIRECTORA (S)
+
+<unknown>
+
+## MSB/EMG/vaa Distribución:
+
+* Internet
+* Diario Oficial (en extracto)
+* Según corresponda

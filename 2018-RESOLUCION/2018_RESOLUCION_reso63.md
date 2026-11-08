@@ -1,0 +1,61 @@
+---
+type: SII Resolución
+title: Resolución N° 63 (2018)
+description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO 77318607274 77318611085
+resource: ./2018_RESOLUCION_reso63.md.docx
+tags: [SII, 2018, resolucion]
+---
+
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO 77318607274 77318611085
+
+AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO QUE INDICA, COMO RECEPTORAS DE PAÑALES CUYA COMERCIALIZACIÓN SEA INVIABLE.
+
+SANTIAGO, 10 DE AGOSTO 2018
+
+Hoy se ha resuelto lo que sigue:
+
+RESOLUCIÓN EX. SII Nº 63.-/
+
+VISTOS:
+
+Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6°, letra A), Nº 1, del D.L. Nº 830, de 1974; que contiene el Código Tributario, lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974; lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L. N° 825, de 1974; lo establecido en la Ley N° 19.638, publicada en el Diario Oficial con fecha 14.10.1999; lo establecido en la Ley N° 20.500, publicada en el Diario Oficial con fecha 16.02.2011; las instrucciones contenidas en la Resolución Ex. SII N° 45, de fecha 01.09.2003 ; las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 39, de 2018; y Resolución Ex. SII N° 59, de fecha 27.07.2018.
+
+## CONSIDERANDO:
+
+1° Que, mediante la Circular Nº 39, de 09 de julio de 2018, publicada en el Diario Oficial el 31 de julio de 2018, se impartieron instrucciones sobre castigo de pañales cuya comercialización se ha vuelto inviable;
+
+2° Que, de conformidad a lo establecido en el resolutivo 10° de la Resolución Ex. SII Nº 59, del 27 de julio de 2018, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el artículo 31° Nº 3 de la Ley sobre Impuesto a la Renta, en concordancia con el artículo 8° letra d) y 79° de la Ley sobre Impuesto a las Ventas y Servicios;
+
+3° Que, de conformidad a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar a Instituciones sin Fines de Lucro como Receptoras de Pañales, cuya Comercialización sea Inviable, siempre que cumplan en forma íntegra los requisitos señalados en los Resolutivos Nº 6 y 7 de dicho acto administrativo.
+
+4° Que las Instituciones individualizadas en el resolutivo 1 de la presente resolución, han solicitado autorización para ser receptoras de pañales cuya comercialización sea inviable, a fin de entregarlos a título gratuito a personas de escasos recursos o en situación de vulnerabilidad.
+
+5° Que, revisadas las solicitudes, ellas cumplen lo establecido en la Resolución Ex. SII N° 59 de 2018.
+
+## SE RESUELVE:
+
+* 1° Autorizase como Instituciones Receptoras de Pañales cuya Comercialización se ha vuelto Inviable, a las entidades que se individualizan a continuación:
+
+ÚNICO
+
+| **RAZÓN SOCIAL** | **ROL ÚNICO TRIBUTARIO** |
+| --- | --- |
+| CORPORACIÓN RED DE ALIMENTOS | 65.020.518.9 |
+| CONSEJO NACIONAL DE PROTECCIÓN A LA ANCIANIDAD | 70.113.500-8 |
+| AGRUPACIÓN DE ACCIÓN SOLIDARIA Y EDUCATIVA LA PEQUEÑA FAMILIA | 65.083.634-0 |
+
+En la oficina virtual del SII en Internet, podrá consultar la nómina de Instituciones sin Fines de Lucro Distribuidoras y Receptoras de Pañales, cuya Comercialización sea Inviable, autorizadas para recibir pañales para su entrega en forma gratuita a personas de escasos recursos o en situación de vulnerabilidad.
+
+* 2° Las instituciones autorizadas de acuerdo al resolutivo anterior, deberán cumplir lo establecido en la Resolución Ex. SII Nº 59, de 2018.
+* 3° El incumplimiento de las obligaciones que establece esta Resolución, será sancionado de conformidad a lo establecido en el artículo 109 del Código Tributario.
+* 4° La presente resolución entrará en vigencia a contar de su publicación, en extracto, en el Diario Oficial.
+
+## 'POR ORDEN DEL DIRECTOR'
+
+## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
+
+Lo que transcribo a Ud., para su conocimiento y demás fines.
+
+CGG/LVB/GMV/JBA/MDT DISTRIBUCIÓN: · Diario Oficial (Extracto) · Boletín
+
+* Internet

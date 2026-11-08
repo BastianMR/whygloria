@@ -24,7 +24,10 @@ WhyGloria/
 └── 2025-CIRCULAR/
 ```
 
-Source files are `.docx` exports of the SII public documents.
+Each `.docx` is converted to a sibling OKF markdown concept (`.md`) with
+frontmatter (`type`, `title`, `description`, `resource`, `tags`); the original
+`.docx` is kept as the `resource`. Conversion script:
+[`scripts/convert_docx_to_md.py`](./scripts/convert_docx_to_md.py).
 
 ## Purpose
 

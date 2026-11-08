@@ -1,0 +1,89 @@
+---
+type: SII Resolución
+title: Resolución N° 148 (2018)
+description: MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA.
+resource: ./2018_RESOLUCION_reso148.md.docx
+tags: [SII, 2018, resolucion]
+---
+
+## MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA.
+
+Santiago, 27 diciembre 2018
+
+Hoy se ha resuelto lo que sigue:
+
+Resolución Ex. SII N° 148.-/
+
+VISTOS:
+
+Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda; lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República y en la Resolución EX SII N° 1670, de 18.04.2017, además de lo dispuesto en la resolución EX SII N° 29, de fecha 16 de marzo de 2018; y
+
+## CONSIDERANDO:
+
+* 1° Que, de acuerdo a lo dispuesto en las letras c) e i) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, le corresponde al Director organizar, dirigir, planificar y coordinar el funcionamiento del Servicio, así como encargar al personal, además de las obligaciones y funciones propias del cargo, el cumplimiento de otras obligaciones y funciones de acuerdo con la Ley Orgánica.
+* 2° Que, mediante Resolución EX SII N° 1670, de 18.04.2017, se ha creado el Comité Directivo de Procesos y se han definido los roles de Responsables de Proceso y de Ejecutores de Procesos, determinándose sus funciones y atribuciones en el ámbito de la gestión de los procesos al interior del Servicio.
+
+3° Que, teniendo presente lo anterior y con el objetivo de lograr una mejor y adecuada gestión de los procesos, el Comité Directivo de Procesos en uso de sus facultades, ha nominado a los Responsables de Procesos que se pasa a indicar.
+
+4° Que, con la finalidad de facilitar la gestión de los procesos, se delega en las autoridades que se indican, las facultades que se señalan a continuación.
+
+## RESUELVO:
+
+1. Desígnese los siguientes Responsables de Proceso:
+
+* A. Responsable del proceso 'Auditoría Tributaria' al Jefe Departamento de Análisis Selectivo del Cumplimiento Tributario, dependiente de la Subdirección de Fiscalización.
+
+Como Responsable del Proceso 'Auditoría Tributaria', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Fiscalización.
+
+Delégase en el Subdirector de Fiscalización, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* B. Responsable del proceso 'Identificación y Análisis de Riesgos Específicos' al Jefe Departamento de Análisis Selectivo del Cumplimiento Tributario, dependiente de la Subdirección de Fiscalización.
+
+Como Responsable del Proceso 'Identificación y Análisis de Riesgos Específicos', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Fiscalización.
+
+Delégase en el Subdirector de Fiscalización, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* C. Responsable del proceso 'Operación Renta' al Jefe Departamento Sistemas de Fiscalización, dependiente de la Subdirección de Fiscalización.
+
+Como Responsable del Proceso 'Operación Renta', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Fiscalización.
+
+Delégase en el Subdirector de Fiscalización, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* D. Responsable del proceso 'Control de Gestión Institucional' al Jefe Oficina de Planificación Estratégica y Control de Gestión Institucional, dependiente de la Subdirección de Gestión Estratégica y Estudios Tributarios.
+
+Como Responsable del Proceso 'Control de Gestión Institucional', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Gestión Estratégica y Estudios Tributarios.
+
+Delégase en el Subdirector de Gestión Estratégica y Estudios Tributarios, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* E. Responsable del proceso 'Gestión de Demanda de Productos TI' al Jefe de Oficina Informática Gestión, dependiente de la Subdirección de Informática.
+
+Como Responsable del Proceso 'Gestión de Demanda de Productos TI', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Informática.
+
+Delégase en el Subdirector de Informática, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* F. Responsable del proceso 'Fortalecimiento Ético y Probidad Funcionaria' al Jefe de Departamento de Fiscalía Administrativa, dependiente de la Subdirección de Contraloría Interna.
+
+Como Responsable del Proceso 'Fortalecimiento Ético y Probidad Funcionaria', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Contraloría Interna.
+
+Delégase en el Subdirector de Contraloría Interna, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+* G. Responsable del proceso 'Inicio de Actividades' al Jefe del Departamento de Operaciones, dependiente de la Subdirección de Asistencia al Contribuyente.
+
+Como Responsable del Proceso 'Inicio de Actividades', deberá gestionar, controlar y monitorear su correcto desempeño y mejora continua, y además será supervisado por el Subdirector de Asistencia al Contribuyente.
+
+Delégase en el Subdirector de Asistencia al Contribuyente, la facultad de implementar, actualizar, modificar y especificar los flujos de procesos y/o descriptivos de procesos y/o descripción de roles y/o manuales de operación, debiendo dejar registro de las modificaciones que autorice.
+
+1. En la medida que se incorporen más procesos a la metodología y se definan nuevos Responsables para dichos procesos, estos serán incorporados a la presente resolución agregándose las responsabilidades del rol a las propias de sus cargos.
+2. La presente resolución regirá a partir de su publicación, en extracto, en el Diario Oficial.
+
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+
+## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
+
+Lo que transcribo a Ud., para conocimiento y demás fines.
+
+## Distribución:
+
+* Internet
+* Boletín
+* Diario Oficial en extracto
