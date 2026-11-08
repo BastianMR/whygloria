@@ -25,8 +25,7 @@ WhyGloria/
 ```
 
 Each document is an OKF markdown concept (`.md`) with frontmatter (`type`,
-`title`, `description`, `tags`). Conversion script:
-[`scripts/convert_docx_to_md.py`](./scripts/convert_docx_to_md.py).
+`title`, `description`, `tags`), converted from the original SII `.docx`.
 
 ## Purpose
 
