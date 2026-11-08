@@ -1,57 +1,56 @@
----
-type: SII Resolución
-title: Resolución N° 163 (2015)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
-resource: ./2015_RESOLUCION_reso53.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 163 (2015)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 tags: [SII, 2015, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-MATERIA: COMPLEMENTA RESOLUCIÓN EXENTA SII N° 163, DE FECHA 16.12.2008 QUE ESTABLECE NUEVOS FORMATOS DE DECLARACIÓN JURADA SOLICITUD DE DEVOLUCIÓN POR CAMBIO DE SUJETO DE DERECHO DEL IVA Y RESOLUCIÓN EX. SII N° 16, DE FECHA 07.02.2014, QUE MODIFICÓ RESOLUCIÓN EX. SII N°163, DE 2008.
+MATERIA: COMPLEMENTA RESOLUCIÃ“N EXENTA SII NÂ° 163, DE FECHA 16.12.2008 QUE ESTABLECE NUEVOS FORMATOS DE DECLARACIÃ“N JURADA SOLICITUD DE DEVOLUCIÃ“N POR CAMBIO DE SUJETO DE DERECHO DEL IVA Y RESOLUCIÃ“N EX. SII NÂ° 16, DE FECHA 07.02.2014, QUE MODIFICÃ“ RESOLUCIÃ“N EX. SII NÂ°163, DE 2008.
 
 SANTIAGO, 17 de junio de 2015.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° \_53.-\_\_\_\_/
+RESOLUCIÃ“N EXENTA SII NÂ° \_53.-\_\_\_\_/
 
-V I S T O S: Lo dispuesto en el artículo 6°, letra A, N° 1° del Código Tributario; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; en los incisos tercero y cuarto del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios; lo dispuesto en Resolución Ex. N° 163 de fecha 16.12.2008 y Resolución E. N° 16 de 07.02.2014
+V I S T O S: Lo dispuesto en el artÃ­culo 6Â°, letra A, NÂ° 1Â° del CÃ³digo Tributario; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el ArtÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; en los incisos tercero y cuarto del artÃ­culo 3Â° de la Ley sobre Impuesto a las Ventas y Servicios; lo dispuesto en ResoluciÃ³n Ex. NÂ° 163 de fecha 16.12.2008 y ResoluciÃ³n E. NÂ° 16 de 07.02.2014
 
 ## C O N S I D E R A N D O:
 
-1° Que, las resoluciones que establecen los cambios de sujeto de derecho del Impuesto al Valor Agregado (IVA) contemplan la opción de solicitar la devolución de los montos retenidos acumulados, y que por efecto de la aplicación de la medida de retención, no han podido ser imputados a los débitos fiscales generados en el desarrollo de su actividad.
+1Â° Que, las resoluciones que establecen los cambios de sujeto de derecho del Impuesto al Valor Agregado (IVA) contemplan la opciÃ³n de solicitar la devoluciÃ³n de los montos retenidos acumulados, y que por efecto de la aplicaciÃ³n de la medida de retenciÃ³n, no han podido ser imputados a los dÃ©bitos fiscales generados en el desarrollo de su actividad.
 
-2° Que, mediante Resolución Exenta SII N° 163, de 2008, se establecieron formatos de declaración jurada para las solicitudes de devoluciones por los cambios de sujeto establecidos, en conformidad a lo dispuesto en el inciso tercero del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, como asimismo, de los anticipos a que se refiere el inciso cuarto.
+2Â° Que, mediante ResoluciÃ³n Exenta SII NÂ° 163, de 2008, se establecieron formatos de declaraciÃ³n jurada para las solicitudes de devoluciones por los cambios de sujeto establecidos, en conformidad a lo dispuesto en el inciso tercero del artÃ­culo 3Â° de la Ley sobre Impuesto a las Ventas y Servicios, como asimismo, de los anticipos a que se refiere el inciso cuarto.
 
-3° Que, para facilitar el procedimiento de revisión de las solicitudes objeto de esta normativa y en consideración a las obligaciones tributarias establecidas por Resolución Exenta SII N° 45, de 2003, para los emisores electrónicos, se modificó la Resolución indicada en considerando anterior, mediante Resolución Ex. SII N° 16, de 2014, en lo referente a los documentos a presentar junto a cada solicitud.
+3Â° Que, para facilitar el procedimiento de revisiÃ³n de las solicitudes objeto de esta normativa y en consideraciÃ³n a las obligaciones tributarias establecidas por ResoluciÃ³n Exenta SII NÂ° 45, de 2003, para los emisores electrÃ³nicos, se modificÃ³ la ResoluciÃ³n indicada en considerando anterior, mediante ResoluciÃ³n Ex. SII NÂ° 16, de 2014, en lo referente a los documentos a presentar junto a cada solicitud.
 
-4° Que, conforme al considerando anterior y para agilizar la recepción y verificación de los documentos presentados en cada solicitud, es preciso regular la forma de adjuntar dichos antecedentes, en los términos señalados en los resolutivos siguientes.
+4Â° Que, conforme al considerando anterior y para agilizar la recepciÃ³n y verificaciÃ³n de los documentos presentados en cada solicitud, es preciso regular la forma de adjuntar dichos antecedentes, en los tÃ©rminos seÃ±alados en los resolutivos siguientes.
 
 ## VVM/RCC/SRS/cer
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * Diario Oficial (en extracto)
 * Internet
-* Boletín
+* BoletÃ­n
 
 ## S E R E S U E L V E:
 
-1° COMPLEMENTASE la Resolución Ex. SII N° 163, de 2008, modificada por Resolución Exenta SII N° 16, de 2014, en los siguientes términos:
+1Â° COMPLEMENTASE la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, modificada por ResoluciÃ³n Exenta SII NÂ° 16, de 2014, en los siguientes tÃ©rminos:
 
-a) Agréguese a continuación del párrafo quinto del Resolutivo N° 1 y a continuación del párrafo cuarto del Resolutivo N°2 de la Resolución Ex. SII N° 163, de 2008, el siguiente numeral:
+a) AgrÃ©guese a continuaciÃ³n del pÃ¡rrafo quinto del Resolutivo NÂ° 1 y a continuaciÃ³n del pÃ¡rrafo cuarto del Resolutivo NÂ°2 de la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, el siguiente numeral:
 
-'V. Los documentos detallados en los numerales anteriores deberán ser presentados por el contribuyente a través Formulario 2123 'Acta de Recepción y Devolución de Documentos' (Anexo N° 3), registrando en éste cada uno de los documentos que acompaña'.
+'V. Los documentos detallados en los numerales anteriores deberÃ¡n ser presentados por el contribuyente a travÃ©s Formulario 2123 'Acta de RecepciÃ³n y DevoluciÃ³n de Documentos' (Anexo NÂ° 3), registrando en Ã©ste cada uno de los documentos que acompaÃ±a'.
 
-b) Agréguese en la sección Anexos de la Resolución Ex. SII N° 163, de 2008, el Anexo N°3, identificado como Formulario 2123 'Acta de Recepción y Devolución de Documentos', el que además se encuentra disponible en el sitio web del Servicio de Impuestos Internos.
+b) AgrÃ©guese en la secciÃ³n Anexos de la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, el Anexo NÂ°3, identificado como Formulario 2123 'Acta de RecepciÃ³n y DevoluciÃ³n de Documentos', el que ademÃ¡s se encuentra disponible en el sitio web del Servicio de Impuestos Internos.
 
-2° La presente Resolución, regirá desde la fecha de su publicación en el Diario Oficial.
+2Â° La presente ResoluciÃ³n, regirÃ¡ desde la fecha de su publicaciÃ³n en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)
 
-Anexo: Formulario 2123 'Acta de Recepción y Devolución de Documentos'
+Anexo: Formulario 2123 'Acta de RecepciÃ³n y DevoluciÃ³n de Documentos'
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.

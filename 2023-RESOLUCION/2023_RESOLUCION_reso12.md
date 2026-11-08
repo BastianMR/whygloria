@@ -1,93 +1,92 @@
----
-type: SII Resolución
-title: Resolución N° 4 (2023)
-description: COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023.
-resource: ./2023_RESOLUCION_reso12.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 4 (2023)
+description: COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÃ“N EXENTA NÂ°4, DE 2023.
 tags: [SII, 2023, resolucion]
 ---
 
-## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023.
+## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÃ“N EXENTA NÂ°4, DE 2023.
 
 ## SANTIAGO, 08 DE FEBRERO DE 2023
 
-RESOLUCIÓN EX. SII N° 12.-
+RESOLUCIÃ“N EX. SII NÂ° 12.-
 
 ## VISTOS:
 
-Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DLF N° 7, de 1980, Hacienda; las Resoluciones Exentas N°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente; el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales; y la Resolución Exenta N° 4, del 16 de enero del 2023, y
+Lo dispuesto en el artÃ­culo 42 de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del DLF NÂ° 7, de 1980, Hacienda; las Resoluciones Exentas NÂ°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente; el artÃ­culo 12Â°, letra a), del Decreto Ley NÂ°3.063, de 1979, sobre Rentas Municipales; y la ResoluciÃ³n Exenta NÂ° 4, del 16 de enero del 2023, y
 
 ## CONSIDERANDO:
 
-1.Que con fecha 16 de enero de 2023, se dictó la Resolución Exenta SII N°04, que fija lista de valores de vehículos motorizados para los fines que señala.
+1.Que con fecha 16 de enero de 2023, se dictÃ³ la ResoluciÃ³n Exenta SII NÂ°04, que fija lista de valores de vehÃ­culos motorizados para los fines que seÃ±ala.
 
-2.Que, se hace necesario complementar la lista anexa de la citada Resolución Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P, [<u>www.emol.com</u>](http://www.emol.com), y el Servicio de Impuestos Internos, sii.cl.
+2.Que, se hace necesario complementar la lista anexa de la citada ResoluciÃ³n Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P, [<u>www.emol.com</u>](http://www.emol.com), y el Servicio de Impuestos Internos, sii.cl.
 
 ## SE RESUELVE:
 
-Compleméntase la lista anexa de la Resolución Exenta SII N° 04, de fecha 16 de enero de 2023, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo N°1.
+ComplemÃ©ntase la lista anexa de la ResoluciÃ³n Exenta SII NÂ° 04, de fecha 16 de enero de 2023, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo NÂ°1.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
-| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Tracción** | **País** |
+| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **TracciÃ³n** | **PaÃ­s** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SD1840260 | 2022 | Sedán | PEUGEOT | 301 | VTI 1.6 115HP | 4 | 1.6 |  | Bencina | Mecánica |  |  |
-| SD1840252 | 2022 | Sedán | PEUGEOT | 301 | ACTIVE PACK 1.6 VTI EAT6 | 4 | 1.6 |  | Bencina | Automática |  |  |
-| HB1810083 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.2 AT8 | 4 | 1.2 | 100 | Bencina | Automática | 8 4x2 (2WD) | ALEMANIA |
-| HB1810089 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.2 MT5 | 4 | 1200 | 75 | Bencina | Mecánica | 5 Mecánica | ALEMANIA |
-| HB1810085 | 2022 | Hatchback | OPEL | CORSA | GS LINE 1.2 AT8 | 4 | 1.2 | 100 | Bencina | Automática | 8 4x2 (2WD) | ALEMANIA |
-| HB1840273 | 2022 | Hatchback | PEUGEOT | 208 | GT PURETECH | 5 | 1.2 | 130 | Bencina | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CT1840012 | 2022 | Camioneta | PEUGEOT | LANDTREK | N2 BENC AT | 4 | 2.4 | 210 | Bencina | Automática | 6 4x4 (AWD) | FRANCIA |
-| VN1840021 | 2022 | Van | PEUGEOT | RIFTER | ALLURE PURETCH 130 EAT8 | 4 | 1.2 | 130 | Bencina | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1810045 | 2022 | Suv | OPEL | GRANDLAND X | 1.2 MT | 4 | 1200 | 100 | Bencina | Mecánica | 6 Mecánica | ALEMANIA |
-| SU1840186 | 2022 | Suv | PEUGEOT | 3008 | GT-LINE THP EAT6 E6 | 4 | 1.6 |  | Bencina | Automática |  |  |
-| SU1840178 | 2022 | Suv | PEUGEOT | 3008 | ALLURE THP EAT6 E6 | 4 | 1.6 |  | Bencina | Automática |  |  |
-| SU1810050 | 2022 | Suv | OPEL | MOKKA | GS LINE 1.2 AT8 | 4 | 1200 | 130 | Bencina | Automática | 8 Automática | ALEMANIA |
-| SU1810048 | 2022 | Suv | OPEL | MOKKA | 1.2 MT6 | 4 | 1200 | 100 | Bencina | Mecánica | 6 Mecánica | ALEMANIA |
-| SU1840191 | 2022 | Suv | PEUGEOT | 5008 | ALLURE TURBO | 4 | 1.6 | 165 | Bencina | Automática | 6 4x2 (2WD) | FRANCIA |
+| SD1840260 | 2022 | SedÃ¡n | PEUGEOT | 301 | VTI 1.6 115HP | 4 | 1.6 |  | Bencina | MecÃ¡nica |  |  |
+| SD1840252 | 2022 | SedÃ¡n | PEUGEOT | 301 | ACTIVE PACK 1.6 VTI EAT6 | 4 | 1.6 |  | Bencina | AutomÃ¡tica |  |  |
+| HB1810083 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.2 AT8 | 4 | 1.2 | 100 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | ALEMANIA |
+| HB1810089 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.2 MT5 | 4 | 1200 | 75 | Bencina | MecÃ¡nica | 5 MecÃ¡nica | ALEMANIA |
+| HB1810085 | 2022 | Hatchback | OPEL | CORSA | GS LINE 1.2 AT8 | 4 | 1.2 | 100 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | ALEMANIA |
+| HB1840273 | 2022 | Hatchback | PEUGEOT | 208 | GT PURETECH | 5 | 1.2 | 130 | Bencina | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CT1840012 | 2022 | Camioneta | PEUGEOT | LANDTREK | N2 BENC AT | 4 | 2.4 | 210 | Bencina | AutomÃ¡tica | 6 4x4 (AWD) | FRANCIA |
+| VN1840021 | 2022 | Van | PEUGEOT | RIFTER | ALLURE PURETCH 130 EAT8 | 4 | 1.2 | 130 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1810045 | 2022 | Suv | OPEL | GRANDLAND X | 1.2 MT | 4 | 1200 | 100 | Bencina | MecÃ¡nica | 6 MecÃ¡nica | ALEMANIA |
+| SU1840186 | 2022 | Suv | PEUGEOT | 3008 | GT-LINE THP EAT6 E6 | 4 | 1.6 |  | Bencina | AutomÃ¡tica |  |  |
+| SU1840178 | 2022 | Suv | PEUGEOT | 3008 | ALLURE THP EAT6 E6 | 4 | 1.6 |  | Bencina | AutomÃ¡tica |  |  |
+| SU1810050 | 2022 | Suv | OPEL | MOKKA | GS LINE 1.2 AT8 | 4 | 1200 | 130 | Bencina | AutomÃ¡tica | 8 AutomÃ¡tica | ALEMANIA |
+| SU1810048 | 2022 | Suv | OPEL | MOKKA | 1.2 MT6 | 4 | 1200 | 100 | Bencina | MecÃ¡nica | 6 MecÃ¡nica | ALEMANIA |
+| SU1840191 | 2022 | Suv | PEUGEOT | 5008 | ALLURE TURBO | 4 | 1.6 | 165 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) | FRANCIA |
 | SU1810046 | 2022 | Suv | OPEL | GRANDLAND X | 1.6 AT | 4 | 1600 | 150 | Bencina | Automatizada | 6 Automatizada | ALEMANIA |
-| SU1840207 | 2022 | Suv | PEUGEOT | 3008 | GT LINE PURETECH | 4 | 1.6 | 180 | Bencina | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1810032 | 2022 | Suv | OPEL | CROSSLAND X | INNOVATION | 4 | 1.2 | 110 | Bencina | Automática | 6 4x2 (2WD) | ALEMANIA |
-| SU1810031 | 2022 | Suv | OPEL | CROSSLAND X | ENJOY AT | 4 | 1.2 | 110 | Bencina | Automática | 6 4x2 (2WD) | ALEMANIA |
-| SU1810030 | 2022 | Suv | OPEL | CROSSLAND X | ENJOY | 4 | 1.2 | 110 | Bencina | Mecánica | 5 4x2 (2WD) | ALEMANIA |
-| SU1810047 | 2022 | Suv | OPEL | MOKKA | 1.2 AT8 | 4 | 1200 | 100 | Bencina | Automática | 8 Automática | ALEMANIA |
-| SU1840214 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PACK PURETECH 130 EAT8 | 5 | 1.2 | 130 | Bencina | Automática | 6 4x2 (2WD) | FRANCIA |
-| SU1840215 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PURETECH 130 | 5 | 1.2 | 130 | Bencina | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| SD1840244 | 2022 | Sedán | PEUGEOT | 301 | ALLURE PACK 1.6 HDI 92HP | 4 | 1.6 |  | Diésel | Mecánica |  |  |
-| HB1840258 | 2022 | Hatchback | PEUGEOT | 308 | ALLURE | 4 | 1.6 | 120 | Diésel | Automática | 6 4x2 (2WD) | FRANCIA |
-| HB1810084 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.5 D MT6 | 4 | 1.5 | 100 | Diésel | Mecánica | 6 4x2 (2WD) | ALEMANIA |
-| HB1840263 | 2022 | Hatchback | PEUGEOT | 208 | ACTIVE PACK BLUE | 4 | 1.5 | 100 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
+| SU1840207 | 2022 | Suv | PEUGEOT | 3008 | GT LINE PURETECH | 4 | 1.6 | 180 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1810032 | 2022 | Suv | OPEL | CROSSLAND X | INNOVATION | 4 | 1.2 | 110 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) | ALEMANIA |
+| SU1810031 | 2022 | Suv | OPEL | CROSSLAND X | ENJOY AT | 4 | 1.2 | 110 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) | ALEMANIA |
+| SU1810030 | 2022 | Suv | OPEL | CROSSLAND X | ENJOY | 4 | 1.2 | 110 | Bencina | MecÃ¡nica | 5 4x2 (2WD) | ALEMANIA |
+| SU1810047 | 2022 | Suv | OPEL | MOKKA | 1.2 AT8 | 4 | 1200 | 100 | Bencina | AutomÃ¡tica | 8 AutomÃ¡tica | ALEMANIA |
+| SU1840214 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PACK PURETECH 130 EAT8 | 5 | 1.2 | 130 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) | FRANCIA |
+| SU1840215 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PURETECH 130 | 5 | 1.2 | 130 | Bencina | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| SD1840244 | 2022 | SedÃ¡n | PEUGEOT | 301 | ALLURE PACK 1.6 HDI 92HP | 4 | 1.6 |  | DiÃ©sel | MecÃ¡nica |  |  |
+| HB1840258 | 2022 | Hatchback | PEUGEOT | 308 | ALLURE | 4 | 1.6 | 120 | DiÃ©sel | AutomÃ¡tica | 6 4x2 (2WD) | FRANCIA |
+| HB1810084 | 2022 | Hatchback | OPEL | CORSA | EDITION 1.5 D MT6 | 4 | 1.5 | 100 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | ALEMANIA |
+| HB1840263 | 2022 | Hatchback | PEUGEOT | 208 | ACTIVE PACK BLUE | 4 | 1.5 | 100 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
 
-| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas Tracción** | **País** |
+| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **Marchas TracciÃ³n** | **PaÃ­s** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CT1840009 | 2022 | Camioneta | PEUGEOT | PARTNER | L2 | 3 | 1.6 | 90 | Diésel | Mecánica | 5 4x2 (2WD) | FRANCIA |
-| CT1840011 | 2022 | Camioneta | PEUGEOT | LANDTREK | N1 HDI 4X4 | 4 | 1.9 | 150 | Diésel | Mecánica | 6 4x2 y 4x4 | FRANCIA |
-| CT1840010 | 2022 | Camioneta | PEUGEOT | LANDTREK | N1 HDI 4X2 | 4 | 1.9 | 150 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CO1810004 | 2022 | Comercial | OPEL | VIVARO | 2.0 TD | 2 | 2 | 120 | Diésel | Mecánica | 6 4x2 (2WD) | ALEMANIA |
-| CO1840190 | 2022 | Comercial | PEUGEOT | EXPERT | FUR PREM 5P HDI MT | 4 | 2 |  | Diésel | Mecánica |  |  |
-| CO1840194 | 2022 | Comercial | PEUGEOT | BOXER | FURGON L4H2 | 3 | 2 | 160 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CO1840193 | 2022 | Comercial | PEUGEOT | BOXER | FURGON L3H2 | 3 | 2 | 160 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CO1840196 | 2022 | Comercial | PEUGEOT | BOXER | DC L4 | 4 | 2 | 160 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CO1840191 | 2022 | Comercial | PEUGEOT | BOXER | CABINA L3 | 3 | 2 | 160 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| CO1810003 | 2022 | Comercial | OPEL | COMBO | 1.6 TD | 2 | 1.6 | 100 | Diésel | Mecánica | 5 4x2 (2WD) | ALEMANIA |
-| VN1840020 | 2022 | Van | PEUGEOT | RIFTER | ALLURE 130 | 4 | 1.6 | 100 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| VN1840017 | 2022 | Van | PEUGEOT | TRAVELLER | ACTIVE 8P | 3 | 2 | 180 | Diésel | Automática | 6 4x2 (2WD) | FRANCIA |
-| VN1840018 | 2022 | Van | PEUGEOT | TRAVELLER | BUSINESS | 3 | 2 | 150 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| SU1840198 | 2022 | Suv | PEUGEOT | 5008 | GT 180 | 4 | 2 | 180 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1810044 | 2022 | Suv | OPEL | CROSSLAND X | EDITION 1.5 MT6 | 4 | 1500 | 110 | Diesel | Mecánica | 6 Mecánica | ALEMANIA |
-| SU1840218 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PACK BLUEHDI 100 | 5 | 1.5 | 100 | Diésel | Mecánica | 6 4x2 (2WD) | FRANCIA |
-| SU1840211 | 2022 | Suv | PEUGEOT | 5008 | ALLURE BLUEHDI EAT8 | 4 | 1.5 | 130 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1840202 | 2022 | Suv | PEUGEOT | 3008 | ACTIVE | 4 | 1.5 | 130 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1810049 | 2022 | Suv | OPEL | MOKKA | 1.5 D MT6 | 4 | 1500 | 150 | Diesel | Mecánica | 6 Mecánica | ALEMANIA |
-| SU1840204 | 2022 | Suv | PEUGEOT | 3008 | GT LINE | 4 | 1.5 | 130 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1840203 | 2022 | Suv | PEUGEOT | 3008 | ALLURE | 4 | 1.5 | 4 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1840199 | 2022 | Suv | PEUGEOT | 5008 | GT L | 4 | 1.6 | 180 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1840217 | 2022 | Suv | PEUGEOT | 2008 P2 | GT BLUEHDI 130EAT8 | 5 | 1.5 | 130 | Diésel | Automática | 6 4x2 (2WD) | FRANCIA |
-| SU1840216 | 2022 | Suv | PEUGEOT | 2008 P2 | ALLURE PACK BLUEHDI 130EAT8 | 5 | 1.5 | 130 | Diésel | Automática | 8 4x2 (2WD) | FRANCIA |
-| SU1840219 | 2022 | Suv | PEUGEOT | 2008 P2 | GT EV | 4 | 1600 | 92 | Eléctrico | Automatizada | 6 Automatizada | FRANCIA |
+| CT1840009 | 2022 | Camioneta | PEUGEOT | PARTNER | L2 | 3 | 1.6 | 90 | DiÃ©sel | MecÃ¡nica | 5 4x2 (2WD) | FRANCIA |
+| CT1840011 | 2022 | Camioneta | PEUGEOT | LANDTREK | N1 HDI 4X4 | 4 | 1.9 | 150 | DiÃ©sel | MecÃ¡nica | 6 4x2 y 4x4 | FRANCIA |
+| CT1840010 | 2022 | Camioneta | PEUGEOT | LANDTREK | N1 HDI 4X2 | 4 | 1.9 | 150 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CO1810004 | 2022 | Comercial | OPEL | VIVARO | 2.0 TD | 2 | 2 | 120 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | ALEMANIA |
+| CO1840190 | 2022 | Comercial | PEUGEOT | EXPERT | FUR PREM 5P HDI MT | 4 | 2 |  | DiÃ©sel | MecÃ¡nica |  |  |
+| CO1840194 | 2022 | Comercial | PEUGEOT | BOXER | FURGON L4H2 | 3 | 2 | 160 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CO1840193 | 2022 | Comercial | PEUGEOT | BOXER | FURGON L3H2 | 3 | 2 | 160 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CO1840196 | 2022 | Comercial | PEUGEOT | BOXER | DC L4 | 4 | 2 | 160 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CO1840191 | 2022 | Comercial | PEUGEOT | BOXER | CABINA L3 | 3 | 2 | 160 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| CO1810003 | 2022 | Comercial | OPEL | COMBO | 1.6 TD | 2 | 1.6 | 100 | DiÃ©sel | MecÃ¡nica | 5 4x2 (2WD) | ALEMANIA |
+| VN1840020 | 2022 | Van | PEUGEOT | RIFTER | ALLURE 130 | 4 | 1.6 | 100 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| VN1840017 | 2022 | Van | PEUGEOT | TRAVELLER | ACTIVE 8P | 3 | 2 | 180 | DiÃ©sel | AutomÃ¡tica | 6 4x2 (2WD) | FRANCIA |
+| VN1840018 | 2022 | Van | PEUGEOT | TRAVELLER | BUSINESS | 3 | 2 | 150 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| SU1840198 | 2022 | Suv | PEUGEOT | 5008 | GT 180 | 4 | 2 | 180 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1810044 | 2022 | Suv | OPEL | CROSSLAND X | EDITION 1.5 MT6 | 4 | 1500 | 110 | Diesel | MecÃ¡nica | 6 MecÃ¡nica | ALEMANIA |
+| SU1840218 | 2022 | Suv | PEUGEOT | 2008 P2 | ACTIVE PACK BLUEHDI 100 | 5 | 1.5 | 100 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | FRANCIA |
+| SU1840211 | 2022 | Suv | PEUGEOT | 5008 | ALLURE BLUEHDI EAT8 | 4 | 1.5 | 130 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1840202 | 2022 | Suv | PEUGEOT | 3008 | ACTIVE | 4 | 1.5 | 130 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1810049 | 2022 | Suv | OPEL | MOKKA | 1.5 D MT6 | 4 | 1500 | 150 | Diesel | MecÃ¡nica | 6 MecÃ¡nica | ALEMANIA |
+| SU1840204 | 2022 | Suv | PEUGEOT | 3008 | GT LINE | 4 | 1.5 | 130 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1840203 | 2022 | Suv | PEUGEOT | 3008 | ALLURE | 4 | 1.5 | 4 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1840199 | 2022 | Suv | PEUGEOT | 5008 | GT L | 4 | 1.6 | 180 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1840217 | 2022 | Suv | PEUGEOT | 2008 P2 | GT BLUEHDI 130EAT8 | 5 | 1.5 | 130 | DiÃ©sel | AutomÃ¡tica | 6 4x2 (2WD) | FRANCIA |
+| SU1840216 | 2022 | Suv | PEUGEOT | 2008 P2 | ALLURE PACK BLUEHDI 130EAT8 | 5 | 1.5 | 130 | DiÃ©sel | AutomÃ¡tica | 8 4x2 (2WD) | FRANCIA |
+| SU1840219 | 2022 | Suv | PEUGEOT | 2008 P2 | GT EV | 4 | 1600 | 92 | ElÃ©ctrico | Automatizada | 6 Automatizada | FRANCIA |
 
-| **Código SII** | **Equipamiento** | **Equipamiento Detallado** | **TASACION 2023** | **PERMISO 2023** |
+| **CÃ³digo SII** | **Equipamiento** | **Equipamiento Detallado** | **TASACION 2023** | **PERMISO 2023** |
 | --- | --- | --- | --- | --- |
 | SD1840260 | Full |  | 9.460.403 | 172.628 |
 | SD1840252 | Full |  | 10.887.562 | 215.443 |
@@ -116,7 +115,7 @@ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 | HB1810084 |  | AA, AAF, ABP, ABS, AEP, AET, AIN, ALC, BPL, CAP, CBZ, CC, CCR, CDP, CLZ, CR, EAL, ESP, GPS, LAL, LCD, LPT, NEB, REE, SLL, STR, USB, VCU, VM, VRE | 11.600.920 | 236.843 |
 | HB1840263 |  | AA, AAF, ABP, ABS, AED, AEP, AET, AIN, BPL, CAP, CC, CDP, CLZ, CR, EAL, ESP, FAE, GPS, LAL, LPT, NEB, REE, SDP, STR, USB, VCU, VM, VRE | 12.650.390 | 268.328 |
 
-| **Código SII** | **Equipamiento Equipamiento Detallado** | **TASACION 2023** | **PERMISO 2023** |
+| **CÃ³digo SII** | **Equipamiento Equipamiento Detallado** | **TASACION 2023** | **PERMISO 2023** |
 | --- | --- | --- | --- |
 | CT1840009 | AA, AAF, ABS, AED, CC, CR, ESP, NEB, SDP, SLL, USB, VRE | 13.127.144 | 282.63 |
 | CT1840011 | AA, AAF, ABP, ABS, AEP, AET, AIN, ALC, ASR, BPL, BSD, CAP, CBZ, CC, CCR, CDP, CR, EAL, ESP, FAE, GPS, LAL, LCD, LRF, NEB, REE, SIA, USB, VCU, VM, VRE | 22.015.924 | 615.03 |

@@ -1,50 +1,49 @@
----
-type: SII Resolución
-title: Resolución N° 94 (2022)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00224732
-resource: ./2022_RESOLUCION_reso94.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 94 (2022)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE GE00224732
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00224732
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE GE00224732
 
-## DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO.
+## DECLARA TÃ‰RMINO DE GIRO SEGÃšN LO DISPUESTO EN EL INCISO FINAL DEL ARTÃCULO 69 DEL CÃ“DIGO TRIBUTARIO.
 
 ## SANTIAGO, 04 DE OCTUBRE DE 2022
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° 94.-
+RESOLUCIÃ“N EXENTA SII NÂ° 94.-
 
 VISTOS:
 
-Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; y la Circular N° 30, del 10.05.2016;
+Lo dispuesto en los artÃ­culos 6Âº letra A), NÂºs 1 y 4, 15 y 69 inciso final del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974, y artÃ­culo 7Âº letra b), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; y la Circular NÂ° 30, del 10.05.2016;
 
 ## CONSIDERANDO:
 
-1° Que, el inciso final del artículo 69 del Código Tributario establece que: ' Cuando la persona, entidad o agrupación presente 36 o más períodos tributarios continuos sin operaciones y no tenga utilidades ni activos pendientes de tributación o no se determinen diferencias netas de impuestos, y no posea deudas tributarias, se presumirá legalmente que ha terminado su giro, lo que deberá ser declarado por el Servicio mediante resolución y sin necesidad de citación previa. Dicha resolución podrá reclamarse de acuerdo a las reglas generales. El Servicio deberá habilitar un expediente electrónico con los antecedentes del caso incluyendo la constancia de no tener el contribuyente deuda tributaria vigente, en la forma y plazos señalados en el artículo 21 '.
+1Â° Que, el inciso final del artÃ­culo 69 del CÃ³digo Tributario establece que: ' Cuando la persona, entidad o agrupaciÃ³n presente 36 o mÃ¡s perÃ­odos tributarios continuos sin operaciones y no tenga utilidades ni activos pendientes de tributaciÃ³n o no se determinen diferencias netas de impuestos, y no posea deudas tributarias, se presumirÃ¡ legalmente que ha terminado su giro, lo que deberÃ¡ ser declarado por el Servicio mediante resoluciÃ³n y sin necesidad de citaciÃ³n previa. Dicha resoluciÃ³n podrÃ¡ reclamarse de acuerdo a las reglas generales. El Servicio deberÃ¡ habilitar un expediente electrÃ³nico con los antecedentes del caso incluyendo la constancia de no tener el contribuyente deuda tributaria vigente, en la forma y plazos seÃ±alados en el artÃ­culo 21 '.
 
-2° Que, para efectos de dar cumplimiento a lo señalado en el inciso final del artículo 69 del cuerpo legal mencionado, este Servicio dicta la presente Resolución de término de giro, individualizando en el Anexo, que forma parte integrante de ésta, a las personas, entidades o agrupaciones, mediante el nombre, en el caso de las personas naturales; y, de la razón social y número de RUT, en las restantes.
+2Â° Que, para efectos de dar cumplimiento a lo seÃ±alado en el inciso final del artÃ­culo 69 del cuerpo legal mencionado, este Servicio dicta la presente ResoluciÃ³n de tÃ©rmino de giro, individualizando en el Anexo, que forma parte integrante de Ã©sta, a las personas, entidades o agrupaciones, mediante el nombre, en el caso de las personas naturales; y, de la razÃ³n social y nÃºmero de RUT, en las restantes.
 
 ## SE RESUELVE:
 
-1° DECLÁRASE EL TÉRMINO DE GIRO, de las personas, entidades o agrupaciones que se individualizan en la Nómina contenida en el Anexo adjunto y que forma parte de la presente resolución, en atención a que se han cumplido los supuestos contenidos en el inciso final del artículo 69, del Código Tributario.
+1Â° DECLÃRASE EL TÃ‰RMINO DE GIRO, de las personas, entidades o agrupaciones que se individualizan en la NÃ³mina contenida en el Anexo adjunto y que forma parte de la presente resoluciÃ³n, en atenciÃ³n a que se han cumplido los supuestos contenidos en el inciso final del artÃ­culo 69, del CÃ³digo Tributario.
 
-La Nómina de las personas, entidades o agrupaciones detalladas en el Anexo, podrá ser consultada a través de la página web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
+La NÃ³mina de las personas, entidades o agrupaciones detalladas en el Anexo, podrÃ¡ ser consultada a travÃ©s de la pÃ¡gina web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
 
-2° HABILÍTESE un expediente electrónico con los antecedentes del caso, de conformidad a las disposiciones que sobre la materia contempla el artículo 21 del Código Tributario, a todas las personas, entidades o agrupaciones a quienes este Servicio les haya declarado el término de giro o cese de actividades, conforme a la presente Resolución.
+2Â° HABILÃTESE un expediente electrÃ³nico con los antecedentes del caso, de conformidad a las disposiciones que sobre la materia contempla el artÃ­culo 21 del CÃ³digo Tributario, a todas las personas, entidades o agrupaciones a quienes este Servicio les haya declarado el tÃ©rmino de giro o cese de actividades, conforme a la presente ResoluciÃ³n.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 (FDO.) RICARDO PIZARRO ALFARO DIRECTOR (S)
 
-Anexo: Nómina de término de giro septiembre 2022.
+Anexo: NÃ³mina de tÃ©rmino de giro septiembre 2022.
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
 VVS/RGV/AVB/SOB/PGV
 
-## DISTRIBUCIÓN :
+## DISTRIBUCIÃ“N :
 
 * Internet
 * Diario Oficial en Extracto

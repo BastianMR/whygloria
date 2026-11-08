@@ -1,60 +1,59 @@
----
-type: SII Resolución
-title: Resolución N° 60 (2023)
-description: SUBDIRECCIÓN DE ASISTENCIA AL
-resource: ./2023_RESOLUCION_reso101.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 60 (2023)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL
+## SUBDIRECCIÃ“N DE ASISTENCIA AL
 
 ## CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 574 - SDAC - 2023
 
 77323276506
 
-AUTORIZA A TICKETMAX SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
+AUTORIZA A TICKETMAX SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÃCULOS PÃšBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
 
 SANTIAGO,
 
-RESOLUCIÓN EX. SII N° \_\_\_\_\_\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ° \_\_\_\_\_\_\_\_/
 
 VISTOS:
 
-Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, del Ministerio de Hacienda de 1977; y la Resolución Exenta N° 60, del 14.06.2021; y
+Lo dispuesto en los artÃ­culos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del D.L. NÂ° 825, de 1974 y su Reglamento contenido en el Decreto Supremo NÂ° 55, del Ministerio de Hacienda de 1977; y la ResoluciÃ³n Exenta NÂ° 60, del 14.06.2021; y
 
-La solicitud presentada por don Felipe Eduardo Tapia Vera, RUT N° 19.619.435-5, en representación de TICKETMAX SPA ., RUT N° 77.786.206-5 , ambos domiciliados en Manuel Rodriguez 1423 A9 , Viña del Mar, mediante la cual solicita autorización para acogerse a procedimiento establecido en Resoluciones Ex. SII N° 74 de 2020 y N° 60 de 2021; y
+La solicitud presentada por don Felipe Eduardo Tapia Vera, RUT NÂ° 19.619.435-5, en representaciÃ³n de TICKETMAX SPA ., RUT NÂ° 77.786.206-5 , ambos domiciliados en Manuel Rodriguez 1423 A9 , ViÃ±a del Mar, mediante la cual solicita autorizaciÃ³n para acogerse a procedimiento establecido en Resoluciones Ex. SII NÂ° 74 de 2020 y NÂ° 60 de 2021; y
 
 ## CONSIDERANDO:
 
-1° Que, el artículo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reúnan los requisitos exigidos por el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda N° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
+1Â° Que, el artÃ­culo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reÃºnan los requisitos exigidos por el Decreto Ley NÂ° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda NÂ° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
 
-* 2° Que, mediante Resolución Ex. SII N° 74 de 2020, se instruyó sobre el procedimiento para emitir boletas electrónicas y boletas no afectas o exentas electrónicas de ventas y servicios.
-* 3° Que, mediante Resolución Ex. SII N° 60 de 2021, se establecen los requisitos para la emisión de boletas de servicios por cuenta de empresas productoras u organizadoras de espectáculos públicos y reuniones pagadas.
-* 4° Que, mediante Resolución Ex. SII N° 60 de 2021, el Director delegó, en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a emitir boletas de servicios en nombre y representación de empresas organizadoras o productoras de espectáculos públicos o reuniones pagadas, a las empresas mandatarias, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interés fiscal se encuentra debidamente resguardado.
+* 2Â° Que, mediante ResoluciÃ³n Ex. SII NÂ° 74 de 2020, se instruyÃ³ sobre el procedimiento para emitir boletas electrÃ³nicas y boletas no afectas o exentas electrÃ³nicas de ventas y servicios.
+* 3Â° Que, mediante ResoluciÃ³n Ex. SII NÂ° 60 de 2021, se establecen los requisitos para la emisiÃ³n de boletas de servicios por cuenta de empresas productoras u organizadoras de espectÃ¡culos pÃºblicos y reuniones pagadas.
+* 4Â° Que, mediante ResoluciÃ³n Ex. SII NÂ° 60 de 2021, el Director delegÃ³, en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a emitir boletas de servicios en nombre y representaciÃ³n de empresas organizadoras o productoras de espectÃ¡culos pÃºblicos o reuniones pagadas, a las empresas mandatarias, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interÃ©s fiscal se encuentra debidamente resguardado.
 
-5° Que, analizada la petición y los antecedentes acompañados, se estima que la empresa TICKETMAX SPA., cumple con los requisitos establecidos en la Resolución Ex. SII N° 60 de 2021, resguardando debidamente el interés fiscal.
+5Â° Que, analizada la peticiÃ³n y los antecedentes acompaÃ±ados, se estima que la empresa TICKETMAX SPA., cumple con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 60 de 2021, resguardando debidamente el interÃ©s fiscal.
 
 ## SE RESUELVE:
 
-1° AUTORÍZASE a TICKETMAX SPA ., RUT N° 77.786.206-5 , para la emisión de boletas de servicios por cuenta de empresas productoras u organizadoras de espectáculos públicos y reuniones pagadas, con los requisitos que señala la Resolución Ex. SII N° 60, de 2021.
+1Â° AUTORÃZASE a TICKETMAX SPA ., RUT NÂ° 77.786.206-5 , para la emisiÃ³n de boletas de servicios por cuenta de empresas productoras u organizadoras de espectÃ¡culos pÃºblicos y reuniones pagadas, con los requisitos que seÃ±ala la ResoluciÃ³n Ex. SII NÂ° 60, de 2021.
 
-2° Las boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, deben ser emitidas en forma individual, en el formato electrónico indicado en la Resolución. Ex. SII N° 74 de 2020.
+2Â° Las boletas de servicios para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, deben ser emitidas en forma individual, en el formato electrÃ³nico indicado en la ResoluciÃ³n. Ex. SII NÂ° 74 de 2020.
 
-3° En el caso de venta remota de entradas para el ingreso a espectáculos públicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberá emitirse de acuerdo a lo señalado en la Resolución Ex. SII N° 60 de 2021.
+3Â° En el caso de venta remota de entradas para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberÃ¡ emitirse de acuerdo a lo seÃ±alado en la ResoluciÃ³n Ex. SII NÂ° 60 de 2021.
 
-4° La presente Resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+4Â° La presente ResoluciÃ³n regirÃ¡ a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE .
+## ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE .
 
 <unknown>
 
-## PATRICIO MUÑOZ ROJAS SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE
+## PATRICIO MUÃ‘OZ ROJAS SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE
 
 RGV/CAB/OBA/LVW DISTRIBUCION
 
 * Contribuyente
 * Internet
-* Subdirección de Asistencia al Contribuyente
+* SubdirecciÃ³n de Asistencia al Contribuyente
 * Oficina de Partes.
 * Archivo
 * -Diario oficial

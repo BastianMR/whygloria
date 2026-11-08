@@ -1,33 +1,32 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 30 (2022)
-description: Subdirección Emisora Subdirección de Fiscalización | Subdirección Emisora Subdirección de Fiscalización | CIRCULAR Nº30.- |
-resource: ./2022_CIRCULAR_circu30.md.docx
+title: Circular NÂ° 30 (2022)
+description: SubdirecciÃ³n Emisora SubdirecciÃ³n de FiscalizaciÃ³n | SubdirecciÃ³n Emisora SubdirecciÃ³n de FiscalizaciÃ³n | CIRCULAR NÂº30.- |
 tags: [SII, 2022, circular]
 ---
 
-| **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº30.-** |
+| **SubdirecciÃ³n Emisora SubdirecciÃ³n de FiscalizaciÃ³n** | **SubdirecciÃ³n Emisora SubdirecciÃ³n de FiscalizaciÃ³n** | **CIRCULAR NÂº30.-** |
 | --- | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 5 DE JULIO DE 2022 |
-| MATERIA: Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante elAÑO 2022. | MATERIA: Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante elAÑO 2022. | REFERENCIA: NºYNOMBRE DEL VOLUMEN Párrafo 3° del Título V de la Ley de Impuesto a la Renta y artículos 53 y 97 N° 11 del Código Tributario. |
-| USO DE CIRCULARES: | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
+| MATERIA: Tabla de CÃ¡lculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligaciÃ³n tributaria anual cumplida , para aplicarse durante elAÃ‘O 2022. | MATERIA: Tabla de CÃ¡lculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligaciÃ³n tributaria anual cumplida , para aplicarse durante elAÃ‘O 2022. | REFERENCIA: NÂºYNOMBRE DEL VOLUMEN PÃ¡rrafo 3Â° del TÃ­tulo V de la Ley de Impuesto a la Renta y artÃ­culos 53 y 97 NÂ° 11 del CÃ³digo Tributario. |
+| USO DE CIRCULARES: | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
 
-La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste e interés penal a que se refieren los incisos 1° y 3° del artículo 53 del Código Tributario y de la multa que establece el número 11 del artículo 97 del mismo cuerpo legal, por omisión en su declaración y pago efectivo de los Pagos Provisionales Mensuales (PPM), a que se refiere el Párrafo 3° del Título V de la Ley de Impuesto a la Renta, cuando se encuentra cumplida la obligación tributaria anual.
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste e interÃ©s penal a que se refieren los incisos 1Â° y 3Â° del artÃ­culo 53 del CÃ³digo Tributario y de la multa que establece el nÃºmero 11 del artÃ­culo 97 del mismo cuerpo legal, por omisiÃ³n en su declaraciÃ³n y pago efectivo de los Pagos Provisionales Mensuales (PPM), a que se refiere el PÃ¡rrafo 3Â° del TÃ­tulo V de la Ley de Impuesto a la Renta, cuando se encuentra cumplida la obligaciÃ³n tributaria anual.
 
-La Tabla mencionada deberá aplicarse durante el año 2022 para el cálculo y determinación de los conceptos anotados, en las liquidaciones y/o giros emitidos en el período, conforme a las instrucciones impartidas en las Circulares N°s. 102 y 117, ambas de 1975, y Circular N° 16, de 1991, todas disponibles en la web del SII.
+La Tabla mencionada deberÃ¡ aplicarse durante el aÃ±o 2022 para el cÃ¡lculo y determinaciÃ³n de los conceptos anotados, en las liquidaciones y/o giros emitidos en el perÃ­odo, conforme a las instrucciones impartidas en las Circulares NÂ°s. 102 y 117, ambas de 1975, y Circular NÂ° 16, de 1991, todas disponibles en la web del SII.
 
-Para calcular el valor de los giros se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la Tabla están expresadas en porcentajes y que la columna Mes Período Tributario hace referencia al período tributario del PPM omitido:
+Para calcular el valor de los giros se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la Tabla estÃ¡n expresadas en porcentajes y que la columna Mes PerÃ­odo Tributario hace referencia al perÃ­odo tributario del PPM omitido:
 
-1.- El giro por el reajuste se determina aplicando sobre el PPM omitido el porcentaje de la columna Reajuste a: Dic. del período correspondiente.
+1.- El giro por el reajuste se determina aplicando sobre el PPM omitido el porcentaje de la columna Reajuste a: Dic. del perÃ­odo correspondiente.
 
-2.- El giro por el interés y la multa se determina aplicando sobre el PPM omitido, debidamente reajustado por el porcentaje de la columna Reajuste a: Abr., los porcentajes de interés y de multa del inc.1° o del inc.2° del art. 97 N°11, del período correspondiente.
+2.- El giro por el interÃ©s y la multa se determina aplicando sobre el PPM omitido, debidamente reajustado por el porcentaje de la columna Reajuste a: Abr., los porcentajes de interÃ©s y de multa del inc.1Â° o del inc.2Â° del art. 97 NÂ°11, del perÃ­odo correspondiente.
 
-## TABLA DE CÁLCULOS
+## TABLA DE CÃLCULOS
 
-| **PPM AÑO 2016** | **PPM AÑO 2016** | **PPM AÑO 2016** | **PPM AÑO 2016** | **PPM AÑO 2016** | **PPM AÑO 2016** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** |
+| **PPM AÃ‘O 2016** | **PPM AÃ‘O 2016** | **PPM AÃ‘O 2016** | **PPM AÃ‘O 2016** | **PPM AÃ‘O 2016** | **PPM AÃ‘O 2016** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes Período Tributario 2016 | a: | a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2017 | Reajuste | Reajuste | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Mes Período Tributario 2016 | Dic.2016 Reajuste | Abr.2017 Abr.2017 | Interés a: | Inc. 1° Abr.2017 | Inc. 2° Abr.2017 | Mes Período Tributario 2017 |  | Dic.2017 Abr.2018 | Interés a: | Inc. 1° Abr.2018 | Inc. 2° Abr.2018 |
+| Mes PerÃ­odo Tributario 2016 | a: | a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2017 | Reajuste | Reajuste | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Mes PerÃ­odo Tributario 2016 | Dic.2016 Reajuste | Abr.2017 Abr.2017 | InterÃ©s a: | Inc. 1Â° Abr.2017 | Inc. 2Â° Abr.2017 | Mes PerÃ­odo Tributario 2017 |  | Dic.2017 Abr.2018 | InterÃ©s a: | Inc. 1Â° Abr.2018 | Inc. 2Â° Abr.2018 |
 | ENERO | 2,9 | 3,5 | 22,5 | 30,0 | 48,0 | ENERO | 2,0 | 2,8 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 2,4 | 3,0 | 21,0 | 30,0 | 46,0 | FEBRERO | 1,5 | 2,2 | 21,0 | 30,0 | 46,0 |
 | MARZO | 2,1 | 2,7 | 19,5 | 30,0 | 44,0 | MARZO | 1,2 | 2,0 | 19,5 | 30,0 | 44,0 |
@@ -41,10 +40,10 @@ Para calcular el valor de los giros se debe proceder de la siguiente manera, ten
 | NOVIEMBRE | 0,0 | 0,6 | 7,5 | 18,0 | 28,0 | NOVIEMBRE | 0,0 | 0,7 | 7,5 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 0,6 | 6,0 | 16,0 | 26,0 | DICIEMBRE | 0,0 | 0,7 | 6,0 | 16,0 | 26,0 |
 
-| **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** |
+| **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes Período Tributario 2018 | a: | a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2019 | Reajuste | Reajuste | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Mes Período Tributario 2018 | Dic.2018 Reajuste | Abr.2019 Abr.2019 | Interés a: | Inc. 1° Abr.2019 | Inc. 2° Abr.2019 | Mes Período Tributario 2019 |  | Dic.2019 Abr.2020 | Interés a: | Inc. 1° Abr.2020 | Inc. 2° Abr.2020 |
+| Mes PerÃ­odo Tributario 2018 | a: | a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2019 | Reajuste | Reajuste | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Mes PerÃ­odo Tributario 2018 | Dic.2018 Reajuste | Abr.2019 Abr.2019 | InterÃ©s a: | Inc. 1Â° Abr.2019 | Inc. 2Â° Abr.2019 | Mes PerÃ­odo Tributario 2019 |  | Dic.2019 Abr.2020 | InterÃ©s a: | Inc. 1Â° Abr.2020 | Inc. 2Â° Abr.2020 |
 | ENERO | 2,7 | 2,7 | 22,5 | 30,0 | 48,0 | ENERO | 2,8 | 4,0 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 2,2 | 2,3 | 21,0 | 30,0 | 46,0 | FEBRERO | 2,7 | 3,9 | 21,0 | 30,0 | 46,0 |
 | MARZO | 2,1 | 2,2 | 19,5 | 30,0 | 44,0 | MARZO | 2,7 | 3,9 | 19,5 | 30,0 | 44,0 |
@@ -58,11 +57,11 @@ Para calcular el valor de los giros se debe proceder de la siguiente manera, ten
 | NOVIEMBRE | 0,0 | 0,0 | 7,5 | 18,0 | 28,0 | NOVIEMBRE | 0,0 | 1,2 | 7,5 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 0,0 | 6,0 | 16,0 | 26,0 | DICIEMBRE | 0,0 | 1,1 | 6,0 | 16,0 | 26,0 |
 
-| **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** |
+| **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes Período Tributario |  |  | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2021 | Reajuste a: | Reajuste a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajuste a: | Reajuste a: | Interés a: | Inc. 1° | Inc. 2° | Mes Período Tributario 2021 |  |  | Interés a: | Inc. 1° | Inc. 2° |
-| 2020 | Dic.2020 | Abr.2021 | Abr.2021 | Abr.2021 | Abr.2021 | Mes Período Tributario 2021 | Dic.2021 | Abr.2022 | Interés a: | Abr.2022 | Abr.2022 |
+| Mes PerÃ­odo Tributario |  |  | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2021 | Reajuste a: | Reajuste a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajuste a: | Reajuste a: | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° | Mes PerÃ­odo Tributario 2021 |  |  | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° |
+| 2020 | Dic.2020 | Abr.2021 | Abr.2021 | Abr.2021 | Abr.2021 | Mes PerÃ­odo Tributario 2021 | Dic.2021 | Abr.2022 | InterÃ©s a: | Abr.2022 | Abr.2022 |
 | ENERO | 2,8 | 3,9 | 22,5 | 30,0 | 48,0 | ENERO | 5,8 | 8,8 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 2,2 | 3,3 | 21,0 | 30,0 | 46,0 | FEBRERO | 5,1 | 8,0 | 21,0 | 30,0 | 46,0 |
 | MARZO | 1,7 | 2,8 | 19,5 | 30,0 | 44,0 | MARZO | 4,9 | 7,8 | 19,5 | 30,0 | 44,0 |
@@ -80,7 +79,7 @@ Para calcular el valor de los giros se debe proceder de la siguiente manera, ten
 
 <unknown>
 
-## CSM/CGG/MCRB/CST DISTRIBUCIÓN
+## CSM/CGG/MCRB/CST DISTRIBUCIÃ“N
 
 * Internet
 

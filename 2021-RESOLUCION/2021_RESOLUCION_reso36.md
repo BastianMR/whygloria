@@ -1,49 +1,48 @@
----
-type: SII Resolución
-title: Resolución N° 97 (2021)
-description: MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y...
-resource: ./2021_RESOLUCION_reso36.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 97 (2021)
+description: MATERIA: AMPLÃA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO NÂ° 1947 Y FORMULARIO NÂ° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII NÂ° 97 Y...
 tags: [SII, 2021, resolucion]
 ---
 
-MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y N° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÉRMINOS QUE INDICA.
+MATERIA: AMPLÃA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO NÂ° 1947 Y FORMULARIO NÂ° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII NÂ° 97 Y NÂ° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÃ‰RMINOS QUE INDICA.
 
 ## SANTIAGO, 31 DE MARZO DE 2021
 
-## RESOLUCIÓN EX. SII N° 36
+## RESOLUCIÃ“N EX. SII NÂ° 36
 
-VISTOS: Lo dispuesto en los artículos 1°, 4° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 del Ministerio de Hacienda, de 1980; lo establecido en los artículos 6° letra A N° 1, 16, 17, 21, 33 bis, 35, 60 inciso 8°, 63 y 69 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; la letra A) y N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L N°824, de 1974; las disposiciones contenidas en la Ley N° 21.210 de 2020, Resoluciones Exentas SII N°s 97 y 98, ambas de fecha 28.08.2020 y N° 32, de 23.03.2021;
+VISTOS: Lo dispuesto en los artÃ­culos 1Â°, 4Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7 del Ministerio de Hacienda, de 1980; lo establecido en los artÃ­culos 6Â° letra A NÂ° 1, 16, 17, 21, 33 bis, 35, 60 inciso 8Â°, 63 y 69 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; la letra A) y NÂ° 3 de la letra D) del artÃ­culo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artÃ­culo 1Â° del D.L NÂ°824, de 1974; las disposiciones contenidas en la Ley NÂ° 21.210 de 2020, Resoluciones Exentas SII NÂ°s 97 y 98, ambas de fecha 28.08.2020 y NÂ° 32, de 23.03.2021;
 
 ## CONSIDERANDO:
 
-1.Que, mediante Resolución Exenta SII N° 97 de fecha 28.08.2020, fue establecida la obligación de presentar la declaración jurada anual sobre renta imponible a tributar con impuestos finales, créditos y el monto de los pagos provisionales, correspondientes a propietarios de contribuyentes acogidos al régimen tributario del N° 8 de la letra D) del artículo 14 de la LIR, fijándose los plazos para su presentación para el Año Tributario 2021 y siguientes. Para tales efectos, el resolutivo primero estableció que dicha declaración jurada debe ser presentada:
+1.Que, mediante ResoluciÃ³n Exenta SII NÂ° 97 de fecha 28.08.2020, fue establecida la obligaciÃ³n de presentar la declaraciÃ³n jurada anual sobre renta imponible a tributar con impuestos finales, crÃ©ditos y el monto de los pagos provisionales, correspondientes a propietarios de contribuyentes acogidos al rÃ©gimen tributario del NÂ° 8 de la letra D) del artÃ­culo 14 de la LIR, fijÃ¡ndose los plazos para su presentaciÃ³n para el AÃ±o Tributario 2021 y siguientes. Para tales efectos, el resolutivo primero estableciÃ³ que dicha declaraciÃ³n jurada debe ser presentada:
 
-* a) Con antelación a la fecha de presentación del Formulario N°22 sobre Declaración de Impuestos Anuales a la Renta, tratándose de empresarios individuales.
-* b) Hasta el 30 de marzo de cada año, tratándose de los demás contribuyentes.
+* a) Con antelaciÃ³n a la fecha de presentaciÃ³n del Formulario NÂ°22 sobre DeclaraciÃ³n de Impuestos Anuales a la Renta, tratÃ¡ndose de empresarios individuales.
+* b) Hasta el 30 de marzo de cada aÃ±o, tratÃ¡ndose de los demÃ¡s contribuyentes.
 
-2.Que, mediante Resolución Exenta SII N° 98 de fecha 28.08.2020, fue establecida la obligación de presentar la declaración jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra A) y N° 3 de la letra D del artículo 14 de la LIR, fijándose los plazos para su presentación para el Año Tributario 2021 y siguientes. La mencionada instrucción establece que dicha declaración jurada deberá ser presentada:
+2.Que, mediante ResoluciÃ³n Exenta SII NÂ° 98 de fecha 28.08.2020, fue establecida la obligaciÃ³n de presentar la declaraciÃ³n jurada anual sobre retiros, remesas y/o dividendos distribuidos y crÃ©ditos correspondientes, efectuados por contribuyentes sujetos al rÃ©gimen de la letra A) y NÂ° 3 de la letra D del artÃ­culo 14 de la LIR, fijÃ¡ndose los plazos para su presentaciÃ³n para el AÃ±o Tributario 2021 y siguientes. La mencionada instrucciÃ³n establece que dicha declaraciÃ³n jurada deberÃ¡ ser presentada:
 
-* a) Hasta el 17 de marzo de cada año, tratándose de sociedades anónimas abiertas, sin distinguir régimen tributario.
-* b) Con antelación a la fecha de presentación del Formulario N°22 sobre Declaración de Impuestos Anuales a la Renta, tratándose de empresarios individuales.
-* c) Hasta el 26 de marzo de cada año, tratándose de los demás contribuyentes, sin distinguir régimen tributario.
+* a) Hasta el 17 de marzo de cada aÃ±o, tratÃ¡ndose de sociedades anÃ³nimas abiertas, sin distinguir rÃ©gimen tributario.
+* b) Con antelaciÃ³n a la fecha de presentaciÃ³n del Formulario NÂ°22 sobre DeclaraciÃ³n de Impuestos Anuales a la Renta, tratÃ¡ndose de empresarios individuales.
+* c) Hasta el 26 de marzo de cada aÃ±o, tratÃ¡ndose de los demÃ¡s contribuyentes, sin distinguir rÃ©gimen tributario.
 
-3.Que, dada la actual situación en que se encuentra el país, producida por la pandemia de Covid-19 (Coronavirus), algunos contribuyentes pueden verse imposibilitados de enviar la información requerida por este Servicio, dentro del plazo establecido.
+3.Que, dada la actual situaciÃ³n en que se encuentra el paÃ­s, producida por la pandemia de Covid-19 (Coronavirus), algunos contribuyentes pueden verse imposibilitados de enviar la informaciÃ³n requerida por este Servicio, dentro del plazo establecido.
 
-* 4.Que, a través de la Resolución Exenta SII N° 32, de fecha 23.03.2021 se amplió hasta el día 31 de marzo de 2021, el plazo para presentar las Declaraciones Juradas Formularios N° 1947 y N° 1948 a los contribuyentes que se indican en dicha resolución.
+* 4.Que, a travÃ©s de la ResoluciÃ³n Exenta SII NÂ° 32, de fecha 23.03.2021 se ampliÃ³ hasta el dÃ­a 31 de marzo de 2021, el plazo para presentar las Declaraciones Juradas Formularios NÂ° 1947 y NÂ° 1948 a los contribuyentes que se indican en dicha resoluciÃ³n.
 
-5.Que, este Servicio en uso de sus facultades, por razones de buen servicio y a fin de otorgar el máximo de facilidades a los contribuyentes que están obligados a presentar las Declaraciones Juradas Formularios N° 1947 y N° 1948, ha estimado conveniente modificar y ampliar los plazos fijados para su cumplimiento, a los contribuyentes de la letra b) indicada en el resolutivo primero de la Resolución Ex. SII N° 97 y las letras a) y c), respectivamente, indicados en el resolutivo primero de la Resolución Ex. SII N° 98, ambas de fecha 28.08.2020.
+5.Que, este Servicio en uso de sus facultades, por razones de buen servicio y a fin de otorgar el mÃ¡ximo de facilidades a los contribuyentes que estÃ¡n obligados a presentar las Declaraciones Juradas Formularios NÂ° 1947 y NÂ° 1948, ha estimado conveniente modificar y ampliar los plazos fijados para su cumplimiento, a los contribuyentes de la letra b) indicada en el resolutivo primero de la ResoluciÃ³n Ex. SII NÂ° 97 y las letras a) y c), respectivamente, indicados en el resolutivo primero de la ResoluciÃ³n Ex. SII NÂ° 98, ambas de fecha 28.08.2020.
 
 <unknown>
 
-CSM/CGG/PSM DISTRIBUCIÓN: Internet Diario Oficial, en Extracto
+CSM/CGG/PSM DISTRIBUCIÃ“N: Internet Diario Oficial, en Extracto
 
 ## SE RESUELVE:
 
-1° Amplíase hasta el 06 de abril 2021, el plazo para presentar el Formulario N° 1947, denominado 'Declaración Jurada Anual sobre Renta Imponible a tributar con impuestos finales, Créditos y PPMs, correspondientes a propietarios de contribuyentes acogidos al régimen tributario del N° 8 de la letra D) del artículo 14 de la LIR', correspondiente al año tributario 2021, para los contribuyentes mencionados en la letra b) del resolutivo primero de la Resolución Ex. SII N° 97 de fecha 28.08.2020 antes referida.
+1Â° AmplÃ­ase hasta el 06 de abril 2021, el plazo para presentar el Formulario NÂ° 1947, denominado 'DeclaraciÃ³n Jurada Anual sobre Renta Imponible a tributar con impuestos finales, CrÃ©ditos y PPMs, correspondientes a propietarios de contribuyentes acogidos al rÃ©gimen tributario del NÂ° 8 de la letra D) del artÃ­culo 14 de la LIR', correspondiente al aÃ±o tributario 2021, para los contribuyentes mencionados en la letra b) del resolutivo primero de la ResoluciÃ³n Ex. SII NÂ° 97 de fecha 28.08.2020 antes referida.
 
-2° Amplíase hasta el 06 de abril 2021, el plazo para presentar el Formulario N° 1948, denominado 'Declaración Jurada anual sobre retiros, remesas y/o dividendos distribuidos y créditos correspondientes, efectuados por contribuyentes sujetos al régimen de la letra A) y al número 3 de la letra D) del artículo 14 de la LIR, y sobre saldo de retiros en exceso pendientes de imputación', correspondiente al año tributario 2021, para los contribuyentes mencionados en las letras a) y c) del resolutivo primero de la Resolución Ex. SII N° 98 de fecha 28.08.2020 antes referida.
+2Â° AmplÃ­ase hasta el 06 de abril 2021, el plazo para presentar el Formulario NÂ° 1948, denominado 'DeclaraciÃ³n Jurada anual sobre retiros, remesas y/o dividendos distribuidos y crÃ©ditos correspondientes, efectuados por contribuyentes sujetos al rÃ©gimen de la letra A) y al nÃºmero 3 de la letra D) del artÃ­culo 14 de la LIR, y sobre saldo de retiros en exceso pendientes de imputaciÃ³n', correspondiente al aÃ±o tributario 2021, para los contribuyentes mencionados en las letras a) y c) del resolutivo primero de la ResoluciÃ³n Ex. SII NÂ° 98 de fecha 28.08.2020 antes referida.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
 <unknown>
 

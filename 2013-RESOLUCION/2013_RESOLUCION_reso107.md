@@ -1,42 +1,41 @@
----
-type: SII Resolución
+﻿---
+type: SII ResoluciÃ³n
 title: 2013_RESOLUCION_reso107.md
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
-resource: ./2013_RESOLUCION_reso107.md.docx
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-Primero: N° 77.586.860-0.
+Primero: NÂ° 77.586.860-0.
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A CONTRIBUYENTES QUE SEÃ‘ALAN.
 
 SANTIAGO, 27 de diciembre de 2013.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N° \_\_\_107.-\_\_\_\_\_\_\_\_\_/
+RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_107.-\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N°830, de 1974; en la Res. Ex. SII N° 150, de diciembre de 2005; y,
+VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ°830, de 1974; en la Res. Ex. SII NÂ° 150, de diciembre de 2005; y,
 
 ## CONSIDERANDO:
 
-1° Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+1Â° Que, en la Res. Ex. SII NÂ° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-2° Que, los contribuyentes que se detallan en el Resolutivo segundo, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N° 150, de diciembre de 2005, a partir del año 2013.
+2Â° Que, los contribuyentes que se detallan en el Resolutivo segundo, han solicitado incorporarse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica establecido en la Res. Ex. SII NÂ° 150, de diciembre de 2005, a partir del aÃ±o 2013.
 
-3° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica.
+3Â° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-4° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+4Â° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-Modifíquese la autorización a proceder conforme al modelo de operación de Contabilidad Electrónica, otorgada en la Res. Ex. SII N° 102, del 10 de Diciembre de 2013, sustituyéndose el endoso de RUT N° 78.109.470-6, por empresa SOUTH CONSULTING SIGNATURE S.A., RUT
+ModifÃ­quese la autorizaciÃ³n a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, otorgada en la Res. Ex. SII NÂ° 102, del 10 de Diciembre de 2013, sustituyÃ©ndose el endoso de RUT NÂ° 78.109.470-6, por empresa SOUTH CONSULTING SIGNATURE S.A., RUT
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del
 
-Segundo: año 2013, utilizando CAL propio, a los siguientes contribuyentes:
+Segundo: aÃ±o 2013, utilizando CAL propio, a los siguientes contribuyentes:
 
 | **- CONSTRUCTORA LIBERTAD SPA.** | **76.319.238-5** |
 | --- | --- |
@@ -48,7 +47,7 @@ Segundo: año 2013, utilizando CAL propio, a los siguientes contribuyentes:
 | - MAKE UP S.A. | 76.831.870-0 |
 | - PRE UNIC S.A. | 91.635.000-7 |
 
-Tercero: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA., RUT 76.029.564-7, a los siguientes contribuyentes:
+Tercero: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA., RUT 76.029.564-7, a los siguientes contribuyentes:
 
 * BICE HIPOTECARIA ADMINISTRADORA DE MUTUOS HIPOTECARIOS S.A.
 
@@ -68,7 +67,7 @@ Cuarto:
 | - KABSA S.A. | 96.942.870-9 |
 | - POLLA CHILENA DE BENEFICENCIA S.A. | 61.604.000-6 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8, a los siguientes contribuyentes:
 
 | **- BANCO PENTA** | **97.952.000-K** |
 | --- | --- |
@@ -81,7 +80,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - SERVICIOS Y REFINERIAS DEL NORTE S.A. | 92.545.000-6 |
 | - TOPSAFETY S.A. | 96.583.940-2 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
 
 | **- AEROPUERTO CHACALLUTA SOCIEDAD CONCESIONARIA S.A.** | **99.563.730-8** |
 | --- | --- |
@@ -97,19 +96,19 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - PUERTO TERRESTRE LOS ANDES SOCIEDAD CONCESIONARIA S A. | 99.594.180-5 |
 | - ZEAL SOCIEDAD CONCESIONARIA S.A. | 76.010.909-6 |
 
-Los contribuyentes autorizados deberán cumplir lo establecido en la Res. Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la Res. Ex. SII NÂ° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2013 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Res. Ex. SII N° 150, de Diciembre de 2005.
+AutorÃ­zase ademÃ¡s a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2013 en el formato digital establecido por el Servicio, para lo cual deberÃ¡ cumplir con lo establecido en el resolutivo segundo de la Res. Ex. SII NÂ° 150, de Diciembre de 2005.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
-## RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÓN (S)
+## RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÃ“N (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
 CSM/PVG/CPG/oba
 
-Distribución:
+DistribuciÃ³n:
 
 * Internet
-* Boletín SII
+* BoletÃ­n SII

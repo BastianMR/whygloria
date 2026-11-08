@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 20 (2023)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 20.- GE245704 |
-resource: ./2023_CIRCULAR_circu20.md.docx
+title: Circular NÂ° 20 (2023)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ° 20.- GE245704 |
 tags: [SII, 2023, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 20.- GE245704** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ° 20.- GE245704** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 9 DE MAYO DE 2023 |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2023 y el 9 de junio de 2023, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de mayo de 2023 y el 9 de junio de 2023, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de mayo de 2023 y 9 de junio de 2023, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de mayo de 2023 y 9 de junio de 2023, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de mayo de 2023
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de mayo de 2023
 
-| **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** |
+| **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 35.122,26 | 35.290,91 | 35.519,79 | 35.574,33 | 35.851,62 | 36.036,37 |  |  |  |  |  |  |
 | 2 | 35.133,53 | 35.294,32 | 35.529,90 | 35.573,19 | 35.864,70 | 36.039,85 |  |  |  |  |  |  |
 | 3 | 35.144,81 | 35.297,73 | 35.540,01 | 35.572,04 | 35.877,78 | 36.043,34 |  |  |  |  |  |  |
@@ -56,7 +55,7 @@ Saluda a Ud.,
 
 ## SRG/PAO/LOF/mvv
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * -Internet
 

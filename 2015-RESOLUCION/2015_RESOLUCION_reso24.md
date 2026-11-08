@@ -1,47 +1,46 @@
----
-type: SII Resolución
-title: Resolución N° 24 (2015)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 1172-DAAC-2014
-resource: ./2015_RESOLUCION_reso24.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 24 (2015)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES 1172-DAAC-2014
 tags: [SII, 2015, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 1172-DAAC-2014
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES 1172-DAAC-2014
 
-AUTORIZA A EMPRESA ATICKET DISTRIBUCIÓN LIMITADA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
+AUTORIZA A EMPRESA ATICKET DISTRIBUCIÃ“N LIMITADA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÃCULOS PÃšBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
 
 ## SANTIAGO, 13 de MARZO DE 2015
 
-## RESOLUCIÓN EX. SII N° 24.-
+## RESOLUCIÃ“N EX. SII NÂ° 24.-
 
 ## VISTOS:
 
-Los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977; la Resolución N° 75, de 17 de Junio de 1985, del Director del Servicio; y las atribuciones que se me confieren en el resolutivo N° 9 de la Resolución Ex. SII N° 5028, de 28 de Agosto de 1998.
+Los artÃ­culos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825, de 1974 y su Reglamento contenido en el Decreto Supremo NÂ° 55, de Hacienda de 1977; la ResoluciÃ³n NÂ° 75, de 17 de Junio de 1985, del Director del Servicio; y las atribuciones que se me confieren en el resolutivo NÂ° 9 de la ResoluciÃ³n Ex. SII NÂ° 5028, de 28 de Agosto de 1998.
 
-La solicitud presentada por don Shai Agosin Weisz, Rut N° 8.997.319- 8, en representación de ATICKET DISTRIBUCIÓN LIMITADA RUT N° 76.785.800-0 , ambos domiciliados en Avenida del Valle N° 869, oficina 03, comuna de Huechuraba, Santiago, mediante la cual solicita autorización para emitir boletas de servicios, en su calidad de mandatario, para el ingreso a espectáculos y reuniones pagadas presentados o promovidos por terceras personas, conforme lo dispone la Resolución Exenta SII N° 5028, de 1998; y
+La solicitud presentada por don Shai Agosin Weisz, Rut NÂ° 8.997.319- 8, en representaciÃ³n de ATICKET DISTRIBUCIÃ“N LIMITADA RUT NÂ° 76.785.800-0 , ambos domiciliados en Avenida del Valle NÂ° 869, oficina 03, comuna de Huechuraba, Santiago, mediante la cual solicita autorizaciÃ³n para emitir boletas de servicios, en su calidad de mandatario, para el ingreso a espectÃ¡culos y reuniones pagadas presentados o promovidos por terceras personas, conforme lo dispone la ResoluciÃ³n Exenta SII NÂ° 5028, de 1998; y
 
 ## CONSIDERANDO:
 
-1° Que, el artículo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reúnan los requisitos exigidos por el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda N° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
+1Â° Que, el artÃ­culo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reÃºnan los requisitos exigidos por el Decreto Ley NÂ° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda NÂ° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
 
-* 2° Que, mediante la Resolución Ex. SII N° 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, fijó requisitos distintos a los establecidos en la letra B, del artículo 69 del Decreto Supremo N° 55, de 1977, para las boletas de servicios que deben emitirse por entradas a los espectáculos y reuniones pagadas, sean ocasionales o habituales.
+* 2Â° Que, mediante la ResoluciÃ³n Ex. SII NÂ° 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, fijÃ³ requisitos distintos a los establecidos en la letra B, del artÃ­culo 69 del Decreto Supremo NÂ° 55, de 1977, para las boletas de servicios que deben emitirse por entradas a los espectÃ¡culos y reuniones pagadas, sean ocasionales o habituales.
 
-3° Que, por Resolución Ex. SII N° 5028, de 28 de Agosto de 1998, el Director delegó, en el Subdirector de Fiscalización, la facultad de autorizar la emisión de boletas que no reúnan los requisitos exigidos por la Ley y el Reglamento sobre Impuestos a las Ventas y Servicios, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interés fiscal se encuentra debidamente resguardado.
+3Â° Que, por ResoluciÃ³n Ex. SII NÂ° 5028, de 28 de Agosto de 1998, el Director delegÃ³, en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar la emisiÃ³n de boletas que no reÃºnan los requisitos exigidos por la Ley y el Reglamento sobre Impuestos a las Ventas y Servicios, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interÃ©s fiscal se encuentra debidamente resguardado.
 
-4° Que, el resolutivo 1°, letra a), de la Resolución EX. SII. N° 5028, ya citada, indica que las boletas de servicios de ingreso a espectáculos que se emitan por cuenta de terceros serán confeccionadas en papel continuo y constarán de dos partes a lo menos, las que deberán ser entregadas al adquirente en el momento de la venta.
+4Â° Que, el resolutivo 1Â°, letra a), de la ResoluciÃ³n EX. SII. NÂ° 5028, ya citada, indica que las boletas de servicios de ingreso a espectÃ¡culos que se emitan por cuenta de terceros serÃ¡n confeccionadas en papel continuo y constarÃ¡n de dos partes a lo menos, las que deberÃ¡n ser entregadas al adquirente en el momento de la venta.
 
-5° Que, analizada la petición y los antecedentes acompañados, esta Dirección Nacional estima que la emisión de boletas de entradas a espectáculos y reuniones pagadas por cuenta de terceros mandantes, que hará la empresa ATICKET DISTRIBUCIÓN LIMITADA por medios computacionales, en la forma que se establece en la Resolución Ex. SII. N° 5028, precitada, resguarda debidamente el interés fiscal.
+5Â° Que, analizada la peticiÃ³n y los antecedentes acompaÃ±ados, esta DirecciÃ³n Nacional estima que la emisiÃ³n de boletas de entradas a espectÃ¡culos y reuniones pagadas por cuenta de terceros mandantes, que harÃ¡ la empresa ATICKET DISTRIBUCIÃ“N LIMITADA por medios computacionales, en la forma que se establece en la ResoluciÃ³n Ex. SII. NÂ° 5028, precitada, resguarda debidamente el interÃ©s fiscal.
 
 ## SE RESUELVE:
 
-1° AUTORÍZASE a ATICKET DISTRIBUCIÓN LIMITADA RUT N° 76.785.800- 0 , para que emita, por cuenta de terceros mandantes, boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, con los requisitos que señala la Resolución Ex. SII N° 5028, de 28 de Agosto de 1998.
+1Â° AUTORÃZASE a ATICKET DISTRIBUCIÃ“N LIMITADA RUT NÂ° 76.785.800- 0 , para que emita, por cuenta de terceros mandantes, boletas de servicios para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, con los requisitos que seÃ±ala la ResoluciÃ³n Ex. SII NÂ° 5028, de 28 de Agosto de 1998.
 
-2° Las boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, deben ser emitidas en forma individual.
+2Â° Las boletas de servicios para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, deben ser emitidas en forma individual.
 
-3° En el caso de venta remota de entradas para el ingreso a espectáculos públicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberá emitirse en el momento en que se percibe la remuneración.
+3Â° En el caso de venta remota de entradas para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberÃ¡ emitirse en el momento en que se percibe la remuneraciÃ³n.
 
-4° La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+4Â° La presente resoluciÃ³n regirÃ¡ a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
-## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
+## VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N

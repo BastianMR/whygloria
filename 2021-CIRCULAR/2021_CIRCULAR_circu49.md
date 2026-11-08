@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 49 (2021)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°49.- 188706.2021 GE |
-resource: ./2021_CIRCULAR_circu49.md.docx
+title: Circular NÂ° 49 (2021)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°49.- 188706.2021 GE |
 tags: [SII, 2021, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°49.- 188706.2021 GE** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°49.- 188706.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:10 DE AGOSTO DE 2021 |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2021 y el 9 de septiembre de 2021, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de agosto de 2021 y el 9 de septiembre de 2021, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de agosto de 2021 y 9 de septiembre de 2021, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de agosto de 2021 y 9 de septiembre de 2021, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de agosto de 2021
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de agosto de 2021
 
-| **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** |
+| **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 29.069,39 | 29.126,55 | 29.294,68 | 29.396,67 | 29.498,06 | 29.617,07 | 29.712,80 | 29.758,60 | 29.942,78 |  |  |  |
 | 2 | 29.068,46 | 29.129,37 | 29.301,98 | 29.398,56 | 29.501,98 | 29.620,88 | 29.715,77 | 29.759,56 | 29.950,47 |  |  |  |
 | 3 | 29.067,52 | 29.132,18 | 29.309,28 | 29.400,45 | 29.505,91 | 29.624,70 | 29.718,73 | 29.760,52 | 29.958,17 |  |  |  |
@@ -54,7 +53,7 @@ Saluda a Ud.,
 
 <unknown>
 
-SRG/PAO/LOF/mvv DISTRIBUCIÓN:
+SRG/PAO/LOF/mvv DISTRIBUCIÃ“N:
 
 * -Internet
 

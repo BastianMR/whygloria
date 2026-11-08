@@ -1,89 +1,88 @@
----
-type: SII Resolución
-title: Resolución N° 157 (2020)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN
-resource: ./2020_RESOLUCION_reso157.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 157 (2020)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
 tags: [SII, 2020, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
 
-IMPARTE REGLAS ESPECIALES PARA DETERMINACIÓN Y PUESTA A DISPOSICIÓN DE LOS PAGOS PROVISIONALES MENSUALES QUE DEBERÁN EFECTUAR LAS EMPRESAS ACOGIDAS AL RÉGIMEN PRO PYME DEL ARTÍCULO 14 LETRA D) N°3 LETRA k) Y N° 8 LETRA a) NUMERAL viii, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA.
+IMPARTE REGLAS ESPECIALES PARA DETERMINACIÃ“N Y PUESTA A DISPOSICIÃ“N DE LOS PAGOS PROVISIONALES MENSUALES QUE DEBERÃN EFECTUAR LAS EMPRESAS ACOGIDAS AL RÃ‰GIMEN PRO PYME DEL ARTÃCULO 14 LETRA D) NÂ°3 LETRA k) Y NÂ° 8 LETRA a) NUMERAL viii, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA.
 
 SANTIAGO, 15 de diciembre de 2020
 
-## RESOLUCIÓN EXENTA SII N° 157.VISTOS:
+## RESOLUCIÃ“N EXENTA SII NÂ° 157.VISTOS:
 
-El artículo 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L. N° 7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6° letra A N°1) y 21 del Código Tributario; lo dispuesto en el artículo 14° letra D) N°3 letra (k) numerales (i), (ii) y (iii); y número 8, letra (a), numeral (viii), ambas de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824 de 1974 (en adelante LIR); y, las disposiciones contenidas en la Ley N° 21.210 publicada en el Diario Oficial el 24.02. 2020, que moderniza la Legislación Tributaria; y el artículo 1° de la Ley Nº 21.256 publicada en el Diario Oficial el 2.09. 2020, que establece medidas tributarias que fomentan parte del plan de emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo;
+El artÃ­culo 1Â° y siguientes de la Ley OrgÃ¡nica del Servicio de Impuestos Internos contenida en el D.F.L. NÂ° 7, de 1980 del Ministerio de Hacienda; lo establecido en el artÃ­culo 6Â° letra A NÂ°1) y 21 del CÃ³digo Tributario; lo dispuesto en el artÃ­culo 14Â° letra D) NÂ°3 letra (k) numerales (i), (ii) y (iii); y nÃºmero 8, letra (a), numeral (viii), ambas de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del Decreto Ley NÂ°824 de 1974 (en adelante LIR); y, las disposiciones contenidas en la Ley NÂ° 21.210 publicada en el Diario Oficial el 24.02. 2020, que moderniza la LegislaciÃ³n Tributaria; y el artÃ­culo 1Â° de la Ley NÂº 21.256 publicada en el Diario Oficial el 2.09. 2020, que establece medidas tributarias que fomentan parte del plan de emergencia para la reactivaciÃ³n econÃ³mica y del empleo en un marco de convergencia fiscal de mediano plazo;
 
 ## CONSIDERANDO:
 
-1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
+1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente.
 
-* 2° Que, la Ley N° 21.210 modifica diversas disposiciones establecidas en la LIR, entre ellas, derogó a partir del 1° de enero de 2020, el artículo 14 ter de la misma norma, e incorporó en la letra D) del nuevo artículo 14 un régimen especial de tributación para las micro, pequeñas y medianas empresas (Pymes).
-* 3° Que, de conformidad a lo dispuesto en el artículo 14 Letra D) N°3, letra (k), numerales (i), (ii) y (iii), incorporado a la LIR por el N° 7 de artículo segundo de la Ley N° 21.210, se establecen las reglas especiales para que las empresas acogidas al Régimen Pro Pyme determinen los Pagos Provisionales Mensuales, sobre los ingresos brutos del giro.
+* 2Â° Que, la Ley NÂ° 21.210 modifica diversas disposiciones establecidas en la LIR, entre ellas, derogÃ³ a partir del 1Â° de enero de 2020, el artÃ­culo 14 ter de la misma norma, e incorporÃ³ en la letra D) del nuevo artÃ­culo 14 un rÃ©gimen especial de tributaciÃ³n para las micro, pequeÃ±as y medianas empresas (Pymes).
+* 3Â° Que, de conformidad a lo dispuesto en el artÃ­culo 14 Letra D) NÂ°3, letra (k), numerales (i), (ii) y (iii), incorporado a la LIR por el NÂ° 7 de artÃ­culo segundo de la Ley NÂ° 21.210, se establecen las reglas especiales para que las empresas acogidas al RÃ©gimen Pro Pyme determinen los Pagos Provisionales Mensuales, sobre los ingresos brutos del giro.
 
-Asimismo, en dicha norma se indica que el saldo anual debidamente reajustado se imputará y podrá ponerse a disposición de los propietarios, según corresponda, de acuerdo a los artículos 93 al 97 de la LIR.
+Asimismo, en dicha norma se indica que el saldo anual debidamente reajustado se imputarÃ¡ y podrÃ¡ ponerse a disposiciÃ³n de los propietarios, segÃºn corresponda, de acuerdo a los artÃ­culos 93 al 97 de la LIR.
 
-4° Que, el artículo 14 Letra D) N° 8, letra (a), numeral (viii) de la LIR, señala que, para determinar los pagos provisionales mensuales de las empresas acogidas al régimen opcional de transparencia tributaria, se aplicará lo señalado en la letra k) del número 3 de la letra D) del mismo artículo, con las especificaciones que dicho numeral (viii) señala.
+4Â° Que, el artÃ­culo 14 Letra D) NÂ° 8, letra (a), numeral (viii) de la LIR, seÃ±ala que, para determinar los pagos provisionales mensuales de las empresas acogidas al rÃ©gimen opcional de transparencia tributaria, se aplicarÃ¡ lo seÃ±alado en la letra k) del nÃºmero 3 de la letra D) del mismo artÃ­culo, con las especificaciones que dicho numeral (viii) seÃ±ala.
 
-5° Que, el párrafo final de la norma referida en el considerando N°3, establece que el Servicio de Impuestos Internos instruirá la forma de determinación de los pagos provisionales y su puesta a disposición mediante resolución.
+5Â° Que, el pÃ¡rrafo final de la norma referida en el considerando NÂ°3, establece que el Servicio de Impuestos Internos instruirÃ¡ la forma de determinaciÃ³n de los pagos provisionales y su puesta a disposiciÃ³n mediante resoluciÃ³n.
 
-6° Que, el artículo 1.- de la Ley N° 21.256 disminuye transitoriamente la tasa del Impuesto de Primera Categoría establecida en el artículo 20 de la LIR, para las empresas acogidas al Régimen Pro Pyme contemplado en la letra D) del artículo 14 de dicha ley, al 10% para las rentas que se perciban o devenguen durante los ejercicios 2020, 2021 y 2022.
+6Â° Que, el artÃ­culo 1.- de la Ley NÂ° 21.256 disminuye transitoriamente la tasa del Impuesto de Primera CategorÃ­a establecida en el artÃ­culo 20 de la LIR, para las empresas acogidas al RÃ©gimen Pro Pyme contemplado en la letra D) del artÃ­culo 14 de dicha ley, al 10% para las rentas que se perciban o devenguen durante los ejercicios 2020, 2021 y 2022.
 
-En el inciso segundo del señalado artículo 1.- se establece que, a los contribuyentes que se beneficien de la disminución transitoria de tasa antes aludida, esto es, empresas acogidas al Régimen Pro Pyme contemplado en el N°3 de la letra D) del artículo 14 de la LIR, se les disminuirá a la mitad la tasa de pagos provisionales mensuales que les corresponde pagar en los ejercicios 2020, 2021 y 2022. La disminución de la tasa de pagos provisionales mensuales aplicará respecto de la declaración y pago que corresponda realizar en el mes subsiguiente a la publicación de esta ley en el Diario Oficial.
+En el inciso segundo del seÃ±alado artÃ­culo 1.- se establece que, a los contribuyentes que se beneficien de la disminuciÃ³n transitoria de tasa antes aludida, esto es, empresas acogidas al RÃ©gimen Pro Pyme contemplado en el NÂ°3 de la letra D) del artÃ­culo 14 de la LIR, se les disminuirÃ¡ a la mitad la tasa de pagos provisionales mensuales que les corresponde pagar en los ejercicios 2020, 2021 y 2022. La disminuciÃ³n de la tasa de pagos provisionales mensuales aplicarÃ¡ respecto de la declaraciÃ³n y pago que corresponda realizar en el mes subsiguiente a la publicaciÃ³n de esta ley en el Diario Oficial.
 
-Por su parte, la Circular Nº 62, del 24 de septiembre de 2020, en sus numerales 1.8.2. y 1.8.3., precisa que las tasas de pagos provisionales obligatorios señaladas en los numerales (ii) y (iii) de la letra (k) del N° 3 de la D) del artículo 14 de la LIR, disminuirán a 0,125% y 0,25%, respectivamente, con motivo de lo contemplado en el señalado inciso segundo del artículo 1.- de la Ley N° 21.256.
+Por su parte, la Circular NÂº 62, del 24 de septiembre de 2020, en sus numerales 1.8.2. y 1.8.3., precisa que las tasas de pagos provisionales obligatorios seÃ±aladas en los numerales (ii) y (iii) de la letra (k) del NÂ° 3 de la D) del artÃ­culo 14 de la LIR, disminuirÃ¡n a 0,125% y 0,25%, respectivamente, con motivo de lo contemplado en el seÃ±alado inciso segundo del artÃ­culo 1.- de la Ley NÂ° 21.256.
 
 ## RESUELVO:
 
-1° Los contribuyentes sujetos al régimen Pro Pyme establecido en el N° 3 de la letra D) del artículo 14 de la LIR, deberán efectuar pagos provisionales mensuales obligatorios aplicando a los ingresos brutos del giro la tasa que corresponda, según las siguientes situaciones:
+1Â° Los contribuyentes sujetos al rÃ©gimen Pro Pyme establecido en el NÂ° 3 de la letra D) del artÃ­culo 14 de la LIR, deberÃ¡n efectuar pagos provisionales mensuales obligatorios aplicando a los ingresos brutos del giro la tasa que corresponda, segÃºn las siguientes situaciones:
 
-* a) En el año del inicio de sus actividades aplicarán una tasa de 0,25%.
-* b) Si los ingresos brutos del giro del año anterior no exceden de 50.000 unidades de fomento, aplicarán una tasa de 0,25%.
-* c) Si los ingresos brutos del giro del año anterior exceden de 50.000 unidades de fomento, aplicarán una tasa de 0,50%.
+* a) En el aÃ±o del inicio de sus actividades aplicarÃ¡n una tasa de 0,25%.
+* b) Si los ingresos brutos del giro del aÃ±o anterior no exceden de 50.000 unidades de fomento, aplicarÃ¡n una tasa de 0,25%.
+* c) Si los ingresos brutos del giro del aÃ±o anterior exceden de 50.000 unidades de fomento, aplicarÃ¡n una tasa de 0,50%.
 
-No obstante lo anterior, y conforme a lo señalado en el considerando 6°, las empresas sujetas al régimen Pro Pyme del N° 3 de la letra D) del artículo 14 de la LIR, durante los ejercicios 2020, 2021 y 2022, aplicarán la tasa del 0,125% para los casos de las letras a) y b) de este resolutivo, y la tasa del 0,25% para la situación que describe la letra c). Las tasas de PPM antes señaladas, aplicarán a partir de la declaración y pago que corresponda realizar en el mes noviembre de 2020, es decir, dichas tasas deberán aplicar a los ingresos percibidos en el mes de octubre de 2020.
+No obstante lo anterior, y conforme a lo seÃ±alado en el considerando 6Â°, las empresas sujetas al rÃ©gimen Pro Pyme del NÂ° 3 de la letra D) del artÃ­culo 14 de la LIR, durante los ejercicios 2020, 2021 y 2022, aplicarÃ¡n la tasa del 0,125% para los casos de las letras a) y b) de este resolutivo, y la tasa del 0,25% para la situaciÃ³n que describe la letra c). Las tasas de PPM antes seÃ±aladas, aplicarÃ¡n a partir de la declaraciÃ³n y pago que corresponda realizar en el mes noviembre de 2020, es decir, dichas tasas deberÃ¡n aplicar a los ingresos percibidos en el mes de octubre de 2020.
 
-2° Los ingresos brutos que se considerarán para la determinación de los pagos provisionales mensuales establecidos en el resolutivo anterior, serán los ingresos del giro, es decir, que provengan de su actividad, y percibidos por el contribuyente, ya sea que provengan de las operaciones de ventas, exportaciones y prestaciones de servicio, afectas, exentas o no gravadas con el Impuesto a las Ventas y Servicios, además, de aquellos que correspondan a ingresos de la explotación de bienes raíces no agrícolas, conforme al N° 1 del artículo 20 de la LIR o el mayor valor obtenido en actividades clasificadas en el numeral 2 de la misma norma, tales como rentas de capitales mobiliarios, ya sea intereses o cualesquiera otro producto derivado del dominio, posesión o tenencia de éstos, y la participación en contratos de asociación o cuentas en participación.
+2Â° Los ingresos brutos que se considerarÃ¡n para la determinaciÃ³n de los pagos provisionales mensuales establecidos en el resolutivo anterior, serÃ¡n los ingresos del giro, es decir, que provengan de su actividad, y percibidos por el contribuyente, ya sea que provengan de las operaciones de ventas, exportaciones y prestaciones de servicio, afectas, exentas o no gravadas con el Impuesto a las Ventas y Servicios, ademÃ¡s, de aquellos que correspondan a ingresos de la explotaciÃ³n de bienes raÃ­ces no agrÃ­colas, conforme al NÂ° 1 del artÃ­culo 20 de la LIR o el mayor valor obtenido en actividades clasificadas en el numeral 2 de la misma norma, tales como rentas de capitales mobiliarios, ya sea intereses o cualesquiera otro producto derivado del dominio, posesiÃ³n o tenencia de Ã©stos, y la participaciÃ³n en contratos de asociaciÃ³n o cuentas en participaciÃ³n.
 
-No obstante, tratándose de operaciones con entidades relacionadas que estén sujetas al régimen de tributación de la letra A) del artículo 14 de la LIR, el ingreso bruto se reconocerá como tal sea que se encuentre percibido o devengado. Es del caso señalar, que se entiende como entidades relacionadas, cualquiera sea la naturaleza jurídica de estas, las personas y las entidades que se definen como tales en el número 17 del artículo 8° del Código Tributario.
+No obstante, tratÃ¡ndose de operaciones con entidades relacionadas que estÃ©n sujetas al rÃ©gimen de tributaciÃ³n de la letra A) del artÃ­culo 14 de la LIR, el ingreso bruto se reconocerÃ¡ como tal sea que se encuentre percibido o devengado. Es del caso seÃ±alar, que se entiende como entidades relacionadas, cualquiera sea la naturaleza jurÃ­dica de estas, las personas y las entidades que se definen como tales en el nÃºmero 17 del artÃ­culo 8Â° del CÃ³digo Tributario.
 
-Cabe indicar que no se deben considerar las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A) del artículo 14 o al régimen del número 3, de la letra D) de la LIR.
+Cabe indicar que no se deben considerar las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A) del artÃ­culo 14 o al rÃ©gimen del nÃºmero 3, de la letra D) de la LIR.
 
-3° Los contribuyentes sometidos al régimen establecido en el N° 8 de la letra D) del artículo 14 de la LIR, esto es, al régimen Pro Pyme
+3Â° Los contribuyentes sometidos al rÃ©gimen establecido en el NÂ° 8 de la letra D) del artÃ­culo 14 de la LIR, esto es, al rÃ©gimen Pro Pyme
 
-Transparente, deberán efectuar pagos provisionales mensuales obligatorios aplicando a los ingresos brutos del giro la tasa que corresponda, según las siguientes situaciones:
+Transparente, deberÃ¡n efectuar pagos provisionales mensuales obligatorios aplicando a los ingresos brutos del giro la tasa que corresponda, segÃºn las siguientes situaciones:
 
-* a) En el año del inicio de sus actividades aplicarán una tasa de 0,2%.
-* b) Si los ingresos brutos del giro del año anterior no exceden de 50.000 unidades de fomento, aplicarán una tasa de 0,2%.
-* c) Si los ingresos brutos del giro del año anterior exceden de 50.000 unidades de fomento, aplicarán una tasa de 0,50%.
+* a) En el aÃ±o del inicio de sus actividades aplicarÃ¡n una tasa de 0,2%.
+* b) Si los ingresos brutos del giro del aÃ±o anterior no exceden de 50.000 unidades de fomento, aplicarÃ¡n una tasa de 0,2%.
+* c) Si los ingresos brutos del giro del aÃ±o anterior exceden de 50.000 unidades de fomento, aplicarÃ¡n una tasa de 0,50%.
 
-4° Los ingresos brutos que se deben considerar para la determinación de los pagos provisionales mensuales establecidos en el resolutivo N°3, serán los ingresos brutos relacionados con el giro de la empresa y percibidos por el contribuyente, en los mismos términos definidos en el resolutivo 2°.
+4Â° Los ingresos brutos que se deben considerar para la determinaciÃ³n de los pagos provisionales mensuales establecidos en el resolutivo NÂ°3, serÃ¡n los ingresos brutos relacionados con el giro de la empresa y percibidos por el contribuyente, en los mismos tÃ©rminos definidos en el resolutivo 2Â°.
 
-No obstante, tratándose de operaciones con entidades relacionadas que estén sujetas al régimen de tributación de la letra A) del artículo 14 de la LIR, el ingreso bruto se reconocerá como tal sea que se encuentre percibido o devengado. Se entiende como entidades relacionadas, cualquiera sea la naturaleza jurídica de éstas, las personas y las entidades que se definen como tales en el número 17 del artículo 8° del Código Tributario.
+No obstante, tratÃ¡ndose de operaciones con entidades relacionadas que estÃ©n sujetas al rÃ©gimen de tributaciÃ³n de la letra A) del artÃ­culo 14 de la LIR, el ingreso bruto se reconocerÃ¡ como tal sea que se encuentre percibido o devengado. Se entiende como entidades relacionadas, cualquiera sea la naturaleza jurÃ­dica de Ã©stas, las personas y las entidades que se definen como tales en el nÃºmero 17 del artÃ­culo 8Â° del CÃ³digo Tributario.
 
-Asimismo, se considerarán las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A) del artículo 14 o al régimen Pro Pyme del N° 3 de la letra D) de la LIR.
+Asimismo, se considerarÃ¡n las rentas percibidas con motivo de participaciones en otras empresas o entidades sujetas a la letra A) del artÃ­culo 14 o al rÃ©gimen Pro Pyme del NÂ° 3 de la letra D) de la LIR.
 
-Cabe indicar, que el ingreso diferido determinado por aquellos contribuyentes que se trasladen desde el régimen de la letra A del artículo 14 de la LIR o desde el régimen Pro Pyme del N° 3 de la letra D) del mismo cuerpo legal, al régimen de transparencia tributaria, según lo señalado en el numeral ii) de la letra d) del N° 8 de la letra D) del artículo 14 del mismo cuerpo legal, no se computará para la determinación de los pagos provisionales mensuales.
+Cabe indicar, que el ingreso diferido determinado por aquellos contribuyentes que se trasladen desde el rÃ©gimen de la letra A del artÃ­culo 14 de la LIR o desde el rÃ©gimen Pro Pyme del NÂ° 3 de la letra D) del mismo cuerpo legal, al rÃ©gimen de transparencia tributaria, segÃºn lo seÃ±alado en el numeral ii) de la letra d) del NÂ° 8 de la letra D) del artÃ­culo 14 del mismo cuerpo legal, no se computarÃ¡ para la determinaciÃ³n de los pagos provisionales mensuales.
 
-5° Además, se establece que el saldo anual por este concepto, debidamente reajustado, se imputará a las obligaciones tributarias de la empresa y podrá ponerse a disposición de los propietarios, según corresponda, de acuerdo a los artículos 93 a 97 de la LIR.
+5Â° AdemÃ¡s, se establece que el saldo anual por este concepto, debidamente reajustado, se imputarÃ¡ a las obligaciones tributarias de la empresa y podrÃ¡ ponerse a disposiciÃ³n de los propietarios, segÃºn corresponda, de acuerdo a los artÃ­culos 93 a 97 de la LIR.
 
-Las empresas acogidas al régimen Pro Pyme, establecido en el número 3 de la letra D) del artículo 14 referido, deberán informar lo anterior al Servicio de Impuestos Internos en los términos señalados en la Resolución Exenta SII N° 04 del 07 de enero de 2008, la cual establece la obligación a las sociedades y comunidades de informar sobre los créditos y pagos provisionales mensuales puestos a disposición de sus socios y comuneros, mediante Formulario N° 1837. Por su parte, el incumplimiento de esta obligación será sancionada de acuerdo a lo establecido en el N° 15 del artículo 97 del Código Tributario. A su vez, deberán informar a sus socios o comuneros sobre los créditos o pagos provisionales mensuales puestos a disposición mediante el certificado N° 18 sobre pagos provisionales mensuales puestos a disposición de los socios o comuneros.
+Las empresas acogidas al rÃ©gimen Pro Pyme, establecido en el nÃºmero 3 de la letra D) del artÃ­culo 14 referido, deberÃ¡n informar lo anterior al Servicio de Impuestos Internos en los tÃ©rminos seÃ±alados en la ResoluciÃ³n Exenta SII NÂ° 04 del 07 de enero de 2008, la cual establece la obligaciÃ³n a las sociedades y comunidades de informar sobre los crÃ©ditos y pagos provisionales mensuales puestos a disposiciÃ³n de sus socios y comuneros, mediante Formulario NÂ° 1837. Por su parte, el incumplimiento de esta obligaciÃ³n serÃ¡ sancionada de acuerdo a lo establecido en el NÂ° 15 del artÃ­culo 97 del CÃ³digo Tributario. A su vez, deberÃ¡n informar a sus socios o comuneros sobre los crÃ©ditos o pagos provisionales mensuales puestos a disposiciÃ³n mediante el certificado NÂ° 18 sobre pagos provisionales mensuales puestos a disposiciÃ³n de los socios o comuneros.
 
-Por su parte, las empresas acogidas al régimen de transparencia tributaria, establecido en el N° 8 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, deberán informar en los términos señalados en la Resolución Exenta SII N° 97 del 28 de agosto de 2020, en la que deberá declarar las rentas, créditos y pagos provisionales mensuales que les corresponda a los propietarios de las empresas acogidas a dicho régimen; asimismo deberán confeccionar el certificado N° 69 sobre rentas y créditos correspondientes a dueños, socios, comuneros, accionistas de empresas, sociedades o comunidades acogidas al régimen tributario del N°8 de la letra D) del artículo 14 de la LIR.
+Por su parte, las empresas acogidas al rÃ©gimen de transparencia tributaria, establecido en el NÂ° 8 de la letra D) del artÃ­culo 14 de la Ley sobre Impuesto a la Renta, deberÃ¡n informar en los tÃ©rminos seÃ±alados en la ResoluciÃ³n Exenta SII NÂ° 97 del 28 de agosto de 2020, en la que deberÃ¡ declarar las rentas, crÃ©ditos y pagos provisionales mensuales que les corresponda a los propietarios de las empresas acogidas a dicho rÃ©gimen; asimismo deberÃ¡n confeccionar el certificado NÂ° 69 sobre rentas y crÃ©ditos correspondientes a dueÃ±os, socios, comuneros, accionistas de empresas, sociedades o comunidades acogidas al rÃ©gimen tributario del NÂ°8 de la letra D) del artÃ­culo 14 de la LIR.
 
-6° Cabe señalar que, conforme a lo establecido en el numeral 1.8.4. de la Circular N° 62, del 24 de septiembre de 2020, los contribuyentes acogidos al régimen del N° 3 de la letra D) del artículo 14 de la LIR, podrán suspender los pagos provisionales mensuales obligatorios correspondientes al primer trimestre del año comercial siguiente cuando obtuvieren pérdidas en el ejercicio anterior, tal como lo establece el artículo 90 de la Ley sobre Impuestos a la Renta. En este sentido, de mantenerse la situación de pérdida en el primer, segundo o tercer trimestre de dicho ejercicio comercial, o se produce en alguno de los citados trimestres, podrán suspender dichos pagos correspondientes a los ingresos brutos del trimestre siguiente a aquél en que la pérdida se produce.
+6Â° Cabe seÃ±alar que, conforme a lo establecido en el numeral 1.8.4. de la Circular NÂ° 62, del 24 de septiembre de 2020, los contribuyentes acogidos al rÃ©gimen del NÂ° 3 de la letra D) del artÃ­culo 14 de la LIR, podrÃ¡n suspender los pagos provisionales mensuales obligatorios correspondientes al primer trimestre del aÃ±o comercial siguiente cuando obtuvieren pÃ©rdidas en el ejercicio anterior, tal como lo establece el artÃ­culo 90 de la Ley sobre Impuestos a la Renta. En este sentido, de mantenerse la situaciÃ³n de pÃ©rdida en el primer, segundo o tercer trimestre de dicho ejercicio comercial, o se produce en alguno de los citados trimestres, podrÃ¡n suspender dichos pagos correspondientes a los ingresos brutos del trimestre siguiente a aquÃ©l en que la pÃ©rdida se produce.
 
 <unknown>
 
-7° El incumplimiento de la obligación a que se refiere los resolutivos 1 y 3 de esta resolución será sancionado conforme a lo establecido en el N°11 del artículo 97 del Código Tributario, más los reajustes e intereses correspondientes.
+7Â° El incumplimiento de la obligaciÃ³n a que se refiere los resolutivos 1 y 3 de esta resoluciÃ³n serÃ¡ sancionado conforme a lo establecido en el NÂ°11 del artÃ­culo 97 del CÃ³digo Tributario, mÃ¡s los reajustes e intereses correspondientes.
 
-8° La obligación de efectuar los pagos provisionales mensuales, establecidos en la presente resolución regirá a contar del 1° enero de 2020, teniendo presente que la tasa que se determine conforme a lo señalado en los resolutivos 1 y 3 se aplicará a los ingresos brutos del giro del mes en que deba presentarse la declaración de renta correspondiente al ejercicio anterior, es decir, abril de 2020, y hasta los ingresos brutos del mes anterior a aquel en que deba presentar la próxima declaración de renta, es decir, marzo de 2021, y así sucesivamente.
+8Â° La obligaciÃ³n de efectuar los pagos provisionales mensuales, establecidos en la presente resoluciÃ³n regirÃ¡ a contar del 1Â° enero de 2020, teniendo presente que la tasa que se determine conforme a lo seÃ±alado en los resolutivos 1 y 3 se aplicarÃ¡ a los ingresos brutos del giro del mes en que deba presentarse la declaraciÃ³n de renta correspondiente al ejercicio anterior, es decir, abril de 2020, y hasta los ingresos brutos del mes anterior a aquel en que deba presentar la prÃ³xima declaraciÃ³n de renta, es decir, marzo de 2021, y asÃ­ sucesivamente.
 
-Lo anterior, es sin perjuicio de la condonación de los pagos provisionales efectuados por el Decreto N° 420, del 30 de marzo de 2020, modificado por el Decreto Nº 1.043, del 26 de junio de 2020, ambos del Ministerio de Hacienda, y de lo señalado en el párrafo segundo del Resolutivo N° 1 de esta resolución.
+Lo anterior, es sin perjuicio de la condonaciÃ³n de los pagos provisionales efectuados por el Decreto NÂ° 420, del 30 de marzo de 2020, modificado por el Decreto NÂº 1.043, del 26 de junio de 2020, ambos del Ministerio de Hacienda, y de lo seÃ±alado en el pÃ¡rrafo segundo del Resolutivo NÂ° 1 de esta resoluciÃ³n.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 <unknown>
 
@@ -91,7 +90,7 @@ Lo anterior, es sin perjuicio de la condonación de los pagos provisionales efec
 
 CSM/CGG/OEG/KCC/MCRB
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * A Internet.
 * -Al Diario Oficial, en extracto.

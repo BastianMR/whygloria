@@ -1,14 +1,13 @@
----
-type: SII Resolución
-title: Resolución N° 106 (2017)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE 10317 446 - SDAC - 2017
-resource: ./2017_RESOLUCION_reso106.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 106 (2017)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE 10317 446 - SDAC - 2017
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE 10317 446 - SDAC - 2017
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE 10317 446 - SDAC - 2017
 
-AUTORIZA COMO RECEPTORES ELECTRÓNICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS SIGUIENTES ORGANISMOS PÚBLICOS:
+AUTORIZA COMO RECEPTORES ELECTRÃ“NICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÃ“NICOS A LOS SIGUIENTES ORGANISMOS PÃšBLICOS:
 
 I MUNICIPALIDAD DE EL BOSQUE
 
@@ -18,38 +17,38 @@ SANTIAGO, 20 DE OCTUBRE 2017
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° 106.-/
+RESOLUCIÃ“N EXENTA SII NÂ° 106.-/
 
 VISTOS:
 
-Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. Nº 825, de 1974; las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91, del 06.10.2017; y 72, del 21.08.2015; y
+Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂº 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; en los artÃ­culos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del D.L. NÂº 825, de 1974; las Resoluciones Exentas NÂ°s 63, de 15.07.2004 modificada por la ResoluciÃ³n Exenta NÂ° 91, del 06.10.2017; y 72, del 21.08.2015; y
 
 ## CONSIDERANDO:
 
-1° Que, la Resolución Exenta N° 63, del 2004, modificada por la Resolución N° 63, del 2017, estableció normas y procedimientos de operación para que los Organismos Públicos sean autorizados como Receptores Electrónicos de Documentos Tributarios Electrónicos.
+1Â° Que, la ResoluciÃ³n Exenta NÂ° 63, del 2004, modificada por la ResoluciÃ³n NÂ° 63, del 2017, estableciÃ³ normas y procedimientos de operaciÃ³n para que los Organismos PÃºblicos sean autorizados como Receptores ElectrÃ³nicos de Documentos Tributarios ElectrÃ³nicos.
 
-2° Que, los Organismos Públicos que se detallan en el resolutivo primero, han postulado como receptores de Documentos Tributarios Electrónicos y han cumplido los requisitos establecidos en las instrucciones descritas para ser receptores electrónicos de documentos tributarios electrónicos.
+2Â° Que, los Organismos PÃºblicos que se detallan en el resolutivo primero, han postulado como receptores de Documentos Tributarios ElectrÃ³nicos y han cumplido los requisitos establecidos en las instrucciones descritas para ser receptores electrÃ³nicos de documentos tributarios electrÃ³nicos.
 
-3° Que, la Resolución Ex. SII Nº 72, del 21.08.2015, delegó en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos públicos como receptores de Documentos Tributarios Electrónicos
+3Â° Que, la ResoluciÃ³n Ex. SII NÂº 72, del 21.08.2015, delegÃ³ en el Subdirector de Asistencia al Contribuyente la facultad de autorizar a organismos pÃºblicos como receptores de Documentos Tributarios ElectrÃ³nicos
 
 ## SE RESUELVE:
 
-1° Autorícese como receptor electrónico, a contar del mes de octubre de 2017, a los siguientes Organismos Públicos:
+1Â° AutorÃ­cese como receptor electrÃ³nico, a contar del mes de octubre de 2017, a los siguientes Organismos PÃºblicos:
 
-* -I. MUNICIPALIDAD DE EL BOSQUE, RUT N° 69.255.300-4
+* -I. MUNICIPALIDAD DE EL BOSQUE, RUT NÂ° 69.255.300-4
 * -I. MUNICIPALIDAD DE QUILLECO, RUT 69.170.400-9
 
-2° Los Organismos Públicos autorizados como receptores de Documentos Tributarios Electróncos, deberán ajustarse a las instrucciones impartidas en la Resolución Ex. SII N° 63, de 15.07.2004, modificada por la Resolución Ex. SII N° 91, de 06.10.2017.
+2Â° Los Organismos PÃºblicos autorizados como receptores de Documentos Tributarios ElectrÃ³ncos, deberÃ¡n ajustarse a las instrucciones impartidas en la ResoluciÃ³n Ex. SII NÂ° 63, de 15.07.2004, modificada por la ResoluciÃ³n Ex. SII NÂ° 91, de 06.10.2017.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
-(Fdo.) VERÓNICA VALLE SARÁH SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
+(Fdo.) VERÃ“NICA VALLE SARÃH SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-MDA/RPA/OBA/MME Distribución:
+MDA/RPA/OBA/MME DistribuciÃ³n:
 
 * Solicitantes
 * Internet
-* Boletín
+* BoletÃ­n
 * Diario Oficial

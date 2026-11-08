@@ -1,70 +1,69 @@
----
-type: SII Resolución
-title: Resolución N° 83 (2023)
-description: DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.
-resource: ./2023_RESOLUCION_reso83.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 83 (2023)
+description: DELEGA EN EL SUBDIRECTOR(A) JURÃDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.
 tags: [SII, 2023, resolucion]
 ---
 
-DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.
+DELEGA EN EL SUBDIRECTOR(A) JURÃDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.
 
-## RESOLUCIÓN EXENTA SII N°83.SANTIAGO, 03 DE AGOSTO DE 2023.
+## RESOLUCIÃ“N EXENTA SII NÂ°83.SANTIAGO, 03 DE AGOSTO DE 2023.
 
-VISTOS: Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario; en las letras c) i) j) y r) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L. N°7, de Hacienda, de 1980; en el artículo 35 del Código Tributario; en el artículo 41, de la Ley N°18.575, que establece las bases generales de la Administración del Estado, y en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República, y
+VISTOS: Lo dispuesto en el artÃ­culo 6Â° letra A NÂ°3, del CÃ³digo Tributario; en las letras c) i) j) y r) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero, del D.F.L. NÂ°7, de Hacienda, de 1980; en el artÃ­culo 35 del CÃ³digo Tributario; en el artÃ­culo 41, de la Ley NÂ°18.575, que establece las bases generales de la AdministraciÃ³n del Estado, y en la ResoluciÃ³n NÂ° 6, de 26.03.2019, de la ContralorÃ­a General de la RepÃºblica, y
 
 ## CONSIDERANDO:
 
-1° Que, el N°3 de la letra A) del artículo 6°, del Código Tributario y la letra j) del artículo 7, de la Ley Orgánica del Servicio, facultan al Director para autorizar a Subdirectores, Directores Regionales u otros funcionarios, para hacer uso de algunas de sus atribuciones, actuando "Por orden del Director";
+1Â° Que, el NÂ°3 de la letra A) del artÃ­culo 6Â°, del CÃ³digo Tributario y la letra j) del artÃ­culo 7, de la Ley OrgÃ¡nica del Servicio, facultan al Director para autorizar a Subdirectores, Directores Regionales u otros funcionarios, para hacer uso de algunas de sus atribuciones, actuando "Por orden del Director";
 
-2° Que, atendido que las solicitudes de información formuladas a la Dirección Nacional del Servicio de Impuestos Internos inciden en materias eventualmente afectas al deber de reserva que afecta a los funcionarios del Servicio, sea en razón de lo establecido en el inciso segundo del artículo 35 del Código Tributario o en lo dispuesto en la Ley N° 19.628, sobre protección a la vida privada o en otros cuerpos legales, es necesario someter tales solicitudes a un análisis técnico adecuado que permita dar respuestas oportunas que se ajusten a la legalidad vigente;
+2Â° Que, atendido que las solicitudes de informaciÃ³n formuladas a la DirecciÃ³n Nacional del Servicio de Impuestos Internos inciden en materias eventualmente afectas al deber de reserva que afecta a los funcionarios del Servicio, sea en razÃ³n de lo establecido en el inciso segundo del artÃ­culo 35 del CÃ³digo Tributario o en lo dispuesto en la Ley NÂ° 19.628, sobre protecciÃ³n a la vida privada o en otros cuerpos legales, es necesario someter tales solicitudes a un anÃ¡lisis tÃ©cnico adecuado que permita dar respuestas oportunas que se ajusten a la legalidad vigente;
 
-3° Que, a su vez, resulta apropiado delegar en la jefatura del área la facultad de solicitar a otros entes o autoridades de la Administración del Estado la información que resulte necesaria para el desarrollo de las funciones propias de la Subdirección Jurídica.
+3Â° Que, a su vez, resulta apropiado delegar en la jefatura del Ã¡rea la facultad de solicitar a otros entes o autoridades de la AdministraciÃ³n del Estado la informaciÃ³n que resulte necesaria para el desarrollo de las funciones propias de la SubdirecciÃ³n JurÃ­dica.
 
-4° Que, atendido lo anterior, para un mejor cumplimiento de las labores institucionales, se hace necesario adecuar y actualizar las resoluciones delegatorias de facultades vigentes en materia de atención de las solicitudes de información que se formulan a las Unidades de la Dirección Nacional; y
+4Â° Que, atendido lo anterior, para un mejor cumplimiento de las labores institucionales, se hace necesario adecuar y actualizar las resoluciones delegatorias de facultades vigentes en materia de atenciÃ³n de las solicitudes de informaciÃ³n que se formulan a las Unidades de la DirecciÃ³n Nacional; y
 
-5° Las necesidades del Servicio;
+5Â° Las necesidades del Servicio;
 
 ## SE RESUELVE:
 
-1° REVÓCASE las delegaciones de facultades contenidas en el resolutivo quinto de la Resolución Ex. SII N° 95 de 2014 y en la Resolución Ex. SII N° 1218, de 1991.
+1Â° REVÃ“CASE las delegaciones de facultades contenidas en el resolutivo quinto de la ResoluciÃ³n Ex. SII NÂ° 95 de 2014 y en la ResoluciÃ³n Ex. SII NÂ° 1218, de 1991.
 
-2° DELÉGASE en el Subdirector(a) Jurídico(a) las siguientes facultades:
+2Â° DELÃ‰GASE en el Subdirector(a) JurÃ­dico(a) las siguientes facultades:
 
-a) Entregar información o, si corresponde, denegar dicha entrega, ante requerimientos efectuados por autoridades administrativas, en materias de competencia de la Subdirección Jurídica.
+a) Entregar informaciÃ³n o, si corresponde, denegar dicha entrega, ante requerimientos efectuados por autoridades administrativas, en materias de competencia de la SubdirecciÃ³n JurÃ­dica.
 
-b) Suscribir comunicaciones u oficios de cualquier naturaleza que se dirijan a autoridades administrativas u organismos públicos, que contengan requerimientos de información necesaria para el desarrollo de funciones propias de la Subdirección Jurídica.
+b) Suscribir comunicaciones u oficios de cualquier naturaleza que se dirijan a autoridades administrativas u organismos pÃºblicos, que contengan requerimientos de informaciÃ³n necesaria para el desarrollo de funciones propias de la SubdirecciÃ³n JurÃ­dica.
 
-c) Suscribir comunicaciones u oficios de cualquier naturaleza respondiendo a los contribuyentes en materias inherentes a la Subdirección Jurídica. Lo anterior, salvo que se trate de asuntos afectos a delegaciones particulares vigentes.
+c) Suscribir comunicaciones u oficios de cualquier naturaleza respondiendo a los contribuyentes en materias inherentes a la SubdirecciÃ³n JurÃ­dica. Lo anterior, salvo que se trate de asuntos afectos a delegaciones particulares vigentes.
 
-d) Entregar información o, si corresponde, denegar dicha entrega, respecto de requerimientos efectuados por todo otro tribunal del país, que no se encuentre comprendido en el siguiente resolutivo.
+d) Entregar informaciÃ³n o, si corresponde, denegar dicha entrega, respecto de requerimientos efectuados por todo otro tribunal del paÃ­s, que no se encuentre comprendido en el siguiente resolutivo.
 
-3° DELÉGASE en la jefatura del Departamento de Defensa Judicial Penal, de la Subdirección Jurídica, la facultad de entregar información o, si corresponde, denegar dicha entrega ante requerimientos efectuados por:
+3Â° DELÃ‰GASE en la jefatura del Departamento de Defensa Judicial Penal, de la SubdirecciÃ³n JurÃ­dica, la facultad de entregar informaciÃ³n o, si corresponde, denegar dicha entrega ante requerimientos efectuados por:
 
-* a) Los fiscales del Ministerio Público.
+* a) Los fiscales del Ministerio PÃºblico.
 
-b) La Policía de Investigaciones de Chile o Carabineros de Chile, efectuados conforme su función de auxiliar del Ministerio Público en las tareas de investigación penal.
+b) La PolicÃ­a de Investigaciones de Chile o Carabineros de Chile, efectuados conforme su funciÃ³n de auxiliar del Ministerio PÃºblico en las tareas de investigaciÃ³n penal.
 
 * c) Los fiscales militares.
 * d) Ministros en Visita Extraordinarios.
 
-e) Los Tribunales de Justicia competentes, de forma centralizada, a raíz del 'Procedimiento especial para el cobro de deudas de pensiones de alimentos' conforme lo establecido en la Ley N° 21.484, de no encontrarse disponible la información o el sistema interconectado a que hace alusión dicha ley.
+e) Los Tribunales de Justicia competentes, de forma centralizada, a raÃ­z del 'Procedimiento especial para el cobro de deudas de pensiones de alimentos' conforme lo establecido en la Ley NÂ° 21.484, de no encontrarse disponible la informaciÃ³n o el sistema interconectado a que hace alusiÃ³n dicha ley.
 
-* 4° Los delegatarios ejercerán las facultades delegadas respecto de los requerimientos de información dirigidos a la Institución, sea en forma genérica, al Director del Servicio a una determinada jefatura o estamento de la Dirección Nacional, incluida la Dirección de Grandes Contribuyentes.
+* 4Â° Los delegatarios ejercerÃ¡n las facultades delegadas respecto de los requerimientos de informaciÃ³n dirigidos a la InstituciÃ³n, sea en forma genÃ©rica, al Director del Servicio a una determinada jefatura o estamento de la DirecciÃ³n Nacional, incluida la DirecciÃ³n de Grandes Contribuyentes.
 
-De esta forma, los requerimientos de información que sean dirigidos a las Direcciones Regionales deberán ser respondidos directamente por la Unidad interpelada.
+De esta forma, los requerimientos de informaciÃ³n que sean dirigidos a las Direcciones Regionales deberÃ¡n ser respondidos directamente por la Unidad interpelada.
 
-5° Quedan excluidos de esta delegación los pronunciamientos sobre solicitudes de información que deban dirigirse a las siguientes autoridades:
+5Â° Quedan excluidos de esta delegaciÃ³n los pronunciamientos sobre solicitudes de informaciÃ³n que deban dirigirse a las siguientes autoridades:
 
-* a) Presidente de la República;
-* b) Presidente del Senado o de la Cámara de Diputadas y de Diputados;
+* a) Presidente de la RepÃºblica;
+* b) Presidente del Senado o de la CÃ¡mara de Diputadas y de Diputados;
 * c) Presidente de la Corte Suprema;
 * d) Presidente del Tribunal Constitucional;
 * e) Ministros de Estado; o
-* f) Contralor General de la República.
+* f) Contralor General de la RepÃºblica.
 
-6° Todos los actos administrativos que se suscriban en ejercicio de las facultades delegadas deberán consignar, antes de la firma del delegado, la frase 'Por Orden del Director'.
+6Â° Todos los actos administrativos que se suscriban en ejercicio de las facultades delegadas deberÃ¡n consignar, antes de la firma del delegado, la frase 'Por Orden del Director'.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
@@ -74,7 +73,7 @@ De esta forma, los requerimientos de información que sean dirigidos a las Direc
 
 MFM/BOB/TUE/LMC
 
-## Distribución:
+## DistribuciÃ³n:
 
 * Internet
 * Diario Oficial, en extracto

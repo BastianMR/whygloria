@@ -1,177 +1,176 @@
----
-type: SII Resolución
-title: Resolución N° 137 (2021)
-description: SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00189468
-resource: ./2021_RESOLUCION_reso137.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 137 (2021)
+description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00189468
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00189468
+## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00189468
 
-MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos.
+MATERIA: Aprueba Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la SubsecretarÃ­a de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos.
 
 SANTIAGO, 20 DE DICIEMBRE DE 2021.
 
-RESOLUCIÓN EX. SII N° 137.-
+RESOLUCIÃ“N EX. SII NÂ° 137.-
 
-VISTOS: Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley N° 19.628, sobre Protección de la Vida Privada; la Ley N° 20.285, sobre Acceso a la Información Pública; La Ley N° 18.359 del año 1984; el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado y el artículo 35 del Código Tributario.
+VISTOS: Lo dispuesto en el artÃ­culo 1Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; la Ley NÂ°18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica; La Ley NÂ° 18.359 del aÃ±o 1984; el artÃ­culo 1Â°, numeral 6, Ãºltimo pÃ¡rrafo de la Ley 21.180 sobre TransformaciÃ³n Digital del Estado y el artÃ­culo 35 del CÃ³digo Tributario.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente.
 
-1. Que, a su vez, la Subsecretaría de Desarrollo Regional y Administrativo, entre otras funciones, tiene por objeto recoger, procesar y difundir la información relacionada con el quehacer de las municipalidades, especialmente en lo relativo a su gestión financiera y presupuestaria, administración de personal y prestación de servicios, con la finalidad de que éstas puedan ofrecer a la ciudadanía una mejor gestión de los recursos y entrega de los servicios.
+1. Que, a su vez, la SubsecretarÃ­a de Desarrollo Regional y Administrativo, entre otras funciones, tiene por objeto recoger, procesar y difundir la informaciÃ³n relacionada con el quehacer de las municipalidades, especialmente en lo relativo a su gestiÃ³n financiera y presupuestaria, administraciÃ³n de personal y prestaciÃ³n de servicios, con la finalidad de que Ã©stas puedan ofrecer a la ciudadanÃ­a una mejor gestiÃ³n de los recursos y entrega de los servicios.
 
-3.- Que, en virtud de lo anterior, y en cumplimiento del principio de colaboración entre organismos públicos consagrado en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y del principio de competencia consagrado en el artículo 20 de la Ley N° 19.628, sobre Protección de la Vida Privada, el Servicio de Impuestos Internos y la Subsecretaría de Desarrollo Regional y Administrativo han acordado suscribir un Convenio de Intercambio de Información y Colaboración firmado con fecha 23 de noviembre de 2021, destinado al intercambio de información entre ambos para ser utilizada dentro del marco de sus competencias, y al desarrollo de actividades de coordinación institucional y colaboración recíproca en áreas de interés común que tengan relación con intercambio de información, a fin de contribuir al logro de una gestión más eficiente en las funciones que sus respectivas normas orgánicas les han asignado.
+3.- Que, en virtud de lo anterior, y en cumplimiento del principio de colaboraciÃ³n entre organismos pÃºblicos consagrado en la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado y del principio de competencia consagrado en el artÃ­culo 20 de la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada, el Servicio de Impuestos Internos y la SubsecretarÃ­a de Desarrollo Regional y Administrativo han acordado suscribir un Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n firmado con fecha 23 de noviembre de 2021, destinado al intercambio de informaciÃ³n entre ambos para ser utilizada dentro del marco de sus competencias, y al desarrollo de actividades de coordinaciÃ³n institucional y colaboraciÃ³n recÃ­proca en Ã¡reas de interÃ©s comÃºn que tengan relaciÃ³n con intercambio de informaciÃ³n, a fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente en las funciones que sus respectivas normas orgÃ¡nicas les han asignado.
 
 ## RESUELVO:
 
-Apruébase Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos, celebrado el 23 de noviembre de 2021, cuyo texto es el siguiente:
+ApruÃ©base Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la SubsecretarÃ­a de Desarrollo Regional y Administrativo y el Servicio de Impuestos Internos, celebrado el 23 de noviembre de 2021, cuyo texto es el siguiente:
 
-## 'CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE LA SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO Y EL SERVICIO DE IMPUESTOS INTERNOS
+## 'CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE LA SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO Y EL SERVICIO DE IMPUESTOS INTERNOS
 
-En Santiago, a 23 de noviembre de 2021, el Servicio de Impuestos Internos , RUT 60.803.000 - K, en adelante indistintamente denominado 'SERVICIO', representado, según se acreditará, por su Director, don Fernando Barraza Luengo, cédula de identidad N° 9.403.994 - 0, ambos con domicilio en Teatinos N° 120, Santiago y la Subsecretaría de Desarrollo Regional y Administrativo , RUT 60.515.000 - 4 en adelante indistintamente denominada 'SUBDERE', representada, según se acreditará, por su Subsecretaria, María Paz Troncoso Pulgar, cédula de identidad N° 12.079.147-8, ambos con domicilio en Palacio de La Moneda S/N° de la comuna de Santiago, Región Metropolitana, se ha convenido lo siguiente:
+En Santiago, a 23 de noviembre de 2021, el Servicio de Impuestos Internos , RUT 60.803.000 - K, en adelante indistintamente denominado 'SERVICIO', representado, segÃºn se acreditarÃ¡, por su Director, don Fernando Barraza Luengo, cÃ©dula de identidad NÂ° 9.403.994 - 0, ambos con domicilio en Teatinos NÂ° 120, Santiago y la SubsecretarÃ­a de Desarrollo Regional y Administrativo , RUT 60.515.000 - 4 en adelante indistintamente denominada 'SUBDERE', representada, segÃºn se acreditarÃ¡, por su Subsecretaria, MarÃ­a Paz Troncoso Pulgar, cÃ©dula de identidad NÂ° 12.079.147-8, ambos con domicilio en Palacio de La Moneda S/NÂ° de la comuna de Santiago, RegiÃ³n Metropolitana, se ha convenido lo siguiente:
 
-| **PRIMERO:** | **La Ley N° 18.359 del año 1984, creó el cargo de Subsecretario de Desarrollo Regional y Administrativo, facultándolo para coordinar, impulsar y evaluar el desarrollo regional, provincial y local y a colaborar en las funciones de modernización y reforma administrativa del Estado. Dentro de ello, la SUBDERE tiene como uno de sus objetivos recoger, procesar y difundir la información relacionada con el quehacer de las municipalidades, especialmente en lo relativo a su gestión financiera y presupuestaria, administración de personal y prestación de servicios, con la finalidad de que éstas puedan ofrecer a la ciudadanía una mejor gestión de los recursos y entrega de los servicios.** |
+| **PRIMERO:** | **La Ley NÂ° 18.359 del aÃ±o 1984, creÃ³ el cargo de Subsecretario de Desarrollo Regional y Administrativo, facultÃ¡ndolo para coordinar, impulsar y evaluar el desarrollo regional, provincial y local y a colaborar en las funciones de modernizaciÃ³n y reforma administrativa del Estado. Dentro de ello, la SUBDERE tiene como uno de sus objetivos recoger, procesar y difundir la informaciÃ³n relacionada con el quehacer de las municipalidades, especialmente en lo relativo a su gestiÃ³n financiera y presupuestaria, administraciÃ³n de personal y prestaciÃ³n de servicios, con la finalidad de que Ã©stas puedan ofrecer a la ciudadanÃ­a una mejor gestiÃ³n de los recursos y entrega de los servicios.** |
 | --- | --- |
-| SEGUNDO: | De acuerdo al artículo 1° de su Ley Orgánica, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente. Debido a dicho objeto, obtiene y procesa información de los contribuyentes. |
-| TERCERO: | En razón de lo anterior, considerando el principio de coordinación consagrado en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en los artículos 4 al 16 y 20 de la Ley N° 19.628, sobre protección de la vida privada, que establecen un marco al procesamiento de la información; La SUBDERE y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de información para ser utilizada dentro del marco de sus competencias. Esto último con el fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han encargado. |
-| CUARTO: | La SUBDERE y el SERVICIO, para efectos de cumplir con el intercambio de información previsto en este convenio, se conectarán ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la información a ser traspasada entre las partes se especifica en los anexos, que se entienden parte integrante del presente convenio. |
-|  | Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intención de nuevos intercambios de información, se adjuntará a través de un nuevo anexo, que se entenderá parte integrante de este convenio, previo análisis y pronunciamiento de las áreas pertinentes a la materia a intercambiar, y el área jurídica de ambas instituciones. El intercambio de información y el otorgamiento de servicios objeto de este Convenio, no será remunerado. |
+| SEGUNDO: | De acuerdo al artÃ­culo 1Â° de su Ley OrgÃ¡nica, contenida en el Decreto con Fuerza de Ley NÂ° 7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente. Debido a dicho objeto, obtiene y procesa informaciÃ³n de los contribuyentes. |
+| TERCERO: | En razÃ³n de lo anterior, considerando el principio de coordinaciÃ³n consagrado en el artÃ­culo 5Â° de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; lo dispuesto en los artÃ­culos 4 al 16 y 20 de la Ley NÂ° 19.628, sobre protecciÃ³n de la vida privada, que establecen un marco al procesamiento de la informaciÃ³n; La SUBDERE y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de informaciÃ³n para ser utilizada dentro del marco de sus competencias. Esto Ãºltimo con el fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han encargado. |
+| CUARTO: | La SUBDERE y el SERVICIO, para efectos de cumplir con el intercambio de informaciÃ³n previsto en este convenio, se conectarÃ¡n ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la informaciÃ³n a ser traspasada entre las partes se especifica en los anexos, que se entienden parte integrante del presente convenio. |
+|  | Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intenciÃ³n de nuevos intercambios de informaciÃ³n, se adjuntarÃ¡ a travÃ©s de un nuevo anexo, que se entenderÃ¡ parte integrante de este convenio, previo anÃ¡lisis y pronunciamiento de las Ã¡reas pertinentes a la materia a intercambiar, y el Ã¡rea jurÃ­dica de ambas instituciones. El intercambio de informaciÃ³n y el otorgamiento de servicios objeto de este Convenio, no serÃ¡ remunerado. |
 
-QUINTO: Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designará un Coordinador.
+QUINTO: Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designarÃ¡ un Coordinador.
 
-El SERVICIO designa como coordinador, para estos efectos, al jefe del Departamento de Estudios Económicos y Tributarios dependiente de la Subdirección de Gestión Estratégica y Estudios Tributarios.
+El SERVICIO designa como coordinador, para estos efectos, al jefe del Departamento de Estudios EconÃ³micos y Tributarios dependiente de la SubdirecciÃ³n de GestiÃ³n EstratÃ©gica y Estudios Tributarios.
 
 La SUBDERE designa como coordinador, para estos efectos, al jefe Departamento de Finanzas Municipales.
 
-En el evento de modificarse la designación, se deberá comunicar tal situación formalmente, mediante oficio, al jefe superior de la otra institución.
+En el evento de modificarse la designaciÃ³n, se deberÃ¡ comunicar tal situaciÃ³n formalmente, mediante oficio, al jefe superior de la otra instituciÃ³n.
 
-Respecto de la información intercambiada:
+Respecto de la informaciÃ³n intercambiada:
 
-* a) Las partes declaran que, en materia de tratamiento de datos de carácter personal, sujetarán sus actuaciones a las disposiciones de la Ley N° 19.628 sobre Protección de la Vida Privada y al artículo 35 del Código Tributario.
-* b) Las partes se obligan a adoptar las medidas de seguridad adecuadas para conservar la propiedad de la información, que pudiese ser confidencial o personal, libre del acceso de terceros no autorizados. En dicho contexto, tanto el SERVICIO como la SUBDERE, cumplirán con lo establecido al efecto por el D.S. 83, del año 2005, del Ministerio Secretaría General de la Presidencia, que aprueba norma técnica para los órganos de la Administración del Estado sobre seguridad y confidencialidad de los documentos electrónicos.
-* c) Las partes se obligan a respetar las disposiciones de la Ley N° 20.285, sobre Acceso a la Información Pública.
+* a) Las partes declaran que, en materia de tratamiento de datos de carÃ¡cter personal, sujetarÃ¡n sus actuaciones a las disposiciones de la Ley NÂ° 19.628 sobre ProtecciÃ³n de la Vida Privada y al artÃ­culo 35 del CÃ³digo Tributario.
+* b) Las partes se obligan a adoptar las medidas de seguridad adecuadas para conservar la propiedad de la informaciÃ³n, que pudiese ser confidencial o personal, libre del acceso de terceros no autorizados. En dicho contexto, tanto el SERVICIO como la SUBDERE, cumplirÃ¡n con lo establecido al efecto por el D.S. 83, del aÃ±o 2005, del Ministerio SecretarÃ­a General de la Presidencia, que aprueba norma tÃ©cnica para los Ã³rganos de la AdministraciÃ³n del Estado sobre seguridad y confidencialidad de los documentos electrÃ³nicos.
+* c) Las partes se obligan a respetar las disposiciones de la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica.
 
-SÉPTIMO: Cualquier incumplimiento respecto de las obligaciones contraídas en virtud del presente acuerdo, en materia de intercambio de información, dará derecho a la parte diligente a poner término inmediato y en forma anticipada al Convenio.
+SÃ‰PTIMO: Cualquier incumplimiento respecto de las obligaciones contraÃ­das en virtud del presente acuerdo, en materia de intercambio de informaciÃ³n, darÃ¡ derecho a la parte diligente a poner tÃ©rmino inmediato y en forma anticipada al Convenio.
 
-* OCTAVO: El presente convenio tendrá una duración de 1 año y se entenderá prorrogado automáticamente por períodos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intención de ponerle término con, al menos, 60 días de antelación, mediante carta certificada dirigida al Jefe Superior del respectivo servicio.
+* OCTAVO: El presente convenio tendrÃ¡ una duraciÃ³n de 1 aÃ±o y se entenderÃ¡ prorrogado automÃ¡ticamente por perÃ­odos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intenciÃ³n de ponerle tÃ©rmino con, al menos, 60 dÃ­as de antelaciÃ³n, mediante carta certificada dirigida al Jefe Superior del respectivo servicio.
 
 NOVENO: El presente Convenio se firma en dos ejemplares de igual tenor y fecha, quedando uno en poder de cada parte.
 
-* DÉCIMO: El presente Convenio comenzará a regir el día primero del mes siguiente a aquel en que se produzca la total tramitación de la última resolución y/o decreto que lo apruebe, circunstancia que deberá comunicarse por escrito a la otra parte.
+* DÃ‰CIMO: El presente Convenio comenzarÃ¡ a regir el dÃ­a primero del mes siguiente a aquel en que se produzca la total tramitaciÃ³n de la Ãºltima resoluciÃ³n y/o decreto que lo apruebe, circunstancia que deberÃ¡ comunicarse por escrito a la otra parte.
 
-Se adjuntan 3 Anexos los cuales forman parte integrante del Convenio. Las partes acuerdan que en el evento de ser necesario suscribir algún Anexo, éste también se entenderá parte integrante de este Convenio y deberá sea aprobado mediante acto administrativo dictado por cada una de las partes.
+Se adjuntan 3 Anexos los cuales forman parte integrante del Convenio. Las partes acuerdan que en el evento de ser necesario suscribir algÃºn Anexo, Ã©ste tambiÃ©n se entenderÃ¡ parte integrante de este Convenio y deberÃ¡ sea aprobado mediante acto administrativo dictado por cada una de las partes.
 
-* UNDÉCIMO: La personería de María Paz Troncoso Pulgar, para representar a la Subsecretaría de Desarrollo Regional y Administrativo , consta en Decreto Supremo Nº 559 de fecha 21-112020, del Ministerio del Interior y Seguridad Pública, que la nombra Subsecretaria de Desarrollo Regional y Administrativo.
+* UNDÃ‰CIMO: La personerÃ­a de MarÃ­a Paz Troncoso Pulgar, para representar a la SubsecretarÃ­a de Desarrollo Regional y Administrativo , consta en Decreto Supremo NÂº 559 de fecha 21-112020, del Ministerio del Interior y Seguridad PÃºblica, que la nombra Subsecretaria de Desarrollo Regional y Administrativo.
 
 SEXTO:
 
-La personería de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos , consta en el Decreto Supremo N° 1441, del día 13 de agosto de 2021, del Ministerio de Hacienda.
+La personerÃ­a de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos , consta en el Decreto Supremo NÂ° 1441, del dÃ­a 13 de agosto de 2021, del Ministerio de Hacienda.
 
-MARÍA PAZ TRONCOSO PULGAR SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO
+MARÃA PAZ TRONCOSO PULGAR SUBSECRETARIA DE DESARROLLO REGIONAL Y ADMINISTRATIVO
 
-## ANEXO N°1
+## ANEXO NÂ°1
 
-## Información que se traspasará desde el SERVICIO a la SUBDERE
+## InformaciÃ³n que se traspasarÃ¡ desde el SERVICIO a la SUBDERE
 
-El SERVICIO enviará semestralmente (en los meses de enero y julio de cada año) a la SUBDERE la siguiente información:
+El SERVICIO enviarÃ¡ semestralmente (en los meses de enero y julio de cada aÃ±o) a la SUBDERE la siguiente informaciÃ³n:
 
 1. Valores semestrales de Impuesto Territorial:
 2. o Comuna:
 3. o Monto total de los Giros por Impuesto Territorial
 4. o Monto total de los Reemplazo de contribuciones
 5. o Monto total de los Suplementarios de contribuciones
-6. Descarga de rol semestral de reavalúo
-7. o No Agrícola 2018 y siguientes (predio- manzana - comuna y avalúo)
-8. o Sitios no edificados 2020 y siguientes (predio- manzana - comuna y avalúo)
-9. o Agrícola 2020 y siguientes (predio- manzana - comuna y avalúo)
+6. Descarga de rol semestral de reavalÃºo
+7. o No AgrÃ­cola 2018 y siguientes (predio- manzana - comuna y avalÃºo)
+8. o Sitios no edificados 2020 y siguientes (predio- manzana - comuna y avalÃºo)
+9. o AgrÃ­cola 2020 y siguientes (predio- manzana - comuna y avalÃºo)
 10. Valores semestrales Derechos de aseo domiciliario
 11. o Comuna
 12. o Monto total derechos de aseo domiciliario
-13. Información semestral de los siguientes Bienes Raíces individualizados por código comunal, conforme al detalle que se indica:
+13. InformaciÃ³n semestral de los siguientes Bienes RaÃ­ces individualizados por cÃ³digo comunal, conforme al detalle que se indica:
 
-* a) Bienes Raíces Agrícolas
+* a) Bienes RaÃ­ces AgrÃ­colas
 
-Código comunal
+CÃ³digo comunal
 
-Cantidad total de Predios Agrícolas
+Cantidad total de Predios AgrÃ­colas
 
-Monto Avalúo Total Predios Agrícolas
+Monto AvalÃºo Total Predios AgrÃ­colas
 
-Cantidad Predios Agrícolas Afectos
+Cantidad Predios AgrÃ­colas Afectos
 
-Monto Avalúo Total Predios Agrícolas Afectos
+Monto AvalÃºo Total Predios AgrÃ­colas Afectos
 
-Cantidad de Predios Agrícolas Exentos
+Cantidad de Predios AgrÃ­colas Exentos
 
-Monto Avalúo Total Predios Agrícolas Exentos
+Monto AvalÃºo Total Predios AgrÃ­colas Exentos
 
-Total de giros de Impuesto Territorial Predios Agrícolas
+Total de giros de Impuesto Territorial Predios AgrÃ­colas
 
 FERNANDO BARRAZA LUENGO DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
 
-## b) Bienes Raíces No Agrícolas
+## b) Bienes RaÃ­ces No AgrÃ­colas
 
-| **Código comunal** |
+| **CÃ³digo comunal** |
 | --- |
-| Cantidad total de Predios No Agrícolas |
-| Monto Avalúo Total Predios No Agrícolas |
-| Monto Avalúo Total Predios No Agrícolas Afectos |
-| Cantidad de Predios No Agrícolas Afectos |
-| Cantidad de Predios No Agrícolas Exentos |
+| Cantidad total de Predios No AgrÃ­colas |
+| Monto AvalÃºo Total Predios No AgrÃ­colas |
+| Monto AvalÃºo Total Predios No AgrÃ­colas Afectos |
+| Cantidad de Predios No AgrÃ­colas Afectos |
+| Cantidad de Predios No AgrÃ­colas Exentos |
 
-## c) Bienes raíces No Agrícolas con destino habitacional
+## c) Bienes raÃ­ces No AgrÃ­colas con destino habitacional
 
-| **Código comunal** |
+| **CÃ³digo comunal** |
 | --- |
-| Cantidad total de Predios No Agrícolas Habitacionales |
-| Monto Avalúo Total Predios No Agrícolas Habitacionales |
-| Cantidad de Predios No Agrícolas Habitacionales Afectos |
-| Monto Avalúo Total Predios No Agrícolas Habitacionales Afectos |
-| Cantidad de Predios No Agrícolas Habitacionales Exentos |
-| Monto Avalúo Total Predios No Agrícolas Habitacionales Exentos |
-| Monto total de giros por Impuesto Territorial de Predios No Agrícolas Habitacionales |
+| Cantidad total de Predios No AgrÃ­colas Habitacionales |
+| Monto AvalÃºo Total Predios No AgrÃ­colas Habitacionales |
+| Cantidad de Predios No AgrÃ­colas Habitacionales Afectos |
+| Monto AvalÃºo Total Predios No AgrÃ­colas Habitacionales Afectos |
+| Cantidad de Predios No AgrÃ­colas Habitacionales Exentos |
+| Monto AvalÃºo Total Predios No AgrÃ­colas Habitacionales Exentos |
+| Monto total de giros por Impuesto Territorial de Predios No AgrÃ­colas Habitacionales |
 
-## d) Bienes raíces No Agrícolas con otros destinos distintos al habitacional
+## d) Bienes raÃ­ces No AgrÃ­colas con otros destinos distintos al habitacional
 
-| **Código comunal** |
+| **CÃ³digo comunal** |
 | --- |
 | Cantidad total de Predios |
-| Código de destino (Destino del inmueble) |
-| Monto Avalúo Total Predios |
+| CÃ³digo de destino (Destino del inmueble) |
+| Monto AvalÃºo Total Predios |
 | Cantidad de Predios Afectos |
-| Monto Avalúo Total Predios Afectos |
+| Monto AvalÃºo Total Predios Afectos |
 | Cantidad de Predios Exentos |
-| Monto Avalúo Total Predios Exentos |
-| Giro por Impuesto Territorial de Predios No Agrícolas No Habitacionales |
+| Monto AvalÃºo Total Predios Exentos |
+| Giro por Impuesto Territorial de Predios No AgrÃ­colas No Habitacionales |
 | Sobretasa SNE Predios |
 
 ## e) Sitios no edificados
 
-| **Código comunal** |
+| **CÃ³digo comunal** |
 | --- |
 | Cantidad total de predios |
 
-## ANEXO N°2
+## ANEXO NÂ°2
 
-## Información a ser traspasada desde la SUBDERE al SERVICIO.
+## InformaciÃ³n a ser traspasada desde la SUBDERE al SERVICIO.
 
-* 1. La SUBDERE enviará trimestralmente (en los meses de marzo, junio, septiembre y diciembre de cada año) al SERVICIO la siguiente información:
-* a) Nómina de la individualización de cada Municipio:
+* 1. La SUBDERE enviarÃ¡ trimestralmente (en los meses de marzo, junio, septiembre y diciembre de cada aÃ±o) al SERVICIO la siguiente informaciÃ³n:
+* a) NÃ³mina de la individualizaciÃ³n de cada Municipio:
 
 1. RUT municipalidad
 2. DV municipalidad
 3. Nombre de la municipalidad
-4. N° de Rol de Avalúo (manzana, predio)
+4. NÂ° de Rol de AvalÃºo (manzana, predio)
 5. Comuna
 6. RUT representante legal de la municipalidad
 7. DV representante legal de la municipalidad
-8. Código comunal
+8. CÃ³digo comunal
 
-* b) Nómina con la individualización y contacto de los Alcaldes y sus subrogantes vigentes de cada Municipio:
+* b) NÃ³mina con la individualizaciÃ³n y contacto de los Alcaldes y sus subrogantes vigentes de cada Municipio:
 
-1. Código comunal
+1. CÃ³digo comunal
 2. RUT alcalde
 3. DV alcalde
 4. Nombre alcalde
@@ -179,152 +178,152 @@ FERNANDO BARRAZA LUENGO DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
 6. Fecha de vencimiento del cargo
 7. RUT subrogante del alcalde
 8. DV subrogante del alcalde
-9. Período de vigencia de la subrogancia
+9. PerÃ­odo de vigencia de la subrogancia
 
-* c) Nómina con la individualización y contacto de los Directores de Obras Municipales de cada Municipio:
+* c) NÃ³mina con la individualizaciÃ³n y contacto de los Directores de Obras Municipales de cada Municipio:
 
-1. Código comunal
+1. CÃ³digo comunal
 2. RUT Director de Obras
 3. DV Director de Obras
 4. Nombre Director de Obras
 5. Vigencia del cargo
-6. Número de Resolución/Decreto de asunción en el cargo
-7. Fecha de Resolución/Decreto de asunción en el cargo
+6. NÃºmero de ResoluciÃ³n/Decreto de asunciÃ³n en el cargo
+7. Fecha de ResoluciÃ³n/Decreto de asunciÃ³n en el cargo
 8. Fecha de vencimiento del cargo
 9. RUT subrogante del Director de Obras
 10. DV subrogante del Director de Obras
-11. Período de vigencia de la subrogancia del Director de Obras
-    1. Sistema de Información Municipal (SIM)
+11. PerÃ­odo de vigencia de la subrogancia del Director de Obras
+    1. Sistema de InformaciÃ³n Municipal (SIM)
 
-SUBDERE dará acceso al sitio Sistema de Información Municipal (SIM), con perfil de consulta y descarga de la información contenida de cada municipio, a los funcionarios que el SII determine; sitio que se actualiza trimestralmente, esta Plataforma abarca información sobre características generales de la población; iniciativa de inversiones por institución y por origen, área del programa; caracterización de segmentos según avalúos y población o tipología de los municipios, para determinar la importancia en inversiones sectoriales; tratamiento sobre en el fondo común municipal: composición de este fondo, especialmente el detalle de lo que ingresa por Impuesto Territorial; ingresos y egresos municipales a nivel nacional, así como también la ejecución presupuestaria de años anteriores; información relacionada a programas o proyectos de infraestructura y todos aquellos que conllevan mejoras a la región o comunas, en servicios sanitarios, residuos sólidos, Patrimonial, FNDR, y Gestión Territorial; entre otras.
+SUBDERE darÃ¡ acceso al sitio Sistema de InformaciÃ³n Municipal (SIM), con perfil de consulta y descarga de la informaciÃ³n contenida de cada municipio, a los funcionarios que el SII determine; sitio que se actualiza trimestralmente, esta Plataforma abarca informaciÃ³n sobre caracterÃ­sticas generales de la poblaciÃ³n; iniciativa de inversiones por instituciÃ³n y por origen, Ã¡rea del programa; caracterizaciÃ³n de segmentos segÃºn avalÃºos y poblaciÃ³n o tipologÃ­a de los municipios, para determinar la importancia en inversiones sectoriales; tratamiento sobre en el fondo comÃºn municipal: composiciÃ³n de este fondo, especialmente el detalle de lo que ingresa por Impuesto Territorial; ingresos y egresos municipales a nivel nacional, asÃ­ como tambiÃ©n la ejecuciÃ³n presupuestaria de aÃ±os anteriores; informaciÃ³n relacionada a programas o proyectos de infraestructura y todos aquellos que conllevan mejoras a la regiÃ³n o comunas, en servicios sanitarios, residuos sÃ³lidos, Patrimonial, FNDR, y GestiÃ³n Territorial; entre otras.
 
-## 3) Información Municipal
+## 3) InformaciÃ³n Municipal
 
-La SUBDERE entregará al SERVICIO, a contar del primer semestre del 2022, en los meses de enero y julio de cada año (semestralmente) la siguiente información:
+La SUBDERE entregarÃ¡ al SERVICIO, a contar del primer semestre del 2022, en los meses de enero y julio de cada aÃ±o (semestralmente) la siguiente informaciÃ³n:
 
 * a) RUT de Municipalidades y de Corporaciones Municipales
 
-1. Código comunal
-2. RUT Corporación municipal
-3. DV Corporación municipal
-4. N° de Rol de Avalúo (manzana - predio)
-5. Dirección de la corporación municipal
+1. CÃ³digo comunal
+2. RUT CorporaciÃ³n municipal
+3. DV CorporaciÃ³n municipal
+4. NÂ° de Rol de AvalÃºo (manzana - predio)
+5. DirecciÃ³n de la corporaciÃ³n municipal
 
-* b) Nómina de inmuebles de las Municipalidades:
+* b) NÃ³mina de inmuebles de las Municipalidades:
 
-1. Código comunal
-2. N° de Rol de Avalúo (predio, manzana y comuna)
-3. Dirección.
-4. Fecha de adquisición
-5. Inscripción en el Conservador de Bienes Raíces (fojas, número, año, nombre del Conservador)
+1. CÃ³digo comunal
+2. NÂ° de Rol de AvalÃºo (predio, manzana y comuna)
+3. DirecciÃ³n.
+4. Fecha de adquisiciÃ³n
+5. InscripciÃ³n en el Conservador de Bienes RaÃ­ces (fojas, nÃºmero, aÃ±o, nombre del Conservador)
 
-* c) Nómina de inmuebles de las corporaciones municipales:
+* c) NÃ³mina de inmuebles de las corporaciones municipales:
 
-1. Código comunal
-2. N° de Rol de Avalúo (predio, manzana y comuna)
-3. Dirección.
-4. Fecha de adquisición
-5. Inscripción en el Conservador de Bienes Raíces (fojas, número, año, nombre del Conservador)
+1. CÃ³digo comunal
+2. NÂ° de Rol de AvalÃºo (predio, manzana y comuna)
+3. DirecciÃ³n.
+4. Fecha de adquisiciÃ³n
+5. InscripciÃ³n en el Conservador de Bienes RaÃ­ces (fojas, nÃºmero, aÃ±o, nombre del Conservador)
 
-* d) Nómina de inmuebles municipales destinadas a la vivienda de funcionarios municipales:
+* d) NÃ³mina de inmuebles municipales destinadas a la vivienda de funcionarios municipales:
 
-1. Código comunal
-2. N° de Rol de Avalúo (predio, manzana y comuna),
-3. Dirección
+1. CÃ³digo comunal
+2. NÂ° de Rol de AvalÃºo (predio, manzana y comuna),
+3. DirecciÃ³n
 4. RUT funcionario beneficiario o usuario del inmueble
 5. DV funcionario beneficiario o usuario del inmueble.
 6. Nombre funcionario beneficiario o usuario del inmueble.
 
-* e) Nómina de Decretos alcaldicios o contratos municipales que recaigan sobre inmuebles municipales entregados a terceros:
+* e) NÃ³mina de Decretos alcaldicios o contratos municipales que recaigan sobre inmuebles municipales entregados a terceros:
 
-1. Código comunal
-2. N° Rol de Avalúo
-3. Dirección RUT del ocupante
+1. CÃ³digo comunal
+2. NÂ° Rol de AvalÃºo
+3. DirecciÃ³n RUT del ocupante
 4. DV del ocupante
 5. Nombre del ocupante
-6. Número de Decreto o contrato
+6. NÃºmero de Decreto o contrato
 7. Fecha del Decreto o contrato
-8. Período de vigencia del Decreto o contrato.
+8. PerÃ­odo de vigencia del Decreto o contrato.
 
-* f) Nómina de los municipios que no tienen Dirección de Obras.
+* f) NÃ³mina de los municipios que no tienen DirecciÃ³n de Obras.
 
 1. RUT de la Municipalidad
 2. DV de la Municipalidad
 3. Nombre del municipio
 
-* g) Información Georreferencial
+* g) InformaciÃ³n Georreferencial
 
-Capas de información geoespacial correspondiente a la División Política Administrativa a nivel comunal y Regional. Entrega de información territorial de las comunas, en formatos de base de datos y SIG (Sistema de Información Gráfica).
+Capas de informaciÃ³n geoespacial correspondiente a la DivisiÃ³n PolÃ­tica Administrativa a nivel comunal y Regional. Entrega de informaciÃ³n territorial de las comunas, en formatos de base de datos y SIG (Sistema de InformaciÃ³n GrÃ¡fica).
 
-## 4) Información Comunitaria y Concesiones
+## 4) InformaciÃ³n Comunitaria y Concesiones
 
-La SUBDERE entregará al SERVICIO a contar del segundo semestre del 2021, en los meses de enero y julio de cada año (semestralmente) la siguiente información:
+La SUBDERE entregarÃ¡ al SERVICIO a contar del segundo semestre del 2021, en los meses de enero y julio de cada aÃ±o (semestralmente) la siguiente informaciÃ³n:
 
-* a) Nómina de organizaciones comunitarias y su RUT que cumplan con las disposiciones de la Ley 19.418 y las Municipalidades que lo han autorizado.
+* a) NÃ³mina de organizaciones comunitarias y su RUT que cumplan con las disposiciones de la Ley 19.418 y las Municipalidades que lo han autorizado.
 
-1. Código comunal
-2. RUT organización comunitaria
-3. DV organización comunitaria
-4. Nombre de organización comunitaria
+1. CÃ³digo comunal
+2. RUT organizaciÃ³n comunitaria
+3. DV organizaciÃ³n comunitaria
+4. Nombre de organizaciÃ³n comunitaria
 5. RUT corporaciones municipales relacionadas con ellas.
 6. DV corporaciones municipales relacionadas con ellas.
 
-* b) Nómina de titulares o beneficiarios de Concesiones municipales y la Municipalidad respectiva.
+* b) NÃ³mina de titulares o beneficiarios de Concesiones municipales y la Municipalidad respectiva.
 
 1. RUT titulares o beneficiarios
 2. DV titulares o beneficiarios
 3. RUT Municipalidad de la que es beneficiario
 4. DV Municipalidad de la que es beneficiario
-5. Tipo de concesión
-6. Duración de la concesión
+5. Tipo de concesiÃ³n
+6. DuraciÃ³n de la concesiÃ³n
 
-* c) Nómina de vehículos municipales informados y el Rut de la municipalidad respectiva.
-
-1. RUT municipalidad
-2. DV municipalidad
-3. Patente del vehículo
-4. Fecha de adquisición
-
-## 5) Información de Concesiones y Comodatos
-
-La SUBDERE enviará al SERVICIO, a contar del segundo semestre del 2022, en los meses de enero y julio de cada año (semestralmente), la siguiente información:
-
-* a) Concesiones y comodatos de cada Municipalidad, indicando el domicilio de dichas concesiones o comodatos esto dirección, N° de Rol de Avalúo (predio, manzana, comuna) y beneficiario de la concesión o comodatario (nombre y RUT).
+* c) NÃ³mina de vehÃ­culos municipales informados y el Rut de la municipalidad respectiva.
 
 1. RUT municipalidad
 2. DV municipalidad
-3. RUT beneficiario de la concesión
-4. DV beneficiario de la concesión
+3. Patente del vehÃ­culo
+4. Fecha de adquisiciÃ³n
+
+## 5) InformaciÃ³n de Concesiones y Comodatos
+
+La SUBDERE enviarÃ¡ al SERVICIO, a contar del segundo semestre del 2022, en los meses de enero y julio de cada aÃ±o (semestralmente), la siguiente informaciÃ³n:
+
+* a) Concesiones y comodatos de cada Municipalidad, indicando el domicilio de dichas concesiones o comodatos esto direcciÃ³n, NÂ° de Rol de AvalÃºo (predio, manzana, comuna) y beneficiario de la concesiÃ³n o comodatario (nombre y RUT).
+
+1. RUT municipalidad
+2. DV municipalidad
+3. RUT beneficiario de la concesiÃ³n
+4. DV beneficiario de la concesiÃ³n
 5. RUT comodatario
 6. DV comodatario
-7. Rol de avalúo del bien concesionado
-8. Dirección del bien concesionado
+7. Rol de avalÃºo del bien concesionado
+8. DirecciÃ³n del bien concesionado
 9. Rol de Avaluo del inmueble entregado en comodato
-10. Dirección del inmueble entregado en comodato
+10. DirecciÃ³n del inmueble entregado en comodato
 
 <unknown>
 
 ## AMF
 
-Distribución
+DistribuciÃ³n
 
 -Internet
 
-## ANEXO N°3
+## ANEXO NÂ°3
 
-## 1. Protocolo técnico de intercambio de información.
+## 1. Protocolo tÃ©cnico de intercambio de informaciÃ³n.
 
-Ambas instituciones deberán elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrá las especificaciones técnicas del proceso de intercambio de información tales como: medios de envío, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la información, naturaleza de la información (estructurada o no estructurada), periodicidad, entre otros aspectos técnicos a considerar en el intercambio de la información. Este documento técnico, podrá ser revisado y actualizado, a petición de alguna de las Instituciones firmantes y en coordinación con la otra Institución, conforme a las necesidades de nueva información a intercambiar producto de una actualización o modificación al Convenio, cambios tecnológicos que afecten la naturaleza informática del intercambio o cualquier situación técnica del intercambio que amerite actualizar este Documento.
+Ambas instituciones deberÃ¡n elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrÃ¡ las especificaciones tÃ©cnicas del proceso de intercambio de informaciÃ³n tales como: medios de envÃ­o, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la informaciÃ³n, naturaleza de la informaciÃ³n (estructurada o no estructurada), periodicidad, entre otros aspectos tÃ©cnicos a considerar en el intercambio de la informaciÃ³n. Este documento tÃ©cnico, podrÃ¡ ser revisado y actualizado, a peticiÃ³n de alguna de las Instituciones firmantes y en coordinaciÃ³n con la otra InstituciÃ³n, conforme a las necesidades de nueva informaciÃ³n a intercambiar producto de una actualizaciÃ³n o modificaciÃ³n al Convenio, cambios tecnolÃ³gicos que afecten la naturaleza informÃ¡tica del intercambio o cualquier situaciÃ³n tÃ©cnica del intercambio que amerite actualizar este Documento.
 
-## 2. Protocolos de coordinación y colaboración.
+## 2. Protocolos de coordinaciÃ³n y colaboraciÃ³n.
 
-* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberá comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias o cualquiera otra instancia que estimen los coordinadores.
-* b) Las Instituciones, a petición de algunas de éstas, brindarán apoyo técnico al organismo que lo solicite a través de capacitación, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
-* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboración mutua en procesos o acciones de fiscalización que se determinen y acuerden entre ambos organismos, en relación con intercambios de información que apoyen estos procedimientos.
-* d) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboración mutua en actividades de comunicación y facilitación a contribuyentes, que se determinen y acuerden entre ambos organismos.
-* e) Colaboración de la SUBDERE para la realización de seminario(s) de Municipalidades a nivel nacional.'
+* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberÃ¡ comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias o cualquiera otra instancia que estimen los coordinadores.
+* b) Las Instituciones, a peticiÃ³n de algunas de Ã©stas, brindarÃ¡n apoyo tÃ©cnico al organismo que lo solicite a travÃ©s de capacitaciÃ³n, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
+* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboraciÃ³n mutua en procesos o acciones de fiscalizaciÃ³n que se determinen y acuerden entre ambos organismos, en relaciÃ³n con intercambios de informaciÃ³n que apoyen estos procedimientos.
+* d) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboraciÃ³n mutua en actividades de comunicaciÃ³n y facilitaciÃ³n a contribuyentes, que se determinen y acuerden entre ambos organismos.
+* e) ColaboraciÃ³n de la SUBDERE para la realizaciÃ³n de seminario(s) de Municipalidades a nivel nacional.'
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE.
 
 <unknown>
 

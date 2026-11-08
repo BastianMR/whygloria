@@ -1,144 +1,143 @@
----
-type: SII Resolución
-title: Resolución N° 6582 (2013)
-description: MATERIA: AUTORIZA AL CONTRIBUYENTE CENCOSUD SERVICIOS INTEGRALES S.A., RUT N° 76.023.825-2, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA ...
-resource: ./2013_RESOLUCION_reso87.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 6582 (2013)
+description: MATERIA: AUTORIZA AL CONTRIBUYENTE CENCOSUD SERVICIOS INTEGRALES S.A., RUT NÂ° 76.023.825-2, PARA OPERAR UN SISTEMA ELECTRÃ“NICO DE INTERMEDIACIÃ“N EN LA VENTA ...
 tags: [SII, 2013, resolucion]
 ---
 
-MATERIA: AUTORIZA AL CONTRIBUYENTE CENCOSUD SERVICIOS INTEGRALES S.A., RUT N° 76.023.825-2, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES.
+MATERIA: AUTORIZA AL CONTRIBUYENTE CENCOSUD SERVICIOS INTEGRALES S.A., RUT NÂ° 76.023.825-2, PARA OPERAR UN SISTEMA ELECTRÃ“NICO DE INTERMEDIACIÃ“N EN LA VENTA DE COLACIONES.
 
 Santiago, 09 de octubre de 2013
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N°\_\_87.-\_\_\_\_\_\_\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ°\_\_87.-\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, de la Ley sobre Impuesto a las Ventas y Servicios, del D.L. N° 825, de 1974; en la Resolución Ex. N° 6582, de 1997, modificada por la Resolución Ex. N° 3207, de 1998; y en las Resoluciones Ex. SII N°s 143 de 2009; 166 de 2010; 101 y 133, ambas de 2011; y
+VISTOS: Lo dispuesto en el Art. 6Â°, Letra A, NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ° 830, de 1974; en el Art. 56, de la Ley sobre Impuesto a las Ventas y Servicios, del D.L. NÂ° 825, de 1974; en la ResoluciÃ³n Ex. NÂ° 6582, de 1997, modificada por la ResoluciÃ³n Ex. NÂ° 3207, de 1998; y en las Resoluciones Ex. SII NÂ°s 143 de 2009; 166 de 2010; 101 y 133, ambas de 2011; y
 
-La solicitud del contribuyente CENCOSUD SERVICIOS INTEGRALES S.A., RUT N° 76.023.825-2 , representado por don PATRICIO RIVAS DE DIEGO, RUT N° 7.516.353-3, en la que solicita se le autorice para operar un sistema electrónico de intermediación en la ventas de colaciones, basado en la portación de tarjetas de banda magnéticas por parte de sus beneficiarios.
+La solicitud del contribuyente CENCOSUD SERVICIOS INTEGRALES S.A., RUT NÂ° 76.023.825-2 , representado por don PATRICIO RIVAS DE DIEGO, RUT NÂ° 7.516.353-3, en la que solicita se le autorice para operar un sistema electrÃ³nico de intermediaciÃ³n en la ventas de colaciones, basado en la portaciÃ³n de tarjetas de banda magnÃ©ticas por parte de sus beneficiarios.
 
 ## CONSIDERANDO:
 
-1° Que, el Art. 56, inciso tercero, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de boletas, facturas, facturas de compra, guías de despacho, liquidaciones facturas, notas de débito y notas de crédito, exigiendo los requisitos necesarios para resguardar debidamente el interés fiscal.
+1Â° Que, el Art. 56, inciso tercero, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnolÃ³gicos, en reemplazo de la emisiÃ³n de boletas, facturas, facturas de compra, guÃ­as de despacho, liquidaciones facturas, notas de dÃ©bito y notas de crÃ©dito, exigiendo los requisitos necesarios para resguardar debidamente el interÃ©s fiscal.
 
-2° Que, este Servicio, mediante instrucciones contenidas en la Resolución Ex. N° 6582, de 1997, complementada por Resolución Ex. SII N° 3207, de 1998, impartió instrucciones sobre el procedimiento de operación en las ventas de colaciones por medio de vales o cupones, a fin de permitir un óptimo funcionamiento de ese mercado.
+2Â° Que, este Servicio, mediante instrucciones contenidas en la ResoluciÃ³n Ex. NÂ° 6582, de 1997, complementada por ResoluciÃ³n Ex. SII NÂ° 3207, de 1998, impartiÃ³ instrucciones sobre el procedimiento de operaciÃ³n en las ventas de colaciones por medio de vales o cupones, a fin de permitir un Ã³ptimo funcionamiento de ese mercado.
 
-3 ° Que, la empresa CENCOSUD SERVICIOS INTEGRALES S.A., RUT N° 76.023.852-2, ha desarrollado un sistema electrónico para la intermediación en la venta colaciones, denominado 'Cencosud Tarjetas de Alimentación', para lo cual afiliará a diversos establecimientos con giro restaurante con el objeto de que entreguen colaciones a los portadores de banda magnética, pudiendo vender vales o cupones electrónicos asociados a las empresas que las contraten.
+3 Â° Que, la empresa CENCOSUD SERVICIOS INTEGRALES S.A., RUT NÂ° 76.023.852-2, ha desarrollado un sistema electrÃ³nico para la intermediaciÃ³n en la venta colaciones, denominado 'Cencosud Tarjetas de AlimentaciÃ³n', para lo cual afiliarÃ¡ a diversos establecimientos con giro restaurante con el objeto de que entreguen colaciones a los portadores de banda magnÃ©tica, pudiendo vender vales o cupones electrÃ³nicos asociados a las empresas que las contraten.
 
-4° Que, la actualización tecnológica permite la implementación de nuevos sistemas de operación que redundan en una mayor comodidad para los usuarios del sistema de venta de colaciones.
+4Â° Que, la actualizaciÃ³n tecnolÃ³gica permite la implementaciÃ³n de nuevos sistemas de operaciÃ³n que redundan en una mayor comodidad para los usuarios del sistema de venta de colaciones.
 
-5° Que, para las empresas o contribuyentes clientes que proporcionan la alimentación en forma gratuita a sus trabajadores, la compra de colaciones constituye un gasto general deducible de la renta bruta, y el IVA recargado separadamente en las facturas recibidas por estas compras da derecho a crédito fiscal, siempre que sea procedente y que la alimentación que se proporciona gratuitamente al trabajador sea para su consumo personal, siempre que éste se efectúe durante los horarios de trabajo especificados en el contrato laboral respectivo.
+5Â° Que, para las empresas o contribuyentes clientes que proporcionan la alimentaciÃ³n en forma gratuita a sus trabajadores, la compra de colaciones constituye un gasto general deducible de la renta bruta, y el IVA recargado separadamente en las facturas recibidas por estas compras da derecho a crÃ©dito fiscal, siempre que sea procedente y que la alimentaciÃ³n que se proporciona gratuitamente al trabajador sea para su consumo personal, siempre que Ã©ste se efectÃºe durante los horarios de trabajo especificados en el contrato laboral respectivo.
 
-Primero : Autorícese a CENCOSUD SERVICIOS INTEGRALES S.A., RUT N° 76.023.825-2 , para operar un sistema electrónico de intermediación en la venta de colaciones, a empresas o entidades que otorguen el beneficio de alimentación, a su personal o trabajadores. Para dichos efectos, los Cupones Electrónicos serán proporcionados al personal o trabajadores que laboren en dichas empresas o entidades, a fin de que el consumo correspondiente se haga efectivo en alguno de los restaurantes que se encuentren afiliados al referido sistema, siempre que los primeros se encuentren previamente enrolados, a través de una plataforma informática dispuesta por CENCOSUD SERVICIOS INTEGRALES S.A.
+Primero : AutorÃ­cese a CENCOSUD SERVICIOS INTEGRALES S.A., RUT NÂ° 76.023.825-2 , para operar un sistema electrÃ³nico de intermediaciÃ³n en la venta de colaciones, a empresas o entidades que otorguen el beneficio de alimentaciÃ³n, a su personal o trabajadores. Para dichos efectos, los Cupones ElectrÃ³nicos serÃ¡n proporcionados al personal o trabajadores que laboren en dichas empresas o entidades, a fin de que el consumo correspondiente se haga efectivo en alguno de los restaurantes que se encuentren afiliados al referido sistema, siempre que los primeros se encuentren previamente enrolados, a travÃ©s de una plataforma informÃ¡tica dispuesta por CENCOSUD SERVICIOS INTEGRALES S.A.
 
-Segundo: La autorización que, en virtud de esta resolución se otorga, regirá a contar de la publicación en el diario oficial de la presente resolución.
+Segundo: La autorizaciÃ³n que, en virtud de esta resoluciÃ³n se otorga, regirÃ¡ a contar de la publicaciÃ³n en el diario oficial de la presente resoluciÃ³n.
 
-Tercero: Los términos utilizados en la presente Resolución corresponderán a los siguientes:
+Tercero: Los tÃ©rminos utilizados en la presente ResoluciÃ³n corresponderÃ¡n a los siguientes:
 
-* Colación: La alimentación que se consume durante el descanso otorgado en la jornada diaria de trabajo.
-* Vale o Cupón Electrónico: Unidad virtual de medida representativa del consumo que se puede realizar durante un periodo predeterminado, el cual tendrá un valor monetario variable desde un mínimo a un máximo del consumo autorizado.
-* Guía de despacho: Aludirá indistintamente a la Guía de despacho electrónica o no electrónica
-* Factura: Aludirá indistintamente a la Factura electrónica o no electrónica
-* Reporte electrónico de transacciones: Informe electrónico no tributario ni timbrado que sirve para registrar las transacciones del restaurante que se encuentran asociadas al sistema de intermediación en la venta de colaciones.
+* ColaciÃ³n: La alimentaciÃ³n que se consume durante el descanso otorgado en la jornada diaria de trabajo.
+* Vale o CupÃ³n ElectrÃ³nico: Unidad virtual de medida representativa del consumo que se puede realizar durante un periodo predeterminado, el cual tendrÃ¡ un valor monetario variable desde un mÃ­nimo a un mÃ¡ximo del consumo autorizado.
+* GuÃ­a de despacho: AludirÃ¡ indistintamente a la GuÃ­a de despacho electrÃ³nica o no electrÃ³nica
+* Factura: AludirÃ¡ indistintamente a la Factura electrÃ³nica o no electrÃ³nica
+* Reporte electrÃ³nico de transacciones: Informe electrÃ³nico no tributario ni timbrado que sirve para registrar las transacciones del restaurante que se encuentran asociadas al sistema de intermediaciÃ³n en la venta de colaciones.
 
-## Cuarto: Descripción de la operación del sistema
+## Cuarto: DescripciÃ³n de la operaciÃ³n del sistema
 
-1. CENCOSUD SERVICIOS INTEGRALES S.A. intermediará en la venta de colaciones, a través del uso de cupones electrónicos y, en cumplimiento a lo dispuesto en el D.L. N° 825, de 1974, emitirá la correspondiente factura por la venta de las colaciones efectivamente consumidas por los empleados de las empresas-clientes en cada período tributario mensual. Sin perjuicio de lo anterior, la referida empresa podrá facturar anticipadamente la venta de las colaciones, procediendo posteriormente a emitir notas de crédito por las colaciones no consumidas.
+1. CENCOSUD SERVICIOS INTEGRALES S.A. intermediarÃ¡ en la venta de colaciones, a travÃ©s del uso de cupones electrÃ³nicos y, en cumplimiento a lo dispuesto en el D.L. NÂ° 825, de 1974, emitirÃ¡ la correspondiente factura por la venta de las colaciones efectivamente consumidas por los empleados de las empresas-clientes en cada perÃ­odo tributario mensual. Sin perjuicio de lo anterior, la referida empresa podrÃ¡ facturar anticipadamente la venta de las colaciones, procediendo posteriormente a emitir notas de crÃ©dito por las colaciones no consumidas.
 
-En atención a que se estima que, la operación del sistema de intermediación en la venta de colaciones a través del uso de cupones electrónicos a que se refiere esta resolución, resguarda adecuadamente el interés fiscal, en conformidad a las facultades que a la Dirección del Servicio otorga el artículo 56, inciso primero, del D.L. N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, se exime a los restaurantes y establecimientos usuarios asociados a este sistema, de la obligación de otorgar boletas o guías de despacho por la entrega de colaciones consumidas por los empleados de las empresas-clientes.
+En atenciÃ³n a que se estima que, la operaciÃ³n del sistema de intermediaciÃ³n en la venta de colaciones a travÃ©s del uso de cupones electrÃ³nicos a que se refiere esta resoluciÃ³n, resguarda adecuadamente el interÃ©s fiscal, en conformidad a las facultades que a la DirecciÃ³n del Servicio otorga el artÃ­culo 56, inciso primero, del D.L. NÂ° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, se exime a los restaurantes y establecimientos usuarios asociados a este sistema, de la obligaciÃ³n de otorgar boletas o guÃ­as de despacho por la entrega de colaciones consumidas por los empleados de las empresas-clientes.
 
-1. En las comisiones que cobre la empresa autorizada en el resolutivo primero, por los servicios de administración, que preste a los adquirentes de cupones electrónicos por las colaciones, deberá recargar el Impuesto al Valor Agregado que afecta a la respectiva comisión; pudiendo emitir una sola factura en la que se incluyan las ventas de colaciones y la comisión del período, debiendo separarse claramente cada ítem.
-2. Respecto del uso de las tarjetas de banda magnética por parte de trabajadores temporales, parttime o que no son contratados con la anticipación requerida, u otras causas, se emitirán tarjetas magnéticas que no contendrían los datos de identificación del trabajador, siempre que la cantidad de este tipo de vales que se entregue mensualmente no sea superior a la cantidad que resulte de multiplicar un 20% del número total de trabajadores de la empresa por el número de días a trabajar por las personas antes indicadas o bien, sea idéntica a la cantidad que resulte de multiplicar el número de trabajadores temporales o part-time que sean contratados por las empresas clientes por el número de días trabajados por ellos.
-3. Los restaurantes que reciban el pago de colaciones mediante este sistema de Vales o Cupones Electrónico deberán llevar un 'Reporte de transacciones restaurante', el cual deberá contener por cada registro, al menos, la siguiente información:
+1. En las comisiones que cobre la empresa autorizada en el resolutivo primero, por los servicios de administraciÃ³n, que preste a los adquirentes de cupones electrÃ³nicos por las colaciones, deberÃ¡ recargar el Impuesto al Valor Agregado que afecta a la respectiva comisiÃ³n; pudiendo emitir una sola factura en la que se incluyan las ventas de colaciones y la comisiÃ³n del perÃ­odo, debiendo separarse claramente cada Ã­tem.
+2. Respecto del uso de las tarjetas de banda magnÃ©tica por parte de trabajadores temporales, parttime o que no son contratados con la anticipaciÃ³n requerida, u otras causas, se emitirÃ¡n tarjetas magnÃ©ticas que no contendrÃ­an los datos de identificaciÃ³n del trabajador, siempre que la cantidad de este tipo de vales que se entregue mensualmente no sea superior a la cantidad que resulte de multiplicar un 20% del nÃºmero total de trabajadores de la empresa por el nÃºmero de dÃ­as a trabajar por las personas antes indicadas o bien, sea idÃ©ntica a la cantidad que resulte de multiplicar el nÃºmero de trabajadores temporales o part-time que sean contratados por las empresas clientes por el nÃºmero de dÃ­as trabajados por ellos.
+3. Los restaurantes que reciban el pago de colaciones mediante este sistema de Vales o Cupones ElectrÃ³nico deberÃ¡n llevar un 'Reporte de transacciones restaurante', el cual deberÃ¡ contener por cada registro, al menos, la siguiente informaciÃ³n:
 
 * a. Fecha
-* b. Código de la transacción
-* c. Número de la tarjeta
-* d. Valor en dinero de la transacción
+* b. CÃ³digo de la transacciÃ³n
+* c. NÃºmero de la tarjeta
+* d. Valor en dinero de la transacciÃ³n
 
-1. En caso de contingencias o de imposibilidad de realizar una transacción por falta de comunicación en la red, los restaurantes asociados podrán llamar a un número telefónico que pondrá a su disposición el intermediario, en el cual se otorgará autorización verbal para efectuar la transacción deseada por el usuario, previa confirmación de la identidad del trabajador. En este procedimiento se entregará un número de autorización, luego el restaurante llenará un formulario especial dispuesto para estos efectos, con la fecha, el monto de la transacción, el número de autorización, nombre y RUT del usuario de la tarjeta, este formulario, que será provisto por CENCOSUD SERVICIOS INTEGRALES S.A., quedará como respaldo del establecimiento y no requerirá ser timbrado por el Servicio, pero deberá ser foliado de acuerdo a una numeración única nacional.
-2. CENCOSUD SERVICIOS INTEGRALES S.A., y los restaurantes que vendan colaciones a través de cupones electrónicos, deberán dar a conocer oportunamente esta Resolución a las empresasclientes para el debido cumplimiento de la misma. Las empresas adquirentes de colaciones, a través de cupones electrónicos, que no cumplan con las obligaciones que esta Resolución les impone, no tendrán derecho a crédito fiscal por el impuesto recargado en las facturas que reciban por las colaciones consumidas.
+1. En caso de contingencias o de imposibilidad de realizar una transacciÃ³n por falta de comunicaciÃ³n en la red, los restaurantes asociados podrÃ¡n llamar a un nÃºmero telefÃ³nico que pondrÃ¡ a su disposiciÃ³n el intermediario, en el cual se otorgarÃ¡ autorizaciÃ³n verbal para efectuar la transacciÃ³n deseada por el usuario, previa confirmaciÃ³n de la identidad del trabajador. En este procedimiento se entregarÃ¡ un nÃºmero de autorizaciÃ³n, luego el restaurante llenarÃ¡ un formulario especial dispuesto para estos efectos, con la fecha, el monto de la transacciÃ³n, el nÃºmero de autorizaciÃ³n, nombre y RUT del usuario de la tarjeta, este formulario, que serÃ¡ provisto por CENCOSUD SERVICIOS INTEGRALES S.A., quedarÃ¡ como respaldo del establecimiento y no requerirÃ¡ ser timbrado por el Servicio, pero deberÃ¡ ser foliado de acuerdo a una numeraciÃ³n Ãºnica nacional.
+2. CENCOSUD SERVICIOS INTEGRALES S.A., y los restaurantes que vendan colaciones a travÃ©s de cupones electrÃ³nicos, deberÃ¡n dar a conocer oportunamente esta ResoluciÃ³n a las empresasclientes para el debido cumplimiento de la misma. Las empresas adquirentes de colaciones, a travÃ©s de cupones electrÃ³nicos, que no cumplan con las obligaciones que esta ResoluciÃ³n les impone, no tendrÃ¡n derecho a crÃ©dito fiscal por el impuesto recargado en las facturas que reciban por las colaciones consumidas.
 
-Cabe agregar, que al venderse colaciones a través de cupones electrónicos que no cumplan con las condiciones señaladas en la presente Resolución, en las facturas que se emitan a la empresacliente por dichas ventas, se deberá dejar constancia en forma destacada que dicha factura no da derecho a crédito Fiscal.
+Cabe agregar, que al venderse colaciones a travÃ©s de cupones electrÃ³nicos que no cumplan con las condiciones seÃ±aladas en la presente ResoluciÃ³n, en las facturas que se emitan a la empresacliente por dichas ventas, se deberÃ¡ dejar constancia en forma destacada que dicha factura no da derecho a crÃ©dito Fiscal.
 
 ## Quinto: Procedimiento de canje
 
-1. En los restaurantes debidamente identificados asociados a CENCOSUD SERVICIOS INTEGRALES S.A. y al momento de solicitar su consumo, el trabajador, deberá presentar su tarjeta unipersonal de banda magnética, representativa de un medio de pago.
-2. El restaurant procederá a cobrar al beneficiario el monto del servicio de alimentación no cubierto por la empresa asociada a través del sistema, si lo hubiera, emitiendo la documentación tributaria correspondiente.
+1. En los restaurantes debidamente identificados asociados a CENCOSUD SERVICIOS INTEGRALES S.A. y al momento de solicitar su consumo, el trabajador, deberÃ¡ presentar su tarjeta unipersonal de banda magnÃ©tica, representativa de un medio de pago.
+2. El restaurant procederÃ¡ a cobrar al beneficiario el monto del servicio de alimentaciÃ³n no cubierto por la empresa asociada a travÃ©s del sistema, si lo hubiera, emitiendo la documentaciÃ³n tributaria correspondiente.
 
-El trabajador podrá efectuar diariamente el consumo correspondiente al saldo total o parcial de un cupón electrónico según la definición del Resolutivo Tercero de la presente resolución. El monto consumido, según el caso, se irá descontando de su monto disponible. En caso que el consumo se efectúe por un valor inferior al mínimo correspondiente a una colación diaria, dicha transacción se recargará por el valor mínimo de la respectiva colación. Si se consume por valor superior al saldo disponible en el cupón electrónico, se deberá emitir una boleta por la correspondiente diferencia de precio.
+El trabajador podrÃ¡ efectuar diariamente el consumo correspondiente al saldo total o parcial de un cupÃ³n electrÃ³nico segÃºn la definiciÃ³n del Resolutivo Tercero de la presente resoluciÃ³n. El monto consumido, segÃºn el caso, se irÃ¡ descontando de su monto disponible. En caso que el consumo se efectÃºe por un valor inferior al mÃ­nimo correspondiente a una colaciÃ³n diaria, dicha transacciÃ³n se recargarÃ¡ por el valor mÃ­nimo de la respectiva colaciÃ³n. Si se consume por valor superior al saldo disponible en el cupÃ³n electrÃ³nico, se deberÃ¡ emitir una boleta por la correspondiente diferencia de precio.
 
-1. Para confirmar la operación, el trabajador podrá acreditar que goza del beneficio de la colación y se encuentra autorizado para utilizar la tarjeta unipersonal de banda magnética, exhibiendo para ello su respectiva identificación, sin la cual no se le podrá cursar la transacción.
+1. Para confirmar la operaciÃ³n, el trabajador podrÃ¡ acreditar que goza del beneficio de la colaciÃ³n y se encuentra autorizado para utilizar la tarjeta unipersonal de banda magnÃ©tica, exhibiendo para ello su respectiva identificaciÃ³n, sin la cual no se le podrÃ¡ cursar la transacciÃ³n.
 
-En caso de pérdida de alguna tarjeta de banda magnética, el trabajador tendrá que dar aviso inmediato a su empleador, y éste a CENCOSUD SERVICIOS INTEGRALES S.A., con el objeto de que se tomen las medias de resguardo para evitar un eventual mal uso del sistema.
+En caso de pÃ©rdida de alguna tarjeta de banda magnÃ©tica, el trabajador tendrÃ¡ que dar aviso inmediato a su empleador, y Ã©ste a CENCOSUD SERVICIOS INTEGRALES S.A., con el objeto de que se tomen las medias de resguardo para evitar un eventual mal uso del sistema.
 
-1. Los Vales o Cupones Electrónicos no serán canjeables por productos diferentes a la colación.
+1. Los Vales o Cupones ElectrÃ³nicos no serÃ¡n canjeables por productos diferentes a la colaciÃ³n.
 
-## Sexto: De la tarjeta Magnética
+## Sexto: De la tarjeta MagnÃ©tica
 
-1. Se emitirán en ejemplares únicos e individuales por cada trabajador, las cuales consignarían una fecha de vencimiento que no sería superior a cuatro años contados desde la fecha de entrega al trabajador.
-2. En el anverso contendrá en forma impresa la siguiente información:
+1. Se emitirÃ¡n en ejemplares Ãºnicos e individuales por cada trabajador, las cuales consignarÃ­an una fecha de vencimiento que no serÃ­a superior a cuatro aÃ±os contados desde la fecha de entrega al trabajador.
+2. En el anverso contendrÃ¡ en forma impresa la siguiente informaciÃ³n:
 
-* a. Nombre o Razón Social y RUT de la empresa cliente.
+* a. Nombre o RazÃ³n Social y RUT de la empresa cliente.
 * b. Nombre, apellido y RUT del trabajador.
-* c. Numeración única y nacional.
+* c. NumeraciÃ³n Ãºnica y nacional.
 
-1. En el reverso señalaría la siguiente información:
+1. En el reverso seÃ±alarÃ­a la siguiente informaciÃ³n:
 
-* a. Razón Social y RUT de CENCOSUD SERVICIOS INTEGRALES S.A.
-* b. Indicación de que el beneficio es intransferible, no canjeable por dinero efectivo ni por otro producto diferente a la alimentación.
-* c. Leyenda de que su uso indebido será sancionado de acuerdo con lo dispuesto en las normas pertinentes del Código Tributario.
-* d. El número y fecha de la Resolución que autoriza a CENCOSUD SERVICIOS INTEGRALES para desarrollar las operaciones descritas en la presente Resolución.
+* a. RazÃ³n Social y RUT de CENCOSUD SERVICIOS INTEGRALES S.A.
+* b. IndicaciÃ³n de que el beneficio es intransferible, no canjeable por dinero efectivo ni por otro producto diferente a la alimentaciÃ³n.
+* c. Leyenda de que su uso indebido serÃ¡ sancionado de acuerdo con lo dispuesto en las normas pertinentes del CÃ³digo Tributario.
+* d. El nÃºmero y fecha de la ResoluciÃ³n que autoriza a CENCOSUD SERVICIOS INTEGRALES para desarrollar las operaciones descritas en la presente ResoluciÃ³n.
 
-## Séptimo: De los comprobantes emitidos
+## SÃ©ptimo: De los comprobantes emitidos
 
-Los comprobantes emitidos, tanto la copia cliente (trabajador) como la copia establecimiento (restaurante) no se considerarán como vales en reemplazo de boletas, sino sólo como un respaldo de las transacciones, los cuales deberán contener la siguiente información:
+Los comprobantes emitidos, tanto la copia cliente (trabajador) como la copia establecimiento (restaurante) no se considerarÃ¡n como vales en reemplazo de boletas, sino sÃ³lo como un respaldo de las transacciones, los cuales deberÃ¡n contener la siguiente informaciÃ³n:
 
-* a. Indicar el nombre 'Comprobante Cupón Electrónico'
-* b. Código de la transacción
-* c. Valor en dinero de la transacción
+* a. Indicar el nombre 'Comprobante CupÃ³n ElectrÃ³nico'
+* b. CÃ³digo de la transacciÃ³n
+* c. Valor en dinero de la transacciÃ³n
 * d. Fecha
-* e. Número de RUT de CENCOSUD SERVICIOS INTEGRALES S.A.
-* f. Número de RUT de establecimiento asociado
-* g. Número de RUT y nombre del trabajador o beneficiario
-* h. Número y año de la presente resolución
+* e. NÃºmero de RUT de CENCOSUD SERVICIOS INTEGRALES S.A.
+* f. NÃºmero de RUT de establecimiento asociado
+* g. NÃºmero de RUT y nombre del trabajador o beneficiario
+* h. NÃºmero y aÃ±o de la presente resoluciÃ³n
 
-## Octavo: De los equipos utilizados para el registro de las transacciones electrónicas
+## Octavo: De los equipos utilizados para el registro de las transacciones electrÃ³nicas
 
-1. Los equipos utilizados para el registro de estas transacciones electrónicas no requerirán de autorizaciones particulares por parte de este Servicio, ni se considerarán para ningún efecto como equipos utilizables en la emisión de vales en reemplazo de boletas de venta.
-2. El Servicio podrá solicitar el reemplazo del equipo utilizado para registrar las transacciones electrónicas cuando su estado o las condiciones de operación no resguarden debidamente el interés fiscal.
+1. Los equipos utilizados para el registro de estas transacciones electrÃ³nicas no requerirÃ¡n de autorizaciones particulares por parte de este Servicio, ni se considerarÃ¡n para ningÃºn efecto como equipos utilizables en la emisiÃ³n de vales en reemplazo de boletas de venta.
+2. El Servicio podrÃ¡ solicitar el reemplazo del equipo utilizado para registrar las transacciones electrÃ³nicas cuando su estado o las condiciones de operaciÃ³n no resguarden debidamente el interÃ©s fiscal.
 
-## Noveno: De la fiscalización y verificación de las transacciones
+## Noveno: De la fiscalizaciÃ³n y verificaciÃ³n de las transacciones
 
-1. En caso de fiscalización al contribuyente-restaurante asociado, este último deberá exhibir las copias de los comprobantes emitidos durante el día, sin más trámite que la solicitud verbal de los funcionarios del Servicio.
-2. El reporte de transacciones restaurante, sólo podrá solicitarse en formato electrónico, y el restaurante dispondrá de tres días hábiles para entregarlo, previo requerimiento del Servicio.
-3. El contribuyente autorizado, conforme al dispositivo primero establecido en esta resolución, deberá llevar un reporte electrónico de transacciones realizadas en el sistema de cupones electrónicos, el cual deberá ser enviado al Servicio mensualmente a la casilla de correo electrónico: <u>reporte\_electronico@sii.cl</u>. Este informe deberá contener por cada registro la siguiente información:
+1. En caso de fiscalizaciÃ³n al contribuyente-restaurante asociado, este Ãºltimo deberÃ¡ exhibir las copias de los comprobantes emitidos durante el dÃ­a, sin mÃ¡s trÃ¡mite que la solicitud verbal de los funcionarios del Servicio.
+2. El reporte de transacciones restaurante, sÃ³lo podrÃ¡ solicitarse en formato electrÃ³nico, y el restaurante dispondrÃ¡ de tres dÃ­as hÃ¡biles para entregarlo, previo requerimiento del Servicio.
+3. El contribuyente autorizado, conforme al dispositivo primero establecido en esta resoluciÃ³n, deberÃ¡ llevar un reporte electrÃ³nico de transacciones realizadas en el sistema de cupones electrÃ³nicos, el cual deberÃ¡ ser enviado al Servicio mensualmente a la casilla de correo electrÃ³nico: <u>reporte\_electronico@sii.cl</u>. Este informe deberÃ¡ contener por cada registro la siguiente informaciÃ³n:
 
 * a. Fecha
-* b. Número de RUT de establecimiento asociado
-* c. Código de la transacción
-* d. Código de habilitación
-* e. Valor en dinero de la transacción
+* b. NÃºmero de RUT de establecimiento asociado
+* c. CÃ³digo de la transacciÃ³n
+* d. CÃ³digo de habilitaciÃ³n
+* e. Valor en dinero de la transacciÃ³n
 * f. Numero de Rut del trabajador
 
-## Décimo: Obligaciones especiales:
+## DÃ©cimo: Obligaciones especiales:
 
-1. En caso de operar, en forma conjunta, el sistema de vales y cupones con el sistema de Cheque Restaurant o Cupón Electrónico, el restaurante deberá cumplir las obligaciones asociadas a cada sistema en forma separada.
-2. Los restaurantes asociados y que participarán en este sistema, deberán contar con la señalética adecuada que permita identificarlos. Para tal efecto deberán disponer, en un lugar visible, de una señalética que incluya la expresión 'Ticket Restaurant Electrónico' o 'Cupón Restaurant Electrónico' o 'Cheque Restaurant Electrónico', indistintamente.
+1. En caso de operar, en forma conjunta, el sistema de vales y cupones con el sistema de Cheque Restaurant o CupÃ³n ElectrÃ³nico, el restaurante deberÃ¡ cumplir las obligaciones asociadas a cada sistema en forma separada.
+2. Los restaurantes asociados y que participarÃ¡n en este sistema, deberÃ¡n contar con la seÃ±alÃ©tica adecuada que permita identificarlos. Para tal efecto deberÃ¡n disponer, en un lugar visible, de una seÃ±alÃ©tica que incluya la expresiÃ³n 'Ticket Restaurant ElectrÃ³nico' o 'CupÃ³n Restaurant ElectrÃ³nico' o 'Cheque Restaurant ElectrÃ³nico', indistintamente.
 
-## Undécimo: De la revocación de la autorización:
+## UndÃ©cimo: De la revocaciÃ³n de la autorizaciÃ³n:
 
-1. El incumplimiento de las obligaciones que establece esta resolución será motivo suficiente para que el Servicio pueda revocar la autorización otorgada al contribuyente para operar el sistema electrónico de venta de colaciones.
-2. En la circunstancia considerada en el numeral anterior, el contribuyente deberá detener la operación de acuerdo a lo establecido en esta resolución, a más tardar el último día del mes de la fecha de publicación de la resolución de revocación de autorización que se emitirá en tal circunstancia, cuyo extracto será publicado por este Servicio en el Diario Oficial. Dicha resolución será notificada al contribuyente por carta certificada.
+1. El incumplimiento de las obligaciones que establece esta resoluciÃ³n serÃ¡ motivo suficiente para que el Servicio pueda revocar la autorizaciÃ³n otorgada al contribuyente para operar el sistema electrÃ³nico de venta de colaciones.
+2. En la circunstancia considerada en el numeral anterior, el contribuyente deberÃ¡ detener la operaciÃ³n de acuerdo a lo establecido en esta resoluciÃ³n, a mÃ¡s tardar el Ãºltimo dÃ­a del mes de la fecha de publicaciÃ³n de la resoluciÃ³n de revocaciÃ³n de autorizaciÃ³n que se emitirÃ¡ en tal circunstancia, cuyo extracto serÃ¡ publicado por este Servicio en el Diario Oficial. Dicha resoluciÃ³n serÃ¡ notificada al contribuyente por carta certificada.
 
-## Duodécimo: Sanciones
+## DuodÃ©cimo: Sanciones
 
-El incumplimiento de las obligaciones que establece esta Resolución será sancionado en base a lo dispuesto en los Arts. 97 ó 109 del Código Tributario, según corresponda, sin perjuicio de la pérdida del derecho a crédito fiscal de la empresa cliente, en el caso que sea procedente.
+El incumplimiento de las obligaciones que establece esta ResoluciÃ³n serÃ¡ sancionado en base a lo dispuesto en los Arts. 97 Ã³ 109 del CÃ³digo Tributario, segÃºn corresponda, sin perjuicio de la pÃ©rdida del derecho a crÃ©dito fiscal de la empresa cliente, en el caso que sea procedente.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
-## (Fdo.) ALEJANDRO BURR ORTÚZAR DIRECTOR (S)
+## (Fdo.) ALEJANDRO BURR ORTÃšZAR DIRECTOR (S)
 
 ## RPA/cpg
 
@@ -148,4 +147,4 @@ Lo que comunico a Ud. Para su conocimiento y fines correspondientes
 
 * Internet
 * Diario oficial (en extracto)
-* Boletín
+* BoletÃ­n

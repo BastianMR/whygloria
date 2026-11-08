@@ -1,66 +1,65 @@
----
-type: SII Resolución
-title: Resolución N° 16 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
-resource: ./2014_RESOLUCION_reso16.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 16 (2014)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÃ‘AS EMPRESAS
 tags: [SII, 2014, resolucion]
 ---
 
-SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
+SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÃ‘AS EMPRESAS
 
-## RESOLUCIÓN EX. SII N° 16\_\_\_\_\_\_\_/
+## RESOLUCIÃ“N EX. SII NÂ° 16\_\_\_\_\_\_\_/
 
-MATERIA: MODIFICA RESOLUCIÓN EX. SII N° 163, DE FECHA 16.12.2008, QUE ESTABLECE NUEVOS FORMATOS DE DECLARACIÓN JURADA SOLICITUD DE DEVOLUCIÓN POR CAMBIO DE SUJETO DE DERECHO DEL IVA.
+MATERIA: MODIFICA RESOLUCIÃ“N EX. SII NÂ° 163, DE FECHA 16.12.2008, QUE ESTABLECE NUEVOS FORMATOS DE DECLARACIÃ“N JURADA SOLICITUD DE DEVOLUCIÃ“N POR CAMBIO DE SUJETO DE DERECHO DEL IVA.
 
 ## SANTIAGO, 07 de febrero de 2014
 
 Hoy se ha resuelto lo que sigue:
 
-V I S T O S : Lo dispuesto en el artículo 6°, letra A, N° 1° del Código Tributario; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; en los incisos tercero y cuarto del artículo 3° de la ley sobre Impuesto a las Ventas y Servicios, y en la Resolución Ex. SII N° 45, de fecha 01.09.2003; y
+V I S T O S : Lo dispuesto en el artÃ­culo 6Â°, letra A, NÂ° 1Â° del CÃ³digo Tributario; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el ArtÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; en los incisos tercero y cuarto del artÃ­culo 3Â° de la ley sobre Impuesto a las Ventas y Servicios, y en la ResoluciÃ³n Ex. SII NÂ° 45, de fecha 01.09.2003; y
 
 ## C O N S I D E R A N D O:
 
-1° Que, las resoluciones que establecen los cambios de sujeto de derecho del Impuesto al Valor Agregado (IVA) contemplan la opción de solicitar la devolución de los montos retenidos acumulados, y que por efecto de la aplicación de la medida de retención, no han podido ser imputados a los débitos fiscales generados en el desarrollo de su actividad.
+1Â° Que, las resoluciones que establecen los cambios de sujeto de derecho del Impuesto al Valor Agregado (IVA) contemplan la opciÃ³n de solicitar la devoluciÃ³n de los montos retenidos acumulados, y que por efecto de la aplicaciÃ³n de la medida de retenciÃ³n, no han podido ser imputados a los dÃ©bitos fiscales generados en el desarrollo de su actividad.
 
-2° Que, para facilitar la tramitación del contribuyente y agilizar los procesos de control que la ley ha encomendado a este Servicio, mediante Resolución Ex. SII N° 163, de 2008, se establecieron formatos de declaración jurada para las solicitudes de devoluciones por los cambios de sujeto establecidos, en conformidad a lo dispuesto en el inciso tercero del artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, como asimismo, de los anticipos a que se refiere el inciso cuarto.
+2Â° Que, para facilitar la tramitaciÃ³n del contribuyente y agilizar los procesos de control que la ley ha encomendado a este Servicio, mediante ResoluciÃ³n Ex. SII NÂ° 163, de 2008, se establecieron formatos de declaraciÃ³n jurada para las solicitudes de devoluciones por los cambios de sujeto establecidos, en conformidad a lo dispuesto en el inciso tercero del artÃ­culo 3Â° de la Ley sobre Impuesto a las Ventas y Servicios, como asimismo, de los anticipos a que se refiere el inciso cuarto.
 
-3° Que, conforme a lo establecido por Resolución Ex. SII N° 45, de 2003, los emisores de documentos tributarios electrónicos (DTE) están obligados a enviar el 'Informe Electrónico de Compras y Ventas' (IECV), mensualmente al Servicio de Impuestos Internos. Sin perjuicio de lo anterior, la fecha de envío del IECV puede ser posterior a la fecha de presentación de la solicitud de devolución por cambio de sujeto, y para verificar la procedencia de la solicitud, se requiere el examen del Libro de Compras y Ventas y de la documentación soportante a que se refieren los Párrafos 3° y 2°, respectivamente, del Título IV de la Ley sobre Impuesto a las Ventas y Servicios, correspondiente al periodo tributario en el que se origina la devolución.
+3Â° Que, conforme a lo establecido por ResoluciÃ³n Ex. SII NÂ° 45, de 2003, los emisores de documentos tributarios electrÃ³nicos (DTE) estÃ¡n obligados a enviar el 'Informe ElectrÃ³nico de Compras y Ventas' (IECV), mensualmente al Servicio de Impuestos Internos. Sin perjuicio de lo anterior, la fecha de envÃ­o del IECV puede ser posterior a la fecha de presentaciÃ³n de la solicitud de devoluciÃ³n por cambio de sujeto, y para verificar la procedencia de la solicitud, se requiere el examen del Libro de Compras y Ventas y de la documentaciÃ³n soportante a que se refieren los PÃ¡rrafos 3Â° y 2Â°, respectivamente, del TÃ­tulo IV de la Ley sobre Impuesto a las Ventas y Servicios, correspondiente al periodo tributario en el que se origina la devoluciÃ³n.
 
-4° Que, para facilitar el procedimiento de revisión de las solicitudes objeto de esta normativa, es indispensable la presentación de los documentos indicados en el considerando anterior, lo que hace necesario modificar la Resolución Ex. SII N° 163, de 2008, en los términos señalados en los resolutivos siguientes.
+4Â° Que, para facilitar el procedimiento de revisiÃ³n de las solicitudes objeto de esta normativa, es indispensable la presentaciÃ³n de los documentos indicados en el considerando anterior, lo que hace necesario modificar la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, en los tÃ©rminos seÃ±alados en los resolutivos siguientes.
 
 ## S E R E S U E L V E:
 
-* 1.MODIFÍQUESE la Resolución Ex. SII N° 163, de 2008, en los siguientes términos:
-* a) Reemplácese el párrafo quinto del resolutivo N° 1 de la Resolución Ex. SII N° 163, de 2008, por el siguiente:
+* 1.MODIFÃQUESE la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, en los siguientes tÃ©rminos:
+* a) ReemplÃ¡cese el pÃ¡rrafo quinto del resolutivo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, por el siguiente:
 
-'Cada solicitud, para su debida resolución, deberá acompañar, al momento de su presentación, los siguientes documentos:
+'Cada solicitud, para su debida resoluciÃ³n, deberÃ¡ acompaÃ±ar, al momento de su presentaciÃ³n, los siguientes documentos:
 
-* I. Libros de Compras y Ventas correspondientes al período tributario por el cual se solicita devolución o desde el período inicial de generación del remanente de crédito fiscal o del
+* I. Libros de Compras y Ventas correspondientes al perÃ­odo tributario por el cual se solicita devoluciÃ³n o desde el perÃ­odo inicial de generaciÃ³n del remanente de crÃ©dito fiscal o del
 
-1. período siguiente a la última devolución solicitada, el más antiguo de ellos. Los emisores de documentos tributarios electrónicos (DTE), que, a la fecha de la solicitud, no hayan presentado el IECV del periodo solicitado en la devolución, deberán presentar sólo el Libro de Compras y Ventas correspondiente a dicho periodo.
+1. perÃ­odo siguiente a la Ãºltima devoluciÃ³n solicitada, el mÃ¡s antiguo de ellos. Los emisores de documentos tributarios electrÃ³nicos (DTE), que, a la fecha de la solicitud, no hayan presentado el IECV del periodo solicitado en la devoluciÃ³n, deberÃ¡n presentar sÃ³lo el Libro de Compras y Ventas correspondiente a dicho periodo.
 
-* II. Declaraciones Mensuales y Pago Simultáneo de Impuestos (Formularios N° 29), presentadas por los medios que el Servicio de Impuestos Internos haya autorizado, correspondientes a los últimos seis (6) períodos tributarios, incluido el del período por el cual se solicita la devolución; o desde el periodo inicial de generación del remanente solicitado (sólo cuando éstas hayan sido presentadas en papel).
-* III. Facturas de proveedores; Formulario N° 15 de Declaración de Ingreso (DIN) del Servicio Nacional de Aduanas, como comprobante del pago del Impuesto al Valor Agregado en las importaciones; facturas de compra emitidas y recibidas, notas de crédito emitidas y recibidas y notas de débito emitidas y recibidas, y facturas y guías de despacho emitidas del período por el cual solicita la devolución. Los emisores de DTE no presentarán la documentación enunciada cuando previo a la presentación de la solicitud, hayan enviado el IECV correspondiente.
-* IV. Otros documentos propios de la actividad que lo ha afectado. (Contratos de Confección y/o Instalación de Especialidades, Actas de Procedencia de Investigaciones, Libros de Control de Existencias de Productos, Guías de Libre Tránsito o Certificados de Movimiento de Animales según corresponda, entre otros).'
-* b) Reemplácese el párrafo cuarto del resolutivo N° 2 de la Resolución Ex. SII N° 163, de 2008, por el siguiente:
+* II. Declaraciones Mensuales y Pago SimultÃ¡neo de Impuestos (Formularios NÂ° 29), presentadas por los medios que el Servicio de Impuestos Internos haya autorizado, correspondientes a los Ãºltimos seis (6) perÃ­odos tributarios, incluido el del perÃ­odo por el cual se solicita la devoluciÃ³n; o desde el periodo inicial de generaciÃ³n del remanente solicitado (sÃ³lo cuando Ã©stas hayan sido presentadas en papel).
+* III. Facturas de proveedores; Formulario NÂ° 15 de DeclaraciÃ³n de Ingreso (DIN) del Servicio Nacional de Aduanas, como comprobante del pago del Impuesto al Valor Agregado en las importaciones; facturas de compra emitidas y recibidas, notas de crÃ©dito emitidas y recibidas y notas de dÃ©bito emitidas y recibidas, y facturas y guÃ­as de despacho emitidas del perÃ­odo por el cual solicita la devoluciÃ³n. Los emisores de DTE no presentarÃ¡n la documentaciÃ³n enunciada cuando previo a la presentaciÃ³n de la solicitud, hayan enviado el IECV correspondiente.
+* IV. Otros documentos propios de la actividad que lo ha afectado. (Contratos de ConfecciÃ³n y/o InstalaciÃ³n de Especialidades, Actas de Procedencia de Investigaciones, Libros de Control de Existencias de Productos, GuÃ­as de Libre TrÃ¡nsito o Certificados de Movimiento de Animales segÃºn corresponda, entre otros).'
+* b) ReemplÃ¡cese el pÃ¡rrafo cuarto del resolutivo NÂ° 2 de la ResoluciÃ³n Ex. SII NÂ° 163, de 2008, por el siguiente:
 
-'Cada solicitud, para su debida resolución, deberá acompañar, al momento de su presentación, los siguientes documentos:
+'Cada solicitud, para su debida resoluciÃ³n, deberÃ¡ acompaÃ±ar, al momento de su presentaciÃ³n, los siguientes documentos:
 
-* I. Libros de Compras y Ventas correspondientes a los períodos tributarios por los cuales se solicita la devolución. En consecuencia, deben incluir los periodos tributarios en los cuales se originó el remanente de anticipo. Los emisores de DTE presentarán el Libro de Compras y Ventas únicamente por el último periodo mensual que abarca la solicitud de devolución, siempre y cuando no hayan enviado el IECV correspondiente.
-* II. Declaraciones Mensuales y Pago Simultáneo de Impuestos (Formularios 29), presentados por los medios que el Servicio de Impuestos Internos autoriza, correspondientes a los últimos seis (6) meses, incluido el del último período por el cual solicita devolución o desde el periodo inicial de generación del remanente solicitado, el más antiguo de ellos (sólo cuando éstos hayan sido presentados en papel).
-* III. Facturas de proveedores, incluidas aquellas con retención por anticipo de IVA, facturas emitidas, notas de crédito emitidas y recibidas y notas de débito emitidas y recibidas, de los períodos que abarca la solicitud. Los emisores de DTE presentarán los documentos de respaldo del Libro de Compras y Ventas únicamente por el último periodo mensual que abarca la solicitud de devolución, siempre y cuando no hayan enviado el IECV correspondiente.
-* IV. En las importaciones, Declaraciones de Ingreso (DIN) del Servicio Nacional de Aduanas, como comprobante del pago del Impuesto al Valor Agregado y el respectivo anticipo por los períodos que abarca la solicitud.'
+* I. Libros de Compras y Ventas correspondientes a los perÃ­odos tributarios por los cuales se solicita la devoluciÃ³n. En consecuencia, deben incluir los periodos tributarios en los cuales se originÃ³ el remanente de anticipo. Los emisores de DTE presentarÃ¡n el Libro de Compras y Ventas Ãºnicamente por el Ãºltimo periodo mensual que abarca la solicitud de devoluciÃ³n, siempre y cuando no hayan enviado el IECV correspondiente.
+* II. Declaraciones Mensuales y Pago SimultÃ¡neo de Impuestos (Formularios 29), presentados por los medios que el Servicio de Impuestos Internos autoriza, correspondientes a los Ãºltimos seis (6) meses, incluido el del Ãºltimo perÃ­odo por el cual solicita devoluciÃ³n o desde el periodo inicial de generaciÃ³n del remanente solicitado, el mÃ¡s antiguo de ellos (sÃ³lo cuando Ã©stos hayan sido presentados en papel).
+* III. Facturas de proveedores, incluidas aquellas con retenciÃ³n por anticipo de IVA, facturas emitidas, notas de crÃ©dito emitidas y recibidas y notas de dÃ©bito emitidas y recibidas, de los perÃ­odos que abarca la solicitud. Los emisores de DTE presentarÃ¡n los documentos de respaldo del Libro de Compras y Ventas Ãºnicamente por el Ãºltimo periodo mensual que abarca la solicitud de devoluciÃ³n, siempre y cuando no hayan enviado el IECV correspondiente.
+* IV. En las importaciones, Declaraciones de Ingreso (DIN) del Servicio Nacional de Aduanas, como comprobante del pago del Impuesto al Valor Agregado y el respectivo anticipo por los perÃ­odos que abarca la solicitud.'
 
-1. 2.La presente resolución regirá a contar del día 1° del mes siguiente al de su publicación en extracto, en el Diario Oficial, y afectará las peticiones de devoluciones que se efectúen a partir de dicha fecha.
+1. 2.La presente resoluciÃ³n regirÃ¡ a contar del dÃ­a 1Â° del mes siguiente al de su publicaciÃ³n en extracto, en el Diario Oficial, y afectarÃ¡ las peticiones de devoluciones que se efectÃºen a partir de dicha fecha.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
-## (FDO) ALEJANDRO BURR ORTÚZAR DIRECTOR
+## (FDO) ALEJANDRO BURR ORTÃšZAR DIRECTOR
 
-Lo que transcribo a Ud., para sus conocimientos y demás fines.
+Lo que transcribo a Ud., para sus conocimientos y demÃ¡s fines.
 
-## RPA/RNS/NSM/MLS/mvh DISTRIBUCIÓN:
+## RPA/RNS/NSM/MLS/mvh DISTRIBUCIÃ“N:
 
 * Internet
-* Boletín
+* BoletÃ­n
 * Diario Oficial (Extracto)

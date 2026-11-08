@@ -1,39 +1,38 @@
----
-type: SII Resolución
-title: Resolución N° 146 (2021)
-description: MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.
-resource: ./2021_RESOLUCION_reso63.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 146 (2021)
+description: MODIFICA RESOLUCION EXENTA SII NÂ° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.
 tags: [SII, 2021, resolucion]
 ---
 
-MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.
+MODIFICA RESOLUCION EXENTA SII NÂ° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.
 
 SANTIAGO, 23 DE JUNIO DE 2021
 
-## RESOLUCIÓN EXENTA SII N° 63
+## RESOLUCIÃ“N EXENTA SII NÂ° 63
 
-VISTOS: Lo dispuesto en el artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; el N°3 de la letra A) del artículo 6° del Código Tributario; el artículo 41 del DFL N° 1/19.653, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley N° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; la Ley N°19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento, contenido en el Decreto Supremo N° 250 del año 2004 del Ministerio de Hacienda; y la Resolución Exenta SII N° 146, de 27 de noviembre de 2020, que Delega Facultades y asigna funciones en las Jefaturas que indica; las Resoluciones N° 6, y 7 de 2019, de la Contraloría General de la República, que fijan normas sobre exención del trámite de toma de razón, y
+VISTOS: Lo dispuesto en el artÃ­culo 7Â°, letras c), h), i), j), o) y q) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; el NÂ°3 de la letra A) del artÃ­culo 6Â° del CÃ³digo Tributario; el artÃ­culo 41 del DFL NÂ° 1/19.653, que fija el texto refundido, coordinado y sistematizado de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; la Ley NÂ° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Ã“rganos de la AdministraciÃ³n del Estado; la Ley NÂ°19.886 de Bases sobre Contratos Administrativos de Suministro y PrestaciÃ³n de Servicios, y su Reglamento, contenido en el Decreto Supremo NÂ° 250 del aÃ±o 2004 del Ministerio de Hacienda; y la ResoluciÃ³n Exenta SII NÂ° 146, de 27 de noviembre de 2020, que Delega Facultades y asigna funciones en las Jefaturas que indica; las Resoluciones NÂ° 6, y 7 de 2019, de la ContralorÃ­a General de la RepÃºblica, que fijan normas sobre exenciÃ³n del trÃ¡mite de toma de razÃ³n, y
 
 ## CONSIDERANDO:
 
-1. Que, de conformidad con lo dispuesto en el inciso primero del artículo 5° de la Ley N° 18.575, las autoridades y funcionarios deben velar por la eficiente e idónea administración de los medios públicos;
-2. Que, consecuentemente, deben adoptarse las medidas necesarias para garantizar una eficiente gestión de los recursos para la adquisición de bienes muebles e inmuebles y la contratación de servicios, en conformidad a la normativa que regula la materia;
-3. Que, el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos otorga al Director las atribuciones para dirigir el Servicio;
-4. Que, mediante Resolución Exenta N° 146, de 2020, se delegó en diversas jefaturas, una serie de facultades y funciones, relativas a la adquisición de bienes muebles y contratación de servicios, la adquisición, arrendamiento y comodato de inmuebles, la administración de bienes institucionales, y la aprobación de actos sobre materias financieras, necesarios para el cumplimiento de los fines del Servicio;
-5. Que, las facultades delegadas en dicho acto, en materia de suministro de bienes y contratación de servicios, presuponen la tramitación de un proceso de contratación a través de alguna de las modalidades dispuestas en la Ley N° 19.886, sin embargo, no contemplan mecanismos de regularización en caso de no haberse cumplido aquellas;
-6. Que, actualmente, en aquellos casos indicados en el párrafo precedente, es el Director quien emite un acto administrativo que regulariza la contratación respectiva.
-7. Que, por razones de eficacia y eficiencia, se requiere delegar la facultad de regularizar tales contrataciones, cuando se trate de casos de menor cuantía, en una jefatura con la especialización suficiente como para analizar la procedencia de regularización;
-8. Que, por los motivos expuestos, se requiere complementar la Resolución Exenta SII N° 146, de 2020.
+1. Que, de conformidad con lo dispuesto en el inciso primero del artÃ­culo 5Â° de la Ley NÂ° 18.575, las autoridades y funcionarios deben velar por la eficiente e idÃ³nea administraciÃ³n de los medios pÃºblicos;
+2. Que, consecuentemente, deben adoptarse las medidas necesarias para garantizar una eficiente gestiÃ³n de los recursos para la adquisiciÃ³n de bienes muebles e inmuebles y la contrataciÃ³n de servicios, en conformidad a la normativa que regula la materia;
+3. Que, el artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos otorga al Director las atribuciones para dirigir el Servicio;
+4. Que, mediante ResoluciÃ³n Exenta NÂ° 146, de 2020, se delegÃ³ en diversas jefaturas, una serie de facultades y funciones, relativas a la adquisiciÃ³n de bienes muebles y contrataciÃ³n de servicios, la adquisiciÃ³n, arrendamiento y comodato de inmuebles, la administraciÃ³n de bienes institucionales, y la aprobaciÃ³n de actos sobre materias financieras, necesarios para el cumplimiento de los fines del Servicio;
+5. Que, las facultades delegadas en dicho acto, en materia de suministro de bienes y contrataciÃ³n de servicios, presuponen la tramitaciÃ³n de un proceso de contrataciÃ³n a travÃ©s de alguna de las modalidades dispuestas en la Ley NÂ° 19.886, sin embargo, no contemplan mecanismos de regularizaciÃ³n en caso de no haberse cumplido aquellas;
+6. Que, actualmente, en aquellos casos indicados en el pÃ¡rrafo precedente, es el Director quien emite un acto administrativo que regulariza la contrataciÃ³n respectiva.
+7. Que, por razones de eficacia y eficiencia, se requiere delegar la facultad de regularizar tales contrataciones, cuando se trate de casos de menor cuantÃ­a, en una jefatura con la especializaciÃ³n suficiente como para analizar la procedencia de regularizaciÃ³n;
+8. Que, por los motivos expuestos, se requiere complementar la ResoluciÃ³n Exenta SII NÂ° 146, de 2020.
 
 ## RESUELVO:
 
-PRIMERO: AGRÉGASE el siguiente literal en el párrafo III 'Facultades Comunes a los Acápites Anteriores', de la Resolución Exenta SII N° 146, de 2020:
+PRIMERO: AGRÃ‰GASE el siguiente literal en el pÃ¡rrafo III 'Facultades Comunes a los AcÃ¡pites Anteriores', de la ResoluciÃ³n Exenta SII NÂ° 146, de 2020:
 
-* 'R) Delégase en el Subdirector de Administración, la facultad de regularizar los pagos que se requieran efectuar con ocasión de la adquisición de bienes o contratación de servicios, sujetas a la aplicación de la Ley N° 19.886, que hayan sido practicadas al margen de las modalidades de contratación establecidas en dicha norma, en la Dirección Nacional, las Direcciones Regionales o la Dirección de Grandes Contribuyentes, y hasta por un monto de 5 UTM. Una vez tramitado el acto administrativo correspondiente, este deberá publicarse en el portal de Gobierno Transparente del Servicio y los antecedentes respectivos deberán ser remitidos a la Subdirección de Contraloría Interna, con el objeto que se revisen los controles existentes, se propongan acciones de mejora y/o se analice la pertinencia de instruir un proceso disciplinario para determinar eventuales responsabilidades administrativas, según corresponda'.
+* 'R) DelÃ©gase en el Subdirector de AdministraciÃ³n, la facultad de regularizar los pagos que se requieran efectuar con ocasiÃ³n de la adquisiciÃ³n de bienes o contrataciÃ³n de servicios, sujetas a la aplicaciÃ³n de la Ley NÂ° 19.886, que hayan sido practicadas al margen de las modalidades de contrataciÃ³n establecidas en dicha norma, en la DirecciÃ³n Nacional, las Direcciones Regionales o la DirecciÃ³n de Grandes Contribuyentes, y hasta por un monto de 5 UTM. Una vez tramitado el acto administrativo correspondiente, este deberÃ¡ publicarse en el portal de Gobierno Transparente del Servicio y los antecedentes respectivos deberÃ¡n ser remitidos a la SubdirecciÃ³n de ContralorÃ­a Interna, con el objeto que se revisen los controles existentes, se propongan acciones de mejora y/o se analice la pertinencia de instruir un proceso disciplinario para determinar eventuales responsabilidades administrativas, segÃºn corresponda'.
 
-SEGUNDO: A contar de la fecha de vigencia de la presente Resolución, las instrucciones que en ella se contienen, priman sobre toda norma interna que pugne con sus disposiciones.
+SEGUNDO: A contar de la fecha de vigencia de la presente ResoluciÃ³n, las instrucciones que en ella se contienen, priman sobre toda norma interna que pugne con sus disposiciones.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
 <unknown>
 
@@ -43,7 +42,7 @@ SEGUNDO: A contar de la fecha de vigencia de la presente Resolución, las instru
 
 ## JFGC
 
-## Distribución:
+## DistribuciÃ³n:
 
 * Internet
 * Diario Oficial, en Extracto

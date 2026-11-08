@@ -1,55 +1,54 @@
----
-type: SII Resolución
-title: Resolución N° 132 (2013)
-description: SUBDIRECCIÓN DE AVALUACIONES
-resource: ./2013_RESOLUCION_reso56.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 132 (2013)
+description: SUBDIRECCIÃ“N DE AVALUACIONES
 tags: [SII, 2013, resolucion]
 ---
 
-SUBDIRECCIÓN DE AVALUACIONES
+SUBDIRECCIÃ“N DE AVALUACIONES
 
-REEMPLAZA PLANOS DE PRECIOS DE LAS COMUNAS DE CATEMU, PANQUEHUE, CHILLÁN Y CONCEPCIÓN DE LA RESOLUCIÓN N° 132 DE 31.12.2012 Y CORRIGE ERROR DE TRANSCRIPCIÓN.
+REEMPLAZA PLANOS DE PRECIOS DE LAS COMUNAS DE CATEMU, PANQUEHUE, CHILLÃN Y CONCEPCIÃ“N DE LA RESOLUCIÃ“N NÂ° 132 DE 31.12.2012 Y CORRIGE ERROR DE TRANSCRIPCIÃ“N.
 
 SANTIAGO, 06 de junio de 2013
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N° \_\_56\_/
+RESOLUCIÃ“N EX. SII NÂ° \_\_56\_/
 
-VISTOS : Lo dispuesto en los artículos 4° y 29 de la ley N° 17.235, sobre Impuesto Territorial; en el artículo 6°, letra A), N° 1 del Decreto Ley N° 830, sobre Código Tributario, de 1974; y,
+VISTOS : Lo dispuesto en los artÃ­culos 4Â° y 29 de la ley NÂ° 17.235, sobre Impuesto Territorial; en el artÃ­culo 6Â°, letra A), NÂ° 1 del Decreto Ley NÂ° 830, sobre CÃ³digo Tributario, de 1974; y,
 
 ## CONSIDERANDO:
 
-1º) Que por Resolución N° 132, de 31.12.2012, se fijaron los valores de terrenos y construcciones, y definiciones técnicas para el reavalúo de los bienes raíces de la segunda serie no agrícola con destino no habitacional.
+1Âº) Que por ResoluciÃ³n NÂ° 132, de 31.12.2012, se fijaron los valores de terrenos y construcciones, y definiciones tÃ©cnicas para el reavalÃºo de los bienes raÃ­ces de la segunda serie no agrÃ­cola con destino no habitacional.
 
-2º) Que el anexo N° 1 de la Resolución N° 132, de 31.12.2012, establece que para cada comuna del país existen planos de precios con la sectorización en áreas homogéneas, los coeficientes guías por manzana y los factores de ajuste a los valores unitarios de construcción por localización en áreas comerciales, cuando existan, planos que forman parte integrante de dicha resolución.
+2Âº) Que el anexo NÂ° 1 de la ResoluciÃ³n NÂ° 132, de 31.12.2012, establece que para cada comuna del paÃ­s existen planos de precios con la sectorizaciÃ³n en Ã¡reas homogÃ©neas, los coeficientes guÃ­as por manzana y los factores de ajuste a los valores unitarios de construcciÃ³n por localizaciÃ³n en Ã¡reas comerciales, cuando existan, planos que forman parte integrante de dicha resoluciÃ³n.
 
-3º) Que los planos de precios de terrenos de las comunas de Catemu y Panquehue contienen errores de copia en la denominación de algunas Áreas Homogéneas y sus respectivos deslindes, los que no inciden en el valor de los avalúos notificados con la entrada en vigencia del reavalúo de los bienes raíces no agrícolas no habitacionales el 1° de enero de 2013.
+3Âº) Que los planos de precios de terrenos de las comunas de Catemu y Panquehue contienen errores de copia en la denominaciÃ³n de algunas Ãreas HomogÃ©neas y sus respectivos deslindes, los que no inciden en el valor de los avalÃºos notificados con la entrada en vigencia del reavalÃºo de los bienes raÃ­ces no agrÃ­colas no habitacionales el 1Â° de enero de 2013.
 
-4º) Que los planos de precios de terrenos de las comunas de Chillán y Concepción omiten los coeficientes guías de determinadas manzanas, lo que no incide en el valor de los avalúos notificados con la entrada en vigencia del reavalúo de los bienes raíces no agrícolas no habitacionales el 1° de enero de 2013.
+4Âº) Que los planos de precios de terrenos de las comunas de ChillÃ¡n y ConcepciÃ³n omiten los coeficientes guÃ­as de determinadas manzanas, lo que no incide en el valor de los avalÃºos notificados con la entrada en vigencia del reavalÃºo de los bienes raÃ­ces no agrÃ­colas no habitacionales el 1Â° de enero de 2013.
 
-5º) Que el valor de terreno del Área Homogénea CBB060 de la comuna de Curicó publicado en el plano de precios de terreno de la comuna contiene un error de transcripción.
+5Âº) Que el valor de terreno del Ãrea HomogÃ©nea CBB060 de la comuna de CuricÃ³ publicado en el plano de precios de terreno de la comuna contiene un error de transcripciÃ³n.
 
 ## Anexos:
 
-Anexo 1: Plano de la comuna de Panquehue Anexo 2: Plano de la comuna de Catemu Anexo 3: Plano de la comuna de Curicó Anexo 4: Plano de la comuna de Concepción Anexo 5: Plano de la comuna de Chillán
+Anexo 1: Plano de la comuna de Panquehue Anexo 2: Plano de la comuna de Catemu Anexo 3: Plano de la comuna de CuricÃ³ Anexo 4: Plano de la comuna de ConcepciÃ³n Anexo 5: Plano de la comuna de ChillÃ¡n
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## DISTRIBUCIÓN
+## DISTRIBUCIÃ“N
 
 * -Internet
-* -Boletín
+* -BoletÃ­n
 * -Diario Oficial
 
 ## SE RESUELVE:
 
-1º) Reemplácese los planos de precios de terrenos de las comunas de Catemu y Panquehue, contenidos en la Resolución Ex. N° 132, de 31.12.2012, en atención a que contienen errores de copia en la denominación de algunas Áreas Homogéneas y sus respectivos deslindes, por los que se adjuntan a la presente Resolución.
+1Âº) ReemplÃ¡cese los planos de precios de terrenos de las comunas de Catemu y Panquehue, contenidos en la ResoluciÃ³n Ex. NÂ° 132, de 31.12.2012, en atenciÃ³n a que contienen errores de copia en la denominaciÃ³n de algunas Ãreas HomogÃ©neas y sus respectivos deslindes, por los que se adjuntan a la presente ResoluciÃ³n.
 
-2º) Reemplácese los planos de precios de terrenos de las comunas de Chillán y Concepción, contenidos en la Resolución Ex. N° 132, de 31.12.2012, en consideración a que en algunas manzanas de dichos planos se omitieron los coeficientes guías utilizados para determinar los avalúos de los predios de esas comunas, por los que se adjuntan a la presente resolución.
+2Âº) ReemplÃ¡cese los planos de precios de terrenos de las comunas de ChillÃ¡n y ConcepciÃ³n, contenidos en la ResoluciÃ³n Ex. NÂ° 132, de 31.12.2012, en consideraciÃ³n a que en algunas manzanas de dichos planos se omitieron los coeficientes guÃ­as utilizados para determinar los avalÃºos de los predios de esas comunas, por los que se adjuntan a la presente resoluciÃ³n.
 
-3º) Corríjase el valor de terreno del Área Homogénea CBB060 del plano de precios de terrenos de la comuna de Curicó, contenido en la Resolución Ex. N° 132, de 31.12.2012, de manera tal que donde dice $5.422, debe decir $54.220.
+3Âº) CorrÃ­jase el valor de terreno del Ãrea HomogÃ©nea CBB060 del plano de precios de terrenos de la comuna de CuricÃ³, contenido en la ResoluciÃ³n Ex. NÂ° 132, de 31.12.2012, de manera tal que donde dice $5.422, debe decir $54.220.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
 ## (FDO.) JULIO PEREIRA GANDARILLAS DIRECTOR

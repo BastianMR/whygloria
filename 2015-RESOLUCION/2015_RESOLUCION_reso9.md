@@ -1,14 +1,13 @@
----
-type: SII Resolución
-title: Resolución N° 9 (2015)
-description: SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA
-resource: ./2015_RESOLUCION_reso9.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 9 (2015)
+description: SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÃ“N NORMATIVA
 tags: [SII, 2015, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA
+## SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÃ“N NORMATIVA
 
-ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN.
+ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÃ‘ALAN.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -16,80 +15,80 @@ SANTIAGO, 17 de febrero de 2015.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII Nº 09.- /
+RESOLUCIÃ“N EX. SII NÂº 09.- /
 
-VISTOS: La facultad que me confiere el artículo 6º, Letra A, Nº 1, del Código Tributario, contenido en el artículo 1º del D.L. Nº 830, de 1974, lo dispuesto en los incisos tercero del artículo 23º y quinto del Nº 1 del artículo 34º de la Ley de la Renta, y teniendo presente el Oficio Ord. Nº 42, de fecha 20 de enero del año 2015, del Ministerio de Minería, y
+VISTOS: La facultad que me confiere el artÃ­culo 6Âº, Letra A, NÂº 1, del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº del D.L. NÂº 830, de 1974, lo dispuesto en los incisos tercero del artÃ­culo 23Âº y quinto del NÂº 1 del artÃ­culo 34Âº de la Ley de la Renta, y teniendo presente el Oficio Ord. NÂº 42, de fecha 20 de enero del aÃ±o 2015, del Ministerio de MinerÃ­a, y
 
 ## CONSIDERANDO:
 
-1º) Que, el artículo 23º de la Ley de la Renta establece un impuesto único a los pequeños mineros artesanales por las rentas provenientes de dicha actividad minera y que se aplica en relación a una escala de tasas conformada en base al precio internacional del cobre.
+1Âº) Que, el artÃ­culo 23Âº de la Ley de la Renta establece un impuesto Ãºnico a los pequeÃ±os mineros artesanales por las rentas provenientes de dicha actividad minera y que se aplica en relaciÃ³n a una escala de tasas conformada en base al precio internacional del cobre.
 
-2º) Que, por otra parte, el Nº 1 del artículo 34º de la Ley de la Renta, presume de derecho una Renta Líquida Imponible de Primera Categoría determinada de acuerdo a una escala de tasas según el precio promedio de la libra de cobre en el año o ejercicio respectivo para los mineros de mediana importancia, que no sean pequeños mineros artesanales y con excepción de las sociedades anónimas, en comandita por acciones y de los contribuyentes señalados en el Nº 2 del artículo anteriormente mencionado.
+2Âº) Que, por otra parte, el NÂº 1 del artÃ­culo 34Âº de la Ley de la Renta, presume de derecho una Renta LÃ­quida Imponible de Primera CategorÃ­a determinada de acuerdo a una escala de tasas segÃºn el precio promedio de la libra de cobre en el aÃ±o o ejercicio respectivo para los mineros de mediana importancia, que no sean pequeÃ±os mineros artesanales y con excepciÃ³n de las sociedades anÃ³nimas, en comandita por acciones y de los contribuyentes seÃ±alados en el NÂº 2 del artÃ­culo anteriormente mencionado.
 
-3º) Que, mediante el Decreto Supremo del Ministerio de Hacienda Nº 32 , de 04 de Febrero del año 2015 , publicado en el Diario Oficial el 14 de Febrero del mismo año, se reactualizan las escalas de tasas a que se refieren los artículos 23º y 34º Nº 1 de la Ley de la Renta.
+3Âº) Que, mediante el Decreto Supremo del Ministerio de Hacienda NÂº 32 , de 04 de Febrero del aÃ±o 2015 , publicado en el Diario Oficial el 14 de Febrero del mismo aÃ±o, se reactualizan las escalas de tasas a que se refieren los artÃ­culos 23Âº y 34Âº NÂº 1 de la Ley de la Renta.
 
-4º) Que, asimismo, las disposiciones legales anteriormente citadas establecen que el Servicio de Impuestos Internos, previo informe del Ministerio de Minería, debe determinar la equivalencia que corresponda respecto del precio internacional del oro y la plata, a fin de hacer aplicable las escalas mencionadas a las ventas de dichos minerales y a las combinaciones de esos minerales con cobre.
+4Âº) Que, asimismo, las disposiciones legales anteriormente citadas establecen que el Servicio de Impuestos Internos, previo informe del Ministerio de MinerÃ­a, debe determinar la equivalencia que corresponda respecto del precio internacional del oro y la plata, a fin de hacer aplicable las escalas mencionadas a las ventas de dichos minerales y a las combinaciones de esos minerales con cobre.
 
-5º) Que, habiendo informado el Ministerio de Minería por Oficio Ord. Nº 42, de fecha 20 de enero del año 2015 , respecto de la equivalencia del oro y la plata.
+5Âº) Que, habiendo informado el Ministerio de MinerÃ­a por Oficio Ord. NÂº 42, de fecha 20 de enero del aÃ±o 2015 , respecto de la equivalencia del oro y la plata.
 
 ## SE RESUELVE:
 
-1º) Establécense para los efectos de aplicar el impuesto del artículo 23º de la Ley de la Renta, las siguientes escalas que se aplicarán sobre el valor neto de las ventas de minerales de oro y plata y a la combinación de esos minerales con cobre:
+1Âº) EstablÃ©cense para los efectos de aplicar el impuesto del artÃ­culo 23Âº de la Ley de la Renta, las siguientes escalas que se aplicarÃ¡n sobre el valor neto de las ventas de minerales de oro y plata y a la combinaciÃ³n de esos minerales con cobre:
 
 ## a) Respecto del oro
 
-1% si el precio internacional del oro no excede de 811,84 dólares norteamericanos la onza troy;
+1% si el precio internacional del oro no excede de 811,84 dÃ³lares norteamericanos la onza troy;
 
-* 2% si el precio internacional del oro excede de 811,84 dólares norteamericanos la onza troy y no sobrepasa de 1.298,85 dólares norteamericanos la onza troy, y
+* 2% si el precio internacional del oro excede de 811,84 dÃ³lares norteamericanos la onza troy y no sobrepasa de 1.298,85 dÃ³lares norteamericanos la onza troy, y
 
-4% si el precio internacional del oro excede de 1.298,85 dólares norteamericanos la onza troy.
+4% si el precio internacional del oro excede de 1.298,85 dÃ³lares norteamericanos la onza troy.
 
 ## b) Respecto de la plata
 
-* 1% si el precio internacional de la plata no excede de 745,68 dólares norteamericanos el kilógramo de plata;
-* 2% si el precio internacional de la plata excede de 745,68 dólares norteamericanos el kilógramo de plata y no sobrepasa de 1.193,11 dólares norteamericanos el kilógramo de plata, y
-* 4% si el precio internacional de la plata excede de 1.193,11 dólares norteamericanos el kilógramo de plata.
+* 1% si el precio internacional de la plata no excede de 745,68 dÃ³lares norteamericanos el kilÃ³gramo de plata;
+* 2% si el precio internacional de la plata excede de 745,68 dÃ³lares norteamericanos el kilÃ³gramo de plata y no sobrepasa de 1.193,11 dÃ³lares norteamericanos el kilÃ³gramo de plata, y
+* 4% si el precio internacional de la plata excede de 1.193,11 dÃ³lares norteamericanos el kilÃ³gramo de plata.
 
-2º) Establécense para los efectos de la presunción de la renta líquida imponible de la actividad minera a que se refiere el Nº 1 del artículo 34º de la Ley de la Renta, las siguientes escalas aplicables a las ventas de minerales de oro y plata y combinación de éstos con cobre:
+2Âº) EstablÃ©cense para los efectos de la presunciÃ³n de la renta lÃ­quida imponible de la actividad minera a que se refiere el NÂº 1 del artÃ­culo 34Âº de la Ley de la Renta, las siguientes escalas aplicables a las ventas de minerales de oro y plata y combinaciÃ³n de Ã©stos con cobre:
 
 ## a) Respecto del oro
 
-* 4% si el precio promedio de la onza troy en el año o ejercicio respectivo no excede de 649,45 dólares norteamericanos la onza troy;
-* 6% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 649,45 dólares norteamericanos la onza troy y no sobrepasa de 811,84 dólares norteamericanos la onza troy;
-* 10% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 811,84 dólares norteamericanos la onza troy y no sobrepasa de 1.055,36 dólares norteamericanos la onza troy;
-* 15% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 1.055,36 dólares norteamericanos la onza troy y no sobrepasa de 1.298,85 dólares norteamericanos la onza troy, y
-* 20% si el precio promedio de la onza troy en el año o ejercicio respectivo excede de 1.298,85 dólares norteamericanos la onza troy.
+* 4% si el precio promedio de la onza troy en el aÃ±o o ejercicio respectivo no excede de 649,45 dÃ³lares norteamericanos la onza troy;
+* 6% si el precio promedio de la onza troy en el aÃ±o o ejercicio respectivo excede de 649,45 dÃ³lares norteamericanos la onza troy y no sobrepasa de 811,84 dÃ³lares norteamericanos la onza troy;
+* 10% si el precio promedio de la onza troy en el aÃ±o o ejercicio respectivo excede de 811,84 dÃ³lares norteamericanos la onza troy y no sobrepasa de 1.055,36 dÃ³lares norteamericanos la onza troy;
+* 15% si el precio promedio de la onza troy en el aÃ±o o ejercicio respectivo excede de 1.055,36 dÃ³lares norteamericanos la onza troy y no sobrepasa de 1.298,85 dÃ³lares norteamericanos la onza troy, y
+* 20% si el precio promedio de la onza troy en el aÃ±o o ejercicio respectivo excede de 1.298,85 dÃ³lares norteamericanos la onza troy.
 
 ## b) Respecto de la plata
 
-* 4% si el precio promedio del kg. de plata en el año o ejercicio respectivo no excede de 596,58 dólares norteamericanos el kg. de plata;
-* 6% si el precio promedio del kg. de plata en el año o ejercicio respectivo excede de 596,58 dólares norteamericanos el kg. de plata y no sobrepasa de 745,68 dólares norteamericanos el kg. de plata;
-* 10% si el precio promedio del kg. de plata en el año o ejercicio respectivo excede de 745,68 dólares norteamericanos el kg. de plata y no sobrepasa de 969,40 dólares norteamericanos el kg. de plata;
-* 15% si el precio promedio del kg. de plata en el año o ejercicio respectivo excede de 969,40 dólares norteamericanos el kg. de plata y no sobrepasa de 1.193,11 dólares norteamericanos el kg. de plata, y
-* 20% si el precio promedio del kg. de plata en el año o ejercicio respectivo excede de 1.193,11 dólares norteamericanos el kg. de plata.
+* 4% si el precio promedio del kg. de plata en el aÃ±o o ejercicio respectivo no excede de 596,58 dÃ³lares norteamericanos el kg. de plata;
+* 6% si el precio promedio del kg. de plata en el aÃ±o o ejercicio respectivo excede de 596,58 dÃ³lares norteamericanos el kg. de plata y no sobrepasa de 745,68 dÃ³lares norteamericanos el kg. de plata;
+* 10% si el precio promedio del kg. de plata en el aÃ±o o ejercicio respectivo excede de 745,68 dÃ³lares norteamericanos el kg. de plata y no sobrepasa de 969,40 dÃ³lares norteamericanos el kg. de plata;
+* 15% si el precio promedio del kg. de plata en el aÃ±o o ejercicio respectivo excede de 969,40 dÃ³lares norteamericanos el kg. de plata y no sobrepasa de 1.193,11 dÃ³lares norteamericanos el kg. de plata, y
+* 20% si el precio promedio del kg. de plata en el aÃ±o o ejercicio respectivo excede de 1.193,11 dÃ³lares norteamericanos el kg. de plata.
 
-3º) De conformidad a lo dispuesto en el inciso penúltimo del Nº 1 del artículo 34º de la Ley de la Renta, las escalas referidas al artículo 23º rigen a contar del 1º de marzo del año 2015 y hasta el último día del mes de febrero del año 2016 y, en cuanto a las escalas referidas al Nº 1 del artículo 34, éstas rigen para el Año Tributario 2015.
+3Âº) De conformidad a lo dispuesto en el inciso penÃºltimo del NÂº 1 del artÃ­culo 34Âº de la Ley de la Renta, las escalas referidas al artÃ­culo 23Âº rigen a contar del 1Âº de marzo del aÃ±o 2015 y hasta el Ãºltimo dÃ­a del mes de febrero del aÃ±o 2016 y, en cuanto a las escalas referidas al NÂº 1 del artÃ­culo 34, Ã©stas rigen para el AÃ±o Tributario 2015.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE
 
 ## (FDO.) JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)
 
 Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
 
-anscribo a Ud. para su conocimiento y demás fines.
+anscribo a Ud. para su conocimiento y demÃ¡s fines.
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * DIARIO OFICIAL
 * A INTERNET
-* BOLETÍN
+* BOLETÃN
 
 luda a Ud.
 
-DISTRIBUCIÓN:
+DISTRIBUCIÃ“N:
 
 AL DIARIO OFICIAL
 
 A INTERNET
 
-BOLETÍN
+BOLETÃN

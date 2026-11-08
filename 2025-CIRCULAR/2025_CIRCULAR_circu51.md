@@ -1,19 +1,18 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 51 (2025)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°51.- 337465.2025 GE |
-resource: ./2025_CIRCULAR_circu51.md.docx
+title: Circular NÂ° 51 (2025)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°51.- 337465.2025 GE |
 tags: [SII, 2025, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°51.- 337465.2025 GE** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°51.- 337465.2025 GE** |
 | --- | --- |
 | SISTEMA DEPUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE AGOSTO DE 2025. |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de agosto de 2025 y el 9 de septiembre de 2025, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de agosto de 2025 y 9 de septiembre de 2025, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de agosto de 2025 y 9 de septiembre de 2025, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de agosto de 2025
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de agosto de 2025
 
 Saluda a Ud.,
 
@@ -21,7 +20,7 @@ Saluda a Ud.,
 
 ## SRG/AHB/LOF/jfl
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * -Internet
 

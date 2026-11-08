@@ -1,25 +1,24 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 1 (2020)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°1.- |
-resource: ./2020_CIRCULAR_circu1.md.docx
+title: Circular NÂ° 1 (2020)
+description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ°1.- |
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°1.-** |
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ°1.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 9 DE ENERO 2020 |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2020 y el 9 de febrero de 2020, ambos inclusive. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : REF. LEGAL: acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de enero de 2020 y el 9 de febrero de 2020, ambos inclusive. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : REF. LEGAL: acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de enero de 2020 y 9 de febrero de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de enero de 2020 y 9 de febrero de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado
 
 (Publicado en D.O. de 09.01.2020)
 
-| **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** |
+| **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 28.310,86 | 28.339,17 |  |  |  |  |  |  |  |  |  |  |
 | 2 | 28.311,77 | 28.340,08 |  |  |  |  |  |  |  |  |  |  |
 | 3 | 28.312,68 | 28.341,00 |  |  |  |  |  |  |  |  |  |  |
@@ -56,6 +55,6 @@ Saluda a Ud.,
 
 FERNANDO BARRAZA LUENGO DIRECTOR
 
-## - AL BOLETÍN
+## - AL BOLETÃN
 
 * A INTERNET

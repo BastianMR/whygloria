@@ -1,57 +1,56 @@
----
-type: SII Resolución
-title: Resolución N° 111 (2023)
-description: INSTRUYE SOBRE PRÓRROGA DEL PLAZO PARA LA PRESENTACIÓN DE LOS FORMULARIOS NÚMEROS 29 Y 50 HASTA 31 DE OCTUBRE DE 2023, CONFORME AL DECRETO SUPREMO Nº 1.131 D...
-resource: ./2023_RESOLUCION_reso111.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 111 (2023)
+description: INSTRUYE SOBRE PRÃ“RROGA DEL PLAZO PARA LA PRESENTACIÃ“N DE LOS FORMULARIOS NÃšMEROS 29 Y 50 HASTA 31 DE OCTUBRE DE 2023, CONFORME AL DECRETO SUPREMO NÂº 1.131 D...
 tags: [SII, 2023, resolucion]
 ---
 
-INSTRUYE SOBRE PRÓRROGA DEL PLAZO PARA LA PRESENTACIÓN DE LOS FORMULARIOS NÚMEROS 29 Y 50 HASTA 31 DE OCTUBRE DE 2023, CONFORME AL DECRETO SUPREMO Nº 1.131 DE 2023 DEL MINISTERIO DE HACIENDA.
+INSTRUYE SOBRE PRÃ“RROGA DEL PLAZO PARA LA PRESENTACIÃ“N DE LOS FORMULARIOS NÃšMEROS 29 Y 50 HASTA 31 DE OCTUBRE DE 2023, CONFORME AL DECRETO SUPREMO NÂº 1.131 DE 2023 DEL MINISTERIO DE HACIENDA.
 
 SANTIAGO, 20 DE SEPTIEMBRE DE 2023
 
-RESOLUCIÓN EX. SII N°111.-
+RESOLUCIÃ“N EX. SII NÂ°111.-
 
 VISTOS:
 
-Lo dispuesto en los artículos 6º letra A Nº 1, 29 y 36 del Código Tributario, contenido en artículo 1º del D.L. Nº 830 de 1974; en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. Nº.7 de 1980, del Ministerio de Hacienda; en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. Nº 825 de 1974; en los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L. Nº 824 de 1974; en el artículo 3º del Decreto Supremo Nº 104 de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título l de la Ley Nº 16.282 de 1965; en el artículo 45 del Código Civil; en el Decreto Supremo Nº 219 de 21 de agosto de 2023, del Ministerio del Interior y Seguridad Pública publicado en el Diario Oficial en la misma fecha, y; en el Decreto Supremo Nº 1.131 de 28 de agosto de 2023, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023; y
+Lo dispuesto en los artÃ­culos 6Âº letra A NÂº 1, 29 y 36 del CÃ³digo Tributario, contenido en artÃ­culo 1Âº del D.L. NÂº 830 de 1974; en los artÃ­culos 1Âº, 4Âº bis y 7Âº de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del D.F.L. NÂº.7 de 1980, del Ministerio de Hacienda; en el artÃ­culo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂº 825 de 1974; en los artÃ­culos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Âº del D.L. NÂº 824 de 1974; en el artÃ­culo 3Âº del Decreto Supremo NÂº 104 de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del TÃ­tulo l de la Ley NÂº 16.282 de 1965; en el artÃ­culo 45 del CÃ³digo Civil; en el Decreto Supremo NÂº 219 de 21 de agosto de 2023, del Ministerio del Interior y Seguridad PÃºblica publicado en el Diario Oficial en la misma fecha, y; en el Decreto Supremo NÂº 1.131 de 28 de agosto de 2023, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023; y
 
 ## CONSIDERANDO:
 
-1°Que, con fecha 21 de agosto de 2023, el Presidente de la República, mediante Decreto Supremo Nº 219, del Ministerio del Interior y Seguridad Pública, declaró como zonas afectadas por catástrofe a las regiones del Libertador General Bernardo O'Higgins, del Maule, de Ñuble y del Biobío, como consecuencia del sistema frontal acaecido desde el día 18 de agosto del mismo año, declaración la cual regirá durante el plazo señalado en artículo 19 del Decreto Supremo Nº 104 de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título l, de la Ley Nº 16.282;
+1Â°Que, con fecha 21 de agosto de 2023, el Presidente de la RepÃºblica, mediante Decreto Supremo NÂº 219, del Ministerio del Interior y Seguridad PÃºblica, declarÃ³ como zonas afectadas por catÃ¡strofe a las regiones del Libertador General Bernardo O'Higgins, del Maule, de Ã‘uble y del BiobÃ­o, como consecuencia del sistema frontal acaecido desde el dÃ­a 18 de agosto del mismo aÃ±o, declaraciÃ³n la cual regirÃ¡ durante el plazo seÃ±alado en artÃ­culo 19 del Decreto Supremo NÂº 104 de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del TÃ­tulo l, de la Ley NÂº 16.282;
 
-2°Que, con fecha 28 de agosto de 2023, el Presidente de la República, mediante Decreto Supremo Nº 1.131, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023, estableció una serie de medidas y procedimientos en materia tributaria, dispuestos en favor de los contribuyentes con casa matriz en las comunas afectadas por el frente de mal tiempo, pertenecientes a las regiones del Libertador General Bernardo O'Higgins, del Maule, de Ñuble y del Biobío, que rige durante el plazo de 12 meses y hasta que extingan todos sus efectos, contados desde la declaración de zonas afectas por catástrofe, de acuerdo al Decreto Supremo Nº 219 del Ministerio del Interior y Seguridad Pública de fecha 21 de agosto de 2023.
+2Â°Que, con fecha 28 de agosto de 2023, el Presidente de la RepÃºblica, mediante Decreto Supremo NÂº 1.131, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023, estableciÃ³ una serie de medidas y procedimientos en materia tributaria, dispuestos en favor de los contribuyentes con casa matriz en las comunas afectadas por el frente de mal tiempo, pertenecientes a las regiones del Libertador General Bernardo O'Higgins, del Maule, de Ã‘uble y del BiobÃ­o, que rige durante el plazo de 12 meses y hasta que extingan todos sus efectos, contados desde la declaraciÃ³n de zonas afectas por catÃ¡strofe, de acuerdo al Decreto Supremo NÂº 219 del Ministerio del Interior y Seguridad PÃºblica de fecha 21 de agosto de 2023.
 
-En el marco de dichas medidas, se establece la prórroga, hasta el 31 de octubre de 2023, del plazo para la declaración y pago de los impuestos que deben declararse y/o pagarse en el mes de septiembre de 2023, a que se refiere el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, respecto de aquellos contribuyentes cuya casa matriz se encuentre en las comunas afectadas y localizadas en las regiones declaradas Zonas Afectadas por Catástrofe en Decreto Supremo Nº 219 del Ministerio del Interior y Seguridad Pública, de fecha 21 de agosto de 2023.
+En el marco de dichas medidas, se establece la prÃ³rroga, hasta el 31 de octubre de 2023, del plazo para la declaraciÃ³n y pago de los impuestos que deben declararse y/o pagarse en el mes de septiembre de 2023, a que se refiere el artÃ­culo 64 de la Ley sobre Impuesto a las Ventas y Servicios, respecto de aquellos contribuyentes cuya casa matriz se encuentre en las comunas afectadas y localizadas en las regiones declaradas Zonas Afectadas por CatÃ¡strofe en Decreto Supremo NÂº 219 del Ministerio del Interior y Seguridad PÃºblica, de fecha 21 de agosto de 2023.
 
-Asimismo, se prorroga hasta el 31 de octubre de 2023 el plazo para declarar y pagar los impuestos del mes de septiembre, a que se refieren los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, respecto de aquellos contribuyentes cuya casa matriz se encuentre en las comunas afectadas en las regiones declaradas Zonas Afectadas por Catástrofe en Decreto Supremo Nº 219 del Ministerio del Interior y Seguridad Pública, de fecha 21 de agosto de 2023.
+Asimismo, se prorroga hasta el 31 de octubre de 2023 el plazo para declarar y pagar los impuestos del mes de septiembre, a que se refieren los artÃ­culos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, respecto de aquellos contribuyentes cuya casa matriz se encuentre en las comunas afectadas en las regiones declaradas Zonas Afectadas por CatÃ¡strofe en Decreto Supremo NÂº 219 del Ministerio del Interior y Seguridad PÃºblica, de fecha 21 de agosto de 2023.
 
 <unknown>
 
-De este modo, la ampliación del plazo señalada rige para la Declaración Mensual y Pago Simultáneo de Impuestos o Declaración, según corresponda, que se efectúe a través de los Formularios N os 29 y 50 del Servicio de Impuestos Internos.
+De este modo, la ampliaciÃ³n del plazo seÃ±alada rige para la DeclaraciÃ³n Mensual y Pago SimultÃ¡neo de Impuestos o DeclaraciÃ³n, segÃºn corresponda, que se efectÃºe a travÃ©s de los Formularios N os 29 y 50 del Servicio de Impuestos Internos.
 
-3°Que, dado los efectos perniciosos del evento meteorológico acaecido desde el día 18 de agosto de 2023, que provocó la alteración de cursos de agua e inundaciones de zonas pobladas, produciéndose daños en personas, caminos y viviendas, este Servicio ha estimado necesario instruir sobre las prórrogas establecidas en el acápite 1.-, numerales 1) y 2), del Decreto Supremo Nº 1.131, de 28 de agosto de 2023, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023.
+3Â°Que, dado los efectos perniciosos del evento meteorolÃ³gico acaecido desde el dÃ­a 18 de agosto de 2023, que provocÃ³ la alteraciÃ³n de cursos de agua e inundaciones de zonas pobladas, produciÃ©ndose daÃ±os en personas, caminos y viviendas, este Servicio ha estimado necesario instruir sobre las prÃ³rrogas establecidas en el acÃ¡pite 1.-, numerales 1) y 2), del Decreto Supremo NÂº 1.131, de 28 de agosto de 2023, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de septiembre de 2023.
 
 ## SE RESUELVE:
 
-Las prórrogas señaladas en el considerando 2º se aplicarán a todos los contribuyentes que, a la fecha del acaecimiento de la catástrofe, tengan o hubieren tenido su casa matriz en alguna de las comunas de las regiones que se indican en el siguiente cuadro:
+Las prÃ³rrogas seÃ±aladas en el considerando 2Âº se aplicarÃ¡n a todos los contribuyentes que, a la fecha del acaecimiento de la catÃ¡strofe, tengan o hubieren tenido su casa matriz en alguna de las comunas de las regiones que se indican en el siguiente cuadro:
 
-| **REGIÓN** | **COMUNAS** |
+| **REGIÃ“N** | **COMUNAS** |
 | --- | --- |
-| REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS | COLTAUCO, NANCAGUA, PALMILLA, PAREDONES, PERALILLO, PLACILLA, SANTA CRUZ. |
-| REGIÓN DEL MAULE | CAUQUENES, CHANCO, COLBÚN, CONSTITUCIÓN, CUREPTO, CURICÓ, EMPEDRADO, HUALANE, LICANTÉN, LINARES, LONGAVÍ, MAULE, MOLINA, PARRAL, PELARCO, PELLUHUE, PENCAHUE, RAUCO, RETIRO, RÍO CLARO, ROMERAL, SAGRADA FAMILIA, SAN CLEMENTE, SAN JAVIER, SAN RAFAEL, TALCA, TENO, VICHUQUÉN, VILLA ALEGRE, YERBAS BUENAS. |
-| REGIÓN DEL BIOBIO | ALTO BIOBÍO, ANTUCO, ARAUCO, CABRERO, CAÑETE, CONCEPCIÓN, HUALQUI, LEBU, LOS ANGELES, NACIMIENTO, QUILACO, SAN PEDRO DE LA PAZ, SAN ROSENDO, SANTA BÁRBARA, SANTA JUANA, TALCAHUANO, TOMÉ, YUMBEL. |
-| REGIÓN DE ÑUBLE | BULNES, CHILLÁN, CHILLÁN VIEJO, COBQUECURA COELEMU, COIHUECO, EL CARMEN, NINHUE, NIQUÉN, PEMUCO, PINTO, PORTEZUELO, QUILLÓN, QUIRIHUE, RANQUIL, SAN CARLOS, SAN FABIAN, SAN IGNACIO, SAN NICOLÁS, TREHUACO, YUNGAY. |
+| REGIÃ“N DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS | COLTAUCO, NANCAGUA, PALMILLA, PAREDONES, PERALILLO, PLACILLA, SANTA CRUZ. |
+| REGIÃ“N DEL MAULE | CAUQUENES, CHANCO, COLBÃšN, CONSTITUCIÃ“N, CUREPTO, CURICÃ“, EMPEDRADO, HUALANE, LICANTÃ‰N, LINARES, LONGAVÃ, MAULE, MOLINA, PARRAL, PELARCO, PELLUHUE, PENCAHUE, RAUCO, RETIRO, RÃO CLARO, ROMERAL, SAGRADA FAMILIA, SAN CLEMENTE, SAN JAVIER, SAN RAFAEL, TALCA, TENO, VICHUQUÃ‰N, VILLA ALEGRE, YERBAS BUENAS. |
+| REGIÃ“N DEL BIOBIO | ALTO BIOBÃO, ANTUCO, ARAUCO, CABRERO, CAÃ‘ETE, CONCEPCIÃ“N, HUALQUI, LEBU, LOS ANGELES, NACIMIENTO, QUILACO, SAN PEDRO DE LA PAZ, SAN ROSENDO, SANTA BÃRBARA, SANTA JUANA, TALCAHUANO, TOMÃ‰, YUMBEL. |
+| REGIÃ“N DE Ã‘UBLE | BULNES, CHILLÃN, CHILLÃN VIEJO, COBQUECURA COELEMU, COIHUECO, EL CARMEN, NINHUE, NIQUÃ‰N, PEMUCO, PINTO, PORTEZUELO, QUILLÃ“N, QUIRIHUE, RANQUIL, SAN CARLOS, SAN FABIAN, SAN IGNACIO, SAN NICOLÃS, TREHUACO, YUNGAY. |
 
-* Comunas determinadas en base a información de SENAPRED.
+* Comunas determinadas en base a informaciÃ³n de SENAPRED.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
 ## DIRECTOR
 
-CSM/CGG/MCRB/FWV DISTRIBUCIÓN :
+CSM/CGG/MCRB/FWV DISTRIBUCIÃ“N :
 
 * Internet
 * Diario Oficial en Extracto

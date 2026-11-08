@@ -1,55 +1,54 @@
----
-type: SII Resolución
-title: Resolución N° 48 (2021)
-description: MATERIA: DETERMINA FORMA Y PLAZO EN QUE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA DEBE INFORMAR DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 7º DE LA LE...
-resource: ./2021_RESOLUCION_reso48.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 48 (2021)
+description: MATERIA: DETERMINA FORMA Y PLAZO EN QUE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA DEBE INFORMAR DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 7Âº DE LA LE...
 tags: [SII, 2021, resolucion]
 ---
 
-MATERIA: DETERMINA FORMA Y PLAZO EN QUE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA DEBE INFORMAR DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 7º DE LA LEY Nº 21.323.
+MATERIA: DETERMINA FORMA Y PLAZO EN QUE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA DEBE INFORMAR DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 7Âº DE LA LEY NÂº 21.323.
 
-RESOLUCION EXENTA SII Nº48.-
+RESOLUCION EXENTA SII NÂº48.-
 
 SANTIAGO, 7 DE MAYO DE 2021
 
-VISTOS: Lo dispuesto en el artículo 6° letra A N° 1 y 87 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; en la Ley N° 19.728; el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria; lo establecido en los artículos 1, 4 y 7 inciso segundo de la Ley N° 21.323, que establece un nuevo bono clase media un préstamo solidario para la protección de los ingresos de la clase media.
+VISTOS: Lo dispuesto en el artÃ­culo 6Â° letra A NÂ° 1 y 87 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; en la Ley NÂ° 19.728; el artÃ­culo trigÃ©simo sexto transitorio de la Ley NÂ° 21.210, que moderniza la legislaciÃ³n tributaria; lo establecido en los artÃ­culos 1, 4 y 7 inciso segundo de la Ley NÂ° 21.323, que establece un nuevo bono clase media un prÃ©stamo solidario para la protecciÃ³n de los ingresos de la clase media.
 
 ## CONSIDERANDO:
 
-1º Que, la Ley N° 21.323, que establece un nuevo Bono Clase Media y un Préstamo Solidario para la protección de los ingresos de la clase media publicada en el Diario Oficial el día 06 de abril de 2021, incorpora un Incremento Familiar al Bono.
+1Âº Que, la Ley NÂ° 21.323, que establece un nuevo Bono Clase Media y un PrÃ©stamo Solidario para la protecciÃ³n de los ingresos de la clase media publicada en el Diario Oficial el dÃ­a 06 de abril de 2021, incorpora un Incremento Familiar al Bono.
 
-2º Que, de acuerdo con lo establecido en el inciso segundo del artículo 7º de la Ley N° 21.323, 'Si en el hogar existieren uno o más personas beneficiadas con el Bono Clase Media, para efectos de calcular el incremento regulado en este artículo, las personas causantes del incremento se contabilizarán sólo respecto de uno de los beneficiarios dentro del hogar, según determine la Subsecretaría de Evaluación Social mediante una resolución exenta. Para estos efectos se utilizará la última información disponible en el Registro Social de Hogares correspondiente al mes siguiente de la entrada en vigencia de esta ley. El Ministerio de Desarrollo Social y Familia remitirá al Servicio de Impuestos Internos la información necesaria, en la forma y plazo que el Servicio de Impuestos Internos determine mediante resolución. Dicha información solo deberá ser utilizada para los fines establecidos en este artículo'. Esta disposición, establece, por una parte, la facultad legal del Servicio de Impuestos Internos de requerir información, y por otra, el deber del Ministerio de Desarrollo Social y Familia, de remitirla.
+2Âº Que, de acuerdo con lo establecido en el inciso segundo del artÃ­culo 7Âº de la Ley NÂ° 21.323, 'Si en el hogar existieren uno o mÃ¡s personas beneficiadas con el Bono Clase Media, para efectos de calcular el incremento regulado en este artÃ­culo, las personas causantes del incremento se contabilizarÃ¡n sÃ³lo respecto de uno de los beneficiarios dentro del hogar, segÃºn determine la SubsecretarÃ­a de EvaluaciÃ³n Social mediante una resoluciÃ³n exenta. Para estos efectos se utilizarÃ¡ la Ãºltima informaciÃ³n disponible en el Registro Social de Hogares correspondiente al mes siguiente de la entrada en vigencia de esta ley. El Ministerio de Desarrollo Social y Familia remitirÃ¡ al Servicio de Impuestos Internos la informaciÃ³n necesaria, en la forma y plazo que el Servicio de Impuestos Internos determine mediante resoluciÃ³n. Dicha informaciÃ³n solo deberÃ¡ ser utilizada para los fines establecidos en este artÃ­culo'. Esta disposiciÃ³n, establece, por una parte, la facultad legal del Servicio de Impuestos Internos de requerir informaciÃ³n, y por otra, el deber del Ministerio de Desarrollo Social y Familia, de remitirla.
 
-Que, con el mérito de las razones expresadas precedentemente,
+Que, con el mÃ©rito de las razones expresadas precedentemente,
 
 ## SE RESUELVE
 
-1º El Ministerio de Desarrollo Social deberá remitir al Servicio de Impuestos Internos la información del solicitante del Bono a quien corresponda pagar el Incremento Familiar al Bono, de acuerdo con el siguiente detalle:
+1Âº El Ministerio de Desarrollo Social deberÃ¡ remitir al Servicio de Impuestos Internos la informaciÃ³n del solicitante del Bono a quien corresponda pagar el Incremento Familiar al Bono, de acuerdo con el siguiente detalle:
 
-* -Número Registro Único Nacional y Dígito Verificador solicitante Bono Clase Media
+* -NÃºmero Registro Ãšnico Nacional y DÃ­gito Verificador solicitante Bono Clase Media
 * -Monto total recibido por el Incremento Familiar del Bono Clase Media
 * -Identificador de Registro Social de Hogares (si o no)
-* -Número total de causantes del incremento
-* -Número de causantes menores de 18 años
-* -Número de causantes de 65 años o más
-* -Número de causantes personas con discapacidad
+* -NÃºmero total de causantes del incremento
+* -NÃºmero de causantes menores de 18 aÃ±os
+* -NÃºmero de causantes de 65 aÃ±os o mÃ¡s
+* -NÃºmero de causantes personas con discapacidad
 * -Recibe Bono Adicional otro integrante del hogar
-* -Registro Único Nacional y Dígito Verificador que identifica a la persona que recibe el bono adicional
+* -Registro Ãšnico Nacional y DÃ­gito Verificador que identifica a la persona que recibe el bono adicional
 
 <unknown>
 
-2º La información deberá ser remitida de manera electrónica a este organismo en las fechas que se indican a continuación, para proceder al pago del Incremento Familiar del Bono Clase Media:
+2Âº La informaciÃ³n deberÃ¡ ser remitida de manera electrÃ³nica a este organismo en las fechas que se indican a continuaciÃ³n, para proceder al pago del Incremento Familiar del Bono Clase Media:
 
-* a) El 10.05.2021, respecto de los Bonos solicitados hasta el día 30 de abril,
-* b) El 31.05.2021, respecto de los Bonos solicitados entre los días 01 y 17 de mayo.
+* a) El 10.05.2021, respecto de los Bonos solicitados hasta el dÃ­a 30 de abril,
+* b) El 31.05.2021, respecto de los Bonos solicitados entre los dÃ­as 01 y 17 de mayo.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-## CSM/CGG/LCC/KHA/PSM/aci Distribución:
+## CSM/CGG/LCC/KHA/PSM/aci DistribuciÃ³n:
 
 * Internet
 * Diario Oficial en extracto

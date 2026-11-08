@@ -1,63 +1,62 @@
----
-type: SII Resolución
-title: Resolución N° 119 (2022)
-description: Ex. SII N° 119 de 2020, por el siguiente:
-resource: ./2022_RESOLUCION_reso72.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 119 (2022)
+description: Ex. SII NÂ° 119 de 2020, por el siguiente:
 tags: [SII, 2022, resolucion]
 ---
 
-Ex. SII N° 119 de 2020, por el siguiente:
+Ex. SII NÂ° 119 de 2020, por el siguiente:
 
-'Establécese la obligación de informar los antecedentes que se detallan en el Resolutivo N° 2 siguiente, mediante el Formulario N° 1921,
+'EstablÃ©cese la obligaciÃ³n de informar los antecedentes que se detallan en el Resolutivo NÂ° 2 siguiente, mediante el Formulario NÂ° 1921,
 
-MODIFICA RESOLUCIÓN EXENTA SII N° 119 DE 2020 QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE POR MEDIO DE FORMULARIO N° 1921, EN LO RELATIVO A SUS OBLIGADOS, Y REEMPLAZA SUS INSTRUCCIONES.
+MODIFICA RESOLUCIÃ“N EXENTA SII NÂ° 119 DE 2020 QUE ESTABLECE LA OBLIGACIÃ“N DE PRESENTAR DECLARACIÃ“N JURADA SOBRE ENAJENACIÃ“N DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE POR MEDIO DE FORMULARIO NÂ° 1921, EN LO RELATIVO A SUS OBLIGADOS, Y REEMPLAZA SUS INSTRUCCIONES.
 
 ## SANTIAGO, 31 DE AGOSTO DE 2022
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N°72.-
+RESOLUCIÃ“N EX. SII NÂ°72.-
 
-VISTOS: Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis del Código Tributario, contenido en artículo 1° del D.L. N° 830 de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7 de 1980; los artículos 10, inciso tercero y siguientes, y 58 N° 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824 de 1974 (LIR) y la Resolución Ex. SII N° 119 de 2020, complementada por Resolución Ex. SII N° 11 de 2021;
+VISTOS: Lo dispuesto en los artÃ­culos 6Â° letra A NÂ° 1 y 33 bis del CÃ³digo Tributario, contenido en artÃ­culo 1Â° del D.L. NÂ° 830 de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del D.F.L. NÂ° 7 de 1980; los artÃ­culos 10, inciso tercero y siguientes, y 58 NÂ° 3 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824 de 1974 (LIR) y la ResoluciÃ³n Ex. SII NÂ° 119 de 2020, complementada por ResoluciÃ³n Ex. SII NÂ° 11 de 2021;
 
 ## CONSIDERANDO:
 
-1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las franquicias y beneficios tributarios que la ley establece;
+1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicaciÃ³n de las franquicias y beneficios tributarios que la ley establece;
 
-2° Que, de acuerdo con lo establecido en el artículo 33 bis del Código Tributario, junto con sus declaraciones, los contribuyentes deberán acompañar o poner a disposición del Servicio, en virtud de las disposiciones legales o administrativas que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resolución fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias específicas e información determinada propia del contribuyente o de terceros;
+2Â° Que, de acuerdo con lo establecido en el artÃ­culo 33 bis del CÃ³digo Tributario, junto con sus declaraciones, los contribuyentes deberÃ¡n acompaÃ±ar o poner a disposiciÃ³n del Servicio, en virtud de las disposiciones legales o administrativas que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resoluciÃ³n fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias especÃ­ficas e informaciÃ³n determinada propia del contribuyente o de terceros;
 
-3° Que este Servicio, mediante Resolución Exenta SII N° 119 de 2020, complementada por Resolución Ex. SII N° 11 de 2021, estableció la forma de cumplir con la obligación de informar las operaciones relativas a enajenaciones de entidades o patrimonios extranjeros que posean, directa o indirectamente, activos subyacentes en Chile, mediante el Formulario N° 1921, denominado 'DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE'.
+3Â° Que este Servicio, mediante ResoluciÃ³n Exenta SII NÂ° 119 de 2020, complementada por ResoluciÃ³n Ex. SII NÂ° 11 de 2021, estableciÃ³ la forma de cumplir con la obligaciÃ³n de informar las operaciones relativas a enajenaciones de entidades o patrimonios extranjeros que posean, directa o indirectamente, activos subyacentes en Chile, mediante el Formulario NÂ° 1921, denominado 'DECLARACIÃ“N JURADA SOBRE ENAJENACIÃ“N DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE'.
 
-4° Que, para facilitar el cumplimiento tributario de los obligados y hacer más eficiente la entrega de la información a este Servicio, es necesario reemplazar el resolutivo 1° de la Resolución Exenta SII N° 119 de 2020,
+4Â° Que, para facilitar el cumplimiento tributario de los obligados y hacer mÃ¡s eficiente la entrega de la informaciÃ³n a este Servicio, es necesario reemplazar el resolutivo 1Â° de la ResoluciÃ³n Exenta SII NÂ° 119 de 2020,
 
 ## SE RESUELVE
 
-1° REEMPLÁZASE el resolutivo 1° de la Resolución
+1Â° REEMPLÃZASE el resolutivo 1Â° de la ResoluciÃ³n
 
-'DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE'.
+'DECLARACIÃ“N JURADA SOBRE ENAJENACIÃ“N DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE'.
 
-Esta declaración deberá ser presentada por el enajenante, cualquiera sea su domicilio o residencia, o por el adquirente de la entidad extranjera que posea, de forma directa o indirecta, activos subyacentes en Chile, en cumplimiento de lo establecido en el párrafo penúltimo del N° 3 del artículo 58 de la LIR, o por la sociedad, fondo o entidad residente en Chile, o establecimiento permanente situado en el país, que sea emisor o forme parte de los activos subyacentes situados en Chile.
+Esta declaraciÃ³n deberÃ¡ ser presentada por el enajenante, cualquiera sea su domicilio o residencia, o por el adquirente de la entidad extranjera que posea, de forma directa o indirecta, activos subyacentes en Chile, en cumplimiento de lo establecido en el pÃ¡rrafo penÃºltimo del NÂ° 3 del artÃ­culo 58 de la LIR, o por la sociedad, fondo o entidad residente en Chile, o establecimiento permanente situado en el paÃ­s, que sea emisor o forme parte de los activos subyacentes situados en Chile.
 
-Esta obligación de informar no se restringe a las operaciones que generen hechos gravados u obligaciones tributarias principales o accesorias en el país, debiendo cumplirse cuando se enajenen entidades extranjeras que posean, de forma directa o indirecta, o cuyo valor provenga, de activos subyacentes en Chile, siempre que se cumplan las condiciones del resolutivo segundo de la presente resolución y sus modificaciones que se entienden formar parte de la misma.
+Esta obligaciÃ³n de informar no se restringe a las operaciones que generen hechos gravados u obligaciones tributarias principales o accesorias en el paÃ­s, debiendo cumplirse cuando se enajenen entidades extranjeras que posean, de forma directa o indirecta, o cuyo valor provenga, de activos subyacentes en Chile, siempre que se cumplan las condiciones del resolutivo segundo de la presente resoluciÃ³n y sus modificaciones que se entienden formar parte de la misma.
 
-La presentación de la declaración, dentro de plazo, por uno de los obligados señalados precedentemente, respecto de una determinada operación, liberará a los demás obligados de su presentación, en la medida que se encuentren de acuerdo con la información proporcionada por el declarante.
+La presentaciÃ³n de la declaraciÃ³n, dentro de plazo, por uno de los obligados seÃ±alados precedentemente, respecto de una determinada operaciÃ³n, liberarÃ¡ a los demÃ¡s obligados de su presentaciÃ³n, en la medida que se encuentren de acuerdo con la informaciÃ³n proporcionada por el declarante.
 
-Se presumirá que existe acuerdo cuando los demás obligados no presenten su declaración dentro de plazo. En caso de existir discrepancias con la información entregada por el declarante, podrán los demás obligados, en cualquier tiempo, sin perjuicio de las sanciones que correspondan por la no presentación oportuna, su presentación incompleta o errónea, presentar su propia Declaración Jurada Formulario N°1921.'
+Se presumirÃ¡ que existe acuerdo cuando los demÃ¡s obligados no presenten su declaraciÃ³n dentro de plazo. En caso de existir discrepancias con la informaciÃ³n entregada por el declarante, podrÃ¡n los demÃ¡s obligados, en cualquier tiempo, sin perjuicio de las sanciones que correspondan por la no presentaciÃ³n oportuna, su presentaciÃ³n incompleta o errÃ³nea, presentar su propia DeclaraciÃ³n Jurada Formulario NÂ°1921.'
 
-2° REEMPLÁZANSE las instrucciones de llenado de la Declaración Jurada Formulario N° 1921 y su formato, por las contenidas en Anexos N°1 y N°2 de la presente resolución;
+2Â° REEMPLÃZANSE las instrucciones de llenado de la DeclaraciÃ³n Jurada Formulario NÂ° 1921 y su formato, por las contenidas en Anexos NÂ°1 y NÂ°2 de la presente resoluciÃ³n;
 
-3° Los anexos de la presente resolución, se entienden formar parte integrante de ella y se publicarán conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl);
+3Â° Los anexos de la presente resoluciÃ³n, se entienden formar parte integrante de ella y se publicarÃ¡n conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl);
 
-4° La presente resolución regirá para las declaraciones juradas que deban presentarse a partir del año tributario 2023, respecto de las operaciones que se informen desde el año comercial 2022, en adelante.
+4Â° La presente resoluciÃ³n regirÃ¡ para las declaraciones juradas que deban presentarse a partir del aÃ±o tributario 2023, respecto de las operaciones que se informen desde el aÃ±o comercial 2022, en adelante.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
-## (Fdo.) HERNÁN FRIGOLETT CÓRDOVA DIRECTOR
+## (Fdo.) HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR
 
-Lo que transcribo, para su conocimiento y demás fines
+Lo que transcribo, para su conocimiento y demÃ¡s fines
 
-Anexo N° 1: Declaración jurada sobre enajenación de entidades extranjeras con activos subyacentes en Chile, Formulario N° 1921. Anexo N°2: Instrucciones de llenado Declaración Jurada 1921.
+Anexo NÂ° 1: DeclaraciÃ³n jurada sobre enajenaciÃ³n de entidades extranjeras con activos subyacentes en Chile, Formulario NÂ° 1921. Anexo NÂ°2: Instrucciones de llenado DeclaraciÃ³n Jurada 1921.
 
 CSM/CGG/MCRB/LRP
 
-Distribución: Internet Diario Oficial, en extracto
+DistribuciÃ³n: Internet Diario Oficial, en extracto

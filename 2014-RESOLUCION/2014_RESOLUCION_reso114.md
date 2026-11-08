@@ -1,58 +1,57 @@
----
-type: SII Resolución
-title: Resolución N° 3 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
-resource: ./2014_RESOLUCION_reso114.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 3 (2014)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
 235-2014
 
-## RECHAZA INSTITUCIÓN SIN FINES DE LUCRO, COMO RECEPTORA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+## RECHAZA INSTITUCIÃ“N SIN FINES DE LUCRO, COMO RECEPTORA DE ALIMENTOS CUYA COMERCIALIZACIÃ“N SEA INVIABLE
 
 ## SANTIAGO, 05 de diciembre de 2014.-
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÓN EX. SII Nº \_\_\_114.-\_\_\_/
+## RESOLUCIÃ“N EX. SII NÂº \_\_\_114.-\_\_\_/
 
 ## VISTOS:
 
-Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6°, letra A), Nº 1, del D.L. Nº 830, de 1974; sobre Código Tributario; lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta; contenida en el artículo 1° del D.L. 824, de 1974; lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, contenida en el D.L. N° 825, de 1974; y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009; y en la Resolución Ex. SII Nº 129 de 2010 y Resolución Ex. SII N° 59, de fecha 20.06.2014,
+Las facultades que me confieren los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artÃ­culo 6Â°, letra A), NÂº 1, del D.L. NÂº 830, de 1974; sobre CÃ³digo Tributario; lo establecido en el artÃ­culo 31Â° NÂº 3, de la Ley sobre Impuesto a la Renta; contenida en el artÃ­culo 1Â° del D.L. 824, de 1974; lo seÃ±alado en los artÃ­culos 8Â°, letra d) y 79Â° de la Ley sobre Impuesto a la Ventas y Servicios, contenida en el D.L. NÂ° 825, de 1974; y las instrucciones contenidas en las Circulares NÂº 3, de 1992 y NÂ° 54, de 2009; y en la ResoluciÃ³n Ex. SII NÂº 129 de 2010 y ResoluciÃ³n Ex. SII NÂ° 59, de fecha 20.06.2014,
 
 ## CONSIDERANDO:
 
-1° Que, mediante la Circular Nº 54, del 02 de Octubre de 2009, publicada en el Diario Oficial el 09 de Octubre de 2009, se impartieron instrucciones sobre castigo de alimentos cuya comercialización se ha vuelto inviable;
+1Â° Que, mediante la Circular NÂº 54, del 02 de Octubre de 2009, publicada en el Diario Oficial el 09 de Octubre de 2009, se impartieron instrucciones sobre castigo de alimentos cuya comercializaciÃ³n se ha vuelto inviable;
 
-2° Que, de conformidad a lo establecido en el resolutivo 6° de la Resolución Ex. SII N° 59, de fecha 20 de junio de 2014, publicada en el Diario Oficial de 27 de Junio de 2014, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el artículo 31° Nº 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. Nº 824, de 1974, en concordancia con el artículo 8° letra d) y 79° de la Ley sobre Impuesto a las Ventas y Servicios,
+2Â° Que, de conformidad a lo establecido en el resolutivo 6Â° de la ResoluciÃ³n Ex. SII NÂ° 59, de fecha 20 de junio de 2014, publicada en el Diario Oficial de 27 de Junio de 2014, el Director ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad establecida en el artÃ­culo 31Â° NÂº 3 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂº 824, de 1974, en concordancia con el artÃ­culo 8Â° letra d) y 79Â° de la Ley sobre Impuesto a las Ventas y Servicios,
 
-3° Que, de conformidad a lo establecido en la resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar a Instituciones sin Fines de Lucro como Receptoras de Alimentos, cuya Comercialización sea Inviable, siempre que cumplan en forma íntegra los requisitos señalados en los resolutivos Nº 1 y 2 de la Resolución Ex. SII N° 59, de fecha 20 de junio de 2014;
+3Â° Que, de conformidad a lo establecido en la resoluciÃ³n citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar a Instituciones sin Fines de Lucro como Receptoras de Alimentos, cuya ComercializaciÃ³n sea Inviable, siempre que cumplan en forma Ã­ntegra los requisitos seÃ±alados en los resolutivos NÂº 1 y 2 de la ResoluciÃ³n Ex. SII NÂ° 59, de fecha 20 de junio de 2014;
 
-4° Que, el resolutivo N° 1 de la mencionada resolución, establece 'Las empresas de industria agroalimentaria u otras cuyo giro sea la elaboración, importación, distribución y comercialización se ha vuelto inviable, que son aptos para el consumo humano, ajustándose para estos efectos a las instrucciones contenidas en la Circular N° 54, de 2009, sólo podrán hacer entrega de los mismos, ya sea directamente o a través de una Institución sin Fines de Lucro Distribuidora, a otra institución sin fines de lucro, para que los ponga a disposición de personas de escasos recursos para su consumo final. Ambas instituciones deberán estar incorporadas en un Registro Especial, que para dicho efecto, llevará el Servicio de Impuestos Internos', por otra parte, su resolutivo N° 2 señala los requisitos de forma que deben cumplir dichas instituciones;
+4Â° Que, el resolutivo NÂ° 1 de la mencionada resoluciÃ³n, establece 'Las empresas de industria agroalimentaria u otras cuyo giro sea la elaboraciÃ³n, importaciÃ³n, distribuciÃ³n y comercializaciÃ³n se ha vuelto inviable, que son aptos para el consumo humano, ajustÃ¡ndose para estos efectos a las instrucciones contenidas en la Circular NÂ° 54, de 2009, sÃ³lo podrÃ¡n hacer entrega de los mismos, ya sea directamente o a travÃ©s de una InstituciÃ³n sin Fines de Lucro Distribuidora, a otra instituciÃ³n sin fines de lucro, para que los ponga a disposiciÃ³n de personas de escasos recursos para su consumo final. Ambas instituciones deberÃ¡n estar incorporadas en un Registro Especial, que para dicho efecto, llevarÃ¡ el Servicio de Impuestos Internos', por otra parte, su resolutivo NÂ° 2 seÃ±ala los requisitos de forma que deben cumplir dichas instituciones;
 
-5° Que, la entidad que ha solicitado el otorgamiento de autorización para ser receptora de alimentos cuya comercialización sea inviable, tiene sólo actividades económicas de Capacitación, Adiestramiento, Entrenamiento de Juez, Perros de Asistencia y Detectores, por lo que los alimentos no estarían destinados a personas de escasos recursos.
+5Â° Que, la entidad que ha solicitado el otorgamiento de autorizaciÃ³n para ser receptora de alimentos cuya comercializaciÃ³n sea inviable, tiene sÃ³lo actividades econÃ³micas de CapacitaciÃ³n, Adiestramiento, Entrenamiento de Juez, Perros de Asistencia y Detectores, por lo que los alimentos no estarÃ­an destinados a personas de escasos recursos.
 
 ## SE RESUELVE:
 
-NO HA LUGAR, a la solicitud de inscripción en Registro de Instituciones sin Fines de Lucro, como Receptora de Alimentos cuya Comercialización sea Inviable, a ONG de Desarrollo Adiestra Chile, RUT N° 65.088.522-8
+NO HA LUGAR, a la solicitud de inscripciÃ³n en Registro de Instituciones sin Fines de Lucro, como Receptora de Alimentos cuya ComercializaciÃ³n sea Inviable, a ONG de Desarrollo Adiestra Chile, RUT NÂ° 65.088.522-8
 
 'POR ORDEN DEL DIRECTOR'.
 
 Lo que transcribo a Ud., para su.
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## RCC/MLS/mdt DISTRIBUCIÓN:
+## RCC/MLS/mdt DISTRIBUCIÃ“N:
 
-* Luis Alberto Aguayo Jaramillo, Representante Legal de : ONG de Desarrollo Adiestra Chile RUT. N°65.088.522-8
+* Luis Alberto Aguayo Jaramillo, Representante Legal de : ONG de Desarrollo Adiestra Chile RUT. NÂ°65.088.522-8
 * San Antonio 427 Of. 704, Comuna de Santiago
-* Subdirección de Fiscalización
-* Departamento de Análisis Masivo del Cumplimiento Tributario
-* Área de Control del Gasto Tributario y Regímenes Especiales
+* SubdirecciÃ³n de FiscalizaciÃ³n
+* Departamento de AnÃ¡lisis Masivo del Cumplimiento Tributario
+* Ãrea de Control del Gasto Tributario y RegÃ­menes Especiales
 * Oficina de Partes
 
 Do
 
-## (Fdo.) VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
+## (Fdo.) VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N

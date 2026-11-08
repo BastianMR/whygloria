@@ -1,12 +1,11 @@
----
-type: SII Resolución
-title: Resolución N° 109 (2017)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
-resource: ./2017_RESOLUCION_reso109.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 109 (2017)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 
 ## MATERIA: DESIGNA RESPONSABLES EN LAS CERTIFICACIONES DIGITALES QUE INDICA.
 
@@ -14,31 +13,31 @@ SANTIAGO, 06 de noviembre de 2017
 
 Hoy se ha resuelto lo siguiente:
 
-## RESOLUCIÓN EXENTA SII N° 109
+## RESOLUCIÃ“N EXENTA SII NÂ° 109
 
-VISTOS: Lo dispuesto en el artículo 41 de la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado; en el artículo 4° bis y la letra j) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6°, letra A) Nº 3 y 86 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974; y
+VISTOS: Lo dispuesto en el artÃ­culo 41 de la Ley NÂ° 18.575 OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; en el artÃ­culo 4Â° bis y la letra j) del artÃ­culo 7Âº, de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 6Â°, letra A) NÂº 3 y 86 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂº 830, de 1974; y
 
 ## CONSIDERANDO:
 
-1° Que, de conformidad con el artículo 4° bis del D.F.L. N° 7, este Servicio podrá relacionarse con los contribuyentes y estos con el Servicio a través de medios electrónicos, entendiendo por tales aquellos que tienen capacidades eléctricas, digitales, magnéticas e inalámbricas, ópticas y electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
+1Â° Que, de conformidad con el artÃ­culo 4Â° bis del D.F.L. NÂ° 7, este Servicio podrÃ¡ relacionarse con los contribuyentes y estos con el Servicio a travÃ©s de medios electrÃ³nicos, entendiendo por tales aquellos que tienen capacidades elÃ©ctricas, digitales, magnÃ©ticas e inalÃ¡mbricas, Ã³pticas y electromagnÃ©ticas u otras similares. Los trÃ¡mites y actuaciones que se realicen a travÃ©s de tales medios producirÃ¡n los mismos efectos que los trÃ¡mites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
 
-Asimismo, el inciso final de la norma citada señala que las operaciones que se ejecuten a través de la plataforma tecnológica de este Servicio acreditará para todos los efectos legales la identidad del emisor y la integridad del mensaje o documento electrónico.
+Asimismo, el inciso final de la norma citada seÃ±ala que las operaciones que se ejecuten a travÃ©s de la plataforma tecnolÃ³gica de este Servicio acreditarÃ¡ para todos los efectos legales la identidad del emisor y la integridad del mensaje o documento electrÃ³nico.
 
-2° Que los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrán el carácter de ministros de fe, para todos los efectos del Código Tributario y de las leyes tributarias.
+2Â° Que los funcionarios del Servicio, nominativa y expresamente autorizados por el Director, tendrÃ¡n el carÃ¡cter de ministros de fe, para todos los efectos del CÃ³digo Tributario y de las leyes tributarias.
 
-3° Que dentro de esta comunicación entre los contribuyentes y este Servicio, este último certifica digitalmente los Registros de Compras y Ventas; la Facturación Electrónica (FE que se efectúa en el Portal de este Servicio); y la Prueba de Soporte de la Factura Electrónica.
+3Â° Que dentro de esta comunicaciÃ³n entre los contribuyentes y este Servicio, este Ãºltimo certifica digitalmente los Registros de Compras y Ventas; la FacturaciÃ³n ElectrÃ³nica (FE que se efectÃºa en el Portal de este Servicio); y la Prueba de Soporte de la Factura ElectrÃ³nica.
 
-4° Que, esta resolución tiene como propósito singularizar a los responsables de las digitales en comento, dentro de este Servicio.
+4Â° Que, esta resoluciÃ³n tiene como propÃ³sito singularizar a los responsables de las digitales en comento, dentro de este Servicio.
 
 ## RESUELVO:
 
-1° Designase al Jefe del Departamento de Operaciones dependiente de la Subdirección de Asistencia al Contribuyente, como responsable de la certificación digital de los Registros de Compras y Ventas y del envío de documentación electrónica del Sistema de Facturación Gratuito del SII.
+1Â° Designase al Jefe del Departamento de Operaciones dependiente de la SubdirecciÃ³n de Asistencia al Contribuyente, como responsable de la certificaciÃ³n digital de los Registros de Compras y Ventas y del envÃ­o de documentaciÃ³n electrÃ³nica del Sistema de FacturaciÃ³n Gratuito del SII.
 
-2° Designase al Jefe del Departamento Informática Avaluaciones y Asistencia al Contribuyente, de la Subdirección Informática, como responsable de la certificación digital de las pruebas del soporte de Factura Electrónica.
+2Â° Designase al Jefe del Departamento InformÃ¡tica Avaluaciones y Asistencia al Contribuyente, de la SubdirecciÃ³n InformÃ¡tica, como responsable de la certificaciÃ³n digital de las pruebas del soporte de Factura ElectrÃ³nica.
 
-3° VIGENCIA, la presente resolución tendrá vigencia a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+3Â° VIGENCIA, la presente resoluciÃ³n tendrÃ¡ vigencia a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
@@ -46,8 +45,8 @@ Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
 
 ## VVM/MDA/RPA
 
-Distribución:
+DistribuciÃ³n:
 
 * -Internet
-* -Boletín
+* -BoletÃ­n
 * -Diario Oficial en extracto

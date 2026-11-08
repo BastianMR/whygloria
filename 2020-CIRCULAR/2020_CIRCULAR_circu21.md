@@ -1,45 +1,44 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 21 (2020)
-description: DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT | CIRCULAR N° 21 |
-resource: ./2020_CIRCULAR_circu21.md.docx
+title: Circular NÂ° 21 (2020)
+description: DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT | CIRCULAR NÂ° 21 |
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT** | **CIRCULAR N° 21** |
+| **DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT** | **CIRCULAR NÂ° 21** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 de marzo de 2020 |
-| MATERIA Imparte instrucciones sobre derogación del artículo 145-L del Código del Trabajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectáculos, que se desempeñan bajo dependencia y subordinación con una duración determinada, pactada a plazo fijo, por una o más funciones, por obra, temporada o proyecto, según Ley N° 21.210, de 24 de febrero de 2020. Deja sin efecto numeral III, número 1, de la Circular 60, de fecha 20 de noviembre de 2007. | REF. LEGAL : Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020. |
+| MATERIA Imparte instrucciones sobre derogaciÃ³n del artÃ­culo 145-L del CÃ³digo del Trabajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectÃ¡culos, que se desempeÃ±an bajo dependencia y subordinaciÃ³n con una duraciÃ³n determinada, pactada a plazo fijo, por una o mÃ¡s funciones, por obra, temporada o proyecto, segÃºn Ley NÂ° 21.210, de 24 de febrero de 2020. Deja sin efecto numeral III, nÃºmero 1, de la Circular 60, de fecha 20 de noviembre de 2007. | REF. LEGAL : Ley NÂ° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020. |
 
-## I INTRODUCCIÓN
+## I INTRODUCCIÃ“N
 
-En el Diario Oficial de 24 de febrero de 2020, se publicó la Ley N° 21.210, que introduce diversas modificaciones a la legislación tributaria (en adelante, la 'Ley'), cuyo artículo décimo noveno derogó el artículo 145-L del Código del Trabajo 1 .
+En el Diario Oficial de 24 de febrero de 2020, se publicÃ³ la Ley NÂ° 21.210, que introduce diversas modificaciones a la legislaciÃ³n tributaria (en adelante, la 'Ley'), cuyo artÃ­culo dÃ©cimo noveno derogÃ³ el artÃ­culo 145-L del CÃ³digo del Trabajo 1 .
 
-Dicho artículo fue introducido por el artículo 3° de la Ley N° 20.219 del año 2007, que afectaba a los contratos de los trabajadores de artes y espectáculos, regulados en el Capítulo IV del Título II del Libro I de dicho Código, que correspondían a trabajos desempeñados bajo dependencia o subordinación, con una duración determinada, pactadas por un plazo fijo, por una o más funciones, por obra, por temporada o por proyecto.
+Dicho artÃ­culo fue introducido por el artÃ­culo 3Â° de la Ley NÂ° 20.219 del aÃ±o 2007, que afectaba a los contratos de los trabajadores de artes y espectÃ¡culos, regulados en el CapÃ­tulo IV del TÃ­tulo II del Libro I de dicho CÃ³digo, que correspondÃ­an a trabajos desempeÃ±ados bajo dependencia o subordinaciÃ³n, con una duraciÃ³n determinada, pactadas por un plazo fijo, por una o mÃ¡s funciones, por obra, por temporada o por proyecto.
 
-Conforme a lo anterior, la presente Circular tiene por objeto dar a conocer la derogación de la norma indicada e instruir acerca de los efectos tributarios de la referida derogación.
+Conforme a lo anterior, la presente Circular tiene por objeto dar a conocer la derogaciÃ³n de la norma indicada e instruir acerca de los efectos tributarios de la referida derogaciÃ³n.
 
 ## II INSTRUCCIONES SOBRE LA MATERIA
 
-El artículo 145-L del Código del Trabajo, establecía que las remuneraciones percibidas por los mencionados trabajadores, quedaban sujetas a la tributación aplicable a las rentas señaladas en el artículo 42, número 2°, de la LIR; es decir, se las sustrajo de la aplicación del Impuesto Único de Segunda Categoría (IUSC), y, para efectos tributarios, se afectaron con el régimen de tributación de las rentas que perciben los trabajadores independientes, aplicándoles el impuesto Global Complementario (IGC).
+El artÃ­culo 145-L del CÃ³digo del Trabajo, establecÃ­a que las remuneraciones percibidas por los mencionados trabajadores, quedaban sujetas a la tributaciÃ³n aplicable a las rentas seÃ±aladas en el artÃ­culo 42, nÃºmero 2Â°, de la LIR; es decir, se las sustrajo de la aplicaciÃ³n del Impuesto Ãšnico de Segunda CategorÃ­a (IUSC), y, para efectos tributarios, se afectaron con el rÃ©gimen de tributaciÃ³n de las rentas que perciben los trabajadores independientes, aplicÃ¡ndoles el impuesto Global Complementario (IGC).
 
-Posteriormente, con la Ley N° 20.630 de 2012, se sustituyó el artículo 47 de la LIR, ampliando la posibilidad de efectuar reliquidación anual del IUSC retenido durante el año, perdiendo su justificación el tratamiento tributario regulado en el artículo 145-L del Código del Trabajo.
+Posteriormente, con la Ley NÂ° 20.630 de 2012, se sustituyÃ³ el artÃ­culo 47 de la LIR, ampliando la posibilidad de efectuar reliquidaciÃ³n anual del IUSC retenido durante el aÃ±o, perdiendo su justificaciÃ³n el tratamiento tributario regulado en el artÃ­culo 145-L del CÃ³digo del Trabajo.
 
-La derogación del artículo 145-L del Código del Trabajo implica que las rentas que obtengan los trabajadores cuyos contratos se regulen en el Capítulo IV del Título II del Libro I del Código citado, vuelvan a tributar según las normas generales para este tipo de contribuyentes. Esto es, por tratarse de trabajadores dependientes, sus remuneraciones se afectarán con el IUSC, de acuerdo a lo dispuesto por el artículo 42 N° 1 de la LIR, con el derecho a reliquidar anualmente el impuesto, de acuerdo al actual inciso tercero del artículo 47 de la LIR.
+La derogaciÃ³n del artÃ­culo 145-L del CÃ³digo del Trabajo implica que las rentas que obtengan los trabajadores cuyos contratos se regulen en el CapÃ­tulo IV del TÃ­tulo II del Libro I del CÃ³digo citado, vuelvan a tributar segÃºn las normas generales para este tipo de contribuyentes. Esto es, por tratarse de trabajadores dependientes, sus remuneraciones se afectarÃ¡n con el IUSC, de acuerdo a lo dispuesto por el artÃ­culo 42 NÂ° 1 de la LIR, con el derecho a reliquidar anualmente el impuesto, de acuerdo al actual inciso tercero del artÃ­culo 47 de la LIR.
 
-A su vez, las instrucciones establecidas en el Numeral III, número 1.- de la Circular N° 60 de 2007, sobre el tratamiento tributario de las remuneraciones percibidas por los trabajadores de artes y espectáculos, quedan sin efecto, pasando a quedar regidas por las instrucciones contenidas en las Circulares N° 6, de 2013 y N° 62, de 2014.
+A su vez, las instrucciones establecidas en el Numeral III, nÃºmero 1.- de la Circular NÂ° 60 de 2007, sobre el tratamiento tributario de las remuneraciones percibidas por los trabajadores de artes y espectÃ¡culos, quedan sin efecto, pasando a quedar regidas por las instrucciones contenidas en las Circulares NÂ° 6, de 2013 y NÂ° 62, de 2014.
 
-1 El texto del derogado artículo 145-L del Código del Trabajo puede revisarse en el Anexo de la presente Circular.
+1 El texto del derogado artÃ­culo 145-L del CÃ³digo del Trabajo puede revisarse en el Anexo de la presente Circular.
 
-Por lo anterior, para los trabajadores de artes y espectáculos, que se desempeñen bajo dependencia o subordinación, en base a contratos de duración determinada, pactados por un plazo fijo, por una o más funciones, por obra, por temporada o por proyecto, ya no resulta obligatoria la emisión de boletas de honorarios, debido a que la exigencia es para aquellas rentas de profesionales independientes u ocupaciones lucrativas clasificadas en el artículo 42 N° 2 de la Ley sobre Impuesto a la Renta 2 .
+Por lo anterior, para los trabajadores de artes y espectÃ¡culos, que se desempeÃ±en bajo dependencia o subordinaciÃ³n, en base a contratos de duraciÃ³n determinada, pactados por un plazo fijo, por una o mÃ¡s funciones, por obra, por temporada o por proyecto, ya no resulta obligatoria la emisiÃ³n de boletas de honorarios, debido a que la exigencia es para aquellas rentas de profesionales independientes u ocupaciones lucrativas clasificadas en el artÃ­culo 42 NÂ° 2 de la Ley sobre Impuesto a la Renta 2 .
 
 ## III VIGENCIA
 
-El artículo Décimo Noveno de la Ley N° 21.210, que deroga el artículo 145-L del Código del Trabajo, instruido en la presente Circular, entró en vigencia, de acuerdo a lo dispuesto en su artículo primero transitorio de la Ley, el primer día del mes siguiente al de su publicación en el diario oficial, esto es, el 1° de marzo de 2020.
+El artÃ­culo DÃ©cimo Noveno de la Ley NÂ° 21.210, que deroga el artÃ­culo 145-L del CÃ³digo del Trabajo, instruido en la presente Circular, entrÃ³ en vigencia, de acuerdo a lo dispuesto en su artÃ­culo primero transitorio de la Ley, el primer dÃ­a del mes siguiente al de su publicaciÃ³n en el diario oficial, esto es, el 1Â° de marzo de 2020.
 
-Por lo tanto, a partir de esa fecha, dejan de ser obligatorios los deberes de emisión de boletas y demás a los que se refería el Numeral III, número 1.- de la Circular N° 60 de 2007.
+Por lo tanto, a partir de esa fecha, dejan de ser obligatorios los deberes de emisiÃ³n de boletas y demÃ¡s a los que se referÃ­a el Numeral III, nÃºmero 1.- de la Circular NÂ° 60 de 2007.
 
-La presente Circular entrará en vigencia a contar de la fecha de su publicación en extracto en el Diario Oficial.
+La presente Circular entrarÃ¡ en vigencia a contar de la fecha de su publicaciÃ³n en extracto en el Diario Oficial.
 
 Saluda a Uds.,
 
@@ -47,17 +46,17 @@ Saluda a Uds.,
 
 ## CFS/GMV/msg
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * -Internet
 * -Diario Oficial en extracto
 
-2 Contenida en el artículo 1° del Decreto Ley N° 824, de 1974.
+2 Contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824, de 1974.
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## ANEXO: NORMA DEROGADA.
 
-El artículo décimo noveno de la Ley N° 21.210 derogó el artículo 145-L del Código del Trabajo, cuyo tenor era el siguiente:
+El artÃ­culo dÃ©cimo noveno de la Ley NÂ° 21.210 derogÃ³ el artÃ­culo 145-L del CÃ³digo del Trabajo, cuyo tenor era el siguiente:
 
-'Artículo 145-L. Las remuneraciones percibidas por los trabajadores de artes y espectáculos con motivo de la celebración de los contratos laborales que regula este Capítulo, quedarán sujetas a la tributación aplicable a las rentas señaladas en el artículo 42, número 2°, de la ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974. Para estos efectos, dichos trabajadores deberán emitir la correspondiente boleta de honorarios por el valor bruto de la remuneración percibida, sin deducción alguna por concepto de las cotizaciones previsionales que deban ser efectuadas por sus respectivos empleadores.'
+'ArtÃ­culo 145-L. Las remuneraciones percibidas por los trabajadores de artes y espectÃ¡culos con motivo de la celebraciÃ³n de los contratos laborales que regula este CapÃ­tulo, quedarÃ¡n sujetas a la tributaciÃ³n aplicable a las rentas seÃ±aladas en el artÃ­culo 42, nÃºmero 2Â°, de la ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del decreto ley NÂ° 824, de 1974. Para estos efectos, dichos trabajadores deberÃ¡n emitir la correspondiente boleta de honorarios por el valor bruto de la remuneraciÃ³n percibida, sin deducciÃ³n alguna por concepto de las cotizaciones previsionales que deban ser efectuadas por sus respectivos empleadores.'

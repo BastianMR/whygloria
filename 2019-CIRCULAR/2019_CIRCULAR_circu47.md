@@ -1,25 +1,24 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 47 (2019)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 47.- |
-resource: ./2019_CIRCULAR_circu47.md.docx
+title: Circular NÂ° 47 (2019)
+description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 47.- |
 tags: [SII, 2019, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 47.-** |
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 47.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE DICIEMBRE 2019 |
-| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclusive. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de diciembre de 2019 y el 9 de enero de 2020, ambos inclusive. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de diciembre de 2019 y 9 de enero de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de diciembre de 2019 y 9 de enero de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
+## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
 
 (Publicado en D.O. de 07.12.2019)
 
-|  |  |  |  |  |  | **AÑO 2019** |  |  |  |  |  |  | **ENERO 2020** |
+|  |  |  |  |  |  | **AÃ‘O 2019** |  |  |  |  |  |  | **ENERO 2020** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA 1 | ENE 27.565,79 | FEB 27.545,34 | MAR 27.557,89 | ABR 27.565,76 | MAY 27.666,77 | JUN 27.765,23 | JUL 27.908,86 | AGO 27.953,42 | SEP 27.994,89 | OCT 28.050,40 | NOV 28.065,35 | DIC 28.229,83 | 28.310,86 |
+| DÃA 1 | ENE 27.565,79 | FEB 27.545,34 | MAR 27.557,89 | ABR 27.565,76 | MAY 27.666,77 | JUN 27.765,23 | JUL 27.908,86 | AGO 27.953,42 | SEP 27.994,89 | OCT 28.050,40 | NOV 28.065,35 | DIC 28.229,83 | 28.310,86 |
 | 2 | 27.565,79 | 27.544,45 | 27.558,87 | 27.565,76 | 27.671,37 | 27.767,91 | 27.914,43 | 27.953,42 | 27.996,69 | 28.052,27 | 28.065,35 | 28.237,32 | 28.311,77 |
 | 3 | 27.565,79 | 27.543,56 | 27.559,85 | 27.565,76 | 27.675,97 | 27.770,60 | 27.920,00 | 27.953,42 | 27.998,50 | 28.054,14 | 28.065,35 | 28.244,83 | 28.312,68 |
 | 4 | 27.565,79 | 27.542,67 | 27.560,84 | 27.565,76 | 27.680,57 | 27.773,28 | 27.925,56 | 27.953,42 | 28.000,30 | 28.056,00 | 28.065,35 | 28.252,33 | 28.313,60 |

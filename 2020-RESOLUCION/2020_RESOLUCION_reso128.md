@@ -1,32 +1,31 @@
----
-type: SII Resolución
-title: Resolución N° 128 (2020)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
-resource: ./2020_RESOLUCION_reso128.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 128 (2020)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 tags: [SII, 2020, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 
-MATERIA: FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2021.
+MATERIA: FIJA PLAZO PARA LA PRESENTACIÃ“N DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÃ‘O TRIBUTARIO 2021.
 
 SANTIAGO, 30 de septiembre de 2020
 
-## RESOLUCIÓN EX. SII N°128.-
+## RESOLUCIÃ“N EX. SII NÂ°128.-
 
-VISTOS: Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L. N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos; en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L. N° 830 de 1974, sobre Código Tributario.
+VISTOS: Las necesidades del Servicio y las facultades contempladas en los artÃ­culos 1Â°, 4Â° bis y 7Â° del D.F.L. NÂ° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley OrgÃ¡nica del Servicio de Impuestos Internos; en letra A), NÂ°1, del artÃ­culo 6Â°, los artÃ­culos 34, 35 y 60, del D.L. NÂ° 830 de 1974, sobre CÃ³digo Tributario.
 
 ## CONSIDERANDO:
 
-1° Que, este Servicio, mediante instrucciones contenidas en la Resolución Exenta SII N° 111 de fecha 30 de septiembre de 2019 fijó el plazo para la presentación de las declaraciones juradas que se indican, para el Año Tributario 2020.
+1Â° Que, este Servicio, mediante instrucciones contenidas en la ResoluciÃ³n Exenta SII NÂ° 111 de fecha 30 de septiembre de 2019 fijÃ³ el plazo para la presentaciÃ³n de las declaraciones juradas que se indican, para el AÃ±o Tributario 2020.
 
-2° Que, por razones de buen servicio se hace necesario readecuar los plazos para la presentación de las declaraciones juradas correspondientes al Año Tributario 2021, en relación a los actuales procesos operativos.
+2Â° Que, por razones de buen servicio se hace necesario readecuar los plazos para la presentaciÃ³n de las declaraciones juradas correspondientes al AÃ±o Tributario 2021, en relaciÃ³n a los actuales procesos operativos.
 
 ## SE RESUELVE:
 
-1° Fíjase, para el Año Tributario 2021, el plazo para la presentación de las Declaraciones Juradas que se indican en el cuadro siguiente:
+1Â° FÃ­jase, para el AÃ±o Tributario 2021, el plazo para la presentaciÃ³n de las Declaraciones Juradas que se indican en el cuadro siguiente:
 
-| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios N°s** |
+| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios NÂ°s** |
 | --- | --- | --- |
 | 1 | 01 de marzo | 1811, 1822, 1834, 1891, 1900, 1902 y 1903. |
 | 2 | 09 de marzo | 1896 y 1898. |
@@ -37,12 +36,12 @@ VISTOS: Las necesidades del Servicio y las facultades contempladas en los artíc
 
 <unknown>
 
-| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios N°s** |
+| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios NÂ°s** |
 | --- | --- | --- |
 | 7 | 18 de mayo | 1837. |
 | 8 | 30 de junio | 1847, 1866, 1867, 1907, 1913, 1926, 1929, 1930, 1937, 1945 y 1946. |
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 <unknown>
 
@@ -50,7 +49,7 @@ ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 CSM/JGR/CVD/PSM/igl
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO

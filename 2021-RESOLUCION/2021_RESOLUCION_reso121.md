@@ -1,36 +1,35 @@
----
-type: SII Resolución
-title: Resolución N° 110 (2021)
-description: CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021.
-resource: ./2021_RESOLUCION_reso121.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 110 (2021)
+description: CORRIGE ERROR DE TRANSCRIPCIÃ“N EN LA RESOLUCIÃ“N EXENTA SII NÂ° 110 DE 2021.
 tags: [SII, 2021, resolucion]
 ---
 
 <unknown>
 
-## CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021.
+## CORRIGE ERROR DE TRANSCRIPCIÃ“N EN LA RESOLUCIÃ“N EXENTA SII NÂ° 110 DE 2021.
 
-## SANTIAGO, 26 DE OCTUBRE DE 2021 RESOLUCIÓN EXENTA SII N°121.-
+## SANTIAGO, 26 DE OCTUBRE DE 2021 RESOLUCIÃ“N EXENTA SII NÂ°121.-
 
-VISTOS: Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; en los artículos 14 letra D) N° 3 letra (k), 14 letra D) N° 8 letra (a) N° (viii), 42 N° 1 y N° 2, 74 N° 1 y N° 2, 79, 84 letras a) y b), 86 y 90 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; en el artículo 62 de la Ley N° 19.880 de 2003; en los artículos 1° y 7° del artículo primero y en el artículo cuarto transitorio de la Ley N° 21.242; en los artículos 5°, 7° y 9° del artículo primero de la Ley N° 21.252; en las Resoluciones Ex. SII N° 63 y N° 92, ambas del 2020; y en la Resolución Ex. SII N° 110 de 2021.
+VISTOS: Lo dispuesto en el artÃ­culo 6Â° letra A NÂ° 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; en los artÃ­culos 14 letra D) NÂ° 3 letra (k), 14 letra D) NÂ° 8 letra (a) NÂ° (viii), 42 NÂ° 1 y NÂ° 2, 74 NÂ° 1 y NÂ° 2, 79, 84 letras a) y b), 86 y 90 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824, de 1974; en el artÃ­culo 62 de la Ley NÂ° 19.880 de 2003; en los artÃ­culos 1Â° y 7Â° del artÃ­culo primero y en el artÃ­culo cuarto transitorio de la Ley NÂ° 21.242; en los artÃ­culos 5Â°, 7Â° y 9Â° del artÃ­culo primero de la Ley NÂ° 21.252; en las Resoluciones Ex. SII NÂ° 63 y NÂ° 92, ambas del 2020; y en la ResoluciÃ³n Ex. SII NÂ° 110 de 2021.
 
 ## CONSIDERANDO :
 
-1° Que, el artículo 6°, letra A), N°1, establece que el Director de Impuestos Internos está facultado para interpretar las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+1Â° Que, el artÃ­culo 6Â°, letra A), NÂ°1, establece que el Director de Impuestos Internos estÃ¡ facultado para interpretar las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
 
-2° Que, el artículo 5° del artículo primero de la Ley N° 21.252 estableció un mecanismo de financiamiento y liquidez denominado 'beneficio', (en adelante, 'préstamo tasa cero'), a favor de las personas naturales que cumplieran con los requisitos copulativos dispuestos en el artículo 2° del mismo cuerpo legal.
+2Â° Que, el artÃ­culo 5Â° del artÃ­culo primero de la Ley NÂ° 21.252 estableciÃ³ un mecanismo de financiamiento y liquidez denominado 'beneficio', (en adelante, 'prÃ©stamo tasa cero'), a favor de las personas naturales que cumplieran con los requisitos copulativos dispuestos en el artÃ­culo 2Â° del mismo cuerpo legal.
 
-3° Que, el artículo cuarto transitorio de la Ley N° 21.242 permitió a los trabajadores independientes que cumplieran con los requisitos copulativos de los artículos 1° y 2° del Artículo primero de dicha ley, y que no fueran beneficiarios del 'aporte fiscal' del artículo 4° del Artículo primero de la Ley N° 21.252 o bien no lo hubieren pedido, efectuar una solicitud adicional del préstamo tasa cero.
+3Â° Que, el artÃ­culo cuarto transitorio de la Ley NÂ° 21.242 permitiÃ³ a los trabajadores independientes que cumplieran con los requisitos copulativos de los artÃ­culos 1Â° y 2Â° del ArtÃ­culo primero de dicha ley, y que no fueran beneficiarios del 'aporte fiscal' del artÃ­culo 4Â° del ArtÃ­culo primero de la Ley NÂ° 21.252 o bien no lo hubieren pedido, efectuar una solicitud adicional del prÃ©stamo tasa cero.
 
-4° Que, la Resolución Ex. SII N° 110 de 2021 instruyó sobre la forma y plazo para declarar y pagar las retenciones adicionales, pagos provisionales mensuales adicionales y pagos anticipados del préstamo tasa cero establecido en las Leyes N° 21.252 y N° 21.242, incorporando nuevos códigos al Formulario 29, para efectos de declarar y enterar en arcas fiscales las retención adicional y los pagos provisionales mensuales adicionales, y al Formulario 50, para efectos de declarar y enterar en arcas fiscales los pagos anticipados.
+4Â° Que, la ResoluciÃ³n Ex. SII NÂ° 110 de 2021 instruyÃ³ sobre la forma y plazo para declarar y pagar las retenciones adicionales, pagos provisionales mensuales adicionales y pagos anticipados del prÃ©stamo tasa cero establecido en las Leyes NÂ° 21.252 y NÂ° 21.242, incorporando nuevos cÃ³digos al Formulario 29, para efectos de declarar y enterar en arcas fiscales las retenciÃ³n adicional y los pagos provisionales mensuales adicionales, y al Formulario 50, para efectos de declarar y enterar en arcas fiscales los pagos anticipados.
 
-5° Que, el artículo 62 de la Ley N° 19.880 dispone que, en cualquier momento, la autoridad administrativa podrá aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hechos que aparecieren de manifiesto en un acto administrativo dictado por ella.
+5Â° Que, el artÃ­culo 62 de la Ley NÂ° 19.880 dispone que, en cualquier momento, la autoridad administrativa podrÃ¡ aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cÃ¡lculos numÃ©ricos y, en general, los puramente materiales o de hechos que aparecieren de manifiesto en un acto administrativo dictado por ella.
 
 ## SE RESUELVE:
 
-Sustituyese en el primer párrafo del resolutivo segundo de la Resolución Ex. SII N° 110 de 2021, y en su respectivo anexo, denominado 'Formato e instrucciones Formulario 29 y Formulario 50', la frase 'código 826' por 'código 830'.
+Sustituyese en el primer pÃ¡rrafo del resolutivo segundo de la ResoluciÃ³n Ex. SII NÂ° 110 de 2021, y en su respectivo anexo, denominado 'Formato e instrucciones Formulario 29 y Formulario 50', la frase 'cÃ³digo 826' por 'cÃ³digo 830'.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 * A Internet.
 * Al Diario Oficial, en extracto.

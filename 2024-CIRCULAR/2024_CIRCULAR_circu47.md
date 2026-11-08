@@ -1,21 +1,20 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 47 (2024)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°47.- 303110.2024 GE |
-resource: ./2024_CIRCULAR_circu47.md.docx
+title: Circular NÂ° 47 (2024)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°47.- 303110.2024 GE |
 tags: [SII, 2024, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°47.- 303110.2024 GE** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°47.- 303110.2024 GE** |
 | --- | --- |
 | SISTEMA DEPUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE NOVIEMBRE DE 2024. |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2024 y el 9 de diciembre de 2024, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de noviembre de 2024 y el 9 de diciembre de 2024, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de noviembre de 2024 y 9 de diciembre de 2024, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de noviembre de 2024 y 9 de diciembre de 2024, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de noviembre de 2024
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de noviembre de 2024
 
-| **DÍA** | **ENE FEB** | **MAR** | **ABR** | **MAY** | **JUN** | **JUL AGO** | **SEP** | **OCT NOV** | **DIC** |
+| **DÃA** | **ENE FEB** | **MAR** | **ABR** | **MAY** | **JUN** | **JUL AGO** | **SEP** | **OCT NOV** | **DIC** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 36.797,64 36.727,10 | 36.865,37 | 37.100,68 | 37.266,94 | 37.444,94 | 37.575,61 37.577,74 | 37.762,97 | 37.914,20 37.972,65 | 38.260,61 |
 | 2 | 36.805,92 36.721,16 | 36.874,24 | 37.107,84 | 37.271,90 | 37.450,96 | 37.579,36 37.576,52 | 37.771,46 | 37.917,99 37.973,87 | 38.273,30 |
@@ -53,7 +52,7 @@ Saluda a Ud.,
 
 <unknown>
 
-## SRG/AHB/LOF/jfl DISTRIBUCIÓN:
+## SRG/AHB/LOF/jfl DISTRIBUCIÃ“N:
 
 * -Internet
 

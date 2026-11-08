@@ -1,12 +1,11 @@
----
-type: SII Resolución
-title: Resolución N° 22 (2019)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018
-resource: ./2019_RESOLUCION_reso22.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 22 (2019)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018
 
 AUTORIZA LA EMISION EXCEPCIONAL DE FACTURAS POR OPERACIONES DE LEASING AUTOMOTRIZ A CONTRIBUYENTE QUE INDICA.
 
@@ -14,59 +13,59 @@ Santiago, 8 de febrero 2019
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N°22.-/
+RESOLUCIÃ“N EX. SII NÂ°22.-/
 
 VISTOS:
 
-Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980, del Ministerio de Hacienda; lo dispuesto en el N° 1, de la letra A), del Art. 6°, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; los Arts. 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; el D.S. N° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios; la Resolución Ex. SII N° 45 de 01.09.2003, modificada por las Resoluciones Ex. SII N° 80 de 22.08.2014 y N° 100 de 23.10.2014; la Res. Ex. N° 1110, de 1978; la Circular N° 129, de 1977; la Res. Ex. N° 6080, de 1999; la Circular N° 39, de 2000; el Oficio N° 253, de 2015 del Servicio de Impuestos Internos; la presentación ingresada con fecha 28 de noviembre 2018, en la Oficina de Partes de la Dirección Nacional de este Servicio, por don Héctor Mauricio Hernández González, RUT N° 8.374.104-K, en representación del contribuyente BANCO DE CHILE, RUT N° 97.004.000-5, con domicilio en Ahumada 251, Santiago; y
+Las facultades que me confieren los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; lo dispuesto en el NÂ° 1, de la letra A), del Art. 6Â°, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ° 830, de 1974; los Arts. 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825, de 1974; el D.S. NÂ° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios; la ResoluciÃ³n Ex. SII NÂ° 45 de 01.09.2003, modificada por las Resoluciones Ex. SII NÂ° 80 de 22.08.2014 y NÂ° 100 de 23.10.2014; la Res. Ex. NÂ° 1110, de 1978; la Circular NÂ° 129, de 1977; la Res. Ex. NÂ° 6080, de 1999; la Circular NÂ° 39, de 2000; el Oficio NÂ° 253, de 2015 del Servicio de Impuestos Internos; la presentaciÃ³n ingresada con fecha 28 de noviembre 2018, en la Oficina de Partes de la DirecciÃ³n Nacional de este Servicio, por don HÃ©ctor Mauricio HernÃ¡ndez GonzÃ¡lez, RUT NÂ° 8.374.104-K, en representaciÃ³n del contribuyente BANCO DE CHILE, RUT NÂ° 97.004.000-5, con domicilio en Ahumada 251, Santiago; y
 
 ## CONSIDERANDO :
 
-1° Que, el contribuyente BANCO DE CHILE, RUT N° 97.004.000-5 , en su presentación solicita autorización para emitir facturas electrónicas afectas o exentas o no gravadas, según corresponda, en reemplazo de boletas para documentar las rentas de arriendo y la opción de compra de contratos de Leasing automotrices, celebrados con personas naturales, sean o no vendedores, importadores o prestadores de servicios, de manera transitoria por el lapso de un año, mientras realiza los desarrollos sistémicos requeridos para la emisión de boletas.
+1Â° Que, el contribuyente BANCO DE CHILE, RUT NÂ° 97.004.000-5 , en su presentaciÃ³n solicita autorizaciÃ³n para emitir facturas electrÃ³nicas afectas o exentas o no gravadas, segÃºn corresponda, en reemplazo de boletas para documentar las rentas de arriendo y la opciÃ³n de compra de contratos de Leasing automotrices, celebrados con personas naturales, sean o no vendedores, importadores o prestadores de servicios, de manera transitoria por el lapso de un aÃ±o, mientras realiza los desarrollos sistÃ©micos requeridos para la emisiÃ³n de boletas.
 
-* 2° Que, el contribuyente fundamenta su petición en razones de conveniencia operatoria y por requerimiento de la autoridad registral que exige factura de la opción de compra al momento de inscribir un vehículo a favor del arrendatario.
-* 3° Que, en conformidad al Artículo 53, letra b) del D.L. N° 825, de 1974, los contribuyentes afectos a los impuestos establecidos en dicha ley deberán emitir boletas en los casos que corresponda.
+* 2Â° Que, el contribuyente fundamenta su peticiÃ³n en razones de conveniencia operatoria y por requerimiento de la autoridad registral que exige factura de la opciÃ³n de compra al momento de inscribir un vehÃ­culo a favor del arrendatario.
+* 3Â° Que, en conformidad al ArtÃ­culo 53, letra b) del D.L. NÂ° 825, de 1974, los contribuyentes afectos a los impuestos establecidos en dicha ley deberÃ¡n emitir boletas en los casos que corresponda.
 
-4° Que, el resolutivo N°3 de la Resolución Exenta N°7 del año 2005 señala que los Bancos e Instituciones Financieras deberán emitir Boletas por las operaciones afectas al Impuesto a las Ventas y Servicios establecido en el D.L. N° 825, de 1974, o Boletas de Ventas y Servicios no Afectos o Exentos del mencionado impuesto, por las operaciones no gravadas o exentas, que efectúen con clientes que no sean vendedores, importadores o prestadores de servicios.
+4Â° Que, el resolutivo NÂ°3 de la ResoluciÃ³n Exenta NÂ°7 del aÃ±o 2005 seÃ±ala que los Bancos e Instituciones Financieras deberÃ¡n emitir Boletas por las operaciones afectas al Impuesto a las Ventas y Servicios establecido en el D.L. NÂ° 825, de 1974, o Boletas de Ventas y Servicios no Afectos o Exentos del mencionado impuesto, por las operaciones no gravadas o exentas, que efectÃºen con clientes que no sean vendedores, importadores o prestadores de servicios.
 
-5° Que, de acuerdo al Artículo N° 56 del D.L. N° 825, de 1974, el Servicio de Impuestos Internos podrá eximir de las obligaciones establecidas en los artículos anteriores de dicha ley a determinadas actividades, grupos o gremios de contribuyentes, a contribuyentes que vendan o transfieran productos exentos o que presten servicios exentos, y a contribuyentes afectos a los impuestos establecidos en esta ley, cuando por la modalidad de comercialización de algunos productos, o de prestación de algunos servicios, la emisión de boletas, facturas y otros documentos por cada operación pueda dificultar o entrabar las actividades que ellos desarrollan.
+5Â° Que, de acuerdo al ArtÃ­culo NÂ° 56 del D.L. NÂ° 825, de 1974, el Servicio de Impuestos Internos podrÃ¡ eximir de las obligaciones establecidas en los artÃ­culos anteriores de dicha ley a determinadas actividades, grupos o gremios de contribuyentes, a contribuyentes que vendan o transfieran productos exentos o que presten servicios exentos, y a contribuyentes afectos a los impuestos establecidos en esta ley, cuando por la modalidad de comercializaciÃ³n de algunos productos, o de prestaciÃ³n de algunos servicios, la emisiÃ³n de boletas, facturas y otros documentos por cada operaciÃ³n pueda dificultar o entrabar las actividades que ellos desarrollan.
 
 VVS/RGV/AVB/OBA/MBU
 
-## Distribución :
+## DistribuciÃ³n :
 
-* -Héctor Mauricio Hernández González, RUT N° 8.374.104-K, en representación del contribuyente BANCO DE CHILE, RUT N° 97.004.000-5
+* -HÃ©ctor Mauricio HernÃ¡ndez GonzÃ¡lez, RUT NÂ° 8.374.104-K, en representaciÃ³n del contribuyente BANCO DE CHILE, RUT NÂ° 97.004.000-5
 
 Ahumada 251, Santiago.
 
-* -Boletín
+* -BoletÃ­n
 * -Diario Oficial en extracto
 
 ## SE RESUELVE:
 
-1° HA LUGAR A LO SOLICITADO, por el contribuyente BANCO DE CHILE, RUT N° 97.004.000-5, autorizando excepcionalmente la emisión de facturas por las operaciones descritas en el Considerando N°1, sujeta al cumplimiento de los requisitos que se establecen en la presente, a fin de resguardar debidamente el interés fiscal.
+1Â° HA LUGAR A LO SOLICITADO, por el contribuyente BANCO DE CHILE, RUT NÂ° 97.004.000-5, autorizando excepcionalmente la emisiÃ³n de facturas por las operaciones descritas en el Considerando NÂ°1, sujeta al cumplimiento de los requisitos que se establecen en la presente, a fin de resguardar debidamente el interÃ©s fiscal.
 
-El contribuyente deberá enviar un reporte mensual de las transacciones de este tipo realizadas con personas naturales donde incluya:
+El contribuyente deberÃ¡ enviar un reporte mensual de las transacciones de este tipo realizadas con personas naturales donde incluya:
 
-* La cantidad y tipo de facturas emitidas de acuerdo a esta autorización.
-* Los documentos que puedan hacer referencia a ellas, como son las Notas de Crédito y/o Débito en el caso de emitirlas.
+* La cantidad y tipo de facturas emitidas de acuerdo a esta autorizaciÃ³n.
+* Los documentos que puedan hacer referencia a ellas, como son las Notas de CrÃ©dito y/o DÃ©bito en el caso de emitirlas.
 
-Esta información deberá ser enviada mediante correo electrónico, a la casilla <u>solicitudes\_fe@sii.cl</u>. El plazo de envío de dicho reporte se extenderá hasta el último día hábil del mes siguiente a la emisión de los respectivos documentos.
+Esta informaciÃ³n deberÃ¡ ser enviada mediante correo electrÃ³nico, a la casilla <u>solicitudes\_fe@sii.cl</u>. El plazo de envÃ­o de dicho reporte se extenderÃ¡ hasta el Ãºltimo dÃ­a hÃ¡bil del mes siguiente a la emisiÃ³n de los respectivos documentos.
 
-2° El contribuyente debe mantener un buen comportamiento tributario y conservar la calidad de emisor de documentos tributarios electrónicos, que actualmente ostenta, de acuerdo a lo establecido por la Resolución Ex. SII N° 45, de 01.09.2003, modificada por las Resoluciones Ex. SII N° 80 de 22.08.2014 y N° 100 de 23.10.2014.
+2Â° El contribuyente debe mantener un buen comportamiento tributario y conservar la calidad de emisor de documentos tributarios electrÃ³nicos, que actualmente ostenta, de acuerdo a lo establecido por la ResoluciÃ³n Ex. SII NÂ° 45, de 01.09.2003, modificada por las Resoluciones Ex. SII NÂ° 80 de 22.08.2014 y NÂ° 100 de 23.10.2014.
 
-3° El Servicio de Impuestos Internos podrá revocar la autorización otorgada al contribuyente, si éste no cumple con las obligaciones establecidas en la presente resolución.
+3Â° El Servicio de Impuestos Internos podrÃ¡ revocar la autorizaciÃ³n otorgada al contribuyente, si Ã©ste no cumple con las obligaciones establecidas en la presente resoluciÃ³n.
 
-4° Delégase, en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la resolución por la que se revoque la presente autorización. Esta deberá mencionar el número y fecha de la presente resolución y deberá registrarse, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; además se publicará, en extracto, en el Diario Oficial y se notificará al contribuyente conforme a las reglas generales.
+4Â° DelÃ©gase, en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la resoluciÃ³n por la que se revoque la presente autorizaciÃ³n. Esta deberÃ¡ mencionar el nÃºmero y fecha de la presente resoluciÃ³n y deberÃ¡ registrarse, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; ademÃ¡s se publicarÃ¡, en extracto, en el Diario Oficial y se notificarÃ¡ al contribuyente conforme a las reglas generales.
 
-5° La utilización maliciosa del Sistema de Factura Electrónica, será sancionado conforme a lo establecido en los artículos 97 o 109 del Código Tributario, según corresponda.
+5Â° La utilizaciÃ³n maliciosa del Sistema de Factura ElectrÃ³nica, serÃ¡ sancionado conforme a lo establecido en los artÃ­culos 97 o 109 del CÃ³digo Tributario, segÃºn corresponda.
 
-Adicional a lo anterior, el Servicio de Impuestos Internos se reserva el derecho de suspender la autorización otorgada.
+Adicional a lo anterior, el Servicio de Impuestos Internos se reserva el derecho de suspender la autorizaciÃ³n otorgada.
 
-6° La presente resolución regirá a partir de su publicación, en extracto, en el Diario Oficial.
+6Â° La presente resoluciÃ³n regirÃ¡ a partir de su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.

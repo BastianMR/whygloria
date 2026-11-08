@@ -1,130 +1,129 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 50 (2015)
-description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 50 |
-resource: ./2015_CIRCULAR_circu50.md.docx
+title: Circular NÂ° 50 (2015)
+description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA | CIRCULAR NÂº 50 |
 tags: [SII, 2015, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 50** |
+| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA** | **CIRCULAR NÂº 50** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 22 de junio de 2015.- |
-| MATERIA: Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades. | REFERENCIA: Código Tributario, artículo 60 ter; Ley N° 20.780, Artículo 10, N° 17. |
+| MATERIA: Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades. | REFERENCIA: CÃ³digo Tributario, artÃ­culo 60 ter; Ley NÂ° 20.780, ArtÃ­culo 10, NÂ° 17. |
 
-## I.- INTRODUCCIÓN.
+## I.- INTRODUCCIÃ“N.
 
-La Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, en su Artículo 10.-, numeral 17, introduce al Código Tributario el artículo 60 ter, que faculta al Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades.
+La Ley NÂ° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, en su ArtÃ­culo 10.-, numeral 17, introduce al CÃ³digo Tributario el artÃ­culo 60 ter, que faculta al Servicio de Impuestos Internos para autorizar o exigir la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades.
 
-## II.- MODIFICACIÓN INTRODUCIDA POR LA LEY N° 20.780.
+## II.- MODIFICACIÃ“N INTRODUCIDA POR LA LEY NÂ° 20.780.
 
-El numeral 17 del Artículo 10.- de la Ley N° 20.780, modificando el Código Tributario, dispone lo siguiente:
+El numeral 17 del ArtÃ­culo 10.- de la Ley NÂ° 20.780, modificando el CÃ³digo Tributario, dispone lo siguiente:
 
-'17. Incorpórase el siguiente artículo 60 ter, nuevo:
+'17. IncorpÃ³rase el siguiente artÃ­culo 60 ter, nuevo:
 
-"Artículo 60 ter.- El Servicio podrá autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades tales como juegos y apuestas electrónicas, comercio digital de todo tipo, aplicaciones y servicios digitales, las que podrán llevar, a juicio del Servicio, una identificación digital en papel o en medios electrónicos, según proceda. Para estos efectos, el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, establecerá el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, lo que en ningún caso podrá afectar el normal desarrollo de las operaciones del contribuyente. El Servicio, a su juicio exclusivo y de manera individualizada, establecerá mediante resolución fundada los contribuyentes sujetos a estas exigencias y las especificaciones tecnológicas respectivas. Para tales efectos, el Servicio deberá notificar al contribuyente sobre el inicio de un procedimiento destinado a exigir la utilización de sistemas de control informático con al menos dos meses de anticipación a la notificación de la citada resolución. Los contribuyentes dispondrán del plazo de seis meses contados desde la notificación de la resolución para implementar y utilizar el sistema respectivo. El Servicio podrá, a petición del contribuyente, prorrogar el plazo hasta por seis meses más en casos calificados. En ningún caso se ejercerá esta facultad respecto de los contribuyentes a que se refieren los artículos 18 ter y 22 de la ley sobre Impuesto a la Renta. El incumplimiento de la obligación de utilizar estos sistemas o impedir o entrabar la revisión de su correcto uso será sancionado de conformidad al artículo 97, número 6, de este Código.".
+"ArtÃ­culo 60 ter.- El Servicio podrÃ¡ autorizar o exigir la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades tales como juegos y apuestas electrÃ³nicas, comercio digital de todo tipo, aplicaciones y servicios digitales, las que podrÃ¡n llevar, a juicio del Servicio, una identificaciÃ³n digital en papel o en medios electrÃ³nicos, segÃºn proceda. Para estos efectos, el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, establecerÃ¡ el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, lo que en ningÃºn caso podrÃ¡ afectar el normal desarrollo de las operaciones del contribuyente. El Servicio, a su juicio exclusivo y de manera individualizada, establecerÃ¡ mediante resoluciÃ³n fundada los contribuyentes sujetos a estas exigencias y las especificaciones tecnolÃ³gicas respectivas. Para tales efectos, el Servicio deberÃ¡ notificar al contribuyente sobre el inicio de un procedimiento destinado a exigir la utilizaciÃ³n de sistemas de control informÃ¡tico con al menos dos meses de anticipaciÃ³n a la notificaciÃ³n de la citada resoluciÃ³n. Los contribuyentes dispondrÃ¡n del plazo de seis meses contados desde la notificaciÃ³n de la resoluciÃ³n para implementar y utilizar el sistema respectivo. El Servicio podrÃ¡, a peticiÃ³n del contribuyente, prorrogar el plazo hasta por seis meses mÃ¡s en casos calificados. En ningÃºn caso se ejercerÃ¡ esta facultad respecto de los contribuyentes a que se refieren los artÃ­culos 18 ter y 22 de la ley sobre Impuesto a la Renta. El incumplimiento de la obligaciÃ³n de utilizar estos sistemas o impedir o entrabar la revisiÃ³n de su correcto uso serÃ¡ sancionado de conformidad al artÃ­culo 97, nÃºmero 6, de este CÃ³digo.".
 
 ## III.- INSTRUCCIONES.
 
 ## 1.- FACULTAD CONFERIDA AL SERVICIO DE IMPUESTOS INTERNOS.
 
-El artículo 60 ter del Código Tributario consagra la facultad del Servicio de Impuestos Internos para autorizar o exigir el empleo de sistemas tecnológicos de información que hagan posible el debido control tributario de ciertos sectores de contribuyentes o actividades, los que podrán llevar, a juicio del Servicio, una identificación digital en papel o en medios electrónicos, según sea procedente.
+El artÃ­culo 60 ter del CÃ³digo Tributario consagra la facultad del Servicio de Impuestos Internos para autorizar o exigir el empleo de sistemas tecnolÃ³gicos de informaciÃ³n que hagan posible el debido control tributario de ciertos sectores de contribuyentes o actividades, los que podrÃ¡n llevar, a juicio del Servicio, una identificaciÃ³n digital en papel o en medios electrÃ³nicos, segÃºn sea procedente.
 
-De esta manera, tratándose de una facultad conferida por la ley al Servicio, su ejercicio corresponde a una determinación entregada a su juicio exclusivo. Esta Dirección emitirá todas las resoluciones necesarias para la debida ejecución de esta atribución.
+De esta manera, tratÃ¡ndose de una facultad conferida por la ley al Servicio, su ejercicio corresponde a una determinaciÃ³n entregada a su juicio exclusivo. Esta DirecciÃ³n emitirÃ¡ todas las resoluciones necesarias para la debida ejecuciÃ³n de esta atribuciÃ³n.
 
-En consecuencia, para los efectos de lo dispuesto en el precepto legal en análisis, la utilización de sistemas tecnológicos de información se refiere a la circunstancia de llevar una identificación digital en papel o en medios electrónicos, con el objetivo que la Administración Tributaria pueda desarrollar el debido control tributario de ciertos sectores de contribuyentes o actividades.
+En consecuencia, para los efectos de lo dispuesto en el precepto legal en anÃ¡lisis, la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n se refiere a la circunstancia de llevar una identificaciÃ³n digital en papel o en medios electrÃ³nicos, con el objetivo que la AdministraciÃ³n Tributaria pueda desarrollar el debido control tributario de ciertos sectores de contribuyentes o actividades.
 
-El empleo de los descritos sistemas tecnológicos de información, de acuerdo a lo dispuesto en el artículo 60 ter del Código Tributario, podrá deberse a la autorización otorgada por el Servicio frente a un requerimiento formulado por el contribuyente en orden a utilizar dichos sistemas tecnológicos de información; o bien, a la exigencia de su uso, de oficio, por parte del Servicio.
+El empleo de los descritos sistemas tecnolÃ³gicos de informaciÃ³n, de acuerdo a lo dispuesto en el artÃ­culo 60 ter del CÃ³digo Tributario, podrÃ¡ deberse a la autorizaciÃ³n otorgada por el Servicio frente a un requerimiento formulado por el contribuyente en orden a utilizar dichos sistemas tecnolÃ³gicos de informaciÃ³n; o bien, a la exigencia de su uso, de oficio, por parte del Servicio.
 
-## 2.- EXIGENCIA DE LA UTILIZACIÓN DE SISTEMAS TECNOLÓGICOS DE INFORMACIÓN.
+## 2.- EXIGENCIA DE LA UTILIZACIÃ“N DE SISTEMAS TECNOLÃ“GICOS DE INFORMACIÃ“N.
 
 ## A.- SUJETOS OBLIGADOS.
 
-La potestad del Servicio de Impuestos Internos para exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades podrá ser ejercida en la medida que se cumplan los requisitos copulativos que el artículo 60 ter del Código Tributario establece, esto es:
+La potestad del Servicio de Impuestos Internos para exigir la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades podrÃ¡ ser ejercida en la medida que se cumplan los requisitos copulativos que el artÃ­culo 60 ter del CÃ³digo Tributario establece, esto es:
 
-* a) Que el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, establezca el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, lo que en ningún caso podrá afectar el normal desarrollo de las operaciones del contribuyente.
+* a) Que el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, establezca el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, lo que en ningÃºn caso podrÃ¡ afectar el normal desarrollo de las operaciones del contribuyente.
 
-Sobre el particular, debe señalarse que el propio artículo 60 ter del Código Tributario, a modo meramente ejemplar, y sin que constituya una enumeración taxativa, contiene una serie de sectores de contribuyentes o tipos de actividades susceptibles de ser sujetas a la exigencia de uso de los reseñados sistemas tecnológicos de información; a saber: juegos y apuestas electrónicas, comercio digital de todo tipo, aplicaciones y servicios digitales.
+Sobre el particular, debe seÃ±alarse que el propio artÃ­culo 60 ter del CÃ³digo Tributario, a modo meramente ejemplar, y sin que constituya una enumeraciÃ³n taxativa, contiene una serie de sectores de contribuyentes o tipos de actividades susceptibles de ser sujetas a la exigencia de uso de los reseÃ±ados sistemas tecnolÃ³gicos de informaciÃ³n; a saber: juegos y apuestas electrÃ³nicas, comercio digital de todo tipo, aplicaciones y servicios digitales.
 
-* b) Que el Servicio de Impuestos Internos, a su juicio exclusivo, establezca de manera individualizada, mediante resolución fundada, los contribuyentes sujetos a estas exigencias y las especificaciones tecnológicas respectivas.
+* b) Que el Servicio de Impuestos Internos, a su juicio exclusivo, establezca de manera individualizada, mediante resoluciÃ³n fundada, los contribuyentes sujetos a estas exigencias y las especificaciones tecnolÃ³gicas respectivas.
 
-La norma legal en comento dispone que esta facultad no podrá ser ejercida respecto de los contribuyentes a que se refieren los artículos 18 ter y 22 de la Ley sobre Impuesto a la Renta.
+La norma legal en comento dispone que esta facultad no podrÃ¡ ser ejercida respecto de los contribuyentes a que se refieren los artÃ­culos 18 ter y 22 de la Ley sobre Impuesto a la Renta.
 
-De esta manera, de conformidad a las disposiciones del artículo 22 de la Ley sobre Impuesto a la Renta, quedan excluidos de la posibilidad de ser obligados al empleo de los descritos sistemas tecnológicos los pequeños mineros artesanales, pequeños comerciantes que desarrollan actividades en la vía pública, suplementeros, propietarios de un taller artesanal u obrero y los pescadores artesanales debidamente inscritos.
+De esta manera, de conformidad a las disposiciones del artÃ­culo 22 de la Ley sobre Impuesto a la Renta, quedan excluidos de la posibilidad de ser obligados al empleo de los descritos sistemas tecnolÃ³gicos los pequeÃ±os mineros artesanales, pequeÃ±os comerciantes que desarrollan actividades en la vÃ­a pÃºblica, suplementeros, propietarios de un taller artesanal u obrero y los pescadores artesanales debidamente inscritos.
 
-Por su parte, la alusión al artículo 18 ter de la Ley sobre Impuesto a la Renta debe entenderse que no tiene aplicación práctica por encontrarse derogado dicho artículo.
-
-## B.- PROCEDIMIENTO.
-
-Para hacer efectiva la obligación que establece el artículo 60 ter del Código Tributario, el Servicio de Impuestos Internos deberá notificar al contribuyente una resolución relativa al inicio de un procedimiento destinado a exigir la utilización de sistemas de control informático, con al menos dos meses de anticipación a la notificación de la resolución mediante la cual se establezca que el contribuyente se encuentra sujeto a la exigencia de utilización de sistemas tecnológicos de
-
-información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades.
-
-Vencido el plazo de dos meses o más que contempla el artículo 60 ter, podrá el Servicio proceder a la dictación de la fundada resolución pertinente, individualizando el o los contribuyentes obligados a la utilización de sistemas tecnológicos de información que permitan el debido control tributario. En dicha resolución el Servicio deberá definir el empleo de una identificación digital en papel o en medios electrónicos, según sea procedente. Asimismo, deberá indicar las especificaciones tecnológicas exigidas.
-
-Ambas resoluciones deberán ser notificadas conforme a las reglas generales establecidas en los artículos 11 al 15 del Código Tributario.
-
-A contar del día siguiente a aquel en que se notifique la segunda resolución en comento, el contribuyente obligado dispondrá de un plazo de seis meses para implementar y utilizar el sistema tecnológico de información respectivo.
-
-El referido plazo de seis meses podrá ser prorrogado a petición del contribuyente por otros seis meses, en casos calificados. El plazo prorrogado se contará desde el vencimiento del plazo original. La solicitud de prórroga, junto con los antecedentes que la respalden, deberá ser presentada al Servicio antes de la expiración del plazo original. La decisión sobre la prórroga deberá notificarse al contribuyente antes del vencimiento del plazo original. En caso que la solicitud de prórroga hubiese sido presentada dentro de los últimos cinco días del plazo primitivo, la resolución respectiva deberá ponerse en conocimiento del contribuyente dentro del plazo de cinco días hábiles contados desde la presentación de la solicitud.
-
-Se hace presente que la ley indica que el objetivo del plazo de seis meses y su prórroga es implementar y utilizar el sistema tecnológico de información respectivo, de tal forma que al término del plazo indicado o su prórroga en su caso, el sistema debe estar funcionando totalmente, de acuerdo a las especificaciones indicadas en la respectiva resolución del Servicio.
-
-## 3.- AUTORIZACIÓN DEL EMPLEO DE SISTEMAS TECNOLÓGICOS DE INFORMACIÓN.
-
-## A.- CONTRIBUYENTES HABILITADOS PARA SOLICITAR LA AUTORIZACIÓN.
-
-Tal como se ha venido señalando, de acuerdo a lo dispuesto por el artículo 60 ter del Código Tributario, el Servicio podrá autorizar la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades tales como juegos y apuestas electrónicas, comercio digital de todo tipo, aplicaciones y servicios digitales.
-
-Atendido el tenor de la primera parte de la citada norma legal, sólo podrán solicitar al Servicio de Impuestos Internos autorización para la utilización de los sistemas tecnológicos de información, aquellos contribuyentes que se encuentren comprendidos en el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, establecidos por el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, según lo señala el artículo 60 ter del Código Tributario.
+Por su parte, la alusiÃ³n al artÃ­culo 18 ter de la Ley sobre Impuesto a la Renta debe entenderse que no tiene aplicaciÃ³n prÃ¡ctica por encontrarse derogado dicho artÃ­culo.
 
 ## B.- PROCEDIMIENTO.
 
-Las solicitudes de utilización de sistemas tecnológicos de información del artículo 60 ter del Código Tributario que presenten los contribuyentes deberán ser fundadas y acompañarse de los antecedentes que las respalden. Deberán ser presentadas en la Unidad del Servicio competente atendido el domicilio del contribuyente solicitante.
+Para hacer efectiva la obligaciÃ³n que establece el artÃ­culo 60 ter del CÃ³digo Tributario, el Servicio de Impuestos Internos deberÃ¡ notificar al contribuyente una resoluciÃ³n relativa al inicio de un procedimiento destinado a exigir la utilizaciÃ³n de sistemas de control informÃ¡tico, con al menos dos meses de anticipaciÃ³n a la notificaciÃ³n de la resoluciÃ³n mediante la cual se establezca que el contribuyente se encuentra sujeto a la exigencia de utilizaciÃ³n de sistemas tecnolÃ³gicos de
 
-El Servicio procederá a la dictación de la resolución que resuelva la petición dentro de los 20 días hábiles siguientes, contados desde que se certifique, a petición del interesado, que la solicitud se encuentra en estado de resolverse. De conformidad a lo dispuesto en el inciso segundo del artículo 10 del Código Tributario, para los fines del cómputo del plazo señalado, se entenderá que son días inhábiles los sábado, domingo y festivos.
+informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades.
 
-En caso de concederse la autorización para el empleo de los sistemas tecnológicos de información, la resolución deberá definir el empleo de una identificación digital en papel o en medios electrónicos, según sea procedente, como asimismo deberá indicar las especificaciones tecnológicas exigidas.
+Vencido el plazo de dos meses o mÃ¡s que contempla el artÃ­culo 60 ter, podrÃ¡ el Servicio proceder a la dictaciÃ³n de la fundada resoluciÃ³n pertinente, individualizando el o los contribuyentes obligados a la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario. En dicha resoluciÃ³n el Servicio deberÃ¡ definir el empleo de una identificaciÃ³n digital en papel o en medios electrÃ³nicos, segÃºn sea procedente. Asimismo, deberÃ¡ indicar las especificaciones tecnolÃ³gicas exigidas.
 
-La resolución señalará, además, el plazo del que dispondrá el contribuyente para implementar y utilizar el sistema tecnológico de información, el cual será de seis meses, salvo que el propio solicitante en su presentación haya expresamente requerido un plazo menor. El plazo otorgado empezará a correr a contar del día siguiente a aquel en que se notifique la resolución de conformidad a las reglas generales sobre la materia, establecidas en los artículos 11 al 15 del Código Tributario.
+Ambas resoluciones deberÃ¡n ser notificadas conforme a las reglas generales establecidas en los artÃ­culos 11 al 15 del CÃ³digo Tributario.
 
-El plazo conferido podrá ser prorrogado a petición del contribuyente por un máximo de seis meses, en casos calificados. El plazo prorrogado se contará desde el vencimiento del plazo original. La solicitud de prórroga, junto con los antecedentes que la respalden, deberá ser presentada al Servicio antes de la expiración del plazo original. La decisión sobre la prórroga deberá notificarse al contribuyente antes del vencimiento del plazo original. En caso que la solicitud de prórroga hubiese sido presentada dentro de los últimos cinco días del plazo primitivo, la resolución respectiva deberá ponerse en conocimiento del contribuyente dentro del plazo de cinco días hábiles contados desde la presentación de la solicitud.
+A contar del dÃ­a siguiente a aquel en que se notifique la segunda resoluciÃ³n en comento, el contribuyente obligado dispondrÃ¡ de un plazo de seis meses para implementar y utilizar el sistema tecnolÃ³gico de informaciÃ³n respectivo.
 
-Se hace presente que la resolución que accede a la solicitud formulada por el contribuyente, autorizando el uso del sistema tecnológico de información respectivo, obliga al peticionario a su implementación y utilización, de tal forma que al término del plazo indicado o su prórroga en su caso, el sistema debe estar funcionando totalmente, de acuerdo a las especificaciones indicadas en la respectiva resolución del Servicio.
+El referido plazo de seis meses podrÃ¡ ser prorrogado a peticiÃ³n del contribuyente por otros seis meses, en casos calificados. El plazo prorrogado se contarÃ¡ desde el vencimiento del plazo original. La solicitud de prÃ³rroga, junto con los antecedentes que la respalden, deberÃ¡ ser presentada al Servicio antes de la expiraciÃ³n del plazo original. La decisiÃ³n sobre la prÃ³rroga deberÃ¡ notificarse al contribuyente antes del vencimiento del plazo original. En caso que la solicitud de prÃ³rroga hubiese sido presentada dentro de los Ãºltimos cinco dÃ­as del plazo primitivo, la resoluciÃ³n respectiva deberÃ¡ ponerse en conocimiento del contribuyente dentro del plazo de cinco dÃ­as hÃ¡biles contados desde la presentaciÃ³n de la solicitud.
 
-Ahora bien, en caso de denegarse la solicitud, la resolución deberá expresar los motivos para ello, teniendo presente que, tratándose de una facultad conferida por la ley al Servicio, su ejercicio corresponde a una determinación entregada a su juicio exclusivo.
+Se hace presente que la ley indica que el objetivo del plazo de seis meses y su prÃ³rroga es implementar y utilizar el sistema tecnolÃ³gico de informaciÃ³n respectivo, de tal forma que al tÃ©rmino del plazo indicado o su prÃ³rroga en su caso, el sistema debe estar funcionando totalmente, de acuerdo a las especificaciones indicadas en la respectiva resoluciÃ³n del Servicio.
+
+## 3.- AUTORIZACIÃ“N DEL EMPLEO DE SISTEMAS TECNOLÃ“GICOS DE INFORMACIÃ“N.
+
+## A.- CONTRIBUYENTES HABILITADOS PARA SOLICITAR LA AUTORIZACIÃ“N.
+
+Tal como se ha venido seÃ±alando, de acuerdo a lo dispuesto por el artÃ­culo 60 ter del CÃ³digo Tributario, el Servicio podrÃ¡ autorizar la utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades tales como juegos y apuestas electrÃ³nicas, comercio digital de todo tipo, aplicaciones y servicios digitales.
+
+Atendido el tenor de la primera parte de la citada norma legal, sÃ³lo podrÃ¡n solicitar al Servicio de Impuestos Internos autorizaciÃ³n para la utilizaciÃ³n de los sistemas tecnolÃ³gicos de informaciÃ³n, aquellos contribuyentes que se encuentren comprendidos en el tipo de actividades o sectores de contribuyentes sujetos a la exigencia de implementar y utilizar los referidos sistemas, establecidos por el Ministerio de Hacienda, mediante norma general contenida en un decreto supremo, segÃºn lo seÃ±ala el artÃ­culo 60 ter del CÃ³digo Tributario.
+
+## B.- PROCEDIMIENTO.
+
+Las solicitudes de utilizaciÃ³n de sistemas tecnolÃ³gicos de informaciÃ³n del artÃ­culo 60 ter del CÃ³digo Tributario que presenten los contribuyentes deberÃ¡n ser fundadas y acompaÃ±arse de los antecedentes que las respalden. DeberÃ¡n ser presentadas en la Unidad del Servicio competente atendido el domicilio del contribuyente solicitante.
+
+El Servicio procederÃ¡ a la dictaciÃ³n de la resoluciÃ³n que resuelva la peticiÃ³n dentro de los 20 dÃ­as hÃ¡biles siguientes, contados desde que se certifique, a peticiÃ³n del interesado, que la solicitud se encuentra en estado de resolverse. De conformidad a lo dispuesto en el inciso segundo del artÃ­culo 10 del CÃ³digo Tributario, para los fines del cÃ³mputo del plazo seÃ±alado, se entenderÃ¡ que son dÃ­as inhÃ¡biles los sÃ¡bado, domingo y festivos.
+
+En caso de concederse la autorizaciÃ³n para el empleo de los sistemas tecnolÃ³gicos de informaciÃ³n, la resoluciÃ³n deberÃ¡ definir el empleo de una identificaciÃ³n digital en papel o en medios electrÃ³nicos, segÃºn sea procedente, como asimismo deberÃ¡ indicar las especificaciones tecnolÃ³gicas exigidas.
+
+La resoluciÃ³n seÃ±alarÃ¡, ademÃ¡s, el plazo del que dispondrÃ¡ el contribuyente para implementar y utilizar el sistema tecnolÃ³gico de informaciÃ³n, el cual serÃ¡ de seis meses, salvo que el propio solicitante en su presentaciÃ³n haya expresamente requerido un plazo menor. El plazo otorgado empezarÃ¡ a correr a contar del dÃ­a siguiente a aquel en que se notifique la resoluciÃ³n de conformidad a las reglas generales sobre la materia, establecidas en los artÃ­culos 11 al 15 del CÃ³digo Tributario.
+
+El plazo conferido podrÃ¡ ser prorrogado a peticiÃ³n del contribuyente por un mÃ¡ximo de seis meses, en casos calificados. El plazo prorrogado se contarÃ¡ desde el vencimiento del plazo original. La solicitud de prÃ³rroga, junto con los antecedentes que la respalden, deberÃ¡ ser presentada al Servicio antes de la expiraciÃ³n del plazo original. La decisiÃ³n sobre la prÃ³rroga deberÃ¡ notificarse al contribuyente antes del vencimiento del plazo original. En caso que la solicitud de prÃ³rroga hubiese sido presentada dentro de los Ãºltimos cinco dÃ­as del plazo primitivo, la resoluciÃ³n respectiva deberÃ¡ ponerse en conocimiento del contribuyente dentro del plazo de cinco dÃ­as hÃ¡biles contados desde la presentaciÃ³n de la solicitud.
+
+Se hace presente que la resoluciÃ³n que accede a la solicitud formulada por el contribuyente, autorizando el uso del sistema tecnolÃ³gico de informaciÃ³n respectivo, obliga al peticionario a su implementaciÃ³n y utilizaciÃ³n, de tal forma que al tÃ©rmino del plazo indicado o su prÃ³rroga en su caso, el sistema debe estar funcionando totalmente, de acuerdo a las especificaciones indicadas en la respectiva resoluciÃ³n del Servicio.
+
+Ahora bien, en caso de denegarse la solicitud, la resoluciÃ³n deberÃ¡ expresar los motivos para ello, teniendo presente que, tratÃ¡ndose de una facultad conferida por la ley al Servicio, su ejercicio corresponde a una determinaciÃ³n entregada a su juicio exclusivo.
 
 ## 4.- INCUMPLIMIENTO DE LAS OBLIGACIONES LEGALES. INFRACCIONES Y SANCIONES.
 
-El artículo 60 ter, en su oración final, prescribe lo siguiente:
+El artÃ­culo 60 ter, en su oraciÃ³n final, prescribe lo siguiente:
 
-'El incumplimiento de la obligación de utilizar estos sistemas o impedir o entrabar la revisión de su correcto uso será sancionado de conformidad al artículo 97, número 6, de este Código.'.
+'El incumplimiento de la obligaciÃ³n de utilizar estos sistemas o impedir o entrabar la revisiÃ³n de su correcto uso serÃ¡ sancionado de conformidad al artÃ­culo 97, nÃºmero 6, de este CÃ³digo.'.
 
-Por su parte, el párrafo segundo del artículo 97, número 6°, del Código Tributario, es del siguiente tenor:
+Por su parte, el pÃ¡rrafo segundo del artÃ­culo 97, nÃºmero 6Â°, del CÃ³digo Tributario, es del siguiente tenor:
 
-"El que incumpla o entrabe la obligación de implementar y utilizar sistemas tecnológicos de información conforme al artículo 60 ter, con una multa de 10 unidades tributarias anuales a 100 unidades tributarias anuales, con un límite equivalente al 10% del capital propio tributario o al 15% del capital efectivo.'. 1
+"El que incumpla o entrabe la obligaciÃ³n de implementar y utilizar sistemas tecnolÃ³gicos de informaciÃ³n conforme al artÃ­culo 60 ter, con una multa de 10 unidades tributarias anuales a 100 unidades tributarias anuales, con un lÃ­mite equivalente al 10% del capital propio tributario o al 15% del capital efectivo.'. 1
 
-De esta manera, constituirá la conducta infraccional tipificada en el párrafo segundo del artículo 97, número 6, del Código Tributario, el incumplimiento de la obligación de implementar y utilizar los sistemas tecnológicos que el Servicio haya autorizado o haya exigido, de conformidad a la facultad que le confiere el artículo 60 ter del citado Código.
+De esta manera, constituirÃ¡ la conducta infraccional tipificada en el pÃ¡rrafo segundo del artÃ­culo 97, nÃºmero 6, del CÃ³digo Tributario, el incumplimiento de la obligaciÃ³n de implementar y utilizar los sistemas tecnolÃ³gicos que el Servicio haya autorizado o haya exigido, de conformidad a la facultad que le confiere el artÃ­culo 60 ter del citado CÃ³digo.
 
-Sobre el particular, es necesario hacer presente que este Servicio, mediante Circular N° 29, de fecha 05 de mayo de 2015, dictó las instrucciones pertinentes relativas al nuevo párrafo segundo del artículo 97, número 6°, del Código Tributario.
+Sobre el particular, es necesario hacer presente que este Servicio, mediante Circular NÂ° 29, de fecha 05 de mayo de 2015, dictÃ³ las instrucciones pertinentes relativas al nuevo pÃ¡rrafo segundo del artÃ­culo 97, nÃºmero 6Â°, del CÃ³digo Tributario.
 
-Sin perjuicio de lo anterior, debe señalarse que el procedimiento para la aplicación de las sanciones en comento corresponde a aquél establecido en el numeral 2 del artículo 165 del Código Tributario.
+Sin perjuicio de lo anterior, debe seÃ±alarse que el procedimiento para la aplicaciÃ³n de las sanciones en comento corresponde a aquÃ©l establecido en el numeral 2 del artÃ­culo 165 del CÃ³digo Tributario.
 
-1 Incorporado en el número 6 del artículo 97 del Código Tributario mediante la letra a) del numeral 25 del artículo 10 de la Ley N° 20.780.
+1 Incorporado en el nÃºmero 6 del artÃ­culo 97 del CÃ³digo Tributario mediante la letra a) del numeral 25 del artÃ­culo 10 de la Ley NÂ° 20.780.
 
-De esta manera, las correspondientes infracciones deberán ser legalmente notificadas por funcionarios del Servicio de Impuestos Internos y el giro de las mismas podrá efectuarse una vez vencido el plazo legal para reclamar de ellas, salvo que dentro de éste el infractor ejerza su derecho a presentar descargos, en cuyo caso el giro de la multa quedará suspendido hasta la resolución del reclamo. 2
+De esta manera, las correspondientes infracciones deberÃ¡n ser legalmente notificadas por funcionarios del Servicio de Impuestos Internos y el giro de las mismas podrÃ¡ efectuarse una vez vencido el plazo legal para reclamar de ellas, salvo que dentro de Ã©ste el infractor ejerza su derecho a presentar descargos, en cuyo caso el giro de la multa quedarÃ¡ suspendido hasta la resoluciÃ³n del reclamo. 2
 
 ## IV.- VIGENCIA DE LA LEY Y DE ESTAS INSTRUCCIONES.
 
-De conformidad a lo dispuesto por el Artículo decimoquinto transitorio de la Ley N° 20.780, esta modificación al Código Tributario regirá transcurrido un año desde la publicación de la ley. En consecuencia, entra en vigor el 30 de septiembre de 2015, pudiendo desde esa fecha, previa expedición por el Ministerio de Hacienda del decreto supremo previsto en el nuevo artículo 60 ter del Código Tributario, el Servicio de Impuestos Internos iniciar los procedimientos destinados a exigir o autorizar la utilización de los descritos sistemas de control tributario informático.
+De conformidad a lo dispuesto por el ArtÃ­culo decimoquinto transitorio de la Ley NÂ° 20.780, esta modificaciÃ³n al CÃ³digo Tributario regirÃ¡ transcurrido un aÃ±o desde la publicaciÃ³n de la ley. En consecuencia, entra en vigor el 30 de septiembre de 2015, pudiendo desde esa fecha, previa expediciÃ³n por el Ministerio de Hacienda del decreto supremo previsto en el nuevo artÃ­culo 60 ter del CÃ³digo Tributario, el Servicio de Impuestos Internos iniciar los procedimientos destinados a exigir o autorizar la utilizaciÃ³n de los descritos sistemas de control tributario informÃ¡tico.
 
 Saluda a Ud.,
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
-* AL BOLETÍN
+* AL BOLETÃN
 * A INTERNET
 * AL DIARIO OFICIAL EN EXTRACTO
 
-2 De conformidad al artículo 165, N° 3 del Código Tributario, esta infracción se podrá reclamar por escrito dentro del plazo de quince días contado desde la notificación de la misma, ante el competente Tribunal Tributario y Aduanero.
+2 De conformidad al artÃ­culo 165, NÂ° 3 del CÃ³digo Tributario, esta infracciÃ³n se podrÃ¡ reclamar por escrito dentro del plazo de quince dÃ­as contado desde la notificaciÃ³n de la misma, ante el competente Tribunal Tributario y Aduanero.
 
 ## JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)

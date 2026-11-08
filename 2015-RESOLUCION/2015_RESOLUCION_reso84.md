@@ -1,47 +1,46 @@
----
-type: SII Resolución
+﻿---
+type: SII ResoluciÃ³n
 title: 2015_RESOLUCION_reso84.md
-description: ESTABLECE NUEVAS FECHAS DE PAGO DEL IMPUESTO TERRITORIAL CORRESPONDIENTES A LA 3 a Y 4 a CUOTA DEL AÑO 2015, PARA LOS BIENES RAÍCES UBICADOS EN LA PROVINCIA ...
-resource: ./2015_RESOLUCION_reso84.md.docx
+description: ESTABLECE NUEVAS FECHAS DE PAGO DEL IMPUESTO TERRITORIAL CORRESPONDIENTES A LA 3 a Y 4 a CUOTA DEL AÃ‘O 2015, PARA LOS BIENES RAÃCES UBICADOS EN LA PROVINCIA ...
 tags: [SII, 2015, resolucion]
 ---
 
-ESTABLECE NUEVAS FECHAS DE PAGO DEL IMPUESTO TERRITORIAL CORRESPONDIENTES A LA 3 a Y 4 a CUOTA DEL AÑO 2015, PARA LOS BIENES RAÍCES UBICADOS EN LA PROVINCIA DE LIMARI, DE LA IV REGIÓN DE COQUIMBO.
+ESTABLECE NUEVAS FECHAS DE PAGO DEL IMPUESTO TERRITORIAL CORRESPONDIENTES A LA 3 a Y 4 a CUOTA DEL AÃ‘O 2015, PARA LOS BIENES RAÃCES UBICADOS EN LA PROVINCIA DE LIMARI, DE LA IV REGIÃ“N DE COQUIMBO.
 
 ## SANTIAGO, 15 de octubre de 2015
 
 Hoy se ha resuelto lo que sigue
 
-RESOLUCIÓN EX. SII N° \_\_\_\_84.-\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ° \_\_\_\_84.-\_\_\_/
 
 ## VISTOS:
 
-Lo dispuesto en la letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980; en el Decreto Supremo del Ministerio del Interior N° 1240, de fecha 21 de septiembre de 2015, publicado en el Diario Oficial de fecha 26 de septiembre del año en curso, que declara zona afectada por catástrofe a la provincia de Limarí, derivada de un sismo de alta intensidad que afectó gran parte del territorio nacional desde la Región de Atacama hasta la Región del Biobío; seguido de un tsunami que afectó al borde costero del país.
+Lo dispuesto en la letra b) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley NÂ°7, de Hacienda, de 1980; en el Decreto Supremo del Ministerio del Interior NÂ° 1240, de fecha 21 de septiembre de 2015, publicado en el Diario Oficial de fecha 26 de septiembre del aÃ±o en curso, que declara zona afectada por catÃ¡strofe a la provincia de LimarÃ­, derivada de un sismo de alta intensidad que afectÃ³ gran parte del territorio nacional desde la RegiÃ³n de Atacama hasta la RegiÃ³n del BiobÃ­o; seguido de un tsunami que afectÃ³ al borde costero del paÃ­s.
 
 ## CONSIDERANDO:
 
-1º Que, de acuerdo a lo dispuesto en el artículo 22 de la Ley N° 17.235, el Impuesto Territorial anual será pagado en cada año en cuatro cuotas en los meses de abril, junio, septiembre y noviembre, a menos que el Presidente de la República fije otras fechas con arreglo a la facultad que le confiere el artículo 36 del Código Tributario.
+1Âº Que, de acuerdo a lo dispuesto en el artÃ­culo 22 de la Ley NÂ° 17.235, el Impuesto Territorial anual serÃ¡ pagado en cada aÃ±o en cuatro cuotas en los meses de abril, junio, septiembre y noviembre, a menos que el Presidente de la RepÃºblica fije otras fechas con arreglo a la facultad que le confiere el artÃ­culo 36 del CÃ³digo Tributario.
 
-2º Que, el Decreto Supremo N° 1.368, de 21 de septiembre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 26 de septiembre de 2015, dispuso medidas de índole tributaria destinadas a enfrentar la situación de emergencia en la Provincia de Choapa y la comuna de Coquimbo, ambas de la IV Región de Coquimbo, como consecuencia del terremoto y posterior tsunami, ocurridos el día 16 de septiembre de 2015.
+2Âº Que, el Decreto Supremo NÂ° 1.368, de 21 de septiembre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 26 de septiembre de 2015, dispuso medidas de Ã­ndole tributaria destinadas a enfrentar la situaciÃ³n de emergencia en la Provincia de Choapa y la comuna de Coquimbo, ambas de la IV RegiÃ³n de Coquimbo, como consecuencia del terremoto y posterior tsunami, ocurridos el dÃ­a 16 de septiembre de 2015.
 
-3º Que, dicho cuerpo normativo facultó al Servicio de Impuestos Internos para prorrogar el vencimiento de las cuotas N° 3 y N° 4 del Impuesto Territorial correspondiente al año 2015, hasta el 31 de octubre y 31 de diciembre, ambas fechas del año 2015, respectivamente.
+3Âº Que, dicho cuerpo normativo facultÃ³ al Servicio de Impuestos Internos para prorrogar el vencimiento de las cuotas NÂ° 3 y NÂ° 4 del Impuesto Territorial correspondiente al aÃ±o 2015, hasta el 31 de octubre y 31 de diciembre, ambas fechas del aÃ±o 2015, respectivamente.
 
-4º Que, el Decreto Supremo N° 1.416, de 02 de octubre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 09 de octubre de 2015, dispuso extender, en los mismos términos, a la provincia de Limarí, las medidas y procedimientos de naturaleza tributaria dispuestos para la provincia de Choapa y la comuna de Coquimbo, de la IV Región de Coquimbo, por el Decreto Supremo N° 1.368, de 21 de septiembre de 2015, del Ministerio de Hacienda.
+4Âº Que, el Decreto Supremo NÂ° 1.416, de 02 de octubre de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 09 de octubre de 2015, dispuso extender, en los mismos tÃ©rminos, a la provincia de LimarÃ­, las medidas y procedimientos de naturaleza tributaria dispuestos para la provincia de Choapa y la comuna de Coquimbo, de la IV RegiÃ³n de Coquimbo, por el Decreto Supremo NÂ° 1.368, de 21 de septiembre de 2015, del Ministerio de Hacienda.
 
-## Distribución:
+## DistribuciÃ³n:
 
 * Internet
-* Boletín
+* BoletÃ­n
 * Diario Oficial (extracto)
 
 ## SE RESUELVE:
 
-1º Establécese como fecha de vencimiento de las cuotas de contribuciones N° 3, correspondiente al mes de septiembre y N° 4, correspondiente al mes de noviembre, ambas del año 2015, para los bienes raíces ubicados en la Provincia de Limarí, de la IV Región de Coquimbo, los días 31 de octubre de 2015 y 31 de diciembre de 2015, respectivamente.
+1Âº EstablÃ©cese como fecha de vencimiento de las cuotas de contribuciones NÂ° 3, correspondiente al mes de septiembre y NÂ° 4, correspondiente al mes de noviembre, ambas del aÃ±o 2015, para los bienes raÃ­ces ubicados en la Provincia de LimarÃ­, de la IV RegiÃ³n de Coquimbo, los dÃ­as 31 de octubre de 2015 y 31 de diciembre de 2015, respectivamente.
 
-2º En atención a la gravedad de los efectos de la catástrofe ocurrida el día 16 de septiembre de 2015 y a la necesidad de implementar soluciones oportunas, eficientes y eficaces, destinadas a enfrentar y superar esta situación de emergencia, la postergación de las fechas de pago señaladas precedentemente comenzará a regir desde la fecha de la presente resolución, sin esperar su total tramitación.
+2Âº En atenciÃ³n a la gravedad de los efectos de la catÃ¡strofe ocurrida el dÃ­a 16 de septiembre de 2015 y a la necesidad de implementar soluciones oportunas, eficientes y eficaces, destinadas a enfrentar y superar esta situaciÃ³n de emergencia, la postergaciÃ³n de las fechas de pago seÃ±aladas precedentemente comenzarÃ¡ a regir desde la fecha de la presente resoluciÃ³n, sin esperar su total tramitaciÃ³n.
 
-## ANÓTESE, COMUNÍQUESE, PUBLÍQUESE EN EL DIARIO OFICIAL EN EXTRACTO Y NOTIFÍQUESE A LA TESORERÍA GENERAL DE LA REPÚBLICA.
+## ANÃ“TESE, COMUNÃQUESE, PUBLÃQUESE EN EL DIARIO OFICIAL EN EXTRACTO Y NOTIFÃQUESE A LA TESORERÃA GENERAL DE LA REPÃšBLICA.
 
 ## (Fdo.) JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.

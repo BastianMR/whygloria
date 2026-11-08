@@ -1,58 +1,57 @@
----
-type: SII Resolución
-title: Resolución N° 204 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
-resource: ./2014_RESOLUCION_reso118.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 204 (2014)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 
-INCORPORA A LOS DONATARIOS DE DONACIONES CULTURALES DEL ARTÍCULO 8° DE LA LEY N° 18.985, SOBRE DONACIONES CON FINES CULTURALES, LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL N° 1828.
+INCORPORA A LOS DONATARIOS DE DONACIONES CULTURALES DEL ARTÃCULO 8Â° DE LA LEY NÂ° 18.985, SOBRE DONACIONES CON FINES CULTURALES, LA OBLIGACIÃ“N DE PRESENTAR DECLARACIÃ“N JURADA ANUAL NÂ° 1828.
 
 SANTIAGO, 12 de diciembre de 2014.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EX. SII N° \_118.-\_\_/
+RESOLUCIÃ“N EX. SII NÂ° \_118.-\_\_/
 
 VISTOS:
 
-Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso octavo del Código Tributario; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; lo dispuesto en el artículo 8° de la Ley N° 18.985, sustituido por la Ley N° 20.675, publicada en el Diario Oficial el día 05 de junio de 2013; lo dispuesto en Resolución Exenta SII N° 204, del 24 de diciembre de 2009; Resolución Exenta SII N° 110, del 15 de diciembre de 2004; y Resolución Exenta SII N° 106, del 24 de diciembre de 2013; y
+Lo dispuesto en los artÃ­culos 6Â°, letra A), NÂ° 1 y 60 inciso octavo del CÃ³digo Tributario; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, de 1980; lo dispuesto en el artÃ­culo 8Â° de la Ley NÂ° 18.985, sustituido por la Ley NÂ° 20.675, publicada en el Diario Oficial el dÃ­a 05 de junio de 2013; lo dispuesto en ResoluciÃ³n Exenta SII NÂ° 204, del 24 de diciembre de 2009; ResoluciÃ³n Exenta SII NÂ° 110, del 15 de diciembre de 2004; y ResoluciÃ³n Exenta SII NÂ° 106, del 24 de diciembre de 2013; y
 
 ## CONSIDERANDO:
 
-1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente, y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las franquicias y beneficios tributarios que la ley establece.
+1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente, y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicaciÃ³n de las franquicias y beneficios tributarios que la ley establece.
 
-2° Que, la Ley N° 20.675, del 05 de junio de 2013, modificó la Ley sobre Donaciones con Fines Culturales contenida en el artículo 8° de la Ley N° 18.985.
+2Â° Que, la Ley NÂ° 20.675, del 05 de junio de 2013, modificÃ³ la Ley sobre Donaciones con Fines Culturales contenida en el artÃ­culo 8Â° de la Ley NÂ° 18.985.
 
-3° Que, el inciso 3° del artículo N° 11 de la citada disposición legal, establece que: 'Los beneficiarios deberán elaborar anualmente un informe del estado de los ingresos provenientes de las donaciones y del uso detallado de dichos recursos, de acuerdo a los contenidos que establezca el Servicio de Impuestos Internos, el cual deberá serle remitido a dicho Servicio en la forma y plazo que éste señale mediante resolución'.
+3Â° Que, el inciso 3Â° del artÃ­culo NÂ° 11 de la citada disposiciÃ³n legal, establece que: 'Los beneficiarios deberÃ¡n elaborar anualmente un informe del estado de los ingresos provenientes de las donaciones y del uso detallado de dichos recursos, de acuerdo a los contenidos que establezca el Servicio de Impuestos Internos, el cual deberÃ¡ serle remitido a dicho Servicio en la forma y plazo que Ã©ste seÃ±ale mediante resoluciÃ³n'.
 
-4° Que, mediante Resolución Exenta SII N° 204, del 24 de diciembre de 2009, se estableció la obligación de presentar la Declaración Jurada Formulario N° 1828, Sobre Estado de Ingresos y Usos de Donaciones Recibidas, conforme a las Leyes N°s 19.712 y 19.885, de Donaciones con Fines Deportivos y Donaciones con Fines Sociales, respectivamente .
+4Â° Que, mediante ResoluciÃ³n Exenta SII NÂ° 204, del 24 de diciembre de 2009, se estableciÃ³ la obligaciÃ³n de presentar la DeclaraciÃ³n Jurada Formulario NÂ° 1828, Sobre Estado de Ingresos y Usos de Donaciones Recibidas, conforme a las Leyes NÂ°s 19.712 y 19.885, de Donaciones con Fines Deportivos y Donaciones con Fines Sociales, respectivamente .
 
-5° Que, este Servicio ha estimado necesario incorporar la obligación de presentar el Declaración Jurada Formulario N° 1828, sobre Estado de Ingresos y Usos de donaciones recibidas, establecida mediante Resolución Exenta SII N° 204, del 24 de diciembre de 2009, a los donatarios acogidos a la Ley sobre Donaciones con Fines Culturales.
+5Â° Que, este Servicio ha estimado necesario incorporar la obligaciÃ³n de presentar el DeclaraciÃ³n Jurada Formulario NÂ° 1828, sobre Estado de Ingresos y Usos de donaciones recibidas, establecida mediante ResoluciÃ³n Exenta SII NÂ° 204, del 24 de diciembre de 2009, a los donatarios acogidos a la Ley sobre Donaciones con Fines Culturales.
 
-6° Que, por otra parte, conforme a instrucciones contenidas en Resolución Exenta SII N° 110, del 15 de diciembre de 2004, los mencionados donatarios han entregado anualmente información relativa a las donaciones recibidas durante el año calendario anterior, mediante Declaración Jurada Formulario N° 1832.
+6Â° Que, por otra parte, conforme a instrucciones contenidas en ResoluciÃ³n Exenta SII NÂ° 110, del 15 de diciembre de 2004, los mencionados donatarios han entregado anualmente informaciÃ³n relativa a las donaciones recibidas durante el aÃ±o calendario anterior, mediante DeclaraciÃ³n Jurada Formulario NÂ° 1832.
 
-7° Que, conforme a los términos del artículo 8° de la Ley N° 18.985, de acuerdo a su texto vigente hasta el 31 de diciembre de 2013, en ningún caso un proyecto podrá considerar un lapso superior a dos años, contados desde la respectiva aprobación del Comité.
+7Â° Que, conforme a los tÃ©rminos del artÃ­culo 8Â° de la Ley NÂ° 18.985, de acuerdo a su texto vigente hasta el 31 de diciembre de 2013, en ningÃºn caso un proyecto podrÃ¡ considerar un lapso superior a dos aÃ±os, contados desde la respectiva aprobaciÃ³n del ComitÃ©.
 
 ## SE RESUELVE:
 
-1° Los beneficiarios de las donaciones establecidas en el artículo 8° de la Ley N° 18.985, sobre Donaciones con Fines Culturales, con proyectos aprobados por el Comité Calificador de Donaciones Privadas a partir del 01 de enero de 2014, estarán obligados a presentar la Declaración Jurada Anual Formulario N°1828, establecida mediante Resolución Exenta SII N° 204, del 24 de diciembre de 2009.
+1Â° Los beneficiarios de las donaciones establecidas en el artÃ­culo 8Â° de la Ley NÂ° 18.985, sobre Donaciones con Fines Culturales, con proyectos aprobados por el ComitÃ© Calificador de Donaciones Privadas a partir del 01 de enero de 2014, estarÃ¡n obligados a presentar la DeclaraciÃ³n Jurada Anual Formulario NÂ°1828, establecida mediante ResoluciÃ³n Exenta SII NÂ° 204, del 24 de diciembre de 2009.
 
-2° Respecto de los beneficiarios con proyectos aprobados por el Comité Calificador de Donaciones Privadas hasta el 31 de diciembre de 2013, mantendrán su obligación de presentar la Declaración Jurada Formulario N° 1832, establecida mediante Resolución Exenta SII N° 110, del 15 de diciembre de 2004. Dicha obligación se mantendrá vigente hasta la duración del respectivo proyecto.
+2Â° Respecto de los beneficiarios con proyectos aprobados por el ComitÃ© Calificador de Donaciones Privadas hasta el 31 de diciembre de 2013, mantendrÃ¡n su obligaciÃ³n de presentar la DeclaraciÃ³n Jurada Formulario NÂ° 1832, establecida mediante ResoluciÃ³n Exenta SII NÂ° 110, del 15 de diciembre de 2004. Dicha obligaciÃ³n se mantendrÃ¡ vigente hasta la duraciÃ³n del respectivo proyecto.
 
-3° La presente Resolución regirá a partir del Año Tributario 2015, respecto de la información correspondiente al año calendario 2014 y siguientes.
+3Â° La presente ResoluciÃ³n regirÃ¡ a partir del AÃ±o Tributario 2015, respecto de la informaciÃ³n correspondiente al aÃ±o calendario 2014 y siguientes.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
 NSS/CSM/PSM/ess.
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
-* AL BOLETÍN
+* AL BOLETÃN
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO
 

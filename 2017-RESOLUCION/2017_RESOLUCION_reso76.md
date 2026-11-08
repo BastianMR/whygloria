@@ -1,83 +1,82 @@
----
-type: SII Resolución
-title: Resolución N° 76 (2017)
-description: CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES
-resource: ./2017_RESOLUCION_reso76.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 76 (2017)
+description: CRITERIOS DE SEGMENTACIÃ“N DE CONTRIBUYENTES
 tags: [SII, 2017, resolucion]
 ---
 
-## CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES
+## CRITERIOS DE SEGMENTACIÃ“N DE CONTRIBUYENTES
 
-Santiago, 23 Agosto 2017 Hoy se ha resuelto lo que sigue RESOLUCIÓN EX. SII N°76
+Santiago, 23 Agosto 2017 Hoy se ha resuelto lo que sigue RESOLUCIÃ“N EX. SII NÂ°76
 
-VISTOS : Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 del Ministerio de Hacienda, de 1980; lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y
+VISTOS : Lo establecido en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7 del Ministerio de Hacienda, de 1980; lo dispuesto en el artÃ­culo 6Â° letra A NÂ° 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y
 
 ## CONSIDERANDO :
 
-1° Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
+1Â° Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente.
 
-2° Que, a fin de cumplir con el objetivo señalado en el N° 1 precedente, corresponde a este Director planificar las labores del Servicio y desarrollar políticas y programas que promuevan la más eficiente administración y fiscalización de los impuestos.
+2Â° Que, a fin de cumplir con el objetivo seÃ±alado en el NÂ° 1 precedente, corresponde a este Director planificar las labores del Servicio y desarrollar polÃ­ticas y programas que promuevan la mÃ¡s eficiente administraciÃ³n y fiscalizaciÃ³n de los impuestos.
 
-3° Que, es misión de este Servicio procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitación del cumplimiento.
+3Â° Que, es misiÃ³n de este Servicio procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitaciÃ³n del cumplimiento.
 
-4° Que, con la finalidad de obtener un conocimiento más exhaustivo de los contribuyentes, este Servicio ha definido sus características sectoriales y perfil de riesgo global, utilizando para ello criterios propiamente tributarios.
+4Â° Que, con la finalidad de obtener un conocimiento mÃ¡s exhaustivo de los contribuyentes, este Servicio ha definido sus caracterÃ­sticas sectoriales y perfil de riesgo global, utilizando para ello criterios propiamente tributarios.
 
-5° Que, para clasificar a los contribuyentes, este Servicio atiende a su naturaleza jurídica (persona natural o jurídica), vigencia, categoría tributaria, patrimonio, capital, montos de compras, ingresos, resultado anual y actividades económicas.
+5Â° Que, para clasificar a los contribuyentes, este Servicio atiende a su naturaleza jurÃ­dica (persona natural o jurÃ­dica), vigencia, categorÃ­a tributaria, patrimonio, capital, montos de compras, ingresos, resultado anual y actividades econÃ³micas.
 
 ## SE RESUELVE :
 
-1° En base a los criterios señalados en el considerando 5° de esta Resolución, los segmentos en que se clasifican los contribuyentes son: Persona, Micro, Pequeña, Mediana y Gran Empresa.
+1Â° En base a los criterios seÃ±alados en el considerando 5Â° de esta ResoluciÃ³n, los segmentos en que se clasifican los contribuyentes son: Persona, Micro, PequeÃ±a, Mediana y Gran Empresa.
 
-2° Cada contribuyente pertenecerá a un solo segmento, que se determinará anualmente en el mes de marzo de cada año, en base a la información de los dos años comerciales inmediatamente anteriores, bastando que cumpla con una de las condiciones para ser clasificado en un segmento en particular. En el caso de los contribuyentes que inician actividades, su segmento será definido al momento de realizar el trámite de inicio de actividades, en base a su capital inicial, incorporando dicha información en la página web del Servicio, en la sección MiSii.
+2Â° Cada contribuyente pertenecerÃ¡ a un solo segmento, que se determinarÃ¡ anualmente en el mes de marzo de cada aÃ±o, en base a la informaciÃ³n de los dos aÃ±os comerciales inmediatamente anteriores, bastando que cumpla con una de las condiciones para ser clasificado en un segmento en particular. En el caso de los contribuyentes que inician actividades, su segmento serÃ¡ definido al momento de realizar el trÃ¡mite de inicio de actividades, en base a su capital inicial, incorporando dicha informaciÃ³n en la pÃ¡gina web del Servicio, en la secciÃ³n MiSii.
 
-## 3° Se clasifican en el segmento Persona:
+## 3Â° Se clasifican en el segmento Persona:
 
-* Contribuyentes personas naturales que tributen en Segunda Categoría o que no posean actividades económicas registradas en el Servicio de Impuestos Internos.
-* Contribuyentes personas naturales que tributen en Primera Categoría, que realicen cambio de giro a actividades de Segunda Categoría.
-* Contribuyentes personas naturales que tributen en Primera Categoría, que realicen Término de Giro.
+* Contribuyentes personas naturales que tributen en Segunda CategorÃ­a o que no posean actividades econÃ³micas registradas en el Servicio de Impuestos Internos.
+* Contribuyentes personas naturales que tributen en Primera CategorÃ­a, que realicen cambio de giro a actividades de Segunda CategorÃ­a.
+* Contribuyentes personas naturales que tributen en Primera CategorÃ­a, que realicen TÃ©rmino de Giro.
 
-## 4° Se clasifican en el segmento Micro Empresa:
+## 4Â° Se clasifican en el segmento Micro Empresa:
 
-* Contribuyentes que tributen en Primera Categoría (excluyendo a personas naturales con Término de Giro) o en Segunda Categoría (excluyendo a personas naturales) con ingresos totales anuales menores a 1.400 Unidades Tributarias Mensuales (UTM).
-* Contribuyentes (excluyendo a personas naturales) que al realizar término de giro estén clasificados en el segmento Micro Empresa.
-* Contribuyentes que realicen inicio de actividades en Primera Categoría o en Segunda Categoría (excluyendo a personas naturales) que declaren capital inicial menor a 1.350 UTM.
-* Contribuyentes que tengan sólo rentas de Segunda Categoría, que realicen una ampliación o cambio de giro a una actividad clasificada en Primera Categoría y declaren capital inicial menor a 1.350 UTM.
+* Contribuyentes que tributen en Primera CategorÃ­a (excluyendo a personas naturales con TÃ©rmino de Giro) o en Segunda CategorÃ­a (excluyendo a personas naturales) con ingresos totales anuales menores a 1.400 Unidades Tributarias Mensuales (UTM).
+* Contribuyentes (excluyendo a personas naturales) que al realizar tÃ©rmino de giro estÃ©n clasificados en el segmento Micro Empresa.
+* Contribuyentes que realicen inicio de actividades en Primera CategorÃ­a o en Segunda CategorÃ­a (excluyendo a personas naturales) que declaren capital inicial menor a 1.350 UTM.
+* Contribuyentes que tengan sÃ³lo rentas de Segunda CategorÃ­a, que realicen una ampliaciÃ³n o cambio de giro a una actividad clasificada en Primera CategorÃ­a y declaren capital inicial menor a 1.350 UTM.
 
-## 5° Se clasifican en el segmento Pequeña Empresa:
+## 5Â° Se clasifican en el segmento PequeÃ±a Empresa:
 
-* Contribuyentes que tributen en Primera Categoría (excluyendo a personas naturales con Término de Giro) o en Segunda Categoría (excluyendo a personas naturales) con ingresos totales anuales mayores o iguales a 1.400 UTM y menores a 15.000 UTM, en alguno de los dos últimos años.
-* Contribuyentes (excluyendo a personas naturales) que al realizar término de giro estén clasificados en el segmento Pequeña Empresa.
-* Contribuyentes que realicen inicio de actividades en Primera Categoría o en Segunda Categoría (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 1.350 UTM y menor a 75.000 UTM.
-* Contribuyentes que tengan sólo rentas de Segunda Categoría, que realicen una ampliación o cambio de giro a una actividad clasificada en Primera Categoría y declaren capital inicial mayor o igual a 1.350 UTM y menor a 75.000 UTM.
+* Contribuyentes que tributen en Primera CategorÃ­a (excluyendo a personas naturales con TÃ©rmino de Giro) o en Segunda CategorÃ­a (excluyendo a personas naturales) con ingresos totales anuales mayores o iguales a 1.400 UTM y menores a 15.000 UTM, en alguno de los dos Ãºltimos aÃ±os.
+* Contribuyentes (excluyendo a personas naturales) que al realizar tÃ©rmino de giro estÃ©n clasificados en el segmento PequeÃ±a Empresa.
+* Contribuyentes que realicen inicio de actividades en Primera CategorÃ­a o en Segunda CategorÃ­a (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 1.350 UTM y menor a 75.000 UTM.
+* Contribuyentes que tengan sÃ³lo rentas de Segunda CategorÃ­a, que realicen una ampliaciÃ³n o cambio de giro a una actividad clasificada en Primera CategorÃ­a y declaren capital inicial mayor o igual a 1.350 UTM y menor a 75.000 UTM.
 
-## 6° Se clasifican en el segmento Mediana Empresa:
+## 6Â° Se clasifican en el segmento Mediana Empresa:
 
-* Contribuyentes que tributen en Primera Categoría (excluyendo a personas naturales con Término de Giro) o en Segunda Categoría (excluyendo a personas naturales) con ingresos anuales totales mayores o iguales a 15.000 UTM y menores a 60.000 UTM o capital propio tributario mayor o igual a 75.000 UTM y menor a 300.000 UTM o compras totales anuales mayores o iguales a 15.000 UTM y menores a 60.000 UTM, en alguno de los dos últimos años comerciales.
-* Contribuyentes (excluyendo a personas naturales) que al realizar término de giro estén clasificados en el segmento Mediana Empresa.
-* Contribuyentes que realicen inicio de actividades en Primera Categoría o en Segunda Categoría (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 75.000 UTM y menor a 300.000 UTM.
-* Contribuyentes que tengan sólo rentas de Segunda Categoría, que realicen una ampliación o cambio de giro a una actividad clasificada en Primera Categoría y declaren capital inicial mayor o igual a 75.000 UTM y menor a 300.000 UTM.
+* Contribuyentes que tributen en Primera CategorÃ­a (excluyendo a personas naturales con TÃ©rmino de Giro) o en Segunda CategorÃ­a (excluyendo a personas naturales) con ingresos anuales totales mayores o iguales a 15.000 UTM y menores a 60.000 UTM o capital propio tributario mayor o igual a 75.000 UTM y menor a 300.000 UTM o compras totales anuales mayores o iguales a 15.000 UTM y menores a 60.000 UTM, en alguno de los dos Ãºltimos aÃ±os comerciales.
+* Contribuyentes (excluyendo a personas naturales) que al realizar tÃ©rmino de giro estÃ©n clasificados en el segmento Mediana Empresa.
+* Contribuyentes que realicen inicio de actividades en Primera CategorÃ­a o en Segunda CategorÃ­a (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 75.000 UTM y menor a 300.000 UTM.
+* Contribuyentes que tengan sÃ³lo rentas de Segunda CategorÃ­a, que realicen una ampliaciÃ³n o cambio de giro a una actividad clasificada en Primera CategorÃ­a y declaren capital inicial mayor o igual a 75.000 UTM y menor a 300.000 UTM.
 
-## 7° Se clasifican en el segmento Gran Empresa:
+## 7Â° Se clasifican en el segmento Gran Empresa:
 
-* Contribuyentes que tributen en Primera Categoría (excluyendo a personas naturales con Término de Giro) o en Segunda Categoría (excluyendo a personas naturales) con ingresos anuales totales mayores o iguales a 60.000 UTM o capital propio tributario mayor o igual a 300.000 UTM o compras mayores o iguales a 60.000 UTM, en alguno de los dos últimos años comerciales.
-* Contribuyentes incluidos en la Nómina de Grandes Contribuyentes, publicada por el Servicio de Impuestos Internos al 31 de diciembre del año comercial anterior.
-* Sociedades Extranjeras, Organismos Internacionales o Sociedades Plataforma del Artículo 41 D de la Ley sobre Impuesto a la Renta.
-* Contribuyentes (excluyendo a personas naturales) que al realizar término de giro, estén clasificados en el segmento Gran Empresa.
-* Contribuyentes que realicen inicio de actividades en Primera Categoría o en Segunda Categoría (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 300.000 UTM.
-* Contribuyentes que tengan sólo rentas de Segunda Categoría, que realicen una ampliación o cambio de giro a una actividad clasificada en Primera Categoría y declaren capital inicial mayor o igual a 300.000 UTM.
+* Contribuyentes que tributen en Primera CategorÃ­a (excluyendo a personas naturales con TÃ©rmino de Giro) o en Segunda CategorÃ­a (excluyendo a personas naturales) con ingresos anuales totales mayores o iguales a 60.000 UTM o capital propio tributario mayor o igual a 300.000 UTM o compras mayores o iguales a 60.000 UTM, en alguno de los dos Ãºltimos aÃ±os comerciales.
+* Contribuyentes incluidos en la NÃ³mina de Grandes Contribuyentes, publicada por el Servicio de Impuestos Internos al 31 de diciembre del aÃ±o comercial anterior.
+* Sociedades Extranjeras, Organismos Internacionales o Sociedades Plataforma del ArtÃ­culo 41 D de la Ley sobre Impuesto a la Renta.
+* Contribuyentes (excluyendo a personas naturales) que al realizar tÃ©rmino de giro, estÃ©n clasificados en el segmento Gran Empresa.
+* Contribuyentes que realicen inicio de actividades en Primera CategorÃ­a o en Segunda CategorÃ­a (excluyendo a personas naturales) que declaren capital inicial mayor o igual a 300.000 UTM.
+* Contribuyentes que tengan sÃ³lo rentas de Segunda CategorÃ­a, que realicen una ampliaciÃ³n o cambio de giro a una actividad clasificada en Primera CategorÃ­a y declaren capital inicial mayor o igual a 300.000 UTM.
 
-8° La información referente al segmento en que quede clasificado cada contribuyente se actualizará en la página web de este Servicio, en la sección MiSii, a contar del día 1 de abril de cada año, o al día hábil siguiente si este fuere feriado o festivo.
+8Â° La informaciÃ³n referente al segmento en que quede clasificado cada contribuyente se actualizarÃ¡ en la pÃ¡gina web de este Servicio, en la secciÃ³n MiSii, a contar del dÃ­a 1 de abril de cada aÃ±o, o al dÃ­a hÃ¡bil siguiente si este fuere feriado o festivo.
 
-9° La presente Resolución comenzará a regir desde su publicación en extracto en el Diario Oficial.
+9Â° La presente ResoluciÃ³n comenzarÃ¡ a regir desde su publicaciÃ³n en extracto en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a usted para su conocimiento y demás fines.
+Lo que transcribo a usted para su conocimiento y demÃ¡s fines.
 
 CSM / CGG / PAF / OEG / dvf
 
-Distribución: - Internet - Boletín
+DistribuciÃ³n: - Internet - BoletÃ­n
 
 * Diario Oficial (en extracto)

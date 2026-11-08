@@ -1,36 +1,35 @@
----
-type: SII Resolución
+﻿---
+type: SII ResoluciÃ³n
 title: 2014_RESOLUCION_reso38.md
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
-resource: ./2014_RESOLUCION_reso38.md.docx
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A CONTRIBUYENTES QUE SEÃ‘ALAN.
 
 SANTIAGO, 16 de abril de 2014.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N° \_\_\_\_\_38.-\_\_\_\_\_\_\_/
+RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_38.-\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N°830, de 1974; en la Res. Ex. SII N° 150, de diciembre de 2005; y,
+VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ°830, de 1974; en la Res. Ex. SII NÂ° 150, de diciembre de 2005; y,
 
 ## CONSIDERANDO:
 
-1° Que, en la Res. Ex. SII N° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+1Â° Que, en la Res. Ex. SII NÂ° 121, del 7 de Octubre del 2008, se ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-2° Que, los contribuyentes listados en el Resolutivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica.
+2Â° Que, los contribuyentes listados en el Resolutivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-3° Que, los contribuyentes listados en el Resolutivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+3Â° Que, los contribuyentes listados en el Resolutivo primero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-Primero: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+Primero: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
 
-| **- FUNDACIÓN TELETÓN** | **71.238.300-3** |
+| **- FUNDACIÃ“N TELETÃ“N** | **71.238.300-3** |
 | --- | --- |
 | - GARMENDIA MACUS S.A. | 96.889.950-3 |
 | - JOHN DEERE WATER LTDA. | 96.913.660-0 |
@@ -39,9 +38,9 @@ Primero: Autorízase a proceder conforme al modelo de operación de Contabilidad
 | - SACYR CHILE S.A. | 96.786.880-9 |
 | - SACYR CHILE SC S.A. | 76.239.082-5 |
 | - SACYR VALORIZA CHILE S.A. | 76.203.976-1 |
-| - SOCIEDAD PRO AYUDA DEL NIÑO LISIADO. | 81.897.500-7 |
+| - SOCIEDAD PRO AYUDA DEL NIÃ‘O LISIADO. | 81.897.500-7 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA., RUT 76.029.564-7, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA., RUT 76.029.564-7, a los siguientes contribuyentes:
 
 | **- ADMINISTRACION Y SERVICIOS LAS NIEVES LTDA.** | **77.541.590-8** |
 | --- | --- |
@@ -51,20 +50,20 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - INALEN S.A. | 96.876.690-2 |
 | - PROVERDE S.A. | 96.885.620-0 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de EMPRESAS DAVIS S.A., RUT 96.773.930-8, al siguiente contribuyente:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de EMPRESAS DAVIS S.A., RUT 96.773.930-8, al siguiente contribuyente:
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de INGENIERIA DE SOFTWARE LTDA., RUT 85.928.600-3, al siguiente contribuyente:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de INGENIERIA DE SOFTWARE LTDA., RUT 85.928.600-3, al siguiente contribuyente:
 
 ## - UNIVERSIDAD DE PLAYA ANCHA DE CIENCIAS DE LA EDUCACION 70.754.700-6
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de SOUTH CONSULTING SIGNATURE S A., RUT 77.586.860-0, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE S A., RUT 77.586.860-0, a los siguientes contribuyentes:
 
 | **- LABORATORIOS EUROMED CHILE S.A.** | **79.802.770-0** |
 | --- | --- |
 | - R Y Q INGENIERIA S.A. | 84.865.000-5 |
 | - SKF CHILENA SAIC. | 93.779.000-7 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
 
 | **- ADMINISTRADORA CORIOLIS LTDA.** | **76.203.810-2** |
 | --- | --- |
@@ -81,7 +80,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - EUROPERFILES CONCEPCION S.A. | 77.517.060-3 |
 | - EUROPERFILES OSORNO LTDA. | 76.796.560-5 |
 | - EUROPERFILES SANTIAGO S.A. | 76.066.593-2 |
-| - EUROPERFILES VIÑA S.A. | 76.036.124-0 |
+| - EUROPERFILES VIÃ‘A S.A. | 76.036.124-0 |
 | - GESTORA DE PATRIMONIOS S.A. | 96.767.450-8 |
 | - GESTORA HOTELERA SPA. | 76.145.416-1 |
 | - HISPANO CHILENA DE INVERSIONES S.A. | 96.601.220-K |
@@ -116,7 +115,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - VENTEKO MONTAJES S.A. |  |
 |  | 76.060.394-5 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2014, a través del endoso de CONSULTORA TAX OFFICE LTDA., RUT 76.168.763-8, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2014, a travÃ©s del endoso de CONSULTORA TAX OFFICE LTDA., RUT 76.168.763-8, a los siguientes contribuyentes:
 
 * MAESTRA SALAS SPA.
 * MAESTRA QUILPUE UNO SPA.
@@ -130,17 +129,17 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 
 Segundo:
 
-Los contribuyentes autorizados deberán cumplir lo establecido en la Res. Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
+Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la Res. Ex. SII NÂ° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-Tercero: Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2014 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Res. Ex. SII N° 150, de Diciembre de 2005.
+Tercero: AutorÃ­zase ademÃ¡s a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2014 en el formato digital establecido por el Servicio, para lo cual deberÃ¡ cumplir con lo establecido en el resolutivo segundo de la Res. Ex. SII NÂ° 150, de Diciembre de 2005.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
-## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
+## VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## RPA/CPG/oba Distribución:
+## RPA/CPG/oba DistribuciÃ³n:
 
 * Internet
-* Boletín SII
+* BoletÃ­n SII

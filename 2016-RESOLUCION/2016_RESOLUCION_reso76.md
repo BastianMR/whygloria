@@ -1,109 +1,108 @@
----
-type: SII Resolución
-title: Resolución N° 1414 (2016)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
-resource: ./2016_RESOLUCION_reso76.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 1414 (2016)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 tags: [SII, 2016, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 
-MATERIA: AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE PUENTE ALTO SR. GONZALO ALEJANDRO MARTÍN IGLESIAS, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA.
+MATERIA: AUTORIZA AL CONSERVADOR DE BIENES RAÃCES DE PUENTE ALTO SR. GONZALO ALEJANDRO MARTÃN IGLESIAS, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÃ“NICAS, EN LA FORMA QUE INDICA.
 
 Santiago, 09 de agosto de 2016.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EX. SII N°\_\_\_\_\_76.-\_\_\_\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ°\_\_\_\_\_76.-\_\_\_\_\_\_/
 
 VISTOS:
 
-Lo dispuesto en el artículo 6° letra A) N°1 y en los incisos 3°al 6° del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; las Resoluciones Exentas del SII N° 1414, de 27.10.1978 y N° 83, de 30.08.2004.
+Lo dispuesto en el artÃ­culo 6Â° letra A) NÂ°1 y en los incisos 3Â°al 6Â° del artÃ­culo 88, del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; las Resoluciones Exentas del SII NÂ° 1414, de 27.10.1978 y NÂ° 83, de 30.08.2004.
 
-La presentación del contribuyente Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT N° 4.661.501-8, Conservador de Bienes Raíces de Puente Alto; y
+La presentaciÃ³n del contribuyente Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT NÂ° 4.661.501-8, Conservador de Bienes RaÃ­ces de Puente Alto; y
 
 ## CONSIDERANDO:
 
-1° Que, los ingresos obtenidos por los Conservadores de Bienes Raíces se encuentran afectos al Impuesto Global Complementario o Adicional, según corresponde, según lo dispuesto en el N° 2 del Art. 42° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974, y por tanto, de conformidad con lo instruído en la Resolución Exenta N° 1414, de 1978, sometidos a obligación de emitir boletas por honorarios profesionales.
+1Â° Que, los ingresos obtenidos por los Conservadores de Bienes RaÃ­ces se encuentran afectos al Impuesto Global Complementario o Adicional, segÃºn corresponde, segÃºn lo dispuesto en el NÂ° 2 del Art. 42Â° de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824, de 1974, y por tanto, de conformidad con lo instruÃ­do en la ResoluciÃ³n Exenta NÂ° 1414, de 1978, sometidos a obligaciÃ³n de emitir boletas por honorarios profesionales.
 
-2° Que, mediante la Resolución Ex. del SII N° 83, de 30.08.2004, este Servicio estableció instrucciones sobre la emisión y uso de Boletas de Honorarios Electrónicas, señalando al mismo tiempo que, a través de su Oficina Virtual en Internet ([<u>www.sii.cl</u>](http://www.sii.cl)) mantendrá permanentemente a disposición de los contribuyentes, una aplicación computacional para emitir estos documentos y realizar otras funciones afines a dicha emisión.
+2Â° Que, mediante la ResoluciÃ³n Ex. del SII NÂ° 83, de 30.08.2004, este Servicio estableciÃ³ instrucciones sobre la emisiÃ³n y uso de Boletas de Honorarios ElectrÃ³nicas, seÃ±alando al mismo tiempo que, a travÃ©s de su Oficina Virtual en Internet ([<u>www.sii.cl</u>](http://www.sii.cl)) mantendrÃ¡ permanentemente a disposiciÃ³n de los contribuyentes, una aplicaciÃ³n computacional para emitir estos documentos y realizar otras funciones afines a dicha emisiÃ³n.
 
-* 3° Que, de acuerdo con el inciso 2° del artículo 56°, del D.L. N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, el Servicio de Impuestos Internos podrá autorizar el uso de boletas y otros documentos tributarios que no reúnan los requisitos exigidos por la Ley y el Reglamento, y que a su juicio resguarden debidamente el interés fiscal.
-* 4° Que, por la cantidad de operaciones que efectúa el Conservador de Bienes Raíces de Puente Alto con sus clientes y público en general, por la seguridad y resguardo del interés fiscal asociado a la emisión de las Boletas de Honorarios Electrónicas, y de acuerdo a la normativa aludida en los considerados precedentes, resulta pertinente establecer normas que regulen la forma particular de emisión de dichos documentos electrónicos.
+* 3Â° Que, de acuerdo con el inciso 2Â° del artÃ­culo 56Â°, del D.L. NÂ° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, el Servicio de Impuestos Internos podrÃ¡ autorizar el uso de boletas y otros documentos tributarios que no reÃºnan los requisitos exigidos por la Ley y el Reglamento, y que a su juicio resguarden debidamente el interÃ©s fiscal.
+* 4Â° Que, por la cantidad de operaciones que efectÃºa el Conservador de Bienes RaÃ­ces de Puente Alto con sus clientes y pÃºblico en general, por la seguridad y resguardo del interÃ©s fiscal asociado a la emisiÃ³n de las Boletas de Honorarios ElectrÃ³nicas, y de acuerdo a la normativa aludida en los considerados precedentes, resulta pertinente establecer normas que regulen la forma particular de emisiÃ³n de dichos documentos electrÃ³nicos.
 
-5° Que, el contribuyente Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT N° 4.661.501-8, Conservador de Bienes Raíces de Puente Alto, se sometió a un proceso de certificación voluntario ante este Servicio, respecto de la utilización de un sistema propio de emisión de Boletas de Honorarios Electrónicas, el cual fue satisfactoriamente aprobado, en virtud de cumplir todas las formalidades y exigencias técnicas solicitadas.
+5Â° Que, el contribuyente Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT NÂ° 4.661.501-8, Conservador de Bienes RaÃ­ces de Puente Alto, se sometiÃ³ a un proceso de certificaciÃ³n voluntario ante este Servicio, respecto de la utilizaciÃ³n de un sistema propio de emisiÃ³n de Boletas de Honorarios ElectrÃ³nicas, el cual fue satisfactoriamente aprobado, en virtud de cumplir todas las formalidades y exigencias tÃ©cnicas solicitadas.
 
 ## SE RESUELVE:
 
-1° Autorízase al Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT N° 4.661.501-8, Conservador de Bienes Raíces de Puente Alto, en adelante y para efectos de la presente Resolución 'el Conservador', para emitir Boletas de Honorarios Electrónicas, en adelante 'BHE', de acuerdo a lo establecido en la Resolución Ex. SII N° 83, de
+1Â° AutorÃ­zase al Sr. GONZALO ALEJANDRO MARTIN IGLESIAS, RUT NÂ° 4.661.501-8, Conservador de Bienes RaÃ­ces de Puente Alto, en adelante y para efectos de la presente ResoluciÃ³n 'el Conservador', para emitir Boletas de Honorarios ElectrÃ³nicas, en adelante 'BHE', de acuerdo a lo establecido en la ResoluciÃ³n Ex. SII NÂ° 83, de
 
-30.08.2004, por los servicios prestados a sus clientes y público en general, utilizando una plataforma propia de generación y emisión de dicho documento.
+30.08.2004, por los servicios prestados a sus clientes y pÃºblico en general, utilizando una plataforma propia de generaciÃ³n y emisiÃ³n de dicho documento.
 
-2° De conformidad a lo señalado en el resolutivo 1° anterior, el Conservador deberá cumplir con las siguientes obligaciones respecto del procedimiento de emisión de BHE:
+2Â° De conformidad a lo seÃ±alado en el resolutivo 1Â° anterior, el Conservador deberÃ¡ cumplir con las siguientes obligaciones respecto del procedimiento de emisiÃ³n de BHE:
 
-* a) Designar un mandatario autorizado para solicitar folios y enviar las BHE emitidas al Servicio de Impuestos Internos. Con tal objeto, informará al Servicio, mediante el medio que establezca para ello, a la(s) persona(s) nominada(s) para estos efectos, indicando nombre, RUT, email y cargo(s) que desempeña(n) para el Conservador.
-* b) Si el Conservador no presenta observaciones o situaciones tributarias que requieran ser resueltas, el Servicio le autorizará un rango de folios para BHE, comenzando en forma correlativa desde el número entero siguiente al último folio ya autorizado por el Servicio y que se encuentre registrado en bases de datos del SII. Los folios serán asignados de acuerdo a los requerimientos del contribuyente, considerando para ello la entrega de un rango apropiado a la emisión de BHE de un periodo estimado de 6 (seis) meses.
+* a) Designar un mandatario autorizado para solicitar folios y enviar las BHE emitidas al Servicio de Impuestos Internos. Con tal objeto, informarÃ¡ al Servicio, mediante el medio que establezca para ello, a la(s) persona(s) nominada(s) para estos efectos, indicando nombre, RUT, email y cargo(s) que desempeÃ±a(n) para el Conservador.
+* b) Si el Conservador no presenta observaciones o situaciones tributarias que requieran ser resueltas, el Servicio le autorizarÃ¡ un rango de folios para BHE, comenzando en forma correlativa desde el nÃºmero entero siguiente al Ãºltimo folio ya autorizado por el Servicio y que se encuentre registrado en bases de datos del SII. Los folios serÃ¡n asignados de acuerdo a los requerimientos del contribuyente, considerando para ello la entrega de un rango apropiado a la emisiÃ³n de BHE de un periodo estimado de 6 (seis) meses.
 
-La información referente al rango de folios señalado, deberá ser guardada por el contribuyente en forma segura, evitando el acceso de terceros, con el fin de evitar el mal uso de los mismos.
+La informaciÃ³n referente al rango de folios seÃ±alado, deberÃ¡ ser guardada por el contribuyente en forma segura, evitando el acceso de terceros, con el fin de evitar el mal uso de los mismos.
 
-* c) Para la generación de cada BHE, se deberá utilizar una sola vez cada folio previamente autorizado. El Conservador, a través de una persona designada, enviará al Servicio de Impuestos Internos en línea las BHE emitidas de acuerdo al formato, codificación y procedimientos establecidos para estos efectos, de acuerdo al protocolo previamente certificado por el Conservador. No se informará al Servicio los folios de BHE que no se hayan emitido correctamente, los cuales en dicho caso deben considerarse como asociados a documentos anulados.
-* d) En caso de haberse emitido y entregado una o más BHE, pero por situaciones de falta de conectividad no se hubiesen enviado en forma inmediata en línea al Servicio, el Conservador deberá enviarlas una vez que se reponga la conexión, de acuerdo al mismo procedimiento de operación regular establecido para el envío. Sin embargo, el plazo máximo de envío al Servicio de las boletas emitidas será de 24 horas contadas desde la fecha de emisión de los documentos, en caso contrario el Conservador deberá notificar al Servicio del eventual atraso, de otra manera se podrá considerar como un incumplimiento a lo dispuesto en la presente resolución.
-* e) La representación impresa de la BHE deberá cumplir con lo establecido en la Resolución Ex. N° 83, del 30.08.2004, en relación a la información mínima que debe consignarse y la disposición del código de barras para lectura y validación.
+* c) Para la generaciÃ³n de cada BHE, se deberÃ¡ utilizar una sola vez cada folio previamente autorizado. El Conservador, a travÃ©s de una persona designada, enviarÃ¡ al Servicio de Impuestos Internos en lÃ­nea las BHE emitidas de acuerdo al formato, codificaciÃ³n y procedimientos establecidos para estos efectos, de acuerdo al protocolo previamente certificado por el Conservador. No se informarÃ¡ al Servicio los folios de BHE que no se hayan emitido correctamente, los cuales en dicho caso deben considerarse como asociados a documentos anulados.
+* d) En caso de haberse emitido y entregado una o mÃ¡s BHE, pero por situaciones de falta de conectividad no se hubiesen enviado en forma inmediata en lÃ­nea al Servicio, el Conservador deberÃ¡ enviarlas una vez que se reponga la conexiÃ³n, de acuerdo al mismo procedimiento de operaciÃ³n regular establecido para el envÃ­o. Sin embargo, el plazo mÃ¡ximo de envÃ­o al Servicio de las boletas emitidas serÃ¡ de 24 horas contadas desde la fecha de emisiÃ³n de los documentos, en caso contrario el Conservador deberÃ¡ notificar al Servicio del eventual atraso, de otra manera se podrÃ¡ considerar como un incumplimiento a lo dispuesto en la presente resoluciÃ³n.
+* e) La representaciÃ³n impresa de la BHE deberÃ¡ cumplir con lo establecido en la ResoluciÃ³n Ex. NÂ° 83, del 30.08.2004, en relaciÃ³n a la informaciÃ³n mÃ­nima que debe consignarse y la disposiciÃ³n del cÃ³digo de barras para lectura y validaciÃ³n.
 
-3° El Servicio de Impuestos Internos, al recibir la
+3Â° El Servicio de Impuestos Internos, al recibir la
 
-información de las BHE, realizará las siguientes validaciones:
+informaciÃ³n de las BHE, realizarÃ¡ las siguientes validaciones:
 
-* a) Verificará el cabal cumplimiento de todos los requisitos obligatorios establecidos, para la correcta emisión de una BHE, de acuerdo a lo dispuesto por la Resolución Ex. N° 83, de 30.08.2004, relacionados a formatos, datos de identificación y campos descriptivos mínimos.
+* a) VerificarÃ¡ el cabal cumplimiento de todos los requisitos obligatorios establecidos, para la correcta emisiÃ³n de una BHE, de acuerdo a lo dispuesto por la ResoluciÃ³n Ex. NÂ° 83, de 30.08.2004, relacionados a formatos, datos de identificaciÃ³n y campos descriptivos mÃ­nimos.
 * b) Que corresponda a un folio autorizado por el Servicio y que no haya sido utilizado con anterioridad.
-* c) Que el Conservador mantenga su calidad de emisor de BHE en los términos autorizados en la presente Resolución, o en caso contrario, sólo podrá realizar la emisión de una o más BHE utilizando la aplicación dispuesta por el mismo Servicio en su Oficina Virtual en Internet, [<u>www.sii.cl</u>](http://www.sii.cl).
-* d) Que el documento haya sido enviado por un usuario autorizado, que mantenga tal calidad al momento de realizarse el envío.
-* e) Que el Conservador mantenga su calidad vigente de contribuyente de segunda categoría según lo dispuesto en el N° 2 del Art. 42° de la Ley sobre Impuesto a la Renta.
+* c) Que el Conservador mantenga su calidad de emisor de BHE en los tÃ©rminos autorizados en la presente ResoluciÃ³n, o en caso contrario, sÃ³lo podrÃ¡ realizar la emisiÃ³n de una o mÃ¡s BHE utilizando la aplicaciÃ³n dispuesta por el mismo Servicio en su Oficina Virtual en Internet, [<u>www.sii.cl</u>](http://www.sii.cl).
+* d) Que el documento haya sido enviado por un usuario autorizado, que mantenga tal calidad al momento de realizarse el envÃ­o.
+* e) Que el Conservador mantenga su calidad vigente de contribuyente de segunda categorÃ­a segÃºn lo dispuesto en el NÂ° 2 del Art. 42Â° de la Ley sobre Impuesto a la Renta.
 
-4° Como resultado de las validaciones anteriormente indicadas, se podrán constatar los siguientes estados que permitirán calificar una BHE emitida:
+4Â° Como resultado de las validaciones anteriormente indicadas, se podrÃ¡n constatar los siguientes estados que permitirÃ¡n calificar una BHE emitida:
 
-* a) Estado 'Válido': Lo cual significa que el documento fue recibido correctamente, cumpliendo con todas las condiciones y formatos exigidos. Sólo en este estado dicho documento tendrá validez tributaria.
-* b) Estado 'Rechazado': Significa que la BHE presentó uno o más errores que deberán ser corregidos por el emisor. Los folios que se encuentran en calidad de 'Rechazado', sólo podrán ser reenviados al Servicio una vez corregida la causal que genera el o los errores.
+* a) Estado 'VÃ¡lido': Lo cual significa que el documento fue recibido correctamente, cumpliendo con todas las condiciones y formatos exigidos. SÃ³lo en este estado dicho documento tendrÃ¡ validez tributaria.
+* b) Estado 'Rechazado': Significa que la BHE presentÃ³ uno o mÃ¡s errores que deberÃ¡n ser corregidos por el emisor. Los folios que se encuentran en calidad de 'Rechazado', sÃ³lo podrÃ¡n ser reenviados al Servicio una vez corregida la causal que genera el o los errores.
 
-5° Respecto del otorgamiento de cada BHE, el Conservador deberá tener presente las siguientes obligaciones y consideraciones:
+5Â° Respecto del otorgamiento de cada BHE, el Conservador deberÃ¡ tener presente las siguientes obligaciones y consideraciones:
 
 * a) Entregar a cada cliente, al menos, un ejemplar impreso de cada documento.
-* b) Cada BHE deberá ser almacenada y conservada en forma electrónica, en el mismo formato digital XML, como fue remitida al Servicio de Impuestos Internos, por al menos 6 (seis) años desde la fecha de emisión del documento.
-* c) En caso de requerirse la anulación de una BHE emitida y recibida en las bases de datos del SII, la solicitud deberá realizarse a través de la aplicación dispuesta en Internet, de acuerdo a los procedimientos establecidos en la Resolución Ex. N° 83, de 30.08.2004. Los registros contables del Conservador deberán reflejar correctamente la circunstancia de haberse realizado la anulación de una BHE.
-* d) En el evento, que en algún momento no sea posible la emisión de BHE, el Conservador deberá emitir boletas de honorarios no electrónicas, en los términos dispuestos en la Resolución Ex. N° 1.414, de 27.10.1978.
+* b) Cada BHE deberÃ¡ ser almacenada y conservada en forma electrÃ³nica, en el mismo formato digital XML, como fue remitida al Servicio de Impuestos Internos, por al menos 6 (seis) aÃ±os desde la fecha de emisiÃ³n del documento.
+* c) En caso de requerirse la anulaciÃ³n de una BHE emitida y recibida en las bases de datos del SII, la solicitud deberÃ¡ realizarse a travÃ©s de la aplicaciÃ³n dispuesta en Internet, de acuerdo a los procedimientos establecidos en la ResoluciÃ³n Ex. NÂ° 83, de 30.08.2004. Los registros contables del Conservador deberÃ¡n reflejar correctamente la circunstancia de haberse realizado la anulaciÃ³n de una BHE.
+* d) En el evento, que en algÃºn momento no sea posible la emisiÃ³n de BHE, el Conservador deberÃ¡ emitir boletas de honorarios no electrÃ³nicas, en los tÃ©rminos dispuestos en la ResoluciÃ³n Ex. NÂ° 1.414, de 27.10.1978.
 
-6° Frente a un requerimiento de este Servicio el Conservador deberá dar facilidades para entregar en forma inmediata las BHE del período tributario en curso y de los dos períodos tributarios anteriores. Estos documentos deberán ser entregados a través de un medio electrónico, enviados a través de Internet, o de acuerdo a lo que determine el fiscalizador en dichas circunstancias.
+6Â° Frente a un requerimiento de este Servicio el Conservador deberÃ¡ dar facilidades para entregar en forma inmediata las BHE del perÃ­odo tributario en curso y de los dos perÃ­odos tributarios anteriores. Estos documentos deberÃ¡n ser entregados a travÃ©s de un medio electrÃ³nico, enviados a travÃ©s de Internet, o de acuerdo a lo que determine el fiscalizador en dichas circunstancias.
 
-El Servicio podrá requerir la impresión de una copia de cualquier BHE que haya sido emitida en los periodos antes indicados, con un máximo de 30 impresiones en cada actuación fiscalizadora.
+El Servicio podrÃ¡ requerir la impresiÃ³n de una copia de cualquier BHE que haya sido emitida en los periodos antes indicados, con un mÃ¡ximo de 30 impresiones en cada actuaciÃ³n fiscalizadora.
 
-Igualmente, frente a un requerimiento de este Servicio el emisor electrónico deberá poder entregar en un medio electrónico, en forma inmediata, un resumen de las transacciones realizadas con BHE correspondiente al período en curso y a los dos periodos anteriores.
+Igualmente, frente a un requerimiento de este Servicio el emisor electrÃ³nico deberÃ¡ poder entregar en un medio electrÃ³nico, en forma inmediata, un resumen de las transacciones realizadas con BHE correspondiente al perÃ­odo en curso y a los dos periodos anteriores.
 
-Asimismo, el Servicio podrá requerir la entrega de toda la información referida a las BHE, emitidas en los últimos 6 (seis) años, para lo cual el Conservador dispondrá de un plazo máximo de 10 días hábiles para generar y entregar la información, contados desde la fecha en que fueron solicitados formalmente los antecedentes.
+Asimismo, el Servicio podrÃ¡ requerir la entrega de toda la informaciÃ³n referida a las BHE, emitidas en los Ãºltimos 6 (seis) aÃ±os, para lo cual el Conservador dispondrÃ¡ de un plazo mÃ¡ximo de 10 dÃ­as hÃ¡biles para generar y entregar la informaciÃ³n, contados desde la fecha en que fueron solicitados formalmente los antecedentes.
 
-7° En caso que se detecten acciones maliciosas tendientes a desvirtuar el monto de las transacciones respaldadas en una o más BHE, este Servicio revocará la autorización otorgada mediante la presente resolución.
+7Â° En caso que se detecten acciones maliciosas tendientes a desvirtuar el monto de las transacciones respaldadas en una o mÃ¡s BHE, este Servicio revocarÃ¡ la autorizaciÃ³n otorgada mediante la presente resoluciÃ³n.
 
-Asimismo, este Servicio se reserva el derecho de suspender la autorización otorgada al contribuyente para emitir BHE si no cumple con las obligaciones establecidas en la presente resolución, relacionadas a la correcta generación así como a la oportunidad del envío de la información.
+Asimismo, este Servicio se reserva el derecho de suspender la autorizaciÃ³n otorgada al contribuyente para emitir BHE si no cumple con las obligaciones establecidas en la presente resoluciÃ³n, relacionadas a la correcta generaciÃ³n asÃ­ como a la oportunidad del envÃ­o de la informaciÃ³n.
 
-La suspensión de la autorización indicada, tendrá como efecto la imposibilidad temporal de generar, otorgar y enviar BHE utilizando la plataforma dispuesta por el Conservador, lo cual se materializará mediante el bloqueo de la recepción de estos documentos, así como de la interrupción de la entrega de nuevos folios; por lo cual y mientras se extienda la suspensión, cualquier BHE emitida de acuerdo al presente modelo se calificará en estado 'Rechazada'.
+La suspensiÃ³n de la autorizaciÃ³n indicada, tendrÃ¡ como efecto la imposibilidad temporal de generar, otorgar y enviar BHE utilizando la plataforma dispuesta por el Conservador, lo cual se materializarÃ¡ mediante el bloqueo de la recepciÃ³n de estos documentos, asÃ­ como de la interrupciÃ³n de la entrega de nuevos folios; por lo cual y mientras se extienda la suspensiÃ³n, cualquier BHE emitida de acuerdo al presente modelo se calificarÃ¡ en estado 'Rechazada'.
 
-La suspensión antes señalada será informada al contribuyente a través de una notificación, en la cual se establecerán las condiciones exigidas para autorizar nuevamente la emisión de estos documentos mediante su propia plataforma, así como del plazo para cumplir dichas condiciones. En caso que no se subsanen las exigencias informadas en la notificación, en el plazo indicado para ello, este Servicio podrá revocar definitivamente la autorización otorgada mediante la presente resolución.
+La suspensiÃ³n antes seÃ±alada serÃ¡ informada al contribuyente a travÃ©s de una notificaciÃ³n, en la cual se establecerÃ¡n las condiciones exigidas para autorizar nuevamente la emisiÃ³n de estos documentos mediante su propia plataforma, asÃ­ como del plazo para cumplir dichas condiciones. En caso que no se subsanen las exigencias informadas en la notificaciÃ³n, en el plazo indicado para ello, este Servicio podrÃ¡ revocar definitivamente la autorizaciÃ³n otorgada mediante la presente resoluciÃ³n.
 
-El incumplimiento reiterado de las obligaciones que establece esta resolución será causal suficiente para que el Servicio proceda a revocar la autorización otorgada para emitir BHE, delegándose esta facultad en el Subdirector de Asistencia al Contribuyente
+El incumplimiento reiterado de las obligaciones que establece esta resoluciÃ³n serÃ¡ causal suficiente para que el Servicio proceda a revocar la autorizaciÃ³n otorgada para emitir BHE, delegÃ¡ndose esta facultad en el Subdirector de Asistencia al Contribuyente
 
-La resolución revocatoria que se dicte al efecto deberá indicar el número y fecha de esta Resolución; se notificará al Conservador por carta certificada, y un extracto de ella se publicará en el Diario Oficial.
+La resoluciÃ³n revocatoria que se dicte al efecto deberÃ¡ indicar el nÃºmero y fecha de esta ResoluciÃ³n; se notificarÃ¡ al Conservador por carta certificada, y un extracto de ella se publicarÃ¡ en el Diario Oficial.
 
-8° El no otorgamiento de BHE se sancionará de acuerdo a lo dispuesto en el artículo 97 N° 10 del Código Tributario, como también cualquier otro incumplimiento de las obligaciones establecidas en la presente Resolución, se sancionará de acuerdo a lo establecido en el artículo 109 del texto legal antes mencionado. Asimismo, la utilización maliciosa del sistema de emisión de BHE autorizado mediante la presente Resolución, será sancionada según lo establecido en el artículo 97 N° 4 del Código Tributario.
+8Â° El no otorgamiento de BHE se sancionarÃ¡ de acuerdo a lo dispuesto en el artÃ­culo 97 NÂ° 10 del CÃ³digo Tributario, como tambiÃ©n cualquier otro incumplimiento de las obligaciones establecidas en la presente ResoluciÃ³n, se sancionarÃ¡ de acuerdo a lo establecido en el artÃ­culo 109 del texto legal antes mencionado. Asimismo, la utilizaciÃ³n maliciosa del sistema de emisiÃ³n de BHE autorizado mediante la presente ResoluciÃ³n, serÃ¡ sancionada segÃºn lo establecido en el artÃ­culo 97 NÂ° 4 del CÃ³digo Tributario.
 
-9° La presente resolución entrará en vigencia a partir de su publicación en extracto en el Diario Oficial.
+9Â° La presente resoluciÃ³n entrarÃ¡ en vigencia a partir de su publicaciÃ³n en extracto en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-VVS/MDA/RPA/CPG/mpm DISTRIBUCIÓN :
+VVS/MDA/RPA/CPG/mpm DISTRIBUCIÃ“N :
 
 * Internet
-* Boletín
+* BoletÃ­n
 * Diario Oficial en extracto

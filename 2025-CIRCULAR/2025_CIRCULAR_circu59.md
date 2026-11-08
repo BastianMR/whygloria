@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 59 (2025)
-description: DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº59.- GE347371 |
-resource: ./2025_CIRCULAR_circu59.md.docx
+title: Circular NÂ° 59 (2025)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos | CIRCULAR NÂº59.- GE347371 |
 tags: [SII, 2025, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº59.- GE347371** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos** | **CIRCULAR NÂº59.- GE347371** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 DE OCTUBRE DE 2025 |
-| MATERIA: Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2025. | REF. LEGAL: Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL Nº 830 de 1974. |
+| MATERIA: Informa tabla de cÃ¡lculos de reajustes y multas para el mes de noviembre 2025. | REF. LEGAL: ArtÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº del DL NÂº 830 de 1974. |
 
-## I. INFORMA TABLA DE CÁLCULO
+## I. INFORMA TABLA DE CÃLCULO
 
-La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cálculos para la aplicación de reajustes y multas a que se refieren los artículos 53 y 97 N os 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de NOVIEMBRE DE 2025.
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cÃ¡lculos para la aplicaciÃ³n de reajustes y multas a que se refieren los artÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de NOVIEMBRE DE 2025.
 
-|  | **Mes de Veto.** | **Reajuste Art.53 Inc.1\*** | **Multa Art.97 N°2** | **Multa Art.97 N°11** | **Multa Art.97 N°11** | **IPC (INE) 2023=100** |  |
+|  | **Mes de Veto.** | **Reajuste Art.53 Inc.1\*** | **Multa Art.97 NÂ°2** | **Multa Art.97 NÂ°11** | **Multa Art.97 NÂ°11** | **IPC (INE) 2023=100** |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  | Inc.1° | Inc.2\* | Base Anual | U.T.M. |
+|  |  |  |  | Inc.1Â° | Inc.2\* | Base Anual | U.T.M. |
 | 2019 | ENE | 43, 8 | $0E | $0E | 60% | 75,91 | ESE\*8 |
 |  | FEB | 43, 9 | $0E | $0E | 60% | 75,95 | 48.305 |
 |  | MAR | 43, 8 | 0E | $OE | 60% | 76, 31 | ESE\*8 |
@@ -47,7 +46,7 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 |  | MAR | 34, 8 | $0E | $DE | 60% | 81, 45 | 51.489 |
 |  | ABR | 34, 5 | 30% | $DE | 60% | 81, 75 | 51.592 |
 |  | MAY | 3 4 , 0 | 0E | $0E | 60% | 81, 97 | 51.798 |
-|  |  | 33,5 | 毫DE | 0E | 60% | 82 , 04 | 52.005 |
+|  |  | 33,5 | æ¯«DE | 0E | 60% | 82 , 04 | 52.005 |
 |  | JUL | 33, 1 | $0E | $DE | 60% | 82, 70 | 52.161 |
 |  | AGO | D\*EE | 30& | $DE | 60% | 008 | 52.213 |
 |  | SEP | 32 , 0 | $DE |  | 60% | B6\*EB | 52.631 |
@@ -57,7 +56,7 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 
 | **Mes de** | **Reajuste Art.53** | **Multa Art.97** | **Multa** | **Multa** | **IPC (INE) Base Anual** |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Veto. Inc.1° | N°2 | Inc.1\* | Art.97 N°11 Inc.2° | 2023=100 | U.T.M. |
+|  | Veto. Inc.1Â° | NÂ°2 | Inc.1\* | Art.97 NÂ°11 Inc.2Â° | 2023=100 | U.T.M. |
 | 2022 ENE | 27, 6 | $0E | $0E | 60% | 87, 23 | 54.442 |
 | FEB | 26, 6 | $0E | $0E | 60% | 87, 48 | 54.878 |
 | MAR | 25, 1 | 0E | $0E | 60% | 89,11 | 55.537 |
@@ -106,27 +105,27 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 | OCT | 0 , 5 | 10% | 14% | 2 4% | 109, 1 4 | 69.265 |
 | NOV | 0 , 4 0 \*0 | 10& 10% | 12& 10% | 22% 20% |  | 69.542 |
 
-## II. INFORMACIÓN ADICIONAL
+## II. INFORMACIÃ“N ADICIONAL
 
-1. Conforme a la parte final del inciso cuarto del artículo 53, el Servicio, mediante resolución que se emitirá en los meses de junio y diciembre de cada año, fijará la tasa de interés penal diaria que estará vigente para cada semestre. Esta resolución deberá ser publicada en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), y regirá por el semestre que inicia en julio y enero de cada año, respectivamente.
+1. Conforme a la parte final del inciso cuarto del artÃ­culo 53, el Servicio, mediante resoluciÃ³n que se emitirÃ¡ en los meses de junio y diciembre de cada aÃ±o, fijarÃ¡ la tasa de interÃ©s penal diaria que estarÃ¡ vigente para cada semestre. Esta resoluciÃ³n deberÃ¡ ser publicada en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), y regirÃ¡ por el semestre que inicia en julio y enero de cada aÃ±o, respectivamente.
 
-De este modo, la tasa de interés penal diaria para el segundo semestre de 2025 , ha sido fijada mediante Resolución Exenta SII Nº 75 de 2025 , disponible para su consulta en el sitio web del Servicio.
+De este modo, la tasa de interÃ©s penal diaria para el segundo semestre de 2025 , ha sido fijada mediante ResoluciÃ³n Exenta SII NÂº 75 de 2025 , disponible para su consulta en el sitio web del Servicio.
 
-1. Reajuste artículo 72 de la Ley sobre Impuesto a la Renta.
-2. En la columna 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de multa correspondiente al mes siguiente.
-3. El reajuste a que se refiere el artículo 53 del Código Tributario, informado en la presente Circular, corresponde a la cifra de variación experimentada por el IPC entregada por el Instituto Nacional de Estadísticas en su publicación oficial y cuyos porcentajes se han determinado mediante la metodología de cálculo del IPC, establecida en el Decreto Supremo Nº 322, del Ministerio de Economía, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18 de 2010, de este Servicio.
+1. Reajuste artÃ­culo 72 de la Ley sobre Impuesto a la Renta.
+2. En la columna 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el artÃ­culo 53 del CÃ³digo Tributario, informado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el IPC entregada por el Instituto Nacional de EstadÃ­sticas en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂº 322, del Ministerio de EconomÃ­a, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18 de 2010, de este Servicio.
 
-| **AÑO** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** | **2024** | **2025** |
+| **AÃ‘O** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** | **2024** | **2025** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | % | 1,0 | 0,9 | 0,5 | 1,5 | 1,6 | 4,2 | 2,1 | 1,1 | 1,8 |
 
-Se hace presente que a contar del Índice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2023=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Ãndice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2023=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
 <unknown>
 
-MSB/CGG/MCRB/FWV DISTRIBUCIÓN
+MSB/CGG/MCRB/FWV DISTRIBUCIÃ“N
 
 -Internet
 

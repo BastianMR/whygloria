@@ -1,52 +1,51 @@
----
-type: SII Resolución
-title: Resolución N° 71 (2019)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 184- SDAC - 2019 GE00114619
-resource: ./2019_RESOLUCION_reso71.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 71 (2019)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 184- SDAC - 2019 GE00114619
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 184- SDAC - 2019 GE00114619
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 184- SDAC - 2019 GE00114619
 
-AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LA SUBSECRETARÍA DE DEFENSA.
+AUTORIZA COMO RECEPTOR ELECTRÃ“NICO DE DOCUMENTOS TRIBUTARIOS ELECTRÃ“NICOS A LA SUBSECRETARÃA DE DEFENSA.
 
 SANTIAGO, 4 DE JUNIO 2019
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° 71.-/
+RESOLUCIÃ“N EXENTA SII NÂ° 71.-/
 
 VISTOS:
 
-Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. Nº 825, de 1974; las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017; y 72, del 21.08.2015 delegatoria; y
+Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂº 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; en los artÃ­culos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del D.L. NÂº 825, de 1974; las Resoluciones Exentas NÂ°s 63, de 15.07.2004 modificada por la ResoluciÃ³n Exenta NÂ° 91 del 06.10.2017; y 72, del 21.08.2015 delegatoria; y
 
 ## CONSIDERANDO:
 
-1° Que, la Resolución Exenta N° 63, del 2004, modificada por la Resolución N°91, del 2017, estableció normas y procedimientos de operación para los Organismos Públicos que sean autorizados como Receptores Electrónicos de Documentos Tributarios Electrónicos.
+1Â° Que, la ResoluciÃ³n Exenta NÂ° 63, del 2004, modificada por la ResoluciÃ³n NÂ°91, del 2017, estableciÃ³ normas y procedimientos de operaciÃ³n para los Organismos PÃºblicos que sean autorizados como Receptores ElectrÃ³nicos de Documentos Tributarios ElectrÃ³nicos.
 
-2° Que, la SUBSECRETARÍA DE DEFENSA, RUT N° 61.979.870-8 , ha postulado como receptor de Documentos Tributarios Electrónicos y ha cumplido los requisitos establecidos en la Res. Ex. SII N° 63, de 15.07.2004, para ser receptor electrónico de documentos tributarios electrónicos.
+2Â° Que, la SUBSECRETARÃA DE DEFENSA, RUT NÂ° 61.979.870-8 , ha postulado como receptor de Documentos Tributarios ElectrÃ³nicos y ha cumplido los requisitos establecidos en la Res. Ex. SII NÂ° 63, de 15.07.2004, para ser receptor electrÃ³nico de documentos tributarios electrÃ³nicos.
 
-3° Que, mediante Resolución Ex. SII Nº 72, del 21.08.2015, se delegó en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a organismos públicos como receptores de Documentos Tributarios Electrónicos
+3Â° Que, mediante ResoluciÃ³n Ex. SII NÂº 72, del 21.08.2015, se delegÃ³ en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a organismos pÃºblicos como receptores de Documentos Tributarios ElectrÃ³nicos
 
 ## SE RESUELVE:
 
-1° Autorícese como receptor electrónico de Documentos Tributarios Electrónicos (DTE), a contar del mes de junio de 2019, al siguiente Organismo Público:
+1Â° AutorÃ­cese como receptor electrÃ³nico de Documentos Tributarios ElectrÃ³nicos (DTE), a contar del mes de junio de 2019, al siguiente Organismo PÃºblico:
 
-* -SUBSECRETARÍA DE DEFENSA, RUT N° 61.979.870-8
+* -SUBSECRETARÃA DE DEFENSA, RUT NÂ° 61.979.870-8
 
-2° El Organismo Público autorizado como receptor de Documentos Tributarios Electrónicos, deberá ajustarse a las instrucciones impartidas en la Resolución Ex. SII N° 63, de 15.07.2004, actualizada por Resolución Ex. SII N° 91, de 06.10.2017.
+2Â° El Organismo PÃºblico autorizado como receptor de Documentos Tributarios ElectrÃ³nicos, deberÃ¡ ajustarse a las instrucciones impartidas en la ResoluciÃ³n Ex. SII NÂ° 63, de 15.07.2004, actualizada por ResoluciÃ³n Ex. SII NÂ° 91, de 06.10.2017.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
-(Fdo.) VERÓNICA VALLE SARÁH SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
+(Fdo.) VERÃ“NICA VALLE SARÃH SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
 RGV/OBA/AVB/MME
 
-Distribución:
+DistribuciÃ³n:
 
 * Solicitantes
 * Internet
-* Boletín
+* BoletÃ­n
 * Diario Oficial

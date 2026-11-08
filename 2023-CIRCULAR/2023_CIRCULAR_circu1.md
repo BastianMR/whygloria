@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 1 (2023)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°01 233720.2022 GE |
-resource: ./2023_CIRCULAR_circu1.md.docx
+title: Circular NÂ° 1 (2023)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°01 233720.2022 GE |
 tags: [SII, 2023, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°01 233720.2022 GE** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°01 233720.2022 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09 DE ENERO DE 2023 |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2023 y el 9 de febrero de 2023, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de enero de 2023 y el 9 de febrero de 2023, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de enero de 2023 y 9 de febrero de 2023, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de enero de 2023 y 9 de febrero de 2023, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de enero de 2023
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de enero de 2023
 
-| **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** | **AÑO 2023** |
+| **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** | **AÃ‘O 2023** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA | ENE FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |  |
+| DÃA | ENE FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |  |
 | 1 | 35.122,26 35.290,91 |  |  |  |  |  |  |  |  |  |  |  |
 | 2 | 35.133,53 35.294,32 |  |  |  |  |  |  |  |  |  |  |  |
 | 3 | 35.144,81 35.297,73 |  |  |  |  |  |  |  |  |  |  |  |
@@ -54,7 +53,7 @@ Saluda a Ud.,
 
 ## CFS/PAO/LOF/mvv
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * -Internet
 

@@ -1,59 +1,58 @@
----
-type: SII Resolución
-title: Resolución N° 5028 (2016)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 483 - DAAC - 2016
-resource: ./2016_RESOLUCION_reso85.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 5028 (2016)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 483 - DAAC - 2016
 tags: [SII, 2016, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 483 - DAAC - 2016
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 483 - DAAC - 2016
 
 77316068289
 
-AUTORIZA A LA EMPRESA LOJAN SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
+AUTORIZA A LA EMPRESA LOJAN SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÃCULOS PÃšBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA.
 
 SANTIAGO, 19 de agosto de 2016.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N° \_85.-\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ° \_85.-\_\_\_/
 
 ## VISTOS:
 
-Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977; las Resoluciones Exentas N°s 5028, del 28.08.1998; 10, del 29.05.2016 y 50 del 27.05.2016.
+Lo dispuesto en los artÃ­culos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 825, de 1974 y su Reglamento contenido en el Decreto Supremo NÂ° 55, del Ministerio de Hacienda, de 1977; las Resoluciones Exentas NÂ°s 5028, del 28.08.1998; 10, del 29.05.2016 y 50 del 27.05.2016.
 
-La solicitud presentada por don Lorenzo Javier Marusic Kusanovic, RUT N° 6.486.961- 2, en representación de LOJAN SPA, RUT N° 76.543.518- 8, ambos domiciliados en Ignacio Carrera Pinto N° 654, Punta Arenas, mediante la cual solicita autorización para emitir boletas de servicios, en su calidad de mandatario, para el ingreso a espectáculos y reuniones pagadas presentados o promovidos por terceras personas, conforme lo dispone la Resolución Exenta SII N° 5028, de 1998; y
+La solicitud presentada por don Lorenzo Javier Marusic Kusanovic, RUT NÂ° 6.486.961- 2, en representaciÃ³n de LOJAN SPA, RUT NÂ° 76.543.518- 8, ambos domiciliados en Ignacio Carrera Pinto NÂ° 654, Punta Arenas, mediante la cual solicita autorizaciÃ³n para emitir boletas de servicios, en su calidad de mandatario, para el ingreso a espectÃ¡culos y reuniones pagadas presentados o promovidos por terceras personas, conforme lo dispone la ResoluciÃ³n Exenta SII NÂ° 5028, de 1998; y
 
 ## CONSIDERANDO:
 
-1° Que, el artículo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reúnan los requisitos exigidos por el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda N° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
+1Â° Que, el artÃ­culo 56, inciso segundo, de la Ley sobre Impuesto a las Ventas y Servicios, faculta al Servicio de Impuestos Internos para autorizar el uso de boletas que no reÃºnan los requisitos exigidos por el Decreto Ley NÂ° 825, de 1974, sobre Impuesto a las Ventas y Servicios y por el Decreto de Hacienda NÂ° 55, de 1977, reglamentario de dicha ley; siempre que, a su juicio, se resguarden debidamente los intereses fiscales.
 
-2° Que, mediante la Resolución Ex. SII N° 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, fijó requisitos distintos a los establecidos en la letra B., del artículo 69 del Decreto Supremo N° 55, de 1977, para las boletas de servicios que deben emitirse por entradas a los espectáculos y reuniones pagadas, sean ocasionales o habituales.
+2Â° Que, mediante la ResoluciÃ³n Ex. SII NÂ° 1251, de 29 de julio de 1980, el Director del Servicio de Impuestos Internos, fijÃ³ requisitos distintos a los establecidos en la letra B., del artÃ­culo 69 del Decreto Supremo NÂ° 55, de 1977, para las boletas de servicios que deben emitirse por entradas a los espectÃ¡culos y reuniones pagadas, sean ocasionales o habituales.
 
-3° Que, por Resolución Ex. SII N° 5028, de 28.08.1998, el Director delegó, en el Subdirector de Fiscalización, la facultad de autorizar la emisión de boletas que no reúnan los requisitos exigidos por la Ley y el Reglamento sobre Impuestos a las Ventas y Servicios, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interés fiscal se encuentra debidamente resguardado.
+3Â° Que, por ResoluciÃ³n Ex. SII NÂ° 5028, de 28.08.1998, el Director delegÃ³, en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar la emisiÃ³n de boletas que no reÃºnan los requisitos exigidos por la Ley y el Reglamento sobre Impuestos a las Ventas y Servicios, cuando de la solicitud y antecedentes aportados por el peticionario y de los informes que estime pertinente requerir, concluya que el interÃ©s fiscal se encuentra debidamente resguardado.
 
-4° Que, el resolutivo 1°, letra a), de la Resolución EX. SII. N° 5028, ya citada, indica que las boletas de servicios de ingreso a espectáculos que se emitan por cuenta de terceros serán confeccionadas en papel continuo y constarán de dos partes a lo menos, las que deberán ser entregadas al adquirente en el momento de la venta.
+4Â° Que, el resolutivo 1Â°, letra a), de la ResoluciÃ³n EX. SII. NÂ° 5028, ya citada, indica que las boletas de servicios de ingreso a espectÃ¡culos que se emitan por cuenta de terceros serÃ¡n confeccionadas en papel continuo y constarÃ¡n de dos partes a lo menos, las que deberÃ¡n ser entregadas al adquirente en el momento de la venta.
 
-5° Que, analizada la petición y los antecedentes acompañados, se estima que la emisión de boletas de entradas a espectáculos y reuniones pagadas por cuenta de terceros mandantes, que hará la empresa LOJAN SPA, RUT N° 76.543.518- 8, por medios computacionales, en la forma que se establece en la Resolución Ex. SII. N° 5028, precitada, resguarda debidamente el interés fiscal.
+5Â° Que, analizada la peticiÃ³n y los antecedentes acompaÃ±ados, se estima que la emisiÃ³n de boletas de entradas a espectÃ¡culos y reuniones pagadas por cuenta de terceros mandantes, que harÃ¡ la empresa LOJAN SPA, RUT NÂ° 76.543.518- 8, por medios computacionales, en la forma que se establece en la ResoluciÃ³n Ex. SII. NÂ° 5028, precitada, resguarda debidamente el interÃ©s fiscal.
 
 ## SE RESUELVE:
 
-1° AUTORÍZASE a LOJAN SPA, RUT N° 76.543.518- 8 , a emitir por cuenta de terceros mandantes, boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, con los requisitos que señala la Resolución Ex. SII N° 5028, de 28.08.1998.
+1Â° AUTORÃZASE a LOJAN SPA, RUT NÂ° 76.543.518- 8 , a emitir por cuenta de terceros mandantes, boletas de servicios para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, con los requisitos que seÃ±ala la ResoluciÃ³n Ex. SII NÂ° 5028, de 28.08.1998.
 
-2° Las boletas de servicios para el ingreso a espectáculos públicos y reuniones pagadas, deben ser emitidas en forma individual.
+2Â° Las boletas de servicios para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, deben ser emitidas en forma individual.
 
-3° En el caso de venta remota de entradas para el ingreso a espectáculos públicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberá emitirse en el momento en que se percibe la remuneración.
+3Â° En el caso de venta remota de entradas para el ingreso a espectÃ¡culos pÃºblicos y reuniones pagadas, independiente del medio de pago que se utilice para tal efecto, la boleta de servicios deberÃ¡ emitirse en el momento en que se percibe la remuneraciÃ³n.
 
-4° La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
+4Â° La presente resoluciÃ³n regirÃ¡ a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE .
+## ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE .
 
 ## 'POR ORDEN DEL DIRECTOR'
 
-## (Fdo) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÓN (S)
+## (Fdo) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÃ“N (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines
 
-VVS/MDA/RPA/CPG/lvw DISTRIBUCION - Lorenzo Javier Marusic Kusanovic, en representación de LOJAN SPA Ignacio Carrera Pinto N° 654, Punta Arenas. - Subdirección de Asistencia al Contribuyente - Departamento de Operaciones. - Diario Oficial en Extracto. - Internet - Boletín SII - Oficina de Partes.
+VVS/MDA/RPA/CPG/lvw DISTRIBUCION - Lorenzo Javier Marusic Kusanovic, en representaciÃ³n de LOJAN SPA Ignacio Carrera Pinto NÂ° 654, Punta Arenas. - SubdirecciÃ³n de Asistencia al Contribuyente - Departamento de Operaciones. - Diario Oficial en Extracto. - Internet - BoletÃ­n SII - Oficina de Partes.
 
 * Archivo.

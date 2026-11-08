@@ -1,36 +1,35 @@
----
-type: SII Resolución
-title: Resolución N° 25 (2023)
-description: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991
-resource: ./2023_RESOLUCION_reso25.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 25 (2023)
+description: SUBDIRECCIÃ“N JURÃDICA DEPARTAMENTO DE ASESORÃA JURÃDICA GE00230991
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991
+## SUBDIRECCIÃ“N JURÃDICA DEPARTAMENTO DE ASESORÃA JURÃDICA GE00230991
 
-DELEGA EN EL SUBDIRECTOR JURÍDICO LA FACULTAD DE TRAMITAR LAS SOLICITUDES DE AVENIMIENTO EXTRAJUDICIAL DEL ARTÍCULO 132 TER DEL CÓDIGO TRIBUTARIO.
+DELEGA EN EL SUBDIRECTOR JURÃDICO LA FACULTAD DE TRAMITAR LAS SOLICITUDES DE AVENIMIENTO EXTRAJUDICIAL DEL ARTÃCULO 132 TER DEL CÃ“DIGO TRIBUTARIO.
 
 SANTIAGO, 09 DE MARZO DE 2023
 
-RESOLUCIÓN EX SII N° 25.-
+RESOLUCIÃ“N EX SII NÂ° 25.-
 
-VISTOS: Lo dispuesto en los artículos 6° letra A N°3, y 132 ter, todos del Código Tributario; en las letras j) y r) del inciso primero del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L. N°7, de Hacienda, de 15 de octubre de 1980; en los artículos 9°, 31°, 32°, 42° y 43° de la Ley N°19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, y
+VISTOS: Lo dispuesto en los artÃ­culos 6Â° letra A NÂ°3, y 132 ter, todos del CÃ³digo Tributario; en las letras j) y r) del inciso primero del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero, del D.F.L. NÂ°7, de Hacienda, de 15 de octubre de 1980; en los artÃ­culos 9Â°, 31Â°, 32Â°, 42Â° y 43Â° de la Ley NÂ°19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los Ã³rganos de la AdministraciÃ³n del Estado, y
 
 ## CONSIDERANDO:
 
-1°. Que, el N°3 de la letra A) del artículo 6°, del Código Tributario y la letra j) del artículo 7, de la Ley Orgánica del Servicio, facultan al Director para autorizar a Subdirectores, Directores Regionales u otros funcionarios, para hacer uso de algunas de sus atribuciones, actuando "Por orden del Director".
+1Â°. Que, el NÂ°3 de la letra A) del artÃ­culo 6Â°, del CÃ³digo Tributario y la letra j) del artÃ­culo 7, de la Ley OrgÃ¡nica del Servicio, facultan al Director para autorizar a Subdirectores, Directores Regionales u otros funcionarios, para hacer uso de algunas de sus atribuciones, actuando "Por orden del Director".
 
-2° . Que, el inciso segundo del artículo 132 ter del Código Tributario entrega al Director, a su juicio exclusivo, la atribución de resolver los términos en que corresponda aprobar el avenimiento, total o parcial, que dicha norma regula, conteniendo los fundamentos de hecho y de derecho en que se basa y las condiciones del mismo.
+2Â° . Que, el inciso segundo del artÃ­culo 132 ter del CÃ³digo Tributario entrega al Director, a su juicio exclusivo, la atribuciÃ³n de resolver los tÃ©rminos en que corresponda aprobar el avenimiento, total o parcial, que dicha norma regula, conteniendo los fundamentos de hecho y de derecho en que se basa y las condiciones del mismo.
 
-3° . Que, para una mayor eficiencia en la tramitación de las solicitudes de avenimiento extrajudicial reguladas en el artículo 132 ter del Código Tributario, y cuyas instrucciones se imparten en la Circular N° 12 de 2021, se estima conveniente delegar en el Subdirector Jurídico las facultades necesarias para dar trámite al procedimiento, con la excepción de dictar resoluciones que puedan ponerle término al mismo.
+3Â° . Que, para una mayor eficiencia en la tramitaciÃ³n de las solicitudes de avenimiento extrajudicial reguladas en el artÃ­culo 132 ter del CÃ³digo Tributario, y cuyas instrucciones se imparten en la Circular NÂ° 12 de 2021, se estima conveniente delegar en el Subdirector JurÃ­dico las facultades necesarias para dar trÃ¡mite al procedimiento, con la excepciÃ³n de dictar resoluciones que puedan ponerle tÃ©rmino al mismo.
 
 ## RESUELVO :
 
-DELÉGASE en el Subdirector Jurídico la facultad de dar tramitación a las solicitudes de avenimiento extrajudicial reguladas en el artículo 132 ter del Código Tributario que se presenten y de resolver las incidencias de mero trámite que se susciten durante la misma, salvo en los casos en que la resolución que se dicte sea de aquellas que ponen término al procedimiento.
+DELÃ‰GASE en el Subdirector JurÃ­dico la facultad de dar tramitaciÃ³n a las solicitudes de avenimiento extrajudicial reguladas en el artÃ­culo 132 ter del CÃ³digo Tributario que se presenten y de resolver las incidencias de mero trÃ¡mite que se susciten durante la misma, salvo en los casos en que la resoluciÃ³n que se dicte sea de aquellas que ponen tÃ©rmino al procedimiento.
 
-En este sentido, no se entiende delegada la facultad para dictar resoluciones que declaren la inadmisibilidad de la solicitud de avenimiento o que éstas se tengan por no presentadas, el desistimiento o el abandono del procedimiento por parte del interesado, ni aquellas que resuelven en definitiva la solicitud. Las resoluciones de mero trámite que se dicten en el ejercicio de las facultades que se delegan por esta resolución deberán ser fundadas y contener la expresión 'Por Orden del Director'.
+En este sentido, no se entiende delegada la facultad para dictar resoluciones que declaren la inadmisibilidad de la solicitud de avenimiento o que Ã©stas se tengan por no presentadas, el desistimiento o el abandono del procedimiento por parte del interesado, ni aquellas que resuelven en definitiva la solicitud. Las resoluciones de mero trÃ¡mite que se dicten en el ejercicio de las facultades que se delegan por esta resoluciÃ³n deberÃ¡n ser fundadas y contener la expresiÃ³n 'Por Orden del Director'.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE, EN EXTRACTO, EN EL DIARIO OFICIAL
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE, EN EXTRACTO, EN EL DIARIO OFICIAL
 
 <unknown>
 
@@ -38,7 +37,7 @@ En este sentido, no se entiende delegada la facultad para dictar resoluciones qu
 
 <unknown>
 
-## MFM/BOB/LMC Distribución:
+## MFM/BOB/LMC DistribuciÃ³n:
 
 * Internet
 * Diario Oficial, en extracto

@@ -1,42 +1,41 @@
----
-type: SII Resolución
-title: Resolución N° 1 (2015)
-description: MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARA...
-resource: ./2015_RESOLUCION_reso83.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 1 (2015)
+description: MODIFICA RESOLUCIÃ“N EX. SII NÂ° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÃN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARA...
 tags: [SII, 2015, resolucion]
 ---
 
 contribuyente;
 
-MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EL EXTRANJERO CONTENIDO EN EL ARTÍCULO VIGESIMOCUARTO TRANSITORIO DE LA LEY N° 20.780 PUBLICADA EN EL DIARIO OFICIAL DE 29 DE SEPTIEMBRE DE 2014.
+MODIFICA RESOLUCIÃ“N EX. SII NÂ° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÃN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÃ“N DE BIENES O RENTAS QUE SE ENCUENTREN EN EL EXTRANJERO CONTENIDO EN EL ARTÃCULO VIGESIMOCUARTO TRANSITORIO DE LA LEY NÂ° 20.780 PUBLICADA EN EL DIARIO OFICIAL DE 29 DE SEPTIEMBRE DE 2014.
 
 SANTIAGO, 29 de septiembre de 2015.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N°\_83.-\_\_\_/
+RESOLUCIÃ“N EXENTA SII NÂ°\_83.-\_\_\_/
 
 VISTOS:
 
-Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30, ambos del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014; la Resolución Ex. SII N° 1, de 2015 y la Circular N° 8, de 2015.
+Lo dispuesto en el artÃ­culo 6Â°, letra A), NÂ° 1 y artÃ­culo 30, ambos del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; y en el artÃ­culo Vigesimocuarto Transitorio de la Ley NÂ° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014; la ResoluciÃ³n Ex. SII NÂ° 1, de 2015 y la Circular NÂ° 8, de 2015.
 
 ## CONSIDERANDO:
 
-1.Que, de acuerdo a lo dispuesto por la Res. Ex. SII N° 1, de 2015, los contribuyentes que voluntariamente se acojan al Sistema Voluntario y Extraordinario de Declaración de Bienes o Rentas contenido en el artículo Vigésimo Cuarto Transitorio, deberán declararlo mediante la presentación del Formulario N° 1920 sobre 'Declaración Jurada Extraordinaria de Bienes, Divisas y Rentas' y su 'Anexo Inventario de Bienes, Divisas y Rentas', según formato e Instrucciones de llenado que se encuentran publicados en la página web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl));
+1.Que, de acuerdo a lo dispuesto por la Res. Ex. SII NÂ° 1, de 2015, los contribuyentes que voluntariamente se acojan al Sistema Voluntario y Extraordinario de DeclaraciÃ³n de Bienes o Rentas contenido en el artÃ­culo VigÃ©simo Cuarto Transitorio, deberÃ¡n declararlo mediante la presentaciÃ³n del Formulario NÂ° 1920 sobre 'DeclaraciÃ³n Jurada Extraordinaria de Bienes, Divisas y Rentas' y su 'Anexo Inventario de Bienes, Divisas y Rentas', segÃºn formato e Instrucciones de llenado que se encuentran publicados en la pÃ¡gina web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl));
 
-2.Que, el artículo 30 del Código Tributario faculta al Servicio para autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos;
+2.Que, el artÃ­culo 30 del CÃ³digo Tributario faculta al Servicio para autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnolÃ³gicos;
 
-3.Que, los artículos 6°, 7° y 9° de la Ley N° 19.880 sobre Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado establecen los principios de gratuidad, celeridad y economía procedimental y el artículo 19 de la señalada ley, permite la sustanciación del procedimiento administrativo por medios electrónicos;
+3.Que, los artÃ­culos 6Â°, 7Â° y 9Â° de la Ley NÂ° 19.880 sobre Bases de los Procedimientos Administrativos que rigen los Actos de la AdministraciÃ³n del Estado establecen los principios de gratuidad, celeridad y economÃ­a procedimental y el artÃ­culo 19 de la seÃ±alada ley, permite la sustanciaciÃ³n del procedimiento administrativo por medios electrÃ³nicos;
 
-4.Que, la transmisión electrónica de datos vía Internet es la que brinda la mayor rapidez y seguridad, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado y efectuar una validación automática de ellos;
+4.Que, la transmisiÃ³n electrÃ³nica de datos vÃ­a Internet es la que brinda la mayor rapidez y seguridad, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado y efectuar una validaciÃ³n automÃ¡tica de ellos;
 
 * 5.Que, a fin de prestar un mejor servicio al
 
 NSS/CGG/AVL
 
-## DISTRIBUCIÓN :
+## DISTRIBUCIÃ“N :
 
-* Al Boletín.
+* Al BoletÃ­n.
 * A Internet.
 * Al Diario Oficial, en Extracto
 
@@ -44,22 +43,22 @@ NSS/CGG/AVL
 
 * 1.-
 
-Reemplazase el Resolutivo 4° de la Res.
+Reemplazase el Resolutivo 4Â° de la Res.
 
-Ex. N°1, de 2015, por el siguiente:
+Ex. NÂ°1, de 2015, por el siguiente:
 
-'4.- El contenido del Formulario N° 1920 de 'Declaración de Bienes y Divisas en el extranjero' y su Anexo 'Inventario de Bienes, Divisas y Rentas', deberá ser llenado y presentado por los contribuyentes exclusivamente en la página web del Servicio, a través de la presentación electrónica del Formulario 1920'.
+'4.- El contenido del Formulario NÂ° 1920 de 'DeclaraciÃ³n de Bienes y Divisas en el extranjero' y su Anexo 'Inventario de Bienes, Divisas y Rentas', deberÃ¡ ser llenado y presentado por los contribuyentes exclusivamente en la pÃ¡gina web del Servicio, a travÃ©s de la presentaciÃ³n electrÃ³nica del Formulario 1920'.
 
-2.- Modificase el Resolutivo 6° de la Res. Ex. N°1, de 2015, incorporándose el siguiente párrafo final:
+2.- Modificase el Resolutivo 6Â° de la Res. Ex. NÂ°1, de 2015, incorporÃ¡ndose el siguiente pÃ¡rrafo final:
 
-'En el evento que los antecedentes de respaldo del Formulario 1920 declarado electrónicamente excedan de la capacidad permitida por el Sistema de Declaración de Bienes y Divisas en el extranjero, el contribuyente deberá presentarlos contenidos en un disco compacto adjunto a un Formulario 2117 en la Subdirección de Fiscalización del Servicio de Impuestos Internos, ubicada en Teatinos N° 120, piso 3°, Santiago, debiendo anexar en la aplicación por Internet, un listado con el detalle de los señalados documentos fundantes.
+'En el evento que los antecedentes de respaldo del Formulario 1920 declarado electrÃ³nicamente excedan de la capacidad permitida por el Sistema de DeclaraciÃ³n de Bienes y Divisas en el extranjero, el contribuyente deberÃ¡ presentarlos contenidos en un disco compacto adjunto a un Formulario 2117 en la SubdirecciÃ³n de FiscalizaciÃ³n del Servicio de Impuestos Internos, ubicada en Teatinos NÂ° 120, piso 3Â°, Santiago, debiendo anexar en la aplicaciÃ³n por Internet, un listado con el detalle de los seÃ±alados documentos fundantes.
 
-Por su parte, en caso que el contribuyente haya solicitado el giro en moneda extranjera éste deberá ser retirado en la señalada Subdirección de Fiscalización'.
+Por su parte, en caso que el contribuyente haya solicitado el giro en moneda extranjera Ã©ste deberÃ¡ ser retirado en la seÃ±alada SubdirecciÃ³n de FiscalizaciÃ³n'.
 
-3.- La presente Resolución regirá desde su publicación, en extracto, en el Diario Oficial.
+3.- La presente ResoluciÃ³n regirÃ¡ desde su publicaciÃ³n, en extracto, en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.

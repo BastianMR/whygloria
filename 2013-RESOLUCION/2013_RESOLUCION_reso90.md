@@ -1,42 +1,41 @@
----
-type: SII Resolución
-title: Resolución N° 150 (2013)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
-resource: ./2013_RESOLUCION_reso90.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 150 (2013)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A CONTRIBUYENTES QUE SEÃ‘ALAN.
 
 ## SANTIAGO, 23 de octubre de 2013.-
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÓN EXENTA SII N° \_\_\_\_\_\_\_90.-\_\_\_\_\_/
+## RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_\_\_90.-\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N°830, de 1974; en la Resolución Ex. SII N° 150, de diciembre de 2005; y,
+VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ°830, de 1974; en la ResoluciÃ³n Ex. SII NÂ° 150, de diciembre de 2005; y,
 
 ## CONSIDERANDO:
 
-1° Que, en la Res. Ex. SII N°1 21, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+1Â° Que, en la Res. Ex. SII NÂ°1 21, del 7 de Octubre del 2008, se ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-2° Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N° 150, de diciembre de 2005, a partir del año 2013.
+2Â° Que, los contribuyentes que se detallan en el Resolutivo primero, han solicitado incorporarse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica establecido en la Res. Ex. SII NÂ° 150, de diciembre de 2005, a partir del aÃ±o 2013.
 
-3° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica.
+3Â° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-4° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+4Â° Que, los contribuyentes listados en el Resolutivo tercero, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-Primero: Modifíquese la autorización a proceder conforme al modelo de operación de Contabilidad Electrónica, otorgada en la Res. Ex. SII N° 105, del 05 de Octubre de 2012, sustituyéndose a utilizar CAL propio tipo 4, Prestador de Servicios Contables, al siguiente contribuyente:
+Primero: ModifÃ­quese la autorizaciÃ³n a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, otorgada en la Res. Ex. SII NÂ° 105, del 05 de Octubre de 2012, sustituyÃ©ndose a utilizar CAL propio tipo 4, Prestador de Servicios Contables, al siguiente contribuyente:
 
 * CIRCULO VERDE S.A.
 
 96.531.710-4
 
-Segundo: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, utilizando CAL propio, a los siguientes contribuyentes:
+Segundo: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, utilizando CAL propio, a los siguientes contribuyentes:
 
 | **- AGENCIA DE ADUANAS FELIPE ESPINOSA R., GONZALO ESPINOSA R. Y CIA. LTDA.** | **76.320.451-0** |
 | --- | --- |
@@ -52,9 +51,9 @@ Segundo: Autorízase a proceder conforme al modelo de operación de Contabilidad
 | - SERVICIOS PROFESIONALES ANDRES BELLO S.A. | 96.567.170-6 |
 | - UNIVERSIDAD NACIONAL ANDRES BELLO | 71.540.100-2 |
 
-Se otorgará además al contribuyente RUT 77.921.880-5, Códigos de Autorización de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otras empresas del mismo holding.
+Se otorgarÃ¡ ademÃ¡s al contribuyente RUT 77.921.880-5, CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otras empresas del mismo holding.
 
-Tercero: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+Tercero: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
 
 | **- BANCO INTERNACIONAL** | **97.011.000-3** |
 | --- | --- |
@@ -62,7 +61,7 @@ Tercero: Autorízase a proceder conforme al modelo de operación de Contabilidad
 | - CIA. MINERA CERRO COLORADO LTDA. | 94.621.000-5 |
 | - DHL SUPPLY CHAIN CHILE S.A. | 96.950.550-9 |
 | - ENLASA GENERACION CHILE S.A. | 76.009.328-9 |
-| - GESTIÓN VIAL S.A. | 96.942.440-1 |
+| - GESTIÃ“N VIAL S.A. | 96.942.440-1 |
 | - GRUPO COSTANERA SPA. | 76.493.970-0 |
 | - HOTELERA NORTE SUR S.A. | 96.793.780-0 |
 | - INMOBILIARIA ROYAL S.A. | 96.823.490-0 |
@@ -78,7 +77,7 @@ Tercero: Autorízase a proceder conforme al modelo de operación de Contabilidad
 | - SOCIEDAD CONCESIONARIA AUTOPISTA NUEVA VESPUCIO SUR S.A. | 76.052.927-3 |
 | - SOCIEDAD CONCESIONARIA COSTANERA NORTE S.A. | 76.496.130-7 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LTDA., RUT 76.029.564-7, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LTDA., RUT 76.029.564-7, a los siguientes contribuyentes:
 
 | **- ADMINISTRADORA PARQUE DEL MAR S.A.** | **96.532.660-K** |
 | --- | --- |
@@ -109,7 +108,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - TRANSPORTES BETH LTDA. | 77.171.520-6 |
 | - TRANSPORTES BURANO LTDA. | 76.078.155-K |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8, a los siguientes contribuyentes:
 
 | **- BITUMIX AUSTRAL S.A.** | **76.154.515-9** |
 | --- | --- |
@@ -118,7 +117,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - EMPRESA PORTUARIA ARICA | 61.945.700-5 |
 | - PRODUCTOS BITUMINOSOS S.A. | 96.724.760-K |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9, a los siguientes contribuyentes:
 
 | **- AFEX AGENTES DE VALORES LTDA.** | **86.099.700-2** |
 | --- | --- |
@@ -151,14 +150,14 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - NUEVA APOQUINDO RENTISTA DE CAPITALES MOBILIARIOS LTDA. | 76.091.492-4 |
 | - RENTAS E INMOBILIARIA NUEVA APOQUINDO S.A. | 76.091.505-K |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de SOUTH CONSULTING SIGNATURE S.A., RUT 77.586.860-0, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE S.A., RUT 77.586.860-0, a los siguientes contribuyentes:
 
 | **- DHL EXPRESS (CHILE) LTDA.** | **86.966.100-7** |
 | --- | --- |
 | - COMERCIAL MIGUEL TORRES LTDA. | 76.012.980-1 |
 | - SOC. VINICOLA MIGUEL TORRES S.A. | 85.980.800-K |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9, a los siguientes contribuyentes:
 
 | **- ACMA S.A.** | **92.190.000-7** |
 | --- | --- |
@@ -193,7 +192,7 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 | - UNIVERSIDAD CATOLICA CARDENAL RAUL SILVA HENRIQUEZ | 71.912.200-0 |
 | - WHIRLPOOL CHILE LTDA. | 77.146.150-6 |
 
-Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de ARTIKOS CHILE S.A., RUT 96.953.410-K, al siguiente contribuyente:
+AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de ARTIKOS CHILE S.A., RUT 96.953.410-K, al siguiente contribuyente:
 
 * TECNO FAST ATCO S.A.
 
@@ -201,21 +200,21 @@ Autorízase a proceder conforme al modelo de operación de Contabilidad Electró
 
 ## Cuarto:
 
-Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de
+Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operaciÃ³n de
 
-Contabilidad Electrónica.
+Contabilidad ElectrÃ³nica.
 
 Quinto:
 
-Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2013 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
+AutorÃ­zase ademÃ¡s a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2013 en el formato digital establecido por el Servicio, para lo cual deberÃ¡ cumplir con lo establecido en el resolutivo segundo de la ResoluciÃ³n Ex. SII NÂ° 150, de Diciembre de 2005.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
-## RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÓN (S)
+## RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÃ“N (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## PVG/MSB/CPG/oba Distribución:
+## PVG/MSB/CPG/oba DistribuciÃ³n:
 
 * Internet
-* Boletín SII
+* BoletÃ­n SII

@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 6 (2015)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 06.- |
-resource: ./2015_CIRCULAR_circu6.md.docx
+title: Circular NÂ° 6 (2015)
+description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 06.- |
 tags: [SII, 2015, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 06.-** |
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 06.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 15 de enero de 2015.- |
-| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2015 y el 9 de febrero del año 2015. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÍA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
+| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de enero del aÃ±o 2015 y el 9 de febrero del aÃ±o 2015. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÃA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41º bis de la Ley de la Renta, y de conformidad al acuerdo 0507-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de enero del año 2015 y el 9 de febrero del año 2015, los cuales se indican en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41Âº bis de la Ley de la Renta, y de conformidad al acuerdo 0507-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de enero del aÃ±o 2015 y el 9 de febrero del aÃ±o 2015, los cuales se indican en forma destacada en negrita.
 
-VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
+VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
 
 (Publicado en D.O. de 09.01.2015)
 
-| **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** |
+| **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 24.627,10 | 24.553,98 |  |  |  |  |  |  |  |  |  |  |
@@ -56,4 +55,4 @@ Saluda a Ud.,
 
 MICHEL JORRATT DE LUIS DIRECTOR (T y P)
 
-## - AL BOLETÍN - A INTERNET
+## - AL BOLETÃN - A INTERNET

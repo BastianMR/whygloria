@@ -1,135 +1,134 @@
----
-type: SII Resolución
-title: Resolución N° 46 (2022)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
-resource: ./2022_RESOLUCION_reso46.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 46 (2022)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS
 
 DISPONE CAMBIO DE SUJETO TOTAL Y LA CALIDAD DE AGENTE RETENEDOR DE IVA A LOS EMISORES DE MEDIOS DE PAGO QUE INDICA, RESPECTO DE LOS SERVICIOS DE LA LETRA N) DEL DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
 
 SANTIAGO, 13 DE MAYO DE 2022
 
-RESOLUCIÓN EX. SII N°46.-
+RESOLUCIÃ“N EX. SII NÂ°46.-
 
-VISTOS: Lo dispuesto en los artículos 1°, 4° bis, 7° letra b) y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 3° inciso séptimo, 8° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974; en la Circular N° 42 de 2020; y en las Resoluciones Ex. SII N° 55, N° 67, N° 91 y N° 167, todas de 2020.
+VISTOS: Lo dispuesto en los artÃ­culos 1Â°, 4Â° bis, 7Â° letra b) y 9Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; en el artÃ­culo 6Â°, letra A), NÂ° 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974; en los artÃ­culos 3Â° inciso sÃ©ptimo, 8Â° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley NÂ° 825, de 1974; en la Circular NÂ° 42 de 2020; y en las Resoluciones Ex. SII NÂ° 55, NÂ° 67, NÂ° 91 y NÂ° 167, todas de 2020.
 
 ## CONSIDERANDO:
 
-1° Que, el artículo 35 A de la Ley sobre Impuesto a las Ventas y Servicios (en adelante LIVS), establece que los contribuyentes sin domicilio ni residencia en Chile que presten servicios de la letra n) del artículo 8° de la misma ley, para ser utilizados en el territorio nacional por personas naturales que no sean contribuyentes del Impuesto al Valor Agregado (en adelante IVA), deberán sujetarse a un régimen de tributación simplificada.
+1Â° Que, el artÃ­culo 35 A de la Ley sobre Impuesto a las Ventas y Servicios (en adelante LIVS), establece que los contribuyentes sin domicilio ni residencia en Chile que presten servicios de la letra n) del artÃ­culo 8Â° de la misma ley, para ser utilizados en el territorio nacional por personas naturales que no sean contribuyentes del Impuesto al Valor Agregado (en adelante IVA), deberÃ¡n sujetarse a un rÃ©gimen de tributaciÃ³n simplificada.
 
-* 2° Que, de acuerdo con lo instruido en el apartado 3.1. de la Circular N° 42 de 2020, el régimen de tributación simplificada es aplicable a todas las operaciones efectuadas con personas naturales y jurídicas que no tengan la calidad de contribuyentes del IVA.
+* 2Â° Que, de acuerdo con lo instruido en el apartado 3.1. de la Circular NÂ° 42 de 2020, el rÃ©gimen de tributaciÃ³n simplificada es aplicable a todas las operaciones efectuadas con personas naturales y jurÃ­dicas que no tengan la calidad de contribuyentes del IVA.
 
-3° Que, el inciso primero del artículo 35 D de la LIVS dispone que los contribuyentes sujetos al régimen de tributación simplificada deberán recargar el IVA a la contraprestación por los servicios afectos a dicho impuesto, el que se calculará aplicando a la referida contraprestación la tasa establecida en el artículo 14 de la misma ley.
+3Â° Que, el inciso primero del artÃ­culo 35 D de la LIVS dispone que los contribuyentes sujetos al rÃ©gimen de tributaciÃ³n simplificada deberÃ¡n recargar el IVA a la contraprestaciÃ³n por los servicios afectos a dicho impuesto, el que se calcularÃ¡ aplicando a la referida contraprestaciÃ³n la tasa establecida en el artÃ­culo 14 de la misma ley.
 
-4° Que, el inciso séptimo del artículo 3° de la LIVS establece que el Servicio de Impuestos Internos podrá disponer, mediante resolución fundada, que los emisores de tarjetas de crédito, tarjetas de débito, tarjetas de pago con provisión de fondos u otros sistemas de pago análogos, retengan el total o una parte de los impuestos contemplados en dicha ley, respecto de todo o parte de las operaciones realizadas por prestadores domiciliados o residentes en el extranjero que no se hayan sujetado al régimen de tributación simplificada y que se solucionen por su intermedio.
+4Â° Que, el inciso sÃ©ptimo del artÃ­culo 3Â° de la LIVS establece que el Servicio de Impuestos Internos podrÃ¡ disponer, mediante resoluciÃ³n fundada, que los emisores de tarjetas de crÃ©dito, tarjetas de dÃ©bito, tarjetas de pago con provisiÃ³n de fondos u otros sistemas de pago anÃ¡logos, retengan el total o una parte de los impuestos contemplados en dicha ley, respecto de todo o parte de las operaciones realizadas por prestadores domiciliados o residentes en el extranjero que no se hayan sujetado al rÃ©gimen de tributaciÃ³n simplificada y que se solucionen por su intermedio.
 
-5° Que, conforme al cambio de sujeto de derecho del IVA dispuesto en el inciso séptimo del artículo 3° de la LIVS, los emisores de los medios de pago que se indican en el resolutivo 1° de esta resolución, en su calidad de sujetos de derecho del IVA, deben retener dicho impuesto al sujeto pasivo de hecho, declararlo y enterarlo en arcas fiscales.
+5Â° Que, conforme al cambio de sujeto de derecho del IVA dispuesto en el inciso sÃ©ptimo del artÃ­culo 3Â° de la LIVS, los emisores de los medios de pago que se indican en el resolutivo 1Â° de esta resoluciÃ³n, en su calidad de sujetos de derecho del IVA, deben retener dicho impuesto al sujeto pasivo de hecho, declararlo y enterarlo en arcas fiscales.
 
-6° Que, el compendio de normas de operación, intermediación y control del Banco Central, en su Capítulo III letra J. 1, el cual forma parte integrante del Compendio de Normas Financieras del mismo banco, que regula los sistemas de pago a través de tarjetas y otros medios electrónicos, define como tarjeta de crédito, tarjeta de débito y tarjeta con provisión de fondos, cualquier instrumento o dispositivo físico, electrónico o informático que cuente con un sistema de identificación único del respectivo medio de pago y cuyo soporte contenga la información y condiciones de seguridad acordes con tal carácter, que permita a su titular o usuario disponer de un crédito o, en su caso, de recursos depositados en una cuenta, según la naturaleza de la tarjeta respectiva, y conforme a la definición específica contenida en los subcapítulos de la normativa en comento.
+6Â° Que, el compendio de normas de operaciÃ³n, intermediaciÃ³n y control del Banco Central, en su CapÃ­tulo III letra J. 1, el cual forma parte integrante del Compendio de Normas Financieras del mismo banco, que regula los sistemas de pago a travÃ©s de tarjetas y otros medios electrÃ³nicos, define como tarjeta de crÃ©dito, tarjeta de dÃ©bito y tarjeta con provisiÃ³n de fondos, cualquier instrumento o dispositivo fÃ­sico, electrÃ³nico o informÃ¡tico que cuente con un sistema de identificaciÃ³n Ãºnico del respectivo medio de pago y cuyo soporte contenga la informaciÃ³n y condiciones de seguridad acordes con tal carÃ¡cter, que permita a su titular o usuario disponer de un crÃ©dito o, en su caso, de recursos depositados en una cuenta, segÃºn la naturaleza de la tarjeta respectiva, y conforme a la definiciÃ³n especÃ­fica contenida en los subcapÃ­tulos de la normativa en comento.
 
-7° Que, el inciso primero del artículo 35 I de la LIVS establece que el Servicio de Impuestos Internos podrá utilizar todos los medios de fiscalización tecnológicos de que disponga para verificar el cumplimiento de las obligaciones tributarias que digan relación con los hechos gravados establecidos en la letra n) del artículo 8° de dicha ley, sujetos al régimen de tributación simplificada y que sean prestados digitalmente, independientemente del lugar o jurisdicción donde la información respectiva se encuentre alojada.
+7Â° Que, el inciso primero del artÃ­culo 35 I de la LIVS establece que el Servicio de Impuestos Internos podrÃ¡ utilizar todos los medios de fiscalizaciÃ³n tecnolÃ³gicos de que disponga para verificar el cumplimiento de las obligaciones tributarias que digan relaciÃ³n con los hechos gravados establecidos en la letra n) del artÃ­culo 8Â° de dicha ley, sujetos al rÃ©gimen de tributaciÃ³n simplificada y que sean prestados digitalmente, independientemente del lugar o jurisdicciÃ³n donde la informaciÃ³n respectiva se encuentre alojada.
 
-8° Que, este Servicio, con el objeto de resguardar el interés fiscal, se encuentra legalmente facultado para aplicar el cambio de sujeto dispuesto en el inciso séptimo del artículo 3° de la LIVS, respecto de aquellos prestadores sin domicilio ni residencia en Chile que no se han sujetado al régimen de tributación simplificada establecido en los artículos 35 A y siguientes del mismo cuerpo legal, regulado a través de las Resoluciones Ex. SII N° 55 y N° 67, ambas de 2020, ya sea porque no se han inscrito en dicho régimen o bien porque estando inscritos, no han pagado el IVA correspondiente por los servicios prestados gravados en la letra n) del artículo 8° de la LIVS.
+8Â° Que, este Servicio, con el objeto de resguardar el interÃ©s fiscal, se encuentra legalmente facultado para aplicar el cambio de sujeto dispuesto en el inciso sÃ©ptimo del artÃ­culo 3Â° de la LIVS, respecto de aquellos prestadores sin domicilio ni residencia en Chile que no se han sujetado al rÃ©gimen de tributaciÃ³n simplificada establecido en los artÃ­culos 35 A y siguientes del mismo cuerpo legal, regulado a travÃ©s de las Resoluciones Ex. SII NÂ° 55 y NÂ° 67, ambas de 2020, ya sea porque no se han inscrito en dicho rÃ©gimen o bien porque estando inscritos, no han pagado el IVA correspondiente por los servicios prestados gravados en la letra n) del artÃ­culo 8Â° de la LIVS.
 
 ## SE RESUELVE:
 
-1° Dispóngase el cambio total de sujeto de derecho del IVA que grava los servicios de la letra n) del artículo 8° de la LIVS, prestados por contribuyentes sin domicilio ni residencia en Chile a que se refiere el resolutivo cuarto de la presente instrucción, el cual recaerá en:
+1Â° DispÃ³ngase el cambio total de sujeto de derecho del IVA que grava los servicios de la letra n) del artÃ­culo 8Â° de la LIVS, prestados por contribuyentes sin domicilio ni residencia en Chile a que se refiere el resolutivo cuarto de la presente instrucciÃ³n, el cual recaerÃ¡ en:
 
 * i. Bancos;
 * ii. Sociedades de apoyo al giro bancarias;
-* iii. Cooperativas de ahorro y crédito; y
+* iii. Cooperativas de ahorro y crÃ©dito; y
 * iv. Emisores no bancarios.
 
-Todos los anteriores constituidos en el país y emisores de alguno de los medios de pago que se indican a continuación, que permitan efectuar pagos a prestadores de servicios sin domicilio ni residencia en Chile:
+Todos los anteriores constituidos en el paÃ­s y emisores de alguno de los medios de pago que se indican a continuaciÃ³n, que permitan efectuar pagos a prestadores de servicios sin domicilio ni residencia en Chile:
 
-* a) Tarjetas de crédito;
-* b) Tarjetas de débito;
-* c) Tarjetas de pago con provisión de fondos;
-* d) Cualquier otro sistema de pago análogo a los anteriores.
+* a) Tarjetas de crÃ©dito;
+* b) Tarjetas de dÃ©bito;
+* c) Tarjetas de pago con provisiÃ³n de fondos;
+* d) Cualquier otro sistema de pago anÃ¡logo a los anteriores.
 
-Los emisores indicados en los numerales i. a iv. anteriores, tendrán la calidad de agentes retenedores de IVA.
+Los emisores indicados en los numerales i. a iv. anteriores, tendrÃ¡n la calidad de agentes retenedores de IVA.
 
-2° Los emisores de las tarjetas de pago por cuyo intermedio se paguen las contraprestaciones por los servicios de la letra n) del artículo 8° de la LIVS a un contribuyente respecto del cual se ha aplicado el cambio de sujeto, deberán recargar el IVA que grava tales servicios. Quedarán exceptuados de dicho recargo los beneficiarios que sean contribuyentes de IVA quienes, conforme a la letra e), del artículo 11 de la LIVS, son sujetos del impuesto.
+2Â° Los emisores de las tarjetas de pago por cuyo intermedio se paguen las contraprestaciones por los servicios de la letra n) del artÃ­culo 8Â° de la LIVS a un contribuyente respecto del cual se ha aplicado el cambio de sujeto, deberÃ¡n recargar el IVA que grava tales servicios. QuedarÃ¡n exceptuados de dicho recargo los beneficiarios que sean contribuyentes de IVA quienes, conforme a la letra e), del artÃ­culo 11 de la LIVS, son sujetos del impuesto.
 
-El monto del IVA que se debe recargar por los emisores de las tarjetas de pago corresponderá a la tasa del IVA vigente aplicada a la contraprestación por los servicios pagados por intermedio del emisor de tarjetas de pago, al prestador de servicios sin domicilio ni residencia en Chile afecto al cambio de sujeto. El recargo debe efectuarse en la misma moneda en que se realizó la transacción respectiva.
+El monto del IVA que se debe recargar por los emisores de las tarjetas de pago corresponderÃ¡ a la tasa del IVA vigente aplicada a la contraprestaciÃ³n por los servicios pagados por intermedio del emisor de tarjetas de pago, al prestador de servicios sin domicilio ni residencia en Chile afecto al cambio de sujeto. El recargo debe efectuarse en la misma moneda en que se realizÃ³ la transacciÃ³n respectiva.
 
-Conforme a lo expuesto, los emisores están obligados a retener el total del IVA que hayan recargado a los beneficiarios de servicios que no sean contribuyentes de dicho impuesto, considerando la paridad cambiaria dispuesta en el resolutivo tercero siguiente, a declararlo y a enterarlo en arcas fiscales.
+Conforme a lo expuesto, los emisores estÃ¡n obligados a retener el total del IVA que hayan recargado a los beneficiarios de servicios que no sean contribuyentes de dicho impuesto, considerando la paridad cambiaria dispuesta en el resolutivo tercero siguiente, a declararlo y a enterarlo en arcas fiscales.
 
-Será responsabilidad de los contribuyentes de IVA comunicar su calidad de tal a los emisores de tarjetas de pago por cuyo intermedio se efectúen pagos a un prestador de servicios sin domicilio ni residencia en Chile afecto al cambio de sujeto, a objeto que el emisor no les recargue el IVA. En caso de no indicar dicha calidad, o si la información sobre la calidad de contribuyente de IVA no es coincidente con la información disponible en el sitio web de este Servicio sobre la situación tributaria de terceros, el emisor de la tarjeta de pago deberá recargar el IVA.
+SerÃ¡ responsabilidad de los contribuyentes de IVA comunicar su calidad de tal a los emisores de tarjetas de pago por cuyo intermedio se efectÃºen pagos a un prestador de servicios sin domicilio ni residencia en Chile afecto al cambio de sujeto, a objeto que el emisor no les recargue el IVA. En caso de no indicar dicha calidad, o si la informaciÃ³n sobre la calidad de contribuyente de IVA no es coincidente con la informaciÃ³n disponible en el sitio web de este Servicio sobre la situaciÃ³n tributaria de terceros, el emisor de la tarjeta de pago deberÃ¡ recargar el IVA.
 
-3° El IVA retenido por los agentes retenedores debe ser declarado y enterado en arcas fiscales en pesos chilenos, a través del formulario de Declaración Mensual y Pago Simultáneo de Impuestos (Formulario 29), en la fecha que corresponda del mes siguiente a aquel en que se haya efectuado la retención.
+3Â° El IVA retenido por los agentes retenedores debe ser declarado y enterado en arcas fiscales en pesos chilenos, a travÃ©s del formulario de DeclaraciÃ³n Mensual y Pago SimultÃ¡neo de Impuestos (Formulario 29), en la fecha que corresponda del mes siguiente a aquel en que se haya efectuado la retenciÃ³n.
 
-El IVA que se debe declarar y enterar en arcas fiscales por los agentes retenedores, corresponde al monto recargado por tal concepto al tarjetahabiente, convertido a pesos chilenos. Para determinar la paridad cambiaria entre la moneda extranjera y la nacional, se estará al tipo de cambio publicado por el Banco Central a la fecha del devengo del impuesto, esto es a la fecha del recargo de la contraprestación por parte del tarjetahabiente, mediante cualquiera de los medios de pago indicados en las letras a) a d) del resolutivo primero.
+El IVA que se debe declarar y enterar en arcas fiscales por los agentes retenedores, corresponde al monto recargado por tal concepto al tarjetahabiente, convertido a pesos chilenos. Para determinar la paridad cambiaria entre la moneda extranjera y la nacional, se estarÃ¡ al tipo de cambio publicado por el Banco Central a la fecha del devengo del impuesto, esto es a la fecha del recargo de la contraprestaciÃ³n por parte del tarjetahabiente, mediante cualquiera de los medios de pago indicados en las letras a) a d) del resolutivo primero.
 
-El IVA retenido constituirá para el agente retenedor un impuesto de retención, el cual se deberá declarar y pagar íntegramente en arcas fiscales, sin que opere a su respecto imputación o deducción alguna, sin perjuicio de los ajustes por reversiones y contracargos (disputas) que correspondan.
+El IVA retenido constituirÃ¡ para el agente retenedor un impuesto de retenciÃ³n, el cual se deberÃ¡ declarar y pagar Ã­ntegramente en arcas fiscales, sin que opere a su respecto imputaciÃ³n o deducciÃ³n alguna, sin perjuicio de los ajustes por reversiones y contracargos (disputas) que correspondan.
 
-4° El cambio de sujeto y la correspondiente retención del IVA, deberá aplicarse respecto de los contribuyentes sin domicilio ni residencia en Chile, que presten los servicios a que se refiere la letra n) del artículo 8° de la LIVS, individualizados mediante resolución dictada por el Servicio de Impuestos Internos e incorporados en la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' .
+4Â° El cambio de sujeto y la correspondiente retenciÃ³n del IVA, deberÃ¡ aplicarse respecto de los contribuyentes sin domicilio ni residencia en Chile, que presten los servicios a que se refiere la letra n) del artÃ­culo 8Â° de la LIVS, individualizados mediante resoluciÃ³n dictada por el Servicio de Impuestos Internos e incorporados en la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' .
 
-En el proceso de pago de transacciones internacionales por servicios gravados en la letra n) del artículo 8° de la LIVS, a través de los medios
+En el proceso de pago de transacciones internacionales por servicios gravados en la letra n) del artÃ­culo 8Â° de la LIVS, a travÃ©s de los medios
 
-de pago indicados en las letras a) a d) del resolutivo primero, o mediante otro sistema de pago análogo, los emisores, en su calidad de agentes retenedores, deberán verificar si el prestador del servicio, y destinatario final del pago, se encuentra incluido o no en la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' para efectos de recargar el IVA que grava dichos servicios a los beneficiarios que no sean contribuyentes del IVA.
+de pago indicados en las letras a) a d) del resolutivo primero, o mediante otro sistema de pago anÃ¡logo, los emisores, en su calidad de agentes retenedores, deberÃ¡n verificar si el prestador del servicio, y destinatario final del pago, se encuentra incluido o no en la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' para efectos de recargar el IVA que grava dichos servicios a los beneficiarios que no sean contribuyentes del IVA.
 
-5° La calidad de contribuyente afecto al cambio de sujeto respecto de un prestador de servicios sin domicilio ni residencia en Chile, y su permanencia en la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto', se mantendrá a menos que concurra alguna de las siguientes causales de exclusión, según corresponda:
+5Â° La calidad de contribuyente afecto al cambio de sujeto respecto de un prestador de servicios sin domicilio ni residencia en Chile, y su permanencia en la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto', se mantendrÃ¡ a menos que concurra alguna de las siguientes causales de exclusiÃ³n, segÃºn corresponda:
 
-* a) Inscripción por parte del prestador de servicios sin domicilio ni residencia en Chile en el régimen de tributación simplificada y pago del IVA devengado, conforme lo dispuesto en las Resoluciones Exentas SII N° 55 y N° 67, ambas de 2020.
-* b) Pago de la totalidad del monto adeudado por el prestador de servicios sin domicilio ni residencia en Chile, excluido del régimen de tributación simplificada, por concepto de IVA, reajuste, intereses y multas.
+* a) InscripciÃ³n por parte del prestador de servicios sin domicilio ni residencia en Chile en el rÃ©gimen de tributaciÃ³n simplificada y pago del IVA devengado, conforme lo dispuesto en las Resoluciones Exentas SII NÂ° 55 y NÂ° 67, ambas de 2020.
+* b) Pago de la totalidad del monto adeudado por el prestador de servicios sin domicilio ni residencia en Chile, excluido del rÃ©gimen de tributaciÃ³n simplificada, por concepto de IVA, reajuste, intereses y multas.
 * c) Que el prestador extranjero sin domicilio ni residencia en Chile acredite fehacientemente que todos los beneficiarios de sus servicios son exclusivamente contribuyentes de IVA.
 
-6° La nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' será establecida mediante resolución y será publicada en el sitio web del Servicio de Impuestos Internos ([<u>www.sii.cl</u>](http://www.sii.cl)) el día 15 de diciembre de cada año. Si esta fecha correspondiere a sábado, domingo o festivo, la publicación se efectuará el primer día hábil siguiente. La nómina regirá a contar del 1° de enero del año calendario venidero, sin perjuicio de las exclusiones o inclusiones que se efectúen.
+6Â° La nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' serÃ¡ establecida mediante resoluciÃ³n y serÃ¡ publicada en el sitio web del Servicio de Impuestos Internos ([<u>www.sii.cl</u>](http://www.sii.cl)) el dÃ­a 15 de diciembre de cada aÃ±o. Si esta fecha correspondiere a sÃ¡bado, domingo o festivo, la publicaciÃ³n se efectuarÃ¡ el primer dÃ­a hÃ¡bil siguiente. La nÃ³mina regirÃ¡ a contar del 1Â° de enero del aÃ±o calendario venidero, sin perjuicio de las exclusiones o inclusiones que se efectÃºen.
 
-Los contribuyentes respecto de los cuales aplique alguna de las cláusulas de exclusión a que se refiere el resolutivo quinto, podrán solicitar al Servicio de Impuestos internos su exclusión de la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' a través de la casilla <u>ivasd.chile@sii.cl</u>, adjuntando toda aquella información, antecedentes y documentos que fundamenten su solicitud.
+Los contribuyentes respecto de los cuales aplique alguna de las clÃ¡usulas de exclusiÃ³n a que se refiere el resolutivo quinto, podrÃ¡n solicitar al Servicio de Impuestos internos su exclusiÃ³n de la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' a travÃ©s de la casilla <u>ivasd.chile@sii.cl</u>, adjuntando toda aquella informaciÃ³n, antecedentes y documentos que fundamenten su solicitud.
 
-El Servicio resolverá mediante resolución, la cual será comunicada al contribuyente al mismo correo a través del cual presentó su solicitud.
+El Servicio resolverÃ¡ mediante resoluciÃ³n, la cual serÃ¡ comunicada al contribuyente al mismo correo a travÃ©s del cual presentÃ³ su solicitud.
 
-Si procediere la exclusión, ésta operará a partir de las fechas que se indican en la siguiente tabla (dependiendo de la fecha de la solicitud):
+Si procediere la exclusiÃ³n, Ã©sta operarÃ¡ a partir de las fechas que se indican en la siguiente tabla (dependiendo de la fecha de la solicitud):
 
-| **Fecha de la solicitud** | **Fecha a partir de la cual operará la exclusión** | **Fecha de publicación en** [**<u>www.sii.cl</u>**](http://www.sii.cl) **\*** |
+| **Fecha de la solicitud** | **Fecha a partir de la cual operarÃ¡ la exclusiÃ³n** | **Fecha de publicaciÃ³n en** [**<u>www.sii.cl</u>**](http://www.sii.cl) **\*** |
 | --- | --- | --- |
-| Entre el 1° de enero y 31 de marzo | 1° de mayo | 15 de abril |
-| Entre el 1° de abril y 30 de junio | 1° de agosto | 15 de julio |
-| Entre el 1° de julio y 30 de septiembre | 1° de noviembre | 15 de octubre |
-| Entre el 1° de octubre y 31 de diciembre | 1° de febrero año entrante | 15 de enero |
+| Entre el 1Â° de enero y 31 de marzo | 1Â° de mayo | 15 de abril |
+| Entre el 1Â° de abril y 30 de junio | 1Â° de agosto | 15 de julio |
+| Entre el 1Â° de julio y 30 de septiembre | 1Â° de noviembre | 15 de octubre |
+| Entre el 1Â° de octubre y 31 de diciembre | 1Â° de febrero aÃ±o entrante | 15 de enero |
 
-* Si esta fecha cae sábado, domingo o festivo, la publicación se hará el primer día hábil siguiente.
+* Si esta fecha cae sÃ¡bado, domingo o festivo, la publicaciÃ³n se harÃ¡ el primer dÃ­a hÃ¡bil siguiente.
 
 'Contribuyentes IVA SD Afectos a Cambio de Sujeto'
 
-Las exclusiones constituyen un ajuste a la nómina y serán publicadas en el sitio web del Servicio
+Las exclusiones constituyen un ajuste a la nÃ³mina y serÃ¡n publicadas en el sitio web del Servicio
 
 de Impuestos Internos ([<u>www.sii.cl</u>](http://www.sii.cl)), para conocimiento de los agentes retenedores, en las fechas indicadas en la tabla anterior.
 
-Las exclusiones también podrán operar por determinación directa del Servicio de Impuestos Internos en base a la información que este disponga, y se publicarán en la página web de este Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), para conocimiento de los agentes retenedores, en las mismas fechas que las exclusiones.
+Las exclusiones tambiÃ©n podrÃ¡n operar por determinaciÃ³n directa del Servicio de Impuestos Internos en base a la informaciÃ³n que este disponga, y se publicarÃ¡n en la pÃ¡gina web de este Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), para conocimiento de los agentes retenedores, en las mismas fechas que las exclusiones.
 
-Por otra parte, las incorporaciones a la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' se publicarán en el sitio web del Servicio de Impuestos Internos (ww.sii.cl), para conocimiento de los agentes retenedores, en las mismas fechas que las exclusiones. En este caso, el recargo y retención del IVA por parte del agente retenedor operará a partir del primer día hábil del mes siguiente a dichas fechas.
+Por otra parte, las incorporaciones a la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' se publicarÃ¡n en el sitio web del Servicio de Impuestos Internos (ww.sii.cl), para conocimiento de los agentes retenedores, en las mismas fechas que las exclusiones. En este caso, el recargo y retenciÃ³n del IVA por parte del agente retenedor operarÃ¡ a partir del primer dÃ­a hÃ¡bil del mes siguiente a dichas fechas.
 
-7° Los contribuyentes a que se refieren los numerales i. a iv. del resolutivo primero, deberán llevar un registro denominado 'Reporte Retenciones IVA SD' en el cual se detalle: nombre o razón social del comercio prestador del servicio; Id. del comercio; rubro del comercio; país del comercio asociado a la transacción; número o código de la referencia bancaria internacional; fecha de la retención; monto neto de la remuneración pagada al prestador; IVA recargado; IVA retenido. Además, en caso de reversiones o contracargos (disputas), se deberá indicar: fecha en que la operación fue reversada o se efectuaron contracargos; monto neto de las reversiones y/o contracargos; IVA asociado a las reversiones y/o contracargos. Todo lo anterior conforme al formato y estructura de datos detallados en el Anexo, el cual forma parte integrante de esta resolución.
+7Â° Los contribuyentes a que se refieren los numerales i. a iv. del resolutivo primero, deberÃ¡n llevar un registro denominado 'Reporte Retenciones IVA SD' en el cual se detalle: nombre o razÃ³n social del comercio prestador del servicio; Id. del comercio; rubro del comercio; paÃ­s del comercio asociado a la transacciÃ³n; nÃºmero o cÃ³digo de la referencia bancaria internacional; fecha de la retenciÃ³n; monto neto de la remuneraciÃ³n pagada al prestador; IVA recargado; IVA retenido. AdemÃ¡s, en caso de reversiones o contracargos (disputas), se deberÃ¡ indicar: fecha en que la operaciÃ³n fue reversada o se efectuaron contracargos; monto neto de las reversiones y/o contracargos; IVA asociado a las reversiones y/o contracargos. Todo lo anterior conforme al formato y estructura de datos detallados en el Anexo, el cual forma parte integrante de esta resoluciÃ³n.
 
-El 'Reporte Retenciones IVA SD ' deberá ser enviado a este Servicio a través de medios tecnológicos el último día hábil de agosto de cada año, respecto de las retenciones practicadas entre el 1° de enero y el 30 de junio de la misma anualidad; y el último día hábil de febrero de cada año, respecto de las retenciones practicadas entre el 1° de julio y el 31 de diciembre la misma anualidad. Las instrucciones para su envío se comunicarán oportunamente.
+El 'Reporte Retenciones IVA SD ' deberÃ¡ ser enviado a este Servicio a travÃ©s de medios tecnolÃ³gicos el Ãºltimo dÃ­a hÃ¡bil de agosto de cada aÃ±o, respecto de las retenciones practicadas entre el 1Â° de enero y el 30 de junio de la misma anualidad; y el Ãºltimo dÃ­a hÃ¡bil de febrero de cada aÃ±o, respecto de las retenciones practicadas entre el 1Â° de julio y el 31 de diciembre la misma anualidad. Las instrucciones para su envÃ­o se comunicarÃ¡n oportunamente.
 
-Los agentes retenedores deberán registrar en cuentas separadas en sus libros de contabilidad o auxiliares las retenciones de IVA efectuadas a los prestadores extranjeros incluidos en la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' .
+Los agentes retenedores deberÃ¡n registrar en cuentas separadas en sus libros de contabilidad o auxiliares las retenciones de IVA efectuadas a los prestadores extranjeros incluidos en la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' .
 
-8° En forma excepcional y transitoriamente, entre la fecha de vigencia de la presente resolución y el 31 de octubre de 2022, los contribuyentes de IVA que hayan emitido una factura de compra por los servicios prestados por un contribuyente sin domicilio ni residencia en Chile incluido en la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' y que hayan declarado y pagado el IVA, podrán solicitar al Servicio de Impuestos Internos su devolución conforme al artículo 126 del Código Tributario. Corresponderá al propio interesado, sin mediar intervención del agente retenedor, adjuntar todos los antecedentes o documentos que fundamenten debidamente su solicitud y que acrediten el derecho a la devolución solicitada. La solicitud se resolverá mediante una resolución, la que será notificada al contribuyente de IVA conforme a las reglas generales.
+8Â° En forma excepcional y transitoriamente, entre la fecha de vigencia de la presente resoluciÃ³n y el 31 de octubre de 2022, los contribuyentes de IVA que hayan emitido una factura de compra por los servicios prestados por un contribuyente sin domicilio ni residencia en Chile incluido en la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' y que hayan declarado y pagado el IVA, podrÃ¡n solicitar al Servicio de Impuestos Internos su devoluciÃ³n conforme al artÃ­culo 126 del CÃ³digo Tributario. CorresponderÃ¡ al propio interesado, sin mediar intervenciÃ³n del agente retenedor, adjuntar todos los antecedentes o documentos que fundamenten debidamente su solicitud y que acrediten el derecho a la devoluciÃ³n solicitada. La solicitud se resolverÃ¡ mediante una resoluciÃ³n, la que serÃ¡ notificada al contribuyente de IVA conforme a las reglas generales.
 
-9° Deléguese en el Subdirector(a) de Fiscalización del Servicio de Impuestos Internos la facultad de incorporar o excluir a contribuyentes sin domicilio ni residencia en Chile de la nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto'.
+9Â° DelÃ©guese en el Subdirector(a) de FiscalizaciÃ³n del Servicio de Impuestos Internos la facultad de incorporar o excluir a contribuyentes sin domicilio ni residencia en Chile de la nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto'.
 
-El Subdirector(a) de Fiscalización podrá, asimismo, exceptuar de su calidad de agente retenedor a los emisores que se indican en los numerales i. a iv. del resolutivo primero. En este caso, el retenedor deberá elevar ante el Servicio de Impuestos Internos la respectiva petición administrativa, que puede ser presentada a través del sitio web del SII, la cual será resuelta mediante resolución y comunicada al interesado al correo electrónico que
+El Subdirector(a) de FiscalizaciÃ³n podrÃ¡, asimismo, exceptuar de su calidad de agente retenedor a los emisores que se indican en los numerales i. a iv. del resolutivo primero. En este caso, el retenedor deberÃ¡ elevar ante el Servicio de Impuestos Internos la respectiva peticiÃ³n administrativa, que puede ser presentada a travÃ©s del sitio web del SII, la cual serÃ¡ resuelta mediante resoluciÃ³n y comunicada al interesado al correo electrÃ³nico que
 
 <unknown>
 
-este haya registrado en su solicitud. La fecha en que expirará la calidad de agente retenedor se comunicará en la propia resolución.
+este haya registrado en su solicitud. La fecha en que expirarÃ¡ la calidad de agente retenedor se comunicarÃ¡ en la propia resoluciÃ³n.
 
-En las resoluciones que se dicten en uso de la facultad delegada, deberá dejarse constancia que ellas se dictan haciendo uso de la referida delegación.
+En las resoluciones que se dicten en uso de la facultad delegada, deberÃ¡ dejarse constancia que ellas se dictan haciendo uso de la referida delegaciÃ³n.
 
-10° El incumplimiento por parte del agente retenedor de la obligación de recargar, retener, declarar y pagar el IVA, será sancionado con la multa establecida en el artículo 97 N° 11 del Código Tributario, sin perjuicio de los reajustes e intereses que establece el artículo 53 Código Tributario respecto del monto que se debió retener, según corresponda.
+10Â° El incumplimiento por parte del agente retenedor de la obligaciÃ³n de recargar, retener, declarar y pagar el IVA, serÃ¡ sancionado con la multa establecida en el artÃ­culo 97 NÂ° 11 del CÃ³digo Tributario, sin perjuicio de los reajustes e intereses que establece el artÃ­culo 53 CÃ³digo Tributario respecto del monto que se debiÃ³ retener, segÃºn corresponda.
 
-11° El cambio de sujeto y la obligación de retención dispuestos en esta resolución regirán a contar del 1° de agosto de 2022, y aplicará a las contraprestaciones cargadas a contar de dicha fecha, en tarjetas de crédito, tarjetas de débito, tarjetas de pago con provisión de fondos, o cualquier otro sistema de pago análogo.
+11Â° El cambio de sujeto y la obligaciÃ³n de retenciÃ³n dispuestos en esta resoluciÃ³n regirÃ¡n a contar del 1Â° de agosto de 2022, y aplicarÃ¡ a las contraprestaciones cargadas a contar de dicha fecha, en tarjetas de crÃ©dito, tarjetas de dÃ©bito, tarjetas de pago con provisiÃ³n de fondos, o cualquier otro sistema de pago anÃ¡logo.
 
-La primera nómina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' , en forma excepcional y por única vez, será publicada el día 1° de junio de 2022 y regirá hasta el día 31 de diciembre del mismo año, sin perjuicio de las exclusiones o inclusiones que correspondan.
+La primera nÃ³mina 'Contribuyentes IVA SD Afectos a Cambio de Sujeto' , en forma excepcional y por Ãºnica vez, serÃ¡ publicada el dÃ­a 1Â° de junio de 2022 y regirÃ¡ hasta el dÃ­a 31 de diciembre del mismo aÃ±o, sin perjuicio de las exclusiones o inclusiones que correspondan.
 
-El primer 'Reporte Retenciones IVA SD', que debe ser enviado el último día hábil de febrero, incluirá las retenciones efectuadas desde vigencia del cambio de sujeto, esto es desde el 1° de agosto de 2022 hasta el 31 de diciembre de 2022.
+El primer 'Reporte Retenciones IVA SD', que debe ser enviado el Ãºltimo dÃ­a hÃ¡bil de febrero, incluirÃ¡ las retenciones efectuadas desde vigencia del cambio de sujeto, esto es desde el 1Â° de agosto de 2022 hasta el 31 de diciembre de 2022.
 
 <unknown>
 
@@ -139,7 +138,7 @@ Anexo:
 
 'Reporte Retenciones IVA SD'
 
-## CSM/CGG/RHH/ALSR DISTRIBUCIÓN:
+## CSM/CGG/RHH/ALSR DISTRIBUCIÃ“N:
 
 * Diario Oficial (extracto)
 * Internet
@@ -148,20 +147,20 @@ Anexo:
 
 ## REPORTE RETENCIONES IVASD
 
-| **NOMBRE DEL CAMPO** | **DESCRIPCIÓN** | **FORMATO O CODIFICACIÓN** |
+| **NOMBRE DEL CAMPO** | **DESCRIPCIÃ“N** | **FORMATO O CODIFICACIÃ“N** |
 | --- | --- | --- |
-| Nombre o razón social | Nombre o razón social del comercio prestador del servicio | ALFANUMÉRICO |
-| Id. Comercio | Código o clave utilizado por el operador de la tarjeta para distinguir al comercio. Ejemplo: Acquirer's business ID, en conjunto con código SWIFT de entidad adquiriente. | ALFANUMÉRICO |
-| Rubro del comercio | Merchant category code (MCC) | NUMÉRICO, 4 dígitos según ISO |
-| País | País en el que se encuentra domiciliado legalmente el prestador del servicio | En formato ISO 3166-1, Alpha- 3; o en su defecto Alpha-2 |
-| Número o código de la referencia bancaria internacional | Número único asociado a la transacción | NUMÉRICO |
-| Fecha de la retención | Fecha en que se efectuó la retención | YYYYMMDD |
-| Monto neto de la remuneración pagada | Monto neto de la remuneración pagada al prestador en pesos chilenos | NUMÉRICO, 2 decimales, coma como separador de decimal, sin separador de miles |
-| Impuesto al valor agregado recargado | Impuesto al valor agregado recargado en pesos chilenos | NUMÉRICO, 2 decimales, coma como separador de decimal, sin separador de miles |
-| Impuesto al valor agregado retenido | Impuesto al valor agregado retenido en pesos chilenos | NUMÉRICO, 2 decimales, coma como separador de decimal, sin separador de miles |
-| Fecha de la reversión y/o contracargo | Fecha en que se efectuó la restitución del monto de la remuneración y del IVA recargado en caso de reversiones y/o contracargos | YYYYMMDD |
+| Nombre o razÃ³n social | Nombre o razÃ³n social del comercio prestador del servicio | ALFANUMÃ‰RICO |
+| Id. Comercio | CÃ³digo o clave utilizado por el operador de la tarjeta para distinguir al comercio. Ejemplo: Acquirer's business ID, en conjunto con cÃ³digo SWIFT de entidad adquiriente. | ALFANUMÃ‰RICO |
+| Rubro del comercio | Merchant category code (MCC) | NUMÃ‰RICO, 4 dÃ­gitos segÃºn ISO |
+| PaÃ­s | PaÃ­s en el que se encuentra domiciliado legalmente el prestador del servicio | En formato ISO 3166-1, Alpha- 3; o en su defecto Alpha-2 |
+| NÃºmero o cÃ³digo de la referencia bancaria internacional | NÃºmero Ãºnico asociado a la transacciÃ³n | NUMÃ‰RICO |
+| Fecha de la retenciÃ³n | Fecha en que se efectuÃ³ la retenciÃ³n | YYYYMMDD |
+| Monto neto de la remuneraciÃ³n pagada | Monto neto de la remuneraciÃ³n pagada al prestador en pesos chilenos | NUMÃ‰RICO, 2 decimales, coma como separador de decimal, sin separador de miles |
+| Impuesto al valor agregado recargado | Impuesto al valor agregado recargado en pesos chilenos | NUMÃ‰RICO, 2 decimales, coma como separador de decimal, sin separador de miles |
+| Impuesto al valor agregado retenido | Impuesto al valor agregado retenido en pesos chilenos | NUMÃ‰RICO, 2 decimales, coma como separador de decimal, sin separador de miles |
+| Fecha de la reversiÃ³n y/o contracargo | Fecha en que se efectuÃ³ la restituciÃ³n del monto de la remuneraciÃ³n y del IVA recargado en caso de reversiones y/o contracargos | YYYYMMDD |
 
-| **NOMBRE DEL CAMPO** | **DESCRIPCIÓN** | **FORMATO O CODIFICACIÓN** |
+| **NOMBRE DEL CAMPO** | **DESCRIPCIÃ“N** | **FORMATO O CODIFICACIÃ“N** |
 | --- | --- | --- |
-| Monto neto de reversiones y/o contracargos (disputas) | Monto neto de la remuneración restituida al tarjetahabiente como consecuencia de reversiones y/o contracargos (disputas), en pesos chilenos | NUMÉRICO, 2 decimales, coma como separador de decimal, sin separador de miles |
-| Impuesto al valor agregado restituido al tarjetahabiente | Impuesto al valor agregado restituido al tarjetahabiente como consecuencia de reversiones y/o contracargos (disputas), en pesos chilenos | NUMÉRICO, 2 decimales, coma como separador de decimal, sin separador de miles |
+| Monto neto de reversiones y/o contracargos (disputas) | Monto neto de la remuneraciÃ³n restituida al tarjetahabiente como consecuencia de reversiones y/o contracargos (disputas), en pesos chilenos | NUMÃ‰RICO, 2 decimales, coma como separador de decimal, sin separador de miles |
+| Impuesto al valor agregado restituido al tarjetahabiente | Impuesto al valor agregado restituido al tarjetahabiente como consecuencia de reversiones y/o contracargos (disputas), en pesos chilenos | NUMÃ‰RICO, 2 decimales, coma como separador de decimal, sin separador de miles |

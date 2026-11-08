@@ -1,45 +1,44 @@
----
-type: SII Resolución
-title: Resolución N° 63 (2013)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
-resource: ./2013_RESOLUCION_reso1.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 63 (2013)
+description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-AUTORIZA COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL ORGANISMO PÚBLICO QUE SE SEÑALA.
+AUTORIZA COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÃ“NICOS AL ORGANISMO PÃšBLICO QUE SE SEÃ‘ALA.
 
 ## SANTIAGO, 08 de enero de 2013.-
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÓN EXENTA SII N° \_\_01.-\_\_\_\_\_ \_\_/
+## RESOLUCIÃ“N EXENTA SII NÂ° \_\_01.-\_\_\_\_\_ \_\_/
 
-VISTOS: Lo dispuesto en el Art. 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974 y,
+VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂº 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; en el Art. 56, incisos 3Â° y 4Â°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1Â° del D.L. NÂº 825, de 1974 y,
 
 ## CONSIDERANDO:
 
-1° Que, de acuerdo a lo establecido en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. Nº 825, de 1974, la Dirección Nacional del Servicio de Impuestos Internos podrá autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnológicos, en reemplazo de la emisión de Boletas, Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Notas de Débito y Notas de Crédito.
+1Â° Que, de acuerdo a lo establecido en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. NÂº 825, de 1974, la DirecciÃ³n Nacional del Servicio de Impuestos Internos podrÃ¡ autorizar el intercambio de mensajes mediante el uso de diferentes sistemas tecnolÃ³gicos, en reemplazo de la emisiÃ³n de Boletas, Facturas, Facturas de Compra, GuÃ­as de Despacho, Liquidaciones, Notas de DÃ©bito y Notas de CrÃ©dito.
 
-2° Que, el Organismo Público que se detalla en el resolutivo primero, ha postulado como receptor de Documentos Tributarios Electrónicos y ha cumplido los requisitos establecidos en la Res. Ex. SII N° 63, de Julio de 2004, para ser autorizado.
+2Â° Que, el Organismo PÃºblico que se detalla en el resolutivo primero, ha postulado como receptor de Documentos Tributarios ElectrÃ³nicos y ha cumplido los requisitos establecidos en la Res. Ex. SII NÂ° 63, de Julio de 2004, para ser autorizado.
 
-3° Que, en Res. Ex. SII Nº 78, del 6 de Agosto de 2004, se ha delegado en el Subdirector de Fiscalización la facultad de autorizar a organismos públicos como receptores de Documentos Tributarios Electrónicos.
+3Â° Que, en Res. Ex. SII NÂº 78, del 6 de Agosto de 2004, se ha delegado en el Subdirector de FiscalizaciÃ³n la facultad de autorizar a organismos pÃºblicos como receptores de Documentos Tributarios ElectrÃ³nicos.
 
 ## SE RESUELVE:
 
-Primero : Autorízase como receptor electrónico, a contar del mes de Enero de 2013, al siguiente Organismo Público:
+Primero : AutorÃ­zase como receptor electrÃ³nico, a contar del mes de Enero de 2013, al siguiente Organismo PÃºblico:
 
-* -UNIDAD DE ANALISIS FINANCIERO RUT N° 61.973.000-3
+* -UNIDAD DE ANALISIS FINANCIERO RUT NÂ° 61.973.000-3
 
-Segundo: El Organismo Público autorizado como receptor de Documentos Tributarios Electrónicos, deberá cumplir lo establecido en la Resolución Ex. SII N° 63, de Julio de 2004.
+Segundo: El Organismo PÃºblico autorizado como receptor de Documentos Tributarios ElectrÃ³nicos, deberÃ¡ cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 63, de Julio de 2004.
 
-Anótese, comuníquese y publíquese en extracto.
+AnÃ³tese, comunÃ­quese y publÃ­quese en extracto.
 
-## (Fdo.) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÓN (S)
+## (Fdo.) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÃ“N (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines. RPA/HSS/fem Distribución:
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines. RPA/HSS/fem DistribuciÃ³n:
 
 * -Internet
 * -Diario Oficial en extracto
-* -Boletín SII
+* -BoletÃ­n SII

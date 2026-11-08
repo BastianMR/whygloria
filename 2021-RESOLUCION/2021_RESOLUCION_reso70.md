@@ -1,90 +1,89 @@
----
-type: SII Resolución
-title: Resolución N° 70 (2021)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77321777949 GE00183624
-resource: ./2021_RESOLUCION_reso70.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 70 (2021)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77321777949 GE00183624
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77321777949 GE00183624
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77321777949 GE00183624
 
-EXIME A FORUM SERVICIOS FINANCIEROS S.A. DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO.
+EXIME A FORUM SERVICIOS FINANCIEROS S.A. DE LA OBLIGACIÃ“N DE TIMBRAJE DE PAGARÃ‰S ESTABLECIDA EN EL ARTICULO 17 INCISO 2Â° DEL D.L. NÂ° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO.
 
 SANTIAGO, 01 DE JULIO DE 2021.
 
-RESOLUCIÓN EXENTA SII N°70
+RESOLUCIÃ“N EXENTA SII NÂ°70
 
 VISTOS:
 
-Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y los artículos 1°, N°3, 17 inciso 2° y 18, del Decreto Ley N° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas;
+Las facultades contempladas en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L NÂ°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en el artÃ­culo 6Â° letra A) NÂ°s 1 y 3 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y los artÃ­culos 1Â°, NÂ°3, 17 inciso 2Â° y 18, del Decreto Ley NÂ° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas;
 
-La presentación efectuada, mediante Petición Administrativa Folio 77321777949, ingresada con fecha 29.06.2021, en la Dirección de Grandes Contribuyentes de este Servicio, por don Jorge Ignacio Seguel Rodríguez, RUT N° 14.465.247-9, en representación del contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT N° 96.678.790-2 , ambos domiciliados para estos efectos, en Isidora Goyenechea N° 3365, piso 4, Las Condes, Santiago, en virtud del cual solicita autorización para que su representado pueda eximirse del timbraje de pagarés.
+La presentaciÃ³n efectuada, mediante PeticiÃ³n Administrativa Folio 77321777949, ingresada con fecha 29.06.2021, en la DirecciÃ³n de Grandes Contribuyentes de este Servicio, por don Jorge Ignacio Seguel RodrÃ­guez, RUT NÂ° 14.465.247-9, en representaciÃ³n del contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT NÂ° 96.678.790-2 , ambos domiciliados para estos efectos, en Isidora Goyenechea NÂ° 3365, piso 4, Las Condes, Santiago, en virtud del cual solicita autorizaciÃ³n para que su representado pueda eximirse del timbraje de pagarÃ©s.
 
 ## CONSIDERANDO:
 
-1° Que, el contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT N° 96.678.790-2, fundamenta su petición en el alto volumen de operaciones que realizan a nivel nacional, donde la obligación de timbraje y el control de documentos físicos dificulta el normal desarrollo de su actividad, producto de la masiva emisión de pagarés en distintos puntos geográficos.
+1Â° Que, el contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT NÂ° 96.678.790-2, fundamenta su peticiÃ³n en el alto volumen de operaciones que realizan a nivel nacional, donde la obligaciÃ³n de timbraje y el control de documentos fÃ­sicos dificulta el normal desarrollo de su actividad, producto de la masiva emisiÃ³n de pagarÃ©s en distintos puntos geogrÃ¡ficos.
 
-2° Que, con la finalidad de solucionar dicha contingencia, han incorporado medios tecnológicos que permitirán facilitar el control interno y asegurar el fiel cumplimiento de las obligaciones tributarias.
+2Â° Que, con la finalidad de solucionar dicha contingencia, han incorporado medios tecnolÃ³gicos que permitirÃ¡n facilitar el control interno y asegurar el fiel cumplimiento de las obligaciones tributarias.
 
-* 3° Que, en conformidad a lo dispuesto en el artículo 17, inciso 2°, del D.L. N°3.475, de 1980, los contribuyentes del artículo 15 N°2 de dicho cuerpo legal, que emitan u otorguen pagarés o cualquiera de los documentos señalados en el artículo 1° N°3, deben enumerarlos correlativamente, timbrarlos y registrarlos antes este Servicio.
+* 3Â° Que, en conformidad a lo dispuesto en el artÃ­culo 17, inciso 2Â°, del D.L. NÂ°3.475, de 1980, los contribuyentes del artÃ­culo 15 NÂ°2 de dicho cuerpo legal, que emitan u otorguen pagarÃ©s o cualquiera de los documentos seÃ±alados en el artÃ­culo 1Â° NÂ°3, deben enumerarlos correlativamente, timbrarlos y registrarlos antes este Servicio.
 
-4° Que, este Servicio, mediante las instrucciones contenidas en la Circular N° 72, de 08 de octubre de 1980, señaló que las letras de cambio y demás documentos deben ser presentados a registro en la Unidad del Servicio respectiva, mediante la aposición del timbre de cuño o presión, utilizado para el timbraje de las boletas de ventas y servicios.
+4Â° Que, este Servicio, mediante las instrucciones contenidas en la Circular NÂ° 72, de 08 de octubre de 1980, seÃ±alÃ³ que las letras de cambio y demÃ¡s documentos deben ser presentados a registro en la Unidad del Servicio respectiva, mediante la aposiciÃ³n del timbre de cuÃ±o o presiÃ³n, utilizado para el timbraje de las boletas de ventas y servicios.
 
-* 5° Que, conforme al inciso final del artículo 18 del D.L. N° 3.475, de 1980, el Director está facultado para suprimir requisitos, cuando éstos dificulten la modalidad normal de operar de los contribuyentes y, sustituirlos por otros que resguarden debidamente el interés fiscal.
+* 5Â° Que, conforme al inciso final del artÃ­culo 18 del D.L. NÂ° 3.475, de 1980, el Director estÃ¡ facultado para suprimir requisitos, cuando Ã©stos dificulten la modalidad normal de operar de los contribuyentes y, sustituirlos por otros que resguarden debidamente el interÃ©s fiscal.
 
-6° Que, es necesario facilitar el cumplimiento tributario, incorporando los medios tecnológicos que se encuentran disponibles en la actualidad.
+6Â° Que, es necesario facilitar el cumplimiento tributario, incorporando los medios tecnolÃ³gicos que se encuentran disponibles en la actualidad.
 
 ## SE RESUELVE:
 
-1° HA LUGAR A LO SOLICITADO por el contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT N° 96.678.790-2.
+1Â° HA LUGAR A LO SOLICITADO por el contribuyente FORUM SERVICIOS FINANCIEROS S.A. RUT NÂ° 96.678.790-2.
 
-EXÍMASE de la obligación de realizar el timbraje de pagarés, que establece en el inciso segundo artículo 17 del D.L. N°3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, reemplazando el timbraje de cuño o presión, por la autorización de folios para la emisión de pagarés desde plataformas computacionales, sujetándose en todo caso al cumplimiento de los requisitos que se establecen en la presente Resolución, a fin de resguardar debidamente el interés fiscal, en los siguientes términos:
+EXÃMASE de la obligaciÃ³n de realizar el timbraje de pagarÃ©s, que establece en el inciso segundo artÃ­culo 17 del D.L. NÂ°3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, reemplazando el timbraje de cuÃ±o o presiÃ³n, por la autorizaciÃ³n de folios para la emisiÃ³n de pagarÃ©s desde plataformas computacionales, sujetÃ¡ndose en todo caso al cumplimiento de los requisitos que se establecen en la presente ResoluciÃ³n, a fin de resguardar debidamente el interÃ©s fiscal, en los siguientes tÃ©rminos:
 
-AEl contribuyente deberá presentar la Declaración Jurada Formulario N°3230 denominada 'Declaración Jurada para Timbraje de Documentos y/o Libros', en donde informará, en forma previa a su emisión, los folios asignados a los pagarés que serán emitidos en el (los) período (s) respectivo (s).
+AEl contribuyente deberÃ¡ presentar la DeclaraciÃ³n Jurada Formulario NÂ°3230 denominada 'DeclaraciÃ³n Jurada para Timbraje de Documentos y/o Libros', en donde informarÃ¡, en forma previa a su emisiÃ³n, los folios asignados a los pagarÃ©s que serÃ¡n emitidos en el (los) perÃ­odo (s) respectivo (s).
 
-Dicha presentación podrá realizarse en Oficinas del Servicio de Impuestos Internos competente, según su domicilio, o mediante una petición administrativa a través del sitio web del SII, adjuntando copia de la presente Resolución.
+Dicha presentaciÃ³n podrÃ¡ realizarse en Oficinas del Servicio de Impuestos Internos competente, segÃºn su domicilio, o mediante una peticiÃ³n administrativa a travÃ©s del sitio web del SII, adjuntando copia de la presente ResoluciÃ³n.
 
-Los formularios N° 3230 recepcionados y que contengan la información de rango de folios, serán timbrados en señal de recepción por el SII y, deberán ser guardados por el contribuyente.
+Los formularios NÂ° 3230 recepcionados y que contengan la informaciÃ³n de rango de folios, serÃ¡n timbrados en seÃ±al de recepciÃ³n por el SII y, deberÃ¡n ser guardados por el contribuyente.
 
-BLos pagarés emitidos desde plataformas computacionales tendrán un número único a nivel nacional para el contribuyente, el cual se iniciará a partir del folio informado y autorizado previamente por este Servicio
+BLos pagarÃ©s emitidos desde plataformas computacionales tendrÃ¡n un nÃºmero Ãºnico a nivel nacional para el contribuyente, el cual se iniciarÃ¡ a partir del folio informado y autorizado previamente por este Servicio
 
-CSe autorizará un rango de folios que permita la operación por un periodo de seis meses contados desde el mes de autorización.
+CSe autorizarÃ¡ un rango de folios que permita la operaciÃ³n por un periodo de seis meses contados desde el mes de autorizaciÃ³n.
 
-Cada vez que el contribuyente requiera autorización de nuevos folios, deberá presentar en la Oficina del Servicio de Impuestos Internos de su jurisdicción, o a través de la petición administrativa ingresada a través del sitio web del SII, el Formulario N°3230, 'Declaración Jurada para Timbraje de documentos y/o Libros y Notificaciones'. En dicha presentación, deberá adjuntar copia de esta Resolución y del formulario N°3230 anterior.
+Cada vez que el contribuyente requiera autorizaciÃ³n de nuevos folios, deberÃ¡ presentar en la Oficina del Servicio de Impuestos Internos de su jurisdicciÃ³n, o a travÃ©s de la peticiÃ³n administrativa ingresada a travÃ©s del sitio web del SII, el Formulario NÂ°3230, 'DeclaraciÃ³n Jurada para Timbraje de documentos y/o Libros y Notificaciones'. En dicha presentaciÃ³n, deberÃ¡ adjuntar copia de esta ResoluciÃ³n y del formulario NÂ°3230 anterior.
 
-DEl contribuyente deberá habilitar acceso a una página web, con autenticación para opción de consulta a funcionarios del SII, la cual podrá ser consultada por este Servicio en cualquier momento. Esta página deberá contener protocolos de seguridad y disponibilidad, donde se podrá consultar sobre el total de pagarés emitidos en un mes, visualizar un pagaré específico y descargar información detallada en formato CSV para uno o más períodos.
+DEl contribuyente deberÃ¡ habilitar acceso a una pÃ¡gina web, con autenticaciÃ³n para opciÃ³n de consulta a funcionarios del SII, la cual podrÃ¡ ser consultada por este Servicio en cualquier momento. Esta pÃ¡gina deberÃ¡ contener protocolos de seguridad y disponibilidad, donde se podrÃ¡ consultar sobre el total de pagarÃ©s emitidos en un mes, visualizar un pagarÃ© especÃ­fico y descargar informaciÃ³n detallada en formato CSV para uno o mÃ¡s perÃ­odos.
 
 ## D.1-
 
-Los pagarés deberán contener al menos los siguientes datos:
+Los pagarÃ©s deberÃ¡n contener al menos los siguientes datos:
 
-* a- Folio del pagaré: Número único correlativo a nivel nacional. Se inicia a continuación
+* a- Folio del pagarÃ©: NÃºmero Ãºnico correlativo a nivel nacional. Se inicia a continuaciÃ³n
 
-del último folio en papel timbrado. b- RUT Cliente. c- Estado de pagaré: válido (V) o anulado (A). d- Fecha de otorgamiento. e- Monto financiado. fNúmero del contrato de crédito al que se encuentra asociado, según proceda. g- Número del documento tributario otorgado al cliente final. h- Identificador del equipo, vehículo o bien mueble por el cual se suscribe el pagaré.
+del Ãºltimo folio en papel timbrado. b- RUT Cliente. c- Estado de pagarÃ©: vÃ¡lido (V) o anulado (A). d- Fecha de otorgamiento. e- Monto financiado. fNÃºmero del contrato de crÃ©dito al que se encuentra asociado, segÃºn proceda. g- NÃºmero del documento tributario otorgado al cliente final. h- Identificador del equipo, vehÃ­culo o bien mueble por el cual se suscribe el pagarÃ©.
 
-* iImpuesto de la operación.
+* iImpuesto de la operaciÃ³n.
 
-D.2La información de total de pagarés emitidos en un mes deberá contener al menos los siguientes datos:
+D.2La informaciÃ³n de total de pagarÃ©s emitidos en un mes deberÃ¡ contener al menos los siguientes datos:
 
-a- Total de pagarés válidos otorgados. b- Total monto financiado.
+a- Total de pagarÃ©s vÃ¡lidos otorgados. b- Total monto financiado.
 
 * c- Impuesto total del mes.
 
-D.3El registro en la plataforma computacional, con la información indicada en las letras D.1 y D.2 precedentes, respecto de pagarés emitidos que den cuenta de créditos efectivamente otorgados, debe ser mantenido por un plazo mínimo de 6 años desde la emisión de cada pagaré y, deberá estar a disposición de este Servicio en caso que lo requiera.
+D.3El registro en la plataforma computacional, con la informaciÃ³n indicada en las letras D.1 y D.2 precedentes, respecto de pagarÃ©s emitidos que den cuenta de crÃ©ditos efectivamente otorgados, debe ser mantenido por un plazo mÃ­nimo de 6 aÃ±os desde la emisiÃ³n de cada pagarÃ© y, deberÃ¡ estar a disposiciÃ³n de este Servicio en caso que lo requiera.
 
-* EEl sistema de emisión y control de pagarés del contribuyente FORUM SERVICIOS FINANCIEROS S.A., deberá tener, a lo menos, las siguientes características:
+* EEl sistema de emisiÃ³n y control de pagarÃ©s del contribuyente FORUM SERVICIOS FINANCIEROS S.A., deberÃ¡ tener, a lo menos, las siguientes caracterÃ­sticas:
 * aIngreso autenticado.
-* bDistinción entre Perfil de Consulta o Perfil de Ingreso de información.
-* cControl del correlativo único nacional de los pagarés. Deberá informar los rangos del documento foliado autorizado.
-* dIdentificación del número del contrato de crédito, el que debe ir asociado a un único folio de pagaré. Por lo tanto, en caso que se requiera generar un nuevo pagaré para el mismo contrato de crédito, se deberá anular el pagaré anterior. Ese folio, no podrá ser utilizado nuevamente.
-* eRespaldo de la información: Es responsabilidad del contribuyente mantener respaldo para garantizar la recuperación de información frente a contingencias
-* fEl contribuyente podrá, en casos de contingencia, utilizar pagaré en papel con timbraje de cuño o presión, los que tendrán numeración independiente de aquellos documentos emitidos con folios autorizados.
-* gCierre mensual con totales, según se indica en la letra D.2 anterior.
-* FEl Servicio de Impuestos Internos podrá revocar la autorización otorgada al contribuyente, si éste no cumple con las obligaciones establecidas en la presente Resolución.
+* bDistinciÃ³n entre Perfil de Consulta o Perfil de Ingreso de informaciÃ³n.
+* cControl del correlativo Ãºnico nacional de los pagarÃ©s. DeberÃ¡ informar los rangos del documento foliado autorizado.
+* dIdentificaciÃ³n del nÃºmero del contrato de crÃ©dito, el que debe ir asociado a un Ãºnico folio de pagarÃ©. Por lo tanto, en caso que se requiera generar un nuevo pagarÃ© para el mismo contrato de crÃ©dito, se deberÃ¡ anular el pagarÃ© anterior. Ese folio, no podrÃ¡ ser utilizado nuevamente.
+* eRespaldo de la informaciÃ³n: Es responsabilidad del contribuyente mantener respaldo para garantizar la recuperaciÃ³n de informaciÃ³n frente a contingencias
+* fEl contribuyente podrÃ¡, en casos de contingencia, utilizar pagarÃ© en papel con timbraje de cuÃ±o o presiÃ³n, los que tendrÃ¡n numeraciÃ³n independiente de aquellos documentos emitidos con folios autorizados.
+* gCierre mensual con totales, segÃºn se indica en la letra D.2 anterior.
+* FEl Servicio de Impuestos Internos podrÃ¡ revocar la autorizaciÃ³n otorgada al contribuyente, si Ã©ste no cumple con las obligaciones establecidas en la presente ResoluciÃ³n.
 
-2° DELÉGASE , en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la Resolución que revoque la presente autorización, la que deberá mencionar el número y fecha de la presente y deberá registrar, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; debiendo publicarse, además, en extracto en el Diario Oficial y notificarse conforme a las reglas generales.
+2Â° DELÃ‰GASE , en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la ResoluciÃ³n que revoque la presente autorizaciÃ³n, la que deberÃ¡ mencionar el nÃºmero y fecha de la presente y deberÃ¡ registrar, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; debiendo publicarse, ademÃ¡s, en extracto en el Diario Oficial y notificarse conforme a las reglas generales.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
 <unknown>
 
@@ -94,10 +93,10 @@ D.3El registro en la plataforma computacional, con la información indicada en l
 
 VVS/RGV/CAB/OBA/MME
 
-## Distribución:
+## DistribuciÃ³n:
 
-* -Sr. Jorge Ignacio Seguel Rodríguez Isidora Goyenechea N° 3365, piso 4, Las Condes, Santiago <u>jseguel@forum.cl</u>
-* -Subdirección de Asistencia al Contribuyente
+* -Sr. Jorge Ignacio Seguel RodrÃ­guez Isidora Goyenechea NÂ° 3365, piso 4, Las Condes, Santiago <u>jseguel@forum.cl</u>
+* -SubdirecciÃ³n de Asistencia al Contribuyente
 * -Internet
 * -Oficina de Partes
 * -Diario Oficial

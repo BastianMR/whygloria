@@ -1,12 +1,11 @@
----
-type: SII Resolución
-title: Resolución N° 66 (2019)
-description: SUBDIRECCIÓN DE ADMINISTRACIÓN
-resource: ./2019_RESOLUCION_reso66.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 66 (2019)
+description: SUBDIRECCIÃ“N DE ADMINISTRACIÃ“N
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ADMINISTRACIÓN
+## SUBDIRECCIÃ“N DE ADMINISTRACIÃ“N
 
 ## DELEGA FACULTADES QUE INDICA, RELATIVAS AL PAGO DE VIATICOS.
 
@@ -14,35 +13,35 @@ SANTIAGO, 27 DE MAYO 2019
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N° 66.-/
+RESOLUCIÃ“N EXENTA SII NÂ° 66.-/
 
-VISTOS: El D.F.L. N° 262, de 1977, del Ministerio de Hacienda, que aprueba el reglamento de viáticos para el personal de la Administración Pública; el artículo 7° del D.L. N° 3.551, de 1981, del Ministerio de Hacienda, que fija normas sobre Remuneraciones y sobre personal para el sector público; el artículo 7°, letras c), i) y j) y el artículo 34° ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el N° 3 de la letra A) del artículo 6°, del Código Tributario; lo preceptuado en el artículo 78 del D.F.L. N°29, de 2004, del Ministerio de Hacienda publicado en el Diario Oficial de fecha 16 de marzo de 2005, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley N°18.834, de 1989, sobre Estatuto Administrativo; el artículo 5° de la Ley N° 18.575; las Resoluciones N°1.600, de 2008 y N° 10, de 2017, ambas de la Contraloría General de la República, lo establecido en la Resolución N° 38, del 15 de abril del 2016, de la Dirección Nacional del Servicio de Impuestos Internos sobre Delegación de Facultades, y
+VISTOS: El D.F.L. NÂ° 262, de 1977, del Ministerio de Hacienda, que aprueba el reglamento de viÃ¡ticos para el personal de la AdministraciÃ³n PÃºblica; el artÃ­culo 7Â° del D.L. NÂ° 3.551, de 1981, del Ministerio de Hacienda, que fija normas sobre Remuneraciones y sobre personal para el sector pÃºblico; el artÃ­culo 7Â°, letras c), i) y j) y el artÃ­culo 34Â° ambos de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el NÂ° 3 de la letra A) del artÃ­culo 6Â°, del CÃ³digo Tributario; lo preceptuado en el artÃ­culo 78 del D.F.L. NÂ°29, de 2004, del Ministerio de Hacienda publicado en el Diario Oficial de fecha 16 de marzo de 2005, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley NÂ°18.834, de 1989, sobre Estatuto Administrativo; el artÃ­culo 5Â° de la Ley NÂ° 18.575; las Resoluciones NÂ°1.600, de 2008 y NÂ° 10, de 2017, ambas de la ContralorÃ­a General de la RepÃºblica, lo establecido en la ResoluciÃ³n NÂ° 38, del 15 de abril del 2016, de la DirecciÃ³n Nacional del Servicio de Impuestos Internos sobre DelegaciÃ³n de Facultades, y
 
 ## CONSIDERANDO:
 
-1. Que, de conformidad con lo dispuesto en el inciso primero del artículo 5° de la Ley N° 18.575, las autoridades y funcionarios deben velar por la eficiente e idónea administración de los medios públicos;
-2. Que, de acuerdo al artículo 8° del D.F.L N° 262, de 1977, del Ministerio de Hacienda, los trabajadores tendrán derecho al 100% del viático completo que corresponda por los primeros 10 días, seguidos o alternados en cada mes calendario, en que deban ausentarse del lugar de su desempeño habitual en cumplimiento de cometidos o comisiones de servicio. Por los días de exceso sobre 10 en cada mes calendario, sólo tendrán derecho al 50% del viático correspondiente;
-3. Que, atendido el rol fiscalizador de la Institución que demanda el traslado de funcionarios a localidades alejadas de su lugar habitual de desempeño, las constantes necesidades de capacitación de la Institución, que requieren su traslado desde regiones hacia la Región Metropolitana y viceversa, y otras situaciones de carácter excepcional, resulta necesario exceptuar, en determinados casos, a funcionarios del Servicio del límite del pago de viáticos establecido en la norma citada en el considerando segundo;
-4. Que, conforme al artículo 7° del D.L. N° 3.551, de 1980, del Ministerio de Hacienda, el Jefe Superior del Servicio tiene la facultad de exceptuar a los funcionarios de su dependencia, en casos determinados, de la limitación establecida en el artículo 8° del D.F.L N° 262, de 1977, del Ministerio de Hacienda;
-5. Que, el Jefe de Departamento de Gestión de las Personas de la Subdirección de Desarrollo de Personas, los Directores Regionales y el Director de Grandes Contribuyentes se encuentran actualmente facultados para aprobar los cometidos en la Dirección Nacional y Direcciones Regionales respectivamente, según la Resolución SII N° 38, del 15 de abril del 2016, sobre Delegación de Facultades, con el objeto de ser eficientes y mantener el modelo descentralizado en la administración,
+1. Que, de conformidad con lo dispuesto en el inciso primero del artÃ­culo 5Â° de la Ley NÂ° 18.575, las autoridades y funcionarios deben velar por la eficiente e idÃ³nea administraciÃ³n de los medios pÃºblicos;
+2. Que, de acuerdo al artÃ­culo 8Â° del D.F.L NÂ° 262, de 1977, del Ministerio de Hacienda, los trabajadores tendrÃ¡n derecho al 100% del viÃ¡tico completo que corresponda por los primeros 10 dÃ­as, seguidos o alternados en cada mes calendario, en que deban ausentarse del lugar de su desempeÃ±o habitual en cumplimiento de cometidos o comisiones de servicio. Por los dÃ­as de exceso sobre 10 en cada mes calendario, sÃ³lo tendrÃ¡n derecho al 50% del viÃ¡tico correspondiente;
+3. Que, atendido el rol fiscalizador de la InstituciÃ³n que demanda el traslado de funcionarios a localidades alejadas de su lugar habitual de desempeÃ±o, las constantes necesidades de capacitaciÃ³n de la InstituciÃ³n, que requieren su traslado desde regiones hacia la RegiÃ³n Metropolitana y viceversa, y otras situaciones de carÃ¡cter excepcional, resulta necesario exceptuar, en determinados casos, a funcionarios del Servicio del lÃ­mite del pago de viÃ¡ticos establecido en la norma citada en el considerando segundo;
+4. Que, conforme al artÃ­culo 7Â° del D.L. NÂ° 3.551, de 1980, del Ministerio de Hacienda, el Jefe Superior del Servicio tiene la facultad de exceptuar a los funcionarios de su dependencia, en casos determinados, de la limitaciÃ³n establecida en el artÃ­culo 8Â° del D.F.L NÂ° 262, de 1977, del Ministerio de Hacienda;
+5. Que, el Jefe de Departamento de GestiÃ³n de las Personas de la SubdirecciÃ³n de Desarrollo de Personas, los Directores Regionales y el Director de Grandes Contribuyentes se encuentran actualmente facultados para aprobar los cometidos en la DirecciÃ³n Nacional y Direcciones Regionales respectivamente, segÃºn la ResoluciÃ³n SII NÂ° 38, del 15 de abril del 2016, sobre DelegaciÃ³n de Facultades, con el objeto de ser eficientes y mantener el modelo descentralizado en la administraciÃ³n,
 
 ## RESUELVO:
 
-PRIMERO.Delégase en el Jefe del Departamento de Gestión de las Personas de la Subdirección de Desarrollo de Personas, respecto de los funcionarios de la Dirección Nacional, el Director de Grandes Contribuyentes y los Directores Regionales, la facultad establecida en el artículo 7 ° del D.L. N° 3.551, de 1980, del Ministerio de Hacienda.
+PRIMERO.DelÃ©gase en el Jefe del Departamento de GestiÃ³n de las Personas de la SubdirecciÃ³n de Desarrollo de Personas, respecto de los funcionarios de la DirecciÃ³n Nacional, el Director de Grandes Contribuyentes y los Directores Regionales, la facultad establecida en el artÃ­culo 7 Â° del D.L. NÂ° 3.551, de 1980, del Ministerio de Hacienda.
 
-SEGUNDO.Delégase en los Directores Regionales y en el Director de Grandes Contribuyentes, respecto de los funcionarios de su dependencia, la facultad establecida en el artículo 7 ° del D.L. N° 3.551, de 1980, del Ministerio de Hacienda.
+SEGUNDO.DelÃ©gase en los Directores Regionales y en el Director de Grandes Contribuyentes, respecto de los funcionarios de su dependencia, la facultad establecida en el artÃ­culo 7 Â° del D.L. NÂ° 3.551, de 1980, del Ministerio de Hacienda.
 
-TERCERO.Ordénase a las Subdirecciones de Administración y Desarrollo de Personas, definir y comunicar a los funcionarios a quienes se ha delegado la facultad descrita en el artículo 7 ° del D.L. N° 3.551 de 1980, los criterios de excepción correspondientes, debiendo efectuar el debido control de cumplimiento de los mismos a través de los medios que aseguren la debida observación de la facultad delegada.
+TERCERO.OrdÃ©nase a las Subdirecciones de AdministraciÃ³n y Desarrollo de Personas, definir y comunicar a los funcionarios a quienes se ha delegado la facultad descrita en el artÃ­culo 7 Â° del D.L. NÂ° 3.551 de 1980, los criterios de excepciÃ³n correspondientes, debiendo efectuar el debido control de cumplimiento de los mismos a travÃ©s de los medios que aseguren la debida observaciÃ³n de la facultad delegada.
 
-CUARTO.Notifíquese a los funcionarios delegados de conformidad a lo dispuesto en el artículo 41°, letra c) de la Ley N° 18.575.
+CUARTO.NotifÃ­quese a los funcionarios delegados de conformidad a lo dispuesto en el artÃ­culo 41Â°, letra c) de la Ley NÂ° 18.575.
 
-ANÓTESE, COMUNÍQUESE, REGÍSTRESE Y PUBLÍQUESE.
+ANÃ“TESE, COMUNÃQUESE, REGÃSTRESE Y PUBLÃQUESE.
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
 
-## Distribución:
+## DistribuciÃ³n:
 
-* Boletín
+* BoletÃ­n
 * Internet

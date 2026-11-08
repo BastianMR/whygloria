@@ -1,227 +1,226 @@
----
-type: SII Resolución
-title: Resolución N° 45 (2016)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 77314500711 C- 902-2016 SD. 282-SDAC-2016
-resource: ./2016_RESOLUCION_reso48.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 45 (2016)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES 77314500711 C- 902-2016 SD. 282-SDAC-2016
 tags: [SII, 2016, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 77314500711 C- 902-2016 SD. 282-SDAC-2016
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES 77314500711 C- 902-2016 SD. 282-SDAC-2016
 
-MATERIA: AUTORIZA A LA EMPRESA TAS CHILE S.A., PARA OPERAR UN SISTEMA DE EMISIÓN DE VALES ELECTRÓNICOS EN REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS, PARA SER UTILIZADO POR CONTRIBUYENTES USUARIOS TERCEROS AFILIADOS A SU RED.
+MATERIA: AUTORIZA A LA EMPRESA TAS CHILE S.A., PARA OPERAR UN SISTEMA DE EMISIÃ“N DE VALES ELECTRÃ“NICOS EN REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS, PARA SER UTILIZADO POR CONTRIBUYENTES USUARIOS TERCEROS AFILIADOS A SU RED.
 
 Santiago, 26 de mayo de 2016.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EX. SII N°\_\_\_48.-\_\_\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ°\_\_\_48.-\_\_\_\_\_/
 
 VISTOS:
 
-Lo dispuesto en el artículo 6°, letra A, N° 1; artículos 88 y 97 N°s 1 y 10 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; artículo 1° de la Ley N° 20.727, de 2014, en los artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda, y en los artículos 2° N°s 1 y 2; 9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. N° 825, de 1974; las Resoluciones Ex. SII N° 45, de 2003; N° 58, de 2003; N° 80, de 2014; y
+Lo dispuesto en el artÃ­culo 6Â°, letra A, NÂ° 1; artÃ­culos 88 y 97 NÂ°s 1 y 10 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; artÃ­culo 1Â° de la Ley NÂ° 20.727, de 2014, en los artÃ­culos 1Â° y 7Â° letra b) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda, y en los artÃ­culos 2Â° NÂ°s 1 y 2; 9Â° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del D.L. NÂ° 825, de 1974; las Resoluciones Ex. SII NÂ° 45, de 2003; NÂ° 58, de 2003; NÂ° 80, de 2014; y
 
 ## CONSIDERANDO:
 
-1°. Que, la empresa TECNOLOGÍA APLICADA Y SERVICIOS DE CHILE S.A., RUT N° 76.352.746-8, se sometió a un proceso de certificación ante este Servicio, respecto de la emisión de un nuevo documento tributario, denominado 'Vale Electrónico', que reemplaza a la emisión de las Boletas de Ventas y Servicios, el que cumple con las formalidades y exigencias técnicas solicitadas que resguardan debidamente el interés fiscal, de conformidad con las especificaciones de validación y control que han sido definidas por la Subdirección de Asistencia al Contribuyente de este Servicio, según da cuenta el informe de certificación N° 1.300.037, emitido por el Departamento de Investigaciones Tecnológicas de la Universidad Católica, 'DICTUC S.A.', de fecha 24.11.2015.
+1Â°. Que, la empresa TECNOLOGÃA APLICADA Y SERVICIOS DE CHILE S.A., RUT NÂ° 76.352.746-8, se sometiÃ³ a un proceso de certificaciÃ³n ante este Servicio, respecto de la emisiÃ³n de un nuevo documento tributario, denominado 'Vale ElectrÃ³nico', que reemplaza a la emisiÃ³n de las Boletas de Ventas y Servicios, el que cumple con las formalidades y exigencias tÃ©cnicas solicitadas que resguardan debidamente el interÃ©s fiscal, de conformidad con las especificaciones de validaciÃ³n y control que han sido definidas por la SubdirecciÃ³n de Asistencia al Contribuyente de este Servicio, segÃºn da cuenta el informe de certificaciÃ³n NÂ° 1.300.037, emitido por el Departamento de Investigaciones TecnolÃ³gicas de la Universidad CatÃ³lica, 'DICTUC S.A.', de fecha 24.11.2015.
 
-2°. Que, este Servicio, en su permanente tarea de facilitar el cumplimiento tributario de los contribuyentes, ha estimado procedente autorizar un nuevo modelo de emisión de documentos de venta final.
+2Â°. Que, este Servicio, en su permanente tarea de facilitar el cumplimiento tributario de los contribuyentes, ha estimado procedente autorizar un nuevo modelo de emisiÃ³n de documentos de venta final.
 
-3°. Que, de acuerdo con los incisos 2° y 3° del artículo 56°, del D.L. N° 825, de 1974, el Servicio de Impuestos Internos podrá autorizar el uso de boletas y otros documentos tributarios que no reúnan los requisitos exigidos por la Ley y el Reglamento, y que a su juicio resguarden debidamente los intereses fiscales, pudiendo autorizar la emisión en papel de los documentos que deban ser emitidos en formato electrónico conforme al inciso primero del artículo 54 del texto legal antes indicado, mediante resolución en que se deberá expresar los fundamentos por los cuales se concede dicha autorización e individualizar al contribuyente o grupo de contribuyentes beneficiados y el plazo de vigencia de la misma, el cual, en todo caso, podrá ser renovado sucesivamente en tanto se mantengan las razones que originaron el otorgamiento de la autorización.
+3Â°. Que, de acuerdo con los incisos 2Â° y 3Â° del artÃ­culo 56Â°, del D.L. NÂ° 825, de 1974, el Servicio de Impuestos Internos podrÃ¡ autorizar el uso de boletas y otros documentos tributarios que no reÃºnan los requisitos exigidos por la Ley y el Reglamento, y que a su juicio resguarden debidamente los intereses fiscales, pudiendo autorizar la emisiÃ³n en papel de los documentos que deban ser emitidos en formato electrÃ³nico conforme al inciso primero del artÃ­culo 54 del texto legal antes indicado, mediante resoluciÃ³n en que se deberÃ¡ expresar los fundamentos por los cuales se concede dicha autorizaciÃ³n e individualizar al contribuyente o grupo de contribuyentes beneficiados y el plazo de vigencia de la misma, el cual, en todo caso, podrÃ¡ ser renovado sucesivamente en tanto se mantengan las razones que originaron el otorgamiento de la autorizaciÃ³n.
 
-En los casos en que, de acuerdo con la ley antes mencionada, los contribuyentes emitan boletas en soporte de papel, la Dirección Nacional del Servicio de Impuestos Internos podrá autorizar su emisión mediante máquinas registradoras u otros medios tecnológicos.
+En los casos en que, de acuerdo con la ley antes mencionada, los contribuyentes emitan boletas en soporte de papel, la DirecciÃ³n Nacional del Servicio de Impuestos Internos podrÃ¡ autorizar su emisiÃ³n mediante mÃ¡quinas registradoras u otros medios tecnolÃ³gicos.
 
 ## SE RESUELVE:
 
-1°. Autorízase a la empresa TECNOLOGÍA APLICADA Y SERVICIOS DE CHILE S.A., en adelante 'TAS CHILE S.A.', RUT N° 76.352.746-8, para operar un sistema de emisión de 'Vales Electrónicos' en reemplazo de la emisión de boletas de ventas y servicios por parte de contribuyentes usuarios terceros que utilicen la plataforma tecnológica que será suministrada por TAS CHILE S.A.
+1Â°. AutorÃ­zase a la empresa TECNOLOGÃA APLICADA Y SERVICIOS DE CHILE S.A., en adelante 'TAS CHILE S.A.', RUT NÂ° 76.352.746-8, para operar un sistema de emisiÃ³n de 'Vales ElectrÃ³nicos' en reemplazo de la emisiÃ³n de boletas de ventas y servicios por parte de contribuyentes usuarios terceros que utilicen la plataforma tecnolÃ³gica que serÃ¡ suministrada por TAS CHILE S.A.
 
-La autorización otorgada permitirá que los contribuyentes terceros habilitados a operar en la red TAS CHILE S.A., que cuenten con dispositivos idóneos para estos efectos provistos por el mismo operador, puedan emitir Vales Electrónicos que reemplazan a las boletas de ventas y servicios, siempre que se cumplan las condiciones que se indican en la presente resolución.
+La autorizaciÃ³n otorgada permitirÃ¡ que los contribuyentes terceros habilitados a operar en la red TAS CHILE S.A., que cuenten con dispositivos idÃ³neos para estos efectos provistos por el mismo operador, puedan emitir Vales ElectrÃ³nicos que reemplazan a las boletas de ventas y servicios, siempre que se cumplan las condiciones que se indican en la presente resoluciÃ³n.
 
-2°. Descripción del Sistema de Emisión de Vales Electrónicos en reemplazo de boletas.
+2Â°. DescripciÃ³n del Sistema de EmisiÃ³n de Vales ElectrÃ³nicos en reemplazo de boletas.
 
-Corresponde a un sistema de registro de transacciones electrónicas realizadas en terminales y/o dispositivos transaccionales remotos, de propiedad y administración de TAS CHILE S.A., los cuales se conectarán a un sistema centralizado, mediante el uso de redes propias o de terceros y/o mediante el uso de la red Internet.
+Corresponde a un sistema de registro de transacciones electrÃ³nicas realizadas en terminales y/o dispositivos transaccionales remotos, de propiedad y administraciÃ³n de TAS CHILE S.A., los cuales se conectarÃ¡n a un sistema centralizado, mediante el uso de redes propias o de terceros y/o mediante el uso de la red Internet.
 
-El sistema centralizado corresponde a los servidores de información que controlan el acceso de dispositivos previamente registrados. Este sistema realiza validaciones de ingreso, de consistencia y mantención de dispositivos o terminales, así como de las transacciones que en ellos se realizan.
+El sistema centralizado corresponde a los servidores de informaciÃ³n que controlan el acceso de dispositivos previamente registrados. Este sistema realiza validaciones de ingreso, de consistencia y mantenciÃ³n de dispositivos o terminales, asÃ­ como de las transacciones que en ellos se realizan.
 
-El sistema contempla la posibilidad de efectuar una serie de transacciones extra-tributarias en los dispositivos, tales como registro de giros en dinero, crédito comercio, apertura y cierre de caja con arqueo de circulante, pagos de servicios, recargas telefónicas y juegos de azar.
+El sistema contempla la posibilidad de efectuar una serie de transacciones extra-tributarias en los dispositivos, tales como registro de giros en dinero, crÃ©dito comercio, apertura y cierre de caja con arqueo de circulante, pagos de servicios, recargas telefÃ³nicas y juegos de azar.
 
-En caso que los dispositivos o terminales suministrados operen bajo redes dedicadas, ellas deben ser provistas bajo aprobación y supervisión del mismo operador del Sistema.
+En caso que los dispositivos o terminales suministrados operen bajo redes dedicadas, ellas deben ser provistas bajo aprobaciÃ³n y supervisiÃ³n del mismo operador del Sistema.
 
-Los usuarios finales de estos dispositivos, que se denominarán 'contribuyentes usuarios', que utilicen la funcionalidad tributaria de emisión de vales electrónicos en reemplazo de boletas, deberán previamente encontrarse validados en el SII, para lo cual TAS CHILE S.A., mantendrá actualizada la información de sus clientes afiliados en las bases de datos del SII.
+Los usuarios finales de estos dispositivos, que se denominarÃ¡n 'contribuyentes usuarios', que utilicen la funcionalidad tributaria de emisiÃ³n de vales electrÃ³nicos en reemplazo de boletas, deberÃ¡n previamente encontrarse validados en el SII, para lo cual TAS CHILE S.A., mantendrÃ¡ actualizada la informaciÃ³n de sus clientes afiliados en las bases de datos del SII.
 
-TAS CHILE S.A., proveerá equipos y dispositivos para sus clientes, por los cuales se generarán y emitirán los Vales Electrónicos en reemplazo de las Boletas de Ventas y Servicios, los cuales se controlarán de forma centralizada en cuanto a su foliación. La información tributaria de control principal (control fiscal) se encuentra radicada en el dispositivo mismo y en respaldo centralizado por parte de TAS CHILE S.A.
+TAS CHILE S.A., proveerÃ¡ equipos y dispositivos para sus clientes, por los cuales se generarÃ¡n y emitirÃ¡n los Vales ElectrÃ³nicos en reemplazo de las Boletas de Ventas y Servicios, los cuales se controlarÃ¡n de forma centralizada en cuanto a su foliaciÃ³n. La informaciÃ³n tributaria de control principal (control fiscal) se encuentra radicada en el dispositivo mismo y en respaldo centralizado por parte de TAS CHILE S.A.
 
-Los dispositivos y/o terminales suministrados a los contribuyentes usuarios terceros utilizarán un protocolo de seguridad basado en el uso de un certificado digital de firma electrónica, el cual garantiza el acceso autenticado de los usuarios a la aplicación en línea, lo cual minimiza la posibilidad de suplantaciones y/o de desconocimiento de transacciones realizadas.
+Los dispositivos y/o terminales suministrados a los contribuyentes usuarios terceros utilizarÃ¡n un protocolo de seguridad basado en el uso de un certificado digital de firma electrÃ³nica, el cual garantiza el acceso autenticado de los usuarios a la aplicaciÃ³n en lÃ­nea, lo cual minimiza la posibilidad de suplantaciones y/o de desconocimiento de transacciones realizadas.
 
-Los Vales Electrónicos generados e impresos contienen un código óptico que puede ser leído por un escáner o dispositivo con cámara digital, que facilita el ingreso de la información en un sitio web provisto por la empresa para la consulta de la información en forma posterior.
+Los Vales ElectrÃ³nicos generados e impresos contienen un cÃ³digo Ã³ptico que puede ser leÃ­do por un escÃ¡ner o dispositivo con cÃ¡mara digital, que facilita el ingreso de la informaciÃ³n en un sitio web provisto por la empresa para la consulta de la informaciÃ³n en forma posterior.
 
-La información recopilada será enviada por Internet, en forma diaria, al Servicio de Impuestos Internos, a nivel de resumen de transacciones. La información podrá enviarse hasta con tres días corridos de desfase.
+La informaciÃ³n recopilada serÃ¡ enviada por Internet, en forma diaria, al Servicio de Impuestos Internos, a nivel de resumen de transacciones. La informaciÃ³n podrÃ¡ enviarse hasta con tres dÃ­as corridos de desfase.
 
-El sistema cuenta con accesos remotos provistos para el SII con el fin que los fiscalizadores del Servicio de Impuestos Internos puedan revisar la información almacenada en forma centralizada, lo cual se realizará con los adecuados resguardos de autenticación y seguridad.
+El sistema cuenta con accesos remotos provistos para el SII con el fin que los fiscalizadores del Servicio de Impuestos Internos puedan revisar la informaciÃ³n almacenada en forma centralizada, lo cual se realizarÃ¡ con los adecuados resguardos de autenticaciÃ³n y seguridad.
 
-3°. De la autorización y habilitación de los contribuyentes usuarios terceros.
+3Â°. De la autorizaciÃ³n y habilitaciÃ³n de los contribuyentes usuarios terceros.
 
-Para habilitar a contribuyentes usuarios terceros en su sistema de operación, y que dichos contribuyentes usuarios sean autorizados para emitir Vales Electrónicos que reemplazan a las Boletas de Ventas y Servicios (en adelante Boletas), TAS CHILE S.A. previamente deberá confirmar que cada contribuyente cumpla con los siguientes requisitos:
+Para habilitar a contribuyentes usuarios terceros en su sistema de operaciÃ³n, y que dichos contribuyentes usuarios sean autorizados para emitir Vales ElectrÃ³nicos que reemplazan a las Boletas de Ventas y Servicios (en adelante Boletas), TAS CHILE S.A. previamente deberÃ¡ confirmar que cada contribuyente cumpla con los siguientes requisitos:
 
 a) Contar con inicio de actividades vigente.
 
 * b) Contar con al menos una actividad vigente afecta a IVA.
 
-La comprobación antes indicada deberá realizarse a través de la consulta de Situación Tributaria de Terceros, dispuesta en la oficina virtual del Servicio en Internet, [<u>www.sii.cl</u>](http://www.sii.cl).
+La comprobaciÃ³n antes indicada deberÃ¡ realizarse a travÃ©s de la consulta de SituaciÃ³n Tributaria de Terceros, dispuesta en la oficina virtual del Servicio en Internet, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Cada contribuyente usuario sólo podrá utilizar un sistema de emisión de Vales Electrónicos suministrado por un operador autorizado. En caso que un contribuyente usuario requiera los servicios de otro operador, deberá finalizar la relación contractual con TAS CHILE S.A. y suscribir otro contrato con el tercero indicado.
+Cada contribuyente usuario sÃ³lo podrÃ¡ utilizar un sistema de emisiÃ³n de Vales ElectrÃ³nicos suministrado por un operador autorizado. En caso que un contribuyente usuario requiera los servicios de otro operador, deberÃ¡ finalizar la relaciÃ³n contractual con TAS CHILE S.A. y suscribir otro contrato con el tercero indicado.
 
-El responsable de la persona natural o jurídica, para operar en el sistema provisto por TAS CHILE S.A., deberá comunicar su intención de operar en el sistema, mediante la suscripción de un mandato de operación otorgado a TAS CHILE S.A., el que quedará en poder de este último, y respecto del cual el Servicio de Impuestos Internos podrá solicitar acceso o copia del mismo.
+El responsable de la persona natural o jurÃ­dica, para operar en el sistema provisto por TAS CHILE S.A., deberÃ¡ comunicar su intenciÃ³n de operar en el sistema, mediante la suscripciÃ³n de un mandato de operaciÃ³n otorgado a TAS CHILE S.A., el que quedarÃ¡ en poder de este Ãºltimo, y respecto del cual el Servicio de Impuestos Internos podrÃ¡ solicitar acceso o copia del mismo.
 
-TAS CHILE S.A., debe informar a sus potenciales clientes de las obligaciones y condiciones inherentes a lo establecido por la presente Resolución, en cuanto al manejo de la información por parte del Operador, y de su envío al SII, para lo cual deberá dejarse registro expreso mediante firma del contribuyente o representante legal de un contrato de servicio que las señale.
+TAS CHILE S.A., debe informar a sus potenciales clientes de las obligaciones y condiciones inherentes a lo establecido por la presente ResoluciÃ³n, en cuanto al manejo de la informaciÃ³n por parte del Operador, y de su envÃ­o al SII, para lo cual deberÃ¡ dejarse registro expreso mediante firma del contribuyente o representante legal de un contrato de servicio que las seÃ±ale.
 
-TAS CHILE S.A., mantendrá al SII informado todos los días hábiles de las incorporaciones, retiros y desistimientos realizados por contribuyentes usuarios terceros de la plataforma descrita en la presente resolución.
+TAS CHILE S.A., mantendrÃ¡ al SII informado todos los dÃ­as hÃ¡biles de las incorporaciones, retiros y desistimientos realizados por contribuyentes usuarios terceros de la plataforma descrita en la presente resoluciÃ³n.
 
-Para utilizar el sistema descrito, el contribuyente usuario tercero debe mantener un buen comportamiento tributario, esto es, cumplir con sus obligaciones tributarias, tanto respecto de sus impuestos e información propia como la de terceros, lo cual será supervisado por el Servicio de Impuestos Internos.
+Para utilizar el sistema descrito, el contribuyente usuario tercero debe mantener un buen comportamiento tributario, esto es, cumplir con sus obligaciones tributarias, tanto respecto de sus impuestos e informaciÃ³n propia como la de terceros, lo cual serÃ¡ supervisado por el Servicio de Impuestos Internos.
 
-* 4°. De los Dispositivos de emisión.
+* 4Â°. De los Dispositivos de emisiÃ³n.
 
-La emisión de Vales Electrónicos en reemplazo de boletas se realizará mediante la utilización de dispositivos proporcionados por TAS CHILE S.A., los cuales deberán cumplir con los siguientes requisitos:
+La emisiÃ³n de Vales ElectrÃ³nicos en reemplazo de boletas se realizarÃ¡ mediante la utilizaciÃ³n de dispositivos proporcionados por TAS CHILE S.A., los cuales deberÃ¡n cumplir con los siguientes requisitos:
 
-* a) Los dispositivos provistos y habilitados por TAS CHILE S.A., deberán ser identificados en forma única mediante la aposición de un logo distintivo del operador, en el cual se indique el número de RUT y nombre del operador y una numeración única del dispositivo.
-* b) TAS CHILE S.A., deberá informar a este Servicio sobre los modelos y marcas de dispositivos utilizados.
-* c) Los dispositivos podrán utilizarse para la emisión de otros comprobantes, tales como comprobantes de abono, juegos de azar, recarga telefónica, pagos de créditos, y similares, siempre que ellos sean explícitamente identificados como tales y se indique la leyenda: 'Sin validez tributaria'.
+* a) Los dispositivos provistos y habilitados por TAS CHILE S.A., deberÃ¡n ser identificados en forma Ãºnica mediante la aposiciÃ³n de un logo distintivo del operador, en el cual se indique el nÃºmero de RUT y nombre del operador y una numeraciÃ³n Ãºnica del dispositivo.
+* b) TAS CHILE S.A., deberÃ¡ informar a este Servicio sobre los modelos y marcas de dispositivos utilizados.
+* c) Los dispositivos podrÃ¡n utilizarse para la emisiÃ³n de otros comprobantes, tales como comprobantes de abono, juegos de azar, recarga telefÃ³nica, pagos de crÃ©ditos, y similares, siempre que ellos sean explÃ­citamente identificados como tales y se indique la leyenda: 'Sin validez tributaria'.
 
-Los dispositivos transaccionales que sean entregados a los usuarios finales para ser utilizados en locales de ventas, deberán encontrarse totalmente operativos, habiéndose efectuado la iniciación del 'Modo Fiscal' que inhabilita la ejecución de funcionalidades de entrenamiento o pruebas, con el fin de garantizar que todas las transacciones que se realicen en el dispositivo por parte del contribuyente usuario sean registradas y validadas.
+Los dispositivos transaccionales que sean entregados a los usuarios finales para ser utilizados en locales de ventas, deberÃ¡n encontrarse totalmente operativos, habiÃ©ndose efectuado la iniciaciÃ³n del 'Modo Fiscal' que inhabilita la ejecuciÃ³n de funcionalidades de entrenamiento o pruebas, con el fin de garantizar que todas las transacciones que se realicen en el dispositivo por parte del contribuyente usuario sean registradas y validadas.
 
-Una vez que el proveedor certifique que el dispositivo cumple con los requisitos establecidos en los puntos a), b) y c) anteriores y haya sido inicializado con los datos del usuario, deberá emitirle al contribuyente un certificado técnico firmado por un funcionario competente de la empresa, en el cual indique haberse realizado las revisiones antes señaladas y constate que el dispositivo cumple con las exigencias impuestas. Adicionalmente deberá entregarle copia de la presente resolución, la cual también puede ser obtenida en la página Web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+Una vez que el proveedor certifique que el dispositivo cumple con los requisitos establecidos en los puntos a), b) y c) anteriores y haya sido inicializado con los datos del usuario, deberÃ¡ emitirle al contribuyente un certificado tÃ©cnico firmado por un funcionario competente de la empresa, en el cual indique haberse realizado las revisiones antes seÃ±aladas y constate que el dispositivo cumple con las exigencias impuestas. Adicionalmente deberÃ¡ entregarle copia de la presente resoluciÃ³n, la cual tambiÃ©n puede ser obtenida en la pÃ¡gina Web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Los contribuyentes usuarios terceros que operen en el sistema de emisión de Vales Electrónicos, deberán cumplir con los siguientes requisitos:
+Los contribuyentes usuarios terceros que operen en el sistema de emisiÃ³n de Vales ElectrÃ³nicos, deberÃ¡n cumplir con los siguientes requisitos:
 
-1. Cumplir con las exigencias vigentes y las que el Servicio de Impuestos Internos determina en esta resolución, o establezca en el futuro.
-2. Deberán mantener disponibles en sus locales de venta, una cantidad apropiada de boletas convencionales timbradas por este Servicio, para operar en caso de fallas, cortes de suministro
+1. Cumplir con las exigencias vigentes y las que el Servicio de Impuestos Internos determina en esta resoluciÃ³n, o establezca en el futuro.
+2. DeberÃ¡n mantener disponibles en sus locales de venta, una cantidad apropiada de boletas convencionales timbradas por este Servicio, para operar en caso de fallas, cortes de suministro
 
-eléctrico, o cualquier otra situación anómala en la cual no se pueda operar normalmente con los dispositivos.
+elÃ©ctrico, o cualquier otra situaciÃ³n anÃ³mala en la cual no se pueda operar normalmente con los dispositivos.
 
-1. Al término de la jornada de ventas, deberán realizar un cierre del periodo referido, siendo optativa la impresión y emisión en forma física de un informe de transacciones e informe de reposición a cero, comúnmente denominado 'Z'.
-2. Deberán informar oportunamente a TAS CHILE S.A., en caso de que el dispositivo o el sistema presente fallas de funcionamiento, o cuando no vaya a ser utilizado por un lapso de tiempo prolongado, estimándose éste último de acuerdo al movimiento normal del contribuyente usuario tercero.
-3. Mantener el dispositivo, conexiones y logo distintivo de TAS CHILE S.A. en buenas condiciones. En caso de requerir mantención, deberán utilizar únicamente los servicios autorizados por TAS CHILE S.A.
+1. Al tÃ©rmino de la jornada de ventas, deberÃ¡n realizar un cierre del periodo referido, siendo optativa la impresiÃ³n y emisiÃ³n en forma fÃ­sica de un informe de transacciones e informe de reposiciÃ³n a cero, comÃºnmente denominado 'Z'.
+2. DeberÃ¡n informar oportunamente a TAS CHILE S.A., en caso de que el dispositivo o el sistema presente fallas de funcionamiento, o cuando no vaya a ser utilizado por un lapso de tiempo prolongado, estimÃ¡ndose Ã©ste Ãºltimo de acuerdo al movimiento normal del contribuyente usuario tercero.
+3. Mantener el dispositivo, conexiones y logo distintivo de TAS CHILE S.A. en buenas condiciones. En caso de requerir mantenciÃ³n, deberÃ¡n utilizar Ãºnicamente los servicios autorizados por TAS CHILE S.A.
 
-En caso de robo, hurto, pérdida, extravío, destrucción, falla del dispositivo que se traduzca en la pérdida de la información contenida en el dispositivo, el contribuyente usuario tercero deberá informar a TAS CHILE S.A. sobre esta situación y al Servicio de Impuestos Internos, en el mismo plazo establecido para el caso de extravío y pérdida de documentación contable, de acuerdo a lo dispuesto por el N°16 del artículo 97 del Código Tributario, con el fin de que se realice una eventual reconstitución de transacciones. Adicionalmente TAS CHILE S.A. deberá informar de esta situación al SII, mediante un informe mensual sobre estas situaciones, para lo cual se dispondrá un canal tecnológico para recibir esta información.
+En caso de robo, hurto, pÃ©rdida, extravÃ­o, destrucciÃ³n, falla del dispositivo que se traduzca en la pÃ©rdida de la informaciÃ³n contenida en el dispositivo, el contribuyente usuario tercero deberÃ¡ informar a TAS CHILE S.A. sobre esta situaciÃ³n y al Servicio de Impuestos Internos, en el mismo plazo establecido para el caso de extravÃ­o y pÃ©rdida de documentaciÃ³n contable, de acuerdo a lo dispuesto por el NÂ°16 del artÃ­culo 97 del CÃ³digo Tributario, con el fin de que se realice una eventual reconstituciÃ³n de transacciones. Adicionalmente TAS CHILE S.A. deberÃ¡ informar de esta situaciÃ³n al SII, mediante un informe mensual sobre estas situaciones, para lo cual se dispondrÃ¡ un canal tecnolÃ³gico para recibir esta informaciÃ³n.
 
-## 5°. De los Vales Electrónicos.
+## 5Â°. De los Vales ElectrÃ³nicos.
 
-Los Vales Electrónicos emitidos por el sistema a que se refiere la presente resolución, corresponden a un nuevo tipo de documento autorizado para emitirse en reemplazo de las Boletas de Ventas y Servicios, los cuales deberán emitirse en al menos un ejemplar, el cual debe ser entregado al comprador o beneficiario del respectivo bien o servicio.
+Los Vales ElectrÃ³nicos emitidos por el sistema a que se refiere la presente resoluciÃ³n, corresponden a un nuevo tipo de documento autorizado para emitirse en reemplazo de las Boletas de Ventas y Servicios, los cuales deberÃ¡n emitirse en al menos un ejemplar, el cual debe ser entregado al comprador o beneficiario del respectivo bien o servicio.
 
-El ejemplar impreso del Vale Electrónico deberá contener al menos la siguiente información:
+El ejemplar impreso del Vale ElectrÃ³nico deberÃ¡ contener al menos la siguiente informaciÃ³n:
 
-* a) Número del ROL ÚNICO TRIBUTARIO del emisor.
-* b) Nombre o razón social del contribuyente usuario tercero, o abreviatura inteligible.
-* c) Domicilio o casa matriz del contribuyente o dirección de la sucursal con indicación de ciudad, lugar, calle y número, o abreviatura inteligible.
+* a) NÃºmero del ROL ÃšNICO TRIBUTARIO del emisor.
+* b) Nombre o razÃ³n social del contribuyente usuario tercero, o abreviatura inteligible.
+* c) Domicilio o casa matriz del contribuyente o direcciÃ³n de la sucursal con indicaciÃ³n de ciudad, lugar, calle y nÃºmero, o abreviatura inteligible.
 * d) Registro del monto de las operaciones realizadas.
-* e) Todos los valores deberán expresarse en pesos y sin signos, por lo que estos documentos no podrán contener valores negativos, a menos que otra Resolución expresa de este Servicio lo permita.
+* e) Todos los valores deberÃ¡n expresarse en pesos y sin signos, por lo que estos documentos no podrÃ¡n contener valores negativos, a menos que otra ResoluciÃ³n expresa de este Servicio lo permita.
 
-f) Número de terminal, y fecha de emisión con indicación del año, mes, día, hora, minuto y segundo. En caso de usarse palabras o abreviaturas de ellas para referirse al mes de emisión, estas deberán consignarse en idioma castellano.
+f) NÃºmero de terminal, y fecha de emisiÃ³n con indicaciÃ³n del aÃ±o, mes, dÃ­a, hora, minuto y segundo. En caso de usarse palabras o abreviaturas de ellas para referirse al mes de emisiÃ³n, estas deberÃ¡n consignarse en idioma castellano.
 
-* g) Leyenda indicativa 'Válido como Boleta' mencionando el número y año de la presente Resolución.
-* h) En caso que se emita una o más copias de un vale en una transacción, cada vale deberá distinguirse del o de los otros, indicando una leyenda alusiva, que discrimine entre la destinada a la entrega al cliente consumidor final, de las otras representaciones.
-* i) Numeración única correlativa por contribuyente usuario tercero.
-* j) Código óptico de lectura, que permita su verificación por medio de uso de medios tecnológicos.
+* g) Leyenda indicativa 'VÃ¡lido como Boleta' mencionando el nÃºmero y aÃ±o de la presente ResoluciÃ³n.
+* h) En caso que se emita una o mÃ¡s copias de un vale en una transacciÃ³n, cada vale deberÃ¡ distinguirse del o de los otros, indicando una leyenda alusiva, que discrimine entre la destinada a la entrega al cliente consumidor final, de las otras representaciones.
+* i) NumeraciÃ³n Ãºnica correlativa por contribuyente usuario tercero.
+* j) CÃ³digo Ã³ptico de lectura, que permita su verificaciÃ³n por medio de uso de medios tecnolÃ³gicos.
 
-1. 6°. De la foliación de los Vales Electrónicos.
+1. 6Â°. De la foliaciÃ³n de los Vales ElectrÃ³nicos.
 
-Considerando que el documento emitido por el sistema provisto por TAS CHILE S.A., corresponde a un nuevo tipo de documento tributario, la foliación única del Vale Electrónico por cada contribuyente deberá comenzar desde el número '1' (uno). El operador del sistema informará periódicamente al SII sobre la utilización de folios de cada contribuyente con el fin de mantener una correlatividad consistente de folios.
+Considerando que el documento emitido por el sistema provisto por TAS CHILE S.A., corresponde a un nuevo tipo de documento tributario, la foliaciÃ³n Ãºnica del Vale ElectrÃ³nico por cada contribuyente deberÃ¡ comenzar desde el nÃºmero '1' (uno). El operador del sistema informarÃ¡ periÃ³dicamente al SII sobre la utilizaciÃ³n de folios de cada contribuyente con el fin de mantener una correlatividad consistente de folios.
 
-El Sistema operado por TAS CHILE S.A. administrará la entrega de la numeración de folios correlativos y únicos por cada contribuyente.
+El Sistema operado por TAS CHILE S.A. administrarÃ¡ la entrega de la numeraciÃ³n de folios correlativos y Ãºnicos por cada contribuyente.
 
-En caso que un contribuyente usuario sea dado de baja del sistema operado por TAS CHILE S.A., y luego utilice los sistemas de otro operador que eventualmente se autorice en el futuro, o incluso del mismo operador TAS CHILE S.A., la numeración del Vale Electrónico deberá continuar el orden correlativo consecutivo de acuerdo al último Vale Electrónico emitido. En estos casos de cambio de proveedor de sistema de emisión de Vales Electrónicos, será responsabilidad del contribuyente usuario verificar y confirmar la correcta correlatividad de continuación de foliación de este documento, lo cual deberá quedar sindicado en forma numérica y expresa en el contrato de adhesión que se firme al respecto.
+En caso que un contribuyente usuario sea dado de baja del sistema operado por TAS CHILE S.A., y luego utilice los sistemas de otro operador que eventualmente se autorice en el futuro, o incluso del mismo operador TAS CHILE S.A., la numeraciÃ³n del Vale ElectrÃ³nico deberÃ¡ continuar el orden correlativo consecutivo de acuerdo al Ãºltimo Vale ElectrÃ³nico emitido. En estos casos de cambio de proveedor de sistema de emisiÃ³n de Vales ElectrÃ³nicos, serÃ¡ responsabilidad del contribuyente usuario verificar y confirmar la correcta correlatividad de continuaciÃ³n de foliaciÃ³n de este documento, lo cual deberÃ¡ quedar sindicado en forma numÃ©rica y expresa en el contrato de adhesiÃ³n que se firme al respecto.
 
-7°. Del Registro de los Vales Electrónicos en el Libro de Ventas.
+7Â°. Del Registro de los Vales ElectrÃ³nicos en el Libro de Ventas.
 
-El contribuyente deberá registrar en el Libro de Ventas, en cada jornada, los Vales Electrónicos emitidos, utilizando para ello la información contenida en el reporte de ventas diarias que emite cada dispositivo. Considerando que la numeración del Vale Electrónico es única por contribuyente, se deberá registrar sólo una línea por día, diferenciándolas de las ventas realizadas con boletas o con vales en reemplazo de boletas u otros.
+El contribuyente deberÃ¡ registrar en el Libro de Ventas, en cada jornada, los Vales ElectrÃ³nicos emitidos, utilizando para ello la informaciÃ³n contenida en el reporte de ventas diarias que emite cada dispositivo. Considerando que la numeraciÃ³n del Vale ElectrÃ³nico es Ãºnica por contribuyente, se deberÃ¡ registrar sÃ³lo una lÃ­nea por dÃ­a, diferenciÃ¡ndolas de las ventas realizadas con boletas o con vales en reemplazo de boletas u otros.
 
-Al final del periodo mensual, se deberá totalizar los resúmenes diarios de ventas respaldados por Vales electrónicos, en forma separada de las Boletas de Ventas y Servicios.
+Al final del periodo mensual, se deberÃ¡ totalizar los resÃºmenes diarios de ventas respaldados por Vales electrÃ³nicos, en forma separada de las Boletas de Ventas y Servicios.
 
-8°. Del Registro de los Vales Electrónicos en la Información Electrónica de Ventas y en la Declaración Jurada 3328 de Ventas:
+8Â°. Del Registro de los Vales ElectrÃ³nicos en la InformaciÃ³n ElectrÃ³nica de Ventas y en la DeclaraciÃ³n Jurada 3328 de Ventas:
 
-Los contribuyentes usuarios que sean emisores de documentos tributarios electrónicos, de acuerdo a la Res. Ex. SII N° 45, de 2003, modificada por las Res. Exs. SII N° 49, de 2011, 80, de 2014 y 100, de 2014, en la información electrónica de ventas deberán informar las transacciones a que se refiere esta resolución, bajo un nuevo código de documento, dispuesto específicamente para esta modalidad de operación, el cual corresponde al código número 47 y que deberá informarse sólo a nivel de resumen mensual.
+Los contribuyentes usuarios que sean emisores de documentos tributarios electrÃ³nicos, de acuerdo a la Res. Ex. SII NÂ° 45, de 2003, modificada por las Res. Exs. SII NÂ° 49, de 2011, 80, de 2014 y 100, de 2014, en la informaciÃ³n electrÃ³nica de ventas deberÃ¡n informar las transacciones a que se refiere esta resoluciÃ³n, bajo un nuevo cÃ³digo de documento, dispuesto especÃ­ficamente para esta modalidad de operaciÃ³n, el cual corresponde al cÃ³digo nÃºmero 47 y que deberÃ¡ informarse sÃ³lo a nivel de resumen mensual.
 
-Los contribuyentes, que no sean emisores de documentos tributarios electrónicos y que puedan estar obligados a presentar las declaraciones juradas N°s 3327 y 3328, de acuerdo a lo establecido por la Res. Ex. SII N° 05, de 2014, o deban presentar información para efectos de fiscalización por parte de este Servicio, deberán informar en forma separada estas transacciones de aquellas respaldadas con boletas de Ventas y Servicios afectas, de acuerdo al formato que se encuentra publicado para estas declaraciones juradas, considerando para ello el código del documento correspondiente al número 47.
+Los contribuyentes, que no sean emisores de documentos tributarios electrÃ³nicos y que puedan estar obligados a presentar las declaraciones juradas NÂ°s 3327 y 3328, de acuerdo a lo establecido por la Res. Ex. SII NÂ° 05, de 2014, o deban presentar informaciÃ³n para efectos de fiscalizaciÃ³n por parte de este Servicio, deberÃ¡n informar en forma separada estas transacciones de aquellas respaldadas con boletas de Ventas y Servicios afectas, de acuerdo al formato que se encuentra publicado para estas declaraciones juradas, considerando para ello el cÃ³digo del documento correspondiente al nÃºmero 47.
 
-9° Del Registro en el Formulario N° 29, de Declaración Mensual y Pago Simultáneo de Impuestos.
+9Â° Del Registro en el Formulario NÂ° 29, de DeclaraciÃ³n Mensual y Pago SimultÃ¡neo de Impuestos.
 
-Considerando que estos Vales Electrónicos reemplazan a las boletas de compras y ventas timbradas, por corresponder a un símil de ella, la información de los Vales Electrónicos debe registrase en conjunto en los códigos 110 y 111 del Formulario N° 29 de Declaración Mensual y Pago Simultáneo de Impuesto.
+Considerando que estos Vales ElectrÃ³nicos reemplazan a las boletas de compras y ventas timbradas, por corresponder a un sÃ­mil de ella, la informaciÃ³n de los Vales ElectrÃ³nicos debe registrase en conjunto en los cÃ³digos 110 y 111 del Formulario NÂ° 29 de DeclaraciÃ³n Mensual y Pago SimultÃ¡neo de Impuesto.
 
-10°. Del resguardo de la Información.
+10Â°. Del resguardo de la InformaciÃ³n.
 
-TAS CHILE S.A., deberá mantener la información suministrada por los contribuyentes, por al menos 6 años, de acuerdo a lo indicado por los artículos 200 y 201 del Código Tributario, y debe conservarla por el mismo tiempo, resguardando su confidencialidad sobre terceros.
+TAS CHILE S.A., deberÃ¡ mantener la informaciÃ³n suministrada por los contribuyentes, por al menos 6 aÃ±os, de acuerdo a lo indicado por los artÃ­culos 200 y 201 del CÃ³digo Tributario, y debe conservarla por el mismo tiempo, resguardando su confidencialidad sobre terceros.
 
-TAS CHILE S.A., no podrá entregar la información detallada específica de un contribuyente usuario a un tercero, a menos que el contribuyente usuario lo autorice expresamente.
+TAS CHILE S.A., no podrÃ¡ entregar la informaciÃ³n detallada especÃ­fica de un contribuyente usuario a un tercero, a menos que el contribuyente usuario lo autorice expresamente.
 
-En caso que, por cualquier motivo, un usuario del sistema finalice la relación contractual con TAS CHILE S.A., relacionada a la utilización del sistema de Vales Electrónicos, el operador deberá hacer entrega en formato digital, en archivos planos tipo texto, de toda la información relacionada a la emisión de Vales Electrónicos, esto con el fin que el contribuyente pueda generar sus registros contables.
+En caso que, por cualquier motivo, un usuario del sistema finalice la relaciÃ³n contractual con TAS CHILE S.A., relacionada a la utilizaciÃ³n del sistema de Vales ElectrÃ³nicos, el operador deberÃ¡ hacer entrega en formato digital, en archivos planos tipo texto, de toda la informaciÃ³n relacionada a la emisiÃ³n de Vales ElectrÃ³nicos, esto con el fin que el contribuyente pueda generar sus registros contables.
 
-11°. Del envío de la información al SII.
+11Â°. Del envÃ­o de la informaciÃ³n al SII.
 
-El operador TAS CHILE S.A., deberá enviar al SII la información de ventas, de acuerdo al formato de archivo de intercambio que se muestra en Anexo N° 1 de la presente resolución, lo cual deberá realizar en forma diaria con un desfase máximo de 3 días corridos. Las modificaciones en los registros deberán informarse de inmediato bajo el mismo protocolo.
+El operador TAS CHILE S.A., deberÃ¡ enviar al SII la informaciÃ³n de ventas, de acuerdo al formato de archivo de intercambio que se muestra en Anexo NÂ° 1 de la presente resoluciÃ³n, lo cual deberÃ¡ realizar en forma diaria con un desfase mÃ¡ximo de 3 dÃ­as corridos. Las modificaciones en los registros deberÃ¡n informarse de inmediato bajo el mismo protocolo.
 
-## 12°. De la anulación de documentos emitidos.
+## 12Â°. De la anulaciÃ³n de documentos emitidos.
 
-La anulación de un Vale Electrónico podrá realizarse utilizando el mismo dispositivo para esta operación, para lo cual el folio deberá quedar registrado como nulo y no podrá reutilizarse. Se deberá, a su vez, informar a este Servicio de tal circunstancia a través del sistema, indicando el N° de folio y la causa de anulación del documento.
+La anulaciÃ³n de un Vale ElectrÃ³nico podrÃ¡ realizarse utilizando el mismo dispositivo para esta operaciÃ³n, para lo cual el folio deberÃ¡ quedar registrado como nulo y no podrÃ¡ reutilizarse. Se deberÃ¡, a su vez, informar a este Servicio de tal circunstancia a travÃ©s del sistema, indicando el NÂ° de folio y la causa de anulaciÃ³n del documento.
 
-La anulación indicada en los términos anteriores sólo podrá realizarse hasta el día anterior a la presentación del Formulario N° 29 de Declaración y Pago Mensual correspondiente, esto con el fin de que la operación señalada sea reflejada correctamente en la declaración mensual de impuestos.
+La anulaciÃ³n indicada en los tÃ©rminos anteriores sÃ³lo podrÃ¡ realizarse hasta el dÃ­a anterior a la presentaciÃ³n del Formulario NÂ° 29 de DeclaraciÃ³n y Pago Mensual correspondiente, esto con el fin de que la operaciÃ³n seÃ±alada sea reflejada correctamente en la declaraciÃ³n mensual de impuestos.
 
-En caso que se requiera realizar la anulación de un Vale Electrónico en forma posterior al plazo indicado en el párrafo anterior, se deberá emitir una Nota de Crédito Electrónica o, en caso que el contribuyente aún no se encuentre obligado a emitir Notas de Crédito Electrónicas, una Nota de Crédito, para respaldar tal transacción, la cual deberá ser emitida individualizando al cliente.
+En caso que se requiera realizar la anulaciÃ³n de un Vale ElectrÃ³nico en forma posterior al plazo indicado en el pÃ¡rrafo anterior, se deberÃ¡ emitir una Nota de CrÃ©dito ElectrÃ³nica o, en caso que el contribuyente aÃºn no se encuentre obligado a emitir Notas de CrÃ©dito ElectrÃ³nicas, una Nota de CrÃ©dito, para respaldar tal transacciÃ³n, la cual deberÃ¡ ser emitida individualizando al cliente.
 
-Los documentos anulados deberán quedar registrados con esa calidad en los registros contables del contribuyente.
+Los documentos anulados deberÃ¡n quedar registrados con esa calidad en los registros contables del contribuyente.
 
-## 13°. De la fiscalización.
+## 13Â°. De la fiscalizaciÃ³n.
 
-Frente a un requerimiento del Servicio de Impuestos Internos, TAS CHILE S.A., deberá dar facilidades para entregar en forma inmediata los Vales Electrónicos del período tributario en curso y de los dos períodos tributarios anteriores.
+Frente a un requerimiento del Servicio de Impuestos Internos, TAS CHILE S.A., deberÃ¡ dar facilidades para entregar en forma inmediata los Vales ElectrÃ³nicos del perÃ­odo tributario en curso y de los dos perÃ­odos tributarios anteriores.
 
-La información deberá ser entregada a través de un medio electrónico, enviada a través de Internet, o de acuerdo a lo que determine el funcionario fiscalizador.
+La informaciÃ³n deberÃ¡ ser entregada a travÃ©s de un medio electrÃ³nico, enviada a travÃ©s de Internet, o de acuerdo a lo que determine el funcionario fiscalizador.
 
-Igualmente, frente a un requerimiento del Servicio de Impuestos Internos, el contribuyente usuario deberá poder entregar, en forma inmediata, tanto en la sucursal como en la casa matriz en que se está efectuando la fiscalización, un registro resumido de los Vales Electrónicos emitidos. Para estos efectos, cada dispositivo incluirá un sistema de emisión de informes de auditoría 'X', el cual entregará un reporte con el detalle del estado de los contadores de movimientos fiscales hasta el momento.
+Igualmente, frente a un requerimiento del Servicio de Impuestos Internos, el contribuyente usuario deberÃ¡ poder entregar, en forma inmediata, tanto en la sucursal como en la casa matriz en que se estÃ¡ efectuando la fiscalizaciÃ³n, un registro resumido de los Vales ElectrÃ³nicos emitidos. Para estos efectos, cada dispositivo incluirÃ¡ un sistema de emisiÃ³n de informes de auditorÃ­a 'X', el cual entregarÃ¡ un reporte con el detalle del estado de los contadores de movimientos fiscales hasta el momento.
 
-El Servicio de Impuestos Internos podrá solicitar en cualquier momento la información de todas las transacciones realizadas por los contribuyentes usuarios, a través de una solicitud centralizada. Dicha información deberá ser entregada dentro del plazo de 10 días hábiles, a través de la comunicación remota o por medios físicos tecnológicos.
+El Servicio de Impuestos Internos podrÃ¡ solicitar en cualquier momento la informaciÃ³n de todas las transacciones realizadas por los contribuyentes usuarios, a travÃ©s de una solicitud centralizada. Dicha informaciÃ³n deberÃ¡ ser entregada dentro del plazo de 10 dÃ­as hÃ¡biles, a travÃ©s de la comunicaciÃ³n remota o por medios fÃ­sicos tecnolÃ³gicos.
 
-## 14°. De la suspensión y revocación de la autorización para los contribuyentes usuarios terceros.
+## 14Â°. De la suspensiÃ³n y revocaciÃ³n de la autorizaciÃ³n para los contribuyentes usuarios terceros.
 
-En caso que se detecten acciones tendientes a desvirtuar el monto de las transacciones respaldadas en uno o más Vales Electrónicos, el operador del Sistema TAS CHILE S.A., deberá deshabilitar de su sistema al contribuyente que ha cometido la irregularidad, informando de este hecho al SII dentro de los dos días hábiles siguientes de detectado el hecho, y efectuar una revisión de la situación.
+En caso que se detecten acciones tendientes a desvirtuar el monto de las transacciones respaldadas en uno o mÃ¡s Vales ElectrÃ³nicos, el operador del Sistema TAS CHILE S.A., deberÃ¡ deshabilitar de su sistema al contribuyente que ha cometido la irregularidad, informando de este hecho al SII dentro de los dos dÃ­as hÃ¡biles siguientes de detectado el hecho, y efectuar una revisiÃ³n de la situaciÃ³n.
 
-El Servicio de Impuestos Internos se reserva el derecho de suspender la autorización otorgada a un contribuyente para emitir Vales Electrónicos a través del sistema provisto por TAS CHILE S.A. si no cumple las obligaciones establecidas en la presente resolución, para lo cual se informará al operador para que deshabilite al contribuyente para utilizar el sistema de emisión de Vales Electrónicos.
+El Servicio de Impuestos Internos se reserva el derecho de suspender la autorizaciÃ³n otorgada a un contribuyente para emitir Vales ElectrÃ³nicos a travÃ©s del sistema provisto por TAS CHILE S.A. si no cumple las obligaciones establecidas en la presente resoluciÃ³n, para lo cual se informarÃ¡ al operador para que deshabilite al contribuyente para utilizar el sistema de emisiÃ³n de Vales ElectrÃ³nicos.
 
-La suspensión de la autorización indicada, tendrá como efecto la imposibilidad temporal del usuario de generar, otorgar y enviar Vales Electrónicos, lo cual se materializará mediante el bloqueo de la recepción de la información de estos documentos, así como de la interrupción de la entrega de nuevos folios para los contribuyentes usuarios; por lo cual y mientras se extienda la suspensión, cualquier Vale Electrónico emitido de acuerdo al presente modelo no tendrá validez legal alguna. Asimismo el empleo de dichos vales, en ese período de suspensión le hará aplicable al infractor la sanción prevista en el N° 10 del artículo 97 del Código Tributario.
+La suspensiÃ³n de la autorizaciÃ³n indicada, tendrÃ¡ como efecto la imposibilidad temporal del usuario de generar, otorgar y enviar Vales ElectrÃ³nicos, lo cual se materializarÃ¡ mediante el bloqueo de la recepciÃ³n de la informaciÃ³n de estos documentos, asÃ­ como de la interrupciÃ³n de la entrega de nuevos folios para los contribuyentes usuarios; por lo cual y mientras se extienda la suspensiÃ³n, cualquier Vale ElectrÃ³nico emitido de acuerdo al presente modelo no tendrÃ¡ validez legal alguna. Asimismo el empleo de dichos vales, en ese perÃ­odo de suspensiÃ³n le harÃ¡ aplicable al infractor la sanciÃ³n prevista en el NÂ° 10 del artÃ­culo 97 del CÃ³digo Tributario.
 
-La suspensión antes señalada será informada al contribuyente a través del mismo operador del sistema, con lo cual el SII abrirá una investigación de la situación, que podrá finalizar en la rehabilitación del contribuyente usuario en el sistema o en la revocación definitiva la autorización otorgada mediante la presente resolución.
+La suspensiÃ³n antes seÃ±alada serÃ¡ informada al contribuyente a travÃ©s del mismo operador del sistema, con lo cual el SII abrirÃ¡ una investigaciÃ³n de la situaciÃ³n, que podrÃ¡ finalizar en la rehabilitaciÃ³n del contribuyente usuario en el sistema o en la revocaciÃ³n definitiva la autorizaciÃ³n otorgada mediante la presente resoluciÃ³n.
 
-El contribuyente usuario no podrá seguir emitiendo Vales Electrónicos, una vez que pierda su calidad de autorizado para ello.
+El contribuyente usuario no podrÃ¡ seguir emitiendo Vales ElectrÃ³nicos, una vez que pierda su calidad de autorizado para ello.
 
-## 15°. De la suspensión y revocación de la autorización otorgada al operador.
+## 15Â°. De la suspensiÃ³n y revocaciÃ³n de la autorizaciÃ³n otorgada al operador.
 
-En caso que se detecten acciones u omisiones tendientes a desvirtuar el monto de las transacciones respaldadas en uno o más Vales Electrónicos, o el incumplimiento de las obligaciones y condiciones establecidas en la presente resolución por parte del operador del Sistema TAS CHILE S.A., este Servicio podrá suspender mediante resolución la autorización otorgada, con el fin que deshabilite en forma inmediata la operación del sistema; el funcionamiento de los dispositivos de todos los contribuyentes usuarios; y en caso que mediante resolución se revoque la autorización, procederá al retiro de los dispositivos instalados por parte de TAS CHILE S.A.
+En caso que se detecten acciones u omisiones tendientes a desvirtuar el monto de las transacciones respaldadas en uno o mÃ¡s Vales ElectrÃ³nicos, o el incumplimiento de las obligaciones y condiciones establecidas en la presente resoluciÃ³n por parte del operador del Sistema TAS CHILE S.A., este Servicio podrÃ¡ suspender mediante resoluciÃ³n la autorizaciÃ³n otorgada, con el fin que deshabilite en forma inmediata la operaciÃ³n del sistema; el funcionamiento de los dispositivos de todos los contribuyentes usuarios; y en caso que mediante resoluciÃ³n se revoque la autorizaciÃ³n, procederÃ¡ al retiro de los dispositivos instalados por parte de TAS CHILE S.A.
 
-La suspensión de la autorización, tendrá como efecto la imposibilidad temporal de operar el sistema de Vales Electrónicos, lo cual se materializará mediante el bloqueo de la recepción de la información de estos documentos, así como de la interrupción de la entrega de nuevos folios para los contribuyentes usuarios; por lo cual y mientras se extienda la suspensión, cualquier Vale Electrónico emitido de acuerdo al presente modelo no tendrá validez legal alguna.
+La suspensiÃ³n de la autorizaciÃ³n, tendrÃ¡ como efecto la imposibilidad temporal de operar el sistema de Vales ElectrÃ³nicos, lo cual se materializarÃ¡ mediante el bloqueo de la recepciÃ³n de la informaciÃ³n de estos documentos, asÃ­ como de la interrupciÃ³n de la entrega de nuevos folios para los contribuyentes usuarios; por lo cual y mientras se extienda la suspensiÃ³n, cualquier Vale ElectrÃ³nico emitido de acuerdo al presente modelo no tendrÃ¡ validez legal alguna.
 
-La suspensión antes señalada será informada al operador a través de una notificación, en la cual se indicarán las razones que llevaron a tomar la determinación, la forma de realizar eventuales descargos explicativos, así como las condiciones exigidas para retomar la operación como operador a través del mismo operador del sistema. Con los antecedentes indicados este Servicio procederá a realizar una investigación, que podrá finalizar en la rehabilitación de TAS CHILE S.A. como operador del sistema o en la revocación definitiva la autorización otorgada mediante la presente resolución.
+La suspensiÃ³n antes seÃ±alada serÃ¡ informada al operador a travÃ©s de una notificaciÃ³n, en la cual se indicarÃ¡n las razones que llevaron a tomar la determinaciÃ³n, la forma de realizar eventuales descargos explicativos, asÃ­ como las condiciones exigidas para retomar la operaciÃ³n como operador a travÃ©s del mismo operador del sistema. Con los antecedentes indicados este Servicio procederÃ¡ a realizar una investigaciÃ³n, que podrÃ¡ finalizar en la rehabilitaciÃ³n de TAS CHILE S.A. como operador del sistema o en la revocaciÃ³n definitiva la autorizaciÃ³n otorgada mediante la presente resoluciÃ³n.
 
-La revocación de la autorización indicada anteriormente, tendrá como efecto la imposibilidad de seguir operando el sistema de emisión de Vales Electrónicos, lo cual se comunicará a todos los contribuyentes usuarios.
+La revocaciÃ³n de la autorizaciÃ³n indicada anteriormente, tendrÃ¡ como efecto la imposibilidad de seguir operando el sistema de emisiÃ³n de Vales ElectrÃ³nicos, lo cual se comunicarÃ¡ a todos los contribuyentes usuarios.
 
-16°. De la interacción con otras modalidades de emisión de documentos tributarios.
+16Â°. De la interacciÃ³n con otras modalidades de emisiÃ³n de documentos tributarios.
 
-* a) La emisión de Vales Electrónicos podrá realizarse en conjunto con la emisión de vales en reemplazo de boletas emitidas por Máquinas Registradoras, Terminales de Punto de Venta e Impresoras Fiscales, y sólo podrá emitir Boletas de Ventas y Servicios autorizadas mediante timbraje físico en caso de imprevistos o situaciones justificadas en que la emisión del Vale Electrónico no se pueda realizar.
-* b) Vale colación: Las ventas canceladas con vales, cupones o tickets de colación de empresas intermediarias, deberán ajustarse al procedimiento establecido en la Res. Ex. N° 6582, de fecha 26.12.1997, modificada por la Res. Ex. N° 3207, de fecha 28.05.1998 y la Circular N° 37, de fecha 06.07.1998.
-* c) Comprobante de Pago Electrónico: A los contribuyentes usuarios emisores de Vales Electrónicos no les serán aplicables las normas establecidas por la Res. Ex. SII N° 05 de 2015 modificada por la Resolución N° 55, de 2015, por lo cual deben emitir estos documentos por todas sus transacciones, independiente de la forma de pago, no correspondiendo que el voucher de pago electrónico haga las veces de documento tributario en caso de recibirse un pago por medio electrónico.
+* a) La emisiÃ³n de Vales ElectrÃ³nicos podrÃ¡ realizarse en conjunto con la emisiÃ³n de vales en reemplazo de boletas emitidas por MÃ¡quinas Registradoras, Terminales de Punto de Venta e Impresoras Fiscales, y sÃ³lo podrÃ¡ emitir Boletas de Ventas y Servicios autorizadas mediante timbraje fÃ­sico en caso de imprevistos o situaciones justificadas en que la emisiÃ³n del Vale ElectrÃ³nico no se pueda realizar.
+* b) Vale colaciÃ³n: Las ventas canceladas con vales, cupones o tickets de colaciÃ³n de empresas intermediarias, deberÃ¡n ajustarse al procedimiento establecido en la Res. Ex. NÂ° 6582, de fecha 26.12.1997, modificada por la Res. Ex. NÂ° 3207, de fecha 28.05.1998 y la Circular NÂ° 37, de fecha 06.07.1998.
+* c) Comprobante de Pago ElectrÃ³nico: A los contribuyentes usuarios emisores de Vales ElectrÃ³nicos no les serÃ¡n aplicables las normas establecidas por la Res. Ex. SII NÂ° 05 de 2015 modificada por la ResoluciÃ³n NÂ° 55, de 2015, por lo cual deben emitir estos documentos por todas sus transacciones, independiente de la forma de pago, no correspondiendo que el voucher de pago electrÃ³nico haga las veces de documento tributario en caso de recibirse un pago por medio electrÃ³nico.
 
-17°. El no otorgamiento del Vale Electrónico, en las condiciones indicadas, se sancionará de acuerdo a lo dispuesto en el artículo 97 N° 10 del Código Tributario.
+17Â°. El no otorgamiento del Vale ElectrÃ³nico, en las condiciones indicadas, se sancionarÃ¡ de acuerdo a lo dispuesto en el artÃ­culo 97 NÂ° 10 del CÃ³digo Tributario.
 
-A su vez, la utilización maliciosa del sistema de emisión de Vales Electrónicos, será sancionada según lo establecido en el artículo 97 N° 4 del Código Tributario. Asimismo en el caso de configurarse las circunstancias señaladas por la ley, el operador del sistema, TAS CHILE S.A., se hará responsable de la infracción dispuesta en el inciso final del precepto señalado.
+A su vez, la utilizaciÃ³n maliciosa del sistema de emisiÃ³n de Vales ElectrÃ³nicos, serÃ¡ sancionada segÃºn lo establecido en el artÃ­culo 97 NÂ° 4 del CÃ³digo Tributario. Asimismo en el caso de configurarse las circunstancias seÃ±aladas por la ley, el operador del sistema, TAS CHILE S.A., se harÃ¡ responsable de la infracciÃ³n dispuesta en el inciso final del precepto seÃ±alado.
 
-18°. Cualquier modificación tecnológica de funciones del sistema de emisión de Vales Electrónicos, deberá ser comunicada directamente por TAS CHILE S.A. a la Subdirección de Atención al Contribuyente del Servicio de Impuestos Internos.
+18Â°. Cualquier modificaciÃ³n tecnolÃ³gica de funciones del sistema de emisiÃ³n de Vales ElectrÃ³nicos, deberÃ¡ ser comunicada directamente por TAS CHILE S.A. a la SubdirecciÃ³n de AtenciÃ³n al Contribuyente del Servicio de Impuestos Internos.
 
-Asimismo,el operador deberá informar al SII la realización de algún cambio en su organización administrativa, tales como: fusiones, absorciones y/o divisiones societarias, aumentos o reducciones de capital, ingreso, salida o cambio de socios, así como si adquiere de terceros o transfiere parte o toda la operación del sistema de emisión de Vales Electrónicos.
+Asimismo,el operador deberÃ¡ informar al SII la realizaciÃ³n de algÃºn cambio en su organizaciÃ³n administrativa, tales como: fusiones, absorciones y/o divisiones societarias, aumentos o reducciones de capital, ingreso, salida o cambio de socios, asÃ­ como si adquiere de terceros o transfiere parte o toda la operaciÃ³n del sistema de emisiÃ³n de Vales ElectrÃ³nicos.
 
-19°. La presente autorización regirá a contar de la publicación de esta Resolución en extracto en el Diario Oficial, mientras se mantengan las condiciones expuestas.
+19Â°. La presente autorizaciÃ³n regirÃ¡ a contar de la publicaciÃ³n de esta ResoluciÃ³n en extracto en el Diario Oficial, mientras se mantengan las condiciones expuestas.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demás fines. VVS/RPA/MDA/CPG/mbu Distribución :
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines. VVS/RPA/MDA/CPG/mbu DistribuciÃ³n :
 
 * -Internet
-* -Boletín
+* -BoletÃ­n
 * -Diario Oficial

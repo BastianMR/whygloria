@@ -1,19 +1,18 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 33 (2019)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 33 |
-resource: ./2019_CIRCULAR_circu33.md.docx
+title: Circular NÂ° 33 (2019)
+description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 33 |
 tags: [SII, 2019, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 33** |
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 33** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09-08-2019 |
-| MATERIA: TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE SEPTIEMBRE DE 2019 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHO TRIBUTO. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF. LEGAL: Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: TABLAS DE IMPUESTO ÃšNICO DE SEGUNDA CATEGORÃA PARA EL MES DE SEPTIEMBRE DE 2019 E INFORMACIÃ“N ADICIONAL RELACIONADA CON DICHO TRIBUTO. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN: REF. LEGAL: Arts. 42 NÂ° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta. |
 
-## I.INFORMACIÓN GENERAL
+## I.INFORMACIÃ“N GENERAL
 
-## 1.Unidad Tributaria Mensual y Anual del mes de septiembre de 2019, según información del Servicio de Impuestos Internos (SII)
+## 1.Unidad Tributaria Mensual y Anual del mes de septiembre de 2019, segÃºn informaciÃ³n del Servicio de Impuestos Internos (SII)
 
 | **Meses** | **Meses** | **UTM** | **UTA (\*)** | **Meses** | **Meses** | **UTM** | **UTA (\*)** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,17 +23,17 @@ tags: [SII, 2019, circular]
 | Mayo | 2019 | 48.595 | 583.14 | Noviembre | 2019 |  |  |
 | Junio | 2019 | 48.741 | 584.892 | Diciembre | 2019 |  |  |
 
-## 2.Índice y Variación del IPC del mes de julio de 2019, respecto del mes anterior, según información del Instituto Nacional de Estadísticas (INE)
+## 2.Ãndice y VariaciÃ³n del IPC del mes de julio de 2019, respecto del mes anterior, segÃºn informaciÃ³n del Instituto Nacional de EstadÃ­sticas (INE)
 
-Atendido que en la tabla insertada en el N° 2, del apartado I.-, de la Circular N° 12, de 11 de marzo de 2019, y en el N° 2, del apartado I.-, de la Circular N° 28, del 10 de julio de 2019, se indicó que la variación porcentual acumulada del IPC a febrero de 2019 y a junio de 2019 era de 0,1 y 1,5, respectivamente, cifras que no resultan coincidentes con las publicadas oficialmente por el INE para dichos períodos, reemplácense las mismas por 0,2 y 1,6, respectivamente.
+Atendido que en la tabla insertada en el NÂ° 2, del apartado I.-, de la Circular NÂ° 12, de 11 de marzo de 2019, y en el NÂ° 2, del apartado I.-, de la Circular NÂ° 28, del 10 de julio de 2019, se indicÃ³ que la variaciÃ³n porcentual acumulada del IPC a febrero de 2019 y a junio de 2019 era de 0,1 y 1,5, respectivamente, cifras que no resultan coincidentes con las publicadas oficialmente por el INE para dichos perÃ­odos, reemplÃ¡cense las mismas por 0,2 y 1,6, respectivamente.
 
-Considerando dichas modificaciones, a continuación, se indica el IPC del mes de julio de 2019 y sus variaciones, según información publicada por el INE:
+Considerando dichas modificaciones, a continuaciÃ³n, se indica el IPC del mes de julio de 2019 y sus variaciones, segÃºn informaciÃ³n publicada por el INE:
 
-Nota: A partir de enero 2019, el INE ha procedido a recalcular los índices de precios al consumidor, tomando como base anual 2018 = 100.
+Nota: A partir de enero 2019, el INE ha procedido a recalcular los Ã­ndices de precios al consumidor, tomando como base anual 2018 = 100.
 
-|  |  | **Índice de Precios al Consumidor (IPC)** | **Índice de Precios al Consumidor (IPC)** | **Variación Porcentual** | **Variación Porcentual** | **Variación Porcentual** |
+|  |  | **Ãndice de Precios al Consumidor (IPC)** | **Ãndice de Precios al Consumidor (IPC)** | **VariaciÃ³n Porcentual** | **VariaciÃ³n Porcentual** | **VariaciÃ³n Porcentual** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Meses | Meses | Valor en puntos | VIPC | Mensual (\*) | Acumulada 2019 (\*\*) | Últimos 12 meses (\*\*\*) |
+| Meses | Meses | Valor en puntos | VIPC | Mensual (\*) | Acumulada 2019 (\*\*) | Ãšltimos 12 meses (\*\*\*) |
 | Enero | 2019 | 100,75 | 0,1 | 0,1 | 0,1 | 2,2 |
 | Febrero | 2019 | 100,79 | 0,0 | 0,0 | 0,2 | 2,2 |
 | Marzo | 2019 | 101,27 | 0,5 | 0,5 | 0,6 | 2,5 |
@@ -48,15 +47,15 @@ Nota: A partir de enero 2019, el INE ha procedido a recalcular los índices de p
 | Noviembre | 2019 |  |  |  |  |  |
 | Diciembre | 2019 |  |  |  |  |  |
 
-(\*) Variación mensual: Corresponde a la publicada oficialmente por el INE en cada mes.
+(\*) VariaciÃ³n mensual: Corresponde a la publicada oficialmente por el INE en cada mes.
 
-(\*\*) Variación acumulada 2019 : Corresponde a la acumulada a la fecha, respecto del mes de diciembre del año anterior, publicada oficialmente por el INE.
+(\*\*) VariaciÃ³n acumulada 2019 : Corresponde a la acumulada a la fecha, respecto del mes de diciembre del aÃ±o anterior, publicada oficialmente por el INE.
 
-(\*\*\*) Variación últimos 12 meses : Corresponde a la variación de los últimos doce meses, considerando la variación resultante de la serie empalmada publicada en [<u>www.ine.cl</u>](http://www.ine.cl).
+(\*\*\*) VariaciÃ³n Ãºltimos 12 meses : Corresponde a la variaciÃ³n de los Ãºltimos doce meses, considerando la variaciÃ³n resultante de la serie empalmada publicada en [<u>www.ine.cl</u>](http://www.ine.cl).
 
-* 3.Porcentajes de Corrección Monetaria (%), según artículo 41 de laLey sobre Impuesto a la Renta (LIR)
+* 3.Porcentajes de CorrecciÃ³n Monetaria (%), segÃºn artÃ­culo 41 de laLey sobre Impuesto a la Renta (LIR)
 
-| **Períodos** | **Períodos** | **Ene.** | **Feb.** | **Mar.** | **Abr.** | **May.** | **Jun.** | **Jul.** | **Ago.** | **Sep.** | **Oct.** | **Nov.** | **Dic.** |
+| **PerÃ­odos** | **PerÃ­odos** | **Ene.** | **Feb.** | **Mar.** | **Abr.** | **May.** | **Jun.** | **Jul.** | **Ago.** | **Sep.** | **Oct.** | **Nov.** | **Dic.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capital Propio Inicial | Capital Propio Inicial | -0,1 | 0,0 | 0,0 | 0,5 | 0,8 | 1,4 | 1,4 | 1,7 |  |  |  |  |
 | Enero | 2019 |  | 0,1 | 0,1 | 0,6 | 0,9 | 1,5 | 1,6 | 1,8 |  |  |  |  |
@@ -72,29 +71,29 @@ Nota: A partir de enero 2019, el INE ha procedido a recalcular los índices de p
 | Noviembre | 2019 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Diciembre | 2019 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-NOTA: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose éste a un valor cero (0); normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.
+NOTA: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de correcciÃ³n monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualÃ¡ndose Ã©ste a un valor cero (0); normativa que rige tanto para los efectos de la aplicaciÃ³n de las normas sobre correcciÃ³n monetaria para ejercicios o perÃ­odos finalizados al 31 de diciembre de cada aÃ±o como para los tÃ©rminos de giro y demÃ¡s situaciones de reajustabilidad que establece dicho texto legal.
 
-* 4.Impuesto Único de Segunda Categoría (IUSC) que afecta a los choferes de taxis que no son de su propiedad (art. 42 N° 1 de la LIR): El monto del impuesto equivale al 3,5 % aplicado sobre 2 UTM . Para el mes de septiembre del año 2019, el tributo asciende a $ 3.439.-
-* 5.Gratificación de Zona: Para fijar el límite máximo establecido en el artículo 13º del D.L. Nº 889, de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende a $ 655.177, para el mes de septiembre del año 2019.
-* 6.IUSC que afecta a los trabajadores agrícolas (art. 42 N° 1 y 43 N° 1 de la LIR):
-* a) Tasa fija de impuesto..................…………….................................…...………………...................… 3,5%
+* 4.Impuesto Ãšnico de Segunda CategorÃ­a (IUSC) que afecta a los choferes de taxis que no son de su propiedad (art. 42 NÂ° 1 de la LIR): El monto del impuesto equivale al 3,5 % aplicado sobre 2 UTM . Para el mes de septiembre del aÃ±o 2019, el tributo asciende a $ 3.439.-
+* 5.GratificaciÃ³n de Zona: Para fijar el lÃ­mite mÃ¡ximo establecido en el artÃ­culo 13Âº del D.L. NÂº 889, de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende a $ 655.177, para el mes de septiembre del aÃ±o 2019.
+* 6.IUSC que afecta a los trabajadores agrÃ­colas (art. 42 NÂ° 1 y 43 NÂ° 1 de la LIR):
+* a) Tasa fija de impuesto..................â€¦â€¦â€¦â€¦â€¦.................................â€¦...â€¦â€¦â€¦â€¦â€¦â€¦...................â€¦ 3,5%
 * b) Cuota exenta para el mes de septiembre de 2019 (10 UTM) .................................................... $ 491.310
-* c) Sólo la cantidad que exceda de los $ 491.310.queda afecta a la tributación del 3,5%.
+* c) SÃ³lo la cantidad que exceda de los $ 491.310.queda afecta a la tributaciÃ³n del 3,5%.
 * d) Del impuesto resultante no debe deducirse cantidad alguna.
-* e) La tributación se aplica considerando la misma cantidad sobre la cual se impone en el Sistema Previsional que corresponda (IPS o AFP).
+* e) La tributaciÃ³n se aplica considerando la misma cantidad sobre la cual se impone en el Sistema Previsional que corresponda (IPS o AFP).
 
-## 7.Reliquidación anual del IUSC por rentas simultáneas percibidas de más de un empleador, habilitado o pagador:
+## 7.ReliquidaciÃ³n anual del IUSC por rentas simultÃ¡neas percibidas de mÃ¡s de un empleador, habilitado o pagador:
 
-Los trabajadores dependientes que durante el mes de septiembre de 2019, obtengan rentas simultáneas de más de un empleador, habilitado o pagador, conforme a lo dispuesto por el artículo 47 de la LIR, deberán reliquidar anualmente el IUSC que les afecta por tales rentas. Los contribuyentes que se encuentren en la situación antes indicada, pueden efectuar dentro del presente año calendario pagos provisionales voluntarios a cuenta de las diferencias de impuestos que resulten de la reliquidación anual a practicar al citado tributo, y enterarlos en arcas fiscales mediante el Formulario N° 50 (Línea 59, Código 67) . Para los mismos fines antes señalados, tales contribuyentes pueden solicitar a cualquiera de sus empleadores, habilitados o pagadores que les efectúen una mayor retención de IUSC, conforme a lo dispuesto por el inciso final, del artículo 88 de la LIR, la cual también tendrá la calidad de un pago provisional voluntario , que se declarará en el Formulario N° 29 (Línea 51, Código 48).
+Los trabajadores dependientes que durante el mes de septiembre de 2019, obtengan rentas simultÃ¡neas de mÃ¡s de un empleador, habilitado o pagador, conforme a lo dispuesto por el artÃ­culo 47 de la LIR, deberÃ¡n reliquidar anualmente el IUSC que les afecta por tales rentas. Los contribuyentes que se encuentren en la situaciÃ³n antes indicada, pueden efectuar dentro del presente aÃ±o calendario pagos provisionales voluntarios a cuenta de las diferencias de impuestos que resulten de la reliquidaciÃ³n anual a practicar al citado tributo, y enterarlos en arcas fiscales mediante el Formulario NÂ° 50 (LÃ­nea 59, CÃ³digo 67) . Para los mismos fines antes seÃ±alados, tales contribuyentes pueden solicitar a cualquiera de sus empleadores, habilitados o pagadores que les efectÃºen una mayor retenciÃ³n de IUSC, conforme a lo dispuesto por el inciso final, del artÃ­culo 88 de la LIR, la cual tambiÃ©n tendrÃ¡ la calidad de un pago provisional voluntario , que se declararÃ¡ en el Formulario NÂ° 29 (LÃ­nea 51, CÃ³digo 48).
 
-* 8.Impuesto Global Complementario: Los contribuyentes pueden efectuar pagos provisionales en Bancos e Instituciones Financieras Autorizadas para cubrir este impuesto. En atención a que los citados pagos sólo es posible realizarlos durante el año por un monto aproximado, se recomienda utilizar para estos efectos las Tablas Mensuales del IUSC que se presentan en el Capítulo II siguiente.
-* 9.En la columna "Tasa de impuesto efectiva máxima por cada tramo de renta", contenida en las tablas de cálculo del IUSC de los capítulos siguientes, se indica solo para efectos de referencia la tasa efectiva máxima de impuesto que corresponde a cada tramo de renta.
+* 8.Impuesto Global Complementario: Los contribuyentes pueden efectuar pagos provisionales en Bancos e Instituciones Financieras Autorizadas para cubrir este impuesto. En atenciÃ³n a que los citados pagos sÃ³lo es posible realizarlos durante el aÃ±o por un monto aproximado, se recomienda utilizar para estos efectos las Tablas Mensuales del IUSC que se presentan en el CapÃ­tulo II siguiente.
+* 9.En la columna "Tasa de impuesto efectiva mÃ¡xima por cada tramo de renta", contenida en las tablas de cÃ¡lculo del IUSC de los capÃ­tulos siguientes, se indica solo para efectos de referencia la tasa efectiva mÃ¡xima de impuesto que corresponde a cada tramo de renta.
 
-## II.TABLA DE CÁLCULO DEL IUSC ESTABLECIDA EN EL ARTÍCULO 43 N° 1 DE LA LIR, PARA LOS TRABAJADORES DEPENDIENTES Y PENSIONADOS O JUBILADOS CORRESPONDIENTE AL MES DE SEPTIEMBRE DE 2019
+## II.TABLA DE CÃLCULO DEL IUSC ESTABLECIDA EN EL ARTÃCULO 43 NÂ° 1 DE LA LIR, PARA LOS TRABAJADORES DEPENDIENTES Y PENSIONADOS O JUBILADOS CORRESPONDIENTE AL MES DE SEPTIEMBRE DE 2019
 
-## 1.Expresada en UTM (según Circular N° 71 de 2015)
+## 1.Expresada en UTM (segÃºn Circular NÂ° 71 de 2015)
 
-| **Tramo** | **Renta imponible mensual en UTM** | **Renta imponible mensual en UTM** | **Tasa** | **CANTIDAD A REBAJAR EN UTM** | **TASA DE IMPUESTO EFECTIVA MÁXIMA CADA DE RENTA (6)** |
+| **Tramo** | **Renta imponible mensual en UTM** | **Renta imponible mensual en UTM** | **Tasa** | **CANTIDAD A REBAJAR EN UTM** | **TASA DE IMPUESTO EFECTIVA MÃXIMA CADA DE RENTA (6)** |
 | --- | --- | --- | --- | --- | --- |
 |  | Desde | Hasta |  |  | POR TRAMO |
 | (1) 1 | (2) 0,0 | (3) 13,5 | (4) Exento | (5) 0,00 | Exento |
@@ -103,55 +102,55 @@ Los trabajadores dependientes que durante el mes de septiembre de 2019, obtengan
 | 3 4 | 50 | 70 | 13,5% | 4,49 | 4,52% 7,09% |
 | 5 | 70 | 90 | 23% | 11,14 | 10,62% |
 | 6 | 90 | 120 | 30,4% | 17,80 | 15,57% |
-| 7 | 120 | y más | 35% | 23,32 | Más de 15,57% |
+| 7 | 120 | y mÃ¡s | 35% | 23,32 | MÃ¡s de 15,57% |
 
 La tabla se transforma a pesos multiplicando las cantidades de las columnas (2), (3) y (5) por el valor de la UTM del mes respectivo.
 
 ## 2.Expresada en Pesos
 
-| **PERÍO- DOS** | **RENTAIMPONIBLE MENSUAL** | **RENTAIMPONIBLE MENSUAL** | **FACTOR** | **CANTIDAD A REBAJAR** | **TASA DE IMPUESTO EFECTIVAMÁXIMA POR CADATRAMO DE RENTA** |
+| **PERÃO- DOS** | **RENTAIMPONIBLE MENSUAL** | **RENTAIMPONIBLE MENSUAL** | **FACTOR** | **CANTIDAD A REBAJAR** | **TASA DE IMPUESTO EFECTIVAMÃXIMA POR CADATRAMO DE RENTA** |
 | --- | --- | --- | --- | --- | --- |
-| PERÍO- DOS | DESDE | HASTA | FACTOR | CANTIDAD A REBAJAR | TASA DE IMPUESTO EFECTIVAMÁXIMA POR CADATRAMO DE RENTA |
+| PERÃO- DOS | DESDE | HASTA | FACTOR | CANTIDAD A REBAJAR | TASA DE IMPUESTO EFECTIVAMÃXIMA POR CADATRAMO DE RENTA |
 | MENSUAL | - | $ 663.268,50 | EXENTO | - | Exento |
 | MENSUAL | $ $ 663.268,51 | $1.473.930,00 | 0,04 | $ $ 26.530,74 | 2,20% |
 | MENSUAL | $ 1.473.930,01 | $2.456.550,00 | 0,08 | $ 85.487,94 | 4,52% |
 | MENSUAL | $ 2.456.550,01 | $3.439.170,00 | 0,135 | $ 220.598,19 | 7,09% |
 | MENSUAL | $ 3.439.170,01 | $4.421.790,00 | 0,23 | $ 547.319,34 | 10,62% |
 | MENSUAL | $ 4.421.790,01 | $5.895.720,00 | 0,304 | $ 874.531,80 | 15,57% |
-| MENSUAL | $ 5.895.720,01 | y más | 0,35 | $ 1.145.734,92 | Más de 15,57% |
+| MENSUAL | $ 5.895.720,01 | y mÃ¡s | 0,35 | $ 1.145.734,92 | MÃ¡s de 15,57% |
 | QUINCENAL | $ - | $ 331.634,25 | EXENTO | - | Exento |
 | QUINCENAL | $ 331.634,26 | $ 736.965,00 | 0,04 | $ $ 13.265,37 | 2,20% |
 | QUINCENAL | $ 736.965,01 | $1.228.275,00 | 0,08 | $ 42.743,97 | 4,52% |
 | QUINCENAL | $1.228.275,01 | $1.719.585,00 | 0,135 | $ 110.299,10 | 7,09% |
 | QUINCENAL | $1.719.585,01 | $2.210.895,00 | 0,23 | $ 273.659,67 | 10,62% |
 | QUINCENAL | $2.210.895,01 | $2.947.860,00 | 0,304 | $ 437.265,90 | 15,57% |
-| QUINCENAL | $2.947.860,01 | y más | 0,35 | $ 572.867,46 | Más de 15,57% |
+| QUINCENAL | $2.947.860,01 | y mÃ¡s | 0,35 | $ 572.867,46 | MÃ¡s de 15,57% |
 | SEMANAL | - | $ 154.762,65 | EXENTO | $ - | Exento |
 | SEMANAL | $ $ 154.762,66 | $ 343.917,00 | 0,04 | $ 6.190,51 | 2,20% |
 | SEMANAL | $ 343.917,01 | $ 573.195,00 | 0,08 | $ 19.947,19 | 4,52% |
 | SEMANAL | $ 573.195,01 | $ 802.473,00 | 0,135 | $ 51.472,91 | 7,09% |
 | SEMANAL | $ 802.473,01 | $1.031.751,00 | 0,23 | $ 127.707,85 | 10,62% |
 | SEMANAL | $1.031.751,01 | $1.375.668,00 | 0,304 | $ 204.057,42 | 15,57% |
-| SEMANAL | $1.375.668,01 | y más | 0,35 | $ 267.338,15 | Más de 15,57% |
+| SEMANAL | $1.375.668,01 | y mÃ¡s | 0,35 | $ 267.338,15 | MÃ¡s de 15,57% |
 | DIARIO | - | $ 22.108,95 | EXENTO | $ - | Exento |
 | DIARIO | $ $ 22.108,96 | $ 49.131,00 | 0,04 | $ 884,36 | 2,20% |
 | DIARIO | $ 49.131,01 | $ 81.885,00 | 0,08 | $ 2.849,60 | 4,52% |
 | DIARIO | $ 81.885,01 | $ 114.639,00 | 0,135 | $ 7.353,27 | 7,09% |
 | DIARIO | $ 114.639,01 | $ 147.393,00 | 0,23 | $ 18.243,98 | 10,62% |
 | DIARIO | $ 147.393,01 | $ 196.524,00 | 0,304 | $ 29.151,06 | 15,57% |
-| DIARIO | $ 196.524,01 | y más | 0,35 | $ 38.191,16 | Más de 15,57% |
+| DIARIO | $ 196.524,01 | y mÃ¡s | 0,35 | $ 38.191,16 | MÃ¡s de 15,57% |
 
-## III.TABLA DE CÁLCULO DEL IUSC ESTABLECIDA EN LA LETRA a) DEL ARTÍCULO 52 BIS DE LA LIR, PARA EL PRESIDENTE DE LA REPÚBLICA, MINISTROS DE ESTADO, SUBSECRETARIOS, SENADORES Y DIPUTADOS CORRESPONDIENTE AL MES DE SEPTIEMBRE DE 2019
+## III.TABLA DE CÃLCULO DEL IUSC ESTABLECIDA EN LA LETRA a) DEL ARTÃCULO 52 BIS DE LA LIR, PARA EL PRESIDENTE DE LA REPÃšBLICA, MINISTROS DE ESTADO, SUBSECRETARIOS, SENADORES Y DIPUTADOS CORRESPONDIENTE AL MES DE SEPTIEMBRE DE 2019
 
-De acuerdo a lo dispuesto por la letra a), artículo 52 bis de la LIR, la estructura de la tabla del IUSC que se publica a continuación, solo se aplicará a las autoridades antes indicadas cuando sus rentas mensuales afectas al IUSC, clasificadas en el N° 1 del artículo 42 de la LIR, derivadas exclusivamente del ejercicio de
+De acuerdo a lo dispuesto por la letra a), artÃ­culo 52 bis de la LIR, la estructura de la tabla del IUSC que se publica a continuaciÃ³n, solo se aplicarÃ¡ a las autoridades antes indicadas cuando sus rentas mensuales afectas al IUSC, clasificadas en el NÂ° 1 del artÃ­culo 42 de la LIR, derivadas exclusivamente del ejercicio de
 
-sus funciones excedan del equivalente a 150 UTM vigente en el mes respectivo. Dicho valor para los efectos antes señalados para el mes de septiembre de 2019, asciende a $ 7.369.650.-
+sus funciones excedan del equivalente a 150 UTM vigente en el mes respectivo. Dicho valor para los efectos antes seÃ±alados para el mes de septiembre de 2019, asciende a $ 7.369.650.-
 
-En el caso que no se cumpla la condición antes señalada, esto es, que las rentas sean de un monto inferior o igual a 150 UTM, el IUSC que afecta a las rentas obtenidas por las personas mencionadas, se determinará de acuerdo a la escala mensual del IUSC indicada en el Capítulo II anterior.
+En el caso que no se cumpla la condiciÃ³n antes seÃ±alada, esto es, que las rentas sean de un monto inferior o igual a 150 UTM, el IUSC que afecta a las rentas obtenidas por las personas mencionadas, se determinarÃ¡ de acuerdo a la escala mensual del IUSC indicada en el CapÃ­tulo II anterior.
 
-## 1.Expresada en UTM (según Circular N°71 de 2015)
+## 1.Expresada en UTM (segÃºn Circular NÂ°71 de 2015)
 
-| **Tramo (1)** | **Renta imponible mensual en UTM (2)** | **(3)** | **Tasa (4)** | **CANTIDAD A REBAJAR EN UTM (5)** | **TASA DE IMPUESTO EFECTIVA MÁXIMA POR CADA DE RENTA (6)** |
+| **Tramo (1)** | **Renta imponible mensual en UTM (2)** | **(3)** | **Tasa (4)** | **CANTIDAD A REBAJAR EN UTM (5)** | **TASA DE IMPUESTO EFECTIVA MÃXIMA POR CADA DE RENTA (6)** |
 | --- | --- | --- | --- | --- | --- |
 |  | Desde | Hasta |  |  | TRAMO |
 | 1 | 0 | 13,5 | Exento | 0,00 | Exento |
@@ -161,15 +160,15 @@ En el caso que no se cumpla la condición antes señalada, esto es, que las rent
 | 5 | 70 | 90 | 23% | 11,14 | 10,62% |
 | 6 | 90 | 120 | 30,4% | 17,80 | 15,57% |
 | 7 | 120 | 150 | 35% | 23,32 | 19,45% |
-| 8 | 150 | y más | 40% | 30,82 | Más de 19,45% |
+| 8 | 150 | y mÃ¡s | 40% | 30,82 | MÃ¡s de 19,45% |
 
 La tabla se transforma a pesos multiplicando las cantidades de las columnas (2), (3) y (5) por el valor de la UTM del mes respectivo.
 
 ## 2 .-Expresada en Pesos
 
-| **PERÍODO** | **RENTAIMPONIBLE MENSUAL** | **RENTAIMPONIBLE MENSUAL** | **FACTO R** | **CANTIDAD A** | **TASA DE IMPUESTO EFECTIVA MÁXIMAPOR CADA TRAMO DE** |
+| **PERÃODO** | **RENTAIMPONIBLE MENSUAL** | **RENTAIMPONIBLE MENSUAL** | **FACTO R** | **CANTIDAD A** | **TASA DE IMPUESTO EFECTIVA MÃXIMAPOR CADA TRAMO DE** |
 | --- | --- | --- | --- | --- | --- |
-| PERÍODO | DESDE | HASTA |  | REBAJAR | RENTA |
+| PERÃODO | DESDE | HASTA |  | REBAJAR | RENTA |
 |  | $ - | $ 663.268,50 | Exento | $ - | Exento |
 |  | $ 663.268,51 | $ 1.473.930,00 | 0,04 | $ 26.530,74 | 2,20% |
 |  | $ 1.473.930,01 | $ 2.456.550,00 | 0,08 | $ 85.487,94 | 4,52% |
@@ -177,7 +176,7 @@ La tabla se transforma a pesos multiplicando las cantidades de las columnas (2),
 |  | $ 3.439.170,01 | $ 4.421.790,00 | 0,23 | $ 547.319,34 | 10,62% |
 |  | $ 4.421.790,01 | $ 5.895.720,00 | 0,304 | $ 874.531,80 | 15,57% |
 |  | $ 5.895.720,01 | $ 7.369.650,00 | 0,35 | $ 1.145.734,92 | 19,45% |
-|  | $ 7.369.650,01 | y más | 0,40 | $ 1.514.217,42 | Más de 19,45% |
+|  | $ 7.369.650,01 | y mÃ¡s | 0,40 | $ 1.514.217,42 | MÃ¡s de 19,45% |
 
 Saluda a Ud.,
 
@@ -185,4 +184,4 @@ FERNANDO BARRAZA LUENGO DIRECTOR
 
 JAR/PAO/LOF
 
-DISTRIBUCIÓN: -AL BOLETÍN -INTERNET
+DISTRIBUCIÃ“N: -AL BOLETÃN -INTERNET

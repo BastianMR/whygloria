@@ -1,8 +1,7 @@
----
-type: SII Resolución
-title: Resolución N° 64 (2023)
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 64 (2023)
 description: Diario Oficial, en extracto
-resource: ./2023_RESOLUCION_reso64.md.docx
 tags: [SII, 2023, resolucion]
 ---
 
@@ -10,7 +9,7 @@ tags: [SII, 2023, resolucion]
 
 ## MFM/BOB/AID
 
-* Distribución:
+* DistribuciÃ³n:
 * Internet
 * Diario Oficial, en extracto
 
@@ -18,17 +17,17 @@ DESIGNA SECRETARIA TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIEN
 
 SANTIAGO, 31 DE MAYO DE 2023
 
-RESOLUCIÓN EX. SII N° 64.-
+RESOLUCIÃ“N EX. SII NÂ° 64.-
 
-VISTOS Y CONSIDERANDO: Oficio DJU.N° 69, de 29.03.2023 de la IV Dirección Regional La Serena; Minuta N° 40, de 03.05.2023, de la Subdirección de Avaluaciones; las Resoluciones N° 18, de 20.06.2013, publicada en el Diario Oficial de fecha 13.07.2013 y Ex. N° 84, de 22.07.2019, publicada en el Diario Oficial de fecha 26.07.2019, ambas de este Servicio; lo dispuesto en el artículo 121 del Código Tributario y en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón, de las materias de personal que se indican.
+VISTOS Y CONSIDERANDO: Oficio DJU.NÂ° 69, de 29.03.2023 de la IV DirecciÃ³n Regional La Serena; Minuta NÂ° 40, de 03.05.2023, de la SubdirecciÃ³n de Avaluaciones; las Resoluciones NÂ° 18, de 20.06.2013, publicada en el Diario Oficial de fecha 13.07.2013 y Ex. NÂ° 84, de 22.07.2019, publicada en el Diario Oficial de fecha 26.07.2019, ambas de este Servicio; lo dispuesto en el artÃ­culo 121 del CÃ³digo Tributario y en la ResoluciÃ³n NÂ° 6, de 26.03.2019, de la ContralorÃ­a General de la RepÃºblica, que fija normas sobre exenciÃ³n del trÃ¡mite de toma de razÃ³n, de las materias de personal que se indican.
 
 ## RESUELVO:
 
-1°) DESÍGNASE, a doña ANA MARÍA CONTRERAS GAHONA , fiscalizador tasador, RUT. N° 11.511.223-6, en el cargo de Secretaria Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, en reemplazo de doña ANA MARÍA GODOY DÍAZ , RUT. N° 8.998.922-1. DÉJASE sin efecto parcialmente la Resolución N° 18 de 20.06.2013, en lo que se refiere al nombramiento Ana María Godoy Díaz publicada en el Diario Oficial de fecha 13.07.2013.
+1Â°) DESÃGNASE, a doÃ±a ANA MARÃA CONTRERAS GAHONA , fiscalizador tasador, RUT. NÂ° 11.511.223-6, en el cargo de Secretaria Suplente en el Tribunal Especial de Alzada de los Bienes RaÃ­ces de la Primera Serie, con jurisdicciÃ³n en el territorio de la IlustrÃ­sima Corte de Apelaciones de La Serena, en reemplazo de doÃ±a ANA MARÃA GODOY DÃAZ , RUT. NÂ° 8.998.922-1. DÃ‰JASE sin efecto parcialmente la ResoluciÃ³n NÂ° 18 de 20.06.2013, en lo que se refiere al nombramiento Ana MarÃ­a Godoy DÃ­az publicada en el Diario Oficial de fecha 13.07.2013.
 
-2°) DESÍGNASE, a doña ANA MARÍA CONTRERAS GAHONA , fiscalizador tasador, RUT N° 11.511.223-6, en el cargo de Secretaria Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, en reemplazo de doña OLGA CRISTINA MOLINA LOYOLA , RUT. N° 8.947.489-2. DÉJASE sin efecto la Resolución Ex. N° 84, de 22.07.2019, publicada en el Diario Oficial de fecha 26.07.2019.
+2Â°) DESÃGNASE, a doÃ±a ANA MARÃA CONTRERAS GAHONA , fiscalizador tasador, RUT NÂ° 11.511.223-6, en el cargo de Secretaria Titular en el Tribunal Especial de Alzada de los Bienes RaÃ­ces de la Segunda Serie, con jurisdicciÃ³n en el territorio de la IlustrÃ­sima Corte de Apelaciones de La Serena, en reemplazo de doÃ±a OLGA CRISTINA MOLINA LOYOLA , RUT. NÂ° 8.947.489-2. DÃ‰JASE sin efecto la ResoluciÃ³n Ex. NÂ° 84, de 22.07.2019, publicada en el Diario Oficial de fecha 26.07.2019.
 
-ANÓTESE, REGÍSTRESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, REGÃSTRESE Y PUBLÃQUESE EN EXTRACTO
 
 <unknown>
 

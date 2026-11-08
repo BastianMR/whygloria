@@ -1,21 +1,20 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 14 (2024)
-description: DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº14.- |
-resource: ./2024_CIRCULAR_circu14.md.docx
+title: Circular NÂ° 14 (2024)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos | CIRCULAR NÂº14.- |
 tags: [SII, 2024, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº14.-** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos** | **CIRCULAR NÂº14.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 14 DE MARZO DE 2024 |
-| MATERIA: Tabla de cálculos de reajustes, intereses y multas abril 2024. | REF. LEGAL: Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL 830 de 1974. |
+| MATERIA: Tabla de cÃ¡lculos de reajustes, intereses y multas abril 2024. | REF. LEGAL: ArtÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº del DL 830 de 1974. |
 
-La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cálculos para la aplicación del reajuste, interés penal y multa a que se refieren los artículos 53 y 97 N os 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de ABRIL DE 2024.
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s penal y multa a que se refieren los artÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de ABRIL DE 2024.
 
-|  | **Mes de Vcto.** | **Reajuste Art. 53** | **Interés Art. 53 Inc. 3°** | **Multa Art. 97 N°2** | **Multa Art. 97 N°11** | **Multa Art. 97 N°11** | **IPC (INE) Base Anual 2023=100** | **U.T.M.** |
+|  | **Mes de Vcto.** | **Reajuste Art. 53** | **InterÃ©s Art. 53 Inc. 3Â°** | **Multa Art. 97 NÂ°2** | **Multa Art. 97 NÂ°11** | **Multa Art. 97 NÂ°11** | **IPC (INE) Base Anual 2023=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mes de Vcto. | Inc. 1° |  |  | Inc. 1° | Inc. 2° |  | U.T.M. |
+|  | Mes de Vcto. | Inc. 1Â° |  |  | Inc. 1Â° | Inc. 2Â° |  | U.T.M. |
 | 2021 | ENE | 27,6% | 60,0% | 30% | 30% | 60% | 80,9900 | 50.978 |
 | 2021 | FEB | 27,2% | 58,5% | 30% | 30% | 60% | 81,1400 | 51.131 |
 | 2021 | MAR | 26,3% | 57,0% | 30% | 30% | 60% | 81,4500 | 51.489 |
@@ -59,19 +58,19 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 
 ## NOTAS:
 
-1. Reajuste artículo 72 de la Ley sobre Impuesto a la Renta.
-2. mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
-3. El reajuste a que se refiere el artículo 53 del Código Tributario, informado en la presente Circular, corresponde a la cifra de variación experimentada por el IPC entregada por el Instituto Nacional de Estadísticas en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18 de 2010, de este Servicio.
+1. Reajuste artÃ­culo 72 de la Ley sobre Impuesto a la Renta.
+2. mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el artÃ­culo 53 del CÃ³digo Tributario, informado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el IPC entregada por el Instituto Nacional de EstadÃ­sticas en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18 de 2010, de este Servicio.
 
-| **AÑO** | **2015** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** |
+| **AÃ‘O** | **2015** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | % | 0,6 | 1,1 | 1,0 | 0,9 | 0,5 | 1,5 | 1,6 | 4,2 | 2,1 |
 
-Se hace presente que a contar del Índice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna IPC (INE) Base Anual 2023=100 , se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Ãndice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna IPC (INE) Base Anual 2023=100 , se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
-## MSB/MCRB/FWV/CST DISTRIBUCIÓN
+## MSB/MCRB/FWV/CST DISTRIBUCIÃ“N
 
 * Internet
 

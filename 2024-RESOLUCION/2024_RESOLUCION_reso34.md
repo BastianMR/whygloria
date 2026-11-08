@@ -1,38 +1,37 @@
----
-type: SII Resolución
-title: Resolución N° 34 (2024)
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 34 (2024)
 description: DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
-resource: ./2024_RESOLUCION_reso34.md.docx
 tags: [SII, 2024, resolucion]
 ---
 
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
 
-RESOLUCIÓN EXENTA N°34.-
+RESOLUCIÃ“N EXENTA NÂ°34.-
 
 SANTIAGO, 11 DE MARZO DE 2024.
 
-VISTOS: Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7 de 1980, del Ministerio de Hacienda; el artículo 6 letra A N° 3 del Código Tributario; los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575; lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo; Resolución N° 6 de 26.03.2019, de la Contraloría General de la República , y
+VISTOS: Los artÃ­culos 7, letras e), i) y j), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del D.F.L. NÂ° 7 de 1980, del Ministerio de Hacienda; el artÃ­culo 6 letra A NÂ° 3 del CÃ³digo Tributario; los artÃ­culos 2Â°, 3Â°, 31, 36 y 41 de la Ley NÂ° 18.575; lo dispuesto en el artÃ­culo 454 NÂ° 3, inciso 2Â° del CÃ³digo del Trabajo; ResoluciÃ³n NÂ° 6 de 26.03.2019, de la ContralorÃ­a General de la RepÃºblica , y
 
 ## CONSIDERANDO:
 
-1°. Que, en juicio en actual tramitación ante el 2° Juzgado de Letras del Trabajo de Santiago, causa RIT N° M-4551-2023, caratulada ' OLMEDO/SERVICIOS ESPECIALIZADOS DE SEGURIDAD INTEGRAL S.A. ', se ha citado a absolver posiciones al Director del Servicio de Impuestos Internos, en su calidad de Jefe Superior de la Institución; a la audiencia única de contestación, conciliación y prueba, para el día 13.03.2024 .
+1Â°. Que, en juicio en actual tramitaciÃ³n ante el 2Â° Juzgado de Letras del Trabajo de Santiago, causa RIT NÂ° M-4551-2023, caratulada ' OLMEDO/SERVICIOS ESPECIALIZADOS DE SEGURIDAD INTEGRAL S.A. ', se ha citado a absolver posiciones al Director del Servicio de Impuestos Internos, en su calidad de Jefe Superior de la InstituciÃ³n; a la audiencia Ãºnica de contestaciÃ³n, conciliaciÃ³n y prueba, para el dÃ­a 13.03.2024 .
 
-2°. La imposibilidad del Director de concurrir personalmente a la audiencia fijada para absolver posiciones en el juicio señalado en el considerando previo;
+2Â°. La imposibilidad del Director de concurrir personalmente a la audiencia fijada para absolver posiciones en el juicio seÃ±alado en el considerando previo;
 
-3°. Que, el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, autoriza a delegar las atribuciones y facultades conferidas a este Director, de manera parcial y para materias específicas; y
+3Â°. Que, el artÃ­culo 41 de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado, autoriza a delegar las atribuciones y facultades conferidas a este Director, de manera parcial y para materias especÃ­ficas; y
 
-* 4°. Las necesidades del Servicio,
+* 4Â°. Las necesidades del Servicio,
 
 ## SE RESUELVE:
 
-1°. Delégase la facultad de absolver posiciones, en representación del Servicio de Impuestos Internos y, de este Director, en audiencia única de contestación, conciliación y prueba de juicio substanciado ante el 2° Juzgado de Letras del Trabajo de Santiago, causa RIT N° M-4551-2023, caratulada ' OLMEDO/SERVICIOS ESPECIALIZADOS DE SEGURIDAD INTEGRAL S.A. ', en doña Paola Francisca González Castro , RUT N° 16.701.7622, profesional, grado 12, abogada de la Subdirección de Administración de la Dirección Nacional.
+1Â°. DelÃ©gase la facultad de absolver posiciones, en representaciÃ³n del Servicio de Impuestos Internos y, de este Director, en audiencia Ãºnica de contestaciÃ³n, conciliaciÃ³n y prueba de juicio substanciado ante el 2Â° Juzgado de Letras del Trabajo de Santiago, causa RIT NÂ° M-4551-2023, caratulada ' OLMEDO/SERVICIOS ESPECIALIZADOS DE SEGURIDAD INTEGRAL S.A. ', en doÃ±a Paola Francisca GonzÃ¡lez Castro , RUT NÂ° 16.701.7622, profesional, grado 12, abogada de la SubdirecciÃ³n de AdministraciÃ³n de la DirecciÃ³n Nacional.
 
-2º. La delegación se extiende para efectos de absolver posiciones en la audiencia de juicio de fecha 13.03.2024, o en la fecha que aquella se realice.
+2Âº. La delegaciÃ³n se extiende para efectos de absolver posiciones en la audiencia de juicio de fecha 13.03.2024, o en la fecha que aquella se realice.
 
-3°. Una vez tramitada, publíquese la presente resolución exenta en el portal web del Servicio de Impuestos Internos, en el banner 'Gobierno Transparente', al objeto de dar cumplimiento a lo previsto en los artículos 7°, de la Ley N° 20.285, sobre Acceso a la Información Pública y 51 de su Reglamento.
+3Â°. Una vez tramitada, publÃ­quese la presente resoluciÃ³n exenta en el portal web del Servicio de Impuestos Internos, en el banner 'Gobierno Transparente', al objeto de dar cumplimiento a lo previsto en los artÃ­culos 7Â°, de la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica y 51 de su Reglamento.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN PORTAL DE GOBIERNO TRANSPARENTE.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN PORTAL DE GOBIERNO TRANSPARENTE.
 
 <unknown>
 
@@ -40,4 +39,4 @@ VISTOS: Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio d
 
 <unknown>
 
-MFM/FMC/MGR/KDA Distribución: -Internet.
+MFM/FMC/MGR/KDA DistribuciÃ³n: -Internet.

@@ -1,216 +1,215 @@
----
-type: SII Resolución
+﻿---
+type: SII ResoluciÃ³n
 title: 2016_RESOLUCION_reso15.md
-description: SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
-resource: ./2016_RESOLUCION_reso15.md.docx
+description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS
 tags: [SII, 2016, resolucion]
 ---
 
-## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
+## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS
 
-MATERIA: Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A.
+MATERIA: Aprueba convenio de intercambio de informaciÃ³n entre el Servicio de Impuestos Internos y Servicios Integrados de InformaciÃ³n S.A.
 
 ## SANTIAGO, 11 de marzo de 2016
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EX. SII N°\_\_15.-\_\_\_\_/
+RESOLUCIÃ“N EX. SII NÂ°\_\_15.-\_\_\_\_/
 
-VISTOS: Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7 de 1980; Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y Ley N° 19.628, sobre Protección de la Vida Privada.
+VISTOS: Lo dispuesto en los artÃ­culos 1Â° y 7Â° letras a), c) y o) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7 de 1980; Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado y Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos (SERVICIO) la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente.
+1.- Que, corresponde al Servicio de Impuestos Internos (SERVICIO) la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente.
 
-2.- Que, a su vez, Servicios Integrados de Información S.A. (SIISA) es propietaria, administradora y responsable de un sistema automatizado para el tratamiento de información que opera bajo especiales condiciones de seguridad y control.
+2.- Que, a su vez, Servicios Integrados de InformaciÃ³n S.A. (SIISA) es propietaria, administradora y responsable de un sistema automatizado para el tratamiento de informaciÃ³n que opera bajo especiales condiciones de seguridad y control.
 
-3.- Que, en virtud de lo anterior, y en cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, el Servicio de Impuestos Internos y Servicios Integrados de Información S.A. han acordado suscribir un convenio de colaboración destinado a intercambiar información contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o están facultadas legalmente para administrar.
+3.- Que, en virtud de lo anterior, y en cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, el Servicio de Impuestos Internos y Servicios Integrados de InformaciÃ³n S.A. han acordado suscribir un convenio de colaboraciÃ³n destinado a intercambiar informaciÃ³n contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o estÃ¡n facultadas legalmente para administrar.
 
 ## RESUELVO:
 
-Apruébese el convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A, celebrado el 03 de Marzo de 2016, cuyo texto es el siguiente:
+ApruÃ©bese el convenio de intercambio de informaciÃ³n entre el Servicio de Impuestos Internos y Servicios Integrados de InformaciÃ³n S.A, celebrado el 03 de Marzo de 2016, cuyo texto es el siguiente:
 
-CONVENIO DE INTERCAMBIO DE INFORMACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÓN S.A.
+CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÃ“N S.A.
 
-En Santiago, a 03 de Marzo de 2016, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante indistintamente denominado el 'SERVICIO', representado por su Director, don Fernando Barraza Luengo, cédula de identidad N° 9.403.994-0, ambos con domicilio en Teatinos N° 120, Santiago y SERVICIOS INTEGRADOS DE INFORMACIÓN S.A., RUT 96.629.630-5 en adelante indistintamente denominado 'SIISA', representado por su Gerente General, don Hans Hanckes Estefan, cédula de identidad N° 7.027.890-1, ambos con domicilio en Asturias 280, piso 8º, Las Condes, se ha convenido lo siguiente:
+En Santiago, a 03 de Marzo de 2016, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante indistintamente denominado el 'SERVICIO', representado por su Director, don Fernando Barraza Luengo, cÃ©dula de identidad NÂ° 9.403.994-0, ambos con domicilio en Teatinos NÂ° 120, Santiago y SERVICIOS INTEGRADOS DE INFORMACIÃ“N S.A., RUT 96.629.630-5 en adelante indistintamente denominado 'SIISA', representado por su Gerente General, don Hans Hanckes Estefan, cÃ©dula de identidad NÂ° 7.027.890-1, ambos con domicilio en Asturias 280, piso 8Âº, Las Condes, se ha convenido lo siguiente:
 
 ## PRIMERO:
 
-De acuerdo al artículo 1° de su Ley Orgánica, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicación y fiscalización de los tributos internos, para lo cual y en cumplimiento de las disposiciones pertinentes del Código Tributario, Decreto Ley N° 830, de 1974, procesa información de los contribuyentes.
+De acuerdo al artÃ­culo 1Â° de su Ley OrgÃ¡nica, contenida en el Decreto con Fuerza de Ley NÂ°7, de Hacienda, de 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de los tributos internos, para lo cual y en cumplimiento de las disposiciones pertinentes del CÃ³digo Tributario, Decreto Ley NÂ° 830, de 1974, procesa informaciÃ³n de los contribuyentes.
 
 ## CUARTO:
 
 ## QUINTO:
 
-En cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, todas las cuales se dan por reproducidas y se entiende fundamento esencial de la celebración del presente convenio, el SERVICIO utiliza determinada información respecto de personas naturales y jurídicas, parte de la cual es organizada en Bases de Datos, mismas que se considera conveniente sean conocidas en el ámbito financiero y comercial, con el único objeto de permitir la realización de transacciones comerciales sobre la base de antecedentes que permitan evaluar debidamente los riesgos eventuales.
+En cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, todas las cuales se dan por reproducidas y se entiende fundamento esencial de la celebraciÃ³n del presente convenio, el SERVICIO utiliza determinada informaciÃ³n respecto de personas naturales y jurÃ­dicas, parte de la cual es organizada en Bases de Datos, mismas que se considera conveniente sean conocidas en el Ã¡mbito financiero y comercial, con el Ãºnico objeto de permitir la realizaciÃ³n de transacciones comerciales sobre la base de antecedentes que permitan evaluar debidamente los riesgos eventuales.
 
-SEGUNDO: SIISA es propietaria, administradora y responsable de un sistema automatizado para el tratamiento de información que opera bajo especiales condiciones de seguridad y control. En lo principal, este sistema tiene por objeto proveer información de valor para apoyar procesos de toma de decisiones en las áreas de negocios y operaciones comerciales, misma que el SERVICIO estima que constituye un indicador útil para evaluar actitudes o tendencias en materia de cumplimiento de obligaciones tributarias.
+SEGUNDO: SIISA es propietaria, administradora y responsable de un sistema automatizado para el tratamiento de informaciÃ³n que opera bajo especiales condiciones de seguridad y control. En lo principal, este sistema tiene por objeto proveer informaciÃ³n de valor para apoyar procesos de toma de decisiones en las Ã¡reas de negocios y operaciones comerciales, misma que el SERVICIO estima que constituye un indicador Ãºtil para evaluar actitudes o tendencias en materia de cumplimiento de obligaciones tributarias.
 
-TERCERO: Por el presente instrumento, el SERVICIO y SIISA, acuerdan intercambiar información contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o están facultadas legalmente para administrar, en los términos que se indican en las cláusulas siguientes.
+TERCERO: Por el presente instrumento, el SERVICIO y SIISA, acuerdan intercambiar informaciÃ³n contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o estÃ¡n facultadas legalmente para administrar, en los tÃ©rminos que se indican en las clÃ¡usulas siguientes.
 
-En el marco del presente convenio el SERVICIO podrá proporcionar a SIISA, solamente aquella información que no esté sujeta a secreto o reserva tributaria, ni aquella que pueda afectar los derechos de las personas físicas según lo señalado en las Leyes N° 19.628 y 20.285, bajo los términos, plazos y condiciones que en este instrumento y sus anexos se estipulan, comprometiéndose SIISA a no utilizar o facilitar dicha información a terceros ajenos al presente convenio, para fines de publicidad, promoción, telemarketing o cualquier otro fin que no corresponda al destino especificado en el presente documento.
+En el marco del presente convenio el SERVICIO podrÃ¡ proporcionar a SIISA, solamente aquella informaciÃ³n que no estÃ© sujeta a secreto o reserva tributaria, ni aquella que pueda afectar los derechos de las personas fÃ­sicas segÃºn lo seÃ±alado en las Leyes NÂ° 19.628 y 20.285, bajo los tÃ©rminos, plazos y condiciones que en este instrumento y sus anexos se estipulan, comprometiÃ©ndose SIISA a no utilizar o facilitar dicha informaciÃ³n a terceros ajenos al presente convenio, para fines de publicidad, promociÃ³n, telemarketing o cualquier otro fin que no corresponda al destino especificado en el presente documento.
 
 Son, en especial, obligaciones del SERVICIO:
 
-* a) Proporcionar a SIISA, en archivos electrónicos, la información que se indica en el Anexo I del presente convenio, el que, debidamente suscrito por las partes, se entiende forma parte del presente instrumento.
-* b) Actualizar, mediante archivos electrónicos y/o servicios on line, la información de las bases de datos del Anexo I, con la frecuencia que se indica en dicho anexo.
-* c) Por la entrega de la información y su actualización regular, según se señala en el referido Anexo I, no existirá cargo alguno para SIISA.
-* d) El SERVICIO se hará cargo de obtener y mantener el enlace de conectividad, entre sus oficinas y las dependencias de SIISA.
+* a) Proporcionar a SIISA, en archivos electrÃ³nicos, la informaciÃ³n que se indica en el Anexo I del presente convenio, el que, debidamente suscrito por las partes, se entiende forma parte del presente instrumento.
+* b) Actualizar, mediante archivos electrÃ³nicos y/o servicios on line, la informaciÃ³n de las bases de datos del Anexo I, con la frecuencia que se indica en dicho anexo.
+* c) Por la entrega de la informaciÃ³n y su actualizaciÃ³n regular, segÃºn se seÃ±ala en el referido Anexo I, no existirÃ¡ cargo alguno para SIISA.
+* d) El SERVICIO se harÃ¡ cargo de obtener y mantener el enlace de conectividad, entre sus oficinas y las dependencias de SIISA.
 
 Son, en especial, obligaciones de SIISA:
 
-* a) Procesar computacionalmente la información del Anexo I e incorporarla en sus servicios a clientes, de acuerdo a lo establecido en las cláusulas Tercera y Décimo Primera del presente convenio y a los procedimientos y seguridades que SIISA utiliza para el tratamiento de la información.
-* b) Proporcionar facilidades de acceso al SERVICIO, mediante solución Internet, para consultar los servicios de información establecidos en el Anexo II del presente Convenio, sin límite y sin cargo alguno. Las consultas ilimitadas que se realicen no considerarán el acceso a bases de datos en la medida que ellas impliquen un costo variable para SIISA, tales como las indicadas en el Anexo II.
+* a) Procesar computacionalmente la informaciÃ³n del Anexo I e incorporarla en sus servicios a clientes, de acuerdo a lo establecido en las clÃ¡usulas Tercera y DÃ©cimo Primera del presente convenio y a los procedimientos y seguridades que SIISA utiliza para el tratamiento de la informaciÃ³n.
+* b) Proporcionar facilidades de acceso al SERVICIO, mediante soluciÃ³n Internet, para consultar los servicios de informaciÃ³n establecidos en el Anexo II del presente Convenio, sin lÃ­mite y sin cargo alguno. Las consultas ilimitadas que se realicen no considerarÃ¡n el acceso a bases de datos en la medida que ellas impliquen un costo variable para SIISA, tales como las indicadas en el Anexo II.
 * c) Informar mensualmente el total de consultas efectuadas por el SERVICIO.
-* d) Disponer las Bases de Datos para que el SERVICIO pueda efectuar las consultas indicadas en el literal b) de este artículo, sin restricciones de horario, cantidad de terminales, software o cualquier otra restricción que limite el acceso del SERVICIO a la información que SIISA provee, según lo señalado en el Anexo II de este convenio, el que debidamente suscrito por las partes, se entiende integrante del presente instrumento.
-* e) Dado que SIISA recibe toda la información de terceros y por lo tanto no altera su esencia y contenido, no será responsable por la fidelidad del contenido de la información señalada en el
+* d) Disponer las Bases de Datos para que el SERVICIO pueda efectuar las consultas indicadas en el literal b) de este artÃ­culo, sin restricciones de horario, cantidad de terminales, software o cualquier otra restricciÃ³n que limite el acceso del SERVICIO a la informaciÃ³n que SIISA provee, segÃºn lo seÃ±alado en el Anexo II de este convenio, el que debidamente suscrito por las partes, se entiende integrante del presente instrumento.
+* e) Dado que SIISA recibe toda la informaciÃ³n de terceros y por lo tanto no altera su esencia y contenido, no serÃ¡ responsable por la fidelidad del contenido de la informaciÃ³n seÃ±alada en el
 
-Anexo II. En consecuencia, SIISA se obliga a cumplir con los servicios de información de que trata este instrumento con absoluta integridad y exactitud, en el sentido de no alterar la esencia de la información que le es proporcionada, transfiriendo su contenido al SERVICIO de manera exacta como la recibió.
+Anexo II. En consecuencia, SIISA se obliga a cumplir con los servicios de informaciÃ³n de que trata este instrumento con absoluta integridad y exactitud, en el sentido de no alterar la esencia de la informaciÃ³n que le es proporcionada, transfiriendo su contenido al SERVICIO de manera exacta como la recibiÃ³.
 
-* f) Desarrollar y proveer scorers o indicadores específicos que sean solicitados a petición del SERVICIO, siempre y cuando las partes contratantes estén de acuerdo en que dichos desarrollos podrán ser efectuados con recursos internos de SIISA y sin que sea necesaria la contratación de terceros; y, siempre y cuando los desarrollos no consideren el pago de costos adicionales para SIISA por concepto de pago de licencias o royalty.
-* g) Actualizar, mediante archivos electrónicos, la información señalada en el Anexo II, con la frecuencia de actualización que allí se indica, cuando se trate de servicios batch.
-* h) En cuanto a los registros mantenidos por SIISA cuando en lo sucesivo dichos registros o antecedentes dejen de estar actualizados o ser consistentes con la información generada y traspasada por el SERVICIO, SIISA se abstendrá de distribuirlos y/o comunicarlos a sus clientes.
+* f) Desarrollar y proveer scorers o indicadores especÃ­ficos que sean solicitados a peticiÃ³n del SERVICIO, siempre y cuando las partes contratantes estÃ©n de acuerdo en que dichos desarrollos podrÃ¡n ser efectuados con recursos internos de SIISA y sin que sea necesaria la contrataciÃ³n de terceros; y, siempre y cuando los desarrollos no consideren el pago de costos adicionales para SIISA por concepto de pago de licencias o royalty.
+* g) Actualizar, mediante archivos electrÃ³nicos, la informaciÃ³n seÃ±alada en el Anexo II, con la frecuencia de actualizaciÃ³n que allÃ­ se indica, cuando se trate de servicios batch.
+* h) En cuanto a los registros mantenidos por SIISA cuando en lo sucesivo dichos registros o antecedentes dejen de estar actualizados o ser consistentes con la informaciÃ³n generada y traspasada por el SERVICIO, SIISA se abstendrÃ¡ de distribuirlos y/o comunicarlos a sus clientes.
 
-SEXTO: El presente convenio confiere a SIISA el derecho a utilizar la información entregada por el SERVICIO y señalada en el Anexo I, la cual podrá ser comunicada a sus clientes en los términos aludidos en las cláusulas TERCERA y DÉCIMO PRIMERA.
+SEXTO: El presente convenio confiere a SIISA el derecho a utilizar la informaciÃ³n entregada por el SERVICIO y seÃ±alada en el Anexo I, la cual podrÃ¡ ser comunicada a sus clientes en los tÃ©rminos aludidos en las clÃ¡usulas TERCERA y DÃ‰CIMO PRIMERA.
 
-SÉPTIMO: Las partes acuerdan que quedan exentas de toda responsabilidad y liberadas del cumplimiento de sus obligaciones, si por razones de caso fortuito o fuerza mayor tales como sismos, cortes de energía eléctrica y/o del servicio telefónico y/o de líneas de transmisión de información, intervenciones de redes públicas y/o privadas, actos terroristas, huelgas u otros similares no se pudiere mantener en funcionamiento u operativo del servicio acordado.
+SÃ‰PTIMO: Las partes acuerdan que quedan exentas de toda responsabilidad y liberadas del cumplimiento de sus obligaciones, si por razones de caso fortuito o fuerza mayor tales como sismos, cortes de energÃ­a elÃ©ctrica y/o del servicio telefÃ³nico y/o de lÃ­neas de transmisiÃ³n de informaciÃ³n, intervenciones de redes pÃºblicas y/o privadas, actos terroristas, huelgas u otros similares no se pudiere mantener en funcionamiento u operativo del servicio acordado.
 
-El SERVICIO no asumirá ninguna responsabilidad legal, por los eventuales perjuicios o daños que puedan afectar a terceros, por cualquier causa, intencional o fortuita, directa o indirecta, prevista o imprevista, como consecuencia de errores o inexactitudes en la información que se intercambia.
+El SERVICIO no asumirÃ¡ ninguna responsabilidad legal, por los eventuales perjuicios o daÃ±os que puedan afectar a terceros, por cualquier causa, intencional o fortuita, directa o indirecta, prevista o imprevista, como consecuencia de errores o inexactitudes en la informaciÃ³n que se intercambia.
 
-En las mismas condiciones establecidas en el párrafo anterior, el SERVICIO no asumirá responsabilidad alguna en caso de reclamos formulados por los clientes o entidades privadas o públicas que contraten los servicios de SIISA.
+En las mismas condiciones establecidas en el pÃ¡rrafo anterior, el SERVICIO no asumirÃ¡ responsabilidad alguna en caso de reclamos formulados por los clientes o entidades privadas o pÃºblicas que contraten los servicios de SIISA.
 
-A efectos de garantizarse las eximentes de responsabilidad que se establecen en beneficio del SERVICIO en la presente cláusula, SIISA se compromete a no revelar de manera alguna el origen o la fuente de la información que reciba del SERVICIO, a consecuencia del presente Convenio, y que utilice para el cálculo, generación y publicación de sus scorers.
+A efectos de garantizarse las eximentes de responsabilidad que se establecen en beneficio del SERVICIO en la presente clÃ¡usula, SIISA se compromete a no revelar de manera alguna el origen o la fuente de la informaciÃ³n que reciba del SERVICIO, a consecuencia del presente Convenio, y que utilice para el cÃ¡lculo, generaciÃ³n y publicaciÃ³n de sus scorers.
 
-OCTAVO: El plazo de duración del presente convenio será hasta el día 30 de junio de 2016. Sin perjuicio de lo anterior, las partes podrán poner término anticipado al presente Convenio, manifestando su voluntad mediante el envío de carta certificada dirigida a la contraparte con una anticipación mínima de 30 días .
+OCTAVO: El plazo de duraciÃ³n del presente convenio serÃ¡ hasta el dÃ­a 30 de junio de 2016. Sin perjuicio de lo anterior, las partes podrÃ¡n poner tÃ©rmino anticipado al presente Convenio, manifestando su voluntad mediante el envÃ­o de carta certificada dirigida a la contraparte con una anticipaciÃ³n mÃ­nima de 30 dÃ­as .
 
-NOVENO: En el evento que se produzca decisión o instrumento de la Contraloría General de la República o de alguna autoridad del Poder Ejecutivo o resolución del Poder Judicial comunicada o notificada al SERVICIO, según corresponda, en el sentido de que no resulta oportuno, conveniente o procedente la entrega total o parcial de los antecedentes que el SERVICIO se obliga a proporcionar en virtud de este instrumento, el presente convenio quedará sin efecto, en todo o parte según corresponda. En tal caso, de forma inmediata el SERVICIO dejará de entregar la información objetada, comunicando este hecho a SIISA por medio de carta certificada, quedando ésta a su vez impedida de transmitirla a sus usuarios, debiendo eliminar de sus archivos las Bases de Datos que la contengan, devolviéndolas al SERVICIO. Si tal impedimento es total, el presente convenio se extinguirá en el mismo acto que el SERVICIO se lo comunique a SIISA. Si el impedimento que afectare al SERVICIO fuere solo parcial, las partes deberán acordar el número de consultas que deberá seguir entregando SIISA. El término total o parcial del presente convenio, por cualquier causal, no dará derecho a reclamo alguno por parte de SIISA, ni por la vía amistosa o judicial, ni originará pago o indemnización alguna bajo ningún concepto a favor de dicha empresa.
+NOVENO: En el evento que se produzca decisiÃ³n o instrumento de la ContralorÃ­a General de la RepÃºblica o de alguna autoridad del Poder Ejecutivo o resoluciÃ³n del Poder Judicial comunicada o notificada al SERVICIO, segÃºn corresponda, en el sentido de que no resulta oportuno, conveniente o procedente la entrega total o parcial de los antecedentes que el SERVICIO se obliga a proporcionar en virtud de este instrumento, el presente convenio quedarÃ¡ sin efecto, en todo o parte segÃºn corresponda. En tal caso, de forma inmediata el SERVICIO dejarÃ¡ de entregar la informaciÃ³n objetada, comunicando este hecho a SIISA por medio de carta certificada, quedando Ã©sta a su vez impedida de transmitirla a sus usuarios, debiendo eliminar de sus archivos las Bases de Datos que la contengan, devolviÃ©ndolas al SERVICIO. Si tal impedimento es total, el presente convenio se extinguirÃ¡ en el mismo acto que el SERVICIO se lo comunique a SIISA. Si el impedimento que afectare al SERVICIO fuere solo parcial, las partes deberÃ¡n acordar el nÃºmero de consultas que deberÃ¡ seguir entregando SIISA. El tÃ©rmino total o parcial del presente convenio, por cualquier causal, no darÃ¡ derecho a reclamo alguno por parte de SIISA, ni por la vÃ­a amistosa o judicial, ni originarÃ¡ pago o indemnizaciÃ³n alguna bajo ningÃºn concepto a favor de dicha empresa.
 
-DÉCIMO: En caso que el SERVICIO suspenda el envío de información o su actualización en la forma convenida, por otra causal diferente a las señaladas en las cláusulas Séptima y precedente, mientras dure la suspensión, no podrá consultar los servicios de información que SIISA otorga con motivo del presente convenio, desde el momento de la ocurrencia del hecho. Del mismo modo, si SIISA suspende el acceso del SERVICIO para consultar la información que ésta debe proporcionarle, desde la ocurrencia de este hecho, el SERVICIO dejará de suministrarle los archivos electrónicos y/o los servicios de información materia del presente convenio, mientras dure la suspensión, y SIISA estará, además, impedida de seguir entregando a sus usuarios la información contenida en las Bases de Datos ya proporcionada por el SERVICIO.
+DÃ‰CIMO: En caso que el SERVICIO suspenda el envÃ­o de informaciÃ³n o su actualizaciÃ³n en la forma convenida, por otra causal diferente a las seÃ±aladas en las clÃ¡usulas SÃ©ptima y precedente, mientras dure la suspensiÃ³n, no podrÃ¡ consultar los servicios de informaciÃ³n que SIISA otorga con motivo del presente convenio, desde el momento de la ocurrencia del hecho. Del mismo modo, si SIISA suspende el acceso del SERVICIO para consultar la informaciÃ³n que Ã©sta debe proporcionarle, desde la ocurrencia de este hecho, el SERVICIO dejarÃ¡ de suministrarle los archivos electrÃ³nicos y/o los servicios de informaciÃ³n materia del presente convenio, mientras dure la suspensiÃ³n, y SIISA estarÃ¡, ademÃ¡s, impedida de seguir entregando a sus usuarios la informaciÃ³n contenida en las Bases de Datos ya proporcionada por el SERVICIO.
 
-* DÉCIMO PRIMERO: SIISA está impedido de ceder a terceros tanto el contenido como el diseño de las Bases de Datos proporcionadas por el SERVICIO, pudiendo otorgar a sus clientes sólo servicios de consultas a registros específicos y a la información cuya naturaleza o contenido se precisan en los anexos que se entienden parte integrante del presente convenio y de acuerdo a lo establecido en la cláusula TERCERA.
-* DÉCIMO SEGUNDO: El SERVICIO no podrá comercializar, ceder ni duplicar, total o parcialmente, por medios propios o ajenos, magnéticos o de otro tipo, la información proporcionada por SIISA. Asimismo, el SERVICIO sólo podrá utilizar la información como usuario final.
-* DÉCIMO TERCERO: En caso de incumplimiento de lo dispuesto en las dos cláusulas anteriores, el infractor asumirá la responsabilidad civil y penal correspondiente.
-* DÉCIMO CUARTO: Ninguna de las partes tendrá derecho a ceder, arrendar o dar participación de cualquier forma a terceros ajenos al presente convenio, sin el consentimiento previo y escrito de la otra parte. Además, SIISA no podrá divulgar, vender, transferir, ceder y en general, dar a conocer a terceros, los procedimientos establecidos, el tráfico de consultas, los volúmenes y toda otra información operacional a la que tenga acceso con motivo o derivado del presente convenio, inclusive una vez terminado este compromiso.
-* DÉCIMO QUINTO: Las partes declaran haberse proporcionado recíprocamente información completa y acabada acerca del servicio, operación y procedimientos establecidos en este convenio, y haber tomado pleno conocimiento de las obligaciones y responsabilidades asumidas al suscribir este instrumento.
-* DÉCIMO SEXTO: Para mantener una apropiada coordinación operativa y comunicación entre las partes que suscriben el presente convenio, se establecerán coordinadores por ambas partes, los cuales deberán designarse y comunicarse junto con la firma del presente convenio mediante carta simple. Las partes podrán cambiar a sus respectivos coordinadores, comunicándole la modificación a la otra parte por carta simple.
-* DÉCIMO SÉPTIMO: Para todos los efectos legales del presente convenio, las partes fijan domicilio en la ciudad y comuna de Santiago.
-* DÉCIMO OCTAVO: Por el presente instrumento las partes firmantes ponen término y dejan sin efecto cualquier otro contrato o convenio de intercambio de información celebrado entre ambas, con anterioridad a esta fecha, cualquiera sea su naturaleza o contenido.
-* DÉCIMO NOVENO: El presente instrumento se firma en cuatro ejemplares de idéntico tenor, quedando dos en poder del SERVICIO y dos en poder de SIISA.
-* VIGÉSIMO: La personería de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo N° 1159, del día 13 de Agosto de 2015, del Ministerio de Hacienda. La personería de don Hans Hanckes Estefan para representar a Servicios Integrados de Información S.A. consta en escritura de fecha 18 de febrero de 1992, otorgada ante el Notario Público de Santiago don Álvaro Bianchi Rosas
+* DÃ‰CIMO PRIMERO: SIISA estÃ¡ impedido de ceder a terceros tanto el contenido como el diseÃ±o de las Bases de Datos proporcionadas por el SERVICIO, pudiendo otorgar a sus clientes sÃ³lo servicios de consultas a registros especÃ­ficos y a la informaciÃ³n cuya naturaleza o contenido se precisan en los anexos que se entienden parte integrante del presente convenio y de acuerdo a lo establecido en la clÃ¡usula TERCERA.
+* DÃ‰CIMO SEGUNDO: El SERVICIO no podrÃ¡ comercializar, ceder ni duplicar, total o parcialmente, por medios propios o ajenos, magnÃ©ticos o de otro tipo, la informaciÃ³n proporcionada por SIISA. Asimismo, el SERVICIO sÃ³lo podrÃ¡ utilizar la informaciÃ³n como usuario final.
+* DÃ‰CIMO TERCERO: En caso de incumplimiento de lo dispuesto en las dos clÃ¡usulas anteriores, el infractor asumirÃ¡ la responsabilidad civil y penal correspondiente.
+* DÃ‰CIMO CUARTO: Ninguna de las partes tendrÃ¡ derecho a ceder, arrendar o dar participaciÃ³n de cualquier forma a terceros ajenos al presente convenio, sin el consentimiento previo y escrito de la otra parte. AdemÃ¡s, SIISA no podrÃ¡ divulgar, vender, transferir, ceder y en general, dar a conocer a terceros, los procedimientos establecidos, el trÃ¡fico de consultas, los volÃºmenes y toda otra informaciÃ³n operacional a la que tenga acceso con motivo o derivado del presente convenio, inclusive una vez terminado este compromiso.
+* DÃ‰CIMO QUINTO: Las partes declaran haberse proporcionado recÃ­procamente informaciÃ³n completa y acabada acerca del servicio, operaciÃ³n y procedimientos establecidos en este convenio, y haber tomado pleno conocimiento de las obligaciones y responsabilidades asumidas al suscribir este instrumento.
+* DÃ‰CIMO SEXTO: Para mantener una apropiada coordinaciÃ³n operativa y comunicaciÃ³n entre las partes que suscriben el presente convenio, se establecerÃ¡n coordinadores por ambas partes, los cuales deberÃ¡n designarse y comunicarse junto con la firma del presente convenio mediante carta simple. Las partes podrÃ¡n cambiar a sus respectivos coordinadores, comunicÃ¡ndole la modificaciÃ³n a la otra parte por carta simple.
+* DÃ‰CIMO SÃ‰PTIMO: Para todos los efectos legales del presente convenio, las partes fijan domicilio en la ciudad y comuna de Santiago.
+* DÃ‰CIMO OCTAVO: Por el presente instrumento las partes firmantes ponen tÃ©rmino y dejan sin efecto cualquier otro contrato o convenio de intercambio de informaciÃ³n celebrado entre ambas, con anterioridad a esta fecha, cualquiera sea su naturaleza o contenido.
+* DÃ‰CIMO NOVENO: El presente instrumento se firma en cuatro ejemplares de idÃ©ntico tenor, quedando dos en poder del SERVICIO y dos en poder de SIISA.
+* VIGÃ‰SIMO: La personerÃ­a de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo NÂ° 1159, del dÃ­a 13 de Agosto de 2015, del Ministerio de Hacienda. La personerÃ­a de don Hans Hanckes Estefan para representar a Servicios Integrados de InformaciÃ³n S.A. consta en escritura de fecha 18 de febrero de 1992, otorgada ante el Notario PÃºblico de Santiago don Ãlvaro Bianchi Rosas
 
-HANS HANCKES ESTEFAN GERENTE GENERAL SERVICIOS INTEGRADOS DE INFORMACIÓN S.A.
+HANS HANCKES ESTEFAN GERENTE GENERAL SERVICIOS INTEGRADOS DE INFORMACIÃ“N S.A.
 
 ## ANEXO I
 
-## AL CONVENIO DE INTERCAMBIO DE INFORMACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÓN S.A.
+## AL CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÃ“N S.A.
 
 ## BASES DE DATOS DEL SERVICIO DE IMPUESTOS INTERNOS
 
-De acuerdo a lo señalado en la Cláusula CUARTA, literal (a) del convenio suscrito entre el SERVICIO y SIISA , de fecha a 03 de Marzo de 2016, en el presente Anexo se indican las Bases de Datos del SERVICIO que serán provistas a SIISA , conforme a los siguientes términos.
+De acuerdo a lo seÃ±alado en la ClÃ¡usula CUARTA, literal (a) del convenio suscrito entre el SERVICIO y SIISA , de fecha a 03 de Marzo de 2016, en el presente Anexo se indican las Bases de Datos del SERVICIO que serÃ¡n provistas a SIISA , conforme a los siguientes tÃ©rminos.
 
-PRIMERO: El SERVICIO proporcionará a SIISA , las Bases de Datos con el contenido y la frecuencia de actualización que se indica:
+PRIMERO: El SERVICIO proporcionarÃ¡ a SIISA , las Bases de Datos con el contenido y la frecuencia de actualizaciÃ³n que se indica:
 
 Nombre :
 
-Rut y actividades de Personas Jurídicas
+Rut y actividades de Personas JurÃ­dicas
 
 Datos
 
-: RUT - Razón Social - Código de Actividad Económica
+: RUT - RazÃ³n Social - CÃ³digo de Actividad EconÃ³mica
 
-Actualización
+ActualizaciÃ³n
 
 : Semanal
 
 Nombre : Datos
 
-Avalúo de Bienes Raíces
+AvalÃºo de Bienes RaÃ­ces
 
-: Código Comuna - Período: año y semestre - Resolución: año y número - Dirección del predio - Rol: manzana y predio - Tipo predio - Monto Girado - Avalúo Total - Avalúo Exento
+: CÃ³digo Comuna - PerÃ­odo: aÃ±o y semestre - ResoluciÃ³n: aÃ±o y nÃºmero - DirecciÃ³n del predio - Rol: manzana y predio - Tipo predio - Monto Girado - AvalÃºo Total - AvalÃºo Exento
 
-* Año término exención o código - Ubicación - Destino
+* AÃ±o tÃ©rmino exenciÃ³n o cÃ³digo - UbicaciÃ³n - Destino
 
-Actualización
+ActualizaciÃ³n
 
-: Única vez
+: Ãšnica vez
 
 Nombre :
 
-Socios de sociedades (solo personas jurídicas)
+Socios de sociedades (solo personas jurÃ­dicas)
 
 Datos
 
-: RUT sociedad - RUT socio - Razón Social sociedad - Razón Social socio
+: RUT sociedad - RUT socio - RazÃ³n Social sociedad - RazÃ³n Social socio
 
-Actualización
+ActualizaciÃ³n
 
 : Mensual
 
-SEGUNDO: El SERVICIO enviará la información en archivos electrónicos, dirigidos a SIISA.
+SEGUNDO: El SERVICIO enviarÃ¡ la informaciÃ³n en archivos electrÃ³nicos, dirigidos a SIISA.
 
-Por cada Base de Datos a proporcionar, el SERVICIO enviará un archivo independiente, con la siguiente estructura de nombre:
-
-## Nombre de la Base
-
-1. Rut y actividades de Personas Jurídicas
-2. Avalúo de Bienes Raíces
-3. Socios de sociedades (solo personas jurídicas)
-
-TERCERO: El SERVICIO enviará la información de acuerdo a las siguientes condiciones y calendario:
-
-Las Bases de Datos incluidas en cada envío reemplazarán en su totalidad a las enviadas con anterioridad.
+Por cada Base de Datos a proporcionar, el SERVICIO enviarÃ¡ un archivo independiente, con la siguiente estructura de nombre:
 
 ## Nombre de la Base
 
-1. Rut y actividades de Personas Jurídicas, dentro de los primeros días de cada semana.
-2. Avalúo de Bienes Raíces, en el mes de Marzo
-3. Socios de sociedades (solo personas jurídicas), dentro de los cinco primeros días de cada mes
+1. Rut y actividades de Personas JurÃ­dicas
+2. AvalÃºo de Bienes RaÃ­ces
+3. Socios de sociedades (solo personas jurÃ­dicas)
 
-CUARTO: En el evento que el SERVICIO efectúe cambios de cualquier tipo en las estructuras de los archivos, en la composición de los registros, en el medio de envío de la información, u otras modificaciones, deberá comunicar detalladamente éstas con anticipación a SIISA.
+TERCERO: El SERVICIO enviarÃ¡ la informaciÃ³n de acuerdo a las siguientes condiciones y calendario:
+
+Las Bases de Datos incluidas en cada envÃ­o reemplazarÃ¡n en su totalidad a las enviadas con anterioridad.
+
+## Nombre de la Base
+
+1. Rut y actividades de Personas JurÃ­dicas, dentro de los primeros dÃ­as de cada semana.
+2. AvalÃºo de Bienes RaÃ­ces, en el mes de Marzo
+3. Socios de sociedades (solo personas jurÃ­dicas), dentro de los cinco primeros dÃ­as de cada mes
+
+CUARTO: En el evento que el SERVICIO efectÃºe cambios de cualquier tipo en las estructuras de los archivos, en la composiciÃ³n de los registros, en el medio de envÃ­o de la informaciÃ³n, u otras modificaciones, deberÃ¡ comunicar detalladamente Ã©stas con anticipaciÃ³n a SIISA.
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
 
-## Distribución:
+## DistribuciÃ³n:
 
 * -Internet
-* -Al Boletín
+* -Al BoletÃ­n
 
 ## ANEXO II
 
-## AL CONVENIO DE INTERCAMBIO DE INFORMACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÓN S.A.
+## AL CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y SERVICIOS INTEGRADOS DE INFORMACIÃ“N S.A.
 
-De acuerdo a lo señalado en la Cláusula QUINTA, literales b, d y e del convenio suscrito entre el SERVICIO y SIISA , de fecha a 03 de Marzo de 2016, en el presente Anexo se indican los Servicios de Información que dispone SIISA para consulta del SERVICIO conforme a los siguientes términos.
+De acuerdo a lo seÃ±alado en la ClÃ¡usula QUINTA, literales b, d y e del convenio suscrito entre el SERVICIO y SIISA , de fecha a 03 de Marzo de 2016, en el presente Anexo se indican los Servicios de InformaciÃ³n que dispone SIISA para consulta del SERVICIO conforme a los siguientes tÃ©rminos.
 
-PRIMERO: SIISA proporcionará al SERVICIO , el acceso a los servicios de información que se indican: SERVICIOS ON LINE
+PRIMERO: SIISA proporcionarÃ¡ al SERVICIO , el acceso a los servicios de informaciÃ³n que se indican: SERVICIOS ON LINE
 
-Los servicios ON LINE estándar permiten a los usuarios definir sus políticas de riesgo, cobranza, o análisis de información tomando sus propias decisiones y utilizando los siguientes servicios:
+Los servicios ON LINE estÃ¡ndar permiten a los usuarios definir sus polÃ­ticas de riesgo, cobranza, o anÃ¡lisis de informaciÃ³n tomando sus propias decisiones y utilizando los siguientes servicios:
 
-* -Sistema de Informes Empresariales de Riesgo de Crédito, con la excepción de los siguientes informes: Verificación de Domicilio Terreno, Cédulas Bloqueadas, Infocom u otras bases que pertenezcan a empresas externas que involucren un costo a SIISA por transacción.
-* -Modelo de Análisis de Riesgo de Crédito, MARC
+* -Sistema de Informes Empresariales de Riesgo de CrÃ©dito, con la excepciÃ³n de los siguientes informes: VerificaciÃ³n de Domicilio Terreno, CÃ©dulas Bloqueadas, Infocom u otras bases que pertenezcan a empresas externas que involucren un costo a SIISA por transacciÃ³n.
+* -Modelo de AnÃ¡lisis de Riesgo de CrÃ©dito, MARC
 
 Todos los servicios ON LINE son asignados a los clientes-usuarios mediante perfiles de privilegios adecuados, permitiendo controlar a nivel de usuario lo siguiente:
 
 * -Privilegios de acceso a base de datos
 * -Cantidad de consultas autorizadas diaria, semanal o mensualmente
-* -Horario de acceso controlado según definición del cliente
+* -Horario de acceso controlado segÃºn definiciÃ³n del cliente
 
-SEGUNDO: SIISA entregará los servicios de consultas en línea, a través de las siguientes plataformas:
+SEGUNDO: SIISA entregarÃ¡ los servicios de consultas en lÃ­nea, a travÃ©s de las siguientes plataformas:
 
-* -Acceso vía Internet
-* -Integraciones en distintas plataformas, en caso que el SERVICIO lo solicite explícitamente, en particular, a través de Web Services.
+* -Acceso vÃ­a Internet
+* -Integraciones en distintas plataformas, en caso que el SERVICIO lo solicite explÃ­citamente, en particular, a travÃ©s de Web Services.
 
 ## SERVICIO DE SEGUIMIENTO Y CONTROL DE CARTERA DE CLIENTES
 
 Sistema que permite evaluar una Cartera de Clientes semanalmente, indicando cambios en las condiciones originales, relacionados con aspectos tanto Comerciales como Legales.
 
-Este sistema es Activado sólo si existe una cartera de clientes definida por el SERVICIO indicando claramente RUT y Razón Social/Nombre según corresponda.
+Este sistema es Activado sÃ³lo si existe una cartera de clientes definida por el SERVICIO indicando claramente RUT y RazÃ³n Social/Nombre segÃºn corresponda.
 
-TERCERO : En el evento que SIISA efectúe cambios de cualquier tipo en las estructuras de los servicios, en los métodos de acceso, en los protocolos de seguridad, u otras modificaciones, comunicará detalladamente.
+TERCERO : En el evento que SIISA efectÃºe cambios de cualquier tipo en las estructuras de los servicios, en los mÃ©todos de acceso, en los protocolos de seguridad, u otras modificaciones, comunicarÃ¡ detalladamente.
 
-CUARTO: A solicitud del SERVICIO , SIISA proveerá de un archivo que contenga una traza de registros consultados por los usuarios autorizados del SERVICIO , correspondiente al último mes de proceso.
+CUARTO: A solicitud del SERVICIO , SIISA proveerÃ¡ de un archivo que contenga una traza de registros consultados por los usuarios autorizados del SERVICIO , correspondiente al Ãºltimo mes de proceso.
 
-## ANÓTESE Y COMUNÍQUESE.
+## ANÃ“TESE Y COMUNÃQUESE.
 
-## (FDO.) VÍCTOR VILLALÓN MÉNDEZ DIRECTOR (S)
+## (FDO.) VÃCTOR VILLALÃ“N MÃ‰NDEZ DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.

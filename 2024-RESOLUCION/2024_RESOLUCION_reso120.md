@@ -1,56 +1,55 @@
----
-type: SII Resolución
-title: Resolución N° 120 (2024)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749
-resource: ./2024_RESOLUCION_reso120.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 120 (2024)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS GE305749
 tags: [SII, 2024, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS GE305749
 
-ESTABLECE CRITERIOS PARA DEFINIR UN CASO COMO RELEVANTE O DE INTERÉS INSTITUCIONAL CONFORME AL NUMERAL 5° DE LA LETRA C DEL INCISO SEGUNDO DEL ARTÍCULO 6° DEL CÓDIGO TRIBUTARIO.
+ESTABLECE CRITERIOS PARA DEFINIR UN CASO COMO RELEVANTE O DE INTERÃ‰S INSTITUCIONAL CONFORME AL NUMERAL 5Â° DE LA LETRA C DEL INCISO SEGUNDO DEL ARTÃCULO 6Â° DEL CÃ“DIGO TRIBUTARIO.
 
 SANTIAGO, 18 DE DICIEMBRE DE 2024.
 
-RESOLUCIÓN EXENTA SII N°120.-
+RESOLUCIÃ“N EXENTA SII NÂ°120.-
 
-VISTOS: Lo establecido en los artículos 1°, 3° quáter y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda; en la letra A y N° 5 de la letra C ambas del inciso segundo del artículo 6°, N° 1, 10, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974; en la letra c) del N° 6 del artículo 1, el artículo octavo transitorio y artículo transitorio final de la Ley N° 21.713; y,
+VISTOS: Lo establecido en los artÃ­culos 1Â°, 3Â° quÃ¡ter y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7 de 1980, del Ministerio de Hacienda; en la letra A y NÂ° 5 de la letra C ambas del inciso segundo del artÃ­culo 6Â°, NÂ° 1, 10, 21 y 35 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830 de 1974; en la letra c) del NÂ° 6 del artÃ­culo 1, el artÃ­culo octavo transitorio y artÃ­culo transitorio final de la Ley NÂ° 21.713; y,
 
 ## CONSIDERANDO :
 
-1º. Que, la letra A del artículo 6° del Código Tributario y la letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+1Âº. Que, la letra A del artÃ­culo 6Â° del CÃ³digo Tributario y la letra b) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, facultan al Director para fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
 
-2º. Que, el N° 3 del artículo 8 de la Ley N° 21.713 incorpora un nuevo artículo 3° quáter en la Ley Orgánica del Servicio de Impuestos Internos, que crea un Comité Ejecutivo con la función de adoptar las decisiones sobre las materias indicadas en la letra C del inciso segundo del artículo 6° del Código Tributario que tengan efecto en un contribuyente determinado.
+2Âº. Que, el NÂ° 3 del artÃ­culo 8 de la Ley NÂ° 21.713 incorpora un nuevo artÃ­culo 3Â° quÃ¡ter en la Ley OrgÃ¡nica del Servicio de Impuestos Internos, que crea un ComitÃ© Ejecutivo con la funciÃ³n de adoptar las decisiones sobre las materias indicadas en la letra C del inciso segundo del artÃ­culo 6Â° del CÃ³digo Tributario que tengan efecto en un contribuyente determinado.
 
-3º. Que, a su turno, la letra c) del N° 6 del artículo 1 de la Ley N° 21.713 incorporó una nueva letra C en el inciso segundo del artículo 6° del Código Tributario, estableciendo las facultades que corresponde al Comité Ejecutivo.
+3Âº. Que, a su turno, la letra c) del NÂ° 6 del artÃ­culo 1 de la Ley NÂ° 21.713 incorporÃ³ una nueva letra C en el inciso segundo del artÃ­culo 6Â° del CÃ³digo Tributario, estableciendo las facultades que corresponde al ComitÃ© Ejecutivo.
 
-4º. Que, entre las materias que corresponde aprobar por la mayoría absoluta de sus miembros, compete al referido Comité Ejecutivo aprobar las transacciones u operaciones, que, independiente de su monto, puedan tener impacto o califiquen como de interés institucional, considerando las características cualitativas de las transacciones y/o de los contribuyentes involucrados o por la transversalidad de la materia a nivel nacional.
+4Âº. Que, entre las materias que corresponde aprobar por la mayorÃ­a absoluta de sus miembros, compete al referido ComitÃ© Ejecutivo aprobar las transacciones u operaciones, que, independiente de su monto, puedan tener impacto o califiquen como de interÃ©s institucional, considerando las caracterÃ­sticas cualitativas de las transacciones y/o de los contribuyentes involucrados o por la transversalidad de la materia a nivel nacional.
 
-Para tal efecto, prosigue la misma norma, el Director dictará una resolución que establecerá los criterios que permitan definir un caso como relevante o de interés institucional.
+Para tal efecto, prosigue la misma norma, el Director dictarÃ¡ una resoluciÃ³n que establecerÃ¡ los criterios que permitan definir un caso como relevante o de interÃ©s institucional.
 
-5º. Que, conforme con lo señalado en el considerando anterior, mediante la presente resolución se establecen los criterios que permitirán definir un caso como relevante o de interés institucional.
+5Âº. Que, conforme con lo seÃ±alado en el considerando anterior, mediante la presente resoluciÃ³n se establecen los criterios que permitirÃ¡n definir un caso como relevante o de interÃ©s institucional.
 
 ## SE RESUELVE:
 
-1º. FÍJENSE los siguientes criterios para considerar un caso como relevante o de interés institucional (CII), de los cuales deben reunirse al menos dos, para efectuar dicha calificación:
+1Âº. FÃJENSE los siguientes criterios para considerar un caso como relevante o de interÃ©s institucional (CII), de los cuales deben reunirse al menos dos, para efectuar dicha calificaciÃ³n:
 
-* a) Operaciones o transacciones que se efectúen con entidades relacionadas, cuyos efectos tributarios abarquen más de un (1) año tributario;
-* b) Operaciones o transacciones que constituyan operaciones internacionales o transfronterizas, cuyos efectos tributarios abarquen más de un (1) año tributario;
+* a) Operaciones o transacciones que se efectÃºen con entidades relacionadas, cuyos efectos tributarios abarquen mÃ¡s de un (1) aÃ±o tributario;
+* b) Operaciones o transacciones que constituyan operaciones internacionales o transfronterizas, cuyos efectos tributarios abarquen mÃ¡s de un (1) aÃ±o tributario;
 
 <unknown>
 
-* c) Operaciones o transacciones cuya realización traiga como consecuencia la dilución patrimonial o el traspaso intergeneracional del patrimonio.
-* d) Cuando se inicie la revisión de transacciones u operaciones, cuya materia sea transversal a nivel nacional, considerando factores tales como, la cantidad de personas involucradas en los hechos; si las operaciones se desarrollan en más de una región del país; el efecto ejemplarizador que podría alcanzar la revisión de los hechos en los contribuyentes que no cumplen, considerando la realidad regional, el giro o actividad del contribuyente y la naturaleza del incumplimiento; entre otros factores similares.
+* c) Operaciones o transacciones cuya realizaciÃ³n traiga como consecuencia la diluciÃ³n patrimonial o el traspaso intergeneracional del patrimonio.
+* d) Cuando se inicie la revisiÃ³n de transacciones u operaciones, cuya materia sea transversal a nivel nacional, considerando factores tales como, la cantidad de personas involucradas en los hechos; si las operaciones se desarrollan en mÃ¡s de una regiÃ³n del paÃ­s; el efecto ejemplarizador que podrÃ­a alcanzar la revisiÃ³n de los hechos en los contribuyentes que no cumplen, considerando la realidad regional, el giro o actividad del contribuyente y la naturaleza del incumplimiento; entre otros factores similares.
 
-Para fines de esta resolución, las operaciones o transacciones mencionadas en las letras precedentes, además deberán consistir en casos relevantes en relación con el cumplimiento tributario, lo cual debe ser aprobado por el Comité Ejecutivo del Servicio de Impuestos Internos, previa propuesta de la Subdirección de Fiscalización.
+Para fines de esta resoluciÃ³n, las operaciones o transacciones mencionadas en las letras precedentes, ademÃ¡s deberÃ¡n consistir en casos relevantes en relaciÃ³n con el cumplimiento tributario, lo cual debe ser aprobado por el ComitÃ© Ejecutivo del Servicio de Impuestos Internos, previa propuesta de la SubdirecciÃ³n de FiscalizaciÃ³n.
 
-2º. Los criterios mencionados deben ser aplicados considerando los antecedentes de los casos, por las Direcciones Regionales, Dirección de Grandes Contribuyentes o Subdirección de Fiscalización, según corresponda.
+2Âº. Los criterios mencionados deben ser aplicados considerando los antecedentes de los casos, por las Direcciones Regionales, DirecciÃ³n de Grandes Contribuyentes o SubdirecciÃ³n de FiscalizaciÃ³n, segÃºn corresponda.
 
-3º. De ser considerado caso de interés institucional o relevante, se realizarán las marcas informativas necesarias en los sistemas informáticos del Servicio que permitan el adecuado manejo del caso dentro del procedimiento respectivo.
+3Âº. De ser considerado caso de interÃ©s institucional o relevante, se realizarÃ¡n las marcas informativas necesarias en los sistemas informÃ¡ticos del Servicio que permitan el adecuado manejo del caso dentro del procedimiento respectivo.
 
-4º. Lo señalado en la presente resolución será aplicable a los casos que se inicien a través de la notificación respectiva a contar del 1° de enero de 2025.
+4Âº. Lo seÃ±alado en la presente resoluciÃ³n serÃ¡ aplicable a los casos que se inicien a travÃ©s de la notificaciÃ³n respectiva a contar del 1Â° de enero de 2025.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
 
 <unknown>
 
@@ -58,7 +57,7 @@ Para fines de esta resolución, las operaciones o transacciones mencionadas en l
 
 ## CSM/CGG/OEG/ASM
 
-Distribución:
+DistribuciÃ³n:
 
 * INTERNET
 * DIARIO OFICIAL (EXTRACTO)

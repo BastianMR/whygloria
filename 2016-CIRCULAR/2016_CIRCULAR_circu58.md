@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 58 (2016)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 58.- |
-resource: ./2016_CIRCULAR_circu58.md.docx
+title: Circular NÂ° 58 (2016)
+description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 58.- |
 tags: [SII, 2016, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 58.-** |
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 58.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09 de septiembre de 2016.- |
-| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÍA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
+| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de septiembre del aÃ±o 2016 y el 9 de octubre del aÃ±o 2016. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÃA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41º bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre del año 2016 y el 9 de octubre del año 2016, los cuales se indican en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41Âº bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de septiembre del aÃ±o 2016 y el 9 de octubre del aÃ±o 2016, los cuales se indican en forma destacada en negrita.
 
-## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
+## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
 
 (Publicado en D.O. de 09.09.2016)
 
-| **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** | **AÑO 2016** |
+| **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** | **AÃ‘O 2016** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 25.629,09 | 25.629,09 | 25.721,82 | 25.814,55 | 25.910,25 | 25.995,56 | 26.053,81 | 26.145,01 | 26.210,79 | 26.224,30 |  |  |
@@ -56,5 +55,5 @@ Saluda a Ud.,
 
 JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)
 
-* AL BOLETÍN
+* AL BOLETÃN
 * A INTERNET

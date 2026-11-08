@@ -1,23 +1,22 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 11 (2022)
-description: DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 11. GE00205825 |
-resource: ./2022_CIRCULAR_circu11.md.docx
+title: Circular NÂ° 11 (2022)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ° 11. GE00205825 |
 tags: [SII, 2022, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 11. GE00205825** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ° 11. GE00205825** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09 DE MARZO DE 2022. |
-| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2022 y el 9 de abril de 2022, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de marzo de 2022 y el 9 de abril de 2022, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de marzo de 2022 y 9 de abril de 2022, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de marzo de 2022 y 9 de abril de 2022, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de marzo de 2022
+## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de marzo de 2022
 
-| **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** | **AÑO 2022** |
+| **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** | **AÃ‘O 2022** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 30.996,73 | 31.220,68 | 31.552,64 | 31.730,80 |  |  |  |  |  |  |  |  |
 | 2 | 31.001,72 | 31.228,70 | 31.566,08 | 31.733,87 |  |  |  |  |  |  |  |  |
 | 3 | 31.006,71 | 31.236,73 | 31.579,53 | 31.736,94 |  |  |  |  |  |  |  |  |
@@ -54,7 +53,7 @@ Saluda a Ud.,
 
 <unknown>
 
-## SRG/PAO/LOF/mvv DISTRIBUCIÓN:
+## SRG/PAO/LOF/mvv DISTRIBUCIÃ“N:
 
 * -Internet
 

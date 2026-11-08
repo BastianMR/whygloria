@@ -1,100 +1,99 @@
----
-type: SII Resolución
-title: Resolución N° 46 (2018)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
-resource: ./2018_RESOLUCION_reso15.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 46 (2018)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 
-AUTORIZA LA OPCIÓN DE EMITIR, UTILIZANDO EL FORMATO DE FACTURA ELECTRÓNICA, EN MODALIDAD FACTURA TURISTA. MODIFICA RESOLUCIÓN EXENTA N° 46, DEL 10.05.2013 EN LOS TÉRMINOS QUE INDICA.
+AUTORIZA LA OPCIÃ“N DE EMITIR, UTILIZANDO EL FORMATO DE FACTURA ELECTRÃ“NICA, EN MODALIDAD FACTURA TURISTA. MODIFICA RESOLUCIÃ“N EXENTA NÂ° 46, DEL 10.05.2013 EN LOS TÃ‰RMINOS QUE INDICA.
 
 ## SANTIAGO, 14 DE FEBRERO DE 2018
 
 Hoy se ha resuelto lo siguiente:
 
-## RESOLUCIÓN EXENTA SII N° 15
+## RESOLUCIÃ“N EXENTA SII NÂ° 15
 
-VISTOS: Lo dispuesto en el artículo 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980; el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L. N° 825, de 1974; el artículo 4° de la Ley N° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artículo 25 de la Ley N° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableció incentivos para el desarrollo económico de las Provincias de Arica y Parinacota y por el artículo 6° de la Ley N° 20.655, publicada en el Diario Oficial del 01.02.2013; el artículo 11 de la Ley N° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV Región de Arica y Parinacota y la Provincia del Tamarugal en la Región de Tarapacá; y las instrucciones impartidas en la Resolución Exenta N° 46, del 10.05.2013, modificada por las Resolución Exenta N°s 12, del 10.03.2016 y 25.01.2017, respectivamente; y
+VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ°s 1 y 3 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenido en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980; el artÃ­culo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artÃ­culo 1Â° del D.L. NÂ° 825, de 1974; el artÃ­culo 4Â° de la Ley NÂ° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artÃ­culo 25 de la Ley NÂ° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableciÃ³ incentivos para el desarrollo econÃ³mico de las Provincias de Arica y Parinacota y por el artÃ­culo 6Â° de la Ley NÂ° 20.655, publicada en el Diario Oficial del 01.02.2013; el artÃ­culo 11 de la Ley NÂ° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV RegiÃ³n de Arica y Parinacota y la Provincia del Tamarugal en la RegiÃ³n de TarapacÃ¡; y las instrucciones impartidas en la ResoluciÃ³n Exenta NÂ° 46, del 10.05.2013, modificada por las ResoluciÃ³n Exenta NÂ°s 12, del 10.03.2016 y 25.01.2017, respectivamente; y
 
 ## CONSIDERANDO:
 
-1° Que, la Resolución Exenta N° 46, del 10.05.2013, reemplazó las normas para la devolución del impuesto del Título II y del artículo 42 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. N° 825, de 1974, a las personas naturales sin domicilio ni residencia en el país, que compren mercancías en la zona franca de extensión de la Región Arica y Parinacota.
+1Â° Que, la ResoluciÃ³n Exenta NÂ° 46, del 10.05.2013, reemplazÃ³ las normas para la devoluciÃ³n del impuesto del TÃ­tulo II y del artÃ­culo 42 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D.L. NÂ° 825, de 1974, a las personas naturales sin domicilio ni residencia en el paÃ­s, que compren mercancÃ­as en la zona franca de extensiÃ³n de la RegiÃ³n Arica y Parinacota.
 
-En este sentido las Resoluciones N° 12, del 2016 y N° del 2017, respectivamente modificaron las mencionadas instrucciones indicando que los puntos fronterizos donde los turistas podrán solicitar la devolución de IVA Turista al salir del país son: Puerto de Arica, Aeropuerto Chacalluta y Avanzada Chungará.
+En este sentido las Resoluciones NÂ° 12, del 2016 y NÂ° del 2017, respectivamente modificaron las mencionadas instrucciones indicando que los puntos fronterizos donde los turistas podrÃ¡n solicitar la devoluciÃ³n de IVA Turista al salir del paÃ­s son: Puerto de Arica, Aeropuerto Chacalluta y Avanzada ChungarÃ¡.
 
-2° Que las instrucciones recién citadas consideraban como la única forma de la Factura Turista la emitida por papel.
+2Â° Que las instrucciones reciÃ©n citadas consideraban como la Ãºnica forma de la Factura Turista la emitida por papel.
 
-3° Que en relación a los avances tecnológicos y en un constante esfuerzo por facilitar el cumplimiento tributario, este Servicio instruye por medio de la presente Resolución la opción para poder emitir en forma electrónica la Factura Turista, la que podrá ser consultable, a través de las aplicaciones dispuestas en la página web del Servicio de Impuestos Internos.
+3Â° Que en relaciÃ³n a los avances tecnolÃ³gicos y en un constante esfuerzo por facilitar el cumplimiento tributario, este Servicio instruye por medio de la presente ResoluciÃ³n la opciÃ³n para poder emitir en forma electrÃ³nica la Factura Turista, la que podrÃ¡ ser consultable, a travÃ©s de las aplicaciones dispuestas en la pÃ¡gina web del Servicio de Impuestos Internos.
 
-De tal modo que aquel vendedor que reúna las condiciones dispuestas en el Resolutivo 3° de la Resolución Exenta N° 46, del 2013, esto es que: sea contribuyente de IVA que posea casa matriz y/o sucursal en la Zona Franca de
+De tal modo que aquel vendedor que reÃºna las condiciones dispuestas en el Resolutivo 3Â° de la ResoluciÃ³n Exenta NÂ° 46, del 2013, esto es que: sea contribuyente de IVA que posea casa matriz y/o sucursal en la Zona Franca de
 
-Extensión de la Región Arica y Parinacota, debidamente informada a este Servicio; que presente Formulario 29, de Declaración y Pago Simultáneo Mensual y esté al día en el cumplimiento de sus obligaciones tributarias, podrá optar por emitir la Factura Turista electrónicamente, debiendo para tal efecto sólo tener un software propio o de mercado.
+ExtensiÃ³n de la RegiÃ³n Arica y Parinacota, debidamente informada a este Servicio; que presente Formulario 29, de DeclaraciÃ³n y Pago SimultÃ¡neo Mensual y estÃ© al dÃ­a en el cumplimiento de sus obligaciones tributarias, podrÃ¡ optar por emitir la Factura Turista electrÃ³nicamente, debiendo para tal efecto sÃ³lo tener un software propio o de mercado.
 
 ## SE RESUELVE:
 
-1° Autorícese a los vendedores descritos en el Considerando 3° la opción de emitir, utilizando el formato de factura electrónica, en su modalidad de Factura Turista, conforme los requisitos y procedimientos que a continuación se enumeran, debiendo modificarse la Resolución Exenta N° 46, del 2013, en los términos que se indican en los Resolutivos siguientes.
+1Â° AutorÃ­cese a los vendedores descritos en el Considerando 3Â° la opciÃ³n de emitir, utilizando el formato de factura electrÃ³nica, en su modalidad de Factura Turista, conforme los requisitos y procedimientos que a continuaciÃ³n se enumeran, debiendo modificarse la ResoluciÃ³n Exenta NÂ° 46, del 2013, en los tÃ©rminos que se indican en los Resolutivos siguientes.
 
-2° Elimínase el Resolutivo 4° de la Resolución Exenta N° 46, del 2013, pasando el Resolutivo 5° a ser el nuevo Resolutivo 4°.
+2Â° ElimÃ­nase el Resolutivo 4Â° de la ResoluciÃ³n Exenta NÂ° 46, del 2013, pasando el Resolutivo 5Â° a ser el nuevo Resolutivo 4Â°.
 
-3° En la letra g) del nuevo Resolutivo 4° agrégase, a continuación de la palabra 'anexo', lo siguiente: 'N°1'.
+3Â° En la letra g) del nuevo Resolutivo 4Â° agrÃ©gase, a continuaciÃ³n de la palabra 'anexo', lo siguiente: 'NÂ°1'.
 
-4° De acuerdo a lo anterior, agrégase un nuevo
+4Â° De acuerdo a lo anterior, agrÃ©gase un nuevo
 
-Resolutivo 5°, en los siguientes términos:
+Resolutivo 5Â°, en los siguientes tÃ©rminos:
 
-' 5° Asimismo, los vendedores podrán optar por emitir las Factura Turista en formato electrónico, en la medida que cumplan los siguientes requisitos:
+' 5Â° Asimismo, los vendedores podrÃ¡n optar por emitir las Factura Turista en formato electrÃ³nico, en la medida que cumplan los siguientes requisitos:
 
-* a) Ser Facturador Electrónico con Software Propio o de Mercado.
-* b) Poseer dirección de Casa Matriz o alguna Sucursal en las comunas de Arica, Camarones, Putre ó General Lagos, debidamente informada a este Servicio.
+* a) Ser Facturador ElectrÃ³nico con Software Propio o de Mercado.
+* b) Poseer direcciÃ³n de Casa Matriz o alguna Sucursal en las comunas de Arica, Camarones, Putre Ã³ General Lagos, debidamente informada a este Servicio.
 
-1. -De la operación y emisión de los documentos.
+1. -De la operaciÃ³n y emisiÃ³n de los documentos.
 
-Las Facturas Turistas podrán emitirse únicamente respecto de operaciones efectuadas en establecimientos de comercio ubicados en las Zonas Francas de Extensión a que se refiere el decreto con fuerza de ley N° 341, de 1977.
+Las Facturas Turistas podrÃ¡n emitirse Ãºnicamente respecto de operaciones efectuadas en establecimientos de comercio ubicados en las Zonas Francas de ExtensiÃ³n a que se refiere el decreto con fuerza de ley NÂ° 341, de 1977.
 
-La forma de operar, será a nivel de contribuyentes facturadores electrónicos de Software Propio o de Mercado, quienes al momento de emitir una Factura Electrónica (Documento Tributario Electrónico, Código 33), deberán marcar el TAG, identificado como 'Tipo de Factura Especial' (<TipoFactEsp>), con el valor igual a '1', que corresponderá a la Factura Turista.
+La forma de operar, serÃ¡ a nivel de contribuyentes facturadores electrÃ³nicos de Software Propio o de Mercado, quienes al momento de emitir una Factura ElectrÃ³nica (Documento Tributario ElectrÃ³nico, CÃ³digo 33), deberÃ¡n marcar el TAG, identificado como 'Tipo de Factura Especial' (<TipoFactEsp>), con el valor igual a '1', que corresponderÃ¡ a la Factura Turista.
 
-Además, el emisor del documento, deberá consignar como RUT Receptor al 55.555.555-5, (el cual no deberá consignarse en la representación impresa) y luego se agregarán dos campos nuevos, que serán el Tipo de Documento del Turista (<TurTipoDoc>) y Número de Documento del Turista (<TurNumId>), ambos campos obligatorios para poder identificar al extranjero beneficiario de esta devolución de IVA.
+AdemÃ¡s, el emisor del documento, deberÃ¡ consignar como RUT Receptor al 55.555.555-5, (el cual no deberÃ¡ consignarse en la representaciÃ³n impresa) y luego se agregarÃ¡n dos campos nuevos, que serÃ¡n el Tipo de Documento del Turista (<TurTipoDoc>) y NÃºmero de Documento del Turista (<TurNumId>), ambos campos obligatorios para poder identificar al extranjero beneficiario de esta devoluciÃ³n de IVA.
 
-En el documento tributario electrónico, se podrán detallar solamente los nuevos campos, como datos del receptor: el Tipo de Documento del Turista y Número de Documento del Turista.
+En el documento tributario electrÃ³nico, se podrÃ¡n detallar solamente los nuevos campos, como datos del receptor: el Tipo de Documento del Turista y NÃºmero de Documento del Turista.
 
-Los cambios descritos en los dos párrafos anteriores, deberán ser solicitados por los contribuyentes a sus proveedores que Sistemas de Facturación de Mercado que estén utilizando a la fecha.
+Los cambios descritos en los dos pÃ¡rrafos anteriores, deberÃ¡n ser solicitados por los contribuyentes a sus proveedores que Sistemas de FacturaciÃ³n de Mercado que estÃ©n utilizando a la fecha.
 
-* -Del diseño de la Factura Turista en formato electrónico.
+* -Del diseÃ±o de la Factura Turista en formato electrÃ³nico.
 
-Esta Factura se debe ajustar al menos al formato cuyo modelo se adjunta como Anexo N° 2 de la presente Resolución, el que debe tener el subtítulo bajo el recuadro denominado 'Factura Electrónica' la siguiente leyenda: 'Tipo de Factura Especial: Turista'.
+Esta Factura se debe ajustar al menos al formato cuyo modelo se adjunta como Anexo NÂ° 2 de la presente ResoluciÃ³n, el que debe tener el subtÃ­tulo bajo el recuadro denominado 'Factura ElectrÃ³nica' la siguiente leyenda: 'Tipo de Factura Especial: Turista'.
 
-Las letras b), d), f), h) e i) del Resolutivo 4°, no se aplicarán cuando el contribuyente opte por emitir en formato electrónico la factura turista. Además, en tal caso, en la letra e) del mismo resolutivo, la expresión 'IVA y Art. 42 (Devolución Turista)", se podrá reemplazar solamente por 'IVA'.
+Las letras b), d), f), h) e i) del Resolutivo 4Â°, no se aplicarÃ¡n cuando el contribuyente opte por emitir en formato electrÃ³nico la factura turista. AdemÃ¡s, en tal caso, en la letra e) del mismo resolutivo, la expresiÃ³n 'IVA y Art. 42 (DevoluciÃ³n Turista)", se podrÃ¡ reemplazar solamente por 'IVA'.
 
-Resolución Exenta N° 46, del 2013, por el siguiente:
+ResoluciÃ³n Exenta NÂ° 46, del 2013, por el siguiente:
 
-' 6° Se autorizará el timbraje y la habilitación de folios de documentos tributarios electrónicos, una vez que el vendedor cumpla los requisitos señalados en el procedimiento de devolución de IVA Turista'.
+' 6Â° Se autorizarÃ¡ el timbraje y la habilitaciÃ³n de folios de documentos tributarios electrÃ³nicos, una vez que el vendedor cumpla los requisitos seÃ±alados en el procedimiento de devoluciÃ³n de IVA Turista'.
 
-6° Reemplázase en el segundo párrafo del Resolutivo 7° las palabras 'anotar en el Libro de Compras y Ventas' por la siguiente frase: 'complementar en el Registro de Compras y Ventas'.
+6Â° ReemplÃ¡zase en el segundo pÃ¡rrafo del Resolutivo 7Â° las palabras 'anotar en el Libro de Compras y Ventas' por la siguiente frase: 'complementar en el Registro de Compras y Ventas'.
 
-7° Reemplázase, en el primer párrafo del Resolutivo 8° de la Resolución Exenta N° 46, del 2013, la frase 'entregará en Aduanas, las copias que corresponden al triplicado y cuadruplicado de la factura señalado en el resolutivo número 5° precedente', por la siguiente: 'entregará a Aduanas una copia de la representación gráfica o impresa del documento tributario electrónico y en el caso del documento en papel el triplicado y cuadruplicado, señalado'.
+7Â° ReemplÃ¡zase, en el primer pÃ¡rrafo del Resolutivo 8Â° de la ResoluciÃ³n Exenta NÂ° 46, del 2013, la frase 'entregarÃ¡ en Aduanas, las copias que corresponden al triplicado y cuadruplicado de la factura seÃ±alado en el resolutivo nÃºmero 5Â° precedente', por la siguiente: 'entregarÃ¡ a Aduanas una copia de la representaciÃ³n grÃ¡fica o impresa del documento tributario electrÃ³nico y en el caso del documento en papel el triplicado y cuadruplicado, seÃ±alado'.
 
-En este mismo párrafo reemplazar la frase: 'para que se verifique que las copias correspondan entre sí' por: 'para que se verifique la concordancia y validez de los documentos'.
+En este mismo pÃ¡rrafo reemplazar la frase: 'para que se verifique que las copias correspondan entre sÃ­' por: 'para que se verifique la concordancia y validez de los documentos'.
 
-En el mismo Resolutivo 8°, pero en el 2° párrafo, reemplázase la frase 'el resolutivo número 5° precedente', por la siguiente: 'los Resolutivos 4° y 5°'.
+En el mismo Resolutivo 8Â°, pero en el 2Â° pÃ¡rrafo, reemplÃ¡zase la frase 'el resolutivo nÃºmero 5Â° precedente', por la siguiente: 'los Resolutivos 4Â° y 5Â°'.
 
-8° El formato de Factura Turista del Anexo de la Resolución Exenta N° 46, del 2013, pasará a ser el Anexo N° 1 y se agregará al final de la Resolución y a continuación del Anexo N° 1, un nuevo Anexo denominado 'Anexo N°2: Formato Electrónico Factura Turista.'
+8Â° El formato de Factura Turista del Anexo de la ResoluciÃ³n Exenta NÂ° 46, del 2013, pasarÃ¡ a ser el Anexo NÂ° 1 y se agregarÃ¡ al final de la ResoluciÃ³n y a continuaciÃ³n del Anexo NÂ° 1, un nuevo Anexo denominado 'Anexo NÂ°2: Formato ElectrÃ³nico Factura Turista.'
 
-9° Esta Resolución comenzará a regir, incorporándose las modificaciones en la forma señala en el cuerpo de la presente Resolución a la Resolución Exenta N° 46, del 2013, modificada por las Resoluciones Exentas N° 12 del 2016 y N° 12 del 2017, desde la fecha de su publicación en el Diario Oficial.
+9Â° Esta ResoluciÃ³n comenzarÃ¡ a regir, incorporÃ¡ndose las modificaciones en la forma seÃ±ala en el cuerpo de la presente ResoluciÃ³n a la ResoluciÃ³n Exenta NÂ° 46, del 2013, modificada por las Resoluciones Exentas NÂ° 12 del 2016 y NÂ° 12 del 2017, desde la fecha de su publicaciÃ³n en el Diario Oficial.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
-## (Fdo.) VÍCTOR VILLALÓN MÉNDEZ DIRECTOR (S)
+## (Fdo.) VÃCTOR VILLALÃ“N MÃ‰NDEZ DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## VVS/MDA/RPA/RGV/OBA/rso Distribución:
+## VVS/MDA/RPA/RGV/OBA/rso DistribuciÃ³n:
 
 * Internet
-* Boletín SII
+* BoletÃ­n SII
 * Diario Oficial
-* Tesorería General de la República
+* TesorerÃ­a General de la RepÃºblica
 * Servicio Nacional de Aduanas
 
-Anexo N° 2: Formato Electrónico Factura Turista (archivo meramente referencial)
+Anexo NÂ° 2: Formato ElectrÃ³nico Factura Turista (archivo meramente referencial)

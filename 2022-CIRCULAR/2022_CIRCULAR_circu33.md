@@ -1,21 +1,20 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 33 (2022)
-description: SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº33.- |
-resource: ./2022_CIRCULAR_circu33.md.docx
+title: Circular NÂ° 33 (2022)
+description: SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | CIRCULAR NÂº33.- |
 tags: [SII, 2022, circular]
 ---
 
-| **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº33.-** |
+| **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **CIRCULAR NÂº33.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 19 DE JULIO DE 2022. |
-| MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS AGOSTO 2022. | REFERENCIA: NºYNOMBREDELVOLUMEN Arts. 53 y 97 Nºs. 2 y 11 D.L. Nº 830, de 1974, sobre Código Tributario. |
+| MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS AGOSTO 2022. | REFERENCIA: NÂºYNOMBREDELVOLUMEN Arts. 53 y 97 NÂºs. 2 y 11 D.L. NÂº 830, de 1974, sobre CÃ³digo Tributario. |
 
-La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de AGOSTO DE 2022.
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s y multa de los Arts. 53 y 97 NÂºs. 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de AGOSTO DE 2022.
 
-| **Mes de** | **% Reajuste** | **% InterØs** | **% Multa Art. 97** | **% Multa** | **% Multa** | **IPC (INE) Base Anual** |  |
+| **Mes de** | **% Reajuste** | **% InterÃ˜s** | **% Multa Art. 97** | **% Multa** | **% Multa** | **IPC (INE) Base Anual** |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Vcto. | Art. 53 Inc. 1° | Art. 53 Inc. 3° | N°2 | Inc. 1° Art. | Inc. 2° 97 N°11 | 2018=100 | U.T.M. |
+| Vcto. | Art. 53 Inc. 1Â° | Art. 53 Inc. 3Â° | NÂ°2 | Inc. 1Â° Art. | Inc. 2Â° 97 NÂ°11 | 2018=100 | U.T.M. |
 | 2016 ENE | 31,1 | 120,0 | 30 | 30 | 60 | 93,8500 | 44.955 |
 | FEB | 31,1 | 118,5 | 30 | 30 | 60 | 94,1100 | 44.955 |
 | MAR | 30,5 | 117,0 | 30 | 30 | 60 | 94,4700 | 45.180 |
@@ -66,9 +65,9 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 | DIC | 18,4 | 49,5 | 30 |  | 60 |  |  |
 |  |  |  |  | 30 |  | 103,6600 | 49.623 |
 
-|  | **Mes de Vcto.** | **% Reajuste Art. 53** | **% InterØs Art. 53 Inc. 3°** | **% Multa Art. 97 N°2** | **% Multa Art. 97 N°11** | **% Multa Art. 97 N°11** | **IPC (INE) Base Anual 2018=100** |  |
+|  | **Mes de Vcto.** | **% Reajuste Art. 53** | **% InterÃ˜s Art. 53 Inc. 3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa Art. 97 NÂ°11** | **% Multa Art. 97 NÂ°11** | **IPC (INE) Base Anual 2018=100** |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mes de Vcto. | Inc. 1° |  |  | Inc. 1° | Inc. 2° |  | U.T.M. |
+|  | Mes de Vcto. | Inc. 1Â° |  |  | Inc. 1Â° | Inc. 2Â° |  | U.T.M. |
 | 2020 | ENE | 18,3 | 48,0 | 30 | 30 | 60 | 104,2400 | 49.673 |
 |  | FEB | 18,2 | 46,5 | 30 | 30 | 60 | 104,7100 | 49.723 |
 |  | MAR | 17,5 | 45,0 | 30 | 30 | 60 | 105,0600 | 50.021 |
@@ -106,18 +105,18 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 
 1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
 
-## AÑO 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 %: 0,6 1,4 1,3 0,7 2,1 0,6 1,1 1,0 0,9 0,5 1,5 1,6 4,2
+## AÃ‘O 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 %: 0,6 1,4 1,3 0,7 2,1 0,6 1,1 1,0 0,9 0,5 1,5 1,6 4,2
 
-1. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
-2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18, de 2010, del SII.
+1. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
+2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el I.P.C. entregada por el I.N.E. en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y ReconstrucciÃ³n, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18, de 2010, del SII.
 
-Se hace presente que a contar del Índice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Ãndice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
 <unknown>
 
-## MSB/CGG/MCRB/CST DISTRIBUCIÓN
+## MSB/CGG/MCRB/CST DISTRIBUCIÃ“N
 
 * Internet
 

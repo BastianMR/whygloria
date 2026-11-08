@@ -1,34 +1,33 @@
----
-type: SII Resolución
-title: Resolución N° 139 (2019)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
-resource: ./2019_RESOLUCION_reso139.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 139 (2019)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA.
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SEÃ‘ALA.
 
 SANTIAGO, 19 DE DICIEMBRE 2019
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° 139.-/
+RESOLUCIÃ“N EXENTA SII NÂ° 139.-/
 
-VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017; y la Resolución Exenta N° 126, de 30.12.2014 delegatoria; y
+VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ° 1 y artÃ­culo 17 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y en la ResoluciÃ³n Exenta NÂ° 150, de 29.12.2005, en que se establecen normas y procedimientos de operaciÃ³n de la Contabilidad ElectrÃ³nica, modificada por la ResoluciÃ³n Exenta NÂ° 86, del 07.09.2017; y la ResoluciÃ³n Exenta NÂ° 126, de 30.12.2014 delegatoria; y
 
 ## CONSIDERANDO:
 
-1° Que, en la Resolución. Ex. SII N° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+1Â° Que, en la ResoluciÃ³n. Ex. SII NÂ° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-2° Que, analizados los casos de los contribuyentes que se señalan en los resolutivos primero y segundo de la presente Resolución, se determinó que, cumplen con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operación de Contabilidad Electrónica.
+2Â° Que, analizados los casos de los contribuyentes que se seÃ±alan en los resolutivos primero y segundo de la presente ResoluciÃ³n, se determinÃ³ que, cumplen con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-3° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y, declaran contar con Códigos de Autorización de Libros (en adelante CAL) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+3Â° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y, declaran contar con CÃ³digos de AutorizaciÃ³n de Libros (en adelante CAL) para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-1° AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y N° de RUT:
+1Â° AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y NÂ° de RUT:
 
 | **ANPAC SPA.** | **76.368.111-4** |
 | --- | --- |
@@ -42,21 +41,21 @@ VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Có
 
 SOLVENTA SERVICIOS FINANCIEROS S.A. 78.138.470-4 TRANSPORTES MARANON SPA. 76.450.211-6
 
-Se otorgará además a los contribuyentes RUT 76.568.680-6 Códigos de Autorización de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otros contribuyentes que utilicen el software distribuido por él.
+Se otorgarÃ¡ ademÃ¡s a los contribuyentes RUT 76.568.680-6 CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otros contribuyentes que utilicen el software distribuido por Ã©l.
 
-2° AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de ACEPTA, RUT N° 96.919.050-8, al siguiente contribuyente que se indica, con su nombre y N° de RUT:
+2Â° AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de ACEPTA, RUT NÂ° 96.919.050-8, al siguiente contribuyente que se indica, con su nombre y NÂ° de RUT:
 
 CAJA DE COMPENSACION DE ASIGNACION FAMILIAR DE LOS ANDES 81.826.800-9 CORPORACION CHILENA DE LA MADERA A.G. 82.899.100-0 SERVICIOS FORESTALES Y DE EXPOSICIONES S.A. 96.812.850-7 SERVICIOS VALLE CENTRAL LTDA. 76.509.630-8
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de BLUELINE TECHNOLOGY SPA, RUT N° 76.156.362-9, al siguiente contribuyente que se indica, con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA, RUT NÂ° 76.156.362-9, al siguiente contribuyente que se indica, con su nombre y NÂ° de RUT:
 
 ATLANTIC S.A. 76.081.221-8 BLUMAQ CHILE S.A. 96.929.950-K COMERCIAL ATLANTIC S.A. 76.605.110-3 COMERCIAL WENDY'S CHILE LTDA. 76.306.594-4 COMERCIALIZADORA FARO SPA. 76.839.885-2 FINANCO S.A. 91.711.000-K FLESAD CHILE SPA. 77.050.443-0 INVERSIONES DON EMILIO SPA. 76.549.852-K KIDS & BABYS SPA. 76.248.514-1 QUASAR PUBLICIDAD DIGITAL LTDA. 76.105.143-1 SERVICIOS PUBLICITARIOS FLESAD SPA. 76.070.080-0 SERVICIOS Y PROMOCIONES TEXTILES LTDA. 77.235.750-8 TANNER FINANZAS CORPORATIVAS LTDA. 76.029.825-5 VF COMERCIALIZADORA LTDA. 96.820.180-8 VINA DEL PEDREGAL S.A. 96.554.560-3
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de DBNET INGENIERIA DE SOFTWARE S A, RUT N° 78.079.790-8, a los siguientes contribuyentes que se señalan, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE S A, RUT NÂ° 78.079.790-8, a los siguientes contribuyentes que se seÃ±alan, con nombre y NÂ° de RUT:
 
 AGROINDUSTRIAL SANTA CRUZ LTDA. 96.502.370-4 AQUACULTIVOS S.A. 87.829.000-3 NUEVA CERMAQ CHILE S.A. 77.026.097-3 SALMONES HUMBOLDT SPA. 76.175.118-2 SOC ACUICOLA Y COM LAS CHAUQUES LTDA. 76.808.230-8 ZENIT SEGUROS GENERALES S.A. 76.061.223-5
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de ONVISION S A, RUT N° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de ONVISION S A, RUT NÂ° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
 
 A&E SPA. 76.734.262-4 ADMINISTRADORA COMERCIAL LTDA. 76.363.028-5 ADSMUNDO TURISMO LTDA. 78.872.390-3 ADSMUNDO TURISMO RECEPTIVO SPA. 84.191.400-7 ASESORIAS E INVERSIONES ALTO ADIGE LTDA 76.963.342-1 ASESORIAS EN INFORMATICA Y COMUNICACION LTDA. 96.837.330-7 BANCO INTERNACIONAL ADMINISTRADORA GENERAL DE FONDOS S.A. 76.930.984-5 CALYPSO TECHNOLOGY SPA. 76.230.987-4
 
@@ -96,7 +95,7 @@ A&E SPA. 76.734.262-4 ADMINISTRADORA COMERCIAL LTDA. 76.363.028-5 ADSMUNDO TURIS
 | TURISMO JOVEN ANDINA DEL SUD SPA. | 76.803.031-6 |
 | TURISMO PEULLA LTDA. | 77.999.770-7 |
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de SOC BCN CONSULTORES COMPANIA LIMITADA, RUT N° 77.870.460-9, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de SOC BCN CONSULTORES COMPANIA LIMITADA, RUT NÂ° 77.870.460-9, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
 
 AGRICOLA BELLAVISTA SPA. 77.015.129-5
 
@@ -104,25 +103,25 @@ INMOBILIARIA CENTRO SPA.
 
 76.896.415-7
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2019, a través del endoso de SOUTH CONSULTING SIGNATURE SA., RUT N° 77.586.860-0, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2019, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE SA., RUT NÂ° 77.586.860-0, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
 
 COMERCIALIZADORA NUTRECO CHILE LTDA.
 
 96.701.530-K
 
-3° Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operación de Contabilidad Electrónica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de años anteriores al año 2019, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida Resolución Ex. SII N° 150 y su modificación.
+3Â° Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2019, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida ResoluciÃ³n Ex. SII NÂ° 150 y su modificaciÃ³n.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
-## (Fdo.) PATRICIO MUÑOZ ROJAS SUBDIRECTOR (S) DE ASISTENCIA AL CONTRIBUYENTE
+## (Fdo.) PATRICIO MUÃ‘OZ ROJAS SUBDIRECTOR (S) DE ASISTENCIA AL CONTRIBUYENTE
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-RGV/CAB/XPR Distribución:
+RGV/CAB/XPR DistribuciÃ³n:
 
-* -Subdirección de Asistencia al Contribuyente
+* -SubdirecciÃ³n de Asistencia al Contribuyente
 * -Departamento de Operaciones
-* -Área documento tributario electrónico
+* -Ãrea documento tributario electrÃ³nico
 * -Internet
 * -Oficina de Partes
 * -Archivo

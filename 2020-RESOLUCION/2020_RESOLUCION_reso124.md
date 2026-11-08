@@ -1,73 +1,72 @@
----
-type: SII Resolución
-title: Resolución N° 124 (2020)
-description: MODIFICA RESOLUCIÓN EX. SII Nº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA Nº 1933 POR LOS MANDATARIOS ENCAR...
-resource: ./2020_RESOLUCION_reso124.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 124 (2020)
+description: MODIFICA RESOLUCIÃ“N EX. SII NÂº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÃ“N JURADA NÂº 1933 POR LOS MANDATARIOS ENCAR...
 tags: [SII, 2020, resolucion]
 ---
 
-MODIFICA RESOLUCIÓN EX. SII Nº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA Nº 1933 POR LOS MANDATARIOS ENCARGADOS DE GESTIONAR EL MANDATO ESPECIAL DE ADMINISTRACIÓN DE CARTERA DE VALORES ESTABLECIDO EN LA LEY Nº 20.880.
+MODIFICA RESOLUCIÃ“N EX. SII NÂº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÃ“N JURADA NÂº 1933 POR LOS MANDATARIOS ENCARGADOS DE GESTIONAR EL MANDATO ESPECIAL DE ADMINISTRACIÃ“N DE CARTERA DE VALORES ESTABLECIDO EN LA LEY NÂº 20.880.
 
 SANTIAGO, 30 de septiembre de 2020
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N°124
+RESOLUCIÃ“N EXENTA SII NÂ°124
 
-VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1, y 97 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; en los artículos 24, 25, 26, 28, 36 y 1° transitorio de la Ley N° 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses; en el Decreto N° 2, de 2016, del Ministerio Secretaria General de la Presidencia, que contiene Reglamento de la Ley N° 20.880; la Ley Nº 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de fecha 24 de febrero de 2020 y la Resolución Ex. SII Nº 124, de 26 de diciembre de 2016.
+VISTOS: Lo dispuesto en los artÃ­culos 6Â°, letra A), NÂ° 1, y 97 del CoÌdigo Tributario, contenido en el artiÌculo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 1Â°, 3Â° bis, 4Â° bis y 7Â° de la Ley OrgaÌnica del Servicio de Impuestos Internos, contenida en el artiÌculo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, de 1980; en los artiÌculos 24, 25, 26, 28, 36 y 1Â° transitorio de la Ley NÂ° 20.880, sobre Probidad en la FuncioÌn PuÌblica y PrevencioÌn de los Conflictos de Intereses; en el Decreto NÂ° 2, de 2016, del Ministerio Secretaria General de la Presidencia, que contiene Reglamento de la Ley NÂ° 20.880; la Ley NÂº 21.210 que Moderniza la LegislaciÃ³n Tributaria, publicada en el Diario Oficial de fecha 24 de febrero de 2020 y la ResoluciÃ³n Ex. SII NÂº 124, de 26 de diciembre de 2016.
 
 ## CONSIDERANDO:
 
-1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
+1Â° Que, a este Servicio le corresponde la aplicacioÌn y fiscalizacioÌn de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro caraÌcter en que tenga intereÌs el Fisco y cuyo control no esteÌ especialmente encomendado por la ley a una autoridad diferente.
 
-2º Que, en cumplimiento de sus funciones, este Servicio dictó la Resolución Ex. N° 124 de 26 de diciembre de 2016, que estableció la forma y plazo para presentar la declaración jurada N° 1933 sobre información de los mandatarios encargados de gestionar el mandato especial de administración de cartera de valores establecido en la Ley Nº 20.880.
+2Âº Que, en cumplimiento de sus funciones, este Servicio dictÃ³ la ResoluciÃ³n Ex. NÂ° 124 de 26 de diciembre de 2016, que estableciÃ³ la forma y plazo para presentar la declaraciÃ³n jurada NÂ° 1933 sobre informaciÃ³n de los mandatarios encargados de gestionar el mandato especial de administraciÃ³n de cartera de valores establecido en la Ley NÂº 20.880.
 
-3º Que, la Ley Nº 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial de fecha 24 de febrero de 2020, mediante su artículo segundo, incorporó una serie de modificaciones a la Ley sobre Impuesto a la Renta (en adelante 'LIR'). Específicamente, el numeral 7 de dicho artículo, que reemplazó el artículo 14 de la LIR incorporó, desde el 1 de enero de 2020, nuevos regímenes tributarios para los contribuyentes de primera categoría.
+3Âº Que, la Ley NÂº 21.210, que moderniza la LegislaciÃ³n Tributaria, publicada en el Diario Oficial de fecha 24 de febrero de 2020, mediante su artÃ­culo segundo, incorporÃ³ una serie de modificaciones a la Ley sobre Impuesto a la Renta (en adelante 'LIR'). EspecÃ­ficamente, el numeral 7 de dicho artÃ­culo, que reemplazÃ³ el artÃ­culo 14 de la LIR incorporÃ³, desde el 1 de enero de 2020, nuevos regÃ­menes tributarios para los contribuyentes de primera categorÃ­a.
 
-4º Que, la letra A) del artículo 14 de la LIR establece un régimen de tributación, para los propietarios de empresas que declaran el impuesto de primera categoría según renta efectiva determinada mediante contabilidad completa, afectos a los impuestos global complementario o adicional.
+4Âº Que, la letra A) del artÃ­culo 14 de la LIR establece un rÃ©gimen de tributaciÃ³n, para los propietarios de empresas que declaran el impuesto de primera categorÃ­a segÃºn renta efectiva determinada mediante contabilidad completa, afectos a los impuestos global complementario o adicional.
 
-Asimismo la Ley N° 21.210, derogó el texto del artículo 14 ter de la LIR, y en la letra D) del artículo 14 de la misma norma establece un régimen especial de tributación para las micro, pequeñas y medianas empresas (Pymes), denominado Régimen Pro Pyme, estableciendo en el N° 4 de dicha letra, que los propietarios de la Pyme se afectarán con sus impuestos personales en base a los retiros, remesas o distribuciones efectivos, con imputación total del crédito por Impuesto de Primera Categoría, salvo en el caso de propietarios que sean contribuyentes del Impuesto de Primera Categoría y no este acogido al régimen Pro Pyme.
+Asimismo la Ley NÂ° 21.210, derogÃ³ el texto del artÃ­culo 14 ter de la LIR, y en la letra D) del artÃ­culo 14 de la misma norma establece un rÃ©gimen especial de tributaciÃ³n para las micro, pequeÃ±as y medianas empresas (Pymes), denominado RÃ©gimen Pro Pyme, estableciendo en el NÂ° 4 de dicha letra, que los propietarios de la Pyme se afectarÃ¡n con sus impuestos personales en base a los retiros, remesas o distribuciones efectivos, con imputaciÃ³n total del crÃ©dito por Impuesto de Primera CategorÃ­a, salvo en el caso de propietarios que sean contribuyentes del Impuesto de Primera CategorÃ­a y no este acogido al rÃ©gimen Pro Pyme.
 
-Por su parte, en el Nº 8 de la norma antes citada, se estableció un régimen opcional de transparencia tributaria en virtud del cual los propietarios deberán tributar con sus impuestos finales en base al resultado tributario (positivo) determinado por la empresa en el mismo ejercicio en que se genere, en base al porcentaje de participación de las utilidades o el capital, según corresponda.
+Por su parte, en el NÂº 8 de la norma antes citada, se estableciÃ³ un rÃ©gimen opcional de transparencia tributaria en virtud del cual los propietarios deberÃ¡n tributar con sus impuestos finales en base al resultado tributario (positivo) determinado por la empresa en el mismo ejercicio en que se genere, en base al porcentaje de participaciÃ³n de las utilidades o el capital, segÃºn corresponda.
 
-5º Que, lo anterior hace necesario actualizar la Resolución Exenta SII Nº 124 de 26 de diciembre de 2016, señalada en el considerando anterior, de manera de adecuarla a las nuevas referencias legales.
+5Âº Que, lo anterior hace necesario actualizar la ResoluciÃ³n Exenta SII NÂº 124 de 26 de diciembre de 2016, seÃ±alada en el considerando anterior, de manera de adecuarla a las nuevas referencias legales.
 
 ## RESUELVO:
 
-1° Reemplácese los Anexos Nº 1, 2, 3 y 4 de la Resolución Nº 124 de 26 de diciembre de 2016 por los contenidos en los Anexos Nºs 1, 2, 3 y 4 de la presente resolución.
+1Â° ReemplÃ¡cese los Anexos NÂº 1, 2, 3 y 4 de la ResoluciÃ³n NÂº 124 de 26 de diciembre de 2016 por los contenidos en los Anexos NÂºs 1, 2, 3 y 4 de la presente resoluciÃ³n.
 
-2° Los Anexos de esta Resolución, que se entienden fomar parte integrante de ella, se publicarán conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl)
+2Â° Los Anexos de esta ResoluciÃ³n, que se entienden fomar parte integrante de ella, se publicarÃ¡n conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl)
 
-3° La presente Resolución regirá a partir del Año Tributario 2021 y siguientes, respecto de la información del año comercial anterior.
+3Â° La presente ResolucioÌn regiraÌ a partir del AÃ±o Tributario 2021 y siguientes, respecto de la informaciÃ³n del aÃ±o comercial anterior.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## ANEXOS:
 
-ANEXO N° 1:
+ANEXO NÂ° 1:
 
-Declaración Jurada Formulario N° 1933
+DeclaracioÌn Jurada Formulario NÂ° 1933
 
-ANEXO N° 2:
+ANEXO NÂ° 2:
 
-Instrucciones de llenado de Declaración Jurada N°1933
+Instrucciones de llenado de DeclaracioÌn Jurada NÂ°1933
 
-ANEXO N° 3:
+ANEXO NÂ° 3:
 
-Certificado N°50 sobre información de los mandatarios encargados de gestionar el
+Certificado NÂ°50 sobre informacioÌn de los mandatarios encargados de gestionar el
 
-mandato especial de administración de cartera de valores.
+mandato especial de administracioÌn de cartera de valores.
 
-ANEXO N° 4:
+ANEXO NÂ° 4:
 
-Instrucciones de llenado del Certificado N°50
+Instrucciones de llenado del Certificado NÂ°50
 
-Lo que transcribo, para su conocimiento y demás fines.
+Lo que transcribo, para su conocimiento y demÃ¡s fines.
 
-CSM/CGG/LCC/FMC/JVM DISTRIBUCIÓN:
+CSM/CGG/LCC/FMC/JVM DISTRIBUCIÃ“N:
 
-* Al Boletín.
+* Al BoletÃ­n.
 * A Internet.
 * Al Diario Oficial, en Extracto

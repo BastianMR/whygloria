@@ -1,42 +1,41 @@
----
-type: SII Resolución
-title: Resolución N° 54 (2018)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
-resource: ./2018_RESOLUCION_reso123.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 54 (2018)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-EXCLUYE DE NÓMINA DE CONTRIBUYENTES SUJETOS A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 54, DE 29 DE JUNIO DE 2018.
+EXCLUYE DE NÃ“MINA DE CONTRIBUYENTES SUJETOS A RETENCIÃ“N, FIJADA CONFORME A RESOLUCIÃ“N EX. SII NÂ° 54, DE 29 DE JUNIO DE 2018.
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCION EX. SII N° 123.-/ SANTIAGO, 14 DE DICIEMBRE 2018 VISTOS:
+RESOLUCION EX. SII NÂ° 123.-/ SANTIAGO, 14 DE DICIEMBRE 2018 VISTOS:
 
-Lo dispuesto en el N° 5, letra B), del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en el artículo 9° y siguientes del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. N° 825, de 1974; el Título XIII del D.S. N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974; el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'; la Resolución Ex. SII N° 42, de 30.04.2018 y la Resolución Ex. SII N° 54, de 29.06.2018.
+Lo dispuesto en el NÂ° 5, letra B), del artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 9Â° y siguientes del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el artÃ­culo 3Â° y el TÃ­tulo IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. NÂ° 825, de 1974; el TÃ­tulo XIII del D.S. NÂ° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. NÂ° 825, de 1974; el artÃ­culo 52 de la Ley NÂº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los Ã³rganos de la AdministraciÃ³n del Estado'; la ResoluciÃ³n Ex. SII NÂ° 42, de 30.04.2018 y la ResoluciÃ³n Ex. SII NÂ° 54, de 29.06.2018.
 
 ## CONSIDERANDO:
 
-1. Que, mediante Resolución Ex. SII N° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableció el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturación electrónica, redefiniéndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retención.
-2. Que, el Resolutivo 3. de la resolución antes citada, creó los registros denominados 'Nómina de Agentes Retenedores' y 'Nómina de Contribuyentes Sujetos a Retención'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarán afectas al cambio de sujeto.
-3. Que, de conformidad con lo dispuesto en el Resolutivo 4° de la Resolución Ex. SII N° 42, se emitió la Resolución Ex. SII N° 54 con fecha 29.06.2018, mediante la cual se fijaron las nóminas de agentes retenedores y de contribuyentes sujetos a retención.
-4. Que, las nóminas fijadas por la Resolución Ex. SII N° 54, comenzaron a regir a contar del día 1 de agosto de 2018, hasta el último día hábil del mes de diciembre del presente año.
-5. Que, habiéndose realizado un reprocesamiento de datos por este Servicio, ha arrojado la necesidad de excluir de oficio, de la Nómina de Contribuyentes Sujetos a Retención, a los contribuyentes individualizados en la parte Resolutiva de la presente Resolución.
+1. Que, mediante ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableciÃ³ el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturaciÃ³n electrÃ³nica, redefiniÃ©ndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retenciÃ³n.
+2. Que, el Resolutivo 3. de la resoluciÃ³n antes citada, creÃ³ los registros denominados 'NÃ³mina de Agentes Retenedores' y 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarÃ¡n afectas al cambio de sujeto.
+3. Que, de conformidad con lo dispuesto en el Resolutivo 4Â° de la ResoluciÃ³n Ex. SII NÂ° 42, se emitiÃ³ la ResoluciÃ³n Ex. SII NÂ° 54 con fecha 29.06.2018, mediante la cual se fijaron las nÃ³minas de agentes retenedores y de contribuyentes sujetos a retenciÃ³n.
+4. Que, las nÃ³minas fijadas por la ResoluciÃ³n Ex. SII NÂ° 54, comenzaron a regir a contar del dÃ­a 1 de agosto de 2018, hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre del presente aÃ±o.
+5. Que, habiÃ©ndose realizado un reprocesamiento de datos por este Servicio, ha arrojado la necesidad de excluir de oficio, de la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n, a los contribuyentes individualizados en la parte Resolutiva de la presente ResoluciÃ³n.
 
 ## SE RESUELVE:
 
-EXCLÚYESE a contar del 1° de diciembre de 2018, de la 'Nómina de Contribuyentes Sujetos a Retención' fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, a los contribuyentes Distribuidora Betica S.A., Rut N° 76.142.7431; Asesorías, Eventos y Promociones Nitzanim SpA, Rut N° 76.141.149-7; Comercial Lukalan SpA, Rut N° 76.271.431-0; Distribuidora Correa Olmos Limitada, Rut N° 77.594.610-5; y Viñedos y bodegas Las Pircas Limitada, Rut N° 78.909.220-6.
+EXCLÃšYESE a contar del 1Â° de diciembre de 2018, de la 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n' fijada conforme a ResoluciÃ³n Ex. SII NÂ° 54, de 29 de junio de 2018, a los contribuyentes Distribuidora Betica S.A., Rut NÂ° 76.142.7431; AsesorÃ­as, Eventos y Promociones Nitzanim SpA, Rut NÂ° 76.141.149-7; Comercial Lukalan SpA, Rut NÂ° 76.271.431-0; Distribuidora Correa Olmos Limitada, Rut NÂ° 77.594.610-5; y ViÃ±edos y bodegas Las Pircas Limitada, Rut NÂ° 78.909.220-6.
 
-ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE
+ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE
 
-## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
+## VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
 
-Lo que transcribo a Ud. para su conocimiento y demás fines.
+Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
 
-CGG / LVB / GMV / JBA / CGER Distribución:
+CGG / LVB / GMV / JBA / CGER DistribuciÃ³n:
 
 * Contribuyentes
-* Subdirección de Fiscalización
-* Dpto. de Análisis Masivo del Cumplimiento Tributario
+* SubdirecciÃ³n de FiscalizaciÃ³n
+* Dpto. de AnÃ¡lisis Masivo del Cumplimiento Tributario
 * Internet

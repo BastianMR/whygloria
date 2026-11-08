@@ -1,74 +1,73 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 62 (2015)
-description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 62.- |
-resource: ./2015_CIRCULAR_circu62.md.docx
+title: Circular NÂ° 62 (2015)
+description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA | CIRCULAR NÂº 62.- |
 tags: [SII, 2015, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 62.-** |
+| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA** | **CIRCULAR NÂº 62.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 de julio de 2015.- |
-| MATERIA: IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE CONSULTA PÚBLICA DE CIRCULARES E INSTRUCCIONES QUE INTERPRETEN CON CARÁCTER GENERAL NORMAS TRIBUTARIAS O QUE MODIFIQUEN CRITERIOS INTERPRETATIVOS PREVIOS. | REFERENCIA: Ley N° 20.780, numeral 5º del artículo 10°. Código Tributario, artículos 6°, numeral 1º, letra A), y 102°. |
+| MATERIA: IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE CONSULTA PÃšBLICA DE CIRCULARES E INSTRUCCIONES QUE INTERPRETEN CON CARÃCTER GENERAL NORMAS TRIBUTARIAS O QUE MODIFIQUEN CRITERIOS INTERPRETATIVOS PREVIOS. | REFERENCIA: Ley NÂ° 20.780, numeral 5Âº del artÃ­culo 10Â°. CoÌdigo Tributario, artÃ­culos 6Â°, numeral 1Âº, letra A), y 102Â°. |
 
-## I.INTRODUCCIÓN.
+## I.INTRODUCCIÃ“N.
 
-La Ley Nº 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, en el numeral quinto de su artículo 10º, introdujo dos nuevos incisos -segundo y tercero- al numeral 1º de la letra A del artículo 6° del Código Tributario, disponiendo, en términos generales, la instauración de un procedimiento de consulta pública de proyectos de circulares o instrucciones que el Director estime pertinente, con el fin de que los contribuyentes o cualquier persona natural o jurídica opine sobre su contenido y efectos, o formule propuestas sobre los mismos. La aplicación del procedimiento de 'Consulta Pública' resulta obligatoria cuando a través de dichas instrucciones se interpreten con carácter general normas tributarias, o que modifiquen criterios interpretativos previos.
+La Ley NÂº 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, que modifica el sistema de tributaciÃ³n de la renta e introduce diversos ajustes en el sistema tributario, en el numeral quinto de su artÃ­culo 10Âº, introdujo dos nuevos incisos -segundo y tercero- al numeral 1Âº de la letra A del artÃ­culo 6Â° del CÃ³digo Tributario, disponiendo, en tÃ©rminos generales, la instauraciÃ³n de un procedimiento de consulta pÃºblica de proyectos de circulares o instrucciones que el Director estime pertinente, con el fin de que los contribuyentes o cualquier persona natural o jurÃ­dica opine sobre su contenido y efectos, o formule propuestas sobre los mismos. La aplicacioÌn del procedimiento de 'Consulta PÃºblica' resulta obligatoria cuando a travÃ©s de dichas instrucciones se interpreten con carÃ¡cter general normas tributarias, o que modifiquen criterios interpretativos previos.
 
-La presente Circular tiene por objeto impartir las instrucciones respectivas para regular el mecanismo de 'Consulta Pública' a través del cual se pretende promover la participación de las personas e instituciones, recopilando sus opiniones, comentarios, sugerencias y propuestas; estableciéndose el tipo de materias sometidas a 'Consulta Pública' (obligatoria y facultativa), el procedimiento a seguir y la vigencia de la Circular.
+La presente Circular tiene por objeto impartir las instrucciones respectivas para regular el mecanismo de 'Consulta PÃºblica' a travÃ©s del cual se pretende promover la participaciÃ³n de las personas e instituciones, recopilando sus opiniones, comentarios, sugerencias y propuestas; estableciÃ©ndose el tipo de materias sometidas a 'Consulta PÃºblica' (obligatoria y facultativa), el procedimiento a seguir y la vigencia de la Circular.
 
-## II.NUEVO TEXTO DEL ARTÍCULO MODIFICADO.
+## II.NUEVO TEXTO DEL ARTÃCULO MODIFICADO.
 
-El texto de la norma en cuestión señala lo siguiente:
+El texto de la norma en cuestiÃ³n seÃ±ala lo siguiente:
 
-'Art. 6° Corresponde al Servicio de Impuestos Internos el ejercicio de las atribuciones que le confiere su Estatuto Orgánico, el presente Código y las leyes y, en especial, la aplicación y fiscalización administrativa de las disposiciones tributarias.
+'Art. 6Â° Corresponde al Servicio de Impuestos Internos el ejercicio de las atribuciones que le confiere su Estatuto OrgÃ¡nico, el presente CÃ³digo y las leyes y, en especial, la aplicaciÃ³n y fiscalizaciÃ³n administrativa de las disposiciones tributarias.
 
 Dentro de las facultades que las leyes confieren al Servicio, corresponde:
 
 ## A. Al Director de Impuestos Internos:
 
-1°. Interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+1Â°. Interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
 
-Podrá, asimismo, disponer la consulta pública de proyectos de circulares, o instrucciones que estime pertinente, con el fin de que los contribuyentes o cualquier persona natural o jurídica opine sobre su contenido y efectos, o formule propuestas sobre los mismos. Con todo, las circulares e instrucciones que tengan por objeto interpretar con carácter general normas tributarias, o aquellas que modifiquen criterios interpretativos previos, deberán siempre ser consultadas.
+PodrÃ¡, asimismo, disponer la consulta pÃºblica de proyectos de circulares, o instrucciones que estime pertinente, con el fin de que los contribuyentes o cualquier persona natural o jurÃ­dica opine sobre su contenido y efectos, o formule propuestas sobre los mismos. Con todo, las circulares e instrucciones que tengan por objeto interpretar con carÃ¡cter general normas tributarias, o aquellas que modifiquen criterios interpretativos previos, deberÃ¡n siempre ser consultadas.
 
-Las opiniones que se manifiesten con ocasión de las consultas a que se refiere este numeral serán de carácter público y deberán ser enviadas al Servicio a través de los medios que disponga en su oficina virtual, disponible a través de la web institucional. Las precitadas respuestas no serán vinculantes ni estará el Director obligado a pronunciarse respecto de ellas '.
+Las opiniones que se manifiesten con ocasiÃ³n de las consultas a que se refiere este numeral serÃ¡n de carÃ¡cter pÃºblico y deberÃ¡n ser enviadas al Servicio a travÃ©s de los medios que disponga en su oficina virtual, disponible a travÃ©s de la web institucional. Las precitadas respuestas no serÃ¡n vinculantes ni estarÃ¡ el Director obligado a pronunciarse respecto de ellas '.
 
 ## III.PROCEDIMIENTO.
 
 ## 1.MATERIAS A CONSULTAR.
 
-Facultativamente, se podrá activar el mecanismo de 'Consulta Pública' de aquellos proyectos de circulares o instrucciones que no tengan por objeto interpretar con carácter general normas tributarias o modificar criterios interpretativos previos, en que la Dirección Nacional lo estime pertinente (como por ejemplo, en razón de la naturaleza y complejidad de la materia o del impacto que la nueva instrucción pudiese tener en la aplicación y fiscalización de los impuestos) con el fin de que los contribuyentes o cualquier persona natural o jurídica pueda emitir su opinión sobre su contenido y efectos o formular propuestas sobre los mismos.
+Facultativamente, se podrÃ¡ activar el mecanismo de 'Consulta PÃºblica' de aquellos proyectos de circulares o instrucciones que no tengan por objeto interpretar con carÃ¡cter general normas tributarias o modificar criterios interpretativos previos, en que la DirecciÃ³n Nacional lo estime pertinente (como por ejemplo, en razÃ³n de la naturaleza y complejidad de la materia o del impacto que la nueva instrucciÃ³n pudiese tener en la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos) con el fin de que los contribuyentes o cualquier persona natural o jurÃ­dica pueda emitir su opiniÃ³n sobre su contenido y efectos o formular propuestas sobre los mismos.
 
-Por el contrario, dicha 'Consulta Pública' será obligatoria tratándose de proyectos de circulares o instrucciones que con carácter general contengan la interpretación de una norma tributaria o que modifiquen criterios interpretativos previos, y sean emitidas por la Dirección en el ejercicio de la atribución que le confiere el artículo 6° letra A N° 1 del Código Tributario.
+Por el contrario, dicha 'Consulta PÃºblica' serÃ¡ obligatoria tratÃ¡ndose de proyectos de circulares o instrucciones que con carÃ¡cter general contengan la interpretaciÃ³n de una norma tributaria o que modifiquen criterios interpretativos previos, y sean emitidas por la DirecciÃ³n en el ejercicio de la atribuciÃ³n que le confiere el artÃ­culo 6Â° letra A NÂ° 1 del CÃ³digo Tributario.
 
-En el caso que solo una parte de estas circulares o instrucciones se refieran a la interpretación de normas, se someterá a consulta pública la totalidad del proyecto de instrucción de que se trate.
+En el caso que solo una parte de estas circulares o instrucciones se refieran a la interpretaciÃ³n de normas, se someterÃ¡ a consulta pÃºblica la totalidad del proyecto de instrucciÃ³n de que se trate.
 
-## 2.PROCESO DE CONSULTA PÚBLICA.
+## 2.PROCESO DE CONSULTA PÃšBLICA.
 
-El único canal de ingreso válido de las opiniones ciudadanas respecto de los proyectos de normativa dictados por este Servicio, será la página web de la Institución, [<u>www.sii.cl</u>](http://www.sii.cl), en la sección especialmente dispuesta al efecto.
+El Ãºnico canal de ingreso vÃ¡lido de las opiniones ciudadanas respecto de los proyectos de normativa dictados por este Servicio, serÃ¡ la pÃ¡gina web de la InstituciÃ³n, [<u>www.sii.cl</u>](http://www.sii.cl), en la secciÃ³n especialmente dispuesta al efecto.
 
-Se recibirán todas las opiniones que formulen las personas naturales (directamente o a través de sus representantes), personas jurídicas, órganos del Estado, instituciones públicas o privadas o cualquier otro organismo, sean nacionales o extranjeros, aún si no son contribuyentes, que se hagan llegar a este Servicio dentro de los plazos que en cada caso se determine, los cuales no podrán ser inferiores a 10 días hábiles ni superiores a 20 días hábiles.
+Se recibirÃ¡n todas las opiniones que formulen las personas naturales (directamente o a travÃ©s de sus representantes), personas jurÃ­dicas, Ã³rganos del Estado, instituciones pÃºblicas o privadas o cualquier otro organismo, sean nacionales o extranjeros, aÃºn si no son contribuyentes, que se hagan llegar a este Servicio dentro de los plazos que en cada caso se determine, los cuales no podrÃ¡n ser inferiores a 10 dÃ­as hÃ¡biles ni superiores a 20 dÃ­as hÃ¡biles.
 
-El contenido de estas opiniones-que deberán efectuarse en términos formales y respetuosos, y se referirán a la materia sometida a 'Consulta Pública'- será público, y podrá ser examinado en la página web de este Servicio, a continuación de la exhibición de la propuesta, objeto de estudio.
+El contenido de estas opiniones-que deberÃ¡n efectuarse en tÃ©rminos formales y respetuosos, y se referirÃ¡n a la materia sometida a 'Consulta PÃºblica'- serÃ¡ pÃºblico, y podrÃ¡ ser examinado en la pÃ¡gina web de este Servicio, a continuaciÃ³n de la exhibiciÃ³n de la propuesta, objeto de estudio.
 
-Cada 'Consulta Pública' deberá publicar, en forma íntegra, el texto del proyecto de circular, resolución o instrucción que se someta a análisis; el que irá precedido de una breve referencia del tema a que se consultará.
+Cada 'Consulta PÃºblica' deberÃ¡ publicar, en forma Ã­ntegra, el texto del proyecto de circular, resoluciÃ³n o instrucciÃ³n que se someta a anÃ¡lisis; el que irÃ¡ precedido de una breve referencia del tema a que se consultarÃ¡.
 
-El Servicio publicará en su sitio web, en un plazo máximo de dos días hábiles después de haber sido recibidas las opiniones, aquéllas que tengan relación con la materia sometida a Consulta Pública y que, de acuerdo al formato que este Servicio disponga, puedan ser exhibidas en la plataforma web de esta Institución.
+El Servicio publicarÃ¡ en su sitio web, en un plazo mÃ¡ximo de dos dÃ­as hÃ¡biles despuÃ©s de haber sido recibidas las opiniones, aquÃ©llas que tengan relaciÃ³n con la materia sometida a Consulta PÃºblica y que, de acuerdo al formato que este Servicio disponga, puedan ser exhibidas en la plataforma web de esta InstituciÃ³n.
 
-Las opiniones, comentarios, sugerencias y propuestas de la ciudadanía no son vinculantes ni estará el Director obligado a pronunciarse respecto de ellas.
+Las opiniones, comentarios, sugerencias y propuestas de la ciudadanÃ­a no son vinculantes ni estarÃ¡ el Director obligado a pronunciarse respecto de ellas.
 
-Una vez recibidas, las opiniones se remitirán a los responsables del proyecto sometido a 'Consulta Pública', para su análisis, sistematización y consideración en la instrucción, si procediere. Vencido el plazo, no se recibirán nuevos comentarios.
+Una vez recibidas, las opiniones se remitirÃ¡n a los responsables del proyecto sometido a 'Consulta PÃºblica', para su anÃ¡lisis, sistematizacioÌn y consideraciÃ³n en la instrucciÃ³n, si procediere. Vencido el plazo, no se recibirÃ¡n nuevos comentarios.
 
-Asimismo, una vez que culmine la tramitación del proyecto de instrucción y ésta sea dictada por el Director de este Servicio, se incorporarán los datos de identificación de la normativa resultante en la individualización del proyecto consultado, a objeto de completar la respectiva ficha de información.
+Asimismo, una vez que culmine la tramitaciÃ³n del proyecto de instrucciÃ³n y Ã©sta sea dictada por el Director de este Servicio, se incorporarÃ¡n los datos de identificaciÃ³n de la normativa resultante en la individualizaciÃ³n del proyecto consultado, a objeto de completar la respectiva ficha de informaciÃ³n.
 
 ## IV.VIGENCIA.
 
-Conforme lo dispuesto en el artículo decimoquinto transitorio de la Ley N° 20.780, la modificación introducida al Código Tributario referida en la presente Circular, regirá el 30 de septiembre de 2015, afectando a las instrucciones que se emitan a contar de esa data.
+Conforme lo dispuesto en el artÃ­culo decimoquinto transitorio de la Ley NÂ° 20.780, la modificaciÃ³n introducida al CÃ³digo Tributario referida en la presente Circular, regirÃ¡ el 30 de septiembre de 2015, afectando a las instrucciones que se emitan a contar de esa data.
 
 Saluda a Ud.,
 
-## Distribución:
+## DistribuciÃ³n:
 
-Internet Boletín Diario Oficial en extracto
+Internet BoletÃ­n Diario Oficial en extracto
 
 ## JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)

@@ -1,14 +1,13 @@
----
-type: SII Resolución
-title: Resolución N° 21 (2022)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE
-resource: ./2022_RESOLUCION_reso16.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 21 (2022)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÃ“N AL CONTRIBUYENTE
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÃ“N AL CONTRIBUYENTE
 
-INCORPÓRASE A DEFENSORÍA DEL CONTRIBUYENTE, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO.
+INCORPÃ“RASE A DEFENSORÃA DEL CONTRIBUYENTE, EN LA NÃ“MINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO.
 
 SANTIAGO,
 
@@ -18,28 +17,28 @@ RES. EX. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_/
 
 VISTOS
 
-Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L. N° 830, de 1974; en la Resolución N° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades; y en la Resolución N° 13, del 08.02.2022, que modifica los requisitos exigidos a las entidades públicas que son habilitadas como receptoras de la información contenida en la 'Carpeta Tributaria por Mandato', y
+Lo dispuesto en el artÃ­culo 6Â° letra A) NÂ° 3, del CÃ³digo Tributario, contenido en el artÃ­culo 1Â°, del D.L. NÂ° 830, de 1974; en la ResoluciÃ³n NÂ° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades; y en la ResoluciÃ³n NÂ° 13, del 08.02.2022, que modifica los requisitos exigidos a las entidades pÃºblicas que son habilitadas como receptoras de la informaciÃ³n contenida en la 'Carpeta Tributaria por Mandato', y
 
-La presentación efectuada con fecha 21.01.2022, por don Miguel Zamora Rendich, en representación de DEFENSORÍA DEL CONTRIBUYENTE, RUT 62.000.930-K, con domicilio en calle Teatinos 120 Piso 11, de la comuna de Santiago, en virtud del cual, solicita la autorización para ser incluido en la nómina de entidades receptoras de la Carpeta Tributaria por Mandato.
+La presentaciÃ³n efectuada con fecha 21.01.2022, por don Miguel Zamora Rendich, en representaciÃ³n de DEFENSORÃA DEL CONTRIBUYENTE, RUT 62.000.930-K, con domicilio en calle Teatinos 120 Piso 11, de la comuna de Santiago, en virtud del cual, solicita la autorizaciÃ³n para ser incluido en la nÃ³mina de entidades receptoras de la Carpeta Tributaria por Mandato.
 
 ## CONSIDERANDO:
 
-1° Que para tales efectos, el solicitante presentó documentación que indica la dependencia de la entidad a un Ministerio respectivo, debidamente revisados por este Servicio.
+1Â° Que para tales efectos, el solicitante presentÃ³ documentaciÃ³n que indica la dependencia de la entidad a un Ministerio respectivo, debidamente revisados por este Servicio.
 
-Asimismo se ha informado a este Servicio que, el objetivo principal de esta institución es velar por la protección y resguardo de los derechos de los contribuyentes, otorgando asesoría legal gratuita.
+Asimismo se ha informado a este Servicio que, el objetivo principal de esta instituciÃ³n es velar por la protecciÃ³n y resguardo de los derechos de los contribuyentes, otorgando asesorÃ­a legal gratuita.
 
-2° Que, en virtud de lo anterior, es posible concluir favorablemente a su petición, toda vez, que es posible confirmar que, reúne las condiciones señaladas en la Resolución Ex. N° 13, del 2022.
+2Â° Que, en virtud de lo anterior, es posible concluir favorablemente a su peticiÃ³n, toda vez, que es posible confirmar que, reÃºne las condiciones seÃ±aladas en la ResoluciÃ³n Ex. NÂ° 13, del 2022.
 
-3° Que, la facultad de incorporar en la Nómina de Instituciones Receptoras de Carpeta Tributaria por Mandato, se encuentra delegada en el Subdirector de Asistencia al Contribuyente, conforme lo dispuesto en la Resolución Ex. N°21, del 2021.
+3Â° Que, la facultad de incorporar en la NÃ³mina de Instituciones Receptoras de Carpeta Tributaria por Mandato, se encuentra delegada en el Subdirector de Asistencia al Contribuyente, conforme lo dispuesto en la ResoluciÃ³n Ex. NÂ°21, del 2021.
 
 ## SE RESUELVE:
 
-HA LUGAR A LO SOLICITADO, incorpórese al Contribuyente DEFENSORÍA DEL CONTRIBUYENTE, RUT 62.000.930-K , a la Nómina de Instituciones Receptoras de Carpeta Tributaria por Mandato, a partir del quinto día hábil de la notificación de esta Resolución.
+HA LUGAR A LO SOLICITADO, incorpÃ³rese al Contribuyente DEFENSORÃA DEL CONTRIBUYENTE, RUT 62.000.930-K , a la NÃ³mina de Instituciones Receptoras de Carpeta Tributaria por Mandato, a partir del quinto dÃ­a hÃ¡bil de la notificaciÃ³n de esta ResoluciÃ³n.
 
-ANOTESE, COMUNÍQUESE Y NOTIFIQUESE.
+ANOTESE, COMUNÃQUESE Y NOTIFIQUESE.
 
 <unknown>
 
-PATRICIO MUÑOZ ROJAS SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE (S)
+PATRICIO MUÃ‘OZ ROJAS SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE (S)
 
-CAB/CVO/KRU Distribución: -Sr. Miguel Zamora Rendich, Representante DEFENSORÍA DEL CONTRIBUYENTE, Teatinos 120 Piso 11, Santiago. - Subdirección de Asistencia al Contribuyente. - Oficina de Canales Digitales. - Internet - Oficina de Partes -Gabinete del Director
+CAB/CVO/KRU DistribuciÃ³n: -Sr. Miguel Zamora Rendich, Representante DEFENSORÃA DEL CONTRIBUYENTE, Teatinos 120 Piso 11, Santiago. - SubdirecciÃ³n de Asistencia al Contribuyente. - Oficina de Canales Digitales. - Internet - Oficina de Partes -Gabinete del Director

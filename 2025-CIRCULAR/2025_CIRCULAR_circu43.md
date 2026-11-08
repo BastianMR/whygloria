@@ -1,44 +1,43 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 43 (2025)
-description: DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº43.- GE328070 |
-resource: ./2025_CIRCULAR_circu43.md.docx
+title: Circular NÂ° 43 (2025)
+description: DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos | CIRCULAR NÂº43.- GE328070 |
 tags: [SII, 2025, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº43.- GE328070** |
+| **DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos** | **CIRCULAR NÂº43.- GE328070** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 05 DE JUNIO DE 2025 |
-| MATERIA: Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Impuesto a la Renta, y artículos 53 y 97 Nº Código Tributario. | REF. LEGAL: Artículos 88 y siguientes de la Ley sobre 11 del |
+| MATERIA: Tabla de CÃ¡lculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligaciÃ³n tributaria anual cumplida, para aplicarse durante el aÃ±o 2025. Impuesto a la Renta, y artÃ­culos 53 y 97 NÂº CÃ³digo Tributario. | REF. LEGAL: ArtÃ­culos 88 y siguientes de la Ley sobre 11 del |
 
-## I. INTRODUCCIÓN
+## I. INTRODUCCIÃ“N
 
-La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y unidades de este Servicio, la tabla de cálculos para la aplicación del reajuste e interés penal a que se refieren los incisos 1º y 3º del artículo 53 del Código Tributario y de la multa que establece el Nº 11 del artículo 97 del mismo cuerpo legal, por la omisión de declaración y pago efectivo de los Pagos Provisionales Mensuales Obligatorios (PPMO), a que se refiere el Párrafo 3º del Título V de la Ley sobre Impuesto a la Renta, cuando se encuentra cumplida la obligación tributaria anual.
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y unidades de este Servicio, la tabla de cÃ¡lculos para la aplicaciÃ³n del reajuste e interÃ©s penal a que se refieren los incisos 1Âº y 3Âº del artÃ­culo 53 del CÃ³digo Tributario y de la multa que establece el NÂº 11 del artÃ­culo 97 del mismo cuerpo legal, por la omisiÃ³n de declaraciÃ³n y pago efectivo de los Pagos Provisionales Mensuales Obligatorios (PPMO), a que se refiere el PÃ¡rrafo 3Âº del TÃ­tulo V de la Ley sobre Impuesto a la Renta, cuando se encuentra cumplida la obligaciÃ³n tributaria anual.
 
-La tabla mencionada, deberá aplicarse durante el año 2025 para el cálculo y determinación de los conceptos anotados, en las liquidaciones y/o giros emitidos en el período, conforme a las instrucciones impartidas en las Circulares N os 102 y 117, ambas de 1975, y Circular Nº 16 de 1991, todas disponibles en el sitio web del SII.
+La tabla mencionada, deberÃ¡ aplicarse durante el aÃ±o 2025 para el cÃ¡lculo y determinaciÃ³n de los conceptos anotados, en las liquidaciones y/o giros emitidos en el perÃ­odo, conforme a las instrucciones impartidas en las Circulares N os 102 y 117, ambas de 1975, y Circular NÂº 16 de 1991, todas disponibles en el sitio web del SII.
 
-## II. INFORMACIÓN ADICIONAL
+## II. INFORMACIÃ“N ADICIONAL
 
-Conforme a la parte final del inciso cuarto del artículo 53 del Código Tributario, el Servicio, mediante resolución que se emitirá en los meses de junio y diciembre de cada año, fijará la tasa de interés penal diaria que estará vigente para cada semestre. Esta resolución deberá ser publicada en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), y regirá por el semestre que inicia en julio y enero de cada año, respectivamente.
+Conforme a la parte final del inciso cuarto del artÃ­culo 53 del CÃ³digo Tributario, el Servicio, mediante resoluciÃ³n que se emitirÃ¡ en los meses de junio y diciembre de cada aÃ±o, fijarÃ¡ la tasa de interÃ©s penal diaria que estarÃ¡ vigente para cada semestre. Esta resoluciÃ³n deberÃ¡ ser publicada en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), y regirÃ¡ por el semestre que inicia en julio y enero de cada aÃ±o, respectivamente.
 
-De este modo, de acuerdo con la Resolución Exenta SII Nº 133 de 2024, disponible para su consulta en el sitio web del Servicio, la tasa de interés penal diaria fijada para el primer semestre de 2025, corresponde a 0,0225555556%.
+De este modo, de acuerdo con la ResoluciÃ³n Exenta SII NÂº 133 de 2024, disponible para su consulta en el sitio web del Servicio, la tasa de interÃ©s penal diaria fijada para el primer semestre de 2025, corresponde a 0,0225555556%.
 
-Para calcular el valor de los giros, se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la tabla están expresadas en porcentajes y que la columna « Mes Período Tributario» hace referencia al período tributario del PPMO omitido:
+Para calcular el valor de los giros, se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la tabla estÃ¡n expresadas en porcentajes y que la columna Â« Mes PerÃ­odo TributarioÂ» hace referencia al perÃ­odo tributario del PPMO omitido:
 
-* 1. El giro por el reajuste se determina aplicando sobre el PPMO omitido el porcentaje de la columna « Reajuste a: Dic» . del período correspondiente.
-  2. El giro por el interés y la multa se determina aplicando sobre el PPMO omitido, debidamente reajustado por el porcentaje de la columna « Reajuste a: Abr» , los porcentajes de interés del artículo 53 y de multa del inciso 1º o del inciso 2º del artículo 97 Nº 11, del Código Tributario, del período correspondiente.
-  3. Para efectos de la aplicación del interés penal diario a que se refiere el inciso tercero del artículo 53 del Código Tributario, se debe considerar, en cada caso, si al contribuyente le resulta aplicable la ampliación de plazo establecida en el Decreto Nº 1.001 de 2006, del Ministerio de Hacienda, que dispone una prórroga para la declaración y pago de los impuestos que indica 1 hasta el día 20 de cada mes, en cuyo caso se debe utilizar el valor contenido en la columna que alude al «Decreto 1001 de 2006» . En caso contrario se debe emplear el valor contenido en la columna que alude al «Artículo 64/825» , que trata el plazo general de vencimiento para la declaración y pago de las referidas obligaciones, esto es, el día 12 de cada mes.
+* 1. El giro por el reajuste se determina aplicando sobre el PPMO omitido el porcentaje de la columna Â« Reajuste a: DicÂ» . del perÃ­odo correspondiente.
+  2. El giro por el interÃ©s y la multa se determina aplicando sobre el PPMO omitido, debidamente reajustado por el porcentaje de la columna Â« Reajuste a: AbrÂ» , los porcentajes de interÃ©s del artÃ­culo 53 y de multa del inciso 1Âº o del inciso 2Âº del artÃ­culo 97 NÂº 11, del CÃ³digo Tributario, del perÃ­odo correspondiente.
+  3. Para efectos de la aplicaciÃ³n del interÃ©s penal diario a que se refiere el inciso tercero del artÃ­culo 53 del CÃ³digo Tributario, se debe considerar, en cada caso, si al contribuyente le resulta aplicable la ampliaciÃ³n de plazo establecida en el Decreto NÂº 1.001 de 2006, del Ministerio de Hacienda, que dispone una prÃ³rroga para la declaraciÃ³n y pago de los impuestos que indica 1 hasta el dÃ­a 20 de cada mes, en cuyo caso se debe utilizar el valor contenido en la columna que alude al Â«Decreto 1001 de 2006Â» . En caso contrario se debe emplear el valor contenido en la columna que alude al Â«ArtÃ­culo 64/825Â» , que trata el plazo general de vencimiento para la declaraciÃ³n y pago de las referidas obligaciones, esto es, el dÃ­a 12 de cada mes.
 
-1 El Decreto Nº 1.001 de 2006, establece en su artículo 1º, una ampliación, hasta el día 20 de cada mes, de los plazos de Declaración y Pago de los impuestos, a que se refiere el artículo 64, inciso primero, de la Ley sobre Impuesto a las Ventas y Servicios (Formulario 29), y lo establecido en los artículos 78, 79 y 91 de la Ley sobre Impuesto a la Renta (Formulario 29 y/o Formulario 50), respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet y cumplan los demás requisitos establecidos en dicho cuerpo normativo.
+1 El Decreto NÂº 1.001 de 2006, establece en su artÃ­culo 1Âº, una ampliaciÃ³n, hasta el dÃ­a 20 de cada mes, de los plazos de DeclaraciÃ³n y Pago de los impuestos, a que se refiere el artÃ­culo 64, inciso primero, de la Ley sobre Impuesto a las Ventas y Servicios (Formulario 29), y lo establecido en los artÃ­culos 78, 79 y 91 de la Ley sobre Impuesto a la Renta (Formulario 29 y/o Formulario 50), respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a travÃ©s de internet y cumplan los demÃ¡s requisitos establecidos en dicho cuerpo normativo.
 
 <unknown>
 
-## III. TABLA DE CÁLCULOS
+## III. TABLA DE CÃLCULOS
 
-| **PPM AÑO2017** | **PPM AÑO2017** | **PPM AÑO2017** | **PPM AÑO2017** | **PPM AÑO2017** | **PPM AÑO2017** | **PPM AÑO2017** |
+| **PPM AÃ‘O2017** | **PPM AÃ‘O2017** | **PPM AÃ‘O2017** | **PPM AÃ‘O2017** | **PPM AÃ‘O2017** | **PPM AÃ‘O2017** | **PPM AÃ‘O2017** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo |  |  | Artículo 64/825 I nterés a: | Decreto 1001 de 2006 I nteres a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Tributario 2017 | Reajus te a: | Reajus te a: |  |  | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo |  |  | ArtÃ­culo 64/825 I nterÃ©s a: | Decreto 1001 de 2006 I nteres a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Tributario 2017 | Reajus te a: | Reajus te a: |  |  | Inc. 1Â° | Inc. 2Â° |
 |  | Dic.2017 | Abr.2018 | Abr.2018 | Abr.2018 | Abr.2018 | Abr.2018 |
 | ENERO | 2,0 | 2,8 | 8,94 | 8,80 | 30,0 | 48,0 |
 | FEBRERO | 1,5 | 2,2 | 8,36 | 8,22 | 30,0 | 46,0 |
@@ -53,10 +52,10 @@ Para calcular el valor de los giros, se debe proceder de la siguiente manera, te
 | NOVIEMBRE | 0,0 | 0,7 | 2,78 | 2,62 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 0,7 | 2,16 | 1,96 | 16,0 | 26,0 |
 
-| **PPM AÑO2019** | **PPM AÑO2019** | **PPM AÑO2019** | **PPM AÑO2019** | **PPM AÑO2019** | **PPM AÑO2019** | **PPM AÑO2019** |
+| **PPM AÃ‘O2019** | **PPM AÃ‘O2019** | **PPM AÃ‘O2019** | **PPM AÃ‘O2019** | **PPM AÃ‘O2019** | **PPM AÃ‘O2019** | **PPM AÃ‘O2019** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo Tributario 2019 |  |  | Artículo 64/825 I nterés a: | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajus te a: | Reajus te a: |  | I nteres a: | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo Tributario 2019 |  |  | ArtÃ­culo 64/825 I nterÃ©s a: | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajus te a: | Reajus te a: |  | I nteres a: | Inc. 1Â° | Inc. 2Â° |
 |  | Dic.2019 | Abr.2020 | Abr.2020 | Abr.2020 | Abr.2020 | Abr.2020 |
 | ENERO | 2,8 | 4,0 | 8,19 | 8,03 | 30,0 | 48,0 |
 | FEBRERO | 2,7 | 3,9 | 7,64 | 7,48 | 30,0 | 46,0 |
@@ -71,10 +70,10 @@ Para calcular el valor de los giros, se debe proceder de la siguiente manera, te
 | NOVIEMBRE | 0,0 | 1,2 | 2,34 | 2,18 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 1,1 | 1,77 | 1,66 | 16,0 | 26,0 |
 
-| **PPM AÑO2021** | **PPM AÑO2021** | **PPM AÑO2021** | **PPM AÑO2021** | **PPM AÑO2021** | **PPM AÑO2021** | **PPM AÑO2021** |
+| **PPM AÃ‘O2021** | **PPM AÃ‘O2021** | **PPM AÃ‘O2021** | **PPM AÃ‘O2021** | **PPM AÃ‘O2021** | **PPM AÃ‘O2021** | **PPM AÃ‘O2021** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo | Reajus te a: | Reajus te a: | Artículo 64/825 I | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Tributario |  |  | nterés a: | I nteres a: | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo | Reajus te a: | Reajus te a: | ArtÃ­culo 64/825 I | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Tributario |  |  | nterÃ©s a: | I nteres a: | Inc. 1Â° | Inc. 2Â° |
 | 2021 | Dic.2021 | Abr.2022 | Abr.2022 | Abr.2022 | Abr.2022 | Abr.2022 |
 | ENERO | 5,8 | 8,8 | 8,20 | 8,03 | 30,0 | 48,0 |
 | FEBRERO | 5,1 | 8,0 | 7,72 | 7,55 | 30,0 | 46,0 |
@@ -89,10 +88,10 @@ Para calcular el valor de los giros, se debe proceder de la siguiente manera, te
 | NOVIEMBRE | 0,0 | 2,8 | 2,99 | 2,87 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 2,3 | 2,41 | 2,23 | 16,0 | 26,0 |
 
-| **PPM AÑO2023** | **PPM AÑO2023** | **PPM AÑO2023** | **PPM AÑO2023** | **PPM AÑO2023** | **PPM AÑO2023** | **PPM AÑO2023** |
+| **PPM AÃ‘O2023** | **PPM AÃ‘O2023** | **PPM AÃ‘O2023** | **PPM AÃ‘O2023** | **PPM AÃ‘O2023** | **PPM AÃ‘O2023** | **PPM AÃ‘O2023** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo | Reajus te a: | Reajus te a: | Artículo 64/825 I nterés a: | Decreto 1001 de 2006 a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Tributario 2023 |  |  |  | I nteres | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo | Reajus te a: | Reajus te a: | ArtÃ­culo 64/825 I nterÃ©s a: | Decreto 1001 de 2006 a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Tributario 2023 |  |  |  | I nteres | Inc. 1Â° | Inc. 2Â° |
 |  | Dic.2023 | Abr.2024 | Abr.2024 | Abr.2024 | Abr.2024 | Abr.2024 |
 | ENERO | 3,7 | 5,3 | 9,95 | 9,79 | 30,0 | 48,0 |
 | FEBRERO | 2,9 | 4,4 | 9,31 | 9,16 | 30,0 | 46,0 |
@@ -109,18 +108,18 @@ Para calcular el valor de los giros, se debe proceder de la siguiente manera, te
 
 Saluda Uds.,
 
-## CSM/CGG/MCRB/FWV DISTRIBUCIÓN
+## CSM/CGG/MCRB/FWV DISTRIBUCIÃ“N
 
-## · Internet
+## Â· Internet
 
 Decreto 1001 de
 
 2006
 
-| **PPM AÑO2018** | **PPM AÑO2018** | **PPM AÑO2018** | **PPM AÑO2018** | **PPM AÑO2018** | **PPM AÑO2018** | **PPM AÑO2018** |
+| **PPM AÃ‘O2018** | **PPM AÃ‘O2018** | **PPM AÃ‘O2018** | **PPM AÃ‘O2018** | **PPM AÃ‘O2018** | **PPM AÃ‘O2018** | **PPM AÃ‘O2018** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo |  | a: | Artículo 64/825 I nterés a: | Decreto 1001 de 2006 I nteres a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | 2018 Reajus te | 2018 Reajus te |  |  | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo |  | a: | ArtÃ­culo 64/825 I nterÃ©s a: | Decreto 1001 de 2006 I nteres a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | 2018 Reajus te | 2018 Reajus te |  |  | Inc. 1Â° | Inc. 2Â° |
 | Tributario | Dic.2018 | Abr.2019 | Abr.2019 | Abr.2019 | Abr.2019 | Abr.2019 |
 | ENERO | 2,7 | 2,7 | 8,88 | 8,72 | 30,0 | 48,0 |
 | FEBRERO | 2,2 | 2,3 | 8,32 | 8,16 | 30,0 | 46,0 |
@@ -135,10 +134,10 @@ Decreto 1001 de
 | NOVIEMBRE | 0,0 | 0,0 | 2,76 | 2,60 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 0,0 | 2,10 | 1,96 | 16,0 | 26,0 |
 
-| **PPM AÑO2020** | **PPM AÑO2020** | **PPM AÑO2020** | **PPM AÑO2020** | **PPM AÑO2020** | **PPM AÑO2020** | **PPM AÑO2020** |
+| **PPM AÃ‘O2020** | **PPM AÃ‘O2020** | **PPM AÃ‘O2020** | **PPM AÃ‘O2020** | **PPM AÃ‘O2020** | **PPM AÃ‘O2020** | **PPM AÃ‘O2020** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo Tributario 2020 |  |  | Artículo 64/825 | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajus te a: | Reajus te a: | I nterés a: | I nteres a: | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo Tributario 2020 |  |  | ArtÃ­culo 64/825 | Decreto 1001 de 2006 | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajus te a: | Reajus te a: | I nterÃ©s a: | I nteres a: | Inc. 1Â° | Inc. 2Â° |
 |  | Dic.2020 | Abr.2021 | Abr.2021 | Abr.2021 | Abr.2021 | Abr.2021 |
 | ENERO | 2,8 | 3,9 | 7,70 | 7,57 | 30,0 | 48,0 |
 | FEBRERO | 2,2 | 3,3 | 7,23 | 7,10 | 30,0 | 46,0 |
@@ -153,11 +152,11 @@ Decreto 1001 de
 | NOVIEMBRE | 0,0 | 1,1 | 2,36 | 2,24 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 1,2 | 1,85 | 1,71 | 16,0 | 26,0 |
 
-PPM AÑO 2022
+PPM AÃ‘O 2022
 
-Artículo 64/825
+ArtÃ­culo 64/825
 
-I nte ré s a:
+I nte rÃ© s a:
 
 I nte re s a:
 
@@ -189,9 +188,9 @@ Abr.2023
 
 Multa Art. 97-11 a:
 
-I n c. 1°
+I n c. 1Â°
 
-I nc. 2°
+I nc. 2Â°
 
 Abr.2023
 
@@ -245,7 +244,7 @@ Abr.2023
 
 26,0
 
-Mes Período
+Mes PerÃ­odo
 
 Tributario 2022
 
@@ -351,10 +350,10 @@ Abr.2023
 
 2,45
 
-| **PPM AÑO2024** | **PPM AÑO2024** | **PPM AÑO2024** | **PPM AÑO2024** | **PPM AÑO2024** | **PPM AÑO2024** | **PPM AÑO2024** |
+| **PPM AÃ‘O2024** | **PPM AÃ‘O2024** | **PPM AÃ‘O2024** | **PPM AÃ‘O2024** | **PPM AÃ‘O2024** | **PPM AÃ‘O2024** | **PPM AÃ‘O2024** |
 | --- | --- | --- | --- | --- | --- | --- |
-| MesPeríodo | Reajus te a: | Reajus te a: | Artículo 64/825 | Decreto 1001 de 2006 a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-| Tributario 2024 |  |  | I nterés a: | I nteres | Inc. 1° | Inc. 2° |
+| MesPerÃ­odo | Reajus te a: | Reajus te a: | ArtÃ­culo 64/825 | Decreto 1001 de 2006 a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+| Tributario 2024 |  |  | I nterÃ©s a: | I nteres | Inc. 1Â° | Inc. 2Â° |
 |  | Dic.2024 | Abr.2025 | Abr.2025 | Abr.2025 | Abr.2025 | Abr.2025 |
 | ENERO | 4,5 | 6,1 | 10,40 | 10,21 | 30,0 | 48,0 |
 | FEBRERO | 3,8 | 5,3 | 9,71 | 9,51 | 30,0 | 46,0 |

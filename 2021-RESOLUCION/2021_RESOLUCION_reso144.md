@@ -1,32 +1,31 @@
----
-type: SII Resolución
-title: Resolución N° 150 (2021)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
-resource: ./2021_RESOLUCION_reso144.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 150 (2021)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA.
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SEÃ‘ALA.
 
 SANTIAGO,
 
-RESOLUCIÓN EXENTA SII N° \_\_\_\_\_\_\_\_\_\_\_\_/
+RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017; y la Resolución Exenta N° 126, de 30.12.2014 delegatoria; y
+VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ° 1 y artÃ­culo 17 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y en la ResoluciÃ³n Exenta NÂ° 150, de 29.12.2005, en que se establecen normas y procedimientos de operaciÃ³n de la Contabilidad ElectrÃ³nica, modificada por la ResoluciÃ³n Exenta NÂ° 86, del 07.09.2017; y la ResoluciÃ³n Exenta NÂ° 126, de 30.12.2014 delegatoria; y
 
 ## CONSIDERANDO:
 
-1° Que, en la Resolución. Ex. SII N° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
+1Â° Que, en la ResoluciÃ³n. Ex. SII NÂ° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-2° Que, analizados los casos de los contribuyentes que se señalan en el resolutivo primero de la presente Resolución, se determinó que, cumplen con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operación de Contabilidad Electrónica.
+2Â° Que, analizados los casos de los contribuyentes que se seÃ±alan en el resolutivo primero de la presente ResoluciÃ³n, se determinÃ³ que, cumplen con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
 
-3° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y, declaran contar con Códigos de Autorización de Libros (en adelante CAL) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
+3Â° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y, declaran contar con CÃ³digos de AutorizaciÃ³n de Libros (en adelante CAL) para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-1º AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y N° de RUT:
+1Âº AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y NÂ° de RUT:
 
 | **CONSTRUCTORA ECOMAC S.A.** | **83.719.300-1** |
 | --- | --- |
@@ -39,45 +38,45 @@ VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Có
 | SOC COMERCIAL IRABAZLE LTDA. | 78.395.020-0 |
 | TRANSPORTES Y RENTA CAR GEVE LTDA. | 78.111.590-8 |
 
-Se otorgará a los contribuyentes RUT 76.538.731-0, 76.240.103-7, 83.719.300-1 y 76.027.495-K, Códigos de Autorización de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otros contribuyentes que utilicen el software distribuido.
+Se otorgarÃ¡ a los contribuyentes RUT 76.538.731-0, 76.240.103-7, 83.719.300-1 y 76.027.495-K, CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otros contribuyentes que utilicen el software distribuido.
 
-2º AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de ACEPTA.COM SPA, RUT N° 96.919.050-8, los siguientes contribuyentes que se indican, con su nombre y N° de RUT:
+2Âº AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de ACEPTA.COM SPA, RUT NÂ° 96.919.050-8, los siguientes contribuyentes que se indican, con su nombre y NÂ° de RUT:
 
 ALIMENTOS Y FRUTOS S.A. 96.557.910-9 LABORATORIOS DENTAID S.A. 96.718.630-9 MICROPLAY S.A. 76.411.180-K
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de ARTIKOS CHILE S A., RUT N° 96.953.410-K, a los siguientes contribuyentes que se indican, con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de ARTIKOS CHILE S A., RUT NÂ° 96.953.410-K, a los siguientes contribuyentes que se indican, con su nombre y NÂ° de RUT:
 
 ADMINISTRADORA DE FONDOS DE PENSIONES CUPRUM S.A. 76.240.079-0 FERROCARRIL DE ANTOFAGASTA A BOLIVIA 81.148.200-5
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de BLUELINE TECHNOLOGY SPA, RUT N° 76156362-9, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA, RUT NÂ° 76156362-9, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
 
 AGENCIA DE ADUANA HERNAN TELLERIA Y COMPANIA LTDA. 88.883.000-6 AGRICOLA CRAN CHILE SPA. 78.201.820-5 B BOSCH S.A. 84.716.400-K CAPITAL RENT SPA. 76.582.878-3 CHILE CARGO LIMITADA 76.673.230-5 CREATIVE CAMPUS PLUS SPA. 77.011.656-2 DISTRIBUIDORA KOSLAN SPA. 96.685.460-K FELKOS S.A. 76.071.335-K FOODGROUP SPA. 76.069.192-5 HOUM BILLING SPA. 77.148.607-K HOUM MANAGEMENT SPA. 77.149.631-8 INVERSIONES PUENTE NUEVO LTDA. 85.961.200-8 KOSLAN INGENIERIA LTDA. 89.800.100-8 LOS PINOS SPA. 76.309.309-3 LYE BIOGAS SPA. 76.258.289-9 MESSER CHILE LTDA. 76.911.637-0 SCHWAGER BIOGAS S.A. 76.072.279-0 SCHWAGER HIDRO S.A. 76.320.324-7 SCHWAGER S.A. 96.766.600-9 SCHWAGER SERVICE S.A. 76.145.047-6 SOC COMERCIAL ALMACENES INTEGRALES LTDA. 77.170.770-K SOCIEDAD INDUSTRIAL Y COMERCIAL DE LACTEOS Y ENERGIA S.A. 96.994.510-K TECNASIC EQUIPOS S.A. 76.141.062-8 TECNASIC INGENIERIA S.A. 76.092.231-5 TECNICA NACIONAL DE SERVICIOS INGENIERIA Y CONSTRUCCION S.A. 96.917.120-1 TRANSPORTES LOS PIRINEOS LTDA. 77.215.450-K TRES CHILE SPA. 76.519.691-4
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de ENTERNET S. A., RUT N° 76.407.930-2, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de ENTERNET S. A., RUT NÂ° 76.407.930-2, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
 
 AFS ARRIENDO FABRICACION Y SERVICIOS SPA. 77.688.120-1 AUEL SOCIEDAD COMERCIAL E INDUSTRIAL LTDA. 78.109.050-6
 
 GERMANIA SERVICIOS Y TRANSPORTES SPA. 79.590.010-1 HM SERVICIOS SPA. 78.273.290-0 MAESTRANZA ALEMANIA LTDA. 78.588.970-3 RM SOCIEDAD DE TRANSPORTE SPA. 76.154.430-6 SOC INMOBILIARIA E INVERSIONES MIESCORP LTDA. 78.992.300-0 SOCIEDAD DE TRANSPORTE EIFEL SPA. 77.922.340-K
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de GDE S.A., RUT N° 76.129.486-5, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de GDE S.A., RUT NÂ° 76.129.486-5, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
 
 CONVERTIDORA INDUSTRIAL S.A. 79.530.460-6 DISTRIBUIDORA PAPELES INDUSTRIALES S.A. 93.558.000-5 INMOBILIARIA DIPISA SPA. 76.174.988-9 LOTA PROTEIN S.A. 96.766.590-8 LOTA VEDDE DOS S.A. 87.155.600-8 NEVADA CHILE S.A. 79.675.380-3
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de ONVISION S.A., RUT N° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de ONVISION S.A., RUT NÂ° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
 
-ACMANET S.A. 96.896.610-3 ADMINISTRADORA ICOM SPA. 76.790.130-5 AEREO INTERPOLAR LTDA. 79.676.190-3 AGRICOLA CERRILLO LTDA. 77.920.740-4 AGRICOLA ENEBRO SPA. 76.303.560-3 AGRICOLA LA ESTANCIA LTDA. 76.253.622-6 AGRICOLA LA PORFIADA LTDA. 76.253.363-4 AGRICOLA LA TOSCANA LTDA. 77.654.710-7 AGRICOLA LA VEGA LTDA. 76.253.427-4 AGRICOLA LAS BANDURRIAS LTDA. 76.253.422-3 AGRICOLA LAS LOBAS LTDA. 76.253.372-3 AGRICOLA LAS LOMAS LTDA. 76.249.036-6 AGRICOLA LAS MONTAÑAS LTDA. 77.057.409-9 AGRICOLA LO AROMO LTDA. 76.253.377-4 AGRICOLA LOS CERROS LTDA. 77.057.306-8 AGRICOLA LOS MONTES LTDA. 77.057.404-8 AGROINDUSTRIAL EL ALAMO SPA. 77.057.448-K AM ASESORIAS TECNICAS Y FINANCIERAS LTDA. 76.439.890-4 ANDAD SPA. 76.598.909-4 ANDES EXPORT SPA 76.934.028-9 ASESORIAS E INVERSIONES AS LTDA. 76.145.039-5 ASESORIAS E INVERSIONES CAU CAU LTDA. 76.475.300-3 ASESORIAS E INVERSIONES FSJ SPA 76.945.222-2 ASESORIAS E INVERSIONES LUZ LTDA. 76.444.720-4 ASESORIAS E INVERSIONES SAINT HELIER LTDA. 76.889.760-3 AVEVA SOFTWARE CHILE SPA. 76.613.842-K AVIASUR CHARTER SERVICES S.A. 76.143.941-3 BANINTER CORREDORES DE SEGUROS LTDA. 76.002.878-9 BE FIT STUDIO SPA. 76.602.696-6 CAMANCHACA CULTIVOS SUR S.A. 96.633.150-K CAMANCHACA PESCA SUR S.A. 76.143.821-2 CAMANCHACA S.A. 93.711.000-6 CAMANCHACA SPA. 76.125.633-5 CARMEL COPPER S.A. 99.575.690-0 CIA AGRICOLA Y FORESTAL EL ALAMO LTDA. 84.833.100-7 CIA CHILENA DE FOSFOROS S.A. 90.081.000-8 COMERCIAL CERRO EL PLOMO SPA. 76.122.889-7 COMERCIAL ICOM SPA. 78.018.550-3 CONSTRUCTORA ICOM SPA. 76.059.600-0 EL ALAMO FOODS S.A. 99.561.780-3 FIORDO AZUL S.A. 76.989.215-K FIORDO BLANCO S.A. 96.540.710-3 ICOM GESTION INMOBILIARIA SPA. 76.041.933-8
+ACMANET S.A. 96.896.610-3 ADMINISTRADORA ICOM SPA. 76.790.130-5 AEREO INTERPOLAR LTDA. 79.676.190-3 AGRICOLA CERRILLO LTDA. 77.920.740-4 AGRICOLA ENEBRO SPA. 76.303.560-3 AGRICOLA LA ESTANCIA LTDA. 76.253.622-6 AGRICOLA LA PORFIADA LTDA. 76.253.363-4 AGRICOLA LA TOSCANA LTDA. 77.654.710-7 AGRICOLA LA VEGA LTDA. 76.253.427-4 AGRICOLA LAS BANDURRIAS LTDA. 76.253.422-3 AGRICOLA LAS LOBAS LTDA. 76.253.372-3 AGRICOLA LAS LOMAS LTDA. 76.249.036-6 AGRICOLA LAS MONTAÃ‘AS LTDA. 77.057.409-9 AGRICOLA LO AROMO LTDA. 76.253.377-4 AGRICOLA LOS CERROS LTDA. 77.057.306-8 AGRICOLA LOS MONTES LTDA. 77.057.404-8 AGROINDUSTRIAL EL ALAMO SPA. 77.057.448-K AM ASESORIAS TECNICAS Y FINANCIERAS LTDA. 76.439.890-4 ANDAD SPA. 76.598.909-4 ANDES EXPORT SPA 76.934.028-9 ASESORIAS E INVERSIONES AS LTDA. 76.145.039-5 ASESORIAS E INVERSIONES CAU CAU LTDA. 76.475.300-3 ASESORIAS E INVERSIONES FSJ SPA 76.945.222-2 ASESORIAS E INVERSIONES LUZ LTDA. 76.444.720-4 ASESORIAS E INVERSIONES SAINT HELIER LTDA. 76.889.760-3 AVEVA SOFTWARE CHILE SPA. 76.613.842-K AVIASUR CHARTER SERVICES S.A. 76.143.941-3 BANINTER CORREDORES DE SEGUROS LTDA. 76.002.878-9 BE FIT STUDIO SPA. 76.602.696-6 CAMANCHACA CULTIVOS SUR S.A. 96.633.150-K CAMANCHACA PESCA SUR S.A. 76.143.821-2 CAMANCHACA S.A. 93.711.000-6 CAMANCHACA SPA. 76.125.633-5 CARMEL COPPER S.A. 99.575.690-0 CIA AGRICOLA Y FORESTAL EL ALAMO LTDA. 84.833.100-7 CIA CHILENA DE FOSFOROS S.A. 90.081.000-8 COMERCIAL CERRO EL PLOMO SPA. 76.122.889-7 COMERCIAL ICOM SPA. 78.018.550-3 CONSTRUCTORA ICOM SPA. 76.059.600-0 EL ALAMO FOODS S.A. 99.561.780-3 FIORDO AZUL S.A. 76.989.215-K FIORDO BLANCO S.A. 96.540.710-3 ICOM GESTION INMOBILIARIA SPA. 76.041.933-8
 
 ICOM VENTAS INMOBILIARIAS SPA. 77.089.344-5 INMOBILIARIA BRAVO MATURANA HERMANOS SPA. 76.337.334-7 INMOBILIARIA BROWN SUR SPA. 76.584.396-0 INMOBILIARIA COSTA RENACA S.A. 76.209.087-2 INMOBILIARIA DON NICOLAS SPA. 76.273.642-K INMOBILIARIA ENEBRO SPA. 84.696.700-1 INMOBILIARIA EQUILIBRIO URBANO SPA. 76.284.509-1 INMOBILIARIA ESQUEMA SPA. 76.930.904-7 INMOBILIARIA ICOM SUAREZ MUJICA SPA. 76.749.067-4 INMOBILIARIA ICOM ZANARTU SPA. 76.852.677-K INMOBILIARIA LINCOYAN SPA. 76.543.366-5 INMOBILIARIA MACUL URBANO SPA. 76.921.083-0 INMOBILIARIA SAN SEBASTIAN SPA. 76.493.284-6 INMOBILIARIA SANTA URSULA S.A. 76.158.683-1 INMOBILIARIA VALLE HERMOSO SPA. 78.858.060-6 INMOBILIARIA Y COMERCIAL LAS CONDES LTDA. 96.522.870-5 INVERSIONES ADELFOS S.A. 76.945.216-8 INVERSIONES ARRAYAN LTDA. 76.644.700-7 INVERSIONES AULIN S.A. 76.560.911-9 INVERSIONES AUTOUNION SPA. 76.446.817-1 INVERSIONES BIAS SPA 77.104.977-K INVERSIONES BOSQUE MORROS LTDA. 77.136.657-0 INVERSIONES BP PERU SPA. 77.017.547-K INVERSIONES CASABLANCA LTDA. 77.359.331-0 INVERSIONES CASABLANCA LTDA. 96.816.280-2 INVERSIONES CIBELES LTDA. 76.039.992-2 INVERSIONES CISTERNAS LIMITADA 77.746.280-6 INVERSIONES COIPUE LTDA. 76.204.016-6 INVERSIONES DEL CANDIL LTDA. 96.559.870-7 INVERSIONES EL ALMENDRAL LTDA. 77.359.527-5 INVERSIONES EL ALMENDRAL LTDA. 76.023.083-9 INVERSIONES EL CIRUELO LTDA. 77.359.403-1 INVERSIONES EL MANZANO LTDA. 77.359.391-4 INVERSIONES EL NOGAL LTDA. 77.359.361-2 INVERSIONES EL PERAL LTDA. 77.136.655-4 INVERSIONES HUEYUSCA S.A. 76.707.940-0 INVERSIONES JUPITER LTDA. 96.040.000-3 INVERSIONES KASTAV SPA. 76.984.495-3 INVERSIONES LOS MORROS LTDA. 77.136.649-K INVERSIONES METAHUE S.A. 99.544.470-4 INVERSIONES OLIVAL LTDA. 76.213.778-K INVERSIONES PINAYA SPA. 77.313.210-0 INVERSIONES RIO VERDE SPA. 77.397.942-1 INVERSIONES SANTA TRINIDAD LTDA 76.752.960-0 INVERSIONES TOCOIHUE SPA. 76.059.670-1 INVERSIONES TRES MARIAS S.A. 99.543.850-K INVERSIONES TRICAO SPA. 76.984.494-5 INVERSIONES VENTISQUERO LTDA. 77.136.659-7 METSO OUTOTEC CHILE SPA. 93.077.000-0 METSO OUTOTEC INDUSTRIAL SERVICES SPA. 77.276.280-1 MH INVERSIONES S.A. 96.039.000-8 ORION SPA. 76.984.496-1 SALMONES CAMANCHACA S.A. 76.065.596-1 SERVICIOS EL BOSQUE SPA. 78.281.190-8 SIERRA BAGUALES SPA. 76.984.498-8 SOC DE INVERSIONES E INMOBILIARIA SANTA CAROLINA LTDA. 79.980.420-4 SOCIEDAD CONCESIONARIA HOSPITAL BUIN PAINE S.A. 77.379.404-9 TECNOLOGIAS COBRA LTDA. 96.856.610-5 TERCIADOS Y ELABORACION DE MADERAS S.A. 81.981.500-3 TOYOTA CHILE S.A. 86.740.500-3 TRANSPORTES INTERPOLAR LTDA. 77.970.900-0 TRECK S.A. 96.542.490-3 TUBERIAS TIGRE-ADS LTDA. 76.060.573-5 TUBOS Y PLASTICOS ADS CHILE LTDA. 77.753.380-0 TUBOS Y PLASTICOS TIGRE-ADS DE CHILE LTDA. 76.063.753-K
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de SOC BCN CONSULTORES COMPANIA LIMITADA, RUT N° 77.870.460-9, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de SOC BCN CONSULTORES COMPANIA LIMITADA, RUT NÂ° 77.870.460-9, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
 
 CENTRAL TERMOELECTRICA ANDINA SPA. 76.708.710-1 CIMA S.A. 77.081.282-8 CONSTRUCTORA NUEVA MANQUEHUE II S.A. 76.556.212-0 EDELNOR TRANSMISION S.A. 76.046.791-K ELECTROANDINA SPA. 96.731.500-1 ENGIE ENERGIA CHILE S.A. 88.006.900-4 ENGIE FACTORY CHILE SPA. 76.023.027-8 ENGIE GAS CHILE SPA. 76.134.397-1 ENGIE LATAM S.A. 96.885.200-0 ENGIE STREAM SOLUTIONS CHILE SPA. 76.215.533-8 EOLICA MONTE REDONDO DOS SPA. 76.207.607-1 EOLICA MONTE REDONDO SPA. 76.019.239-2 GASODUCTO NOR ANDINO SPA. 78.974.730-K GBS LATAM CHILE SPA 76.362.594-K HYDROSYSTEMS SPA. 77.303.295-5 INMOBILIARIA APOQUINDO ALSACIA SPA. 76.894.153-K INMOBILIARIA E INVERSIONES LOS PEUMOS S.A. 77.142.318-3 INMOBILIARIA LAS BRISAS DE CHICUREO COMERCIAL S.A. 77.081.546-0 INMOBILIARIA LAS QUILAS ORIENTE S.A. 76.521.982-5 INMOBILIARIA LOS BOLDOS SPA. 76.879.689-0 INMOBILIARIA LUZ S.A. 76.253.383-9 INMOBILIARIA VITACURA ALIANZA SPA. 76.852.851-9 INMOBILIARIA Y CONSTRUCTORA CLUB DE CAMPO S.A. 76.746.156-9 INMOBILIARIA Y CONSTRUCTORA GERTRUDIS CALLAO S.A. 76.751.838-2 INVERSIONES HORNITOS SPA. 76.009.698-9 LAGUNA AYRES ORIENTE SPA. 76.521.994-9 LAS BRISAS DE CHICUREO 2020 S.A. 77.057.077-8 NELES CHILE SPA. 77.107.585-1 SOLAR LOS LOROS SPA. 76.247.976-1 TRANSMISORA ELECTRICA DEL NORTE S.A. 76.787.690-4
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de SOUTH CONSULTING SIGNATURE SA, RUT N° 77.586.860-0, a los siguientes contribuyentes que se señala con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE SA, RUT NÂ° 77.586.860-0, a los siguientes contribuyentes que se seÃ±ala con su nombre y NÂ° de RUT:
 
 AGROGESTION VITRA S.A. 77.082.030-8 COMERCIAL E INDUSTRIAL PLASTICOS HOFFENS S.A. 96.548.020-K GRANELES DE CHILE S.A. 96.725.160-7 INVERSIONES DE ELECTROMOVILIDAD CK SPA. 77.155.079-7 MERCOEXPRESS S.A. 96.787.400-0
 
-AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2021, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT N° 76.029.564-7, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
+AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2021, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT NÂ° 76.029.564-7, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
 
 ACUANOR S.A. 76.256.015-1 AGRICOLA FORESTAL Y GANADERA MALLARAUCO LTDA. 78.005.890-0 AGRICOLA Y GANADERA TOQUI LTDA. 79.888.480-8 APPLUS CHILE S.A. 99.533.390-2 APPLUS REVISIONES TECNICAS DE CHILE S.A. 99.558.660-6 COMERCIAL ARAUCARIA TRADING CHILE LTDA. 77.044.590-6 CONSORCIO ICAFAL - SICOMAQ LTDA. 76.190.357-8 CONSORCIO ICAFAL SICOMAQ RUTA L-45 LTDA. 77.374.871-3 CONSTRUCTORA IS LTDA. 96.842.570-6 COPCISA S.A. AGENCIA EN CHILE 59.160.350-7 GREEN BAKER LODGE LTDA. 76.643.110-0 HIDROELECTRICA CUMPEO S.A. 76.414.591-7 ICAFAL CONSTRUCCIONES SPA. 77.423.418-7
 
@@ -111,9 +110,9 @@ ACUANOR S.A. 76.256.015-1 AGRICOLA FORESTAL Y GANADERA MALLARAUCO LTDA. 78.005.8
 | TECNO-SERVICIO LTDA. | 96.814.090-6 |
 | TRATACAL S.A. | 76.741.450-1 |
 
-3° Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operación de Contabilidad Electrónica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de años anteriores al año 2021, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida Resolución Ex. SII N° 150 y su modificación.
+3Â° Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2021, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida ResoluciÃ³n Ex. SII NÂ° 150 y su modificaciÃ³n.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
 <unknown>
 
@@ -121,11 +120,11 @@ ACUANOR S.A. 76.256.015-1 AGRICOLA FORESTAL Y GANADERA MALLARAUCO LTDA. 78.005.8
 
 <unknown>
 
-MPG/CAB/XPR Distribución:
+MPG/CAB/XPR DistribuciÃ³n:
 
-* -Subdirección de Asistencia al Contribuyente
+* -SubdirecciÃ³n de Asistencia al Contribuyente
 * -Departamento Ciclo de Vida
-* -Área documento tributario electrónico
+* -Ãrea documento tributario electrÃ³nico
 * -Internet
 * -Oficina de Partes
 * -Archivo

@@ -1,53 +1,52 @@
----
-type: SII Resolución
-title: Resolución N° 13 (2022)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
-resource: ./2022_RESOLUCION_reso13.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 13 (2022)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 
-MATERIA: MODIFICA RES. EX. SII N° 21 DE 2021.
+MATERIA: MODIFICA RES. EX. SII NÂ° 21 DE 2021.
 
 SANTIAGO, 8 DE FEBRERO DE 2022
 
-RESOLUCIÓN EXENTA SII N°13.-
+RESOLUCIÃ“N EXENTA SII NÂ°13.-
 
 VISTOS:
 
-Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado; en el artículo 3°, 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A) Nº 1 y artículo 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974; en la Ley N° 19.628 sobre Protección de la Vida Privada; en la Resolución Ex. SII 21 de fecha 24.02.2021 y,
+Lo dispuesto en el artÃ­culo 41 de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases de la AdministraciÃ³n del Estado; en el artÃ­culo 3Â°, 4Â° bis y en la letra b) del artÃ­culo 7Âº, de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en el artÃ­culo 6Â°, letra A) NÂº 1 y artÃ­culo 35 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂº 830, de 1974; en la Ley NÂ° 19.628 sobre ProtecciÃ³n de la Vida Privada; en la ResoluciÃ³n Ex. SII 21 de fecha 24.02.2021 y,
 
 ## CONSIDERANDO:
 
-1º Que, la letra b) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda y el artículo 6°, letra A) Nº 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974, facultan al Director del Servicio para interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+1Âº Que, la letra b) del artÃ­culo 7Âº de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda y el artÃ­culo 6Â°, letra A) NÂº 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂº 830, de 1974, facultan al Director del Servicio para interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
 
-2º Que, el artículo 4° bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980 del Ministerio de Hacienda, dispone que: 'El Servicio de Impuestos Internos podrá, además, relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquellos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.'
+2Âº Que, el artÃ­culo 4Â° bis de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, de 1980 del Ministerio de Hacienda, dispone que: 'El Servicio de Impuestos Internos podrÃ¡, ademÃ¡s, relacionarse directamente con los contribuyentes y Ã©stos con el Servicio, a travÃ©s de medios electrÃ³nicos, entendiendo por tales aquellos que tienen capacidades elÃ©ctricas, digitales, magnÃ©ticas, inalÃ¡mbricas, Ã³pticas, electromagnÃ©ticas u otras similares. Los trÃ¡mites y actuaciones que se realicen a travÃ©s de tales medios producirÃ¡n los mismos efectos que los trÃ¡mites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.'
 
-3° Que, por medio de la Resolución Ex. SII N° 21 de 2021se dejó sin efecto la Resolución Ex. N° 80, de 2016 y se instruyó sobre los tipos de carpetas tributarias y su uso, incorporándose a las instituciones pública que cumplan con los requisitos que se señalan.
+3Â° Que, por medio de la ResoluciÃ³n Ex. SII NÂ° 21 de 2021se dejÃ³ sin efecto la ResoluciÃ³n Ex. NÂ° 80, de 2016 y se instruyÃ³ sobre los tipos de carpetas tributarias y su uso, incorporÃ¡ndose a las instituciones pÃºblica que cumplan con los requisitos que se seÃ±alan.
 
-4° Que, con el objeto de fomentar el uso de la Carpeta Tributaria de los contribuyentes, se ha considerado conveniente modificar la Res. Ex. SII N°21 de 2021, respecto de requisitos exigidos a las entidades públicas que son habilitadas como receptoras de la información contenida en las Carpetas Tributarias.
+4Â° Que, con el objeto de fomentar el uso de la Carpeta Tributaria de los contribuyentes, se ha considerado conveniente modificar la Res. Ex. SII NÂ°21 de 2021, respecto de requisitos exigidos a las entidades pÃºblicas que son habilitadas como receptoras de la informaciÃ³n contenida en las Carpetas Tributarias.
 
 ## SE RESUELVE:
 
-REEMPLÁCESE el Resolutivo segundo letra B, de la Resolución Ex. SII 21, de fecha 24.02.2021, por el siguiente:
+REEMPLÃCESE el Resolutivo segundo letra B, de la ResoluciÃ³n Ex. SII 21, de fecha 24.02.2021, por el siguiente:
 
-## B- Entidades Públicas
+## B- Entidades PÃºblicas
 
-Las entidades públicas que requieran ser incorporadas en la nómina antes mencionada, deberán acreditar que cumplen de manera copulativa con las siguientes condiciones:
+Las entidades pÃºblicas que requieran ser incorporadas en la nÃ³mina antes mencionada, deberÃ¡n acreditar que cumplen de manera copulativa con las siguientes condiciones:
 
-* a- Que otorguen algún beneficio de carácter económico a los favorecidos o velen por la protección y resguardo de derechos de personas naturales o jurídicas.
+* a- Que otorguen algÃºn beneficio de carÃ¡cter econÃ³mico a los favorecidos o velen por la protecciÃ³n y resguardo de derechos de personas naturales o jurÃ­dicas.
 
 b- Se trate de entidades desconcentradas administrativamente del Gobierno Central.
 
-En relación a lo anterior, el representante legal de la entidad pública interesada deberá realizar una solicitud de incorporación a través del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentación:
+En relaciÃ³n a lo anterior, el representante legal de la entidad pÃºblica interesada deberÃ¡ realizar una solicitud de incorporaciÃ³n a travÃ©s del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentaciÃ³n:
 
-* i. Resolución o constancia donde se indique expresamente le dependencia de la entidad a un Ministerio respectivo.
-* ii. Resolución o Reglamento formal que señale explícitamente las características del beneficio a entregar, los requisitos para acceder a éste y/o la forma de postulación en su caso, o indique la función de la entidad con el fin de acreditar las condiciones establecidas en la letra a) precedente.
+* i. ResoluciÃ³n o constancia donde se indique expresamente le dependencia de la entidad a un Ministerio respectivo.
+* ii. ResoluciÃ³n o Reglamento formal que seÃ±ale explÃ­citamente las caracterÃ­sticas del beneficio a entregar, los requisitos para acceder a Ã©ste y/o la forma de postulaciÃ³n en su caso, o indique la funciÃ³n de la entidad con el fin de acreditar las condiciones establecidas en la letra a) precedente.
 
-Adicionalmente, el SII verificará que la entidad pública se encuentre inscrita como tal en los registros de este Servicio, solicitando la inscripción previa si es que se requiriese.
+Adicionalmente, el SII verificarÃ¡ que la entidad pÃºblica se encuentre inscrita como tal en los registros de este Servicio, solicitando la inscripciÃ³n previa si es que se requiriese.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 <unknown>
 

@@ -1,22 +1,21 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 28 (2013)
-description: SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 28 |
-resource: ./2013_CIRCULAR_circu28.md.docx
+title: Circular NÂ° 28 (2013)
+description: SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | CIRCULAR NÂº 28 |
 tags: [SII, 2013, circular]
 ---
 
-| **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 28** |
+| **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **CIRCULAR NÂº 28** |
 | --- | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 29 de mayo de 2013.- |
-| MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2013 | MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2013 | REFERENCIA: NºYNOMBREDELVOLUMEN Arts. 53 y 97 Nºs. 2 y 11 D.L. Nº 830, de 1974, sobre Código Tributario. |
-| USO DE CIRCULARES: | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
+| MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2013 | MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2013 | REFERENCIA: NÂºYNOMBREDELVOLUMEN Arts. 53 y 97 NÂºs. 2 y 11 D.L. NÂº 830, de 1974, sobre CÃ³digo Tributario. |
+| USO DE CIRCULARES: | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
 
-La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de JUNIO DE 2013.
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s y multa de los Arts. 53 y 97 NÂºs. 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de JUNIO DE 2013.
 
-| **Mes de Vcto.** | **% Reajuste Art 53** | **% InterØs Art 53** | **% Multa Art. 97** | **% Multa Art.97 N°11** | **% Multa Art.97 N°11** | **IPC (INE) Base Mensual Dic 2008=100** | **IPC (INE) Base anual 2009=100** | **U.T.M.** |
+| **Mes de Vcto.** | **% Reajuste Art 53** | **% InterÃ˜s Art 53** | **% Multa Art. 97** | **% Multa Art.97 NÂ°11** | **% Multa Art.97 NÂ°11** | **IPC (INE) Base Mensual Dic 2008=100** | **IPC (INE) Base anual 2009=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Inc.1° | Inc.3° | N°2 | Inc.1° | Inc.2° |  |  |  |
+|  | Inc.1Â° | Inc.3Â° | NÂ°2 | Inc.1Â° | Inc.2Â° |  |  |  |
 | 2007 ENE | 24,7 | 117,0 | 30 | 30 | 60 | 86,8670 |  | 32.142 |
 | FEB | 24,5 | 115,5 | 30 | 30 | 60 | 86,7200 |  | 32.174 |
 | MAR | 24,2 | 114,0 | 30 | 30 | 60 | 87,0900 |  | 32.271 |
@@ -65,7 +64,7 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 | NOV | 6,5 | 48,0 | 30 | 30 | 60 |  | 102,3500 | 37.567 |
 | DIC | 6,4 | 46,5 | 30 | 30 | 60 |  | 102,4700 | 37.605 |
 
-| **Mes de Vcto.** | **Mes de Vcto.** | **% Reajuste Art 53 Inc.1°** | **% InterØs Art 53 Inc.3°** | **% Multa Art. 97 N°2** | **% Multa Art.97 N°11 Inc.1° Inc.2°** | **% Multa Art.97 N°11 Inc.1° Inc.2°** | **IPC (INE) Base anual 2009=100** | **U.T.M.** |
+| **Mes de Vcto.** | **Mes de Vcto.** | **% Reajuste Art 53 Inc.1Â°** | **% InterÃ˜s Art 53 Inc.3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa Art.97 NÂ°11 Inc.1Â° Inc.2Â°** | **% Multa Art.97 NÂ°11 Inc.1Â° Inc.2Â°** | **IPC (INE) Base anual 2009=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2011 | ENE | 6,3 | 45,0 | 30 | 30 | 60 | 102,7600 | 37.643 |
 |  | FEB | 6,2 | 43,5 | 30 | 30 | 60 | 102,9800 | 37.681 |
@@ -100,17 +99,17 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 ## NOTAS:
 
 1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
-2. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
-3. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18, de 2010, del SII.
-4. Finalmente y, conforme a lo instruido en la Circular N° 63, de 14.09.2001, la sanción a que se refiere el inciso 2° del N° 11 del Art. 97 del Código Tributario, es aplicable a los contribuyentes que, a contar del 01.07.2002, no declaren o subdeclaren un impuesto de retención o recargo, cuyo plazo de declaración y pago venza a contar de dicha fecha y hayan sido detectados en una actuación o proceso de fiscalización.
+2. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el I.P.C. entregada por el I.N.E. en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y ReconstrucciÃ³n, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18, de 2010, del SII.
+4. Finalmente y, conforme a lo instruido en la Circular NÂ° 63, de 14.09.2001, la sanciÃ³n a que se refiere el inciso 2Â° del NÂ° 11 del Art. 97 del CÃ³digo Tributario, es aplicable a los contribuyentes que, a contar del 01.07.2002, no declaren o subdeclaren un impuesto de retenciÃ³n o recargo, cuyo plazo de declaraciÃ³n y pago venza a contar de dicha fecha y hayan sido detectados en una actuaciÃ³n o proceso de fiscalizaciÃ³n.
 
-| **AÑO** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** | **2008** | **2009** | **2010** | **2011** | **2012** | **2013** |
+| **AÃ‘O** | **2001** | **2002** | **2003** | **2004** | **2005** | **2006** | **2007** | **2008** | **2009** | **2010** | **2011** | **2012** | **2013** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | % : | 0,6 | 0,1 | 1,6 | 0,0 | 0,0 | 0,2 | 0,7 | 1,7 | 0,0 | 0,6 | 1,4 | 1,3 | 0,7 |
 
 Saluda a Uds.,
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * Internet
 

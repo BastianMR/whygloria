@@ -1,90 +1,89 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 26 (2016)
-description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 26.- |
-resource: ./2016_CIRCULAR_circu26.md.docx
+title: Circular NÂ° 26 (2016)
+description: DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA | CIRCULAR NÂ° 26.- |
 tags: [SII, 2016, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 26.-** |
+| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÃA JURÃDICA** | **CIRCULAR NÂ° 26.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 03 de mayo de 2016.- |
-| MATERIA: ADECUA INSTRUCCIONES DE ACUERDO A LAS MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.899, QUE SIMPLIFICA EL SISTEMA DE TRIBUTACIÓN A LA RENTA Y PERFECCIONA OTRAS DISPOSICIONES LEGALES, AL N° 3 DEL ARTÍCULO 165 DEL CÓDIGO TRIBUTARIO. Complementa Circular N° 39, de 5 de junio de 2015. | REFERENCIA: Código Tributario, artículo 165 N° 3. Ley N° 20.899, artículo 3°, N° 15, letra b). |
+| MATERIA: ADECUA INSTRUCCIONES DE ACUERDO A LAS MODIFICACIONES INTRODUCIDAS POR LA LEY NÂ° 20.899, QUE SIMPLIFICA EL SISTEMA DE TRIBUTACIÃ“N A LA RENTA Y PERFECCIONA OTRAS DISPOSICIONES LEGALES, AL NÂ° 3 DEL ARTÃCULO 165 DEL CÃ“DIGO TRIBUTARIO. Complementa Circular NÂ° 39, de 5 de junio de 2015. | REFERENCIA: CÃ³digo Tributario, artÃ­culo 165 NÂ° 3. Ley NÂ° 20.899, artÃ­culo 3Â°, NÂ° 15, letra b). |
 
-## I. INTRODUCCIÓN
+## I. INTRODUCCIÃ“N
 
-La Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, en el número 15 de su artículo 3° introdujo modificaciones al número 3° del artículo 165 del Código Tributario, las que se analizan en la presente Circular.
+La Ley NÂ° 20.899, que simplifica el sistema de tributaciÃ³n a la renta y perfecciona otras disposiciones legales, en el nÃºmero 15 de su artÃ­culo 3Â° introdujo modificaciones al nÃºmero 3Â° del artÃ­culo 165 del CÃ³digo Tributario, las que se analizan en la presente Circular.
 
-## II. MODIFICACIÓN INTRODUCIDA POR LA LEY N° 20.899
+## II. MODIFICACIÃ“N INTRODUCIDA POR LA LEY NÂ° 20.899
 
-La letra b. del numeral 15°, del artículo 3° de la Ley indicada, incorpora en el N° 3 del artículo 165 del Código Tributario, las siguientes modificaciones:
+La letra b. del numeral 15Â°, del artÃ­culo 3Â° de la Ley indicada, incorpora en el NÂ° 3 del artÃ­culo 165 del CÃ³digo Tributario, las siguientes modificaciones:
 
-* '(…) b. Modifícase en el número 3 lo siguiente:
-* i. Intercálase en el párrafo final, entre el vocablo "nuevamente" y la expresión "en las mismas conductas" la frase ", dentro del plazo de tres años contado desde la solicitud de sustitución,".
-* ii. Suprímese, en el párrafo final, la expresión "o giro".'
+* '(â€¦) b. ModifÃ­case en el nÃºmero 3 lo siguiente:
+* i. IntercÃ¡lase en el pÃ¡rrafo final, entre el vocablo "nuevamente" y la expresiÃ³n "en las mismas conductas" la frase ", dentro del plazo de tres aÃ±os contado desde la solicitud de sustituciÃ³n,".
+* ii. SuprÃ­mese, en el pÃ¡rrafo final, la expresiÃ³n "o giro".'
 
-Con la modificación introducida, el nuevo texto del N° 3 del artículo 165 del Código Tributario, es del siguiente tenor:
+Con la modificaciÃ³n introducida, el nuevo texto del NÂ° 3 del artÃ­culo 165 del CÃ³digo Tributario, es del siguiente tenor:
 
-" 3°. Notificada la infracción o giro, según sea el caso, los contribuyentes acogidos al artículo 14 ter de la ley sobre impuesto a la renta podrán, por una única vez, solicitar la sustitución de la multa respectiva por la participación obligatoria del contribuyente o su representante a programas de capacitación en materias tributarias impartidos por el Servicio de manera presencial o a distancia.
+" 3Â°. Notificada la infracciÃ³n o giro, segÃºn sea el caso, los contribuyentes acogidos al artÃ­culo 14 ter de la ley sobre impuesto a la renta podrÃ¡n, por una Ãºnica vez, solicitar la sustituciÃ³n de la multa respectiva por la participaciÃ³n obligatoria del contribuyente o su representante a programas de capacitaciÃ³n en materias tributarias impartidos por el Servicio de manera presencial o a distancia.
 
-Solo podrá solicitarse lo dispuesto en este número respecto de las multas contempladas en el artículo 97 números 1°, inciso primero, 2°, 3°, 15, 19 y 21.
+Solo podrÃ¡ solicitarse lo dispuesto en este nÃºmero respecto de las multas contempladas en el artÃ­culo 97 nÃºmeros 1Â°, inciso primero, 2Â°, 3Â°, 15, 19 y 21.
 
-La solicitud de sustitución deberá presentarse dentro del plazo de reclamo a que se refiere el número 4° siguiente, individualizando a las personas que participarán en los programas de capacitación.
+La solicitud de sustituciÃ³n deberÃ¡ presentarse dentro del plazo de reclamo a que se refiere el nÃºmero 4Â° siguiente, individualizando a las personas que participarÃ¡n en los programas de capacitaciÃ³n.
 
-Autorizada por el Servicio la sustitución de la multa de conformidad a lo dispuesto precedentemente, si no se diere cumplimiento a la obligación de asistencia y aprobación de los programas de capacitación a que se refiere este número, o si, habiéndose dado cumplimiento, se incurre nuevamente, dentro del plazo de tres años contado desde la solicitud de sustitución , en las mismas conductas que motivaron la infracción, se aplicará la multa originalmente sustituida, incrementada en hasta un 25%. Los plazos establecidos en los artículos 200 y 201, se suspenderán durante el periodo a que se refiere este artículo. '
+Autorizada por el Servicio la sustituciÃ³n de la multa de conformidad a lo dispuesto precedentemente, si no se diere cumplimiento a la obligaciÃ³n de asistencia y aprobaciÃ³n de los programas de capacitaciÃ³n a que se refiere este nÃºmero, o si, habiÃ©ndose dado cumplimiento, se incurre nuevamente, dentro del plazo de tres aÃ±os contado desde la solicitud de sustituciÃ³n , en las mismas conductas que motivaron la infracciÃ³n, se aplicarÃ¡ la multa originalmente sustituida, incrementada en hasta un 25%. Los plazos establecidos en los artÃ­culos 200 y 201, se suspenderÃ¡n durante el periodo a que se refiere este artÃ­culo. '
 
 ## III. INSTRUCCIONES SOBRE LA MATERIA
 
-## 1. Incorporación del plazo de tres años para aplicar la multa originalmente sustituida incrementada
+## 1. IncorporaciÃ³n del plazo de tres aÃ±os para aplicar la multa originalmente sustituida incrementada
 
-Previo a la modificación introducida por la Ley N° 20.899, el N° 3 del artículo 165 del Código Tributario en su inciso final prescribía que si el contribuyente no daba cumplimiento a la obligación de asistencia y aprobación de los programas de capacitación o, habiendo dado cumplimiento, incurría nuevamente en las mismas conductas que motivaron la infracción, se aplicaría la multa originalmente sustituida, incrementada en hasta un 25%, además de la multa correspondiente a la nueva contravención, sin establecer una limitación en relación con el tiempo que transcurriera entre la contravención y la reincidencia.
+Previo a la modificaciÃ³n introducida por la Ley NÂ° 20.899, el NÂ° 3 del artÃ­culo 165 del CÃ³digo Tributario en su inciso final prescribÃ­a que si el contribuyente no daba cumplimiento a la obligaciÃ³n de asistencia y aprobaciÃ³n de los programas de capacitaciÃ³n o, habiendo dado cumplimiento, incurrÃ­a nuevamente en las mismas conductas que motivaron la infracciÃ³n, se aplicarÃ­a la multa originalmente sustituida, incrementada en hasta un 25%, ademÃ¡s de la multa correspondiente a la nueva contravenciÃ³n, sin establecer una limitaciÃ³n en relaciÃ³n con el tiempo que transcurriera entre la contravenciÃ³n y la reincidencia.
 
-La Ley N° 20.899 subsanó esta falencia, instaurando un plazo de tres años, contado desde la solicitud de sustitución de la multa.
+La Ley NÂ° 20.899 subsanÃ³ esta falencia, instaurando un plazo de tres aÃ±os, contado desde la solicitud de sustituciÃ³n de la multa.
 
-Conforme con lo dispuesto en el párrafo cuarto del numeral 3° del artículo 165 del Código Tributario, modificado por la Ley referida, se aplicarán las siguientes reglas:
+Conforme con lo dispuesto en el pÃ¡rrafo cuarto del numeral 3Â° del artÃ­culo 165 del CÃ³digo Tributario, modificado por la Ley referida, se aplicarÃ¡n las siguientes reglas:
 
-* a) Si el contribuyente no da cumplimiento a la obligación de asistencia y/o aprobación del respectivo programa, se aplicará la multa originalmente sustituida, incrementada en hasta un 25%; o,
-* b) Si, aprobado el curso, el contribuyente incurre nuevamente en la misma conducta que motivó la notificación de la denuncia o giro, dentro del plazo de 3 años contados desde la solicitud de sustitución, se aplicará la multa originalmente sustituida, incrementada en hasta un 25%, además de la multa que corresponda aplicar por la nueva infracción cometida.
+* a) Si el contribuyente no da cumplimiento a la obligaciÃ³n de asistencia y/o aprobaciÃ³n del respectivo programa, se aplicarÃ¡ la multa originalmente sustituida, incrementada en hasta un 25%; o,
+* b) Si, aprobado el curso, el contribuyente incurre nuevamente en la misma conducta que motivÃ³ la notificaciÃ³n de la denuncia o giro, dentro del plazo de 3 aÃ±os contados desde la solicitud de sustituciÃ³n, se aplicarÃ¡ la multa originalmente sustituida, incrementada en hasta un 25%, ademÃ¡s de la multa que corresponda aplicar por la nueva infracciÃ³n cometida.
 
-De esta forma, el contribuyente que, autorizado a la sustitución de la multa por cursos de capacitación, aprueba el curso, e incurre nuevamente en las mismas conductas, dentro del plazo de 3 años contados desde la solicitud de sustitución, se le aplicará la multa originalmente sustituida, incrementada en hasta un 25%, además de la multa que corresponda aplicar por la nueva infracción cometida, según el caso.
+De esta forma, el contribuyente que, autorizado a la sustituciÃ³n de la multa por cursos de capacitaciÃ³n, aprueba el curso, e incurre nuevamente en las mismas conductas, dentro del plazo de 3 aÃ±os contados desde la solicitud de sustituciÃ³n, se le aplicarÃ¡ la multa originalmente sustituida, incrementada en hasta un 25%, ademÃ¡s de la multa que corresponda aplicar por la nueva infracciÃ³n cometida, segÃºn el caso.
 
-A contrario sensu, una vez transcurrido el plazo de tres años contado desde la solicitud de sustitución de la multa efectuada por el contribuyente, si el contribuyente incurre nuevamente en la misma conducta infraccional, el Servicio no podrá notificar la infracción por la multa originalmente sustituida, con el recargo anotado.
+A contrario sensu, una vez transcurrido el plazo de tres aÃ±os contado desde la solicitud de sustituciÃ³n de la multa efectuada por el contribuyente, si el contribuyente incurre nuevamente en la misma conducta infraccional, el Servicio no podrÃ¡ notificar la infracciÃ³n por la multa originalmente sustituida, con el recargo anotado.
 
-Además de acuerdo a lo dispuesto en la parte final del N° 3 del artículo 165 del Código Tributario, el plazo de prescripción de la acción para perseguir la aplicación de sanciones y su respectivo cobro, cuando el contribuyente haya optado por la sustitución de la multa,
+AdemÃ¡s de acuerdo a lo dispuesto en la parte final del NÂ° 3 del artÃ­culo 165 del CÃ³digo Tributario, el plazo de prescripciÃ³n de la acciÃ³n para perseguir la aplicaciÃ³n de sanciones y su respectivo cobro, cuando el contribuyente haya optado por la sustituciÃ³n de la multa,
 
-se entenderá suspendido desde la fecha de la solicitud de sustitución y hasta el día en que se notifique el resultado de reprobación del curso o, alternativamente, se verifique, dentro del plazo de tres años, contado también desde la fecha de solicitud, la reincidencia en la misma infracción.
+se entenderÃ¡ suspendido desde la fecha de la solicitud de sustituciÃ³n y hasta el dÃ­a en que se notifique el resultado de reprobaciÃ³n del curso o, alternativamente, se verifique, dentro del plazo de tres aÃ±os, contado tambiÃ©n desde la fecha de solicitud, la reincidencia en la misma infracciÃ³n.
 
-## 2. Eliminación de la voz 'o giro'
+## 2. EliminaciÃ³n de la voz 'o giro'
 
-La modificación señalada en el numeral 15, letra b), punto ii. de la Ley N° 20.899, suprimió en el inciso final del artículo 165 N°3 del Código Tributario, la expresión 'o giro', la cual consistió en una adecuación del texto.
+La modificaciÃ³n seÃ±alada en el numeral 15, letra b), punto ii. de la Ley NÂ° 20.899, suprimiÃ³ en el inciso final del artÃ­culo 165 NÂ°3 del CÃ³digo Tributario, la expresiÃ³n 'o giro', la cual consistiÃ³ en una adecuaciÃ³n del texto.
 
-En efecto, el artículo 165 del Código Tributario señala que las denuncias por las infracciones sancionadas en los números 1, 2, 3, 6, 7, 10, 11, 15, 16, 17, 19, 20, y 21 del artículo 97, y en el artículo 109, ambos del Código Tributario, se someterán al procedimiento reglado en dicho artículo; procedimiento que contempla la posibilidad de sustituir ciertas multas por programas de capacitación dictados por el Servicio de Impuestos Internos.
+En efecto, el artÃ­culo 165 del CÃ³digo Tributario seÃ±ala que las denuncias por las infracciones sancionadas en los nÃºmeros 1, 2, 3, 6, 7, 10, 11, 15, 16, 17, 19, 20, y 21 del artÃ­culo 97, y en el artÃ­culo 109, ambos del CÃ³digo Tributario, se someterÃ¡n al procedimiento reglado en dicho artÃ­culo; procedimiento que contempla la posibilidad de sustituir ciertas multas por programas de capacitaciÃ³n dictados por el Servicio de Impuestos Internos.
 
-A mayor abundamiento, la norma señala, en su número 1°, que las infracciones establecidas en los números 1, inciso primero, 2 y 11 del artículo 97 del Código Tributario serán determinadas por el Servicio, o los propios contribuyentes, y se aplicarán sin otro trámite que el de ser giradas o solucionadas. Por otra parte, el número 2° del mismo artículo indica que las restantes infracciones serán notificadas y su giro quedará pendiente al vencimiento del plazo para presentar el reclamo.
+A mayor abundamiento, la norma seÃ±ala, en su nÃºmero 1Â°, que las infracciones establecidas en los nÃºmeros 1, inciso primero, 2 y 11 del artÃ­culo 97 del CÃ³digo Tributario serÃ¡n determinadas por el Servicio, o los propios contribuyentes, y se aplicarÃ¡n sin otro trÃ¡mite que el de ser giradas o solucionadas. Por otra parte, el nÃºmero 2Â° del mismo artÃ­culo indica que las restantes infracciones serÃ¡n notificadas y su giro quedarÃ¡ pendiente al vencimiento del plazo para presentar el reclamo.
 
-Correlativamente, el numeral 3° principia señalando 'Notificada la infracción o giro' abarcando, por tanto, las infracciones contenidas tanto en el numeral 1° (de giro inmediato) como en el numeral 2° (previa notificación de acta de denuncia).
+Correlativamente, el numeral 3Â° principia seÃ±alando 'Notificada la infracciÃ³n o giro' abarcando, por tanto, las infracciones contenidas tanto en el numeral 1Â° (de giro inmediato) como en el numeral 2Â° (previa notificaciÃ³n de acta de denuncia).
 
-La misma referencia a 'infracción o giro' se repetía en el párrafo cuarto del numeral 3°, siendo la expresión 'o giro' eliminada por la Ley N° 20.899.
+La misma referencia a 'infracciÃ³n o giro' se repetÃ­a en el pÃ¡rrafo cuarto del numeral 3Â°, siendo la expresiÃ³n 'o giro' eliminada por la Ley NÂ° 20.899.
 
-Al respecto, cabe interpretar que a diferencia del párrafo primero, el párrafo cuarto no tenía como propósito hacer una referencia a los dos eventos antes expuestos (procedimiento del N°1 y N°2 del artículo 165 del Código Tributario), sino que más bien buscaba aludir a la conducta del contribuyente constitutiva de las infracciones, que podían someterse a los procedimientos señalados. Por este motivo, la expresión 'o giro' no cumplía propósito alguno en dicha frase. Por el contrario, la voz 'infracción' sí se relaciona expositivamente con la conducta y no con el procedimiento.
+Al respecto, cabe interpretar que a diferencia del pÃ¡rrafo primero, el pÃ¡rrafo cuarto no tenÃ­a como propÃ³sito hacer una referencia a los dos eventos antes expuestos (procedimiento del NÂ°1 y NÂ°2 del artÃ­culo 165 del CÃ³digo Tributario), sino que mÃ¡s bien buscaba aludir a la conducta del contribuyente constitutiva de las infracciones, que podÃ­an someterse a los procedimientos seÃ±alados. Por este motivo, la expresiÃ³n 'o giro' no cumplÃ­a propÃ³sito alguno en dicha frase. Por el contrario, la voz 'infracciÃ³n' sÃ­ se relaciona expositivamente con la conducta y no con el procedimiento.
 
-Luego, la referencia al giro en este inciso no era adecuada, razón por la cual su eliminación cumplió una función aclaratoria del texto sin injerencia en la operatividad de la sustitución de las multas.
+Luego, la referencia al giro en este inciso no era adecuada, razÃ³n por la cual su eliminaciÃ³n cumpliÃ³ una funciÃ³n aclaratoria del texto sin injerencia en la operatividad de la sustituciÃ³n de las multas.
 
 ## IV. VIGENCIA DE LA LEY Y DE ESTAS INSTRUCCIONES
 
-La modificación al N° 3 del artículo 165 del Código Tributario, rige desde la fecha de su publicación en el Diario Oficial, esto es, a contar del 08 de febrero de 2016, en conformidad a lo dispuesto en el artículo 11 de la Ley N° 20.899.
+La modificaciÃ³n al NÂ° 3 del artÃ­culo 165 del CÃ³digo Tributario, rige desde la fecha de su publicaciÃ³n en el Diario Oficial, esto es, a contar del 08 de febrero de 2016, en conformidad a lo dispuesto en el artÃ­culo 11 de la Ley NÂ° 20.899.
 
-Los contribuyentes que durante el periodo comprendido entre el 30 de septiembre de 2015 y el 07 de febrero de 2016, hayan optado por la sustitución de la multa respectiva por su participación en un programa de capacitación tributaria, también se ven favorecidos
+Los contribuyentes que durante el periodo comprendido entre el 30 de septiembre de 2015 y el 07 de febrero de 2016, hayan optado por la sustituciÃ³n de la multa respectiva por su participaciÃ³n en un programa de capacitaciÃ³n tributaria, tambiÃ©n se ven favorecidos
 
-por el plazo de prescripción de tres años contado desde la solicitud de sustitución, de la acción del Servicio de Impuestos Internos para perseguir la aplicación de la multa primitiva.
+por el plazo de prescripciÃ³n de tres aÃ±os contado desde la solicitud de sustituciÃ³n, de la acciÃ³n del Servicio de Impuestos Internos para perseguir la aplicaciÃ³n de la multa primitiva.
 
-A partir de la entrada en vigencia de la presente Circular, se complementan y modifican en lo pertinente las instrucciones sobre esta materia, contenidas en la Circular N° 39, de 05 de junio de 2015.
+A partir de la entrada en vigencia de la presente Circular, se complementan y modifican en lo pertinente las instrucciones sobre esta materia, contenidas en la Circular NÂ° 39, de 05 de junio de 2015.
 
 Saluda a Uds.
 
-Distribución
+DistribuciÃ³n
 
-* -Boletín
+* -BoletÃ­n
 * -Internet
 * -Diario Oficial, en extracto
 

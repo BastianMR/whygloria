@@ -1,49 +1,48 @@
----
-type: SII Resolución
-title: Resolución N° 100 (2015)
-description: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
-resource: ./2015_RESOLUCION_reso100.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 100 (2015)
+description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 tags: [SII, 2015, resolucion]
 ---
 
 .
 
-## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 
 en extracto en el Diario Oficial.
 
-ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
+ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
 
 (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demás fines
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines
 
 ## IDR/RPA/MAG/MDA
 
-Distribución: Boletín Diario Oficial Internet
+DistribuciÃ³n: BoletÃ­n Diario Oficial Internet
 
-MATERIA: ESTABLECE NUEVA DENOMINACIÓN 'DEPARTAMENTO DE ASISTENCIA AL CONTRIBUYENTE' EN LAS DIRECCIONES REGIONALES.
+MATERIA: ESTABLECE NUEVA DENOMINACIÃ“N 'DEPARTAMENTO DE ASISTENCIA AL CONTRIBUYENTE' EN LAS DIRECCIONES REGIONALES.
 
 SANTIAGO, 01 de diciembre de 2015.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EXENTA SII N° 100.-/
+RESOLUCIÃ“N EXENTA SII NÂ° 100.-/
 
 VISTOS:
 
-Las necesidades del Servicio y las facultades que se me confieren en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de Hacienda, de 30 de Septiembre de 1980; y
+Las necesidades del Servicio y las facultades que se me confieren en las letras c) y Ã±) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂ° 7, de Hacienda, de 30 de Septiembre de 1980; y
 
 ## CONSIDERANDO:
 
-1° Que producto de la creación de la Subdirección de Asistencia al contribuyente por la Ley N° 20.780, existe la necesidad de adecuar la estructura orgánica de las Direcciones Regionales, a fin de facilitar, en mayor medida, los requerimientos de atención y control de los diversos trámites efectuados por los contribuyentes.
+1Â° Que producto de la creaciÃ³n de la SubdirecciÃ³n de Asistencia al contribuyente por la Ley NÂ° 20.780, existe la necesidad de adecuar la estructura orgÃ¡nica de las Direcciones Regionales, a fin de facilitar, en mayor medida, los requerimientos de atenciÃ³n y control de los diversos trÃ¡mites efectuados por los contribuyentes.
 
-2° Que el inciso final del artículo 4° de la Ley Orgánica de este Servicio, establece que en las Direcciones Regionales existirán los Departamentos que establezca el Director.
+2Â° Que el inciso final del artÃ­culo 4Â° de la Ley OrgÃ¡nica de este Servicio, establece que en las Direcciones Regionales existirÃ¡n los Departamentos que establezca el Director.
 
 ## RESUELVO:
 
-1° Reemplázase la denominación 'Departamento Plataforma de Atención y Asistencia' existentes en la estructura orgánica de las Direcciones Regionales por 'Departamento de Asistencia al Contribuyente'.
+1Â° ReemplÃ¡zase la denominaciÃ³n 'Departamento Plataforma de AtenciÃ³n y Asistencia' existentes en la estructura orgÃ¡nica de las Direcciones Regionales por 'Departamento de Asistencia al Contribuyente'.
 
-2° Toda alusión anterior, de asignación de funciones, delegación de facultades, procedimientos, contenida en instrucciones o resoluciones impartidas por este Servicio, referidas a los ex-Departamentos de Plataforma de Atención y Asistencia de las Direcciones Regionales del país o a sus jefaturas, se entenderá referida a los actuales Departamentos de Asistencia al Contribuyente o a sus jefaturas.
+2Â° Toda alusiÃ³n anterior, de asignaciÃ³n de funciones, delegaciÃ³n de facultades, procedimientos, contenida en instrucciones o resoluciones impartidas por este Servicio, referidas a los ex-Departamentos de Plataforma de AtenciÃ³n y Asistencia de las Direcciones Regionales del paÃ­s o a sus jefaturas, se entenderÃ¡ referida a los actuales Departamentos de Asistencia al Contribuyente o a sus jefaturas.
 
-3° La presente resolución regirá a contar de su publicada
+3Â° La presente resoluciÃ³n regirÃ¡ a contar de su publicada

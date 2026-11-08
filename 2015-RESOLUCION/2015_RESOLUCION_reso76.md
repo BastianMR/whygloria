@@ -1,40 +1,39 @@
----
-type: SII Resolución
-title: Resolución N° 8 (2015)
-description: MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003.
-resource: ./2015_RESOLUCION_reso76.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 8 (2015)
+description: MATERIA: MODIFICA RESOLUCIÃ“N EX. NÂ° 08, DE 28 DE ENERO DE 2003.
 tags: [SII, 2015, resolucion]
 ---
 
-MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003.
+MATERIA: MODIFICA RESOLUCIÃ“N EX. NÂ° 08, DE 28 DE ENERO DE 2003.
 
 SANTIAGO, 16 de septiembre de 2015.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCION EX. SII N° 76.-\_\_\_\_\_/
+RESOLUCION EX. SII NÂ° 76.-\_\_\_\_\_/
 
-VISTOS: Las necesidades del Servicio; las facultades que se me confieren en las letras c) y k) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, lo establecido en el artículo 17 de la norma recién citada, y
+VISTOS: Las necesidades del Servicio; las facultades que se me confieren en las letras c) y k) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley NÂ° 7, de Hacienda, de 1980, lo establecido en el artÃ­culo 17 de la norma reciÃ©n citada, y
 
 ## CONSIDERANDO:
 
-1° Que, por Resolución Ex, N° 8, de 28 de Enero de 2003, modificada por las Resoluciones Exentas N°s 33, de 26 de Junio de 2003, 114, de 29 de Diciembre de 2004 y 95, de 16 de agosto de 2007, todas de esta Dirección Nacional, se encargaron las funciones de Secretaría General a doña Gina Anastasov Aguilera, designándose al mismo tiempo sus subrogantes, y
+1Â° Que, por ResoluciÃ³n Ex, NÂ° 8, de 28 de Enero de 2003, modificada por las Resoluciones Exentas NÂ°s 33, de 26 de Junio de 2003, 114, de 29 de Diciembre de 2004 y 95, de 16 de agosto de 2007, todas de esta DirecciÃ³n Nacional, se encargaron las funciones de SecretarÃ­a General a doÃ±a Gina Anastasov Aguilera, designÃ¡ndose al mismo tiempo sus subrogantes, y
 
-2° Que es necesario el reemplazo de dos de los subrogantes,
+2Â° Que es necesario el reemplazo de dos de los subrogantes,
 
 ## RESUELVO:
 
-Reemplázase el dispositivo N°2 de la Resolución Ex. N° 8, de 28 de enero de 2003, de esta Dirección Nacional, por el siguiente:
+ReemplÃ¡zase el dispositivo NÂ°2 de la ResoluciÃ³n Ex. NÂ° 8, de 28 de enero de 2003, de esta DirecciÃ³n Nacional, por el siguiente:
 
-Subrogarán a doña Gina Anastasov Aguilera, en estas funciones, los siguientes funcionarios en el orden de precedencia que a continuación se indica:
+SubrogarÃ¡n a doÃ±a Gina Anastasov Aguilera, en estas funciones, los siguientes funcionarios en el orden de precedencia que a continuaciÃ³n se indica:
 
-Primer Subrogante: don Jaime Barros Amunátegui, Profesional grado 6, del Departamento de Fiscalía Administrativa de la Subdirección de Contraloría Interna,
+Primer Subrogante: don Jaime Barros AmunÃ¡tegui, Profesional grado 6, del Departamento de FiscalÃ­a Administrativa de la SubdirecciÃ³n de ContralorÃ­a Interna,
 
-Segundo Subrogante: doña Pabla Rivadeneira Polidori, Profesional grado 8, ubicada en la Subdirección de Contraloría Interna,
+Segundo Subrogante: doÃ±a Pabla Rivadeneira Polidori, Profesional grado 8, ubicada en la SubdirecciÃ³n de ContralorÃ­a Interna,
 
-Tercer Subrogante: don Simón Ramírez Guerra, Profesional grado 5, ubicado en la Subdirección Normativa.
+Tercer Subrogante: don SimÃ³n RamÃ­rez Guerra, Profesional grado 5, ubicado en la SubdirecciÃ³n Normativa.
 
-## ANÓTESE Y COMUNÍQUESE
+## ANÃ“TESE Y COMUNÃQUESE
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 

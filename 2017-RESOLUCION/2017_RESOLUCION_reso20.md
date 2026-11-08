@@ -1,47 +1,46 @@
----
-type: SII Resolución
-title: Resolución N° 92 (2017)
-description: SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
-resource: ./2017_RESOLUCION_reso20.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 92 (2017)
+description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
+## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 
-DEROGA RESOLUCIONES N°92 Y N°116, AMBAS DEL AÑO 2004, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1830 y N°1831, RESPECTIVAMENTE
+DEROGA RESOLUCIONES NÂ°92 Y NÂ°116, AMBAS DEL AÃ‘O 2004, QUE ESTABLECEN LA OBLIGACIÃ“N DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS NÂ°1830 y NÂ°1831, RESPECTIVAMENTE
 
 SANTIAGO, 10 de febrero de 2017.
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÓN EX. SII N° 20/
+RESOLUCIÃ“N EX. SII NÂ° 20/
 
 VISTOS:
 
-Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; en los artículos pertinentes de la Ley sobre Impuesto a la Renta; y en la Ley Nº 20.900, que establece normas para el fortalecimiento y transparencia de la democracia; y
+Lo dispuesto en los artÃ­culos 6Â°, letra A), NÂ° 1 y 60 inciso penÃºltimo del CÃ³digo Tributario; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, de 1980; en los artÃ­culos pertinentes de la Ley sobre Impuesto a la Renta; y en la Ley NÂº 20.900, que establece normas para el fortalecimiento y transparencia de la democracia; y
 
 ## CONSIDERANDO:
 
-1 ° Que, la Resolución Exenta SII N° 92, de 2004, establece que los Partidos Políticos inscritos en el Servicio Electoral y sus Entidades Recaudadoras, los Institutos de Formación Política y los Candidatos a ocupar cargos de elección popular que se encuentren debidamente inscritos en el Servicio Electoral, deberán presentar el Formulario N° 1830 denominado 'Declaración Jurada sobre Donaciones para Fines Políticos, conforme a lo dispuesto en el artículo 8° de la Ley 19.885'.
+1 Â° Que, la ResoluciÃ³n Exenta SII NÂ° 92, de 2004, establece que los Partidos PolÃ­ticos inscritos en el Servicio Electoral y sus Entidades Recaudadoras, los Institutos de FormaciÃ³n PolÃ­tica y los Candidatos a ocupar cargos de elecciÃ³n popular que se encuentren debidamente inscritos en el Servicio Electoral, deberÃ¡n presentar el Formulario NÂ° 1830 denominado 'DeclaraciÃ³n Jurada sobre Donaciones para Fines PolÃ­ticos, conforme a lo dispuesto en el artÃ­culo 8Â° de la Ley 19.885'.
 
-2° Que, la Ley N° 20.900, mediante su artículo 4° deroga el Título II de la Ley Nº 19.885, referido al incentivo y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos.
+2Â° Que, la Ley NÂ° 20.900, mediante su artÃ­culo 4Â° deroga el TÃ­tulo II de la Ley NÂº 19.885, referido al incentivo y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y pÃºblicos.
 
-3° Que, la Resolución Exenta SII N° 116, de 2004, establece que los Organismos Técnicos Intermedios de Capacitación a que se refiere el artículo 38 de la Ley N° 19.518, deberán presentar el Formulario N° 1831 denominado ' Declaración Jurada Anual de los Aportes Recibidos por los OTIC '.
+3Â° Que, la ResoluciÃ³n Exenta SII NÂ° 116, de 2004, establece que los Organismos TÃ©cnicos Intermedios de CapacitaciÃ³n a que se refiere el artÃ­culo 38 de la Ley NÂ° 19.518, deberÃ¡n presentar el Formulario NÂ° 1831 denominado ' DeclaraciÃ³n Jurada Anual de los Aportes Recibidos por los OTIC '.
 
-4 ° Que, la información contenida en el Formulario N° 1831, es proporcionada por el Servicio Nacional de Capacitación y Empleo.
+4 Â° Que, la informaciÃ³n contenida en el Formulario NÂ° 1831, es proporcionada por el Servicio Nacional de CapacitaciÃ³n y Empleo.
 
 ## SE RESUELVE:
 
-1° Derógase, a partir del Año Tributario 2017, la Resolución Exenta N° 92, de 2004, que establece la obligación de presentar del Formulario N°1830 y la Resolución Exenta N° 116, de 2004, que establece la obligación de presentar del Formulario N° 1831.
+1Â° DerÃ³gase, a partir del AÃ±o Tributario 2017, la ResoluciÃ³n Exenta NÂ° 92, de 2004, que establece la obligaciÃ³n de presentar del Formulario NÂ°1830 y la ResoluciÃ³n Exenta NÂ° 116, de 2004, que establece la obligaciÃ³n de presentar del Formulario NÂ° 1831.
 
-## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EL DIARIO OFICIAL EN EXTRACTO
+## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EL DIARIO OFICIAL EN EXTRACTO
 
-## (FDO.) VICTOR VILLALÓN MÉNDEZ DIRECTOR (S)
+## (FDO.) VICTOR VILLALÃ“N MÃ‰NDEZ DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demás fines.
+Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
 
-## CSM/PSM/ess. DISTRIBUCIÓN:
+## CSM/PSM/ess. DISTRIBUCIÃ“N:
 
-* AL BOLETÍN
+* AL BOLETÃN
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO

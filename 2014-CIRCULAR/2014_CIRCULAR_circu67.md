@@ -1,83 +1,82 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 67 (2014)
-description: DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA | CIRCULAR N° 67.- |
-resource: ./2014_CIRCULAR_circu67.md.docx
+title: Circular NÂ° 67 (2014)
+description: DEPARTAMENTO EMISOR OFICINA ANÃLISIS DE LA JURISPRUDENCIA | CIRCULAR NÂ° 67.- |
 tags: [SII, 2014, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA** | **CIRCULAR N° 67.-** |
+| **DEPARTAMENTO EMISOR OFICINA ANÃLISIS DE LA JURISPRUDENCIA** | **CIRCULAR NÂ° 67.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 de diciembre de 2014 |
-| MATERIA: Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 20 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF. LEGAL : Código Tributario, Artículo 97 N°20; Ley N°20.780, Artículo 10, N° 25, letra b). |
+| MATERIA: Modificaciones introducidas por la Ley NÂ° 20.780, de 29 de septiembre de 2014, al ArtÃ­culo 97 NÂ° 20 del CÃ³digo Tributario, contenido en el Decreto Ley NÂ° 830, de 1974. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN: REF. LEGAL : CÃ³digo Tributario, ArtÃ­culo 97 NÂ°20; Ley NÂ°20.780, ArtÃ­culo 10, NÂ° 25, letra b). |
 
-## I. INTRODUCCIÓN.
+## I. INTRODUCCIÃ“N.
 
-El artículo 10 de la Ley N°20.780, sobre Reforma Tributaria que modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el sistema tributario, publicada en el Diario Oficial de fecha 29 de septiembre de 2014, incorporó modificaciones al Código Tributario, contenido en el Artículo 1° del Decreto Ley N° 830, de 1974. De dichas enmiendas, esta Circular analizará la contenida en la letra b) del numeral 25 del referido Artículo 10, que modifica el número 20 del artículo 97 del citado Código.
+El artÃ­culo 10 de la Ley NÂ°20.780, sobre Reforma Tributaria que modifica el Sistema de TributaciÃ³n de la Renta e introduce diversos ajustes en el sistema tributario, publicada en el Diario Oficial de fecha 29 de septiembre de 2014, incorporÃ³ modificaciones al CÃ³digo Tributario, contenido en el ArtÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974. De dichas enmiendas, esta Circular analizarÃ¡ la contenida en la letra b) del numeral 25 del referido ArtÃ­culo 10, que modifica el nÃºmero 20 del artÃ­culo 97 del citado CÃ³digo.
 
-## II. MODIFICACIÓN INTRODUCIDA POR LA LEY N° 20.780.
+## II. MODIFICACIÃ“N INTRODUCIDA POR LA LEY NÂ° 20.780.
 
-La letra b) del numeral 25 del Artículo 10 de la Ley indicada, agrega en el número 20 del artículo 97 del Código Tributario, a continuación del punto final, que pasa a ser punto seguido, una oración final del siguiente tenor:
+La letra b) del numeral 25 del ArtÃ­culo 10 de la Ley indicada, agrega en el nÃºmero 20 del artÃ­culo 97 del CÃ³digo Tributario, a continuaciÃ³n del punto final, que pasa a ser punto seguido, una oraciÃ³n final del siguiente tenor:
 
-"La misma multa se aplicará cuando el contribuyente haya deducido los gastos o hecho uso del crédito fiscal respecto de los vehículos y aquellos incurridos en supermercados y comercios similares, a que se refiere el artículo 31 de la ley sobre Impuesto a la Renta, sin cumplir con los requisitos que dicha disposición establece."
+"La misma multa se aplicarÃ¡ cuando el contribuyente haya deducido los gastos o hecho uso del crÃ©dito fiscal respecto de los vehÃ­culos y aquellos incurridos en supermercados y comercios similares, a que se refiere el artÃ­culo 31 de la ley sobre Impuesto a la Renta, sin cumplir con los requisitos que dicha disposiciÃ³n establece."
 
-## III. DISPOSICIÓN ACTUALIZADA.
+## III. DISPOSICIÃ“N ACTUALIZADA.
 
-Con la modificación introducida por la Ley indicada, la norma queda redactada en lo pertinente de la siguiente manera:
+Con la modificaciÃ³n introducida por la Ley indicada, la norma queda redactada en lo pertinente de la siguiente manera:
 
-Artículo 97.-' Las siguientes infracciones a las disposiciones tributarias serán sancionadas en la forma que a continuación se indica:
+ArtÃ­culo 97.-' Las siguientes infracciones a las disposiciones tributarias serÃ¡n sancionadas en la forma que a continuaciÃ³n se indica:
 
-* 20 . La deducción como gasto o uso del crédito fiscal que efectúen, en forma reiterada, los contribuyentes del Impuesto de Primera Categoría de la Ley de la Renta, que no sean sociedades anónimas abiertas, de desembolsos que sean rechazados o que no den derecho a dicho crédito, de acuerdo a la Ley de la Renta o al decreto ley Nº 825, de 1974, por el hecho de ceder en beneficio personal y gratuito del propietario o socio de la empresa, su cónyuge o hijos, o de una tercera persona que no tenga relación laboral o de servicio con la empresa que justifique el desembolso o el uso del crédito fiscal, con multa de hasta el 200% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar la deducción indebida. La misma multa se aplicará cuando el contribuyente haya deducido los gastos o hecho uso del crédito fiscal respecto de los vehículos y aquellos incurridos en supermercados y comercios similares, a que se refiere el artículo 31 de la ley sobre Impuesto a la Renta, sin cumplir con los requisitos que dicha disposición establece.'.
+* 20 . La deducciÃ³n como gasto o uso del crÃ©dito fiscal que efectÃºen, en forma reiterada, los contribuyentes del Impuesto de Primera CategorÃ­a de la Ley de la Renta, que no sean sociedades anÃ³nimas abiertas, de desembolsos que sean rechazados o que no den derecho a dicho crÃ©dito, de acuerdo a la Ley de la Renta o al decreto ley NÂº 825, de 1974, por el hecho de ceder en beneficio personal y gratuito del propietario o socio de la empresa, su cÃ³nyuge o hijos, o de una tercera persona que no tenga relaciÃ³n laboral o de servicio con la empresa que justifique el desembolso o el uso del crÃ©dito fiscal, con multa de hasta el 200% de todos los impuestos que deberÃ­an haberse enterado en arcas fiscales, de no mediar la deducciÃ³n indebida. La misma multa se aplicarÃ¡ cuando el contribuyente haya deducido los gastos o hecho uso del crÃ©dito fiscal respecto de los vehÃ­culos y aquellos incurridos en supermercados y comercios similares, a que se refiere el artÃ­culo 31 de la ley sobre Impuesto a la Renta, sin cumplir con los requisitos que dicha disposiciÃ³n establece.'.
 
 ## IV. INSTRUCCIONES SOBRE LA MATERIA.
 
-La modificación efectuada persigue adecuar la norma sancionatoria de que se trata a la reforma introducida al artículo 23 N° 4, del Decreto Ley N° 825, de 1974 que agrega una final al numeral 4° del referido artículo señalando: 'Tampoco darán derecho a crédito los gastos incurridos en supermercados y comercios similares que no cumplan con los requisitos que establece el inciso primero del artículo 31 de la Ley sobre Impuesto a la Renta." (respecto de la cual se impartieron instrucciones por Circular N° 51 de este Servicio, de fecha 03 de octubre de 2014) y que tiene por objeto controlar el uso del crédito fiscal y la deducción de gastos, respecto de vehículos y en las compras efectuadas en supermercados y comercios similares.
+La modificaciÃ³n efectuada persigue adecuar la norma sancionatoria de que se trata a la reforma introducida al artÃ­culo 23 NÂ° 4, del Decreto Ley NÂ° 825, de 1974 que agrega una final al numeral 4Â° del referido artÃ­culo seÃ±alando: 'Tampoco darÃ¡n derecho a crÃ©dito los gastos incurridos en supermercados y comercios similares que no cumplan con los requisitos que establece el inciso primero del artÃ­culo 31 de la Ley sobre Impuesto a la Renta." (respecto de la cual se impartieron instrucciones por Circular NÂ° 51 de este Servicio, de fecha 03 de octubre de 2014) y que tiene por objeto controlar el uso del crÃ©dito fiscal y la deducciÃ³n de gastos, respecto de vehÃ­culos y en las compras efectuadas en supermercados y comercios similares.
 
-Ahora bien, la norma que se incorpora en la parte final del numeral 20 del artículo 97 del Código Tributario, dispone que se aplicará una multa de hasta un 200% de la suma de todos los impuestos que deberían haberse enterado en arcas fiscales, y que no lo fueron al haberse deducido indebidamente, gastos o crédito fiscal respecto de vehículos, como asimismo, aquéllos incurridos en supermercados y comercios similares, incumpliendo así con los requisitos establecidos en el artículo 31 de la Ley sobre Impuesto a la Renta.
+Ahora bien, la norma que se incorpora en la parte final del numeral 20 del artÃ­culo 97 del CÃ³digo Tributario, dispone que se aplicarÃ¡ una multa de hasta un 200% de la suma de todos los impuestos que deberÃ­an haberse enterado en arcas fiscales, y que no lo fueron al haberse deducido indebidamente, gastos o crÃ©dito fiscal respecto de vehÃ­culos, como asimismo, aquÃ©llos incurridos en supermercados y comercios similares, incumpliendo asÃ­ con los requisitos establecidos en el artÃ­culo 31 de la Ley sobre Impuesto a la Renta.
 
-Por consiguiente, para la aplicación de la multa se deberá tener en cuenta:
+Por consiguiente, para la aplicaciÃ³n de la multa se deberÃ¡ tener en cuenta:
 
 * A. Conductas sancionadas:
 
-De acuerdo con la modificación introducida al artículo 97 N° 20 citado, se incorporan nuevas conductas infraccionales, en que pueden incurrir los contribuyentes del Impuesto al Valor Agregado o del Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta, que no sean sociedades anónimas abiertas, y que se verifican al realizar alguna de las siguientes conductas:
+De acuerdo con la modificaciÃ³n introducida al artÃ­culo 97 NÂ° 20 citado, se incorporan nuevas conductas infraccionales, en que pueden incurrir los contribuyentes del Impuesto al Valor Agregado o del Impuesto de Primera CategorÃ­a de la Ley sobre Impuesto a la Renta, que no sean sociedades anÃ³nimas abiertas, y que se verifican al realizar alguna de las siguientes conductas:
 
-* i) Deducción como gasto de la base imponible del Impuesto de Primera Categoría de desembolsos relacionados con vehículos, que no cumplan con los requisitos del artículo 31 de la Ley sobre Impuesto a la Renta.
+* i) DeducciÃ³n como gasto de la base imponible del Impuesto de Primera CategorÃ­a de desembolsos relacionados con vehÃ­culos, que no cumplan con los requisitos del artÃ­culo 31 de la Ley sobre Impuesto a la Renta.
 
-1. ii) Uso del crédito fiscal IVA por desembolsos, efectuados respecto de vehículos, que no den lugar a este derecho.
-2. iii) Deducción como gasto de la base imponible del Impuesto de Primera Categoría, de desembolsos incurridos en supermercados y comercios similares que no cumplan los requisitos del artículo 31 citado.
-3. iv) Uso del crédito fiscal IVA por desembolsos efectuados por concepto de compras realizadas en supermercados y comercios similares, que no den lugar a este derecho.
+1. ii) Uso del crÃ©dito fiscal IVA por desembolsos, efectuados respecto de vehÃ­culos, que no den lugar a este derecho.
+2. iii) DeducciÃ³n como gasto de la base imponible del Impuesto de Primera CategorÃ­a, de desembolsos incurridos en supermercados y comercios similares que no cumplan los requisitos del artÃ­culo 31 citado.
+3. iv) Uso del crÃ©dito fiscal IVA por desembolsos efectuados por concepto de compras realizadas en supermercados y comercios similares, que no den lugar a este derecho.
 
-* B. Elementos comunes de las conductas constitutivas de la infracción:
-* i. Sujetos activos de la infracción.
+* B. Elementos comunes de las conductas constitutivas de la infracciÃ³n:
+* i. Sujetos activos de la infracciÃ³n.
 
-Como ya se indicó, sólo pueden ser autores de la nueva infracción que se analiza los contribuyentes del Impuesto al Valor Agregado o contribuyentes del Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta, que no sean sociedades anónimas abiertas.
+Como ya se indicÃ³, sÃ³lo pueden ser autores de la nueva infracciÃ³n que se analiza los contribuyentes del Impuesto al Valor Agregado o contribuyentes del Impuesto de Primera CategorÃ­a de la Ley sobre Impuesto a la Renta, que no sean sociedades anÃ³nimas abiertas.
 
-Cuando se verifiquen los hechos constitutivos de esta nueva infracción, ella prevalecerá sobre la infracción anterior, contenida en la primera parte del N° 20 del artículo 97 citado.
+Cuando se verifiquen los hechos constitutivos de esta nueva infracciÃ³n, ella prevalecerÃ¡ sobre la infracciÃ³n anterior, contenida en la primera parte del NÂ° 20 del artÃ­culo 97 citado.
 
-No obstante, cabe tener presente que no se incurrirá en la infracción en referencia cuando concurran las circunstancias señaladas en la parte final del inciso primero del artículo 31 de la Ley sobre Impuesto a la Renta, de acuerdo a las modificaciones introducidas por la Ley N° 20.780, que establece lo siguiente: 'Tampoco procederá la deducción de gastos incurridos en supermercados y comercios similares, cuando no correspondan a bienes necesarios para el desarrollo del giro habitual del contribuyente. No obstante, procederá la deducción de los gastos respecto de los vehículos señalados, cuando el Director los califique previamente de necesarios, a su juicio exclusivo. Tratándose de los gastos incurridos en supermercados y comercios similares, podrá llevarse a cabo su deducción cuando no excedan de 5 unidades tributarias anuales durante el ejercicio respectivo, siempre que se cumpla con todos los requisitos que establece el presente artículo. Cuando tales gastos excedan del monto señalado, igualmente procederá su deducción cumpliéndose la totalidad de los requisitos que establece este artículo, siempre que previo a presentar la declaración anual de impuesto a la renta, se informe al Servicio, en la forma que establezca mediante resolución, el monto en que se ha incurrido en los referidos gastos, así como el nombre y número de rol único tributario de él o los proveedores.'
+No obstante, cabe tener presente que no se incurrirÃ¡ en la infracciÃ³n en referencia cuando concurran las circunstancias seÃ±aladas en la parte final del inciso primero del artÃ­culo 31 de la Ley sobre Impuesto a la Renta, de acuerdo a las modificaciones introducidas por la Ley NÂ° 20.780, que establece lo siguiente: 'Tampoco procederÃ¡ la deducciÃ³n de gastos incurridos en supermercados y comercios similares, cuando no correspondan a bienes necesarios para el desarrollo del giro habitual del contribuyente. No obstante, procederÃ¡ la deducciÃ³n de los gastos respecto de los vehÃ­culos seÃ±alados, cuando el Director los califique previamente de necesarios, a su juicio exclusivo. TratÃ¡ndose de los gastos incurridos en supermercados y comercios similares, podrÃ¡ llevarse a cabo su deducciÃ³n cuando no excedan de 5 unidades tributarias anuales durante el ejercicio respectivo, siempre que se cumpla con todos los requisitos que establece el presente artÃ­culo. Cuando tales gastos excedan del monto seÃ±alado, igualmente procederÃ¡ su deducciÃ³n cumpliÃ©ndose la totalidad de los requisitos que establece este artÃ­culo, siempre que previo a presentar la declaraciÃ³n anual de impuesto a la renta, se informe al Servicio, en la forma que establezca mediante resoluciÃ³n, el monto en que se ha incurrido en los referidos gastos, asÃ­ como el nombre y nÃºmero de rol Ãºnico tributario de Ã©l o los proveedores.'
 
-## ii. La reiteración no es requisito para configurar la infracción.
+## ii. La reiteraciÃ³n no es requisito para configurar la infracciÃ³n.
 
-A diferencia de la infracción anterior, establecida en la primera parte de la norma en análisis, cabe precisar que la nueva infracción no requiere que el contribuyente haya incurrido reiteradamente en la conducta. La infracción se configura al realizar una vez el hecho previsto en la disposición.
+A diferencia de la infracciÃ³n anterior, establecida en la primera parte de la norma en anÃ¡lisis, cabe precisar que la nueva infracciÃ³n no requiere que el contribuyente haya incurrido reiteradamente en la conducta. La infracciÃ³n se configura al realizar una vez el hecho previsto en la disposiciÃ³n.
 
-## iii. Momento en que se entenderá configurada la infracción.
+## iii. Momento en que se entenderÃ¡ configurada la infracciÃ³n.
 
-Tal como señala la Circular N° 67 de este Servicio, de fecha 05 de noviembre de 1998, respecto a la infracción establecida en la primera parte de la norma en análisis, se entenderá configurada la infracción de la parte final cuando el respectivo contribuyente en sus declaraciones de IVA o Impuesto a la Renta realice una deducción como gasto de la base imponible del Impuesto de Primera Categoría de desembolsos relacionados con vehículos, que no cumplan con los requisitos del artículo 31 de la Ley sobre Impuesto a la Renta, o haga uso indebido como crédito fiscal de desembolsos efectuados respecto de vehículos que no den este derecho, o realice una deducción como gasto de la base imponible del Impuesto de Primera Categoría de desembolsos incurridos en supermercados y comercios similares que serán rechazados, o haga un uso indebido como crédito fiscal de desembolsos efectuados por concepto de compras realizadas en supermercados y comercios similares que no den este derecho.
+Tal como seÃ±ala la Circular NÂ° 67 de este Servicio, de fecha 05 de noviembre de 1998, respecto a la infracciÃ³n establecida en la primera parte de la norma en anÃ¡lisis, se entenderÃ¡ configurada la infracciÃ³n de la parte final cuando el respectivo contribuyente en sus declaraciones de IVA o Impuesto a la Renta realice una deducciÃ³n como gasto de la base imponible del Impuesto de Primera CategorÃ­a de desembolsos relacionados con vehÃ­culos, que no cumplan con los requisitos del artÃ­culo 31 de la Ley sobre Impuesto a la Renta, o haga uso indebido como crÃ©dito fiscal de desembolsos efectuados respecto de vehÃ­culos que no den este derecho, o realice una deducciÃ³n como gasto de la base imponible del Impuesto de Primera CategorÃ­a de desembolsos incurridos en supermercados y comercios similares que serÃ¡n rechazados, o haga un uso indebido como crÃ©dito fiscal de desembolsos efectuados por concepto de compras realizadas en supermercados y comercios similares que no den este derecho.
 
-## iv. Sanción.
+## iv. SanciÃ³n.
 
-La sanción contemplada para quienes infrinjan la disposición en comento, será de multa de hasta el 200% de todos los impuestos que deberían haberse enterado en arcas fiscales, de no mediar la deducción indebida.
+La sanciÃ³n contemplada para quienes infrinjan la disposiciÃ³n en comento, serÃ¡ de multa de hasta el 200% de todos los impuestos que deberÃ­an haberse enterado en arcas fiscales, de no mediar la deducciÃ³n indebida.
 
-Por aplicación de lo dispuesto en la parte final del inciso primero del artículo 106 del Código Tributario, los contribuyentes que auto denuncien las infracciones en que han incurrido o que denunciados por los funcionarios del Servicio, confiesen la contravención en que han participado y se allanen a pagar la multa, podrán beneficiarse con las condonaciones que indica el Capítulo III de la Circular N° 01, del 02 de enero del 2004 que regula la materia, y sus modificaciones, siempre que se cumplan los requisitos establecidos para tal efecto.
+Por aplicaciÃ³n de lo dispuesto en la parte final del inciso primero del artÃ­culo 106 del CÃ³digo Tributario, los contribuyentes que auto denuncien las infracciones en que han incurrido o que denunciados por los funcionarios del Servicio, confiesen la contravenciÃ³n en que han participado y se allanen a pagar la multa, podrÃ¡n beneficiarse con las condonaciones que indica el CapÃ­tulo III de la Circular NÂ° 01, del 02 de enero del 2004 que regula la materia, y sus modificaciones, siempre que se cumplan los requisitos establecidos para tal efecto.
 
-En cuanto a los conceptos incorporados por la norma; a saber: 'supermercado' y 'comercios similares' debe tenerse presente lo establecido en la Circular N° 51 de este Servicio, de fecha 03 de octubre de 2014.
+En cuanto a los conceptos incorporados por la norma; a saber: 'supermercado' y 'comercios similares' debe tenerse presente lo establecido en la Circular NÂ° 51 de este Servicio, de fecha 03 de octubre de 2014.
 
 ## V. VIGENCIA DE LA LEY Y DE ESTAS INSTRUCCIONES.
 
-La Ley N° 20.780, en lo relativo al numeral 20 del artículo 97 del Código Tributario, rige a contar del 01 de enero de 2015. En consecuencia, la sanción que la norma establece se aplicará a hechos que se materialicen a contar de esa fecha.
+La Ley NÂ° 20.780, en lo relativo al numeral 20 del artÃ­culo 97 del CÃ³digo Tributario, rige a contar del 01 de enero de 2015. En consecuencia, la sanciÃ³n que la norma establece se aplicarÃ¡ a hechos que se materialicen a contar de esa fecha.
 
 Saluda a Ud.,
 
-CVM/LMC/MFM/cls DISTRIBUCIÓN: - A INTERNET - AL BOLETÍN -AL DIARIO OFICIAL EN EXTRACTO
+CVM/LMC/MFM/cls DISTRIBUCIÃ“N: - A INTERNET - AL BOLETÃN -AL DIARIO OFICIAL EN EXTRACTO
 
 ## MICHEL JORRATT DE LUIS DIRECTOR (T y P)

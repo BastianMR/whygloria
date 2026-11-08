@@ -1,8 +1,7 @@
----
-type: SII Resolución
-title: Resolución N° 22 (2018)
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 22 (2018)
 description: DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
-resource: ./2018_RESOLUCION_reso22.md.docx
 tags: [SII, 2018, resolucion]
 ---
 
@@ -12,30 +11,30 @@ SANTIAGO, 5 DE MARZO 2018
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÓN EXENTA SII N°22.-/
+RESOLUCIÃ“N EXENTA SII NÂ°22.-/
 
-VISTOS: Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7 de 1980, del Ministerio de Hacienda; el artículo 6 letra A N° 3 del Código Tributario; los artículos 2, 3, 31, 36 y 41 de la Ley N° 18.575; la Resolución N° 1600, de 2008, de la Contraloría General de la República, y
+VISTOS: Los artÃ­culos 7, letras e), i) y j), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del D.F.L. NÂ° 7 de 1980, del Ministerio de Hacienda; el artÃ­culo 6 letra A NÂ° 3 del CÃ³digo Tributario; los artÃ­culos 2, 3, 31, 36 y 41 de la Ley NÂ° 18.575; la ResoluciÃ³n NÂ° 1600, de 2008, de la ContralorÃ­a General de la RepÃºblica, y
 
 ## CONSIDERANDO:
 
-1. Que, en juicio en actual tramitación ante el 2° Juzgado de Letras Civil de Santiago, Causa Rol N° C-6261-2017, se ha citado a absolver posiciones al Director del Servicio de Impuestos Internos, en su calidad de Jefe Superior de la Institución;
-2. La imposibilidad del Director de concurrir personalmente a la audiencia fijada para absolver posiciones en el juicio señalado en el considerando previo;
-3. Que, el artículo 41 de la Ley N° 18.575 autoriza a delegar las atribuciones y facultades conferidas a este Director, de manera parcial y para materias específicas; y
+1. Que, en juicio en actual tramitaciÃ³n ante el 2Â° Juzgado de Letras Civil de Santiago, Causa Rol NÂ° C-6261-2017, se ha citado a absolver posiciones al Director del Servicio de Impuestos Internos, en su calidad de Jefe Superior de la InstituciÃ³n;
+2. La imposibilidad del Director de concurrir personalmente a la audiencia fijada para absolver posiciones en el juicio seÃ±alado en el considerando previo;
+3. Que, el artÃ­culo 41 de la Ley NÂ° 18.575 autoriza a delegar las atribuciones y facultades conferidas a este Director, de manera parcial y para materias especÃ­ficas; y
 4. Las necesidades del Servicio,
 
 ## SE RESUELVE:
 
-1. Delégase la facultad de absolver posiciones, en representación del Servicio de Impuestos Internos, en juicio substanciado ante el 2° Juzgado Civil de Santiago, Causa Rol N° C-6261-2017, en doña María Marcela Muñoz Foglia, RUT N° 9.339.012-1, funcionario grado 6° Directivo, Abogado Jefe del Departamento de Defensa Judicial Civil de la Subdirección Jurídica del Servicio de Impuestos Internos.
-2. Una vez tramitada, publíquese la presente resolución exenta en el portal web del Servicio de Impuestos Internos, en el banner 'Gobierno Transparente', a objeto de dar cumplimiento a lo previsto en los artículos 7 de la Ley N° 20.285 sobre Acceso a la Información Pública y 51 de su Reglamento.
+1. DelÃ©gase la facultad de absolver posiciones, en representaciÃ³n del Servicio de Impuestos Internos, en juicio substanciado ante el 2Â° Juzgado Civil de Santiago, Causa Rol NÂ° C-6261-2017, en doÃ±a MarÃ­a Marcela MuÃ±oz Foglia, RUT NÂ° 9.339.012-1, funcionario grado 6Â° Directivo, Abogado Jefe del Departamento de Defensa Judicial Civil de la SubdirecciÃ³n JurÃ­dica del Servicio de Impuestos Internos.
+2. Una vez tramitada, publÃ­quese la presente resoluciÃ³n exenta en el portal web del Servicio de Impuestos Internos, en el banner 'Gobierno Transparente', a objeto de dar cumplimiento a lo previsto en los artÃ­culos 7 de la Ley NÂ° 20.285 sobre Acceso a la InformaciÃ³n PÃºblica y 51 de su Reglamento.
 
-ANÓTESE, PUBLÍQUESE Y NOTIFÍQUESE POR CARTA CERTIFICADA AL DEMANDANTE DE LA CAUSA Rol N° C-6261-2017, del 2° Juzgado de Letras Civil de Santiago.
+ANÃ“TESE, PUBLÃQUESE Y NOTIFÃQUESE POR CARTA CERTIFICADA AL DEMANDANTE DE LA CAUSA Rol NÂ° C-6261-2017, del 2Â° Juzgado de Letras Civil de Santiago.
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 Lo que transcribo para su conocimiento y fines pertinentes.
 
-Distribución:
+DistribuciÃ³n:
 
-* -Boletín.
+* -BoletÃ­n.
 * -Internet.
 * Diario Oficial en extracto

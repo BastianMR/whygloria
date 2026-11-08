@@ -1,36 +1,35 @@
----
-type: SII Resolución
-title: Resolución N° 20 (2022)
-description: SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00194121
-resource: ./2022_RESOLUCION_reso20.md.docx
+﻿---
+type: SII ResoluciÃ³n
+title: ResoluciÃ³n NÂ° 20 (2022)
+description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00194121
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00194121
+## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00194121
 
-MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos.
+MATERIA: Aprueba Addendum al Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre el instituto de PrevisiÃ³n Social y el Servicio de Impuestos Internos.
 
 SANTIAGO, 24 DE FEBRERO DE 2022.
 
-RESOLUCIÓN EX. SII N° 20.
+RESOLUCIÃ“N EX. SII NÂ° 20.
 
-VISTOS: Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; Ley N° 19.628, sobre Protección de la Vida Privada; Ley N° 20.285 sobre Acceso a la Información Pública y la Ley N° 20.255, que establece reforma previsional.
+VISTOS: Lo dispuesto en los artÃ­culos 1Â° y 7Â° letras a), c) y o) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; Ley NÂ° 20.285 sobre Acceso a la InformaciÃ³n PÃºblica y la Ley NÂ° 20.255, que establece reforma previsional.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente.
 
-1. Que, a su vez, al Instituto de Previsión Social le corresponde entre otras funciones, la administración del sistema de pensiones solidarias y de los regímenes previsionales administrados por el ex Instituto de Normalización Previsional (INP).
+1. Que, a su vez, al Instituto de PrevisiÃ³n Social le corresponde entre otras funciones, la administraciÃ³n del sistema de pensiones solidarias y de los regÃ­menes previsionales administrados por el ex Instituto de NormalizaciÃ³n Previsional (INP).
 
-3.- Que, en virtud de lo anterior, el Servicio de Impuestos Internos y el Instituto de Previsión Social han acordado suscribir el presente Addendum al convenio de colaboración entre ambas instituciones firmado con fecha 22 de febrero de 2018, aprobado por RES. EX. SII N°38 del 12 de abril del 2018 y RES. EX. IPS N°97 del 28 de febrero del 2018, a fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han asignado.
+3.- Que, en virtud de lo anterior, el Servicio de Impuestos Internos y el Instituto de PrevisiÃ³n Social han acordado suscribir el presente Addendum al convenio de colaboraciÃ³n entre ambas instituciones firmado con fecha 22 de febrero de 2018, aprobado por RES. EX. SII NÂ°38 del 12 de abril del 2018 y RES. EX. IPS NÂ°97 del 28 de febrero del 2018, a fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han asignado.
 
 ## RESUELVO:
 
-Apruébese Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos, celebrado el 07 de diciembre de 2021, cuyo texto es el siguiente:
+ApruÃ©bese Addendum al Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre el Instituto de PrevisiÃ³n Social y el Servicio de Impuestos Internos, celebrado el 07 de diciembre de 2021, cuyo texto es el siguiente:
 
-## 'ADDENDUM A CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE IMPUESTOS INTERNOS
+## 'ADDENDUM A CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE EL INSTITUTO DE PREVISIÃ“N SOCIAL Y EL SERVICIO DE IMPUESTOS INTERNOS
 
-En Santiago, a 07 de diciembre de 2021, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don Fernando Barraza Luengo, cédula de identidad N°9.403.994-0, ambos con domicilio en Teatinos N°120, Santiago y el Instituto de Previsión Social, RUT N°61.979.440-0, en adelante indistintamente denominado 'INSTITUTO' o el 'IPS', representado legalmente por su Director Nacional don Patricio Alejandro Coronado Rojo, RUT N°8.775.371-9, ambos domiciliados en calle Huérfanos N°886, piso 2, Santiago, se ha convenido la siguiente modificación al convenio de intercambio de información y colaboración suscrito entre ambas instituciones con fecha 22 de febrero de 2018:
+En Santiago, a 07 de diciembre de 2021, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don Fernando Barraza Luengo, cÃ©dula de identidad NÂ°9.403.994-0, ambos con domicilio en Teatinos NÂ°120, Santiago y el Instituto de PrevisiÃ³n Social, RUT NÂ°61.979.440-0, en adelante indistintamente denominado 'INSTITUTO' o el 'IPS', representado legalmente por su Director Nacional don Patricio Alejandro Coronado Rojo, RUT NÂ°8.775.371-9, ambos domiciliados en calle HuÃ©rfanos NÂ°886, piso 2, Santiago, se ha convenido la siguiente modificaciÃ³n al convenio de intercambio de informaciÃ³n y colaboraciÃ³n suscrito entre ambas instituciones con fecha 22 de febrero de 2018:
 
 ## PRIMERO:
 
@@ -38,69 +37,69 @@ SEGUNDO:
 
 TERCERO:
 
-Con fecha 22 de febrero de 2018, entre el SERVICIO y el INSTITUTO se suscribió un Convenio de Intercambio de información y Colaboración destinado a regular la entrega recíproca de información, para ser utilizada dentro del marco de sus respectivas competencias legales, con el fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les encomiendan.
+Con fecha 22 de febrero de 2018, entre el SERVICIO y el INSTITUTO se suscribiÃ³ un Convenio de Intercambio de informaciÃ³n y ColaboraciÃ³n destinado a regular la entrega recÃ­proca de informaciÃ³n, para ser utilizada dentro del marco de sus respectivas competencias legales, con el fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les encomiendan.
 
-Conforme a la cláusula tercera del referido convenio, para efectos de cumplir el intercambio de información entre el INSTITUTO y el SERVICIO, la información a ser transmitida se detallará en anexos que se entienden parte integrante del convenio.
+Conforme a la clÃ¡usula tercera del referido convenio, para efectos de cumplir el intercambio de informaciÃ³n entre el INSTITUTO y el SERVICIO, la informaciÃ³n a ser transmitida se detallarÃ¡ en anexos que se entienden parte integrante del convenio.
 
-Atendido lo expuesto precedentemente, ha surgido la necesidad de incorporar un nuevo Anexo que permita al INSTITUTO obtener información de inicios de actividades y términos de giro de los contribuyentes, además, de la modificación de la cláusula quinta que señala los coordinadores del convenio.
+Atendido lo expuesto precedentemente, ha surgido la necesidad de incorporar un nuevo Anexo que permita al INSTITUTO obtener informaciÃ³n de inicios de actividades y tÃ©rminos de giro de los contribuyentes, ademÃ¡s, de la modificaciÃ³n de la clÃ¡usula quinta que seÃ±ala los coordinadores del convenio.
 
-En virtud de lo anterior, ambas partes acuerdan complementar el Convenio de Intercambio de Información y Colaboración de fecha 22 de febrero de 2018, en el siguiente sentido:
+En virtud de lo anterior, ambas partes acuerdan complementar el Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n de fecha 22 de febrero de 2018, en el siguiente sentido:
 
-* 1.- Modifíquese la expresión 'octubre' de la letra d) Información de Ingresos del Anexo 1, por: 'septiembre'.
-* 2.- Incorpórese al Convenio de Intercambio de Información y Colaboración el siguiente 'Anexo N°4 Información de Inicios de Actividades y Términos de Giro':
+* 1.- ModifÃ­quese la expresiÃ³n 'octubre' de la letra d) InformaciÃ³n de Ingresos del Anexo 1, por: 'septiembre'.
+* 2.- IncorpÃ³rese al Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n el siguiente 'Anexo NÂ°4 InformaciÃ³n de Inicios de Actividades y TÃ©rminos de Giro':
 
-## ' ANEXO N°4 INFORMACIÓN DE INICIOS DE ACTIVIDADES Y TÉRMINOS DE GIRO
+## ' ANEXO NÂ°4 INFORMACIÃ“N DE INICIOS DE ACTIVIDADES Y TÃ‰RMINOS DE GIRO
 
-El SERVICIO proporcionará al INSTITUTO la siguiente información, de manera semanal:
+El SERVICIO proporcionarÃ¡ al INSTITUTO la siguiente informaciÃ³n, de manera semanal:
 
-* a) Información de inicio de actividades
+* a) InformaciÃ³n de inicio de actividades
 
-El Servicio enviará al IPS -semanalmente- la siguiente información de inicios de actividades relativa al último período semanal no informado:
+El Servicio enviarÃ¡ al IPS -semanalmente- la siguiente informaciÃ³n de inicios de actividades relativa al Ãºltimo perÃ­odo semanal no informado:
 
-| **CAMPO** | **DESCRIPCIÓN** |
+| **CAMPO** | **DESCRIPCIÃ“N** |
 | --- | --- |
 | Rut | Rut del contribuyente |
-| Dv | Dígito verificador del contribuyente |
-| Razón Social | Razón social |
-| Dirección | Dirección |
+| Dv | DÃ­gito verificador del contribuyente |
+| RazÃ³n Social | RazÃ³n social |
+| DirecciÃ³n | DirecciÃ³n |
 | Comuna | Comuna |
 | Fecha Inicial | Fecha Inicial |
-| Marca | Inicio de actividades = 0, Término de giro = 1 |
+| Marca | Inicio de actividades = 0, TÃ©rmino de giro = 1 |
 
 <unknown>
 
-## b) Información de términos de giro
+## b) InformaciÃ³n de tÃ©rminos de giro
 
-El Servicio enviará al IPS -semanalmente- la siguiente información relativa a los Términos de Giro correspondiente al último período semanal no informado:
+El Servicio enviarÃ¡ al IPS -semanalmente- la siguiente informaciÃ³n relativa a los TÃ©rminos de Giro correspondiente al Ãºltimo perÃ­odo semanal no informado:
 
-| **CAMPO** | **DESCRIPCIÓN** |
+| **CAMPO** | **DESCRIPCIÃ“N** |
 | --- | --- |
 | Rut | Rut del contribuyente |
-| Dv | Dígito verificador del contribuyente |
-| Razón Social | Razón social |
-| Dirección | Dirección |
+| Dv | DÃ­gito verificador del contribuyente |
+| RazÃ³n Social | RazÃ³n social |
+| DirecciÃ³n | DirecciÃ³n |
 | Comuna | Comuna |
 | Fecha Inicial | Fecha Inicial |
-| Marca | Inicio de actividades = 0, Término de giro = 1 |
+| Marca | Inicio de actividades = 0, TÃ©rmino de giro = 1 |
 
 CUARTO:
 
 QUINTO:
 
-El presente Addendum se extiende y firma electrónicamente, cada una de las partes deberá conservar el documento en que consten las firmas de ambos concurrentes.
+El presente Addendum se extiende y firma electrÃ³nicamente, cada una de las partes deberÃ¡ conservar el documento en que consten las firmas de ambos concurrentes.
 
-La personería de don Patricio Alejandro Coronado Rojo, para representar al Instituto de Previsión Social, consta en el Decreto Supremo Nº02, del 08 de enero de 2021, del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión Social, y publicado en el Diario Oficial el día 26 de agosto de 2021.
+La personerÃ­a de don Patricio Alejandro Coronado Rojo, para representar al Instituto de PrevisiÃ³n Social, consta en el Decreto Supremo NÂº02, del 08 de enero de 2021, del Ministerio del Trabajo y PrevisiÃ³n Social, SubsecretarÃ­a de PrevisiÃ³n Social, y publicado en el Diario Oficial el dÃ­a 26 de agosto de 2021.
 
-La personería de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo N°1441, del día 13 de agosto de 2021, del Ministerio de Hacienda.
+La personerÃ­a de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo NÂ°1441, del dÃ­a 13 de agosto de 2021, del Ministerio de Hacienda.
 
-PATRICIO CORONADO ROJO DIRECTOR NACIONAL INSTITUTO DE PREVISIÓN SOCIAL
+PATRICIO CORONADO ROJO DIRECTOR NACIONAL INSTITUTO DE PREVISIÃ“N SOCIAL
 
 FERNANDO BARRAZA LUENGO DIRECTOR SERVICIO DE IMPUESTOS INTERNOS'
 
-ANÓTESE, COMUNÍQUESE y PUBLÍQUESE.
+ANÃ“TESE, COMUNÃQUESE y PUBLÃQUESE.
 
 <unknown>
 
 ## DIRECTOR
 
-AMK Distribución - Internet
+AMK DistribuciÃ³n - Internet

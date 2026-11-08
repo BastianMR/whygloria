@@ -1,22 +1,21 @@
----
+﻿---
 type: SII Circular
-title: Circular N° 43 (2017)
-description: SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 43 |
-resource: ./2017_CIRCULAR_circu43.md.docx
+title: Circular NÂ° 43 (2017)
+description: SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | CIRCULAR NÂº 43 |
 tags: [SII, 2017, circular]
 ---
 
-| **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 43** |
+| **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **CIRCULAR NÂº 43** |
 | --- | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 23 DE AGOSTO 2017 |
-| MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2017 | MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2017 | REFERENCIA: NºYNOMBREDELVOLUMEN Arts. 53 y 97 Nºs. 2 y 11 D.L. Nº 830, de 1974, sobre Código Tributario. |
-| USO DE CIRCULARES: | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
+| MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2017 | MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2017 | REFERENCIA: NÂºYNOMBREDELVOLUMEN Arts. 53 y 97 NÂºs. 2 y 11 D.L. NÂº 830, de 1974, sobre CÃ³digo Tributario. |
+| USO DE CIRCULARES: | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
 
-La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de SEPTIEMBRE DE 2017.
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s y multa de los Arts. 53 y 97 NÂºs. 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de SEPTIEMBRE DE 2017.
 
-| **Mes de Vcto.** | **% Reajuste Art 53** | **% InterØs Art 53 Inc.3°** | **% Multa Art. 97 N°2** | **% Multa Art.97 N°11** | **% Multa Art.97 N°11** | **IPC (INE) Base Anual 2013=100** | **U.T.M.** |
+| **Mes de Vcto.** | **% Reajuste Art 53** | **% InterÃ˜s Art 53 Inc.3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa Art.97 NÂ°11** | **% Multa Art.97 NÂ°11** | **IPC (INE) Base Anual 2013=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Inc.1° |  |  | Inc.1° | Inc.2° |  |  |
+|  | Inc.1Â° |  |  | Inc.1Â° | Inc.2Â° |  |  |
 | 2011 ENE | 24,3 | 121,5 | 30 | 30 | 60 | 93,2200 | 37.643 |
 |  | FEB | 24,2 120,0 | 30 | 30 | 60 | 93,4300 | 37.681 |
 |  | MAR 23,8 | 118,5 | 30 | 30 | 60 | 94,1500 | 37.794 |
@@ -66,9 +65,9 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 |  |  | 9,4 |  |  |  | 106,6600 | 42.770 |
 | DIC | NOV 8,3 | 52,5 51,0 | 30 30 | 30 30 | 60 60 | 106,2200 | 43.198 |
 
-|  | **Mes de** | **% Reajuste Art 53 Inc.1°** | **% InterØs Art 53 Inc.3°** | **% Multa Art. 97 N°2** | **% Multa** | **% Multa** | **IPC (INE) Base Anual 2013=100** | **U.T.M.** |
+|  | **Mes de** | **% Reajuste Art 53 Inc.1Â°** | **% InterÃ˜s Art 53 Inc.3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa** | **% Multa** | **IPC (INE) Base Anual 2013=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Vcto. |  |  |  | Art.97 Inc.1° | N°11 Inc.2° |  |  |
+|  | Vcto. |  |  |  | Art.97 Inc.1Â° | NÂ°11 Inc.2Â° |  |  |
 | 2015 | ENE | 8,2 | 49,5 | 30 | 30 | 60 | 106,3000 | 43.198 |
 |  | FEB | 8,7 | 48,0 | 30 | 30 | 60 | 106,6800 | 43.025 |
 |  | MAR | 8,6 | 46,5 | 30 | 30 | 60 | 107,3500 | 43.068 |
@@ -107,7 +106,7 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 
 1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
 
-AÑO
+AÃ‘O
 
 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
 
@@ -115,14 +114,14 @@ AÑO
 
 0,0 0,2 0,7 1,7 0,0 0,6 1,4 1,3 0,7 2,1 0,6 1,1 1,0
 
-1. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
-2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18, de 2010, del SII.
+1. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
+2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el I.P.C. entregada por el I.N.E. en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y ReconstrucciÃ³n, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18, de 2010, del SII.
 
-Se hace presente que a contar del Índice de Enero de 2014 rige el IPC, base anual 2013=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2013=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Ãndice de Enero de 2014 rige el IPC, base anual 2013=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2013=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
-## DISTRIBUCIÓN:
+## DISTRIBUCIÃ“N:
 
 * Internet
 
