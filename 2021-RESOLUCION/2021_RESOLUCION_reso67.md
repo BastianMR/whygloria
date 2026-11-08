@@ -1,55 +1,56 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 42 (2021)
-description: FIJA NÃ“MINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÃ“N, CONFORME A RESOLUCIÃ“N EX. SII NÂ° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMB...
+---
+type: "SII Resolución"
+title: "Resolución N° 42 (2021)"
+description: "FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMB..."
 tags: [SII, 2021, resolucion]
 ---
 
-FIJA NÃ“MINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÃ“N, CONFORME A RESOLUCIÃ“N EX. SII NÂ° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA.
+
+FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA.
 
 SANTIAGO, 30 DE JUNIO DE 2021
 
-RESOLUCIÃ“N EX. SII NÂ°67.-
+RESOLUCIÓN EX. SII N°67.-
 
-VISTOS: Las facultades contempladas en los artÃ­culos 1Â°, 4Â° bis y letra b) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el ArtÃ­culo Primero del D.F.L. NÂ° 7 de 1980, del Ministerio de Hacienda; en el artÃ­culo 6Â°, letra A, NÂ° 1 y 88 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830 de 1974, del Ministerio de Hacienda; en los artÃ­culos 2Â°, 3Â° y 8Â° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825 de 1974, del Ministerio de Hacienda; las normas contenidas en el TÃ­tulo XIII del D.S. NÂ° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, tambiÃ©n del Ministerio de Hacienda; y ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018.
+VISTOS: Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7 de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda; en los artículos 2°, 3° y 8° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825 de 1974, del Ministerio de Hacienda; las normas contenidas en el Título XIII del D.S. N° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, también del Ministerio de Hacienda; y Resolución Ex. SII N° 42, de 30 de abril de 2018.
 
 ## CONSIDERANDO:
 
-1Â°. Que, segÃºn lo previsto en los artÃ­culos 2Âº, NÂ°s 3Â°) y 4Â°), 3Âº y 10 de la Ley sobre Impuesto a las Ventas y Servicios, el sujeto pasivo de derecho del IVA es el vendedor o prestador de servicios, no obstante lo cual, el inciso tercero del artÃ­culo 3Â° de la misma Ley prescribe que este tributo afectarÃ¡ al adquirente, en los casos que asÃ­ lo determine la DirecciÃ³n Nacional del Servicio de Impuestos Internos, a travÃ©s de las normas generales que imparta.
+1°. Que, según lo previsto en los artículos 2º, N°s 3°) y 4°), 3º y 10 de la Ley sobre Impuesto a las Ventas y Servicios, el sujeto pasivo de derecho del IVA es el vendedor o prestador de servicios, no obstante lo cual, el inciso tercero del artículo 3° de la misma Ley prescribe que este tributo afectará al adquirente, en los casos que así lo determine la Dirección Nacional del Servicio de Impuestos Internos, a través de las normas generales que imparta.
 
-2Â°. Que, mediante ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, se estableciÃ³ el cambio de sujeto total de derecho para el cumplimiento de IVA.
+2°. Que, mediante Resolución Ex. SII N° 42, de 30 de abril de 2018, se estableció el cambio de sujeto total de derecho para el cumplimiento de IVA.
 
-3Â°. Que, este Servicio, tiene por misiÃ³n procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitaciÃ³n del cumplimiento.
+3°. Que, este Servicio, tiene por misión procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitación del cumplimiento.
 
-4Â°. Que, el Resolutivo NÂº 3 de la resoluciÃ³n antes citada, creÃ³ los registros denominados 'NÃ³mina de Agentes Retenedores' y 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarÃ¡n afectas al cambio de sujeto.
+4°. Que, el Resolutivo Nº 3 de la resolución antes citada, creó los registros denominados 'Nómina de Agentes Retenedores' y 'Nómina de Contribuyentes Sujetos a Retención'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarán afectas al cambio de sujeto.
 
-5Â°. Que, de conformidad con lo dispuesto en el Resolutivo NÂº 4 de la ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, corresponde publicar las NÃ³minas de Contribuyentes Sujetos a RetenciÃ³n y de Agentes Retenedores el Ãºltimo dÃ­a hÃ¡bil de junio y diciembre de cada aÃ±o.
+5°. Que, de conformidad con lo dispuesto en el Resolutivo Nº 4 de la Resolución Ex. SII N° 42, de 30 de abril de 2018, corresponde publicar las Nóminas de Contribuyentes Sujetos a Retención y de Agentes Retenedores el último día hábil de junio y diciembre de cada año.
 
-6Â°. Que, la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n, podrÃ¡ ser conformada, entre otros, por aquellos contribuyentes que se encuentren en alguna de las situaciones descritas en el Resolutivo NÂ° 3 de la ResoluciÃ³n Ex. SII. NÂ° 42 de 2018.
+6°. Que, la Nómina de Contribuyentes Sujetos a Retención, podrá ser conformada, entre otros, por aquellos contribuyentes que se encuentren en alguna de las situaciones descritas en el Resolutivo N° 3 de la Resolución Ex. SII. N° 42 de 2018.
 
 <unknown>
 
-7Â°. Que por su parte, este Servicio, analizando las adquisiciones gravadas con IVA efectuadas por el total de contribuyentes y, dentro de ellas, las ventas y servicios que los contribuyentes sujetos a retenciÃ³n celebran con sus principales compradores, ha determinado cuÃ¡les de ellos serÃ¡n incorporados a la NÃ³mina de Agentes Retenedores, entendiendo por tales, aquellos que sean designados por el Servicio y que sean parte del segmento medianas y grandes empresas, segÃºn la ResoluciÃ³n Ex. SII NÂ° 76, de 23 de agosto de 2017.
+7°. Que por su parte, este Servicio, analizando las adquisiciones gravadas con IVA efectuadas por el total de contribuyentes y, dentro de ellas, las ventas y servicios que los contribuyentes sujetos a retención celebran con sus principales compradores, ha determinado cuáles de ellos serán incorporados a la Nómina de Agentes Retenedores, entendiendo por tales, aquellos que sean designados por el Servicio y que sean parte del segmento medianas y grandes empresas, según la Resolución Ex. SII N° 76, de 23 de agosto de 2017.
 
 ## SE RESUELVE:
 
-1. FÃ­jese la NÃ³mina de Agentes Retenedores del cambio de sujeto total para el cumplimiento del IVA, conforme a listado que se incorpora a la NÃ³mina de Agentes Retenedores ya existente en el sitio web de este Servicio.
-2. FÃ­jese la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n del cambio de sujeto total para el cumplimiento del IVA, conforme a listado que se incorpora a la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n, que se encontrarÃ¡ disponible en el sitio web de este Servicio.
+1. Fíjese la Nómina de Agentes Retenedores del cambio de sujeto total para el cumplimiento del IVA, conforme a listado que se incorpora a la Nómina de Agentes Retenedores ya existente en el sitio web de este Servicio.
+2. Fíjese la Nómina de Contribuyentes Sujetos a Retención del cambio de sujeto total para el cumplimiento del IVA, conforme a listado que se incorpora a la Nómina de Contribuyentes Sujetos a Retención, que se encontrará disponible en el sitio web de este Servicio.
 
-La permanencia en la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n se extenderÃ¡ hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre del aÃ±o 2021 . Transcurrido el plazo seÃ±alado, el contribuyente retenido serÃ¡ excluido de la nÃ³mina, siempre que haya solucionado las brechas de cumplimiento que originaron su ingreso. Si el contribuyente aÃºn las mantiene o incurre en nuevas, deberÃ¡ permanecer 6 meses mÃ¡s en la citada nÃ³mina y, asÃ­ sucesivamente, hasta que regularice su situaciÃ³n.
+La permanencia en la Nómina de Contribuyentes Sujetos a Retención se extenderá hasta el último día hábil del mes de diciembre del año 2021 . Transcurrido el plazo señalado, el contribuyente retenido será excluido de la nómina, siempre que haya solucionado las brechas de cumplimiento que originaron su ingreso. Si el contribuyente aún las mantiene o incurre en nuevas, deberá permanecer 6 meses más en la citada nómina y, así sucesivamente, hasta que regularice su situación.
 
-1. Los contribuyentes incorporados en las NÃ³minas de Agentes Retenedores vigentes, correspondientes a los cambios de sujeto de arroz, berries, actividades de la construcciÃ³n, ventas de ganado vivo, legumbres, madera, oro, papel y cartÃ³n para reciclar, especies hidrobiolÃ³gicas, productos silvestres, trigo y chatarra; deberÃ¡n efectuar la retenciÃ³n del IVA en las adquisiciones o utilizaciones de servicios que realicen con los contribuyentes incorporados en la nÃ³mina establecida en el Resolutivo NÂ° 2 de la presente ResoluciÃ³n.
+1. Los contribuyentes incorporados en las Nóminas de Agentes Retenedores vigentes, correspondientes a los cambios de sujeto de arroz, berries, actividades de la construcción, ventas de ganado vivo, legumbres, madera, oro, papel y cartón para reciclar, especies hidrobiológicas, productos silvestres, trigo y chatarra; deberán efectuar la retención del IVA en las adquisiciones o utilizaciones de servicios que realicen con los contribuyentes incorporados en la nómina establecida en el Resolutivo N° 2 de la presente Resolución.
 
-Asimismo, los agentes retenedores del cambio de sujeto total para el cumplimiento del IVA, incluidos en la NÃ³mina de Agentes Retenedores establecida en el Resolutivo NÂ° 1 de la presente ResoluciÃ³n, deberÃ¡n retener el total del IVA de las operaciones que efectÃºen con contribuyentes incorporados en las NÃ³minas vigentes de Contribuyentes de DifÃ­cil FiscalizaciÃ³n.
+Asimismo, los agentes retenedores del cambio de sujeto total para el cumplimiento del IVA, incluidos en la Nómina de Agentes Retenedores establecida en el Resolutivo N° 1 de la presente Resolución, deberán retener el total del IVA de las operaciones que efectúen con contribuyentes incorporados en las Nóminas vigentes de Contribuyentes de Difícil Fiscalización.
 
-1. Las nÃ³minas fijadas por la presente resoluciÃ³n, de acuerdo a lo ordenado en la ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, regirÃ¡n a contar del dÃ­a 01 de julio de 2021 , hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre de 2021 .
+1. Las nóminas fijadas por la presente resolución, de acuerdo a lo ordenado en la Resolución Ex. SII N° 42, de 30 de abril de 2018, regirán a contar del día 01 de julio de 2021 , hasta el último día hábil del mes de diciembre de 2021 .
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-DistribuciÃ³n Â· Internet
+Distribución · Internet
 
 * Al Diario oficial, en extracto

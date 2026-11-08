@@ -1,9 +1,10 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 1600 (2022)
-description: APRUEBACONVENIODECOLABORACION MUTUAENTRE SERVICIODEIMPUESTOS INTERNOSYCORPORACIONINSTITUTO PROFESIONALESCUELA DE CONTADORES AUDITORESDESANTIAGO
+---
+type: "SII Resolución"
+title: "Resolución N° 1600 (2022)"
+description: "APRUEBACONVENIODECOLABORACION MUTUAENTRE SERVICIODEIMPUESTOS INTERNOSYCORPORACIONINSTITUTO PROFESIONALESCUELA DE CONTADORES AUDITORESDESANTIAGO"
 tags: [SII, 2022, resolucion]
 ---
+
 
 GE00225031
 
@@ -15,17 +16,17 @@ RESOLUCION EXENTA SII N? 107.-
 
 VISTOS:
 
-Las facultades que me confieren los articulos 1Â° y 7Â° letras h) y o) de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo 1Â° del D.F.L. NÂ°7 de Hacienda, de fecha 30.09.1980; Ley NÂ° 18.575,Organica Constitucionai de Bases Generales de la Administracion del Estado,y en la Resolucion NÂ° 1600, del 06.11.2008,de la Contraloria General de la Republica; y
+Las facultades que me confieren los articulos 1° y 7° letras h) y o) de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo 1° del D.F.L. N°7 de Hacienda, de fecha 30.09.1980; Ley N° 18.575,Organica Constitucionai de Bases Generales de la Administracion del Estado,y en la Resolucion N° 1600, del 06.11.2008,de la Contraloria General de la Republica; y
 
 ## CONSIDERANDO:
 
-1Â° Queï¼Œcorresponde al Servicio de Impuestos Internos la aplicaciony fiscalizacion de todoslos impuestos internos actualmente establecidosoque especialmenteencomendadoporlaleyaunaautoridaddiferente.
+1° Que，corresponde al Servicio de Impuestos Internos la aplicaciony fiscalizacion de todoslos impuestos internos actualmente establecidosoque especialmenteencomendadoporlaleyaunaautoridaddiferente.
 
-2Â°Que,elDirectortiene lafacultadde las letras h)y o)del articulo7Â°dela Ley Organica del Servicio deImpuestos Internos,contenida en el contenidaenelarticulo1Â°delD.F.L.NÂ°7de1980,delMinisteriodeHacienda.
+2°Que,elDirectortiene lafacultadde las letras h)y o)del articulo7°dela Ley Organica del Servicio deImpuestos Internos,contenida en el contenidaenelarticulo1°delD.F.L.N°7de1980,delMinisteriodeHacienda.
 
-3Â° Que, para tales efectos se ha acordado la firma del presente Conveniode Colaboracion,conel objeto depoder desarrollar conjuntamente acciones de un comportamiento tributario responsable acorde con la legisiacion vigente,y fortalecer la educacioncivicadelacomunidadestudiantil.
+3° Que, para tales efectos se ha acordado la firma del presente Conveniode Colaboracion,conel objeto depoder desarrollar conjuntamente acciones de un comportamiento tributario responsable acorde con la legisiacion vigente,y fortalecer la educacioncivicadelacomunidadestudiantil.
 
-4Â° Que, en virtud de lo anterior, y en cumplimiento desusfuncionesyenelmarcodelasnormaslegalesyreglamentariaspertinentes,elServiciode Santiago,hanacordadosuscribirunconveniodecolaboracion.
+4° Que, en virtud de lo anterior, y en cumplimiento desusfuncionesyenelmarcodelasnormaslegalesyreglamentariaspertinentes,elServiciode Santiago,hanacordadosuscribirunconveniodecolaboracion.
 
 ## SE RESUELVE:
 
@@ -35,7 +36,7 @@ APRUEBESE elCONVENIO DE INSTITUTOPROFESIONALESCUELADECONTADORESAUDITORESDESANTIA
 
 En Santiago, con fecha 8 de Noviembre 2022, comparecen por una parte, el Servicio de Impuestos Internos,
 
-RUT NÂ° 60.803.000-K, representado para estos efectos por su Director, don Hernan Frigolett Cordova, RUT NÂ° 6.367.513-K, ambos domiciliados en Teatinos NÂ° 120, comuna de Santiago, en adelante "Sil"; y, por la otra la 88.629.900-1, representado por su Rector, don Rodrigo Ceron Prandi, RUT NÂ° 9.035.806-5-Kï¼Œ ambos ColaboracionMutua: Primero:Objetodel Convenio. LasentidadesindividualizadasenelparrafoanteriorhanacordadolafirmadelpresenteConveniode Colaboracion Mutua, con el objeto de poder desarrollar conjuntamente acciones destinadas a impulsar la responsable acorde con la legislacion vigente, y fortalecer la educacion civica de la comunidad estudiantil. Lafacultadqueasisteal DirectordelServiciodeImpuestosInternosparallevaracaboaccionesdecapacitacion aloscontribuyentesyestableceracuerdosuotrasaccionesorientadasapromoverelcumplimientotributario, constanen laletra q)dei Articulo7Â°delaLey Organica del Servicio deImpuestosInternos,contenida en ei D.F.L. NÂ° 7, de Hacienda de 1980. Entiendase para efectos de este Convenio que toda referencia a los terminos"ambito fiscal"ã€‚"temas fiscales", actualmente estabiecidoso quese establecieren,fiscalesode otro caracter en quetenga interes el Fiscoy cuyo controlnoesteespecialmenteencomendadoporlaleyaunaautoridaddiferente. Segundo:FormasdematerializaresteConvenio. Este Convenio de Cooperacion Mutua se llevaraa cabo a travÃ©s de las actividades que se detallan a continuacion. a)Elaboraciondematerialeducativoeinformativocomplementario. Considera la elaboracion conjunta de contenidos y materialpara formacion,e informacion en el ambito fiscal y tributario,que podra ser en distintos medios (impreso, audiovisual, etc.) para difundir por ambas instituciones. bï¼‰ Eiecucion de actividadeseducativas. Implicalarealizaciondeciclos decharlasacontribuyentesoaotro tipodepublico,cuyofinsealadifusiony formacionparaelcumplimientoinformadoyvoluntariodelasobligacionestributarias. Realizaciondeactividadesdeasistencia.
+RUT N° 60.803.000-K, representado para estos efectos por su Director, don Hernan Frigolett Cordova, RUT N° 6.367.513-K, ambos domiciliados en Teatinos N° 120, comuna de Santiago, en adelante "Sil"; y, por la otra la 88.629.900-1, representado por su Rector, don Rodrigo Ceron Prandi, RUT N° 9.035.806-5-K， ambos ColaboracionMutua: Primero:Objetodel Convenio. LasentidadesindividualizadasenelparrafoanteriorhanacordadolafirmadelpresenteConveniode Colaboracion Mutua, con el objeto de poder desarrollar conjuntamente acciones destinadas a impulsar la responsable acorde con la legislacion vigente, y fortalecer la educacion civica de la comunidad estudiantil. Lafacultadqueasisteal DirectordelServiciodeImpuestosInternosparallevaracaboaccionesdecapacitacion aloscontribuyentesyestableceracuerdosuotrasaccionesorientadasapromoverelcumplimientotributario, constanen laletra q)dei Articulo7°delaLey Organica del Servicio deImpuestosInternos,contenida en ei D.F.L. N° 7, de Hacienda de 1980. Entiendase para efectos de este Convenio que toda referencia a los terminos"ambito fiscal"。"temas fiscales", actualmente estabiecidoso quese establecieren,fiscalesode otro caracter en quetenga interes el Fiscoy cuyo controlnoesteespecialmenteencomendadoporlaleyaunaautoridaddiferente. Segundo:FormasdematerializaresteConvenio. Este Convenio de Cooperacion Mutua se llevaraa cabo a través de las actividades que se detallan a continuacion. a)Elaboraciondematerialeducativoeinformativocomplementario. Considera la elaboracion conjunta de contenidos y materialpara formacion,e informacion en el ambito fiscal y tributario,que podra ser en distintos medios (impreso, audiovisual, etc.) para difundir por ambas instituciones. b） Eiecucion de actividadeseducativas. Implicalarealizaciondeciclos decharlasacontribuyentesoaotro tipodepublico,cuyofinsealadifusiony formacionparaelcumplimientoinformadoyvoluntariodelasobligacionestributarias. Realizaciondeactividadesdeasistencia.
 
 * Considera la ejecucion de acciones destinadas a apoyarel cumplimiento tributario de personasy empresas, por ejempio,durante el procesomasivo de declaracion de renta enabril de cada anoy laimplementacion
 
@@ -43,9 +44,9 @@ de Nucleos de Apoyo Fiscal(NAF) en algunas Sedes que imparten carreras afines co
 
 ParaconcretarestasactividadeselSllpodrahacerusodelosproductosespecificadosenlosanexosqueforman parte integrante de este Convenio y donde ademas se senala su definicion, objetivo, forma de ejecucion y recursosnecesarios.
 
-* AnexoNÂ°1-AsistenciadurantelaOperacionRenta
-* AnexoNÂ°2-NucleodeApoyoFiscal
-* -AnexoNÂ°3-Charlas de difusiony capacitaciona contribuyentes
+* AnexoN°1-AsistenciadurantelaOperacionRenta
+* AnexoN°2-NucleodeApoyoFiscal
+* -AnexoN°3-Charlas de difusiony capacitaciona contribuyentes
 
 ## d)Otras actividades.
 
@@ -74,7 +75,7 @@ Por otraparte,la CORPORACIONIP ECAS se compromete a:
 
 Cabe indicarquelos compromisos adoptadospor la CORPORACION IP ECAS quedan sujetosalafactibilidad
 
-* decontarconladisponibilidadderecursoshumanosymaterialesnecesariosparallevarlosacabo. Cuarto:FormaenqueseejecutaraelConvenio. ParaefectosdelacoordinaciongeneraldeesteConvenio,sehadesignado: Â·Porparte del Sll,alJefedeOficina deGestiondelaExperienciadelaDireccionNacional quienporsuparte podra designar un coordinador de su equipo para efectos operativos. coordinadordesuequipoparaefectosoperativos. Para la coordinacion de actividades enla CORPORACiON IP ECASy las Direcciones Regionales del Sll, cada institucionpodranombrarunrepresentantey/ocoordinadorlocal. Quinto:Confidencialidaddelainformacion. Laspartesreconoceny aceptan el caracterreservadodetoda lainformacion decaracter confidencial delacual tomen conocimiento por cualquier medio,desde la suscripcion del presente Convenio y durante toda su ejecucion, ante lo cual: Â·CORPORAClON IP ECAS esta en la obligacion de adoptar todas las medidas necesarias para garantizar la confidencialidad de la informacion del Sll a la que tenga acceso la Institucion y sus alumnos en las actividades como:Operacion Renta,NAF,durante el ejercicio del presente Convenio; sin perjuicio de las medidasjudicialesquecorrespondaadoptarencadacaso. Â·Porsuparte,elSlidebecumplirconlaobligaciondemantenerlareservaosecretodelainformacionen institutoalasbasesdedatosdelserviciooalainformaciondeloscontribuyentes. Sexto:Duracion del Convenio. El presente Convenio tendra una duracion deun ano,a contarde la fecha de entrada en vigencia,renovandose No obstante,lo anterior,las partes podrandesahuciarunilateralmente elpresente Convenioen cualquier momento,sin expresion decausa ni derecho aindemnizacionmediante elenvio de una carta certificada dirigida al domicilio de la otra registrado en el Convenio, a lo menos con 30 dias corridos de anticipacion a la fecha en quese deseeponerle termino. Lo anterior, ademas, sera facultativo para el Sll, si CORPORACION IP ECAS incurre en faltas con respecto a su cumplimiento tributario. Septimo:Noexclusividad. El acuerdosuscritonolimitaniexcluyeenmodoalgunoelderechodelaspartesdefirmaracuerdosdesimilar naturaleza con otras instituciones,y en ningun caso,el acuerdo generaravinculos de dependencia laboral o funcionariaentre losintegrantes dela CORPORACIONIPECASyelServicio deImpuestosInternos. Octavo:InexistenciadeVinculacionFinanciera
+* decontarconladisponibilidadderecursoshumanosymaterialesnecesariosparallevarlosacabo. Cuarto:FormaenqueseejecutaraelConvenio. ParaefectosdelacoordinaciongeneraldeesteConvenio,sehadesignado: ·Porparte del Sll,alJefedeOficina deGestiondelaExperienciadelaDireccionNacional quienporsuparte podra designar un coordinador de su equipo para efectos operativos. coordinadordesuequipoparaefectosoperativos. Para la coordinacion de actividades enla CORPORACiON IP ECASy las Direcciones Regionales del Sll, cada institucionpodranombrarunrepresentantey/ocoordinadorlocal. Quinto:Confidencialidaddelainformacion. Laspartesreconoceny aceptan el caracterreservadodetoda lainformacion decaracter confidencial delacual tomen conocimiento por cualquier medio,desde la suscripcion del presente Convenio y durante toda su ejecucion, ante lo cual: ·CORPORAClON IP ECAS esta en la obligacion de adoptar todas las medidas necesarias para garantizar la confidencialidad de la informacion del Sll a la que tenga acceso la Institucion y sus alumnos en las actividades como:Operacion Renta,NAF,durante el ejercicio del presente Convenio; sin perjuicio de las medidasjudicialesquecorrespondaadoptarencadacaso. ·Porsuparte,elSlidebecumplirconlaobligaciondemantenerlareservaosecretodelainformacionen institutoalasbasesdedatosdelserviciooalainformaciondeloscontribuyentes. Sexto:Duracion del Convenio. El presente Convenio tendra una duracion deun ano,a contarde la fecha de entrada en vigencia,renovandose No obstante,lo anterior,las partes podrandesahuciarunilateralmente elpresente Convenioen cualquier momento,sin expresion decausa ni derecho aindemnizacionmediante elenvio de una carta certificada dirigida al domicilio de la otra registrado en el Convenio, a lo menos con 30 dias corridos de anticipacion a la fecha en quese deseeponerle termino. Lo anterior, ademas, sera facultativo para el Sll, si CORPORACION IP ECAS incurre en faltas con respecto a su cumplimiento tributario. Septimo:Noexclusividad. El acuerdosuscritonolimitaniexcluyeenmodoalgunoelderechodelaspartesdefirmaracuerdosdesimilar naturaleza con otras instituciones,y en ningun caso,el acuerdo generaravinculos de dependencia laboral o funcionariaentre losintegrantes dela CORPORACIONIPECASyelServicio deImpuestosInternos. Octavo:InexistenciadeVinculacionFinanciera
 
 Las partes manifiestan que el presente acuerdo constituye un convenio destinado a promover una cooperacion
 
@@ -92,9 +93,9 @@ En caso de existir discrepancia entre lo dispuesto en este Convenioy unAnexo,pri
 
 ## DecimoPrimero:Personerias
 
-La personeria de don Hernan Frigolett Cordova, para actuar en representacion del Sll, consta en Decreto SupremoNÂ°446,defecha31 demarzo de2022,del Ministerio deHacienda.
+La personeria de don Hernan Frigolett Cordova, para actuar en representacion del Sll, consta en Decreto SupremoN°446,defecha31 demarzo de2022,del Ministerio deHacienda.
 
-La personeria del Rector Rodrigo Ceron Prandi para representar a la CORPORACION IP ECAS consta en escritura publica defecha9 deabril de 2021,otorgadaenla Notaria de donia SusanaBelmonteAguirre,delacomuna de Santiago,repertorio NÂ°10.536-21 del ano 2021.
+La personeria del Rector Rodrigo Ceron Prandi para representar a la CORPORACION IP ECAS consta en escritura publica defecha9 deabril de 2021,otorgadaenla Notaria de donia SusanaBelmonteAguirre,delacomuna de Santiago,repertorio N°10.536-21 del ano 2021.
 
 partes conservaran un ejemplar en su poder.Para todos los efectos legales se entiende como fecha del convenio, la fecha de la primera firma delos otorgantes.
 
@@ -116,7 +117,7 @@ CORPORACIONINSTITUTOPROFESIONALESCUELADECONTADORESAUDITORESDESANTIAGO
 
 www,si,K!
 
-## ANEXO NÂ° 1 ASISTENCIADURANTELAOPERACIONRENTA
+## ANEXO N° 1 ASISTENCIADURANTELAOPERACIONRENTA
 
 ## Contenido
 
@@ -130,7 +131,7 @@ www,si,K!
 
 La Operacion Renta-que se realiza durante abril de cada ano- es el proceso de declaracion de las rentas anuales que debe ser presentada por empresas y personas para cumplir con sus obligaciones tributarias. Estemontoadeclarardependeradela diferenciaentrelasprovisionespagadas duranteel anoyel montoa pagar en impuestos por dichas rentas, por lo que el contribuyente pagara al Fisco u obtendra una devolucion por la diferencia.
 
-calificados como rentas para efectos tributarios, y que su monto exceda los limites establecidos por la Ley de un contribuyenterealice suDeclaracion deRenta-sepasi le correspondeo no,cumplir coneste compromiso tributario.Esto Ãºltimo lo puede determinar a travÃ©s de la propuesta total o parcial de la declaracion de renta,quehace al SllatravÃ©sdesupaginawebapartirdela informacion queposeeensusbasesdedatos.
+calificados como rentas para efectos tributarios, y que su monto exceda los limites establecidos por la Ley de un contribuyenterealice suDeclaracion deRenta-sepasi le correspondeo no,cumplir coneste compromiso tributario.Esto último lo puede determinar a través de la propuesta total o parcial de la declaracion de renta,quehace al Sllatravésdesupaginawebapartirdela informacion queposeeensusbasesdedatos.
 
 ## OBJETIVO.
 
@@ -198,7 +199,7 @@ Losrecursosnecesariospara esta actividad de asistencia,someramente,son:
 
 Sii
 
-## ANEXO NÂ°2 NUCLEODEAPOYOFISCAL
+## ANEXO N°2 NUCLEODEAPOYOFISCAL
 
 ## Contenido
 
@@ -218,7 +219,7 @@ Un Nucleode Apoyo Fiscal-NAF-nace de un acuerdoentre el Servicio deImpuestos Int
 Los objetivos de unNAFson:
 
 * Educar,desdelaadministraciontributaria,alosestudiantesyprofesores encienciascontables acerca del sentido social de los impuestos y el correcto cumplimiento de las normas tributarias.
-* Incorporar una herramienta adicional para la formacion de los futuros profesionales o tÃ©cnicos egresados de la institucion, al proporcionarles una vivencia practica sobre el asesoramiento tributario y fiscal, mediante la entrega de un apoyo profesional gratuito de dichos alumnos a personas naturales y juridicas de baja renta.
+* Incorporar una herramienta adicional para la formacion de los futuros profesionales o técnicos egresados de la institucion, al proporcionarles una vivencia practica sobre el asesoramiento tributario y fiscal, mediante la entrega de un apoyo profesional gratuito de dichos alumnos a personas naturales y juridicas de baja renta.
 
 ## DESCRIPCIONDELFUNCIONAMIENTO.
 
@@ -244,7 +245,7 @@ LospasosparalaimplementaciondelosNAFsonlossiguientes:
 1. Firma de un Convenio de Cooperacion-entre el Sll y la institucion de educacion superior- respecto del cual este documento es un Anexo y forma parte integrante del mencionado acuerdo.
 2. Desarrollo de material educativo con contenidos tributarios y fiscales y otras herramientas de apoyo, enfocado para la capacitacion de alumnos, docentes y pequenios contribuyentes.
 
-Este material se desarrolla a partir de los contenidos tributarios y fiscales entregados por el Sll, para que sean elaborados por la institucion de educacion superior y se pongan a disposicion de los alumnos a travÃ©s de una plataforma web,por ejemplo, a travÃ©s de un e-learning.
+Este material se desarrolla a partir de los contenidos tributarios y fiscales entregados por el Sll, para que sean elaborados por la institucion de educacion superior y se pongan a disposicion de los alumnos a través de una plataforma web,por ejemplo, a través de un e-learning.
 
 1. Realizaci6n del curso. Los alumnos que participen de este programa realizaran las actividades disenadas.
 2. 4.Seleccion de los alumnos. Entre quienes realicen las actividades se elige una cantidad determinada de alumnos(generalmentelosquehantenidounmejordesempenio)parapasaral siguientepaso.
@@ -252,8 +253,8 @@ Este material se desarrolla a partir de los contenidos tributarios y fiscales en
 4. Instalacion deun espacio fisico ovirtual.Esto serealiza enuna sedede la institucion de educacion superior, equipado con escritorios y sillas dispuestos en estaciones de trabajo,con computadores conectadosaInternet,pararecibirydara atencionacontribuyentes.
 5. Planificaciony diseno dela atencion:
 
-* a) Del horario (por ejemplo, dos veces por semana, 3 horas al dia, despuÃ©s de las 14:00 horas?, etc.) y los turnos de los alumnos y del docente que supervisara cada turno, para vigilar el proceso de atencionylasactuacionesdelosalumnos.
-* b) De una metodologia de convocatoria a pequenos contribuyentes, que podran ser llamados o solicitados a travÃ©s de otras entidades, por ejemplo, Municipalidades.
+* a) Del horario (por ejemplo, dos veces por semana, 3 horas al dia, después de las 14:00 horas?, etc.) y los turnos de los alumnos y del docente que supervisara cada turno, para vigilar el proceso de atencionylasactuacionesdelosalumnos.
+* b) De una metodologia de convocatoria a pequenos contribuyentes, que podran ser llamados o solicitados a través de otras entidades, por ejemplo, Municipalidades.
 
 1. Deunprotocolodeatencion.
 2. Atencion a pequenos contribuyentes como parte del programa de formacion de la institucion.
@@ -290,7 +291,7 @@ Impuesto a la Renta, IVA, Ciclo de Vida del Contribuyente, Beneficios de Avaluac
 
 [<u>www.sii.xl</u>](http://www.sii.xl)
 
-## ANEXONÂ°3 CHARLAS DE DIFUSION Y CAPACITACION A CONTRIBUYENTES
+## ANEXON°3 CHARLAS DE DIFUSION Y CAPACITACION A CONTRIBUYENTES
 
 ## Contenido
 
@@ -308,7 +309,7 @@ RECURSOSASOCIADOS.....
 
 ## DEFINICION.
 
-ElServiciodeImpuestos Internos ha asumido,como un objetivo estrategicoï¼Œla capacitacion a los contribuyentesparaelcorrectocumplimientovoluntariodesusobligacionestributarias.Pordicha actividad, no podra cobrar ni obtener beneficio alguno, por lo que se ha optado por lograr alianzas estratÃ©gicas con instituciones de educacion superior, con el fin de realizar esta actividad en sus dependencias, con monitores del Sll y que para la institucion de educacion superior tambiÃ©n signifique beneficios tales como: estar al tanto de las Ãºltimas novedades en temas del ambito tributario y ayudar en la formacion delosfuturos profesionales y de sus docentes.
+ElServiciodeImpuestos Internos ha asumido,como un objetivo estrategico，la capacitacion a los contribuyentesparaelcorrectocumplimientovoluntariodesusobligacionestributarias.Pordicha actividad, no podra cobrar ni obtener beneficio alguno, por lo que se ha optado por lograr alianzas estratégicas con instituciones de educacion superior, con el fin de realizar esta actividad en sus dependencias, con monitores del Sll y que para la institucion de educacion superior también signifique beneficios tales como: estar al tanto de las últimas novedades en temas del ambito tributario y ayudar en la formacion delosfuturos profesionales y de sus docentes.
 
 ## OBJETIVO.
 
@@ -327,7 +328,7 @@ La instituciondeeducacionsuperiorse comprometea:
 
 <u>www.jil.1</u>
 
-1. Entregar al Sllal tÃ©rminodecada actividadunInformeEjecutivoconelresultadodelasactividades desarrolladas, que indique a lo menos los siguientes antecedentes; identificacion de la actividad; numero de participantes;nivel de satisfaccion,entre otros.
+1. Entregar al Sllal términodecada actividadunInformeEjecutivoconelresultadodelasactividades desarrolladas, que indique a lo menos los siguientes antecedentes; identificacion de la actividad; numero de participantes;nivel de satisfaccion,entre otros.
 
 ## RECURSOSASOCIADOS.
 

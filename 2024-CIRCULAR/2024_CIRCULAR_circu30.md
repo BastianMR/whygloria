@@ -1,20 +1,21 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 30 (2024)
-description: DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos | CIRCULAR NÂº30.- |
+---
+type: "SII Circular"
+title: "Circular N° 30 (2024)"
+description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº30.- |"
 tags: [SII, 2024, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos** | **CIRCULAR NÂº30.-** |
+
+| **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº30.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE JULIO DE 2024 |
-| MATERIA: Tabla de cÃ¡lculos de reajustes, intereses y multas agosto 2024. | REF. LEGAL: ArtÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº del DL 830 de 1974. |
+| MATERIA: Tabla de cálculos de reajustes, intereses y multas agosto 2024. | REF. LEGAL: Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL 830 de 1974. |
 
-La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s penal y multa a que se refieren los artÃ­culos 53 y 97 N os 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de AGOSTO DE 2024.
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y las unidades de este Servicio, la tabla de cálculos para la aplicación del reajuste, interés penal y multa a que se refieren los artículos 53 y 97 N os 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de AGOSTO DE 2024.
 
-|  | **Mes de Vcto.** | **Reajuste Art. 53 Inc. 1Â°** | **InterÃ˜s Art. 53 Inc. 3Â°** | **Multa Art. 97 NÂ°2** | **Multa Art. 97 NÂ°11** | **Multa Art. 97 NÂ°11** | **IPC (INE) Base Anual 2023=100** | **U.T.M.** |
+|  | **Mes de Vcto.** | **Reajuste Art. 53 Inc. 1°** | **InterØs Art. 53 Inc. 3°** | **Multa Art. 97 N°2** | **Multa Art. 97 N°11** | **Multa Art. 97 N°11** | **IPC (INE) Base Anual 2023=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | Inc. 1Â° | Inc. 2Â° |  |  |
+|  |  |  |  |  | Inc. 1° | Inc. 2° |  |  |
 | 2018 | ENE | 40,1% | 120,0% | 30% | 30% | 60% | 74,2700 | 47.019 |
 |  | FEB | 39,9% | 118,5% | 30% | 30% | 60% | 74,3100 | 47.066 |
 |  | MAR | 39,2% | 117,0% | 30% | 30% | 60% | 74,4600 | 47.301 |
@@ -51,10 +52,10 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 |  | OCT NOV | 30,5% 29,7% | 70,5% 69,0% | 30% | 30% | 60% 60% | 80,1600 | 50.674 |
 |  |  |  |  | 30% | 30% |  | 80,2700 | 50.372 |
 
-|  | **Mes de** | **Reajuste** | **InterÃ˜s** | **Multa Art. 97 NÂ°2** | **Multa** | **Multa** | **IPC (INE) Base Anual** | **U.T.M.** |
+|  | **Mes de** | **Reajuste** | **InterØs** | **Multa Art. 97 N°2** | **Multa** | **Multa** | **IPC (INE) Base Anual** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Art. 53 | Art. 53 |  | Art. | 97 NÂ°11 |  |  |
-|  | Vcto. | Inc. 1Â° | Inc. 3Â° |  | Inc. 1Â° | Inc. 2Â° | 2023=100 |  |
+|  |  | Art. 53 | Art. 53 |  | Art. | 97 N°11 |  |  |
+|  | Vcto. | Inc. 1° | Inc. 3° |  | Inc. 1° | Inc. 2° | 2023=100 |  |
 | 2021 | ENE | 29,0% | 66,0% | 30% | 30% | 60% | 80,9900 | 50.978 |
 |  | FEB | 28,6% | 64,5% | 30% | 30% | 60% | 81,1400 | 51.131 |
 |  | MAR | 27,7% | 63,0% | 30% | 30% | 60% | 81,4500 | 51.489 |
@@ -101,17 +102,17 @@ La presente Circular tiene por objeto poner en conocimiento de los contribuyente
 
 ## NOTAS:
 
-1. Reajuste artÃ­culo 72 de la Ley sobre Impuesto a la Renta.
-2. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
-3. El reajuste a que se refiere el artÃ­culo 53 del CÃ³digo Tributario, informado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el IPC entregada por el Instituto Nacional de EstadÃ­sticas en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de
+1. Reajuste artículo 72 de la Ley sobre Impuesto a la Renta.
+2. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el artículo 53 del Código Tributario, informado en la presente Circular, corresponde a la cifra de variación experimentada por el IPC entregada por el Instituto Nacional de Estadísticas en su publicación oficial y cuyos porcentajes se han determinado mediante la metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de
 
-| **AÃ‘O** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** | **2024** |
+| **AÑO** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** | **2022** | **2023** | **2024** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | % | 1,1 | 1,0 | 0,9 | 0,5 | 1,5 | 1,6 | 4,2 | 2,1 | 1,1 |
 
-EconomÃ­a, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18 de 2010, de este Servicio.
+Economía, Fomento y Turismo, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18 de 2010, de este Servicio.
 
-Se hace presente que a contar del Ãndice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2023=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Índice de Enero de 2024 rige el IPC, base anual 2023=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2023=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
@@ -121,6 +122,6 @@ Saluda a Uds.,
 
 <unknown>
 
-CSM/MCRB/FWV/APG DISTRIBUCIÃ“N
+CSM/MCRB/FWV/APG DISTRIBUCIÓN
 
 * Internet

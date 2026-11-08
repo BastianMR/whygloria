@@ -1,211 +1,212 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 7 (2020)
-description: DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES | CIRCULAR NÂº 7 |
+---
+type: "SII Circular"
+title: "Circular N° 7 (2020)"
+description: "DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES | CIRCULAR Nº 7 |"
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES** | **CIRCULAR NÂº 7** |
+
+| **DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES** | **CIRCULAR Nº 7** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 de enero de 2020 |
-| MATERIA: Actualiza instrucciones para la aplicaciÃ³n 'F2890 EN LÃNEA', sobre declaraciÃ³n de enajenaciÃ³n e inscripciÃ³n de bienes raÃ­ces y procedimiento de traspaso de informaciÃ³n de Notarios y Conservadores de Bienes RaÃ­ces al Servicio de Impuestos Internos. Deroga Circulares NÂ°41, de 1998, NÂ°10 de 2004, NÂ°39 de 2007 y NÂ°57 de 2008. | REFERENCIA: ArtÃ­culos 76 y 97 NÂ° 1 del CÃ³digo Tributario ArtÃ­culo 2Â° de la Ley NÂ° 17.990 |
+| MATERIA: Actualiza instrucciones para la aplicación 'F2890 EN LÍNEA', sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de Impuestos Internos. Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 de 2007 y N°57 de 2008. | REFERENCIA: Artículos 76 y 97 N° 1 del Código Tributario Artículo 2° de la Ley N° 17.990 |
 
 ## 1. ANTECEDENTES Y OBJETIVOS
 
-El Servicio de Impuestos Internos, en virtud del artÃ­culo 16 de la Ley NÂ° 17.235, sobre Impuesto Territorial, debe mantener actualizado el catastro de bienes raÃ­ces con la informaciÃ³n que emane, entre otras fuentes de las escrituras pÃºblicas de transferencia de bienes raÃ­ces e inscripciones, remitidas por los Notarios y Conservadores de Bienes RaÃ­ces, conforme al artÃ­culo 76 del CÃ³digo Tributario, en relaciÃ³n al artÃ­culo 2Â° de la Ley NÂ°17.990. En virtud de lo anterior, para facilitar la entrega de dicha informaciÃ³n y mantenerla actualizada, es necesario poner a disposiciÃ³n de Notarios y Conservadores de Bienes RaÃ­ces un nuevo procedimiento de transmisiÃ³n electrÃ³nica de datos.
+El Servicio de Impuestos Internos, en virtud del artículo 16 de la Ley N° 17.235, sobre Impuesto Territorial, debe mantener actualizado el catastro de bienes raíces con la información que emane, entre otras fuentes de las escrituras públicas de transferencia de bienes raíces e inscripciones, remitidas por los Notarios y Conservadores de Bienes Raíces, conforme al artículo 76 del Código Tributario, en relación al artículo 2° de la Ley N°17.990. En virtud de lo anterior, para facilitar la entrega de dicha información y mantenerla actualizada, es necesario poner a disposición de Notarios y Conservadores de Bienes Raíces un nuevo procedimiento de transmisión electrónica de datos.
 
-Con este propÃ³sito, el Servicio de Impuestos Internos, en adelante indistintamente el SII, ha implementado una nueva versiÃ³n de la aplicaciÃ³n 'F2890 en lÃ­nea' en el sitio web [<u>www.sii.cl</u>](http://www.sii.cl), la cual permite a los Notarios y Conservadores, completar en lÃ­nea los formularios 2890, genera reportes, ademÃ¡s de contener nuevas funcionalidades y otras mejoras. Mediante el uso de la aplicaciÃ³n se optimiza el llenado de los F2890, puesto que se realiza en un solo trÃ¡mite no presencial, y su envÃ­o directo al SII.
+Con este propósito, el Servicio de Impuestos Internos, en adelante indistintamente el SII, ha implementado una nueva versión de la aplicación 'F2890 en línea' en el sitio web [<u>www.sii.cl</u>](http://www.sii.cl), la cual permite a los Notarios y Conservadores, completar en línea los formularios 2890, genera reportes, además de contener nuevas funcionalidades y otras mejoras. Mediante el uso de la aplicación se optimiza el llenado de los F2890, puesto que se realiza en un solo trámite no presencial, y su envío directo al SII.
 
 La presente Circular tiene como objetivos:
 
-* i. Actualizar los procedimientos de traspaso de informaciÃ³n por parte de los Notarios y Conservadores de Bienes RaÃ­ces mediante el uso de la nueva versiÃ³n de la aplicaciÃ³n 'F2890 en lÃ­nea' del formulario respectivo, sobre 'DeclaraciÃ³n sobre EnajenaciÃ³n e InscripciÃ³n de Bienes RaÃ­ces'.
-* ii. Simplificar el proceso de notificaciÃ³n de observaciones y su posterior correcciÃ³n por parte de Notarios y Conservadores.
-* iii. Indicar el procedimiento de aplicaciÃ³n de sanciones y la forma de reclamo ceÃ±ida a Ã©ste.
+* i. Actualizar los procedimientos de traspaso de información por parte de los Notarios y Conservadores de Bienes Raíces mediante el uso de la nueva versión de la aplicación 'F2890 en línea' del formulario respectivo, sobre 'Declaración sobre Enajenación e Inscripción de Bienes Raíces'.
+* ii. Simplificar el proceso de notificación de observaciones y su posterior corrección por parte de Notarios y Conservadores.
+* iii. Indicar el procedimiento de aplicación de sanciones y la forma de reclamo ceñida a éste.
 
-## 2. INSTRUCCIONES PARA UTILIZAR LA APLICACIÃ“N F2890 EN LINEA
+## 2. INSTRUCCIONES PARA UTILIZAR LA APLICACIÓN F2890 EN LINEA
 
-## 2.1. HabilitaciÃ³n de usuarios
+## 2.1. Habilitación de usuarios
 
-Para la utilizaciÃ³n de la aplicaciÃ³n 'F2890 en LÃ­nea', los Notarios y Conservadores de Bienes RaÃ­ces, deberÃ¡n estar habilitados como usuarios por el SII, para ello se debe tener presente lo siguiente:
+Para la utilización de la aplicación 'F2890 en Línea', los Notarios y Conservadores de Bienes Raíces, deberán estar habilitados como usuarios por el SII, para ello se debe tener presente lo siguiente:
 
-* i. En el caso que se cree una nueva NotarÃ­a o Conservador, en el plazo de 5 dÃ­as hÃ¡biles contados desde su nombramiento, se deberÃ¡ remitir mediante correo electrÃ³nico u oficio, dirigido al Jefe de Avaluaciones de la DirecciÃ³n Regional correspondiente al territorio, copia de la resoluciÃ³n que los inviste en el cargo, ademÃ¡s de informar la lista de funcionarios de su dependencia, que pasarÃ¡n a ser usuarios del sistema, indicando nombre completo y RUT.
-* ii. En el caso de cambio de Notarios y Conservadores de Bienes RaÃ­ces (titular o interino), Ã©stos deberÃ¡n actualizar sus datos, en el plazo de 10 dÃ­as hÃ¡biles contados desde la publicaciÃ³n en el Diario Oficial de su nombramiento, mediante correo electrÃ³nico u Oficio, dirigido al Jefe de Avaluaciones de la DirecciÃ³n Regional correspondiente al territorio, adjuntando copia de la resoluciÃ³n que los inviste en el cargo. Asimismo, deberÃ¡ confirmar o modificar la lista de usuarios de su dependencia, indicando nombre completo y RUT. De no confirmarse los usuarios habilitados en el plazo seÃ±alado en el punto anterior, el SII eliminarÃ¡ los perfiles de acceso correspondientes a los usuarios relacionados al Notario o Conservador anterior.
-* iii. Los Notarios y Conservadores vigentes deberÃ¡n informar oportunamente los cambios en los usuarios habilitados, ya sea que se agreguen o deshabiliten usuarios.
+* i. En el caso que se cree una nueva Notaría o Conservador, en el plazo de 5 días hábiles contados desde su nombramiento, se deberá remitir mediante correo electrónico u oficio, dirigido al Jefe de Avaluaciones de la Dirección Regional correspondiente al territorio, copia de la resolución que los inviste en el cargo, además de informar la lista de funcionarios de su dependencia, que pasarán a ser usuarios del sistema, indicando nombre completo y RUT.
+* ii. En el caso de cambio de Notarios y Conservadores de Bienes Raíces (titular o interino), éstos deberán actualizar sus datos, en el plazo de 10 días hábiles contados desde la publicación en el Diario Oficial de su nombramiento, mediante correo electrónico u Oficio, dirigido al Jefe de Avaluaciones de la Dirección Regional correspondiente al territorio, adjuntando copia de la resolución que los inviste en el cargo. Asimismo, deberá confirmar o modificar la lista de usuarios de su dependencia, indicando nombre completo y RUT. De no confirmarse los usuarios habilitados en el plazo señalado en el punto anterior, el SII eliminará los perfiles de acceso correspondientes a los usuarios relacionados al Notario o Conservador anterior.
+* iii. Los Notarios y Conservadores vigentes deberán informar oportunamente los cambios en los usuarios habilitados, ya sea que se agreguen o deshabiliten usuarios.
 
-## 2.2 Ingreso a la aplicaciÃ³n
+## 2.2 Ingreso a la aplicación
 
-Los funcionarios autorizados, podrÃ¡n acceder a la aplicaciÃ³n, autenticÃ¡ndose, para lo cual deben ingresar a sii.cl, 'Servicios Online', secciÃ³n 'Aplicaciones para entidades externas', 'Notarios y Conservadores de Bienes RaÃ­ces - Formulario 2890 en LÃ­nea'.
+Los funcionarios autorizados, podrán acceder a la aplicación, autenticándose, para lo cual deben ingresar a sii.cl, 'Servicios Online', sección 'Aplicaciones para entidades externas', 'Notarios y Conservadores de Bienes Raíces - Formulario 2890 en Línea'.
 
-El 'Manual del Usuario' puede ser descargado por los usuarios, permitiÃ©ndoles conocer en forma grÃ¡fica y descriptiva, paso a paso, las acciones que se pueden realizar en cada opciÃ³n de menÃº disponible.
+El 'Manual del Usuario' puede ser descargado por los usuarios, permitiéndoles conocer en forma gráfica y descriptiva, paso a paso, las acciones que se pueden realizar en cada opción de menú disponible.
 
-La aplicaciÃ³n ofrece las siguientes opciones:
+La aplicación ofrece las siguientes opciones:
 
 * i. Crear un formulario F2890
-* ii. Registrar inscripciÃ³n
+* ii. Registrar inscripción
 * iii. Reemplazar un formulario F2890
 * iv. Rectificar un F2890.
 * v. Anular un formulario F2890
 * vi. Consultar un formulario F2890
 * vii. Reportes
 
-## 2.3 Estados del F2890 en lÃ­nea
+## 2.3 Estados del F2890 en línea
 
-El proceso de llenado y envÃ­o considera los siguientes estados, en que se puede encontrar un formulario:
+El proceso de llenado y envío considera los siguientes estados, en que se puede encontrar un formulario:
 
-* Ingresado : Indica un formulario con los datos bÃ¡sicos (comuna y rol), ya ingresados y al cual se le ha asignado el nÃºmero Ãºnico de atenciÃ³n electrÃ³nico.
-* Aprobado: Corresponde a un formulario validado y con el visto bueno del usuario de la NotarÃ­a o Conservador en aquellos casos que Ã©ste lo cree. Cuando un formulario ha sido aprobado serÃ¡ enviado automÃ¡ticamente al SII y al mismo tiempo al Conservador para agregar inscripciÃ³n.
-* Cerrado: Es el formulario aprobado por el Conservador de Bienes RaÃ­ces al que se le incorporaron los datos de inscripciÃ³n.
-* Eliminado : Las NotarÃ­as podrÃ¡n dejar sin efecto un Formulario, antes de enviarlo al Conservador. Una vez eliminado un formulario solo se podrÃ¡ visualizar.
+* Ingresado : Indica un formulario con los datos básicos (comuna y rol), ya ingresados y al cual se le ha asignado el número único de atención electrónico.
+* Aprobado: Corresponde a un formulario validado y con el visto bueno del usuario de la Notaría o Conservador en aquellos casos que éste lo cree. Cuando un formulario ha sido aprobado será enviado automáticamente al SII y al mismo tiempo al Conservador para agregar inscripción.
+* Cerrado: Es el formulario aprobado por el Conservador de Bienes Raíces al que se le incorporaron los datos de inscripción.
+* Eliminado : Las Notarías podrán dejar sin efecto un Formulario, antes de enviarlo al Conservador. Una vez eliminado un formulario solo se podrá visualizar.
 
 ## Modificaciones a formularios:
 
-* Nulo : formulario que fue sustituido por otro, por contener errores en el ingreso u omisiÃ³n de algÃºn dato.
-* Reemplazo: Un formulario podrÃ¡ ser reemplazado, antes que el Conservador le agregue inscripciÃ³n.
-* Rectificado: Un formulario serÃ¡ rectificado, cuando habiendo ingresado los datos de inscripciÃ³n, Ã©ste se modifica posteriormente, por contener errores en el ingreso u omisiÃ³n en algÃºn dato.
+* Nulo : formulario que fue sustituido por otro, por contener errores en el ingreso u omisión de algún dato.
+* Reemplazo: Un formulario podrá ser reemplazado, antes que el Conservador le agregue inscripción.
+* Rectificado: Un formulario será rectificado, cuando habiendo ingresado los datos de inscripción, éste se modifica posteriormente, por contener errores en el ingreso u omisión en algún dato.
 
-Una vez inscrito (cerrado) un formulario podrÃ¡ pasar a estado Observado
+Una vez inscrito (cerrado) un formulario podrá pasar a estado Observado
 
-* Observado Conservador: Parte de la informaciÃ³n que se visualiza ha sido modificada a partir de la informaciÃ³n entregada por el Conservador.
-* Observado SII: Parte de la informaciÃ³n que se visualiza ha sido modificada por el SII.
+* Observado Conservador: Parte de la información que se visualiza ha sido modificada a partir de la información entregada por el Conservador.
+* Observado SII: Parte de la información que se visualiza ha sido modificada por el SII.
 
 ## 2.4 Ingreso de un nuevo F2890.
 
-* i. La creaciÃ³n de un F2890 consiste en el ingreso de datos sobre enajenaciones de inmuebles, de acuerdo a las instrucciones contenidas en el Anexo. Para estos efectos El formulario se encontrarÃ¡ en estado Ingresado cuando han sido informados como datos bÃ¡sicos comuna y rol.
+* i. La creación de un F2890 consiste en el ingreso de datos sobre enajenaciones de inmuebles, de acuerdo a las instrucciones contenidas en el Anexo. Para estos efectos El formulario se encontrará en estado Ingresado cuando han sido informados como datos básicos comuna y rol.
 
-La regla general es que este ingreso sea realizado por NotarÃ­as, sin embargo, en los casos de inscripciones especiales de herencias, aquellas derivadas de procedimientos de saneamiento de tÃ­tulos de dominio del Ministerio de Bienes Nacionales, adjudicaciones de bienes raÃ­ces efectuadas a travÃ©s de los SERVIU o el Ministerio de Bienes Nacionales, u otras en que no intervenga un Notario, el ingreso de datos deberÃ¡ ser efectuado por los Conservadores de Bienes RaÃ­ces, tal como se describe en el Anexo. Con todo, las transferencias de bienes raÃ­ces que correspondan a expropiaciones realizadas por el Ministerio de Obras PÃºblicas, no deberÃ¡n ser informadas al SII a travÃ©s del F2890.
+La regla general es que este ingreso sea realizado por Notarías, sin embargo, en los casos de inscripciones especiales de herencias, aquellas derivadas de procedimientos de saneamiento de títulos de dominio del Ministerio de Bienes Nacionales, adjudicaciones de bienes raíces efectuadas a través de los SERVIU o el Ministerio de Bienes Nacionales, u otras en que no intervenga un Notario, el ingreso de datos deberá ser efectuado por los Conservadores de Bienes Raíces, tal como se describe en el Anexo. Con todo, las transferencias de bienes raíces que correspondan a expropiaciones realizadas por el Ministerio de Obras Públicas, no deberán ser informadas al SII a través del F2890.
 
-Asimismo, en el caso de las escrituras de constituciÃ³n de sociedad en que se aporten bienes raÃ­ces, el formulario deberÃ¡ ser creado por el Conservador de Bienes RaÃ­ces que practique la inscripciÃ³n, y en forma previa a Ã©sta, se deberÃ¡ constituir la sociedad y obtener RUT.
+Asimismo, en el caso de las escrituras de constitución de sociedad en que se aporten bienes raíces, el formulario deberá ser creado por el Conservador de Bienes Raíces que practique la inscripción, y en forma previa a ésta, se deberá constituir la sociedad y obtener RUT.
 
-* ii. La creaciÃ³n en lÃ­nea de un F2890 por parte de los Notarios, deberÃ¡ realizarse el mismo dÃ­a que se otorgue una escritura referida a un acto o contrato sobre inmuebles, que deba informarse al SII.
+* ii. La creación en línea de un F2890 por parte de los Notarios, deberá realizarse el mismo día que se otorgue una escritura referida a un acto o contrato sobre inmuebles, que deba informarse al SII.
 
-En los casos que el formulario sea creado por un Conservador de Bienes RaÃ­ces, deberÃ¡ realizarse el mismo dÃ­a que se practique la inscripciÃ³n que se informa.
+En los casos que el formulario sea creado por un Conservador de Bienes Raíces, deberá realizarse el mismo día que se practique la inscripción que se informa.
 
-* iii. En casos debidamente justificados, no imputables al Notario o Conservador, se deberÃ¡ crear el formulario en el plazo mÃ¡ximo de 5 dÃ­as hÃ¡biles, contados desde la fecha de escritura, o de recepciÃ³n del documento que da origen a la inscripciÃ³n, segÃºn corresponda. Debiendo en todo caso informar vÃ­a correo electrÃ³nico al Jefe del Departamento de Avaluaciones de la DirecciÃ³n Regional correspondiente.
+* iii. En casos debidamente justificados, no imputables al Notario o Conservador, se deberá crear el formulario en el plazo máximo de 5 días hábiles, contados desde la fecha de escritura, o de recepción del documento que da origen a la inscripción, según corresponda. Debiendo en todo caso informar vía correo electrónico al Jefe del Departamento de Avaluaciones de la Dirección Regional correspondiente.
 
-iv. Una vez creado el formulario F2890, se deberÃ¡ ingresar la informaciÃ³n requerida, guardar los cambios introducidos y validar la informaciÃ³n en lÃ­nea, siguiendo las instrucciones de la aplicaciÃ³n.
+iv. Una vez creado el formulario F2890, se deberá ingresar la información requerida, guardar los cambios introducidos y validar la información en línea, siguiendo las instrucciones de la aplicación.
 
-Al momento de guardar el F2890 por primera vez, se le otorgarÃ¡ un nÃºmero Ãºnico de atenciÃ³n electrÃ³nico, siempre que se hayan ingresado al menos los datos de comuna y rol.
+Al momento de guardar el F2890 por primera vez, se le otorgará un número único de atención electrónico, siempre que se hayan ingresado al menos los datos de comuna y rol.
 
-En caso que una escritura se refiera a varios inmuebles se deberÃ¡n crear tantos F2890 como propiedades sean enajenadas, indicÃ¡ndose siempre su rol de avalÃºo.
+En caso que una escritura se refiera a varios inmuebles se deberán crear tantos F2890 como propiedades sean enajenadas, indicándose siempre su rol de avalúo.
 
-* v. En los casos en los cuales, producto del procesamiento de los formularios F2890, el Servicio determine la existencia de errores u omisiones y, por lo tanto, surja la necesidad de modificarlos, se considerarÃ¡ al formulario a corregir como el F2890 'Original' y al nuevo formulario como 'Rectificatoria'. La condiciÃ³n de original o rectificatoria es definida en forma automÃ¡tica por la aplicaciÃ³n.
+* v. En los casos en los cuales, producto del procesamiento de los formularios F2890, el Servicio determine la existencia de errores u omisiones y, por lo tanto, surja la necesidad de modificarlos, se considerará al formulario a corregir como el F2890 'Original' y al nuevo formulario como 'Rectificatoria'. La condición de original o rectificatoria es definida en forma automática por la aplicación.
 
-## 2.5 AprobaciÃ³n de un F2890
+## 2.5 Aprobación de un F2890
 
-El Notario deberÃ¡ seleccionar la opciÃ³n aprobar, permitiendo que la aplicaciÃ³n valide en lÃ­nea el formulario. Si Ã©ste no tiene inconsistencias quedarÃ¡ satisfactoriamente aprobado y podrÃ¡ el Conservador agregar la inscripciÃ³n conservatoria, entendiÃ©ndose que fue enviado correctamente. Una vez aprobado el formulario cambia su estado de ingresado a aprobado y automÃ¡ticamente es informado al SII y disponibilizado al Conservador para su inscripciÃ³n.
+El Notario deberá seleccionar la opción aprobar, permitiendo que la aplicación valide en línea el formulario. Si éste no tiene inconsistencias quedará satisfactoriamente aprobado y podrá el Conservador agregar la inscripción conservatoria, entendiéndose que fue enviado correctamente. Una vez aprobado el formulario cambia su estado de ingresado a aprobado y automáticamente es informado al SII y disponibilizado al Conservador para su inscripción.
 
-Si el formulario no puede validarse por contener errores, estos deberÃ¡n corregirse tantas veces como sea necesario para su correcto envÃ­o.
+Si el formulario no puede validarse por contener errores, estos deberán corregirse tantas veces como sea necesario para su correcto envío.
 
 ## 2.6 Crear F2890 a partir de una plantilla
 
-Los Notarios y Conservadores, podrÃ¡n generar uno o mÃ¡s formularios a partir de otro en estado 'aprobado', evitando la nueva digitaciÃ³n de datos. AdemÃ¡s, los Conservadores podrÃ¡n generar plantillas a partir de un formulario en estado 'cerrado'. Esta opciÃ³n permite a Notarios y Conservadores ingresar informaciÃ³n de escrituras que contengan varias enajenaciones de inmuebles, con datos similares.
+Los Notarios y Conservadores, podrán generar uno o más formularios a partir de otro en estado 'aprobado', evitando la nueva digitación de datos. Además, los Conservadores podrán generar plantillas a partir de un formulario en estado 'cerrado'. Esta opción permite a Notarios y Conservadores ingresar información de escrituras que contengan varias enajenaciones de inmuebles, con datos similares.
 
-Una vez aprobado un F2890, se puede utilizar la alternativa de selecciÃ³n 'Plantilla', para efectos de generar un nuevo F2890 que traspasarÃ¡ parte de la informaciÃ³n desde el formulario original, sin tener la necesidad de digitar todos los datos nuevamente.
+Una vez aprobado un F2890, se puede utilizar la alternativa de selección 'Plantilla', para efectos de generar un nuevo F2890 que traspasará parte de la información desde el formulario original, sin tener la necesidad de digitar todos los datos nuevamente.
 
 ## 2.7 Reemplazo de un formulario F2890
 
-En el caso que no se hayan emitido aÃºn las copias de la escritura de transferencia en la NotarÃ­a, o bien en el caso de formularios creados por el Conservador, se podrÃ¡ reemplazar un formulario aprobado, de modo de poder modificar los datos que se necesite.
+En el caso que no se hayan emitido aún las copias de la escritura de transferencia en la Notaría, o bien en el caso de formularios creados por el Conservador, se podrá reemplazar un formulario aprobado, de modo de poder modificar los datos que se necesite.
 
-La aplicaciÃ³n generarÃ¡ automÃ¡ticamente un nuevo nÃºmero de atenciÃ³n al nuevo formulario y el formulario reemplazado cambiarÃ¡ su estado a nulo.
+La aplicación generará automáticamente un nuevo número de atención al nuevo formulario y el formulario reemplazado cambiará su estado a nulo.
 
-## 2.8 AnulaciÃ³n de un formulario F2890
+## 2.8 Anulación de un formulario F2890
 
-Los Notarios y Conservadores de Bienes RaÃ­ces podrÃ¡n eliminar Formularios creados por ellos, a los que no se hayan incorporado datos de inscripciÃ³n, quedando dicho formulario en estado eliminado.
+Los Notarios y Conservadores de Bienes Raíces podrán eliminar Formularios creados por ellos, a los que no se hayan incorporado datos de inscripción, quedando dicho formulario en estado eliminado.
 
-## 2.9 RectificaciÃ³n de un formulario F2890
+## 2.9 Rectificación de un formulario F2890
 
-Respecto de los F2890 en los que el Conservador ya ha agregado los datos de inscripciÃ³n conservatoria, los Notarios y Conservadores podrÃ¡n modificar la informaciÃ³n contenida en ellos y la aplicaciÃ³n asignarÃ¡ automÃ¡ticamente un nuevo nÃºmero de atenciÃ³n al formulario. El formulario original quedarÃ¡ en estado 'rectificado'.
+Respecto de los F2890 en los que el Conservador ya ha agregado los datos de inscripción conservatoria, los Notarios y Conservadores podrán modificar la información contenida en ellos y la aplicación asignará automáticamente un nuevo número de atención al formulario. El formulario original quedará en estado 'rectificado'.
 
 ## 2.10 Consulta de un formulario F2890
 
-Esta opciÃ³n permite consultar formularios creados en la misma unidad de NotarÃ­a o Conservador. Se podrÃ¡n consultar formularios en todos los estados.
+Esta opción permite consultar formularios creados en la misma unidad de Notaría o Conservador. Se podrán consultar formularios en todos los estados.
 
-Se cuenta con los siguientes criterios de bÃºsqueda:
+Se cuenta con los siguientes criterios de búsqueda:
 
-* -NÃºmero de atenciÃ³n F2890.
-* -Comuna y Rol de AvalÃºo.
-* -NÃºmero de Repertorio y AÃ±o de la transferencia.
+* -Número de atención F2890.
+* -Comuna y Rol de Avalúo.
+* -Número de Repertorio y Año de la transferencia.
 * -Fecha de llenado de formulario.
 * -Estado de formulario.
 * -RUT del digitador.
 * -RUT y tipo de compareciente (adquirente o enajenante).
 
-Una vez seleccionado el criterio de bÃºsqueda, se desplegarÃ¡ una lista con los formularios encontrados, y serÃ¡ posible acceder al detalle de ellos, asÃ­ como descargar la informaciÃ³n consultada en archivo Excel.
+Una vez seleccionado el criterio de búsqueda, se desplegará una lista con los formularios encontrados, y será posible acceder al detalle de ellos, así como descargar la información consultada en archivo Excel.
 
-## 2.11 Registrar inscripciÃ³n conservatoria
+## 2.11 Registrar inscripción conservatoria
 
-Habiendo el Notario aprobado un formulario, el Conservador podrÃ¡ visualizarlo y agregar la inscripciÃ³n conservatoria.
+Habiendo el Notario aprobado un formulario, el Conservador podrá visualizarlo y agregar la inscripción conservatoria.
 
-Cuando se haya agregado la inscripciÃ³n conservatoria deberÃ¡ guardarse el cambio, quedando el formulario en estado 'cerrado', por lo que Ã©ste no estarÃ¡ disponible en la secciÃ³n 'registro de inscripciÃ³n' de la aplicaciÃ³n, sÃ³lo en la secciÃ³n 'consulta".
+Cuando se haya agregado la inscripción conservatoria deberá guardarse el cambio, quedando el formulario en estado 'cerrado', por lo que éste no estará disponible en la sección 'registro de inscripción' de la aplicación, sólo en la sección 'consulta".
 
 ## 2.12 Reportes.
 
-i. Informe de ingreso de Formulario F2890 Este reporte estÃ¡ disponible para Notarios y Conservadores, y a travÃ©s de Ã©l podrÃ¡n visualizar los formularios creados por su unidad en los distintos estados en que estos se encuentren, respecto de un perÃ­odo determinado de tiempo a consultar. (periodo mÃ¡ximo de consulta un aÃ±o mÃ³vil). ii. Informe de proceso de registrar inscripciÃ³n: Este reporte estÃ¡ disponible para Conservadores y Notarios-Conservadores, quienes podrÃ¡n visualizar los formularios cerrados en esa unidad, permitiendo cuantificar los formularios creados e inscritos por esa unidad o bien solo inscritos, accediendo visualizar el nÃºmero de transacciones a las cuales se agregaron los datos de inscripciÃ³n. iii. Informe de oportunidad de inscripciones. Este reporte estÃ¡ disponible para los NotariosConservadores y Conservadores, y entrega informaciÃ³n respecto de cuÃ¡ntos F2890 fueron informados dentro de los plazos seÃ±alados previamente, asÃ­ como cuÃ¡ntos y cuÃ¡les han sido
+i. Informe de ingreso de Formulario F2890 Este reporte está disponible para Notarios y Conservadores, y a través de él podrán visualizar los formularios creados por su unidad en los distintos estados en que estos se encuentren, respecto de un período determinado de tiempo a consultar. (periodo máximo de consulta un año móvil). ii. Informe de proceso de registrar inscripción: Este reporte está disponible para Conservadores y Notarios-Conservadores, quienes podrán visualizar los formularios cerrados en esa unidad, permitiendo cuantificar los formularios creados e inscritos por esa unidad o bien solo inscritos, accediendo visualizar el número de transacciones a las cuales se agregaron los datos de inscripción. iii. Informe de oportunidad de inscripciones. Este reporte está disponible para los NotariosConservadores y Conservadores, y entrega información respecto de cuántos F2890 fueron informados dentro de los plazos señalados previamente, así como cuántos y cuáles han sido
 
 * entregados fuera de plazo.
 
-## 2.13 RecepciÃ³n de los formularios F2890 generados a travÃ©s de la aplicaciÃ³n.
+## 2.13 Recepción de los formularios F2890 generados a través de la aplicación.
 
-Los formularios F2890 se entenderÃ¡n recepcionados vÃ¡lidamente por el SII cuando:
+Los formularios F2890 se entenderán recepcionados válidamente por el SII cuando:
 
-i. Han sido ingresados por una NotarÃ­a, Notaria-Conservador o Conservador y estÃ©n aprobados. ii. Se hayan ingresado los datos de inscripciÃ³n por el Conservador y remitidos electrÃ³nicamente quedando en estado 'Cerrado'. iii. Cuando los formularios anteriores se rectifiquen o reemplacen, por el Notario o por el Conservador. iv. Excepcionalmente, y teniendo en consideraciÃ³n que existen F2890 creados en papel
+i. Han sido ingresados por una Notaría, Notaria-Conservador o Conservador y estén aprobados. ii. Se hayan ingresado los datos de inscripción por el Conservador y remitidos electrónicamente quedando en estado 'Cerrado'. iii. Cuando los formularios anteriores se rectifiquen o reemplacen, por el Notario o por el Conservador. iv. Excepcionalmente, y teniendo en consideración que existen F2890 creados en papel
 
-* con anterioridad a la implementaciÃ³n de la aplicaciÃ³n de 'F2890 en lÃ­nea', Ã©stos deberÃ¡n ingresarse al sistema en forma Ã­ntegra, ya sea por el Conservador de Bienes RaÃ­ces en la oportunidad de inscripciÃ³n, dejando en el campo observaciones nombre y RUT, de la NotarÃ­a de origen, o solicitar la creaciÃ³n en las Oficinas del SII, si hay algÃºn impedimento tÃ©cnico para realizar el ingreso.
+* con anterioridad a la implementación de la aplicación de 'F2890 en línea', éstos deberán ingresarse al sistema en forma íntegra, ya sea por el Conservador de Bienes Raíces en la oportunidad de inscripción, dejando en el campo observaciones nombre y RUT, de la Notaría de origen, o solicitar la creación en las Oficinas del SII, si hay algún impedimento técnico para realizar el ingreso.
 
 6
 
 ## 2.14 Mensajes a participantes
 
-Cuando un F2890 estÃ¡ en estado 'Aprobado' o 'Cerrado ', la aplicaciÃ³n automÃ¡ticamente enviarÃ¡ un correo informativo a los participantes de la operaciÃ³n, lo mismo ocurrirÃ¡ si los formularios mencionados son reemplazados o rectificados.
+Cuando un F2890 está en estado 'Aprobado' o 'Cerrado ', la aplicación automáticamente enviará un correo informativo a los participantes de la operación, lo mismo ocurrirá si los formularios mencionados son reemplazados o rectificados.
 
-Lo anterior permitirÃ¡ mantener a los participantes informados de la transferencia, asÃ­ como de verificar oportunamente que la informaciÃ³n entregada al SII estÃ¡ completa y correcta, y tomar acciones en caso contrario.
+Lo anterior permitirá mantener a los participantes informados de la transferencia, así como de verificar oportunamente que la información entregada al SII está completa y correcta, y tomar acciones en caso contrario.
 
-## 2.15 Detalle de informaciÃ³n sobre enajenaciÃ³n e inscripciÃ³n de bienes raÃ­ces (consulta contribuyente)
+## 2.15 Detalle de información sobre enajenación e inscripción de bienes raíces (consulta contribuyente)
 
-Los contribuyentes podrÃ¡n visualizar las transacciones informadas al SII que lo involucran como enajenante o adquirente en el Sitio Web del SII, a travÃ©s de MiSII. Las transacciones se desplegarÃ¡n en lÃ­nea una vez que el Notario o Conservador informe una transacciÃ³n, ordenadas por aÃ±o comercial, que serÃ¡ la fecha de escritura en los casos que se ingresan por NotarÃ­a, y la fecha de inscripciÃ³n en los que se ingresan en el Conservador.
+Los contribuyentes podrán visualizar las transacciones informadas al SII que lo involucran como enajenante o adquirente en el Sitio Web del SII, a través de MiSII. Las transacciones se desplegarán en línea una vez que el Notario o Conservador informe una transacción, ordenadas por año comercial, que será la fecha de escritura en los casos que se ingresan por Notaría, y la fecha de inscripción en los que se ingresan en el Conservador.
 
-## 2.16 CorrecciÃ³n de errores a peticiÃ³n de los interesados (enajenantes o adquirentes)
+## 2.16 Corrección de errores a petición de los interesados (enajenantes o adquirentes)
 
-En caso que alguno de los adquirentes o enajenantes detecte inconsistencias en la informaciÃ³n registrada en el F2890, podrÃ¡ solicitar al Notario o Conservador que creÃ³ el formulario la rectificaciÃ³n de la informaciÃ³n contenida en Ã©ste.
+En caso que alguno de los adquirentes o enajenantes detecte inconsistencias en la información registrada en el F2890, podrá solicitar al Notario o Conservador que creó el formulario la rectificación de la información contenida en éste.
 
-## 3. OBSERVACIONES A NOTARIOS Y CONSERVADORES DE BIENES RAÃCES
+## 3. OBSERVACIONES A NOTARIOS Y CONSERVADORES DE BIENES RAÍCES
 
-El SII comunicarÃ¡ por correo electrÃ³nico los errores que detecte en los F2890, a la NotarÃ­a o Conservador de Bienes RaÃ­ces segÃºn corresponda. Los Notarios y Conservadores deberÃ¡n seÃ±alar un correo electrÃ³nico vÃ¡lido para notificaciones.
+El SII comunicará por correo electrónico los errores que detecte en los F2890, a la Notaría o Conservador de Bienes Raíces según corresponda. Los Notarios y Conservadores deberán señalar un correo electrónico válido para notificaciones.
 
-Estas observaciones se podrÃ¡n originar tanto respecto de los errores que se detecten en revisiones aleatorias y auditorÃ­as que efectÃºe el Servicio, como en los casos que, a consecuencia de reclamos reiterados de los contribuyentes, se detecten anomalÃ­as o inconsistencias en el llenado de los formularios. En las observaciones a Notarios y Conservadores de Bienes RaÃ­ces se indicarÃ¡n los campos en que se detectaron anomalÃ­as, que deban ser rectificados.
+Estas observaciones se podrán originar tanto respecto de los errores que se detecten en revisiones aleatorias y auditorías que efectúe el Servicio, como en los casos que, a consecuencia de reclamos reiterados de los contribuyentes, se detecten anomalías o inconsistencias en el llenado de los formularios. En las observaciones a Notarios y Conservadores de Bienes Raíces se indicarán los campos en que se detectaron anomalías, que deban ser rectificados.
 
-Si el Notario o Conservador, constata que hay aÃºn mÃ¡s errores que los indicados por el SII, puede corregirlos a travÃ©s de esta aplicaciÃ³n, e informar a la Unidad del SII correspondiente a su territorio, mediante correo electrÃ³nico dirigido al Encargado del F2890.
+Si el Notario o Conservador, constata que hay aún más errores que los indicados por el SII, puede corregirlos a través de esta aplicación, e informar a la Unidad del SII correspondiente a su territorio, mediante correo electrónico dirigido al Encargado del F2890.
 
-## 3.1 CORRECCIÃ“N DE OBSERVACIONES POR PARTE DE NOTARIOS Y CONSERVADORES
+## 3.1 CORRECCIÓN DE OBSERVACIONES POR PARTE DE NOTARIOS Y CONSERVADORES
 
-Las correcciones a las observaciones del SII, deberÃ¡n efectuarse electrÃ³nicamente a travÃ©s del uso de la aplicaciÃ³n en lÃ­nea, en un plazo mÃ¡ximo de 5 dÃ­as hÃ¡biles, a partir de la fecha del envÃ­o del correo electrÃ³nico que informa de la anomalÃ­a, o del segundo dÃ­a contado desde el envÃ­o de la carta certificada.
+Las correcciones a las observaciones del SII, deberán efectuarse electrónicamente a través del uso de la aplicación en línea, en un plazo máximo de 5 días hábiles, a partir de la fecha del envío del correo electrónico que informa de la anomalía, o del segundo día contado desde el envío de la carta certificada.
 
-## 3.2 APLICACIÃ“N DE SANCIONES POR INFRACCIÃ“N EN EL TRASPASO DE INFORMACIÃ“N AL SII
+## 3.2 APLICACIÓN DE SANCIONES POR INFRACCIÓN EN EL TRASPASO DE INFORMACIÓN AL SII
 
-El incumplimiento por parte de Notarios y Conservadores de Bienes RaÃ­ces de la obligaciÃ³n de informar de las transferencias de bienes raÃ­ces, en la forma, plazo y condiciones establecidas por el Servicio, constituye una infracciÃ³n sancionada por el artÃ­culo 97 NÂ°1 del CÃ³digo Tributario, segÃºn lo dispuesto por el artÃ­culo segundo de la Ley NÂ° 17.990.
+El incumplimiento por parte de Notarios y Conservadores de Bienes Raíces de la obligación de informar de las transferencias de bienes raíces, en la forma, plazo y condiciones establecidas por el Servicio, constituye una infracción sancionada por el artículo 97 N°1 del Código Tributario, según lo dispuesto por el artículo segundo de la Ley N° 17.990.
 
 ## a) Tipos de Infracciones
 
-* i. Retraso en el ingreso de F2890 en lÃ­nea, con un desfase mayor a 5 dÃ­as desde la fecha de
+* i. Retraso en el ingreso de F2890 en línea, con un desfase mayor a 5 días desde la fecha de
 
-1. escrituraciÃ³n ii. Retraso en la correcciÃ³n de F2890 requerido por el SII a travÃ©s de notificaciÃ³n, en el caso de errores en el llenado del F2890. iii. No declaraciÃ³n de un F2890, sobre la transferencia de un bien raÃ­z u otro acto que deba informarse.
+1. escrituración ii. Retraso en la corrección de F2890 requerido por el SII a través de notificación, en el caso de errores en el llenado del F2890. iii. No declaración de un F2890, sobre la transferencia de un bien raíz u otro acto que deba informarse.
 
-* iv. No responder a las observaciones del SII respecto de uno o mÃ¡s formularios F2890.
+* iv. No responder a las observaciones del SII respecto de uno o más formularios F2890.
 
-## b) AplicaciÃ³n de Sanciones
+## b) Aplicación de Sanciones
 
-* -Detectada la ocurrencia de alguna circunstancia que pudiese ser constitutiva de infracciÃ³n, el Servicio notificarÃ¡ al Notario o Conservador de Bienes RaÃ­ces respectivo, y le otorgarÃ¡ un plazo adicional de 5 dÃ­as hÃ¡biles para subsanar la observaciÃ³n formulada.
-* -Transcurrido dicho plazo, sin que se dÃ© plena y oportuna respuesta a la observaciÃ³n, el Notario o Conservador de Bienes RaÃ­ces serÃ¡ sancionado, de acuerdo al artÃ­culo 97 NÂ°1 del CÃ³digo Tributario, y se aplicarÃ¡ el procedimiento establecido en el artÃ­culo 165 del mismo CÃ³digo.
-* -Si el Notario o Conservador de Bienes RaÃ­ces, no da pleno cumplimiento a la observaciÃ³n formulada, en los plazos establecidos en la presente Circular, se le girarÃ¡ una multa, por medio de la emisiÃ³n en lÃ­nea de un giro.
-* -Los Notarios y Conservadores de Bienes RaÃ­ces que lo estimen procedente, podrÃ¡n reclamar por escrito ante el Tribunal Tributario y Aduanero correspondiente, dentro de un plazo de 15 dÃ­as hÃ¡biles, contados desde la fecha de la notificaciÃ³n de la aplicaciÃ³n multa.
+* -Detectada la ocurrencia de alguna circunstancia que pudiese ser constitutiva de infracción, el Servicio notificará al Notario o Conservador de Bienes Raíces respectivo, y le otorgará un plazo adicional de 5 días hábiles para subsanar la observación formulada.
+* -Transcurrido dicho plazo, sin que se dé plena y oportuna respuesta a la observación, el Notario o Conservador de Bienes Raíces será sancionado, de acuerdo al artículo 97 N°1 del Código Tributario, y se aplicará el procedimiento establecido en el artículo 165 del mismo Código.
+* -Si el Notario o Conservador de Bienes Raíces, no da pleno cumplimiento a la observación formulada, en los plazos establecidos en la presente Circular, se le girará una multa, por medio de la emisión en línea de un giro.
+* -Los Notarios y Conservadores de Bienes Raíces que lo estimen procedente, podrán reclamar por escrito ante el Tribunal Tributario y Aduanero correspondiente, dentro de un plazo de 15 días hábiles, contados desde la fecha de la notificación de la aplicación multa.
 
-1. VERIFICACIÃ“N DE INFORMACIÃ“N
+1. VERIFICACIÓN DE INFORMACIÓN
 
-El Servicio de Impuestos Internos podrÃ¡ solicitar, en cualquier tiempo, a los Conservadores de Bienes RaÃ­ces la verificaciÃ³n de informaciÃ³n relativa a la transferencia o transmisiÃ³n de uno o mÃ¡s bienes raÃ­ces, entregando los datos referidos a rol, inscripciÃ³n y propietario, a objeto de que el Conservador informe quien es el o los propietarios inscritos de un inmueble, y en este Ãºltimo caso el porcentaje de derechos de cada uno.
+El Servicio de Impuestos Internos podrá solicitar, en cualquier tiempo, a los Conservadores de Bienes Raíces la verificación de información relativa a la transferencia o transmisión de uno o más bienes raíces, entregando los datos referidos a rol, inscripción y propietario, a objeto de que el Conservador informe quien es el o los propietarios inscritos de un inmueble, y en este último caso el porcentaje de derechos de cada uno.
 
 1. VIGENCIA
 
-Las instrucciones contenidas en la presente Circular entrarÃ¡n en vigencia el primer dÃ­a hÃ¡bil del mes siguiente a su publicaciÃ³n en extracto en el Diario Oficial, fecha desde la cual se derogan las Circulares NÂ° 41, de 1998, NÂ°10 de 2004, NÂ°39 de 2007, y NÂ°57 de 2008.
+Las instrucciones contenidas en la presente Circular entrarán en vigencia el primer día hábil del mes siguiente a su publicación en extracto en el Diario Oficial, fecha desde la cual se derogan las Circulares N° 41, de 1998, N°10 de 2004, N°39 de 2007, y N°57 de 2008.
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR
 

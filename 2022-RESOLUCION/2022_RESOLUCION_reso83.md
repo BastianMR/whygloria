@@ -1,145 +1,146 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 9 (2022)
-description: COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÃ“N EXENTA NÂ° 09, DE 2022.
+---
+type: "SII Resolución"
+title: "Resolución N° 9 (2022)"
+description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 tags: [SII, 2022, resolucion]
 ---
 
-## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÃ“N EXENTA NÂ° 09, DE 2022.
+
+## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022.
 
 SANTIAGO, 07 DE SEPTIEMBRE DEL 2022
 
-RESOLUCIÃ“N EX. SII NÂ° 83
+RESOLUCIÓN EX. SII N° 83
 
-VISTOS: Lo dispuesto en el artÃ­culo 42 de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del DFL NÂ° 7, de 1980, Hacienda;; las Resoluciones Exentas SII NÂ°s 16 y 18, de 11 de julio de 2002 y 29 de agosto de 2002, respectivamente; el artÃ­culo 12Âº, letra a), del Decreto Ley NÂº 3.063, de 1979, sobre Rentas Municipales, y
+VISTOS: Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda;; las Resoluciones Exentas SII N°s 16 y 18, de 11 de julio de 2002 y 29 de agosto de 2002, respectivamente; el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales, y
 
 ## CONSIDERANDO:
 
-1. Que, con fecha 31 de enero de 2022, se dictÃ³ la ResoluciÃ³n Exenta SII NÂ° 09, que fija lista de valores de vehÃ­culos motorizados para los fines que seÃ±ala.
-2. Que, se hace necesario rectificar parte del contenido de la lista anexa de la citada ResoluciÃ³n Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P., [<u>www.emol.com</u>](http://www.emol.com), y del Servicio de Impuestos Internos, sii.cl.
+1. Que, con fecha 31 de enero de 2022, se dictó la Resolución Exenta SII N° 09, que fija lista de valores de vehículos motorizados para los fines que señala.
+2. Que, se hace necesario rectificar parte del contenido de la lista anexa de la citada Resolución Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P., [<u>www.emol.com</u>](http://www.emol.com), y del Servicio de Impuestos Internos, sii.cl.
 
 ## SE RESUELVE:
 
-ComplemÃ©ntase la lista anexa de la ResoluciÃ³n Exenta SII NÂ° 09, de fecha 31 de enero de 2022, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo NÂ°1.
+Compleméntase la lista anexa de la Resolución Exenta SII N° 09, de fecha 31 de enero de 2022, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo N°1.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
 ## SUBDIRECTORA DE AVALUACIONES
 
-| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **Marchas TracciÃ³n** | **PaÃ­s** | **Equipamiento** |
+| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas Tracción** | **País** | **Equipamiento** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SU0130108 | 2021 | Suv | AUDI | Q8 | 55 TFSI | 5 | 3.000 | 340 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130106 | 2021 | Suv | AUDI | Q8 | 45 TDI | 5 | 3.000 | 250 | DiÃ©sel | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130109 | 2021 | Suv | AUDI | Q8 | 55 TFSI SPORT | 5 | 3.000 | 340 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130107 | 2021 | Suv | AUDI | Q8 | 45 TDI SPORT | 5 | 3.000 | 249 | DiÃ©sel | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130103 | 2021 | Suv | AUDI | Q7 | 45 TFSI (5P) | 5 | 2.000 | 252 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130104 | 2021 | Suv | AUDI | Q7 | 45 TFSI (7P) | 5 | 2.000 | 252 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |  |
-| SU0130097 | 2021 | Suv | AUDI | Q5 | 45 SPORT | 5 | 2.000 | 252 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | MÃ‰XICO |  |
-| SU0130099 | 2021 | Suv | AUDI | Q5 | SQ5 | 5 | 3.000 | 354 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | MÃ‰XICO |  |
-| SD0130277 | 2021 | SedÃ¡n | AUDI | A6 | SPORT 40 TDI | 4 | 2.000 | 190 | DiÃ©sel | AutomÃ¡tica | 7 4x2 (2WD) | ALEMANIA |  |
-| SD0130278 | 2021 | SedÃ¡n | AUDI | A6 | SPORT 40 TFSI | 4 | 2.000 | 190 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ALEMANIA |  |
-| SD0130279 | 2021 | SedÃ¡n | AUDI | A6 | SPORT 45 TFSI | 4 | 2.000 | 245 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ALEMANIA |  |
-| SU0040004 | 2021 | Suv | ALFA ROMEO | 500X | 140 CV TCT CITY CROSS | 5 | 1.400 | 140 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) | ITALIA |  |
-| HB0130136 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 30 TFSI | 5 | 1.000 | 116 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ESPAÃ‘A |  |
-| HB0130137 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 30 TFSI SPORT | 5 | 1.000 | 116 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ESPAÃ‘A |  |
-| HB0130138 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 35 TFSI SPORT | 5 | 1.500 | 150 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ESPAÃ‘A |  |
-| HB0130139 | 2021 | Hatchback | AUDI | A3 | CABRIO 35 TFSI SPORT | 2 | 1.400 | 150 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | HUNGRÃA |  |
-| HB0130145 HB0130148 | 2021 2021 | Hatchback Hatchback | AUDI AUDI | A5 A5 | COUPE 40 TFSI SPORT SPORTBACK 40 TFSI | 2 5 | 2.000 2.000 | 190 190 | Bencina Bencina | AutomÃ¡tica AutomÃ¡tica | 7 4x2 (2WD) 7 4x2 (2WD) | ALEMANIA ALEMANIA |  |
-| HB0130151 | 2021 | Hatchback | AUDI | A5 | SPORTBACK 45 TFSI QUATTRO | 5 | 2.000 | 252 | Bencina | AutomÃ¡tica | 7 4x4 (AWD) | ALEMANIA |  |
-| HB0130149 | 2021 | Hatchback | AUDI | A5 | SPORTBACK 40 TFSI MHEV | 5 | 2.000 | 190 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | ALEMANIA |  |
-| HB0130152 | 2021 | Hatchback | AUDI | A3 | 35 TFSI (ASIENTO ELECT.) | 5 | 1.400 | 150 252 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) 7 4x2 (2WD) | ALEMANIA |  |
-| SU0130117 | 2021 | Suv | AUDI | Q5 | 45 TFSI (LLANTA 20'') | 5 | 2.000 |  | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | MÃ‰XICO |  |
-| SD0130280 | 2021 | SedÃ¡n | AUDI | A4 | 35 TFSI | 5 | 2.000 | 150 | Bencina | AutomÃ¡tica |  | ALEMANIA |  |
-| SD0130282 | 2021 | SedÃ¡n | AUDI | A4 | 40 TFSI SPORT | 5 | 2.000 | 150 354 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) 8 4x4 (AWD) | ALEMANIA ALEMANIA |  |
-| SD0130283 | 2021 |  | AUDI | A4 | S4 | 5 |  |  | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | HUNGRÃA |  |
-| SU0130111 | 2021 | SedÃ¡n |  |  | 35 TFSI | 5 | 3.000 |  |  |  |  |  |  |
-|  |  | Suv | AUDI | Q3 |  |  | 1.400 | 150 | Bencina | AutomÃ¡tica |  |  |  |
-| SU0130112 SU0130113 | 2021 2021 | Suv Suv | AUDI AUDI | Q3 Q3 | 35 TFSI SPORT 40 TFSI SPORT | 5 | 1.400 2.000 | 150 180 | Bencina Bencina | AutomÃ¡tica AutomÃ¡tica | 7 4x2 (2WD) 7 4x4 (AWD) | HUNGRÃA HUNGRÃA |  |
-| SU0130114 | 2021 | Suv | AUDI | Q3 | SPORTBACK 35 TFSI | 5 | 1.400 | 150 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | HUNGRÃA |  |
-| SU0130115 | 2021 | Suv | AUDI | Q3 | SPORTBACK 35 TFSI SPOR | 5 5 | 1.400 | 150 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) | HUNGRÃA |  |
-| SU0130116 | 2021 | Suv | AUDI | Q3 | SPORTBACK 40 TFSI SPORT | 5 | 2.000 | 180 | Bencina | AutomÃ¡tica | 7 4x4 (AWD) | HUNGRÃA |  |
-| SU0130118 | 2021 | Suv | AUDI | Q5 | TDI SPORT | 5 | 2.000 | 190 | DiÃ©sel | AutomÃ¡tica | 8 4x4 (AWD) | MÃ‰XICO |  |
-| CO2430013 | 2021 | Comercial | VOLKSWAGEN | TRANSPORTER | T6 KOMBI 11 PASAJEROS - 103 KW/140 CV | 4 | 2.000 | 140 | DiÃ©sel | MecÃ¡nica | 6 4x2 (2WD) | ALEMANIA BRASIL |  |
-| CT5430011 | 2021 | Camioneta | RAM | 1000 | 1000 1.8 LX AT BZ | 4 | 1.800 | 130 | Bencina | AutomÃ¡tica | 6 4x2 (2WD) |  | Full |
-| HB0770147 | 2021 | Hatchback | FIAT | CINQUECENTO | 500 1.2 MT | 2 | 1.200 |  | Bencina | MecÃ¡nica |  |  | Full |
-| HB0770152 | 2021 | Hatchback | FIAT | CINQUECENTO | 500 1.2 AT | 2 | 1.200 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| HB0770158 | 2021 | Hatchback | FIAT | CINQUECENTO | LOUNGE 1.4 MT T.PA | 2 | 1.400 |  | Bencina | MecÃ¡nica |  |  |  |
-| HB0770176 HB0770184 | 2021 | Hatchback Hatchback | FIAT FIAT | UNO WAY UNO | 1.4 STYLE EVO AA 5P WAY STYLE 1.4 EVO AA F | 4 | 1.400 |  | Bencina Bencina | MecÃ¡nica MecÃ¡nica |  |  | Full |
-| HB2430243 | 2021 2021 | Hatchback | VOLKSWAGEN | GOLF | 1.6 MT | 4 4 | 1.400 1.600 |  | Bencina | MecÃ¡nica |  |  | Full |
-| HB2430242 | 2021 | Hatchback | VOLKSWAGEN | GOLF | 1.6 AT | 4 | 1.600 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| HB2430238 |  | Hatchback | VOLKSWAGEN | BEETLE |  |  | 1.800 |  | Bencina | AutomÃ¡tica |  |  | Full Full |
-| HB2430250 | 2021 2021 | Hatchback Hatchback | VOLKSWAGEN | GOLF | 1.4 AT 1.4 AT | 4 4 | 1.400 1.000 | 95 | Bencina | AutomÃ¡tica MecÃ¡nica | 5 4x2 (2WD) | REPÃšBLICA CHECA |  |
-| HB2210031 HB2210032 | 2021 2021 | Hatchback | SKODA SKODA | FABIA FABIA | ACTIVE AMBIENTE | 4 4 | 1.000 | 110 | Bencina Bencina | MecÃ¡nica | 6 4x2 (2WD) | REPÃšBLICA CHECA |  |
-| HB2210033 | 2021 | Hatchback | SKODA | FABIA | STYLE | 4 | 1.000 | 110 | Bencina | AutomÃ¡tica | REPÃšBLICA CHECA |  |  |
-| HB2430276 | 2021 | Hatchback | VOLKSWAGEN | GOLF | R 2.0 AT | 4 | 2.000 | 310 | Bencina | AutomÃ¡tica | 7 4x2 (2WD) 7 4x4 (AWD) | ALEMANIA |  |
-| HB2430299 | 2021 |  |  |  | MT | 2 | 1.400 |  |  | MecÃ¡nica | 6 4x2 (2WD) |  |  |
-|  |  | Hatchback | VOLKSWAGEN | BEETLE | COMFORTLINE 6 |  |  | 160 | Bencina |  | MÃ‰XICO |  |  |
+| SU0130108 | 2021 | Suv | AUDI | Q8 | 55 TFSI | 5 | 3.000 | 340 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130106 | 2021 | Suv | AUDI | Q8 | 45 TDI | 5 | 3.000 | 250 | Diésel | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130109 | 2021 | Suv | AUDI | Q8 | 55 TFSI SPORT | 5 | 3.000 | 340 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130107 | 2021 | Suv | AUDI | Q8 | 45 TDI SPORT | 5 | 3.000 | 249 | Diésel | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130103 | 2021 | Suv | AUDI | Q7 | 45 TFSI (5P) | 5 | 2.000 | 252 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130104 | 2021 | Suv | AUDI | Q7 | 45 TFSI (7P) | 5 | 2.000 | 252 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |  |
+| SU0130097 | 2021 | Suv | AUDI | Q5 | 45 SPORT | 5 | 2.000 | 252 | Bencina | Automática | 8 4x4 (AWD) | MÉXICO |  |
+| SU0130099 | 2021 | Suv | AUDI | Q5 | SQ5 | 5 | 3.000 | 354 | Bencina | Automática | 8 4x4 (AWD) | MÉXICO |  |
+| SD0130277 | 2021 | Sedán | AUDI | A6 | SPORT 40 TDI | 4 | 2.000 | 190 | Diésel | Automática | 7 4x2 (2WD) | ALEMANIA |  |
+| SD0130278 | 2021 | Sedán | AUDI | A6 | SPORT 40 TFSI | 4 | 2.000 | 190 | Bencina | Automática | 7 4x2 (2WD) | ALEMANIA |  |
+| SD0130279 | 2021 | Sedán | AUDI | A6 | SPORT 45 TFSI | 4 | 2.000 | 245 | Bencina | Automática | 7 4x2 (2WD) | ALEMANIA |  |
+| SU0040004 | 2021 | Suv | ALFA ROMEO | 500X | 140 CV TCT CITY CROSS | 5 | 1.400 | 140 | Bencina | Automática | 6 4x2 (2WD) | ITALIA |  |
+| HB0130136 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 30 TFSI | 5 | 1.000 | 116 | Bencina | Automática | 7 4x2 (2WD) | ESPAÑA |  |
+| HB0130137 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 30 TFSI SPORT | 5 | 1.000 | 116 | Bencina | Automática | 7 4x2 (2WD) | ESPAÑA |  |
+| HB0130138 | 2021 | Hatchback | AUDI | A1 | SPORTBACK 35 TFSI SPORT | 5 | 1.500 | 150 | Bencina | Automática | 7 4x2 (2WD) | ESPAÑA |  |
+| HB0130139 | 2021 | Hatchback | AUDI | A3 | CABRIO 35 TFSI SPORT | 2 | 1.400 | 150 | Bencina | Automática | 7 4x2 (2WD) | HUNGRÍA |  |
+| HB0130145 HB0130148 | 2021 2021 | Hatchback Hatchback | AUDI AUDI | A5 A5 | COUPE 40 TFSI SPORT SPORTBACK 40 TFSI | 2 5 | 2.000 2.000 | 190 190 | Bencina Bencina | Automática Automática | 7 4x2 (2WD) 7 4x2 (2WD) | ALEMANIA ALEMANIA |  |
+| HB0130151 | 2021 | Hatchback | AUDI | A5 | SPORTBACK 45 TFSI QUATTRO | 5 | 2.000 | 252 | Bencina | Automática | 7 4x4 (AWD) | ALEMANIA |  |
+| HB0130149 | 2021 | Hatchback | AUDI | A5 | SPORTBACK 40 TFSI MHEV | 5 | 2.000 | 190 | Bencina | Automática | 7 4x2 (2WD) | ALEMANIA |  |
+| HB0130152 | 2021 | Hatchback | AUDI | A3 | 35 TFSI (ASIENTO ELECT.) | 5 | 1.400 | 150 252 | Bencina | Automática | 7 4x2 (2WD) 7 4x2 (2WD) | ALEMANIA |  |
+| SU0130117 | 2021 | Suv | AUDI | Q5 | 45 TFSI (LLANTA 20'') | 5 | 2.000 |  | Bencina | Automática | 8 4x4 (AWD) | MÉXICO |  |
+| SD0130280 | 2021 | Sedán | AUDI | A4 | 35 TFSI | 5 | 2.000 | 150 | Bencina | Automática |  | ALEMANIA |  |
+| SD0130282 | 2021 | Sedán | AUDI | A4 | 40 TFSI SPORT | 5 | 2.000 | 150 354 | Bencina | Automática | 7 4x2 (2WD) 8 4x4 (AWD) | ALEMANIA ALEMANIA |  |
+| SD0130283 | 2021 |  | AUDI | A4 | S4 | 5 |  |  | Bencina | Automática | 7 4x2 (2WD) | HUNGRÍA |  |
+| SU0130111 | 2021 | Sedán |  |  | 35 TFSI | 5 | 3.000 |  |  |  |  |  |  |
+|  |  | Suv | AUDI | Q3 |  |  | 1.400 | 150 | Bencina | Automática |  |  |  |
+| SU0130112 SU0130113 | 2021 2021 | Suv Suv | AUDI AUDI | Q3 Q3 | 35 TFSI SPORT 40 TFSI SPORT | 5 | 1.400 2.000 | 150 180 | Bencina Bencina | Automática Automática | 7 4x2 (2WD) 7 4x4 (AWD) | HUNGRÍA HUNGRÍA |  |
+| SU0130114 | 2021 | Suv | AUDI | Q3 | SPORTBACK 35 TFSI | 5 | 1.400 | 150 | Bencina | Automática | 7 4x2 (2WD) | HUNGRÍA |  |
+| SU0130115 | 2021 | Suv | AUDI | Q3 | SPORTBACK 35 TFSI SPOR | 5 5 | 1.400 | 150 | Bencina | Automática | 7 4x2 (2WD) | HUNGRÍA |  |
+| SU0130116 | 2021 | Suv | AUDI | Q3 | SPORTBACK 40 TFSI SPORT | 5 | 2.000 | 180 | Bencina | Automática | 7 4x4 (AWD) | HUNGRÍA |  |
+| SU0130118 | 2021 | Suv | AUDI | Q5 | TDI SPORT | 5 | 2.000 | 190 | Diésel | Automática | 8 4x4 (AWD) | MÉXICO |  |
+| CO2430013 | 2021 | Comercial | VOLKSWAGEN | TRANSPORTER | T6 KOMBI 11 PASAJEROS - 103 KW/140 CV | 4 | 2.000 | 140 | Diésel | Mecánica | 6 4x2 (2WD) | ALEMANIA BRASIL |  |
+| CT5430011 | 2021 | Camioneta | RAM | 1000 | 1000 1.8 LX AT BZ | 4 | 1.800 | 130 | Bencina | Automática | 6 4x2 (2WD) |  | Full |
+| HB0770147 | 2021 | Hatchback | FIAT | CINQUECENTO | 500 1.2 MT | 2 | 1.200 |  | Bencina | Mecánica |  |  | Full |
+| HB0770152 | 2021 | Hatchback | FIAT | CINQUECENTO | 500 1.2 AT | 2 | 1.200 |  | Bencina | Automática |  |  | Full |
+| HB0770158 | 2021 | Hatchback | FIAT | CINQUECENTO | LOUNGE 1.4 MT T.PA | 2 | 1.400 |  | Bencina | Mecánica |  |  |  |
+| HB0770176 HB0770184 | 2021 | Hatchback Hatchback | FIAT FIAT | UNO WAY UNO | 1.4 STYLE EVO AA 5P WAY STYLE 1.4 EVO AA F | 4 | 1.400 |  | Bencina Bencina | Mecánica Mecánica |  |  | Full |
+| HB2430243 | 2021 2021 | Hatchback | VOLKSWAGEN | GOLF | 1.6 MT | 4 4 | 1.400 1.600 |  | Bencina | Mecánica |  |  | Full |
+| HB2430242 | 2021 | Hatchback | VOLKSWAGEN | GOLF | 1.6 AT | 4 | 1.600 |  | Bencina | Automática |  |  | Full |
+| HB2430238 |  | Hatchback | VOLKSWAGEN | BEETLE |  |  | 1.800 |  | Bencina | Automática |  |  | Full Full |
+| HB2430250 | 2021 2021 | Hatchback Hatchback | VOLKSWAGEN | GOLF | 1.4 AT 1.4 AT | 4 4 | 1.400 1.000 | 95 | Bencina | Automática Mecánica | 5 4x2 (2WD) | REPÚBLICA CHECA |  |
+| HB2210031 HB2210032 | 2021 2021 | Hatchback | SKODA SKODA | FABIA FABIA | ACTIVE AMBIENTE | 4 4 | 1.000 | 110 | Bencina Bencina | Mecánica | 6 4x2 (2WD) | REPÚBLICA CHECA |  |
+| HB2210033 | 2021 | Hatchback | SKODA | FABIA | STYLE | 4 | 1.000 | 110 | Bencina | Automática | REPÚBLICA CHECA |  |  |
+| HB2430276 | 2021 | Hatchback | VOLKSWAGEN | GOLF | R 2.0 AT | 4 | 2.000 | 310 | Bencina | Automática | 7 4x2 (2WD) 7 4x4 (AWD) | ALEMANIA |  |
+| HB2430299 | 2021 |  |  |  | MT | 2 | 1.400 |  |  | Mecánica | 6 4x2 (2WD) |  |  |
+|  |  | Hatchback | VOLKSWAGEN | BEETLE | COMFORTLINE 6 |  |  | 160 | Bencina |  | MÉXICO |  |  |
 
-| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n Marchas** | **TracciÃ³n** | **PaÃ­s** | **Equipamiento** |
+| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión Marchas** | **Tracción** | **País** | **Equipamiento** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HB2130053 | 2021 | Hatchback | SEAT | LEON | FR 1.4 TSI MT6 | 5 | 1.400 | 150 Bencina | MecÃ¡nica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2130050 | 2021 | Hatchback | SEAT | IBIZA | STYLE 1.6L AT6 | 5 | 1.600 | 110 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2130049 | 2021 | Hatchback | SEAT | IBIZA | REFERENCE 1.6L MT5 | 5 | 1.600 | 110 Bencina | MecÃ¡nica |  | 5 4x2 (2WD) | EEUU |  |
-| HB2130054 | 2021 | Hatchback | SEAT | LEON | STYLE 1.4 TSI MT6 | 5 | 1.400 | 150 Bencina | MecÃ¡nica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2130051 | 2021 | Hatchback | SEAT | IBIZA | STYLE 1.6L MT5 | 5 | 1.600 | 110 Bencina | MecÃ¡nica |  | 5 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2130052 | 2021 | Hatchback | SEAT | LEON | CUPRA 2.0 TSI DSG6 | 5 | 2.000 | 290 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2130048 | 2021 | Hatchback | SEAT | IBIZA | FR 1.6L AT6 | 5 | 1.600 | 110 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| HB2430302 | 2021 | Hatchback | VOLKSWAGEN | POLO | POLO 1.6 MT5 TRENDLINE ESC | 5 | 1.600 | 110 Bencina | MecÃ¡nica |  | 5 4x2 (2WD) | BRASIL |  |
-| HB2430303 | 2021 | Hatchback | VOLKSWAGEN | POLO | 1.6 MT5 COMFORTLINE ESC | 5 | 1.600 | 110 Bencina | MecÃ¡nica |  | 4 4x2 (2WD) | BRASIL |  |
-| HB2210038 | 2021 | Hatchback | SKODA | KAROQ | STYLW 1.4 | 5 | 1.400 | 150 Bencina | AutomÃ¡tica | 6 | 4x2 (2WD) | REPÃšBLICA CHECA |  |
-| HB0770205 | 2021 | Hatchback | FIAT | MOBI | WAY CROSS | 5 | 1.000 | 72 Bencina | MecÃ¡nica |  | 5 4x2 y 4x4 | BRASIL |  |
-| SD0770065 | 2021 | SedÃ¡n | FIAT | ARGO | DRIVE 1.3 GSE ELX | 4 | 1.300 | 99 Bencina | MecÃ¡nica |  | 5 4x2 y 4x4 | BRASIL |  |
-| SD0770066 | 2021 | SedÃ¡n | FIAT | CRONOS | DRIVE 1.3 | 4 | 1.300 | 99 Bencina | MecÃ¡nica |  | 5 4x2 y 4x4 | ARGENTINA |  |
-| SD0770062 | 2021 | SedÃ¡n | FIAT | CRONOS | DRIVE 1.3 MT | 4 | 1.300 | 99 Bencina | MecÃ¡nica |  | 5 4x2 (2WD) | ITALIA |  |
-| SD2430187 | 2021 | SedÃ¡n | VOLKSWAGEN | VIRTUS | AT6 COMFORTLINE | 4 | 1.600 | 110 Bencina | AutomÃ¡tica |  | 4 4x2 (2WD) | BRASIL |  |
-| SD2430201 | 2021 | SedÃ¡n | VOLKSWAGEN | JETTA | 1.4 TSI AT COMFORTLINE | 5 | 1.400 | 150 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | MÃ‰XICO |  |
-| SU2210056 | 2021 | Suv | SKODA | KODIAQ | AMBIENTE | 4 | 1.400 | 150 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | REPÃšBLICA CHECA |  |
-| SU2210057 | 2021 | Suv | SKODA | KODIAQ | STYLE | 4 | 2.000 | 180 Bencina | AutomÃ¡tica |  | 7 4x4 (AWD) | REPÃšBLICA | CHECA |
-| SU2430106 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT LIMITED 180HP | 4 | 2.000 | 180 Bencina | AutomÃ¡tica | 7 | 4x4 (AWD) | MÃ‰XICO |  |
-| SU2430108 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT R-LINE 220HP | 4 | 2.000 | 220 Bencina | AutomÃ¡tica |  | 7 4x4 (AWD) | MÃ‰XICO |  |
-| SU2430120 | 2021 2021 | Suv | VOLKSWAGEN | TOUAREG | 3.0 V6 TDI R-LINE STYLE 1.6L AT6 | 5 5 | 3.000 1.600 | 258 DiÃ©sel | AutomÃ¡tica |  | 8 4x4 (AWD) 6 4x2 (2WD) | ALEMANIA ESPAÃ‘A |  |
-| SU2130006 |  | Suv | SEAT | ARONA |  | 5 | 1.400 | 110 Bencina | AutomÃ¡tica |  | 6 4x4 (AWD) | CHECA |  |
-| SU2130007 | 2021 | Suv | SEAT | ATECA | STYLE 1.4 TSI DSG 6 4DRIVE |  |  | 150 Bencina | AutomÃ¡tica |  |  | REPÃšBLICA |  |
-| SU2130004 | 2021 | Suv | SEAT | ARONA | FR 1.6L AT6 | 5 | 1.600 | 110 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | ESPAÃ‘A |  |
-| SU2430115 SU2130008 | 2021 2021 | Suv Suv | VOLKSWAGEN SEAT | T-CROSS ATECA | LIMITED 1.6L AT 110HP XCELLENCE1.4 TSI DSG 6 4DRIVE | 5 5 | 1.600 1.400 | 110 Bencina 150 Bencina | AutomÃ¡tica AutomÃ¡tica |  | 6 4x2 (2WD) 6 4x4 (AWD) | BRASIL REPÃšBLICA | CHECA |
-| SU2430116 | 2021 | Suv | VOLKSWAGEN | T-CROSS | SE 1.6L AT 110HP | 5 | 1.600 | 110 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | BRASIL |  |
-| SU2130005 | 2021 | Suv | SEAT | ARONA | REFERENCE 1.6L | 5 | 1.600 | 110 Bencina | AutomÃ¡tica | 6 | 4x2 (2WD) | ESPAÃ‘A |  |
-|  | SU2430118 2021 | Suv |  |  | AT6 |  |  | 180 Bencina | AutomÃ¡tica |  |  |  |  |
-| SU2430119 | 2021 | Suv | VOLKSWAGEN VOLKSWAGEN | TIGUAN TOUAREG | SPORT 2.0 TSI AT 180HP 3.0 V6 TDI LIMITED | 5 5 | 2.000 3.000 | 258 DiÃ©sel | AutomÃ¡tica | 8 | 7 4x4 (AWD) 4x4 (AWD) | ALEMANIA ALEMANIA |  |
-| SU2430122 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT TRENDLINE 150HP 5P | 5 | 1.400 | 150 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | MÃ‰XICO |  |
-| SU2430125 | 2021 | Suv | VOLKSWAGEN |  | TSI AT HIGHLINE 150 | 5 | 1.400 | 150 Bencina | AutomÃ¡tica |  | 4x2 (2WD) |  |  |
-| SU2430126 | 2021 | Suv | VOLKSWAGEN | TIGUAN TIGUAN | TSI AT COMFORTLINE | 5 | 1.400 | 150 Bencina | AutomÃ¡tica | 6 | 6 4x2 (2WD) | MÃ‰XICO MÃ‰XICO |  |
-| SU2210067 | 2021 | Suv | SKODA | KAROQ | AMBIENTE 1.4 | 5 | 1.400 | 150 Bencina | AutomÃ¡tica |  | 6 4x2 (2WD) | REPÃšBLICA CHECA |  |
-| SU2130009 | 2021 | Suv | SEAT | ATECA | CUPRA ATECA 2.0 TSI AT 4DRIVE | 5 | 2.000 | 300 Bencina |  |  | 7 4x4 (AWD) | REPÃšBLICA |  |
-| VN0770007 | 2021 | Van | FIAT | DUCATO | MAXI CARGO L3H2 DIESEL | 4 | 2.300 | DiÃ©sel | AutomÃ¡tica |  |  | CHECA |  |
-| VN2430129 | 2021 | Van |  | TRANSPORTER | T6 TECHO BAJO AA | 4 | 2.000 |  |  | MecÃ¡nica |  |  | Equi |
-|  |  |  | VOLKSWAGEN |  |  |  |  |  | DiÃ©sel | MecÃ¡nica |  |  | Full |
+| HB2130053 | 2021 | Hatchback | SEAT | LEON | FR 1.4 TSI MT6 | 5 | 1.400 | 150 Bencina | Mecánica |  | 6 4x2 (2WD) | ESPAÑA |  |
+| HB2130050 | 2021 | Hatchback | SEAT | IBIZA | STYLE 1.6L AT6 | 5 | 1.600 | 110 Bencina | Automática |  | 6 4x2 (2WD) | ESPAÑA |  |
+| HB2130049 | 2021 | Hatchback | SEAT | IBIZA | REFERENCE 1.6L MT5 | 5 | 1.600 | 110 Bencina | Mecánica |  | 5 4x2 (2WD) | EEUU |  |
+| HB2130054 | 2021 | Hatchback | SEAT | LEON | STYLE 1.4 TSI MT6 | 5 | 1.400 | 150 Bencina | Mecánica |  | 6 4x2 (2WD) | ESPAÑA |  |
+| HB2130051 | 2021 | Hatchback | SEAT | IBIZA | STYLE 1.6L MT5 | 5 | 1.600 | 110 Bencina | Mecánica |  | 5 4x2 (2WD) | ESPAÑA |  |
+| HB2130052 | 2021 | Hatchback | SEAT | LEON | CUPRA 2.0 TSI DSG6 | 5 | 2.000 | 290 Bencina | Automática |  | 6 4x2 (2WD) | ESPAÑA |  |
+| HB2130048 | 2021 | Hatchback | SEAT | IBIZA | FR 1.6L AT6 | 5 | 1.600 | 110 Bencina | Automática |  | 6 4x2 (2WD) | ESPAÑA |  |
+| HB2430302 | 2021 | Hatchback | VOLKSWAGEN | POLO | POLO 1.6 MT5 TRENDLINE ESC | 5 | 1.600 | 110 Bencina | Mecánica |  | 5 4x2 (2WD) | BRASIL |  |
+| HB2430303 | 2021 | Hatchback | VOLKSWAGEN | POLO | 1.6 MT5 COMFORTLINE ESC | 5 | 1.600 | 110 Bencina | Mecánica |  | 4 4x2 (2WD) | BRASIL |  |
+| HB2210038 | 2021 | Hatchback | SKODA | KAROQ | STYLW 1.4 | 5 | 1.400 | 150 Bencina | Automática | 6 | 4x2 (2WD) | REPÚBLICA CHECA |  |
+| HB0770205 | 2021 | Hatchback | FIAT | MOBI | WAY CROSS | 5 | 1.000 | 72 Bencina | Mecánica |  | 5 4x2 y 4x4 | BRASIL |  |
+| SD0770065 | 2021 | Sedán | FIAT | ARGO | DRIVE 1.3 GSE ELX | 4 | 1.300 | 99 Bencina | Mecánica |  | 5 4x2 y 4x4 | BRASIL |  |
+| SD0770066 | 2021 | Sedán | FIAT | CRONOS | DRIVE 1.3 | 4 | 1.300 | 99 Bencina | Mecánica |  | 5 4x2 y 4x4 | ARGENTINA |  |
+| SD0770062 | 2021 | Sedán | FIAT | CRONOS | DRIVE 1.3 MT | 4 | 1.300 | 99 Bencina | Mecánica |  | 5 4x2 (2WD) | ITALIA |  |
+| SD2430187 | 2021 | Sedán | VOLKSWAGEN | VIRTUS | AT6 COMFORTLINE | 4 | 1.600 | 110 Bencina | Automática |  | 4 4x2 (2WD) | BRASIL |  |
+| SD2430201 | 2021 | Sedán | VOLKSWAGEN | JETTA | 1.4 TSI AT COMFORTLINE | 5 | 1.400 | 150 Bencina | Automática |  | 6 4x2 (2WD) | MÉXICO |  |
+| SU2210056 | 2021 | Suv | SKODA | KODIAQ | AMBIENTE | 4 | 1.400 | 150 Bencina | Automática |  | 6 4x2 (2WD) | REPÚBLICA CHECA |  |
+| SU2210057 | 2021 | Suv | SKODA | KODIAQ | STYLE | 4 | 2.000 | 180 Bencina | Automática |  | 7 4x4 (AWD) | REPÚBLICA | CHECA |
+| SU2430106 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT LIMITED 180HP | 4 | 2.000 | 180 Bencina | Automática | 7 | 4x4 (AWD) | MÉXICO |  |
+| SU2430108 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT R-LINE 220HP | 4 | 2.000 | 220 Bencina | Automática |  | 7 4x4 (AWD) | MÉXICO |  |
+| SU2430120 | 2021 2021 | Suv | VOLKSWAGEN | TOUAREG | 3.0 V6 TDI R-LINE STYLE 1.6L AT6 | 5 5 | 3.000 1.600 | 258 Diésel | Automática |  | 8 4x4 (AWD) 6 4x2 (2WD) | ALEMANIA ESPAÑA |  |
+| SU2130006 |  | Suv | SEAT | ARONA |  | 5 | 1.400 | 110 Bencina | Automática |  | 6 4x4 (AWD) | CHECA |  |
+| SU2130007 | 2021 | Suv | SEAT | ATECA | STYLE 1.4 TSI DSG 6 4DRIVE |  |  | 150 Bencina | Automática |  |  | REPÚBLICA |  |
+| SU2130004 | 2021 | Suv | SEAT | ARONA | FR 1.6L AT6 | 5 | 1.600 | 110 Bencina | Automática |  | 6 4x2 (2WD) | ESPAÑA |  |
+| SU2430115 SU2130008 | 2021 2021 | Suv Suv | VOLKSWAGEN SEAT | T-CROSS ATECA | LIMITED 1.6L AT 110HP XCELLENCE1.4 TSI DSG 6 4DRIVE | 5 5 | 1.600 1.400 | 110 Bencina 150 Bencina | Automática Automática |  | 6 4x2 (2WD) 6 4x4 (AWD) | BRASIL REPÚBLICA | CHECA |
+| SU2430116 | 2021 | Suv | VOLKSWAGEN | T-CROSS | SE 1.6L AT 110HP | 5 | 1.600 | 110 Bencina | Automática |  | 6 4x2 (2WD) | BRASIL |  |
+| SU2130005 | 2021 | Suv | SEAT | ARONA | REFERENCE 1.6L | 5 | 1.600 | 110 Bencina | Automática | 6 | 4x2 (2WD) | ESPAÑA |  |
+|  | SU2430118 2021 | Suv |  |  | AT6 |  |  | 180 Bencina | Automática |  |  |  |  |
+| SU2430119 | 2021 | Suv | VOLKSWAGEN VOLKSWAGEN | TIGUAN TOUAREG | SPORT 2.0 TSI AT 180HP 3.0 V6 TDI LIMITED | 5 5 | 2.000 3.000 | 258 Diésel | Automática | 8 | 7 4x4 (AWD) 4x4 (AWD) | ALEMANIA ALEMANIA |  |
+| SU2430122 | 2021 | Suv | VOLKSWAGEN | TIGUAN | TSI AT TRENDLINE 150HP 5P | 5 | 1.400 | 150 Bencina | Automática |  | 6 4x2 (2WD) | MÉXICO |  |
+| SU2430125 | 2021 | Suv | VOLKSWAGEN |  | TSI AT HIGHLINE 150 | 5 | 1.400 | 150 Bencina | Automática |  | 4x2 (2WD) |  |  |
+| SU2430126 | 2021 | Suv | VOLKSWAGEN | TIGUAN TIGUAN | TSI AT COMFORTLINE | 5 | 1.400 | 150 Bencina | Automática | 6 | 6 4x2 (2WD) | MÉXICO MÉXICO |  |
+| SU2210067 | 2021 | Suv | SKODA | KAROQ | AMBIENTE 1.4 | 5 | 1.400 | 150 Bencina | Automática |  | 6 4x2 (2WD) | REPÚBLICA CHECA |  |
+| SU2130009 | 2021 | Suv | SEAT | ATECA | CUPRA ATECA 2.0 TSI AT 4DRIVE | 5 | 2.000 | 300 Bencina |  |  | 7 4x4 (AWD) | REPÚBLICA |  |
+| VN0770007 | 2021 | Van | FIAT | DUCATO | MAXI CARGO L3H2 DIESEL | 4 | 2.300 | Diésel | Automática |  |  | CHECA |  |
+| VN2430129 | 2021 | Van |  | TRANSPORTER | T6 TECHO BAJO AA | 4 | 2.000 |  |  | Mecánica |  |  | Equi |
+|  |  |  | VOLKSWAGEN |  |  |  |  |  | Diésel | Mecánica |  |  | Full |
 | CT5430036 | 2021 | Camioneta | RAM | 700 | BIGHORN CD | 4 | 1400 | 128 | Bencina | Mecanica 5 | 4x2 (2WD) | BRASIL |  |
 | HB0770209 | 2021 | Hatchback | FIAT | 500 | SPORT CABRIO LIKE | 4 5 | 1400 | 95 | Bencina Mecanica | 5 | 4x2 (2WD) 4x2 (2WD) | BRASIL BRASIL |  |
-| HB0770210 | 2021 | Hatchback | FIAT | MOBI | 1.5 TSI AT - STYLE |  | 1000 1500 | 73 | Bencina | Mecanica 5 |  | REPÃƒÅ¡BLICA |  |
+| HB0770210 | 2021 | Hatchback | FIAT | MOBI | 1.5 TSI AT - STYLE |  | 1000 1500 | 73 | Bencina | Mecanica 5 |  | REPÃšBLICA |  |
 | HB2210039 SU0130119 | 2021 2021 | Hatchback Suv | SKODA AUDI | SCALA Q7 | PI 55 TFSI (7P) | 5 7 | 3000 | 150 | Bencina Automatica | 7 | 4x2 (2WD) | CHECA |  |
 | SU0130120 | 2021 | Suv | AUDI | Q7 | PI 55 TFSI SPORT (5P) | 5 | 3000 | 340 Bencina 340 | Automatica Bencina Automatica | 8 8 | 4x4 (AWD) 4x4 (AWD) | ALEMANIA ALEMANIA |  |
 | SU0130121 | 2021 | Suv | AUDI | Q7 | PI 55 TFSI SPORT (7P) | 7 | 3000 | 340 Bencina | Automatica | 8 | 4x4 (AWD) | ALEMANIA |  |
 | SU2130010 | 2021 | Suv | SEAT | TARRACO | XCELLENCE 1.4 TSI DSG 6 | 5 | 1400 | 150 | Bencina | Automatica | 6 4x2 (2WD) | ALEMANIA |  |
-|  |  |  |  |  |  |  |  |  | Automatica |  |  | REPÃƒÅ¡BLICA |  |
+|  |  |  |  |  |  |  |  |  | Automatica |  |  | REPÃšBLICA |  |
 | SU2210068 | 2021 | Suv | SKODA | KAMIQ | 1.5 TSI AT - STYLE | 5 | 1500 | 150 Bencina |  | 7 | 4x2 (2WD) | CHECA |  |
 
-| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **Marchas** | **TracciÃ³n** | **Equipamiento** |
+| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas** | **Tracción** | **Equipamiento** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SD0110002 | 2010 | SedÃ¡n | ASTON MARTIN | DBS | COUPE | 2 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110004 | 2013 | SedÃ¡n | ASTON MARTIN | RAPIDE | SIN VERSION | 4 | 5900 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110004 | 2014 | SedÃ¡n | ASTON MARTIN | RAPIDE | SIN VERSION | 4 | 5900 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110009 | 2013 | SedÃ¡n | ASTON MARTIN | VIRAGE | COUPE | 2 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110010 | 2013 | SedÃ¡n | ASTON MARTIN | VIRAGE | VOLANTE | 2 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110014 | 2013 | SedÃ¡n | ASTON MARTIN | DB9 | COUPE | 2 | 5900 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110014 | 2014 | SedÃ¡n | ASTON MARTIN | DB9 | COUPE | 2 | 5900 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110015 | 2013 | SedÃ¡n | ASTON MARTIN | VANQUISH | COUPE | 2 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SD0110015 | 2014 | SedÃ¡n | ASTON MARTIN | VANQUISH | COUPE | 2 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
-| SU0260001 | 2018 | Suv | BENTLEY | BENTAYGA | 6.0 LTS | 4 | 6000 |  | Bencina | AutomÃ¡tica |  |  | Full |
+| SD0110002 | 2010 | Sedán | ASTON MARTIN | DBS | COUPE | 2 | 6000 |  | Bencina | Automática |  |  | Full |
+| SD0110004 | 2013 | Sedán | ASTON MARTIN | RAPIDE | SIN VERSION | 4 | 5900 |  | Bencina | Automática |  |  | Full |
+| SD0110004 | 2014 | Sedán | ASTON MARTIN | RAPIDE | SIN VERSION | 4 | 5900 |  | Bencina | Automática |  |  | Full |
+| SD0110009 | 2013 | Sedán | ASTON MARTIN | VIRAGE | COUPE | 2 | 6000 |  | Bencina | Automática |  |  | Full |
+| SD0110010 | 2013 | Sedán | ASTON MARTIN | VIRAGE | VOLANTE | 2 | 6000 |  | Bencina | Automática |  |  | Full |
+| SD0110014 | 2013 | Sedán | ASTON MARTIN | DB9 | COUPE | 2 | 5900 |  | Bencina | Automática |  |  | Full |
+| SD0110014 | 2014 | Sedán | ASTON MARTIN | DB9 | COUPE | 2 | 5900 |  | Bencina | Automática |  |  | Full |
+| SD0110015 | 2013 | Sedán | ASTON MARTIN | VANQUISH | COUPE | 2 | 6000 |  | Bencina | Automática |  |  | Full |
+| SD0110015 | 2014 | Sedán | ASTON MARTIN | VANQUISH | COUPE | 2 | 6000 |  | Bencina | Automática |  |  | Full |
+| SU0260001 | 2018 | Suv | BENTLEY | BENTAYGA | 6.0 LTS | 4 | 6000 |  | Bencina | Automática |  |  | Full |
 
-| **CÃ³digo SII** | **AÃ±o** | **Equipamiento Detallado** | **TASACIÃ“N 2022** | **PERMISO 2022** |
+| **Código SII** | **Año** | **Equipamiento Detallado** | **TASACIÓN 2022** | **PERMISO 2022** |
 | --- | --- | --- | --- | --- |
 | SU0130108 | 2021 | AA, AAF, ABP, ABS, ACA, AED, AEL, AEP, AET, AIN, ALC, ASR, BCU, BPL, BSD, CAP, CC, CCR, CDP, CR, EAL, EBO, ESP, FAE, GPS, LAL, LPT, NEB, SDP, SIA, SLL, USB, VCU, VM, VRE | 51.820.963 | 1.988.958 |
 | SU0130106 | 2021 | AA, AAF, ABP, ABS, ACA, AED, AEL, AEP, AET, AIN, ALC, ASR, BCU, BPL, BSD, CAP, CC, CCR, CDP, CR, EAL, EBO, ESP, FAE, GPS, LAL, LPT, NEB, SDP, SIA, SLL, USB, VCU, VM, VRE | 51.820.963 | 1.988.958 |
@@ -190,10 +191,10 @@ ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 | HB2210031 | 2021 | AA, AAF, ABP, ABS, ACA, AED, AEP, AIN, ALC, ASR, BPL, CAP, CC, CDP, EAL, ESP, LAL, LCD, LPT, LRF, NEB, REE, SDP, SIA, USB, VCU, VM, VRE | 9.397.347 | 183.925 |
 | HB2210032 | 2021 | AAF, ABP, ABS, ACA, AED, AEP, AET, AIN, ALC, ASR, BPL, CAP, CC, CCR, CDP, CLZ, CR, EAL, EBO, ESP, LAL, LCD, LPT, LRF, NEB, REE, SDP, SIA, SLL, USB, VCU, VM, VRE | 10.329.456 | 211.888 |
 | HB2210033 | 2021 | AAF, ABP, ABS, ACA, AED, AEP, AET, AIN, ALC, ASR, BPL, CAP, CBZ, CC, CCR, CDP, CR, EAL, EBO, ESP, LAL, LCD, LPT, LRF, NEB, REE, SDP, SIA, SLL, USB, VCU, VM, VRE | 11.854.724 | 257.647 |
-| CÃ³digo SII | AÃ±o | Equipamiento Detallado | TASACIÃ“N 2022 | PERMISO 2022 |
+| Código SII | Año | Equipamiento Detallado | TASACIÓN 2022 | PERMISO 2022 |
 | HB2430276 | 2021 | AA, ABP, ABS, ACA, AED, AEL, AEP, AET, AIN, ALC, ASR, BCU, BPL, BSD, CBZ, CC, CCR, CDP, CR, EAL, EBO, ESP, FAE, GPS, LAL, LCD, LPT, NEB, REE, SDP, SIA, SLL, STR, TCE, TPN, USB, VCU, VM, VRE | 31.090.052 | 1.056.067 |
 | HB2430299 | 2021 | AA, ABP, ABS, AED, AEP, AIN, ALC, ASR, BPL, BSD, CAP, CC, CCR, CDP, EAL, ESP, LAL, LCD, LRF, NEB, SDP, SIA, STR, VCU, VM | 13.379.992 | 303.405 |
-| CÃ³digo SII | 2021 | Equipamiento Detallado | TASACIÃ“N 2022 | PERMISO 2022 |
+| Código SII | 2021 | Equipamiento Detallado | TASACIÓN 2022 | PERMISO 2022 |
 | HB2130053 | 2021 | AA, ABP, ABS, AEP, AET, AIN, ALC, ASR, BPL, CBZ, CC, CCR, CDP, CLZ, EAL, EBO, ESP, LAL, LCD, LPT, NEB, REE, SDP, SIA, SLL, TCE, TPN, USB, VCU, VM, VRE | 14.735.786 | 355.330 |
 | HB2130050 | 2021 | AA, ABP, ABS, AEP, AET, AIN, ALC, ASR, BPL, CAP, CC, CDP, ESP, LAL, LCD, LPT, NEB, SDP, SIA, USB, VCU, VM, VRE | 11.261.564 | 239.852 |
 | HB2130049 | 2021 | AA, ABP, ABS, AEP, AET, AIN, ALC, ASR, BPL, CAP, CC, CDP, ESP, LAL, LCD, LPT, SIA, USB, VM, VRE | 9.821.033 | 196.636 |
@@ -243,7 +244,7 @@ ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 | SU2130010 | 2021 | 3CA, AA, AAF, ABP, ABS, ACA, AEL, AEP, AET, AIN, ALC, ASR, BPL, BSD, CAP, CBZ, CC, CCR, CDP, CLZ, CR, EAL, ESP, LAL, LCD, LPT, NEB, REE, SDP, SIA, SLL, TCE, TPN, USB, VCU, VM, VRE | 22.445.052 | 667.042 |
 | SU2210068 |  | AAF, ABP, ABS, AED, AEP, AET, AIN, ALC, ASR, BPL, CAP, CBZ, CC, CCR, CDP, CR, ESP, FAE, LAL, LCD, LPT, LRF, NEB, REE, SDP, SIA, SLL, USB, VCU, VM, VRE | 15.666.630 | 362.013 |
 
-| **CÃ³digo SII** | **AÃ±o** | **Equipamiento Detallado TASACIÃ“N 2022** | **PERMISO 2022** |
+| **Código SII** | **Año** | **Equipamiento Detallado TASACIÓN 2022** | **PERMISO 2022** |
 | --- | --- | --- | --- |
 | SD0110002 2010 |  | 49.404.589 | 1.880.04 |
 | SD0110004 2013 |  | 45.166.307 | 1.689.31 |

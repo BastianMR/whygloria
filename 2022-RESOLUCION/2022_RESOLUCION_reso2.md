@@ -1,9 +1,10 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 2 (2022)
-description: SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE
+---
+type: "SII Resolución"
+title: "Resolución N° 2 (2022)"
+description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
 ---
+
 
 ## SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE
 
@@ -13,23 +14,23 @@ MATERIA:APRUEBACONVENIODE COLABORACIONMUTUAENTRESERVICIO DEIMPUESTOSINTERNOSEINS
 
 SANTIAGO,03DE ENERO DE 2022.-
 
-RESOLUCION EXENTA SII NÂ°02
+RESOLUCION EXENTA SII N°02
 
 VISTOS:
 
-Las facultades que me confieren los articulos 1Â°
+Las facultades que me confieren los articulos 1°
 
-y 7Â°letras h)y o) de la Ley Organica del Servicio deImpuestos Internos,contenida enel articulo1Â° Generales dela AdministraciondelEstado,y enla ResolucionNÂ°1600,del 06.11.2008,de la Contraloria General de la Republica; y
+y 7°letras h)y o) de la Ley Organica del Servicio deImpuestos Internos,contenida enel articulo1° Generales dela AdministraciondelEstado,y enla ResolucionN°1600,del 06.11.2008,de la Contraloria General de la Republica; y
 
 ## CONSIDERANDO:
 
-1Â° Que, corresponde al Servicio de Impuestos Internoslaaplicacionyfiscalizaciondetodoslosimpuestosinternosactualmenteestablecidosoque seestablecieren,fiscalesodeotrocaracter en que tenga interes elfiscoy cuyocontrolno este especialmenteencomendadoporlaleyaunaautoridaddiferente.
+1° Que, corresponde al Servicio de Impuestos Internoslaaplicacionyfiscalizaciondetodoslosimpuestosinternosactualmenteestablecidosoque seestablecieren,fiscalesodeotrocaracter en que tenga interes elfiscoy cuyocontrolno este especialmenteencomendadoporlaleyaunaautoridaddiferente.
 
-2Â° Que, el Director tiene la facultad de administracionycelebraciondeactosy contratosenrepresentaciondelServiciosegunlodispuesto en las letras h) y o) del articulo 7Â° de la Ley Organica del Servicio de Impuestos Internos, contenida enel contenidaenel articulo1Â°del D.F.L.NÂ°7de1980,delMinisteriodeHacienda.
+2° Que, el Director tiene la facultad de administracionycelebraciondeactosy contratosenrepresentaciondelServiciosegunlodispuesto en las letras h) y o) del articulo 7° de la Ley Organica del Servicio de Impuestos Internos, contenida enel contenidaenel articulo1°del D.F.L.N°7de1980,delMinisteriodeHacienda.
 
-3Â° Que, para tales efectos se ha acordado la firmadelpresenteConveniodeColaboracionMutuaï¼Œconelobjetodepoderdesarrollar conjuntamenteaccionesdestinadasaestimulareimpulsarlaeducacionfiscalytributaria,fomentar vigente,yfortalecerlaeducacioncivicadelacomunidadestudiantil.
+3° Que, para tales efectos se ha acordado la firmadelpresenteConveniodeColaboracionMutua，conelobjetodepoderdesarrollar conjuntamenteaccionesdestinadasaestimulareimpulsarlaeducacionfiscalytributaria,fomentar vigente,yfortalecerlaeducacioncivicadelacomunidadestudiantil.
 
-4Â°Que,en virtud de lo anteriorï¼Œ y en ServiciodeImpuestos Internosy el InstitutodeEstudiosBancarios GuillermoSubercaseaux,han acordadosuscribirunconveniodecolaboracionmutua.
+4°Que,en virtud de lo anterior， y en ServiciodeImpuestos Internosy el InstitutodeEstudiosBancarios GuillermoSubercaseaux,han acordadosuscribirunconveniodecolaboracionmutua.
 
 ## SE RESUELVE:
 
@@ -43,11 +44,11 @@ Y
 
 ## ELINSTITUTODEESTUDIOSBANCARIOSGUILLERMOSUBERCASEAUX
 
-En Santiago,con fecha 27 de diciembre del ano2021,comparecen porunaparte,el Servicio de ImpuestosInternos,RUTNÂ°60.803.000-K,representadopara estos efectosporsuDirector,don de Santiago, en adelante"Sll";y,por la otra el Instituto de Estudios Bancarios Guillermo Subercaseaux,del giroinstitutosprofesionales,rolunico tributarioNÂ°82.920.700-1,representado por su Rectora dona Lucia Pardo Vasquez,chilena,ingeniero comercialï¼Œcedula de identidad NÂ°5.561.460-1,y por suVicerrectorAcademico donRaul Fernandez Guzman,chileno,casado, ingenierocivil mecanico,ceduladeidentidad NÂ°8.412.800-7,todos domiciliadosencalleAgustinas NÂ°1476, piso 10, comuna y ciudad de Santiago,en adelante, e indistintamente el "INSTITUTO" 0 "IGS"; quienes han acordado suscribir el presente Convenio de Colaboracion Mutua, en adelante el "Convenio":
+En Santiago,con fecha 27 de diciembre del ano2021,comparecen porunaparte,el Servicio de ImpuestosInternos,RUTN°60.803.000-K,representadopara estos efectosporsuDirector,don de Santiago, en adelante"Sll";y,por la otra el Instituto de Estudios Bancarios Guillermo Subercaseaux,del giroinstitutosprofesionales,rolunico tributarioN°82.920.700-1,representado por su Rectora dona Lucia Pardo Vasquez,chilena,ingeniero comercial，cedula de identidad N°5.561.460-1,y por suVicerrectorAcademico donRaul Fernandez Guzman,chileno,casado, ingenierocivil mecanico,ceduladeidentidad N°8.412.800-7,todos domiciliadosencalleAgustinas N°1476, piso 10, comuna y ciudad de Santiago,en adelante, e indistintamente el "INSTITUTO" 0 "IGS"; quienes han acordado suscribir el presente Convenio de Colaboracion Mutua, en adelante el "Convenio":
 
 ## Primero:Objeto del Convenio.
 
-LasentidadesindividualizadasenelparrafoanteriorhanacordadolafirmadelpresenteConvenio deColaboracionMutua,conelobjetodepoderdesarrollarconjuntamenteaccionesdestinadasa comportamientotributarioresponsableacordeconlalegislacionvigenteï¼Œyfortalecerlaeducacion civicadelacomunidadestudiantil.
+LasentidadesindividualizadasenelparrafoanteriorhanacordadolafirmadelpresenteConvenio deColaboracionMutua,conelobjetodepoderdesarrollarconjuntamenteaccionesdestinadasa comportamientotributarioresponsableacordeconlalegislacionvigente，yfortalecerlaeducacion civicadelacomunidadestudiantil.
 
 Entiendase para efectos de este Convenio que toda aquella referencia a los terminos"ambitofiscal" o"temasfiscales",comprenderaaquellasmateriasrelacionadasconlacompetenciadeesteServicio, estoes,impuestos internos actualmente establecidosoque se establecieren,fiscalesode otro a una autoridad diferente.
 
@@ -55,15 +56,15 @@ Entiendase para efectos de este Convenio que toda aquella referencia a los termi
 
 Este Convenio de Colaboracion Mutua se llevara a cabo a traves de las actividades que se detallan a continuacion.
 
-* a)Elaboraciondematerialeducativoeinformativocomplementario. Consideralaelaboracionconjunta decontenidosymaterialparaformacion,einformacionenel ambito fiscal y tributario,que podra ser en distintos medios(impreso,audiovisual,etc.ï¼‰para difundirporambasinstituciones,departedelServicioelresponsableseralaOficinadeGestion delaExperiencia,dependientedelaSubdirecciondeAsistencia al Contribuyente.
+* a)Elaboraciondematerialeducativoeinformativocomplementario. Consideralaelaboracionconjunta decontenidosymaterialparaformacion,einformacionenel ambito fiscal y tributario,que podra ser en distintos medios(impreso,audiovisual,etc.）para difundirporambasinstituciones,departedelServicioelresponsableseralaOficinadeGestion delaExperiencia,dependientedelaSubdirecciondeAsistencia al Contribuyente.
 * b)Ejecucion de actividades educativas. ladifusionyformacionpara elcumplimientoinformadoyvoluntariode lasobligaciones tributarias.
 * Realizaciondeactividadesdeasistencia. Consideralaejecucionde accionesdestinadasa apoyarel cumplimientotributariodepersonas y empresas,porejemplo,duranteelprocesomasivodedeclaracionderenta en abril decada anoy la implementaciondeNucleos deApoyoFiscal(NAF)enalgunasSedes queimparten carreras afinesconlostemasqueabordaesteConvenio.
 
 Paraconcretarestas actividades elSllpodrahacerusodelosproductos especificadosenlosanexosqueformanparteintegrantedeesteConvenioydonde ademassesenialasu definicion,objetivo,formadeejecucionyrecursosnecesarios.
 
-* AnexoNÂ°1-AsistenciadurantelaOperacionRenta
-* AnexoNÂ°3-Charlasdedifusiony capacitacionacontribuyentes
-* AnexoNÂ°2-NucleodeApoyoFiscal
+* AnexoN°1-AsistenciadurantelaOperacionRenta
+* AnexoN°3-Charlasdedifusiony capacitacionacontribuyentes
+* AnexoN°2-NucleodeApoyoFiscal
 
 ## d)Otras actividades.
 
@@ -73,9 +74,9 @@ Tercero:Compromisos de ambas instituciones.
 
 El Sll se compromete a:
 
-* aï¼‰Entregarloscontenidosnecesariosparaaserutilizadoscomobaseparaeldesarrollode actividadesacademicasobligatorias.
+* a）Entregarloscontenidosnecesariosparaaserutilizadoscomobaseparaeldesarrollode actividadesacademicasobligatorias.
 * Los contenidosrelacionados con educacionfiscalytributaria seranelaboradosenelSll,porla Oficina de Gestion de laExperiencia,dependiente dela Subdireccion de Asistencia al Contribuyente,deacuerdoasusnecesidadesyplanesgenerales deeducacionfiscalyestaran disponibles para elrestodela ciudadania,por loque suusonoserarestrictivopara el INSTITuTO.Loscostos deproduccionyreproduccion deestos contenidos en diferentesmedios omaterialesseranasumidosporlapartequelosgenere.
-* bï¼‰Planificarcharlassobre temasfiscalesy tributariosdeinteresdel Sll,enlacantidad que ambas institucionesacuerden,para serrealizadas enlas dependenciasdel INSTITUTO,enfecha a determinar segunla disponibilidad delosexpositoresy de acuerdoconla disponibilidad del INSTITUTO,noalterandoel normalfuncionamientodelaSederespectiva.
+* b）Planificarcharlassobre temasfiscalesy tributariosdeinteresdel Sll,enlacantidad que ambas institucionesacuerden,para serrealizadas enlas dependenciasdel INSTITUTO,enfecha a determinar segunla disponibilidad delosexpositoresy de acuerdoconla disponibilidad del INSTITUTO,noalterandoel normalfuncionamientodelaSederespectiva.
 
 Cabe indicar que los compromisos adoptados por el Servicio de Impuestos
 
@@ -87,7 +88,7 @@ Por otra parte,el INSTITUTO se compromete a:
 * b)Generar -con el material que el Sll le entregue- y cuando el INSTITUTO lo estime necesario, capsulasde autoinstruccionpara insertaren losmodulos decarreras afines.
 * c)Generar otras actividadesy/omateriales educativos,enfocados a la educacionfiscalytributaria, que ambas instituciones acuerdeny establezcande comun acuerdo.
 * clasespresenciales.
-* eï¼‰Llevaracabolasactividadesqueseindicanenla clausulasegunda del presenteconvenio.
+* e）Llevaracabolasactividadesqueseindicanenla clausulasegunda del presenteconvenio.
 
 CabeindicarqueloscompromisosadoptadosporelINSTITuTOquedan sujetosalafactibilidaddecontarconladisponibilidadderecursoshumanos ymaterialesnecesariosparallevarlosacabo.
 
@@ -95,23 +96,23 @@ Cuarto:Formaenqueseejecutara el Convenio.
 
 Para efectos dela coordinacion general de esteConvenio,seha designado:
 
-* Â·Por parte del Sll, al Jefe de Oficina de Gestion de la Experiencia de la Direccion Nacional quien
+* ·Por parte del Sll, al Jefe de Oficina de Gestion de la Experiencia de la Direccion Nacional quien
 * Porpartedel INSTITUTO,a laDirecciondeVinculacionconel Medio,dependientedela Rectoria,quienporsu parte podra designarun coordinador de su equipo para efectos operativos.
 
-Para lacoordinacionde actividades enSedesdel INSTITUTOylasDirecciones Regionales del Sllï¼Œcada institucion podra nombrar un representante y/o coordinadorlocal.
+Para lacoordinacionde actividades enSedesdel INSTITUTOylasDirecciones Regionales del Sll，cada institucion podra nombrar un representante y/o coordinadorlocal.
 
 Quinto:Confidencialidad dela informacion.
 
 caracterconfidencial delacualtomenconocimientoporcualquiermedio,desdela
 
-* Â·ElINSTITUTOesta enla obligacion de adoptar todas lasmedidas necesariaspara garantizar la confidencialidad de la informacion del Sllala que tenga accesolaInstituciony susalumnos en las actividades como:Operacion Renta,NAF,durante el ejercicio del presente Convenio; sin perjuiciodelasmedidasjudicialesquecorresponda adoptarencadacaso.
+* ·ElINSTITUTOesta enla obligacion de adoptar todas lasmedidas necesariaspara garantizar la confidencialidad de la informacion del Sllala que tenga accesolaInstituciony susalumnos en las actividades como:Operacion Renta,NAF,durante el ejercicio del presente Convenio; sin perjuiciodelasmedidasjudicialesquecorresponda adoptarencadacaso.
 * Porsuparte,elSlldebe cumplirconla obligaciondemantenerlareservaosecretodela informacion en conformidad a la ley,por lo que en ningun casopodra permitir el acceso de estudiantesopersonerosdel institutoalasbasesdedatosdelserviciooalainformaciondelos contribuyentes.
 
 ## Sexto:Duraciondel Convenio.
 
 El presente Convenio tendra una duracion de un anio,a contar dela fecha de entrada envigencia1,renovandose enforma automatica porperiodos de un anio si ningunadelaspartesexpresaresuvoluntad encontrario.
 
-No obstante,loanterior,laspartespodran desahuciar unilateralmente el presente Convenio en cualquier momentoï¼Œsin expresion de causa ni derecho a indemnizacionmedianteelenviodeunacartacertificadadirigida aldomiciliodela otraregistradoenelConvenio,alomenoscon30diascorridosdeanticipacionala fecha enquese deseeponerle termino.
+No obstante,loanterior,laspartespodran desahuciar unilateralmente el presente Convenio en cualquier momento，sin expresion de causa ni derecho a indemnizacionmedianteelenviodeunacartacertificadadirigida aldomiciliodela otraregistradoenelConvenio,alomenoscon30diascorridosdeanticipacionala fecha enquese deseeponerle termino.
 
 Lo anterior, ademas, sera facultativo para el Sll, si el INSTITUTO incurre en faltas con respecto a su cumplimiento tributario.
 
@@ -125,7 +126,7 @@ Laspartesmanifiestanque el presente acuerdo constituyeunconveniodestinado ningun
 
 ## Noveno: Domicilio y competencia
 
-Las partes comparecientesï¼Œasimismo,se comprometen a tratar de resolver de comunacuerdolasdiscrepancias queentre ellos surgierenconmotivodela aplicaciondeesteinstrumento.Si noexistiere acuerdo entrelaspartes,seentrega la competencia a losTribunalesdeJusticia deChile,dejandoconstancia,en el presente acto,queseestablece como domiciliode ambaspartesla ciudad de Santiago.
+Las partes comparecientes，asimismo,se comprometen a tratar de resolver de comunacuerdolasdiscrepancias queentre ellos surgierenconmotivodela aplicaciondeesteinstrumento.Si noexistiere acuerdo entrelaspartes,seentrega la competencia a losTribunalesdeJusticia deChile,dejandoconstancia,en el presente acto,queseestablece como domiciliode ambaspartesla ciudad de Santiago.
 
 ## Decimo:Modificaciones.
 
@@ -135,7 +136,7 @@ Encasodeexistir discrepanciaentrelo dispuesto en esteConvenioy unAnexo, primaral
 
 ## Decimo primero:Personerias
 
-La personeria de don Fernando Barraza Luengo, para actuar en representacion del Sll,consta enDecretoSupremoDecreto NÂ°1441,de fecha 13 de agosto de 2021, del Ministerio deHacienda.A su vez,lasfacultades deadministracionycelebracion de actosy contratos enrepresentacion delServicio otorgadas al Directorï¼Œse encuentran establecidas en las letrash)y o)del articulo7Â°de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo primero del DFL NÂ° 7 de 1980,delMinisteriodeHacienda.
+La personeria de don Fernando Barraza Luengo, para actuar en representacion del Sll,consta enDecretoSupremoDecreto N°1441,de fecha 13 de agosto de 2021, del Ministerio deHacienda.A su vez,lasfacultades deadministracionycelebracion de actosy contratos enrepresentacion delServicio otorgadas al Director，se encuentran establecidas en las letrash)y o)del articulo7°de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo primero del DFL N° 7 de 1980,delMinisteriodeHacienda.
 
 La personeria de dona Lucia Pardo Vasquez y de don Raul Fernandez Guzman pararepresentaralINSTITUTODEESTUDIOSBANCARIOSGUILLERMO SUBERCASEAUX,consta en escrituras publicas defechas 08 de agosto del 2011, 26 de abrildel 2019y03de agosto del 2021,las dosprimerasotorgadas ante el Publico dona Alejandra Loyola Ojeda.
 
@@ -153,7 +154,7 @@ RAULFERNANDEZGUZMAN
 
 P.PINSTITUTODEESTUDIOSBANCARIOSGUILLERMO SUBERCASEAUX
 
-## ANEXONÂ°1 ASISTENCIADURANTELAOPERACIONRENTA
+## ANEXON°1 ASISTENCIADURANTELAOPERACIONRENTA
 
 ## Contenido
 
@@ -199,7 +200,7 @@ El fin de este producto es que el INSTITUTO pueda apoyary cooperar con el proces
 1. Losacuerdosquedaranestipulados enunActadelareunionqueserviraparalaevaluacionfinal.
 2. asegurarel logrodelosobjetivos.
 
-* 6.Encada uno deestoslugares,tantoel Sll comola instituciondeeducacionsuperiordeberan difundir las accionesqueseestipulena travÃ©sdelosmediosvirtuales,deaudiooescritos delosque disponga.
+* 6.Encada uno deestoslugares,tantoel Sll comola instituciondeeducacionsuperiordeberan difundir las accionesqueseestipulena travésdelosmediosvirtuales,deaudiooescritos delosque disponga.
 
 1. Finalmente, la institucion de educacion superior entregara un informe con los resultados de la actividad,enbasealosparametrosque acuerdenmedirenlamesa detrabajoy quequedara estipuladoenel Acta.
 
@@ -236,7 +237,7 @@ Losrecursosnecesariosparaesta actividaddeasistenciason:
 * Habilitacion del espacio fisico y conseguir los recursos (escritorios, sillas, computadores, conexionaInternet,etc.)necesariosparala actividad deasistencia.
 * Informe de resultados.
 
-## ANEXONÂ°2 NUCLEODEAPOYOFISCAL
+## ANEXON°2 NUCLEODEAPOYOFISCAL
 
 ## Contenido
 
@@ -291,9 +292,9 @@ Estematerialsedesarrollaapartirdeloscontenidostributariosyfiscalesentregadospore
 * 5.Capacitacionpresencial ovirtual.Esta a cargo demonitoresfiscalizadoresdel Slly serealiza a las y/olos alumnosseleccionadosysusdocentes,especialmenteenlostemasquesonlosmas relevantesparael grupodecontribuyentesobjetivo.
 * 6.Instalaciondeun espaciofisicoovirtual.Estoserealiza enuna sede dela institucion de educacion superior,equipadocon escritoriosy sillasdispuestos enestaciones detrabajo,concomputadores conectados a Internet,pararecibiry dara atencion a contribuyentes.
 * 7.Planificacion y diseno de la atencion:
-* aï¼‰Del horario (por ejemplo, dos veces por semana, 3 horas al dia,despues de las 14:00 horas2, etc.) y los turnos de las y/o los alumnos y del docente que supervisara cada turno, para vigilar el proceso de atenciony las actuacionesdelasylos estudiantes.
+* a）Del horario (por ejemplo, dos veces por semana, 3 horas al dia,despues de las 14:00 horas2, etc.) y los turnos de las y/o los alumnos y del docente que supervisara cada turno, para vigilar el proceso de atenciony las actuacionesdelasylos estudiantes.
 * c)De un protocolo de atencion.
-* bï¼‰De una metodologia de convocatoria a pequenos contribuyentes, que podran ser llamados o solicitadosa traves de otras entidades,porejemplo,Municipalidades.
+* b）De una metodologia de convocatoria a pequenos contribuyentes, que podran ser llamados o solicitadosa traves de otras entidades,porejemplo,Municipalidades.
 * 8.Atencion a pequenios contribuyentes comoparte del programa deformacion de la institucion.
 * 9.Evaluacion dela actividad.
 
@@ -321,14 +322,14 @@ Los recursos necesarios para poner en practica los NAF, son -en terminos muy gen
 * Habilitaciondelmaterialeducativoenlaplataformaadecuadaparaquelasylosalumnos accedanyparticipen.
 * Habilitaciondel espaciofisico(escritorios,sillas,computadores,conexion a Internet,etc.)
 * Desarrolloy supervisiondela atencionenlosNAF.
-* Programacion de la actividad (ubicacionï¼Œimplementacionï¼Œhorariosï¼Œconvocatoriade contribuyentes,protocolodeatencion,etc.)
+* Programacion de la actividad (ubicacion，implementacion，horarios，convocatoriade contribuyentes,protocolodeatencion,etc.)
 * Elaboraciondeinformesdegestionyevaluacion.
 
 Respectoalosplazosestimados,lacantidad demodulosdeatencionacontribuyentes deberanseracordadoscasoacaso.
 
 3Materias como:navegacion en sitio web del Sll;Facturacion Electronica; Boleta Electronica, ImpuestoalaRenta,IVA,CiclodeVidadel Contribuyente,BeneficiosdeAvaluaciones;;etc.
 
-## ANEXONÂ°3 CHARLASDEDIFUSIONYCAPACITACIONACONTRIBUYENTES
+## ANEXON°3 CHARLASDEDIFUSIONYCAPACITACIONACONTRIBUYENTES
 
 ## Contenido
 
@@ -358,7 +359,7 @@ Desarrollar acciones conjuntas de capacitaciony difusion en los ambitos del cono
 
 ## DESCRIPCIONDELFUNCIONAMIENTO.
 
-Para llevar a caboesta iniciativa,ambas institucionesrealizaranuna propuesta de charlas,indicando el objetivoy el beneficio mutuo,destinatarios,fechasï¼Œduracion, sedes,formadeconvocatoriay otrosdetalleslogisticos.
+Para llevar a caboesta iniciativa,ambas institucionesrealizaranuna propuesta de charlas,indicando el objetivoy el beneficio mutuo,destinatarios,fechas，duracion, sedes,formadeconvocatoriay otrosdetalleslogisticos.
 
 Una vez acordado uncalendario de charlas,que seraaprobado por ambas instituciones,elServiciosecomprometeaparticiparconlosmonitoresy loscontenidos respectivos.
 

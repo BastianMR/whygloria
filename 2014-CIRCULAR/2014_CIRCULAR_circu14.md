@@ -1,664 +1,665 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 59 (2014)
-description: Modificada por Circular NÂ° 59, del 14 de noviembre de 2014
+---
+type: "SII Circular"
+title: "Circular N° 59 (2014)"
+description: "Modificada por Circular N° 59, del 14 de noviembre de 2014"
 tags: [SII, 2014, circular]
 ---
 
-## Modificada por Circular NÂ° 59, del 14 de noviembre de 2014
 
-| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR NÂ° 14 04.2013 SN 17.2013 ID** |
+## Modificada por Circular N° 59, del 14 de noviembre de 2014
+
+| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 14 04.2013 SN 17.2013 ID** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 07 de marzo de 2014 |
-| MATERIA: Instruye sobre las modificaciones efectuadas por la Ley NÂ° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributaciÃ³n internacional. 6(12)00 6 | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN: 6 RENTA 6 (12) 00 IMPTO. DE PRIMERA CATEGORIA 6 (16) 00 IMPUESTO ADICIONAL REF. LEGAL : ArtÃ­culos 10, 37, 38, 41 A, 41 B, 41 C, 58 NÂ°s 1, 2 y 3, 59, 60, 61, 62, 63, 64 ter y 65 de la Ley sobre Impuesto a la Renta (contenida en el artÃ­culo 1Â°, del Decreto Ley NÂ° 824 de 1974) y Ley NÂ° 20.630 del 27 de septiembre de 2012. |
+| MATERIA: Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributación internacional. 6(12)00 6 | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: 6 RENTA 6 (12) 00 IMPTO. DE PRIMERA CATEGORIA 6 (16) 00 IMPUESTO ADICIONAL REF. LEGAL : Artículos 10, 37, 38, 41 A, 41 B, 41 C, 58 N°s 1, 2 y 3, 59, 60, 61, 62, 63, 64 ter y 65 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824 de 1974) y Ley N° 20.630 del 27 de septiembre de 2012. |
 
 ## I.INTRODUCCION.
 
-En el Diario Oficial de 27 de septiembre de 2012, se publicÃ³ la Ley NÂ° 20.630, (en adelante indistintamente la 'Ley') que entre otras materias, modificÃ³ normas relacionadas con la tributaciÃ³n internacional en la Ley sobre Impuesto a la Renta (LIR).
+En el Diario Oficial de 27 de septiembre de 2012, se publicó la Ley N° 20.630, (en adelante indistintamente la 'Ley') que entre otras materias, modificó normas relacionadas con la tributación internacional en la Ley sobre Impuesto a la Renta (LIR).
 
 La presente Circular, tiene por objeto impartir instrucciones sobre las modificaciones efectuadas por esta Ley en las siguientes materias:
 
-* 1. Impuesto Adicional (IA) que afecta a un contribuyente no residente ni domiciliado en el paÃ­s, por las rentas obtenidas en la enajenaciÃ³n de los instrumentos a que se refieren los artÃ­culos 10, en sus incisos 3Â° y siguientes, y 58 NÂ° 3 de la LIR.
-  2. TributaciÃ³n que afecta a las rentas obtenidas por las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en el paÃ­s, de acuerdo a los artÃ­culos 38 y 58 NÂ° 1 de la LIR.
-  3. Normas sobre tributaciÃ³n internacional contenidas en los artÃ­culos 41 A, 41 B y 41 C de la LIR.
-  4. ExenciÃ³n de IA sobre las cantidades pagadas o abonadas en cuenta a contribuyentes no residentes ni domiciliados en el paÃ­s, por el uso de programas computacionales estÃ¡ndar, de acuerdo a lo establecido en el inciso 1Â°, del artÃ­culo 59 de la LIR.
-  5. TributaciÃ³n que afecta a los chilenos que no tengan domicilio ni residencia en Chile, que perciban o devenguen rentas de fuente chilena, a raÃ­z de la derogaciÃ³n del artÃ­culo 61 de la LIR.
-  6. Modificaciones efectuadas a los artÃ­culos 37 y 64 ter de la LIR, con el objeto de concordar las modificaciones introducidas al artÃ­culo 38 y la incorporaciÃ³n del artÃ­culo 41 E de la misma ley.
+* 1. Impuesto Adicional (IA) que afecta a un contribuyente no residente ni domiciliado en el país, por las rentas obtenidas en la enajenación de los instrumentos a que se refieren los artículos 10, en sus incisos 3° y siguientes, y 58 N° 3 de la LIR.
+  2. Tributación que afecta a las rentas obtenidas por las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en el país, de acuerdo a los artículos 38 y 58 N° 1 de la LIR.
+  3. Normas sobre tributación internacional contenidas en los artículos 41 A, 41 B y 41 C de la LIR.
+  4. Exención de IA sobre las cantidades pagadas o abonadas en cuenta a contribuyentes no residentes ni domiciliados en el país, por el uso de programas computacionales estándar, de acuerdo a lo establecido en el inciso 1°, del artículo 59 de la LIR.
+  5. Tributación que afecta a los chilenos que no tengan domicilio ni residencia en Chile, que perciban o devenguen rentas de fuente chilena, a raíz de la derogación del artículo 61 de la LIR.
+  6. Modificaciones efectuadas a los artículos 37 y 64 ter de la LIR, con el objeto de concordar las modificaciones introducidas al artículo 38 y la incorporación del artículo 41 E de la misma ley.
 
 ## II.INSTRUCCIONES SOBRE LA MATERIA.
 
-## 1) IMPUESTO ADICIONAL QUE AFECTA A UN CONTRIBUYENTE NO RESIDENTE NI DOMICILIADO EN EL PAÃS, POR LAS RENTAS OBTENIDAS EN LA ENAJENACIÃ“N DE LOS INSTRUMENTOS A QUE SE REFIEREN LOS ARTÃCULOS 10, EN SUS INCISOS 3Â° Y SIGUIENTES, Y 58 NÂ° 3 DE LA LIR.
+## 1) IMPUESTO ADICIONAL QUE AFECTA A UN CONTRIBUYENTE NO RESIDENTE NI DOMICILIADO EN EL PAÍS, POR LAS RENTAS OBTENIDAS EN LA ENAJENACIÓN DE LOS INSTRUMENTOS A QUE SE REFIEREN LOS ARTÍCULOS 10, EN SUS INCISOS 3° Y SIGUIENTES, Y 58 N° 3 DE LA LIR.
 
-La Ley modificÃ³ los artÃ­culos 10 y 58 NÂ° 3 de la LIR, estableciendo que se consideran rentas de fuente chilena, y por tanto, afectas al IA establecido en el NÂ° 3, del artÃ­culo 58 de la LIR, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el paÃ­s, en la enajenaciÃ³n de ciertos tÃ­tulos o instrumentos, cuando la totalidad o una parte del valor de Ã©stos se encuentre representado por uno o mÃ¡s de los activos subyacentes situados en Chile que la norma legal indica 1 .
+La Ley modificó los artículos 10 y 58 N° 3 de la LIR, estableciendo que se consideran rentas de fuente chilena, y por tanto, afectas al IA establecido en el N° 3, del artículo 58 de la LIR, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el país, en la enajenación de ciertos títulos o instrumentos, cuando la totalidad o una parte del valor de éstos se encuentre representado por uno o más de los activos subyacentes situados en Chile que la norma legal indica 1 .
 
-Dichas modificaciones, rigen a contar de la fecha de la publicaciÃ³n de la Ley en el Diario Oficial, lo que ocurriÃ³ el dÃ­a 27 de septiembre de 2012.
+Dichas modificaciones, rigen a contar de la fecha de la publicación de la Ley en el Diario Oficial, lo que ocurrió el día 27 de septiembre de 2012.
 
 ## A) Rentas afectas a IA.
 
-Se afectan con el IA establecido en carÃ¡cter de Ãºnico en el NÂ° 3, del artÃ­culo 58 de la LIR, las rentas obtenidas por un contribuyente no domiciliado ni residente en el paÃ­s, provenientes de la enajenaciÃ³n de los siguientes tÃ­tulos o instrumentos 2 :
+Se afectan con el IA establecido en carácter de único en el N° 3, del artículo 58 de la LIR, las rentas obtenidas por un contribuyente no domiciliado ni residente en el país, provenientes de la enajenación de los siguientes títulos o instrumentos 2 :
 
-1.- Derechos sociales, acciones, cuotas, bonos u otros tÃ­tulos convertibles en acciones o derechos sociales, de una persona jurÃ­dica constituida o residente en el extranjero.
+1.- Derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, de una persona jurídica constituida o residente en el extranjero.
 
-2.- De otros derechos representativos del capital de una persona jurÃ­dica constituida o residente en el extranjero.
+2.- De otros derechos representativos del capital de una persona jurídica constituida o residente en el extranjero.
 
-3.- TÃ­tulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero.
+3.- Títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero.
 
 ## B) Hechos gravados con IA.
 
-La LIR grava con IA, las rentas provenientes de las enajenaciones de los tÃ­tulos o instrumentos seÃ±alados en la letra A) anterior, en los siguientes casos:
+La LIR grava con IA, las rentas provenientes de las enajenaciones de los títulos o instrumentos señalados en la letra A) anterior, en los siguientes casos:
 
-1.Primer hecho gravado 3 . Se afectarÃ¡n con IA, las rentas que se determinen conforme a lo dispuesto en el NÂ° 3, del artÃ­culo 58 de la LIR, siempre que se cumpla copulativamente con las siguientes dos condiciones:
+1.Primer hecho gravado 3 . Se afectarán con IA, las rentas que se determinen conforme a lo dispuesto en el N° 3, del artículo 58 de la LIR, siempre que se cumpla copulativamente con las siguientes dos condiciones:
 
-a.Que el 20% o mÃ¡s del valor de mercado del total de las acciones, cuotas, tÃ­tulos o derechos extranjeros que el contribuyente enajenante posea directa o indirectamente en la sociedad o entidad extranjera, provenga de uno o mÃ¡s de los activos subyacentes situados en Chile indicados en la letra C) siguiente. Para estos efectos se considerarÃ¡:
+a.Que el 20% o más del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que el contribuyente enajenante posea directa o indirectamente en la sociedad o entidad extranjera, provenga de uno o más de los activos subyacentes situados en Chile indicados en la letra C) siguiente. Para estos efectos se considerará:
 
-a.1 .- El total de las acciones, cuotas, tÃ­tulos o derechos extranjeros poseÃ­dos a cualquier tÃ­tulo, directa o indirectamente por el contribuyente enajenante en la sociedad o entidad extranjera respectiva, segÃºn el valor de mercado de Ã©stos. En este caso, para determinar el valor de mercado de las acciones, cuotas, tÃ­tulos o derechos de la persona o entidad extranjera, el Servicio podrÃ¡ ejercer las facultades de fiscalizaciÃ³n contenidas en el artÃ­culo 41 E de la LIR.
+a.1 .- El total de las acciones, cuotas, títulos o derechos extranjeros poseídos a cualquier título, directa o indirectamente por el contribuyente enajenante en la sociedad o entidad extranjera respectiva, según el valor de mercado de éstos. En este caso, para determinar el valor de mercado de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, el Servicio podrá ejercer las facultades de fiscalización contenidas en el artículo 41 E de la LIR.
 
-a.2 .- Los activos subyacentes situados en Chile, segÃºn su valor corriente en plaza o al que normalmente se cobrarÃ­a por ellos en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operaciÃ³n y en la proporciÃ³n que corresponda a la participaciÃ³n indirecta que en ellos posee el contribuyente enajenante no domiciliado ni residente en Chile. En este caso, el Servicio podrÃ¡ aplicar la facultad de tasaciÃ³n establecida en el artÃ­culo 64 del CÃ³digo Tributario en la determinaciÃ³n del valor corriente en plaza de los referidos activos subyacentes.
+a.2 .- Los activos subyacentes situados en Chile, según su valor corriente en plaza o al que normalmente se cobraría por ellos en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación y en la proporción que corresponda a la participación indirecta que en ellos posee el contribuyente enajenante no domiciliado ni residente en Chile. En este caso, el Servicio podrá aplicar la facultad de tasación establecida en el artículo 64 del Código Tributario en la determinación del valor corriente en plaza de los referidos activos subyacentes.
 
-1 ModificaciÃ³n efectuada mediante el artÃ­culo 1Â° de la Ley, a travÃ©s de sus NÂ°s 1 y 24 letras b) y c).
+1 Modificación efectuada mediante el artículo 1° de la Ley, a través de sus N°s 1 y 24 letras b) y c).
 
-2 Conforme a lo establecido en el artÃ­culo 10, inciso 3Â° de la LIR.
+2 Conforme a lo establecido en el artículo 10, inciso 3° de la LIR.
 
-3 Contemplado en el artÃ­culo 10, inciso 3Â°, letra a) de la LIR.
+3 Contemplado en el artículo 10, inciso 3°, letra a) de la LIR.
 
-a.3 .- Que esta condiciÃ³n, en que la proporciÃ³n del 20% o mÃ¡s, del valor de mercado del total de las acciones, cuotas, tÃ­tulos o derechos extranjeros que posea directa o indirectamente a cualquier tÃ­tulo en la sociedad o entidad extranjera, provenga de los activos subyacentes situados en Chile, se apreciarÃ¡ a la fecha de enajenaciÃ³n de los tÃ­tulos o instrumentos, o bien, dentro del plazo de 12 meses anteriores a dicha enajenaciÃ³n, bastando para ello que tal condiciÃ³n se cumpla en cualquier momento dentro de dicho plazo.
+a.3 .- Que esta condición, en que la proporción del 20% o más, del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que posea directa o indirectamente a cualquier título en la sociedad o entidad extranjera, provenga de los activos subyacentes situados en Chile, se apreciará a la fecha de enajenación de los títulos o instrumentos, o bien, dentro del plazo de 12 meses anteriores a dicha enajenación, bastando para ello que tal condición se cumpla en cualquier momento dentro de dicho plazo.
 
-b.Que el contribuyente no domiciliado ni residente en el paÃ­s, enajene el 10% o mÃ¡s del total de las acciones, cuotas, tÃ­tulos o derechos extranjeros que posea a cualquier tÃ­tulo en la sociedad o entidad extranjera.
+b.Que el contribuyente no domiciliado ni residente en el país, enajene el 10% o más del total de las acciones, cuotas, títulos o derechos extranjeros que posea a cualquier título en la sociedad o entidad extranjera.
 
-Para estos efectos se considerarÃ¡n todas las enajenaciones efectuadas directa o indirectamente por el contribuyente enajenante y por otros miembros de su grupo empresarial que no tengan domicilio ni residencia en Chile, realizadas a la fecha de enajenaciÃ³n o dentro del periodo de 12 meses anteriores a la Ãºltima de ellas. En este contexto, se entenderÃ¡ por enajenaciÃ³n el cambio de titular en el derecho de propiedad sobre los tÃ­tulos respectivos, computÃ¡ndose el plazo de 12 meses seÃ±alado, desde cualquiera de las enajenaciones que se efectÃºen.
+Para estos efectos se considerarán todas las enajenaciones efectuadas directa o indirectamente por el contribuyente enajenante y por otros miembros de su grupo empresarial que no tengan domicilio ni residencia en Chile, realizadas a la fecha de enajenación o dentro del periodo de 12 meses anteriores a la última de ellas. En este contexto, se entenderá por enajenación el cambio de titular en el derecho de propiedad sobre los títulos respectivos, computándose el plazo de 12 meses señalado, desde cualquiera de las enajenaciones que se efectúen.
 
-De esta manera, en caso que las enajenaciones individualmente consideradas dentro de dicho plazo, no superen el 10%, pero la suma de todas ellas si lo supere, se tiene como consecuencia que la condiciÃ³n se cumple.
+De esta manera, en caso que las enajenaciones individualmente consideradas dentro de dicho plazo, no superen el 10%, pero la suma de todas ellas si lo supere, se tiene como consecuencia que la condición se cumple.
 
-De acuerdo a la norma legal en comento, se considerarÃ¡n como miembros de su grupo empresarial, las entidades seÃ±aladas en el artÃ­culo 96 de la Ley NÂ° 18.045 sobre Mercado de Valores, que no tengan domicilio ni residencia en el paÃ­s. Dicha norma, define grupo empresarial como el conjunto de entidades que presentan vÃ­nculos de tal naturaleza en su propiedad, administraciÃ³n o responsabilidad crediticia, que hacen presumir que la actuaciÃ³n econÃ³mica y financiera de sus integrantes estÃ¡ guiada por los intereses comunes del grupo o subordinada a Ã©stos, o que existen riesgos financieros comunes en los crÃ©ditos que se les otorgan o en la adquisiciÃ³n de valores que emiten. Seguidamente, la norma enumera una serie de casos en que las entidades y sociedades se entienden formar parte de un mismo grupo empresarial 4 .
+De acuerdo a la norma legal en comento, se considerarán como miembros de su grupo empresarial, las entidades señaladas en el artículo 96 de la Ley N° 18.045 sobre Mercado de Valores, que no tengan domicilio ni residencia en el país. Dicha norma, define grupo empresarial como el conjunto de entidades que presentan vínculos de tal naturaleza en su propiedad, administración o responsabilidad crediticia, que hacen presumir que la actuación económica y financiera de sus integrantes está guiada por los intereses comunes del grupo o subordinada a éstos, o que existen riesgos financieros comunes en los créditos que se les otorgan o en la adquisición de valores que emiten. Seguidamente, la norma enumera una serie de casos en que las entidades y sociedades se entienden formar parte de un mismo grupo empresarial 4 .
 
-2.Segundo hecho gravado 5 . Se afectarÃ¡n con IA las rentas que se determinen conforme a lo dispuesto en el NÂ° 3, del artÃ­culo 58 de la LIR, siempre que se cumpla copulativamente con las siguientes dos condiciones:
+2.Segundo hecho gravado 5 . Se afectarán con IA las rentas que se determinen conforme a lo dispuesto en el N° 3, del artículo 58 de la LIR, siempre que se cumpla copulativamente con las siguientes dos condiciones:
 
-a.Que el valor corriente en plaza de uno o mÃ¡s de los activos subyacentes situados en Chile, indicados en la letra C) siguiente, en la proporciÃ³n que corresponde a la participaciÃ³n indirecta que en ellos posee a cualquier tÃ­tulo el contribuyente enajenante, sea igual o superior a 210.000 unidades tributarias anuales (UTA). TratÃ¡ndose de un mismo activo subyacente situado en Chile, cuya propiedad estÃ© en manos de mÃ¡s de una empresa o entidad extranjera, el cumplimiento de Ã©ste requisito deberÃ¡ analizarse considerando el conjunto de los tÃ­tulos de dichas entidades extranjeras, que posea indirectamente el enajenante sin domicilio ni residencia en Chile. Para estos efectos se considerarÃ¡:
+a.Que el valor corriente en plaza de uno o más de los activos subyacentes situados en Chile, indicados en la letra C) siguiente, en la proporción que corresponde a la participación indirecta que en ellos posee a cualquier título el contribuyente enajenante, sea igual o superior a 210.000 unidades tributarias anuales (UTA). Tratándose de un mismo activo subyacente situado en Chile, cuya propiedad esté en manos de más de una empresa o entidad extranjera, el cumplimiento de éste requisito deberá analizarse considerando el conjunto de los títulos de dichas entidades extranjeras, que posea indirectamente el enajenante sin domicilio ni residencia en Chile. Para estos efectos se considerará:
 
-4 Conforme a lo establecido en el inciso 2Â°, del artÃ­culo 96 de la Ley NÂ° 18.045, forman parte de un mismo grupo empresarial:
+4 Conforme a lo establecido en el inciso 2°, del artículo 96 de la Ley N° 18.045, forman parte de un mismo grupo empresarial:
 
 a) Una sociedad y su controlador;
 
-b) Todas las sociedades que tienen un controlador comÃºn, y este Ãºltimo, y
+b) Todas las sociedades que tienen un controlador común, y este último, y
 
-c) Toda entidad que determine la Superintendencia considerando la concurrencia de una o mÃ¡s de las siguientes circunstancias:
+c) Toda entidad que determine la Superintendencia considerando la concurrencia de una o más de las siguientes circunstancias:
 
-1. Que un porcentaje significativo del activo de la sociedad estÃ¡ comprometido en el grupo empresarial, ya sea en la forma de inversiÃ³n en valores, derechos en sociedades, acreencias o garantÃ­as;
-2. Que la sociedad tiene un significativo nivel de endeudamiento y que el grupo empresarial tiene importante participaciÃ³n como acreedor o garante de dicha deuda;
+1. Que un porcentaje significativo del activo de la sociedad está comprometido en el grupo empresarial, ya sea en la forma de inversión en valores, derechos en sociedades, acreencias o garantías;
+2. Que la sociedad tiene un significativo nivel de endeudamiento y que el grupo empresarial tiene importante participación como acreedor o garante de dicha deuda;
 3. Que la sociedad sea miembro de un controlador de algunas de las entidades mencionadas en las letras a) o b), cuando este controlador corresponda a un grupo de personas y existan razones fundadas en lo dispuesto en el inciso primero para incluirla en el grupo empresarial, y
-4. Que la sociedad sea controlada por uno o mÃ¡s miembros del controlador de alguna de las entidades del grupo empresarial, si dicho controlador estÃ¡ compuesto por mÃ¡s de una persona, y existan razones fundadas en lo dispuesto en el inciso primero para incluirla en el grupo empresarial.
+4. Que la sociedad sea controlada por uno o más miembros del controlador de alguna de las entidades del grupo empresarial, si dicho controlador está compuesto por más de una persona, y existan razones fundadas en lo dispuesto en el inciso primero para incluirla en el grupo empresarial.
 
-5 Contemplado en el artÃ­culo 10, inciso 3Â°, letra b) de la LIR.
+5 Contemplado en el artículo 10, inciso 3°, letra b) de la LIR.
 
-a.1 .- Los activos subyacentes situados en Chile segÃºn su valor corriente en plaza o al que normalmente se cobrarÃ­a por ellos en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operaciÃ³n.
+a.1 .- Los activos subyacentes situados en Chile según su valor corriente en plaza o al que normalmente se cobraría por ellos en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación.
 
-a.2 .- El valor corriente en plaza de los activos subyacentes situados en Chile a la fecha de enajenaciÃ³n o dentro del plazo de 12 meses anteriores a Ã©sta, segÃºn el valor de la UTA a la fecha de enajenaciÃ³n. En este contexto, se entenderÃ¡ por enajenaciÃ³n el cambio de titular en el derecho de propiedad sobre los tÃ­tulos respectivos, computÃ¡ndose el plazo de 12 meses seÃ±alado, desde cualquiera de las enajenaciones que se efectÃºen.
+a.2 .- El valor corriente en plaza de los activos subyacentes situados en Chile a la fecha de enajenación o dentro del plazo de 12 meses anteriores a ésta, según el valor de la UTA a la fecha de enajenación. En este contexto, se entenderá por enajenación el cambio de titular en el derecho de propiedad sobre los títulos respectivos, computándose el plazo de 12 meses señalado, desde cualquiera de las enajenaciones que se efectúen.
 
-a.3.En caso de que se trate de mÃ¡s de un activo subyacente, se deberÃ¡ considerar la suma de Ã©stos, segÃºn los valores de cada uno de ellos, seÃ±alados en la letra a.1.- precedente.
+a.3.En caso de que se trate de más de un activo subyacente, se deberá considerar la suma de éstos, según los valores de cada uno de ellos, señalados en la letra a.1.- precedente.
 
-b.Que el contribuyente enajene el 10% o mÃ¡s del total, de las acciones, cuotas, tÃ­tulos o derechos extranjeros que posea a cualquier tÃ­tulo en la sociedad o entidad extranjera, en los mismos tÃ©rminos seÃ±alados en la letra b.-, del NÂ° 1.- precedente.
+b.Que el contribuyente enajene el 10% o más del total, de las acciones, cuotas, títulos o derechos extranjeros que posea a cualquier título en la sociedad o entidad extranjera, en los mismos términos señalados en la letra b.-, del N° 1.- precedente.
 
-3.Tercer hecho gravado 6 . Las rentas que se determinen conforme a lo dispuesto en el NÂ° 3, del artÃ­culo 58 de la LIR, se afectarÃ¡n con IA cuando las acciones, cuotas, tÃ­tulos o derechos extranjeros enajenados, hayan sido emitidos por una sociedad o entidad domiciliada o constituida en uno de los paÃ­ses o jurisdicciones que figuren en la lista a que se refiere el artÃ­culo 41 D, NÂ° 2 de la LIR 7 .
+3.Tercer hecho gravado 6 . Las rentas que se determinen conforme a lo dispuesto en el N° 3, del artículo 58 de la LIR, se afectarán con IA cuando las acciones, cuotas, títulos o derechos extranjeros enajenados, hayan sido emitidos por una sociedad o entidad domiciliada o constituida en uno de los países o jurisdicciones que figuren en la lista a que se refiere el artículo 41 D, N° 2 de la LIR 7 .
 
-Como se puede apreciar, en tal caso resulta indiferente para determinar el hecho gravado, la proporciÃ³n o porcentaje que representa el valor corriente en plaza de los activos subyacentes situados en Chile sobre el valor de mercado del total de las acciones, cuotas, tÃ­tulos o derechos extranjeros enajenados; o el porcentaje de las acciones, cuotas, tÃ­tulos o derechos de la persona o entidad extranjera enajenados; o si el valor de los activos subyacentes situados en Chile superan o no las 210.000 UTA, bastando para la aplicaciÃ³n del IA en el caso en anÃ¡lisis, que alguno de los activos subyacentes indicados en la letra C) siguiente, o el total de ellos, figuren dentro de los bienes de propiedad directa o indirecta de la entidad extranjera cuyas acciones, cuotas, tÃ­tulos o derechos se enajenan.
+Como se puede apreciar, en tal caso resulta indiferente para determinar el hecho gravado, la proporción o porcentaje que representa el valor corriente en plaza de los activos subyacentes situados en Chile sobre el valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros enajenados; o el porcentaje de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera enajenados; o si el valor de los activos subyacentes situados en Chile superan o no las 210.000 UTA, bastando para la aplicación del IA en el caso en análisis, que alguno de los activos subyacentes indicados en la letra C) siguiente, o el total de ellos, figuren dentro de los bienes de propiedad directa o indirecta de la entidad extranjera cuyas acciones, cuotas, títulos o derechos se enajenan.
 
-No obstante lo anterior, las rentas obtenidas en las enajenaciones a que se refiere este nÃºmero sÃ³lo se gravarÃ¡n con IA cuando se cumplan las condiciones indicadas para cada caso en los NÂ°s 1.- Ã³ 2.precedentes, segÃºn corresponda, siempre que el enajenante, su representante en Chile o el adquirente, si fuere la situaciÃ³n, acredite fehacientemente ante este Servicio las siguientes 2 circunstancias:
+No obstante lo anterior, las rentas obtenidas en las enajenaciones a que se refiere este número sólo se gravarán con IA cuando se cumplan las condiciones indicadas para cada caso en los N°s 1.- ó 2.precedentes, según corresponda, siempre que el enajenante, su representante en Chile o el adquirente, si fuere la situación, acredite fehacientemente ante este Servicio las siguientes 2 circunstancias:
 
-a.Que en la sociedad o entidad extranjera cuyas acciones, cuotas, tÃ­tulos o derechos se enajenan, no existe un socio, accionista, titular o beneficiario con residencia o domicilio en Chile, que posea a cualquier tÃ­tulo un 5% o mÃ¡s de participaciÃ³n o beneficio en el capital o en las utilidades de dicha sociedad o entidad extranjera, y b.Que los socios, accionistas, titulares o beneficiarios de la sociedad o entidad extranjera que controlan directa o indirectamente un 50% o mÃ¡s del capital o utilidades de la sociedad cuyas acciones, cuotas, tÃ­tulos o derechos se enajenan, son residentes o domiciliados en un paÃ­s o jurisdicciÃ³n que no forma parte de la lista seÃ±alada en el artÃ­culo 41 D, NÂ° 2 de la LIR.
+a.Que en la sociedad o entidad extranjera cuyas acciones, cuotas, títulos o derechos se enajenan, no existe un socio, accionista, titular o beneficiario con residencia o domicilio en Chile, que posea a cualquier título un 5% o más de participación o beneficio en el capital o en las utilidades de dicha sociedad o entidad extranjera, y b.Que los socios, accionistas, titulares o beneficiarios de la sociedad o entidad extranjera que controlan directa o indirectamente un 50% o más del capital o utilidades de la sociedad cuyas acciones, cuotas, títulos o derechos se enajenan, son residentes o domiciliados en un país o jurisdicción que no forma parte de la lista señalada en el artículo 41 D, N° 2 de la LIR.
 
-El enajenante, su representante en Chile o el adquirente, si fuere el caso, deberÃ¡ acreditar fehacientemente ante el Servicio, cuando Ã©ste asÃ­ lo solicite, la identidad de todos los socios, accionistas, titulares o beneficiarios que tengan participaciÃ³n o beneficio en el capital o en las utilidades de la sociedad o entidad extranjera respectiva, asÃ­ como el domicilio o residencia de los mismos.
+El enajenante, su representante en Chile o el adquirente, si fuere el caso, deberá acreditar fehacientemente ante el Servicio, cuando éste así lo solicite, la identidad de todos los socios, accionistas, titulares o beneficiarios que tengan participación o beneficio en el capital o en las utilidades de la sociedad o entidad extranjera respectiva, así como el domicilio o residencia de los mismos.
 
-De esta manera, cuando el enajenante, su representante en Chile o el adquirente, si fuere el caso, acredite fehacientemente ante este Servicio el cumplimiento de las circunstancias indicadas en las letras a.- y b.- precedentes, las enajenaciones de los tÃ­tulos a que se refiere este NÂ° 3.-, sÃ³lo se
+De esta manera, cuando el enajenante, su representante en Chile o el adquirente, si fuere el caso, acredite fehacientemente ante este Servicio el cumplimiento de las circunstancias indicadas en las letras a.- y b.- precedentes, las enajenaciones de los títulos a que se refiere este N° 3.-, sólo se
 
-6 Contemplado en el artÃ­culo 10, inciso 3Â°, letra c) de la LIR.
+6 Contemplado en el artículo 10, inciso 3°, letra c) de la LIR.
 
-7 La referida lista se encuentra actualmente contenida en el Decreto Supremo NÂ° 628 de 2003, del Ministerio de Hacienda, publicado en el Diario Oficial de 3 de diciembre de 2003.
+7 La referida lista se encuentra actualmente contenida en el Decreto Supremo N° 628 de 2003, del Ministerio de Hacienda, publicado en el Diario Oficial de 3 de diciembre de 2003.
 
-gravarÃ¡n con IA cuando se verifiquen las condiciones seÃ±aladas en los NÂ°s 1.- Ã³ 2.- anteriores, segÃºn corresponda.
+gravarán con IA cuando se verifiquen las condiciones señaladas en los N°s 1.- ó 2.- anteriores, según corresponda.
 
-En caso de que no se verifique alguno de los hechos gravados seÃ±alados en los nÃºmeros 1.-, 2.- o 3.- precedentes, la renta que pueda obtenerse en la enajenaciÃ³n respectiva se considerarÃ¡ de fuente extranjera, y por tanto, no resultarÃ¡ gravada con el IA de 35% que establece el NÂ° 3, del artÃ­culo 58 de la LIR, al ser obtenida por una persona sin domicilio ni residencia en el paÃ­s.
+En caso de que no se verifique alguno de los hechos gravados señalados en los números 1.-, 2.- o 3.- precedentes, la renta que pueda obtenerse en la enajenación respectiva se considerará de fuente extranjera, y por tanto, no resultará gravada con el IA de 35% que establece el N° 3, del artículo 58 de la LIR, al ser obtenida por una persona sin domicilio ni residencia en el país.
 
 ## 4.Reglas comunes para determinar si las rentas se afectan o no con IA.
 
-Para determinar si se cumplen o no las condiciones de los casos descritos en los NÂ°s 1.-, 2.- y 3.precedentes, se debe tener en cuenta que:
+Para determinar si se cumplen o no las condiciones de los casos descritos en los N°s 1.-, 2.- y 3.precedentes, se debe tener en cuenta que:
 
-a.Cualquiera de los valores allÃ­ indicados que se encuentren expresados en moneda extranjera, se considerarÃ¡n segÃºn su equivalente en moneda nacional a la fecha de enajenaciÃ³n respectiva, de acuerdo a lo dispuesto en el artÃ­culo 41 A, letra D.-, NÂ° 1 de la LIR, esto es, segÃºn la paridad cambiaria entre la moneda nacional y la respectiva moneda extranjera, vigente a la fecha de enajenaciÃ³n respectiva, segÃºn publicaciÃ³n efectuada por el Banco Central de Chile, en conformidad a lo dispuesto en el NÂ° 6, del CapÃ­tulo I, del Compendio de Normas de Cambios Internacionales.
+a.Cualquiera de los valores allí indicados que se encuentren expresados en moneda extranjera, se considerarán según su equivalente en moneda nacional a la fecha de enajenación respectiva, de acuerdo a lo dispuesto en el artículo 41 A, letra D.-, N° 1 de la LIR, esto es, según la paridad cambiaria entre la moneda nacional y la respectiva moneda extranjera, vigente a la fecha de enajenación respectiva, según publicación efectuada por el Banco Central de Chile, en conformidad a lo dispuesto en el N° 6, del Capítulo I, del Compendio de Normas de Cambios Internacionales.
 
-b.En la determinaciÃ³n del valor corriente en plaza de los activos subyacentes situados en Chile a que se refieren los literales (i) y (ii), de la letra a), del inciso 3Â°, del artÃ­culo 10 de la LIR y que se seÃ±alan en los NÂ°s 1.- y 2.- de la letra C) siguiente, se excluirÃ¡n las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenaciÃ³n de los tÃ­tulos, cuotas, derechos o acciones extranjeras respectivas, asÃ­ como tambiÃ©n correlativamente deberÃ¡ excluirse cualquier pasivo contraÃ­do para la adquisiciÃ³n de tales inversiones y que se encuentre pendiente de pago en las oportunidades referidas. Para este efecto, las inversiones se considerarÃ¡n segÃºn su valor corriente en plaza de acuerdo a lo indicado en el inciso 5Â°, del artÃ­culo 10 de la LIR. En relaciÃ³n con lo anterior, este Servicio determinarÃ¡ mediante resoluciÃ³n las reglas aplicables para correlacionar inversiones y pasivos en la aplicaciÃ³n de las exclusiones referidas.
+b.En la determinación del valor corriente en plaza de los activos subyacentes situados en Chile a que se refieren los literales (i) y (ii), de la letra a), del inciso 3°, del artículo 10 de la LIR y que se señalan en los N°s 1.- y 2.- de la letra C) siguiente, se excluirán las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenación de los títulos, cuotas, derechos o acciones extranjeras respectivas, así como también correlativamente deberá excluirse cualquier pasivo contraído para la adquisición de tales inversiones y que se encuentre pendiente de pago en las oportunidades referidas. Para este efecto, las inversiones se considerarán según su valor corriente en plaza de acuerdo a lo indicado en el inciso 5°, del artículo 10 de la LIR. En relación con lo anterior, este Servicio determinará mediante resolución las reglas aplicables para correlacionar inversiones y pasivos en la aplicación de las exclusiones referidas.
 
-c.Para determinar el valor de mercado de las acciones, cuotas, tÃ­tulos o derechos de la persona o entidad extranjera que posee directa o indirectamente el contribuyente enajenante, este Servicio podrÃ¡ ejercer las facultades contenidas en el artÃ­culo 41 E de la LIR, sobre determinaciÃ³n de precios de transferencia, sin perjuicio de la aplicaciÃ³n general de dicha norma en la determinaciÃ³n del precio o valor asignado en la operaciÃ³n 8 .
+c.Para determinar el valor de mercado de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera que posee directa o indirectamente el contribuyente enajenante, este Servicio podrá ejercer las facultades contenidas en el artículo 41 E de la LIR, sobre determinación de precios de transferencia, sin perjuicio de la aplicación general de dicha norma en la determinación del precio o valor asignado en la operación 8 .
 
-## 5.SituaciÃ³n tributaria en caso de reorganizaciÃ³n del grupo empresarial.
+## 5.Situación tributaria en caso de reorganización del grupo empresarial.
 
-No obstante lo indicado anteriormente, no se aplicarÃ¡ el IA cuando las enajenaciones a que se refiere el inciso 3Â°, del artÃ­culo 10 de la LIR, se hayan efectuado en el contexto de una reorganizaciÃ³n del grupo empresarial y siempre que en dichas operaciones no se haya generado renta o un mayor valor para el enajenante, determinada Ã©sta en cualquiera de las 2 formas establecidas en el NÂ° 3, del artÃ­culo 58 de la misma ley.
+No obstante lo indicado anteriormente, no se aplicará el IA cuando las enajenaciones a que se refiere el inciso 3°, del artículo 10 de la LIR, se hayan efectuado en el contexto de una reorganización del grupo empresarial y siempre que en dichas operaciones no se haya generado renta o un mayor valor para el enajenante, determinada ésta en cualquiera de las 2 formas establecidas en el N° 3, del artículo 58 de la misma ley.
 
-Como se puede apreciar, la norma de excepciÃ³n requiere la concurrencia de dos requisitos copulativos para que la enajenaciÃ³n referida no sea considerada como un hecho gravado con IA:
+Como se puede apreciar, la norma de excepción requiere la concurrencia de dos requisitos copulativos para que la enajenación referida no sea considerada como un hecho gravado con IA:
 
-a.Que la enajenaciÃ³n de activos efectuada en el exterior, se realice en el contexto de una reorganizaciÃ³n del grupo empresarial, segÃºn Ã©ste se define en el artÃ­culo 96 de la Ley NÂ° 18.045. Este primer requisito supone que la enajenaciÃ³n se efectÃºe en el marco de dicha reorganizaciÃ³n, de suerte que la enajenaciÃ³n de las acciones, cuotas, tÃ­tulos o derechos extranjeros corresponde a una de las operaciones ejecutadas para implementar los cambios al interior del grupo empresarial.
+a.Que la enajenación de activos efectuada en el exterior, se realice en el contexto de una reorganización del grupo empresarial, según éste se define en el artículo 96 de la Ley N° 18.045. Este primer requisito supone que la enajenación se efectúe en el marco de dicha reorganización, de suerte que la enajenación de las acciones, cuotas, títulos o derechos extranjeros corresponde a una de las operaciones ejecutadas para implementar los cambios al interior del grupo empresarial.
 
-El artÃ­culo 96 de la Ley NÂ° 18.045, define grupo empresarial como el conjunto de entidades que presentan vÃ­nculos de tal naturaleza en su propiedad, administraciÃ³n o responsabilidad crediticia, que hacen presumir que la actuaciÃ³n econÃ³mica y financiera de sus integrantes estÃ¡ guiada por los intereses comunes del grupo o subordinada a Ã©stos, o que existen riesgos financieros comunes en los crÃ©ditos que se les otorgan o en la adquisiciÃ³n de valores que emiten. Seguidamente, la norma
+El artículo 96 de la Ley N° 18.045, define grupo empresarial como el conjunto de entidades que presentan vínculos de tal naturaleza en su propiedad, administración o responsabilidad crediticia, que hacen presumir que la actuación económica y financiera de sus integrantes está guiada por los intereses comunes del grupo o subordinada a éstos, o que existen riesgos financieros comunes en los créditos que se les otorgan o en la adquisición de valores que emiten. Seguidamente, la norma
 
-8 Las instrucciones de este Servicio relacionadas con las normas sobre precios de transferencia se encuentran contenidas en la Circular NÂ° 29 de 2013.
+8 Las instrucciones de este Servicio relacionadas con las normas sobre precios de transferencia se encuentran contenidas en la Circular N° 29 de 2013.
 
 enumera una serie de casos en que las entidades y sociedades se entienden formar parte de un mismo grupo empresarial.
 
-De lo anterior se desprende que es imprescindible para enmarcarse en la norma de excepciÃ³n, que tanto el enajenante como el adquirente o receptor, deben estar bajo un controlador comÃºn, de suerte que la propiedad o derechos de propiedad de personas jurÃ­dicas, entidades, sociedades o patrimonios constituidas, formados o residente en el extranjero, se mantengan bajo la propiedad directa o indirecta de un mismo dueÃ±o comÃºn.
+De lo anterior se desprende que es imprescindible para enmarcarse en la norma de excepción, que tanto el enajenante como el adquirente o receptor, deben estar bajo un controlador común, de suerte que la propiedad o derechos de propiedad de personas jurídicas, entidades, sociedades o patrimonios constituidas, formados o residente en el extranjero, se mantengan bajo la propiedad directa o indirecta de un mismo dueño común.
 
-b.Que no se haya generado en la operaciÃ³n una renta o mayor valor para el enajenante, determinado Ã©ste de acuerdo a cualquiera de las modalidades establecidas en el NÂ° 3, del artÃ­culo 58 de la LIR. Por tanto, dicho mayor valor o renta, debe ser calculado conforme a uno de los mecanismos dispuestos en las letras a) Ã³ b), del NÂ° 3, del artÃ­culo 58 de la LIR, a elecciÃ³n del enajenante.
+b.Que no se haya generado en la operación una renta o mayor valor para el enajenante, determinado éste de acuerdo a cualquiera de las modalidades establecidas en el N° 3, del artículo 58 de la LIR. Por tanto, dicho mayor valor o renta, debe ser calculado conforme a uno de los mecanismos dispuestos en las letras a) ó b), del N° 3, del artículo 58 de la LIR, a elección del enajenante.
 
-En el ANEXO NÂ° 1 de esta Circular, se acompaÃ±a un resumen de los hechos gravados que establecen los incisos 3Â° y siguientes, del artÃ­culo 10 de la LIR.
+En el ANEXO N° 1 de esta Circular, se acompaña un resumen de los hechos gravados que establecen los incisos 3° y siguientes, del artículo 10 de la LIR.
 
 ## C) Activos subyacentes situados en Chile que deben considerarse.
 
 Los activos subyacentes que se deben considerar para determinar si se cumplen o no las condiciones de los hechos gravados descritos en la letra B) precedente y para determinar la renta afecta a IA conforme a lo instruido en la letra D) siguiente, son 9 :
 
-1.Acciones, derechos, cuotas u otros tÃ­tulos de participaciÃ³n en la propiedad, control o utilidades de una sociedad, fondo o entidad constituida en Chile;
+1.Acciones, derechos, cuotas u otros títulos de participación en la propiedad, control o utilidades de una sociedad, fondo o entidad constituida en Chile;
 
-2.Una agencia u otro tipo de establecimiento permanente en Chile de un contribuyente sin domicilio ni residencia en el paÃ­s, considerÃ¡ndose para estos efectos que dicho establecimiento permanente es una empresa independiente de su matriz u oficina principal, y
+2.Una agencia u otro tipo de establecimiento permanente en Chile de un contribuyente sin domicilio ni residencia en el país, considerándose para estos efectos que dicho establecimiento permanente es una empresa independiente de su matriz u oficina principal, y
 
-3.Cualquier tipo de bien mueble o inmueble situado en Chile, o de tÃ­tulos o derechos respecto de los mismos, cuyo titular o dueÃ±o sea una sociedad o entidad sin domicilio o residencia en Chile.
+3.Cualquier tipo de bien mueble o inmueble situado en Chile, o de títulos o derechos respecto de los mismos, cuyo titular o dueño sea una sociedad o entidad sin domicilio o residencia en Chile.
 
-## D) DeterminaciÃ³n de la renta o mayor valor afecta con IA.
+## D) Determinación de la renta o mayor valor afecta con IA.
 
-El NÂ° 3, del artÃ­culo 58 de la LIR, establece la forma en que debe determinarse la renta afecta a IA, con ocasiÃ³n de las enajenaciones a que se refieren los incisos 3Â° y siguientes, del artÃ­culo 10 de la misma ley. De acuerdo a dicha disposiciÃ³n, la renta gravada con el IA en carÃ¡cter de Ãºnico, se podrÃ¡ determinar de cualquiera de las dos siguientes formas, segÃºn opciÃ³n del enajenante:
+El N° 3, del artículo 58 de la LIR, establece la forma en que debe determinarse la renta afecta a IA, con ocasión de las enajenaciones a que se refieren los incisos 3° y siguientes, del artículo 10 de la misma ley. De acuerdo a dicha disposición, la renta gravada con el IA en carácter de único, se podrá determinar de cualquiera de las dos siguientes formas, según opción del enajenante:
 
-1.Primera alternativa 10 : Corresponde a la proporciÃ³n del mayor valor determinado en la enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros, proveniente de los activos subyacentes situados en Chile. Esta proporciÃ³n se calcula de la siguiente manera:
+1.Primera alternativa 10 : Corresponde a la proporción del mayor valor determinado en la enajenación de los títulos o instrumentos extranjeros, proveniente de los activos subyacentes situados en Chile. Esta proporción se calcula de la siguiente manera:
 
-a.En primer tÃ©rmino, se determinarÃ¡ el mayor valor en la enajenaciÃ³n de las acciones, cuotas, tÃ­tulos o derechos extranjeros. Dicho mayor valor corresponde a la diferencia que se establezca entre el precio o valor de enajenaciÃ³n de los referidos tÃ­tulos o instrumentos y el costo de adquisiciÃ³n que en ellos tenga el enajenante. Para determinar el precio o valor de enajenaciÃ³n, se estarÃ¡ al que conste en el contrato o convenciÃ³n respectiva, sin perjuicio de la facultad de tasaciÃ³n que pueda ejercer este Servicio, de acuerdo a los artÃ­culos 64 del CÃ³digo Tributario, y 17 NÂ° 8 inciso 5Â° y 41 E de la LIR, mientras que para determinar el costo de adquisiciÃ³n referido, se aplicarÃ¡n las reglas sobre la materia contenidas en las normas tributarias chilenas.
+a.En primer término, se determinará el mayor valor en la enajenación de las acciones, cuotas, títulos o derechos extranjeros. Dicho mayor valor corresponde a la diferencia que se establezca entre el precio o valor de enajenación de los referidos títulos o instrumentos y el costo de adquisición que en ellos tenga el enajenante. Para determinar el precio o valor de enajenación, se estará al que conste en el contrato o convención respectiva, sin perjuicio de la facultad de tasación que pueda ejercer este Servicio, de acuerdo a los artículos 64 del Código Tributario, y 17 N° 8 inciso 5° y 41 E de la LIR, mientras que para determinar el costo de adquisición referido, se aplicarán las reglas sobre la materia contenidas en las normas tributarias chilenas.
 
-b.En segundo lugar, se determinarÃ¡ la proporciÃ³n que representa el valor de los activos subyacentes situados en Chile, sobre el precio o valor de enajenaciÃ³n de las acciones, cuotas tÃ­tulos o derechos extranjeros. Para estos efectos, los activos subyacentes indicados en la letra C) anterior, se considerarÃ¡n a su valor corriente en plaza o de los que normalmente se cobren o cobrarÃ­an en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operaciÃ³n, sÃ³lo en la proporciÃ³n en que ellos son indirectamente adquiridos con ocasiÃ³n de la enajenaciÃ³n
+b.En segundo lugar, se determinará la proporción que representa el valor de los activos subyacentes situados en Chile, sobre el precio o valor de enajenación de las acciones, cuotas títulos o derechos extranjeros. Para estos efectos, los activos subyacentes indicados en la letra C) anterior, se considerarán a su valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, sólo en la proporción en que ellos son indirectamente adquiridos con ocasión de la enajenación
 
-9 De acuerdo a lo establecido en la letra a), del inciso 3Â°, del artÃ­culo 10 de la LIR,
+9 De acuerdo a lo establecido en la letra a), del inciso 3°, del artículo 10 de la LIR,
 
-10 SegÃºn lo dispuesto en la letra (a), del inciso 1Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+10 Según lo dispuesto en la letra (a), del inciso 1°, del N° 3, del artículo 58 de la LIR.
 
-ocurrida en el exterior. Debe tenerse presente que de dicho valor corriente en plaza, deben excluirse en la forma seÃ±alada anteriormente, tanto las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenaciÃ³n de los tÃ­tulos, cuotas, derechos o acciones extranjeras respectivas, asÃ­ como tambiÃ©n correlativamente, debe excluirse cualquier pasivo contraÃ­do para la adquisiciÃ³n de tales inversiones y que se encuentre pendiente de pago a dicha fecha.
+ocurrida en el exterior. Debe tenerse presente que de dicho valor corriente en plaza, deben excluirse en la forma señalada anteriormente, tanto las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenación de los títulos, cuotas, derechos o acciones extranjeras respectivas, así como también correlativamente, debe excluirse cualquier pasivo contraído para la adquisición de tales inversiones y que se encuentre pendiente de pago a dicha fecha.
 
-c.Para determinar finalmente la renta afecta a impuesto, se aplicarÃ¡ la proporciÃ³n establecida en la letra b.- anterior, sobre el mayor valor determinado en conformidad a la letra a.- precedente. De esta manera resulta la proporciÃ³n del mayor valor obtenido en la enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros que corresponde a los activos subyacentes situados en Chile.
+c.Para determinar finalmente la renta afecta a impuesto, se aplicará la proporción establecida en la letra b.- anterior, sobre el mayor valor determinado en conformidad a la letra a.- precedente. De esta manera resulta la proporción del mayor valor obtenido en la enajenación de los títulos o instrumentos extranjeros que corresponde a los activos subyacentes situados en Chile.
 
-Lo anterior, puede expresarse en la siguiente fÃ³rmula:
+Lo anterior, puede expresarse en la siguiente fórmula:
 
 Renta afecta a IA = (PE - CA) x (AS / PE)
 
 ## Donde:
 
-AS: Corresponde a los Activos Subyacentes segÃºn su valor corriente en plaza en los tÃ©rminos ya explicados, en la proporciÃ³n en que ellos son adquiridos indirectamente con ocasiÃ³n de la enajenaciÃ³n ocurrida en el exterior.
+AS: Corresponde a los Activos Subyacentes según su valor corriente en plaza en los términos ya explicados, en la proporción en que ellos son adquiridos indirectamente con ocasión de la enajenación ocurrida en el exterior.
 
-PE: Corresponde al Precio de EnajenaciÃ³n de las acciones, cuotas tÃ­tulos o derechos extranjeros.
+PE: Corresponde al Precio de Enajenación de las acciones, cuotas títulos o derechos extranjeros.
 
-CA: Corresponde al Costo de AdquisiciÃ³n de las acciones, cuotas tÃ­tulos o derechos extranjeros enajenados.
+CA: Corresponde al Costo de Adquisición de las acciones, cuotas títulos o derechos extranjeros enajenados.
 
-La aplicaciÃ³n de la fÃ³rmula anterior, se ilustra a travÃ©s de un ejemplo contenido en el ANEXO NÂ° 2 de esta Circular.
+La aplicación de la fórmula anterior, se ilustra a través de un ejemplo contenido en el ANEXO N° 2 de esta Circular.
 
-2.Segunda alternativa 11 : Corresponde a la proporciÃ³n del precio de enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros correspondiente al valor de los activos subyacentes situados en Chile, rebajado el costo tributario de los mismos.
+2.Segunda alternativa 11 : Corresponde a la proporción del precio de enajenación de los títulos o instrumentos extranjeros correspondiente al valor de los activos subyacentes situados en Chile, rebajado el costo tributario de los mismos.
 
-a.En primer tÃ©rmino, se determinarÃ¡ la proporciÃ³n del precio de enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros que corresponde al valor de los activos subyacentes situados en Chile. Para estos efectos, los activos subyacentes indicados se considerarÃ¡n a su valor corriente en plaza o de los que normalmente se cobren o cobrarÃ­an en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operaciÃ³n, en la proporciÃ³n correspondiente en que ellos son indirectamente transferidos con ocasiÃ³n de la enajenaciÃ³n ocurrida en el exterior. De esta manera, se determina la parte del precio de los tÃ­tulos o instrumentos extranjeros enajenados, que corresponde a los activos subyacentes situados en Chile.
+a.En primer término, se determinará la proporción del precio de enajenación de los títulos o instrumentos extranjeros que corresponde al valor de los activos subyacentes situados en Chile. Para estos efectos, los activos subyacentes indicados se considerarán a su valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, en la proporción correspondiente en que ellos son indirectamente transferidos con ocasión de la enajenación ocurrida en el exterior. De esta manera, se determina la parte del precio de los títulos o instrumentos extranjeros enajenados, que corresponde a los activos subyacentes situados en Chile.
 
-Debe tenerse presente que de dicho valor corriente en plaza, deben excluirse en la forma seÃ±alada anteriormente, tanto las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenaciÃ³n de los tÃ­tulos, cuotas, derechos o acciones extranjeras respectivas, asÃ­ como tambiÃ©n correlativamente, debe excluirse cualquier pasivo contraÃ­do para la adquisiciÃ³n de tales inversiones y que se encuentre pendiente de pago a dicha fecha.
+Debe tenerse presente que de dicho valor corriente en plaza, deben excluirse en la forma señalada anteriormente, tanto las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenación de los títulos, cuotas, derechos o acciones extranjeras respectivas, así como también correlativamente, debe excluirse cualquier pasivo contraído para la adquisición de tales inversiones y que se encuentre pendiente de pago a dicha fecha.
 
-b.De la proporciÃ³n del precio de enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros correspondiente al valor de los activos subyacentes situados en Chile, determinado en la forma indicada en la letra a.- anterior, se rebajarÃ¡ el costo tributario de tales activos subyacentes, que corresponda al o los dueÃ±os directos de los mismos que no se encuentren domiciliados ni residentes en el paÃ­s.
+b.De la proporción del precio de enajenación de los títulos o instrumentos extranjeros correspondiente al valor de los activos subyacentes situados en Chile, determinado en la forma indicada en la letra a.- anterior, se rebajará el costo tributario de tales activos subyacentes, que corresponda al o los dueños directos de los mismos que no se encuentren domiciliados ni residentes en el país.
 
-Para estos efectos, se considerarÃ¡ el costo tributario de los activos subyacentes situados en Chile, en la proporciÃ³n correspondiente en que ellos son indirectamente transferidos con ocasiÃ³n de la enajenaciÃ³n ocurrida en el exterior.
+Para estos efectos, se considerará el costo tributario de los activos subyacentes situados en Chile, en la proporción correspondiente en que ellos son indirectamente transferidos con ocasión de la enajenación ocurrida en el exterior.
 
-El costo tributario referido corresponderÃ¡ al que se habrÃ­a deducido, de acuerdo a las normas sobre la materia contenidas en la LIR u otras leyes que establezcan dichos costos (por ejemplo, Decreto Ley 600), si tales activos subyacentes se hubieran enajenado en el paÃ­s por los dueÃ±os directos de los mismos. Por tanto, deberÃ¡ distinguirse el tipo de activo subyacente de que se trata, para definir la norma legal aplicable y en consecuencia, el costo tributario que debe deducirse en la operaciÃ³n.
+El costo tributario referido corresponderá al que se habría deducido, de acuerdo a las normas sobre la materia contenidas en la LIR u otras leyes que establezcan dichos costos (por ejemplo, Decreto Ley 600), si tales activos subyacentes se hubieran enajenado en el país por los dueños directos de los mismos. Por tanto, deberá distinguirse el tipo de activo subyacente de que se trata, para definir la norma legal aplicable y en consecuencia, el costo tributario que debe deducirse en la operación.
 
-11 Conforme a lo dispuesto en la letra (b), del inciso 1Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+11 Conforme a lo dispuesto en la letra (b), del inciso 1°, del N° 3, del artículo 58 de la LIR.
 
-En el caso de la enajenaciÃ³n indirecta del activo subyacente seÃ±alado en el literal (ii), de la letra a), del inciso 3Â°, del artÃ­culo 10 de la LIR, esto es, tratÃ¡ndose de la enajenaciÃ³n indirecta de una agencia u otro tipo de establecimiento permanente, el costo tributario a deducir corresponderÃ¡ al capital propio tributario de la misma, calculado de acuerdo al NÂ° 1, del artÃ­culo 41 de la LIR, segÃºn el balance determinado al 31 de diciembre del aÃ±o inmediatamente anterior a la fecha en que ocurra la enajenaciÃ³n de los tÃ­tulos o instrumentos extranjeros, descontÃ¡ndose de dicho costo, las utilidades o cantidades pendientes de retiro o distribuciÃ³n desde la agencia que se encuentren registradas en el Fondo de Utilidades Tributables, sean Ã©stas tributables o no tributables, todo ello, en la proporciÃ³n que corresponda a aquella en que la agencia o establecimiento permanente es enajenado indirectamente en el exterior.
+En el caso de la enajenación indirecta del activo subyacente señalado en el literal (ii), de la letra a), del inciso 3°, del artículo 10 de la LIR, esto es, tratándose de la enajenación indirecta de una agencia u otro tipo de establecimiento permanente, el costo tributario a deducir corresponderá al capital propio tributario de la misma, calculado de acuerdo al N° 1, del artículo 41 de la LIR, según el balance determinado al 31 de diciembre del año inmediatamente anterior a la fecha en que ocurra la enajenación de los títulos o instrumentos extranjeros, descontándose de dicho costo, las utilidades o cantidades pendientes de retiro o distribución desde la agencia que se encuentren registradas en el Fondo de Utilidades Tributables, sean éstas tributables o no tributables, todo ello, en la proporción que corresponda a aquella en que la agencia o establecimiento permanente es enajenado indirectamente en el exterior.
 
-Lo anterior, puede expresarse en la siguiente fÃ³rmula:
+Lo anterior, puede expresarse en la siguiente fórmula:
 
 Renta afecta a IA = { [ (AS / PE) x (PE) ] - CT }
 
 ## Donde:
 
-AS: Corresponde a los Activos Subyacentes segÃºn su valor corriente en plaza en los tÃ©rminos ya explicados, en la proporciÃ³n en que ellos son adquiridos indirectamente con ocasiÃ³n de la enajenaciÃ³n ocurrida en el exterior.
+AS: Corresponde a los Activos Subyacentes según su valor corriente en plaza en los términos ya explicados, en la proporción en que ellos son adquiridos indirectamente con ocasión de la enajenación ocurrida en el exterior.
 
-PE: Corresponde al Precio de EnajenaciÃ³n de las acciones, cuotas tÃ­tulos o derechos extranjeros.
+PE: Corresponde al Precio de Enajenación de las acciones, cuotas títulos o derechos extranjeros.
 
 CT: Corresponde al Costo Tributario de los activos subyacentes conforme a lo establecido en la letra b.- precedente.
 
-La aplicaciÃ³n de la fÃ³rmula anterior, se ilustra a travÃ©s de un ejemplo contenido en el ANEXO NÂ° 2 de esta Circular.
+La aplicación de la fórmula anterior, se ilustra a través de un ejemplo contenido en el ANEXO N° 2 de esta Circular.
 
 ## 3.Valores expresados en moneda extranjera.
 
-Cuando cualquiera de los valores indicados anteriormente, tanto en el NÂ° 1.- Ã³ 2.- precedentes, estÃ©n expresados en moneda extranjera, Ã©stos se convertirÃ¡n a moneda nacional segÃºn su equivalente a la fecha de enajenaciÃ³n, considerando para tales efectos lo dispuesto en el nÃºmero 1, de la letra D, del artÃ­culo 41 A de la LIR, esto es, de acuerdo a la paridad cambiaria entre la moneda nacional y la respectiva moneda extranjera vigente a la fecha de la enajenaciÃ³n respectiva, segÃºn publicaciÃ³n efectuada por el Banco Central de Chile, en conformidad a lo dispuesto en el NÂ° 6, del CapÃ­tulo I, del Compendio de Normas de Cambios Internacionales.
+Cuando cualquiera de los valores indicados anteriormente, tanto en el N° 1.- ó 2.- precedentes, estén expresados en moneda extranjera, éstos se convertirán a moneda nacional según su equivalente a la fecha de enajenación, considerando para tales efectos lo dispuesto en el número 1, de la letra D, del artículo 41 A de la LIR, esto es, de acuerdo a la paridad cambiaria entre la moneda nacional y la respectiva moneda extranjera vigente a la fecha de la enajenación respectiva, según publicación efectuada por el Banco Central de Chile, en conformidad a lo dispuesto en el N° 6, del Capítulo I, del Compendio de Normas de Cambios Internacionales.
 
-## E) Normas de declaraciÃ³n y retenciÃ³n del IA.
+## E) Normas de declaración y retención del IA.
 
-## 1.Normas de declaraciÃ³n del IA.
+## 1.Normas de declaración del IA.
 
 ## a) Regla general.
 
-Las rentas que se determinen en las situaciones descritas anteriormente, se afectan con el IA en carÃ¡cter de Ãºnico, con una tasa del 35% conforme a lo establecido en el NÂ° 3, del artÃ­culo 58 de la LIR.
+Las rentas que se determinen en las situaciones descritas anteriormente, se afectan con el IA en carácter de único, con una tasa del 35% conforme a lo establecido en el N° 3, del artículo 58 de la LIR.
 
-El IA referido debe ser declarado y pagado por el enajenante no domiciliado ni residente en el paÃ­s, de los tÃ­tulos o instrumentos a que se refiere el inciso 3Â°, del artÃ­culo 10 de la LIR, sobre la base de la renta percibida o devengada, en conformidad a lo dispuesto en los artÃ­culos 65 NÂ° 1 y 69 de la LIR, considerando tambiÃ©n lo establecido en el artÃ­culo 72 de la misma ley cuando sea aplicable. Tales rentas, deben actualizarse previamente hasta el tÃ©rmino del ejercicio, de acuerdo con el porcentaje de variaciÃ³n experimentada por el Ãndice de Precios al Consumidor en el perÃ­odo comprendido entre el Ãºltimo dÃ­a del mes anterior a aquel en que se percibiÃ³ o devengÃ³ la renta y el Ãºltimo dÃ­a del mes anterior al del cierre del ejercicio respectivo. De acuerdo a ello, tales contribuyentes se encuentran obligados a declarar y pagar anualmente este impuesto, durante el mes de abril del aÃ±o siguiente al de la obtenciÃ³n de la renta. Atendido lo anterior, los contribuyentes podrÃ¡n compensar los resultados positivos y negativos obtenidos durante el aÃ±o respectivo, en las operaciones a que se refiere el NÂ° 3, del artÃ­culo 58 de la LIR.
+El IA referido debe ser declarado y pagado por el enajenante no domiciliado ni residente en el país, de los títulos o instrumentos a que se refiere el inciso 3°, del artículo 10 de la LIR, sobre la base de la renta percibida o devengada, en conformidad a lo dispuesto en los artículos 65 N° 1 y 69 de la LIR, considerando también lo establecido en el artículo 72 de la misma ley cuando sea aplicable. Tales rentas, deben actualizarse previamente hasta el término del ejercicio, de acuerdo con el porcentaje de variación experimentada por el Índice de Precios al Consumidor en el período comprendido entre el último día del mes anterior a aquel en que se percibió o devengó la renta y el último día del mes anterior al del cierre del ejercicio respectivo. De acuerdo a ello, tales contribuyentes se encuentran obligados a declarar y pagar anualmente este impuesto, durante el mes de abril del año siguiente al de la obtención de la renta. Atendido lo anterior, los contribuyentes podrán compensar los resultados positivos y negativos obtenidos durante el año respectivo, en las operaciones a que se refiere el N° 3, del artículo 58 de la LIR.
 
-Para tales efectos, el contribuyente enajenante deberÃ¡ inscribirse en el Rol Ãšnico Tributario, en conformidad a lo dispuesto en el artÃ­culo 66 del CÃ³digo Tributario, en caso que no se encuentre inscrito previamente 12 .
+Para tales efectos, el contribuyente enajenante deberá inscribirse en el Rol Único Tributario, en conformidad a lo dispuesto en el artículo 66 del Código Tributario, en caso que no se encuentre inscrito previamente 12 .
 
-## b) Posibilidad de considerar estas rentas como esporÃ¡dicas, para la declaraciÃ³n y pago del impuesto.
+## b) Posibilidad de considerar estas rentas como esporádicas, para la declaración y pago del impuesto.
 
-El contribuyente enajenante puede optar por considerar las rentas seÃ±aladas como esporÃ¡dicas para efectos de la declaraciÃ³n y pago del impuesto, y por tanto, podrÃ¡ optar por declarar y pagar el IA de 35% dentro del mes siguiente a la enajenaciÃ³n, fecha de pago, remesa, abono en cuenta o puesta a su disposiciÃ³n, segÃºn corresponda. En tal caso, dicho contribuyente se liberarÃ¡ de la obligaciÃ³n de presentar la declaraciÃ³n anual del referido tributo 13 . Por su parte, el adquirente en este caso, se liberarÃ¡ de la obligaciÃ³n de practicar la retenciÃ³n de impuesto que establece el inciso final, del NÂ° 4, del artÃ­culo 74 de la LIR.
+El contribuyente enajenante puede optar por considerar las rentas señaladas como esporádicas para efectos de la declaración y pago del impuesto, y por tanto, podrá optar por declarar y pagar el IA de 35% dentro del mes siguiente a la enajenación, fecha de pago, remesa, abono en cuenta o puesta a su disposición, según corresponda. En tal caso, dicho contribuyente se liberará de la obligación de presentar la declaración anual del referido tributo 13 . Por su parte, el adquirente en este caso, se liberará de la obligación de practicar la retención de impuesto que establece el inciso final, del N° 4, del artículo 74 de la LIR.
 
-Para determinar la renta gravada con impuesto en esta situaciÃ³n, el contribuyente enajenante podrÃ¡ optar por cualquiera de los mÃ©todos seÃ±alados en las letras (a) Ã³ (b), del inciso 1Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+Para determinar la renta gravada con impuesto en esta situación, el contribuyente enajenante podrá optar por cualquiera de los métodos señalados en las letras (a) ó (b), del inciso 1°, del N° 3, del artículo 58 de la LIR.
 
-## c) Enajenante se libera de la obligaciÃ³n de declarar anualmente 14 .
+## c) Enajenante se libera de la obligación de declarar anualmente 14 .
 
-Lo expresado en las letras a) y b) precedentes, no tendrÃ¡ aplicaciÃ³n cuando el IA de 35% en carÃ¡cter de Ãºnico aplicado sobre la renta determinada conforme a la letra (b), del NÂ° 3, del artÃ­culo 58 de la LIR, haya sido retenido en su totalidad por el adquirente de los tÃ­tulos, de acuerdo con las normas del NÂ° 4, del artÃ­culo 74 de la misma ley. En efecto, cuando ocurra esta situaciÃ³n, el enajenante de los tÃ­tulos no estarÃ¡ obligado a presentar una declaraciÃ³n anual de impuesto, respecto de aquellas operaciones de enajenaciÃ³n en que haya sido retenido totalmente el IA con tasa del 35% que afecta al mayor valor obtenido, ya que en tales casos se entiende que la obligaciÃ³n tributaria se encuentra cumplida.
+Lo expresado en las letras a) y b) precedentes, no tendrá aplicación cuando el IA de 35% en carácter de único aplicado sobre la renta determinada conforme a la letra (b), del N° 3, del artículo 58 de la LIR, haya sido retenido en su totalidad por el adquirente de los títulos, de acuerdo con las normas del N° 4, del artículo 74 de la misma ley. En efecto, cuando ocurra esta situación, el enajenante de los títulos no estará obligado a presentar una declaración anual de impuesto, respecto de aquellas operaciones de enajenación en que haya sido retenido totalmente el IA con tasa del 35% que afecta al mayor valor obtenido, ya que en tales casos se entiende que la obligación tributaria se encuentra cumplida.
 
-En todo caso, se aclara que la liberaciÃ³n precedente no tendrÃ¡ aplicaciÃ³n cuando el adquirente de los tÃ­tulos haya practicado sÃ³lo la retenciÃ³n con tasa de 20%, conforme a lo dispuesto en el inciso final, del NÂ° 4, del artÃ­culo 74 de la LIR, que se comenta en el NÂ° 2 siguiente.
+En todo caso, se aclara que la liberación precedente no tendrá aplicación cuando el adquirente de los títulos haya practicado sólo la retención con tasa de 20%, conforme a lo dispuesto en el inciso final, del N° 4, del artículo 74 de la LIR, que se comenta en el N° 2 siguiente.
 
-## 2.Normas de retenciÃ³n del IA.
+## 2.Normas de retención del IA.
 
-## a) Cantidades sobre las cuales debe practicarse la retenciÃ³n de impuesto y plazo en que debe enterarse al Fisco.
+## a) Cantidades sobre las cuales debe practicarse la retención de impuesto y plazo en que debe enterarse al Fisco.
 
-TratÃ¡ndose de las enajenaciones de los tÃ­tulos o instrumentos seÃ±alados, el adquirente de las acciones, cuotas, derechos y demÃ¡s tÃ­tulos, cualquiera sea su domicilio o residencia, deberÃ¡ efectuar la retenciÃ³n del impuesto que grava dichas enajenaciones con una tasa del 20%, aplicada sobre la renta determinada en la forma establecida en la letra (b), del NÂ° 3, del artÃ­culo 58 de la LIR, esto es, de acuerdo a la alternativa seÃ±alada en el NÂ° 2.-, de la letra D) precedente 15 .
+Tratándose de las enajenaciones de los títulos o instrumentos señalados, el adquirente de las acciones, cuotas, derechos y demás títulos, cualquiera sea su domicilio o residencia, deberá efectuar la retención del impuesto que grava dichas enajenaciones con una tasa del 20%, aplicada sobre la renta determinada en la forma establecida en la letra (b), del N° 3, del artículo 58 de la LIR, esto es, de acuerdo a la alternativa señalada en el N° 2.-, de la letra D) precedente 15 .
 
-La referida retenciÃ³n deberÃ¡ practicarse al tÃ©rmino del ejercicio respectivo, y debe ser declarada y pagada al Fisco mediante una declaraciÃ³n anual 16 , por lo que el adquirente de los tÃ­tulos se encuentra obligado a presentar una declaraciÃ³n anual de impuesto en el mes de abril del aÃ±o siguiente, declarando y enterando las retenciones que haya efectuado por estos conceptos en el ejercicio inmediatamente anterior. Para estos efectos, la renta gravada se actualizarÃ¡ hasta el tÃ©rmino del ejercicio 17 , y sobre dicha cantidad se aplicarÃ¡ la retenciÃ³n del 20% seÃ±alada. Para tales efectos, el adquirente deberÃ¡ inscribirse en el Rol Ãšnico Tributario en caso que no se encuentre inscrito previamente 18 .
+La referida retención deberá practicarse al término del ejercicio respectivo, y debe ser declarada y pagada al Fisco mediante una declaración anual 16 , por lo que el adquirente de los títulos se encuentra obligado a presentar una declaración anual de impuesto en el mes de abril del año siguiente, declarando y enterando las retenciones que haya efectuado por estos conceptos en el ejercicio inmediatamente anterior. Para estos efectos, la renta gravada se actualizará hasta el término del ejercicio 17 , y sobre dicha cantidad se aplicará la retención del 20% señalada. Para tales efectos, el adquirente deberá inscribirse en el Rol Único Tributario en caso que no se encuentre inscrito previamente 18 .
 
-12 Las instrucciones sobre la materia se encuentran contenidas en las Circulares NÂ° 31 de 2007 y NÂ° 7 de 2008, las cuales se encuentran publicadas en la pÃ¡gina web de este Servicio [<u>www.sii.cl</u>](http://www.sii.cl).
+12 Las instrucciones sobre la materia se encuentran contenidas en las Circulares N° 31 de 2007 y N° 7 de 2008, las cuales se encuentran publicadas en la página web de este Servicio [<u>www.sii.cl</u>](http://www.sii.cl).
 
-13 De acuerdo a lo dispuesto en la parte final, del inciso 4Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+13 De acuerdo a lo dispuesto en la parte final, del inciso 4°, del N° 3, del artículo 58 de la LIR.
 
-14 Conforme a lo establecido en el inciso 4Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+14 Conforme a lo establecido en el inciso 4°, del N° 3, del artículo 58 de la LIR.
 
-15 SegÃºn dispone el inciso final, del NÂ° 4, del artÃ­culo 74 de la LIR.
+15 Según dispone el inciso final, del N° 4, del artículo 74 de la LIR.
 
-16 En conformidad a lo establecido en los artÃ­culos 65 NÂ° 1, 69 y 72 de la LIR.
+16 En conformidad a lo establecido en los artículos 65 N° 1, 69 y 72 de la LIR.
 
-17 SegÃºn la variaciÃ³n del IPC entre el Ãºltimo dÃ­a del mes anterior a la enajenaciÃ³n y el Ãºltimo dÃ­a del mes anterior al del cierre del ejercicio respectivo, segÃºn corresponda.
+17 Según la variación del IPC entre el último día del mes anterior a la enajenación y el último día del mes anterior al del cierre del ejercicio respectivo, según corresponda.
 
-18 En conformidad a lo dispuesto en el artÃ­culo 66 del CÃ³digo Tributario.
+18 En conformidad a lo dispuesto en el artículo 66 del Código Tributario.
 
-La retenciÃ³n de impuesto referida, se efectÃºa a cuenta del IA en carÃ¡cter de Ãºnico que afecta al mayor valor obtenido en la operaciÃ³n de enajenaciÃ³n de que se trate, por lo que al enajenante de los tÃ­tulos le asiste el derecho a dar de abono dicha retenciÃ³n al IA que debe declarar anualmente, la que se imputarÃ¡ sin reajuste alguno, es decir, por el mismo valor determinado por el adquirente de los tÃ­tulos al tÃ©rmino del ejercicio.
+La retención de impuesto referida, se efectúa a cuenta del IA en carácter de único que afecta al mayor valor obtenido en la operación de enajenación de que se trate, por lo que al enajenante de los títulos le asiste el derecho a dar de abono dicha retención al IA que debe declarar anualmente, la que se imputará sin reajuste alguno, es decir, por el mismo valor determinado por el adquirente de los títulos al término del ejercicio.
 
-Cabe hacer presente que lo dispuesto por el nuevo NÂ° 4, del artÃ­culo 74 de la LIR, rige a contar del 01.01.2013, afectando a las retenciones de IA que se efectÃºen a partir de dicha fecha, por tanto, respecto de las operaciones de enajenaciones de tÃ­tulos a que se refiere el inciso 3Â°, del artÃ­culo 10 y 58 NÂ° 3, de la LIR, efectuadas con anterioridad al 01.01.2013, rige en la especie lo dispuesto en el anterior texto del NÂ° 4, del artÃ­culo 74 de la LIR, en todo lo que sea pertinente.
+Cabe hacer presente que lo dispuesto por el nuevo N° 4, del artículo 74 de la LIR, rige a contar del 01.01.2013, afectando a las retenciones de IA que se efectúen a partir de dicha fecha, por tanto, respecto de las operaciones de enajenaciones de títulos a que se refiere el inciso 3°, del artículo 10 y 58 N° 3, de la LIR, efectuadas con anterioridad al 01.01.2013, rige en la especie lo dispuesto en el anterior texto del N° 4, del artículo 74 de la LIR, en todo lo que sea pertinente.
 
-## b) RetenciÃ³n por la cual puede optar el adquirente de los tÃ­tulos o instrumentos 19 .
+## b) Retención por la cual puede optar el adquirente de los títulos o instrumentos 19 .
 
-El adquirente de los referidos tÃ­tulos o instrumentos, podrÃ¡ optar por retener la totalidad del impuesto sobre la renta gravada determinada en la forma establecida en la letra (b), del NÂ° 3, del artÃ­culo 58 de la LIR, es decir, podrÃ¡ efectuar la retenciÃ³n referida con una tasa del 35%, la que deberÃ¡ ser declarada y pagada en la misma oportunidad seÃ±alada en la letra a) anterior.
+El adquirente de los referidos títulos o instrumentos, podrá optar por retener la totalidad del impuesto sobre la renta gravada determinada en la forma establecida en la letra (b), del N° 3, del artículo 58 de la LIR, es decir, podrá efectuar la retención referida con una tasa del 35%, la que deberá ser declarada y pagada en la misma oportunidad señalada en la letra a) anterior.
 
-Cuando asÃ­ ocurra, el enajenante de los tÃ­tulos o instrumentos extranjeros se liberarÃ¡ de la obligaciÃ³n de presentar la declaraciÃ³n anual del referido tributo, puesto que en tal caso, la obligaciÃ³n de pago del IA se encuentra cumplida. Para tales efectos, el adquirente deberÃ¡ inscribirse en el Rol Ãšnico Tributario, en caso que no se encuentre inscrito previamente.
+Cuando así ocurra, el enajenante de los títulos o instrumentos extranjeros se liberará de la obligación de presentar la declaración anual del referido tributo, puesto que en tal caso, la obligación de pago del IA se encuentra cumplida. Para tales efectos, el adquirente deberá inscribirse en el Rol Único Tributario, en caso que no se encuentre inscrito previamente.
 
-## 3.DeterminaciÃ³n del IA por parte de este Servicio.
+## 3.Determinación del IA por parte de este Servicio.
 
-En los casos que el IA no sea declarado y pagado conforme a lo dispuesto precedentemente, este Servicio podrÃ¡ liquidar y girar el impuesto adeudado, al enajenante de los tÃ­tulos o instrumentos extranjeros, en su condiciÃ³n de contribuyente del referido tributo, o al adquirente de las acciones, cuotas, tÃ­tulos o derechos emitidos por la sociedad o entidad extranjera, en conformidad a la facultad establecida en el inciso 5Â°, del NÂ° 3, del artÃ­culo 58 de la LIR, considerando los antecedentes que obren en poder del Servicio y previa citaciÃ³n del artÃ­culo 63 del CÃ³digo Tributario.
+En los casos que el IA no sea declarado y pagado conforme a lo dispuesto precedentemente, este Servicio podrá liquidar y girar el impuesto adeudado, al enajenante de los títulos o instrumentos extranjeros, en su condición de contribuyente del referido tributo, o al adquirente de las acciones, cuotas, títulos o derechos emitidos por la sociedad o entidad extranjera, en conformidad a la facultad establecida en el inciso 5°, del N° 3, del artículo 58 de la LIR, considerando los antecedentes que obren en poder del Servicio y previa citación del artículo 63 del Código Tributario.
 
-Cuando en un proceso de fiscalizaciÃ³n efectuado al contribuyente enajenante o al adquirente de las acciones, cuotas, tÃ­tulos o derechos a que se refiere el inciso 3Â° del artÃ­culo 10 de la LIR, segÃºn corresponda, Ã©stos no acrediten fehacientemente el valor de adquisiciÃ³n de tales instrumentos o tÃ­tulos, este Servicio determinarÃ¡ la renta afecta a IA conforme a lo establecido en la letra (b), del NÂ° 3, del artÃ­culo 58 de la LIR, esto es, de acuerdo a la alternativa indicada en el NÂ° 2.-, de la letra D) precedente, con la informaciÃ³n que obre en su poder. En tal caso, el contribuyente enajenante perderÃ¡ la posibilidad de optar por determinar la renta afecta a impuesto conforme al mÃ©todo establecido en la letra (a), del NÂ° 3, del artÃ­culo 58 de la LIR, esto es, de acuerdo a la alternativa indicada en el NÂ° 1.-, de la letra D) precedente 20 .
+Cuando en un proceso de fiscalización efectuado al contribuyente enajenante o al adquirente de las acciones, cuotas, títulos o derechos a que se refiere el inciso 3° del artículo 10 de la LIR, según corresponda, éstos no acrediten fehacientemente el valor de adquisición de tales instrumentos o títulos, este Servicio determinará la renta afecta a IA conforme a lo establecido en la letra (b), del N° 3, del artículo 58 de la LIR, esto es, de acuerdo a la alternativa indicada en el N° 2.-, de la letra D) precedente, con la información que obre en su poder. En tal caso, el contribuyente enajenante perderá la posibilidad de optar por determinar la renta afecta a impuesto conforme al método establecido en la letra (a), del N° 3, del artículo 58 de la LIR, esto es, de acuerdo a la alternativa indicada en el N° 1.-, de la letra D) precedente 20 .
 
-## 4.RÃ©gimen tributario por el que pueden optar los contribuyentes 21 .
+## 4.Régimen tributario por el que pueden optar los contribuyentes 21 .
 
-El contribuyente enajenante o el adquirente en su caso, de los tÃ­tulos o instrumentos extranjeros a que se refiere el inciso 3Â°, del artÃ­culo 10 de la LIR, y que han dado origen a la renta gravada, podrÃ¡ optar por acoger la renta afecta al IA del NÂ° 3, del artÃ­culo 58 de la LIR, determinada conforme a las reglas anteriores, al rÃ©gimen de tributaciÃ³n que habrÃ­a correspondido aplicar si se hubieran enajenado directamente los activos subyacentes situados en Chile.
+El contribuyente enajenante o el adquirente en su caso, de los títulos o instrumentos extranjeros a que se refiere el inciso 3°, del artículo 10 de la LIR, y que han dado origen a la renta gravada, podrá optar por acoger la renta afecta al IA del N° 3, del artículo 58 de la LIR, determinada conforme a las reglas anteriores, al régimen de tributación que habría correspondido aplicar si se hubieran enajenado directamente los activos subyacentes situados en Chile.
 
-El ejercicio de esta opciÃ³n se efectuarÃ¡ en sustituciÃ³n del IA en carÃ¡cter de Ãºnico que establece el NÂ° 3, del artÃ­culo 58 de la LIR y se aplicarÃ¡ considerando las normas, requisitos y condiciones que hubieran sido aplicables si la enajenaciÃ³n de tales activos subyacentes se hubiera efectuado directamente por el titular de dichos bienes. El rÃ©gimen de tributaciÃ³n que resulte del ejercicio de esta opciÃ³n puede permitir por ejemplo que se apliquen en la especie, los impuestos generales de la LIR, el Impuesto de Primera CategorÃ­a en carÃ¡cter de Ãºnico a la renta, la determinaciÃ³n de un ingreso no constitutivo de renta, o el rÃ©gimen de tributaciÃ³n que corresponda, todo ello, de acuerdo a los
+El ejercicio de esta opción se efectuará en sustitución del IA en carácter de único que establece el N° 3, del artículo 58 de la LIR y se aplicará considerando las normas, requisitos y condiciones que hubieran sido aplicables si la enajenación de tales activos subyacentes se hubiera efectuado directamente por el titular de dichos bienes. El régimen de tributación que resulte del ejercicio de esta opción puede permitir por ejemplo que se apliquen en la especie, los impuestos generales de la LIR, el Impuesto de Primera Categoría en carácter de único a la renta, la determinación de un ingreso no constitutivo de renta, o el régimen de tributación que corresponda, todo ello, de acuerdo a los
 
-19 De acuerdo a la parte final, del inciso 4Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+19 De acuerdo a la parte final, del inciso 4°, del N° 3, del artículo 58 de la LIR.
 
-20 En conformidad a lo establecido en el inciso 3Â°, del NÂ° 3, del artÃ­culo 58 de la LIR.
+20 En conformidad a lo establecido en el inciso 3°, del N° 3, del artículo 58 de la LIR.
 
-21 SegÃºn lo dispuesto por el inciso final, del NÂ° 3, del artÃ­culo 58 de la LIR.
+21 Según lo dispuesto por el inciso final, del N° 3, del artículo 58 de la LIR.
 
-tÃ©rminos de la legislaciÃ³n tributaria chilena vigente en el momento de la enajenaciÃ³n de los respectivos tÃ­tulos extranjeros.
+términos de la legislación tributaria chilena vigente en el momento de la enajenación de los respectivos títulos extranjeros.
 
-Al respecto, debe tenerse presente que el anÃ¡lisis del cumplimiento de los requisitos para acoger la renta afecta a IA a un rÃ©gimen de tributaciÃ³n mÃ¡s favorable, se efectuarÃ¡ considerando para todos los efectos que los activos subyacentes respectivos han sido enajenados directamente por el titular de dichos bienes. No obstante lo anterior, por este hecho no podrÃ¡ presumirse que Ã©sta se ha efectuado cumpliendo requisitos que la ley no ha supuesto, como ocurre por ejemplo, en caso que la ley exija que deba efectuarse en una bolsa de valores del paÃ­s. En tal sentido, la ley sÃ³lo considera que la enajenaciÃ³n de los activos subyacentes se ha efectuado directamente por el titular de dichos bienes y no asume que se hayan cumplido los demÃ¡s requisitos legales, cuestiÃ³n que deberÃ¡ verificarse caso a caso.
+Al respecto, debe tenerse presente que el análisis del cumplimiento de los requisitos para acoger la renta afecta a IA a un régimen de tributación más favorable, se efectuará considerando para todos los efectos que los activos subyacentes respectivos han sido enajenados directamente por el titular de dichos bienes. No obstante lo anterior, por este hecho no podrá presumirse que ésta se ha efectuado cumpliendo requisitos que la ley no ha supuesto, como ocurre por ejemplo, en caso que la ley exija que deba efectuarse en una bolsa de valores del país. En tal sentido, la ley sólo considera que la enajenación de los activos subyacentes se ha efectuado directamente por el titular de dichos bienes y no asume que se hayan cumplido los demás requisitos legales, cuestión que deberá verificarse caso a caso.
 
-El ejercicio de la opciÃ³n se manifestarÃ¡ en la forma que determine este Servicio, declarÃ¡ndose los impuestos respectivos conforme a las reglas e instrucciones generales que resulten aplicables, todo lo anterior, sin perjuicio de las facultades generales de fiscalizaciÃ³n de este Servicio, en cuanto a la verificaciÃ³n del cumplimiento de los requisitos y condiciones por parte del contribuyente para quedar sujeto a un rÃ©gimen tributario o a otro.
+El ejercicio de la opción se manifestará en la forma que determine este Servicio, declarándose los impuestos respectivos conforme a las reglas e instrucciones generales que resulten aplicables, todo lo anterior, sin perjuicio de las facultades generales de fiscalización de este Servicio, en cuanto a la verificación del cumplimiento de los requisitos y condiciones por parte del contribuyente para quedar sujeto a un régimen tributario o a otro.
 
-## F) Facultades especiales de fiscalizaciÃ³n con que cuenta el Servicio de Impuestos Internos.
+## F) Facultades especiales de fiscalización con que cuenta el Servicio de Impuestos Internos.
 
-Sin perjuicio de las facultades generales de fiscalizaciÃ³n contenidas en las leyes tributarias y de aquellas particulares seÃ±aladas precedentemente, este Servicio se encuentra ademÃ¡s facultado para:
+Sin perjuicio de las facultades generales de fiscalización contenidas en las leyes tributarias y de aquellas particulares señaladas precedentemente, este Servicio se encuentra además facultado para:
 
-1.Aplicar lo dispuesto en el artÃ­culo 64 del CÃ³digo Tributario, cuando corresponda determinar el valor corriente en plaza de los activos subyacentes situados en Chile seÃ±alados en la C) precedente. En tales casos, el Servicio podrÃ¡ tasar el valor asignado por el contribuyente enajenante o el adquirente en su caso, a los activos subyacentes referidos, cuando dicho valor resulte notoriamente inferior al corriente en plaza o a los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operaciÃ³n, para los efectos de determinar si la enajenaciÃ³n respectiva se encuentra dentro de los casos en que debe gravarse la renta obtenida, como tambiÃ©n, cuando deba calcularse el monto de la renta afecta a IA.
+1.Aplicar lo dispuesto en el artículo 64 del Código Tributario, cuando corresponda determinar el valor corriente en plaza de los activos subyacentes situados en Chile señalados en la C) precedente. En tales casos, el Servicio podrá tasar el valor asignado por el contribuyente enajenante o el adquirente en su caso, a los activos subyacentes referidos, cuando dicho valor resulte notoriamente inferior al corriente en plaza o a los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación, para los efectos de determinar si la enajenación respectiva se encuentra dentro de los casos en que debe gravarse la renta obtenida, como también, cuando deba calcularse el monto de la renta afecta a IA.
 
-Ahora bien, en caso de cumplirse los requisitos copulativos establecidos en el inciso final, del artÃ­culo 10 de la LIR, atendido que no se configura ninguno de los hechos gravados con IA dispuestos en el inciso 3Â°, del artÃ­culo 10 de la misma Ley, este Servicio no podrÃ¡ aplicar en tal caso la facultad de tasaciÃ³n que contempla el inciso 3Â°, del artÃ­culo 64 del CÃ³digo Tributario.
+Ahora bien, en caso de cumplirse los requisitos copulativos establecidos en el inciso final, del artículo 10 de la LIR, atendido que no se configura ninguno de los hechos gravados con IA dispuestos en el inciso 3°, del artículo 10 de la misma Ley, este Servicio no podrá aplicar en tal caso la facultad de tasación que contempla el inciso 3°, del artículo 64 del Código Tributario.
 
-2.Aplicar las normas contenidas en el artÃ­culo 41 E de la LIR, sobre normas de precios de transferencia, cuando deba determinarse el valor de mercado de las acciones, cuotas, tÃ­tulos o derechos de la persona o entidad extranjera, para los efectos de establecer si la enajenaciÃ³n de tales tÃ­tulos o instrumentos se encuentra dentro de los casos en que debe gravarse la renta obtenida con IA 22 .
+2.Aplicar las normas contenidas en el artículo 41 E de la LIR, sobre normas de precios de transferencia, cuando deba determinarse el valor de mercado de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, para los efectos de establecer si la enajenación de tales títulos o instrumentos se encuentra dentro de los casos en que debe gravarse la renta obtenida con IA 22 .
 
-## G) InformaciÃ³n que los contribuyentes deben proporcionar a este Servicio.
+## G) Información que los contribuyentes deben proporcionar a este Servicio.
 
-El inciso penÃºltimo, del NÂ° 3, del artÃ­culo 58 de la LIR, dispone que este Servicio podrÃ¡ exigir una declaraciÃ³n al enajenante de los tÃ­tulos o instrumentos extranjeros, a su representante en Chile, a la sociedad o entidad constituida en el paÃ­s, o al adquirente de los mismos, en la forma y plazo que establezca mediante resoluciÃ³n, en la cual se informe:
+El inciso penúltimo, del N° 3, del artículo 58 de la LIR, dispone que este Servicio podrá exigir una declaración al enajenante de los títulos o instrumentos extranjeros, a su representante en Chile, a la sociedad o entidad constituida en el país, o al adquirente de los mismos, en la forma y plazo que establezca mediante resolución, en la cual se informe:
 
-i.El precio o valor de enajenaciÃ³n de los tÃ­tulos, derechos, cuotas o acciones a que se refiere el inciso 3Â°, del artÃ­culo 10 de la LIR.
+i.El precio o valor de enajenación de los títulos, derechos, cuotas o acciones a que se refiere el inciso 3°, del artículo 10 de la LIR.
 
-ii.El valor corriente en plaza de los activos subyacentes situados en Chile a que se refiere el inciso 3Â°, del artÃ­culo 10 de la LIR.
+ii.El valor corriente en plaza de los activos subyacentes situados en Chile a que se refiere el inciso 3°, del artículo 10 de la LIR.
 
-22 Las instrucciones de este Servicio relacionadas con las normas sobre precios de transferencia, se encuentran contenidas en la Circular NÂ° 29 de 2013.
+22 Las instrucciones de este Servicio relacionadas con las normas sobre precios de transferencia, se encuentran contenidas en la Circular N° 29 de 2013.
 
-iii.Cualquier otro antecedente que requiera para los efectos de la determinaciÃ³n del IA a que se refiere el NÂ° 3, del artÃ­culo 58 de la LIR.
+iii.Cualquier otro antecedente que requiera para los efectos de la determinación del IA a que se refiere el N° 3, del artículo 58 de la LIR.
 
-## H) AplicaciÃ³n de los Convenios para evitar la doble tributaciÃ³n internacional a las rentas e impuesto que establecen los artÃ­culos 10 y 58 NÂ° 3 de la LIR.
+## H) Aplicación de los Convenios para evitar la doble tributación internacional a las rentas e impuesto que establecen los artículos 10 y 58 N° 3 de la LIR.
 
-Los artÃ­culos 10 y 58 NÂ° 3 de la LIR, establecen que se consideran rentas de fuente chilena, y por tanto, afectas al IA establecido en esta Ãºltima disposiciÃ³n, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el paÃ­s, en la enajenaciÃ³n de ciertos tÃ­tulos o instrumentos, cuando la totalidad o una parte del valor de Ã©stos se encuentre representado por uno o mÃ¡s de los activos subyacentes situados en Chile que la norma legal indica.
+Los artículos 10 y 58 N° 3 de la LIR, establecen que se consideran rentas de fuente chilena, y por tanto, afectas al IA establecido en esta última disposición, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el país, en la enajenación de ciertos títulos o instrumentos, cuando la totalidad o una parte del valor de éstos se encuentre representado por uno o más de los activos subyacentes situados en Chile que la norma legal indica.
 
-Ahora bien, en virtud de lo estipulado en los Convenios para evitar la doble tributaciÃ³n internacional suscritos por Chile que se encuentren vigentes, se estima que los tÃ©rminos de Ã©stos resultan aplicables a las rentas e impuesto referido, cuando el enajenante o adquirente en su caso, sean personas residentes del otro estado contratante, considerÃ¡ndose para estos efectos como comprendidas en el artÃ­culo 'otras rentas' de dichos Convenios.
+Ahora bien, en virtud de lo estipulado en los Convenios para evitar la doble tributación internacional suscritos por Chile que se encuentren vigentes, se estima que los términos de éstos resultan aplicables a las rentas e impuesto referido, cuando el enajenante o adquirente en su caso, sean personas residentes del otro estado contratante, considerándose para estos efectos como comprendidas en el artículo 'otras rentas' de dichos Convenios.
 
-No obstante lo anterior, cuando el enajenante o adquirente, segÃºn corresponda, hayan ejercido la opciÃ³n a que se refiere el inciso final, del NÂ° 3, del artÃ­culo 58 de la LIR, de acoger la renta gravada allÃ­ seÃ±alada al rÃ©gimen de tributaciÃ³n que habrÃ­a correspondido aplicar de haberse enajenado directamente los activos subyacentes situados en Chile, tales rentas se considerarÃ¡n como comprendidas en el artÃ­culo 'ganancias de capital' de dichos Convenios, cuando el activo subyacente respectivo se comprenda dentro de aquellos bienes cuya ganancia de capital ampara el Convenio respectivo.
+No obstante lo anterior, cuando el enajenante o adquirente, según corresponda, hayan ejercido la opción a que se refiere el inciso final, del N° 3, del artículo 58 de la LIR, de acoger la renta gravada allí señalada al régimen de tributación que habría correspondido aplicar de haberse enajenado directamente los activos subyacentes situados en Chile, tales rentas se considerarán como comprendidas en el artículo 'ganancias de capital' de dichos Convenios, cuando el activo subyacente respectivo se comprenda dentro de aquellos bienes cuya ganancia de capital ampara el Convenio respectivo.
 
-De acuerdo con lo indicado, resulte pertinente la aplicaciÃ³n de lo dispuesto en el inciso 11Â°, del NÂ° 4, del artÃ­culo 74 de la LIR cuando corresponda, conforme se describe en la Circular NÂ° 54 de 2013 de este Servicio.
+De acuerdo con lo indicado, resulte pertinente la aplicación de lo dispuesto en el inciso 11°, del N° 4, del artículo 74 de la LIR cuando corresponda, conforme se describe en la Circular N° 54 de 2013 de este Servicio.
 
 ## I) Normas legales que se derogan 23 .
 
-La Ley eliminÃ³ la segunda parte, del inciso 2Â°, del artÃ­culo 10 de la LIR, y los incisos 3Â° y 4Â° del NÂ° 2, del artÃ­culo 58 de la misma ley, vigentes con anterioridad, dejando sin efecto las normas contenidas en dichos preceptos legales a contar de la fecha de publicaciÃ³n de la Ley NÂ° 20.630 en el Diario Oficial, es decir, a partir del 27 de septiembre de 2012, quedando por tanto, sin efecto tambiÃ©n a contar de la misma fecha, las instrucciones impartidas por este Servicio sobre la materia.
+La Ley eliminó la segunda parte, del inciso 2°, del artículo 10 de la LIR, y los incisos 3° y 4° del N° 2, del artículo 58 de la misma ley, vigentes con anterioridad, dejando sin efecto las normas contenidas en dichos preceptos legales a contar de la fecha de publicación de la Ley N° 20.630 en el Diario Oficial, es decir, a partir del 27 de septiembre de 2012, quedando por tanto, sin efecto también a contar de la misma fecha, las instrucciones impartidas por este Servicio sobre la materia.
 
-## 2) TRIBUTACIÃ“N QUE AFECTA A LAS RENTAS OBTENIDAS POR LAS AGENCIAS, SUCURSALES U OTRAS FORMAS DE ESTABLECIMIENTOS PERMANENTES DE EMPRESAS EXTRANJERAS QUE OPEREN EN EL PAÃS, DE ACUERDO A LOS ARTÃCULOS 38 Y 58 NÂ° 1 DE LA LIR.
+## 2) TRIBUTACIÓN QUE AFECTA A LAS RENTAS OBTENIDAS POR LAS AGENCIAS, SUCURSALES U OTRAS FORMAS DE ESTABLECIMIENTOS PERMANENTES DE EMPRESAS EXTRANJERAS QUE OPEREN EN EL PAÍS, DE ACUERDO A LOS ARTÍCULOS 38 Y 58 N° 1 DE LA LIR.
 
-La Ley sustituyÃ³ el artÃ­culo 38 de la LIR, efectuando una serie de modificaciones a las normas relacionadas con la determinaciÃ³n de las rentas de las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en Chile (en adelante genÃ©ricamente EP). Con motivo de dicha sustituciÃ³n, se establecieron ademÃ¡s nuevas normas sobre precios de transferencia incorporadas en el nuevo artÃ­culo 41 E de la LIR 24 .
+La Ley sustituyó el artículo 38 de la LIR, efectuando una serie de modificaciones a las normas relacionadas con la determinación de las rentas de las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en Chile (en adelante genéricamente EP). Con motivo de dicha sustitución, se establecieron además nuevas normas sobre precios de transferencia incorporadas en el nuevo artículo 41 E de la LIR 24 .
 
-La Ley modificÃ³ ademÃ¡s el NÂ° 1, del artÃ­culo 58 de la LIR, compatibilizando sus normas con aquellas contenidas en el nuevo artÃ­culo 38 y con la derogaciÃ³n del artÃ­culo 61 de la LIR.
+La Ley modificó además el N° 1, del artículo 58 de la LIR, compatibilizando sus normas con aquellas contenidas en el nuevo artículo 38 y con la derogación del artículo 61 de la LIR.
 
-Tales modificaciones, rigen a contar del 1Â° de enero de 2013. No obstante lo anterior, las nuevas normas sobre precios de transferencia contenidas en el artÃ­culo 41 E de la LIR, rigen a contar del 27 de septiembre de 2012.
+Tales modificaciones, rigen a contar del 1° de enero de 2013. No obstante lo anterior, las nuevas normas sobre precios de transferencia contenidas en el artículo 41 E de la LIR, rigen a contar del 27 de septiembre de 2012.
 
-23 De acuerdo al artÃ­culo 1Â°, NÂ° 1) letra a) y NÂ° 24) letra b) de la Ley.
+23 De acuerdo al artículo 1°, N° 1) letra a) y N° 24) letra b) de la Ley.
 
 24 Las instrucciones de este Servicio relacionadas con las normas sobre precios de transferencia se encuentran contenidas
 
-en la Circular NÂ° 29 de 2013.
+en la Circular N° 29 de 2013.
 
 ## A) Renta de las agencias, sucursales u otras formas de establecimientos permanentes de empresas extranjeras que operen en Chile.
 
-El nuevo artÃ­culo 38 de la LIR, dispone en su inciso 1Â° que la renta de los EP que operen en Chile, se determinarÃ¡ sobre la base de los resultados que les sean atribuibles tanto en su gestiÃ³n en el paÃ­s como en el exterior, de acuerdo a las reglas que establece dicha norma.
+El nuevo artículo 38 de la LIR, dispone en su inciso 1° que la renta de los EP que operen en Chile, se determinará sobre la base de los resultados que les sean atribuibles tanto en su gestión en el país como en el exterior, de acuerdo a las reglas que establece dicha norma.
 
-La nueva disposiciÃ³n no ha innovado en cuanto al concepto de EP, asÃ­ como tampoco respecto de los impuestos que le afectan. Las modificaciones principales dicen relaciÃ³n mÃ¡s bien con la definiciÃ³n de quÃ© rentas se deben afectar con impuestos, cuÃ¡l es la forma en que Ã©stas se determinan, asÃ­ como tambiÃ©n, con las facultades de fiscalizaciÃ³n con que cuenta este Servicio para tal efecto.
+La nueva disposición no ha innovado en cuanto al concepto de EP, así como tampoco respecto de los impuestos que le afectan. Las modificaciones principales dicen relación más bien con la definición de qué rentas se deben afectar con impuestos, cuál es la forma en que éstas se determinan, así como también, con las facultades de fiscalización con que cuenta este Servicio para tal efecto.
 
 ## 1.Rentas atribuibles al EP y forma de determinarlas.
 
-Las rentas de los EP, asÃ­ como sus costos, gastos o resultados, corresponden a aquellas obtenidas por su gestiÃ³n en el paÃ­s y en el exterior que les sean atribuibles, determinÃ¡ndose sobre la base de un balance general segÃºn contabilidad completa.
+Las rentas de los EP, así como sus costos, gastos o resultados, corresponden a aquellas obtenidas por su gestión en el país y en el exterior que les sean atribuibles, determinándose sobre la base de un balance general según contabilidad completa.
 
-Para determinar las rentas o resultados atribuibles al EP, deben considerarse conforme a las normas de la LIR sÃ³lo:
+Para determinar las rentas o resultados atribuibles al EP, deben considerarse conforme a las normas de la LIR sólo:
 
-i.Aquellas rentas, costos y gastos originados por actividades desarrolladas por el EP, tanto en el paÃ­s como en el exterior.
+i.Aquellas rentas, costos y gastos originados por actividades desarrolladas por el EP, tanto en el país como en el exterior.
 
 ii.Aquellas rentas, costos y gastos que tengan su origen o fuente, en bienes que hayan sido asignados al EP, sea que se encuentren situados en Chile o en el exterior.
 
 iii.Aquellas rentas, costos y gastos que tengan su origen o fuente, en bienes utilizados por el EP, sea que se encuentren situados en Chile o en el exterior.
 
-En este sentido, se incluyen dentro de los bienes antes indicados, aquellas inversiones efectuadas en Chile o el exterior, con recursos generados por el EP, asÃ­ como tambiÃ©n los bienes asignados por su matriz o por otro EP de la misma, entre otros.
+En este sentido, se incluyen dentro de los bienes antes indicados, aquellas inversiones efectuadas en Chile o el exterior, con recursos generados por el EP, así como también los bienes asignados por su matriz o por otro EP de la misma, entre otros.
 
-Ahora bien, para determinar sus rentas, costos, gastos o resultados atribuibles, se considerarÃ¡ al EP como una empresa totalmente separada e independiente de su casa matriz, respecto de las operaciones que lleve a cabo con:
+Ahora bien, para determinar sus rentas, costos, gastos o resultados atribuibles, se considerará al EP como una empresa totalmente separada e independiente de su casa matriz, respecto de las operaciones que lleve a cabo con:
 
 i.Su matriz domiciliada o constituida en el extranjero.
 
-ii.Otros establecimientos permanentes de la misma matriz, sea que Ã©stos se encuentren situados en el paÃ­s o en el extranjero.
+ii.Otros establecimientos permanentes de la misma matriz, sea que éstos se encuentren situados en el país o en el extranjero.
 
-iii.Empresas relacionadas con la matriz del EP en los tÃ©rminos del artÃ­culo 41 E de la LIR, sea que Ã©stas se encuentren situadas en el paÃ­s o en el extranjero 25 .
+iii.Empresas relacionadas con la matriz del EP en los términos del artículo 41 E de la LIR, sea que éstas se encuentren situadas en el país o en el extranjero 25 .
 
-iv.Terceros independientes, sea que Ã©stos se encuentren situados en el paÃ­s o en el extranjero.
+iv.Terceros independientes, sea que éstos se encuentren situados en el país o en el extranjero.
 
-## 2.DeterminaciÃ³n de la renta afecta a impuesto por parte de este Servicio, cuando los elementos contables no permitan establecer la renta efectiva.
+## 2.Determinación de la renta afecta a impuesto por parte de este Servicio, cuando los elementos contables no permitan establecer la renta efectiva.
 
-Cuando la contabilidad completa y demÃ¡s elementos contables no permitan establecer la renta efectiva del EP, sea porque Ã©ste no lleva contabilidad, resulta incompleta, errÃ³nea, ha sido declarada como no fidedigna, no se ha puesto a disposiciÃ³n, se presenta de manera extemporÃ¡nea, etc., este Servicio se encuentra facultado para determinar la renta afecta a impuesto, pudiendo utilizar a su libre elecciÃ³n cualquiera de los siguientes mÃ©todos, de acuerdo a los antecedentes que obren en su poder:
+Cuando la contabilidad completa y demás elementos contables no permitan establecer la renta efectiva del EP, sea porque éste no lleva contabilidad, resulta incompleta, errónea, ha sido declarada como no fidedigna, no se ha puesto a disposición, se presenta de manera extemporánea, etc., este Servicio se encuentra facultado para determinar la renta afecta a impuesto, pudiendo utilizar a su libre elección cualquiera de los siguientes métodos, de acuerdo a los antecedentes que obren en su poder:
 
-a) MÃ©todo de los ingresos brutos: Para calcular la renta bajo este mÃ©todo, en primer lugar se deberÃ¡ determinar, conforme a las normas de la LIR, la renta lÃ­quida total y los ingresos brutos de la
+a) Método de los ingresos brutos: Para calcular la renta bajo este método, en primer lugar se deberá determinar, conforme a las normas de la LIR, la renta líquida total y los ingresos brutos de la
 
-25 Las instrucciones de este Servicio relacionadas con las normas contenidas en el artÃ­culo 41 E de la LIR se encuentran contenidas en la Circular NÂ° 29 de 2013.
+25 Las instrucciones de este Servicio relacionadas con las normas contenidas en el artículo 41 E de la LIR se encuentran contenidas en la Circular N° 29 de 2013.
 
-casa matriz, de acuerdo a la informaciÃ³n del balance respectivo, ambos correspondientes al ejercicio cuya renta se define. A continuaciÃ³n, se calcularÃ¡ la relaciÃ³n porcentual que existe entre los elementos antes indicados, esto es, entre la renta lÃ­quida total y los ingresos brutos referidos, ambos correspondientes al mismo ejercicio. La proporciÃ³n resultante, se aplicarÃ¡ sobre los ingresos brutos totales del ejercicio respectivo, percibidos o devengados por el EP, determinÃ¡ndose de esta manera la renta afecta a impuesto.
+casa matriz, de acuerdo a la información del balance respectivo, ambos correspondientes al ejercicio cuya renta se define. A continuación, se calculará la relación porcentual que existe entre los elementos antes indicados, esto es, entre la renta líquida total y los ingresos brutos referidos, ambos correspondientes al mismo ejercicio. La proporción resultante, se aplicará sobre los ingresos brutos totales del ejercicio respectivo, percibidos o devengados por el EP, determinándose de esta manera la renta afecta a impuesto.
 
-b) MÃ©todo del activo: Bajo este mÃ©todo, primero se deberÃ¡ calcular, conforme a las normas de la LIR, la renta lÃ­quida total y el activo total de la casa matriz, de acuerdo a la informaciÃ³n del balance respectivo, ambos correspondientes al ejercicio cuya renta se determina. A continuaciÃ³n, se establecerÃ¡ la relaciÃ³n porcentual que existe entre los elementos antes seÃ±alados, esto es, entre la renta lÃ­quida total y el valor del activo total. La proporciÃ³n resultante, se aplicarÃ¡ sobre los activos asignados al EP, determinÃ¡ndose de esta manera la renta afecta a impuesto.
+b) Método del activo: Bajo este método, primero se deberá calcular, conforme a las normas de la LIR, la renta líquida total y el activo total de la casa matriz, de acuerdo a la información del balance respectivo, ambos correspondientes al ejercicio cuya renta se determina. A continuación, se establecerá la relación porcentual que existe entre los elementos antes señalados, esto es, entre la renta líquida total y el valor del activo total. La proporción resultante, se aplicará sobre los activos asignados al EP, determinándose de esta manera la renta afecta a impuesto.
 
-Ahora bien, conforme a lo dispuesto en el inciso 2Â°, del artÃ­culo 38 de la LIR, la aplicaciÃ³n de lo dispuesto anteriormente, es sin perjuicio de que este Servicio pueda calcular la renta efectiva del EP de acuerdo a lo establecido en el artÃ­culo 35 de misma ley, cuando la renta lÃ­quida imponible no pueda determinarse clara y fehacientemente por falta de antecedentes o cualquiera otra circunstancia. En tales casos, el Servicio podrÃ¡ optar por aplicar alguno de los mÃ©todos indicados en las letras a) o b) precedentes, o alguno de aquellos establecidos en el artÃ­culo 35 de la LIR.
+Ahora bien, conforme a lo dispuesto en el inciso 2°, del artículo 38 de la LIR, la aplicación de lo dispuesto anteriormente, es sin perjuicio de que este Servicio pueda calcular la renta efectiva del EP de acuerdo a lo establecido en el artículo 35 de misma ley, cuando la renta líquida imponible no pueda determinarse clara y fehacientemente por falta de antecedentes o cualquiera otra circunstancia. En tales casos, el Servicio podrá optar por aplicar alguno de los métodos indicados en las letras a) o b) precedentes, o alguno de aquellos establecidos en el artículo 35 de la LIR.
 
-Finalmente cabe seÃ±alar que cuando el EP lleve a cabo operaciones con partes relacionadas, segÃºn la norma de relaciÃ³n contenida en el artÃ­culo 41 E de la LIR, Ã©stas deberÃ¡n efectuarse a precios, valores o rentabilidades normales de mercado. Cuando asÃ­ no ocurra y resulte procedente efectuar ajustes a los resultados del EP por este motivo, tanto el contribuyente como el Servicio deberÃ¡n estarse a lo dispuesto en el artÃ­culo 41 E de la LIR, en cuanto sea aplicable.
+Finalmente cabe señalar que cuando el EP lleve a cabo operaciones con partes relacionadas, según la norma de relación contenida en el artículo 41 E de la LIR, éstas deberán efectuarse a precios, valores o rentabilidades normales de mercado. Cuando así no ocurra y resulte procedente efectuar ajustes a los resultados del EP por este motivo, tanto el contribuyente como el Servicio deberán estarse a lo dispuesto en el artículo 41 E de la LIR, en cuanto sea aplicable.
 
-## 3.Facultad de tasaciÃ³n establecida en el inciso final, del artÃ­culo 38 de la LIR.
+## 3.Facultad de tasación establecida en el inciso final, del artículo 38 de la LIR.
 
-De acuerdo a lo dispuesto en el inciso final, del artÃ­culo 38 de la LIR, este Servicio podrÃ¡ aplicar lo dispuesto en el inciso 3Â°, del artÃ­culo 64 del CÃ³digo Tributario, a la asignaciÃ³n de activos de cualquier clase, corporales o incorporales, efectuada desde el exterior por la matriz a un EP en Chile, o desde el EP a su matriz extranjera, o a otro EP de Ã©sta, sea que se encuentre ubicado en Chile o en el exterior. En consecuencia, este Servicio se encuentra facultado para tasar el precio o valor asignado en la operaciÃ³n respectiva, cuando dicho precio o valor sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza, considerando las circunstancias en que Ã©sta se realiza.
+De acuerdo a lo dispuesto en el inciso final, del artículo 38 de la LIR, este Servicio podrá aplicar lo dispuesto en el inciso 3°, del artículo 64 del Código Tributario, a la asignación de activos de cualquier clase, corporales o incorporales, efectuada desde el exterior por la matriz a un EP en Chile, o desde el EP a su matriz extranjera, o a otro EP de ésta, sea que se encuentre ubicado en Chile o en el exterior. En consecuencia, este Servicio se encuentra facultado para tasar el precio o valor asignado en la operación respectiva, cuando dicho precio o valor sea notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza, considerando las circunstancias en que ésta se realiza.
 
-Como se puede apreciar, este Servicio se encuentra facultado para tasar el precio o valor de cualquier clase de activos, asignados al EP en Chile, a su casa matriz o a cualquier otro EP ubicado en Chile o en el exterior, sean Ã©stos muebles o inmuebles, corporales o incorporales. Conforme con ello, podrÃ¡ tasar el precio o valor en las siguientes asignaciones de activos:
+Como se puede apreciar, este Servicio se encuentra facultado para tasar el precio o valor de cualquier clase de activos, asignados al EP en Chile, a su casa matriz o a cualquier otro EP ubicado en Chile o en el exterior, sean éstos muebles o inmuebles, corporales o incorporales. Conforme con ello, podrá tasar el precio o valor en las siguientes asignaciones de activos:
 
-i.AsignaciÃ³n de activos efectuada por la matriz extranjera a su EP situado en Chile.
+i.Asignación de activos efectuada por la matriz extranjera a su EP situado en Chile.
 
-ii.AsignaciÃ³n de activos efectuada por el EP situado en Chile a su matriz extranjera.
+ii.Asignación de activos efectuada por el EP situado en Chile a su matriz extranjera.
 
-iii.AsignaciÃ³n de activos efectuada por el EP situado en Chile, a otro EP de su matriz extranjera, sea que Ã©ste Ãºltimo se encuentre ubicado en Chile o en el extranjero.
+iii.Asignación de activos efectuada por el EP situado en Chile, a otro EP de su matriz extranjera, sea que éste último se encuentre ubicado en Chile o en el extranjero.
 
-Ahora bien, cuando se trate especÃ­ficamente de la asignaciÃ³n de acciones o derechos sociales en sociedades constituidas en Chile, efectuada conforme al literal i.- anterior, este Servicio no podrÃ¡ aplicar lo dispuesto en el artÃ­culo 64 del CÃ³digo Tributario, siempre que dicha asignaciÃ³n cumpla con las siguientes condiciones copulativas:
+Ahora bien, cuando se trate específicamente de la asignación de acciones o derechos sociales en sociedades constituidas en Chile, efectuada conforme al literal i.- anterior, este Servicio no podrá aplicar lo dispuesto en el artículo 64 del Código Tributario, siempre que dicha asignación cumpla con las siguientes condiciones copulativas:
 
-i.Que obedezca a una legÃ­tima razÃ³n de negocios, ii.Que no origine un flujo efectivo de dinero para la matriz extranjera, y
+i.Que obedezca a una legítima razón de negocios, ii.Que no origine un flujo efectivo de dinero para la matriz extranjera, y
 
-iii.Que la asignaciÃ³n de las acciones o derechos sociales, sea efectuada y registrada en la contabilidad del EP en Chile, al valor contable o tributario en que dichos activos estaban registrados
+iii.Que la asignación de las acciones o derechos sociales, sea efectuada y registrada en la contabilidad del EP en Chile, al valor contable o tributario en que dichos activos estaban registrados
 
-en la matriz en el exterior. En tales casos, se considerarÃ¡ que el valor tributario es aquel determinado conforme a las normas de la LIR.
+en la matriz en el exterior. En tales casos, se considerará que el valor tributario es aquel determinado conforme a las normas de la LIR.
 
-## 4.AplicaciÃ³n a los EP, de las normas contenidas en los artÃ­culos 12, 41 A, 41 B y 41 C de la LIR.
+## 4.Aplicación a los EP, de las normas contenidas en los artículos 12, 41 A, 41 B y 41 C de la LIR.
 
-El inciso 1Â° del artÃ­culo 38 de la LIR, dispone que en la determinaciÃ³n de las rentas y resultados atribuibles a los EP, se aplicarÃ¡ en lo que sea pertinente, lo dispuesto en los artÃ­culos 12, 41 A, 41 B y 41 C de la LIR. Tal disposiciÃ³n tiene sentido, en cuanto los EP han pasado de tributar sobre las rentas de fuente chilena, a tributar sobre la totalidad de las rentas que le sean atribuibles conforme a lo seÃ±alado en el NÂ° 1 precedente. De esta manera, resulta perfectamente posible que al EP se le atribuyan rentas de fuente extranjera, atendidas las actividades que desarrolle o los bienes que se le hayan asignado o utilice.
+El inciso 1° del artículo 38 de la LIR, dispone que en la determinación de las rentas y resultados atribuibles a los EP, se aplicará en lo que sea pertinente, lo dispuesto en los artículos 12, 41 A, 41 B y 41 C de la LIR. Tal disposición tiene sentido, en cuanto los EP han pasado de tributar sobre las rentas de fuente chilena, a tributar sobre la totalidad de las rentas que le sean atribuibles conforme a lo señalado en el N° 1 precedente. De esta manera, resulta perfectamente posible que al EP se le atribuyan rentas de fuente extranjera, atendidas las actividades que desarrolle o los bienes que se le hayan asignado o utilice.
 
-De acuerdo a lo anterior, resulta aplicable lo dispuesto en el artÃ­culo 12 de la LIR, cuando se atribuyan al EP rentas de fuente extranjera, particularmente en lo que dice relaciÃ³n con la oportunidad en que deben computarse en Chile tales rentas. En esta materia entonces, deben aplicarse las normas e instrucciones que este Servicio ha impartido previamente, en cuanto sean pertinentes.
+De acuerdo a lo anterior, resulta aplicable lo dispuesto en el artículo 12 de la LIR, cuando se atribuyan al EP rentas de fuente extranjera, particularmente en lo que dice relación con la oportunidad en que deben computarse en Chile tales rentas. En esta materia entonces, deben aplicarse las normas e instrucciones que este Servicio ha impartido previamente, en cuanto sean pertinentes.
 
-Por su parte, las normas contenidas en los artÃ­culos 41 A, 41 B y 41 C de la LIR, resultan igualmente aplicables a los EP cuando a Ã©stos se les hayan asignado activos en el extranjero o se les atribuyan rentas o resultados del exterior para la aplicaciÃ³n de los impuestos de la LIR, sea que exista o no un Convenio para evitar la doble tributaciÃ³n que estÃ© vigente en el paÃ­s, segÃºn corresponda. De acuerdo a lo seÃ±alado y a manera de ejemplo, procede la imputaciÃ³n del crÃ©dito por impuestos pagados en el exterior sobre rentas atribuibles al EP cuando se cumplan los requisitos legales, la inscripciÃ³n en el Registro de Inversiones en el Extranjero cuando corresponda, la aplicaciÃ³n de las normas de correcciÃ³n monetaria de las inversiones en el exterior conforme al NÂ° 4, del artÃ­culo 41 de la LIR, etc. Ahora bien, las normas contenidas en el artÃ­culo 41 C de la LIR sÃ³lo resultarÃ¡n aplicables cuando hubiese sido procedente su aplicaciÃ³n, de haberse obtenido las rentas que se atribuyen al EP, por personas domiciliadas o residentes en Chile, desde un paÃ­s con el cual exista un Convenio para evitar la doble tributaciÃ³n internacional vigente, en el que se haya comprometido el otorgamiento de un crÃ©dito por el o los impuestos a la renta pagados en los respectivos Estados contratantes.
+Por su parte, las normas contenidas en los artículos 41 A, 41 B y 41 C de la LIR, resultan igualmente aplicables a los EP cuando a éstos se les hayan asignado activos en el extranjero o se les atribuyan rentas o resultados del exterior para la aplicación de los impuestos de la LIR, sea que exista o no un Convenio para evitar la doble tributación que esté vigente en el país, según corresponda. De acuerdo a lo señalado y a manera de ejemplo, procede la imputación del crédito por impuestos pagados en el exterior sobre rentas atribuibles al EP cuando se cumplan los requisitos legales, la inscripción en el Registro de Inversiones en el Extranjero cuando corresponda, la aplicación de las normas de corrección monetaria de las inversiones en el exterior conforme al N° 4, del artículo 41 de la LIR, etc. Ahora bien, las normas contenidas en el artículo 41 C de la LIR sólo resultarán aplicables cuando hubiese sido procedente su aplicación, de haberse obtenido las rentas que se atribuyen al EP, por personas domiciliadas o residentes en Chile, desde un país con el cual exista un Convenio para evitar la doble tributación internacional vigente, en el que se haya comprometido el otorgamiento de un crédito por el o los impuestos a la renta pagados en los respectivos Estados contratantes.
 
 ## 5.Normas sobre precios de transferencia.
 
-Con la sustituciÃ³n del artÃ­culo 38 de la LIR, se eliminaron las normas sobre precios de transferencia que dicho artÃ­culo contenÃ­a en sus incisos 3Â° y siguientes. No obstante lo anterior, en el artÃ­culo 41 E de la LIR, se incorporan nuevas normas sobre la materia, todas las cuales se encuentran analizadas por este Servicio en la Circular NÂ° 29 de 2013.
+Con la sustitución del artículo 38 de la LIR, se eliminaron las normas sobre precios de transferencia que dicho artículo contenía en sus incisos 3° y siguientes. No obstante lo anterior, en el artículo 41 E de la LIR, se incorporan nuevas normas sobre la materia, todas las cuales se encuentran analizadas por este Servicio en la Circular N° 29 de 2013.
 
-## B) Modificaciones efectuadas al NÂ° 1, del artÃ­culo 58 de la LIR.
+## B) Modificaciones efectuadas al N° 1, del artículo 58 de la LIR.
 
-1.Se eliminÃ³ en el NÂ° 1, del artÃ­culo 58 de la LIR, la restricciÃ³n que contenÃ­a dicho artÃ­culo, en el sentido que sÃ³lo las personas naturales extranjeras que tuvieran en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes, debÃ­an tributar con el IA por las rentas indicadas en dicho nÃºmero.
+1.Se eliminó en el N° 1, del artículo 58 de la LIR, la restricción que contenía dicho artículo, en el sentido que sólo las personas naturales extranjeras que tuvieran en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes, debían tributar con el IA por las rentas indicadas en dicho número.
 
-Ahora bien, considerando la modificaciÃ³n seÃ±alada y que ademÃ¡s fue derogado el artÃ­culo 61 de la LIR que establecÃ­a la tributaciÃ³n con IA que afectaba a los chilenos que residÃ­an en el extranjero y que no tenÃ­an domicilio en Chile, debe entenderse que las personas naturales afectas con el IA a que se refiere el NÂ° 1, del artÃ­culo 58 de la LIR, son tanto aquellas extranjeras como tambiÃ©n las chilenas, que no tengan domicilio ni residencia en el paÃ­s que tengan en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes.
+Ahora bien, considerando la modificación señalada y que además fue derogado el artículo 61 de la LIR que establecía la tributación con IA que afectaba a los chilenos que residían en el extranjero y que no tenían domicilio en Chile, debe entenderse que las personas naturales afectas con el IA a que se refiere el N° 1, del artículo 58 de la LIR, son tanto aquellas extranjeras como también las chilenas, que no tengan domicilio ni residencia en el país que tengan en Chile cualquiera clase de establecimientos permanentes, tales como sucursales, oficinas, agentes o representantes.
 
-2.Por otra parte, se reemplazÃ³ la expresiÃ³n 'de fuente chilena' por la expresiÃ³n 'atribuibles a Ã©stos'. Dicha modificaciÃ³n se efectÃºa en concordancia con la sustituciÃ³n del artÃ­culo 38 de la LIR, en cuanto tambiÃ©n dispone que la renta de los contribuyentes indicados en el NÂ° 1, del artÃ­culo 58 de la LIR, corresponde a aquella atribuible a los mismos, materia tratada con detalle en la letra A) precedente.
+2.Por otra parte, se reemplazó la expresión 'de fuente chilena' por la expresión 'atribuibles a éstos'. Dicha modificación se efectúa en concordancia con la sustitución del artículo 38 de la LIR, en cuanto también dispone que la renta de los contribuyentes indicados en el N° 1, del artículo 58 de la LIR, corresponde a aquella atribuible a los mismos, materia tratada con detalle en la letra A) precedente.
 
-## 3) NORMAS SOBRE TRIBUTACIÃ“N INTERNACIONAL CONTENIDAS EN LOS ARTÃCULOS 41 A, 41 B Y 41 C DE LA LIR.
+## 3) NORMAS SOBRE TRIBUTACIÓN INTERNACIONAL CONTENIDAS EN LOS ARTÍCULOS 41 A, 41 B Y 41 C DE LA LIR.
 
-## A) Normas relativas a la tributaciÃ³n internacional.
+## A) Normas relativas a la tributación internacional.
 
-La Ley NÂ° 20.630 suprimiÃ³ en el epÃ­grafe del encabezado contenido en el pÃ¡rrafo 6Â°, del TÃ­tulo II, de la LIR, la expresiÃ³n 'doble', con el objeto de ampliar el alcance de las normas contenidas en dicho pÃ¡rrafo, a raÃ­z de la incorporaciÃ³n a Ã©ste del nuevo artÃ­culo 41 E de la LIR sobre precios de transferencia, comprendiendo en general, dicho pÃ¡rrafo 6Â°, las normas relativas a la tributaciÃ³n internacional.
+La Ley N° 20.630 suprimió en el epígrafe del encabezado contenido en el párrafo 6°, del Título II, de la LIR, la expresión 'doble', con el objeto de ampliar el alcance de las normas contenidas en dicho párrafo, a raíz de la incorporación a éste del nuevo artículo 41 E de la LIR sobre precios de transferencia, comprendiendo en general, dicho párrafo 6°, las normas relativas a la tributación internacional.
 
-En consecuencia, a partir del 1Â° de enero de 2013, el pÃ¡rrafo 6Â°, del TÃ­tulo II de la LIR, se denomina 'De las normas relativas a la tributaciÃ³n internacional'.
+En consecuencia, a partir del 1° de enero de 2013, el párrafo 6°, del Título II de la LIR, se denomina 'De las normas relativas a la tributación internacional'.
 
-## B) ImputaciÃ³n del Impuesto de Primera CategorÃ­a (IDPC) cubierto con el crÃ©dito por Impuestos Pagados en el Exterior (IPE).
+## B) Imputación del Impuesto de Primera Categoría (IDPC) cubierto con el crédito por Impuestos Pagados en el Exterior (IPE).
 
-La Ley NÂ° 20.630 agregÃ³ en la letra D.-, sobre normas comunes, del artÃ­culo 41 A de la LIR, un nuevo NÂ° 7, con el objeto de establecer de manera expresa que en ningÃºn caso podrÃ¡ ser objeto de devoluciÃ³n a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo el crÃ©dito por IPE establecido en los artÃ­culos 41 A y 41 C de la LIR.
+La Ley N° 20.630 agregó en la letra D.-, sobre normas comunes, del artículo 41 A de la LIR, un nuevo N° 7, con el objeto de establecer de manera expresa que en ningún caso podrá ser objeto de devolución a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo el crédito por IPE establecido en los artículos 41 A y 41 C de la LIR.
 
-Esta modificaciÃ³n, de acuerdo a la norma general de vigencia de la Ley, contenida en su artÃ­culo 8Â°, rige a contar del 1Â° de enero de 2013, por los impuestos que deban declararse y pagarse a contar de esa fecha, afectando en consecuencia, a las devoluciones del IDPC, ya sea como crÃ©dito o como pago provisional por utilidades absorbidas, que se soliciten o declaren a partir de esa fecha a travÃ©s de la declaraciÃ³n anual de impuestos a la renta correspondiente al aÃ±o tributario 2013, o bien, en la declaraciÃ³n que deben presentar aquellos contribuyentes que pongan termino a su giro, independientemente del perÃ­odo al que corresponda el IDPC cuya devoluciÃ³n se solicita.
+Esta modificación, de acuerdo a la norma general de vigencia de la Ley, contenida en su artículo 8°, rige a contar del 1° de enero de 2013, por los impuestos que deban declararse y pagarse a contar de esa fecha, afectando en consecuencia, a las devoluciones del IDPC, ya sea como crédito o como pago provisional por utilidades absorbidas, que se soliciten o declaren a partir de esa fecha a través de la declaración anual de impuestos a la renta correspondiente al año tributario 2013, o bien, en la declaración que deben presentar aquellos contribuyentes que pongan termino a su giro, independientemente del período al que corresponda el IDPC cuya devolución se solicita.
 
-## 1.Alcance de esta modificaciÃ³n.
+## 1.Alcance de esta modificación.
 
-Los artÃ­culos 41 A y 41 C de la LIR establecen que los impuestos pagados en el exterior pueden ser imputados como crÃ©dito en contra del IDPC, y en algunos casos, en contra de los impuestos finales, Global Complementario o Adicional, segÃºn corresponda, hasta un lÃ­mite mÃ¡ximo equivalente al 30% de la renta neta de fuente extranjera del ejercicio.
+Los artículos 41 A y 41 C de la LIR establecen que los impuestos pagados en el exterior pueden ser imputados como crédito en contra del IDPC, y en algunos casos, en contra de los impuestos finales, Global Complementario o Adicional, según corresponda, hasta un límite máximo equivalente al 30% de la renta neta de fuente extranjera del ejercicio.
 
-Ahora bien, cuando se haya imputado el crÃ©dito por IPE en contra del IDPC se debe distinguir:
+Ahora bien, cuando se haya imputado el crédito por IPE en contra del IDPC se debe distinguir:
 
-## a.IDPC imputado en contra de los impuestos Global Complementario o Adicional, segÃºn corresponda.
+## a.IDPC imputado en contra de los impuestos Global Complementario o Adicional, según corresponda.
 
-i.El artÃ­culo 56 NÂ° 3 de la LIR, dispone que a los contribuyentes del Impuesto Global Complementario se les otorgarÃ¡ un crÃ©dito contra el referido tributo, correspondiente a la cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la renta bruta global, la misma tasa del IDPC con la que se gravaron. Agrega dicha norma legal que tambiÃ©n tendrÃ¡n derecho a este crÃ©dito las personas naturales que sean socios o accionistas de sociedades, por las cantidades obtenidas por Ã©stas en su calidad de socias o accionistas de otras sociedades, por la parte de dichas cantidades que integre la renta bruta global de las personas aludidas.
+i.El artículo 56 N° 3 de la LIR, dispone que a los contribuyentes del Impuesto Global Complementario se les otorgará un crédito contra el referido tributo, correspondiente a la cantidad que resulte de aplicar a las rentas o cantidades que se encuentren incluidas en la renta bruta global, la misma tasa del IDPC con la que se gravaron. Agrega dicha norma legal que también tendrán derecho a este crédito las personas naturales que sean socios o accionistas de sociedades, por las cantidades obtenidas por éstas en su calidad de socias o accionistas de otras sociedades, por la parte de dichas cantidades que integre la renta bruta global de las personas aludidas.
 
-El inciso penÃºltimo del artÃ­culo 56 de la LIR dispone que, si el monto del crÃ©dito por IDPC excediere del Impuesto Global Complementario, dicho excedente podrÃ¡ imputarse a cualquier otro impuesto de declaraciÃ³n anual y si luego de ello, aÃºn quedare un saldo a favor del contribuyente, podrÃ¡ solicitarse su devoluciÃ³n, siempre que corresponda a cantidades efectivamente gravadas en Primera CategorÃ­a, en cuyo caso se devolverÃ¡ en la forma seÃ±alada en el artÃ­culo 97 de la LIR.
+El inciso penúltimo del artículo 56 de la LIR dispone que, si el monto del crédito por IDPC excediere del Impuesto Global Complementario, dicho excedente podrá imputarse a cualquier otro impuesto de declaración anual y si luego de ello, aún quedare un saldo a favor del contribuyente, podrá solicitarse su devolución, siempre que corresponda a cantidades efectivamente gravadas en Primera Categoría, en cuyo caso se devolverá en la forma señalada en el artículo 97 de la LIR.
 
-La modificaciÃ³n en comento viene a establecer una limitaciÃ³n a la devoluciÃ³n del IDPC, adicional a aquella establecida en el inciso penÃºltimo del artÃ­culo 56, en cuanto dispone que no podrÃ¡ ser objeto de devoluciÃ³n a contribuyente alguno, el IPDC en aquella parte en que se haya deducido de dicho tributo el crÃ©dito por IPE establecido en los artÃ­culos 41 A y 41 C de la LIR o dicho de otro modo, en aquella parte en que el IDPC haya sido solucionado mediante la imputaciÃ³n del crÃ©dito establecido en los artÃ­culos 41 A y 41 C de la LIR.
+La modificación en comento viene a establecer una limitación a la devolución del IDPC, adicional a aquella establecida en el inciso penúltimo del artículo 56, en cuanto dispone que no podrá ser objeto de devolución a contribuyente alguno, el IPDC en aquella parte en que se haya deducido de dicho tributo el crédito por IPE establecido en los artículos 41 A y 41 C de la LIR o dicho de otro modo, en aquella parte en que el IDPC haya sido solucionado mediante la imputación del crédito establecido en los artículos 41 A y 41 C de la LIR.
 
-En otras palabras, cuando el IDPC que sirve de crÃ©dito contra el Impuesto Global Complementario, haya sido cubierto total o parcialmente con el crÃ©dito por IPE conforme a las normas establecidas en los artÃ­culos 41 A y 41 C de la LIR, sÃ³lo darÃ¡ derecho a devoluciÃ³n, cuando asÃ­ corresponda, aquella parte del IDPC que no haya sido solucionada con el crÃ©dito por IPE.
+En otras palabras, cuando el IDPC que sirve de crédito contra el Impuesto Global Complementario, haya sido cubierto total o parcialmente con el crédito por IPE conforme a las normas establecidas en los artículos 41 A y 41 C de la LIR, sólo dará derecho a devolución, cuando así corresponda, aquella parte del IDPC que no haya sido solucionada con el crédito por IPE.
 
-En consecuencia, en ningÃºn caso podrÃ¡ ser objeto de devoluciÃ³n aquella parte del crÃ©dito por IDPC imputado en contra del Impuesto Global Complementario, que haya sido cubierto con el crÃ©dito por IPE.
+En consecuencia, en ningún caso podrá ser objeto de devolución aquella parte del crédito por IDPC imputado en contra del Impuesto Global Complementario, que haya sido cubierto con el crédito por IPE.
 
-Se hace presente ademÃ¡s, que conforme a lo dispuesto en el inciso final del artÃ­culo 56 de la LIR, los crÃ©ditos que las leyes permiten rebajar de los impuestos establecidos en la LIR y que dan derecho a devoluciÃ³n del excedente que resulte, se aplicarÃ¡n a continuaciÃ³n de aquellos no susceptibles de reembolso. Por tanto, para efectos de su imputaciÃ³n, en primer lugar se deducirÃ¡ el crÃ©dito por IDPC sin derecho a devoluciÃ³n, es decir, aquella parte del referido tributo que haya sido solucionada con el crÃ©dito por IPE y a continuaciÃ³n, se imputarÃ¡ el crÃ©dito por IDPC con derecho a devoluciÃ³n, esto es, aquel que efectivamente ha gravado las rentas en la Primera CategorÃ­a y sin que se haya deducido de dicho impuesto, el crÃ©dito por IPE.
+Se hace presente además, que conforme a lo dispuesto en el inciso final del artículo 56 de la LIR, los créditos que las leyes permiten rebajar de los impuestos establecidos en la LIR y que dan derecho a devolución del excedente que resulte, se aplicarán a continuación de aquellos no susceptibles de reembolso. Por tanto, para efectos de su imputación, en primer lugar se deducirá el crédito por IDPC sin derecho a devolución, es decir, aquella parte del referido tributo que haya sido solucionada con el crédito por IPE y a continuación, se imputará el crédito por IDPC con derecho a devolución, esto es, aquel que efectivamente ha gravado las rentas en la Primera Categoría y sin que se haya deducido de dicho impuesto, el crédito por IPE.
 
-ii.En el caso de los contribuyentes del Impuesto Adicional, el artÃ­culo 63 de la LIR dispone que se les otorgarÃ¡ un crÃ©dito equivalente al monto que resulte de aplicar a las cantidades gravadas conforme a los artÃ­culos 58 y 60, inciso primero, la misma tasa de Primera CategorÃ­a que las afectÃ³. De igual crÃ©dito gozarÃ¡n los contribuyentes afectos a este impuesto, sobre aquella parte de sus rentas de fuente chilena que les corresponda como socio o accionista de sociedades, por las cantidades obtenidas por Ã©stas en su calidad de socias o accionistas de otras sociedades.
+ii.En el caso de los contribuyentes del Impuesto Adicional, el artículo 63 de la LIR dispone que se les otorgará un crédito equivalente al monto que resulte de aplicar a las cantidades gravadas conforme a los artículos 58 y 60, inciso primero, la misma tasa de Primera Categoría que las afectó. De igual crédito gozarán los contribuyentes afectos a este impuesto, sobre aquella parte de sus rentas de fuente chilena que les corresponda como socio o accionista de sociedades, por las cantidades obtenidas por éstas en su calidad de socias o accionistas de otras sociedades.
 
-La modificaciÃ³n en anÃ¡lisis, tiene el mismo alcance comentado en el literal anterior, esto es, que no podrÃ¡ ser objeto de devoluciÃ³n a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo, el crÃ©dito por IPE establecido en los artÃ­culos 41 A y 41 C de la LIR.
+La modificación en análisis, tiene el mismo alcance comentado en el literal anterior, esto es, que no podrá ser objeto de devolución a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo, el crédito por IPE establecido en los artículos 41 A y 41 C de la LIR.
 
-Por tanto, en ningÃºn caso podrÃ¡ ser objeto de devoluciÃ³n, aquella parte del crÃ©dito por IDPC imputado en contra del Impuesto Adicional, que haya sido cubierto con el crÃ©dito por IPE.
+Por tanto, en ningún caso podrá ser objeto de devolución, aquella parte del crédito por IDPC imputado en contra del Impuesto Adicional, que haya sido cubierto con el crédito por IPE.
 
-Igualmente debe tenerse presente que, conforme a lo dispuesto en el inciso final del artÃ­culo 63 de la LIR, los crÃ©ditos que las leyes permiten rebajar de los impuestos establecidos en la LIR y que dan derecho a devoluciÃ³n del excedente que resulte, se aplicarÃ¡n a continuaciÃ³n de aquellos no susceptibles de reembolso. En consecuencia, para efectos de su imputaciÃ³n, en primer lugar se deducirÃ¡ el crÃ©dito por IDPC sin derecho a devoluciÃ³n, es decir, aquella parte del referido tributo que haya sido cubierta con el crÃ©dito por IPE y a continuaciÃ³n, se imputarÃ¡ el crÃ©dito por IDPC con derecho a devoluciÃ³n, es decir, aquel que efectivamente ha gravado las rentas en la Primera CategorÃ­a y sin que se haya deducido de dicho impuesto, el crÃ©dito por IPE.
+Igualmente debe tenerse presente que, conforme a lo dispuesto en el inciso final del artículo 63 de la LIR, los créditos que las leyes permiten rebajar de los impuestos establecidos en la LIR y que dan derecho a devolución del excedente que resulte, se aplicarán a continuación de aquellos no susceptibles de reembolso. En consecuencia, para efectos de su imputación, en primer lugar se deducirá el crédito por IDPC sin derecho a devolución, es decir, aquella parte del referido tributo que haya sido cubierta con el crédito por IPE y a continuación, se imputará el crédito por IDPC con derecho a devolución, es decir, aquel que efectivamente ha gravado las rentas en la Primera Categoría y sin que se haya deducido de dicho impuesto, el crédito por IPE.
 
-En consecuencia, y conforme a lo expresado en los literales anteriores, a partir del AÃ±o Tributario 2013, se aplicarÃ¡n las instrucciones contenidas en la presente Circular y no aquellas contenidas en el NÂ° 3, del CapÃ­tulo V, de la Circular NÂ° 25 de 2008.
+En consecuencia, y conforme a lo expresado en los literales anteriores, a partir del Año Tributario 2013, se aplicarán las instrucciones contenidas en la presente Circular y no aquellas contenidas en el N° 3, del Capítulo V, de la Circular N° 25 de 2008.
 
-## b.DevoluciÃ³n del IDPC, conforme a lo dispuesto en el artÃ­culo 31 NÂ° 3 de la LIR.
+## b.Devolución del IDPC, conforme a lo dispuesto en el artículo 31 N° 3 de la LIR.
 
-El inciso 2Â°, del NÂ° 3, del artÃ­culo 31 de la LIR, dispone que en el caso que las pÃ©rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerarÃ¡ como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida, y se les aplicarÃ¡n las normas de reajustabilidad, imputaciÃ³n o devoluciÃ³n que seÃ±alan los artÃ­culos 93 al 97 de la LIR.
+El inciso 2°, del N° 3, del artículo 31 de la LIR, dispone que en el caso que las pérdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida, y se les aplicarán las normas de reajustabilidad, imputación o devolución que señalan los artículos 93 al 97 de la LIR.
 
-Ahora bien, la modificaciÃ³n en comento viene a establecer que no podrÃ¡ ser objeto de devoluciÃ³n a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo, el crÃ©dito por IPE establecido en los artÃ­culos 41 A y 41 C de la LIR.
+Ahora bien, la modificación en comento viene a establecer que no podrá ser objeto de devolución a contribuyente alguno, el IDPC en aquella parte en que se haya deducido de dicho tributo, el crédito por IPE establecido en los artículos 41 A y 41 C de la LIR.
 
-En otras palabras, cuando las pÃ©rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerarÃ¡ como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida y se les aplicarÃ¡n las normas de reajustabilidad e imputaciÃ³n que seÃ±alan los artÃ­culos 93 al 97 de la LIR. Sin embargo, en
+En otras palabras, cuando las pérdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida y se les aplicarán las normas de reajustabilidad e imputación que señalan los artículos 93 al 97 de la LIR. Sin embargo, en
 
-ningÃºn caso darÃ¡ derecho a devoluciÃ³n, aquella parte del IDPC pagado que haya sido cubierto con el crÃ©dito por IPE, conforme a las normas establecidas en los artÃ­culos 41 A y 41 C de la LIR.
+ningún caso dará derecho a devolución, aquella parte del IDPC pagado que haya sido cubierto con el crédito por IPE, conforme a las normas establecidas en los artículos 41 A y 41 C de la LIR.
 
-En consecuencia, a partir de la vigencia de la modificaciÃ³n en comento, corresponderÃ¡ distinguir dos tipos de pagos provisionales por utilidades absorbidas:
+En consecuencia, a partir de la vigencia de la modificación en comento, corresponderá distinguir dos tipos de pagos provisionales por utilidades absorbidas:
 
-i.Pago provisional por utilidades absorbidas sin derecho a devoluciÃ³n: Cuando las pÃ©rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerarÃ¡ como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida, y se le aplicarÃ¡ las normas de reajustabilidad e imputaciÃ³n que seÃ±alan los artÃ­culos 93 al 97 de la LIR. Sin embargo, no darÃ¡ derecho a devoluciÃ³n aquella parte de este pago provisional que corresponda al IDPC pagado mediante la imputaciÃ³n del crÃ©dito por IPE, conforme a las normas establecidas en los artÃ­culos 41 A y 41 C de la LIR.
+i.Pago provisional por utilidades absorbidas sin derecho a devolución: Cuando las pérdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida, y se le aplicará las normas de reajustabilidad e imputación que señalan los artículos 93 al 97 de la LIR. Sin embargo, no dará derecho a devolución aquella parte de este pago provisional que corresponda al IDPC pagado mediante la imputación del crédito por IPE, conforme a las normas establecidas en los artículos 41 A y 41 C de la LIR.
 
-Es decir, el citado pago provisional, serÃ¡ objeto de reajuste y podrÃ¡ ser imputado en contra de otros impuestos de declaraciÃ³n anual, conforme a lo dispuesto en los artÃ­culos 93 al 97 de la LIR, pero en ningÃºn caso darÃ¡ derecho a devoluciÃ³n el saldo que pueda resultar a favor del contribuyente, extinguiÃ©ndose por tal motivo en el mismo ejercicio de su determinaciÃ³n.
+Es decir, el citado pago provisional, será objeto de reajuste y podrá ser imputado en contra de otros impuestos de declaración anual, conforme a lo dispuesto en los artículos 93 al 97 de la LIR, pero en ningún caso dará derecho a devolución el saldo que pueda resultar a favor del contribuyente, extinguiéndose por tal motivo en el mismo ejercicio de su determinación.
 
-El pago provisional determinado que no de derecho a devoluciÃ³n y que no pueda ser imputado contra los impuestos de declaraciÃ³n anual, no deberÃ¡ ser reconocido por el contribuyente como la recuperaciÃ³n de un gasto o un incremento patrimonial, segÃºn corresponda. De acuerdo a ello, solo en caso que el pago provisional que no da derecho a devoluciÃ³n pueda ser imputado en la forma seÃ±alada, se considerarÃ¡ como la recuperaciÃ³n de un gasto o un incremento patrimonial segÃºn el caso.
+El pago provisional determinado que no de derecho a devolución y que no pueda ser imputado contra los impuestos de declaración anual, no deberá ser reconocido por el contribuyente como la recuperación de un gasto o un incremento patrimonial, según corresponda. De acuerdo a ello, solo en caso que el pago provisional que no da derecho a devolución pueda ser imputado en la forma señalada, se considerará como la recuperación de un gasto o un incremento patrimonial según el caso.
 
-ii.Pago provisional por utilidades absorbidas con derecho a devoluciÃ³n: Cuando las pÃ©rdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerarÃ¡ como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida. Aquella parte de este pago provisional que corresponda al IDPC que no haya sido cubierto con el crÃ©dito por IPE, podrÃ¡ ser objeto de reajustabilidad, imputaciÃ³n o devoluciÃ³n conforme a las normas de los artÃ­culos 93 al 97 de la LIR. Este pago provisional se imputarÃ¡ a continuaciÃ³n de aquel que no da derecho a devoluciÃ³n.
+ii.Pago provisional por utilidades absorbidas con derecho a devolución: Cuando las pérdidas absorban total o parcialmente las utilidades no retiradas o distribuidas, el IDPC pagado sobre dichas utilidades se considerará como pago provisional en aquella parte que proporcionalmente corresponda a la utilidad absorbida. Aquella parte de este pago provisional que corresponda al IDPC que no haya sido cubierto con el crédito por IPE, podrá ser objeto de reajustabilidad, imputación o devolución conforme a las normas de los artículos 93 al 97 de la LIR. Este pago provisional se imputará a continuación de aquel que no da derecho a devolución.
 
-A diferencia del caso anterior, este pago provisional siempre deberÃ¡ ser considerado por el contribuyente como la recuperaciÃ³n de un gasto o un incremento patrimonial, segÃºn corresponda.
+A diferencia del caso anterior, este pago provisional siempre deberá ser considerado por el contribuyente como la recuperación de un gasto o un incremento patrimonial, según corresponda.
 
-## 2.Control que deberÃ¡n mantener los contribuyentes.
+## 2.Control que deberán mantener los contribuyentes.
 
-Para la aplicaciÃ³n de las normas comentadas precedentemente, los contribuyentes obligados a determinar su renta efectiva segÃºn contabilidad completa, deberÃ¡n anotar separadamente en el Registro del Fondo de Utilidades Tributables (FUT), aquella parte del IDPC que no da derecho a devoluciÃ³n, ya sea como crÃ©dito o como pago provisional por utilidades absorbidas, producto de haberse imputado el crÃ©dito por IPE en contra del referido tributo.
+Para la aplicación de las normas comentadas precedentemente, los contribuyentes obligados a determinar su renta efectiva según contabilidad completa, deberán anotar separadamente en el Registro del Fondo de Utilidades Tributables (FUT), aquella parte del IDPC que no da derecho a devolución, ya sea como crédito o como pago provisional por utilidades absorbidas, producto de haberse imputado el crédito por IPE en contra del referido tributo.
 
-Para este efecto, a partir de la vigencia de estas disposiciones, al momento de incorporar la renta lÃ­quida imponible en el registro FUT, los contribuyentes deberÃ¡n anotar en columnas separadas, el crÃ©dito por IDPC que da derecho a devoluciÃ³n de aquel crÃ©dito por IDPC que no otorga tal derecho, ya sea para informarlo como crÃ©dito por concepto de dicho tributo al momento del retiro, remesa o distribuciÃ³n de dichas utilidades, o bien, como un pago provisional por utilidades absorbidas, segÃºn corresponda.
+Para este efecto, a partir de la vigencia de estas disposiciones, al momento de incorporar la renta líquida imponible en el registro FUT, los contribuyentes deberán anotar en columnas separadas, el crédito por IDPC que da derecho a devolución de aquel crédito por IDPC que no otorga tal derecho, ya sea para informarlo como crédito por concepto de dicho tributo al momento del retiro, remesa o distribución de dichas utilidades, o bien, como un pago provisional por utilidades absorbidas, según corresponda.
 
-De la misma manera deberÃ¡n proceder en caso de percibir utilidades, participaciones, reinversiones, dividendos u otras rentas o cantidades que deban registrarse en el FUT, de otros contribuyentes obligados a determinar su renta efectiva segÃºn contabilidad completa, cuyo IDPC haya sido solucionado, total o parcialmente, con el crÃ©dito por IPE.
+De la misma manera deberán proceder en caso de percibir utilidades, participaciones, reinversiones, dividendos u otras rentas o cantidades que deban registrarse en el FUT, de otros contribuyentes obligados a determinar su renta efectiva según contabilidad completa, cuyo IDPC haya sido solucionado, total o parcialmente, con el crédito por IPE.
 
-La anotaciÃ³n separada de los crÃ©ditos por IDPC no afectarÃ¡ el orden de imputaciÃ³n de los retiros o distribuciones de utilidades establecido en la letra d), del NÂ° 3, de la letra A), del artÃ­culo 14 de la LIR, asÃ­ como tampoco, la antigÃ¼edad que deba considerarse de las utilidades para estos efectos. En todo caso, el crÃ©dito por IDPC que corresponda sobre los retiros o distribuciones que se imputen a dichas utilidades se distribuirÃ¡ proporcionalmente considerando el crÃ©dito por IDPC con derecho y sin
+La anotación separada de los créditos por IDPC no afectará el orden de imputación de los retiros o distribuciones de utilidades establecido en la letra d), del N° 3, de la letra A), del artículo 14 de la LIR, así como tampoco, la antigüedad que deba considerarse de las utilidades para estos efectos. En todo caso, el crédito por IDPC que corresponda sobre los retiros o distribuciones que se imputen a dichas utilidades se distribuirá proporcionalmente considerando el crédito por IDPC con derecho y sin
 
-derecho a devoluciÃ³n, respectivamente, por sobre el total del crÃ©dito por IDPC que corresponda, de acuerdo a los tÃ©rminos descritos en el ejemplo expuesto en el ANEXO NÂ° 3 de esta Circular.
+derecho a devolución, respectivamente, por sobre el total del crédito por IDPC que corresponda, de acuerdo a los términos descritos en el ejemplo expuesto en el ANEXO N° 3 de esta Circular.
 
-Cabe seÃ±alar que a partir de la entrada en vigencia de esta modificaciÃ³n, los contribuyentes deberÃ¡n anotar separadamente los remanentes de crÃ©ditos por IDPC que registren en el FUT al 31.12.2011, distinguiendo entre la parte de dicho remanente de crÃ©dito por IDPC que da derecho a devoluciÃ³n de aquella parte que no otorga tal derecho, circunstancias que se acreditarÃ¡n fehacientemente ante este Servicio, en la instancia de fiscalizaciÃ³n respectiva.
+Cabe señalar que a partir de la entrada en vigencia de esta modificación, los contribuyentes deberán anotar separadamente los remanentes de créditos por IDPC que registren en el FUT al 31.12.2011, distinguiendo entre la parte de dicho remanente de crédito por IDPC que da derecho a devolución de aquella parte que no otorga tal derecho, circunstancias que se acreditarán fehacientemente ante este Servicio, en la instancia de fiscalización respectiva.
 
-En el ANEXO NÂ° 3 de esta Circular, se ejemplifica la forma de calcular el referido crÃ©dito por IDPC con derecho a devoluciÃ³n y sin derecho a devoluciÃ³n, asÃ­ como la forma en que deben registrarse en el FUT las rentas tributables, el crÃ©dito por IPE y el crÃ©dito por IDPC.
+En el ANEXO N° 3 de esta Circular, se ejemplifica la forma de calcular el referido crédito por IDPC con derecho a devolución y sin derecho a devolución, así como la forma en que deben registrarse en el FUT las rentas tributables, el crédito por IPE y el crédito por IDPC.
 
-## C) ImputaciÃ³n del crÃ©dito por IPE en el caso de servicios personales.
+## C) Imputación del crédito por IPE en el caso de servicios personales.
 
-La Ley modificÃ³ el inciso final, del artÃ­culo 41 C de la LIR, estableciendo que en la determinaciÃ³n del crÃ©dito por IPE, en el caso de contribuyentes que sin perder el domicilio o residencia en Chile, perciban rentas desde paÃ­ses con los cuales Chile haya suscrito convenios para evitar la doble tributaciÃ³n clasificadas en los nÃºmeros 1Â° o 2Â°, del artÃ­culo 42 de la LIR, serÃ¡ aplicable tambiÃ©n lo dispuesto en los nÃºmeros 1, 3, 4, 5, 6 y 7 de la letra D.- del artÃ­culo 41 A.
+La Ley modificó el inciso final, del artículo 41 C de la LIR, estableciendo que en la determinación del crédito por IPE, en el caso de contribuyentes que sin perder el domicilio o residencia en Chile, perciban rentas desde países con los cuales Chile haya suscrito convenios para evitar la doble tributación clasificadas en los números 1° o 2°, del artículo 42 de la LIR, será aplicable también lo dispuesto en los números 1, 3, 4, 5, 6 y 7 de la letra D.- del artículo 41 A.
 
-En concordancia con la modificaciÃ³n efectuada al artÃ­culo 41 A de la LIR, cabe seÃ±alar que los excedentes que resulten de la imputaciÃ³n del crÃ©dito por IPE al Impuesto Ãšnico de Segunda CategorÃ­a (IUSC) que resulte de la reliquidaciÃ³n anual de dicho tributo, en ningÃºn caso darÃ¡n derecho a devoluciÃ³n al contribuyente. Del mismo modo, en ningÃºn caso se tiene derecho a devoluciÃ³n de los excedentes que pudieran resultar en la imputaciÃ³n del crÃ©dito por IPE, tratÃ¡ndose de rentas del NÂ° 2, del artÃ­culo 42 de la LIR, por contribuyentes del IGC.
+En concordancia con la modificación efectuada al artículo 41 A de la LIR, cabe señalar que los excedentes que resulten de la imputación del crédito por IPE al Impuesto Único de Segunda Categoría (IUSC) que resulte de la reliquidación anual de dicho tributo, en ningún caso darán derecho a devolución al contribuyente. Del mismo modo, en ningún caso se tiene derecho a devolución de los excedentes que pudieran resultar en la imputación del crédito por IPE, tratándose de rentas del N° 2, del artículo 42 de la LIR, por contribuyentes del IGC.
 
-Al respecto, se informa que resultan aplicables las instrucciones dictadas con anterioridad por este Servicio, contenidas en la Circular NÂ° 25 de 2008.
+Al respecto, se informa que resultan aplicables las instrucciones dictadas con anterioridad por este Servicio, contenidas en la Circular N° 25 de 2008.
 
-## D) ModificaciÃ³n efectuada al artÃ­culo 41 B de la LIR.
+## D) Modificación efectuada al artículo 41 B de la LIR.
 
-La Ley eliminÃ³ el pÃ¡rrafo 2Â°, del NÂ° 3,- del artÃ­culo 41 B de la LIR, norma que establecÃ­a que lo dispuesto en los incisos 4Â° y 6Â° del artÃ­culo 21 de la LIR, sÃ³lo tenÃ­a aplicaciÃ³n respecto de sociedades de personas constituidas en Chile, materia comentada en la letra f), del CapÃ­tulo IV, de la Circular NÂ° 25 de 2008.
+La Ley eliminó el párrafo 2°, del N° 3,- del artículo 41 B de la LIR, norma que establecía que lo dispuesto en los incisos 4° y 6° del artículo 21 de la LIR, sólo tenía aplicación respecto de sociedades de personas constituidas en Chile, materia comentada en la letra f), del Capítulo IV, de la Circular N° 25 de 2008.
 
-En efecto, el inciso 4Â°, del artÃ­culo 21 de la LIR, de acuerdo a su texto vigente hasta el 31.12.2012, establecÃ­a que en el caso de sociedades anÃ³nimas que fueran socias de sociedades de personas, se aplicarÃ­a el impuesto del 35% a las partidas que debÃ­an considerarse retiradas de las sociedades de personas para los efectos de dicho impuesto, con exclusiÃ³n de los impuestos de Primera CategorÃ­a y Territorial, pagados, calculando el referido gravamen sobre la parte que correspondÃ­a a la sociedad anÃ³nima y rebajando como crÃ©dito el Impuesto de Primera CategorÃ­a que hubiera afectado a dichas partidas.
+En efecto, el inciso 4°, del artículo 21 de la LIR, de acuerdo a su texto vigente hasta el 31.12.2012, establecía que en el caso de sociedades anónimas que fueran socias de sociedades de personas, se aplicaría el impuesto del 35% a las partidas que debían considerarse retiradas de las sociedades de personas para los efectos de dicho impuesto, con exclusión de los impuestos de Primera Categoría y Territorial, pagados, calculando el referido gravamen sobre la parte que correspondía a la sociedad anónima y rebajando como crédito el Impuesto de Primera Categoría que hubiera afectado a dichas partidas.
 
-Por su parte, el inciso 6Â° del referido artÃ­culo 21, disponÃ­a que en el caso de cesiÃ³n o venta de derechos o cuotas que se tuvieran en sociedades de personas, sociedades de hecho o comunidades, las utilidades comprendidas en dicha cesiÃ³n o venta, o sea las que se encontraban en el FUT de la sociedad o comunidad, se gravarÃ­an cuando fueran retiradas, sin perjuicio de lo dispuesto en el inciso final del artÃ­culo 41 de la LIR.
+Por su parte, el inciso 6° del referido artículo 21, disponía que en el caso de cesión o venta de derechos o cuotas que se tuvieran en sociedades de personas, sociedades de hecho o comunidades, las utilidades comprendidas en dicha cesión o venta, o sea las que se encontraban en el FUT de la sociedad o comunidad, se gravarían cuando fueran retiradas, sin perjuicio de lo dispuesto en el inciso final del artículo 41 de la LIR.
 
-De acuerdo a lo que disponÃ­a con anterioridad el artÃ­culo 41 B de la LIR, lo establecido en las normas comentadas precedentemente, sÃ³lo podÃ­a ser aplicable cuando se tratara de sociedades de personas constituidas en Chile.
+De acuerdo a lo que disponía con anterioridad el artículo 41 B de la LIR, lo establecido en las normas comentadas precedentemente, sólo podía ser aplicable cuando se tratara de sociedades de personas constituidas en Chile.
 
-Al respecto, debe tenerse presente que la Ley reemplazÃ³ el artÃ­culo 21 de la LIR, modificÃ¡ndolo sustancialmente y eliminando el texto contenido en los anteriores incisos 4Â° y 6Â° de dicho artÃ­culo 26 .
+Al respecto, debe tenerse presente que la Ley reemplazó el artículo 21 de la LIR, modificándolo sustancialmente y eliminando el texto contenido en los anteriores incisos 4° y 6° de dicho artículo 26 .
 
-26 Las instrucciones sobre la modificaciÃ³n efectuada al artÃ­culo 21 de la LIR se encuentran contenidas en la Circular NÂ° 45 de 2013 de este Servicio.
+26 Las instrucciones sobre la modificación efectuada al artículo 21 de la LIR se encuentran contenidas en la Circular N° 45 de 2013 de este Servicio.
 
-El objetivo de la modificaciÃ³n que se comenta sÃ³lo ha sido concordar lo dispuesto en el artÃ­culo 41 B de la LIR, con la modificaciÃ³n introducida al artÃ­culo 21 de la misma ley, a partir del 1Â° de enero de 2013. En consecuencia, a partir de esa fecha, quedan sin efecto las instrucciones seÃ±aladas en la letra f), del CapÃ­tulo IV, de la Circular NÂ° 25 de 2008.
+El objetivo de la modificación que se comenta sólo ha sido concordar lo dispuesto en el artículo 41 B de la LIR, con la modificación introducida al artículo 21 de la misma ley, a partir del 1° de enero de 2013. En consecuencia, a partir de esa fecha, quedan sin efecto las instrucciones señaladas en la letra f), del Capítulo IV, de la Circular N° 25 de 2008.
 
-## E) ModificaciÃ³n efectuada al inciso final del artÃ­culo 84 de la LIR.
+## E) Modificación efectuada al inciso final del artículo 84 de la LIR.
 
-Con el objeto de excluir de la obligaciÃ³n de efectuar los pagos provisionales mensuales sobre los ingresos brutos correspondientes a rentas de fuente extranjera obtenidas desde paÃ­ses con los cuales Chile haya suscrito y se encuentre vigente un Convenio de Doble TributaciÃ³n, la Ley NÂ° 20.630, modificÃ³ 27 el inciso final del artÃ­culo 84, incorporando en Ã©sta la referencia al artÃ­culo 41 C de la LIR.
+Con el objeto de excluir de la obligación de efectuar los pagos provisionales mensuales sobre los ingresos brutos correspondientes a rentas de fuente extranjera obtenidas desde países con los cuales Chile haya suscrito y se encuentre vigente un Convenio de Doble Tributación, la Ley N° 20.630, modificó 27 el inciso final del artículo 84, incorporando en ésta la referencia al artículo 41 C de la LIR.
 
-Por lo tanto, a partir de la vigencia de esta modificaciÃ³n 28 no forman parte de los ingresos brutos para efectos de lo dispuesto en el artÃ­culo 84 de la LIR, las rentas de fuente extranjera a que se refiere el artÃ­culo 41 C de la LIR, incluyendo, por ejemplo los dividendos y retiros percibidos del exterior, o las rentas por asesorÃ­as prestadas fuera del paÃ­s, o en el caso de los profesionales independientes, las rentas percibidas del exterior que provengan del ejercicio de su profesiÃ³n liberal, etc.
+Por lo tanto, a partir de la vigencia de esta modificación 28 no forman parte de los ingresos brutos para efectos de lo dispuesto en el artículo 84 de la LIR, las rentas de fuente extranjera a que se refiere el artículo 41 C de la LIR, incluyendo, por ejemplo los dividendos y retiros percibidos del exterior, o las rentas por asesorías prestadas fuera del país, o en el caso de los profesionales independientes, las rentas percibidas del exterior que provengan del ejercicio de su profesión liberal, etc.
 
-## 4) EXENCIÃ“N DE IA SOBRE LAS CANTIDADES PAGADAS O ABONADAS EN CUENTA A CONTRIBUYENTES NO RESIDENTES NI DOMICILIADOS EN EL PAÃS, POR EL USO DE PROGRAMAS COMPUTACIONALES ESTÃNDAR, DE ACUERDO A LO ESTABLECIDO EN EL INCISO 1Â°, DEL ARTÃCULO 59 DE LA LIR.
+## 4) EXENCIÓN DE IA SOBRE LAS CANTIDADES PAGADAS O ABONADAS EN CUENTA A CONTRIBUYENTES NO RESIDENTES NI DOMICILIADOS EN EL PAÍS, POR EL USO DE PROGRAMAS COMPUTACIONALES ESTÁNDAR, DE ACUERDO A LO ESTABLECIDO EN EL INCISO 1°, DEL ARTÍCULO 59 DE LA LIR.
 
-La Ley modificÃ³ el inciso 1Â°, del artÃ­culo 59 de la LIR, a partir del 1Â° de enero de 2013, con el objeto de establecer una exenciÃ³n del IA que grava las cantidades que se paguen o abonen en cuenta a partir de esa fecha a contribuyentes no residentes ni domiciliados en el paÃ­s, por el uso de programas computacionales estÃ¡ndar, bajo el cumplimiento de los requisitos que la norma legal establece.
+La Ley modificó el inciso 1°, del artículo 59 de la LIR, a partir del 1° de enero de 2013, con el objeto de establecer una exención del IA que grava las cantidades que se paguen o abonen en cuenta a partir de esa fecha a contribuyentes no residentes ni domiciliados en el país, por el uso de programas computacionales estándar, bajo el cumplimiento de los requisitos que la norma legal establece.
 
-## 1.Alcance de esta modificaciÃ³n.
+## 1.Alcance de esta modificación.
 
-El inciso 1Â°, del artÃ­culo 59 de la LIR 29 , dispone entre otras normas que, se gravan con IA, con tasa del 15% o 30% segÃºn corresponda, las cantidades que se paguen, pongan a disposiciÃ³n o abonen en cuenta a personas sin domicilio ni residencia en el paÃ­s, por el uso, goce o explotaciÃ³n de programas computacionales, de acuerdo a la definiciÃ³n legal que se establece en dicha disposiciÃ³n legal.
+El inciso 1°, del artículo 59 de la LIR 29 , dispone entre otras normas que, se gravan con IA, con tasa del 15% o 30% según corresponda, las cantidades que se paguen, pongan a disposición o abonen en cuenta a personas sin domicilio ni residencia en el país, por el uso, goce o explotación de programas computacionales, de acuerdo a la definición legal que se establece en dicha disposición legal.
 
-Ahora bien, dentro de la citada definiciÃ³n legal se comprendÃ­an tambiÃ©n, con anterioridad a la modificaciÃ³n en comento, aquellos programas computacionales que tienen el carÃ¡cter de estÃ¡ndar, los cuales el legislador ha querido liberarlos del referido tributo.
+Ahora bien, dentro de la citada definición legal se comprendían también, con anterioridad a la modificación en comento, aquellos programas computacionales que tienen el carácter de estándar, los cuales el legislador ha querido liberarlos del referido tributo.
 
-## 2.Personas beneficiadas con la exenciÃ³n de IA.
+## 2.Personas beneficiadas con la exención de IA.
 
-Las personas que se benefician con la exenciÃ³n de IA establecido en el inciso 1Â°, del artÃ­culo 59 de la LIR, son aquellas que no tienen domicilio ni residencia en el paÃ­s, cualquiera que sea su calidad jurÃ­dica (personas naturales o jurÃ­dicas), sobre las cantidades que se les paguen, pongan a disposiciÃ³n o abonen en cuenta por el uso de programas computacionales estÃ¡ndar.
+Las personas que se benefician con la exención de IA establecido en el inciso 1°, del artículo 59 de la LIR, son aquellas que no tienen domicilio ni residencia en el país, cualquiera que sea su calidad jurídica (personas naturales o jurídicas), sobre las cantidades que se les paguen, pongan a disposición o abonen en cuenta por el uso de programas computacionales estándar.
 
 ## 3.Cantidades exentas del IA.
 
-Se encuentran exentas del IA conforme a la modificaciÃ³n legal analizada, las cantidades que se paguen, pongan a disposiciÃ³n o abonen en cuenta, a las personas indicadas en el NÂ° 2 precedente, por el uso de programas computacionales estÃ¡ndar bajo las condiciones que se analizan. Cabe seÃ±alar ademÃ¡s, que conforme a la historia fidedigna de la Ley, el legislador incorporÃ³ tambiÃ©n bajo este concepto la cesiÃ³n del uso de libros digitales.
+Se encuentran exentas del IA conforme a la modificación legal analizada, las cantidades que se paguen, pongan a disposición o abonen en cuenta, a las personas indicadas en el N° 2 precedente, por el uso de programas computacionales estándar bajo las condiciones que se analizan. Cabe señalar además, que conforme a la historia fidedigna de la Ley, el legislador incorporó también bajo este concepto la cesión del uso de libros digitales.
 
-De acuerdo con lo dispuesto por el inciso 1Â°, del artÃ­culo 59 de la LIR, se entiende por programas computacionales estÃ¡ndar, el conjunto de instrucciones para ser usados directa o indirectamente en
+De acuerdo con lo dispuesto por el inciso 1°, del artículo 59 de la LIR, se entiende por programas computacionales estándar, el conjunto de instrucciones para ser usados directa o indirectamente en
 
-27 SegÃºn lo dispuesto en el NÂ° 35), letra b), del artÃ­culo 1Â°, de la Ley NÂ° 20.630.
+27 Según lo dispuesto en el N° 35), letra b), del artículo 1°, de la Ley N° 20.630.
 
 28 Rige a partir del 1 de enero de 2013.
 
-29 Las instrucciones sobre la materia se encuentran contenidas en la Circular NÂ° 8 de 2007, publicada en la pÃ¡gina web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+29 Las instrucciones sobre la materia se encuentran contenidas en la Circular N° 8 de 2007, publicada en la página web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-un computador o procesador, a fin de efectuar u obtener un determinado proceso o resultado, contenidos en cassette, diskette, disco, cinta magnÃ©tica u otro soporte material o medio, todo ello de acuerdo con las definiciones o especificaciones tÃ©cnicas establecidas en la Ley NÂ° 17.336 de 1970, sobre Propiedad Intelectual y siempre que los derechos que se transfieran se limiten a los necesarios para permitir el uso del mismo y no su explotaciÃ³n comercial, ni su reproducciÃ³n o modificaciÃ³n con cualquier otro fin que no sea habilitarlo para su uso.
+un computador o procesador, a fin de efectuar u obtener un determinado proceso o resultado, contenidos en cassette, diskette, disco, cinta magnética u otro soporte material o medio, todo ello de acuerdo con las definiciones o especificaciones técnicas establecidas en la Ley N° 17.336 de 1970, sobre Propiedad Intelectual y siempre que los derechos que se transfieran se limiten a los necesarios para permitir el uso del mismo y no su explotación comercial, ni su reproducción o modificación con cualquier otro fin que no sea habilitarlo para su uso.
 
-De acuerdo a la disposiciÃ³n legal analizada, para calificar un programa computacional como estÃ¡ndar y en consecuencia goce de la exenciÃ³n del IA, Ã©ste debe cumplir con los siguientes requisitos:
+De acuerdo a la disposición legal analizada, para calificar un programa computacional como estándar y en consecuencia goce de la exención del IA, éste debe cumplir con los siguientes requisitos:
 
-a) Requisito de carÃ¡cter general en relaciÃ³n con el concepto de programas computacionales que establece la LIR, conforme a las definiciones y especificaciones tÃ©cnicas de la Ley NÂ° 17.336, sobre Propiedad Intelectual 30 .
+a) Requisito de carácter general en relación con el concepto de programas computacionales que establece la LIR, conforme a las definiciones y especificaciones técnicas de la Ley N° 17.336, sobre Propiedad Intelectual 30 .
 
-b) Requisito relacionado con el carÃ¡cter de estÃ¡ndar de los programas computacionales y el alcance de la transferencia o cesiÃ³n de derechos respecto de los referidos programas.
+b) Requisito relacionado con el carácter de estándar de los programas computacionales y el alcance de la transferencia o cesión de derechos respecto de los referidos programas.
 
-Al respecto, la LIR establece que debe tratarse de cantidades pagadas o abonadas en cuenta por la cesiÃ³n de los derechos necesarios sÃ³lo para el uso de los programas computacionales y no para su explotaciÃ³n comercial, reproducciÃ³n, o modificaciÃ³n con cualquier otro fin que no sea habilitarlo para el uso.
+Al respecto, la LIR establece que debe tratarse de cantidades pagadas o abonadas en cuenta por la cesión de los derechos necesarios sólo para el uso de los programas computacionales y no para su explotación comercial, reproducción, o modificación con cualquier otro fin que no sea habilitarlo para el uso.
 
-De allÃ­ que corresponda mÃ¡s bien a la instancia de fiscalizaciÃ³n respectiva, efectuar el anÃ¡lisis del alcance de la cesiÃ³n de derechos que se efectÃºe en cada situaciÃ³n particular, debiendo constatar para que opere la exenciÃ³n, que dicha cesiÃ³n sÃ³lo tiene por objeto el uso de los referidos programas y no permite:
+De allí que corresponda más bien a la instancia de fiscalización respectiva, efectuar el análisis del alcance de la cesión de derechos que se efectúe en cada situación particular, debiendo constatar para que opere la exención, que dicha cesión sólo tiene por objeto el uso de los referidos programas y no permite:
 
-i.La explotaciÃ³n comercial del programa computacional.
+i.La explotación comercial del programa computacional.
 
-ii.La reproducciÃ³n del programa computacional con cualquier otro fin, que no sea el de habilitarlo para su uso.
+ii.La reproducción del programa computacional con cualquier otro fin, que no sea el de habilitarlo para su uso.
 
-iii.La modificaciÃ³n de dicho programa computacional, con cualquier otro fin, que no sea el de habilitarlo para su uso.
+iii.La modificación de dicho programa computacional, con cualquier otro fin, que no sea el de habilitarlo para su uso.
 
-De conformidad a lo establecido por la norma general de vigencia de la Ley, contenida en su artÃ­culo 8Â°, la modificaciÃ³n analizada rige a contar del 01.01.2013. Por lo tanto, las cantidades que a partir de la fecha antes seÃ±alada se paguen, abonen en cuenta o se pongan a disposiciÃ³n de personas sin domicilio ni residencia en el paÃ­s por concepto de la cesiÃ³n o transferencia de los derechos de uso de programas computacionales estÃ¡ndar, incluidos en Ã©stos los denominados libros digitales, estarÃ¡n exentas de IA del 15% o 30%, segÃºn corresponda, establecido en el inciso 1Â°, del artÃ­culo 59 de la LIR, salvo que el IA respectivo se encuentre adeudado con anterioridad a la vigencia de esta norma, en conformidad a lo establecido en el artÃ­culo 82 de la LIR.
+De conformidad a lo establecido por la norma general de vigencia de la Ley, contenida en su artículo 8°, la modificación analizada rige a contar del 01.01.2013. Por lo tanto, las cantidades que a partir de la fecha antes señalada se paguen, abonen en cuenta o se pongan a disposición de personas sin domicilio ni residencia en el país por concepto de la cesión o transferencia de los derechos de uso de programas computacionales estándar, incluidos en éstos los denominados libros digitales, estarán exentas de IA del 15% o 30%, según corresponda, establecido en el inciso 1°, del artículo 59 de la LIR, salvo que el IA respectivo se encuentre adeudado con anterioridad a la vigencia de esta norma, en conformidad a lo establecido en el artículo 82 de la LIR.
 
-## 4.ExenciÃ³n del Impuesto al Valor Agregado que establece el NÂ° 7, de la letra E.-, del artÃ­culo 12 del D.L. 825 de 1974, en relaciÃ³n con la exenciÃ³n de IA por las cantidades pagadas o abonadas por el uso de programas computacionales estÃ¡ndar.
+## 4.Exención del Impuesto al Valor Agregado que establece el N° 7, de la letra E.-, del artículo 12 del D.L. 825 de 1974, en relación con la exención de IA por las cantidades pagadas o abonadas por el uso de programas computacionales estándar.
 
-La Ley modificÃ³ el NÂ° 7, de la letra E.-, del artÃ­culo 12 del D.L. 825 de 1974, incorporando una norma de excepciÃ³n a la exenciÃ³n de IVA establecida en dicha disposiciÃ³n legal, quedando de esta manera exentos del referido tributo los ingresos afectos al IA establecido en el artÃ­culo 59 de la LIR, salvo que se trate de servicios prestados en Chile y gocen de una exenciÃ³n de IA por aplicaciÃ³n de las leyes o de los convenios para evitar la doble imposiciÃ³n en Chile.
+La Ley modificó el N° 7, de la letra E.-, del artículo 12 del D.L. 825 de 1974, incorporando una norma de excepción a la exención de IVA establecida en dicha disposición legal, quedando de esta manera exentos del referido tributo los ingresos afectos al IA establecido en el artículo 59 de la LIR, salvo que se trate de servicios prestados en Chile y gocen de una exención de IA por aplicación de las leyes o de los convenios para evitar la doble imposición en Chile.
 
-En relaciÃ³n con el IVA, los programas computacionales son de aquellos que se encuentran especialmente protegidos por la Ley NÂ° 17.336 sobre Propiedad Intelectual, por lo que el otorgamiento remunerado de licencias que permiten el uso de Ã©stos, constituye como regla general, un hecho expresamente gravado con IVA, de acuerdo con lo dispuesto en la letra h), del artÃ­culo 8 del D.L. 825.
+En relación con el IVA, los programas computacionales son de aquellos que se encuentran especialmente protegidos por la Ley N° 17.336 sobre Propiedad Intelectual, por lo que el otorgamiento remunerado de licencias que permiten el uso de éstos, constituye como regla general, un hecho expresamente gravado con IVA, de acuerdo con lo dispuesto en la letra h), del artículo 8 del D.L. 825.
 
-30 Conforme a las instrucciones contenidas en Circular NÂ° 8 de 2007.
+30 Conforme a las instrucciones contenidas en Circular N° 8 de 2007.
 
-De las normas seÃ±aladas se concluye que si las sumas pagadas al exterior por el uso de programas computacionales estÃ¡ndar se encuentran exentas de IA, la aplicaciÃ³n de la exenciÃ³n de IVA contenida en el NÂ° 7, de la letra E.-, del artÃ­culo 12 del D.L. 825, queda supeditada al lugar donde se entiendan prestados los servicios remunerados por las referidas remesas al exterior.
+De las normas señaladas se concluye que si las sumas pagadas al exterior por el uso de programas computacionales estándar se encuentran exentas de IA, la aplicación de la exención de IVA contenida en el N° 7, de la letra E.-, del artículo 12 del D.L. 825, queda supeditada al lugar donde se entiendan prestados los servicios remunerados por las referidas remesas al exterior.
 
-AsÃ­ las cosas, si los servicios son prestados en Chile, dichas sumas se encuentran gravadas con IVA en virtud de la modificaciÃ³n incorporada al NÂ° 7, de la letra E.-, del referido artÃ­culo 12. Por el contrario, si los servicios son prestados en el extranjero y tan sÃ³lo utilizados en Chile, las remesas pagadas al exterior quedan exentas de IVA. De esta manera, debe determinarse si tales servicios son prestados en Chile o en el extranjero, y para ello, ha de considerarse que el inciso 2Â°, del artÃ­culo 5 del D.L. 825, seÃ±ala que 'se entenderÃ¡ que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independientemente del lugar donde Ã©ste se utilice'.
+Así las cosas, si los servicios son prestados en Chile, dichas sumas se encuentran gravadas con IVA en virtud de la modificación incorporada al N° 7, de la letra E.-, del referido artículo 12. Por el contrario, si los servicios son prestados en el extranjero y tan sólo utilizados en Chile, las remesas pagadas al exterior quedan exentas de IVA. De esta manera, debe determinarse si tales servicios son prestados en Chile o en el extranjero, y para ello, ha de considerarse que el inciso 2°, del artículo 5 del D.L. 825, señala que 'se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independientemente del lugar donde éste se utilice'.
 
-Ahora bien, cuando el servicio consiste en la cesiÃ³n del uso de programas computacionales estÃ¡ndar que serÃ¡n utilizados en Chile, tal cesiÃ³n sÃ³lo puede ser efectuada por el titular del derecho de autor, segÃºn lo dispuesto por el artÃ­culo 17 de la Ley NÂ° 17.336. Considerando que el derecho de autor nace por el sÃ³lo hecho de la creaciÃ³n de la obra, segÃºn dispone el artÃ­culo 1 de la referida ley, se concluye que la actividad que genera el servicio y por tanto la prestaciÃ³n, se produce en el lugar donde se encuentra domiciliado el titular del derecho, ya que es allÃ­ donde Ã©ste, como Ãºnico facultado para ceder el uso de su obra, efectÃºa mediante el licenciamiento de los programas computacionales la cesiÃ³n del uso de los mismos.
+Ahora bien, cuando el servicio consiste en la cesión del uso de programas computacionales estándar que serán utilizados en Chile, tal cesión sólo puede ser efectuada por el titular del derecho de autor, según lo dispuesto por el artículo 17 de la Ley N° 17.336. Considerando que el derecho de autor nace por el sólo hecho de la creación de la obra, según dispone el artículo 1 de la referida ley, se concluye que la actividad que genera el servicio y por tanto la prestación, se produce en el lugar donde se encuentra domiciliado el titular del derecho, ya que es allí donde éste, como único facultado para ceder el uso de su obra, efectúa mediante el licenciamiento de los programas computacionales la cesión del uso de los mismos.
 
-De acuerdo a lo anterior, en el caso de programas computacionales estÃ¡ndar cuya licencia de uso es otorgada en el extranjero, por encontrarse allÃ­ el domicilio del titular de dichas licencias, se entiende que el servicio es prestado en el exterior.
+De acuerdo a lo anterior, en el caso de programas computacionales estándar cuya licencia de uso es otorgada en el extranjero, por encontrarse allí el domicilio del titular de dichas licencias, se entiende que el servicio es prestado en el exterior.
 
-En consecuencia, las cantidades que se paguen o abonen en cuenta a contribuyentes no residentes ni domiciliados en el paÃ­s por el uso de programas computacionales estÃ¡ndar, que se encuentren exentos de IA en virtud de lo establecido en el inciso 1Â°, del artÃ­culo 59 de la LIR, se favorecen tambiÃ©n con la exenciÃ³n contenida en el NÂ° 7, de la letra E.-, del artÃ­culo 12 del D.L. 825, por tratarse de servicios prestados en el extranjero y no en Chile.
+En consecuencia, las cantidades que se paguen o abonen en cuenta a contribuyentes no residentes ni domiciliados en el país por el uso de programas computacionales estándar, que se encuentren exentos de IA en virtud de lo establecido en el inciso 1°, del artículo 59 de la LIR, se favorecen también con la exención contenida en el N° 7, de la letra E.-, del artículo 12 del D.L. 825, por tratarse de servicios prestados en el extranjero y no en Chile.
 
-## 5) TRIBUTACIÃ“N QUE AFECTA A LOS CHILENOS QUE NO TENGAN DOMICILIO NI RESIDENCIA EN CHILE, QUE PERCIBAN O DEVENGUEN RENTAS DE FUENTE CHILENA, A RAÃZ DE LA DEROGACIÃ“N DEL ARTÃCULO 61 DE LA LIR.
+## 5) TRIBUTACIÓN QUE AFECTA A LOS CHILENOS QUE NO TENGAN DOMICILIO NI RESIDENCIA EN CHILE, QUE PERCIBAN O DEVENGUEN RENTAS DE FUENTE CHILENA, A RAÍZ DE LA DEROGACIÓN DEL ARTÍCULO 61 DE LA LIR.
 
-La Ley modificÃ³ los artÃ­culos 58 NÂ° 1, 60, 61, 62, 63, 65 NÂ° 4 y 74 NÂ° 4 de la LIR, respectivamente, a partir del 1Â° de enero de 2013, con el objeto de eliminar la distinciÃ³n que efectuaba la LIR entre personas naturales extranjeras y los chilenos que no tuvieran domicilio ni residencia en el paÃ­s.
+La Ley modificó los artículos 58 N° 1, 60, 61, 62, 63, 65 N° 4 y 74 N° 4 de la LIR, respectivamente, a partir del 1° de enero de 2013, con el objeto de eliminar la distinción que efectuaba la LIR entre personas naturales extranjeras y los chilenos que no tuvieran domicilio ni residencia en el país.
 
-## A) DerogaciÃ³n del artÃ­culo 61 y modificaciÃ³n de los artÃ­culos 58 NÂ° 1 y 60 de la LIR.
+## A) Derogación del artículo 61 y modificación de los artículos 58 N° 1 y 60 de la LIR.
 
-La Ley derogÃ³ el artÃ­culo 61 de la LIR, que establecÃ­a la tributaciÃ³n con el IA que afectaba a los chilenos que residÃ­an en el extranjero y que no tenÃ­an domicilio en Chile. TambiÃ©n suprimiÃ³ en los artÃ­culos 58 NÂ° 1 y 60 de la LIR, la palabra 'extranjeras', quedando tambiÃ©n comprendidas bajo la tributaciÃ³n que establecen dichas normas, todas las personas naturales sin domicilio o residencia en el paÃ­s, sean Ã©stas chilenas o extranjeras.
+La Ley derogó el artículo 61 de la LIR, que establecía la tributación con el IA que afectaba a los chilenos que residían en el extranjero y que no tenían domicilio en Chile. También suprimió en los artículos 58 N° 1 y 60 de la LIR, la palabra 'extranjeras', quedando también comprendidas bajo la tributación que establecen dichas normas, todas las personas naturales sin domicilio o residencia en el país, sean éstas chilenas o extranjeras.
 
-En consecuencia, a contar del 1Â° de enero de 2013, las personas naturales chilenas sin domicilio ni residencia en el paÃ­s, quedan afectos a la tributaciÃ³n general del IA establecida en los artÃ­culos 58, 59 y 60 inciso 1Â° de la LIR, segÃºn corresponda, imposiciÃ³n que se aplicarÃ¡ de acuerdo al tipo de renta que dichas personas obtengan y conforme a lo establecido en cada uno de dichos preceptos legales, siendo aplicables en la especie, todas las instrucciones que este Servicio ha impartido sobre la materia.
+En consecuencia, a contar del 1° de enero de 2013, las personas naturales chilenas sin domicilio ni residencia en el país, quedan afectos a la tributación general del IA establecida en los artículos 58, 59 y 60 inciso 1° de la LIR, según corresponda, imposición que se aplicará de acuerdo al tipo de renta que dichas personas obtengan y conforme a lo establecido en cada uno de dichos preceptos legales, siendo aplicables en la especie, todas las instrucciones que este Servicio ha impartido sobre la materia.
 
-## B) ModificaciÃ³n de los artÃ­culos 62, 63, 65 NÂ° 4 y 74 NÂ° 4 de la LIR.
+## B) Modificación de los artículos 62, 63, 65 N° 4 y 74 N° 4 de la LIR.
 
-En concordancia con lo indicado en la letra A) anterior, la Ley modificÃ³ los artÃ­culos 62, 63 y 65 NÂ° 4 de la LIR y sustituyÃ³ el NÂ° 4, del artÃ­culo 74 de la misma ley, con el objeto de, entre otras materias, concordar el texto de dichas normas con la derogaciÃ³n del artÃ­culo 61 de la LIR y con la modificaciÃ³n del artÃ­culo 60 de la misma ley.
+En concordancia con lo indicado en la letra A) anterior, la Ley modificó los artículos 62, 63 y 65 N° 4 de la LIR y sustituyó el N° 4, del artículo 74 de la misma ley, con el objeto de, entre otras materias, concordar el texto de dichas normas con la derogación del artículo 61 de la LIR y con la modificación del artículo 60 de la misma ley.
 
-En efecto, con anterioridad a las modificaciones que se comentan, los artÃ­culos 62, 63, 65 NÂ° 4 y 74 NÂ° 4 de la LIR, hacÃ­an referencia a los artÃ­culos 60 y 61 de la misma ley. Ahora bien, producto de la derogaciÃ³n del artÃ­culo 61 y la incorporaciÃ³n al artÃ­culo 60 de todos los contribuyentes personas naturales sin domicilio residencia en el paÃ­s, la referencia legal debe efectuarse sÃ³lo a este Ãºltimo artÃ­culo, razÃ³n por la cual se han modificado todas las demÃ¡s normas seÃ±aladas, a objeto de mantener la debida coordinaciÃ³n de estas normas.
+En efecto, con anterioridad a las modificaciones que se comentan, los artículos 62, 63, 65 N° 4 y 74 N° 4 de la LIR, hacían referencia a los artículos 60 y 61 de la misma ley. Ahora bien, producto de la derogación del artículo 61 y la incorporación al artículo 60 de todos los contribuyentes personas naturales sin domicilio residencia en el país, la referencia legal debe efectuarse sólo a este último artículo, razón por la cual se han modificado todas las demás normas señaladas, a objeto de mantener la debida coordinación de estas normas.
 
-## 6) MODIFICACIONES EFECTUADAS A LOS ARTÃCULOS 37 Y 64 TER DE LA LIR, CON EL OBJETO DE CONCORDAR LAS MODIFICACIONES INTRODUCIDAS AL ARTÃCULO 38 Y LA INCORPORACIÃ“N DEL ARTÃCULO 41 E DE LA MISMA LEY.
+## 6) MODIFICACIONES EFECTUADAS A LOS ARTÍCULOS 37 Y 64 TER DE LA LIR, CON EL OBJETO DE CONCORDAR LAS MODIFICACIONES INTRODUCIDAS AL ARTÍCULO 38 Y LA INCORPORACIÓN DEL ARTÍCULO 41 E DE LA MISMA LEY.
 
-La Ley modificÃ³ los artÃ­culos 37 y 64 ter de la LIR, con el objeto de concordar dichas normas con la sustituciÃ³n del artÃ­culo 38 de la LIR y la incorporaciÃ³n del nuevo artÃ­culo 41 E a la misma ley.
+La Ley modificó los artículos 37 y 64 ter de la LIR, con el objeto de concordar dichas normas con la sustitución del artículo 38 de la LIR y la incorporación del nuevo artículo 41 E a la misma ley.
 
-En efecto, la Ley establece nuevas normas sobre precios de transferencia contenidas en el texto del anterior artÃ­culo 38, incorporÃ¡ndolas expresamente en el nuevo artÃ­culo 41 E de la LIR. En razÃ³n de lo anterior, resultÃ³ conveniente modificar tambiÃ©n los artÃ­culos 37 y 64 ter de la LIR, que hacÃ­an referencia a las normas sobre precios de transferencia contenidas en el artÃ­culo 38 de la ley del ramo.
+En efecto, la Ley establece nuevas normas sobre precios de transferencia contenidas en el texto del anterior artículo 38, incorporándolas expresamente en el nuevo artículo 41 E de la LIR. En razón de lo anterior, resultó conveniente modificar también los artículos 37 y 64 ter de la LIR, que hacían referencia a las normas sobre precios de transferencia contenidas en el artículo 38 de la ley del ramo.
 
-De acuerdo a lo dispuesto por el artÃ­culo 8Â° de la Ley, las modificaciones seÃ±aladas rigen a partir del 1Â° de enero de 2013, por lo que las referencias al artÃ­culo 38 que hacÃ­an los artÃ­culos 37 y 64 ter de la LIR, deben hacerse al nuevo artÃ­culo 41 E de la LIR, a partir de la fecha seÃ±alada.
+De acuerdo a lo dispuesto por el artículo 8° de la Ley, las modificaciones señaladas rigen a partir del 1° de enero de 2013, por lo que las referencias al artículo 38 que hacían los artículos 37 y 64 ter de la LIR, deben hacerse al nuevo artículo 41 E de la LIR, a partir de la fecha señalada.
 
 ## III.VIGENCIA DE LAS MODIFICACIONES LEGALES ANALIZADAS E INSTRUCCIONES IMPARTIDAS MEDIANTE ESTA CIRCULAR.
 
-1. Las modificaciones seÃ±aladas en el NÂ° 1), del CapÃ­tulo II.- de la presente Circular, que afectan a los artÃ­culos 10 y 58 NÂ° 3 de la LIR, rigen a contar de la fecha de publicaciÃ³n de la Ley NÂ° 20.630 en el Diario Oficial, es decir, a partir del 27 de septiembre de 2012. Por tanto, las enajenaciones que se efectÃºen de acuerdo a las normas de los incisos 3Â° y siguientes, del artÃ­culo 10 de la LIR, a partir de la fecha antes seÃ±alada, quedarÃ¡n afectas a la tributaciÃ³n establecida por el nuevo NÂ° 3, del artÃ­culo 58 de la LIR. Por su parte, las modificaciones efectuadas a los artÃ­culos 74 NÂ° 4 y 79 de la LIR analizadas mediante la Circular NÂ° 54 de 2013, en relaciÃ³n con las normas referidas anteriormente, rigen a contar del 1Â° de enero de 2013, razÃ³n por lo cual, antes de su entrada en vigencia, se aplicarÃ¡n las normas contenidas en los artÃ­culos 74 NÂ° 4 inciso 1Â° y 79 anteriores a su modificaciÃ³n, en todo lo que sea pertinente.
-2. Respecto de las modificaciones indicadas en el NÂ° 2), del CapÃ­tulo II.- de la presente Circular, que afectan a los artÃ­culos 38 y 58 NÂ° 1 de la LIR, rigen a contar del 1Â° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
-3. Las modificaciones seÃ±aladas en el NÂ° 3), del CapÃ­tulo II.- de la presente Circular, que afectan al pÃ¡rrafo 6Â°, del TÃ­tulo II de la LIR y a los artÃ­culos 41 A, 41 B y 41 C de la misma ley, rigen a contar del 1Â° de enero de 2013, afectando en consecuencia, a las devoluciones de IDPC e IUSC que se soliciten a partir del AÃ±o Tributario 2013.
-4. La modificaciÃ³n indicada en el NÂ° 4), del CapÃ­tulo II.- de la presente Circular, que afecta lo dispuesto en el inciso 1Â°, del artÃ­culo 59 de la LIR, rige a contar del 1Â° de enero de 2013, quedando por tanto exentas de IA de 15% o 30%, segÃºn corresponda, a partir de la fecha antes seÃ±alada, las cantidades que se paguen o se abonen en cuenta, sin deducciÃ³n alguna, a personas sin domicilio ni residencia en Chile por concepto de la cesiÃ³n o transferencia de los derechos de uso de los programas computacionales estÃ¡ndar, incluidos dentro de Ã©stos los denominados libros digitales, salvo que el IA respectivo se encuentre adeudado con anterioridad a la vigencia de esta norma, en conformidad a lo establecido en el artÃ­culo 82 de la LIR, en cuyo caso, igualmente se afectarÃ¡n con el citado tributo.
-5. Las modificaciones contenidas en el NÂ° 5), del CapÃ­tulo II.- de la presente Circular, que afectan a los artÃ­culos 58 NÂ° 1, 60, 61, 62, 63, 65 NÂ° 4 y 74 NÂ° 4 de la LIR, en las partes pertinentes, rigen a contar del 1Â° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
-6. Las modificaciones indicadas en el NÂ° 6), del CapÃ­tulo II.- de la presente Circular, referidas a los artÃ­culos 37 y 64 ter de la LIR, rigen a contar del 1Â° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
+1. Las modificaciones señaladas en el N° 1), del Capítulo II.- de la presente Circular, que afectan a los artículos 10 y 58 N° 3 de la LIR, rigen a contar de la fecha de publicación de la Ley N° 20.630 en el Diario Oficial, es decir, a partir del 27 de septiembre de 2012. Por tanto, las enajenaciones que se efectúen de acuerdo a las normas de los incisos 3° y siguientes, del artículo 10 de la LIR, a partir de la fecha antes señalada, quedarán afectas a la tributación establecida por el nuevo N° 3, del artículo 58 de la LIR. Por su parte, las modificaciones efectuadas a los artículos 74 N° 4 y 79 de la LIR analizadas mediante la Circular N° 54 de 2013, en relación con las normas referidas anteriormente, rigen a contar del 1° de enero de 2013, razón por lo cual, antes de su entrada en vigencia, se aplicarán las normas contenidas en los artículos 74 N° 4 inciso 1° y 79 anteriores a su modificación, en todo lo que sea pertinente.
+2. Respecto de las modificaciones indicadas en el N° 2), del Capítulo II.- de la presente Circular, que afectan a los artículos 38 y 58 N° 1 de la LIR, rigen a contar del 1° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
+3. Las modificaciones señaladas en el N° 3), del Capítulo II.- de la presente Circular, que afectan al párrafo 6°, del Título II de la LIR y a los artículos 41 A, 41 B y 41 C de la misma ley, rigen a contar del 1° de enero de 2013, afectando en consecuencia, a las devoluciones de IDPC e IUSC que se soliciten a partir del Año Tributario 2013.
+4. La modificación indicada en el N° 4), del Capítulo II.- de la presente Circular, que afecta lo dispuesto en el inciso 1°, del artículo 59 de la LIR, rige a contar del 1° de enero de 2013, quedando por tanto exentas de IA de 15% o 30%, según corresponda, a partir de la fecha antes señalada, las cantidades que se paguen o se abonen en cuenta, sin deducción alguna, a personas sin domicilio ni residencia en Chile por concepto de la cesión o transferencia de los derechos de uso de los programas computacionales estándar, incluidos dentro de éstos los denominados libros digitales, salvo que el IA respectivo se encuentre adeudado con anterioridad a la vigencia de esta norma, en conformidad a lo establecido en el artículo 82 de la LIR, en cuyo caso, igualmente se afectarán con el citado tributo.
+5. Las modificaciones contenidas en el N° 5), del Capítulo II.- de la presente Circular, que afectan a los artículos 58 N° 1, 60, 61, 62, 63, 65 N° 4 y 74 N° 4 de la LIR, en las partes pertinentes, rigen a contar del 1° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
+6. Las modificaciones indicadas en el N° 6), del Capítulo II.- de la presente Circular, referidas a los artículos 37 y 64 ter de la LIR, rigen a contar del 1° de enero de 2013, afectando en consecuencia, a las operaciones, transacciones o hechos ocurridos a partir de dicha fecha.
 
-Las instrucciones contenidas en la presente Circular relacionadas con las modificaciones legales seÃ±aladas, rigen a contar de su publicaciÃ³n en extracto en el Diario Oficial.
+Las instrucciones contenidas en la presente Circular relacionadas con las modificaciones legales señaladas, rigen a contar de su publicación en extracto en el Diario Oficial.
 
 Saluda a Ud.,
 
-## ALEJANDRO BURR ORTÃšZAR DIRECTOR
+## ALEJANDRO BURR ORTÚZAR DIRECTOR
 
-ANEXO NÂ° 1: Resumen de los hechos gravados establecidos en los incisos 3Â° y siguientes, del artÃ­culo 10 de la LIR.
+ANEXO N° 1: Resumen de los hechos gravados establecidos en los incisos 3° y siguientes, del artículo 10 de la LIR.
 
-ANEXO NÂ° 2: Ejemplo de la determinaciÃ³n de la renta o mayor valor afecto con IA, en la enajenaciÃ³n de tÃ­tulos extranjeros, en conformidad a lo dispuesto en los incisos 3Â° y siguientes, del artÃ­culo 10 y en el NÂ° 3, del artÃ­culo 58, ambos de la LIR.
+ANEXO N° 2: Ejemplo de la determinación de la renta o mayor valor afecto con IA, en la enajenación de títulos extranjeros, en conformidad a lo dispuesto en los incisos 3° y siguientes, del artículo 10 y en el N° 3, del artículo 58, ambos de la LIR.
 
-ANEXO NÂ° 3: Ejemplo de la forma de calcular el crÃ©dito por IDPC con derecho a devoluciÃ³n y sin derecho a devoluciÃ³n, asÃ­ como la forma en que deben registrarse en el FUT las rentas tributables y el crÃ©dito por IPE.
+ANEXO N° 3: Ejemplo de la forma de calcular el crédito por IDPC con derecho a devolución y sin derecho a devolución, así como la forma en que deben registrarse en el FUT las rentas tributables y el crédito por IPE.
 
-JARB/PCR/HGM/CCP DISTRIBUCIÃ“N: AL BOLETÃN A INTERNET AL DIARIO OFICIAL, EN EXTRACTO OFICINA DE GESTIÃ“N NORMATIVA
+JARB/PCR/HGM/CCP DISTRIBUCIÓN: AL BOLETÍN A INTERNET AL DIARIO OFICIAL, EN EXTRACTO OFICINA DE GESTIÓN NORMATIVA

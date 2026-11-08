@@ -1,49 +1,50 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 6 (2021)
-description: FIJA LISTA DE VALORES DE VEHÃCULOS MOTORIZADOS PARA LOS FINES QUE SEÃ‘ALA.
+---
+type: "SII Resolución"
+title: "Resolución N° 6 (2021)"
+description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2021, resolucion]
 ---
 
-## FIJA LISTA DE VALORES DE VEHÃCULOS MOTORIZADOS PARA LOS FINES QUE SEÃ‘ALA.
+
+## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA.
 
 SANTIAGO, 15 DE ENERO DE 2021
 
-RESOLUCIÃ“N EX. SII NÂ°6.-
+RESOLUCIÓN EX. SII N°6.-
 
 VISTOS:
 
-Lo dispuesto en el artÃ­culo 6Âº, letra A) NÂ° 1, del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº, del Decreto Ley NÂº 830, de 1974, el artÃ­culo 12Âº, letra a), del Decreto Ley NÂº 3.063, de 1979, sobre Rentas Municipales, y la Circular NÂ°66, de 2020.
+Lo dispuesto en el artículo 6º, letra A) N° 1, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales, y la Circular N°66, de 2020.
 
 .
 
 ## CONSIDERANDO:
 
-1.Que, el artÃ­culo 12Âº, letra a), del Decreto Ley NÂº 3.063, de 1979, sobre Rentas Municipales, establece un impuesto anual por permiso de circulaciÃ³n a los vehÃ­culos que indica, a beneficio municipal, que no podrÃ¡ ser inferior a media unidad tributaria mensual del mes de enero de cada aÃ±o, que se aplica conforme a una escala progresiva y acumulativa sobre su precio corriente en plaza.
+1.Que, el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales, establece un impuesto anual por permiso de circulación a los vehículos que indica, a beneficio municipal, que no podrá ser inferior a media unidad tributaria mensual del mes de enero de cada año, que se aplica conforme a una escala progresiva y acumulativa sobre su precio corriente en plaza.
 
-2.Que, se entenderÃ¡ como "precio corriente en plaza" de los respectivos vehÃ­culos, el que determine anualmente el Servicio de Impuestos Internos dentro de la primera quincena del mes de enero de cada aÃ±o, mediante una lista de las distintas marcas y modelos de vehÃ­culos motorizados usados, clasificados de acuerdo al aÃ±o de fabricaciÃ³n y con indicaciÃ³n, en cada caso, del precio corriente en plaza vigente a esa fecha, agregando que esta determinaciÃ³n, regirÃ¡ sin alteraciones durante el perÃ­odo de un aÃ±o, contado desde el dÃ­a 1Âº de febrero.
+2.Que, se entenderá como "precio corriente en plaza" de los respectivos vehículos, el que determine anualmente el Servicio de Impuestos Internos dentro de la primera quincena del mes de enero de cada año, mediante una lista de las distintas marcas y modelos de vehículos motorizados usados, clasificados de acuerdo al año de fabricación y con indicación, en cada caso, del precio corriente en plaza vigente a esa fecha, agregando que esta determinación, regirá sin alteraciones durante el período de un año, contado desde el día 1º de febrero.
 
-3.Que, conforme al inciso segundo de la letra a) del artÃ­culo 12 del D.L. NÂ° 3.063, el Servicio de Impuestos Internos, fijarÃ¡ el medio y la fecha en que se publicarÃ¡ la lista de marcas y modelos de vehÃ­culos motorizados usados, clasificados de acuerdo al aÃ±o de fabricaciÃ³n y con indicaciÃ³n, en cada caso.
+3.Que, conforme al inciso segundo de la letra a) del artículo 12 del D.L. N° 3.063, el Servicio de Impuestos Internos, fijará el medio y la fecha en que se publicará la lista de marcas y modelos de vehículos motorizados usados, clasificados de acuerdo al año de fabricación y con indicación, en cada caso.
 
 ## SE RESUELVE:
 
-1.FÃ­jese para el aÃ±o 2021 lista de valores de automÃ³viles y otros vehÃ­culos motorizados usados, segÃºn nÃ³mina que se publica como anexo en la forma dispuesta en el resolutivo 5Â°.
+1.Fíjese para el año 2021 lista de valores de automóviles y otros vehículos motorizados usados, según nómina que se publica como anexo en la forma dispuesta en el resolutivo 5°.
 
-2.Si el vehÃ­culo fuere del aÃ±o 2021 y tuviere la calidad de usado, su valor corriente en plaza serÃ¡ el que figure en la respectiva factura o en el respectivo contrato, sin deducir los impuestos del Decreto Ley NÂº 825, de 1974.
+2.Si el vehículo fuere del año 2021 y tuviere la calidad de usado, su valor corriente en plaza será el que figure en la respectiva factura o en el respectivo contrato, sin deducir los impuestos del Decreto Ley Nº 825, de 1974.
 
-TratÃ¡ndose de vehÃ­culos del mismo aÃ±o importados directamente, el valor corriente en plaza serÃ¡ el valor aduanero, o en su defecto, el valor CIF mÃ¡s los derechos aduaneros, y en las dos situaciones, agregando los impuestos del Decreto Ley NÂº 825, de 1974.
+Tratándose de vehículos del mismo año importados directamente, el valor corriente en plaza será el valor aduanero, o en su defecto, el valor CIF más los derechos aduaneros, y en las dos situaciones, agregando los impuestos del Decreto Ley Nº 825, de 1974.
 
-En ambos casos deberÃ¡ deducirse una depreciaciÃ³n del 5% elevando la cantidad que resulte a la centena que corresponda, cuando sea igual o superior a 50 pesos y despreciando la cantidad inferior. Una vez rebajada la depreciaciÃ³n, el valor corriente en plaza de los vehÃ­culos no podrÃ¡ ser inferior al valor del mismo modelo y caracterÃ­sticas del aÃ±o inmediatamente anterior, mÃ¡s un 10% de incremento.
+En ambos casos deberá deducirse una depreciación del 5% elevando la cantidad que resulte a la centena que corresponda, cuando sea igual o superior a 50 pesos y despreciando la cantidad inferior. Una vez rebajada la depreciación, el valor corriente en plaza de los vehículos no podrá ser inferior al valor del mismo modelo y características del año inmediatamente anterior, más un 10% de incremento.
 
-3.En el caso de los vehÃ­culos que no figuren en la lista de valores, corresponderÃ¡ a las Unidades del Servicio determinar su valor, cuando se les solicite y sin perjuicio de la facultad del Director de TrÃ¡nsito contenida en la Ley de Rentas Municipales, asimilÃ¡ndolos a aquellos vehÃ­culos que aparezcan en dicha lista, que reÃºnan similares caracterÃ­sticas tales como marca, modelo, aÃ±o de fabricaciÃ³n, capacidad de carga o pasajeros, etc, conforme las instrucciones establecidas en la Circular NÂ°66, de 2020, de este Servicio. .
+3.En el caso de los vehículos que no figuren en la lista de valores, corresponderá a las Unidades del Servicio determinar su valor, cuando se les solicite y sin perjuicio de la facultad del Director de Tránsito contenida en la Ley de Rentas Municipales, asimilándolos a aquellos vehículos que aparezcan en dicha lista, que reúnan similares características tales como marca, modelo, año de fabricación, capacidad de carga o pasajeros, etc, conforme las instrucciones establecidas en la Circular N°66, de 2020, de este Servicio. .
 
-4.Para los efectos de lo establecido en el Decreto Ley NÂº 3.063, de 1979, la lista anexa regirÃ¡ desde el 1 febrero de 2021.
+4.Para los efectos de lo establecido en el Decreto Ley Nº 3.063, de 1979, la lista anexa regirá desde el 1 febrero de 2021.
 
-5.PublÃ­quese el listado anexo a esta ResoluciÃ³n, en la pÃ¡gina Web de la empresa El Mercurio S.A.P., Emol.com.
+5.Publíquese el listado anexo a esta Resolución, en la página Web de la empresa El Mercurio S.A.P., Emol.com.
 
-Este listado se publicarÃ¡ adicionalmente en el sitio Web del Servicio de Impuestos Internos: [<u>www.sii.cl</u>](http://www.sii.cl).
+Este listado se publicará adicionalmente en el sitio Web del Servicio de Impuestos Internos: [<u>www.sii.cl</u>](http://www.sii.cl).
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
@@ -51,7 +52,7 @@ Este listado se publicarÃ¡ adicionalmente en el sitio Web del Servicio de Impu
 
 <unknown>
 
-DistribuciÃ³n:
+Distribución:
 
 * Internet
 * Diario Oficial en extracto

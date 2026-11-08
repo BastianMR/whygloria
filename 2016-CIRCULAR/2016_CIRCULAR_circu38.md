@@ -1,155 +1,156 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 38 (2016)
-description: DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N DE AVALUACIONES | CIRCULAR NÂº 38.- |
+---
+type: "SII Circular"
+title: "Circular N° 38 (2016)"
+description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 38.- |"
 tags: [SII, 2016, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N DE AVALUACIONES** | **CIRCULAR NÂº 38.-** |
+
+| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 05 de julio de 2016.- |
-| MATERIA: ACTUALIZA E IMPARTE INSTRUCCIONES SOBRE PROCEDIMIENTO DE EMISIÃ“N DE LOS CERTIFICADOS DE AVALÃšO FISCAL Y DEROGA CIRCULARES NÂ°S 58, DE 1996 Y 52, DE 1999. | REFERENCIA: CIRCULAR NÂ° 52, DE 09.09.1999. CIRCULAR NÂ° 58, DE 14.10.1996. |
+| MATERIA: ACTUALIZA E IMPARTE INSTRUCCIONES SOBRE PROCEDIMIENTO DE EMISIÓN DE LOS CERTIFICADOS DE AVALÚO FISCAL Y DEROGA CIRCULARES N°S 58, DE 1996 Y 52, DE 1999. | REFERENCIA: CIRCULAR N° 52, DE 09.09.1999. CIRCULAR N° 58, DE 14.10.1996. |
 
-## INTRODUCCIÃ“N
+## INTRODUCCIÓN
 
-Por la presente Circular se imparten instrucciones relativas al Proceso de EmisiÃ³n de los Certificados de AvalÃºo Fiscal de los Bienes RaÃ­ces, otorgados en las Oficinas del Servicio de Impuestos Internos, con el objeto de agilizar y mejorar la atenciÃ³n a los contribuyentes para la obtenciÃ³n de dichos documentos.
+Por la presente Circular se imparten instrucciones relativas al Proceso de Emisión de los Certificados de Avalúo Fiscal de los Bienes Raíces, otorgados en las Oficinas del Servicio de Impuestos Internos, con el objeto de agilizar y mejorar la atención a los contribuyentes para la obtención de dichos documentos.
 
 ## 1 ANTECEDENTES
 
-El Servicio de Impuestos Internos otorga una importante cantidad de Certificados de AvalÃºo Fiscal en sus Oficinas, por lo que se estima necesario optimizar su obtenciÃ³n y entrega mediante nuevos procedimientos, con la finalidad de otorgar una atenciÃ³n mÃ¡s expedita a los contribuyentes, estandarizando su formato y procedimiento de emisiÃ³n, mediante sistemas computacionales.
+El Servicio de Impuestos Internos otorga una importante cantidad de Certificados de Avalúo Fiscal en sus Oficinas, por lo que se estima necesario optimizar su obtención y entrega mediante nuevos procedimientos, con la finalidad de otorgar una atención más expedita a los contribuyentes, estandarizando su formato y procedimiento de emisión, mediante sistemas computacionales.
 
-AsÃ­ las cosas, el documento expedido por este Servicio que informe el AvalÃºo Fiscal de un predio, se denominarÃ¡ 'Certificado de AvalÃºo Fiscal', y podrÃ¡ ser requerido en forma presencial, o de manera online desde la pÃ¡gina web sii.cl; tendrÃ¡ un formato Ãºnico, a diferencia de los Certificados de AvalÃºo Fiscal Especial o aquellos que informen de alguna situaciÃ³n particular del inmueble.
+Así las cosas, el documento expedido por este Servicio que informe el Avalúo Fiscal de un predio, se denominará 'Certificado de Avalúo Fiscal', y podrá ser requerido en forma presencial, o de manera online desde la página web sii.cl; tendrá un formato único, a diferencia de los Certificados de Avalúo Fiscal Especial o aquellos que informen de alguna situación particular del inmueble.
 
-Cabe hacer presente que el AvalÃºo Fiscal informado no representa una estimaciÃ³n del valor comercial del bien raÃ­z, dado que ha sido determinado segÃºn procedimientos de tasaciÃ³n fiscal que son especÃ­ficos para el cÃ¡lculo del Impuesto Territorial.
+Cabe hacer presente que el Avalúo Fiscal informado no representa una estimación del valor comercial del bien raíz, dado que ha sido determinado según procedimientos de tasación fiscal que son específicos para el cálculo del Impuesto Territorial.
 
-Es importante mencionar que mediante ResoluciÃ³n Exenta SII NÂ° 57, de fecha 22 de junio de 2016, se derogÃ³ la ResoluciÃ³n Exenta SII NÂ° 5.941 de fecha 02.09.1999, que fijaba el cobro por la emisiÃ³n de Certificados de AvalÃºo Fiscal otorgados en oficina, por lo que a partir de 01 de julio 2016, Ã©stos se entregarÃ¡n de manera gratuita.
+Es importante mencionar que mediante Resolución Exenta SII N° 57, de fecha 22 de junio de 2016, se derogó la Resolución Exenta SII N° 5.941 de fecha 02.09.1999, que fijaba el cobro por la emisión de Certificados de Avalúo Fiscal otorgados en oficina, por lo que a partir de 01 de julio 2016, éstos se entregarán de manera gratuita.
 
-## 2 CLASIFICACIÃ“N Y TIPOS DE CERTIFICADOS DE AVALÃšO FISCAL
+## 2 CLASIFICACIÓN Y TIPOS DE CERTIFICADOS DE AVALÚO FISCAL
 
-El Certificado de AvalÃºo Fiscal es un documento emitido por el Servicio de Impuestos Internos por el cual se informa el AvalÃºo Fiscal de una propiedad, junto con otra informaciÃ³n del inmueble, tal como nÃºmero de Rol de AvalÃºo, direcciÃ³n o nombre del predio, nombre de la persona natural o jurÃ­dica registrada en el Catastro de los Bienes RaÃ­ces del Servicio de Impuestos Internos, que se
+El Certificado de Avalúo Fiscal es un documento emitido por el Servicio de Impuestos Internos por el cual se informa el Avalúo Fiscal de una propiedad, junto con otra información del inmueble, tal como número de Rol de Avalúo, dirección o nombre del predio, nombre de la persona natural o jurídica registrada en el Catastro de los Bienes Raíces del Servicio de Impuestos Internos, que se
 
-encuentra disponible a la fecha de su emisiÃ³n. Adicionalmente se le puede incorporar informaciÃ³n complementaria acerca de la determinaciÃ³n del Impuesto Territorial u otros datos registrados en el catastro.
+encuentra disponible a la fecha de su emisión. Adicionalmente se le puede incorporar información complementaria acerca de la determinación del Impuesto Territorial u otros datos registrados en el catastro.
 
-Los Certificados de AvalÃºo Fiscal segÃºn sus caracterÃ­sticas y formatos se han clasificado en dos grupos 'Certificados de AvalÃºo Fiscal Corrientes' y 'Certificados de AvalÃºo Fiscal Especiales', tal como se describen a continuaciÃ³n:
+Los Certificados de Avalúo Fiscal según sus características y formatos se han clasificado en dos grupos 'Certificados de Avalúo Fiscal Corrientes' y 'Certificados de Avalúo Fiscal Especiales', tal como se describen a continuación:
 
-## a) Certificados de AvalÃºo Fiscal Corrientes:
+## a) Certificados de Avalúo Fiscal Corrientes:
 
-Este tipo de documento es generado con la informaciÃ³n disponible en el Catastro de Bienes RaÃ­ces al momento de la consulta o emisiÃ³n del documento y se comprenden los siguientes:
+Este tipo de documento es generado con la información disponible en el Catastro de Bienes Raíces al momento de la consulta o emisión del documento y se comprenden los siguientes:
 
-* Certificado de AvalÃºo Fiscal Simple
-* Certificado de AvalÃºo Fiscal Simple (con datos del propietario registrado en el SII)
-* Certificado de AvalÃºo Fiscal Detallado I Serie (Bien RaÃ­z AgrÃ­cola)
-* Certificado de AvalÃºo Fiscal Detallado II Serie (Bien RaÃ­z No AgrÃ­cola)
-* Certificado de AvalÃºo Fiscal de PerÃ­odos Anteriores (TrÃ¡mites de PosesiÃ³n Efectiva)
+* Certificado de Avalúo Fiscal Simple
+* Certificado de Avalúo Fiscal Simple (con datos del propietario registrado en el SII)
+* Certificado de Avalúo Fiscal Detallado I Serie (Bien Raíz Agrícola)
+* Certificado de Avalúo Fiscal Detallado II Serie (Bien Raíz No Agrícola)
+* Certificado de Avalúo Fiscal de Períodos Anteriores (Trámites de Posesión Efectiva)
 
-## b) Certificados de AvalÃºo Fiscal Especiales:
+## b) Certificados de Avalúo Fiscal Especiales:
 
-Son aquellos documentos en los que se informan opcionalmente, avalÃºo proporcional, caracterÃ­sticas referidas a la vigencia de la actualizaciÃ³n catastral, o Certificados de AvalÃºo Fiscal Corrientes que incluyen informaciÃ³n complementaria, distinta de actualizaciones de nombre de propietario registrado y/o direcciÃ³n o nombre del predio. Se requiere de informaciÃ³n aportada por el contribuyente. En este tipo de certificados se comprenden los siguientes:
+Son aquellos documentos en los que se informan opcionalmente, avalúo proporcional, características referidas a la vigencia de la actualización catastral, o Certificados de Avalúo Fiscal Corrientes que incluyen información complementaria, distinta de actualizaciones de nombre de propietario registrado y/o dirección o nombre del predio. Se requiere de información aportada por el contribuyente. En este tipo de certificados se comprenden los siguientes:
 
-* Certificado de AvalÃºo Fiscal Provisional
-* Certificado de AvalÃºo Fiscal Proporcional
-* Certificado de AvalÃºo Fiscal Corriente con InformaciÃ³n Complementaria
+* Certificado de Avalúo Fiscal Provisional
+* Certificado de Avalúo Fiscal Proporcional
+* Certificado de Avalúo Fiscal Corriente con Información Complementaria
 
-## 2.1. INFORMACIÃ“N CONTENIDA EN LOS CERTIFICADOS DE AVALÃšO FISCAL CORRIENTES
+## 2.1. INFORMACIÓN CONTENIDA EN LOS CERTIFICADOS DE AVALÚO FISCAL CORRIENTES
 
-## 2.1.1. Certificado de AvalÃºo Fiscal Simple
+## 2.1.1. Certificado de Avalúo Fiscal Simple
 
-Es aquel que informa el AvalÃºo Fiscal vigente de un predio determinado, e incluye nÃºmero de rol de avalÃºo, nombre de la comuna, direcciÃ³n o nombre del bien raÃ­z, destino del bien raÃ­z, avalÃºo total, avalÃºo exento de impuesto y avalÃºo afecto a impuesto, cuando correspondiere, actualizado a la fecha de su emisiÃ³n.
+Es aquel que informa el Avalúo Fiscal vigente de un predio determinado, e incluye número de rol de avalúo, nombre de la comuna, dirección o nombre del bien raíz, destino del bien raíz, avalúo total, avalúo exento de impuesto y avalúo afecto a impuesto, cuando correspondiere, actualizado a la fecha de su emisión.
 
-## 2.1.2. Certificado de AvalÃºo Fiscal Simple (con datos del propietario registrado en el SII)
+## 2.1.2. Certificado de Avalúo Fiscal Simple (con datos del propietario registrado en el SII)
 
-Es aquel que informa el AvalÃºo Fiscal vigente de un predio determinado, incluyendo nombre de la comuna, nÃºmero de rol de avalÃºo, direcciÃ³n o nombre del bien raÃ­z, destino del bien raÃ­z, nombre y Run o Rut de la persona natural o jurÃ­dica registrada en el catastro de bienes raÃ­ces, avalÃºo total, avalÃºo exento de
+Es aquel que informa el Avalúo Fiscal vigente de un predio determinado, incluyendo nombre de la comuna, número de rol de avalúo, dirección o nombre del bien raíz, destino del bien raíz, nombre y Run o Rut de la persona natural o jurídica registrada en el catastro de bienes raíces, avalúo total, avalúo exento de
 
-impuesto y avalÃºo afecto a impuesto, cuando correspondiere, actualizado a la fecha de su emisiÃ³n.
+impuesto y avalúo afecto a impuesto, cuando correspondiere, actualizado a la fecha de su emisión.
 
-## 2.1.3. Certificado de AvalÃºo Fiscal Detallado I Serie (Bien RaÃ­z AgrÃ­cola)
+## 2.1.3. Certificado de Avalúo Fiscal Detallado I Serie (Bien Raíz Agrícola)
 
-Es aquel que informa el AvalÃºo Fiscal Detallado y vigente de un predio agrÃ­cola, e incluye nombre de la comuna, nÃºmero de rol de avalÃºo, direcciÃ³n o nombre del bien raÃ­z, destino del bien raÃ­z, nombre y Run o Rut de la persona registrada en el catastro de bienes raÃ­ces, avalÃºo del suelo, avalÃºo de las construcciones, avalÃºo total, avalÃºo exento de impuesto, avalÃºo afecto a impuesto, cuando correspondiere, superficie de suelo, superficie de las construcciones, actualizado a la fecha de su emisiÃ³n.
+Es aquel que informa el Avalúo Fiscal Detallado y vigente de un predio agrícola, e incluye nombre de la comuna, número de rol de avalúo, dirección o nombre del bien raíz, destino del bien raíz, nombre y Run o Rut de la persona registrada en el catastro de bienes raíces, avalúo del suelo, avalúo de las construcciones, avalúo total, avalúo exento de impuesto, avalúo afecto a impuesto, cuando correspondiere, superficie de suelo, superficie de las construcciones, actualizado a la fecha de su emisión.
 
-AdemÃ¡s, en el anexo que es parte integrante del documento, se indica por separado:
+Además, en el anexo que es parte integrante del documento, se indica por separado:
 
-a. InformaciÃ³n del AvalÃºo de las lÃ­neas de suelo: se describe el detalle de las lÃ­neas de suelos registradas segÃºn clase de suelo, sector, condiciÃ³n de exenciÃ³n cuando correspondiere, superficie expresada en hectÃ¡reas, y avalÃºo fiscal de la lÃ­nea de suelo vigente.
+a. Información del Avalúo de las líneas de suelo: se describe el detalle de las líneas de suelos registradas según clase de suelo, sector, condición de exención cuando correspondiere, superficie expresada en hectáreas, y avalúo fiscal de la línea de suelo vigente.
 
-b. InformaciÃ³n del Tipo de camino, distancia, % de ajuste y avalÃºo corregido.
+b. Información del Tipo de camino, distancia, % de ajuste y avalúo corregido.
 
-c. InformaciÃ³n sobre las construcciones: se indica el detalle de las lÃ­neas de construcciones, incluyendo, clase, calidad, aÃ±o de construcciÃ³n, destino de la construcciÃ³n, condiciÃ³n especial cuando correspondiere, la superficie expresada en metros cuadrados o metros cÃºbicos y su avalÃºo fiscal de la lÃ­nea de construcciÃ³n vigente.
+c. Información sobre las construcciones: se indica el detalle de las líneas de construcciones, incluyendo, clase, calidad, año de construcción, destino de la construcción, condición especial cuando correspondiere, la superficie expresada en metros cuadrados o metros cúbicos y su avalúo fiscal de la línea de construcción vigente.
 
-## 2.1.4. Certificado de AvalÃºo Fiscal Detallado II Serie (Bien RaÃ­z No AgrÃ­cola)
+## 2.1.4. Certificado de Avalúo Fiscal Detallado II Serie (Bien Raíz No Agrícola)
 
-Es aquel que informa el AvalÃºo Fiscal Detallado y vigente de un predio no agrÃ­cola, e incluye nombre de la comuna, nÃºmero de rol de avalÃºo, direcciÃ³n o nombre del bien raÃ­z, destino del bien raÃ­z, nombre, Run o Rut de la persona natural o jurÃ­dica registrada en el catastro de bienes raÃ­ces, avalÃºo del terreno, avalÃºo de las construcciones, avalÃºo total, avalÃºo exento de impuesto, avalÃºo afecto a impuesto, cuando correspondiere, superficie de terreno y superficie de las construcciones, actualizado a la fecha de su emisiÃ³n.
+Es aquel que informa el Avalúo Fiscal Detallado y vigente de un predio no agrícola, e incluye nombre de la comuna, número de rol de avalúo, dirección o nombre del bien raíz, destino del bien raíz, nombre, Run o Rut de la persona natural o jurídica registrada en el catastro de bienes raíces, avalúo del terreno, avalúo de las construcciones, avalúo total, avalúo exento de impuesto, avalúo afecto a impuesto, cuando correspondiere, superficie de terreno y superficie de las construcciones, actualizado a la fecha de su emisión.
 
 Asimismo, en anexo que es parte integrante del documento, se indica por separado:
 
-a. InformaciÃ³n del avalÃºo fiscal de los Bienes Comunes para propiedades acogidas a la Ley NÂ° 19.537, sobre Copropiedad Inmobiliaria: se incluye nÃºmero de rol de bien comÃºn, tipo de copropiedad, avalÃºo total bien comÃºn, porcentaje de prorrateo y avalÃºo prorrateado vigente.
+a. Información del avalúo fiscal de los Bienes Comunes para propiedades acogidas a la Ley N° 19.537, sobre Copropiedad Inmobiliaria: se incluye número de rol de bien común, tipo de copropiedad, avalúo total bien común, porcentaje de prorrateo y avalúo prorrateado vigente.
 
-b. InformaciÃ³n del avalÃºo fiscal del terreno: se incluye el detalle de las lÃ­neas de terrenos registrados, expresados en metros cuadrados, su avalÃºo unitario y avalÃºo total de cada lÃ­nea de terreno.
+b. Información del avalúo fiscal del terreno: se incluye el detalle de las líneas de terrenos registrados, expresados en metros cuadrados, su avalúo unitario y avalúo total de cada línea de terreno.
 
-c. InformaciÃ³n sobre el avalÃºo fiscal de las construcciones: se incluye el detalle de las lÃ­neas de construcciones registradas, conteniendo clase, calidad, la superficie o volumen, expresada en metros cuadrados o metros cÃºbicos respectivamente, aÃ±o de construcciÃ³n, y su avalÃºo vigente.
+c. Información sobre el avalúo fiscal de las construcciones: se incluye el detalle de las líneas de construcciones registradas, conteniendo clase, calidad, la superficie o volumen, expresada en metros cuadrados o metros cúbicos respectivamente, año de construcción, y su avalúo vigente.
 
-## 2.1.5 Certificado de AvalÃºo Fiscal de PerÃ­odos Anteriores (TrÃ¡mites de PosesiÃ³n Efectiva)
+## 2.1.5 Certificado de Avalúo Fiscal de Períodos Anteriores (Trámites de Posesión Efectiva)
 
-Es aquel que informa el AvalÃºo Fiscal de un predio determinado a un semestre y aÃ±o anterior al actual, y que indica, ademÃ¡s, nombre de la comuna, nÃºmero de rol de avalÃºo, direcciÃ³n o nombre y destino del bien raÃ­z.
+Es aquel que informa el Avalúo Fiscal de un predio determinado a un semestre y año anterior al actual, y que indica, además, nombre de la comuna, número de rol de avalúo, dirección o nombre y destino del bien raíz.
 
-## 2.2. INFORMACIÃ“N CONTENIDA EN LOS CERTIFICADOS DE AVALÃšO FISCAL ESPECIALES
+## 2.2. INFORMACIÓN CONTENIDA EN LOS CERTIFICADOS DE AVALÚO FISCAL ESPECIALES
 
-Son aquellos que requieren informaciÃ³n que debe ser procesada o de datos aportados por el contribuyente.
+Son aquellos que requieren información que debe ser procesada o de datos aportados por el contribuyente.
 
-## 2.2.1 . Certificado de AvalÃºo Fiscal Provisional
+## 2.2.1 . Certificado de Avalúo Fiscal Provisional
 
-Es aquel que se emite para predios que se encuentren en proceso de inclusiÃ³n o de actualizaciÃ³n en la Base Catastral de Bienes RaÃ­ces, en cuyo documento se incluye a lo menos, la identificaciÃ³n del bien raÃ­z, identificaciÃ³n de la persona natural o jurÃ­dica acreditada como propietario del bien raÃ­z, avalÃºo provisional y, tipo y vigencia de la actualizaciÃ³n en proceso.
+Es aquel que se emite para predios que se encuentren en proceso de inclusión o de actualización en la Base Catastral de Bienes Raíces, en cuyo documento se incluye a lo menos, la identificación del bien raíz, identificación de la persona natural o jurídica acreditada como propietario del bien raíz, avalúo provisional y, tipo y vigencia de la actualización en proceso.
 
-Se entiende que un predio estÃ¡ en proceso de actualizaciÃ³n en la Base Catastral de Bienes RaÃ­ces, cuando el Departamento o Unidad de Avaluaciones ha resuelto la solicitud de actualizaciÃ³n y se encuentra en trÃ¡mite su notificaciÃ³n.
+Se entiende que un predio está en proceso de actualización en la Base Catastral de Bienes Raíces, cuando el Departamento o Unidad de Avaluaciones ha resuelto la solicitud de actualización y se encuentra en trámite su notificación.
 
-## 2.2.2. Certificado de AvalÃºo Fiscal Proporcional
+## 2.2.2. Certificado de Avalúo Fiscal Proporcional
 
-Es aquel que se emite en los casos en que se requiere informaciÃ³n del avalÃºo fiscal de una parte del predio, segÃºn lo indicado por el solicitante y a lo menos debe incluir, ademÃ¡s de la identificaciÃ³n del bien raÃ­z, la descripciÃ³n de las superficies, de suelos y/o construcciones, de las cuales se requiere el avalÃºo proporcional, el avalÃºo proporcional de cada una de ellas y, la superficie y avalÃºo total del predio.
+Es aquel que se emite en los casos en que se requiere información del avalúo fiscal de una parte del predio, según lo indicado por el solicitante y a lo menos debe incluir, además de la identificación del bien raíz, la descripción de las superficies, de suelos y/o construcciones, de las cuales se requiere el avalúo proporcional, el avalúo proporcional de cada una de ellas y, la superficie y avalúo total del predio.
 
-## 2.2.3. Certificado de AvalÃºo Fiscal Corriente con InformaciÃ³n Complementaria
+## 2.2.3. Certificado de Avalúo Fiscal Corriente con Información Complementaria
 
-Es aquel Certificado de AvalÃºo Fiscal Corriente que incluye informaciÃ³n complementaria que se requiere agregar, en espacio habilitado para tal efecto, que no estÃ© relacionada con un cambio de nombre de persona natural o jurÃ­dica registrado y/o direcciÃ³n o nombre del predio, en trÃ¡mite de actualizaciÃ³n.
+Es aquel Certificado de Avalúo Fiscal Corriente que incluye información complementaria que se requiere agregar, en espacio habilitado para tal efecto, que no esté relacionada con un cambio de nombre de persona natural o jurídica registrado y/o dirección o nombre del predio, en trámite de actualización.
 
-## 3 REQUERIMIENTO, EMISIÃ“N Y RETIRO DE CERTIFICADOS DE AVALÃšO FISCAL
+## 3 REQUERIMIENTO, EMISIÓN Y RETIRO DE CERTIFICADOS DE AVALÚO FISCAL
 
-## 3.1. CERTIFICADOS DE AVALÃšO FISCAL CORRIENTES
+## 3.1. CERTIFICADOS DE AVALÚO FISCAL CORRIENTES
 
-Los Certificados de AvalÃºo Fiscal Corrientes podrÃ¡n ser requeridos virtualmente a travÃ©s del sitio Web del Servicio, sii.cl, y ademÃ¡s, en el mesÃ³n de atenciÃ³n de pÃºblico de los Departamentos y Unidades de Avaluaciones o en cualquier Oficina del Servicio u Oficinas de Convenio Municipal, donde se encuentre habilitada la emisiÃ³n de estos documentos, y su peticiÃ³n puede ser efectuada verbalmente por parte del solicitante, propietario, representante legal o mandatario, acreditado segÃºn las reglas generales descritas en el formulario F2118.
+Los Certificados de Avalúo Fiscal Corrientes podrán ser requeridos virtualmente a través del sitio Web del Servicio, sii.cl, y además, en el mesón de atención de público de los Departamentos y Unidades de Avaluaciones o en cualquier Oficina del Servicio u Oficinas de Convenio Municipal, donde se encuentre habilitada la emisión de estos documentos, y su petición puede ser efectuada verbalmente por parte del solicitante, propietario, representante legal o mandatario, acreditado según las reglas generales descritas en el formulario F2118.
 
-Al momento de requerir un Certificado de AvalÃºo Fiscal, se deberÃ¡ identificar su tipo, indicar el NÂ° de Rol de AvalÃºo o la direcciÃ³n del bien raÃ­z, y acreditar el dominio de la propiedad, cuando el nombre registrado en el Catastro de Bienes RaÃ­ces del Servicio no se encuentre actualizado. Para los Certificados de AvalÃºo Fiscal Simple y de AvalÃºo Fiscal de PerÃ­odos Anteriores (TrÃ¡mites de PosesiÃ³n Efectiva), no es necesario la acreditaciÃ³n del dominio.
+Al momento de requerir un Certificado de Avalúo Fiscal, se deberá identificar su tipo, indicar el N° de Rol de Avalúo o la dirección del bien raíz, y acreditar el dominio de la propiedad, cuando el nombre registrado en el Catastro de Bienes Raíces del Servicio no se encuentre actualizado. Para los Certificados de Avalúo Fiscal Simple y de Avalúo Fiscal de Períodos Anteriores (Trámites de Posesión Efectiva), no es necesario la acreditación del dominio.
 
-Los documentos podrÃ¡n ser retirados en el momento en que se solicitan, salvo que exista alguna razÃ³n de fuerza mayor que lo impida.
+Los documentos podrán ser retirados en el momento en que se solicitan, salvo que exista alguna razón de fuerza mayor que lo impida.
 
-De requerirse de manera simultÃ¡nea la actualizaciÃ³n del nombre del propietario registrado y/o de la direcciÃ³n predial, podrÃ¡ ser incorporada esta circunstancia en el respectivo documento como informaciÃ³n complementaria al momento de ser emitido, siempre y cuando se haya iniciado la tramitaciÃ³n de dichas modificaciones en el Servicio de Impuestos Internos.
+De requerirse de manera simultánea la actualización del nombre del propietario registrado y/o de la dirección predial, podrá ser incorporada esta circunstancia en el respectivo documento como información complementaria al momento de ser emitido, siempre y cuando se haya iniciado la tramitación de dichas modificaciones en el Servicio de Impuestos Internos.
 
-## 3.2. CERTIFICADOS DE AVALÃšO FISCAL ESPECIALES
+## 3.2. CERTIFICADOS DE AVALÚO FISCAL ESPECIALES
 
-En el caso de los Certificados de AvalÃºo Fiscal Especiales, el requerimiento debe efectuarse a travÃ©s del formulario F2118 'Solicitud de Modificaciones al Catastro de Bienes RaÃ­ces' indicando el Tipo de certificado e InstituciÃ³n ante la cual serÃ¡ presentado.
+En el caso de los Certificados de Avalúo Fiscal Especiales, el requerimiento debe efectuarse a través del formulario F2118 'Solicitud de Modificaciones al Catastro de Bienes Raíces' indicando el Tipo de certificado e Institución ante la cual será presentado.
 
-Para el caso del Certificado de AvalÃºo Fiscal Provisional, la peticiÃ³n se puede presentar una vez que se haya tramitado la inclusiÃ³n o actualizaciÃ³n del predio en la Base Catastral de Bienes RaÃ­ces del Servicio de Impuestos Internos y se encuentra en trÃ¡mite su notificaciÃ³n.
+Para el caso del Certificado de Avalúo Fiscal Provisional, la petición se puede presentar una vez que se haya tramitado la inclusión o actualización del predio en la Base Catastral de Bienes Raíces del Servicio de Impuestos Internos y se encuentra en trámite su notificación.
 
-En el caso de los Certificados de AvalÃºo Fiscal Corriente con informaciÃ³n complementaria, en la peticiÃ³n se debe indicar la informaciÃ³n complementaria que se requiere agregar.
+En el caso de los Certificados de Avalúo Fiscal Corriente con información complementaria, en la petición se debe indicar la información complementaria que se requiere agregar.
 
-Los Certificados de AvalÃºo Fiscal Especiales, podrÃ¡n ser solicitados en las Oficinas de Avaluaciones, personalmente por el propietario, representante legal o mandatario acreditado, segÃºn las reglas generales descritas en el F2118.
+Los Certificados de Avalúo Fiscal Especiales, podrán ser solicitados en las Oficinas de Avaluaciones, personalmente por el propietario, representante legal o mandatario acreditado, según las reglas generales descritas en el F2118.
 
-El plazo de retiro serÃ¡ de 5 dÃ­as hÃ¡biles, si la solicitud se presenta en la Unidad u Oficina que tiene jurisdicciÃ³n sobre el predio. Este plazo se incrementarÃ¡ a 10 dÃ­as hÃ¡biles si el formulario es recepcionado en una Unidad del Servicio de Impuestos Internos distinta a la que debe resolver, en cuya situaciÃ³n, al momento de presentar el formulario, el peticionario deberÃ¡ indicar si el retiro del documento lo realizarÃ¡ en la misma Unidad donde lo estÃ¡ presentando o en la Unidad resolutora que tiene jurisdicciÃ³n sobre el predio. SerÃ¡n dÃ­as inhÃ¡biles los dÃ­as sÃ¡bado, domingo y festivos.
+El plazo de retiro será de 5 días hábiles, si la solicitud se presenta en la Unidad u Oficina que tiene jurisdicción sobre el predio. Este plazo se incrementará a 10 días hábiles si el formulario es recepcionado en una Unidad del Servicio de Impuestos Internos distinta a la que debe resolver, en cuya situación, al momento de presentar el formulario, el peticionario deberá indicar si el retiro del documento lo realizará en la misma Unidad donde lo está presentando o en la Unidad resolutora que tiene jurisdicción sobre el predio. Serán días inhábiles los días sábado, domingo y festivos.
 
-## 4 DETERMINACIÃ“N DE LOS AVALÃšOS INFORMADOS
+## 4 DETERMINACIÓN DE LOS AVALÚOS INFORMADOS
 
-Para la determinaciÃ³n de los avalÃºos que se informan en los distintos Certificados de AvalÃºo Fiscal, se aplican las definiciones tÃ©cnicas y valores fijados en la ResoluciÃ³n Exenta que se emite con ocasiÃ³n del ReavalÃºo de Bienes RaÃ­ces vigente, segÃºn el destino y serie en que se encuentra el predio.
+Para la determinación de los avalúos que se informan en los distintos Certificados de Avalúo Fiscal, se aplican las definiciones técnicas y valores fijados en la Resolución Exenta que se emite con ocasión del Reavalúo de Bienes Raíces vigente, según el destino y serie en que se encuentra el predio.
 
-Para el caso de los Certificados de AvalÃºo Fiscal de PerÃ­odos Anteriores (TrÃ¡mites de PosesiÃ³n Efectiva) se consideran las definiciones tÃ©cnicas y valores establecidos en el ReavalÃºo vigente para el perÃ­odo solicitado.
+Para el caso de los Certificados de Avalúo Fiscal de Períodos Anteriores (Trámites de Posesión Efectiva) se consideran las definiciones técnicas y valores establecidos en el Reavalúo vigente para el período solicitado.
 
-## 5 VERIFICACIÃ“N DE LA EXACTITUD DE LA INFORMACIÃ“N CONTENIDA EN LOS CERTIFICADOS DE AVALÃšO FISCAL
+## 5 VERIFICACIÓN DE LA EXACTITUD DE LA INFORMACIÓN CONTENIDA EN LOS CERTIFICADOS DE AVALÚO FISCAL
 
-El receptor de un Certificado de AvalÃºo Fiscal podrÃ¡, verificar la exactitud de la informaciÃ³n contenida en el documento que reciba por parte del interesado, a travÃ©s del sitio web del Servicio de Impuestos Internos, previa gestiÃ³n de coordinaciÃ³n establecida con dicho Servicio.
+El receptor de un Certificado de Avalúo Fiscal podrá, verificar la exactitud de la información contenida en el documento que reciba por parte del interesado, a través del sitio web del Servicio de Impuestos Internos, previa gestión de coordinación establecida con dicho Servicio.
 
 ## 6 VIGENCIA
 
-Esta circular entrarÃ¡ en vigencia desde la fecha de su publicaciÃ³n en extracto en el Diario Oficial, y a contar de dicha fecha se derogan las Circulares NÂ° 52, de 1999 y NÂ° 58, de 1996.
+Esta circular entrará en vigencia desde la fecha de su publicación en extracto en el Diario Oficial, y a contar de dicha fecha se derogan las Circulares N° 52, de 1999 y N° 58, de 1996.
 
 Saluda a Uds.,
 
-## DistribuciÃ³n:
+## Distribución:
 
-A Internet. Al BoletÃ­n. Al Diario Oficial (en extracto).
+A Internet. Al Boletín. Al Diario Oficial (en extracto).
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR

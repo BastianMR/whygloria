@@ -1,31 +1,32 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 150 (2023)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
+---
+type: "SII Resolución"
+title: "Resolución N° 150 (2023)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SEÃ‘ALA.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
+
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA.
 
 SANTIAGO,
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_\_\_\_\_\_\_\_/
+RESOLUCIÓN EXENTA SII N° \_\_\_\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ° 1 y artÃ­culo 17 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y en la ResoluciÃ³n Exenta NÂ° 150, de 29.12.2005, en que se establecen normas y procedimientos de operaciÃ³n de la Contabilidad ElectrÃ³nica, modificada por la ResoluciÃ³n Exenta NÂ° 86, del 07.09.2017; y la ResoluciÃ³n Exenta NÂ° 126, de 30.12.2014 delegatoria; y
+VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017; y la Resolución Exenta N° 126, de 30.12.2014 delegatoria; y
 
 ## CONSIDERANDO:
 
-1Â° Que, en la ResoluciÃ³n. Ex. SII NÂ° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+1° Que, en la Resolución. Ex. SII N° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
 
-2Â° Que, analizados los casos de los contribuyentes que se seÃ±alan en el resolutivo primero de la presente ResoluciÃ³n, se determinÃ³ que, cumplen con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+2° Que, analizados los casos de los contribuyentes que se señalan en el resolutivo primero de la presente Resolución, se determinó que, cumplen con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operación de Contabilidad Electrónica.
 
-3Â° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y, declaran contar con CÃ³digos de AutorizaciÃ³n de Libros (en adelante CAL) para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
+3° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y, declaran contar con Códigos de Autorización de Libros (en adelante CAL) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-1Âº AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y NÂ° de RUT:
+1º AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y N° de RUT:
 
 | **AC ASIACOMERCIAL S.A.** | **76.479.450-8** |
 | --- | --- |
@@ -45,29 +46,29 @@ CONCREMAG SPA. 76.529.016-3 CONCREMAG TIERRA DEL FUEGO SPA. 77.119.795-7 CONSORC
 
 INMOBILIARIA LO CANAS SPA. 77.035.578-8 INMOBILIARIA LOS AROMOS S.A. 76.349.920-0 INMOBILIARIA LOS ARRAYANES S.A. 99.577.930-7 INMOBILIARIA LOS GAVILANES S.A. 99.591.350-K INMOBILIARIA LOS NOGALES SPA. 76.805.119-4 INMOBILIARIA LOS SAUCES SPA. 76.282.832-4 INMOBILIARIA MANANTIALES S.A. 76.440.160-3 INMOBILIARIA MARIN SPA. 76.163.073-3 INMOBILIARIA MONTE ACONCAGUA S.A. 96.584.230-6 INMOBILIARIA MONTE SANTO 2 S.A. 76.336.563-8 INMOBILIARIA MONTE SANTO 3 SPA. 76.416.293-5 INMOBILIARIA OBISPO SALAS SPA. 76.168.212-1 INMOBILIARIA PADRE HURTADO SPA. 76.960.346-8 INMOBILIARIA PARQUE LA LUZ S.A. 96.931.030-9 INMOBILIARIA PENON IM SPA. 76.336.765-7 INMOBILIARIA RENACA SPA. 76.416.288-9 INMOBILIARIA SALFA AUSTRAL LTDA. 96.610.790-1 INMOBILIARIA SALFA AUSTRAL LTDA. 96.610.790-1 INMOBILIARIA SAN DAMIAN SPA. 76.202.050-5 INMOBILIARIA SOL DE MAIPU S.A. 96.953.540-8 INMOBILIARIA VERTICAL S.A. 76.173.057-6 INMOBILIARIA VILLA PACIFICO SPA. 76.453.436-0 INMOBILIARIA VISTA RIBERA SPA. 76.818.285-K INMOBILIARIA Y CONSTRUCTORA ECOMAC NORTE SPA. 77.025.253-9 INMOBILIARIA ZANARTU S.A. 76.719.814-0 INVERSIONES ECOMAC TRES SPA. 76.162.185-8 MAQSA AUSTRAL S.A. 96.993.610-0 MAQUINARIAS Y EQUIPOS MAQSA S.A. 96.967.010-0 NOVATEC S.A. 76.127.578-K OBRAS INDUSTRIALES SALFA S.A. 99.509.260-3 OPERACIONES MINERAS G-ACT S.A. 76.908.390-1 RENTAS BRISAS NORTE SPA. 77.460.341-7 RENTAS EL ULMO SPA. 77.374.991-4 RENTAS INMOBILIARIA Y MAQUINARIAS GEOVITTA S.A. 96.693.230-9 RENTAS LOS NOGALES SPA. 76.805.116-K RENTAS MIRAFLORES SPA. 77.374.989-2 RENTAS Y DESARROLLO ACONCAGUA S.A. 96.951.850-3 SALFA CONSTRUCCION S.A. 96.971.270-9 SALFA GESTION INGENIERIA S.A. 76.730.450-1 SALFA INGENIERIA Y CONSTRUCCION S.A. 99.563.590-9 SALFA INTERNACIONAL LTDA. 77.493.650-5 SALFA RENTAS INMOBILIARIAS S.A. 96.660.680-0 SALFA SERVICIOS SPA. 77.112.779-7 SALFACORP S.A. 96.885.880-7 SERVICIOS DE CAPACITACION ICSA LTDA. 76.065.788-3 SERVICIOS DE INGENIERIA NOVAING LTDA . 76.030.734-3 SERVICIOS DE VENTA INMOBILIARIA ACONCAGUA LTDA. 76.801.420-5 SERVICIOS INMOBILIARIOS ECOMAC S.A. 76.141.834-3 SOCIEDAD DE SERVICIOS HABITACIONALES GESTIRED SPA. 76.777.485-0 TECSA CONCESIONES S.A. 76.799.210-6 TECSA CON-PAX S.A. 76.051.944-8 TECSA EQUIPOS Y SERVICIOS S.A. 96.536.460-9 TECSA INTERNACIONAL S.A. 99.585.130-K TECSA INVERSIONES INMOBILIARIAS S.A. 99.585.080-K TECSA INVERSIONES S.A. 99.554.660-4 TECSA MONTAJES S.A. 99.589.430-0 WAVEMAKER CHILE SPA. 77.901.350-2
 
-Se otorgarÃ¡ ademÃ¡s a los contribuyentes: INVERSIONES ECOMAC TRES SPA., RUT 76.162.1858 y SERVICIOS INMOBILIARIOS ECOMAC S.A., RUT 76.141.834-3, CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otras empresas del mismo holding.
+Se otorgará además a los contribuyentes: INVERSIONES ECOMAC TRES SPA., RUT 76.162.1858 y SERVICIOS INMOBILIARIOS ECOMAC S.A., RUT 76.141.834-3, Códigos de Autorización de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otras empresas del mismo holding.
 
-Se otorgarÃ¡ al contribuyente SALFA RENTAS INMOBILIARIAS S.A., RUT 96.660.680-0, CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otros contribuyentes que utilicen el software distribuido por Ã©l.
+Se otorgará al contribuyente SALFA RENTAS INMOBILIARIAS S.A., RUT 96.660.680-0, Códigos de Autorización de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otros contribuyentes que utilicen el software distribuido por él.
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de AUDISOFT SPA., RUT NÂ° 76.258.515-6.a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de AUDISOFT SPA., RUT N° 76.258.515-6.a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
 
 AGRICOLA BOQUIAL LTDA. 77.224.360-K AGRICOLA LA CUMBRE SPA. 77.275.184-2 AGRICOLA LA TROPILLA SPA. 77.275.185-0 AUTOMOTRIZ PILMAIQUEN SPA. 77.262.067-5 INVERSIONES ANCHILE SPA. 77.478.843-3 TRANSPORTES EL ROMERAL LTDA. 77.053.664-2
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de GDE S.A., RUT NÂ° 76.129.486-5, al siguiente contribuyente que se indica, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de GDE S.A., RUT N° 76.129.486-5, al siguiente contribuyente que se indica, con nombre y N° de RUT:
 
-AGRICOLA PENABLANCA DE CABILDO LTDA. 77.371.253-0 ELÃ‰CTRICA CENIZAS II S.A. 77.294.789-5 EMPACK S.A. 96.915.380-7 INTERSYSTEMS CHILE LTDA. 76.513.380-7 MINERA TROPEZON LTDA. 76.578.080-2 SOCIEDAD CONTRACTUAL MINERA SAN CRISTOBAL 76.421.473-0
+AGRICOLA PENABLANCA DE CABILDO LTDA. 77.371.253-0 ELÉCTRICA CENIZAS II S.A. 77.294.789-5 EMPACK S.A. 96.915.380-7 INTERSYSTEMS CHILE LTDA. 76.513.380-7 MINERA TROPEZON LTDA. 76.578.080-2 SOCIEDAD CONTRACTUAL MINERA SAN CRISTOBAL 76.421.473-0
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de ONVISION S.A., RUT NÂ° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de ONVISION S.A., RUT N° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
 
 AP SERVICES SOUTH AMERICA SPA. 76.933.683-4 APPS CLUB DE CHILE SPA. 76.457.719-1 ASTARA LUXURY CHILE SPA. 96.929.460-5 CARBOCOM S.A. 76.040.424-1 CATAMUTUN ENERGIA S.A. 96.653.630-6 CATAMUTUN INGENIERIA S.A. 76.257.787-9 CGE TRANSMISION S.A. 77.465.741-K CONSORCIO CORREDORES DE SEGUROS LTDA. 77.244.858-9 COSEM S.A. 86.712.100-5 EUROCIENCIA CHILE SPA. 76.543.066-6 GAC MOTOR CHILE SPA. 77.076.986-8 INMOBILIARIA SAN MARCO LTDA. 76.708.840-K INMOBILIARIA SEPBIO LTDA. 76.017.749-0 INTELIGENCIA ENERGETICA SPA. 76.574.808-9 INVERSIONES SAN MARCOS LTDA. 96.720.220-7 INVERSIONES Y ASESORIAS RAPEL LTDA. 76.455.720-4 RILERGY S.A. 77.038.749-3 SAAM EXTRAPORTUARIOS S.A. 96.798.520-1 SAAM INVERSIONES SPA. 76.479.537-7 SAAM LOGISTICS S.A. 76.729.932-K SEPSA S.A. 96.556.920-0 STATE GRID CHILE ELECTRICITY SPA. 77.332.779-3 TERMINAL LAS GOLONDRINAS S.A. 96.986.790-7 UBER CHILE SPA. 76.270.707-1 UBER PORTIER CHILE SPA. 77.209.443-4
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de SIDGE S.A., RUT NÂ° 76.339.549-9, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de SIDGE S.A., RUT N° 76.339.549-9, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
 
 TRANSMISORA ELECTRICA CORDILLERA SPA. 77.282.314-2 VERISURE CHILE SPA. 76.058.647-1
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT NÂ° 76.029.564-7, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT N° 76.029.564-7, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
 
-| **ARRENDAMIENTO DE VEHÃCULOS DMA RENTAL SPA.** | **76.121.774-7** |
+| **ARRENDAMIENTO DE VEHÍCULOS DMA RENTAL SPA.** | **76.121.774-7** |
 | --- | --- |
 | ECOBIO SPA. | 77.295.110-8 |
 | ECOMAULE SPA. | 99.539.220-8 |
@@ -79,9 +80,9 @@ AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | VOLTA SERVICIOS SPA. | 76.893.905-5 |
 | VOLTA SPA. | 76.584.127-5 |
 
-2Â° Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2022, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida ResoluciÃ³n Ex. SII NÂ° 150 y su modificaciÃ³n.
+2° Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operación de Contabilidad Electrónica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de años anteriores al año 2022, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida Resolución Ex. SII N° 150 y su modificación.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
 
 <unknown>
 
@@ -89,11 +90,11 @@ AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 
 ## SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
 
-## RGV/CAB/XPR DistribuciÃ³n:
+## RGV/CAB/XPR Distribución:
 
-* -SubdirecciÃ³n de Asistencia al Contribuyente
+* -Subdirección de Asistencia al Contribuyente
 * -Departamento Ciclo de Vida
-* -Ãrea documento tributario electrÃ³nico
+* -Área documento tributario electrónico
 * -Internet
 * -Oficina de Partes
 * -Archivo

@@ -1,33 +1,34 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 23 (2023)
-description: DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos | CIRCULAR NÂº23.- |
+---
+type: "SII Circular"
+title: "Circular N° 23 (2023)"
+description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº23.- |"
 tags: [SII, 2023, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SubdirecciÃ³n de FiscalizaciÃ³n Departamento de DiseÃ±o de Procedimientos** | **CIRCULAR NÂº23.-** |
+
+| **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº23.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 19 DE MAYO DE 2023 |
-| MATERIA: Tabla de CÃ¡lculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligaciÃ³n tributaria anual cumplida, para aplicarse durante el aÃ±o 2023. sobre Impuesto a la Renta, y 11 del CÃ³digo Tributario. | REF. LEGAL: ArtÃ­culos 88 y siguientes de la Ley artÃ­culos 53 y 97 NÂº |
+| MATERIA: Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2023. sobre Impuesto a la Renta, y 11 del Código Tributario. | REF. LEGAL: Artículos 88 y siguientes de la Ley artículos 53 y 97 Nº |
 
-## I. INTRODUCCIÃ“N
+## I. INTRODUCCIÓN
 
-La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y Unidades de este Servicio, la tabla de cÃ¡lculos para la aplicaciÃ³n del reajuste e interÃ©s penal a que se refieren los incisos 1Âº y 3Âº del artÃ­culo 53 del CÃ³digo Tributario y de la multa que establece el NÂº 11 del artÃ­culo 97 del mismo cuerpo legal, por la omisiÃ³n de declaraciÃ³n y pago efectivo de los Pagos Provisionales Mensuales Obligatorios (PPMO), a que se refiere el PÃ¡rrafo 3Âº del TÃ­tulo V de la Ley sobre Impuesto a la Renta, cuando se encuentra cumplida la obligaciÃ³n tributaria anual.
+La presente Circular tiene por objeto poner en conocimiento de los contribuyentes y Unidades de este Servicio, la tabla de cálculos para la aplicación del reajuste e interés penal a que se refieren los incisos 1º y 3º del artículo 53 del Código Tributario y de la multa que establece el Nº 11 del artículo 97 del mismo cuerpo legal, por la omisión de declaración y pago efectivo de los Pagos Provisionales Mensuales Obligatorios (PPMO), a que se refiere el Párrafo 3º del Título V de la Ley sobre Impuesto a la Renta, cuando se encuentra cumplida la obligación tributaria anual.
 
-La tabla mencionada, deberÃ¡ aplicarse durante el aÃ±o 2023 para el cÃ¡lculo y determinaciÃ³n de los conceptos anotados, en las liquidaciones y/o giros emitidos en el perÃ­odo, conforme a las instrucciones impartidas en las Circulares N os 102 y 117, ambas de 1975, y Circular NÂº 16 de 1991, todas disponibles en el sitio web del SII.
+La tabla mencionada, deberá aplicarse durante el año 2023 para el cálculo y determinación de los conceptos anotados, en las liquidaciones y/o giros emitidos en el período, conforme a las instrucciones impartidas en las Circulares N os 102 y 117, ambas de 1975, y Circular Nº 16 de 1991, todas disponibles en el sitio web del SII.
 
-Para calcular el valor de los giros, se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la tabla estÃ¡n expresadas en porcentajes y que la columna Â« Mes PerÃ­odo TributarioÂ» hace referencia al perÃ­odo tributario del PPMO omitido:
+Para calcular el valor de los giros, se debe proceder de la siguiente manera, teniendo presente que todas las cifras de la tabla están expresadas en porcentajes y que la columna « Mes Período Tributario» hace referencia al período tributario del PPMO omitido:
 
-* 1. El giro por el reajuste se determina aplicando sobre el PPMO omitido el porcentaje de la columna Â« Reajuste a: DicÂ» . del perÃ­odo correspondiente.
-  2. El giro por el interÃ©s y la multa se determina aplicando sobre el PPMO omitido, debidamente reajustado por el porcentaje de la columna Â« Reajuste a: AbrÂ» , los porcentajes de interÃ©s del artÃ­culo 53 y de multa del inciso 1Âº o del inciso 2Âº del artÃ­culo 97 NÂº 11, del CÃ³digo Tributario, del perÃ­odo correspondiente.
+* 1. El giro por el reajuste se determina aplicando sobre el PPMO omitido el porcentaje de la columna « Reajuste a: Dic» . del período correspondiente.
+  2. El giro por el interés y la multa se determina aplicando sobre el PPMO omitido, debidamente reajustado por el porcentaje de la columna « Reajuste a: Abr» , los porcentajes de interés del artículo 53 y de multa del inciso 1º o del inciso 2º del artículo 97 Nº 11, del Código Tributario, del período correspondiente.
 
-TABLA DE CÃLCULOS
+TABLA DE CÁLCULOS
 
-| **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2017** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** | **PPM AÃ‘O 2018** |
+| **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2017** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** | **PPM AÑO 2018** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes PerÃ­odo Tributario |  |  | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2018 | Reajuste | a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajuste a: | Reajuste a: | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° | Mes PerÃ­odo Tributario 2018 |  |  | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° |
-| 2017 | Dic.2017 | Abr.2018 | Abr.2018 | Abr.2018 | Abr.2018 | Mes PerÃ­odo Tributario 2018 | Dic.2018 | Abr.2019 | InterÃ©s a: | Abr.2019 | Abr.2019 |
+| Mes Período Tributario |  |  | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2018 | Reajuste | a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajuste a: | Reajuste a: | Interés a: | Inc. 1° | Inc. 2° | Mes Período Tributario 2018 |  |  | Interés a: | Inc. 1° | Inc. 2° |
+| 2017 | Dic.2017 | Abr.2018 | Abr.2018 | Abr.2018 | Abr.2018 | Mes Período Tributario 2018 | Dic.2018 | Abr.2019 | Interés a: | Abr.2019 | Abr.2019 |
 | ENERO | 2,0 | 2,8 | 22,5 | 30,0 | 48,0 | ENERO | 2,7 | 2,7 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 1,5 | 2,2 | 21,0 | 30,0 | 46,0 | FEBRERO | 2,2 | 2,3 | 21,0 | 30,0 | 46,0 |
 | MARZO | 1,2 | 2,0 | 19,5 | 30,0 | 44,0 | MARZO | 2,1 | 2,2 | 19,5 | 30,0 | 44,0 |
@@ -41,11 +42,11 @@ TABLA DE CÃLCULOS
 | NOVIEMBRE | 0,0 | 0,7 | 7,5 | 18,0 | 28,0 | NOVIEMBRE | 0,0 | 0,0 | 7,5 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 0,7 | 6,0 | 16,0 | 26,0 | DICIEMBRE | 0,0 | 0,0 | 6,0 | 16,0 | 26,0 |
 
-| **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2019** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** | **PPM AÃ‘O 2020** |
+| **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2019** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** | **PPM AÑO 2020** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes PerÃ­odo Tributario 2019 |  |  | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2020 | Reajuste a: | Reajuste a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajuste a: | Reajuste a: | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° | Mes PerÃ­odo Tributario 2020 |  |  | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° |
-|  | Dic.2019 | Abr.2020 | Abr.2020 | Abr.2020 | Abr.2020 | Mes PerÃ­odo Tributario 2020 | Dic.2020 | Abr.2021 | InterÃ©s a: | Abr.2021 | Abr.2021 |
+| Mes Período Tributario 2019 |  |  | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2020 | Reajuste a: | Reajuste a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajuste a: | Reajuste a: | Interés a: | Inc. 1° | Inc. 2° | Mes Período Tributario 2020 |  |  | Interés a: | Inc. 1° | Inc. 2° |
+|  | Dic.2019 | Abr.2020 | Abr.2020 | Abr.2020 | Abr.2020 | Mes Período Tributario 2020 | Dic.2020 | Abr.2021 | Interés a: | Abr.2021 | Abr.2021 |
 | ENERO | 2,8 | 4,0 | 22,5 | 30,0 | 48,0 | ENERO | 2,8 | 3,9 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 2,7 | 3,9 | 21,0 | 30,0 | 46,0 | FEBRERO | 2,2 | 3,3 | 21,0 | 30,0 | 46,0 |
 | MARZO | 2,7 | 3,9 | 19,5 | 30,0 | 44,0 | MARZO | 1,7 | 2,8 | 19,5 | 30,0 | 44,0 |
@@ -59,11 +60,11 @@ TABLA DE CÃLCULOS
 | NOVIEMBRE | 0,0 | 1,2 | 7,5 | 18,0 | 28,0 | NOVIEMBRE | 0,0 | 1,1 | 7,5 | 18,0 | 28,0 |
 | DICIEMBRE | 0,0 | 1,1 | 6,0 | 16,0 | 26,0 | DICIEMBRE | 0,0 | 1,2 | 6,0 | 16,0 | 26,0 |
 
-| **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2021** | **PPM AÃ‘O 2022** | **PPM AÃ‘O 2022** | **PPM AÃ‘O 2022** | **PPM AÃ‘O 2022** | **PPM AÃ‘O 2022** | **PPM AÃ‘O 2022** |
+| **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2021** | **PPM AÑO 2022** | **PPM AÑO 2022** | **PPM AÑO 2022** | **PPM AÑO 2022** | **PPM AÑO 2022** | **PPM AÑO 2022** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mes PerÃ­odo Tributario |  |  | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes PerÃ­odo Tributario 2022 | Reajuste | a: | InterÃ©s a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
-|  | Reajuste a: | Reajuste a: | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° | Mes PerÃ­odo Tributario 2022 |  |  | InterÃ©s a: | Inc. 1Â° | Inc. 2Â° |
-| 2021 | Dic.2021 | Abr.2022 | Abr.2022 | Abr.2022 | Abr.2022 | Mes PerÃ­odo Tributario 2022 | Dic.2022 | Abr.2023 | InterÃ©s a: | Abr.2023 | Abr.2023 |
+| Mes Período Tributario |  |  | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: | Mes Período Tributario 2022 | Reajuste | a: | Interés a: | Multa Art. 97-11 a: | Multa Art. 97-11 a: |
+|  | Reajuste a: | Reajuste a: | Interés a: | Inc. 1° | Inc. 2° | Mes Período Tributario 2022 |  |  | Interés a: | Inc. 1° | Inc. 2° |
+| 2021 | Dic.2021 | Abr.2022 | Abr.2022 | Abr.2022 | Abr.2022 | Mes Período Tributario 2022 | Dic.2022 | Abr.2023 | Interés a: | Abr.2023 | Abr.2023 |
 | ENERO | 5,8 | 8,8 | 22,5 | 30,0 | 48,0 | ENERO | 11,4 | 13,6 | 22,5 | 30,0 | 48,0 |
 | FEBRERO | 5,1 | 8,0 | 21,0 | 30,0 | 46,0 | FEBRERO | 10,1 | 12,3 | 21,0 | 30,0 | 46,0 |
 | MARZO | 4,9 | 7,8 | 19,5 | 30,0 | 44,0 | MARZO | 9,7 | 11,9 | 19,5 | 30,0 | 44,0 |
@@ -81,7 +82,7 @@ Saluda a Uds.,
 
 <unknown>
 
-MSB/CGG/MCRB/CST/FWV DISTRIBUCIÃ“N
+MSB/CGG/MCRB/CST/FWV DISTRIBUCIÓN
 
 * Internet
 

@@ -1,61 +1,62 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 114 (2024)
-description: ESTABLECE NUEVO APLICATIVO DE DECLARACION, PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE...
+---
+type: "SII Resolución"
+title: "Resolución N° 114 (2024)"
+description: "ESTABLECE NUEVO APLICATIVO DE DECLARACION, PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE..."
 tags: [SII, 2024, resolucion]
 ---
 
-ESTABLECE NUEVO APLICATIVO DE DECLARACION, PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE CONSTRUCCIONES Y, O REGULARIZACIONES QUE OTORGUEN. DEJA SIN EFECTO LA RESOLUCIÃ“N EXENTA SII NÂ° 114 DEL AÃ‘O 2017.
+
+ESTABLECE NUEVO APLICATIVO DE DECLARACION, PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE CONSTRUCCIONES Y, O REGULARIZACIONES QUE OTORGUEN. DEJA SIN EFECTO LA RESOLUCIÓN EXENTA SII N° 114 DEL AÑO 2017.
 
 ## SANTIAGO, 28 DE JUNIO DE 2024.
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EXENTA SII NÂ° 68.-
+## RESOLUCIÓN EXENTA SII N° 68.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Â° y 7Â° letras a) y b), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el artÃ­culo 6Â°, letra A, NÂ° 1, y 83 y 87 del CÃ³digo Tributario; contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974 y el artÃ­culo 16, NÂ° 2, de la Ley NÂ° 17.235, sobre Impuesto Territorial; y
+VISTOS: Lo dispuesto en los artículos 1° y 7° letras a) y b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el artículo 6°, letra A, N° 1, y 83 y 87 del Código Tributario; contenido en el artículo 1° del D.L. N° 830, de 1974 y el artículo 16, N° 2, de la Ley N° 17.235, sobre Impuesto Territorial; y
 
 ## CONSIDERANDO:
 
-a) Que, de acuerdo con lo establecido en el artÃ­culo 16, NÂ°2, de la Ley NÂ° 17.235, el Servicio de Impuestos Internos debe mantener al dÃ­a los roles definitivos de los avalÃºos de los bienes raÃ­ces del paÃ­s, utilizando para ello, entre otras fuentes, la informaciÃ³n que deben remitirle las respectivas municipalidades, relativa a recepciones de construcciones, en la forma y plazo que este Servicio determine;
+a) Que, de acuerdo con lo establecido en el artículo 16, N°2, de la Ley N° 17.235, el Servicio de Impuestos Internos debe mantener al día los roles definitivos de los avalúos de los bienes raíces del país, utilizando para ello, entre otras fuentes, la información que deben remitirle las respectivas municipalidades, relativa a recepciones de construcciones, en la forma y plazo que este Servicio determine;
 
-b) Que, de acuerdo a los establecido en el artÃ­culo 83 del CÃ³digo Tributario, las municipalidades estarÃ¡n obligadas a cooperar en los trabajos de tasaciÃ³n de la propiedad raÃ­z en la forma, plazo y condiciones que determine el Director del Servicio de Impuestos Internos.
+b) Que, de acuerdo a los establecido en el artículo 83 del Código Tributario, las municipalidades estarán obligadas a cooperar en los trabajos de tasación de la propiedad raíz en la forma, plazo y condiciones que determine el Director del Servicio de Impuestos Internos.
 
-c) Que, las recepciones definitivas de construcciones y las regularizaciones que otorgan las municipalidades son una fuente importante de informaciÃ³n para la tasaciÃ³n de las edificaciones.
+c) Que, las recepciones definitivas de construcciones y las regularizaciones que otorgan las municipalidades son una fuente importante de información para la tasación de las edificaciones.
 
-d) Que, mediante ResoluciÃ³n Exenta SII NÂ°114, de 27 de noviembre del 2017, el Servicio de Impuestos Internos regulÃ³ la forma en que las municipalidades deben entregar la informaciÃ³n contenida en los Certificados de RecepciÃ³n Definitiva y, o de Regularizaciones Municipales, estableciendo que se lleve a cabo mediante transmisiÃ³n electrÃ³nica de datos al sitio web sii.cl, en un aplicativo que entrega garantÃ­as de seguridad en el procesamiento de la informaciÃ³n.
+d) Que, mediante Resolución Exenta SII N°114, de 27 de noviembre del 2017, el Servicio de Impuestos Internos reguló la forma en que las municipalidades deben entregar la información contenida en los Certificados de Recepción Definitiva y, o de Regularizaciones Municipales, estableciendo que se lleve a cabo mediante transmisión electrónica de datos al sitio web sii.cl, en un aplicativo que entrega garantías de seguridad en el procesamiento de la información.
 
-e) Que, con el propÃ³sito de mejorar la calidad de la informaciÃ³n que se recibe, incorporando mayores niveles de automatizaciÃ³n, este Servicio ha habilitado la 'Nueva DeclaraciÃ³n Municipal', que sustituye el aplicativo anterior, para que sea la Ãºnica forma de ingreso para las Declaraciones Municipales. El nuevo aplicativo presenta funcionalidades adicionales respecto a la versiÃ³n anterior, descritos en anexo NÂ°1 de la presente resoluciÃ³n, mejorando asÃ­ la eficiencia y precisiÃ³n en la gestiÃ³n y traspaso de la informaciÃ³n municipal.
+e) Que, con el propósito de mejorar la calidad de la información que se recibe, incorporando mayores niveles de automatización, este Servicio ha habilitado la 'Nueva Declaración Municipal', que sustituye el aplicativo anterior, para que sea la única forma de ingreso para las Declaraciones Municipales. El nuevo aplicativo presenta funcionalidades adicionales respecto a la versión anterior, descritos en anexo N°1 de la presente resolución, mejorando así la eficiencia y precisión en la gestión y traspaso de la información municipal.
 
 de julio de 2024.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
-## (FDO.) HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR
+## (FDO.) HERNÁN FRIGOLETT CÓRDOVA DIRECTOR
 
 ## ANEXOS:
 
-ANEXO NÂ° 1: Procedimiento Traspaso de InformaciÃ³n municipal de Recepciones Definitivas y, o Regularizaciones
+ANEXO N° 1: Procedimiento Traspaso de Información municipal de Recepciones Definitivas y, o Regularizaciones
 
-ANEXO NÂ° 2: GuÃ­a Paso a Paso de ingreso para Declaraciones de Certificados de RecepciÃ³n Definitiva y Certificados de RegularizaciÃ³n
+ANEXO N° 2: Guía Paso a Paso de ingreso para Declaraciones de Certificados de Recepción Definitiva y Certificados de Regularización
 
-Lo que transcribo para su conocimiento y demÃ¡s fines.
+Lo que transcribo para su conocimiento y demás fines.
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
 * Internet
 * Diario Oficial (en extracto)
 
 ## SE RESUELVE:
 
-1Â° Las municipalidades deberÃ¡n remitir al Servicio de Impuestos Internos, exclusivamente a travÃ©s de su sitio Web, sii.cl, la informaciÃ³n contenida en los Certificados de RecepciÃ³n Definitiva y, o Regularizaciones, incluyendo la informaciÃ³n adicional solicitada a travÃ©s de la 'Nueva DeclaraciÃ³n Municipal' indicada en el anexo 1 de la presente resoluciÃ³n.
+1° Las municipalidades deberán remitir al Servicio de Impuestos Internos, exclusivamente a través de su sitio Web, sii.cl, la información contenida en los Certificados de Recepción Definitiva y, o Regularizaciones, incluyendo la información adicional solicitada a través de la 'Nueva Declaración Municipal' indicada en el anexo 1 de la presente resolución.
 
-2Â° Para el ingreso a la aplicaciÃ³n, los encargados designados por las municipalidades deberÃ¡n acceder a la pÃ¡gina Web del Servicio sii.cl, en [Servicios Online], [AvalÃºos y Contribuciones de Bienes RaÃ­ces], [Aplicaciones para Entidades Externas], [Otras entidades o usuarios relacionados], [Consulta de aplicaciones de Bienes RaÃ­ces], debiendo autenticarse mediante la misma opciÃ³n de clave Ãºnica o clave tributaria descrita en el Anexo NÂ°2 de la presente ResoluciÃ³n e ingresar a [Nueva declaraciÃ³n Municipal].
+2° Para el ingreso a la aplicación, los encargados designados por las municipalidades deberán acceder a la página Web del Servicio sii.cl, en [Servicios Online], [Avalúos y Contribuciones de Bienes Raíces], [Aplicaciones para Entidades Externas], [Otras entidades o usuarios relacionados], [Consulta de aplicaciones de Bienes Raíces], debiendo autenticarse mediante la misma opción de clave única o clave tributaria descrita en el Anexo N°2 de la presente Resolución e ingresar a [Nueva declaración Municipal].
 
-3Â°. Todas las instrucciones de este procedimiento se imparten en el anexo 1 y 2 de esta ResoluciÃ³n, las que se entenderÃ¡n como parte integrante de la misma.
+3°. Todas las instrucciones de este procedimiento se imparten en el anexo 1 y 2 de esta Resolución, las que se entenderán como parte integrante de la misma.
 
-4Â°. El incumplimiento de lo seÃ±alado en los numerales anteriores serÃ¡ sancionado conforme lo dispone el artÃ­culo 102 del D.L. NÂº 830, de 1974, sobre CÃ³digo Tributario.
+4°. El incumplimiento de lo señalado en los numerales anteriores será sancionado conforme lo dispone el artículo 102 del D.L. Nº 830, de 1974, sobre Código Tributario.
 
-5Â° DÃ©jase sin efecto la ResoluciÃ³n Exenta SII NÂ°114 del 2017.
+5° Déjase sin efecto la Resolución Exenta SII N°114 del 2017.
 
-6Â° La presente ResoluciÃ³n regirÃ¡ a contar del 1Â°
+6° La presente Resolución regirá a contar del 1°

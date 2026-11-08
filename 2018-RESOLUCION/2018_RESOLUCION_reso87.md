@@ -1,61 +1,62 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 120 (2018)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 120 (2018)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-COMPLEMENTA LA OBLIGACIÃ“N DE PRESENTAR DECLARACIÃ“N JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO NÂ° 1929; Y MODIFICA LA RESOLUCIÃ“N EX. SII NÂ° 120 DE 2016.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+COMPLEMENTA LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; Y MODIFICA LA RESOLUCIÓN EX. SII N° 120 DE 2016.
 
 ## SANTIAGO, 28 DE SEPTIEMBRE 2018
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÃ“N EX. SII NÂº 87.-
+RESOLUCIÓN EX. SII Nº 87.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Â° y siguientes de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980; en los artÃ­culos 6Â°, letra A, NÂ° 1, 34, 35 y 60 del CÃ³digo Tributario, contenido en artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824, de 1974; las modificaciones legales introducidas por la Leyes NÂ°s 20.780 y 20.899, de 29 de septiembre de 2014, y 8 de febrero de 2016, respectivamente; la ResoluciÃ³n Exenta SII NÂ° 120 de 26 de diciembre de 2016; y
+VISTOS: Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980; en los artículos 6°, letra A, N° 1, 34, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L. N° 830, de 1974; en los artículos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974; las modificaciones legales introducidas por la Leyes N°s 20.780 y 20.899, de 29 de septiembre de 2014, y 8 de febrero de 2016, respectivamente; la Resolución Exenta SII N° 120 de 26 de diciembre de 2016; y
 
 ## CONSIDERANDO:
 
-1.Que, por ley le corresponde a este Servicio, la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente, asÃ­ como la correcta aplicaciÃ³n de las franquicias y beneficios tributarios que la ley establece.
+1.Que, por ley le corresponde a este Servicio, la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente, así como la correcta aplicación de las franquicias y beneficios tributarios que la ley establece.
 
-2.Que, la ResoluciÃ³n Exenta SII NÂ° 120 del 26 de diciembre de 2016 estableciÃ³ la obligaciÃ³n de presentar la declaraciÃ³n jurada anual sobre operaciones en el exterior por medio de formulario 1929, por los contribuyentes con domicilio o residencia en Chile y por los establecimientos permanentes en Chile de entidades extranjeras o personas no residentes, que realicen una inversiÃ³n en el exterior, o a quienes les resulten atribuibles rentas del exterior.
+2.Que, la Resolución Exenta SII N° 120 del 26 de diciembre de 2016 estableció la obligación de presentar la declaración jurada anual sobre operaciones en el exterior por medio de formulario 1929, por los contribuyentes con domicilio o residencia en Chile y por los establecimientos permanentes en Chile de entidades extranjeras o personas no residentes, que realicen una inversión en el exterior, o a quienes les resulten atribuibles rentas del exterior.
 
 3.Que, para mejorar los niveles de cumplimiento tributario, el Servicio de Impuestos Internos ejerce las acciones estructurales, preventivas, disuasivas y correctivas necesarias para eliminar, reducir, prevenir o corregir incumplimientos tributarios.
 
 ## SE RESUELVE:
 
-1Â° AgrÃ©gase en el Resolutivo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 120 de 2016 sobre 'DECLARACIÃ“N JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la frase 'u operaciones' luego del vocablo 'que realicen una inversiÃ³n'.
+1° Agrégase en el Resolutivo N° 1 de la Resolución Ex. SII N° 120 de 2016 sobre 'DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la frase 'u operaciones' luego del vocablo 'que realicen una inversión'.
 
-2Â° AgrÃ©gase en el primer pÃ¡rrafo del Resolutivo NÂ° 2 de la ResoluciÃ³n Ex. SII NÂ° 120 de 2016 sobre 'DECLARACION JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la siguiente letra e):
+2° Agrégase en el primer párrafo del Resolutivo N° 2 de la Resolución Ex. SII N° 120 de 2016 sobre 'DECLARACION JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la siguiente letra e):
 
-'e) Otras operaciones en el exterior no seÃ±aladas en las letras anteriores, realizadas por cuenta propia, a travÃ©s de un tercero o respecto de las cuales tenga la calidad de beneficiario.'
+'e) Otras operaciones en el exterior no señaladas en las letras anteriores, realizadas por cuenta propia, a través de un tercero o respecto de las cuales tenga la calidad de beneficiario.'
 
-3Â° AgrÃ©gase en el segundo pÃ¡rrafo del Resolutivo NÂ° 2 de la ResoluciÃ³n Ex. SII NÂ° 120 de 2016 sobre 'DECLARACIÃ“N JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la siguiente letra e):
+3° Agrégase en el segundo párrafo del Resolutivo N° 2 de la Resolución Ex. SII N° 120 de 2016 sobre 'DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR', la siguiente letra e):
 
-'e) Otras rentas respecto de cualquier operaciÃ³n en el exterior, percibidas por una persona en calidad de beneficiario.'
+'e) Otras rentas respecto de cualquier operación en el exterior, percibidas por una persona en calidad de beneficiario.'
 
-4Â° Los Anexos de esta ResoluciÃ³n forman parte Ã­ntegra de la misma, y se publicarÃ¡n conjuntamente con Ã©sta en la pÃ¡gina web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+4° Los Anexos de esta Resolución forman parte íntegra de la misma, y se publicarán conjuntamente con ésta en la página web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-5Â° La presente ResoluciÃ³n regirÃ¡ a partir del aÃ±o tributario 2019, respecto de las operaciones realizadas o que hayan estado o estÃ©n vigentes a contar del 1Â° de enero de 2018 en adelante.
+5° La presente Resolución regirá a partir del año tributario 2019, respecto de las operaciones realizadas o que hayan estado o estén vigentes a contar del 1° de enero de 2018 en adelante.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
-## (FDO.) VÃCTOR VILLALÃ“N MÃ‰NDEZ DIRECTOR (S)
+## (FDO.) VÍCTOR VILLALÓN MÉNDEZ DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 ## Anexos:
 
-* Anexo NÂ° 1 : DeclaraciÃ³n Jurada Anual sobre Operaciones en el Exterior;
-* Anexo NÂ° 2 : Instrucciones para la confecciÃ³n de la DeclaraciÃ³n Jurada Anual sobre Operaciones en el Exterior.
+* Anexo N° 1 : Declaración Jurada Anual sobre Operaciones en el Exterior;
+* Anexo N° 2 : Instrucciones para la confección de la Declaración Jurada Anual sobre Operaciones en el Exterior.
 
 ## VVM/PAF/CGG/ICE/MSC
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
-* Al BoletÃ­n
+* Al Boletín
 * A Internet
 * Al Diario Oficial, en extracto

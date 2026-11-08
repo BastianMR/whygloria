@@ -1,65 +1,66 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 101 (2021)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 101 (2021)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-CREA MODELO DE CERTIFICADO NÂ° 72, Y ESTABLECE OBLIGACIÃ“N DE INFORMAR LAS DONACIONES A QUE SE REFIERE EL ARTÃCULO 18 DE LA LEY NÂ° 21.258.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+CREA MODELO DE CERTIFICADO N° 72, Y ESTABLECE OBLIGACIÓN DE INFORMAR LAS DONACIONES A QUE SE REFIERE EL ARTÍCULO 18 DE LA LEY N° 21.258.
 
 ## SANTIAGO, 31 DE AGOSTO DE 2021
 
 Hoy se ha resuelto lo siguiente:
 
-## RESOLUCIÃ“N EX. SII NÂ°101.-
+## RESOLUCIÓN EX. SII N°101.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 6Âº, letra A, NÂº 1, 30, 33 bis y 60, del CÃ³digo Tributario, contenido en el artÃ­culo 1Âº del Decreto Ley NÂº 830, de 1974; en el artÃ­culo 31 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Âº del Decreto Ley NÂº 824, de 1974; en los artÃ­culos 14 y 18, de la Ley NÂ° 21.258 de 2020, y las facultades contempladas en los artÃ­culos 1Âº y 7Âº, de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Âº del Decreto con Fuerza de Ley NÂº 7, de 1980, del Ministerio de Hacienda; y lo seÃ±alado en la Circular SII NÂ°42 de 2021, y
+VISTOS: Lo dispuesto en los artículos 6º, letra A, Nº 1, 30, 33 bis y 60, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974; en el artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974; en los artículos 14 y 18, de la Ley N° 21.258 de 2020, y las facultades contempladas en los artículos 1º y 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda; y lo señalado en la Circular SII N°42 de 2021, y
 
 ## CONSIDERANDO:
 
-1Â° Que, de conformidad con lo establecido en el artÃ­culo 14 de la Ley NÂ° 21.258 se creÃ³ el Fondo Nacional del CÃ¡ncer (en adelante, el 'Fondo'), destinado a financiar total o parcialmente programas y proyectos que se encuentren exclusivamente relacionados con la investigaciÃ³n, estudio, evaluaciÃ³n, promociÃ³n y desarrollo de iniciativas para la prevenciÃ³n, vigilancia y pesquisa del cÃ¡ncer.
+1° Que, de conformidad con lo establecido en el artículo 14 de la Ley N° 21.258 se creó el Fondo Nacional del Cáncer (en adelante, el 'Fondo'), destinado a financiar total o parcialmente programas y proyectos que se encuentren exclusivamente relacionados con la investigación, estudio, evaluación, promoción y desarrollo de iniciativas para la prevención, vigilancia y pesquisa del cáncer.
 
-2Â° Que, conforme al artÃ­culo 18 de la misma ley, los contribuyentes del Impuesto de Primera CategorÃ­a que, de acuerdo con lo dispuesto en la Ley sobre Impuesto a la Renta, declaren sus rentas efectivas determinadas mediante contabilidad completa o simplificada, que efectÃºen donaciones al Fondo, podrÃ¡n rebajar dicha donaciÃ³n como gasto en la determinaciÃ³n de la renta lÃ­quida imponible gravada con dicho impuesto.
+2° Que, conforme al artículo 18 de la misma ley, los contribuyentes del Impuesto de Primera Categoría que, de acuerdo con lo dispuesto en la Ley sobre Impuesto a la Renta, declaren sus rentas efectivas determinadas mediante contabilidad completa o simplificada, que efectúen donaciones al Fondo, podrán rebajar dicha donación como gasto en la determinación de la renta líquida imponible gravada con dicho impuesto.
 
-3Â° Que, el inciso segundo de la misma norma establece que la deducciÃ³n como gasto de las donaciones seÃ±aladas se aceptarÃ¡ en el ejercicio en que se materialice la donaciÃ³n. Para estos efectos, las donaciones se acreditarÃ¡n mediante el respectivo certificado que extenderÃ¡ la SubsecretarÃ­a de Salud PÃºblica, con los requisitos, formalidades y especificaciones que determine este Servicio.
+3° Que, el inciso segundo de la misma norma establece que la deducción como gasto de las donaciones señaladas se aceptará en el ejercicio en que se materialice la donación. Para estos efectos, las donaciones se acreditarán mediante el respectivo certificado que extenderá la Subsecretaría de Salud Pública, con los requisitos, formalidades y especificaciones que determine este Servicio.
 
-4Â° Que, la SubsecretarÃ­a de Salud PÃºblica, administradora del Fondo segÃºn lo dispuesto en el artÃ­culo 15 de la Ley NÂ° 21.258, deberÃ¡ informar al Servicio de Impuestos Internos las donaciones recibidas por el Fondo, en la forma que se determine por este Servicio.
+4° Que, la Subsecretaría de Salud Pública, administradora del Fondo según lo dispuesto en el artículo 15 de la Ley N° 21.258, deberá informar al Servicio de Impuestos Internos las donaciones recibidas por el Fondo, en la forma que se determine por este Servicio.
 
-5Â° Que, el inciso octavo del artÃ­culo 60 del CÃ³digo Tributario, para la aplicaciÃ³n, fiscalizaciÃ³n o investigaciÃ³n del cumplimiento de las leyes tributarias, faculta a este Servicio a pedir declaraciÃ³n jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicciÃ³n de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas.
+5° Que, el inciso octavo del artículo 60 del Código Tributario, para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, faculta a este Servicio a pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas.
 
-6Â° Que, mediante la Circular NÂ°42 de fecha 02.07.2021, este Servicio ha impartido instrucciones sobre el beneficio tributario establecido en la referida Ley NÂ°21.258, frente a la Ley sobre Impuesto a la Renta (LIR).
+6° Que, mediante la Circular N°42 de fecha 02.07.2021, este Servicio ha impartido instrucciones sobre el beneficio tributario establecido en la referida Ley N°21.258, frente a la Ley sobre Impuesto a la Renta (LIR).
 
 ## SE RESUELVE:
 
-1 Â° CrÃ©ase el Certificado NÂ° 72, denominado 'CertificaciÃ³n de donaciones al Fondo Nacional del CÃ¡ncer', con el fin de acreditar las donaciones que se efectÃºen a dicho Fondo.
+1 ° Créase el Certificado N° 72, denominado 'Certificación de donaciones al Fondo Nacional del Cáncer', con el fin de acreditar las donaciones que se efectúen a dicho Fondo.
 
-2Â° La SubsecretarÃ­a de Salud PÃºblica deberÃ¡ emitir el Certificado NÂ° 72, para los fines seÃ±alados en el resolutivo anterior, conforme al modelo del Anexo NÂ° 1, que deberÃ¡ confeccionarse conforme a las instrucciones contenidas en el Anexo NÂ° 2, los cuales forman parte integrante de la presente resoluciÃ³n.
+2° La Subsecretaría de Salud Pública deberá emitir el Certificado N° 72, para los fines señalados en el resolutivo anterior, conforme al modelo del Anexo N° 1, que deberá confeccionarse conforme a las instrucciones contenidas en el Anexo N° 2, los cuales forman parte integrante de la presente resolución.
 
-* La emisiÃ³n de los Certificados NÂº 72 que correspondan, quedan eximidos de su autorizaciÃ³n ante el SII, respecto al control previo de folios y aposiciÃ³n del timbre de cuÃ±o, por lo que podrÃ¡n ser utilizados una vez confeccionados, cumpliendo con los formatos e instrucciones contenidos en los mencionados Anexos NÂº 1 y 2.
-* La SubsecretarÃ­a de Salud PÃºblica deberÃ¡ cautelar el uso adecuado y numeraciÃ³n correlativa de los certificados, manteniendo el correcto control de su emisiÃ³n y custodia ante eventuales requerimientos de este Servicio dentro de los plazos de prescripciÃ³n establecidos en el artÃ­culo 200 del CÃ³digo Tributario.
-* 3Âº El Certificado NÂ° 72 deberÃ¡ consignar la fecha en que fue recibida cada donaciÃ³n, si Ã©sta se efectÃºa en dinero o bienes, y deberÃ¡ ser emitido dentro de los 5 dÃ­as hÃ¡biles siguientes a dicha recepciÃ³n.
+* La emisión de los Certificados Nº 72 que correspondan, quedan eximidos de su autorización ante el SII, respecto al control previo de folios y aposición del timbre de cuño, por lo que podrán ser utilizados una vez confeccionados, cumpliendo con los formatos e instrucciones contenidos en los mencionados Anexos Nº 1 y 2.
+* La Subsecretaría de Salud Pública deberá cautelar el uso adecuado y numeración correlativa de los certificados, manteniendo el correcto control de su emisión y custodia ante eventuales requerimientos de este Servicio dentro de los plazos de prescripción establecidos en el artículo 200 del Código Tributario.
+* 3º El Certificado N° 72 deberá consignar la fecha en que fue recibida cada donación, si ésta se efectúa en dinero o bienes, y deberá ser emitido dentro de los 5 días hábiles siguientes a dicha recepción.
 
-TratÃ¡ndose de donaciones de bienes, el certificado deberÃ¡ consignar el valor tributario en que los bienes donados se encuentren registrados en la contabilidad del donante a la fecha de la donaciÃ³n, ademÃ¡s de individualizar los bienes donados. En caso que los contribuyentes rebajen gastos efectivos para la determinaciÃ³n de la renta lÃ­quida imponible o base imponible, y que conforme a las disposiciones de la LIR no tengan la obligaciÃ³n de llevar el mencionado registro, los certificados deberÃ¡n consignar el valor de adquisiciÃ³n del bien donado debidamente reajustado, conforme al porcentaje de variaciÃ³n del Ãndice de Precios al Consumidor entre el mes que antecede al de su adquisiciÃ³n y el mes anterior a aquel en que se efectÃºa la donaciÃ³n, menos la depreciaciÃ³n que corresponda a la misma fecha en que se efectÃºa la donaciÃ³n.
+Tratándose de donaciones de bienes, el certificado deberá consignar el valor tributario en que los bienes donados se encuentren registrados en la contabilidad del donante a la fecha de la donación, además de individualizar los bienes donados. En caso que los contribuyentes rebajen gastos efectivos para la determinación de la renta líquida imponible o base imponible, y que conforme a las disposiciones de la LIR no tengan la obligación de llevar el mencionado registro, los certificados deberán consignar el valor de adquisición del bien donado debidamente reajustado, conforme al porcentaje de variación del Índice de Precios al Consumidor entre el mes que antecede al de su adquisición y el mes anterior a aquel en que se efectúa la donación, menos la depreciación que corresponda a la misma fecha en que se efectúa la donación.
 
-4Â° La no emisiÃ³n del referido certificado, su emisiÃ³n en forma incompleta, errÃ³nea, tardÃ­a o sin cumplir con los requisitos que se establecen en el Anexo NÂ° 1 e instrucciones del Anexo NÂ° 2, serÃ¡ sancionado de acuerdo a lo dispuesto en el artÃ­culo 109 del CÃ³digo Tributario.
+4° La no emisión del referido certificado, su emisión en forma incompleta, errónea, tardía o sin cumplir con los requisitos que se establecen en el Anexo N° 1 e instrucciones del Anexo N° 2, será sancionado de acuerdo a lo dispuesto en el artículo 109 del Código Tributario.
 
-5Â° La SubsecretarÃ­a de Salud PÃºblica deberÃ¡ informar a este Servicio las donaciones recibidas por el Fondo Nacional del CÃ¡ncer a travÃ©s de la DeclaraciÃ³n Jurada Formulario NÂ° 1832, en los plazos establecidos para ello.
+5° La Subsecretaría de Salud Pública deberá informar a este Servicio las donaciones recibidas por el Fondo Nacional del Cáncer a través de la Declaración Jurada Formulario N° 1832, en los plazos establecidos para ello.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## Anexos:
 
-Anexo NÂ° 1: Modelo Certificado NÂ° 72
+Anexo N° 1: Modelo Certificado N° 72
 
-Anexo NÂ° 2: Instrucciones Certificado NÂ° 72
+Anexo N° 2: Instrucciones Certificado N° 72
 
-Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud. para su conocimiento y demás fines.
 
-CSM/ PSM/ CGG /EMG /JBA DistribuciÃ³n:
+CSM/ PSM/ CGG /EMG /JBA Distribución:
 
 * Internet
 * Al Diario Oficial, en extracto

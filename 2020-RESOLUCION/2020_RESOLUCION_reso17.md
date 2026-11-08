@@ -1,15 +1,16 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 1600 (2020)
-description: SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE
+---
+type: "SII Resolución"
+title: "Resolución N° 1600 (2020)"
+description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
 ---
+
 
 ## SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE
 
 MATERIA:APRUEBACONVENIODE COLABORACIONMUTUAENTRESERVICIO DEIMPUESTOSINTERNOSEINSTITUTO PROFESIONALAIEP.
 
-SANTIAGOï¼Œ
+SANTIAGO，
 
 5 FEB 2020
 
@@ -17,19 +18,19 @@ RESOLUCION EXENTA SII N/Y
 
 VISTOS:
 
-Lasfacultades queme confieren los articulos1Â°
+Lasfacultades queme confieren los articulos1°
 
-del D.F.L.NÂ°7 de Hacienda,defecha 30.09.1980;Ley NÂ°18.575,Organica Constitucional deBases Generales de la Administracion del Estado, y en la Resolucion NÂ° 1600, del 06.11.2008, de la Contraloria General de la Republica; y
+del D.F.L.N°7 de Hacienda,defecha 30.09.1980;Ley N°18.575,Organica Constitucional deBases Generales de la Administracion del Estado, y en la Resolucion N° 1600, del 06.11.2008, de la Contraloria General de la Republica; y
 
 ## CONSIDERANDO:
 
-1Â° Que, corresponde al Servicio de Impuestos Internosla aplicacionyfiscalizaciondetodoslosimpuestosinternosactualmenteestablecidosoque seestablecieren,fiscalesodeotrocaracter enquetenga intereselfiscoycuyocontrol noeste especialmenteencomendadoporlaleyaunaautoridaddiferente.
+1° Que, corresponde al Servicio de Impuestos Internosla aplicacionyfiscalizaciondetodoslosimpuestosinternosactualmenteestablecidosoque seestablecieren,fiscalesodeotrocaracter enquetenga intereselfiscoycuyocontrol noeste especialmenteencomendadoporlaleyaunaautoridaddiferente.
 
-2Â° Que, el Director tiene la facultad de administracionycelebraciondeactosycontratosenrepresentaciondelServiciosegunlodispuesto en las letrash)yo)del articulo7Â°dela LeyOrganica del Serviciode Impuestos Internos,contenida en el contenida en el articulo 1Â° del D.F.L. N7 de 1980, del Ministerio de Hacienda.
+2° Que, el Director tiene la facultad de administracionycelebraciondeactosycontratosenrepresentaciondelServiciosegunlodispuesto en las letrash)yo)del articulo7°dela LeyOrganica del Serviciode Impuestos Internos,contenida en el contenida en el articulo 1° del D.F.L. N7 de 1980, del Ministerio de Hacienda.
 
-3Â° Que, para tales efectos se ha acordado la firmadelpresenteConveniodeColaboracionMutuaï¼Œconelobjetodepoderdesarrollar conjuntamenteaccionesdestinadasaestimulareimpulsarlaeducacionfiscalytributaria,fomentar vigente,yfortalecerlaeducacioncivicadelacomunidadestudiantil.
+3° Que, para tales efectos se ha acordado la firmadelpresenteConveniodeColaboracionMutua，conelobjetodepoderdesarrollar conjuntamenteaccionesdestinadasaestimulareimpulsarlaeducacionfiscalytributaria,fomentar vigente,yfortalecerlaeducacioncivicadelacomunidadestudiantil.
 
-4Â°Que,envirtud deloanterior,y en cumplimientodesusfuncionesyenel marco delasnormaslegalesyreglamentariaspertinentes,el ServiciodeImpuestosInternosy el InstitutoProfesional AlEP,hanacordadosuscribir unconvenio decolaboracionmutua.
+4°Que,envirtud deloanterior,y en cumplimientodesusfuncionesyenel marco delasnormaslegalesyreglamentariaspertinentes,el ServiciodeImpuestosInternosy el InstitutoProfesional AlEP,hanacordadosuscribir unconvenio decolaboracionmutua.
 
 ## SE RESUELVE:
 
@@ -43,13 +44,13 @@ E
 
 ## INSTITUTO PROFESIONALAIEP
 
-En Santiago, con fecha 02 de diciembre del ano 2019,comparecen,por una parte,el Servicio de Impuestos Internos, RUT N 60.803.000-K,representado para estos efectos por su Director, don FernandoBarraza Luengo,RUTN ,ambosdomiciliadosenTeatinosN120,comunade Santiago, en adelante "Sll";y,por la otra, Instituto Profesional AIEP SpA, RUT NÂ°96.621.640-9, representadopordonFernandoMartinezSantana,RUTN ypor donJoseAntonio AlvarezdeToledoyMella,RUT todos domiciliados,paraestosefectos,enAv.Santa Maria N0792,comuna deProvidencia,Santiago,en adelante,e indistintamenteâ€œAlEP";quienes han acordadosuscribirelpresenteconveniodecolaboracionmutua:
+En Santiago, con fecha 02 de diciembre del ano 2019,comparecen,por una parte,el Servicio de Impuestos Internos, RUT N 60.803.000-K,representado para estos efectos por su Director, don FernandoBarraza Luengo,RUTN ,ambosdomiciliadosenTeatinosN120,comunade Santiago, en adelante "Sll";y,por la otra, Instituto Profesional AIEP SpA, RUT N°96.621.640-9, representadopordonFernandoMartinezSantana,RUTN ypor donJoseAntonio AlvarezdeToledoyMella,RUT todos domiciliados,paraestosefectos,enAv.Santa Maria N0792,comuna deProvidencia,Santiago,en adelante,e indistintamente“AlEP";quienes han acordadosuscribirelpresenteconveniodecolaboracionmutua:
 
 Primero:Objeto del convenio.
 
 Lasentidadesindividualizadas enel parrafo anterior hanacordadolafirma delpresenteconvenio de colaboracion mutua,con el objeto depoder desarrollar conjuntamente acciones destinadas a estimulareimpulsarla educacionfiscaly tributaria,fomentarel conocimientoylapractica deun comportamiento tributarioresponsable acorde con lalegislacionvigente,yfortalecer la educacion civica de la comunidad estudiantil.
 
-Entiendase para efectos deesteconvenio que toda aquellareferenciaa losterminos"ambitofiscal" oâ€œtemasfiscales",comprendera aquellas materiasrelacionadas con la competencia del Serviciode Impuestos Internos,esto es,impuestos internos actualmente establecidos o que se establecieren, encomendadopor la leya una autoridaddiferente.
+Entiendase para efectos deesteconvenio que toda aquellareferenciaa losterminos"ambitofiscal" o“temasfiscales",comprendera aquellas materiasrelacionadas con la competencia del Serviciode Impuestos Internos,esto es,impuestos internos actualmente establecidos o que se establecieren, encomendadopor la leya una autoridaddiferente.
 
 Segundo: Formas de materializar este convenio.
 
@@ -69,14 +70,14 @@ anoy la implementacion de Nucleos de Apoyo Fiscal (NAF) en algunas sedes que imp
 
 * d)Provisiondecupospararealizaciondepracticasprofesionales.
 
-Consisteenlaconvocatoriapararealizarpracticasprofesionalesopracticasintermediasenlas DireccionesRegionalesoUnidadesdelSll.Enesta actividad tambienseincorpora laposibilidad derealizarlapracticaprofesionala traves del"ProgramaPracticas Chile"delServicioCivil,para locual deberaseguirseelprocedimientoinstitucionalreferidoestablecidoenel OficioNÂ°16, de 2016,dela Subdireccion de Desarrollo de Personas.
+Consisteenlaconvocatoriapararealizarpracticasprofesionalesopracticasintermediasenlas DireccionesRegionalesoUnidadesdelSll.Enesta actividad tambienseincorpora laposibilidad derealizarlapracticaprofesionala traves del"ProgramaPracticas Chile"delServicioCivil,para locual deberaseguirseelprocedimientoinstitucionalreferidoestablecidoenel OficioN°16, de 2016,dela Subdireccion de Desarrollo de Personas.
 
 objetivo, forma de ejecucion y recursos necesarios para cada uno de ellos,|se encuentran especificadasenlosanexosqueformanparteintegrantedeesteconvenio,queson
 
-* AnexoNÂ°1-AsistenciadurantelaOperacionRenta.
-* Anexo NÂ°2-Nucleo de Apoyo Fiscal.
-* AnexoNÂ°3-Practicasprofesionales.
-* AnexoNÂ°4-Charlas de difusionycapacitacion a contribuyentes.
+* AnexoN°1-AsistenciadurantelaOperacionRenta.
+* Anexo N°2-Nucleo de Apoyo Fiscal.
+* AnexoN°3-Practicasprofesionales.
+* AnexoN°4-Charlas de difusionycapacitacion a contribuyentes.
 
 ## e)Otras actividades.
 
@@ -86,20 +87,20 @@ Ambasinstitucionespodranacordareldesarrolloeimplementaciondeotrasactividadesenel
 
 ## El Sll se compromete a:
 
-* a) Entregarlos contenidos necesariospara ser utilizados comobase parael desarrollo de actividades academicas obligatorias. Loscontenidosrelacionadosconeducacionfiscalytributariaseranelaboradosporel Sll,porla OficinadeAsistenciay Educacion alContribuyenteï¼Œdependientedela Subdireccion de Asistencia al Contribuyente, de acuerdo con sus necesidades y planes generales de educacion fiscalyestarandisponiblesparaelrestodelaciudadania,porloquesuusonoserarestrictivo para AlEP.Sobre los costos de produccionyreproduccion de estos contenidos en diferentes medioso materiales,seranasumidosporla parte quelosgenere.
+* a) Entregarlos contenidos necesariospara ser utilizados comobase parael desarrollo de actividades academicas obligatorias. Loscontenidosrelacionadosconeducacionfiscalytributariaseranelaboradosporel Sll,porla OficinadeAsistenciay Educacion alContribuyente，dependientedela Subdireccion de Asistencia al Contribuyente, de acuerdo con sus necesidades y planes generales de educacion fiscalyestarandisponiblesparaelrestodelaciudadania,porloquesuusonoserarestrictivo para AlEP.Sobre los costos de produccionyreproduccion de estos contenidos en diferentes medioso materiales,seranasumidosporla parte quelosgenere.
 
 1. institucionesacuerden,paraserrealizadas enlasdependenciasdeAIEP,enfechaadeterminar segun la disponibilidad de los expositores y de acuerdo con la disponibilidad de AlEP,no alterandoelnormalfuncionamientodelasederespectiva.
-2. Recibir alumnos enpractica de carreras afines con elquehacer delServiciodeImpuestos Internos bajo la normativa establecida en el D.L.NÂ°2.080, de 1978, en el Oficio Ordinario NÂ° OficioNÂ°16,del 2016,dela Subdirecci6ndeDesarrollo dePersonas.
+2. Recibir alumnos enpractica de carreras afines con elquehacer delServiciodeImpuestos Internos bajo la normativa establecida en el D.L.N°2.080, de 1978, en el Oficio Ordinario N° OficioN°16,del 2016,dela Subdirecci6ndeDesarrollo dePersonas.
 
 alafactibilidaddecontarconladisponibilidadderecursoshumanosymaterialesnecesariospara llevarlos a cabo, y este convenio no generara obligacion de pago de ninguna naturaleza por ambas partes.
 
 Porotraparte,AlEPsecomprometea:
 
 * a)Elaborar-conloscontenidosy/omaterial queel Sll le entreguereferido a educacionfiscal y tributaria-actividades.educativas asociadasa losmodulos delas carrerasque AlEP imparte.
-* bï¼‰ Generar-conel material queel Sll leentregue-y cuandoAlEPloestimenecesario,capsulas de auto-instruccionparainsertarenlosmodulosdecarrerasafines.
+* b） Generar-conel material queel Sll leentregue-y cuandoAlEPloestimenecesario,capsulas de auto-instruccionparainsertarenlosmodulosdecarrerasafines.
 * Generar otras actividades y/o materiales educativos, enfocados en la educacion fiscal y tributaria,queambasinstituciones acuerdenyestablezcandecomunacuerdo.
-* dï¼‰ Ponerestematerialadisposiciondelos estudiantesydocentesmedianteuhaulavirtualo clasespresenciales.
-* eï¼‰ Ofrecerasusestudiantesregularesla opcion derealizarsupracticaprofesional enelSll,en las condicionesyperiodicidad que ambasinstitucionesacuerden.
+* d） Ponerestematerialadisposiciondelos estudiantesydocentesmedianteuhaulavirtualo clasespresenciales.
+* e） Ofrecerasusestudiantesregularesla opcion derealizarsupracticaprofesional enelSll,en las condicionesyperiodicidad que ambasinstitucionesacuerden.
 
 Cabe indicar que los compromisos adoptados por AlEP quedan sujetos a la factibilidad de contar con ladisponibilidadderecursoshumanosymaterialesnecesariosparallevarlosacabol
 
@@ -137,9 +138,9 @@ Las partes comparecientes,asimismo,se comprometen a tratar de resolver de comun 
 
 ## Noveno: Personerias.
 
-La personeria de don Fernando Barraza Luengo, para actuar en representacion del Sll, consta en Decreto Supremo NÂ°1068, del 10 de agosto de 2018, del Ministerio de Hacienda.A su vez, las facultades de administracionycelebracionde actosycontratosenrepresentaciondelServiciode NÂ°7 de1980,del Ministerio de Hacienda.
+La personeria de don Fernando Barraza Luengo, para actuar en representacion del Sll, consta en Decreto Supremo N°1068, del 10 de agosto de 2018, del Ministerio de Hacienda.A su vez, las facultades de administracionycelebracionde actosycontratosenrepresentaciondelServiciode N°7 de1980,del Ministerio de Hacienda.
 
-La personeria de donFernandoMartinez Santanay de don Jose AntonioAlvarez deToledoy Mella, para representara InstitutoProfesional AlEP SpA,consta en escritura publica de fecha 28 de agosto en escritura publica de fecha 24 de junio de 2019,repertorio NÂ°18889-2019,otorgada en la cuadragesimaprimeranotariadeSantiagodedonFelixJaraCadot.
+La personeria de donFernandoMartinez Santanay de don Jose AntonioAlvarez deToledoy Mella, para representara InstitutoProfesional AlEP SpA,consta en escritura publica de fecha 28 de agosto en escritura publica de fecha 24 de junio de 2019,repertorio N°18889-2019,otorgada en la cuadragesimaprimeranotariadeSantiagodedonFelixJaraCadot.
 
 El presente convenio sefirma en cuatro ejemplares de un mismo tenory fecha,quedando dos de ellos enpoder decada una delaspartes.
 
@@ -151,7 +152,7 @@ FERNANDOMARTINEZSANTANA p.p.INSTITUTO PROFESIONALAIEP SPA
 
 JOSEANTONIOALVAREZDETOLEDOYMELLA
 
-## ANEXO NÂ° 1
+## ANEXO N° 1
 
 ## ASISTENCIADURANTELAOPERACIONRENTA
 
@@ -188,7 +189,7 @@ El fin de este producto es que AlEP pueda apoyary cooperar con el proceso de "Op
 Paracumplirel objetivosenialadosedebenrealizar lassiguientes acciones:
 
 1. DeterminarlassedesdeAlEPdondeseejecutaranaccionesdecooperacionparalaasistencia durantelaOperacionRenta.
-2. ambas instituciones),quienes seran los responsables de definir,implementarï¼Œrealizar el seguimientoyasegurarlosresultadosacordados.
+2. ambas instituciones),quienes seran los responsables de definir,implementar，realizar el seguimientoyasegurarlosresultadosacordados.
 3. 3.Los coordinadores locales-en una fecha de comun acuerdo-realizaran una primera reunion en la cual confirmaran:
 4. Elemplazamientodondeserealizaralaactividaddeasistencia.
 5. El calendariode actividadesy horarios,por ejemplo:
@@ -242,7 +243,7 @@ Losrecursosnecesariospara esta actividad de asistencia,someramente,son:
 
 [<u>www.sie</u>](http://www.sie)
 
-## ANEXONÂ°2 NUCLEODEAPOYOFISCAL
+## ANEXON°2 NUCLEODEAPOYOFISCAL
 
 DE
 
@@ -311,7 +312,7 @@ Lospasospara la implementacion de losNAFson los siguientes:
 * 5.Capacitacion presencial.Esta a cargo de monitores del Sll y se realiza a los alumnos seleccionados y sus docentes, especialmente en los temas que son los mas relevantes para el grupo de contribuyentesobjetivo.
 * 6.Instalacion de un espaciofisico.Estoserealiza enunasedede lainstitucionde educacion superior, equipado con escritorios y sillas dispuestos en estaciones de trabajo, coh computadores conectadosa Internet,pararecibirydara atenciona contribuyentes.
 * 7.Planificacion y diseno dela atencion:
-* a)Del horario (por ejemplo, dos veces por semana, 3 horas al dia, despuÃ©s delas 14:00 horas, etc.)y los turnos de los alumnosy del docente que supervisara cada turno,para vigilar el procesodeatencionylas actuacionesdelos alumnos.
+* a)Del horario (por ejemplo, dos veces por semana, 3 horas al dia, después delas 14:00 horas, etc.)y los turnos de los alumnosy del docente que supervisara cada turno,para vigilar el procesodeatencionylas actuacionesdelos alumnos.
 * b) De una metodologia de convocatoria a pequenios contribuyentes, que podran ser llamados o solicitados a travesdeotras entidades,porejemplo,municipalidades.
 * Deunprotocolodeatencion.
 * 8.Atencion a pequenos contribuyentes como parte del programa de formacion de la institucion.
@@ -322,13 +323,13 @@ Lospasospara la implementacion de losNAFson los siguientes:
 ## Por parte del Sll:
 
 * Nombrarauncoordinadorparalaimplementacion.
-* Desarrollo de contenidos3 (materias fiscales, presentaciones, ejercicios, ett.). ã€‚
+* Desarrollo de contenidos3 (materias fiscales, presentaciones, ejercicios, ett.). 。
 * Diseno de los cursos presenciales (tiempo, actividades, lugar,etc.).
 * ? Poneradisposicionmonitoresparadictarloscursos.
 
 ## Por parte de AlEP:
 
-* ã€‚ Nombrar a un coordinador para la implementacion.
+* 。 Nombrar a un coordinador para la implementacion.
 * Participacion de los docentes que estaran a cargo de los NAF (uno o dos por|cada Nucleo).
 
 2 Lo ideal es que sea en un horario complementario a la atencion de publico en el Sll.
@@ -337,16 +338,16 @@ Lospasospara la implementacion de losNAFson los siguientes:
 
 [<u>www.sll.c</u>](http://www.sll.c)!
 
-* Â® Desarrollo de contenidos.
-* Â® Habilitaciondel materialeducativo enlaplataforma adecuadaparaquelos alumnos accedany participen.
+* ® Desarrollo de contenidos.
+* ® Habilitaciondel materialeducativo enlaplataforma adecuadaparaquelos alumnos accedany participen.
 * Gestion de la inscripcion de alumnos y su seleccion posterior.
 * Habilitacion del espacio fisico(escritorios,sillas,computadores,conexion alnternet,etc.).
-* Programacion de la actividad (ubicacionï¼Œimplementacionï¼Œhorarios,convocatoria de contribuyentes, protocolo de atencion,etc.).
+* Programacion de la actividad (ubicacion，implementacion，horarios,convocatoria de contribuyentes, protocolo de atencion,etc.).
 * Desarrolloysupervisiondelaatencionen losNAF.
 
 Respecto a los plazos estimados, la cantidad de modulos de atencion a contribuyentes en AlEP y todos losdetallesparamaterializarlosNAF,deberanser acordadoscasoacaso.
 
-## ANEXONÂ°3 PRACTICASPROFESIONALES
+## ANEXON°3 PRACTICASPROFESIONALES
 
 DE
 
@@ -382,7 +383,7 @@ Por lo anterior,esteproducto consiste en realizaruna convocatoria publica para q
 
 Realizaruna convocatoriaparaquelos alumnosdelascarreras afinesconelquehacerdelSll que dicta AIEP,puedanrealizarsupracticaprofesionalenlasoficinasdelServiciodeImpuestos Internos.
 
-Para tal efecto, la gestion y coordinacion de las practicas profesionales que se acuerden, se efectuara el Oficio NÂ°16,de 29.07.2016dela Subdirecci6n de Desarrollo delasPersonas,sin perjuicio que conforme a esta ultima instruccion, el Servicio de Impuestos Internospodra, directa y excepcionalmente, contratar otras practicas si se requiere,bajo coordinacion de esa misma Subdireccion.
+Para tal efecto, la gestion y coordinacion de las practicas profesionales que se acuerden, se efectuara el Oficio N°16,de 29.07.2016dela Subdirecci6n de Desarrollo delasPersonas,sin perjuicio que conforme a esta ultima instruccion, el Servicio de Impuestos Internospodra, directa y excepcionalmente, contratar otras practicas si se requiere,bajo coordinacion de esa misma Subdireccion.
 
 ## DESCRIPCIONDELFUNCIONAMIENTO.
 
@@ -404,7 +405,7 @@ Losrecursosnecesariosson:
 
 * Nombrara unencargadoporDireccionRegional.
 * Realizar un levantamiento de necesidades de alumnos en practica y un programa, con fechas y periodos.
-* Â® Coordinarlaentregadelainformacionalainstituciondeeducacionsuperior.
+* ® Coordinarlaentregadelainformacionalainstituciondeeducacionsuperior.
 * Recibir los curriculos.
 * Realizarla seleccion.
 * Supervisar el desarrollo de la practica profesional, de acuerdo con el programa definido.
@@ -414,10 +415,10 @@ Losrecursosnecesariosson:
 
 * Nombrarauncoordinadorporsede.
 * Realizarelllamadoparaproveerdecandidatosalapracticaprofesional.
-* Validar la calidad de alumno regular,nivel de estudios y que cumpla con las condiciones Â® exigidas.
+* Validar la calidad de alumno regular,nivel de estudios y que cumpla con las condiciones ® exigidas.
 * Supervisarlapracticadeacuerdoconsusprocedimientosinternos.
 
-## ANEXONÂ°4 CHARLASDEDIFUSIONYCAPACITACIONACONTRIBUYENTES
+## ANEXON°4 CHARLASDEDIFUSIONYCAPACITACIONACONTRIBUYENTES
 
 DE
 
@@ -468,11 +469,11 @@ Losrecursosnecesariospara'realizarlascharlasson:
 
 * Nombrara uncoordinadorporDireccionRegional.
 * Prepararlaspresentacionesdeacuerdoconlostemasyadefinidos.
-* Â® Designar a los monitores.
+* ® Designar a los monitores.
 
 ## Porparte de AlEP:
 
-* Â® Nombrarauncoordinadorporsede.
+* ® Nombrarauncoordinadorporsede.
 * Ponera disposicionlassalasylosimplementosnecesarios.
 * Convocaralosasistentes.
 * Controlar la asistenciaytodalalogisticapara asegurarel correcto desarrollpdelacharla.

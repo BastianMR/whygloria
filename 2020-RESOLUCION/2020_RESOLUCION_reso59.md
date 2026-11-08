@@ -1,114 +1,115 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 59 (2020)
-description: Imparte instrucciones sobre consultas de interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+---
+type: "SII Resolución"
+title: "Resolución N° 59 (2020)"
+description: "Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias."
 tags: [SII, 2020, resolucion]
 ---
 
-Imparte instrucciones sobre consultas de interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+
+Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias.
 
 SANTIAGO, 01 DE JUNIO DE 2020.
 
-RESOLUCIÃ“N EX. SII NÂ° 59 VISTOS:
+RESOLUCIÓN EX. SII N° 59 VISTOS:
 
-Lo dispuesto en los NÂ°s 1 y 2, de la letra A, del artÃ­culo 6Â° del CÃ³digo Tributario; en las letras a), b) e i) del artÃ­culo 7Â°, todos del Decreto con Fuerza de Ley NÂ°7, de 1980, del Ministerio de Hacienda, sobre Ley OrgÃ¡nica del Servicio de Impuestos Internos; y en el artÃ­culo primero numeral 1. Letra a) de la Ley NÂ°21.210.
+Lo dispuesto en los N°s 1 y 2, de la letra A, del artículo 6° del Código Tributario; en las letras a), b) e i) del artículo 7°, todos del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda, sobre Ley Orgánica del Servicio de Impuestos Internos; y en el artículo primero numeral 1. Letra a) de la Ley N°21.210.
 
 ## CONSIDERANDO:
 
-1Â° Que, el artÃ­culo primero numeral 1. Letra a) de la Ley NÂ° 21.210, modificÃ³ la parte final del NÂ° 2 de la letra A del inciso segundo del artÃ­culo 6Â° del CÃ³digo Tributario, disponiendo que corresponde al Director del Servicio de Impuestos Internos absolver las consultas que sobre la aplicaciÃ³n e interpretaciÃ³n de las normas tributarias le formulen los funcionarios del Servicio, por conducto regular, o las autoridades, asÃ­ como tambiÃ©n las que, en general, formule toda otra persona.
+1° Que, el artículo primero numeral 1. Letra a) de la Ley N° 21.210, modificó la parte final del N° 2 de la letra A del inciso segundo del artículo 6° del Código Tributario, disponiendo que corresponde al Director del Servicio de Impuestos Internos absolver las consultas que sobre la aplicación e interpretación de las normas tributarias le formulen los funcionarios del Servicio, por conducto regular, o las autoridades, así como también las que, en general, formule toda otra persona.
 
-2Âº Que, para el Ãºltimo caso, la seÃ±alada norma agrega que el Servicio, mediante resoluciÃ³n, regularÃ¡ entre otras materias, el plazo en que debe pronunciarse, la forma en que se deberÃ¡ presentar la consulta y su tramitaciÃ³n, contemplando un procedimiento que permita al consultante imponerse sobre el estado de la misma, a travÃ©s del sitio web del Servicio, en el cual se publicarÃ¡n, entre otras cuestiones, la fecha de presentaciÃ³n, un extracto de la materia consultada, los trÃ¡mites intermedios con sus respectivas fechas y la respuesta a la consulta. Asimismo, el Servicio mantendrÃ¡ un reporte actualizado y de carÃ¡cter pÃºblico en su sitio web, informando la fecha de presentaciÃ³n de las consultas formuladas, nombre o razÃ³n social y rol Ãºnico tributario del peticionario, un extracto de la materia y su fecha de respuesta.
+2º Que, para el último caso, la señalada norma agrega que el Servicio, mediante resolución, regulará entre otras materias, el plazo en que debe pronunciarse, la forma en que se deberá presentar la consulta y su tramitación, contemplando un procedimiento que permita al consultante imponerse sobre el estado de la misma, a través del sitio web del Servicio, en el cual se publicarán, entre otras cuestiones, la fecha de presentación, un extracto de la materia consultada, los trámites intermedios con sus respectivas fechas y la respuesta a la consulta. Asimismo, el Servicio mantendrá un reporte actualizado y de carácter público en su sitio web, informando la fecha de presentación de las consultas formuladas, nombre o razón social y rol único tributario del peticionario, un extracto de la materia y su fecha de respuesta.
 
-3Âº Que, en concordancia con lo anterior, la letra b) del artÃ­culo 7Â° del Decreto con Fuerza de Ley NÂ° 7 del Ministerio de Hacienda de 1980, que fija el texto de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, confiere al Director la facultad de interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
+3º Que, en concordancia con lo anterior, la letra b) del artículo 7° del Decreto con Fuerza de Ley N° 7 del Ministerio de Hacienda de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, confiere al Director la facultad de interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
 
-4Âº Que, el artÃ­culo 6Â°, Letra B, NÂ° 1 del CÃ³digo Tributario, establece que compete a los Directores Regionales, en la jurisdicciÃ³n de su territorio, la facultad de absolver las consultas sobre la aplicaciÃ³n e interpretaciÃ³n de las normas tributarias.
+4º Que, el artículo 6°, Letra B, N° 1 del Código Tributario, establece que compete a los Directores Regionales, en la jurisdicción de su territorio, la facultad de absolver las consultas sobre la aplicación e interpretación de las normas tributarias.
 
-5Âº Que, de acuerdo a lo dispuesto en el artÃ­culo 7Â° letra c) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, el Director tiene la facultad de supervigilar el cumplimiento de las instrucciones que imparta, asÃ­ como la estricta sujeciÃ³n de los dictÃ¡menes y resoluciones a las instrucciones que sobre las leyes y reglamentos emita la DirecciÃ³n. De acuerdo al artÃ­culo 45 inciso primero de la misma ley, los informes que importen un cambio de doctrina o que se refieran a materias sobre las cuales no haya precedentes, deberÃ¡n ser sometidos a la aprobaciÃ³n del Director.
+5º Que, de acuerdo a lo dispuesto en el artículo 7° letra c) de la Ley Orgánica del Servicio de Impuestos Internos, el Director tiene la facultad de supervigilar el cumplimiento de las instrucciones que imparta, así como la estricta sujeción de los dictámenes y resoluciones a las instrucciones que sobre las leyes y reglamentos emita la Dirección. De acuerdo al artículo 45 inciso primero de la misma ley, los informes que importen un cambio de doctrina o que se refieran a materias sobre las cuales no haya precedentes, deberán ser sometidos a la aprobación del Director.
 
-6Â° Que, en consecuencia, la facultad de los Directores Regionales opera sÃ³lo en caso que la consulta formulada pueda ser absuelta en base a criterios previamente fijados por la DirecciÃ³n Nacional, y aplicables al caso consultado.
+6° Que, en consecuencia, la facultad de los Directores Regionales opera sólo en caso que la consulta formulada pueda ser absuelta en base a criterios previamente fijados por la Dirección Nacional, y aplicables al caso consultado.
 
-7Âº Que, el artÃ­culo quinto transitorio de la Ley NÂº21.210, dispone que las modificaciones incorporadas por el artÃ­culo 1Âº de dicha ley a lo dispuesto en el nÃºmero 2 de la letra A) del CÃ³digo Tributario; regirÃ¡n transcurridos tres meses contados desde la entrada en vigencia de la citada ley.
+7º Que, el artículo quinto transitorio de la Ley Nº21.210, dispone que las modificaciones incorporadas por el artículo 1º de dicha ley a lo dispuesto en el número 2 de la letra A) del Código Tributario; regirán transcurridos tres meses contados desde la entrada en vigencia de la citada ley.
 
 ## SE RESUELVE:
 
-1Â° FÃ­jese el siguiente procedimiento para la gestiÃ³n de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias que se presente ante el Director del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artÃ­culo 6Âº letra A) NÂº 2 del CÃ³digo Tributario:
+1° Fíjese el siguiente procedimiento para la gestión de consultas sobre interpretación y aplicación de disposiciones tributarias que se presente ante el Director del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6º letra A) Nº 2 del Código Tributario:
 
-## A) Del ingreso de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+## A) Del ingreso de consultas sobre interpretación y aplicación de disposiciones tributarias.
 
-El peticionario deberÃ¡ ingresar las consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias a travÃ©s del sitio web [<u>www.sii.cl</u>](http://www.sii.cl), mediante el MenÃº de Servicios online, opciÃ³n Peticiones Administrativas y otras Solicitudes / Consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias / Formulario de ingreso de Consultas.
+El peticionario deberá ingresar las consultas sobre interpretación y aplicación de disposiciones tributarias a través del sitio web [<u>www.sii.cl</u>](http://www.sii.cl), mediante el Menú de Servicios online, opción Peticiones Administrativas y otras Solicitudes / Consultas sobre interpretación y aplicación de disposiciones tributarias / Formulario de ingreso de Consultas.
 
-El peticionario deberÃ¡ ingresar con su RUT y clave de autenticaciÃ³n del Servicio de Impuestos Internos u otro mecanismo de autentificaciÃ³n cuya utilizaciÃ³n sea implementada a futuro. A su vez, podrÃ¡ efectuar consultas a nombre propio o representando a otro, si asÃ­ ha sido habilitado para ello, de acuerdo con las instrucciones de la Circular NÂ° 58 del aÃ±o 2004, que instruye sobre el procedimiento de obtenciÃ³n de claves de internet en las unidades y de la posibilidad para los peticionarios de autorizar a terceros para que realicen en su nombre trÃ¡mites en lÃ­nea disponibles en el sitio web del Servicio de Impuestos Internos.
+El peticionario deberá ingresar con su RUT y clave de autenticación del Servicio de Impuestos Internos u otro mecanismo de autentificación cuya utilización sea implementada a futuro. A su vez, podrá efectuar consultas a nombre propio o representando a otro, si así ha sido habilitado para ello, de acuerdo con las instrucciones de la Circular N° 58 del año 2004, que instruye sobre el procedimiento de obtención de claves de internet en las unidades y de la posibilidad para los peticionarios de autorizar a terceros para que realicen en su nombre trámites en línea disponibles en el sitio web del Servicio de Impuestos Internos.
 
-Para ello, completarÃ¡ el formulario de ingreso y en el se deberÃ¡:
+Para ello, completará el formulario de ingreso y en el se deberá:
 
-1. Formalizar de manera digitalizada su consulta, aportando de igual forma los documentos que estime necesario (tales como contratos, escrituras, poderes u otros), sin necesidad de presentaciÃ³n fÃ­sica de los mismos.
-2. Indicar si el peticionario y la materia consultada, a la fecha de ingreso, estÃ¡n siendo objeto de un proceso de fiscalizaciÃ³n y/o de un litigio pendiente, para lo cual deberÃ¡ seleccionar los recuadros correspondientes.
-3. Agregar la materia o resumen de su consulta, el que serÃ¡ publicado en el Registro PÃºblico de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias , el que serÃ¡ de pÃºblico conocimiento en el sitio web del Servicio.
+1. Formalizar de manera digitalizada su consulta, aportando de igual forma los documentos que estime necesario (tales como contratos, escrituras, poderes u otros), sin necesidad de presentación física de los mismos.
+2. Indicar si el peticionario y la materia consultada, a la fecha de ingreso, están siendo objeto de un proceso de fiscalización y/o de un litigio pendiente, para lo cual deberá seleccionar los recuadros correspondientes.
+3. Agregar la materia o resumen de su consulta, el que será publicado en el Registro Público de consultas sobre interpretación y aplicación de disposiciones tributarias , el que será de público conocimiento en el sitio web del Servicio.
 
-En la materia o resumen el peticionario deberÃ¡:
+En la materia o resumen el peticionario deberá:
 
-* Entregar informaciÃ³n meramente genÃ©rica, sin antecedentes sobre la cuantÃ­a o fuente de las rentas, ni las pÃ©rdidas, gastos o cualesquiera datos relativos a ellas, que figuren en las declaraciones de impuestos.
-* Efectuarse en tÃ©rminos formales y respetuosos.
+* Entregar información meramente genérica, sin antecedentes sobre la cuantía o fuente de las rentas, ni las pérdidas, gastos o cualesquiera datos relativos a ellas, que figuren en las declaraciones de impuestos.
+* Efectuarse en términos formales y respetuosos.
 
-Dado lo anterior, la informaciÃ³n agregada en la materia o resumen es de exclusiva responsabilidad del peticionario.
+Dado lo anterior, la información agregada en la materia o resumen es de exclusiva responsabilidad del peticionario.
 
-1. Aceptar el ingreso de la consulta, conforme a las disposiciones de la presente resoluciÃ³n, completando el recuadro dispuesto para ello.
+1. Aceptar el ingreso de la consulta, conforme a las disposiciones de la presente resolución, completando el recuadro dispuesto para ello.
 
-Finalizado el trÃ¡mite, el peticionario obtendrÃ¡ un comprobante de ingreso que contendrÃ¡ un nÃºmero de folio de su consulta y le permitirÃ¡ efectuar su seguimiento a travÃ©s del mismo sitio web.
+Finalizado el trámite, el peticionario obtendrá un comprobante de ingreso que contendrá un número de folio de su consulta y le permitirá efectuar su seguimiento a través del mismo sitio web.
 
-## B) Del Registro PÃºblico de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+## B) Del Registro Público de consultas sobre interpretación y aplicación de disposiciones tributarias.
 
-Cada vez que el peticionario ingrese una consulta, la materia o resumen de Ã©sta se visualizarÃ¡ automÃ¡ticamente en el Registro PÃºblico de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias, dispuesto en el sitio web del Servicio, el que corresponde a un Ã­ndice pÃºblico que resume todas las consultas recibidas por el Servicio y que se encuentran pendientes de resolver o que fueron desistidas. El registro contendrÃ¡:
+Cada vez que el peticionario ingrese una consulta, la materia o resumen de ésta se visualizará automáticamente en el Registro Público de consultas sobre interpretación y aplicación de disposiciones tributarias, dispuesto en el sitio web del Servicio, el que corresponde a un índice público que resume todas las consultas recibidas por el Servicio y que se encuentran pendientes de resolver o que fueron desistidas. El registro contendrá:
 
 * Folio
-* Fecha de recepciÃ³n
+* Fecha de recepción
 * Nombre del solicitante
 * Materia o resumen
 * Estado (pendiente o desistida)
 * Fecha estimada de respuesta
-* Ley y artÃ­culos relacionados
+* Ley y artículos relacionados
 
-Sin perjuicio de la responsabilidad del peticionario por la informaciÃ³n agregada en la materia o resumen, el Servicio se reserva la facultad de eliminar del Registro PÃºblico aquellas consultas que no cumplan los requisitos mencionados en la letra A) NÂ°3 de la presente resoluciÃ³n. Asimismo, se eliminarÃ¡n tambiÃ©n de dicho registro aquellas consultas que no correspondan al Ã¡mbito de aplicaciÃ³n de la presente resoluciÃ³n, no obstante, su adecuada derivaciÃ³n.
+Sin perjuicio de la responsabilidad del peticionario por la información agregada en la materia o resumen, el Servicio se reserva la facultad de eliminar del Registro Público aquellas consultas que no cumplan los requisitos mencionados en la letra A) N°3 de la presente resolución. Asimismo, se eliminarán también de dicho registro aquellas consultas que no correspondan al ámbito de aplicación de la presente resolución, no obstante, su adecuada derivación.
 
-Considerando que las consultas solo deben efectuarse a travÃ©s del sitio web en la forma antes indicada, si el interesado presenta una consulta relativa a la interpretaciÃ³n o aplicaciÃ³n de las disposiciones tributarias en formato papel directamente ante una DirecciÃ³n Regional o Unidad de este Servicio, el funcionario de la respectiva unidad deberÃ¡ asistir al interesado para que pueda ingresar su consulta por la vÃ­a establecida en este tÃ­tulo.
+Considerando que las consultas solo deben efectuarse a través del sitio web en la forma antes indicada, si el interesado presenta una consulta relativa a la interpretación o aplicación de las disposiciones tributarias en formato papel directamente ante una Dirección Regional o Unidad de este Servicio, el funcionario de la respectiva unidad deberá asistir al interesado para que pueda ingresar su consulta por la vía establecida en este título.
 
-## C) AsignaciÃ³n y anÃ¡lisis de las consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+## C) Asignación y análisis de las consultas sobre interpretación y aplicación de disposiciones tributarias.
 
-Una vez ingresada la consulta, Ã©sta serÃ¡ asignada por el Gabinete del Director a la SubdirecciÃ³n competente para su anÃ¡lisis y propuesta de respuesta.
+Una vez ingresada la consulta, ésta será asignada por el Gabinete del Director a la Subdirección competente para su análisis y propuesta de respuesta.
 
-El Gabinete del Director definirÃ¡ una fecha estimada para la emisiÃ³n de la respuesta, la cual serÃ¡ conocida por el solicitante, a travÃ©s de la opciÃ³n de Seguimiento, y tambiÃ©n serÃ¡ de pÃºblico conocimiento a travÃ©s del Registro PÃºblico de consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias .
+El Gabinete del Director definirá una fecha estimada para la emisión de la respuesta, la cual será conocida por el solicitante, a través de la opción de Seguimiento, y también será de público conocimiento a través del Registro Público de consultas sobre interpretación y aplicación de disposiciones tributarias .
 
-La fecha estimada no superarÃ¡ los 90 dÃ­as hÃ¡biles administrativos salvo que, por motivos excepcionales tales como complejidad o requerimiento a otras autoridades, instituciones o paÃ­ses se precise un mayor plazo o prÃ³rroga del original, lo que serÃ¡ definido, resuelto y publicado por el Gabinete del Director.
+La fecha estimada no superará los 90 días hábiles administrativos salvo que, por motivos excepcionales tales como complejidad o requerimiento a otras autoridades, instituciones o países se precise un mayor plazo o prórroga del original, lo que será definido, resuelto y publicado por el Gabinete del Director.
 
-Analizada la consulta, la SubdirecciÃ³n competente deberÃ¡ determinar si a Ã©sta le es aplicable un criterio previamente definido por la DirecciÃ³n del Servicio o definir la necesidad de emitir, modificar o complementar un criterio, proponiendo un proyecto de Oficio y/o Circular al Director.
+Analizada la consulta, la Subdirección competente deberá determinar si a ésta le es aplicable un criterio previamente definido por la Dirección del Servicio o definir la necesidad de emitir, modificar o complementar un criterio, proponiendo un proyecto de Oficio y/o Circular al Director.
 
-Adicionalmente, sin perjuicio de lo informado por el consultante en el formulario de ingreso, la SubdirecciÃ³n competente deberÃ¡ siempre verificar internamente si el
-
-<unknown>
+Adicionalmente, sin perjuicio de lo informado por el consultante en el formulario de ingreso, la Subdirección competente deberá siempre verificar internamente si el
 
 <unknown>
 
-peticionario que consulta estÃ¡ siendo objeto de un proceso de fiscalizaciÃ³n o si tiene pendiente un proceso judicial o la resolucion de otra consulta sobre los mismos hechos, y, podrÃ¡, ademÃ¡s, solicitar opiniÃ³n fundada a las Subdirecciones que estime pertinente, Directores Regionales o Director de Grandes Contribuyentes. Lo anterior, solo corresponde a una verificaciÃ³n para mejor anÃ¡lisis de la consulta y no impedirÃ¡ su respuesta.
+<unknown>
 
-Asimismo, mientras el Servicio no haya emitido respuesta, el contribuyente podrÃ¡ desistirse de su consulta, a travÃ©s de la opciÃ³n de Seguimiento.
+peticionario que consulta está siendo objeto de un proceso de fiscalización o si tiene pendiente un proceso judicial o la resolucion de otra consulta sobre los mismos hechos, y, podrá, además, solicitar opinión fundada a las Subdirecciones que estime pertinente, Directores Regionales o Director de Grandes Contribuyentes. Lo anterior, solo corresponde a una verificación para mejor análisis de la consulta y no impedirá su respuesta.
 
-## D) Respuesta a las consultas sobre interpretaciÃ³n y aplicaciÃ³n de disposiciones tributarias.
+Asimismo, mientras el Servicio no haya emitido respuesta, el contribuyente podrá desistirse de su consulta, a través de la opción de Seguimiento.
 
-En caso que la consulta deba ser resuelta aplicando un criterio ya existente, la SubdirecciÃ³n competente deberÃ¡ devolver la solicitud al Gabinete del Director, a objeto que ella sea reasignada al Director Regional con jurisdicciÃ³n en el territorio correspondiente al domicilio del contribuyente o al de su casa matriz, haciendo referencia a la Circular u Oficios aplicables en la materia con NÂ° y fecha, a objeto que se responda de acuerdo con la facultad que le otorga el NÂ° 1Â°, letra B) del artÃ­culo 6Â° del CÃ³digo Tributario. Dicha consulta continuarÃ¡ siendo gestionada, a travÃ©s de la misma aplicaciÃ³n web.
+## D) Respuesta a las consultas sobre interpretación y aplicación de disposiciones tributarias.
 
-Por el contrario, si se determina la necesidad de emitir, modificar o complementar un criterio de interpretaciÃ³n, el oficio de respuesta a la consulta serÃ¡ emitido por el Director y serÃ¡ puesto a disposiciÃ³n del solicitante, a travÃ©s de la opciÃ³n de Seguimiento, lo cual serÃ¡ informado a su casilla de correo electrÃ³nico, sin perjuicio de su publicaciÃ³n en la secciÃ³n web jurisprudencia administrativa del Servicio.
+En caso que la consulta deba ser resuelta aplicando un criterio ya existente, la Subdirección competente deberá devolver la solicitud al Gabinete del Director, a objeto que ella sea reasignada al Director Regional con jurisdicción en el territorio correspondiente al domicilio del contribuyente o al de su casa matriz, haciendo referencia a la Circular u Oficios aplicables en la materia con N° y fecha, a objeto que se responda de acuerdo con la facultad que le otorga el N° 1°, letra B) del artículo 6° del Código Tributario. Dicha consulta continuará siendo gestionada, a través de la misma aplicación web.
 
-## E) PublicaciÃ³n de jurisprudencia administrativa del Servicio.
+Por el contrario, si se determina la necesidad de emitir, modificar o complementar un criterio de interpretación, el oficio de respuesta a la consulta será emitido por el Director y será puesto a disposición del solicitante, a través de la opción de Seguimiento, lo cual será informado a su casilla de correo electrónico, sin perjuicio de su publicación en la sección web jurisprudencia administrativa del Servicio.
 
-Adicionalmente, los oficios de respuesta que emita la DirecciÃ³n del Servicio serÃ¡n publicados en el sitio web, [<u>www.sii.cl</u>](http://www.sii.cl), para el oportuno conocimiento de los funcionarios y contribuyentes en general, sin perjuicio de realizar la notificaciÃ³n correspondiente al consultante.
+## E) Publicación de jurisprudencia administrativa del Servicio.
 
-La publicaciÃ³n de los oficios se realizarÃ¡ considerando lo dispuesto en el artÃ­culo 35 del CÃ³digo Tributario y en caso que la respuesta contenga datos personales o sensibles, el Servicio procederÃ¡ a omitir dicha informaciÃ³n en la publicaciÃ³n general.
+Adicionalmente, los oficios de respuesta que emita la Dirección del Servicio serán publicados en el sitio web, [<u>www.sii.cl</u>](http://www.sii.cl), para el oportuno conocimiento de los funcionarios y contribuyentes en general, sin perjuicio de realizar la notificación correspondiente al consultante.
 
-A su vez, en caso que los oficios modifiquen criterios interpretativos previos emitidos por el Director, ellos deberÃ¡n ser publicados en el Diario Oficial.
+La publicación de los oficios se realizará considerando lo dispuesto en el artículo 35 del Código Tributario y en caso que la respuesta contenga datos personales o sensibles, el Servicio procederá a omitir dicha información en la publicación general.
 
-2Âº La presente resoluciÃ³n serÃ¡ aplicable para las consultas que se presenten a contar del 1Âº de junio de 2020, de acuerdo a lo dispuesto por el artÃ­culo quinto transitorio de la Ley NÂº 21.210.
+A su vez, en caso que los oficios modifiquen criterios interpretativos previos emitidos por el Director, ellos deberán ser publicados en el Diario Oficial.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+2º La presente resolución será aplicable para las consultas que se presenten a contar del 1º de junio de 2020, de acuerdo a lo dispuesto por el artículo quinto transitorio de la Ley Nº 21.210.
+
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
@@ -116,7 +117,7 @@ DIRECTOR
 
 CSM/SRG/CGG/PCO/DCG
 
-## DistribuciÃ³n:
+## Distribución:
 
 * -Internet.
 * -Al Diario Oficial en extracto.

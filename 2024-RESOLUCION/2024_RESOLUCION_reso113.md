@@ -1,51 +1,52 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 113 (2024)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE GE00301671
+---
+type: "SII Resolución"
+title: "Resolución N° 113 (2024)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00301671"
 tags: [SII, 2024, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE GE00301671
 
-MATERIA: TÃ‰RMINO DE GIRO SIMPLIFICADO, SEGÃšN LO DISPUESTO EN EL INCISO OCTAVO DEL ARTÃCULO 69Â° DEL CÃ“DIGO TRIBUTARIO.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00301671
+
+MATERIA: TÉRMINO DE GIRO SIMPLIFICADO, SEGÚN LO DISPUESTO EN EL INCISO OCTAVO DEL ARTÍCULO 69° DEL CÓDIGO TRIBUTARIO.
 
 SANTIAGO, 05 DE DICIEMBRE DE 2024
 
-RESOLUCIÃ“N EXENTA SII NÂ°113.-
+RESOLUCIÓN EXENTA SII N°113.-
 
 VISTOS:
 
-Lo dispuesto en los artÃ­culos 6Âº letra A), NÂºs 1 y 4, 15Â°, 68Â° y 69Â° inciso octavo del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974; artÃ­culo 7Âº letra b), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; nÃºmero 31 letra d), del artÃ­culo primero de la Ley 21.713 que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento econÃ³mico, el progreso social y la responsabilidad fiscal; Circular NÂ° 42, de 05.09.2013; Circular NÂ° 30, de 10.05.2016; y Circular NÂ° 62, de 24.09.2020.
+Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15°, 68° y 69° inciso octavo del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; número 31 letra d), del artículo primero de la Ley 21.713 que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal; Circular N° 42, de 05.09.2013; Circular N° 30, de 10.05.2016; y Circular N° 62, de 24.09.2020.
 
 ## CONSIDERANDO:
 
-1Â° Que, la letra d) del artÃ­culo 69Â° de la Ley NÂ° 21.713, sobre cumplimiento de las obligaciones tributarias, establece que: 'Sin perjuicio de lo seÃ±alado en los incisos anteriores, los contribuyentes sujetos al artÃ­culo 14 letra D) de la Ley sobre Impuesto a la Renta podrÃ¡n solicitar un tÃ©rmino de giro simplificado siempre que ademÃ¡s de la declaraciÃ³n y los antecedentes seÃ±alados en el inciso primero acompaÃ±en una declaraciÃ³n en la respectiva escritura pÃºblica donde el propietario, los accionistas, socios o comuneros se hagan responsables solidariamente de todos los impuestos que se adeuden por la empresa cuyo tÃ©rmino de giro se solicita'.
+1° Que, la letra d) del artículo 69° de la Ley N° 21.713, sobre cumplimiento de las obligaciones tributarias, establece que: 'Sin perjuicio de lo señalado en los incisos anteriores, los contribuyentes sujetos al artículo 14 letra D) de la Ley sobre Impuesto a la Renta podrán solicitar un término de giro simplificado siempre que además de la declaración y los antecedentes señalados en el inciso primero acompañen una declaración en la respectiva escritura pública donde el propietario, los accionistas, socios o comuneros se hagan responsables solidariamente de todos los impuestos que se adeuden por la empresa cuyo término de giro se solicita'.
 
-2Â° Que, para efectos de dar cumplimiento a lo seÃ±alado en la letra d) del artÃ­culo 69Â° del cuerpo legal mencionado, este Servicio dicta la presente ResoluciÃ³n de tÃ©rmino de giro.
+2° Que, para efectos de dar cumplimiento a lo señalado en la letra d) del artículo 69° del cuerpo legal mencionado, este Servicio dicta la presente Resolución de término de giro.
 
 ## SE RESUELVE:
 
-1Â° La solicitud de tÃ©rmino de giro simplificado a la que se refiere el inciso octavo del artÃ­culo 69Â° del CÃ³digo Tributario, deberÃ¡ realizarse por medio de la pÃ¡gina web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), menÃº 'TÃ©rmino de Giro' , especÃ­ficamente en la secciÃ³n 'Declarar TÃ©rmino de Giro' , donde deberÃ¡ ejercer la opciÃ³n, acompaÃ±ando los antecedentes seÃ±alados en el inciso primero del artÃ­culo 69 del CÃ³digo Tributario, que son el balance de tÃ©rmino de giro, los antecedentes que permitan determinar los impuestos que correspondan y la escritura pÃºblica seÃ±alada en el considerando NÂ°1.
+1° La solicitud de término de giro simplificado a la que se refiere el inciso octavo del artículo 69° del Código Tributario, deberá realizarse por medio de la página web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), menú 'Término de Giro' , específicamente en la sección 'Declarar Término de Giro' , donde deberá ejercer la opción, acompañando los antecedentes señalados en el inciso primero del artículo 69 del Código Tributario, que son el balance de término de giro, los antecedentes que permitan determinar los impuestos que correspondan y la escritura pública señalada en el considerando N°1.
 
-TratÃ¡ndose de contribuyentes que desarrollen su actividad econÃ³mica en un lugar geogrÃ¡fico sin cobertura de datos mÃ³viles o fijos de operadores de telecomunicaciones que tienen infraestructura, o sin acceso a energÃ­a elÃ©ctrica o en un lugar decretado como zona de catÃ¡strofe conforme a la ley NÂº16.282, podrÃ¡n acercarse a la unidad del Servicio mÃ¡s prÃ³xima a su domicilio, con el objeto de recibir asistencia en el ingreso de su solicitud.
+Tratándose de contribuyentes que desarrollen su actividad económica en un lugar geográfico sin cobertura de datos móviles o fijos de operadores de telecomunicaciones que tienen infraestructura, o sin acceso a energía eléctrica o en un lugar decretado como zona de catástrofe conforme a la ley Nº16.282, podrán acercarse a la unidad del Servicio más próxima a su domicilio, con el objeto de recibir asistencia en el ingreso de su solicitud.
 
-2Â° La posibilidad de realizar la solicitud de tÃ©rmino de giro simplificado, seÃ±alada en el resolutivo anterior, estarÃ¡ disponible en la aplicaciÃ³n Ãºnicamente para los contribuyentes sujetos a los regÃ­menes tributarios seÃ±alados en el artÃ­culo 14 letra D) de la Ley sobre Impuesto a la Renta y que declaren impuestos a pagar en su formulario de aviso de tÃ©rmino de giro; siempre que, ademÃ¡s de la declaraciÃ³n y los antecedentes seÃ±alados en el inciso primero del artÃ­culo 69Â° del CÃ³digo Tributario, acompaÃ±en una declaraciÃ³n en la respectiva escritura pÃºblica donde el propietario, los accionistas, socios o comuneros se hagan responsables solidariamente de todos los impuestos que se adeuden por la empresa cuyo tÃ©rmino de giro se solicita.
+2° La posibilidad de realizar la solicitud de término de giro simplificado, señalada en el resolutivo anterior, estará disponible en la aplicación únicamente para los contribuyentes sujetos a los regímenes tributarios señalados en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta y que declaren impuestos a pagar en su formulario de aviso de término de giro; siempre que, además de la declaración y los antecedentes señalados en el inciso primero del artículo 69° del Código Tributario, acompañen una declaración en la respectiva escritura pública donde el propietario, los accionistas, socios o comuneros se hagan responsables solidariamente de todos los impuestos que se adeuden por la empresa cuyo término de giro se solicita.
 
-3Â° Dado lo expuesto en el resolutivo precedente, el contribuyente deberÃ¡ verificar que el registro de socios, accionistas o comuneros se encuentre actualizado, segÃºn lo seÃ±alado en el artÃ­culo 68Â° del CÃ³digo Tributario, comunicando al Servicio, a travÃ©s de la carpeta tributaria electrÃ³nica, cualquier modificaciÃ³n en esta informaciÃ³n dentro del plazo de dos meses contados desde que se efectÃºe la modificaciÃ³n respectiva o, si fuera procedente, desde la fecha de la inscripciÃ³n respectiva en el Registro de Comercio correspondiente, adjuntando en la carpeta tributaria electrÃ³nica los antecedentes que dan cuenta de la modificaciÃ³n. El retardo u omisiÃ³n de dar aviso de modificaciÃ³n y/o actualizaciÃ³n de informaciÃ³n, se sanciona con multa que fluctÃºa entre una Unidad Tributaria Mensual (UTM) y una Unidad Tributaria Anual (UTA), conforme a lo dispuesto en el artÃ­culo 97, NÂ° 1, del Decreto Ley NÂ° 830, sobre CÃ³digo Tributario.
+3° Dado lo expuesto en el resolutivo precedente, el contribuyente deberá verificar que el registro de socios, accionistas o comuneros se encuentre actualizado, según lo señalado en el artículo 68° del Código Tributario, comunicando al Servicio, a través de la carpeta tributaria electrónica, cualquier modificación en esta información dentro del plazo de dos meses contados desde que se efectúe la modificación respectiva o, si fuera procedente, desde la fecha de la inscripción respectiva en el Registro de Comercio correspondiente, adjuntando en la carpeta tributaria electrónica los antecedentes que dan cuenta de la modificación. El retardo u omisión de dar aviso de modificación y/o actualización de información, se sanciona con multa que fluctúa entre una Unidad Tributaria Mensual (UTM) y una Unidad Tributaria Anual (UTA), conforme a lo dispuesto en el artículo 97, N° 1, del Decreto Ley N° 830, sobre Código Tributario.
 
 <unknown>
 
-4Â° Cuando se presente toda la informaciÃ³n seÃ±alada conforme al resolutivo NÂ°1 anterior, dentro del plazo de un mes contado desde la presentaciÃ³n, el Servicio girarÃ¡ los impuestos conforme a su declaraciÃ³n y una vez verificado el pago, procederÃ¡ a emitir el certificado de tÃ©rmino de giro.
+4° Cuando se presente toda la información señalada conforme al resolutivo N°1 anterior, dentro del plazo de un mes contado desde la presentación, el Servicio girará los impuestos conforme a su declaración y una vez verificado el pago, procederá a emitir el certificado de término de giro.
 
-5Â° Las presentes instrucciones entrarÃ¡n en vigencia a contar del 1 de noviembre de 2024, misma fecha desde la que se encuentra disponible el aplicativo mencionado en la presente resoluciÃ³n.
+5° Las presentes instrucciones entrarán en vigencia a contar del 1 de noviembre de 2024, misma fecha desde la que se encuentra disponible el aplicativo mencionado en la presente resolución.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-## PMR/AVB/MVN/RGV/ATM/LBM DISTRIBUCIÃ“N:
+## PMR/AVB/MVN/RGV/ATM/LBM DISTRIBUCIÓN:
 
 * Internet
 * Diario Oficial en extracto

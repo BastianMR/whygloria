@@ -1,46 +1,47 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 152 (2019)
-description: MODIFICA RESOLUCIÃ“N EX. SII NÂ° 152, DE 28 DE DICIEMBRE DE 2018, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÃšO DE LOS BIENES RAÃCES NO AGRÃCO...
+---
+type: "SII Resolución"
+title: "Resolución N° 152 (2019)"
+description: "MODIFICA RESOLUCIÓN EX. SII N° 152, DE 28 DE DICIEMBRE DE 2018, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES NO AGRÍCO..."
 tags: [SII, 2019, resolucion]
 ---
 
-MODIFICA RESOLUCIÃ“N EX. SII NÂ° 152, DE 28 DE DICIEMBRE DE 2018, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÃšO DE LOS BIENES RAÃCES NO AGRÃCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS ÃREAS URBANAS.
+
+MODIFICA RESOLUCIÓN EX. SII N° 152, DE 28 DE DICIEMBRE DE 2018, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS ÁREAS URBANAS.
 
 SANTIAGO, 1 DE MARZO 2019
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ° 34.-/
+RESOLUCIÓN EX. SII N° 34.-/
 
-VISTOS : Lo dispuesto en los ArtÃ­culos 3Â°, 4Â° y 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial, en el ArtÃ­culo 52Â° del D.F.L. NÂ° 458 de 1976, sobre Ley General de Urbanismo y Construcciones y, en la ResoluciÃ³n Exenta SII NÂ° 152 de 2018, que fija valores de terrenos y construcciones para el reavalÃºo de los bienes raÃ­ces no agrÃ­colas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las Ã¡reas urbanas, y.
+VISTOS : Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en el Artículo 52° del D.F.L. N° 458 de 1976, sobre Ley General de Urbanismo y Construcciones y, en la Resolución Exenta SII N° 152 de 2018, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas, y.
 
 ## CONSIDERANDO:
 
-1Âº) Que, por ResoluciÃ³n Ex. SII NÂ°152, de 28.12.2018, se fijaron los valores de terrenos y construcciones, para el reavalÃºo de los bienes raÃ­ces no agrÃ­colas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las Ã¡reas urbanas.
+1º) Que, por Resolución Ex. SII N°152, de 28.12.2018, se fijaron los valores de terrenos y construcciones, para el reavalúo de los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros ubicados en las áreas urbanas.
 
-2Âº) Que, el Anexo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 152, de 28.12.2018, establece que para cada comuna del paÃ­s se han determinado los valores unitarios de terreno, contenidos en planos de precios, que se han sectorizado en Ãreas HomogÃ©neas (AH), en conjunto con sus respectivas tablas de Coeficientes GuÃ­as, que reflejan diferencias de valor de los terrenos al interior de un Ãrea HomogÃ©nea, y las fichas descriptivas de Ãreas HomogÃ©neas.
+2º) Que, el Anexo N° 1 de la Resolución Ex. SII N° 152, de 28.12.2018, establece que para cada comuna del país se han determinado los valores unitarios de terreno, contenidos en planos de precios, que se han sectorizado en Áreas Homogéneas (AH), en conjunto con sus respectivas tablas de Coeficientes Guías, que reflejan diferencias de valor de los terrenos al interior de un Área Homogénea, y las fichas descriptivas de Áreas Homogéneas.
 
-* 3Âº) Que se requiere modificar la informaciÃ³n relacionada con el valor unitario de terreno respecto de ciertas Ãreas HomogÃ©neas de diferentes comunas del paÃ­s, incluidas en los planos de precios contenidos en el Anexo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 152, de 28.12.2018.
+* 3º) Que se requiere modificar la información relacionada con el valor unitario de terreno respecto de ciertas Áreas Homogéneas de diferentes comunas del país, incluidas en los planos de precios contenidos en el Anexo N° 1 de la Resolución Ex. SII N° 152, de 28.12.2018.
 
 ## SE RESUELVE:
 
-1Âº) ReemplÃ¡cese el valor unitario de terreno, incluido en los Planos de Precios de Terrenos contenidos en el Anexo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 152, de 28.12.2018, respecto de las Ãreas HomogÃ©neas correspondientes a las comunas que se indican en el Anexo de la presente ResoluciÃ³n.
+1º) Reemplácese el valor unitario de terreno, incluido en los Planos de Precios de Terrenos contenidos en el Anexo N° 1 de la Resolución Ex. SII N° 152, de 28.12.2018, respecto de las Áreas Homogéneas correspondientes a las comunas que se indican en el Anexo de la presente Resolución.
 
-2Â°) Los planos de precios de terrenos actualizados, se encuentran disponibles para su consulta en [<u>www.sii.cl</u>](http://www.sii.cl), seleccionando 'Servicios Online', menÃº 'AvalÃºos y Contribuciones de bienes raÃ­ces', submenÃº 'Consulta avalÃºos y certificados', opciÃ³n 'CartografÃ­a Digital SII Mapas' o directamente en el link [<u>https://www4.sii.cl/mapasui/internet/#/contenido/index.html</u>](https://www4.sii.cl/mapasui/internet/#/contenido/index.html)
+2°) Los planos de precios de terrenos actualizados, se encuentran disponibles para su consulta en [<u>www.sii.cl</u>](http://www.sii.cl), seleccionando 'Servicios Online', menú 'Avalúos y Contribuciones de bienes raíces', submenú 'Consulta avalúos y certificados', opción 'Cartografía Digital SII Mapas' o directamente en el link [<u>https://www4.sii.cl/mapasui/internet/#/contenido/index.html</u>](https://www4.sii.cl/mapasui/internet/#/contenido/index.html)
 
-3Â°) Los valores fijados por la presente resoluciÃ³n regirÃ¡n durante el perÃ­odo de vigencia del reavalÃºo correspondiente al aÃ±o 2019.
+3°) Los valores fijados por la presente resolución regirán durante el período de vigencia del reavalúo correspondiente al año 2019.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
 
-## (FDO.) VÃCTOR VILLALÃ“N MÃ‰NDEZ DIRECTOR (S)
+## (FDO.) VÍCTOR VILLALÓN MÉNDEZ DIRECTOR (S)
 
 Anexo: Plano de precios de terrenos.
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## DistribuciÃ³n:
+## Distribución:
 
 * Internet
-* BoletÃ­n
+* Boletín
 * Diario Oficial (En extracto)

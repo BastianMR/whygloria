@@ -1,79 +1,80 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 66 (2022)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077
+---
+type: "SII Resolución"
+title: "Resolución N° 66 (2022)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077"
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077
 
-EMISIÃ“N DE DOCUMENTOS TRIBUTARIOS ELECTRÃ“NICOS EN OPERACIONES DE COMPRA Y VENTA DE MONEDA EXTRANJERA.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077
+
+EMISIÓN DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EN OPERACIONES DE COMPRA Y VENTA DE MONEDA EXTRANJERA.
 
 SANTIAGO, 02 DE AGOSTO DE 2022
 
-RESOLUCIÃ“N EX. SII NÂ° 66.-
+RESOLUCIÓN EX. SII N° 66.-
 
 VISTOS:
 
-Lo dispuesto en el artÃ­culo 6Â° Letra A) NÂ° 1 y 88 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley NÂ° 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 52, 53, 54 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley NÂ° 825, de 1974; en los artÃ­culos 68 y 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo NÂ° 55 de Hacienda, de 1977; lo instruido en la Resoluciones Ex. SII NÂ° 1420 de 1990; NÂ° 2909 de 1990; NÂ° 806 de 1996; NÂ° 98 y NÂ° 117 de 2004, y lo seÃ±alado en las Circulares NÂ° 25 de 1990 y NÂ° 25 de 1996; y
+Lo dispuesto en el artículo 6° Letra A) N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; en los artículos 52, 53, 54 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974; en los artículos 68 y 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de Hacienda, de 1977; lo instruido en la Resoluciones Ex. SII N° 1420 de 1990; N° 2909 de 1990; N° 806 de 1996; N° 98 y N° 117 de 2004, y lo señalado en las Circulares N° 25 de 1990 y N° 25 de 1996; y
 
 ## CONSIDERANDO :
 
-1Â° Que, de acuerdo con el artÃ­culo 4Â° bis, inciso primero de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, este Servicio podrÃ¡ relacionarse directamente con los contribuyentes y Ã©stos con el Servicio, a travÃ©s de medios electrÃ³nicos, entendiendo por tales aquellos que tienen capacidades elÃ©ctricas, digitales, magnÃ©ticas, inalÃ¡mbricas, Ã³pticas, electromagnÃ©ticas u otras similares. Los trÃ¡mites y actuaciones que se realicen a travÃ©s de tales medios producirÃ¡n los mismos efectos que los trÃ¡mites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
+1° Que, de acuerdo con el artículo 4° bis, inciso primero de la Ley Orgánica del Servicio de Impuestos Internos, este Servicio podrá relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquellos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
 
-2Â° Que, de acuerdo con lo dispuesto en el inciso tercero del artÃ­culo 88 del CÃ³digo Tributario y en la Ley sobre Impuesto a las Ventas y Servicios (LIVS), la DirecciÃ³n podrÃ¡ exigir el otorgamiento de facturas o boletas respecto de cualquier ingreso, operaciÃ³n o transferencia que directa o indirectamente sirva de base para el cÃ¡lculo de un impuesto y que aquÃ©lla determine a su juicio exclusivo, estableciendo los requisitos que Ã©stos documentos deban reunir. Asimismo, la DirecciÃ³n podrÃ¡ exigir la emisiÃ³n de facturas especiales o boletas especiales en medios distintos del papel, en la forma que establezca mediante resoluciÃ³n. Para los efectos de lo dispuesto anteriormente, se entenderÃ¡ por facturas y boletas especiales aquellas distintas de las exigidas en el TÃ­tulo IV de la LIVS. En aquellos casos en que deba otorgarse facturas o boletas, serÃ¡ obligaciÃ³n del adquirente o beneficiario del servicio exigirlas y retirarlas del local o establecimiento del emisor.
+2° Que, de acuerdo con lo dispuesto en el inciso tercero del artículo 88 del Código Tributario y en la Ley sobre Impuesto a las Ventas y Servicios (LIVS), la Dirección podrá exigir el otorgamiento de facturas o boletas respecto de cualquier ingreso, operación o transferencia que directa o indirectamente sirva de base para el cálculo de un impuesto y que aquélla determine a su juicio exclusivo, estableciendo los requisitos que éstos documentos deban reunir. Asimismo, la Dirección podrá exigir la emisión de facturas especiales o boletas especiales en medios distintos del papel, en la forma que establezca mediante resolución. Para los efectos de lo dispuesto anteriormente, se entenderá por facturas y boletas especiales aquellas distintas de las exigidas en el Título IV de la LIVS. En aquellos casos en que deba otorgarse facturas o boletas, será obligación del adquirente o beneficiario del servicio exigirlas y retirarlas del local o establecimiento del emisor.
 
-3Â° Que, conforme establece el inciso primero del artÃ­culo 54 de la LIVS, las facturas, facturas de compra, guÃ­as de despacho, boletas de ventas y servicios, liquidaciones facturas y notas de dÃ©bito y crÃ©dito que deban emitir los contribuyentes, consistirÃ¡n exclusivamente en documentos electrÃ³nicos emitidos en conformidad a la ley, sin perjuicio de las excepciones legales pertinentes.
+3° Que, conforme establece el inciso primero del artículo 54 de la LIVS, las facturas, facturas de compra, guías de despacho, boletas de ventas y servicios, liquidaciones facturas y notas de débito y crédito que deban emitir los contribuyentes, consistirán exclusivamente en documentos electrónicos emitidos en conformidad a la ley, sin perjuicio de las excepciones legales pertinentes.
 
-4Â° Que, la Circular NÂ° 25 de 1990, impartiÃ³ instrucciones relativas a normas sobre emisiÃ³n de facturas y boletas en compras y venta de monedas extranjeras, oro en forma de moneda, cospel u onza en troy.
+4° Que, la Circular N° 25 de 1990, impartió instrucciones relativas a normas sobre emisión de facturas y boletas en compras y venta de monedas extranjeras, oro en forma de moneda, cospel u onza en troy.
 
-5Â° Que, la Circular NÂ° 25 de 1996, instruyÃ³ sobre los documentos tributarios que deben emitirse tratÃ¡ndose de transacciones de monedas extranjeras, efectuadas en el mercado informal por particulares, cuando el valor de la transacciÃ³n es por un monto equivalente o superior a US $ 10.000 (diez mil dÃ³lares de los Estados Unidos de AmÃ©rica). Asimismo, instruyÃ³ sobre la documentaciÃ³n que debe emitirse tratÃ¡ndose transacciones por cuenta de terceros de monedas extranjeras o de oro en forma de monedas, cospeles u onzas en troy, que efectÃºen vendedores habituales.
+5° Que, la Circular N° 25 de 1996, instruyó sobre los documentos tributarios que deben emitirse tratándose de transacciones de monedas extranjeras, efectuadas en el mercado informal por particulares, cuando el valor de la transacción es por un monto equivalente o superior a US $ 10.000 (diez mil dólares de los Estados Unidos de América). Asimismo, instruyó sobre la documentación que debe emitirse tratándose transacciones por cuenta de terceros de monedas extranjeras o de oro en forma de monedas, cospeles u onzas en troy, que efectúen vendedores habituales.
 
-6Â° Que, la ResoluciÃ³n Ex. SII 117 de 2004 estableciÃ³ la obligaciÃ³n de presentar la DeclaraciÃ³n Jurada 1870 'DeclaraciÃ³n Jurada Anual sobre Compraventa de Monedas Extranjeras y/o Canje de Valores Expresados en Dichas Monedas', para informar las compras y/o ventas de monedas que realicen por montos iguales o superiores a US $ 10.000 (diez mil dÃ³lares de los Estados Unidos de AmÃ©rica) o su equivalente.
+6° Que, la Resolución Ex. SII 117 de 2004 estableció la obligación de presentar la Declaración Jurada 1870 'Declaración Jurada Anual sobre Compraventa de Monedas Extranjeras y/o Canje de Valores Expresados en Dichas Monedas', para informar las compras y/o ventas de monedas que realicen por montos iguales o superiores a US $ 10.000 (diez mil dólares de los Estados Unidos de América) o su equivalente.
 
-Asimismo, la referida ResoluciÃ³n eximiÃ³ de dicha obligaciÃ³n a los contribuyentes autorizados como emisores de documentos tributarios electrÃ³nicos, siempre que hayan emitido solamente documentos electrÃ³nicos por todas las operaciones realizadas en el aÃ±o comercial correspondiente.
+Asimismo, la referida Resolución eximió de dicha obligación a los contribuyentes autorizados como emisores de documentos tributarios electrónicos, siempre que hayan emitido solamente documentos electrónicos por todas las operaciones realizadas en el año comercial correspondiente.
 
-7Â° Que, la ResoluciÃ³n Ex. SII 25 de 2012 eliminÃ³ el resolutivo 6Â° de la ResoluciÃ³n Ex. SII 98 del 2004, que autorizaba a los contribuyentes a no presentar la DeclaraciÃ³n Jurada 1891, si respaldaban el total de las operaciones del aÃ±o con Documentos Tributarios ElectrÃ³nicos.
+7° Que, la Resolución Ex. SII 25 de 2012 eliminó el resolutivo 6° de la Resolución Ex. SII 98 del 2004, que autorizaba a los contribuyentes a no presentar la Declaración Jurada 1891, si respaldaban el total de las operaciones del año con Documentos Tributarios Electrónicos.
 
-8Â° Que, con el fin de resguardar el interÃ©s fiscal y facilitar el cumplimiento tributario, ademÃ¡s de evitar errores en el Registro de Compras y Ventas de los documentos emitidos que dan cuenta de operaciones de compra y venta de moneda extranjera, dado que estos solo deben dar cuenta de la comisiÃ³n correspondiente y del total de la operaciÃ³n (en carÃ¡cter informativo), resulta necesario actualizar las instrucciones para su correcta emisiÃ³n.
+8° Que, con el fin de resguardar el interés fiscal y facilitar el cumplimiento tributario, además de evitar errores en el Registro de Compras y Ventas de los documentos emitidos que dan cuenta de operaciones de compra y venta de moneda extranjera, dado que estos solo deben dar cuenta de la comisión correspondiente y del total de la operación (en carácter informativo), resulta necesario actualizar las instrucciones para su correcta emisión.
 
 ## SE RESUELVE:
 
-1Â° Los bancos, corredores de bolsa, casas de cambios, instituciones financieras, cualquier otro intermediario o entidad que realicen operaciones de compra y venta de moneda extranjera por cuenta propia o de terceros, deberÃ¡n emitir los siguientes documentos tributarios electrÃ³nicos, segÃºn corresponda, conforme a las instrucciones que se imparten a continuaciÃ³n:
+1° Los bancos, corredores de bolsa, casas de cambios, instituciones financieras, cualquier otro intermediario o entidad que realicen operaciones de compra y venta de moneda extranjera por cuenta propia o de terceros, deberán emitir los siguientes documentos tributarios electrónicos, según corresponda, conforme a las instrucciones que se imparten a continuación:
 
-* Factura ElectrÃ³nica.
-* Factura No Afecta o Exenta ElectrÃ³nica.
-* Nota de CrÃ©dito ElectrÃ³nica.
-* Nota de DÃ©bito ElectrÃ³nica.
-* Boleta ElectrÃ³nica.
-* Boleta No Afecta o Exenta ElectrÃ³nica.
+* Factura Electrónica.
+* Factura No Afecta o Exenta Electrónica.
+* Nota de Crédito Electrónica.
+* Nota de Débito Electrónica.
+* Boleta Electrónica.
+* Boleta No Afecta o Exenta Electrónica.
 
 ## Primero: Del registro de las operaciones:
 
-DeberÃ¡ indicarse en forma obligatoria a nivel de detalle, la siguiente informaciÃ³n de acuerdo a lo indicado en Anexo, que forma parte integrante de la presente ResoluciÃ³n:
+Deberá indicarse en forma obligatoria a nivel de detalle, la siguiente información de acuerdo a lo indicado en Anexo, que forma parte integrante de la presente Resolución:
 
-* a) Nombre y CÃ³digo de la divisa transada.
-* b) Detalle de la transacciÃ³n en caso de representaciones, es decir, nombre o razÃ³n social, en el caso de las compras o ventas por cuenta de terceros, nÃºmero de serie, entre otros.
-* c) Tipo de transacciÃ³n: compra o venta de monedas extranjeras.
+* a) Nombre y Código de la divisa transada.
+* b) Detalle de la transacción en caso de representaciones, es decir, nombre o razón social, en el caso de las compras o ventas por cuenta de terceros, número de serie, entre otros.
+* c) Tipo de transacción: compra o venta de monedas extranjeras.
 * d) Cantidad transada.
 * e) Tipo de cambio.
 * f) Valor Total.
-* g) Fecha de transacciÃ³n.
-* h) Indicador de facturaciÃ³n. (Producto o servicio no facturable)
+* g) Fecha de transacción.
+* h) Indicador de facturación. (Producto o servicio no facturable)
 
 ## Segundo: De los derechos, comisiones y otros cargos:
 
-Para este tipo de operaciones, solo se utilizarÃ¡n documentos de venta (factura electrÃ³nica o factura no afecta o exenta electrÃ³nica o boletas electrÃ³nicas o boletas no afectas o exentas electrÃ³nicas), no resultando procedente el uso de la factura de compra.
+Para este tipo de operaciones, solo se utilizarán documentos de venta (factura electrónica o factura no afecta o exenta electrónica o boletas electrónicas o boletas no afectas o exentas electrónicas), no resultando procedente el uso de la factura de compra.
 
-En caso que existan comisiones, el contribuyente deberÃ¡ emitir una factura electrÃ³nica o boleta electrÃ³nica, considerando todos los campos indicados en el Anexo.
+En caso que existan comisiones, el contribuyente deberá emitir una factura electrónica o boleta electrónica, considerando todos los campos indicados en el Anexo.
 
-En caso que el documento no incorpore Ã­tem afecto (por ejemplo, cuando no exista comisiÃ³n) se deberÃ¡ emitir una factura no afecta o exenta electrÃ³nica o boleta no afecta o exenta electrÃ³nica, en la forma y campos indicados en el referido Anexo.
+En caso que el documento no incorpore ítem afecto (por ejemplo, cuando no exista comisión) se deberá emitir una factura no afecta o exenta electrónica o boleta no afecta o exenta electrónica, en la forma y campos indicados en el referido Anexo.
 
-Asimismo, cuando existan diferencias en los cobros (por ejemplo, operaciÃ³n simultÃ¡nea anticipada); y, existan valores afectos a IVA, se deberÃ¡ emitir una nota de crÃ©dito electrÃ³nica o nota de dÃ©bito electrÃ³nica, segÃºn corresponda.
+Asimismo, cuando existan diferencias en los cobros (por ejemplo, operación simultánea anticipada); y, existan valores afectos a IVA, se deberá emitir una nota de crédito electrónica o nota de débito electrónica, según corresponda.
 
-## Tercero: De la emisiÃ³n de los documentos:
+## Tercero: De la emisión de los documentos:
 
-En la emisiÃ³n de los documentos tributarios electrÃ³nicos, se deberÃ¡ registrar de forma separada la siguiente informaciÃ³n, de acuerdo a lo indicado en el Anexo:
+En la emisión de los documentos tributarios electrónicos, se deberá registrar de forma separada la siguiente información, de acuerdo a lo indicado en el Anexo:
 
 * a) Valor total de los instrumentos transados (siempre informados como: 'Montos no Facturables').
 * b) Valor de las comisiones y cargos, de existir.
@@ -81,29 +82,29 @@ En la emisiÃ³n de los documentos tributarios electrÃ³nicos, se deberÃ¡ reg
 
 ## Cuarto: otras obligaciones:
 
-Adicionalmente, las empresas indicadas en el presente Resolutivo, deberÃ¡n cumplir con el Anexo adjunto a esta ResoluciÃ³n, que forma parte del Instructivo TÃ©cnico publicado en el sitio web de este Servicio, debiendo utilizar los formatos de Documentos Tributarios ElectrÃ³nicos, de acuerdo a la actualizaciÃ³n que de ellos realice el Servicio de Impuestos Internos.
+Adicionalmente, las empresas indicadas en el presente Resolutivo, deberán cumplir con el Anexo adjunto a esta Resolución, que forma parte del Instructivo Técnico publicado en el sitio web de este Servicio, debiendo utilizar los formatos de Documentos Tributarios Electrónicos, de acuerdo a la actualización que de ellos realice el Servicio de Impuestos Internos.
 
-Las modificaciones a los referidos formatos serÃ¡n debidamente publicadas en el sitio web de este Servicio, seÃ±alando un plazo para adecuarse a ellos.
+Las modificaciones a los referidos formatos serán debidamente publicadas en el sitio web de este Servicio, señalando un plazo para adecuarse a ellos.
 
-2Â° El incumplimiento de las obligaciones que establece la presente ResoluciÃ³n, serÃ¡ sancionado en conformidad con lo establecido en los artÃ­culos 97 NÂ° 10, o 109 del CÃ³digo Tributario, segÃºn corresponda.
+2° El incumplimiento de las obligaciones que establece la presente Resolución, será sancionado en conformidad con lo establecido en los artículos 97 N° 10, o 109 del Código Tributario, según corresponda.
 
-3Â° Las presentes instrucciones no liberan a los contribuyentes de la obligaciÃ³n de presentar las Declaraciones Juradas 1891 y 1870.
+3° Las presentes instrucciones no liberan a los contribuyentes de la obligación de presentar las Declaraciones Juradas 1891 y 1870.
 
-4Â° ELIMÃNASE , desde la fecha de entrada en vigencia de la presente ResoluciÃ³n, el resolutivo cuarto de la ResoluciÃ³n Ex. SII NÂ° 117 de 2004, manteniÃ©ndose vigente en todo lo demÃ¡s.
+4° ELIMÍNASE , desde la fecha de entrada en vigencia de la presente Resolución, el resolutivo cuarto de la Resolución Ex. SII N° 117 de 2004, manteniéndose vigente en todo lo demás.
 
-5Â° DÃ‰JANSE SIN EFECTO, las Resoluciones Ex. SII NÂ° 1420 de 1990, NÂ° 2909 de 1990 y NÂ° 806 de 1996.
+5° DÉJANSE SIN EFECTO, las Resoluciones Ex. SII N° 1420 de 1990, N° 2909 de 1990 y N° 806 de 1996.
 
-6Â° MODIFÃCASE , la ResoluciÃ³n Ex. SII NÂ° 98 de 2004, solo en aquella parte que resulten incompatibles con la presente ResoluciÃ³n.
+6° MODIFÍCASE , la Resolución Ex. SII N° 98 de 2004, solo en aquella parte que resulten incompatibles con la presente Resolución.
 
-7Â° La presente resoluciÃ³n entrarÃ¡ en vigencia a contar a contar del 1Â° de diciembre de 2022, aplicÃ¡ndose a las operaciones de compras y ventas de moneda extranjera que realicen las Instituciones indicadas en el resolutivo 1Â°, a contar de dicha fecha.
+7° La presente resolución entrará en vigencia a contar a contar del 1° de diciembre de 2022, aplicándose a las operaciones de compras y ventas de moneda extranjera que realicen las Instituciones indicadas en el resolutivo 1°, a contar de dicha fecha.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-ANEXO: INSTRUCTIVO TÃ‰CNICO PARA EMISIÃ“N DE DTE QUE RESPALDAN OPERACIONES FINANCIERAS QUE SE SEÃ‘ALAN.
+ANEXO: INSTRUCTIVO TÉCNICO PARA EMISIÓN DE DTE QUE RESPALDAN OPERACIONES FINANCIERAS QUE SE SEÑALAN.
 
 <unknown>
 
@@ -117,196 +118,196 @@ DISTRIBUCION:
 
 ## ANEXO
 
-## INSTRUCTIVO TÃ‰CNICO PARA EMISIÃ“N DE DTE QUE RESPALDAN OPERACIONES DE COMPRAS Y VENTAS DE MONEDA EXTRANJERA
+## INSTRUCTIVO TÉCNICO PARA EMISIÓN DE DTE QUE RESPALDAN OPERACIONES DE COMPRAS Y VENTAS DE MONEDA EXTRANJERA
 
 ## 01-07-2022
 
 ## CONSIDERACIONES GENERALES:
 
-En este documento se instruye la forma en que deben ser confeccionados, los Documentos Tributarios ElectrÃ³nicos (en adelante DTE's) que dan cuenta de transacciones de compra y venta de moneda extranjera, por cuenta propia y/o de terceros. La informaciÃ³n aquÃ­ indicada es extensiva a la generaciÃ³n de los siguientes documentos:
+En este documento se instruye la forma en que deben ser confeccionados, los Documentos Tributarios Electrónicos (en adelante DTE's) que dan cuenta de transacciones de compra y venta de moneda extranjera, por cuenta propia y/o de terceros. La información aquí indicada es extensiva a la generación de los siguientes documentos:
 
-* -Factura ElectrÃ³nica.
-* -Factura No Afecta o Exenta ElectrÃ³nica.
-* -Nota de CrÃ©dito ElectrÃ³nica.
-* -Nota de DÃ©bito ElectrÃ³nica.
-* -Boleta ElectrÃ³nica.
-* -Boleta No afecta o Exenta ElectrÃ³nica.
+* -Factura Electrónica.
+* -Factura No Afecta o Exenta Electrónica.
+* -Nota de Crédito Electrónica.
+* -Nota de Débito Electrónica.
+* -Boleta Electrónica.
+* -Boleta No afecta o Exenta Electrónica.
 
 ## CONTENIDO DE FACTURAS Y DOCUMENTOS ASOCIADOS:
 
-Todo DTE que se emita, debe considerar en primer tÃ©rmino las especificaciones descritas en el documento 'Formato de Documentos Tributarios ElectrÃ³nicos', que se encuentra publicado en [<u>www.sii.cl</u>](http://www.sii.cl) y el cual es periÃ³dicamente actualizado.
+Todo DTE que se emita, debe considerar en primer término las especificaciones descritas en el documento 'Formato de Documentos Tributarios Electrónicos', que se encuentra publicado en [<u>www.sii.cl</u>](http://www.sii.cl) y el cual es periódicamente actualizado.
 
-Adicionalmente, y sÃ³lo para las transacciones y operaciones aquÃ­ seÃ±alados, se deben incluir las indicaciones especiales de ingreso de informaciÃ³n y llenado que se informan en este Instructivo, las cuales permiten que los DTE's que sean generados bajo estas premisas, puedan ser recibidos, validados y procesados satisfactoriamente por el SII, permitiendo asÃ­ reflejar correctamente las operaciones que se pretenden respaldar, evitando con esto posibles observaciones y revisiones de inconsistencias de origen de la informaciÃ³n.
+Adicionalmente, y sólo para las transacciones y operaciones aquí señalados, se deben incluir las indicaciones especiales de ingreso de información y llenado que se informan en este Instructivo, las cuales permiten que los DTE's que sean generados bajo estas premisas, puedan ser recibidos, validados y procesados satisfactoriamente por el SII, permitiendo así reflejar correctamente las operaciones que se pretenden respaldar, evitando con esto posibles observaciones y revisiones de inconsistencias de origen de la información.
 
 ## DEFINICIONES:
 
-Campo: Nombre descriptivo del campo, establecido de acuerdo al Formato de Documentos Tributarios ElectrÃ³nicos.
+Campo: Nombre descriptivo del campo, establecido de acuerdo al Formato de Documentos Tributarios Electrónicos.
 
-Valor / valores: Dato a consignar como informaciÃ³n en el campo referido. Entre comillas '' se indican los valores especÃ­ficos, los cuales pueden ser numÃ©ricos o textos, segÃºn sea el tipo de formato.
+Valor / valores: Dato a consignar como información en el campo referido. Entre comillas '' se indican los valores específicos, los cuales pueden ser numéricos o textos, según sea el tipo de formato.
 
 ## De los Montos del DTE y sus implicancias:
 
-Valor de la TransacciÃ³n: Se debe informar en la Zona de detalle del DTE y debe ser marcado como un 'Ãtem No Facturable', lo cual permite representar correctamente un flujo nominal de un intercambio de valores.
+Valor de la Transacción: Se debe informar en la Zona de detalle del DTE y debe ser marcado como un 'Ítem No Facturable', lo cual permite representar correctamente un flujo nominal de un intercambio de valores.
 
-Valor de ComisiÃ³n(es) o cargos adicionales : En caso de existir, estos conceptos se informan en la Zona de detalle del DTE y pueden ser afectos y/o exentos de IVA, y forman parte del Monto Total del DTE. No se debe utilizar la Zona de 'COMISIONES Y OTROS CARGOS'.
+Valor de Comisión(es) o cargos adicionales : En caso de existir, estos conceptos se informan en la Zona de detalle del DTE y pueden ser afectos y/o exentos de IVA, y forman parte del Monto Total del DTE. No se debe utilizar la Zona de 'COMISIONES Y OTROS CARGOS'.
 
-Monto Total: Monto del DTE que contempla solo el total de montos netos, exentos e IVA, en este campo no se incluyen los valores de los Ã­tems no facturables.
+Monto Total: Monto del DTE que contempla solo el total de montos netos, exentos e IVA, en este campo no se incluyen los valores de los ítems no facturables.
 
-Total a Pagar: Valor final pagado por el cliente cuando la entidad vende moneda extranjera, lo cual implica un flujo positivo de dinero para la entidad; y tambiÃ©n puede ser el valor total pagado por la entidad, cuando esta Ãºltima compra moneda extranjera, correspondiendo a un valor negativo, en virtud que representa un flujo negativo de dinero para la entidad.
+Total a Pagar: Valor final pagado por el cliente cuando la entidad vende moneda extranjera, lo cual implica un flujo positivo de dinero para la entidad; y también puede ser el valor total pagado por la entidad, cuando esta última compra moneda extranjera, correspondiendo a un valor negativo, en virtud que representa un flujo negativo de dinero para la entidad.
 
 ## I. CAMPOS ESPECIALES A CONSIDERAR EN EL DETALLE DE TRANSACCIONES
 
 * A. En zona de detalle de DTE's
 
-1. Campos de la Tabla Tipo de CÃ³digo:
-2. 1.1.- LÃ­nea 1:
+1. Campos de la Tabla Tipo de Código:
+2. 1.1.- Línea 1:
 
-* Campo Tipo de CÃ³digo Tag <TpoCodigo>:
+* Campo Tipo de Código Tag <TpoCodigo>:
 * a. Valor: 'MONEDA'
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
-* Campo CÃ³digo del Ãtem Tag <VlrCodigo>: CÃ³digo de la moneda transada, consignar sÃ³lo un cÃ³digo:
-* a. Valores: CÃ³digo segÃºn tabla de codificaciÃ³n de Monedas del Banco Central
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* Campo Código del Ítem Tag <VlrCodigo>: Código de la moneda transada, consignar sólo un código:
+* a. Valores: Código según tabla de codificación de Monedas del Banco Central
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
 
-1.2.- LÃ­nea 2:
+1.2.- Línea 2:
 
-* Campo Tipo de CÃ³digo Tag <TpoCodigo>:
+* Campo Tipo de Código Tag <TpoCodigo>:
 * a. Valor: 'NEMO'
-* a. RepresentaciÃ³n grÃ¡fica: No visible
+* a. Representación gráfica: No visible
 * b. Obligatoriedad: Opcional
-* Campo CÃ³digo del Ãtem Tag <VlrCodigo>: CÃ³digo nemotÃ©cnico de la moneda transada, consignar sÃ³lo un cÃ³digo:
-* a. Valores: valor nemotÃ©cnico de la moneda. De uso propio
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* Campo Código del Ítem Tag <VlrCodigo>: Código nemotécnico de la moneda transada, consignar sólo un código:
+* a. Valores: valor nemotécnico de la moneda. De uso propio
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Opcional
 
-1.3.- LÃ­nea 3:
+1.3.- Línea 3:
 
-* Campo Tipo de CÃ³digo Tag <TpoCodigo>:
+* Campo Tipo de Código Tag <TpoCodigo>:
 * a. Valor: 'TRANSACC'
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
-* Campo CÃ³digo del Ãtem Tag <VlrCodigo>: indicar si es una compra o una venta por parte del emisor del documento:
+* Campo Código del Ítem Tag <VlrCodigo>: indicar si es una compra o una venta por parte del emisor del documento:
 * a. Valores: en caso de compra indicar 'COMPRA', en caso de venta indicar 'VENTA'
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-1. Campo Indicador de facturaciÃ³n / exenciÃ³n Tag <IndExe>: Indica:
+1. Campo Indicador de facturación / exención Tag <IndExe>: Indica:
 
-* a. Valores: '2' o '6', Detalle no facturable positivo y detalle no facturable negativo, en forma correspondiente el valor de la lÃ­nea de detalle es siempre positivo
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* a. Valores: '2' o '6', Detalle no facturable positivo y detalle no facturable negativo, en forma correspondiente el valor de la línea de detalle es siempre positivo
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
 
-1. Campo Nombre del Ãtem Tag <NmbItem>: Nombre de la moneda transada:
+1. Campo Nombre del Ítem Tag <NmbItem>: Nombre de la moneda transada:
 
 * a. Valor: Nombre descriptivo de la moneda transada.
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
 1. Campo Precio de referencia Tag <PrcRef>: En caso de venta de monedas compradas por el mismo intermediario, se indica el Precio unitario de la compra de dichas monedas:
 
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Opcional
 
-No aplica a Boleta ElectrÃ³nica
+No aplica a Boleta Electrónica
 
 1. Campo Cantidad Tag <QtyItem>: Cantidad transada:
 
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-1. Campo Fecha de elaboraciÃ³n Tag <FchElabor>: Fecha de la transacciÃ³n:
+1. Campo Fecha de elaboración Tag <FchElabor>: Fecha de la transacción:
 
-* a. Valor: Fecha vÃ¡lida (AAAA-MM-DD)
-* b. RepresentaciÃ³n grÃ¡fica: Visible
-* c. Obligatoriedad: Condicional, en caso que no se informe este campo, se asume que la fecha de la transacciÃ³n corresponde a la fecha de emisiÃ³n del documento.
+* a. Valor: Fecha válida (AAAA-MM-DD)
+* b. Representación gráfica: Visible
+* c. Obligatoriedad: Condicional, en caso que no se informe este campo, se asume que la fecha de la transacción corresponde a la fecha de emisión del documento.
 
-No aplica a Boleta ElectrÃ³nica
+No aplica a Boleta Electrónica
 
-1. Campo Fecha de vencimiento Tag <FchVencim>: Corresponde a la fecha de compra de valores que se estÃ¡n vendiendo:
+1. Campo Fecha de vencimiento Tag <FchVencim>: Corresponde a la fecha de compra de valores que se están vendiendo:
 
-* a. Valor: Fecha vÃ¡lida (AAAA-MM-DD)
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Fecha válida (AAAA-MM-DD)
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Opcional
 
-No aplica a Boleta ElectrÃ³nica
+No aplica a Boleta Electrónica
 
-1. Campo Precio Unitario del Ãtem en pesos Tag <PrcItem>: Precio unitario de la moneda extranjera transada, es decir, Tipo de cambio:
+1. Campo Precio Unitario del Ítem en pesos Tag <PrcItem>: Precio unitario de la moneda extranjera transada, es decir, Tipo de cambio:
 
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-## B. En secciÃ³n de Encabezado de DTE's
+## B. En sección de Encabezado de DTE's
 
-1. Campo Rut Receptor Tag <RUTRecep>: Obligatorio informarse en forma nominada en caso de transacciones de moneda extranjera que superen los US$10.000 de Estados Unidos de NorteamÃ©rica, o en su defecto, el valor que se exija mediante ResoluciÃ³n del SII para casos particulares. Otras Instituciones fiscalizadoras del Estado podrÃ­an disponer la exigencia de identificaciÃ³n para montos transados menores; se deberÃ¡ indicar el Rut del receptor del documento. En caso de receptores extranjeros sin nÃºmero de Rut, se debe consignar el Rut: 55.555.555-5, e indicar el nÃºmero de IdentificaciÃ³n extranjero (Ejemplo: ID pasaporte) en dos los campos siguientes (CÃ³digo interno del Receptor y Nacionalidad del Receptor Extranjero):
+1. Campo Rut Receptor Tag <RUTRecep>: Obligatorio informarse en forma nominada en caso de transacciones de moneda extranjera que superen los US$10.000 de Estados Unidos de Norteamérica, o en su defecto, el valor que se exija mediante Resolución del SII para casos particulares. Otras Instituciones fiscalizadoras del Estado podrían disponer la exigencia de identificación para montos transados menores; se deberá indicar el Rut del receptor del documento. En caso de receptores extranjeros sin número de Rut, se debe consignar el Rut: 55.555.555-5, e indicar el número de Identificación extranjero (Ejemplo: ID pasaporte) en dos los campos siguientes (Código interno del Receptor y Nacionalidad del Receptor Extranjero):
 
-* a. Valor: NÃºmero de RUT y dÃ­gito verificador
-* a. RepresentaciÃ³n grÃ¡fica: Visible
-* b. Obligatoriedad: Siempre obligatorio informar un nÃºmero de RUT, el cual puede ser el correspondiente al cliente, o uno genÃ©rico en caso de no requerirse la nominaciÃ³n (SegÃºn Resoluciones Particulares u otras instrucciones)
+* a. Valor: Número de RUT y dígito verificador
+* a. Representación gráfica: Visible
+* b. Obligatoriedad: Siempre obligatorio informar un número de RUT, el cual puede ser el correspondiente al cliente, o uno genérico en caso de no requerirse la nominación (Según Resoluciones Particulares u otras instrucciones)
 
-En Boletas ElectrÃ³nicas, y en caso de no requerirse la identificaciÃ³n del cliente, se debe utilizar Rut genÃ©rico dispuesto para las Boletas ElectrÃ³nicas.
+En Boletas Electrónicas, y en caso de no requerirse la identificación del cliente, se debe utilizar Rut genérico dispuesto para las Boletas Electrónicas.
 
-1. Campo CÃ³digo interno del Receptor Tag <CdgIntRecep>: Ligado a la obligaciÃ³n anterior, y en caso de tratarse de personas que no cuenten con un nÃºmero de Rut nacional, se deberÃ¡ indicar en este campo el nÃºmero identificatorio extranjero:
+1. Campo Código interno del Receptor Tag <CdgIntRecep>: Ligado a la obligación anterior, y en caso de tratarse de personas que no cuenten con un número de Rut nacional, se deberá indicar en este campo el número identificatorio extranjero:
 
-* a. Valor: NÃºmero de ID de pasaporte o documento identificaciÃ³n extranjero.
-* a. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Número de ID de pasaporte o documento identificación extranjero.
+* a. Representación gráfica: Visible
 * b. Obligatoriedad: Condicional
 
-1. Campo Nacionalidad del Receptor Extranjero Tag <Nacionalidad>: Ligado a la obligaciÃ³n anterior, y en caso de tratarse de personas extranjeras, se deberÃ¡ indicar en este campo la nacionalidad del receptor del documento tributario
+1. Campo Nacionalidad del Receptor Extranjero Tag <Nacionalidad>: Ligado a la obligación anterior, y en caso de tratarse de personas extranjeras, se deberá indicar en este campo la nacionalidad del receptor del documento tributario
 
-* c. Valor: Nombre del PaÃ­s emisor del documento de identificaciÃ³n extranjero.
-* a. RepresentaciÃ³n grÃ¡fica: No Visible
+* c. Valor: Nombre del País emisor del documento de identificación extranjero.
+* a. Representación gráfica: No Visible
 * d. Obligatoriedad: Condicional
 
-En BOLETA ELECTRÃ“NICA se debe utilizar el campo de DirecciÃ³n del Receptor <DirRecep>
+En BOLETA ELECTRÓNICA se debe utilizar el campo de Dirección del Receptor <DirRecep>
 
 1. Campo Monto Total Tag <MntTotal>: Valor totalizado de las comisiones y cargos, afectos y exentos, el cual puede tomar un valor igual a cero:
 
-* a. Valor: NumÃ©rico 18 enteros
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 18 enteros
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-1. Campo Monto no Facturable Tag <MontoNF>: Valor total de la(s) operaciÃ³n(es) de monedas transadas:
+1. Campo Monto no Facturable Tag <MontoNF>: Valor total de la(s) operación(es) de monedas transadas:
 
-* a. Valor: NumÃ©rico 18 enteros
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 18 enteros
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-Para BOLETA ELECTRÃ“NICA el campo se llama <MntoNF>
+Para BOLETA ELECTRÓNICA el campo se llama <MntoNF>
 
-En la compra/venta se debe utilizar el campo "Monto no Facturable" de los DTE. En el caso de ventas el monto no facturable serÃ¡ positivo y en el caso de las compras serÃ¡ negativo.
+En la compra/venta se debe utilizar el campo "Monto no Facturable" de los DTE. En el caso de ventas el monto no facturable será positivo y en el caso de las compras será negativo.
 
-1. Campo Monto PerÃ­odo Tag <MontoPeriodo>: Monto Total + Monto no Facturable. Valor total a pagar en favor del cliente (negativo) o total a pagar en favor del corredor, casa de cambio (positivo), instituciÃ³n financiera u otro intermediario:
+1. Campo Monto Período Tag <MontoPeriodo>: Monto Total + Monto no Facturable. Valor total a pagar en favor del cliente (negativo) o total a pagar en favor del corredor, casa de cambio (positivo), institución financiera u otro intermediario:
 
-* a. Valor: NumÃ©rico 18 enteros
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* a. Valor: Numérico 18 enteros
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
 
-PARA BOLETA ELECTRÃ“NICA el campo se llama <TotalPeriodo>
+PARA BOLETA ELECTRÓNICA el campo se llama <TotalPeriodo>
 
-## II. FACTURACIÃ“N DE DERECHOS, COMISIONES Y OTROS CARGOS:
+## II. FACTURACIÓN DE DERECHOS, COMISIONES Y OTROS CARGOS:
 
-La facturaciÃ³n de derechos, comisiones y otros cargos de operaciÃ³n deberÃ¡ ser registrada en los Documentos Tributarios ElectrÃ³nicos de acuerdo a lo seÃ±alado en el modelo general del sistema de FacturaciÃ³n ElectrÃ³nica, consignÃ¡ndolos como servicios afectos o exentos segÃºn su caso, y adicionalmente:
+La facturación de derechos, comisiones y otros cargos de operación deberá ser registrada en los Documentos Tributarios Electrónicos de acuerdo a lo señalado en el modelo general del sistema de Facturación Electrónica, consignándolos como servicios afectos o exentos según su caso, y adicionalmente:
 
-## A. En secciÃ³n de detalle de DTE's
+## A. En sección de detalle de DTE's
 
 1. Conceptos Afectos:
 
-Comisiones Afectas: Suma de detalle de IVA de Valor de Derechos, Comisiones y Otros Cargos. En el caso de que existan comisiones afectas, el contribuyente debe emitir un DTE afecto (factura o boleta electrÃ³nica), considerando los campos de montos no facturables (>0 de la transacciÃ³n), neto (>0 de la comisiÃ³n), IVA (>0 de la comisiÃ³n), total (>0 de la comisiÃ³n) y monto periodo (> Ã³ < que 0 de la comisiÃ³n y la transacciÃ³n)
+Comisiones Afectas: Suma de detalle de IVA de Valor de Derechos, Comisiones y Otros Cargos. En el caso de que existan comisiones afectas, el contribuyente debe emitir un DTE afecto (factura o boleta electrónica), considerando los campos de montos no facturables (>0 de la transacción), neto (>0 de la comisión), IVA (>0 de la comisión), total (>0 de la comisión) y monto periodo (> ó < que 0 de la comisión y la transacción)
 
-## EJEMPLO 1: FACTURA ELECTRÃ“NICA
+## EJEMPLO 1: FACTURA ELECTRÓNICA
 
-| **DETALLE OPERACIÃ“N** | **PRECIO UNITARIO** | **CANTIDAD** | **COMPRA** | **VENTA** |
+| **DETALLE OPERACIÓN** | **PRECIO UNITARIO** | **CANTIDAD** | **COMPRA** | **VENTA** |
 | --- | --- | --- | --- | --- |
 | Venta de 15.000 USD | 800 | 15.000 |  | 12.000.000 |
 | Venta de 10.000 Euros | 850 | 10.000 |  | 8.500.000 |
 |  | SUB-TOTAL | SUB-TOTAL | 20.500.000 | 20.500.000 |
 
-| **ComisiÃ³n** | **0,5%** | **102.500** |
+| **Comisión** | **0,5%** | **102.500** |
 | --- | --- | --- |
 | Gastos | Gastos | 3.500 |
 | MONTO NETO | MONTO NETO | 106.000 |
@@ -314,47 +315,47 @@ Comisiones Afectas: Suma de detalle de IVA de Valor de Derechos, Comisiones y Ot
 | MONTO TOTAL | MONTO TOTAL | 126.140 |
 | VALOR A PAGAR 1 | VALOR A PAGAR 1 | 20.626.140 |
 
-* 1.1. Campo Nombre del Ãtem, Tag <NmbItem>:
-* a. Valor: Nombre del derecho, comisiÃ³n o cargo
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 1.1. Campo Nombre del Ítem, Tag <NmbItem>:
+* a. Valor: Nombre del derecho, comisión o cargo
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 1.2. Campo Indicador de facturaciÃ³n / exenciÃ³n Tag <IndExe>:
+* 1.2. Campo Indicador de facturación / exención Tag <IndExe>:
 * a.
 * Valores: Si es Afecto no se informa
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Condicional
-* 1.3 Campo Precio Unitario del Ãtem en pesos, Tag <PrcItem>: Precio unitario del derecho, comisiÃ³n o cargo:
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 1.3 Campo Precio Unitario del Ítem en pesos, Tag <PrcItem>: Precio unitario del derecho, comisión o cargo:
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 1.4. Campo Monto Ãtem, Tag <MontoItem>:
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 1.4. Campo Monto Ítem, Tag <MontoItem>:
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 1.5. Campo CÃ³digo del Ãtem : CÃ³digo del derecho, comisiÃ³n o cargo
-* a. Valor: Corresponde al CÃ³digo indicado segÃºn tabla NÂ° 1
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* 1.5. Campo Código del Ítem : Código del derecho, comisión o cargo
+* a. Valor: Corresponde al Código indicado según tabla N° 1
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
 
-## Tabla NÂ° 1
+## Tabla N° 1
 
-| **DescripciÃ³n ComisiÃ³n o Cargo** | **CÃ³digo** |
+| **Descripción Comisión o Cargo** | **Código** |
 | --- | --- |
 | Derecho | 1 |
-| ComisiÃ³n | 2 |
+| Comisión | 2 |
 | Gastos transaccionales | 3 |
 | Recargo | 4 |
 | Otros Cargos | 9 |
 
-1 Cuando corresponda a una Compra se debe seÃ±alar 'Valor a Pagar' y cuando la operatoria corresponda a una Venta se debe seÃ±alar 'Valor a Recibir'.
+1 Cuando corresponda a una Compra se debe señalar 'Valor a Pagar' y cuando la operatoria corresponda a una Venta se debe señalar 'Valor a Recibir'.
 
 1. Conceptos Exentos: Suma de detalles de valores de derechos, comisiones y otros cargos no afectos o exentos
 
-En el caso, que el documento no incluya Ãtem afecto (es decir, solo derecho, comisiÃ³n o cargo exento), se debe emitir una Factura No Afecta o Exenta ElectrÃ³nica o Boleta no Afecta o Exenta electrÃ³nica.
+En el caso, que el documento no incluya Ítem afecto (es decir, solo derecho, comisión o cargo exento), se debe emitir una Factura No Afecta o Exenta Electrónica o Boleta no Afecta o Exenta electrónica.
 
-## EJEMPLO 2: FACTURA EXENTA ELECTRÃ“NICA
+## EJEMPLO 2: FACTURA EXENTA ELECTRÓNICA
 
-| **DETALLE OPERACIÃ“N** | **PRECIO UNITARIO** | **CANTIDAD** | **COMPRA** | **VENTA** |
+| **DETALLE OPERACIÓN** | **PRECIO UNITARIO** | **CANTIDAD** | **COMPRA** | **VENTA** |
 | --- | --- | --- | --- | --- |
 | Venta de 15.000 USD | 800 | 15.000 |  | 12.000.000 |
 | Venta de 10.000 Euros | 850 | 10.000 |  | 8.500.000 |
@@ -362,66 +363,66 @@ En el caso, que el documento no incluya Ãtem afecto (es decir, solo derecho, 
 |  | MONTO TOTAL | MONTO TOTAL | 0 | 0 |
 |  | VALOR A PAGAR | VALOR A PAGAR | 20.500.000 | 20.500.000 |
 
-* 2.1. Campo Nombre del Ãtem, Tag <NmbItem>:
-* a. Valor: Nombre del derecho, comisiÃ³n o cargo
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 2.1. Campo Nombre del Ítem, Tag <NmbItem>:
+* a. Valor: Nombre del derecho, comisión o cargo
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 2.2. Campo Indicador de facturaciÃ³n / exenciÃ³n Tag <IndExe>:
+* 2.2. Campo Indicador de facturación / exención Tag <IndExe>:
 * a. Valores: Exento = 1.
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 2.3. Campo Precio Unitario del Ãtem en pesos, Tag <PrcItem>: Precio unitario de los valores transados:
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales.
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 2.3. Campo Precio Unitario del Ítem en pesos, Tag <PrcItem>: Precio unitario de los valores transados:
+* a. Valor: Numérico 12 enteros, 6 decimales.
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 2.4. Campo Monto Ãtem, Tag <MontoItem>
-* a. Valor: NumÃ©rico 12 enteros, 6 decimales
-* b. RepresentaciÃ³n grÃ¡fica: Visible
+* 2.4. Campo Monto Ítem, Tag <MontoItem>
+* a. Valor: Numérico 12 enteros, 6 decimales
+* b. Representación gráfica: Visible
 * c. Obligatoriedad: Obligatorio
-* 2.5. Campo CÃ³digo del Ãtem : CÃ³digo del derecho, comisiÃ³n o cargo
-* a. Valor: Corresponde al CÃ³digo indicado segÃºn Tabla NÂ° 1
-* b. RepresentaciÃ³n grÃ¡fica: No visible
+* 2.5. Campo Código del Ítem : Código del derecho, comisión o cargo
+* a. Valor: Corresponde al Código indicado según Tabla N° 1
+* b. Representación gráfica: No visible
 * c. Obligatoriedad: Obligatorio
 
-## TABLA RESUMEN TAGÂ´s
+## TABLA RESUMEN TAG´s
 
 (Campos del documento en XML)
 
 Forma de registrar las Transacciones de compra y venta de moneda extranjera en DTE's:
 
-| **Ãrea DTE** | **NÂ° Orden** | **Nombre Tablao Campo** | **Orden en tabla** | **Nombre subcampo** | **Nombre TAG** | **Valores a ingresarse** | **RepresentaciÃ³n grÃ¡fica** | **Obligatoriedad** |
+| **Área DTE** | **N° Orden** | **Nombre Tablao Campo** | **Orden en tabla** | **Nombre subcampo** | **Nombre TAG** | **Valores a ingresarse** | **Representación gráfica** | **Obligatoriedad** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE | Detalle DTE |
-|  |  | 1 Tabla Tipo de CÃ³digo (soporta hasta 5lÃ­neas) | LÃ­nea 1 LÃ­nea 2 LÃ­nea 3 | Tipo de CÃ³digo Valor CÃ³digo Tipo de CÃ³digo Valor CÃ³digo Tipo de CÃ³digo Valor CÃ³digo |  | "MONEDA" Ver Tabla de Valores \* "NEMO" CÃ³digo nemotÃ©cnico propio "TRANSACC" Indicar: "COMPRA" o "VENTA" | No Visible No Visible No Visible No Visible No Visible Visible | 1 1 3 3 1 1 |
-|  |  | 2 Campo indicador de FacturaciÃ³n / ExenciÃ³n (lÃ­nea Ãºnica) | - |  |  | Valores "2" o "6" | No Visible | 1 |
-|  |  | 3 Campo Nombre del Ãtem | - |  |  | Nombre de la monedatransada | Visible | 1 |
+|  |  | 1 Tabla Tipo de Código (soporta hasta 5líneas) | Línea 1 Línea 2 Línea 3 | Tipo de Código Valor Código Tipo de Código Valor Código Tipo de Código Valor Código |  | "MONEDA" Ver Tabla de Valores \* "NEMO" Código nemotécnico propio "TRANSACC" Indicar: "COMPRA" o "VENTA" | No Visible No Visible No Visible No Visible No Visible Visible | 1 1 3 3 1 1 |
+|  |  | 2 Campo indicador de Facturación / Exención (línea única) | - |  |  | Valores "2" o "6" | No Visible | 1 |
+|  |  | 3 Campo Nombre del Ítem | - |  |  | Nombre de la monedatransada | Visible | 1 |
 |  |  | 4 Campo Precio de Referencia | - |  |  | Valor previo de de compra de la monedaextranjera que se vende | Visible | 3 |
 |  |  | 5 Campo Cantidad | - |  |  | Cantidad de Monedaextranjera transada. | Visible | 1 |
-|  |  | 6 Campo Fecha de ElaboraciÃ³n | - |  |  | Fecha de la transacciÃ³n | Visible | 2 |
+|  |  | 6 Campo Fecha de Elaboración | - |  |  | Fecha de la transacción | Visible | 2 |
 |  |  | 7 Campo fecha de Vencimiento | - |  |  | Fecha previa de compra de la monedaextranjera que se vende | Visible | 3 |
 |  |  | 8 Campo Precio Unitario del Item en pesos | - |  |  | Tipo de Cambio | Visible | 1 |
 | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado |
-|  |  | 1 Campo Rut Receptor | - |  |  | Indicar RUT segÃºn instrucciones | Visible | 1 |
-|  |  | 2 Campo CÃ³digo Interno Receptor | - |  |  | En caso de NÃºmero de IdentificaciÃ³n cliente extranjero | Visible | 2 |
-|  |  | 3 Campo Nacionalidad del receptor extranjero | - |  |  | Indicar PaÃ­s de cliente extranjero | No Visible | 2 |
-|  |  | 4 Campo Monto Total | - |  |  | Valor NumÃ©rico de operaciones de derechos, comisionesy otros cargos | Visible | 1 |
-|  |  | 5 Campo Monto Total No Facturable | - |  |  | Valor NumÃ©rico (Puede ser negativo), de montos transados en compra y venta de monedaextranjera | Visible | 1 |
-|  |  | 6 Campo Monto Periodo | - |  |  | Valor NumÃ©rico (Puede ser negativo), a favor o en contra, que incluye operaciones de derechos, comisiones y otros cargos, asÃ­como de montos transados en compra y venta de monedaextranjera | Visible | 1 |
+|  |  | 1 Campo Rut Receptor | - |  |  | Indicar RUT según instrucciones | Visible | 1 |
+|  |  | 2 Campo Código Interno Receptor | - |  |  | En caso de Número de Identificación cliente extranjero | Visible | 2 |
+|  |  | 3 Campo Nacionalidad del receptor extranjero | - |  |  | Indicar País de cliente extranjero | No Visible | 2 |
+|  |  | 4 Campo Monto Total | - |  |  | Valor Numérico de operaciones de derechos, comisionesy otros cargos | Visible | 1 |
+|  |  | 5 Campo Monto Total No Facturable | - |  |  | Valor Numérico (Puede ser negativo), de montos transados en compra y venta de monedaextranjera | Visible | 1 |
+|  |  | 6 Campo Monto Periodo | - |  |  | Valor Numérico (Puede ser negativo), a favor o en contra, que incluye operaciones de derechos, comisiones y otros cargos, asícomo de montos transados en compra y venta de monedaextranjera | Visible | 1 |
 
-Forma de registrar las Transacciones de compra y venta de moneda extranjera en Boletas ElectrÃ³nicas Afectas y Exentas
+Forma de registrar las Transacciones de compra y venta de moneda extranjera en Boletas Electrónicas Afectas y Exentas
 
-| **Ãrea Boleta** | **NÂ° Orden** | **Nombre Tablao Campo** | **Orden en tabla** | **Nombre subcampo** | **Nombre TAG** | **Valores a ingresarse** | **RepresentaciÃ³n grÃ¡fica** | **Obligatoriedad** |
+| **Área Boleta** | **N° Orden** | **Nombre Tablao Campo** | **Orden en tabla** | **Nombre subcampo** | **Nombre TAG** | **Valores a ingresarse** | **Representación gráfica** | **Obligatoriedad** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta | Detalle Boleta |
-|  |  | 1 Tabla Tipo de CÃ³digo (soporta hasta 5lÃ­neas) | LÃ­nea 1 LÃ­nea 2 LÃ­nea 3 | Tipo de CÃ³digo Valor CÃ³digo Tipo de CÃ³digo Valor CÃ³digo Tipo de CÃ³digo Valor CÃ³digo |  | "MONEDA" Ver Tabla de Valores \* "NEMO" CÃ³digo nemotÃ©cnico propio "TRANSACC" Indicar: "COMPRA" o "VENTA" | No Visible No Visible No Visible No Visible No Visible Visible | 1 1 3 3 1 1 |
-|  |  | 2 Campo indicador de FacturaciÃ³n / ExenciÃ³n (lÃ­nea Ãºnica) | - |  |  | Valores "2" o "6" | No Visible | 1 |
-|  |  | 3 Campo Nombre del Ãtem | - |  |  | Nombre de la monedatransada | Visible | 1 |
+|  |  | 1 Tabla Tipo de Código (soporta hasta 5líneas) | Línea 1 Línea 2 Línea 3 | Tipo de Código Valor Código Tipo de Código Valor Código Tipo de Código Valor Código |  | "MONEDA" Ver Tabla de Valores \* "NEMO" Código nemotécnico propio "TRANSACC" Indicar: "COMPRA" o "VENTA" | No Visible No Visible No Visible No Visible No Visible Visible | 1 1 3 3 1 1 |
+|  |  | 2 Campo indicador de Facturación / Exención (línea única) | - |  |  | Valores "2" o "6" | No Visible | 1 |
+|  |  | 3 Campo Nombre del Ítem | - |  |  | Nombre de la monedatransada | Visible | 1 |
 |  |  | 4 Campo Cantidad | - |  |  | Cantidad de Monedaextranjera transada. | Visible | 1 |
 |  |  | 5 Campo Precio Unitario del Item en pesos | - |  |  | Tipo de Cambio | Visible | 1 |
 | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado | Encabezado |
-|  |  | 1 Campo Rut Receptor | - |  |  | Indicar RUT segÃºn instrucciones | Visible | 1 |
-|  |  | 2 Campo CÃ³digo Interno Receptor | - |  |  | En caso de NÃºmero de IdentificaciÃ³n cliente extranjero | Visible | 2 |
-|  |  | 3 Campo Nacionalidad del receptor extranjero | - |  |  | Indicar PaÃ­s de cliente extranjero | No Visible | 2 |
-|  |  | 4 Campo Monto Total | - |  |  | Valor NumÃ©rico de operaciones de derechos, comisionesy otros cargos | Visible | 1 |
-|  |  | 5 Campo Monto Total No Facturable | - |  |  | Valor NumÃ©rico (Puede ser negativo), de montos transados en compra y venta de monedaextranjera | Visible | 1 |
-|  |  | 6 Campo Monto Periodo | - |  |  | Valor NumÃ©rico (Puede ser negativo), a favor o en contra, que incluye operaciones de derechos, comisiones y otros cargos, asÃ­como de montos transados en compra y venta de monedaextranjera | Visible | 1 |
+|  |  | 1 Campo Rut Receptor | - |  |  | Indicar RUT según instrucciones | Visible | 1 |
+|  |  | 2 Campo Código Interno Receptor | - |  |  | En caso de Número de Identificación cliente extranjero | Visible | 2 |
+|  |  | 3 Campo Nacionalidad del receptor extranjero | - |  |  | Indicar País de cliente extranjero | No Visible | 2 |
+|  |  | 4 Campo Monto Total | - |  |  | Valor Numérico de operaciones de derechos, comisionesy otros cargos | Visible | 1 |
+|  |  | 5 Campo Monto Total No Facturable | - |  |  | Valor Numérico (Puede ser negativo), de montos transados en compra y venta de monedaextranjera | Visible | 1 |
+|  |  | 6 Campo Monto Periodo | - |  |  | Valor Numérico (Puede ser negativo), a favor o en contra, que incluye operaciones de derechos, comisiones y otros cargos, asícomo de montos transados en compra y venta de monedaextranjera | Visible | 1 |

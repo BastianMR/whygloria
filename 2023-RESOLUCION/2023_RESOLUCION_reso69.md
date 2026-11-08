@@ -1,110 +1,111 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 69 (2023)
-description: INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR EL SUBSIDIO TEMPORAL QUE BENEFICIA A LAS MICRO, PEQUEÃ‘AS Y MEDIANAS EMPRESAS ESTABLECIDO EN EL A...
+---
+type: "SII Resolución"
+title: "Resolución N° 69 (2023)"
+description: "INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR EL SUBSIDIO TEMPORAL QUE BENEFICIA A LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS ESTABLECIDO EN EL A..."
 tags: [SII, 2023, resolucion]
 ---
 
-INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR EL SUBSIDIO TEMPORAL QUE BENEFICIA A LAS MICRO, PEQUEÃ‘AS Y MEDIANAS EMPRESAS ESTABLECIDO EN EL ARTÃCULO 8Â° DE LA LEY NÂ°\_21.578, Y HABILITA PLATAFORMA PARA ELLO.
+
+INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR EL SUBSIDIO TEMPORAL QUE BENEFICIA A LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS ESTABLECIDO EN EL ARTÍCULO 8° DE LA LEY N°\_21.578, Y HABILITA PLATAFORMA PARA ELLO.
 
 SANTIAGO, 16 DE JUNIO DE 2023.
 
-RESOLUCIÃ“N EX. SII NÂ° 69.-
+RESOLUCIÓN EX. SII N° 69.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 6Â° letra A) NÂ° 1, 11, 11 bis, 11 ter, 33 numeral ii), 53, 59 bis, 68 y 97 NÂ° 11 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830 de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del D.F.L. NÂ° 7, del Ministerio de Hacienda, de 1980; en los artÃ­culos 20, 34 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824, de 1974; en los artÃ­culos 29 y 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825 de 1974; en el artÃ­culo 34 de la Ley NÂ° 19.728, sobre protecciÃ³n de la vida privada; en el artÃ­culo 56, inciso quinto, de la Ley NÂ° 20.255, que establece reforma previsional; en el artÃ­culo 14 de la Ley NÂ° 21.354, que otorga bonos de cargo fiscal para apoyar a las micro y pequeÃ±as empresas, por la crisis generada por la enfermedad COVID-19; y en los artÃ­culos 8Â° y siguientes de la Ley NÂ° 21.578, que reajusta el monto del ingreso mÃ­nimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignaciÃ³n familiar y maternal, y extiende el ingreso mÃ­nimo garantizado y el subsidio temporal a las micro, pequeÃ±as y medianas empresas en la forma que indica, que reajusta el monto del ingreso mÃ­nimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignaciÃ³n familiar y maternal, y extiende el ingreso mÃ­nimo garantizado y el subsidio temporal a las micro, pequeÃ±as y medianas empresas en la forma que indica; y
+VISTOS: Lo dispuesto en los artículos 6° letra A) N° 1, 11, 11 bis, 11 ter, 33 numeral ii), 53, 59 bis, 68 y 97 N° 11 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; en los artículos 20, 34 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974; en los artículos 29 y 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825 de 1974; en el artículo 34 de la Ley N° 19.728, sobre protección de la vida privada; en el artículo 56, inciso quinto, de la Ley N° 20.255, que establece reforma previsional; en el artículo 14 de la Ley N° 21.354, que otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la enfermedad COVID-19; y en los artículos 8° y siguientes de la Ley N° 21.578, que reajusta el monto del ingreso mínimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar y maternal, y extiende el ingreso mínimo garantizado y el subsidio temporal a las micro, pequeñas y medianas empresas en la forma que indica, que reajusta el monto del ingreso mínimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar y maternal, y extiende el ingreso mínimo garantizado y el subsidio temporal a las micro, pequeñas y medianas empresas en la forma que indica; y
 
 ## CONSIDERANDO:
 
-1Â° Que, el artÃ­culo 8Â° de la Ley NÂ° 21.578 (en adelante referida como Â«la LeyÂ») establece un nuevo subsidio temporal, de carÃ¡cter mensual y de cargo fiscal, para el pago del ingreso mÃ­nimo mensual (IMM) contemplado en la misma Ley (en adelante referido como Â«subsidioÂ» o Â«subsidio sueldo mÃ­nimo mipymeÂ» indistintamente);
+1° Que, el artículo 8° de la Ley N° 21.578 (en adelante referida como «la Ley») establece un nuevo subsidio temporal, de carácter mensual y de cargo fiscal, para el pago del ingreso mínimo mensual (IMM) contemplado en la misma Ley (en adelante referido como «subsidio» o «subsidio sueldo mínimo mipyme» indistintamente);
 
-2Â° Que, dicho subsidio se establece en beneficio de las micro, pequeÃ±as y medianas empresas que sean personas naturales y jurÃ­dicas, incluyendo a las cooperativas, disponiendo la referida norma los requisitos que se deben cumplir para acceder a Ã©l. Asimismo, el referido subsidio se pagarÃ¡ tambiÃ©n a aquellas personas jurÃ­dicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023;
+2° Que, dicho subsidio se establece en beneficio de las micro, pequeñas y medianas empresas que sean personas naturales y jurídicas, incluyendo a las cooperativas, disponiendo la referida norma los requisitos que se deben cumplir para acceder a él. Asimismo, el referido subsidio se pagará también a aquellas personas jurídicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023;
 
-3Â° Que, en el artÃ­culo 9Â° de la Ley se indican las personas naturales y jurÃ­dicas que se encuentran excluidas del subsidio;
+3° Que, en el artículo 9° de la Ley se indican las personas naturales y jurídicas que se encuentran excluidas del subsidio;
 
-4Â° Que, el artÃ­culo 11 de la Ley dispone que el monto del subsidio corresponde a la suma del subsidio base mensual contemplado en el artÃ­culo 12 y el subsidio variable mensual contemplado en el artÃ­culo 13, multiplicado por el factor de nivel de empleo establecido en el artÃ­culo 15, todas disposiciones de la misma Ley;
+4° Que, el artículo 11 de la Ley dispone que el monto del subsidio corresponde a la suma del subsidio base mensual contemplado en el artículo 12 y el subsidio variable mensual contemplado en el artículo 13, multiplicado por el factor de nivel de empleo establecido en el artículo 15, todas disposiciones de la misma Ley;
 
-5Â° Que, de acuerdo al artÃ­culo 16 de la Ley, el subsidio deberÃ¡ ser solicitado una Ãºnica vez, sin perjuicio de su devengamiento mensual, mediante una plataforma electrÃ³nica habilitada por el Servicio de Impuestos Internos, correspondiendo a este Servicio regular el funcionamiento de aquella, el procedimiento de la solicitud, mediante una o mÃ¡s resoluciones, asÃ­ como la verificaciÃ³n del cumplimiento de los requisitos para su otorgamiento;
+5° Que, de acuerdo al artículo 16 de la Ley, el subsidio deberá ser solicitado una única vez, sin perjuicio de su devengamiento mensual, mediante una plataforma electrónica habilitada por el Servicio de Impuestos Internos, correspondiendo a este Servicio regular el funcionamiento de aquella, el procedimiento de la solicitud, mediante una o más resoluciones, así como la verificación del cumplimiento de los requisitos para su otorgamiento;
 
-6Â° Que, el artÃ­culo 19 de la Ley dispone que el beneficiario que hubiese obtenido el subsidio sueldo mÃ­nimo Mipyme mediante simulaciÃ³n, falseando datos o antecedentes, sin cumplir con los requisitos legales, o por un monto mayor al que le corresponda, deberÃ¡ reintegrar todo o parte del subsidio en el proceso de DeclaraciÃ³n de Impuestos Anuales a la Renta siguiente a dicha obtenciÃ³n, conforme al artÃ­culo 65 de la Ley sobre Impuesto a la Renta, aplicÃ¡ndose las normas sobre reajustabilidad e intereses del artÃ­culo 53 del CÃ³digo Tributario y la sanciÃ³n que contempla el NÂ° 11 del artÃ­culo 97 del mismo CÃ³digo, sanciÃ³n que no aplicarÃ¡ a quienes restituyan dicho subsidio conforme lo establecido en el inciso primero del artÃ­culo 19 ya seÃ±alado.
+6° Que, el artículo 19 de la Ley dispone que el beneficiario que hubiese obtenido el subsidio sueldo mínimo Mipyme mediante simulación, falseando datos o antecedentes, sin cumplir con los requisitos legales, o por un monto mayor al que le corresponda, deberá reintegrar todo o parte del subsidio en el proceso de Declaración de Impuestos Anuales a la Renta siguiente a dicha obtención, conforme al artículo 65 de la Ley sobre Impuesto a la Renta, aplicándose las normas sobre reajustabilidad e intereses del artículo 53 del Código Tributario y la sanción que contempla el N° 11 del artículo 97 del mismo Código, sanción que no aplicará a quienes restituyan dicho subsidio conforme lo establecido en el inciso primero del artículo 19 ya señalado.
 
-7Â° Que, el artÃ­culo 20 de la Ley establece que el beneficiario del subsidio no podrÃ¡ poner tÃ©rmino al contrato de trabajo de un trabajador o trabajadora dependiente y suscribir uno nuevo, ya sea con el mismo trabajador o trabajadora dependiente o uno distinto, en el que se pacte una remuneraciÃ³n inferior de la que Ã©ste recibÃ­a, con el objeto de obtener el subsidio. Asimismo, no podrÃ¡ modificar los contratos de trabajo de sus trabajadores o trabajadoras dependientes para reducir la remuneraciÃ³n con el objeto de obtener el subsidio, ni podrÃ¡ reducir las remuneraciones de sus trabajadores o trabajadoras como consecuencia de la obtenciÃ³n del presente subsidio. Quien incurra en las conductas indicadas, a contar del 8 de mayo de 2023, no podrÃ¡ recibir el subsidio;
+7° Que, el artículo 20 de la Ley establece que el beneficiario del subsidio no podrá poner término al contrato de trabajo de un trabajador o trabajadora dependiente y suscribir uno nuevo, ya sea con el mismo trabajador o trabajadora dependiente o uno distinto, en el que se pacte una remuneración inferior de la que éste recibía, con el objeto de obtener el subsidio. Asimismo, no podrá modificar los contratos de trabajo de sus trabajadores o trabajadoras dependientes para reducir la remuneración con el objeto de obtener el subsidio, ni podrá reducir las remuneraciones de sus trabajadores o trabajadoras como consecuencia de la obtención del presente subsidio. Quien incurra en las conductas indicadas, a contar del 8 de mayo de 2023, no podrá recibir el subsidio;
 
-8Â° -Que, el artÃ­culo 21 de la Ley establece que el subsidio no estarÃ¡ afecto a impuesto alguno, no se sujetarÃ¡ a ninguna retenciÃ³n de carÃ¡cter administrativa ni judicial, no serÃ¡ compensado por la TesorerÃ­a General de la RepÃºblica, como asÃ­ tampoco le serÃ¡n aplicables los descuentos a que se refiere el artÃ­culo 3Â° del D.F.L. NÂ° 707 de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques. El subsidio tampoco serÃ¡ embargable;
+8° -Que, el artículo 21 de la Ley establece que el subsidio no estará afecto a impuesto alguno, no se sujetará a ninguna retención de carácter administrativa ni judicial, no será compensado por la Tesorería General de la República, como así tampoco le serán aplicables los descuentos a que se refiere el artículo 3° del D.F.L. N° 707 de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques. El subsidio tampoco será embargable;
 
-9Â°Que, el artÃ­culo 22 de la Ley establece que el subsidio sueldo mÃ­nimo mipyme se devengarÃ¡ mensualmente desde el 1 de mayo de 2023 hasta el dÃ­a 30 de abril de 2025, sin perjuicio de los pagos que se efectÃºen despuÃ©s de esa fecha conforme las disposiciones de esta ley;
+9°Que, el artículo 22 de la Ley establece que el subsidio sueldo mínimo mipyme se devengará mensualmente desde el 1 de mayo de 2023 hasta el día 30 de abril de 2025, sin perjuicio de los pagos que se efectúen después de esa fecha conforme las disposiciones de esta ley;
 
-10Â°Que, el artÃ­culo 23 de la Ley otorga al Servicio de Impuestos Internos las atribuciones y facultades para la habilitaciÃ³n de una plataforma para solicitar el subsidio, verificar los requisitos para su procedencia, otorgar y determinar el monto del subsidio, notificar a las beneficiarias, emitir resoluciones e impartir instrucciones, interpretar las normas, suspender o denegar el pago del subsidio y cumplir con las demÃ¡s funciones que sean necesarias para su aplicaciÃ³n.
+10°Que, el artículo 23 de la Ley otorga al Servicio de Impuestos Internos las atribuciones y facultades para la habilitación de una plataforma para solicitar el subsidio, verificar los requisitos para su procedencia, otorgar y determinar el monto del subsidio, notificar a las beneficiarias, emitir resoluciones e impartir instrucciones, interpretar las normas, suspender o denegar el pago del subsidio y cumplir con las demás funciones que sean necesarias para su aplicación.
 
-Asimismo, para verificar la procedencia del subsidio, el Servicio de Impuestos Internos estÃ¡ facultado para requerir a la Administradora de Fondos de CesantÃ­a la informaciÃ³n contenida en la base de datos de los trabajadores y las trabajadoras sujetos al seguro de cesantÃ­a, establecida en el artÃ­culo 34 de la Ley NÂ° 19.728, como asimismo se encuentra facultado para requerir la informaciÃ³n que fuere necesaria a la Superintendencia de Pensiones y a la Superintendencia de Seguridad Social.
+Asimismo, para verificar la procedencia del subsidio, el Servicio de Impuestos Internos está facultado para requerir a la Administradora de Fondos de Cesantía la información contenida en la base de datos de los trabajadores y las trabajadoras sujetos al seguro de cesantía, establecida en el artículo 34 de la Ley N° 19.728, como asimismo se encuentra facultado para requerir la información que fuere necesaria a la Superintendencia de Pensiones y a la Superintendencia de Seguridad Social.
 
-11Â° Que, para verificar el cumplimiento de los requisitos del subsidio sueldo mÃ­nimo mipyme, el Servicio de Impuestos Internos utilizarÃ¡ la informaciÃ³n administrativa que se encuentre a su disposiciÃ³n y la que reciba de otros organismos, ya sea que se utilice directamente o que se infiera de ella.
+11° Que, para verificar el cumplimiento de los requisitos del subsidio sueldo mínimo mipyme, el Servicio de Impuestos Internos utilizará la información administrativa que se encuentre a su disposición y la que reciba de otros organismos, ya sea que se utilice directamente o que se infiera de ella.
 
 ## SE RESUELVE:
 
-1Â° -HABILÃTASE una plataforma administrada por este Servicio para que las micro, pequeÃ±as y medianas empresas, junto a las cooperativas, personas jurÃ­dicas sin fines de lucro y comunidades, que cumpliendo con los requisitos seÃ±alados en los resolutivos 2Â° y 3Â° siguientes, soliciten el subsidio sueldo mÃ­nimo mipyme de la Ley en la forma indicada en el Resolutivo NÂº 5 de la presente resoluciÃ³n;
+1° -HABILÍTASE una plataforma administrada por este Servicio para que las micro, pequeñas y medianas empresas, junto a las cooperativas, personas jurídicas sin fines de lucro y comunidades, que cumpliendo con los requisitos señalados en los resolutivos 2° y 3° siguientes, soliciten el subsidio sueldo mínimo mipyme de la Ley en la forma indicada en el Resolutivo Nº 5 de la presente resolución;
 
-2Â°-REQUISITOS: Para solicitar y obtener el subsidio sueldo mÃ­nimo mipyme los contribuyentes deben cumplir los siguientes requisitos copulativos:
+2°-REQUISITOS: Para solicitar y obtener el subsidio sueldo mínimo mipyme los contribuyentes deben cumplir los siguientes requisitos copulativos:
 
-* 1. Ser una persona natural o jurÃ­dica, incluyendo en estas Ãºltimas a las cooperativas. TambiÃ©n pueden solicitar el subsidio las personas jurÃ­dicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023, excluidos aquellos contribuyentes seÃ±alados en el artÃ­culo 9Â° de la Ley, indicados en el resolutivo 4.
-  2. Haber informado inicio de actividades en primera categorÃ­a conforme al artÃ­culo 68 del CÃ³digo Tributario estÃ©n dichas actividades gravadas, no gravadas o exentas de IVA.
+* 1. Ser una persona natural o jurídica, incluyendo en estas últimas a las cooperativas. También pueden solicitar el subsidio las personas jurídicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023, excluidos aquellos contribuyentes señalados en el artículo 9° de la Ley, indicados en el resolutivo 4.
+  2. Haber informado inicio de actividades en primera categoría conforme al artículo 68 del Código Tributario estén dichas actividades gravadas, no gravadas o exentas de IVA.
 
-La fecha del inicio de actividades, determina el perÃ­odo en el que se puede o no acceder al subsidio:
+La fecha del inicio de actividades, determina el período en el que se puede o no acceder al subsidio:
 
-* i. Personas naturales y jurÃ­dicas que hayan iniciado actividades hasta el dÃ­a 8 de mayo de 2023, tienen derecho a solicitar el subsidio por todos los meses en que este aplica de acuerdo a la ley, esto es, desde mayo de 2023 hasta abril de 2025.
-* ii. Personas naturales y jurÃ­dicas que hayan iniciado actividades despuÃ©s del 8 de mayo de 2023, no tendrÃ¡n derecho a recibir el subsidio correspondiente a mayo, junio, julio y agosto de 2023.
-* iii. Personas naturales y jurÃ­dicas que hayan iniciado actividades despuÃ©s del 31 de agosto de 2023, no tendrÃ¡n derecho a recibir el subsidio correspondiente a los meses de septiembre de 2023 a junio de 2024, ambos meses inclusive. Con todo, de cumplirse el supuesto de reajuste al IMM contemplado en el inciso cuarto del artÃ­culo 1Â°, tendrÃ¡n derecho a recibirlo por los meses entre enero y junio de 2024, ambos inclusive.
-* iv. Personas naturales y jurÃ­dicas que inicien actividades entre el 1 de julio de 2024 y 31 de diciembre de 2024, sÃ³lo tendrÃ¡n derecho a subsidio en los meses de enero a abril de 2025, ambos inclusive.
-  1. Tener ingresos anuales por ventas y/o servicios del giro superiores a 0,01 unidades de fomento (UF) e iguales o inferiores a 100.000 UF, los cuales serÃ¡n contabilizados conforme a la tabla que sigue. Este requisito no serÃ¡ exigible a las personas jurÃ­dicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023, que no registren ingresos anuales por ventas o servicios del giro, las que serÃ¡n consideradas microempresas para los efectos de la Ley.
+* i. Personas naturales y jurídicas que hayan iniciado actividades hasta el día 8 de mayo de 2023, tienen derecho a solicitar el subsidio por todos los meses en que este aplica de acuerdo a la ley, esto es, desde mayo de 2023 hasta abril de 2025.
+* ii. Personas naturales y jurídicas que hayan iniciado actividades después del 8 de mayo de 2023, no tendrán derecho a recibir el subsidio correspondiente a mayo, junio, julio y agosto de 2023.
+* iii. Personas naturales y jurídicas que hayan iniciado actividades después del 31 de agosto de 2023, no tendrán derecho a recibir el subsidio correspondiente a los meses de septiembre de 2023 a junio de 2024, ambos meses inclusive. Con todo, de cumplirse el supuesto de reajuste al IMM contemplado en el inciso cuarto del artículo 1°, tendrán derecho a recibirlo por los meses entre enero y junio de 2024, ambos inclusive.
+* iv. Personas naturales y jurídicas que inicien actividades entre el 1 de julio de 2024 y 31 de diciembre de 2024, sólo tendrán derecho a subsidio en los meses de enero a abril de 2025, ambos inclusive.
+  1. Tener ingresos anuales por ventas y/o servicios del giro superiores a 0,01 unidades de fomento (UF) e iguales o inferiores a 100.000 UF, los cuales serán contabilizados conforme a la tabla que sigue. Este requisito no será exigible a las personas jurídicas sin fines de lucro y comunidades, constituidas hasta el 8 de mayo de 2023, que no registren ingresos anuales por ventas o servicios del giro, las que serán consideradas microempresas para los efectos de la Ley.
 
-| **Personas naturales y jurÃ­dicas, cooperativas y comunidades que hayan iniciado actividades en la primera categorÃ­a ante el Servicio de Impuestos Internos** | **Personas naturales y jurÃ­dicas, cooperativas y comunidades que hayan iniciado actividades en la primera categorÃ­a ante el Servicio de Impuestos Internos** | **Personas naturales y jurÃ­dicas, cooperativas y comunidades que hayan iniciado actividades en la primera categorÃ­a ante el Servicio de Impuestos Internos** |
+| **Personas naturales y jurídicas, cooperativas y comunidades que hayan iniciado actividades en la primera categoría ante el Servicio de Impuestos Internos** | **Personas naturales y jurídicas, cooperativas y comunidades que hayan iniciado actividades en la primera categoría ante el Servicio de Impuestos Internos** | **Personas naturales y jurídicas, cooperativas y comunidades que hayan iniciado actividades en la primera categoría ante el Servicio de Impuestos Internos** |
 | --- | --- | --- |
-| Fecha de inicio de actividades | Fuente de informaciÃ³n sobre ingresos anuales por ventas o servicios del giro (\*) | Valor UF |
-| Antes del 1.1.2022 | Cualquier fuente de informaciÃ³n que de cuenta del monto mayor de ingresos por ventas y/o servicios del giro entre: (i) Ingresos declarados del giro en el Formulario 22 correspondiente al aÃ±o tributario 2023 (aÃ±o calendario 2022). (ii) Ingresos por ventas y servicios del giro declarados en los Formularios 29 presentados a partir del periodo tributario enero de 2022 y hasta el periodo tributario correspondiente a diciembre de 2022 (que debe declararse y pagarse a contar del 1.1.2023). (iii) Ingresos por ventas y servicios del giro que consten en el Registro de Compras y Ventas del aÃ±o calendario 2022. (iv) Ingresos por Boletas de Honorarios ElectrÃ³nicas emitidas con fecha entre el 1.1.2022 hasta el 31.12.2022, solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categorÃ­a. | Valor UF al 31.12.2022 |
+| Fecha de inicio de actividades | Fuente de información sobre ingresos anuales por ventas o servicios del giro (\*) | Valor UF |
+| Antes del 1.1.2022 | Cualquier fuente de información que de cuenta del monto mayor de ingresos por ventas y/o servicios del giro entre: (i) Ingresos declarados del giro en el Formulario 22 correspondiente al año tributario 2023 (año calendario 2022). (ii) Ingresos por ventas y servicios del giro declarados en los Formularios 29 presentados a partir del periodo tributario enero de 2022 y hasta el periodo tributario correspondiente a diciembre de 2022 (que debe declararse y pagarse a contar del 1.1.2023). (iii) Ingresos por ventas y servicios del giro que consten en el Registro de Compras y Ventas del año calendario 2022. (iv) Ingresos por Boletas de Honorarios Electrónicas emitidas con fecha entre el 1.1.2022 hasta el 31.12.2022, solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categoría. | Valor UF al 31.12.2022 |
 
-| **Entre el 1.1.2022 y el 31.12.2022** | **Cualquier fuente de informaciÃ³n que de cuenta del monto mayor de ingresos por ventas y/o servicios del giro entre: (i) Ingresos declarados del giro en el Formulario 22 correspondiente al aÃ±o tributario 2023 (aÃ±o calendario 2022). (ii) Ingresos del giro declarados en los Formularios 29 presentados a partir del periodo tributario enero de 2022 y hasta el periodo tributario correspondiente a diciembre de 2022 (que debe declararse y pagarse a contar del 1.1.2023), por sobre el proporcional de los ingresos mÃ¡ximos correspondientes a los meses en que haya desarrollado actividades. (iii) Ingresos por ventas y/o servicios del giro que consten en el Registro de Compras y Ventas del aÃ±o calendario 2022, por sobre el proporcional de los ingresos mÃ¡ximos correspondientes a los meses en que haya desarrollado actividades. (iv) Ingresos por Boletas de Honorarios ElectrÃ³nicas, emitidas entre el 1.1.2022 y hasta el 31.12.2022 solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categorÃ­a, por sobre el proporcional de los ingresos mÃ¡ximos correspondientes a los meses en que haya desarrollado actividades.** | **Valor UF al 31.12.2022** |
+| **Entre el 1.1.2022 y el 31.12.2022** | **Cualquier fuente de información que de cuenta del monto mayor de ingresos por ventas y/o servicios del giro entre: (i) Ingresos declarados del giro en el Formulario 22 correspondiente al año tributario 2023 (año calendario 2022). (ii) Ingresos del giro declarados en los Formularios 29 presentados a partir del periodo tributario enero de 2022 y hasta el periodo tributario correspondiente a diciembre de 2022 (que debe declararse y pagarse a contar del 1.1.2023), por sobre el proporcional de los ingresos máximos correspondientes a los meses en que haya desarrollado actividades. (iii) Ingresos por ventas y/o servicios del giro que consten en el Registro de Compras y Ventas del año calendario 2022, por sobre el proporcional de los ingresos máximos correspondientes a los meses en que haya desarrollado actividades. (iv) Ingresos por Boletas de Honorarios Electrónicas, emitidas entre el 1.1.2022 y hasta el 31.12.2022 solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categoría, por sobre el proporcional de los ingresos máximos correspondientes a los meses en que haya desarrollado actividades.** | **Valor UF al 31.12.2022** |
 | --- | --- | --- |
-| Entre el 1.1.2023 y el 31.12. 2024\*\* | Cualquier fuente de informaciÃ³n que de cuenta del monto mayor\* de ingresos por ventas y/o servicios del giro, correspondientes a los tres primeros meses consecutivos en que haya desarrollado actividades y obtenido ingresos por ventas y servicios de giro, entre: (i) Ingresos del giro declarados en los Formularios 29 presentados en el aÃ±o calendario 2023 o 2024, segÃºn corresponda. (ii) Ingresos por ventas del giro que consten en el Registro de Compras y Ventas del aÃ±o 2023. (iii) Ingresos por Boletas de Honorarios ElectrÃ³nicas emitidas durante el 2023 solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categorÃ­a, por sobre el proporcional de los ingresos mÃ¡ximos correspondientes a los meses en que haya desarrollado actividades. | Valor UF al Ãºltimo dÃ­a calendario del tercer mes de ventas reportado. |
+| Entre el 1.1.2023 y el 31.12. 2024\*\* | Cualquier fuente de información que de cuenta del monto mayor\* de ingresos por ventas y/o servicios del giro, correspondientes a los tres primeros meses consecutivos en que haya desarrollado actividades y obtenido ingresos por ventas y servicios de giro, entre: (i) Ingresos del giro declarados en los Formularios 29 presentados en el año calendario 2023 o 2024, según corresponda. (ii) Ingresos por ventas del giro que consten en el Registro de Compras y Ventas del año 2023. (iii) Ingresos por Boletas de Honorarios Electrónicas emitidas durante el 2023 solo en el caso de las sociedades de profesionales sujetas a las normas de la primera categoría, por sobre el proporcional de los ingresos máximos correspondientes a los meses en que haya desarrollado actividades. | Valor UF al último día calendario del tercer mes de ventas reportado. |
 
-(\*) El monto a considerar se compararÃ¡ con el proporcional a los ingresos indicados en el NÂ° 3 de este resolutivo.
+(\*) El monto a considerar se comparará con el proporcional a los ingresos indicados en el N° 3 de este resolutivo.
 
-(\*\*) Respecto de las personas jurÃ­dicas sin fines de lucro y de las comunidades, la fecha del aviso de inicio de actividades no podrÃ¡ ser posterior al 8 de mayo de 2023.
+(\*\*) Respecto de las personas jurídicas sin fines de lucro y de las comunidades, la fecha del aviso de inicio de actividades no podrá ser posterior al 8 de mayo de 2023.
 
-Los ingresos serÃ¡n acreditados segÃºn la fuente de informaciÃ³n que seÃ±ala la tabla anterior, respecto de aquellos contribuyentes no sujetos al rÃ©gimen de renta presunta del artÃ­culo 34 de la Ley sobre Impuesto a la Renta (LIR), ni al rÃ©gimen simplificado del pÃ¡rrafo 7Â° del TÃ­tulo II de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) contenida en el D.L. NÂ° 825 de 1974.
+Los ingresos serán acreditados según la fuente de información que señala la tabla anterior, respecto de aquellos contribuyentes no sujetos al régimen de renta presunta del artículo 34 de la Ley sobre Impuesto a la Renta (LIR), ni al régimen simplificado del párrafo 7° del Título II de la Ley sobre Impuesto a las Ventas y Servicios (LIVS) contenida en el D.L. N° 825 de 1974.
 
-Para el cÃ¡lculo del monto total de los ingresos las fracciones de meses se considerarÃ¡n como meses completos. Asimismo, se considerarÃ¡ para los efectos de esta Ley el monto de los ingresos netos, es decir, se descontarÃ¡ el valor correspondiente al Impuesto al Valor Agregado y a los impuestos especÃ­ficos que pudieren aplicarse.
+Para el cálculo del monto total de los ingresos las fracciones de meses se considerarán como meses completos. Asimismo, se considerará para los efectos de esta Ley el monto de los ingresos netos, es decir, se descontará el valor correspondiente al Impuesto al Valor Agregado y a los impuestos específicos que pudieren aplicarse.
 
-3Â°-CONTRIBUYENTES SUJETOS AL RÃ‰GIMEN DE RENTA PRESUNTA O AL RÃ‰GIMEN SIMPLIFICADO DEL PÃRRAFO 7Â° DEL TÃTULO II DE LA LIVS : Los contribuyentes sujetos al rÃ©gimen de renta presunta del artÃ­culo 34 de la LIR y los pequeÃ±os contribuyentes sujetos al rÃ©gimen simplificado del pÃ¡rrafo 7Â° del TÃ­tulo II de la LIVS, para computar los ingresos anuales, considerarÃ¡n los ingresos por ventas y/o servicios del giro que consten en el Registro de Compras y Ventas (RCV).
+3°-CONTRIBUYENTES SUJETOS AL RÉGIMEN DE RENTA PRESUNTA O AL RÉGIMEN SIMPLIFICADO DEL PÁRRAFO 7° DEL TÍTULO II DE LA LIVS : Los contribuyentes sujetos al régimen de renta presunta del artículo 34 de la LIR y los pequeños contribuyentes sujetos al régimen simplificado del párrafo 7° del Título II de la LIVS, para computar los ingresos anuales, considerarán los ingresos por ventas y/o servicios del giro que consten en el Registro de Compras y Ventas (RCV).
 
-Para los contribuyentes sujetos a los regÃ­menes seÃ±alados anteriormente, que hayan iniciado actividades durante los aÃ±os calendarios 2022, 2023 o 2024, se considerarÃ¡n los ingresos por ventas y/o servicios del giro contenidos en el RCV que se indican en el literal (ii) del cuadro del Resolutivo NÂ° 2, que le corresponda segÃºn sea el aÃ±o en que hayan hecho inicio de actividades.
+Para los contribuyentes sujetos a los regímenes señalados anteriormente, que hayan iniciado actividades durante los años calendarios 2022, 2023 o 2024, se considerarán los ingresos por ventas y/o servicios del giro contenidos en el RCV que se indican en el literal (ii) del cuadro del Resolutivo N° 2, que le corresponda según sea el año en que hayan hecho inicio de actividades.
 
-Para estos efectos se estarÃ¡ al valor de la UF al 31.12.2022, salvo que el inicio de actividades se haya efectuado a contar del aÃ±o calendario 2023 en cuyo caso se estarÃ¡ al valor de la UF del Ãºltimo dÃ­a calendario del tercer mes de ventas consecutivo reportado.
+Para estos efectos se estará al valor de la UF al 31.12.2022, salvo que el inicio de actividades se haya efectuado a contar del año calendario 2023 en cuyo caso se estará al valor de la UF del último día calendario del tercer mes de ventas consecutivo reportado.
 
-## 4Â°-CONTRIBUYENTES EXCLUIDOS DEL SUBSIDIO :
+## 4°-CONTRIBUYENTES EXCLUIDOS DEL SUBSIDIO :
 
-Se encuentran excluidos del subsidio sueldo mÃ­nimo mipyme los siguientes contribuyentes:
+Se encuentran excluidos del subsidio sueldo mínimo mipyme los siguientes contribuyentes:
 
-* 1. Las empresas individuales de responsabilidad limitada que tengan un Ãºnico trabajador o trabajadora dependiente que coincida con el constituyente de la empresa;
-  2. Las sociedades por acciones que tengan un Ãºnico trabajador o trabajadora dependiente que coincida con alguno de los accionistas de la sociedad;
-  3. Las personas jurÃ­dicas de cualquier tipo que hayan hecho inicio de actividades desde el 8 de mayo de 2023 que tengan algÃºn socio, o algÃºn accionista que sea, a su vez, una persona jurÃ­dica, y;
-  4. Las empresas que al 8 de mayo de 2023 y durante la vigencia del subsidio, desempeÃ±en actividades financieras o de seguros, de acuerdo a los cÃ³digos de actividad econÃ³mica informados a este Servicio.
+* 1. Las empresas individuales de responsabilidad limitada que tengan un único trabajador o trabajadora dependiente que coincida con el constituyente de la empresa;
+  2. Las sociedades por acciones que tengan un único trabajador o trabajadora dependiente que coincida con alguno de los accionistas de la sociedad;
+  3. Las personas jurídicas de cualquier tipo que hayan hecho inicio de actividades desde el 8 de mayo de 2023 que tengan algún socio, o algún accionista que sea, a su vez, una persona jurídica, y;
+  4. Las empresas que al 8 de mayo de 2023 y durante la vigencia del subsidio, desempeñen actividades financieras o de seguros, de acuerdo a los códigos de actividad económica informados a este Servicio.
 
-5Â°-CÃLCULO Y MONTO DEL SUBSIDIO : El monto del subsidio sueldo mÃ­nimo mipyme que pueden solicitar y obtener los contribuyentes que cumplan con los requisitos corresponderÃ¡ a la suma del Subsidio Base Mensual (SBM) y del Subsidio Variable Mensual (SVM), multiplicado por el Factor de Nivel de Empleo (FNE). Lo anterior se puede graficar de la siguiente manera:
+5°-CÁLCULO Y MONTO DEL SUBSIDIO : El monto del subsidio sueldo mínimo mipyme que pueden solicitar y obtener los contribuyentes que cumplan con los requisitos corresponderá a la suma del Subsidio Base Mensual (SBM) y del Subsidio Variable Mensual (SVM), multiplicado por el Factor de Nivel de Empleo (FNE). Lo anterior se puede graficar de la siguiente manera:
 
-ð‘€ð‘œð‘›ð‘¡ð‘œ ð‘‘ð‘’ð‘™ ð‘†ð‘¢ð‘ð‘ ð‘–ð‘‘ð‘–ð‘œ = SBM + SVM âˆ— FNE
+𝑀𝑜𝑛𝑡𝑜 𝑑𝑒𝑙 𝑆𝑢𝑏𝑠𝑖𝑑𝑖𝑜 = SBM + SVM ∗ FNE
 
-Para los efectos del cÃ¡lculo del monto del subsidio sueldo mÃ­nimo mipyme, de acuerdo con lo dispuesto en los artÃ­culos 12, 13 y 15 de la Ley, se entenderÃ¡ por:
+Para los efectos del cálculo del monto del subsidio sueldo mínimo mipyme, de acuerdo con lo dispuesto en los artículos 12, 13 y 15 de la Ley, se entenderá por:
 
 ## (1) SUBSIDIO BASE MENSUAL (SBM)
 
-El SBM es calculado inicialmente al solicitarse el subsidio sueldo mÃ­nimo mipyme y equivale al producto de multiplicar un monto por trabajador(a) por el nÃºmero de trabajadores(as) que se encuentren contratados por el contribuyente con ingresos imponibles dentro del rango considerado para el cÃ¡lculo del SBM en el mes base.
+El SBM es calculado inicialmente al solicitarse el subsidio sueldo mínimo mipyme y equivale al producto de multiplicar un monto por trabajador(a) por el número de trabajadores(as) que se encuentren contratados por el contribuyente con ingresos imponibles dentro del rango considerado para el cálculo del SBM en el mes base.
 
-El monto por trabajador o trabajadora variarÃ¡ segÃºn el tamaÃ±o de la beneficiaria, de acuerdo a la clasificaciÃ³n de micro, pequeÃ±a y mediana empresa contemplada en el artÃ­culo segundo de la Ley NÂ° 20.416 y en atenciÃ³n a los ingresos anuales por ventas y servicios del giro que determine el Servicio de Impuestos Internos en aplicaciÃ³n del artÃ­culo 8 de la Ley. Este monto por trabajador o trabajadora serÃ¡ igual a:
+El monto por trabajador o trabajadora variará según el tamaño de la beneficiaria, de acuerdo a la clasificación de micro, pequeña y mediana empresa contemplada en el artículo segundo de la Ley N° 20.416 y en atención a los ingresos anuales por ventas y servicios del giro que determine el Servicio de Impuestos Internos en aplicación del artículo 8 de la Ley. Este monto por trabajador o trabajadora será igual a:
 
-(\*) Beneficiarias que hayan recibido el subsidio contemplado en el TÃ­tulo II de la Ley NÂ° 21.456.
+(\*) Beneficiarias que hayan recibido el subsidio contemplado en el Título II de la Ley N° 21.456.
 
 | **Periodo** | **IMM vigente ($)** | **Monto por trabajador(a) ($)** | **Monto por trabajador(a) ($)** | **Monto por trabajador(a) ($)** |
 | --- | --- | --- | --- | --- |
-| Periodo | IMM vigente ($) | Micro | PequeÃ±as | Medianas |
+| Periodo | IMM vigente ($) | Micro | Pequeñas | Medianas |
 | Mayo - Agosto | 440.000 | *35.000* *45.000* | *19.000* *29.000* | *4.500* *14.500* |
 | Sept - Diciembre | 460.000 | 50.500 | 32.500 | 17.500 |
 | Enero - Junio | 460.000 | 31.000 | 20.000 | 9.500 |
@@ -116,59 +117,59 @@ El monto por trabajador o trabajadora variarÃ¡ segÃºn el tamaÃ±o de la ben
 
 Los montos contemplados desde septiembre de 2023 hasta abril de 2025 son comunes para todos los contribuyentes que accedan al subsidio de la Ley.
 
-Los trabajadores y trabajadoras que se considerarÃ¡n para el cÃ¡lculo del subsidio serÃ¡n aquellos dependientes que registren ingresos imponibles entre $409.000 y $411.000, y entre $511.500 y $513.500 en el mes base correspondiente, determinado conforme las reglas que se indican al final de este resolutivo.
+Los trabajadores y trabajadoras que se considerarán para el cálculo del subsidio serán aquellos dependientes que registren ingresos imponibles entre $409.000 y $411.000, y entre $511.500 y $513.500 en el mes base correspondiente, determinado conforme las reglas que se indican al final de este resolutivo.
 
-Cuando el mes base sea algÃºn mes entre mayo a agosto de 2023, se considerarÃ¡n los trabajadores y las trabajadoras que registren ingresos imponibles entre $439.000 y $441.000, y entre $549.000 y $551.000. En el caso de los meses de septiembre a diciembre de 2023 y enero a junio de 2024, se considerarÃ¡n los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $459.000 y $461.000, y entre $574.000 y $576.000. En el caso de los meses de julio a diciembre 2024, se considerarÃ¡n los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $499.000 y $501.000 y entre $624.000 y $626.000.
+Cuando el mes base sea algún mes entre mayo a agosto de 2023, se considerarán los trabajadores y las trabajadoras que registren ingresos imponibles entre $439.000 y $441.000, y entre $549.000 y $551.000. En el caso de los meses de septiembre a diciembre de 2023 y enero a junio de 2024, se considerarán los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $459.000 y $461.000, y entre $574.000 y $576.000. En el caso de los meses de julio a diciembre 2024, se considerarán los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $499.000 y $501.000 y entre $624.000 y $626.000.
 
-Sin perjuicio de lo anterior, de cumplirse el supuesto de reajuste al ingreso mÃ­nimo mensual contemplado en el inciso cuarto del artÃ­culo 1Â°, para los meses base de enero a junio de 2024, se considerarÃ¡n los trabajadores y las trabajadoras que registren ingresos imponibles entre $469.000 y $471.000 y entre $586.500 y $588.500.
+Sin perjuicio de lo anterior, de cumplirse el supuesto de reajuste al ingreso mínimo mensual contemplado en el inciso cuarto del artículo 1°, para los meses base de enero a junio de 2024, se considerarán los trabajadores y las trabajadoras que registren ingresos imponibles entre $469.000 y $471.000 y entre $586.500 y $588.500.
 
 ## (2) SUBSIDIO VARIABLE MENSUAL (SVM)
 
-Las beneficiarias tendrÃ¡n derecho al subsidio variable mensual por los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $411.000 y $500.000 en el mes base correspondiente.
+Las beneficiarias tendrán derecho al subsidio variable mensual por los trabajadores y las trabajadoras dependientes que registren ingresos imponibles entre $411.000 y $500.000 en el mes base correspondiente.
 
-En este caso, el subsidio estarÃ¡ determinado por cada trabajador o trabajadora al multiplicar el monto contemplado en el numeral 1 del artÃ­culo 12 por un factor salarial.
+En este caso, el subsidio estará determinado por cada trabajador o trabajadora al multiplicar el monto contemplado en el numeral 1 del artículo 12 por un factor salarial.
 
-El factor salarial serÃ¡ el resultado de la siguiente operaciÃ³n respecto de cada trabajador o trabajadora del inciso primero: la diferencia entre el ingreso mÃ­nimo mensual vigente de acuerdo con el artÃ­culo 1Â° y el ingreso imponible que registre un determinado trabajador o trabajadora dependiente en el mes base correspondiente, dividido por la diferencia entre el ingreso mÃ­nimo mensual vigente y $410.000.
+El factor salarial será el resultado de la siguiente operación respecto de cada trabajador o trabajadora del inciso primero: la diferencia entre el ingreso mínimo mensual vigente de acuerdo con el artículo 1° y el ingreso imponible que registre un determinado trabajador o trabajadora dependiente en el mes base correspondiente, dividido por la diferencia entre el ingreso mínimo mensual vigente y $410.000.
 
-No obstante, cuando el resultado de dicha fracciÃ³n sea negativo, dicho factor serÃ¡ igual a cero.
+No obstante, cuando el resultado de dicha fracción sea negativo, dicho factor será igual a cero.
 
-## (3) DETERMINACIÃ“N DEL MES BASE (COMÃšN PARA SBM Y SVM)
+## (3) DETERMINACIÓN DEL MES BASE (COMÚN PARA SBM Y SVM)
 
-Se considerarÃ¡ como mes base el que entre enero y abril de 2023 registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio entre mayo de 2023 y julio de 2024, considerando lo seÃ±alado por los artÃ­culos 12 y 13 de la Ley.
+Se considerará como mes base el que entre enero y abril de 2023 registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio entre mayo de 2023 y julio de 2024, considerando lo señalado por los artículos 12 y 13 de la Ley.
 
-Cuando el contribuyente hubiera informado inicio de actividades entre el 1 de marzo de 2023 y el 30 de junio de 2024, para el cÃ¡lculo del subsidio se considerarÃ¡ como mes base aquel mes, entre los primeros tres meses consecutivos de ventas y servicios del giro, en que registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio (esto es, la sumatoria entre SBM y SVM) entre mayo de 2023 y julio de 2024.
+Cuando el contribuyente hubiera informado inicio de actividades entre el 1 de marzo de 2023 y el 30 de junio de 2024, para el cálculo del subsidio se considerará como mes base aquel mes, entre los primeros tres meses consecutivos de ventas y servicios del giro, en que registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio (esto es, la sumatoria entre SBM y SVM) entre mayo de 2023 y julio de 2024.
 
-Cuando el contribuyente hubiera informado inicio de actividades entre el 1 de julio y el 31 de diciembre, ambos de 2024, para el cÃ¡lculo del subsidio se considerarÃ¡ como mes base aquel mes, entre los primeros tres meses consecutivos de ventas y servicios del giro, en que registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio (esto es, la sumatoria entre SBM y SVM) entre enero y abril, ambos de 2025.
+Cuando el contribuyente hubiera informado inicio de actividades entre el 1 de julio y el 31 de diciembre, ambos de 2024, para el cálculo del subsidio se considerará como mes base aquel mes, entre los primeros tres meses consecutivos de ventas y servicios del giro, en que registre trabajadores y trabajadoras con ingresos imponibles que implique la mayor suma de los montos de subsidio (esto es, la sumatoria entre SBM y SVM) entre enero y abril, ambos de 2025.
 
-La determinaciÃ³n del mes base podrÃ¡ variar por encontrarse disponible informaciÃ³n mÃ¡s reciente, de cuya aplicaciÃ³n resulte un monto mayor del subsidio.
+La determinación del mes base podrá variar por encontrarse disponible información más reciente, de cuya aplicación resulte un monto mayor del subsidio.
 
 ## (4) FACTOR NIVEL DE EMPLEO (FNE)
 
-El FNE se calcula mensualmente y corresponde al resultado de dividir un numerador, que varÃ­a mensualmente, equivalente al nÃºmero total de trabajadores y trabajadoras dependientes con ingresos imponibles mensuales mayores o iguales al ingreso mÃ­nimo mensual vigente en el Ãºltimo mes, por un denominador fijo, equivalente al nÃºmero total de trabajadores y trabajadoras dependientes con ingresos imponibles mensuales mayores o iguales al ingreso mÃ­nimo mensual vigente en el mes base.
+El FNE se calcula mensualmente y corresponde al resultado de dividir un numerador, que varía mensualmente, equivalente al número total de trabajadores y trabajadoras dependientes con ingresos imponibles mensuales mayores o iguales al ingreso mínimo mensual vigente en el último mes, por un denominador fijo, equivalente al número total de trabajadores y trabajadoras dependientes con ingresos imponibles mensuales mayores o iguales al ingreso mínimo mensual vigente en el mes base.
 
-Los contribuyentes con ingresos anuales iguales o inferiores a 25.000 UF tendrÃ¡n un FNE con valor mÃ¡ximo de 2. Las de empresas con ingresos anuales superiores a 25.000 UF y que no excedan de UF 100.000, tendrÃ¡n un FNE con un valor mÃ¡ximo de 1,5.
+Los contribuyentes con ingresos anuales iguales o inferiores a 25.000 UF tendrán un FNE con valor máximo de 2. Las de empresas con ingresos anuales superiores a 25.000 UF y que no excedan de UF 100.000, tendrán un FNE con un valor máximo de 1,5.
 
-Los contribuyentes que hayan efectuado inicio de actividades tendrÃ¡n un FNE con un valor igual a 1 durante un perÃ­odo de tres meses, segÃºn la fecha en que se haya informado el inicio de actividades.
+Los contribuyentes que hayan efectuado inicio de actividades tendrán un FNE con un valor igual a 1 durante un período de tres meses, según la fecha en que se haya informado el inicio de actividades.
 
-Si el inicio de actividades se informÃ³ hasta el 8 de mayo 2023, el FNE igual a 1 se contabilizarÃ¡ desde la entrada en vigencia del subsidio.
+Si el inicio de actividades se informó hasta el 8 de mayo 2023, el FNE igual a 1 se contabilizará desde la entrada en vigencia del subsidio.
 
-Si el inicio de actividades tiene lugar a contar del 9 de mayo de 2023, el FNE igual a 1 se contabilizarÃ¡ desde el mes en que se hubiese informado el inicio de actividades.
+Si el inicio de actividades tiene lugar a contar del 9 de mayo de 2023, el FNE igual a 1 se contabilizará desde el mes en que se hubiese informado el inicio de actividades.
 
-La informaciÃ³n sobre los ingresos imponibles serÃ¡ obtenida de la Base de Datos de los trabajadores y trabajadoras sujetos al Seguro de CesantÃ­a al momento de calcular el FNE.
+La información sobre los ingresos imponibles será obtenida de la Base de Datos de los trabajadores y trabajadoras sujetos al Seguro de Cesantía al momento de calcular el FNE.
 
-## (5) MECANISMO DE PROTECCIÃ“N
+## (5) MECANISMO DE PROTECCIÓN
 
-Solo para los aÃ±os 2024 y 2025, el monto mensual por trabajador o trabajadora establecido en el artÃ­culo 12 de la Ley, y considerado tambiÃ©n para efectos del SVM, variarÃ¡ en caso de presentarse alguna de las siguientes condiciones, las que serÃ¡n informadas al Servicio de Impuestos Internos:
+Solo para los años 2024 y 2025, el monto mensual por trabajador o trabajadora establecido en el artículo 12 de la Ley, y considerado también para efectos del SVM, variará en caso de presentarse alguna de las siguientes condiciones, las que serán informadas al Servicio de Impuestos Internos:
 
-(i) Cuando la Â«Tasa de asalariados con cotizaciÃ³n previsional pagadas por empleadorÂ» correspondiente al Ãºltimo trimestre mÃ³vil disponible estÃ© por debajo de 34,5%. Esta tasa corresponderÃ¡ a la operaciÃ³n que resulte de dividir la estimaciÃ³n del total de cotizantes previsionales dependientes cuyos pagos realice el empleador sobre el total de la "PoblaciÃ³n en Edad de Trabajar" de la Encuesta Nacional de Empleo, y serÃ¡ calculada mensualmente por el Instituto Nacional de EstadÃ­sticas e informada mensualmente al Servicio de Impuestos Internos en la fecha en la que se publique la Encuesta Nacional de Empleo.
+(i) Cuando la «Tasa de asalariados con cotización previsional pagadas por empleador» correspondiente al último trimestre móvil disponible esté por debajo de 34,5%. Esta tasa corresponderá a la operación que resulte de dividir la estimación del total de cotizantes previsionales dependientes cuyos pagos realice el empleador sobre el total de la "Población en Edad de Trabajar" de la Encuesta Nacional de Empleo, y será calculada mensualmente por el Instituto Nacional de Estadísticas e informada mensualmente al Servicio de Impuestos Internos en la fecha en la que se publique la Encuesta Nacional de Empleo.
 
-(ii) Cuando el Â«PIB real trimestral desestacionalizadoÂ» calculado por el Banco Central de Chile sufra una variaciÃ³n negativa en los Ãºltimos dos trimestres consecutivos informados. Este Ã­ndice serÃ¡ comunicado por dicha instituciÃ³n al Servicio de Impuestos Internos tan pronto se encuentre disponible.
+(ii) Cuando el «PIB real trimestral desestacionalizado» calculado por el Banco Central de Chile sufra una variación negativa en los últimos dos trimestres consecutivos informados. Este índice será comunicado por dicha institución al Servicio de Impuestos Internos tan pronto se encuentre disponible.
 
-En virtud de lo anterior, mientras alguna de las condiciones anteriores se encuentre vigente, el monto por trabajador o trabajadora variarÃ¡ a los siguientes montos:
+En virtud de lo anterior, mientras alguna de las condiciones anteriores se encuentre vigente, el monto por trabajador o trabajadora variará a los siguientes montos:
 
-| **Periodo** | **IMM vigente ($)** | **Monto por trabajador(a) ($) con mecanismo de protecciÃ³n** | **Monto por trabajador(a) ($) con mecanismo de protecciÃ³n** | **Monto por trabajador(a) ($) con mecanismo de protecciÃ³n** |
+| **Periodo** | **IMM vigente ($)** | **Monto por trabajador(a) ($) con mecanismo de protección** | **Monto por trabajador(a) ($) con mecanismo de protección** | **Monto por trabajador(a) ($) con mecanismo de protección** |
 | --- | --- | --- | --- | --- |
-| Periodo | IMM vigente ($) | Micro | PequeÃ±as | Medianas |
+| Periodo | IMM vigente ($) | Micro | Pequeñas | Medianas |
 | Enero - Junio | 460.000 | 32.000 | 20.500 | 12.500 |
 | Julio - Diciembre | 500.000 | 57.500 | 37.000 | 20.000 |
 | Enero | 508.000 | 82.500 | 53.000 | 30.000 |
@@ -176,97 +177,97 @@ En virtud de lo anterior, mientras alguna de las condiciones anteriores se encue
 | Marzo | 508.000 | 42.000 | 27.000 | 15.000 |
 | Abril | 508.000 | 12.500 | 8.000 | 5.000 |
 
-Lo seÃ±alado, segÃºn dispone el artÃ­culo 14 de la Ley no se verÃ¡ afectado en caso de existir rectificaciones posteriores por parte del Instituto Nacional de EstadÃ­sticas o el Banco Central de Chile.
+Lo señalado, según dispone el artículo 14 de la Ley no se verá afectado en caso de existir rectificaciones posteriores por parte del Instituto Nacional de Estadísticas o el Banco Central de Chile.
 
-## 6Â° -PROCEDIMIENTO PARA SOLICITAR EL
+## 6° -PROCEDIMIENTO PARA SOLICITAR EL
 
-SUBSIDIO : La solicitud del subsidio sueldo mÃ­nimo mipyme deberÃ¡ efectuarse una sola vez, a travÃ©s de la plataforma electrÃ³nica habilitada por este Servicio en su sitio web ([<u>www.sii.cl</u>](http://www.sii.cl)) a contar del vigÃ©simo dÃ­a corrido desde la publicaciÃ³n de la Ley en el Diario Oficial y por un plazo de 90 dÃ­as corridos siguientes a dicha fecha.
+SUBSIDIO : La solicitud del subsidio sueldo mínimo mipyme deberá efectuarse una sola vez, a través de la plataforma electrónica habilitada por este Servicio en su sitio web ([<u>www.sii.cl</u>](http://www.sii.cl)) a contar del vigésimo día corrido desde la publicación de la Ley en el Diario Oficial y por un plazo de 90 días corridos siguientes a dicha fecha.
 
-A partir de lo anterior, y conforme lo establecido en el inciso final del artÃ­culo 17 de la Ley, la plataforma estarÃ¡ habilitada a contar del 20 de junio de 2023 y hasta el 20 de septiembre de 2023.
+A partir de lo anterior, y conforme lo establecido en el inciso final del artículo 17 de la Ley, la plataforma estará habilitada a contar del 20 de junio de 2023 y hasta el 20 de septiembre de 2023.
 
-Transcurrido los 90 dÃ­as seÃ±alados previamente, la plataforma estarÃ¡ habilitada a partir del dÃ©cimo dÃ­a de cada mes hasta el fin del mismo mes, mientras estÃ© vigente el subsidio, procediendo los pagos retroactivos cuando correspondan, es decir, el subsidio se pagarÃ¡ desde el momento en que el contribuyente cumpla con los requisitos para acceder a Ã©ste, independiente de la fecha en que lo solicite.
+Transcurrido los 90 días señalados previamente, la plataforma estará habilitada a partir del décimo día de cada mes hasta el fin del mismo mes, mientras esté vigente el subsidio, procediendo los pagos retroactivos cuando correspondan, es decir, el subsidio se pagará desde el momento en que el contribuyente cumpla con los requisitos para acceder a éste, independiente de la fecha en que lo solicite.
 
-Para presentar la solicitud, los contribuyentes deberÃ¡n ingresar a dicha plataforma, previamente autenticado con su RUT y Clave Tributaria o con su Clave Ãšnica, debiendo validar la informaciÃ³n correspondiente a su RUT, domicilio y correo electrÃ³nico. AdemÃ¡s, se deberÃ¡ indicar la forma o medio de pago que prefiere, entre aquellas disponibles.
+Para presentar la solicitud, los contribuyentes deberán ingresar a dicha plataforma, previamente autenticado con su RUT y Clave Tributaria o con su Clave Única, debiendo validar la información correspondiente a su RUT, domicilio y correo electrónico. Además, se deberá indicar la forma o medio de pago que prefiere, entre aquellas disponibles.
 
-Los contribuyentes que no puedan continuar y finalizar el proceso para solicitar el subsidio a razÃ³n de cumplir con los requisitos contemplados en los resolutivos 2Â° o 3Â° o bien consideren que no les aplican las causales de exclusiÃ³n del resolutivo 4Â° de la presente resoluciÃ³n y cuenten con antecedentes que asÃ­ lo acrediten, como aquellos que hayan obtenido un monto menor al solicitado, podrÃ¡n reclamar conforme lo dispuesto en los resolutivos 11Â° y 12Â° de la presente ResoluciÃ³n, adjuntando los antecedentes que obren en su poder.
+Los contribuyentes que no puedan continuar y finalizar el proceso para solicitar el subsidio a razón de cumplir con los requisitos contemplados en los resolutivos 2° o 3° o bien consideren que no les aplican las causales de exclusión del resolutivo 4° de la presente resolución y cuenten con antecedentes que así lo acrediten, como aquellos que hayan obtenido un monto menor al solicitado, podrán reclamar conforme lo dispuesto en los resolutivos 11° y 12° de la presente Resolución, adjuntando los antecedentes que obren en su poder.
 
-7Â° PAGO DEL SUBSIDIO. El primer pago del subsidio sueldo mÃ­nimo mipyme, correspondiente a los meses de mayo y junio de 2023, se realizarÃ¡ por la TesorerÃ­a General de la RepÃºblica dentro del plazo de 15 dÃ­as corridos contado desde la fecha en que este Servicio comunique al contribuyente beneficiario la procedencia del subsidio sueldo mÃ­nimo mipyme mediante el certificado que se emitirÃ¡ al concluir satisfactoriamente las etapas dispuestas en la plataforma para la solicitud del subsidio.
+7° PAGO DEL SUBSIDIO. El primer pago del subsidio sueldo mínimo mipyme, correspondiente a los meses de mayo y junio de 2023, se realizará por la Tesorería General de la República dentro del plazo de 15 días corridos contado desde la fecha en que este Servicio comunique al contribuyente beneficiario la procedencia del subsidio sueldo mínimo mipyme mediante el certificado que se emitirá al concluir satisfactoriamente las etapas dispuestas en la plataforma para la solicitud del subsidio.
 
-Los siguientes subsidios se devengarÃ¡n mensualmente y serÃ¡n pagados por TesorerÃ­a General de la RepÃºblica hasta el Ãºltimo dÃ­a hÃ¡bil de cada mes, correspondiendo el Ãºltimo subsidio al mes de abril de 2025.
+Los siguientes subsidios se devengarán mensualmente y serán pagados por Tesorería General de la República hasta el último día hábil de cada mes, correspondiendo el último subsidio al mes de abril de 2025.
 
-## 8Â° ATRIBUCIONES DEL SERVICIO DE IMPUESTOS
+## 8° ATRIBUCIONES DEL SERVICIO DE IMPUESTOS
 
-INTERNOS : CorresponderÃ¡ a este Servicio verificar el cumplimiento de los requisitos para el otorgamiento del subsidio sueldo mÃ­nimo mipyme.
+INTERNOS : Corresponderá a este Servicio verificar el cumplimiento de los requisitos para el otorgamiento del subsidio sueldo mínimo mipyme.
 
-Para efectos de verificar la procedencia del subsidio mipyme, y sin que la siguiente enunciaciÃ³n sea taxativa, este Servicio estÃ¡ facultado para requerir a la Administradora de Fondos de CesantÃ­a la informaciÃ³n contenida en la base de datos de los trabajadores y trabajadoras sujetos al Seguro de CesantÃ­a del artÃ­culo 34 de la Ley NÂ° 19.728. Asimismo, podrÃ¡ requerir informaciÃ³n a la Superintendencia de Pensiones y a la Superintendencia de Seguridad Social. Los Ã³rganos seÃ±alados a los cuales se les requiera informaciÃ³n por parte de este Servicio estarÃ¡n obligados a proporcionarla dentro del Ã¡mbito de sus respectivas competencias. Con todo, este requerimiento deberÃ¡ estar asociado estrictamente al cumplimiento de los fines de la presente Ley.
+Para efectos de verificar la procedencia del subsidio mipyme, y sin que la siguiente enunciación sea taxativa, este Servicio está facultado para requerir a la Administradora de Fondos de Cesantía la información contenida en la base de datos de los trabajadores y trabajadoras sujetos al Seguro de Cesantía del artículo 34 de la Ley N° 19.728. Asimismo, podrá requerir información a la Superintendencia de Pensiones y a la Superintendencia de Seguridad Social. Los órganos señalados a los cuales se les requiera información por parte de este Servicio estarán obligados a proporcionarla dentro del ámbito de sus respectivas competencias. Con todo, este requerimiento deberá estar asociado estrictamente al cumplimiento de los fines de la presente Ley.
 
-## 9Â° SUSPENSIÃ“N O DENEGACIÃ“N DEL SUBSIDIO :
+## 9° SUSPENSIÓN O DENEGACIÓN DEL SUBSIDIO :
 
-Este Servicio podrÃ¡, en situaciones excepcionales, suspender o denegar el pago del subsidio cuando existan antecedentes fundados de que el contribuyente no cumple con los requisitos para acceder a Ã©l, en tanto no se realicen las verificaciones correspondientes.
+Este Servicio podrá, en situaciones excepcionales, suspender o denegar el pago del subsidio cuando existan antecedentes fundados de que el contribuyente no cumple con los requisitos para acceder a él, en tanto no se realicen las verificaciones correspondientes.
 
-Asimismo, podrÃ¡ requerir antecedentes adicionales con el objeto de verificar en forma previa el cumplimiento de los requisitos y, luego de dicha revisiÃ³n, resolverÃ¡ la entrega del subsidio.
+Asimismo, podrá requerir antecedentes adicionales con el objeto de verificar en forma previa el cumplimiento de los requisitos y, luego de dicha revisión, resolverá la entrega del subsidio.
 
-El Servicio podrÃ¡ ejercer la facultad establecida en el numeral ii) del inciso primero del artÃ­culo 33 del CÃ³digo Tributario y aplicar al efecto el procedimiento contemplado en el inciso segundo de dicho artÃ­culo, sin que sean aplicables las menciones contempladas en sus numerales i) al iv).
+El Servicio podrá ejercer la facultad establecida en el numeral ii) del inciso primero del artículo 33 del Código Tributario y aplicar al efecto el procedimiento contemplado en el inciso segundo de dicho artículo, sin que sean aplicables las menciones contempladas en sus numerales i) al iv).
 
-Para estos efectos, el hecho que el contribuyente se encuentre bajo alguna de las causales contempladas en las letras b) y d) del artÃ­culo 59 bis del CÃ³digo Tributario, constituye un indicio que no cumple con los requisitos para acceder al subsidio. Esto es:
+Para estos efectos, el hecho que el contribuyente se encuentre bajo alguna de las causales contempladas en las letras b) y d) del artículo 59 bis del Código Tributario, constituye un indicio que no cumple con los requisitos para acceder al subsidio. Esto es:
 
-* 1. Haber incurrido reiteradamente en las infracciones establecidas en los nÃºmeros 6, 7 o 15 del artÃ­culo 97 del CÃ³digo Tributario. Para estos efectos, se entenderÃ¡ que existe reiteraciÃ³n cuando se cometan dos o mÃ¡s infracciones en un perÃ­odo inferior a tres aÃ±os;
-  2. Que el contribuyente estÃ© formalizado o acusado conforme al CÃ³digo Procesal Penal por delito tributario o sea condenado por este tipo de delitos y mientras cumpla su pena.
+* 1. Haber incurrido reiteradamente en las infracciones establecidas en los números 6, 7 o 15 del artículo 97 del Código Tributario. Para estos efectos, se entenderá que existe reiteración cuando se cometan dos o más infracciones en un período inferior a tres años;
+  2. Que el contribuyente esté formalizado o acusado conforme al Código Procesal Penal por delito tributario o sea condenado por este tipo de delitos y mientras cumpla su pena.
 
-En estos casos, de estimar el contribuyente que las causales no proceden o pueden ser aclaradas, podrÃ¡ interponer el correspondiente reclamo regulado en los resolutivos 11Â° y 12Â° de la presente ResoluciÃ³n.
+En estos casos, de estimar el contribuyente que las causales no proceden o pueden ser aclaradas, podrá interponer el correspondiente reclamo regulado en los resolutivos 11° y 12° de la presente Resolución.
 
-10Â° SANCIONES : Los contribuyentes que, sin cumplir con los requisitos legales para su procedencia, mediante engaÃ±o, simulaciÃ³n o falseando datos o antecedentes, hayan obtenido el subsidio sueldo mÃ­nimo mipyme o lo hayan obtenido por un monto mayor al que procedÃ­a conforme a la Ley, serÃ¡n sancionados con la multa establecida en el artÃ­culo 97 NÂ° 11 del CÃ³digo Tributario, la cual serÃ¡ aplicada segÃºn el procedimiento contenido en el TÃ­tulo III del Libro Tercero del CÃ³digo Tributario. Adicionalmente, deberÃ¡n restituir total o parcialmente el subsidio recibido de manera improcedente y a dicha restituciÃ³n le serÃ¡ aplicable la reajustabilidad e intereses del artÃ­culo 53 del CÃ³digo Tributario.
+10° SANCIONES : Los contribuyentes que, sin cumplir con los requisitos legales para su procedencia, mediante engaño, simulación o falseando datos o antecedentes, hayan obtenido el subsidio sueldo mínimo mipyme o lo hayan obtenido por un monto mayor al que procedía conforme a la Ley, serán sancionados con la multa establecida en el artículo 97 N° 11 del Código Tributario, la cual será aplicada según el procedimiento contenido en el Título III del Libro Tercero del Código Tributario. Adicionalmente, deberán restituir total o parcialmente el subsidio recibido de manera improcedente y a dicha restitución le será aplicable la reajustabilidad e intereses del artículo 53 del Código Tributario.
 
-QuedarÃ¡n exceptuados de la multa indicada aquellos contribuyentes que reintegren la totalidad del subsidio sueldo mÃ­nimo mipyme improcedente o el monto obtenido en exceso, segÃºn corresponda, en el proceso de DeclaraciÃ³n de Impuestos Anuales a la Renta del aÃ±o tributario siguiente al de su obtenciÃ³n (total o parcialmente) indebida.
+Quedarán exceptuados de la multa indicada aquellos contribuyentes que reintegren la totalidad del subsidio sueldo mínimo mipyme improcedente o el monto obtenido en exceso, según corresponda, en el proceso de Declaración de Impuestos Anuales a la Renta del año tributario siguiente al de su obtención (total o parcialmente) indebida.
 
-11Â° RECLAMO : De acuerdo con el artÃ­culo 18 de la Ley, en caso que la solicitud del subsidio sueldo mÃ­nimo mipyme sea rechazada o Ã©ste sea otorgado por un monto inferior al solicitado, el contribuyente podrÃ¡ reclamar, de manera fundada, ante el Servicio de Impuestos Internos.
+11° RECLAMO : De acuerdo con el artículo 18 de la Ley, en caso que la solicitud del subsidio sueldo mínimo mipyme sea rechazada o éste sea otorgado por un monto inferior al solicitado, el contribuyente podrá reclamar, de manera fundada, ante el Servicio de Impuestos Internos.
 
-En caso que el reclamo no sea fundado, Ã©ste serÃ¡ rechazado de plano y sin mÃ¡s trÃ¡mite. Para estos efectos, se entenderÃ¡ que el reclamo no es fundado cuando, por ejemplo:
+En caso que el reclamo no sea fundado, éste será rechazado de plano y sin más trámite. Para estos efectos, se entenderá que el reclamo no es fundado cuando, por ejemplo:
 
-* 1. No se cumplen con los requisitos legales de procedencia, como tratarse de entes sin personalidad jurÃ­dica (salvo comunidades);
-  2. Se funda en antecedentes que no estÃ¡n destinados a acreditar el cumplimiento de los requisitos legales;
-  3. No se acompaÃ±an antecedentes.
+* 1. No se cumplen con los requisitos legales de procedencia, como tratarse de entes sin personalidad jurídica (salvo comunidades);
+  2. Se funda en antecedentes que no están destinados a acreditar el cumplimiento de los requisitos legales;
+  3. No se acompañan antecedentes.
 
-El reclamo se resolverÃ¡ sobre la base de los antecedentes que proporcionare el propio reclamante y aquellos que obren en poder del Servicio, en la forma que establece el artÃ­culo 123 bis del CÃ³digo Tributario. Cabe tener presente que, conforme al artÃ­culo 17 de la Ley, la remisiÃ³n al artÃ­culo 123 bis del CÃ³digo Tributario es Ãºnicamente para efectos Ãºnicamente de Â«resolverÂ» el reclamo en un procedimiento tramitado Â«preferentemente por vÃ­a electrÃ³nica y de manera expeditaÂ».
+El reclamo se resolverá sobre la base de los antecedentes que proporcionare el propio reclamante y aquellos que obren en poder del Servicio, en la forma que establece el artículo 123 bis del Código Tributario. Cabe tener presente que, conforme al artículo 17 de la Ley, la remisión al artículo 123 bis del Código Tributario es únicamente para efectos únicamente de «resolver» el reclamo en un procedimiento tramitado «preferentemente por vía electrónica y de manera expedita».
 
-El procedimiento de reclamo se efectuarÃ¡ por vÃ­a electrÃ³nica y de manera expedita, de acuerdo con el aplicativo dispuesto en el sitio web [<u>www.sii.cl</u>](http://www.sii.cl), segÃºn se instruye a continuaciÃ³n.
+El procedimiento de reclamo se efectuará por vía electrónica y de manera expedita, de acuerdo con el aplicativo dispuesto en el sitio web [<u>www.sii.cl</u>](http://www.sii.cl), según se instruye a continuación.
 
-12Â° PROCEDIMIENTO DE RECLAMO: En caso que el subsidio sea denegado u otorgado por un monto inferior al solicitado, el contribuyente podrÃ¡ presentar el reclamo conforme a las siguientes reglas:
+12° PROCEDIMIENTO DE RECLAMO: En caso que el subsidio sea denegado u otorgado por un monto inferior al solicitado, el contribuyente podrá presentar el reclamo conforme a las siguientes reglas:
 
-* 1. PresentaciÃ³n del Reclamo : DeberÃ¡ ser presentado por el contribuyente a travÃ©s del sitio web del Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), adjuntando los antecedentes suficientes para analizar el caso.
-  2. Plazo para reclamar : El reclamo podrÃ¡ presentarse en el plazo de 30 dÃ­as hÃ¡biles, contado desde el Ãºltimo dÃ­a en que la plataforma permita realizar la solicitud del subsidio, o en caso de otorgamiento de un monto inferior podrÃ¡ reclamar dentro de los 30 dÃ­as hÃ¡biles contados desde el primer dÃ­a del mes siguiente al que corresponde el subsidio.
-  3. Plazo para resolver : Este Servicio dispondrÃ¡ del plazo mÃ¡ximo de 60 dÃ­as hÃ¡biles para resolver el reclamo, contados desde su presentaciÃ³n. Sin perjuicio de lo anterior, si el Servicio de Impuestos Internos requiere informaciÃ³n adicional que deba ser entregada por la Administradora de Fondos de CesantÃ­a, la Superintendencia de Pensiones o la Superintendencia de Seguridad Social, el plazo para resolver el reclamo se contarÃ¡ a partir de la fecha de recepciÃ³n de la informaciÃ³n provista por dicha entidad.
-  4. Requerimiento de antecedentes adicionales : Para efectos de mejor resolver, el Servicio podrÃ¡ requerir antecedentes adicionales al reclamante, los que deberÃ¡n ser presentados dentro de los 5 dÃ­as hÃ¡biles siguientes al requerimiento y siempre dentro del plazo para resolver el reclamo. En caso que los antecedentes adicionales, no sean aportados por el reclamante, este Servicio tendrÃ¡ por desistido el reclamo, conforme a lo dispuesto por el artÃ­culo 31 de la Ley 19.880. Ello, sin perjuicio de la facultad del Servicio para solicitar de oficio informaciÃ³n a los organismos pÃºblicos que correspondan.
-  5. Resultado del reclamo : El Servicio se pronunciarÃ¡ sobre el reclamo, enviando al efecto un correo electrÃ³nico a la casilla seÃ±alada por el reclamante al momento de su presentaciÃ³n.
-  6. Conocimiento del reclamo : Las funciones de coordinar, tomar las medidas necesarias, conocer y facilitar el proceso de las reclamaciones corresponderÃ¡ a la SubdirecciÃ³n de Asistencia al Contribuyente de este Servicio. Para estos efectos, y de acuerdo con la Ley, el Servicio podrÃ¡ impartir instrucciones, adoptar todas las medidas de orden interno para la buena y pronta resoluciÃ³n de los reclamos y realizar las demÃ¡s actuaciones que sean pertinentes para cumplir con la finalidad de resolver las solicitudes de revisiÃ³n y otorgar los beneficios conforme a derecho, en virtud de lo dispuesto en el artÃ­culo 18 de la Ley.
-  7. Rechazo total o parcial del reclamo : El rechazo total o parcial del reclamo no serÃ¡ susceptible de recurso administrativo alguno, en particular el recurso jerÃ¡rquico, por ser incompatible con la naturaleza de la solicitud del subsidio establecido en la Ley.
+* 1. Presentación del Reclamo : Deberá ser presentado por el contribuyente a través del sitio web del Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), adjuntando los antecedentes suficientes para analizar el caso.
+  2. Plazo para reclamar : El reclamo podrá presentarse en el plazo de 30 días hábiles, contado desde el último día en que la plataforma permita realizar la solicitud del subsidio, o en caso de otorgamiento de un monto inferior podrá reclamar dentro de los 30 días hábiles contados desde el primer día del mes siguiente al que corresponde el subsidio.
+  3. Plazo para resolver : Este Servicio dispondrá del plazo máximo de 60 días hábiles para resolver el reclamo, contados desde su presentación. Sin perjuicio de lo anterior, si el Servicio de Impuestos Internos requiere información adicional que deba ser entregada por la Administradora de Fondos de Cesantía, la Superintendencia de Pensiones o la Superintendencia de Seguridad Social, el plazo para resolver el reclamo se contará a partir de la fecha de recepción de la información provista por dicha entidad.
+  4. Requerimiento de antecedentes adicionales : Para efectos de mejor resolver, el Servicio podrá requerir antecedentes adicionales al reclamante, los que deberán ser presentados dentro de los 5 días hábiles siguientes al requerimiento y siempre dentro del plazo para resolver el reclamo. En caso que los antecedentes adicionales, no sean aportados por el reclamante, este Servicio tendrá por desistido el reclamo, conforme a lo dispuesto por el artículo 31 de la Ley 19.880. Ello, sin perjuicio de la facultad del Servicio para solicitar de oficio información a los organismos públicos que correspondan.
+  5. Resultado del reclamo : El Servicio se pronunciará sobre el reclamo, enviando al efecto un correo electrónico a la casilla señalada por el reclamante al momento de su presentación.
+  6. Conocimiento del reclamo : Las funciones de coordinar, tomar las medidas necesarias, conocer y facilitar el proceso de las reclamaciones corresponderá a la Subdirección de Asistencia al Contribuyente de este Servicio. Para estos efectos, y de acuerdo con la Ley, el Servicio podrá impartir instrucciones, adoptar todas las medidas de orden interno para la buena y pronta resolución de los reclamos y realizar las demás actuaciones que sean pertinentes para cumplir con la finalidad de resolver las solicitudes de revisión y otorgar los beneficios conforme a derecho, en virtud de lo dispuesto en el artículo 18 de la Ley.
+  7. Rechazo total o parcial del reclamo : El rechazo total o parcial del reclamo no será susceptible de recurso administrativo alguno, en particular el recurso jerárquico, por ser incompatible con la naturaleza de la solicitud del subsidio establecido en la Ley.
 
-13Â° INTANGIBILIDAD DEL SUBSIDIO : El subsidio sueldo mÃ­nimo mipyme es intangible para todos los efectos legales y no estarÃ¡ afecto a impuesto alguno, no se sujetarÃ¡ a ninguna retenciÃ³n de carÃ¡cter administrativa, no serÃ¡ embargable, no serÃ¡ compensado por la TesorerÃ­a General de la RepÃºblica conforme a lo dispuesto en el artÃ­culo 6Â° del
+13° INTANGIBILIDAD DEL SUBSIDIO : El subsidio sueldo mínimo mipyme es intangible para todos los efectos legales y no estará afecto a impuesto alguno, no se sujetará a ninguna retención de carácter administrativa, no será embargable, no será compensado por la Tesorería General de la República conforme a lo dispuesto en el artículo 6° del
 
 <unknown>
 
-D.F.L. NÂ° 1 de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto OrgÃ¡nico de TesorerÃ­as, y tampoco le serÃ¡n aplicables los descuentos del artÃ­culo 3Â° del D.F.L. NÂ° 707 de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques, conforme a lo dispuesto en el artÃ­culo 21 de la Ley.
+D.F.L. N° 1 de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico de Tesorerías, y tampoco le serán aplicables los descuentos del artículo 3° del D.F.L. N° 707 de 1982, del Ministerio de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley sobre Cuentas Corrientes Bancarias y Cheques, conforme a lo dispuesto en el artículo 21 de la Ley.
 
-## 14Â° REGISTRO DE EMPRESAS BENEFICIARIAS: De
+## 14° REGISTRO DE EMPRESAS BENEFICIARIAS: De
 
-acuerdo a lo seÃ±alado en el artÃ­culo 25 de la Ley, las micro, pequeÃ±as y medianas empresas que reciban el subsidio sueldo mÃ­nimo mipyme de la Ley, serÃ¡n incorporadas en el Registro Nacional de Mipymes, creado por la Ley NÂ° 21.354. Para ello, el Servicio de Impuestos Internos enviarÃ¡ al Ministerio de EconomÃ­a, Fomento y Turismo la informaciÃ³n seÃ±alada en el artÃ­culo 3Â° del Decreto NÂ° 66 de 2022 de dicho Ministerio, respecto de las beneficiaras del subsidio, con una periodicidad trimestral, sin aplicar lo dispuesto en el inciso 4Â° del artÃ­culo 14 de la Ley NÂ° 21.354, en lo relativo al requisito de incorporaciÃ³n al Registro Nacional de Mipymes para acceder a beneficios estatales.
+acuerdo a lo señalado en el artículo 25 de la Ley, las micro, pequeñas y medianas empresas que reciban el subsidio sueldo mínimo mipyme de la Ley, serán incorporadas en el Registro Nacional de Mipymes, creado por la Ley N° 21.354. Para ello, el Servicio de Impuestos Internos enviará al Ministerio de Economía, Fomento y Turismo la información señalada en el artículo 3° del Decreto N° 66 de 2022 de dicho Ministerio, respecto de las beneficiaras del subsidio, con una periodicidad trimestral, sin aplicar lo dispuesto en el inciso 4° del artículo 14 de la Ley N° 21.354, en lo relativo al requisito de incorporación al Registro Nacional de Mipymes para acceder a beneficios estatales.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-## ANEXO: EJEMPLOS PRÃCTICOS
+## ANEXO: EJEMPLOS PRÁCTICOS
 
-## CSM/PSM/CGG/MCRB/FWV DistribuciÃ³n:
+## CSM/PSM/CGG/MCRB/FWV Distribución:
 
 * -Internet
 * -Diario Oficial, en extracto
 
-## ANEXO: EJEMPLOS PRÃCTICOS
+## ANEXO: EJEMPLOS PRÁCTICOS
 
-## EJEMPLO 1: MICROEMPRESA CON INICIO DE ACTIVIDADES PREVIO A 31 DE DICIEMBRE DE 2022, BENEFICIARIA DEL SUBSIDIO DE LA LEY NÂ° 21.456
+## EJEMPLO 1: MICROEMPRESA CON INICIO DE ACTIVIDADES PREVIO A 31 DE DICIEMBRE DE 2022, BENEFICIARIA DEL SUBSIDIO DE LA LEY N° 21.456
 
 Suponga una microempresa (ventas 2022 menores a 2.400 UF), cuya planilla de trabajadores(as) es la siguiente para los meses de enero a abril de 2023:
 
@@ -277,15 +278,15 @@ Suponga una microempresa (ventas 2022 menores a 2.400 UF), cuya planilla de trab
 | 3 | $410.000 | $410.000 | $410.000 | $410.000 |
 | 4 |  |  | $410.000 | $410.000 |
 
-Esta empresa tiene un(a) trabajador(a) en el rango de ingresos imponibles causante del SBM en el mes de enero y febrero: el(la) trabajador(a) nÃºmero 3, y dos trabajadores(as) que cumplen esta condiciÃ³n en los meses de marzo y abril.
+Esta empresa tiene un(a) trabajador(a) en el rango de ingresos imponibles causante del SBM en el mes de enero y febrero: el(la) trabajador(a) número 3, y dos trabajadores(as) que cumplen esta condición en los meses de marzo y abril.
 
-AdemÃ¡s, tiene un(a) trabajador(a) en el rango de ingresos causantes del SVM, durante los cuatro meses (trabajador(a) nÃºmero 2).
+Además, tiene un(a) trabajador(a) en el rango de ingresos causantes del SVM, durante los cuatro meses (trabajador(a) número 2).
 
-## Paso 1: CÃ¡lculo del SBM para cada periodo de IMM, segÃºn cada mes base posible
+## Paso 1: Cálculo del SBM para cada periodo de IMM, según cada mes base posible
 
-Con la informaciÃ³n de la planilla de trabajadores(as), se considera el nÃºmero de trabajadores(as) causantes de SBM y se multiplica por los montos del subsidio por trabajador(a) que corresponden a una microempresa para cada periodo. En la siguiente tabla se calcula el SBM para cada periodo segÃºn cada mes base.
+Con la información de la planilla de trabajadores(as), se considera el número de trabajadores(as) causantes de SBM y se multiplica por los montos del subsidio por trabajador(a) que corresponden a una microempresa para cada periodo. En la siguiente tabla se calcula el SBM para cada periodo según cada mes base.
 
-|  | **NÂ° de trabajadores(as) causantes de SBM** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** |
+|  | **N° de trabajadores(as) causantes de SBM** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mes Base |  | Mayo a Agosto 2023 | Septiembre a Diciembre 2023 | Enero a Junio 2024 | Julio a Diciembre 2024 | Enero 2025 | Febrero 2025 | Marzo 2025 | Abril 2025 |
 | Enero 2023 | 1 | $45.000 | $50.500 | $31.000 | $36.500 | $49.000 | $42.000 | $25.000 | $7.000 |
@@ -293,11 +294,11 @@ Con la informaciÃ³n de la planilla de trabajadores(as), se considera el nÃºm
 | Marzo 2023 | 2 | $90.000 | $101.000 | $62.000 | $73.000 | $98.000 | $84.000 | $50.000 | $14.000 |
 | Abril 2023 | 2 | $90.000 | $101.000 | $62.000 | $73.000 | $98.000 | $84.000 | $50.000 | $14.000 |
 
-## Paso 2: CÃ¡lculo del ponderador para cada trabajador(a) por periodo de IMM, segÃºn cada mes base posible
+## Paso 2: Cálculo del ponderador para cada trabajador(a) por periodo de IMM, según cada mes base posible
 
-Con la informaciÃ³n de la planilla, se determina quÃ© trabajadores(as) son causantes de SVM, y en este caso solo el(la) trabajador(a) 2 en todos los posibles meses base. Con esto, se calcula el ponderador para cada periodo de subsidio sÃ³lo para el(la) trabajador(a) nÃºmero 2, ya que, para los otros el ponderador es 0%. En la siguiente tabla se calcula el ponderador segÃºn cada mes base, para cada periodo se utilizÃ³ la siguiente formula:
+Con la información de la planilla, se determina qué trabajadores(as) son causantes de SVM, y en este caso solo el(la) trabajador(a) 2 en todos los posibles meses base. Con esto, se calcula el ponderador para cada periodo de subsidio sólo para el(la) trabajador(a) número 2, ya que, para los otros el ponderador es 0%. En la siguiente tabla se calcula el ponderador según cada mes base, para cada periodo se utilizó la siguiente formula:
 
-SegÃºn esta, cabe destacar que siempre que el IMM en vigencia no supere el ingreso imponible del trabajador el ponderador es 0%, lo que explica los valores entre mayo del 2023 y junio del 2024.
+Según esta, cabe destacar que siempre que el IMM en vigencia no supere el ingreso imponible del trabajador el ponderador es 0%, lo que explica los valores entre mayo del 2023 y junio del 2024.
 
 | **ID Trabajador** | **Mes Base** | **Mayo a Agosto 2023** | **Septiembre Diciembre 2023** | **Enero Junio 2024** | **Julio a Diciembre 2024** | **Enero 2025** | **Febrero 2025** | **Marzo 2025** | **Abril 2025** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -309,9 +310,9 @@ SegÃºn esta, cabe destacar que siempre que el IMM en vigencia no supere el ing
 
 Para mayor claridad, se debe tener a la vista que el 28% resultante para el periodo de julio a diciembre de 2023 es resultado de reemplazar en la anterior formula un IMM equivalente a $500.000 y un Ingreso Imponible de $475.000, correspondiente al(la) trabajador(a) 2.
 
-## Paso 3: CÃ¡lculo del SVM usando los ponderadores del paso 2, para cada mes base
+## Paso 3: Cálculo del SVM usando los ponderadores del paso 2, para cada mes base
 
-Como hay sÃ³lo un(a) trabajador(a) que es causante de SVM, el monto total de SVM de esta empresa por periodo segÃºn mes base se obtiene considerando al ponderador descrito en el paso anterior. Usando estos ponderadores y los montos de subsidio por trabajador(a) correspondientes a una microempresa que fue beneficiaria del subsidio de la ley NÂ° 21.456 para cada periodo. En la siguiente tabla se calcula el SVM segÃºn cada mes base.
+Como hay sólo un(a) trabajador(a) que es causante de SVM, el monto total de SVM de esta empresa por periodo según mes base se obtiene considerando al ponderador descrito en el paso anterior. Usando estos ponderadores y los montos de subsidio por trabajador(a) correspondientes a una microempresa que fue beneficiaria del subsidio de la ley N° 21.456 para cada periodo. En la siguiente tabla se calcula el SVM según cada mes base.
 
 |  | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -321,9 +322,9 @@ Como hay sÃ³lo un(a) trabajador(a) que es causante de SVM, el monto total de S
 | Marzo 2023 | $0 | $0 | $0 | $10.139 | $16.500 | $14.143 | $8.418 | $2.357 |
 | Abril 2023 | $0 | $0 | $0 | $10.139 | $16.500 | $14.143 | $8.418 | $2.357 |
 
-## Paso 4: DeterminaciÃ³n del mes base segÃºn el valor mÃ¡ximo de la suma entre el SBM y SVM, asumiendo un factor de empleo igual a 1
+## Paso 4: Determinación del mes base según el valor máximo de la suma entre el SBM y SVM, asumiendo un factor de empleo igual a 1
 
-A continuaciÃ³n, se suman los montos de la tabla en el paso 1 y en el paso 3, para llegar a los siguientes resultados para cada periodo:
+A continuación, se suman los montos de la tabla en el paso 1 y en el paso 3, para llegar a los siguientes resultados para cada periodo:
 
 | **Mes Base** | **Mayo a Agosto 2023** | **Septiembre a Diciembre 2023** | **Enero a Junio 2024** | **Julio a Diciembre 2024** | **Enero 2025** | **Febrero 2025** | **Marzo 2025** | **Abril 2025** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -332,26 +333,26 @@ A continuaciÃ³n, se suman los montos de la tabla en el paso 1 y en el paso 3, 
 | Marzo 2023 | $90.000 | $101.000 | $62.000 | $83.139 | $114.500 | $98.143 | $58.418 | $16.357 |
 | Abril 2023 | $90.000 | $101.000 | $62.000 | $83.139 | $114.500 | $98.143 | $58.418 | $16.357 |
 
-A partir de la tabla anterior, el mes base se determina como aquel que maximiza el monto que recibirÃ¡ la empresa entre el comienzo del periodo (en este caso, mayo 2023), hasta julio 2024. En este caso, existirÃ­an dos opciones:
+A partir de la tabla anterior, el mes base se determina como aquel que maximiza el monto que recibirá la empresa entre el comienzo del periodo (en este caso, mayo 2023), hasta julio 2024. En este caso, existirían dos opciones:
 
 * i. Si se considera el mes base de enero o febrero del 2023, la suma es $173.139
 * ii. Si se considera el mes base de marzo o abril del 2023, la suma es $336.139
 
-La ley dice que, para desempatar se escoge el mes base mÃ¡s reciente segÃºn la informaciÃ³n que se tiene disponible, entonces en este ejemplo se escoge abril.
+La ley dice que, para desempatar se escoge el mes base más reciente según la información que se tiene disponible, entonces en este ejemplo se escoge abril.
 
-## Paso 5: CÃ¡lculo del factor de empleo del mes
+## Paso 5: Cálculo del factor de empleo del mes
 
-En este ejemplo, el nÃºmero de trabajadores(as) considerados(as) en el denominador del factor de empleo es 4, ya que el mes base es abril (determinado en el paso 4) y en ese mes la cantidad de trabajadores(as) totales era 4.
+En este ejemplo, el número de trabajadores(as) considerados(as) en el denominador del factor de empleo es 4, ya que el mes base es abril (determinado en el paso 4) y en ese mes la cantidad de trabajadores(as) totales era 4.
 
-El numerador de esta fracciÃ³n se determina mes a mes segÃºn la informaciÃ³n entregada al SII por parte de la AFC.
+El numerador de esta fracción se determina mes a mes según la información entregada al SII por parte de la AFC.
 
-Sin perjuicio de lo anterior, los primeros tres meses de subsidio tendrÃ¡n factor 1, es decir los meses de mayo a julio de 2023. Solo desde el 4Â° mes, agosto de 2023, podrÃ¡ ser distinto a 1.
+Sin perjuicio de lo anterior, los primeros tres meses de subsidio tendrán factor 1, es decir los meses de mayo a julio de 2023. Solo desde el 4° mes, agosto de 2023, podrá ser distinto a 1.
 
-## Paso 6: CÃ¡lculo del subsidio total del mes
+## Paso 6: Cálculo del subsidio total del mes
 
 Definido el mes base, en este caso correspondiente al mes de abril 2023, se multiplica la suma del SBM y el SVM por el factor de empleo para determinar el subsidio total en un mes.
 
-En este ejemplo, sin tener certeza del factor de empleo, para los meses de mayo a julio de 2023, se sabe que el factor de empleo serÃ¡ 1. Por lo tanto, los subsidios totales que recibirÃ¡ la empresa esos meses serÃ¡n de $90.000 por mes.
+En este ejemplo, sin tener certeza del factor de empleo, para los meses de mayo a julio de 2023, se sabe que el factor de empleo será 1. Por lo tanto, los subsidios totales que recibirá la empresa esos meses serán de $90.000 por mes.
 
 ## EJEMPLO 2: MICROEMPRESA CON INICIO DE ACTIVIDADES EN AGOSTO 2024
 
@@ -365,24 +366,24 @@ Suponga una microempresa (ventas durante los primeros tres meses de actividad me
 | 4 |  |  | $505.000 |
 | 5 | $450.000 | $450.000 | $455.000 |
 
-Esta empresa tiene dos trabajadores(as) en el rango de ingresos imponibles causantes de SBM en los meses de agosto y septiembre (trabajadores(as) 2 y 3), y ningÃºn causante de SBM en octubre.
+Esta empresa tiene dos trabajadores(as) en el rango de ingresos imponibles causantes de SBM en los meses de agosto y septiembre (trabajadores(as) 2 y 3), y ningún causante de SBM en octubre.
 
-AdemÃ¡s, tiene un(a) causante (trabajador(a) 5) de SVM en los tres meses de agosto a septiembre, por jornada parcial (aunque Ã©sto no es verificable con la informaciÃ³n del Seguro de CesantÃ­a).
+Además, tiene un(a) causante (trabajador(a) 5) de SVM en los tres meses de agosto a septiembre, por jornada parcial (aunque ésto no es verificable con la información del Seguro de Cesantía).
 
-## Paso 1: CÃ¡lculo de SBM para cada periodo de IMM, segÃºn cada mes base posible
+## Paso 1: Cálculo de SBM para cada periodo de IMM, según cada mes base posible
 
-Con la informaciÃ³n de la planilla de trabajadores(as), se considera el nÃºmero de trabajadores(as) causantes de SBM y se multiplica por los montos del subsidio por trabajador(a) que corresponden a una microempresa para cada periodo. Aquel cÃ¡lculo da el siguiente resultado para cada mes base:
+Con la información de la planilla de trabajadores(as), se considera el número de trabajadores(as) causantes de SBM y se multiplica por los montos del subsidio por trabajador(a) que corresponden a una microempresa para cada periodo. Aquel cálculo da el siguiente resultado para cada mes base:
 
-|  | **NÂ° de trabajadores** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** |
+|  | **N° de trabajadores** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** | **Monto total de SBM por periodo** |
 | --- | --- | --- | --- | --- | --- |
 | Mes Base | causantes de SBM | Enero 2025 | Febrero 2025 | Marzo 2025 | Abril 2025 |
 | Agosto 2024 | 2 | $98.000 | $84.000 | $50.000 | $14.000 |
 | Septiembre 2024 | 2 | $98.000 | $84.000 | $50.000 | $14.000 |
 | Octubre 2024 | 0 | $0 | $0 | $0 | $0 |
 
-## Paso 2: CÃ¡lculo del ponderador para cada trabajador(a) por periodo de IMM, segÃºn cada mes base posible
+## Paso 2: Cálculo del ponderador para cada trabajador(a) por periodo de IMM, según cada mes base posible
 
-Con la informaciÃ³n de la planilla de trabajadores(as), se determina quÃ© trabajadores(as) son causantes de SVM, y en este caso sÃ³lo el(la) trabajador(a) nÃºmero 5 en todos los posibles meses base. Con esto, se calcula el ponderador para cada periodo de subsidio sÃ³lo para el(la) trabajador(a) nÃºmero 5, ya que, para los(as) otros(as) el ponderador es 0%. AquÃ©l cÃ¡lculo da el siguiente resultado para cada mes base:
+Con la información de la planilla de trabajadores(as), se determina qué trabajadores(as) son causantes de SVM, y en este caso sólo el(la) trabajador(a) número 5 en todos los posibles meses base. Con esto, se calcula el ponderador para cada periodo de subsidio sólo para el(la) trabajador(a) número 5, ya que, para los(as) otros(as) el ponderador es 0%. Aquél cálculo da el siguiente resultado para cada mes base:
 
 | **ID Trabajador(a)** | **Mes Base** | **Enero 2025** | **Febrero 2025** | **Marzo 2025** | **Abril 2025** |
 | --- | --- | --- | --- | --- | --- |
@@ -391,15 +392,15 @@ Con la informaciÃ³n de la planilla de trabajadores(as), se determina quÃ© tr
 | 5 | Septiembre 2024 | 59% | 59% | 59% | 59% |
 | 5 | Octubre 2024 | 54% | 54% | 54% | 54% |
 
-Como hay un(a) Ãºnico(a) trabajador(a) causante de SVM en los tres posibles meses base, se calcula el ponderador para dicho(a) trabajador(a). Asumiendo un IMM de $508.000 entre enero y abril de
+Como hay un(a) único(a) trabajador(a) causante de SVM en los tres posibles meses base, se calcula el ponderador para dicho(a) trabajador(a). Asumiendo un IMM de $508.000 entre enero y abril de
 
 1 Se usa el umbral de 800 UF pues es el proporcional de tres meses del umbral anual de 2.400 UF.
 
-2025, el ponderador serÃ­a $58.000 / $98.000, es decir aproximadamente 59% si el mes base es agosto o septiembre, y $53.000 / $98.000, es decir aproximadamente 54% si el mes base es octubre.
+2025, el ponderador sería $58.000 / $98.000, es decir aproximadamente 59% si el mes base es agosto o septiembre, y $53.000 / $98.000, es decir aproximadamente 54% si el mes base es octubre.
 
-## Paso 3: CÃ¡lculo del SVM usando los ponderadores del paso 2, para cada mes base
+## Paso 3: Cálculo del SVM usando los ponderadores del paso 2, para cada mes base
 
-Como hay sÃ³lo un(a) trabajador(a) que es causante de SVM, el monto total de SVM de esta empresa por periodo segÃºn mes base considerado es igual al descrito en el paso anterior. Usando estos ponderadores y los montos de subsidio por trabajador(a) correspondientes a una microempresa que fue beneficiaria del subsidio de la ley NÂ° 21.456 para cada periodo. En la siguiente tabla se calcula el SVM segÃºn cada mes base.
+Como hay sólo un(a) trabajador(a) que es causante de SVM, el monto total de SVM de esta empresa por periodo según mes base considerado es igual al descrito en el paso anterior. Usando estos ponderadores y los montos de subsidio por trabajador(a) correspondientes a una microempresa que fue beneficiaria del subsidio de la ley N° 21.456 para cada periodo. En la siguiente tabla se calcula el SVM según cada mes base.
 
 |  | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** | **Monto total de SVM por periodo** |
 | --- | --- | --- | --- | --- |
@@ -408,11 +409,11 @@ Como hay sÃ³lo un(a) trabajador(a) que es causante de SVM, el monto total de S
 | Septiembre 2024 | $29.000 | $24.857 | $14.796 | $4.143 |
 | Octubre 2024 | $26.500 | $22.714 | $13.520 | $3.786 |
 
-Para los meses base de agosto y septiembre, el SVM en enero serÃ­a $49.000 x 59%, es decir $29.000, en febrero serÃ­a $42.000 x 59%, es decir $24.857, en marzo serÃ­a $25.000 x 59%, es decir $14.796, y en abril serÃ­a $7.000 x 59%, es decir $4.143.
+Para los meses base de agosto y septiembre, el SVM en enero sería $49.000 x 59%, es decir $29.000, en febrero sería $42.000 x 59%, es decir $24.857, en marzo sería $25.000 x 59%, es decir $14.796, y en abril sería $7.000 x 59%, es decir $4.143.
 
-Para el mes base de octubre, el SVM en enero serÃ­a $49.000 x 54%, es decir $26.500, en febrero serÃ­a $42.000 x 54%, es decir $22.714, en marzo serÃ­a $25.000 x 54%, es decir $13.520, y en abril serÃ­a $7.000 x 54%, es decir $3.786.
+Para el mes base de octubre, el SVM en enero sería $49.000 x 54%, es decir $26.500, en febrero sería $42.000 x 54%, es decir $22.714, en marzo sería $25.000 x 54%, es decir $13.520, y en abril sería $7.000 x 54%, es decir $3.786.
 
-## Paso 4: Determinar el mes base segÃºn el valor mÃ¡ximo de la suma entre el SBM y SVM, asumiendo un factor de empleo igual a 1
+## Paso 4: Determinar el mes base según el valor máximo de la suma entre el SBM y SVM, asumiendo un factor de empleo igual a 1
 
 Se suman los montos de la tabla en el paso 1 y en el paso 3, para llegar al siguiente resultado:
 
@@ -422,24 +423,24 @@ Se suman los montos de la tabla en el paso 1 y en el paso 3, para llegar al sigu
 | Septiembre 2024 | $127.000 | $108.857 | $64.796 | $18.143 |
 | Octubre 2024 | $26.500 | $22.714 | $13.520 | $3.786 |
 
-A partir de la tabla anterior, el mes base se determina como aquel que maximiza el monto que recibirÃ¡ la empresa entre el comienzo del periodo (en este caso, enero 2025) hasta abril 2025 2 . En este caso, existirÃ­an dos opciones:
+A partir de la tabla anterior, el mes base se determina como aquel que maximiza el monto que recibirá la empresa entre el comienzo del periodo (en este caso, enero 2025) hasta abril 2025 2 . En este caso, existirían dos opciones:
 
 * i. Si se considera el mes base de agosto o septiembre del 2024, la suma es $318.796
 * ii. Si se considera el mes base de octubre del 2025, la suma es $66.520
 
-La ley dice que, para desempatar se escoge el mes base mÃ¡s reciente segÃºn la informaciÃ³n que se tiene disponible, entonces en este ejemplo se escoge septiembre.
+La ley dice que, para desempatar se escoge el mes base más reciente según la información que se tiene disponible, entonces en este ejemplo se escoge septiembre.
 
-## Paso 5: CÃ¡lculo del factor empleo del mes
+## Paso 5: Cálculo del factor empleo del mes
 
-En este ejemplo, el nÃºmero de trabajadores(as) considerados en el denominador del factor de empleo es 4, ya que el mes base es septiembre (determinado en el paso 4) y en ese mes la cantidad de trabajadores(as) totales era 4.
+En este ejemplo, el número de trabajadores(as) considerados en el denominador del factor de empleo es 4, ya que el mes base es septiembre (determinado en el paso 4) y en ese mes la cantidad de trabajadores(as) totales era 4.
 
-El numerador de esta fracciÃ³n se determina mes a mes segÃºn la informaciÃ³n entregada al SII por parte de la AFC.
+El numerador de esta fracción se determina mes a mes según la información entregada al SII por parte de la AFC.
 
-2 Esto se debe a que como la empresa fue creada en agosto de 2024, de acuerdo con lo dispuesto en el inciso final del artÃ­culo 10 de la Ley, solo podrÃ¡ recibir el subsidio correspondiente a los meses de enero a abril de 2025.
+2 Esto se debe a que como la empresa fue creada en agosto de 2024, de acuerdo con lo dispuesto en el inciso final del artículo 10 de la Ley, solo podrá recibir el subsidio correspondiente a los meses de enero a abril de 2025.
 
-Sin perjuicio de lo anterior, los primeros tres meses de subsidio tendrÃ¡n factor 1, es decir los meses de enero a marzo de 2025. Solo el 4Â° mes, abril de 2025, podrÃ¡ ser distinto a 1.
+Sin perjuicio de lo anterior, los primeros tres meses de subsidio tendrán factor 1, es decir los meses de enero a marzo de 2025. Solo el 4° mes, abril de 2025, podrá ser distinto a 1.
 
-## Paso 6: CÃ¡lculo del subsidio total del mes
+## Paso 6: Cálculo del subsidio total del mes
 
 Finalmente, se multiplica la suma del SBM y el SVM por el factor de empleo para determinar el subsidio total en un mes. De esta manera, los subsidios para enero a abril son los siguientes:
 
@@ -448,4 +449,4 @@ Finalmente, se multiplica la suma del SBM y el SVM por el factor de empleo para 
 * Marzo 2025 : 1 x ($50.000 + $14.796) = $64.796
 * Abril 2025 : 1 x ($14.000 + $4.143) = $18.143
 
-Para el mes de abril 2025 se asume para efectos de este ejemplo un factor de empleo igual a 1, lo cual podrÃ­a no ser asÃ­.
+Para el mes de abril 2025 se asume para efectos de este ejemplo un factor de empleo igual a 1, lo cual podría no ser así.

@@ -1,74 +1,75 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 92 (2024)
-description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00287365
+---
+type: "SII Resolución"
+title: "Resolución N° 92 (2024)"
+description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00287365"
 tags: [SII, 2024, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE00287365
 
-MATERIA: Aprueba Addendum de Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre el Instituto Nacional de EstadÃ­stica y el Servicio de Impuestos Internos.
+## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00287365
+
+MATERIA: Aprueba Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos.
 
 SANTIAGO, 12 DE SEPTIEMBRE DE 2024.
 
-RESOLUCIÃ“N EX. SII NÂ°92.-
+RESOLUCIÓN EX. SII N°92.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Â° y letra Ã±) del 7Â°, ambos de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; la Ley NÂ°18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica; el artÃ­culo 2 de la Ley NÂ° 20.575, el artÃ­culo 35 del CÃ³digo Tributario y la Ley NÂ° 17.374, OrgÃ¡nica de la DirecciÃ³n EstadÃ­stica y Censos y que crea el Instituto Nacional de EstadÃ­sticas.
+VISTOS: Lo dispuesto en los artículos 1° y letra ñ) del 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley N° 19.628, sobre Protección de la Vida Privada; la Ley N° 20.285, sobre Acceso a la Información Pública; el artículo 2 de la Ley N° 20.575, el artículo 35 del Código Tributario y la Ley N° 17.374, Orgánica de la Dirección Estadística y Censos y que crea el Instituto Nacional de Estadísticas.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente. Adicionalmente, la letra o) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, otorga al Director la atribuciÃ³n de ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente. Adicionalmente, la letra o) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, otorga al Director la atribución de ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio.
 
-2.- Que, a su vez, el INE, en conformidad a lo dispuesto en la Ley NÂ° 17.374, es el organismo pÃºblico encargado de recopilar, elaborar y publicar las estadÃ­sticas oficiales de Chile, para lo cual puede coordinarse con los demÃ¡s organismos pÃºblicos y privados que elaboren, recopilen o necesiten datos estadÃ­sticos.
+2.- Que, a su vez, el INE, en conformidad a lo dispuesto en la Ley N° 17.374, es el organismo público encargado de recopilar, elaborar y publicar las estadísticas oficiales de Chile, para lo cual puede coordinarse con los demás organismos públicos y privados que elaboren, recopilen o necesiten datos estadísticos.
 
-3.- Que, con fecha 15 de noviembre de 2022, entre este Servicio y el Instituto Nacional de EstadÃ­sticas se suscribiÃ³ un convenio de intercambio de informaciÃ³n y colaboraciÃ³n, el que fue aprobado por la ResoluciÃ³n NÂ°2369, de fecha 24 de noviembre de 2022 del INE y ResoluciÃ³n EX: SII NÂ° 105, de fecha 16.11.2022. En ese sentido la clÃ¡usula Quinta del Convenio prevÃ© que cualquier desarrollo futuro que requiera incorporar con intenciÃ³n de intercambios de informaciÃ³n, se adjuntarÃ¡ a travÃ©s de nuevo anexo, que se entiende parte integrante de este Convenio, previo anÃ¡lisis y pronunciamiento de las Ã¡reas pertinentes a la materia a intercambiar, y las Ã¡reas jurÃ­dicas de ambas instituciones
+3.- Que, con fecha 15 de noviembre de 2022, entre este Servicio y el Instituto Nacional de Estadísticas se suscribió un convenio de intercambio de información y colaboración, el que fue aprobado por la Resolución N°2369, de fecha 24 de noviembre de 2022 del INE y Resolución EX: SII N° 105, de fecha 16.11.2022. En ese sentido la cláusula Quinta del Convenio prevé que cualquier desarrollo futuro que requiera incorporar con intención de intercambios de información, se adjuntará a través de nuevo anexo, que se entiende parte integrante de este Convenio, previo análisis y pronunciamiento de las áreas pertinentes a la materia a intercambiar, y las áreas jurídicas de ambas instituciones
 
-4.- Que, en virtud de lo anterior, en cumplimiento del principio de colaboraciÃ³n entre organismos pÃºblicos consagrado en la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado y del principio de competencia consagrado en el artÃ­culo 20 de la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada, el Servicio de Impuestos Internos y el Instituto Nacional de EstadÃ­stica han acordado suscribir un Addendum de Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n.
+4.- Que, en virtud de lo anterior, en cumplimiento del principio de colaboración entre organismos públicos consagrado en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y del principio de competencia consagrado en el artículo 20 de la Ley N° 19.628, sobre Protección de la Vida Privada, el Servicio de Impuestos Internos y el Instituto Nacional de Estadística han acordado suscribir un Addendum de Convenio de Intercambio de Información y Colaboración.
 
 ## RESUELVO:
 
-ApruÃ©bese el Addendum de Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre el Instituto Nacional de EstadÃ­stica y el Servicio de Impuestos Internos, celebrado el 14 de Agosto de 2024, cuyo texto es el siguiente:
+Apruébese el Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos, celebrado el 14 de Agosto de 2024, cuyo texto es el siguiente:
 
-## 'ADDENDUM AL CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE El INSTITUTO NACIONAL DE ESTADÃSTICAS Y EL SERVICIO DE IMPUESTOS INTERNOS
+## 'ADDENDUM AL CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE El INSTITUTO NACIONAL DE ESTADÍSTICAS Y EL SERVICIO DE IMPUESTOS INTERNOS
 
-En Santiago, a 14 de Agosto de 2024, entre el SERVICIO DE IMPUESTOS INTERNOS, RUT 60.803.000-K, en adelante indistintamente denominado el 'SERVICIO', representado por su Director (S), don Javier Etcheberry Celhay, cÃ©dula de identidad NÂ° 4.891.404-7, ambos con domicilio en Teatinos NÂ° 120, comuna de Santiago y el INSTITUTO NACIONAL DE ESTADÃSTICAS, organismo autÃ³nomo del estado de Chile, R.U.T NÂº 60.703.000-6, en adelante indistintamente denominado 'INE', representado por su Director, don Ricardo VicuÃ±a Poblete, cÃ©dula de identidad NÂ° 8.353.3072, ambos con domicilio en calle MorandÃ© NÂ° 801, piso 22, comuna de Santiago, RegiÃ³n Metropolitana, se ha convenido la siguiente modificaciÃ³n al Convenio de ColaboraciÃ³n suscrito entre ambas instituciones con fecha 15 de noviembre de 2022.
+En Santiago, a 14 de Agosto de 2024, entre el SERVICIO DE IMPUESTOS INTERNOS, RUT 60.803.000-K, en adelante indistintamente denominado el 'SERVICIO', representado por su Director (S), don Javier Etcheberry Celhay, cédula de identidad N° 4.891.404-7, ambos con domicilio en Teatinos N° 120, comuna de Santiago y el INSTITUTO NACIONAL DE ESTADÍSTICAS, organismo autónomo del estado de Chile, R.U.T Nº 60.703.000-6, en adelante indistintamente denominado 'INE', representado por su Director, don Ricardo Vicuña Poblete, cédula de identidad N° 8.353.3072, ambos con domicilio en calle Morandé N° 801, piso 22, comuna de Santiago, Región Metropolitana, se ha convenido la siguiente modificación al Convenio de Colaboración suscrito entre ambas instituciones con fecha 15 de noviembre de 2022.
 
-PRIMERO: El Instituto Nacional de EstadÃ­sticas, y el Servicio de Impuestos Internos suscribieron un Convenio de Intercambio de InformaciÃ³n y colaboraciÃ³n con fecha 15 de noviembre de 2022, el que fue aprobado por ResoluciÃ³n NÂ° 2369, de fecha 24 de noviembre del 2022, del INE y por la ResoluciÃ³n EX. SII NÂ° 105, de fecha 16 de noviembre de 2022, del SERVICIO.
+PRIMERO: El Instituto Nacional de Estadísticas, y el Servicio de Impuestos Internos suscribieron un Convenio de Intercambio de Información y colaboración con fecha 15 de noviembre de 2022, el que fue aprobado por Resolución N° 2369, de fecha 24 de noviembre del 2022, del INE y por la Resolución EX. SII N° 105, de fecha 16 de noviembre de 2022, del SERVICIO.
 
-1. Dicho convenio tiene por objeto el intercambio de informaciÃ³n entre ambos, para ser utilizada dentro del marco de sus competencias, a fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas misiones les han encargado.
-2. El citado acuerdo de voluntades dispone en su clÃ¡usula quinta que en caso de que las partes lo estimen necesario se podrÃ¡ modificar dicho convenio, a travÃ©s de un nuevo anexo, el que se pondrÃ¡ en vigencia una vez que se tramite totalmente el acto administrativo que lo apruebe.
-3. Que, con posterioridad a la suscripciÃ³n del convenio ya referido, ha surgido la necesidad de incorporar nueva informaciÃ³n requerida por el INE para dar cumplimiento a sus necesidades.
+1. Dicho convenio tiene por objeto el intercambio de información entre ambos, para ser utilizada dentro del marco de sus competencias, a fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas misiones les han encargado.
+2. El citado acuerdo de voluntades dispone en su cláusula quinta que en caso de que las partes lo estimen necesario se podrá modificar dicho convenio, a través de un nuevo anexo, el que se pondrá en vigencia una vez que se tramite totalmente el acto administrativo que lo apruebe.
+3. Que, con posterioridad a la suscripción del convenio ya referido, ha surgido la necesidad de incorporar nueva información requerida por el INE para dar cumplimiento a sus necesidades.
 
-SEGUNDO: En razÃ³n de lo anterior, considerando el principio de coordinaciÃ³n consagrado en el artÃ­culo 5Â° de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; lo dispuesto en la Ley NÂ° 19.628, sobre protecciÃ³n de la vida privada, y con el fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han encargado, el INE y el SERVICIO acuerdan modificar el convenio antes mencionado, con el objeto de incorporar informaciÃ³n para ser utilizada dentro del marco de sus competencias.
+SEGUNDO: En razón de lo anterior, considerando el principio de coordinación consagrado en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en la Ley N° 19.628, sobre protección de la vida privada, y con el fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han encargado, el INE y el SERVICIO acuerdan modificar el convenio antes mencionado, con el objeto de incorporar información para ser utilizada dentro del marco de sus competencias.
 
-TERCERO: En consecuencia, las partes acuerdan modificar el Convenio singularizado en la ClÃ¡usula Primera precedente, incorporando el siguiente anexo al convenio:
+TERCERO: En consecuencia, las partes acuerdan modificar el Convenio singularizado en la Cláusula Primera precedente, incorporando el siguiente anexo al convenio:
 
 ## 'ANEXO 3
 
-## InformaciÃ³n Batch que el Servicio entregarÃ¡ al INE
+## Información Batch que el Servicio entregará al INE
 
-Anualmente en los meses que se indiquen en el protocolo tÃ©cnico, el Servicio entregarÃ¡ al INE la siguiente informaciÃ³n batch:
+Anualmente en los meses que se indiquen en el protocolo técnico, el Servicio entregará al INE la siguiente información batch:
 
-1. InformaciÃ³n nominada
+1. Información nominada
 
-* a. Representantes ante la administraciÃ³n tributaria vigentes a la fecha de extracciÃ³n.
-* b. Grandes contribuyentes actualizada al 01 de enero del aÃ±o en curso.
-* c. ComposiciÃ³n societaria actualizada al 01 de enero del aÃ±o en curso.
+* a. Representantes ante la administración tributaria vigentes a la fecha de extracción.
+* b. Grandes contribuyentes actualizada al 01 de enero del año en curso.
+* c. Composición societaria actualizada al 01 de enero del año en curso.
 
 | **CAMPO** |
 | --- |
 | RUT Empresa |
 | DV Empresa |
-| Nombre o RazÃ³n Social |
+| Nombre o Razón Social |
 | RUT Representante |
 | DV Representante |
 | Nombre Representante |
 | Fecha Inicio |
-| Fecha TÃ©rmino |
+| Fecha Término |
 
 | **CAMPO** |
 | --- |
-| NÂ° |
+| N° |
 | RUT |
 | DV |
 
@@ -80,31 +81,31 @@ Anualmente en los meses que se indiquen en el protocolo tÃ©cnico, el Servicio 
 | Subtipo Sociedad |
 | RUT Socio |
 | DV Socio |
-| %ParticipaciÃ³n Utilidades |
+| %Participación Utilidades |
 
-1. InformaciÃ³n Innominada
+1. Información Innominada
 
 * a. Moneda Extranjera
 
-Contribuyentes que estÃ¡n habilitados para declarar en moneda extranjera.
+Contribuyentes que están habilitados para declarar en moneda extranjera.
 
 | **CAMPO** |
 | --- |
 | RUT\_Innominado |
 
-* b. TÃ©rmino de giro a la fecha de extracciÃ³n de los datos.
-* c. RÃ©gimen tributario a la fecha de extracciÃ³n de los datos.
-* d. DJ 1847 - Balance de 8 columnas y otros antecedentes del aÃ±o tributario en curso.
+* b. Término de giro a la fecha de extracción de los datos.
+* c. Régimen tributario a la fecha de extracción de los datos.
+* d. DJ 1847 - Balance de 8 columnas y otros antecedentes del año tributario en curso.
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | RUT\_Innominado |  |
-| Tg Fecha | Fecha tÃ©rmino de Giro |
+| Tg Fecha | Fecha término de Giro |
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | RUT\_Innominado |  |
-| Rt Trt | CÃ³digo RÃ©gimen Tributario |
+| Rt Trt | Código Régimen Tributario |
 
 | **CAMPO** |
 | --- |
@@ -134,18 +135,18 @@ Contribuyentes que estÃ¡n habilitados para declarar en moneda extranjera.
 | F1847\_AJUSTES\_DET\_RLI |
 | F1847\_SC\_CONCEPTO\_PARTIDA |
 
-CUARTO: En todo lo no expresamente modificado por este addendum se entiende subsistir Ã­ntegro el Convenio de fecha 15 de noviembre de 2022.
+CUARTO: En todo lo no expresamente modificado por este addendum se entiende subsistir íntegro el Convenio de fecha 15 de noviembre de 2022.
 
-QUINTO: El presente addendum podrÃ¡ suscribirse con firma electrÃ³nica avanzada o materialmente, en este Ãºltimo caso, las partes conservaran un ejemplar en su poder. Para todos los efectos legales se entiende como fecha del addendum, la fecha de la primera firma de los otorgantes. SEXTO: El presente addendum comenzarÃ¡ a regir el dÃ­a primero del mes siguiente a aquel en que se produzca la total tramitaciÃ³n de la Ãºltima resoluciÃ³n, decreto y/o autorizaciones respectivas que lo apruebe, circunstancia que deberÃ¡ comunicarse por escrito a la otra parte. SÃ‰PTIMO: La personerÃ­a de don Ricardo VicuÃ±a Poblete, para actuar en representaciÃ³n del Instituto Nacional de EstadÃ­sticas, consta en el Decreto Supremo NÂ° 63, del 31 de julio de 2023, del Ministerio de EconomÃ­a, Fomento y Turismo. La personerÃ­a de don Javier Etcheberry Celhay, para actuar en representaciÃ³n del SERVICIO DE IMPUESTOS INTERNOS, consta en el Decreto Exento (Por orden del Presidente de la RepÃºblica) RA NÂ° 289/323/2024.
+QUINTO: El presente addendum podrá suscribirse con firma electrónica avanzada o materialmente, en este último caso, las partes conservaran un ejemplar en su poder. Para todos los efectos legales se entiende como fecha del addendum, la fecha de la primera firma de los otorgantes. SEXTO: El presente addendum comenzará a regir el día primero del mes siguiente a aquel en que se produzca la total tramitación de la última resolución, decreto y/o autorizaciones respectivas que lo apruebe, circunstancia que deberá comunicarse por escrito a la otra parte. SÉPTIMO: La personería de don Ricardo Vicuña Poblete, para actuar en representación del Instituto Nacional de Estadísticas, consta en el Decreto Supremo N° 63, del 31 de julio de 2023, del Ministerio de Economía, Fomento y Turismo. La personería de don Javier Etcheberry Celhay, para actuar en representación del SERVICIO DE IMPUESTOS INTERNOS, consta en el Decreto Exento (Por orden del Presidente de la República) RA N° 289/323/2024.
 
-RICARDO VICUÃ‘A POBLETE - DIRECTOR NACIONAL - INSTITUTO NACIONAL DE ESTADÃSTICAS - JAVIER ETCHEBERRY CELHAY - DIRECTOR (S) - SERVICIO DE IMPUESTOS INTERNOS
+RICARDO VICUÑA POBLETE - DIRECTOR NACIONAL - INSTITUTO NACIONAL DE ESTADÍSTICAS - JAVIER ETCHEBERRY CELHAY - DIRECTOR (S) - SERVICIO DE IMPUESTOS INTERNOS
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
 
 <unknown>
 
 ## DIRECTOR (S)
 
-## DistribuciÃ³n
+## Distribución
 
 * -Internet

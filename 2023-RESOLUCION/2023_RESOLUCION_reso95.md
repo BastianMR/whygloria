@@ -1,69 +1,70 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 118 (2023)
-description: INSTRUYE OBLIGACIÃ“N DE PRESENTAR FORMULARIO NÂ°1956 DECLARACIÃ“N JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIM...
+---
+type: "SII Resolución"
+title: "Resolución N° 118 (2023)"
+description: "INSTRUYE OBLIGACIÓN DE PRESENTAR FORMULARIO N°1956 DECLARACIÓN JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIM..."
 tags: [SII, 2023, resolucion]
 ---
 
-INSTRUYE OBLIGACIÃ“N DE PRESENTAR FORMULARIO NÂ°1956 DECLARACIÃ“N JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO, AL MINISTERIO DE HACIENDA Y A LA SECRETARIA TÃ‰CNICA. DEJA SIN EFECTO RESOLUCIÃ“N EXENTA SII NÂ° 118 DE 2014.
+
+INSTRUYE OBLIGACIÓN DE PRESENTAR FORMULARIO N°1956 DECLARACIÓN JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO, AL MINISTERIO DE HACIENDA Y A LA SECRETARIA TÉCNICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 118 DE 2014.
 
 SANTIAGO, 31 DE AGOSTO DE 2023
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EXENTA SII NÂ°95.-
+RESOLUCIÓN EXENTA SII N°95.-
 
 VISTOS:
 
-Lo dispuesto en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7 del Ministerio de Hacienda de 1980; en los artÃ­culos 6Â° letra A NÂ° 1, 33 bis, 60 y 87 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830 de 1974; en los artÃ­culos 5Â° y 8Â° de la Ley NÂ° 18.575, Ley OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; en la Ley NÂ° 21.440, que crea un rÃ©gimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro; en la Ley NÂ° 20.444, que crea el Fondo de ReconstrucciÃ³n y establece mecanismos de incentivo tributario a las donaciones efectuadas en caso de catÃ¡strofe y en la Ley NÂ° 20.675, publicada en el Diario Oficial de fecha de 05.06.2013, que sustituye el artÃ­culo 8 de la Ley NÂ°18.985, que aprueba la Ley sobre donaciones con fines culturales.
+Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 del Ministerio de Hacienda de 1980; en los artículos 6° letra A N° 1, 33 bis, 60 y 87 del Código Tributario, contenido en el artículo 1° del D.L. N° 830 de 1974; en los artículos 5° y 8° de la Ley N° 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley N° 21.440, que crea un régimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro; en la Ley N° 20.444, que crea el Fondo de Reconstrucción y establece mecanismos de incentivo tributario a las donaciones efectuadas en caso de catástrofe y en la Ley N° 20.675, publicada en el Diario Oficial de fecha de 05.06.2013, que sustituye el artículo 8 de la Ley N°18.985, que aprueba la Ley sobre donaciones con fines culturales.
 
 ## CONSIDERANDO
 
 :
 
-1Â° Que, a este Servicio, le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicaciÃ³n de las franquicias y beneficios tributarios que la ley establece.
+1° Que, a este Servicio, le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las franquicias y beneficios tributarios que la ley establece.
 
-2Â° Que, de acuerdo con lo establecido en el artÃ­culo 33 bis del CÃ³digo Tributario, junto con sus declaraciones, los contribuyentes deberÃ¡n acompaÃ±ar o poner a disposiciÃ³n del Servicio, en virtud de las disposiciones legales o administrativas que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resoluciÃ³n fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias especÃ­ficas e informaciÃ³n determinada propia del contribuyente o de terceros.
+2° Que, de acuerdo con lo establecido en el artículo 33 bis del Código Tributario, junto con sus declaraciones, los contribuyentes deberán acompañar o poner a disposición del Servicio, en virtud de las disposiciones legales o administrativas que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resolución fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias específicas e información determinada propia del contribuyente o de terceros.
 
-3Â° Que, conforme con lo dispuesto por los artÃ­culos 5Â° y 8Â° de la Ley NÂ° 18.575, que establecen los principios de eficiencia de la funciÃ³n pÃºblica y de agilidad de los procedimientos administrativos, aparece de manifiesto que la entrega de informaciÃ³n a travÃ©s de la transmisiÃ³n electrÃ³nica de datos vÃ­a Internet es la que ofrece las mayores garantÃ­as de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la informaciÃ³n y dar una respuesta de recepciÃ³n al instante.
+3° Que, conforme con lo dispuesto por los artículos 5° y 8° de la Ley N° 18.575, que establecen los principios de eficiencia de la función pública y de agilidad de los procedimientos administrativos, aparece de manifiesto que la entrega de información a través de la transmisión electrónica de datos vía Internet es la que ofrece las mayores garantías de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante.
 
-4Â° Que, el artÃ­culo 1Â° de la Ley NÂ° 21.440, publicada en el Diario Oficial de fecha 12.04.2022, incorporÃ³ en el decreto ley NÂ° 3.063, de 1979, sobre Rentas Municipales, el TÃ­tulo VIII bis que crea un rÃ©gimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro.
+4° Que, el artículo 1° de la Ley N° 21.440, publicada en el Diario Oficial de fecha 12.04.2022, incorporó en el decreto ley N° 3.063, de 1979, sobre Rentas Municipales, el Título VIII bis que crea un régimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro.
 
-5Â° Que, la Ley NÂ° 20.444 publicada en el Diario Oficial de fecha 28.05.2010, en su artÃ­culo 1Â° creÃ³ el Fondo Nacional de la ReconstrucciÃ³n y estableciÃ³ beneficios tributarios para los contribuyentes que realicen donaciones destinadas a dicho
+5° Que, la Ley N° 20.444 publicada en el Diario Oficial de fecha 28.05.2010, en su artículo 1° creó el Fondo Nacional de la Reconstrucción y estableció beneficios tributarios para los contribuyentes que realicen donaciones destinadas a dicho
 
-Fondo. Por su parte, el artÃ­culo 8Â° contempla las donaciones efectuadas al mismo Fondo Nacional de la ReconstrucciÃ³n, para financiar obras especÃ­ficas.
+Fondo. Por su parte, el artículo 8° contempla las donaciones efectuadas al mismo Fondo Nacional de la Reconstrucción, para financiar obras específicas.
 
-6Â° Que, la Ley NÂ° 20.675, publicada en el Diario Oficial de fecha 05.06.2013, sustituyÃ³ el artÃ­culo 8Â° de la Ley NÂ°18.985, el cual contiene el texto de la Ley de Donaciones con Fines Culturales que, entre otros, establece beneficios tributarios por las donaciones de esta ley que efectÃºen ciertos contribuyentes.
+6° Que, la Ley N° 20.675, publicada en el Diario Oficial de fecha 05.06.2013, sustituyó el artículo 8° de la Ley N°18.985, el cual contiene el texto de la Ley de Donaciones con Fines Culturales que, entre otros, establece beneficios tributarios por las donaciones de esta ley que efectúen ciertos contribuyentes.
 
-7Â° Que, el Servicio a travÃ©s de las Circulares NÂ° 49 de 2022, NÂ° 44 de 2010, NÂ° 22 de 2014 y NÂ° 34 de 2014 impartiÃ³ las instrucciones respectivas relacionadas con los aspectos tributarios de las referidas donaciones.
+7° Que, el Servicio a través de las Circulares N° 49 de 2022, N° 44 de 2010, N° 22 de 2014 y N° 34 de 2014 impartió las instrucciones respectivas relacionadas con los aspectos tributarios de las referidas donaciones.
 
-8Â° Que, el artÃ­culo 87 del CÃ³digo Tributario establece que los funcionarios fiscales, semifiscales, de instituciones fiscales y semifiscales de administraciÃ³n autÃ³noma y municipales, y las autoridades en general, estarÃ¡n obligados a proporcionar al Servicio todos los datos y antecedentes que Ã©ste solicite para la fiscalizaciÃ³n de los impuestos.
+8° Que, el artículo 87 del Código Tributario establece que los funcionarios fiscales, semifiscales, de instituciones fiscales y semifiscales de administración autónoma y municipales, y las autoridades en general, estarán obligados a proporcionar al Servicio todos los datos y antecedentes que éste solicite para la fiscalización de los impuestos.
 
 ## SE RESUELVE:
 
-1Â° INSTRÃšYESE la obligaciÃ³n de informar a travÃ©s del Formulario NÂ°1956, denominado "DeclaraciÃ³n jurada anual sobre donaciones informadas al Ministerio de las Culturas, las Artes y el Patrimonio, al Ministerio de Hacienda y a la Secretaria TÃ©cnica', a los organismos indicados en el resolutivo segundo, que reciban informaciÃ³n de donaciones realizadas al amparo del TÃ­tulo VIII bis del Decreto Ley NÂ° 3.063, sobre rentas municipales de las Leyes NÂ° 21.440 o NÂ° 20.444 o del artÃ­culo 8Âº de la Ley NÂ° 18.985, sustituido por la Ley NÂ° 20.675, segÃºn corresponda.
+1° INSTRÚYESE la obligación de informar a través del Formulario N°1956, denominado "Declaración jurada anual sobre donaciones informadas al Ministerio de las Culturas, las Artes y el Patrimonio, al Ministerio de Hacienda y a la Secretaria Técnica', a los organismos indicados en el resolutivo segundo, que reciban información de donaciones realizadas al amparo del Título VIII bis del Decreto Ley N° 3.063, sobre rentas municipales de las Leyes N° 21.440 o N° 20.444 o del artículo 8º de la Ley N° 18.985, sustituido por la Ley N° 20.675, según corresponda.
 
-2Â° Dicha declaraciÃ³n jurada deberÃ¡ ser presentada por el Ministerio de las Culturas, las Artes y el Patrimonio, el Ministerio de Hacienda y la SecretarÃ­a TÃ©cnica (dependiente de la SubsecretarÃ­a de Hacienda), siempre que durante el aÃ±o comercial anterior hayan recibido informaciÃ³n de donaciones realizadas bajo las normas indicadas.
+2° Dicha declaración jurada deberá ser presentada por el Ministerio de las Culturas, las Artes y el Patrimonio, el Ministerio de Hacienda y la Secretaría Técnica (dependiente de la Subsecretaría de Hacienda), siempre que durante el año comercial anterior hayan recibido información de donaciones realizadas bajo las normas indicadas.
 
-3Â° El plazo para presentar la DeclaraciÃ³n Jurada a que se refiere el resolutivo NÂ° 1 es hasta el dÃ­a 29 de marzo de cada aÃ±o o dÃ­a hÃ¡bil siguiente.
+3° El plazo para presentar la Declaración Jurada a que se refiere el resolutivo N° 1 es hasta el día 29 de marzo de cada año o día hábil siguiente.
 
-4Â° Los anexos de la presente resoluciÃ³n se entienden formar parte integrante de ella y se publicarÃ¡n conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+4° Los anexos de la presente resolución se entienden formar parte integrante de ella y se publicarán conjuntamente en el sitio web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-5Â° La presente resoluciÃ³n regirÃ¡ para la DeclaraciÃ³n Jurada NÂ° 1956 que se deba presentar a partir del aÃ±o tributario 2024, respecto de las donaciones informadas a los Ã³rganos indicado en el resolutivo 2Â° durante el aÃ±o comercial 2023 y siguientes.
+5° La presente resolución regirá para la Declaración Jurada N° 1956 que se deba presentar a partir del año tributario 2024, respecto de las donaciones informadas a los órganos indicado en el resolutivo 2° durante el año comercial 2023 y siguientes.
 
-6Â° DÃ‰JASE sin efecto la ResoluciÃ³n Ex SII NÂ° 118 de 2014, a contar de la fecha de entrada en vigencia de la presente resoluciÃ³n.
+6° DÉJASE sin efecto la Resolución Ex SII N° 118 de 2014, a contar de la fecha de entrada en vigencia de la presente resolución.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
-## (Fdo.) HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR
+## (Fdo.) HERNÁN FRIGOLETT CÓRDOVA DIRECTOR
 
-Anexo NÂ°1: DeclaraciÃ³n Jurada Formulario NÂ° 1956 denominada 'DeclaraciÃ³n jurada anual sobre donaciones informadas al Ministerio de las Culturas las Artes y el Patrimonio, al Ministerio de Hacienda y a la Secretaria TÃ©cnica'. Anexo NÂ°2: Instrucciones de llenado DeclaraciÃ³n Jurada NÂ° 1956.
+Anexo N°1: Declaración Jurada Formulario N° 1956 denominada 'Declaración jurada anual sobre donaciones informadas al Ministerio de las Culturas las Artes y el Patrimonio, al Ministerio de Hacienda y a la Secretaria Técnica'. Anexo N°2: Instrucciones de llenado Declaración Jurada N° 1956.
 
-Lo que transcribo, para su conocimiento y demÃ¡s fines.
+Lo que transcribo, para su conocimiento y demás fines.
 
 CSM/PSM/CGG/MCRB/LCC
 
-## DistribuciÃ³n:
+## Distribución:
 
 * INTERNET
 * DIARIO OFICIAL (EXTRACTO)

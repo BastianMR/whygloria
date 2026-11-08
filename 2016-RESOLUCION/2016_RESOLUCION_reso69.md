@@ -1,60 +1,61 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 65 (2016)
-description: ESTABLECE LA FORMA EN QUE SE DEBERÃ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÃCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE Ã‰STA DEBE CUMPLIR.
+---
+type: "SII Resolución"
+title: "Resolución N° 65 (2016)"
+description: "ESTABLECE LA FORMA EN QUE SE DEBERÁ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE ÉSTA DEBE CUMPLIR."
 tags: [SII, 2016, resolucion]
 ---
 
-ESTABLECE LA FORMA EN QUE SE DEBERÃ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÃCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE Ã‰STA DEBE CUMPLIR.
+
+ESTABLECE LA FORMA EN QUE SE DEBERÁ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE ÉSTA DEBE CUMPLIR.
 
 SANTIAGO, 11 de julio de 2016.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EXENTA SII NÂ°\_\_69.-\_\_\_\_/
+RESOLUCIÓN EXENTA SII N°\_\_69.-\_\_\_\_/
 
 VISTOS:
 
-Lo dispuesto en el artÃ­culo 6Â°, letra A), NÂ° 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; y los artÃ­culos 4Â° bis, 4Â° ter, 4Â° quÃ¡ter y 26 bis, del CÃ³digo Tributario.
+Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; y los artículos 4° bis, 4° ter, 4° quáter y 26 bis, del Código Tributario.
 
 ## CONSIDERANDO:
 
-1.Que, conforme a lo dispuesto en el artÃ­culo 26 bis del CÃ³digo Tributario, los contribuyentes u obligados al pago de impuestos, que tuvieren interÃ©s personal y directo, podrÃ¡n formular consultas sobre la aplicaciÃ³n de los artÃ­culos 4Â° bis, 4Â° ter y 4Â° quÃ¡ter a los actos, contratos, negocios o actividades econÃ³micas que, para tales fines, pongan en conocimiento del Servicio;
+1.Que, conforme a lo dispuesto en el artículo 26 bis del Código Tributario, los contribuyentes u obligados al pago de impuestos, que tuvieren interés personal y directo, podrán formular consultas sobre la aplicación de los artículos 4° bis, 4° ter y 4° quáter a los actos, contratos, negocios o actividades económicas que, para tales fines, pongan en conocimiento del Servicio;
 
-2.Que, el Ãºltimo inciso del seÃ±alado artÃ­culo 26 bis, menciona que la respuesta tendrÃ¡ un efecto vinculante para el Servicio Ãºnicamente respecto del consultante y el caso planteado, y deberÃ¡ seÃ±alar expresamente si los actos, contratos, negocios o actividades econÃ³micas sobre las que formulÃ³ la consulta, son o no susceptibles de ser calificados como abuso o simulaciÃ³n conforme a los artÃ­culos 4Â° bis, 4Â° ter y 4Â° quÃ¡ter. La respuesta a la consulta no obligarÃ¡ al Servicio cuando varÃ­en los antecedentes de hecho o de derecho en que Ã©sta se fundamentÃ³;
+2.Que, el último inciso del señalado artículo 26 bis, menciona que la respuesta tendrá un efecto vinculante para el Servicio únicamente respecto del consultante y el caso planteado, y deberá señalar expresamente si los actos, contratos, negocios o actividades económicas sobre las que formuló la consulta, son o no susceptibles de ser calificados como abuso o simulación conforme a los artículos 4° bis, 4° ter y 4° quáter. La respuesta a la consulta no obligará al Servicio cuando varíen los antecedentes de hecho o de derecho en que ésta se fundamentó;
 
-3.Que, la referida disposiciÃ³n indica expresamente que el Servicio de Impuestos Internos determinarÃ¡, mediante ResoluciÃ³n, la forma en la que se deberÃ¡n presentar las consultas, asÃ­ como los requisitos que Ã©stas deberÃ¡n cumplir;
+3.Que, la referida disposición indica expresamente que el Servicio de Impuestos Internos determinará, mediante Resolución, la forma en la que se deberán presentar las consultas, así como los requisitos que éstas deberán cumplir;
 
-4.Que, en conformidad a lo expuesto, corresponde establecer la forma, en que los contribuyentes deberÃ¡n presentar las consultas vinculantes de acuerdo a lo seÃ±alado en el artÃ­culo 26 bis del CÃ³digo Tributario y los requisitos que Ã©stas deberÃ¡n cumplir; y
+4.Que, en conformidad a lo expuesto, corresponde establecer la forma, en que los contribuyentes deberán presentar las consultas vinculantes de acuerdo a lo señalado en el artículo 26 bis del Código Tributario y los requisitos que éstas deberán cumplir; y
 
 5.- Las necesidades del Servicio.
 
 ## RESUELVO:
 
-1.Las consultas que formulen los contribuyentes u obligados al pago del impuesto que tuvieren interÃ©s personal y directo, para que se determine si las operaciones que indiquen son o no susceptibles de ser calificadas como abuso o simulaciÃ³n, deberÃ¡n realizarse por escrito, mencionando expresamente que se efectÃºa en virtud del artÃ­culo 26 bis del CÃ³digo Tributario y que se trata de una consulta vinculante.
+1.Las consultas que formulen los contribuyentes u obligados al pago del impuesto que tuvieren interés personal y directo, para que se determine si las operaciones que indiquen son o no susceptibles de ser calificadas como abuso o simulación, deberán realizarse por escrito, mencionando expresamente que se efectúa en virtud del artículo 26 bis del Código Tributario y que se trata de una consulta vinculante.
 
-En caso que el interesado no explicite que su consulta se formula al tenor de lo dispuesto en el artÃ­culo 26 bis del CÃ³digo Tributario, en carÃ¡cter de vinculante, degenerarÃ¡ en una consulta no vinculante; aplicÃ¡ndose lo dispuesto en las instrucciones que la regulan, especialmente respecto del tipo de respuesta y sus efectos.
+En caso que el interesado no explicite que su consulta se formula al tenor de lo dispuesto en el artículo 26 bis del Código Tributario, en carácter de vinculante, degenerará en una consulta no vinculante; aplicándose lo dispuesto en las instrucciones que la regulan, especialmente respecto del tipo de respuesta y sus efectos.
 
-Al efecto, el consultante deberÃ¡ adjuntar el Formulario NÂ° 2117 debidamente firmado por el contribuyente, u obligado al pago de impuestos, personalmente o mediante su representante legal o mandatario. Este formulario se encuentra disponible en la 'Oficina Virtual' del sitio web del Servicio de Impuestos Internos, [<u>www.sii.cl</u>](http://www.sii.cl).
+Al efecto, el consultante deberá adjuntar el Formulario N° 2117 debidamente firmado por el contribuyente, u obligado al pago de impuestos, personalmente o mediante su representante legal o mandatario. Este formulario se encuentra disponible en la 'Oficina Virtual' del sitio web del Servicio de Impuestos Internos, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-La consulta deberÃ¡ ser convenientemente fundada y contener la exposiciÃ³n clara y detallada de la totalidad de los actos, negocios, contratos u operaciones que se pretende efectuar y por las cuales se consulta. Asimismo, se deberÃ¡n acompaÃ±ar a Ã©sta los antecedentes necesarios para la adecuada resoluciÃ³n de la presentaciÃ³n.
+La consulta deberá ser convenientemente fundada y contener la exposición clara y detallada de la totalidad de los actos, negocios, contratos u operaciones que se pretende efectuar y por las cuales se consulta. Asimismo, se deberán acompañar a ésta los antecedentes necesarios para la adecuada resolución de la presentación.
 
-2.Las solicitudes de los contribuyentes deberÃ¡n ser presentadas en la Oficina de Partes de la DirecciÃ³n Nacional. En subsidio, podrÃ¡n presentarse en la SecretarÃ­a de la DirecciÃ³n Regional que corresponda al domicilio del contribuyente o en la DirecciÃ³n de Grandes Contribuyentes, tratÃ¡ndose de un contribuyente incluido en la NÃ³mina de Grandes Contribuyentes.
+2.Las solicitudes de los contribuyentes deberán ser presentadas en la Oficina de Partes de la Dirección Nacional. En subsidio, podrán presentarse en la Secretaría de la Dirección Regional que corresponda al domicilio del contribuyente o en la Dirección de Grandes Contribuyentes, tratándose de un contribuyente incluido en la Nómina de Grandes Contribuyentes.
 
-3.La respuesta al contribuyente u obligado al pago del impuesto que tuviere interÃ©s personal y directo, deberÃ¡ ser emitida por el Director en el plazo de 90 dÃ­as hÃ¡biles contados desde la notificaciÃ³n de la CertificaciÃ³n de Conformidad de la presentaciÃ³n, emitida en los tÃ©rminos dispuestos en la Circular NÂ°65, de 2015 o en la instrucciÃ³n que la modifique o complemente. En caso que la respuesta no se emita en el referido plazo, se tendrÃ¡ por no presentada para todos los efectos legales.
+3.La respuesta al contribuyente u obligado al pago del impuesto que tuviere interés personal y directo, deberá ser emitida por el Director en el plazo de 90 días hábiles contados desde la notificación de la Certificación de Conformidad de la presentación, emitida en los términos dispuestos en la Circular N°65, de 2015 o en la instrucción que la modifique o complemente. En caso que la respuesta no se emita en el referido plazo, se tendrá por no presentada para todos los efectos legales.
 
-Con todo, el plazo que tiene el Servicio para entregar una respuesta a la consulta vinculante podrÃ¡ ampliarse por hasta treinta dÃ­as hÃ¡biles, segÃºn lo establece el inciso tercero del artÃ­culo 26 bis del CÃ³digo Tributario.
+Con todo, el plazo que tiene el Servicio para entregar una respuesta a la consulta vinculante podrá ampliarse por hasta treinta días hábiles, según lo establece el inciso tercero del artículo 26 bis del Código Tributario.
 
-4.La presente ResoluciÃ³n regirÃ¡ a contar de su publicaciÃ³n en Extracto en el Diario Oficial.
+4.La presente Resolución regirá a contar de su publicación en Extracto en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-VVM/CGG/KMC/LCC DISTRIBUCIÃ“N:
+VVM/CGG/KMC/LCC DISTRIBUCIÓN:
 
-* Al BoletÃ­n.
+* Al Boletín.
 * A Internet.
 * Al Diario Oficial, en Extracto

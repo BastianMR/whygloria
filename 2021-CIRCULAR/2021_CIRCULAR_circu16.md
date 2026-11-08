@@ -1,22 +1,23 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 16 (2021)
-description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°16.- 177526.2021 GE |
+---
+type: "SII Circular"
+title: "Circular N° 16 (2021)"
+description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°16.- 177526.2021 GE |"
 tags: [SII, 2021, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°16.- 177526.2021 GE** |
+
+| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°16.- 177526.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE MARZO DE 2021 |
-| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2021 y el 9 de abril de 2021, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de marzo de 2021 y 9 de abril de 2021, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de marzo de 2021 y 9 de abril de 2021, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de marzo de 2021
+## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de marzo de 2021
 
-| **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** | **AÃ‘O 2021** |
+| **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** | **AÑO 2021** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 29.069,39 | 29.126,55 | 29.294,68 | 29.396,67 |  |  |  |  |  |  |  |  |
 | 2 | 29.068,46 | 29.129,37 | 29.301,98 | 29.398,56 |  |  |  |  |  |  |  |  |
 | 3 | 29.067,52 | 29.132,18 | 29.309,28 | 29.400,45 |  |  |  |  |  |  |  |  |
@@ -53,7 +54,7 @@ Saluda a Ud.,
 
 <unknown>
 
-## SRG/PAO/LOF/mvv DISTRIBUCIÃ“N:
+## SRG/PAO/LOF/mvv DISTRIBUCIÓN:
 
 * -Internet
 

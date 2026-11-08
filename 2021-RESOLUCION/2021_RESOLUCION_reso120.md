@@ -1,95 +1,96 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 120 (2021)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00194359
+---
+type: "SII Resolución"
+title: "Resolución N° 120 (2021)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00194359"
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00194359
 
-EXIME A SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA, DE LA OBLIGACIÃ“N DE TIMBRAJE EN LA EMISIÃ“N DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SE SEÃ‘ALAN.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00194359
+
+EXIME A SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN.
 
 SANTIAGO, 15 DE OCTUBRE DE 2021.
 
-RESOLUCIÃ“N EX. SII NÂ° 120.-
+RESOLUCIÓN EX. SII N° 120.-
 
 VISTOS:
 
-Las facultades contempladas en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980; lo dispuesto en el artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, publicado en el Diario Oficial el 31.12.1974; en el artÃ­culo 46 del D.S. NÂ°2.385, del Ministerio del Interior, publicado en el Diario Oficial el 20.11.1996, que fija texto refundido y sistematizado del D.L. NÂ° 3.063, de 1979, sobre Rentas Municipales, en el artÃ­culo 3Â° de la Ley NÂ° 19.247, que aprueba la Ley de Donaciones con Fines Educacionales, publicada en el Diario Oficial el 15.09.1993, y la Ley NÂ° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y pÃºblicos, publicada en el Diario Oficial el 06.08.2003; la ResoluciÃ³n Ex. SII NÂ° 31, de 01.03.2011; los artÃ­culos 153, 154 NÂ° 7, 157 bis y 157 ter del CÃ³digo del Trabajo; artÃ­culos 5, 6 y 8, de la Ley NÂ° 20.422, de 2010, que 'Establece Normas sobre Igualdad de Oportunidades e InclusiÃ³n Social de Personas con Discapacidad'; artÃ­culo 3 de la Ley NÂ° 21.015, de 2017, que 'Incentiva la InclusiÃ³n Laboral de Personas con Discapacidad al Mundo Laboral'; y la ResoluciÃ³n Ex. SII N Â° 112, de 2018.
+Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980; lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L. N° 830, publicado en el Diario Oficial el 31.12.1974; en el artículo 46 del D.S. N°2.385, del Ministerio del Interior, publicado en el Diario Oficial el 20.11.1996, que fija texto refundido y sistematizado del D.L. N° 3.063, de 1979, sobre Rentas Municipales, en el artículo 3° de la Ley N° 19.247, que aprueba la Ley de Donaciones con Fines Educacionales, publicada en el Diario Oficial el 15.09.1993, y la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, publicada en el Diario Oficial el 06.08.2003; la Resolución Ex. SII N° 31, de 01.03.2011; los artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo; artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que 'Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'; artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'; y la Resolución Ex. SII N ° 112, de 2018.
 
 ## CONSIDERANDO:
 
-1Â° Que, SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA , RUT NÂ° 82.130.300-1, en adelante la 'entidad solicitante', debidamente representada, ha solicitado se le exima de la obligaciÃ³n de timbraje de certificados de donaciones, autorizando su emisiÃ³n en forma electrÃ³nica.
+1° Que, SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA , RUT N° 82.130.300-1, en adelante la 'entidad solicitante', debidamente representada, ha solicitado se le exima de la obligación de timbraje de certificados de donaciones, autorizando su emisión en forma electrónica.
 
-La entidad solicitante, fundamenta su peticiÃ³n en que actualmente posee un sistema informÃ¡tico que permitirÃ¡ mejorar la administraciÃ³n y control de las donaciones recibidas, y por otro lado implicarÃ¡ una reducciÃ³n importante de los costos de administraciÃ³n asociados a la emisiÃ³n de los certificados de donaciones.
+La entidad solicitante, fundamenta su petición en que actualmente posee un sistema informático que permitirá mejorar la administración y control de las donaciones recibidas, y por otro lado implicará una reducción importante de los costos de administración asociados a la emisión de los certificados de donaciones.
 
-2Â° Que, este Servicio, mediante la Circular NÂ° 55 de 2003 y Resoluciones NÂ° 76, del 2007 y NÂ° 31, de 2011, ha impartido instrucciones, especificaciones y formalidades para los certificados que los donatarios emitan a los donantes, por las donaciones recibidas.
+2° Que, este Servicio, mediante la Circular N° 55 de 2003 y Resoluciones N° 76, del 2007 y N° 31, de 2011, ha impartido instrucciones, especificaciones y formalidades para los certificados que los donatarios emitan a los donantes, por las donaciones recibidas.
 
-3Â° Que, el NÂ° 5 del artÃ­culo 1Â° de la Ley NÂ° 19.885, establece que las instituciones que prestan servicios directos a personas de escasos recursos o con discapacidad y el Fondo Mixto de Apoyo Social, como donatarios, deberÃ¡n dar cuenta de haber recibido una donaciÃ³n mediante un certificado que se extenderÃ¡ al donante, conforme a las especificaciones y formalidades que seÃ±ale el Servicio de Impuestos Internos.
+3° Que, el N° 5 del artículo 1° de la Ley N° 19.885, establece que las instituciones que prestan servicios directos a personas de escasos recursos o con discapacidad y el Fondo Mixto de Apoyo Social, como donatarios, deberán dar cuenta de haber recibido una donación mediante un certificado que se extenderá al donante, conforme a las especificaciones y formalidades que señale el Servicio de Impuestos Internos.
 
-4Â° Que, de acuerdo al artÃ­culo 9 del Reglamento, las donaciones que efectÃºen las empresas que opten por cumplir su obligaciÃ³n conforme a la letra b) del artÃ­culo 157 ter del CÃ³digo del Trabajo, se regirÃ¡n por las normas de la Ley NÂº 19.885, en lo que resulte aplicable, con las excepciones que el mismo artÃ­culo seÃ±ala.
+4° Que, de acuerdo al artículo 9 del Reglamento, las donaciones que efectúen las empresas que opten por cumplir su obligación conforme a la letra b) del artículo 157 ter del Código del Trabajo, se regirán por las normas de la Ley Nº 19.885, en lo que resulte aplicable, con las excepciones que el mismo artículo señala.
 
-5Â° Que, a travÃ©s de la ResoluciÃ³n Ex. SII NÂ° 112, de fecha 12.11.2018, este Servicio estableciÃ³ las especificaciones y formalidades que deben cumplir los certificados que deben emitir los donatarios que reciban donaciones relacionadas a incentivar la inclusiÃ³n laboral de personas con discapacidad.
+5° Que, a través de la Resolución Ex. SII N° 112, de fecha 12.11.2018, este Servicio estableció las especificaciones y formalidades que deben cumplir los certificados que deben emitir los donatarios que reciban donaciones relacionadas a incentivar la inclusión laboral de personas con discapacidad.
 
 ## SE RESUELVE:
 
-## 1Â° EXÃMESE a la entidad solicitante que se indica ,
+## 1° EXÍMESE a la entidad solicitante que se indica ,
 
-de la obligaciÃ³n de timbraje de los certificados que establece el artÃ­culo 46 del Decreto Ley NÂ° 3.063, de aÃ±o 1979, y el NÂ° 5 del artÃ­culo 1Â° de la Ley NÂ° 19.885, de 2003, y la ResoluciÃ³n Ex. SII NÂ° 112, de 2018, siempre y cuando cumpla todas las condiciones y requisitos establecidos en la presente ResoluciÃ³n.
+de la obligación de timbraje de los certificados que establece el artículo 46 del Decreto Ley N° 3.063, de año 1979, y el N° 5 del artículo 1° de la Ley N° 19.885, de 2003, y la Resolución Ex. SII N° 112, de 2018, siempre y cuando cumpla todas las condiciones y requisitos establecidos en la presente Resolución.
 
-## -SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA RUT NÂ° 82.130.300-1
+## -SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA RUT N° 82.130.300-1
 
-2Â° La entidad solicitante indicada en el resolutivo anterior, deberÃ¡ emitir los respectivos certificados, a travÃ©s de una aplicaciÃ³n informÃ¡tica, para lo cual deberÃ¡ dar cumplimiento a todos los requisitos establecidos en la presente ResoluciÃ³n.
+2° La entidad solicitante indicada en el resolutivo anterior, deberá emitir los respectivos certificados, a través de una aplicación informática, para lo cual deberá dar cumplimiento a todos los requisitos establecidos en la presente Resolución.
 
-Para estos efectos, deberÃ¡ presentar la DeclaraciÃ³n Jurada Formulario NÂ° 3230 denominada "DeclaraciÃ³n Jurada para Timbraje de Documentos y/o Libros" e informar en forma previa a su emisiÃ³n, los folios asignados a los certificados que serÃ¡n emitidos en el (los) periodo(s) respectivo(s). Dicha presentaciÃ³n podrÃ¡ realizarse en la oficina del Servicio de Impuestos Internos correspondiente a su domicilio, o a travÃ©s del ingreso por Internet de una peticiÃ³n administrativa de 'Solicitud de folios electrÃ³nicos y timbraje de documentos'.
+Para estos efectos, deberá presentar la Declaración Jurada Formulario N° 3230 denominada "Declaración Jurada para Timbraje de Documentos y/o Libros" e informar en forma previa a su emisión, los folios asignados a los certificados que serán emitidos en el (los) periodo(s) respectivo(s). Dicha presentación podrá realizarse en la oficina del Servicio de Impuestos Internos correspondiente a su domicilio, o a través del ingreso por Internet de una petición administrativa de 'Solicitud de folios electrónicos y timbraje de documentos'.
 
-3Â° Los certificados que la entidad solicitante emita a travÃ©s de la aplicaciÃ³n informÃ¡tica, deberÃ¡n ser diagramados y confeccionados de acuerdo al modelo de Certificado NÂ° 25, de conformidad a lo dispuesto en la ResoluciÃ³n Ex. SII NÂ° 31, de 01.03.2011, y de Certificado NÂ° 60, indicado en el Anexo NÂ° 1 de la ResoluciÃ³n Ex. SII NÂ° 112 de 11.12.2018, no siendo necesaria la impresiÃ³n de ejemplares o copias de estos certificados, si ellos son remitidos a sus destinatarios en forma electrÃ³nica.
+3° Los certificados que la entidad solicitante emita a través de la aplicación informática, deberán ser diagramados y confeccionados de acuerdo al modelo de Certificado N° 25, de conformidad a lo dispuesto en la Resolución Ex. SII N° 31, de 01.03.2011, y de Certificado N° 60, indicado en el Anexo N° 1 de la Resolución Ex. SII N° 112 de 11.12.2018, no siendo necesaria la impresión de ejemplares o copias de estos certificados, si ellos son remitidos a sus destinatarios en forma electrónica.
 
-4Â° El sistema de emisiÃ³n y control de certificados que utilizarÃ¡ la entidad solicitante corresponderÃ¡ Ãºnicamente al autorizado por este Servicio, y deberÃ¡ cumplir con los siguientes requisitos:
+4° El sistema de emisión y control de certificados que utilizará la entidad solicitante corresponderá únicamente al autorizado por este Servicio, y deberá cumplir con los siguientes requisitos:
 
-* a) El sistema asignarÃ¡ a cada certificado un nÃºmero Ãºnico correlativo, a nivel nacional, que se iniciarÃ¡ a partir del folio informado y autorizado previamente por este Servicio, de acuerdo con lo indicado en el Considerando 2Â° de la presente ResoluciÃ³n. El nÃºmero serÃ¡ asignado automÃ¡ticamente cada vez que se emita un certificado, lo cual permitirÃ¡ validar que la numeraciÃ³n sea correlativa.
-* b) El sistema deberÃ¡ dejar constancia automÃ¡tica de los casos en que sea necesario emitir un nuevo certificado asociado a una donaciÃ³n previamente registrada, ya sea por error o cambio en las condiciones de la operaciÃ³n, en un reporte que detalle tal circunstancia.
-* c) Los certificados emitidos, deberÃ¡n contener la siguiente informaciÃ³n:
+* a) El sistema asignará a cada certificado un número único correlativo, a nivel nacional, que se iniciará a partir del folio informado y autorizado previamente por este Servicio, de acuerdo con lo indicado en el Considerando 2° de la presente Resolución. El número será asignado automáticamente cada vez que se emita un certificado, lo cual permitirá validar que la numeración sea correlativa.
+* b) El sistema deberá dejar constancia automática de los casos en que sea necesario emitir un nuevo certificado asociado a una donación previamente registrada, ya sea por error o cambio en las condiciones de la operación, en un reporte que detalle tal circunstancia.
+* c) Los certificados emitidos, deberán contener la siguiente información:
 
-1. c.1) IdentificaciÃ³n del certificado, de acuerdo al nÃºmero de la Ley a la cual se acoge la donaciÃ³n, con indicaciÃ³n de glosa descriptiva asociada.
-2. c.2) NÃºmero de folio del certificado.
-3. c.3) Ciudad de emisiÃ³n del certificado.
+1. c.1) Identificación del certificado, de acuerdo al número de la Ley a la cual se acoge la donación, con indicación de glosa descriptiva asociada.
+2. c.2) Número de folio del certificado.
+3. c.3) Ciudad de emisión del certificado.
 4. c.4) Fecha de otorgamiento del certificado.
-5. c.5) NÂ° de registro en el Ministerio de Desarrollo Social del Donatario, cuando corresponda.
-6. c.6) Nombre o RazÃ³n Social del Donatario.
-7. c.7) NÃºmero de Rol Ãšnico Tributario del Donatario.
+5. c.5) N° de registro en el Ministerio de Desarrollo Social del Donatario, cuando corresponda.
+6. c.6) Nombre o Razón Social del Donatario.
+7. c.7) Número de Rol Único Tributario del Donatario.
 8. c.8) Domicilio completo del Donatario.
 9. c.9) Nombre del Representante Legal del Donatario.
-10. c.10) NÃºmero de Rol Ãšnico Tributario del Representante Legal del Donatario.
-11. c.11) Nombre o RazÃ³n Social del Donante.
-12. c.12) NÃºmero de Rol Ãšnico Tributario del Donante.
+10. c.10) Número de Rol Único Tributario del Representante Legal del Donatario.
+11. c.11) Nombre o Razón Social del Donante.
+12. c.12) Número de Rol Único Tributario del Donante.
 13. c.13) Giro o Actividad Comercial que desarrolla el Donante.
 14. c.14) Domicilio Comercial completo del Donante.
 15. c.15) Nombre del Representante Legal del Donante.
-16. c.16) NÃºmero de Rol Ãšnico Tributario del Representante Legal del Donante.
-17. c.17) Cuando corresponda: IndicaciÃ³n de cumplimiento de la restricciÃ³n de relaciÃ³n patrimonial y/o participaciÃ³n en el directorio, entre el Donante y la instituciÃ³n Donataria, segÃºn sea el Donante persona natural o jurÃ­dica, de acuerdo a lo establecido por el NÂ° 3 del artÃ­culo 157 Ter, del CÃ³digo del Trabajo.
-18. c.18) Destino de la DonaciÃ³n, con indicaciÃ³n de CÃ³digo de proyecto asignado por el Ministerio de Desarrollo Social y nombre asignado al proyecto, en caso de corresponder.
-19. c.19) Monto en pesos de la DonaciÃ³n y su equivalencia en Unidades Tributarias Mensuales o Ingresos MÃ­nimos, segÃºn corresponda.
-20. c.20) Fecha en que se efectÃºa la DonaciÃ³n.
+16. c.16) Número de Rol Único Tributario del Representante Legal del Donante.
+17. c.17) Cuando corresponda: Indicación de cumplimiento de la restricción de relación patrimonial y/o participación en el directorio, entre el Donante y la institución Donataria, según sea el Donante persona natural o jurídica, de acuerdo a lo establecido por el N° 3 del artículo 157 Ter, del Código del Trabajo.
+18. c.18) Destino de la Donación, con indicación de Código de proyecto asignado por el Ministerio de Desarrollo Social y nombre asignado al proyecto, en caso de corresponder.
+19. c.19) Monto en pesos de la Donación y su equivalencia en Unidades Tributarias Mensuales o Ingresos Mínimos, según corresponda.
+20. c.20) Fecha en que se efectúa la Donación.
 21. c.21) Observaciones.
 
-* d) Los cambios que se efectÃºen al sistema que impliquen una modificaciÃ³n de la informaciÃ³n, deberÃ¡n ser comunicados al Servicio de Impuestos Internos con la debida anticipaciÃ³n, antes de su implementaciÃ³n.
+* d) Los cambios que se efectúen al sistema que impliquen una modificación de la información, deberán ser comunicados al Servicio de Impuestos Internos con la debida anticipación, antes de su implementación.
 
-5Â° Sin perjuicio de la eximiciÃ³n del trÃ¡mite de timbraje efectuada por la presente ResoluciÃ³n, este Servicio podrÃ¡ autorizar el timbraje fÃ­sico de certificados de donaciones, para ser usados manualmente por la entidad solicitante, los cuales se diferenciarÃ¡n de los folios electrÃ³nicos de acuerdo al rango otorgado.
+5° Sin perjuicio de la eximición del trámite de timbraje efectuada por la presente Resolución, este Servicio podrá autorizar el timbraje físico de certificados de donaciones, para ser usados manualmente por la entidad solicitante, los cuales se diferenciarán de los folios electrónicos de acuerdo al rango otorgado.
 
-6 Â° El procedimiento establecido en la presente ResoluciÃ³n no exime a la entidad solicitante de la obligaciÃ³n de mantener los certificados emitidos, por un plazo de 6 aÃ±os, contados desde su emisiÃ³n, los cuales deberÃ¡n estar a disposiciÃ³n de este Servicio, en el caso de ser requeridos.
+6 ° El procedimiento establecido en la presente Resolución no exime a la entidad solicitante de la obligación de mantener los certificados emitidos, por un plazo de 6 años, contados desde su emisión, los cuales deberán estar a disposición de este Servicio, en el caso de ser requeridos.
 
-Asimismo, estos certificados podrÃ¡n ser consultados y cotejados por este Servicio, mediante el sistema informÃ¡tico de acceso y consulta remota, el que podrÃ¡ ser utilizado en el marco de las atribuciones propias de este organismo.
+Asimismo, estos certificados podrán ser consultados y cotejados por este Servicio, mediante el sistema informático de acceso y consulta remota, el que podrá ser utilizado en el marco de las atribuciones propias de este organismo.
 
-7Â° El Servicio de Impuestos Internos podrÃ¡ revocar la autorizaciÃ³n otorgada si:
+7° El Servicio de Impuestos Internos podrá revocar la autorización otorgada si:
 
-* a) No se da cumplimiento a las obligaciones que se establecen en esta ResoluciÃ³n.
+* a) No se da cumplimiento a las obligaciones que se establecen en esta Resolución.
 * b) Se presenta un incumplimiento continuado de obligaciones tributarias.
-* c) Se incurre en la utilizaciÃ³n maliciosa del sistema establecido en esta ResoluciÃ³n, sin perjuicio de que sea sancionado conforme lo dispuesto en los artÃ­culos 97 Ã³ 109 del CÃ³digo Tributario, segÃºn corresponda.
+* c) Se incurre en la utilización maliciosa del sistema establecido en esta Resolución, sin perjuicio de que sea sancionado conforme lo dispuesto en los artículos 97 ó 109 del Código Tributario, según corresponda.
 
-8Â° DELÃ‰GASE , en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la ResoluciÃ³n, por la que se revoque la presente autorizaciÃ³n en los casos seÃ±alados en el resolutivo precedente. Dicha ResoluciÃ³n se publicarÃ¡, en extracto, en el Diario Oficial y se notificarÃ¡ a la instituciÃ³n conforme a las reglas generales.
+8° DELÉGASE , en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la Resolución, por la que se revoque la presente autorización en los casos señalados en el resolutivo precedente. Dicha Resolución se publicará, en extracto, en el Diario Oficial y se notificará a la institución conforme a las reglas generales.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EL DIARIO OFICIAL EN EXTRACTO
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EL DIARIO OFICIAL EN EXTRACTO
 
 <unknown>
 
@@ -99,7 +100,7 @@ ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EL DIARIO OFICIAL EN EXTRACTO
 
 PMR/CAB/RGV/OBA/mpm
 
-## DISTRIBUCIÃ“N
+## DISTRIBUCIÓN
 
 ## :
 

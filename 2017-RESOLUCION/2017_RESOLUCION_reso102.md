@@ -1,82 +1,83 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 102 (2017)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 102 (2017)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-ESTABLECE FORMA Y PLAZO PARA QUE LOS CONTRIBUYENTES QUE TRIBUTEN CONFORME A LAS NORMAS DEL ARTÃCULO 14 LETRA C) NÂ° 1 (CONTABILIDAD SIMPLIFICADA, PLANILLAS Y CONTRATOS), Y NÂ° 2 Y 34 (RENTA PRESUNTA), DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR) ENTREGUEN Y CERTIFIQUEN LA INFORMACIÃ“N QUE SE DETALLA.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+ESTABLECE FORMA Y PLAZO PARA QUE LOS CONTRIBUYENTES QUE TRIBUTEN CONFORME A LAS NORMAS DEL ARTÍCULO 14 LETRA C) N° 1 (CONTABILIDAD SIMPLIFICADA, PLANILLAS Y CONTRATOS), Y N° 2 Y 34 (RENTA PRESUNTA), DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR) ENTREGUEN Y CERTIFIQUEN LA INFORMACIÓN QUE SE DETALLA.
 
 ## SANTIAGO, 13 DE OCTUBRE 2017
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ° 102.-/
+RESOLUCIÓN EX. SII N° 102.-/
 
-VISTOS : Lo dispuesto en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7 del Ministerio de Hacienda, de 1980; lo establecido en los artÃ­culos 6Â° letra A NÂ°1, 34, 35 y 63 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en la letra C) del artÃ­culo 14 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ°824, de 1974 y las disposiciones contenidas en la Ley NÂ° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley NÂ° 20.899 publicada en el Diario Oficial el 08.02.2016.
+VISTOS : Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 del Ministerio de Hacienda, de 1980; lo establecido en los artículos 6° letra A N°1, 34, 35 y 63 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en la letra C) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N°824, de 1974 y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899 publicada en el Diario Oficial el 08.02.2016.
 
 ## CONSIDERANDO :
 
-1Â° Que, la Ley NÂ° 20.780, sobre Reforma Tributaria, modificada por artÃ­culo 8Â° de la Ley NÂ° 20.899, incorporÃ³ una serie de modificaciones en el texto de la Ley de la Renta (en adelante LIR).
+1° Que, la Ley N° 20.780, sobre Reforma Tributaria, modificada por artículo 8° de la Ley N° 20.899, incorporó una serie de modificaciones en el texto de la Ley de la Renta (en adelante LIR).
 
-2Â° Que, una de las modificaciones introducidas a dicho texto legal, con vigencia a partir del 1 de enero de 2017, dice relaciÃ³n con la forma en que deberÃ¡n tributar los propietarios, comuneros, cooperados, socios o accionistas, cuando las empresas o sociedades de las que son propietarios o en las que participan como socios, cooperados, comuneros o accionistas, determinen sus rentas en conformidad a lo establecido en los nÃºmeros 1 o 2, de la letra C), del artÃ­culo 14 de la LIR.
+2° Que, una de las modificaciones introducidas a dicho texto legal, con vigencia a partir del 1 de enero de 2017, dice relación con la forma en que deberán tributar los propietarios, comuneros, cooperados, socios o accionistas, cuando las empresas o sociedades de las que son propietarios o en las que participan como socios, cooperados, comuneros o accionistas, determinen sus rentas en conformidad a lo establecido en los números 1 o 2, de la letra C), del artículo 14 de la LIR.
 
-3Â° Que, de acuerdo a lo establecido por el nÃºmero 1 de la letra C) del artÃ­culo 14 de la LIR, las rentas percibidas o devengadas por contribuyentes que declaren rentas efectivas en la primera categorÃ­a y que no las determinen sobre la base de un balance general segÃºn contabilidad completa, incluyendo las rentas, que se les atribuyan o perciban en conformidad al mismo artÃ­culo 14, por participaciones en sociedades que determinen en igual forma su renta imponible, o la determinen sobre la base de contabilidad completa, o se encuentren acogidos a lo dispuesto en el artÃ­culo 14 ter letra A), se gravarÃ¡n respecto del empresario individual, socio, comunero o accionista, con el impuesto global complementario o adicional, en el mismo ejercicio al que correspondan, atribuyÃ©ndose en la forma establecida en los nÃºmeros 2.- y 3.- de la letra A) del artÃ­culo 14 de la LIR.
+3° Que, de acuerdo a lo establecido por el número 1 de la letra C) del artículo 14 de la LIR, las rentas percibidas o devengadas por contribuyentes que declaren rentas efectivas en la primera categoría y que no las determinen sobre la base de un balance general según contabilidad completa, incluyendo las rentas, que se les atribuyan o perciban en conformidad al mismo artículo 14, por participaciones en sociedades que determinen en igual forma su renta imponible, o la determinen sobre la base de contabilidad completa, o se encuentren acogidos a lo dispuesto en el artículo 14 ter letra A), se gravarán respecto del empresario individual, socio, comunero o accionista, con el impuesto global complementario o adicional, en el mismo ejercicio al que correspondan, atribuyéndose en la forma establecida en los números 2.- y 3.- de la letra A) del artículo 14 de la LIR.
 
-4Â° Que, conforme a lo dispuesto por el nÃºmero 2 del artÃ­culo 14 letra C) de la LIR, las rentas presuntas se afectarÃ¡n con los impuestos de primera categorÃ­a y global complementario o adicional, en el mismo ejercicio al que correspondan, atribuyÃ©ndose al cierre de aquÃ©l, atribuciÃ³n que en el caso de las sociedades y comunidades se efectuarÃ¡ en la forma establecida en las letras a) o b), del nÃºmero 3, de la letra A) del artÃ­culo 14 de la LIR, y en proporciÃ³n a sus respectivas cuotas en el bien de que se trate, segÃºn corresponda.
+4° Que, conforme a lo dispuesto por el número 2 del artículo 14 letra C) de la LIR, las rentas presuntas se afectarán con los impuestos de primera categoría y global complementario o adicional, en el mismo ejercicio al que correspondan, atribuyéndose al cierre de aquél, atribución que en el caso de las sociedades y comunidades se efectuará en la forma establecida en las letras a) o b), del número 3, de la letra A) del artículo 14 de la LIR, y en proporción a sus respectivas cuotas en el bien de que se trate, según corresponda.
 
-5Â° Que, en el nÃºmero 2, de la letra A) del artÃ­culo 14 de la LIR, se establece la forma de determinar el monto de la renta o cantidad atribuible afecta a los impuestos global complementario o adicional y el crÃ©dito establecido en los artÃ­culos 56, nÃºmero 3) y 63 de la LIR que les corresponde a los propietarios, socios, accionistas, comuneros, y cooperados sobre dichas rentas.
+5° Que, en el número 2, de la letra A) del artículo 14 de la LIR, se establece la forma de determinar el monto de la renta o cantidad atribuible afecta a los impuestos global complementario o adicional y el crédito establecido en los artículos 56, número 3) y 63 de la LIR que les corresponde a los propietarios, socios, accionistas, comuneros, y cooperados sobre dichas rentas.
 
-6Â° Que, conforme a lo seÃ±alado en la letra a), del nÃºmero 3, de la letra A) del artÃ­culo 14 de la LIR, la atribuciÃ³n de las rentas deberÃ¡ efectuarse en la forma que los socios, comuneros o accionistas hayan acordado repartir sus utilidades siempre y cuando se haya dejado expresa constancia del acuerdo respectivo o de la forma de distribuciÃ³n en el contrato social, los estatutos o, en el caso de las comunidades, en una escritura pÃºblica, debiendo informarse esto al Servicio, de acuerdo a lo establecido en el nÃºmero 6.- de la letra A) del artÃ­culo 14 de la LIR.
+6° Que, conforme a lo señalado en la letra a), del número 3, de la letra A) del artículo 14 de la LIR, la atribución de las rentas deberá efectuarse en la forma que los socios, comuneros o accionistas hayan acordado repartir sus utilidades siempre y cuando se haya dejado expresa constancia del acuerdo respectivo o de la forma de distribución en el contrato social, los estatutos o, en el caso de las comunidades, en una escritura pública, debiendo informarse esto al Servicio, de acuerdo a lo establecido en el número 6.- de la letra A) del artículo 14 de la LIR.
 
-7Â° Que, de acuerdo a lo indicado en la letra b), del nÃºmero 3, de la letra A) del artÃ­culo 14 de la LIR, en caso que no resulten aplicables las reglas seÃ±aladas en el considerando anterior, la atribuciÃ³n de las rentas se efectuarÃ¡ en la misma proporciÃ³n en que los socios o accionistas hayan suscrito y pagado o enterado efectivamente el capital de la sociedad, negocio o empresa. Cuando se hubiere enterado solo una parte del capital, la atribuciÃ³n total de la renta se efectuarÃ¡ considerando la parte efectivamente enterada. Si no se hubiere enterado capital, la atribuciÃ³n se efectuarÃ¡ en la proporciÃ³n en que Ã©ste se hubiere suscrito. En los casos de empresarios individuales, empresas individuales de responsabilidad limitada y contribuyentes del nÃºmero 1), del artÃ­culo 58, las rentas o cantidades se atribuirÃ¡n en su totalidad a los empresarios o contribuyentes respectivos. En el caso de los comuneros serÃ¡ en proporciÃ³n a su cuota o parte en el bien de que se trate. Estas circunstancias tambiÃ©n deberÃ¡n ser informadas al Servicio, en los tÃ©rminos del nÃºmero 6.- de la letra A) del artÃ­culo 14 de la LIR.
+7° Que, de acuerdo a lo indicado en la letra b), del número 3, de la letra A) del artículo 14 de la LIR, en caso que no resulten aplicables las reglas señaladas en el considerando anterior, la atribución de las rentas se efectuará en la misma proporción en que los socios o accionistas hayan suscrito y pagado o enterado efectivamente el capital de la sociedad, negocio o empresa. Cuando se hubiere enterado solo una parte del capital, la atribución total de la renta se efectuará considerando la parte efectivamente enterada. Si no se hubiere enterado capital, la atribución se efectuará en la proporción en que éste se hubiere suscrito. En los casos de empresarios individuales, empresas individuales de responsabilidad limitada y contribuyentes del número 1), del artículo 58, las rentas o cantidades se atribuirán en su totalidad a los empresarios o contribuyentes respectivos. En el caso de los comuneros será en proporción a su cuota o parte en el bien de que se trate. Estas circunstancias también deberán ser informadas al Servicio, en los términos del número 6.- de la letra A) del artículo 14 de la LIR.
 
-8Â° Que, en virtud de lo dispuesto en el inciso final del nÃºmero 6, de la letra A) del artÃ­culo 14 de la LIR, los contribuyentes estarÃ¡n obligados a informar y certificar a sus propietarios, comuneros, socios y accionistas, el monto de las rentas o cantidades que se les atribuyan, retiren, les sean remesadas o les distribuyan, asÃ­ como el crÃ©dito que establecen los artÃ­culos 56, nÃºmero 3), y 63 de la LIR, y si el excedente que se determine puede ser objeto de devoluciÃ³n o no a contribuyentes del impuesto global complementario, y el incremento seÃ±alado en los artÃ­culos 54, 58 y 62, de este mismo texto legal.
+8° Que, en virtud de lo dispuesto en el inciso final del número 6, de la letra A) del artículo 14 de la LIR, los contribuyentes estarán obligados a informar y certificar a sus propietarios, comuneros, socios y accionistas, el monto de las rentas o cantidades que se les atribuyan, retiren, les sean remesadas o les distribuyan, así como el crédito que establecen los artículos 56, número 3), y 63 de la LIR, y si el excedente que se determine puede ser objeto de devolución o no a contribuyentes del impuesto global complementario, y el incremento señalado en los artículos 54, 58 y 62, de este mismo texto legal.
 
 ## SE RESUELVE :
 
-1Â° Los contribuyentes que declaren rentas efectivas en la primera categorÃ­a y que no las determinen sobre la base de un balance general segÃºn contabilidad completa , deberÃ¡n presentar al Servicio de Impuestos Internos, hasta el 15 de marzo de cada aÃ±o o dÃ­a hÃ¡bil siguiente, una declaraciÃ³n jurada con la determinaciÃ³n de la Renta LÃ­quida Imponible de Primera CategorÃ­a o PÃ©rdida Tributaria, con detalle de ingresos, costos, gastos o remuneraciones. AdemÃ¡s, deberÃ¡n informar la regla de atribuciÃ³n utilizada, y respecto de cada uno de sus socios, comuneros o accionistas, su RUT, proporciÃ³n y monto de la renta atribuida y el monto del crÃ©dito por concepto de impuesto de primera categorÃ­a con y sin derecho a devoluciÃ³n que le corresponde a la renta atribuida.
+1° Los contribuyentes que declaren rentas efectivas en la primera categoría y que no las determinen sobre la base de un balance general según contabilidad completa , deberán presentar al Servicio de Impuestos Internos, hasta el 15 de marzo de cada año o día hábil siguiente, una declaración jurada con la determinación de la Renta Líquida Imponible de Primera Categoría o Pérdida Tributaria, con detalle de ingresos, costos, gastos o remuneraciones. Además, deberán informar la regla de atribución utilizada, y respecto de cada uno de sus socios, comuneros o accionistas, su RUT, proporción y monto de la renta atribuida y el monto del crédito por concepto de impuesto de primera categoría con y sin derecho a devolución que le corresponde a la renta atribuida.
 
-2Â° Por su parte, aquellos contribuyentes que tributen segÃºn el RÃ©gimen de Renta Presunta, tambiÃ©n deberÃ¡n presentar la declaraciÃ³n jurada que se indicÃ³ en el resolutivo anterior, detallando la misma informaciÃ³n, ademÃ¡s de seÃ±alar los retiros o distribuciones efectuadas que exceden los montos atribuidos a sus propietarios, socios, comuneros, accionistas, cooperados o comuneros.
+2° Por su parte, aquellos contribuyentes que tributen según el Régimen de Renta Presunta, también deberán presentar la declaración jurada que se indicó en el resolutivo anterior, detallando la misma información, además de señalar los retiros o distribuciones efectuadas que exceden los montos atribuidos a sus propietarios, socios, comuneros, accionistas, cooperados o comuneros.
 
-3Â° La informaciÃ³n antes seÃ±alada deberÃ¡ proporcionarse en el Formulario NÂ° 1943 denominado 'DeclaraciÃ³n Jurada anual de contribuyentes acogidos a las normas de los artÃ­culos 14 letra C) NÂ° 1 (Contabilidad Simplificada, planillas y contratos), 14 letra C) NÂ° 2 y 34 (Renta presunta), de la Ley sobre Impuesto a la Renta'.
+3° La información antes señalada deberá proporcionarse en el Formulario N° 1943 denominado 'Declaración Jurada anual de contribuyentes acogidos a las normas de los artículos 14 letra C) N° 1 (Contabilidad Simplificada, planillas y contratos), 14 letra C) N° 2 y 34 (Renta presunta), de la Ley sobre Impuesto a la Renta'.
 
-4Â° Los contribuyentes a que se refiere la presente resoluciÃ³n, exceptuados los empresarios individuales, deberÃ¡n, asimismo, informar y certificar a sus respectivos propietarios, cooperados, comuneros, socios y accionistas, el monto de las rentas o cantidades indicadas a que se refiere la declaraciÃ³n jurada indicada, mediante los Certificados NÂ° 57 y NÂ° 58, en base a la informaciÃ³n proporcionada por el propio contribuyente, cuyos formatos se encuentran adjuntos a la presente resoluciÃ³n. Los referidos certificados se deberÃ¡n emitir hasta el 30 de abril de cada aÃ±o.
+4° Los contribuyentes a que se refiere la presente resolución, exceptuados los empresarios individuales, deberán, asimismo, informar y certificar a sus respectivos propietarios, cooperados, comuneros, socios y accionistas, el monto de las rentas o cantidades indicadas a que se refiere la declaración jurada indicada, mediante los Certificados N° 57 y N° 58, en base a la información proporcionada por el propio contribuyente, cuyos formatos se encuentran adjuntos a la presente resolución. Los referidos certificados se deberán emitir hasta el 30 de abril de cada año.
 
-5Â° El retardo u omisiÃ³n en la presentaciÃ³n de la declaraciÃ³n jurada a que se refiere esta ResoluciÃ³n, se sancionarÃ¡ de acuerdo a lo dispuesto en el NÂº 1 del artÃ­culo 97 del CÃ³digo Tributario. Asimismo, la presentaciÃ³n de la declaraciÃ³n seÃ±alada en forma incompleta o errÃ³nea, serÃ¡ sancionada de acuerdo al artÃ­culo 109 del mismo texto legal.
+5° El retardo u omisión en la presentación de la declaración jurada a que se refiere esta Resolución, se sancionará de acuerdo a lo dispuesto en el Nº 1 del artículo 97 del Código Tributario. Asimismo, la presentación de la declaración señalada en forma incompleta o errónea, será sancionada de acuerdo al artículo 109 del mismo texto legal.
 
-6Â° La emisiÃ³n de certificados en los mismos tÃ©rminos indicados en el Resolutivo precedente se sancionarÃ¡ de acuerdo a lo previsto en el artÃ­culo 109 del CÃ³digo Tributario;
+6° La emisión de certificados en los mismos términos indicados en el Resolutivo precedente se sancionará de acuerdo a lo previsto en el artículo 109 del Código Tributario;
 
-7Â° Los Anexos de esta ResoluciÃ³n, forman parte Ã­ntegra de ella, y se publicarÃ¡n oportunamente en la pÃ¡gina web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+7° Los Anexos de esta Resolución, forman parte íntegra de ella, y se publicarán oportunamente en la página web de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Toda modificaciÃ³n a los anexos antes aludidos, se efectuarÃ¡ mediante su oportuna publicaciÃ³n en la pÃ¡gina web de este Servicio.
+Toda modificación a los anexos antes aludidos, se efectuará mediante su oportuna publicación en la página web de este Servicio.
 
-8Â° La presente ResoluciÃ³n regirÃ¡ a partir del AÃ±o Tributario 2018, respecto de la informaciÃ³n correspondiente al aÃ±o calendario 2017 y siguientes.
+8° La presente Resolución regirá a partir del Año Tributario 2018, respecto de la información correspondiente al año calendario 2017 y siguientes.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## Anexos:
 
-Anexo NÂ° 1: Formato Formulario NÂ° 1943 'DeclaraciÃ³n Jurada Anual de contribuyentes acogidos a las normas de los artÃ­culos 14 letra C) NÂ° 1 (Contabilidad Simplificada, planillas y contratos), 14 letra C) NÂ° 2 y 34 (Renta presunta), de la Ley sobre Impuesto a la Renta'.
+Anexo N° 1: Formato Formulario N° 1943 'Declaración Jurada Anual de contribuyentes acogidos a las normas de los artículos 14 letra C) N° 1 (Contabilidad Simplificada, planillas y contratos), 14 letra C) N° 2 y 34 (Renta presunta), de la Ley sobre Impuesto a la Renta'.
 
-Anexo NÂ° 2: Instrucciones para la confecciÃ³n de la DeclaraciÃ³n Jurada NÂ° 1943.
+Anexo N° 2: Instrucciones para la confección de la Declaración Jurada N° 1943.
 
-Anexo NÂ° 3: Formatos de Certificado NÂ° 57 sobre atribuciÃ³n de rentas segÃºn contabilidad simplificada, planillas o contratos.
+Anexo N° 3: Formatos de Certificado N° 57 sobre atribución de rentas según contabilidad simplificada, planillas o contratos.
 
-Anexo NÂ° 4: Instrucciones de llenado de Certificado NÂ° 57 sobre atribuciÃ³n de rentas segÃºn contabilidad simplificada, planillas o contratos.
+Anexo N° 4: Instrucciones de llenado de Certificado N° 57 sobre atribución de rentas según contabilidad simplificada, planillas o contratos.
 
-Anexo NÂ° 5: Formatos de Certificado NÂ° 58 sobre renta atribuida por renta presunta.
+Anexo N° 5: Formatos de Certificado N° 58 sobre renta atribuida por renta presunta.
 
-Anexo NÂ° 6: Instrucciones de llenado de Certificado NÂ° 58 sobre renta atribuida por renta presunta.
+Anexo N° 6: Instrucciones de llenado de Certificado N° 58 sobre renta atribuida por renta presunta.
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## VVM/CGG/GMV/KKC/crm DISTRIBUCIÃ“N:
+## VVM/CGG/GMV/KKC/crm DISTRIBUCIÓN:
 
-* Al BoletÃ­n.
+* Al Boletín.
 * A Internet.
 * Al Diario Oficial, en extracto.

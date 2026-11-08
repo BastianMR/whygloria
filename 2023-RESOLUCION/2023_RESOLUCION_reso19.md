@@ -1,111 +1,112 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 19 (2023)
-description: RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. NÂ°4, DE 2023, COMPLEMENTADA POR LA RES. EX. NÂ° 12, DEL 2023.
+---
+type: "SII Resolución"
+title: "Resolución N° 19 (2023)"
+description: "RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023."
 tags: [SII, 2023, resolucion]
 ---
 
-RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. NÂ°4, DE 2023, COMPLEMENTADA POR LA RES. EX. NÂ° 12, DEL 2023.
 
-SANTIAGO, 22 DE FEBRERO DE 2023 RESOLUCIÃ“N EX. SII NÂ° 19.-
+RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023.
+
+SANTIAGO, 22 DE FEBRERO DE 2023 RESOLUCIÓN EX. SII N° 19.-
 
 ## VISTOS:
 
-Lo dispuesto en el artÃ­culo 42 de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del DLF NÂ° 7, de 1980, del Ministerio de Hacienda; las Resoluciones Exentas NÂ°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente; el artÃ­culo 12Â°, letra a), del Decreto Ley NÂ°3.063, de 1979, sobre Rentas Municipales; y la ResoluciÃ³n Exenta NÂ° 4, del 16 de enero del 2023 complementada por la ResoluciÃ³n Exenta NÂ° 12, del 08 de febrero del 2023,
+Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DLF N° 7, de 1980, del Ministerio de Hacienda; las Resoluciones Exentas N°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente; el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales; y la Resolución Exenta N° 4, del 16 de enero del 2023 complementada por la Resolución Exenta N° 12, del 08 de febrero del 2023,
 
 ## CONSIDERANDO:
 
-1.- Que con fecha 16 de enero de 2023, se dictÃ³ la ResoluciÃ³n Exenta SII NÂ°04, que fija lista de valores de vehÃ­culos motorizados para los fines que seÃ±ala.
+1.- Que con fecha 16 de enero de 2023, se dictó la Resolución Exenta SII N°04, que fija lista de valores de vehículos motorizados para los fines que señala.
 
-2.- Que con fecha 08 de febrero de 2023, se dictÃ³ la ResoluciÃ³n Exenta SII NÂ°12, que complementa lista de valores de vehÃ­culos motorizados para los fines que seÃ±ala.
+2.- Que con fecha 08 de febrero de 2023, se dictó la Resolución Exenta SII N°12, que complementa lista de valores de vehículos motorizados para los fines que señala.
 
-3.- Que, se hace necesario rectificar parte del contenido de la lista anexa de la citada ResoluciÃ³n Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P-, [<u>www.emol.com</u>](http://www.emol.com), y el Servicio de Impuestos Internos, sii.cl.
+3.- Que, se hace necesario rectificar parte del contenido de la lista anexa de la citada Resolución Exenta, publicada en los sitios Web de la Empresa El Mercurio S.A.P-, [<u>www.emol.com</u>](http://www.emol.com), y el Servicio de Impuestos Internos, sii.cl.
 
 ## SE RESUELVE:
 
-RectifÃ­case la lista anexa en el modo que se indica, de la ResoluciÃ³n Exenta SII NÂ° 04, de fecha 16 de enero de 2023, complementada por la ResoluciÃ³n Exenta NÂ° 12, del 08 de febrero del 2023, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo NÂ°1, que contemplan cambios en las exenciones aplicadas para la ley de electromovilidad 21.505.
+Rectifícase la lista anexa en el modo que se indica, de la Resolución Exenta SII N° 04, de fecha 16 de enero de 2023, complementada por la Resolución Exenta N° 12, del 08 de febrero del 2023, en el sentido de incorporar las omisiones y realizar las modificaciones detalladas en el Anexo N°1, que contemplan cambios en las exenciones aplicadas para la ley de electromovilidad 21.505.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
 SUBDIRECTORA DE AVALUACIONES
 
-| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **Marchas TracciÃ³n** | **PaÃ­s** |
+| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas Tracción** | **País** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SD0320618 | 2021 | SedÃ¡n | BMW | 330 | E SPORT | 4 | 2 | 180 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | ALEMANIA |
-| SD0320618 | 2022 | SedÃ¡n | BMW | 330 | E SPORT | 4 | 2 | 180 | Bencina | Automatica | 8 4x2 (2WD) | ALEMANIA |
-| SD0320595 | 2021 | SedÃ¡n | BMW | I8 | ROADSTER ACCARO | 2 | 1.5 | 362 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | ALEMANIA |
-| SU0320306 | 2021 | Suv | BMW | X3 | XDRIVE30E EXECUTIVE | 5 | 2 | 184 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |
-| SD0760029 | 2021 | SedÃ¡n | FERRARI | SF90 | STRADALE | 2 | 4 | 1.000 | Bencina | AutomÃ¡tica | 8 4x2 (2WD) | ITALIA |
-| SD0760029 | 2022 | SedÃ¡n | FERRARI | SF90 | STRADALE | 2 | 4 | 1.000 | Bencina | Automatica | 8 4x2 (2WD) | ITALIA |
+| SD0320618 | 2021 | Sedán | BMW | 330 | E SPORT | 4 | 2 | 180 | Bencina | Automática | 8 4x2 (2WD) | ALEMANIA |
+| SD0320618 | 2022 | Sedán | BMW | 330 | E SPORT | 4 | 2 | 180 | Bencina | Automatica | 8 4x2 (2WD) | ALEMANIA |
+| SD0320595 | 2021 | Sedán | BMW | I8 | ROADSTER ACCARO | 2 | 1.5 | 362 | Bencina | Automática | 8 4x2 (2WD) | ALEMANIA |
+| SU0320306 | 2021 | Suv | BMW | X3 | XDRIVE30E EXECUTIVE | 5 | 2 | 184 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |
+| SD0760029 | 2021 | Sedán | FERRARI | SF90 | STRADALE | 2 | 4 | 1.000 | Bencina | Automática | 8 4x2 (2WD) | ITALIA |
+| SD0760029 | 2022 | Sedán | FERRARI | SF90 | STRADALE | 2 | 4 | 1.000 | Bencina | Automatica | 8 4x2 (2WD) | ITALIA |
 | SU0990038 | 2022 | Suv | HAVAL | H6 | 3GEN 1.5T AT 2WD ELITE HEV | 4 | 1.5 | 240 | Hibrido | Automatica | 3 4x2 (2WD) | CHINA |
-| HB1110181 | 2021 | Hatchback | HYUNDAI | IONIQ | EV GLS | 4 | 1.6 |  | ElÃ©ctrico | AutomÃ¡tica |  |  |
+| HB1110181 | 2021 | Hatchback | HYUNDAI | IONIQ | EV GLS | 4 | 1.6 |  | Eléctrico | Automática |  |  |
 | HB1110181 | 2022 | Hatchback | HYUNDAI | IONIQ | EV GLS | 4 | 1.6 |  | Electrico | Automatica |  |  |
-| HB1430010 | 2021 | Hatchback | LEXUS | UX250H | 4X2 CVT | 4 | 2 | 107 | ElÃ©ctrico | AutomÃ¡tica | 0 4x2 (2WD) | JAPÃ“N |
-| HB1430010 | 2022 | Hatchback | LEXUS | UX250H | 4X2 CVT | 4 | 2 | 107 | Electrico | Automatica | 0 4x2 (2WD) | JAPÃ“N |
-| HB1430009 | 2021 | Hatchback | LEXUS | UX250H | 4X2 TA | 4 | 2 | 107 | ElÃ©ctrico | AutomÃ¡tica | 0 4x2 (2WD) | JAPÃ“N |
-| HB1430009 | 2022 | Hatchback | LEXUS | UX250H | 4X2 TA | 4 | 2 | 107 | Electrico | Automatica | 0 4x2 (2WD) | JAPÃ“N |
-| HB1430012 | 2021 | Hatchback | LEXUS | UX250H | 4X4 CVT | 4 | 2 | 107 | ElÃ©ctrico | AutomÃ¡tica | 0 4x4 (AWD) | JAPÃ“N |
-| HB1430012 | 2022 | Hatchback | LEXUS | UX250H | 4X4 CVT | 4 | 2 | 107 | Electrico | Automatica | 0 4x4 (AWD) | JAPÃ“N |
-| HB1430011 | 2021 | Hatchback | LEXUS | UX250H | 4X4 TA | 4 | 2 | 107 | ElÃ©ctrico | AutomÃ¡tica | 0 4x4 (AWD) | JAPÃ“N |
-| HB1430011 | 2022 | Hatchback | LEXUS | UX250H | 4X4 TA | 4 | 2 | 107 | Electrico | Automatica | 0 4x4 (AWD) | JAPÃ“N |
-| SU1660037 | 2021 | Suv | MITSUBISHI | OUTLANDER | PHEV | 4 | 2 | 119 | Bencina | AutomÃ¡tica | 7 4x2 y 4x4 | JAPÃ“N |
-| SU1660037 | 2022 | Suv | MITSUBISHI | OUTLANDER | PHEV | 4 | 2 | 119 | Bencina | Automatica | 7 4x2 y 4x4 | JAPÃ“N |
-| SU1920078 | 2021 | Suv | PORSCHE | CAYENNE | E-HYBRID COUPE E3 | 4 | 3 | 462 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |
+| HB1430010 | 2021 | Hatchback | LEXUS | UX250H | 4X2 CVT | 4 | 2 | 107 | Eléctrico | Automática | 0 4x2 (2WD) | JAPÓN |
+| HB1430010 | 2022 | Hatchback | LEXUS | UX250H | 4X2 CVT | 4 | 2 | 107 | Electrico | Automatica | 0 4x2 (2WD) | JAPÓN |
+| HB1430009 | 2021 | Hatchback | LEXUS | UX250H | 4X2 TA | 4 | 2 | 107 | Eléctrico | Automática | 0 4x2 (2WD) | JAPÓN |
+| HB1430009 | 2022 | Hatchback | LEXUS | UX250H | 4X2 TA | 4 | 2 | 107 | Electrico | Automatica | 0 4x2 (2WD) | JAPÓN |
+| HB1430012 | 2021 | Hatchback | LEXUS | UX250H | 4X4 CVT | 4 | 2 | 107 | Eléctrico | Automática | 0 4x4 (AWD) | JAPÓN |
+| HB1430012 | 2022 | Hatchback | LEXUS | UX250H | 4X4 CVT | 4 | 2 | 107 | Electrico | Automatica | 0 4x4 (AWD) | JAPÓN |
+| HB1430011 | 2021 | Hatchback | LEXUS | UX250H | 4X4 TA | 4 | 2 | 107 | Eléctrico | Automática | 0 4x4 (AWD) | JAPÓN |
+| HB1430011 | 2022 | Hatchback | LEXUS | UX250H | 4X4 TA | 4 | 2 | 107 | Electrico | Automatica | 0 4x4 (AWD) | JAPÓN |
+| SU1660037 | 2021 | Suv | MITSUBISHI | OUTLANDER | PHEV | 4 | 2 | 119 | Bencina | Automática | 7 4x2 y 4x4 | JAPÓN |
+| SU1660037 | 2022 | Suv | MITSUBISHI | OUTLANDER | PHEV | 4 | 2 | 119 | Bencina | Automatica | 7 4x2 y 4x4 | JAPÓN |
+| SU1920078 | 2021 | Suv | PORSCHE | CAYENNE | E-HYBRID COUPE E3 | 4 | 3 | 462 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |
 | SU1920078 | 2022 | Suv | PORSCHE | CAYENNE | E-HYBRID COUPE E3 | 4 | 3 | 462 | Bencina | Automatica | 8 4x4 (AWD) | ALEMANIA |
-| SU1920061 | 2021 | Suv | PORSCHE | CAYENNE | E-HYBRID E3 | 4 | 3 | 462 | Bencina | AutomÃ¡tica | 8 4x4 (AWD) | ALEMANIA |
+| SU1920061 | 2021 | Suv | PORSCHE | CAYENNE | E-HYBRID E3 | 4 | 3 | 462 | Bencina | Automática | 8 4x4 (AWD) | ALEMANIA |
 | SU1920061 | 2022 | Suv | PORSCHE | CAYENNE | E-HYBRID E3 | 4 | 3 | 462 | Bencina | Automatica | 8 4x4 (AWD) | ALEMANIA |
 
-| **SU2270540** | **2021** | **Suv** | **SUBARU** | **FORESTER 7335** | **FORESTER 2.0I HYBRID AWD CVT DYNAMIC ES** | **4** | **2.000** | **150** | **HÃ­brido** | **CVT** | **7** | **4x4 (AWD)** | **JAPÃ“N** |
+| **SU2270540** | **2021** | **Suv** | **SUBARU** | **FORESTER 7335** | **FORESTER 2.0I HYBRID AWD CVT DYNAMIC ES** | **4** | **2.000** | **150** | **Híbrido** | **CVT** | **7** | **4x4 (AWD)** | **JAPÓN** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SU2270540 | 2022 | Suv | SUBARU | FORESTER 7335 | FORESTER 2.0I HYBRID AWD CVT DYNAMIC ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| SU2270541 | 2021 | Suv | SUBARU | FORESTER 7340 | FORESTER 2.0I HYBRID AWD CVT LIMITED ES | 4 | 2 | 150 | HÃ­brido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| SU2270541 | 2022 | Suv | SUBARU | FORESTER 7340 | FORESTER 2.0I HYBRID AWD CVT LIMITED ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| SU2270560 | 2022 | Suv | SUBARU | XV | 2.0I HYBRID AWD CVT LIMITED EYESIGHT | 5 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| SU2270555 | 2021 | Suv | SUBARU | XV 5825 | XV 2.0I HYBRID CVT LIMITED ES | 4 | 2 | 150 | HÃ­brido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| SU2270555 | 2022 | Suv | SUBARU | XV 5825 | XV 2.0I HYBRID CVT LIMITED ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÃ“N |
-| HB2290197 | 2022 | Hatchback | SUZUKI | SWIFT | 1.2 SMART HYBRID | 4 | 1.2 | 88 | Hibrido | Mecanica | 5 | 4x2 (2WD) | JAPÃ“N |
-| SU2350156 | 2021 | Suv | TOYOTA | CH-R | LUXURY 1.8 4X2 CVT HV - CHR42HEVLUX | 5 | 1.8 | 122 | ElÃ©ctrico | AutomÃ¡tica | 7 | 4x2 (2WD) | TURQUÃA |
+| SU2270540 | 2022 | Suv | SUBARU | FORESTER 7335 | FORESTER 2.0I HYBRID AWD CVT DYNAMIC ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| SU2270541 | 2021 | Suv | SUBARU | FORESTER 7340 | FORESTER 2.0I HYBRID AWD CVT LIMITED ES | 4 | 2 | 150 | Híbrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| SU2270541 | 2022 | Suv | SUBARU | FORESTER 7340 | FORESTER 2.0I HYBRID AWD CVT LIMITED ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| SU2270560 | 2022 | Suv | SUBARU | XV | 2.0I HYBRID AWD CVT LIMITED EYESIGHT | 5 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| SU2270555 | 2021 | Suv | SUBARU | XV 5825 | XV 2.0I HYBRID CVT LIMITED ES | 4 | 2 | 150 | Híbrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| SU2270555 | 2022 | Suv | SUBARU | XV 5825 | XV 2.0I HYBRID CVT LIMITED ES | 4 | 2 | 150 | Hibrido | CVT | 7 | 4x4 (AWD) | JAPÓN |
+| HB2290197 | 2022 | Hatchback | SUZUKI | SWIFT | 1.2 SMART HYBRID | 4 | 1.2 | 88 | Hibrido | Mecanica | 5 | 4x2 (2WD) | JAPÓN |
+| SU2350156 | 2021 | Suv | TOYOTA | CH-R | LUXURY 1.8 4X2 CVT HV - CHR42HEVLUX | 5 | 1.8 | 122 | Eléctrico | Automática | 7 | 4x2 (2WD) | TURQUÍA |
 
-| **CÃ³digo SII** | **AÃ±o** | **Tipo** | **Marca** | **Modelo** | **VersiÃ³n** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **TransmisiÃ³n** | **Marchas** | **TracciÃ³n** | **PaÃ­s** |
+| **Código SII** | **Año** | **Tipo** | **Marca** | **Modelo** | **Versión** | **Puertas** | **Cilindrada (CC)** | **Potencia (HP)** | **Combustible** | **Transmisión** | **Marchas** | **Tracción** | **País** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SU2350156 | 2022 | Suv | TOYOTA | CH-R | LUXURY 1.8 4X2 CVT HV - CHR42HEVLUX | 5 | 1.8 | 122 | Electrico | Automatica | 7 | 4x2 (2WD) | TURQUÃA |
-| SD2350256 | 2021 | SedÃ¡n | TOYOTA | COROLLA | SEG 1.8 CVT HEV 18CVTHVSEG | 4 | 1.8 | 122 | ElÃ©ctrico | AutomÃ¡tica | 6 | 4x2 (2WD) | BRASIL |
-| SD2350256 | 2022 | SedÃ¡n | TOYOTA | COROLLA | SEG 1.8 CVT HEV 18CVTHVSEG | 4 | 1.8 | 122 | Electrico | Automatica | 6 | 4x2 (2WD) | BRASIL |
-| SU2350176 | 2021 | Suv | TOYOTA | COROLLA CROSS | 1.8 SEG CVT | 5 | 1.8 | 122 | HÃ­brido | CVT | 0 | 4x2 (2WD) | BRASIL |
+| SU2350156 | 2022 | Suv | TOYOTA | CH-R | LUXURY 1.8 4X2 CVT HV - CHR42HEVLUX | 5 | 1.8 | 122 | Electrico | Automatica | 7 | 4x2 (2WD) | TURQUÍA |
+| SD2350256 | 2021 | Sedán | TOYOTA | COROLLA | SEG 1.8 CVT HEV 18CVTHVSEG | 4 | 1.8 | 122 | Eléctrico | Automática | 6 | 4x2 (2WD) | BRASIL |
+| SD2350256 | 2022 | Sedán | TOYOTA | COROLLA | SEG 1.8 CVT HEV 18CVTHVSEG | 4 | 1.8 | 122 | Electrico | Automatica | 6 | 4x2 (2WD) | BRASIL |
+| SU2350176 | 2021 | Suv | TOYOTA | COROLLA CROSS | 1.8 SEG CVT | 5 | 1.8 | 122 | Híbrido | CVT | 0 | 4x2 (2WD) | BRASIL |
 | SU2350176 | 2022 | Suv | TOYOTA | COROLLA CROSS | 1.8 SEG CVT | 5 | 1.8 | 122 | Hibrido | CVT | 0 | 4x2 (2WD) | BRASIL |
-| SU2350177 | 2021 | Suv | TOYOTA | COROLLA CROSS | 1.8 XEI CVT | 5 | 1.8 | 122 | HÃ­brido | CVT | 0 | 4x2 (2WD) | BRASIL |
+| SU2350177 | 2021 | Suv | TOYOTA | COROLLA CROSS | 1.8 XEI CVT | 5 | 1.8 | 122 | Híbrido | CVT | 0 | 4x2 (2WD) | BRASIL |
 | SU2350177 | 2022 | Suv | TOYOTA | COROLLA CROSS | 1.8 XEI CVT | 5 | 1.8 | 122 | Hibrido | CVT | 0 | 4x2 (2WD) | BRASIL |
-| HB2350093 | 2021 | Hatchback | TOYOTA | COROLLA SPORT | SE 1.2 TURBO CVT NRE210CVTSE | 5 | 1.2 | 140 | ElÃ©ctrico | AutomÃ¡tica | 6 | 4x2 (2WD) | INGLATERRA |
-| HB2350096 | 2021 | Hatchback | TOYOTA | COROLLA SPORT | SE 1.8 HV CVT ZWE211CVTSE | 5 | 1.8 | 122 | ElÃ©ctrico | AutomÃ¡tica | 5 | 4x2 (2WD) | INGLATERRA |
-| SU2350143 | 2021 | Suv | TOYOTA | RAV4 | LE 2.0 4X2 CVT A20LE2C | 5 | 2 | 170 | ElÃ©ctrico | AutomÃ¡tica | 6 | 4x2 (2WD) | JAPÃ“N |
+| HB2350093 | 2021 | Hatchback | TOYOTA | COROLLA SPORT | SE 1.2 TURBO CVT NRE210CVTSE | 5 | 1.2 | 140 | Eléctrico | Automática | 6 | 4x2 (2WD) | INGLATERRA |
+| HB2350096 | 2021 | Hatchback | TOYOTA | COROLLA SPORT | SE 1.8 HV CVT ZWE211CVTSE | 5 | 1.8 | 122 | Eléctrico | Automática | 5 | 4x2 (2WD) | INGLATERRA |
+| SU2350143 | 2021 | Suv | TOYOTA | RAV4 | LE 2.0 4X2 CVT A20LE2C | 5 | 2 | 170 | Eléctrico | Automática | 6 | 4x2 (2WD) | JAPÓN |
 
-| **SU2350143** | **2022** | **Suv** | **TOYOTA** | **RAV4** | **LE 2.0 4X2 CVT A20LE2C** | **5** | **2.000** | **170** | **Electrico** | **Automatica** | **6** | **4x2 (2WD)** | **JAPÃ“N** |
+| **SU2350143** | **2022** | **Suv** | **TOYOTA** | **RAV4** | **LE 2.0 4X2 CVT A20LE2C** | **5** | **2.000** | **170** | **Electrico** | **Automatica** | **6** | **4x2 (2WD)** | **JAPÓN** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SU2350146 | 2021 | Suv TOYOTA | RAV4 |  | LE 2.5 4X2 CVT HV A25HVLE2C | 5 | 2.5 | 215 | ElÃ©ctrico | AutomÃ¡tica | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350146 | 2022 | Suv | TOYOTA | RAV4 | LE 2.5 4X2 CVT HV A25HVLE2C | 5 | 2.5 | 215 | Electrico | Automatica | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350147 | 2021 | Suv | TOYOTA | RAV4 | LIMITED 2.5 4X4 CVT HV A25HVLTD4C | 5 | 2.5 | 219 | ElÃ©ctrico | AutomÃ¡tica | 8 | 4x4 (AWD) | JAPÃ“N |
-| SU2350147 | 2022 | Suv | TOYOTA | RAV4 | LIMITED 2.5 4X4 CVT HV A25HVLTD4C | 5 | 2.5 | 219 | Electrico | Automatica | 8 | 4x4 (AWD) | JAPÃ“N |
-| SU2350148 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.0 4X2 CVT A20XLE2C | 5 | 2 | 170 | ElÃ©ctrico | AutomÃ¡tica | 6 | 4x2 (2WD) | JAPÃ“N |
-| SU2350148 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.0 4X2 CVT A20XLE2C | 5 | 2 | 170 | Electrico | Automatica | 6 | 4x2 (2WD) | JAPÃ“N |
-| SU2350160 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE+2C | 5 | 2.5 | 215 | ElÃ©ctrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350160 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE+2C | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350155 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C | 5 | 2.5 | 215 | ElÃ©ctrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350155 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350161 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C-01 | 5 | 2.5 | 215 | ElÃ©ctrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SU2350161 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C-01 | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÃ“N |
-| SD2440164 | 2021 | SedÃ¡n | VOLVO | S60 II | T8 R-DESIGN | 4 | 2 | 402 | Bencina | AutomÃ¡tica | 8 | 4x2 y 4x4 | EEUU |
-| SD2440164 | 2022 | SedÃ¡n | VOLVO | S60 II | T8 R-DESIGN | 4 | 2 | 402 | Bencina | Automatica | 8 | 4x2 y 4x4 | EEUU |
+| SU2350146 | 2021 | Suv TOYOTA | RAV4 |  | LE 2.5 4X2 CVT HV A25HVLE2C | 5 | 2.5 | 215 | Eléctrico | Automática | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350146 | 2022 | Suv | TOYOTA | RAV4 | LE 2.5 4X2 CVT HV A25HVLE2C | 5 | 2.5 | 215 | Electrico | Automatica | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350147 | 2021 | Suv | TOYOTA | RAV4 | LIMITED 2.5 4X4 CVT HV A25HVLTD4C | 5 | 2.5 | 219 | Eléctrico | Automática | 8 | 4x4 (AWD) | JAPÓN |
+| SU2350147 | 2022 | Suv | TOYOTA | RAV4 | LIMITED 2.5 4X4 CVT HV A25HVLTD4C | 5 | 2.5 | 219 | Electrico | Automatica | 8 | 4x4 (AWD) | JAPÓN |
+| SU2350148 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.0 4X2 CVT A20XLE2C | 5 | 2 | 170 | Eléctrico | Automática | 6 | 4x2 (2WD) | JAPÓN |
+| SU2350148 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.0 4X2 CVT A20XLE2C | 5 | 2 | 170 | Electrico | Automatica | 6 | 4x2 (2WD) | JAPÓN |
+| SU2350160 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE+2C | 5 | 2.5 | 215 | Eléctrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350160 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE+2C | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350155 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C | 5 | 2.5 | 215 | Eléctrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350155 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350161 | 2021 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C-01 | 5 | 2.5 | 215 | Eléctrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SU2350161 | 2022 | Suv | TOYOTA | RAV4 | XLE 2.5 4X2 CVT HV A25HVXLE2C-01 | 5 | 2.5 | 215 | Electrico | Automatizada | 8 | 4x2 (2WD) | JAPÓN |
+| SD2440164 | 2021 | Sedán | VOLVO | S60 II | T8 R-DESIGN | 4 | 2 | 402 | Bencina | Automática | 8 | 4x2 y 4x4 | EEUU |
+| SD2440164 | 2022 | Sedán | VOLVO | S60 II | T8 R-DESIGN | 4 | 2 | 402 | Bencina | Automatica | 8 | 4x2 y 4x4 | EEUU |
 | SU2440226 | 2022 | Suv | VOLVO | V60CC | B5 MOMENTUM | 5 | 2 | 250 | Hibrido | Automatica | 8 | 4x4 (AWD) | BELGICA |
-| SU2440225 | 2021 | Suv | VOLVO | XC40 | T5 HIBRIDO R- DESIGN | 5 | 1.5 | 257 | Bencina | AutomÃ¡tica | 8 | 4x2 (2WD) | SUECIA |
+| SU2440225 | 2021 | Suv | VOLVO | XC40 | T5 HIBRIDO R- DESIGN | 5 | 1.5 | 257 | Bencina | Automática | 8 | 4x2 (2WD) | SUECIA |
 | SU2440225 | 2022 | Suv | VOLVO | XC40 | T5 HIBRIDO R- DESIGN | 5 | 1.5 | 257 | Bencina | Automatica | 8 | 4x2 (2WD) | SUECIA |
 | SU2440228 | 2022 | Suv | VOLVO | XC60 | B5 MOMENTUM | 5 | 2 | 250 | Hibrido | Automatica | 8 | 4x4 (AWD) | SUECIA |
-| SU2440178 | 2021 | Suv | VOLVO | XC60 | T8 INSCRIPTION | 4 | 2 | 245 | Bencina | AutomÃ¡tica | 8 | 4x4 (AWD) | SUECIA |
+| SU2440178 | 2021 | Suv | VOLVO | XC60 | T8 INSCRIPTION | 4 | 2 | 245 | Bencina | Automática | 8 | 4x4 (AWD) | SUECIA |
 | SU2440178 | 2022 | Suv | VOLVO | XC60 | T8 INSCRIPTION | 4 | 2 | 245 | Bencina | Automatica | 8 | 4x4 (AWD) | SUECIA |
 | SU2440229 | 2022 | Suv | VOLVO | XC90 | B6 MOMENTUM | 5 | 2 | 300 | Hibrido | Automatica | 8 | 4x4 (AWD) | SUECIA |
 
-| **CÃ³digo SII** | **Equipamiento** | **Equipamiento Detallado** | **TASACIÃ“N 2023** | **PERMISO 2023** | **obs** |
+| **Código SII** | **Equipamiento** | **Equipamiento Detallado** | **TASACIÓN 2023** | **PERMISO 2023** | **obs** |
 | --- | --- | --- | --- | --- | --- |
 | SD0320618 |  | AA, ABP, ABS, AED, AEL, AEP, AET, ALC, ASR, BPL, BSD, CAP, CBZ, CC, CCR, CDP, CLZ, CR, EAL, EBO, ESP, FAE, GPS, LAL, LCD, NEB, REE, SDP, SIA, SLL, TCE, TPN, USB, VCU, VM, VRE | 35.423.685 | 0 | Ex.Ley 21.505 |
 | SD0320618 |  | ABS, AA, VRE, ABP, AED, USB, NEB, AET, ESP, CC, SIA, ALC, CR, REE, FAE, CAP, CLZ, CDP, VCU, TCE, CCR, BPL, SDP, LAL, AEP, VM, EAL, GPS, AEL, TPN, SLL, EBO, ASR, CBZ, LCD, BSD | 40.009.184 | 0 | Ex.Ley 21.505 |
@@ -142,7 +143,7 @@ SUBDIRECTORA DE AVALUACIONES
 | HB2290197 | ABS, AA, VRE, ABP, AED, USB, AET, ESP, CC, SIA, LPT, REE, FAE, CAP, CLZ, LAL, VM, EAL, GPS, TPN, ABC, ASR, LCD, TCM | 12.093.399 | 251.618 | 0 |
 | SU2350156 | AA, AAF, ABP, ABS, ACA, AED, AEL, AEP, AET, AIN, ALC, ASR, BCU, BPL, CAP, CBZ, CC, CCR, CDP, CLZ, CR, EAL, EBO, ESP, LAL, LCD, LPT, NEB, REE, SDP, SIA, SLL, STR, USB, VCU, VM, VRE | 23.673.629 | 681.338 | 0 |
 
-| **CÃ³digo SII** | **Equipamiento Detallado** | **TASACIÃ“N 2023** | **PERMISO 2023** | **obs** |
+| **Código SII** | **Equipamiento Detallado** | **TASACIÓN 2023** | **PERMISO 2023** | **obs** |
 | --- | --- | --- | --- | --- |
 | SU2350156 | ABS, AA, VRE, ABP, AED, USB, NEB, AET, ESP, CC, SIA, LPT, ALC, CR, REE, CAP, CLZ, CDP, VCU, CCR, BPL, SDP, LAL, AIN, AEP, VM, EAL, AEL, ABC, SLL, EBO, ASR, CBZ, ACA, LCD, STR, BCU | 26.666.458 | 810.846 | 0 |
 | SD2350256 | ABP, ABS, AED, ALC, CCR, CLZ, CR, LAL, NEB, VCU, VM | 17.831.602 | 447.657 | 0 |

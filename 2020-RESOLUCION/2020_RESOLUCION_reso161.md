@@ -1,69 +1,70 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 161 (2020)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
+---
+type: "SII Resolución"
+title: "Resolución N° 161 (2020)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
 
-INSTRUYE SOBRE LA OBLIGACIÃ“N DE INFORMAR SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES POR PARTE DE LOS CONTRIBUYENTES QUE PASAN A ESTAR SUJETOS A LOS REGÃMENES PRO PYME DE LOS NÂ° 3 Y 8 DE LA LETRA D) DEL ARTÃCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+## SUBDIRECCIÓN DE FISCALIZACIÓN
+
+INSTRUYE SOBRE LA OBLIGACIÓN DE INFORMAR SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES POR PARTE DE LOS CONTRIBUYENTES QUE PASAN A ESTAR SUJETOS A LOS REGÍMENES PRO PYME DE LOS N° 3 Y 8 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA.
 
 SANTIAGO, 16 DE DICIEMBRE DE 2020
 
-RESOLUCIÃ“N EXENTA SII NÂ°161.-
+RESOLUCIÓN EXENTA SII N°161.-
 
 VISTOS:
 
-El artÃ­culo 1Â°, 4Â° bis, 7Â° y siguientes de la Ley OrgÃ¡nica del Servicio de Impuestos Internos contenida en el D.F.L. NÂ°7, de 1980 del Ministerio de Hacienda; lo establecido en el artÃ­culo 6Â°, letra A), NÂ°1) y 21 del CÃ³digo Tributario, contenido en el Decreto Ley NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 14Â° letras A) y D) de la Ley sobre Impuesto a la Renta contenida en el artÃ­culo 1Â° del Decreto Ley NÂ°824, de 1974 (en adelante, 'LIR'); las disposiciones contenidas en la Ley NÂ° 21.210, que moderniza la LegislaciÃ³n Tributaria, publicada en el Diario Oficial con fecha 24.02.2020; y las instrucciones contenidas en la Circular NÂ° 64 de 2020;
+El artículo 1°, 4° bis, 7° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L. N°7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6°, letra A), N°1) y 21 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974; lo dispuesto en el artículo 14° letras A) y D) de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N°824, de 1974 (en adelante, 'LIR'); las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24.02.2020; y las instrucciones contenidas en la Circular N° 64 de 2020;
 
 ## CONSIDERANDO:
 
-1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente.
+1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
 
-2Â° - Que, la Ley NÂ° 21.210, modifica diversas disposiciones establecidas en la LIR; entre ellas, reemplazÃ³ el artÃ­culo 14 y estableciÃ³ en su letra A) las reglas para aplicar los impuestos finales sobre rentas provenientes de empresas obligadas a declarar el impuesto de primera categorÃ­a segÃºn renta efectiva determinada con contabilidad completa, seÃ±alando en el numeral 2 de la mencionada letra, los registros tributarios de las rentas empresariales que deben ser confeccionados al tÃ©rmino de cada ejercicio para efectuar y mantener el control de las rentas afectas a los impuestos finales (RAI), de las diferencias entre la depreciaciÃ³n normal y acelerada (DDAN), de las rentas exentas e ingresos no constitutivos de renta (REX) y del saldo acumulado de crÃ©ditos (SAC).
+2° - Que, la Ley N° 21.210, modifica diversas disposiciones establecidas en la LIR; entre ellas, reemplazó el artículo 14 y estableció en su letra A) las reglas para aplicar los impuestos finales sobre rentas provenientes de empresas obligadas a declarar el impuesto de primera categoría según renta efectiva determinada con contabilidad completa, señalando en el numeral 2 de la mencionada letra, los registros tributarios de las rentas empresariales que deben ser confeccionados al término de cada ejercicio para efectuar y mantener el control de las rentas afectas a los impuestos finales (RAI), de las diferencias entre la depreciación normal y acelerada (DDAN), de las rentas exentas e ingresos no constitutivos de renta (REX) y del saldo acumulado de créditos (SAC).
 
-Cabe seÃ±alar, que en el NÂ° 3, de la letra A) del nuevo artÃ­culo 14 de la LIR, se indica que los contribuyentes de este rÃ©gimen quedan liberados de llevar registros RAI, DDAN y REX cuando no mantengan rentas o cantidades que deban ser controladas en el registro REX, salvo que se realicen devoluciones de capital y sus reajustes efectuados de acuerdo al nÃºmero 7 del artÃ­culo 17 de la LIR.
+Cabe señalar, que en el N° 3, de la letra A) del nuevo artículo 14 de la LIR, se indica que los contribuyentes de este régimen quedan liberados de llevar registros RAI, DDAN y REX cuando no mantengan rentas o cantidades que deban ser controladas en el registro REX, salvo que se realicen devoluciones de capital y sus reajustes efectuados de acuerdo al número 7 del artículo 17 de la LIR.
 
-3Â° Que, la Ley NÂ° 21.210, , derogÃ³ el artÃ­culo 14 ter de la LIR, y estableciÃ³ a partir del 1Â° de enero de 2020, en el artÃ­culo 14 letra D) de la LIR, un rÃ©gimen especial de tributaciÃ³n para las micro, pequeÃ±as y medianas empresas (Pymes).
+3° Que, la Ley N° 21.210, , derogó el artículo 14 ter de la LIR, y estableció a partir del 1° de enero de 2020, en el artículo 14 letra D) de la LIR, un régimen especial de tributación para las micro, pequeñas y medianas empresas (Pymes).
 
-4Â° Que, la norma contenida en la letra g) del NÂ°3 de la letra D) del artÃ­culo 14 de LIR, establece que las empresas acogidas al RÃ©gimen Pro Pyme estarÃ¡n liberadas de mantener y preparar los registros de rentas empresariales establecidos en las letras a), b) y c) del nÃºmero 2 de la letra A) del mismo artÃ­culo, salvo que perciban o generen rentas exentas de los impuestos finales, ingresos no constitutivos de renta o rentas con tributaciÃ³n cumplida. En caso de existir estas Ãºltimas rentas, podrÃ¡ eximirse de la obligaciÃ³n de llevar los registros mencionados, siempre que se realicen mediante la emisiÃ³n de documentos tributarios electrÃ³nicos segÃºn se determine mediante resoluciÃ³n del Servicio de Impuesto Internos. En caso de no emitirse dichos documentos electrÃ³nicos, la Pyme debe preparar y mantener los registros a que se refieren las letras a), c) y d) del NÂ° 2 de la letra A) del artÃ­culo 14 de la LIR.
+4° Que, la norma contenida en la letra g) del N°3 de la letra D) del artículo 14 de LIR, establece que las empresas acogidas al Régimen Pro Pyme estarán liberadas de mantener y preparar los registros de rentas empresariales establecidos en las letras a), b) y c) del número 2 de la letra A) del mismo artículo, salvo que perciban o generen rentas exentas de los impuestos finales, ingresos no constitutivos de renta o rentas con tributación cumplida. En caso de existir estas últimas rentas, podrá eximirse de la obligación de llevar los registros mencionados, siempre que se realicen mediante la emisión de documentos tributarios electrónicos según se determine mediante resolución del Servicio de Impuesto Internos. En caso de no emitirse dichos documentos electrónicos, la Pyme debe preparar y mantener los registros a que se refieren las letras a), c) y d) del N° 2 de la letra A) del artículo 14 de la LIR.
 
-5Â° Que, la norma contenida en la letra h) del NÂ°3 de la letra D) del artÃ­culo 14 de la LIR, establece en su literal i) que las empresas acogidas al RÃ©gimen Pro Pyme, con la finalidad de asignar los crÃ©ditos establecidos en los artÃ­culos 56 NÂ°3, 63 y 41 A, todos de la LIR, deberÃ¡n mantener y preparar el registro SAC, conforme a lo dispuesto en la letra d) del nÃºmero 2 de la letra A) del artÃ­culo 14 de la LIR.
+5° Que, la norma contenida en la letra h) del N°3 de la letra D) del artículo 14 de la LIR, establece en su literal i) que las empresas acogidas al Régimen Pro Pyme, con la finalidad de asignar los créditos establecidos en los artículos 56 N°3, 63 y 41 A, todos de la LIR, deberán mantener y preparar el registro SAC, conforme a lo dispuesto en la letra d) del número 2 de la letra A) del artículo 14 de la LIR.
 
-6Â° Que, el numeral 6 de la letra D) del artÃ­culo 14 de la LIR seÃ±ala el tratamiento de ciertas partidas cuando se produce el traslado de empresas desde el rÃ©gimen de la letra A) del artÃ­culo 14 de la LIR, al rÃ©gimen Pro Pyme, estableciendo en el inciso 3Â° de dicho numeral que el Servicio de Impuesto Internos seÃ±alarÃ¡ mediante resoluciÃ³n la forma de preparar y mantener la informaciÃ³n y los registros respecto a las reglas seÃ±aladas segÃºn el cambio de rÃ©gimen mencionado.
+6° Que, el numeral 6 de la letra D) del artículo 14 de la LIR señala el tratamiento de ciertas partidas cuando se produce el traslado de empresas desde el régimen de la letra A) del artículo 14 de la LIR, al régimen Pro Pyme, estableciendo en el inciso 3° de dicho numeral que el Servicio de Impuesto Internos señalará mediante resolución la forma de preparar y mantener la información y los registros respecto a las reglas señaladas según el cambio de régimen mencionado.
 
-7Â° Que, el pÃ¡rrafo final del numeral 6 de la letra D) del artÃ­culo 14, de la LIR, menciona que las Pymes que ingresen al rÃ©gimen Pro Pyme desde el rÃ©gimen de la letra A) del artÃ­culo 14 de la LIR, informarÃ¡n al Servicio de Impuestos Internos entre el 1Â° de enero al 30 de abril del aÃ±o calendario en que se incorporen al mismo, si tuvieran saldos en los registros seÃ±alados en las letras (e), (f) y (g) del numeral 6 de la letra D) del artÃ­culo 14 de la LIR, segÃºn lo determine el Servicio de Impuestos Internos mediante resoluciÃ³n.
+7° Que, el párrafo final del numeral 6 de la letra D) del artículo 14, de la LIR, menciona que las Pymes que ingresen al régimen Pro Pyme desde el régimen de la letra A) del artículo 14 de la LIR, informarán al Servicio de Impuestos Internos entre el 1° de enero al 30 de abril del año calendario en que se incorporen al mismo, si tuvieran saldos en los registros señalados en las letras (e), (f) y (g) del numeral 6 de la letra D) del artículo 14 de la LIR, según lo determine el Servicio de Impuestos Internos mediante resolución.
 
-8Â° Que, el numeral (i) de la letra (d) del NÂ° 8 de la letra D) del artÃ­culo 14 de la LIR seÃ±ala que las empresas que opten por ingresar al rÃ©gimen de transparencia tributaria desde el rÃ©gimen de la letra A) del artÃ­culo 14 o desde el rÃ©gimen Pro Pyme del NÂ° 3 de la letra D) del mismo artÃ­culo, aplicarÃ¡n lo seÃ±alado en el nÃºmero 6 de dicha letra D), pero no determinarÃ¡n los registros RAI, REX y SAC, sin perjuicio de informar al Servicio de Impuestos
+8° Que, el numeral (i) de la letra (d) del N° 8 de la letra D) del artículo 14 de la LIR señala que las empresas que opten por ingresar al régimen de transparencia tributaria desde el régimen de la letra A) del artículo 14 o desde el régimen Pro Pyme del N° 3 de la letra D) del mismo artículo, aplicarán lo señalado en el número 6 de dicha letra D), pero no determinarán los registros RAI, REX y SAC, sin perjuicio de informar al Servicio de Impuestos
 
-Internos el saldo de dichos registros al cierre del aÃ±o anterior al ingreso al rÃ©gimen, en la forma en que este organismo lo determine mediante resoluciÃ³n.
+Internos el saldo de dichos registros al cierre del año anterior al ingreso al régimen, en la forma en que este organismo lo determine mediante resolución.
 
-9Â° Que, la Circular NÂ° 62, del 24 de septiembre de 2020, especÃ­ficamente en sus numerales 1.11.1.2. y 1.11.1.3. establece que las Pymes que ingresen a los regÃ­menes del NÂ° 3 de la letra D) del artÃ­culo 14 de la LIR, provenientes de los antiguos regÃ­menes de Renta Atribuida y Parcialmente Integrado vigentes al 31 de diciembre de 2019, deberÃ¡n informar entre el 1Â° de enero y el 30 de septiembre del aÃ±o calendario 2020, los saldos de los registros de rentas empresariales RAP, RAI, REX y SAC existentes al cierre del aÃ±o 2019, dependiendo del rÃ©gimen tributario al cual estaban sujetas a esa fecha, en la forma que establezca el Servicio mediante resoluciÃ³n.
+9° Que, la Circular N° 62, del 24 de septiembre de 2020, específicamente en sus numerales 1.11.1.2. y 1.11.1.3. establece que las Pymes que ingresen a los regímenes del N° 3 de la letra D) del artículo 14 de la LIR, provenientes de los antiguos regímenes de Renta Atribuida y Parcialmente Integrado vigentes al 31 de diciembre de 2019, deberán informar entre el 1° de enero y el 30 de septiembre del año calendario 2020, los saldos de los registros de rentas empresariales RAP, RAI, REX y SAC existentes al cierre del año 2019, dependiendo del régimen tributario al cual estaban sujetas a esa fecha, en la forma que establezca el Servicio mediante resolución.
 
 ## RESUELVO:
 
-1Â° Los contribuyentes que se encontraban acogidos al rÃ©gimen de la letra A) del artÃ­culo 14 de LIR vigente a partir del 1Â° de enero de 2020, que pasen a estar sujetos al RÃ©gimen Pro Pyme establecido en el NÂ° 3 de la letra D) del artÃ­culo 14 de la misma Ley, y mantenÃ­an sus registros empresariales de acuerdo a lo dispuesto en los numerales 2 y 3 de la letra A) del citado artÃ­culo 14, para dar cumplimiento a la obligaciÃ³n contenida en el inciso final del NÂ° 6 de la letra D) del artÃ­culo 14 de la LIR, respecto a informar los saldos de RAI, REX y SAC, lo efectuarÃ¡n a travÃ©s de la Ãºltima declaraciÃ³n anual de impuestos a la renta (Formulario NÂ° 22) que el contribuyente debe presentar bajo el rÃ©gimen de la letra A) del artÃ­culo 14 de la referida Ley.
+1° Los contribuyentes que se encontraban acogidos al régimen de la letra A) del artículo 14 de LIR vigente a partir del 1° de enero de 2020, que pasen a estar sujetos al Régimen Pro Pyme establecido en el N° 3 de la letra D) del artículo 14 de la misma Ley, y mantenían sus registros empresariales de acuerdo a lo dispuesto en los numerales 2 y 3 de la letra A) del citado artículo 14, para dar cumplimiento a la obligación contenida en el inciso final del N° 6 de la letra D) del artículo 14 de la LIR, respecto a informar los saldos de RAI, REX y SAC, lo efectuarán a través de la última declaración anual de impuestos a la renta (Formulario N° 22) que el contribuyente debe presentar bajo el régimen de la letra A) del artículo 14 de la referida Ley.
 
-La forma de mantener dichos saldos y registrar los movimientos de los registros de rentas empresariales por parte de las empresas sujetas al rÃ©gimen del NÂ° 3 de la referida letra D), serÃ¡ instruida por este Servicio a travÃ©s de una resoluciÃ³n que tratarÃ¡ especÃ­ficamente dicha materia.
+La forma de mantener dichos saldos y registrar los movimientos de los registros de rentas empresariales por parte de las empresas sujetas al régimen del N° 3 de la referida letra D), será instruida por este Servicio a través de una resolución que tratará específicamente dicha materia.
 
-2Â° La obligaciÃ³n contemplada en el numeral (i) de la letra (d) del NÂ° 8 de la letra D) del artÃ­culo 14 de la LIR, respecto a los saldos de los registros de rentas empresariales que deben informar las empresas del rÃ©gimen de la letra A) del artÃ­culo 14 o del rÃ©gimen Pro Pyme del NÂ° 3 de la letra D) del mismo artÃ­culo que opten por ingresar al rÃ©gimen de transparencia tributaria, se entenderÃ¡ cumplida a travÃ©s de la Ãºltima declaraciÃ³n anual de impuestos a la renta (Formulario NÂ° 22) que el contribuyente debe presentar bajo el rÃ©gimen de la letra A) o del NÂ° 3 de la letra D), ambos del artÃ­culo 14 de la LIR, al cual estuvo sujeto.
+2° La obligación contemplada en el numeral (i) de la letra (d) del N° 8 de la letra D) del artículo 14 de la LIR, respecto a los saldos de los registros de rentas empresariales que deben informar las empresas del régimen de la letra A) del artículo 14 o del régimen Pro Pyme del N° 3 de la letra D) del mismo artículo que opten por ingresar al régimen de transparencia tributaria, se entenderá cumplida a través de la última declaración anual de impuestos a la renta (Formulario N° 22) que el contribuyente debe presentar bajo el régimen de la letra A) o del N° 3 de la letra D), ambos del artículo 14 de la LIR, al cual estuvo sujeto.
 
-3Â° Respecto a los contribuyentes que al 31 de diciembre de 2019 se encontraban sujetos a los regÃ­menes de Renta Atribuida o Parcialmente Integrado, vigentes a esa fecha, las obligaciones de informar los saldos de los registros de rentas empresariales existentes al 31 de diciembre de 2019, contemplada en los numerales 1.11.1.2. y 1.11.1.3. de la Circular NÂ° 62, del 24 de septiembre de 2020, se entenderÃ¡n cumplidas con la presentaciÃ³n de las Declaraciones Juradas NÂ° 1938 y 1939, establecidas en las Resoluciones Ex. SII NÂ° 83 y 84, del 31 de agosto de 2017, respectivamente, que dichos contribuyentes debieron presentar en el aÃ±o tributario 2020.
+3° Respecto a los contribuyentes que al 31 de diciembre de 2019 se encontraban sujetos a los regímenes de Renta Atribuida o Parcialmente Integrado, vigentes a esa fecha, las obligaciones de informar los saldos de los registros de rentas empresariales existentes al 31 de diciembre de 2019, contemplada en los numerales 1.11.1.2. y 1.11.1.3. de la Circular N° 62, del 24 de septiembre de 2020, se entenderán cumplidas con la presentación de las Declaraciones Juradas N° 1938 y 1939, establecidas en las Resoluciones Ex. SII N° 83 y 84, del 31 de agosto de 2017, respectivamente, que dichos contribuyentes debieron presentar en el año tributario 2020.
 
 <unknown>
 
-Tal como se seÃ±alÃ³ anteriormente, la forma de mantener dichos saldos y registrar los movimientos de los registros de rentas empresariales por parte de las empresas sujetas al rÃ©gimen del NÂ° 3 de la referida letra D), serÃ¡ instruida por este Servicio a travÃ©s de una resoluciÃ³n que tratarÃ¡ especÃ­ficamente dicha materia.
+Tal como se señaló anteriormente, la forma de mantener dichos saldos y registrar los movimientos de los registros de rentas empresariales por parte de las empresas sujetas al régimen del N° 3 de la referida letra D), será instruida por este Servicio a través de una resolución que tratará específicamente dicha materia.
 
-4Â° Lo dispuesto en esta resoluciÃ³n regirÃ¡ a contar del 1Â° de enero del aÃ±o 2020, segÃºn corresponda.
+4° Lo dispuesto en esta resolución regirá a contar del 1° de enero del año 2020, según corresponda.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
 ## DIRECTOR
 
-## CSM/CGG/OEG/KCC/MCRB DISTRIBUCIÃ“N:
+## CSM/CGG/OEG/KCC/MCRB DISTRIBUCIÓN:
 
 * A Internet.
 * -Al Diario Oficial, en extracto.

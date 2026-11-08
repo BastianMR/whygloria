@@ -1,56 +1,57 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 4847 (2016)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N. DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 4847 (2016)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N. DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-MODIFICA LA RESOLUCIÃ“N EXENTA SII NÂ° 4847 DE 1995 REEMPLAZANDO EL FORMULARIO 1891 E INSTRUCCIONES DE LLENADO.
+## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+MODIFICA LA RESOLUCIÓN EXENTA SII N° 4847 DE 1995 REEMPLAZANDO EL FORMULARIO 1891 E INSTRUCCIONES DE LLENADO.
 
 SANTIAGO, 26 de diciembre de 2016
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂº \_ 119 \_/
+RESOLUCIÓN EX. SII Nº \_ 119 \_/
 
-VISTOS: Las facultades que me confieren los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂ° 7, de 1980; lo establecido en los artÃ­culos 6Â° letra A) NÂ° 1) y 60 inciso noveno del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 104 de la Ley sobre Impuesto a la Renta, texto legal contenido en el artÃ­culo 1Â° del D.L. NÂ° 824, de 1974; la ResoluciÃ³n Ex. NÂ° 4847, del 10 de octubre de 1995 y ResoluciÃ³n Ex. NÂ° 18 del 24 de enero de 2007.
+VISTOS: Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980; lo establecido en los artículos 6° letra A) N° 1) y 60 inciso noveno del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en el artículo 104 de la Ley sobre Impuesto a la Renta, texto legal contenido en el artículo 1° del D.L. N° 824, de 1974; la Resolución Ex. N° 4847, del 10 de octubre de 1995 y Resolución Ex. N° 18 del 24 de enero de 2007.
 
 ## CONSIDERANDO:
 
-1.Que, al Servicio de Impuestos Internos le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos y cuyo control no estÃ¡ dado a otra autoridad, y por ello, es un propÃ³sito permanente de este Servicio mejorar el control y facilitar el cumplimiento de las obligaciones tributarias de los contribuyentes.
+1.Que, al Servicio de Impuestos Internos le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos y cuyo control no está dado a otra autoridad, y por ello, es un propósito permanente de este Servicio mejorar el control y facilitar el cumplimiento de las obligaciones tributarias de los contribuyentes.
 
-2.Que, de acuerdo a lo seÃ±alado en el inciso noveno del artÃ­culo 60 del CÃ³digo Tributario, para la aplicaciÃ³n, fiscalizaciÃ³n o investigaciÃ³n del cumplimiento de las leyes tributarias, el Servicio podrÃ¡ pedir declaraciÃ³n jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicciÃ³n de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas.
+2.Que, de acuerdo a lo señalado en el inciso noveno del artículo 60 del Código Tributario, para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquiera naturaleza relacionados con terceras personas.
 
-3.Que, este Servicio, mediante ResoluciÃ³n Ex. NÂ° 18 del 24 de enero de 2007, modificÃ³ la ResoluciÃ³n Ex. SII NÂ° 4847, del 10 de octubre de 1995, en lo que dice relaciÃ³n con la forma en que los Corredores de Bolsa y Agentes de Valores deben dar cumplimiento a su obligaciÃ³n de presentar el Formulario NÂ° 1891 denominado 'DeclaraciÃ³n Jurada Anual de Compra y Venta de Acciones de S.A. y demÃ¡s TÃ­tulos efectuadas por intermedio de Corredores de Bolsa, Agentes de Valores y Casas de Cambio No Acogidas al Mecanismo de Incentivo al Ahorro de los artÃ­culos 42 bis y 57 bis de la Ley de la Renta.
+3.Que, este Servicio, mediante Resolución Ex. N° 18 del 24 de enero de 2007, modificó la Resolución Ex. SII N° 4847, del 10 de octubre de 1995, en lo que dice relación con la forma en que los Corredores de Bolsa y Agentes de Valores deben dar cumplimiento a su obligación de presentar el Formulario N° 1891 denominado 'Declaración Jurada Anual de Compra y Venta de Acciones de S.A. y demás Títulos efectuadas por intermedio de Corredores de Bolsa, Agentes de Valores y Casas de Cambio No Acogidas al Mecanismo de Incentivo al Ahorro de los artículos 42 bis y 57 bis de la Ley de la Renta.
 
 ## SE RESUELVE:
 
-1Â° ModifÃ­case la ResoluciÃ³n Ex. NÂ° 4847, de
+1° Modifícase la Resolución Ex. N° 4847, de
 
-1995, por cuanto se reemplaza el Formulario NÂ° 1891 e instrucciones de llenado contenidas en los Anexos de la citada resoluciÃ³n, por los contenidos en el Anexo NÂ° 1 y 2 de la presente resoluciÃ³n, pasando a denominarse: ' DeclaraciÃ³n Jurada Anual sobre compra y venta de acciones de S.A. y demÃ¡s tÃ­tulos efectuadas por intermedio de corredores de bolsa, agentes de valores y casas de cambio no acogidas al mecanismo de incentivo al ahorro del artÃ­culo 42 bis, o a la letra A) del artÃ­culo 57 bis, o al artÃ­culo 104 de la Ley de la Renta'.
+1995, por cuanto se reemplaza el Formulario N° 1891 e instrucciones de llenado contenidas en los Anexos de la citada resolución, por los contenidos en el Anexo N° 1 y 2 de la presente resolución, pasando a denominarse: ' Declaración Jurada Anual sobre compra y venta de acciones de S.A. y demás títulos efectuadas por intermedio de corredores de bolsa, agentes de valores y casas de cambio no acogidas al mecanismo de incentivo al ahorro del artículo 42 bis, o a la letra A) del artículo 57 bis, o al artículo 104 de la Ley de la Renta'.
 
-2Â° Los Anexos de esta ResoluciÃ³n, que se entienden forman parte Ã­ntegra de ella, se publicarÃ¡n oportunamente en la pÃ¡gina Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+2° Los Anexos de esta Resolución, que se entienden forman parte íntegra de ella, se publicarán oportunamente en la página Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Toda modificaciÃ³n a los anexos antes aludidos, se comunicarÃ¡ oportunamente mediante su publicaciÃ³n en la pÃ¡gina Web de este Servicio.
+Toda modificación a los anexos antes aludidos, se comunicará oportunamente mediante su publicación en la página Web de este Servicio.
 
-3Â° La presente ResoluciÃ³n regirÃ¡ a partir del AÃ±o Tributario 2017 y siguientes, respecto de la informaciÃ³n correspondiente al aÃ±o calendario anterior.
+3° La presente Resolución regirá a partir del Año Tributario 2017 y siguientes, respecto de la información correspondiente al año calendario anterior.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 ## Anexos:
 
-## Anexo NÂ° 1: Formato Formulario NÂ° 1891 Anexo NÂ° 2: Instrucciones de llenado Formulario NÂ° 1891
+## Anexo N° 1: Formato Formulario N° 1891 Anexo N° 2: Instrucciones de llenado Formulario N° 1891
 
 VVM/PAF/RHH/GET
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
-* Al BoletÃ­n.
+* Al Boletín.
 * A Internet.
 * Al Diario Oficial, en extracto

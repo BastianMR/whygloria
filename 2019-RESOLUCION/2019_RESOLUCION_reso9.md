@@ -1,39 +1,40 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 150 (2019)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 150 (2019)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-EXCLUYE DE NÃ“MINA DE CONTRIBUYENTES SUJETOS A RETENCIÃ“N, FIJADA CONFORME A RESOLUCIÃ“N EX. SII NÂ° 150, DE 28 DE DICIEMBRE DE 2018, A MOVIMIENTO DE TIERRA Y CONSTRUCCION S.A. Y SERVICIOS PUBLICITARIOS EPL SPA.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+EXCLUYE DE NÓMINA DE CONTRIBUYENTES SUJETOS A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2018, A MOVIMIENTO DE TIERRA Y CONSTRUCCION S.A. Y SERVICIOS PUBLICITARIOS EPL SPA.
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCION EX. SII NÂ° 9.-/ SANTIAGO, 29 DE ENERO 2019 VISTOS:
+RESOLUCION EX. SII N° 9.-/ SANTIAGO, 29 DE ENERO 2019 VISTOS:
 
-1. Lo dispuesto en el NÂ° 5, letra B), del artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 9Â° y siguientes del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el artÃ­culo 3Â° y el TÃ­tulo IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. NÂ° 825, de 1974; el TÃ­tulo XIII del D.S. NÂ° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. NÂ° 825, de 1974; el artÃ­culo 52 de la Ley NÂº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los Ã³rganos de la AdministraciÃ³n del Estado'; la ResoluciÃ³n Ex. SII NÂ° 42, de 30.04.2018 y la ResoluciÃ³n Ex. SII NÂ° 150, de 28.12.2018.
-2. Las peticiones efectuadas por los contribuyentes Servicios Publicitarios EPL SpA, Rut NÂ° 52.004.008-0, y Movimiento de Tierra y ConstrucciÃ³n S.A., Rut NÂ° 83.385.600-6, en las cuales solicitan ser excluidos de la NÃ³mina de Contribuyentes sujetos a RetenciÃ³n establecida en la ResoluciÃ³n Ex. SII NÂ° 150, de 28.12.2018.
+1. Lo dispuesto en el N° 5, letra B), del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en el artículo 9° y siguientes del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. N° 825, de 1974; el Título XIII del D.S. N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974; el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'; la Resolución Ex. SII N° 42, de 30.04.2018 y la Resolución Ex. SII N° 150, de 28.12.2018.
+2. Las peticiones efectuadas por los contribuyentes Servicios Publicitarios EPL SpA, Rut N° 52.004.008-0, y Movimiento de Tierra y Construcción S.A., Rut N° 83.385.600-6, en las cuales solicitan ser excluidos de la Nómina de Contribuyentes sujetos a Retención establecida en la Resolución Ex. SII N° 150, de 28.12.2018.
 
 ## CONSIDERANDO:
 
-1. Que, mediante ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableciÃ³ el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturaciÃ³n electrÃ³nica, redefiniÃ©ndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retenciÃ³n.
-2. Que, el Resolutivo 3. de la resoluciÃ³n antes citada, creÃ³ los registros denominados 'NÃ³mina de Agentes Retenedores' y 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarÃ¡n afectas al cambio de sujeto.
-3. Que, de conformidad con lo dispuesto en el Resolutivo 4Â° de la ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, se emitiÃ³ la ResoluciÃ³n Ex. SII NÂ° 150 de 28.12.2018, mediante la cual se fijaron las nÃ³minas de agentes retenedores y de contribuyentes sujetos a retenciÃ³n que regirÃ¡n desde el 01 de enero hasta el Ãºltimo dÃ­a hÃ¡bil del mes de junio, ambos de 2019.
-4. Que, los contribuyentes solicitantes, en conocimiento de encontrarse incluidos en la 'NÃ³mina de Contribuyentes sujetos a RetenciÃ³n', han demostrado su especial disposiciÃ³n para solucionar sus brechas de cumplimiento tributario, no causando un perjuicio fiscal.
+1. Que, mediante Resolución Ex. SII N° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableció el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturación electrónica, redefiniéndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retención.
+2. Que, el Resolutivo 3. de la resolución antes citada, creó los registros denominados 'Nómina de Agentes Retenedores' y 'Nómina de Contribuyentes Sujetos a Retención'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarán afectas al cambio de sujeto.
+3. Que, de conformidad con lo dispuesto en el Resolutivo 4° de la Resolución Ex. SII N° 42, de 30 de abril de 2018, se emitió la Resolución Ex. SII N° 150 de 28.12.2018, mediante la cual se fijaron las nóminas de agentes retenedores y de contribuyentes sujetos a retención que regirán desde el 01 de enero hasta el último día hábil del mes de junio, ambos de 2019.
+4. Que, los contribuyentes solicitantes, en conocimiento de encontrarse incluidos en la 'Nómina de Contribuyentes sujetos a Retención', han demostrado su especial disposición para solucionar sus brechas de cumplimiento tributario, no causando un perjuicio fiscal.
 5. Que, este Servicio, excepcionalmente, ha decidido acceder a las peticiones formuladas por los contribuyentes.
 
 ## SE RESUELVE:
 
-1. EXCLÃšYESE excepcionalmente, a contar del 1Â° de enero de 2019, de la 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n', fijada conforme a ResoluciÃ³n Ex. SII NÂ° 150, de 28 de diciembre de 2018, a los contribuyentes Servicios Publicitarios EPL SpA , Rut NÂ° 52.004.008-0 y Movimiento de Tierra y ConstrucciÃ³n S.A. , Rut NÂ° 83.385.600-6.
+1. EXCLÚYESE excepcionalmente, a contar del 1° de enero de 2019, de la 'Nómina de Contribuyentes Sujetos a Retención', fijada conforme a Resolución Ex. SII N° 150, de 28 de diciembre de 2018, a los contribuyentes Servicios Publicitarios EPL SpA , Rut N° 52.004.008-0 y Movimiento de Tierra y Construcción S.A. , Rut N° 83.385.600-6.
 
-## ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE
+## ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE
 
-## (Fdo.) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÃ“N (S)
+## (Fdo.) CAROLINA SARAVIA MORALES SUBDIRECTOR DE FISCALIZACIÓN (S)
 
-Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud. para su conocimiento y demás fines.
 
-CGG / KCC / JBA / LVB / RSA / MDT DistribuciÃ³n: - SubdirecciÃ³n de FiscalizaciÃ³n Dpto. de AnÃ¡lisis Masivo del Cumplimiento Tributario c/Ãrea de Riesgos de Devoluciones y Gastos
+CGG / KCC / JBA / LVB / RSA / MDT Distribución: - Subdirección de Fiscalización Dpto. de Análisis Masivo del Cumplimiento Tributario c/Área de Riesgos de Devoluciones y Gastos
 
 * Internet

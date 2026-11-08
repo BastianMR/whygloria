@@ -1,22 +1,23 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 4 (2014)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 04.- |
+---
+type: "SII Circular"
+title: "Circular N° 4 (2014)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 04.- |"
 tags: [SII, 2014, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 04.-** |
+
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 04.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 de enero de 2014.- |
-| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de enero del aÃ±o 2014 y el 9 de febrero del aÃ±o 2014 | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÃA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta |
+| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2014 y el 9 de febrero del año 2014 | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÍA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41Âº bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de enero del aÃ±o 2014 y el 9 de febrero del aÃ±o 2014, los cuales se indican en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41º bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de enero del año 2014 y el 9 de febrero del año 2014, los cuales se indican en forma destacada en negrita.
 
-VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
+VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
 
 (Publicado en D.O. de 09.01.2014)
 
-| **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** | **AÃ‘O 2014** |
+| **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** | **AÑO 2014** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 23.312,57 | 23.440,40 |  |  |  |  |  |  |  |  |  |  |
@@ -53,4 +54,4 @@ VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
 
 Saluda a Ud.,
 
-## ALEJANDRO BURR ORTÃšZAR DIRECTOR - AL BOLETÃN - A INTERNET
+## ALEJANDRO BURR ORTÚZAR DIRECTOR - AL BOLETÍN - A INTERNET

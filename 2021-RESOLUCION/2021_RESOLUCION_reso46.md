@@ -1,61 +1,62 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 50 (2021)
-description: SUBDIRECCIÃ“N DE ASUNTOS CORPORATIVOS GE00181274
+---
+type: "SII Resolución"
+title: "Resolución N° 50 (2021)"
+description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274"
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASUNTOS CORPORATIVOS GE00181274
 
-MAT.: Individualiza a las personas que, en razÃ³n de su funciÃ³n o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3Â° inciso 2Â° de la Ley NÂ° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca ResoluciÃ³n Exenta SII NÂ° 50, de 2020.
+## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274
+
+MAT.: Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 50, de 2020.
 
 ## SANTIAGO, 03 DE MAYO DE 2021.
 
-## RESOLUCIÃ“N EXENTA SII NÂ° 46
+## RESOLUCIÓN EXENTA SII N° 46
 
-VISTOS: Lo dispuesto en el artÃ­culo 7Â°, letras c) y r) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el ArtÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; en el artÃ­culo 31 inciso 2Â°, de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; en el artÃ­culo 61 de la Ley NÂ° 19.880 que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Ã“rganos de la AdministraciÃ³n del Estado; la ResoluciÃ³n NÂ° 07, de 2019, de la ContralorÃ­a General de la RepÃºblica; las necesidades del Servicio, y;
+VISTOS: Lo dispuesto en el artículo 7°, letras c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; en el artículo 31 inciso 2°, de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el artículo 61 de la Ley N° 19.880 que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; la Resolución N° 07, de 2019, de la Contraloría General de la República; las necesidades del Servicio, y;
 
 ## CONSIDERANDO:
 
-1Â°. Que, el inciso segundo del artÃ­culo 3Â° de la Ley NÂ° 20.730 establece que 'el jefe superior del Servicio respectivo individualizarÃ¡ a las personas que en razÃ³n de su funciÃ³n o cargo tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, y reciban por ello regularmente una remuneraciÃ³n', agregando que las individualizarÃ¡ anualmente, mediante una resoluciÃ³n que deberÃ¡ publicarse de forma permanente en los sitios electrÃ³nicos indicados en el artÃ­culo 9Â° de la ley. Este artÃ­culo se remite a los sitios electrÃ³nicos a que hace referencia el artÃ­culo 7Â° de la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica.
+1°. Que, el inciso segundo del artículo 3° de la Ley N° 20.730 establece que 'el jefe superior del Servicio respectivo individualizará a las personas que en razón de su función o cargo tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, y reciban por ello regularmente una remuneración', agregando que las individualizará anualmente, mediante una resolución que deberá publicarse de forma permanente en los sitios electrónicos indicados en el artículo 9° de la ley. Este artículo se remite a los sitios electrónicos a que hace referencia el artículo 7° de la Ley N° 20.285, sobre Acceso a la Información Pública.
 
-2Â°. Que, el Decreto Supremo NÂ° 71, de 2014, del Ministerio SecretarÃ­a General de la Presidencia, sobre Reglamento de la Ley NÂ° 20.730, seÃ±ala en su artÃ­culo 5Â°, que mediante resoluciÃ³n fundada, que se dictarÃ¡ el primer dÃ­a hÃ¡bil del mes de mayo, se individualizarÃ¡n en una nÃ³mina como sujetos pasivos de lobby o gestiÃ³n de intereses particulares las autoridades o funcionarios que en razÃ³n de su funciÃ³n o cargo cumplan con la condiciÃ³n establecida en la Ley NÂ° 20.730 inciso segundo del artÃ­culo 3Â°, y que tal nÃ³mina deberÃ¡ encontrarse permanentemente a disposiciÃ³n del pÃºblico, mensualmente actualizada y publicada en el sitio electrÃ³nico del Servicio correspondiente.
+2°. Que, el Decreto Supremo N° 71, de 2014, del Ministerio Secretaría General de la Presidencia, sobre Reglamento de la Ley N° 20.730, señala en su artículo 5°, que mediante resolución fundada, que se dictará el primer día hábil del mes de mayo, se individualizarán en una nómina como sujetos pasivos de lobby o gestión de intereses particulares las autoridades o funcionarios que en razón de su función o cargo cumplan con la condición establecida en la Ley N° 20.730 inciso segundo del artículo 3°, y que tal nómina deberá encontrarse permanentemente a disposición del público, mensualmente actualizada y publicada en el sitio electrónico del Servicio correspondiente.
 
-3Â°. Que, con fecha 04 de mayo de 2020, se dictÃ³ la ResoluciÃ³n Exenta SII NÂ° 50, que individualiza sujetos pasivos conforme lo dispuesto en el artÃ­culo 3Â° inciso segundo de la Ley NÂ° 20.730.
+3°. Que, con fecha 04 de mayo de 2020, se dictó la Resolución Exenta SII N° 50, que individualiza sujetos pasivos conforme lo dispuesto en el artículo 3° inciso segundo de la Ley N° 20.730.
 
-4Â°. Que, es menester dar cumplimiento a lo establecido en el inciso segundo del artÃ­culo 3Â° de la Ley NÂ° 20.730.
+4°. Que, es menester dar cumplimiento a lo establecido en el inciso segundo del artículo 3° de la Ley N° 20.730.
 
 ## RESUELVO:
 
-1Â°. - DESÃGNASE en calidad de Sujetos Pasivos, conforme lo dispuesto en el artÃ­culo 3Â° inciso segundo de la Ley NÂ° 20.730 y en el artÃ­culo 5Â° del Decreto Supremo NÂ° 71, de 2014, del Ministerio SecretarÃ­a General de la Presidencia, los siguientes servidores pÃºblicos, en razÃ³n del cargo y responsabilidad que en cada caso se indica. Las obligaciones respectivas recaerÃ¡n tambiÃ©n sobre quienes subroguen o suplan en dicha funciÃ³n, cuando la ejerzan:
+1°. - DESÍGNASE en calidad de Sujetos Pasivos, conforme lo dispuesto en el artículo 3° inciso segundo de la Ley N° 20.730 y en el artículo 5° del Decreto Supremo N° 71, de 2014, del Ministerio Secretaría General de la Presidencia, los siguientes servidores públicos, en razón del cargo y responsabilidad que en cada caso se indica. Las obligaciones respectivas recaerán también sobre quienes subroguen o suplan en dicha función, cuando la ejerzan:
 
-SUBDIRECTOR DE ADMINISTRACIÃ“N JEFE DE GABINETE SUBDIRECCIÃ“N DE ADMINISTRACIÃ“N JEFE DEPARTAMENTO DE ADQUISICIONES JEFE DEPARTAMENTO DE FINANZAS JEFE DEPARTAMENTO DE INFRAESTRUCTURA JEFE OFICINA DE PRESUPUESTO JEFE OFICINA DE SERVICIOS DE APROVISIONAMIENTO Y GESTIÃ“N DOCUMENTAL
+SUBDIRECTOR DE ADMINISTRACIÓN JEFE DE GABINETE SUBDIRECCIÓN DE ADMINISTRACIÓN JEFE DEPARTAMENTO DE ADQUISICIONES JEFE DEPARTAMENTO DE FINANZAS JEFE DEPARTAMENTO DE INFRAESTRUCTURA JEFE OFICINA DE PRESUPUESTO JEFE OFICINA DE SERVICIOS DE APROVISIONAMIENTO Y GESTIÓN DOCUMENTAL
 
-SUBDIRECTOR DE DESARROLLO DE PERSONAS JEFE DE GABINETE SUBDIRECCIÃ“N DE DESARROLLO DE PERSONAS JEFE DEPARTAMENTO DE DESARROLLO ORGANIZACIONAL JEFE DEPARTAMENTO DE FORMACIÃ“N JEFE DEPARTAMENTO DE GESTIÃ“N DE LAS PERSONAS JEFE OFICINA DE BIENESTAR Y CALIDAD DE VIDA
+SUBDIRECTOR DE DESARROLLO DE PERSONAS JEFE DE GABINETE SUBDIRECCIÓN DE DESARROLLO DE PERSONAS JEFE DEPARTAMENTO DE DESARROLLO ORGANIZACIONAL JEFE DEPARTAMENTO DE FORMACIÓN JEFE DEPARTAMENTO DE GESTIÓN DE LAS PERSONAS JEFE OFICINA DE BIENESTAR Y CALIDAD DE VIDA
 
-SUBDIRECTOR DE FISCALIZACIÃ“N JEFE DE GABINETE SUBDIRECCIÃ“N DE FISCALIZACIÃ“N JEFE DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE CONTROL DE GESTIÃ“N Y PROCESOS JEFE DEPARTAMENTO DE GESTIÃ“N DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N JEFE OFICINA DE ANÃLISIS DE ELUSIÃ“N JEFE OFICINA DE APOYO LEGAL Y ADMINISTRATIVO
+SUBDIRECTOR DE FISCALIZACIÓN JEFE DE GABINETE SUBDIRECCIÓN DE FISCALIZACIÓN JEFE DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE CONTROL DE GESTIÓN Y PROCESOS JEFE DEPARTAMENTO DE GESTIÓN DEL CUMPLIMIENTO TRIBUTARIO JEFE DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN JEFE OFICINA DE ANÁLISIS DE ELUSIÓN JEFE OFICINA DE APOYO LEGAL Y ADMINISTRATIVO
 
-SUBDIRECTOR DE INFORMÃTICA JEFE DE GABINETE SUBDIRECCIÃ“N DE INFORMÃTICA JEFE DEPARTAMENTO INFORMÃTICA ASEGURAMIENTO DE ESTÃNDARES TECNOLÃ“GICOS JEFE DEPARTAMENTO INFORMÃTICA AVALUACIONES Y ASISTENCIA AL CONTRIBUYENTE JEFE DEPARTAMENTO INFORMÃTICA IMPUESTOS DIRECTOS E INDIRECTOS JEFE DEPARTAMENTO INFORMÃTICA PLATAFORMA OPERACIONAL JEFE DEPARTAMENTO INFORMÃTICA SISTEMAS TRANSVERSALES JEFE OFICINA INFORMÃTICA GESTIÃ“N JEFE OFICINA INFORMÃTICA INTELIGENCIA DE NEGOCIOS JEFE OFICINA INFORMÃTICA PRODUCCIÃ“N
+SUBDIRECTOR DE INFORMÁTICA JEFE DE GABINETE SUBDIRECCIÓN DE INFORMÁTICA JEFE DEPARTAMENTO INFORMÁTICA ASEGURAMIENTO DE ESTÁNDARES TECNOLÓGICOS JEFE DEPARTAMENTO INFORMÁTICA AVALUACIONES Y ASISTENCIA AL CONTRIBUYENTE JEFE DEPARTAMENTO INFORMÁTICA IMPUESTOS DIRECTOS E INDIRECTOS JEFE DEPARTAMENTO INFORMÁTICA PLATAFORMA OPERACIONAL JEFE DEPARTAMENTO INFORMÁTICA SISTEMAS TRANSVERSALES JEFE OFICINA INFORMÁTICA GESTIÓN JEFE OFICINA INFORMÁTICA INTELIGENCIA DE NEGOCIOS JEFE OFICINA INFORMÁTICA PRODUCCIÓN
 
-SUBDIRECTOR DE AVALUACIONES JEFE DE GABINETE SUBDIRECCIÃ“N DE AVALUACIONES JEFE DEPARTAMENTO DE FISCALIZACIÃ“N DEL CATASTRO JEFE DEPARTAMENTO DE TASACIONES JEFE OFICINA DE ANÃLISIS Y CONTROL DE GESTIÃ“N JEFE OFICINA DE NORMAS Y CASOS ESPECIALES JEFE OFICINA DE OPERACIONES JEFE OFICINA DE PROYECTOS
+SUBDIRECTOR DE AVALUACIONES JEFE DE GABINETE SUBDIRECCIÓN DE AVALUACIONES JEFE DEPARTAMENTO DE FISCALIZACIÓN DEL CATASTRO JEFE DEPARTAMENTO DE TASACIONES JEFE OFICINA DE ANÁLISIS Y CONTROL DE GESTIÓN JEFE OFICINA DE NORMAS Y CASOS ESPECIALES JEFE OFICINA DE OPERACIONES JEFE OFICINA DE PROYECTOS
 
-SUBDIRECTOR JURÃDICO JEFE DE GABINETE SUBDIRECCIÃ“N JURÃDICA JEFE DEPARTAMENTO DE ASESORÃA JURÃDICA JEFE DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL JEFE DEPARTAMENTO DE DEFENSA JUDICIAL PENAL JEFE DEPARTAMENTO DE DELITOS TRIBUTARIOS JEFE OFICINA DE GESTIÃ“N Y APOYO EN JURISPRUDENCIA
+SUBDIRECTOR JURÍDICO JEFE DE GABINETE SUBDIRECCIÓN JURÍDICA JEFE DEPARTAMENTO DE ASESORÍA JURÍDICA JEFE DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL JEFE DEPARTAMENTO DE DEFENSA JUDICIAL PENAL JEFE DEPARTAMENTO DE DELITOS TRIBUTARIOS JEFE OFICINA DE GESTIÓN Y APOYO EN JURISPRUDENCIA
 
-SUBDIRECTOR NORMATIVO JEFE DE GABINETE SUBDIRECCIÃ“N NORMATIVA JEFE DEPARTAMENTO IMPUESTOS DIRECTOS JEFE DEPARTAMENTO IMPUESTOS INDIRECTOS JEFE DEPARTAMENTO DE NORMAS INTERNACIONALES JEFE DEPARTAMENTO TÃ‰CNICA TRIBUTARIA JEFE OFICINA DE GESTIÃ“N NORMATIVA
+SUBDIRECTOR NORMATIVO JEFE DE GABINETE SUBDIRECCIÓN NORMATIVA JEFE DEPARTAMENTO IMPUESTOS DIRECTOS JEFE DEPARTAMENTO IMPUESTOS INDIRECTOS JEFE DEPARTAMENTO DE NORMAS INTERNACIONALES JEFE DEPARTAMENTO TÉCNICA TRIBUTARIA JEFE OFICINA DE GESTIÓN NORMATIVA
 
-SUBDIRECTOR CONTRALOR INTERNO JEFE DE GABINETE SUBDIRECCIÃ“N DE CONTRALORÃA INTERNA JEFE DEPARTAMENTO DE AUDITORÃA INTERNA JEFE DEPARTAMENTO FISCALÃA ADMINISTRATIVA JEFE OFICINA DE ADMINISTRACIÃ“N DE RIESGOS INSTITUCIONALES
+SUBDIRECTOR CONTRALOR INTERNO JEFE DE GABINETE SUBDIRECCIÓN DE CONTRALORÍA INTERNA JEFE DEPARTAMENTO DE AUDITORÍA INTERNA JEFE DEPARTAMENTO FISCALÍA ADMINISTRATIVA JEFE OFICINA DE ADMINISTRACIÓN DE RIESGOS INSTITUCIONALES
 
-SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE JEFE DE GABINETE SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE JEFE DEPARTAMENTO CICLO DE VIDA JEFE OFICINA DE CONTENIDOS Y GESTIÃ“N JEFE OFICINA DE ATENCIÃ“N DE CONTRIBUYENTES JEFE OFICINA DE CANALES DIGITALES JEFE OFICINA DE GESTIÃ“N DE LA EXPERIENCIA
+SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE JEFE DE GABINETE SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE JEFE DEPARTAMENTO CICLO DE VIDA JEFE OFICINA DE CONTENIDOS Y GESTIÓN JEFE OFICINA DE ATENCIÓN DE CONTRIBUYENTES JEFE OFICINA DE CANALES DIGITALES JEFE OFICINA DE GESTIÓN DE LA EXPERIENCIA
 
-SUBDIRECTOR DE ASUNTOS CORPORATIVOS JEFE DE GABINETE SUBDIRECCIÃ“N DE ASUNTOS CORPORATIVOS JEFE OFICINA DE COMUNICACIONES Y MARKETING JEFE OFICINA DE COORDINACIÃ“N REGIONAL JEFE OFICINA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÃ“N
+SUBDIRECTOR DE ASUNTOS CORPORATIVOS JEFE DE GABINETE SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS JEFE OFICINA DE COMUNICACIONES Y MARKETING JEFE OFICINA DE COORDINACIÓN REGIONAL JEFE OFICINA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-SUBDIRECTOR DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS JEFE DE GABINETE SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIO JEFE DEPARTAMENTO ESTUDIOS ECONÃ“MICOS Y TRIBUTARIOS JEFE OFICINA DE GESTIÃ“N DE PROCESOS JEFE OFICINA DE PLANIFICACIÃ“N ESTRATÃ‰GICA Y CONTROL DE GESTIÃ“N INSTITUCIONAL
+SUBDIRECTOR DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS JEFE DE GABINETE SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIO JEFE DEPARTAMENTO ESTUDIOS ECONÓMICOS Y TRIBUTARIOS JEFE OFICINA DE GESTIÓN DE PROCESOS JEFE OFICINA DE PLANIFICACIÓN ESTRATÉGICA Y CONTROL DE GESTIÓN INSTITUCIONAL
 
-DIRECTOR DE GRANDES CONTRIBUYENTES JEFE DE GABINETE DIRECCIÃ“N DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE ADMINISTRACIÃ“N DIRECCIÃ“N DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE APOYO A LA FISCALIZACIÃ“N Y COMERCIO EXTERIOR JEFE DEPARTAMENTO FISCALIZACIÃ“N GRANDES EMPRESAS NACIONALES JEFE DEPARTAMENTO FISCALIZACIÃ“N GRANDES EMPRESAS INTERNACIONALES JEFE DEPARTAMENTO JURÃDICO DIRECCIÃ“N DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS JEFE OFICINA DE ATENCIÃ“N Y ASISTENCIA A LOS GRANDES CONTRIBUYENTES JEFE OFICINA FISCALIZACIÃ“N GRANDES OSFL Y GRANDES ENTIDADES FISCALES
+DIRECTOR DE GRANDES CONTRIBUYENTES JEFE DE GABINETE DIRECCIÓN DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE ADMINISTRACIÓN DIRECCIÓN DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE APOYO A LA FISCALIZACIÓN Y COMERCIO EXTERIOR JEFE DEPARTAMENTO FISCALIZACIÓN GRANDES EMPRESAS NACIONALES JEFE DEPARTAMENTO FISCALIZACIÓN GRANDES EMPRESAS INTERNACIONALES JEFE DEPARTAMENTO JURÍDICO DIRECCIÓN DE GRANDES CONTRIBUYENTES JEFE DEPARTAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS JEFE OFICINA DE ATENCIÓN Y ASISTENCIA A LOS GRANDES CONTRIBUYENTES JEFE OFICINA FISCALIZACIÓN GRANDES OSFL Y GRANDES ENTIDADES FISCALES
 
-de 4 de mayo de 2020. 2Â°. - REVÃ“CASE la ResoluciÃ³n Exenta SII NÂ° 50,
+de 4 de mayo de 2020. 2°. - REVÓCASE la Resolución Exenta SII N° 50,
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE en el Diario Oficial y en los sitios electrÃ³nicos a que se refiere el artÃ­culo 9Â° de la Ley NÂ° 20.730.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE en el Diario Oficial y en los sitios electrónicos a que se refiere el artículo 9° de la Ley N° 20.730.
 
 <unknown>
 
@@ -65,4 +66,4 @@ ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE en el Diario Oficial y en los sitios
 
 RPA/VMG
 
-DistribuciÃ³n: - Internet - Diario Oficial, en extracto
+Distribución: - Internet - Diario Oficial, en extracto

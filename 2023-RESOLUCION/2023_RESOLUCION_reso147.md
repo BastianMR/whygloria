@@ -1,256 +1,257 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 147 (2023)
-description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE255547
+---
+type: "SII Resolución"
+title: "Resolución N° 147 (2023)"
+description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547"
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE255547
 
-MATERIA: Aprueba el Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la ComisiÃ³n Nacional de Riego y el Servicio de Impuestos Internos.
+## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547
+
+MATERIA: Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos.
 
 SANTIAGO, 27 DE DICIEMBRE DE 2023.
 
-RESOLUCIÃ“N EX. SII NÂ°147.-
+RESOLUCIÓN EX. SII N°147.-
 
 VISTOS:
 
-Lo dispuesto en los artÃ­culos 1Â° y 7Â° letra o) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de Hacienda, de 1980; Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; Ley NÂ° 20.575 que establece el Principio de Finalidad en el Tratamiento de Datos Personales; Ley NÂ° 20.285 sobre Acceso a la InformaciÃ³n PÃºblica; el artÃ­culo 5Â° de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; el Decreto Ley NÂ° 1.172, de 1975, que crea la ComisiÃ³n Nacional de Riego; la Ley NÂ°18.450, que Aprueba normas para el Fomento de la InversiÃ³n Privada en Obras de Riego y Drenaje; y la ResoluciÃ³n NÂ° 7, del aÃ±o 2019, de la ContralorÃ­a General de la RepÃºblica, que fija normas sobre exenciÃ³n del trÃ¡mite de toma de razÃ³n.
+Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de Hacienda, de 1980; Ley N° 19.628, sobre Protección de la Vida Privada; Ley N° 20.575 que establece el Principio de Finalidad en el Tratamiento de Datos Personales; Ley N° 20.285 sobre Acceso a la Información Pública; el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; el Decreto Ley N° 1.172, de 1975, que crea la Comisión Nacional de Riego; la Ley N°18.450, que Aprueba normas para el Fomento de la Inversión Privada en Obras de Riego y Drenaje; y la Resolución N° 7, del año 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente.
 
-2.- Que, a su vez, la ComisiÃ³n Nacional de Riego, es un servicio del Ministerio de Agricultura, creado en 1975 con el fin de coordinar los esfuerzos y supervisar las inversiones en riego del paÃ­s, ademÃ¡s de asegurar el incremento y mejoramiento de la superficie regada del paÃ­s, mediante la PolÃ­tica Nacional de Riego. Su autoridad mÃ¡xima es un Consejo de Ministros, entidad responsable de decidir cuÃ¡les son las inversiones y la planificaciÃ³n de polÃ­ticas pÃºblicas en materia de riego del paÃ­s. EstÃ¡ presidido por el Ministro de Agricultura e integrado ademÃ¡s por los Ministros de Obras PÃºblicas, Desarrollo Social, Hacienda y EconomÃ­a, Fomento y Turismo.
+2.- Que, a su vez, la Comisión Nacional de Riego, es un servicio del Ministerio de Agricultura, creado en 1975 con el fin de coordinar los esfuerzos y supervisar las inversiones en riego del país, además de asegurar el incremento y mejoramiento de la superficie regada del país, mediante la Política Nacional de Riego. Su autoridad máxima es un Consejo de Ministros, entidad responsable de decidir cuáles son las inversiones y la planificación de políticas públicas en materia de riego del país. Está presidido por el Ministro de Agricultura e integrado además por los Ministros de Obras Públicas, Desarrollo Social, Hacienda y Economía, Fomento y Turismo.
 
-3.- Que, en virtud de lo anterior, y en cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, el Servicio de Impuestos Internos y la ComisiÃ³n Nacional de Riego han acordado suscribir un convenio de colaboraciÃ³n destinado a intercambiar informaciÃ³n contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o estÃ¡n facultadas legalmente para administrar.
+3.- Que, en virtud de lo anterior, y en cumplimiento de sus funciones y en el marco de las normas legales y reglamentarias pertinentes, el Servicio de Impuestos Internos y la Comisión Nacional de Riego han acordado suscribir un convenio de colaboración destinado a intercambiar información contenida en los bancos de datos que cada entidad posee y cuyo contenido les pertenece o están facultadas legalmente para administrar.
 
 ## RESUELVO:
 
-ApruÃ©bese el convenio de intercambio de informaciÃ³n y colaboraciÃ³n entre la ComisiÃ³n Nacional de Riego y el Servicio de Impuestos Internos, celebrado el 13 de diciembre de 2023, cuyo texto es el siguiente:
+Apruébese el convenio de intercambio de información y colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos, celebrado el 13 de diciembre de 2023, cuyo texto es el siguiente:
 
-## ' CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE LA COMISIÃ“N NACIONAL DE RIEGO Y EL SERVICIO DE IMPUESTOS INTERNOS
+## ' CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE LA COMISIÓN NACIONAL DE RIEGO Y EL SERVICIO DE IMPUESTOS INTERNOS
 
-En Santiago, a 13 de diciembre de 2023, entre el Servicio de Impuestos Internos, RUT 60.803.000-K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don HernÃ¡n Frigolett CÃ³rdova, cÃ©dula de identidad NÂ° 6.367.513-K, ambos con domicilio en Teatinos NÂ° 120, Santiago y la ComisiÃ³n Nacional de Riego, RUT 60.718.000-8 en adelante indistintamente denominado 'CNR', representado por don Wilson Ureta Parraguez, cÃ©dula de i dentidad NÂ° 15.415.6771, ambos con domicilio en Av. Libertador Bernardo O'Higgins 1449, torre 1, piso 4, Santiago, se ha convenido lo siguiente:
+En Santiago, a 13 de diciembre de 2023, entre el Servicio de Impuestos Internos, RUT 60.803.000-K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don Hernán Frigolett Córdova, cédula de identidad N° 6.367.513-K, ambos con domicilio en Teatinos N° 120, Santiago y la Comisión Nacional de Riego, RUT 60.718.000-8 en adelante indistintamente denominado 'CNR', representado por don Wilson Ureta Parraguez, cédula de i dentidad N° 15.415.6771, ambos con domicilio en Av. Libertador Bernardo O'Higgins 1449, torre 1, piso 4, Santiago, se ha convenido lo siguiente:
 
-PRIMERO: La ComisiÃ³n Nacional de Riego, en adelante e indistintamente la 'CNR' o la 'ComisiÃ³n', es una persona jurÃ­dica de derecho pÃºblico, creada por el decreto de Ley NÂ° 1.172, de septiembre de 1975 y modificado por la Ley NÂ° 21.597 publicada en el diario oficial el 26 de septiembre de 2023, con el objeto de asegurar el incremento y mejoramiento de la superficie regada del paÃ­s. EstÃ¡ organizada en un Consejo de Ministros integrado por los titulares de Agricultura -quien lo preside- EconomÃ­a, Fomento y Turismo; Hacienda; Obras PÃºblicas y Desarrollo Social, y cuenta con una SecretarÃ­a Ejecutiva, que tiene como funciÃ³n principal ejecutar los acuerdos que adopta el Consejo. Su misiÃ³n institucional es dirigir la acciÃ³n pÃºblica para el desarrollo del riego en el paÃ­s, mediante una PolÃ­tica Nacional de Riego que, a travÃ©s de programas, proyectos e instrumentos de fomento al riego y drenaje, contribuya al uso eficiente del recurso hÃ­drico en la agricultura, a la seguridad hÃ­drica en las cuencas, a la seguridad alimentaria y a la participaciÃ³n de agricultores y agricultoras en forma diferenciada de acuerdo a sus realidades y diversidad. Asimismo, la ComisiÃ³n administra la bonificaciÃ³n a que se refiere la Ley NÂ°18.450, que Aprueba normas para el Fomento de la InversiÃ³n Privada en Obras de Riego y Drenaje. SEGUNDO: De acuerdo al artÃ­culo 1Â° de su Ley OrgÃ¡nica, contenida en el Decreto con Fuerza de Ley NÂ°7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente. En razÃ³n de dicho objeto, obtiene y procesa informaciÃ³n de los contribuyentes. TERCERO: En razÃ³n de lo anterior, considerando el principio de coordinaciÃ³n consagrado en el artÃ­culo 5Â° de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; lo dispuesto en los artÃ­culos 4 al 16 y 20 de la Ley NÂ° 19.628, sobre protecciÃ³n de la vida privada, que establecen un marco al procesamiento de la informaciÃ³n; la CNR y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de informaciÃ³n para ser utilizada dentro del marco de sus competencias. Esto Ãºltimo con el fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han encargado. CUARTO: La CNR y el SERVICIO, para efectos de cumplir con el intercambio de informaciÃ³n previsto en este convenio, se conectarÃ¡n ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la informaciÃ³n a ser traspasada entre las partes se especifica en los Anexos, que se entienden parte integrante del presente convenio. Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intenciÃ³n de nuevos intercambios de informaciÃ³n, se adjuntarÃ¡ a travÃ©s de un nuevo anexo, que se entenderÃ¡ parte integrante de este convenio, previo anÃ¡lisis y pronunciamiento de las Ã¡reas pertinentes a la materia a intercambiar, y las Ã¡reas jurÃ­dicas de ambas instituciones. El intercambio de informaciÃ³n y el otorgamiento de servicios objeto de este Convenio, no serÃ¡ remunerado. QUINTO: Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designarÃ¡ un Coordinador. El SERVICIO designa como coordinador, para estos efectos, al Jefe del Departamento de Estudios EconÃ³micos y Tributarios dependiente de la SubdirecciÃ³n de GestiÃ³n EstratÃ©gica y Estudios Tributarios. La CNR designa como coordinadora, para estos efectos, a la Encargada de Convenio de CNR. En el evento de modificarse la designaciÃ³n, se deberÃ¡ comunicar tal situaciÃ³n formalmente, mediante oficio, al jefe superior de la otra instituciÃ³n.
+PRIMERO: La Comisión Nacional de Riego, en adelante e indistintamente la 'CNR' o la 'Comisión', es una persona jurídica de derecho público, creada por el decreto de Ley N° 1.172, de septiembre de 1975 y modificado por la Ley N° 21.597 publicada en el diario oficial el 26 de septiembre de 2023, con el objeto de asegurar el incremento y mejoramiento de la superficie regada del país. Está organizada en un Consejo de Ministros integrado por los titulares de Agricultura -quien lo preside- Economía, Fomento y Turismo; Hacienda; Obras Públicas y Desarrollo Social, y cuenta con una Secretaría Ejecutiva, que tiene como función principal ejecutar los acuerdos que adopta el Consejo. Su misión institucional es dirigir la acción pública para el desarrollo del riego en el país, mediante una Política Nacional de Riego que, a través de programas, proyectos e instrumentos de fomento al riego y drenaje, contribuya al uso eficiente del recurso hídrico en la agricultura, a la seguridad hídrica en las cuencas, a la seguridad alimentaria y a la participación de agricultores y agricultoras en forma diferenciada de acuerdo a sus realidades y diversidad. Asimismo, la Comisión administra la bonificación a que se refiere la Ley N°18.450, que Aprueba normas para el Fomento de la Inversión Privada en Obras de Riego y Drenaje. SEGUNDO: De acuerdo al artículo 1° de su Ley Orgánica, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente. En razón de dicho objeto, obtiene y procesa información de los contribuyentes. TERCERO: En razón de lo anterior, considerando el principio de coordinación consagrado en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en los artículos 4 al 16 y 20 de la Ley N° 19.628, sobre protección de la vida privada, que establecen un marco al procesamiento de la información; la CNR y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de información para ser utilizada dentro del marco de sus competencias. Esto último con el fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han encargado. CUARTO: La CNR y el SERVICIO, para efectos de cumplir con el intercambio de información previsto en este convenio, se conectarán ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la información a ser traspasada entre las partes se especifica en los Anexos, que se entienden parte integrante del presente convenio. Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intención de nuevos intercambios de información, se adjuntará a través de un nuevo anexo, que se entenderá parte integrante de este convenio, previo análisis y pronunciamiento de las áreas pertinentes a la materia a intercambiar, y las áreas jurídicas de ambas instituciones. El intercambio de información y el otorgamiento de servicios objeto de este Convenio, no será remunerado. QUINTO: Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designará un Coordinador. El SERVICIO designa como coordinador, para estos efectos, al Jefe del Departamento de Estudios Económicos y Tributarios dependiente de la Subdirección de Gestión Estratégica y Estudios Tributarios. La CNR designa como coordinadora, para estos efectos, a la Encargada de Convenio de CNR. En el evento de modificarse la designación, se deberá comunicar tal situación formalmente, mediante oficio, al jefe superior de la otra institución.
 
-SEXTO: Ambas partes se obligan a utilizar la informaciÃ³n proporcionada por el otro, sÃ³lo para los fines propios de cada instituciÃ³n, autorizados por el presente convenio, para lo que deberÃ¡n mantener la confidencialidad correspondiente, en el marco de sus competencias legales, quedando prohibido un uso distinto al seÃ±alado. Asimismo, se obliga a limitar la divulgaciÃ³n de la informaciÃ³n, materia de este convenio, sÃ³lo a aquellos funcionarios que estrictamente tengan la obligaciÃ³n de conocerla, evitando el acceso a terceros no autorizados. Las partes deberÃ¡n instruir por escrito, de acuerdo con sus procedimientos formales internos, a cualquier funcionario que tenga acceso a la informaciÃ³n, respecto a la imposibilidad absoluta de copiarla, total o parcialmente, revelar, publicar, difundir, vender, ceder, reproducir, interferir, interceptar, alterar, modificar, daÃ±ar, inutilizar, destruir, ya sea durante la vigencia del convenio como despuÃ©s de su tÃ©rmino. En dicho contexto, tanto el SERVICIO como la CNR, cumplirÃ¡n con lo establecido al efecto por el D.S. NÂ°83, del aÃ±o 2005, del Ministerio SecretarÃ­a General de la Presidencia, que aprueba norma tÃ©cnica para los Ã³rganos de la AdministraciÃ³n del Estado sobre seguridad y confidencialidad de los documentos electrÃ³nicos.
+SEXTO: Ambas partes se obligan a utilizar la información proporcionada por el otro, sólo para los fines propios de cada institución, autorizados por el presente convenio, para lo que deberán mantener la confidencialidad correspondiente, en el marco de sus competencias legales, quedando prohibido un uso distinto al señalado. Asimismo, se obliga a limitar la divulgación de la información, materia de este convenio, sólo a aquellos funcionarios que estrictamente tengan la obligación de conocerla, evitando el acceso a terceros no autorizados. Las partes deberán instruir por escrito, de acuerdo con sus procedimientos formales internos, a cualquier funcionario que tenga acceso a la información, respecto a la imposibilidad absoluta de copiarla, total o parcialmente, revelar, publicar, difundir, vender, ceder, reproducir, interferir, interceptar, alterar, modificar, dañar, inutilizar, destruir, ya sea durante la vigencia del convenio como después de su término. En dicho contexto, tanto el SERVICIO como la CNR, cumplirán con lo establecido al efecto por el D.S. N°83, del año 2005, del Ministerio Secretaría General de la Presidencia, que aprueba norma técnica para los órganos de la Administración del Estado sobre seguridad y confidencialidad de los documentos electrónicos.
 
-En consecuencia, ambas partes deberÃ¡n velar por el cumplimento de la Ley NÂ°19.628 Sobre ProtecciÃ³n de la Vida Privada y a lo dispuesto en el artÃ­culo 35 del CÃ³digo Tributario. Este Ãºltimo, por cuanto ni el SERVICIO, ni la CNR solicitarÃ¡ informaciÃ³n sujeta a reserva sin que exista una norma de excepciÃ³n que la habilite expresamente para tal efecto.
+En consecuencia, ambas partes deberán velar por el cumplimento de la Ley N°19.628 Sobre Protección de la Vida Privada y a lo dispuesto en el artículo 35 del Código Tributario. Este último, por cuanto ni el SERVICIO, ni la CNR solicitará información sujeta a reserva sin que exista una norma de excepción que la habilite expresamente para tal efecto.
 
-Las partes se obligan a respetar las disposiciones de la Ley NÂ°20.285, sobre Acceso a la InformaciÃ³n PÃºblica.
+Las partes se obligan a respetar las disposiciones de la Ley N°20.285, sobre Acceso a la Información Pública.
 
-SÃ‰PTIMO: Cualquier incumplimiento respecto de las obligaciones contraÃ­das en virtud del presente acuerdo, en materia de intercambio de informaciÃ³n, darÃ¡ derecho a la parte diligente a poner tÃ©rmino inmediato y en forma anticipada al Convenio.
+SÉPTIMO: Cualquier incumplimiento respecto de las obligaciones contraídas en virtud del presente acuerdo, en materia de intercambio de información, dará derecho a la parte diligente a poner término inmediato y en forma anticipada al Convenio.
 
-OCTAVO: El presente convenio tendrÃ¡ una duraciÃ³n de 1 aÃ±o y se entenderÃ¡ prorrogado automÃ¡ticamente por perÃ­odos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intenciÃ³n de ponerle tÃ©rmino con, al menos, 60 dÃ­as de antelaciÃ³n, mediante carta certificada dirigida al Jefe Superior del respectivo servicio.
+OCTAVO: El presente convenio tendrá una duración de 1 año y se entenderá prorrogado automáticamente por períodos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intención de ponerle término con, al menos, 60 días de antelación, mediante carta certificada dirigida al Jefe Superior del respectivo servicio.
 
-No obstante, lo anterior, el convenio terminarÃ¡ cuando la ley modifique la competencia de las partes para la entrega de la informaciÃ³n o para recibirla, o que dicha informaciÃ³n sea catalogada como informaciÃ³n confidencial que no puede ser transferida entre los distintos Ã³rganos de la AdministraciÃ³n del Estado.
+No obstante, lo anterior, el convenio terminará cuando la ley modifique la competencia de las partes para la entrega de la información o para recibirla, o que dicha información sea catalogada como información confidencial que no puede ser transferida entre los distintos órganos de la Administración del Estado.
 
-La entrada en vigencia del presente convenio deja sin efecto el Convenio de Intercambio de InformaciÃ³n firmado el 14 de Junio de 2004, aprobado por resoluciÃ³n SII NÂ° 1000 del 21 de Septiembre de 2004, entre el Servicio de Impuestos Internos y la ComisiÃ³n Nacional de Riego, puesto que lo reemplaza en su totalidad. Cualquier referencia al Convenio, se entenderÃ¡ efectuada a Ã©ste.
+La entrada en vigencia del presente convenio deja sin efecto el Convenio de Intercambio de Información firmado el 14 de Junio de 2004, aprobado por resolución SII N° 1000 del 21 de Septiembre de 2004, entre el Servicio de Impuestos Internos y la Comisión Nacional de Riego, puesto que lo reemplaza en su totalidad. Cualquier referencia al Convenio, se entenderá efectuada a éste.
 
-El presente convenio podrÃ¡ suscribirse con firma electrÃ³nica avanzada o materialmente, en este Ãºltimo
+El presente convenio podrá suscribirse con firma electrónica avanzada o materialmente, en este último
 
 NOVENO: caso, las partes conservaran un ejemplar en su poder.
 
 Para todos los efectos legales se entiende como fecha del convenio, la fecha de la primera firma de los otorgantes.
 
-## DÃ‰CIMO:
+## DÉCIMO:
 
-El presente Convenio comenzarÃ¡ a regir el dÃ­a primero del mes siguiente a aquel en que se produzca la total tramitaciÃ³n de la Ãºltima resoluciÃ³n y/o decreto que lo apruebe, circunstancia que deberÃ¡ comunicarse por escrito a la otra parte.
+El presente Convenio comenzará a regir el día primero del mes siguiente a aquel en que se produzca la total tramitación de la última resolución y/o decreto que lo apruebe, circunstancia que deberá comunicarse por escrito a la otra parte.
 
-La personerÃ­a de don Wilson Ureta Parraguez para actuar como Director Ejecutivo de la ComisiÃ³n Nacional de Riego, consta en el Decreto Supremo NÂ°48 del Ministerio de Agricultura, de fecha 10 de
+La personería de don Wilson Ureta Parraguez para actuar como Director Ejecutivo de la Comisión Nacional de Riego, consta en el Decreto Supremo N°48 del Ministerio de Agricultura, de fecha 10 de
 
-UNDÃ‰CIMO: mayo de 2022.
+UNDÉCIMO: mayo de 2022.
 
-La personerÃ­a de don HernÃ¡n Frigolett CÃ³rdova, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo NÂ°446, del dÃ­a 31 de marzo de 2022, del Ministerio de Hacienda.
+La personería de don Hernán Frigolett Córdova, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo N°446, del día 31 de marzo de 2022, del Ministerio de Hacienda.
 
-WILSON URETA PARRAGUEZ DIRECTOR EJECUTIVO COMISIÃ“N NACIONAL DE RIEGO
+WILSON URETA PARRAGUEZ DIRECTOR EJECUTIVO COMISIÓN NACIONAL DE RIEGO
 
-HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
+HERNÁN FRIGOLETT CÓRDOVA DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
 
-## ANEXO NÂ°1
+## ANEXO N°1
 
-InformaciÃ³n que se traspasarÃ¡ desde el SERVICIO a la CNR.
+Información que se traspasará desde el SERVICIO a la CNR.
 
-## 1. InformaciÃ³n a traspasar a travÃ©s de Web Service:
+## 1. Información a traspasar a través de Web Service:
 
-Para acceder a la informaciÃ³n a travÃ©s de Webservice, la CNR debe previamente autenticarse enviando un token en el Header o Body del Request HTTP, segÃºn corresponda, el cual equivale a un identificador Ãºnico que es almacenado y enviado al cliente en el Header o Body del Response HTTP del proceso de AutenticaciÃ³n AutomÃ¡tica con Certificado Digital (CD), y permite la bÃºsqueda de toda la informaciÃ³n relacionada a una sesiÃ³n del cliente. AdemÃ¡s, la CNR como el organismo consumidor del o los servicios de informaciÃ³n que se mencionan a continuaciÃ³n, debe ser autorizada mediante la asignaciÃ³n de perfil(es) y validaciÃ³n de IP, completando de esta manera los procesos de autenticaciÃ³n y autorizaciÃ³n requeridos para el uso de los servicios provistos por el Servicio de Impuestos Internos.
+Para acceder a la información a través de Webservice, la CNR debe previamente autenticarse enviando un token en el Header o Body del Request HTTP, según corresponda, el cual equivale a un identificador único que es almacenado y enviado al cliente en el Header o Body del Response HTTP del proceso de Autenticación Automática con Certificado Digital (CD), y permite la búsqueda de toda la información relacionada a una sesión del cliente. Además, la CNR como el organismo consumidor del o los servicios de información que se mencionan a continuación, debe ser autorizada mediante la asignación de perfil(es) y validación de IP, completando de esta manera los procesos de autenticación y autorización requeridos para el uso de los servicios provistos por el Servicio de Impuestos Internos.
 
-El proceso de AutenticaciÃ³n AutomÃ¡tica con CD, debe realizarse a travÃ©s del uso de protocolos seguros TLS, actualizados y vigentes para los sitios del SII (mayor detalle en [<u>https://www.ssllabs.com/ssltest/analyze.html?d=ws1.sii.cl</u>](https://www.ssllabs.com/ssltest/analyze.html?d=ws1.sii.cl)).
+El proceso de Autenticación Automática con CD, debe realizarse a través del uso de protocolos seguros TLS, actualizados y vigentes para los sitios del SII (mayor detalle en [<u>https://www.ssllabs.com/ssltest/analyze.html?d=ws1.sii.cl</u>](https://www.ssllabs.com/ssltest/analyze.html?d=ws1.sii.cl)).
 
-El nÃºmero mÃ¡ximo de transacciones por segundo de cada servicio WS al que tenga acceso la instituciÃ³n, serÃ¡ definido por el SII de acuerdo a sus PolÃ­ticas de Seguridad, velando por el correcto funcionamiento de sus Sistemas Operacionales.
+El número máximo de transacciones por segundo de cada servicio WS al que tenga acceso la institución, será definido por el SII de acuerdo a sus Políticas de Seguridad, velando por el correcto funcionamiento de sus Sistemas Operacionales.
 
-La implementaciÃ³n del proceso de autenticaciÃ³n, obtenciÃ³n de semilla y token, debe realizarse segÃºn el Manual de Desarrollador AutenticaciÃ³n AutomÃ¡tica, es su versiÃ³n 1.12 o superior.
+La implementación del proceso de autenticación, obtención de semilla y token, debe realizarse según el Manual de Desarrollador Autenticación Automática, es su versión 1.12 o superior.
 
-Se debe tener presente que la duraciÃ³n del token es de una hora sin actividad, la cual se renueva automÃ¡ticamente con cada consulta, por lo es responsabilidad de la instituciÃ³n manejar esta situaciÃ³n y no sobrecargar los sistemas y servicios del SII. No se debe pedir semilla y token por cada transacciÃ³n de consulta realizada.
+Se debe tener presente que la duración del token es de una hora sin actividad, la cual se renueva automáticamente con cada consulta, por lo es responsabilidad de la institución manejar esta situación y no sobrecargar los sistemas y servicios del SII. No se debe pedir semilla y token por cada transacción de consulta realizada.
 
-El uso de los servicios es para sistemas en lÃ­nea por lo que no se deben encolar transacciones para luego realizar llamadas en forma masiva. Este tipo de operaciÃ³n tiene restricciones a nivel de firewall y se podrÃ­a bloquear la IP desde donde se nos consulta.
+El uso de los servicios es para sistemas en línea por lo que no se deben encolar transacciones para luego realizar llamadas en forma masiva. Este tipo de operación tiene restricciones a nivel de firewall y se podría bloquear la IP desde donde se nos consulta.
 
 ## a) Actividades inscritas
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un RUT de contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450, su dÃ­gito verificador (DV) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un RUT de contribuyente postulante o beneficiario de la bonificación de la ley 18.450, su dígito verificador (DV) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | CÃ³digo estado. |
-| GLOSA | Detalle cÃ³digo. |
-| ACTIVIDAD | CÃ³digo de actividad econÃ³mica. |
-| CATEGORIA | CategorÃ­a de la actividad econÃ³mica. \* |
-| DESCRIPCION | DescripciÃ³n del cÃ³digo de actividad. |
+| ESTADO | Código estado. |
+| GLOSA | Detalle código. |
+| ACTIVIDAD | Código de actividad económica. |
+| CATEGORIA | Categoría de la actividad económica. \* |
+| DESCRIPCION | Descripción del código de actividad. |
 | FECHINIC | Fecha de inicio de actividad. |
 
-\*Valores: primera categorÃ­a, segunda categorÃ­a.
+\*Valores: primera categoría, segunda categoría.
 
-## b) Detalle bien raÃ­z
+## b) Detalle bien raíz
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un Rol (comuna, manzana, predio) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un Rol (comuna, manzana, predio) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | CÃ³digo estado. |
-| GLOSA | Detalle cÃ³digo. |
-| COMUNA\_ACTUAL | CÃ³digo de comuna. |
-| MANZANA\_ACTUAL | NÃºmero de manzana. |
-| PREDIO\_ACTUAL | NÃºmero del predio. |
-| DIR\_PREDIAL | DirecciÃ³n predial. |
-| SERIE | NÃºmero de serie. ('A' AgrÃ­cola, 'N' No agrÃ­cola) |
+| ESTADO | Código estado. |
+| GLOSA | Detalle código. |
+| COMUNA\_ACTUAL | Código de comuna. |
+| MANZANA\_ACTUAL | Número de manzana. |
+| PREDIO\_ACTUAL | Número del predio. |
+| DIR\_PREDIAL | Dirección predial. |
+| SERIE | Número de serie. ('A' Agrícola, 'N' No agrícola) |
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| UBICACIÃ“N | UbicaciÃ³n del Rol. |
+| UBICACIÓN | Ubicación del Rol. |
 | DESTINO\_PRINCIPAL | Destino principal del Rol. |
-| NUM\_MZ\_BIEN\_COMUN | NÃºmero de manzana bien comÃºn. |
-| NUM\_PRED\_BIEN\_COMUN | NÃºmero de predio bien comÃºn. |
-| FEC\_INSCRIP\_CBR | Fecha de inscripciÃ³n en Conservador Bienes RaÃ­ces informado. |
-| AVL\_TOTAL | Corresponde al valor histÃ³rico (en moneda del perÃ­odo de aplicaciÃ³n del reavalÃºo correspondiente) ponderado por el factor de IPC entre ese perÃ­odo y el perÃ­odo actual. |
-| AVL\_EXENTO | Corresponde al valor histÃ³rico determinado, ya sea al momento del reavalÃºo correspondiente o bien al momento de aplicar una modificaciÃ³n a las condiciones de exenciÃ³n de un predio, ponderado por el factor de IPC entre el perÃ­odo correspondiente y el perÃ­odo actual. |
+| NUM\_MZ\_BIEN\_COMUN | Número de manzana bien común. |
+| NUM\_PRED\_BIEN\_COMUN | Número de predio bien común. |
+| FEC\_INSCRIP\_CBR | Fecha de inscripción en Conservador Bienes Raíces informado. |
+| AVL\_TOTAL | Corresponde al valor histórico (en moneda del período de aplicación del reavalúo correspondiente) ponderado por el factor de IPC entre ese período y el período actual. |
+| AVL\_EXENTO | Corresponde al valor histórico determinado, ya sea al momento del reavalúo correspondiente o bien al momento de aplicar una modificación a las condiciones de exención de un predio, ponderado por el factor de IPC entre el período correspondiente y el período actual. |
 | TOT\_APAGAR | Total a pagar. |
-| AGNO\_TER\_EXC | AÃ±o tÃ©rmino exenciÃ³n. |
-| AGNO\_ PERIODO | AÃ±o periodo. |
+| AGNO\_TER\_EXC | Año término exención. |
+| AGNO\_ PERIODO | Año periodo. |
 | SEMESTRE | Semestre periodo. |
-| AGNO\_RESOL | AÃ±o resoluciÃ³n. |
-| NUM\_RESOL | NÃºmero de resoluciÃ³n. |
+| AGNO\_RESOL | Año resolución. |
+| NUM\_RESOL | Número de resolución. |
 
 ## c) Estado de factura
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un RUT de contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450, su dÃ­gito verificador (DV), nÃºmero de documento y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos
+Para obtener esta información, se requieren un RUT de contribuyente postulante o beneficiario de la bonificación de la ley 18.450, su dígito verificador (DV), número de documento y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | CÃ³digo estado. |
-| GLOSA | Valores 'S" o "N" si el contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450 tiene o no observaciones. |
-| FEC\_LEGALIZACION | Fecha del Ãºltimo timbraje de documentos. |
-| REPORTADO | Tipo de observaciÃ³n. |
-| FECHA\_ANULACION | Fecha anulaciÃ³n de documento. |
+| ESTADO | Código estado. |
+| GLOSA | Valores 'S" o "N" si el contribuyente postulante o beneficiario de la bonificación de la ley 18.450 tiene o no observaciones. |
+| FEC\_LEGALIZACION | Fecha del último timbraje de documentos. |
+| REPORTADO | Tipo de observación. |
+| FECHA\_ANULACION | Fecha anulación de documento. |
 
-## d) Ãšltimos documentos tributarios autorizados
+## d) Últimos documentos tributarios autorizados
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un RUT de contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450, su dÃ­gito verificador (DV) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un RUT de contribuyente postulante o beneficiario de la bonificación de la ley 18.450, su dígito verificador (DV) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| Retorno | CÃ³digo estado. |
-| Glosa | Detalle cÃ³digo. |
-| tipoDeDocumento\* | CÃ³digo tipo de documento autorizado por el SII. |
-| Descripcion | DescripciÃ³n tipo de documento autorizado por el SII. |
-| ultimoDocumentoAutorizado | NÃºmero del Ãºltimo documento autorizado. |
-| fechadeAutorizacion | Fecha de la Ãºltima autorizaciÃ³n de documentos. |
+| Retorno | Código estado. |
+| Glosa | Detalle código. |
+| tipoDeDocumento\* | Código tipo de documento autorizado por el SII. |
+| Descripcion | Descripción tipo de documento autorizado por el SII. |
+| ultimoDocumentoAutorizado | Número del último documento autorizado. |
+| fechadeAutorizacion | Fecha de la última autorización de documentos. |
 
-\*Pueden ser electrÃ³nicos o fÃ­sicos.
+\*Pueden ser electrónicos o físicos.
 
-## e) Desglose avalÃºos de un predio
+## e) Desglose avalúos de un predio
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un Rol (comuna, manzana, predio) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un Rol (comuna, manzana, predio) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | CÃ³digo estado. |
-| GLOSA | Detalle cÃ³digo. |
+| ESTADO | Código estado. |
+| GLOSA | Detalle código. |
 | COMUNA | Comuna |
 | MANZANA | Manzana |
 | PREDIO | Predio |
-| DIRECCION\_PREDIAL | DirecciÃ³n del predio. |
-| AVALUO\_TERRENO\_PROPIO | AvalÃºo del terreno propio. |
-| AVALUO\_CONSTRUCCIONES | AvalÃºo construcciones. |
-| AVALUO\_CASA\_PATRONAL | AvalÃºo casa patronal. |
-| AVALUO\_AGRO\_INDUSTRIAL | AvalÃºo agroindustrial. |
+| DIRECCION\_PREDIAL | Dirección del predio. |
+| AVALUO\_TERRENO\_PROPIO | Avalúo del terreno propio. |
+| AVALUO\_CONSTRUCCIONES | Avalúo construcciones. |
+| AVALUO\_CASA\_PATRONAL | Avalúo casa patronal. |
+| AVALUO\_AGRO\_INDUSTRIAL | Avalúo agroindustrial. |
 | BENEFICIO\_CASA\_PATRONAL | Beneficio casa patronal. |
-| AVALUO\_BIEN\_COMUN1 | AvalÃºo adicional al bien raÃ­z 1. |
-| AVALUO\_BIEN\_COMUN2 | AvalÃºo adicional al bien raÃ­z 2. |
-| AVALUO\_TOTAL | AvalÃºo total. |
+| AVALUO\_BIEN\_COMUN1 | Avalúo adicional al bien raíz 1. |
+| AVALUO\_BIEN\_COMUN2 | Avalúo adicional al bien raíz 2. |
+| AVALUO\_TOTAL | Avalúo total. |
 | SUPERFICIE\_TERRENO | Superficie del terreno. |
 | UM\_SUPERFICIE\_TERRENO | Unidad de medida de la superficie del terreno. |
 | SUPERFICIE\_CONSTRUCCIONES | Superficie construcciones. |
 | UM\_SUPERFICIE\_CONSTRUCCIONES | Unidad de medida de la superficie de construcciones. |
 | DESTINO | Destino del predio. |
-| UBICACIÃ“N | UbicaciÃ³n del predio. |
+| UBICACIÓN | Ubicación del predio. |
 
 ## f) Tramo de renta
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un RUT de contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450, su dÃ­gito verificador (DV), un aÃ±o comercial y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un RUT de contribuyente postulante o beneficiario de la bonificación de la ley 18.450, su dígito verificador (DV), un año comercial y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| Id | CÃ³digo de error. |
-| DescripciÃ³n | DescripciÃ³n del error. |
-| Rut | RUT del contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450. |
-| Dv | DÃ­gito verificador del contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450. |
-| AnioComercial | AÃ±o comercial relacionado a la actividad econÃ³mica principal. |
+| Id | Código de error. |
+| Descripción | Descripción del error. |
+| Rut | RUT del contribuyente postulante o beneficiario de la bonificación de la ley 18.450. |
+| Dv | Dígito verificador del contribuyente postulante o beneficiario de la bonificación de la ley 18.450. |
+| AnioComercial | Año comercial relacionado a la actividad económica principal. |
 | Tramo | Tramo de renta. |
 
 ## g) Tramo de venta anual
 
-ParÃ¡metros de entrada:
+Parámetros de entrada:
 
-Para obtener esta informaciÃ³n, se requieren un RUT de contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450, su dÃ­gito verificador (DV), un aÃ±o comercial y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+Para obtener esta información, se requieren un RUT de contribuyente postulante o beneficiario de la bonificación de la ley 18.450, su dígito verificador (DV), un año comercial y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| Id | CÃ³digo de error. |
-| DescripciÃ³n | DescripciÃ³n del error. |
-| Rut | RUT del contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450. |
-| Dv | DÃ­gito verificador del contribuyente postulante o beneficiario de la bonificaciÃ³n de la ley 18.450. |
-| AnioComercial | AÃ±o comercial ligado al tamaÃ±o de las ventas. |
-| Tamano | TamaÃ±o de las ventas. |
+| Id | Código de error. |
+| Descripción | Descripción del error. |
+| Rut | RUT del contribuyente postulante o beneficiario de la bonificación de la ley 18.450. |
+| Dv | Dígito verificador del contribuyente postulante o beneficiario de la bonificación de la ley 18.450. |
+| AnioComercial | Año comercial ligado al tamaño de las ventas. |
+| Tamano | Tamaño de las ventas. |
 
-## ANEXO NÂ°2
+## ANEXO N°2
 
-InformaciÃ³n que se traspasarÃ¡ desde la CNR al SERVICIO.
+Información que se traspasará desde la CNR al SERVICIO.
 
-1. InformaciÃ³n a traspasar a travÃ©s de AplicaciÃ³n en LÃ­nea:
+1. Información a traspasar a través de Aplicación en Línea:
 
-* a) Sistema ElectrÃ³nico de PostulaciÃ³n (SEP)
+* a) Sistema Electrónico de Postulación (SEP)
 
-1. -DescripciÃ³n AplicaciÃ³n: AplicaciÃ³n Web que gestiona los procesos de la ley 18.450, desde la creaciÃ³n de proyectos, su postulaciÃ³n a concursos, revisiÃ³n de postulaciones, bonificaciÃ³n de proyectos, construcciÃ³n y pago.
-2. -Requiere AutenticaciÃ³n: Si
-3. -Tipo de AutenticaciÃ³n: Clave Ãšnica
+1. -Descripción Aplicación: Aplicación Web que gestiona los procesos de la ley 18.450, desde la creación de proyectos, su postulación a concursos, revisión de postulaciones, bonificación de proyectos, construcción y pago.
+2. -Requiere Autenticación: Si
+3. -Tipo de Autenticación: Clave Única
 4. -URL: [<u>https://ley18450.cnr.gob.cl</u>](https://ley18450.cnr.gob.cl)
    1. Roles con propietarios que fueron asignados con subsidios de riego
 
@@ -266,76 +267,76 @@ InformaciÃ³n que se traspasarÃ¡ desde la CNR al SERVICIO.
 | **NOMBRE DEL CAMPO** | **DETALLE** |
 | --- | --- |
 | RUTBENEFICIARIO | RUT del beneficiario. |
-| INDICADOR | IdentificaciÃ³n. Nro de bono. |
-| TIPOOBRA | Tipo de obra (Civil, TecnificaciÃ³n, Drenaje). |
+| INDICADOR | Identificación. Nro de bono. |
+| TIPOOBRA | Tipo de obra (Civil, Tecnificación, Drenaje). |
 | NOMBRECONSULTOR | Nombre del Consultor. |
 | RUTCONSULTOR | RUT del Consultor. |
-| DESCRIPCIÃ“NCNR | Naturaleza del Proyecto de InversiÃ³n (de estudios, construcciÃ³n y rehabilitaciÃ³n, tecnificaciÃ³n, etc.). |
-| COSTOPROYECTO | Monto de InversiÃ³n. |
+| DESCRIPCIÓNCNR | Naturaleza del Proyecto de Inversión (de estudios, construcción y rehabilitación, tecnificación, etc.). |
+| COSTOPROYECTO | Monto de Inversión. |
 | BONIFICACIONPORBENEFICIARIO | Montos de las bonificaciones para cada beneficiario. |
-| FECHAPAGO | Fechas de ResoluciÃ³n de pago. |
+| FECHAPAGO | Fechas de Resolución de pago. |
 | TIPOGRUPOOBRA | Tipo de proyecto (ERNC). |
-| ESTRATOPROYECTO | Tipo de beneficiario (PequeÃ±o, productor INDAP, etc). |
+| ESTRATOPROYECTO | Tipo de beneficiario (Pequeño, productor INDAP, etc). |
 | MONTOBONIFICADO | Monto bonificado (Monto del bono entero). |
-| REGION | RegiÃ³n. |
+| REGION | Región. |
 | COMUNA | Comuna. |
 | ROLPREDIO | Rol de la propiedad. |
-| CODIGOPROYECTO | CÃ³digo de proyecto. |
+| CODIGOPROYECTO | Código de proyecto. |
 | COORESTE | Datos Georreferencia. |
 | COORNORTE | Datos Georreferencia. |
 | USO | Datos Georreferencia. |
 | DATUM | Datos Georreferencia. |
-| FECHARECEPTECNICA | Fecha de la recepciÃ³n tÃ©cnica de obra. |
+| FECHARECEPTECNICA | Fecha de la recepción técnica de obra. |
 | ESTADOPROYECTO | Estado del proyecto. |
-| TIPOPERSONA | Persona natural/persona jurÃ­dica. |
-| ESTRATOBENEFICIARIO | Estrato del beneficiario (pequeÃ±o productor agrÃ­cola, pequeÃ±o productor CNR, etc). |
+| TIPOPERSONA | Persona natural/persona jurídica. |
+| ESTRATOBENEFICIARIO | Estrato del beneficiario (pequeño productor agrícola, pequeño productor CNR, etc). |
 | CLASEUSOSUELO | Clase de uso de suelo. |
-| RECLASIFICACIONUSOSUELO | Clase de reclasificaciÃ³n de uso de suelo y superficie que se reclasifico (en el caso de existir). |
+| RECLASIFICACIONUSOSUELO | Clase de reclasificación de uso de suelo y superficie que se reclasifico (en el caso de existir). |
 
-## 3) BB.DD. sobre los documentos de los proyectos ejecutados de los documentos (informaciÃ³n asociada al nÃºmero de proyecto)
+## 3) BB.DD. sobre los documentos de los proyectos ejecutados de los documentos (información asociada al número de proyecto)
 
 | **NOMBRE DEL CAMPO** | **DETALLE** |
 | --- | --- |
 | RUTEMISOR | Rut del Emisor del docto tributario. |
-| TIPODOCTO | Tipo de Documento (factura, guÃ­as de despacho, etc). |
+| TIPODOCTO | Tipo de Documento (factura, guías de despacho, etc). |
 | FECHADOCTO | Fecha del documento. |
-| NRODOCTO | NÃºmero de documento. |
-| MONTONETO | Monto Neto (factura) o LÃ­quido a pagar (boleta de honorarios). |
-| IVA | IVA (factura) o retenciÃ³n del 10% (boleta de honorarios). |
+| NRODOCTO | Número de documento. |
+| MONTONETO | Monto Neto (factura) o Líquido a pagar (boleta de honorarios). |
+| IVA | IVA (factura) o retención del 10% (boleta de honorarios). |
 | MONTOTOTAL | Monto Total (factura) o valor bruto (boleta de honorarios). |
-| FECHARECEPTECNICA | Fecha de la recepciÃ³n tÃ©cnica. |
-| CODIGOPROYECTO | NÃºmero de proyecto. |
+| FECHARECEPTECNICA | Fecha de la recepción técnica. |
+| CODIGOPROYECTO | Número de proyecto. |
 
-1. InformaciÃ³n a traspasar a travÃ©s de entrega Batch con periodicidad semestral, en febrero y julio de cada aÃ±o. SerÃ¡ mediante acceso a carpeta compartida pÃºblica del Servicio Drive, respecto del periodo anterior
+1. Información a traspasar a través de entrega Batch con periodicidad semestral, en febrero y julio de cada año. Será mediante acceso a carpeta compartida pública del Servicio Drive, respecto del periodo anterior
 
 ## a) Estudios de Prefactibilidad de Grandes Obras: Registro de Estudios de Prefactibilidad
 
 | **NOMBRE DEL CAMPO** | **DETALLE** |
 | --- | --- |
-| Naturaleza del Proyecto de InversiÃ³n | Nombre del Estudio de prefactibilidad, Objetivo del Estudio de prefactibilidad. |
-| Monto de la InversiÃ³n | EstimaciÃ³n previa a la ejecuciÃ³n de la obra. |
-| Resultado de EvaluaciÃ³n EconÃ³mica | VAN/TIR |
-| LocalizaciÃ³n del Estudio de Prefactibilidad | Comuna, Ciudad, RegiÃ³n. |
+| Naturaleza del Proyecto de Inversión | Nombre del Estudio de prefactibilidad, Objetivo del Estudio de prefactibilidad. |
+| Monto de la Inversión | Estimación previa a la ejecución de la obra. |
+| Resultado de Evaluación Económica | VAN/TIR |
+| Localización del Estudio de Prefactibilidad | Comuna, Ciudad, Región. |
 
 <unknown>
 
-AMK DistribuciÃ³n
+AMK Distribución
 
 * Internet
 
-## ANEXO NÂ°3
+## ANEXO N°3
 
-## 1. Protocolo tÃ©cnico de intercambio de informaciÃ³n
+## 1. Protocolo técnico de intercambio de información
 
-Ambas instituciones deberÃ¡n elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrÃ¡ las especificaciones tÃ©cnicas del proceso de intercambio de informaciÃ³n tales como: medios de envÃ­o, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la informaciÃ³n, naturaleza de la informaciÃ³n (estructurada o no estructurada), periodicidad, entre otros aspectos tÃ©cnicos a considerar en el intercambio de la informaciÃ³n. Este Documento tÃ©cnico, podrÃ¡ ser revisado y actualizado, a peticiÃ³n de alguna de las Instituciones firmantes y en coordinaciÃ³n con la otra InstituciÃ³n, conforme a las necesidades de nueva informaciÃ³n a intercambiar producto de una actualizaciÃ³n o modificaciÃ³n al Convenio, cambios tecnolÃ³gicos que afecten la naturaleza informÃ¡tica del intercambio o cualquier situaciÃ³n tÃ©cnica del intercambio que amerite actualizar este Documento.
+Ambas instituciones deberán elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrá las especificaciones técnicas del proceso de intercambio de información tales como: medios de envío, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la información, naturaleza de la información (estructurada o no estructurada), periodicidad, entre otros aspectos técnicos a considerar en el intercambio de la información. Este Documento técnico, podrá ser revisado y actualizado, a petición de alguna de las Instituciones firmantes y en coordinación con la otra Institución, conforme a las necesidades de nueva información a intercambiar producto de una actualización o modificación al Convenio, cambios tecnológicos que afecten la naturaleza informática del intercambio o cualquier situación técnica del intercambio que amerite actualizar este Documento.
 
-1. Protocolos de coordinaciÃ³n y colaboraciÃ³n
+1. Protocolos de coordinación y colaboración
 
-* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberÃ¡ comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias.
-* b) Las Instituciones, a peticiÃ³n de algunas de Ã©stas, brindarÃ¡n apoyo tÃ©cnico al organismo que lo solicite a travÃ©s de capacitaciÃ³n, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
-* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboraciÃ³n en procesos o acciones de fiscalizaciÃ³n que se determinen y acuerden entre ambos organismos, en relaciÃ³n con intercambios de informaciÃ³n que apoyen estos procedimientos. '
+* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberá comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias.
+* b) Las Instituciones, a petición de algunas de éstas, brindarán apoyo técnico al organismo que lo solicite a través de capacitación, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
+* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboración en procesos o acciones de fiscalización que se determinen y acuerden entre ambos organismos, en relación con intercambios de información que apoyen estos procedimientos. '
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
 
 <unknown>
 

@@ -1,21 +1,22 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 9 (2013)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 9.- |
+---
+type: "SII Circular"
+title: "Circular N° 9 (2013)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 9.- |"
 tags: [SII, 2013, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 9.-** |
+
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 9.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 de febrero de 2013 |
-| TABLAS DEL IMPUESTO ÃšNICO DE SEGUNDA CATEGORÃA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE MARZO DEL AÃ‘O 2013 E INFORMACIÃ“N ADICIONAL RELACIONADA CON DICHOS TRIBUTOS | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN: 6 RENTA 6(13)00 IMPTO. ÃšNICO DE SEGUNDA CATEGORÃA 6(15)00 IMPTO. GLOBAL COMPLEMENTARIO REF. LEGAL: Arts. 42 NÂ° 1 y 43 al 47 y 52 de la Ley de la Renta. |
+| TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE MARZO DEL AÑO 2013 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: 6 RENTA 6(13)00 IMPTO. ÚNICO DE SEGUNDA CATEGORÍA 6(15)00 IMPTO. GLOBAL COMPLEMENTARIO REF. LEGAL: Arts. 42 N° 1 y 43 al 47 y 52 de la Ley de la Renta. |
 
-## I.INFORMACIÃ“N GENERAL
+## I.INFORMACIÓN GENERAL
 
-* 1.Ãndice y VariaciÃ³n del IPC del mes de enero del aÃ±o 2013 respecto del mes anterior.
-* 2.Unidad Tributaria Mensual y Anual del mes de marzo del aÃ±o 2013.
+* 1.Índice y Variación del IPC del mes de enero del año 2013 respecto del mes anterior.
+* 2.Unidad Tributaria Mensual y Anual del mes de marzo del año 2013.
 
-| **Meses** | **Meses** | **Ãndice** | **VIPC** | **UTM** | **UTA** | **Meses** | **Meses** | **Ãndice** | **VIPC** | **UTM** | **UTA** |
+| **Meses** | **Meses** | **Índice** | **VIPC** | **UTM** | **UTA** | **Meses** | **Meses** | **Índice** | **VIPC** | **UTM** | **UTA** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Diciembre | 2012 | 108,61 | 0,0 | 40.206 | 482.472 | Julio | 2013 |  |  |  |  |
 | Enero | 2013 | 108,80 | 0,2 | 40.005 | 480.060 | Agosto | 2013 |  |  |  |  |
@@ -25,9 +26,9 @@ tags: [SII, 2013, circular]
 | Mayo | 2013 |  |  |  |  | Diciembre | 2013 |  |  |  |  |
 | Junio | 2013 |  |  |  |  |  |  |  |  |  |  |
 
-## 3.Porcentajes de CorrecciÃ³n Monetaria (%)
+## 3.Porcentajes de Corrección Monetaria (%)
 
-| **PerÃ­odos** | **PerÃ­odos** | **Ene.** | **Feb.** | **Mar.** | **Abr.** | **May.** | **Jun.** | **Jul.** | **Ago.** | **Sep.** | **Oct.** | **Nov.** | **Dic.** |
+| **Períodos** | **Períodos** | **Ene.** | **Feb.** | **Mar.** | **Abr.** | **May.** | **Jun.** | **Jul.** | **Ago.** | **Sep.** | **Oct.** | **Nov.** | **Dic.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Capital Propio Inicial | Capital Propio Inicial | 0,0 | 0,1 |  |  |  |  |  |  |  |  |  |  |
 | Enero | 2013 |  | 0,2 |  |  |  |  |  |  |  |  |  |  |
@@ -43,28 +44,28 @@ tags: [SII, 2013, circular]
 | Noviembre | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Diciembre | 2013 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-NOTA: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de correcciÃ³n monetaria de la Ley de la Renta, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualÃ¡ndose Ã©ste a un valor cero (0), normativa que rige tanto para los efectos de la aplicaciÃ³n de las normas sobre correcciÃ³n monetaria para ejercicios o perÃ­odos finalizados al 31 de diciembre de cada aÃ±o como para los tÃ©rminos de giro y demÃ¡s situaciones de reajustabilidad que establece dicho texto legal.
+NOTA: Se hace presente, que de acuerdo a las disposiciones que rigen el sistema de corrección monetaria de la Ley de la Renta, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose éste a un valor cero (0), normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.
 
-* 4.Impuesto Ãšnico que afecta a los choferes de taxis que no son de su propiedad: El monto del impuesto equivale al 3,5% aplicado sobre 2 UTM . Para el mes de marzo del aÃ±o 2013 el tributo asciende a $ 2.806.
-* 5.GratificaciÃ³n de Zona: Para fijar el lÃ­mite mÃ¡ximo establecido en el artÃ­culo 13Âº del D.L. NÂº 889, de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende a $ 574.301, para el mes de marzo de 2013.
-* 6.Impuesto Ãšnico que afecta a los Trabajadores AgrÃ­colas:
-* a) Tasa fija de impuesto..................â€¦â€¦â€¦â€¦â€¦â€¦â€¦....................................â€¦...â€¦............â€¦ 3,5%
+* 4.Impuesto Único que afecta a los choferes de taxis que no son de su propiedad: El monto del impuesto equivale al 3,5% aplicado sobre 2 UTM . Para el mes de marzo del año 2013 el tributo asciende a $ 2.806.
+* 5.Gratificación de Zona: Para fijar el límite máximo establecido en el artículo 13º del D.L. Nº 889, de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende a $ 574.301, para el mes de marzo de 2013.
+* 6.Impuesto Único que afecta a los Trabajadores Agrícolas:
+* a) Tasa fija de impuesto..................…………………....................................…...…............… 3,5%
 * b) Cuota exenta para el mes de marzo 2013 (10 UTM) ................................................. $ 400.850
-* c) SÃ³lo la cantidad que exceda de los $ 400.850 queda afecta a la tributaciÃ³n del 3,5%.
+* c) Sólo la cantidad que exceda de los $ 400.850 queda afecta a la tributación del 3,5%.
 * d) Del impuesto resultante no debe deducirse cantidad alguna.
-* e) La tributaciÃ³n se aplica considerando la misma cantidad sobre la cual se impone en el Sistema Previsional que corresponda (IPS Ã³ AFP).
-* 7.ReliquidaciÃ³n Anual del Impuesto Ãšnico por rentas simultÃ¡neas percibidas de mÃ¡s de un empleador, habilitado o pagador:
+* e) La tributación se aplica considerando la misma cantidad sobre la cual se impone en el Sistema Previsional que corresponda (IPS ó AFP).
+* 7.Reliquidación Anual del Impuesto Único por rentas simultáneas percibidas de más de un empleador, habilitado o pagador:
 
-Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obtengan rentas simultÃ¡neas de mÃ¡s de un empleador, habilitado o pagador, conforme a lo dispuesto por el artÃ­culo
+Los trabajadores dependientes que durante el mes de marzo del año 2013 obtengan rentas simultáneas de más de un empleador, habilitado o pagador, conforme a lo dispuesto por el artículo
 
-47 de la LIR, deberÃ¡n reliquidar anualmente el Impuesto Ãšnico de Segunda CategorÃ­a que les afecta por tales rentas. Los contribuyentes que se encuentren en la situaciÃ³n antes indicada, pueden efectuar dentro del presente aÃ±o calendario pagos provisionales voluntarios a cuenta de las diferencias de impuestos que resulten de la reliquidaciÃ³n anual a practicar al citado tributo, y enterarlos en arcas fiscales mediante el Form. NÂ° 50 (LÃ­nea 57 (CÃ³digo 67)) . Para los mismos fines antes seÃ±alados, tales contribuyentes pueden solicitar a cualquiera de sus empleadores, habilitados o pagadores que les efectÃºen una mayor retenciÃ³n de impuesto Ãºnico, conforme a lo dispuesto por el inciso final del artÃ­culo 88 de la LIR, la cual tambiÃ©n tendrÃ¡ la calidad de un pago provisional voluntario y que se declara en el Formulario NÂ° 29 (LÃ­nea 45, CÃ³digo 48).
+47 de la LIR, deberán reliquidar anualmente el Impuesto Único de Segunda Categoría que les afecta por tales rentas. Los contribuyentes que se encuentren en la situación antes indicada, pueden efectuar dentro del presente año calendario pagos provisionales voluntarios a cuenta de las diferencias de impuestos que resulten de la reliquidación anual a practicar al citado tributo, y enterarlos en arcas fiscales mediante el Form. N° 50 (Línea 57 (Código 67)) . Para los mismos fines antes señalados, tales contribuyentes pueden solicitar a cualquiera de sus empleadores, habilitados o pagadores que les efectúen una mayor retención de impuesto único, conforme a lo dispuesto por el inciso final del artículo 88 de la LIR, la cual también tendrá la calidad de un pago provisional voluntario y que se declara en el Formulario N° 29 (Línea 45, Código 48).
 
-* 8.Impuesto Global Complementario: Los contribuyentes pueden efectuar pagos provisionales en Bancos e Instituciones Financieras Autorizadas para cubrir este impuesto. En atenciÃ³n a que los citados pagos sÃ³lo es posible realizarlos durante el aÃ±o por un monto aproximado, se recomienda utilizar para estos efectos la Tabla del Impuesto Global Complementario correspondiente al mes de marzo 2013 que se presenta en el CapÃ­tulo III siguiente.
-* 9.En la columna "Tasa de impuesto efectiva mÃ¡xima por cada tramo de renta", contenida en la tabla de cÃ¡lculo del Impuesto Ãšnico e Impuesto Global Complementario, se indica sÃ³lo para efectos de referencia la tasa efectiva mÃ¡xima de impuesto que corresponde a cada tramo de renta.
+* 8.Impuesto Global Complementario: Los contribuyentes pueden efectuar pagos provisionales en Bancos e Instituciones Financieras Autorizadas para cubrir este impuesto. En atención a que los citados pagos sólo es posible realizarlos durante el año por un monto aproximado, se recomienda utilizar para estos efectos la Tabla del Impuesto Global Complementario correspondiente al mes de marzo 2013 que se presenta en el Capítulo III siguiente.
+* 9.En la columna "Tasa de impuesto efectiva máxima por cada tramo de renta", contenida en la tabla de cálculo del Impuesto Único e Impuesto Global Complementario, se indica sólo para efectos de referencia la tasa efectiva máxima de impuesto que corresponde a cada tramo de renta.
 
-## II.TABLAS DE CÃLCULO DEL IMPUESTO ÃšNICO DE SEGUNDA CATEGORÃA DEL MES DE MARZO DEL AÃ‘O 2013
+## II.TABLAS DE CÁLCULO DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA DEL MES DE MARZO DEL AÑO 2013
 
-| **PERÃODOS** | **MONTODELARENTALÃQUIDA IMPONIBLE** | **MONTODELARENTALÃQUIDA IMPONIBLE** | **FACTOR** | **CANTIDAD A REBAJAR (NO INCLUYE CRÃ‰DITO 10% DE 1 U.T.M., DEROGADO POR NÂ° ART. ÃšNICO LEY NÂ° 19.753, D.O. 28.09.2001)** | **TASA DE IMPUESTO EFECTIVA MÃXIMA PORCADATRAMO DE** |
+| **PERÍODOS** | **MONTODELARENTALÍQUIDA IMPONIBLE** | **MONTODELARENTALÍQUIDA IMPONIBLE** | **FACTOR** | **CANTIDAD A REBAJAR (NO INCLUYE CRÉDITO 10% DE 1 U.T.M., DEROGADO POR N° ART. ÚNICO LEY N° 19.753, D.O. 28.09.2001)** | **TASA DE IMPUESTO EFECTIVA MÁXIMA PORCADATRAMO DE** |
 | --- | --- | --- | --- | --- | --- |
 |  | DESDE | HASTA |  | 3 | RENTA |
 | MENSUAL | - | $ 541.147,50 | 0,00 | - | Exento |
@@ -74,7 +75,7 @@ Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obteng
 | MENSUAL | $2.805.950,01 | $3.607.650,00 | 0,23 | $ 446.546,90 | 10,62% |
 | MENSUAL | $3.607.650,01 | $4.810.200,00 | 0,304 | $ 713.513,00 | 15,57% |
 | MENSUAL | $4.810.200,01 | $6.012.750,00 | 0,355 | $ 958.833,20 | 19,55% |
-| MENSUAL | $6.012.750,01 | ymÃ¡s | 0,40 | $ 1.229.406,95 | MÃ¡s de 19,55% |
+| MENSUAL | $6.012.750,01 | ymás | 0,40 | $ 1.229.406,95 | Más de 19,55% |
 | QUINCENAL | $ - | $ 270.573,75 | 0,00 | $ \_ | Exento |
 |  | $ 270.573,76 | $ 601.275,00 | 0,04 | $ 10.822,95 | 2,20% |
 |  | $ 601.275,01 | $1.002.125,00 | 0,08 | $ 34.873,95 | 4,52% |
@@ -82,7 +83,7 @@ Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obteng
 |  | $1.402.975,01 | $1.803.825,00 | 0,23 | $ 223.273,45 | 10,62% |
 |  | $1.803.825,01 | $2.405.100,00 | 0,304 | $ 356.756,50 | 15,57% |
 |  | $2.405.100,01 | $3.006.375,00 | 0,355 | $ 479.416,60 | 19,55% |
-|  | $3.006.375,01 | ymÃ¡s | 0,40 | $ 614.703,48 | MÃ¡s de 19,55% |
+|  | $3.006.375,01 | ymás | 0,40 | $ 614.703,48 | Más de 19,55% |
 | SEMANAL | $ \_ | $ 126.267,80 | 0,00 | $ \_ | Exento |
 |  | $ 126.267,81 | $ 280.595,10 | 0,04 | $ 5.050,71 | 2,20% |
 |  | $ 280.595,11 | $ 467.658,50 | 0,08 | $ 16.274,52 | 4,52% |
@@ -90,7 +91,7 @@ Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obteng
 |  | $ 654.721,91 | $ 841.785,30 | 0,23 | $ 104.194,31 | 10,62% |
 |  | $ 841.785,31 | $1.122.380,40 | 0,304 | $ 166.486,43 | 15,57% |
 |  | $1.122.380,41 | $1.402.975,50 | 0,355 | $ 223.727,83 | 19,55% |
-|  | $1.402.975,51 | ymÃ¡s | 0,40 | $ 286.861,72 | MÃ¡s de 19,55% |
+|  | $1.402.975,51 | ymás | 0,40 | $ 286.861,72 | Más de 19,55% |
 | DIARIO | $ \_ | $ 18.038,30 | 0,00 | $ \_ | Exento |
 | DIARIO | $ 18.038,31 | $ 40.085,10 | 0,04 | $ 721,53 | 2,20% |
 | DIARIO | $ 40.085,11 | $ 66.808,50 | 0,08 | $ 2.324,94 | 4,52% |
@@ -98,16 +99,16 @@ Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obteng
 | DIARIO | $ 93.531,91 | $ 120.255,30 | 0,23 | $ 14.884,93 | 10,62% |
 | DIARIO | $ 120.255,31 | $ 160.340,40 | 0,304 | $ 23.783,83 | 15,57% |
 | DIARIO | $ 160.340,41 | $ 200.425,50 | 0,355 | $ 31.961,19 | 19,55% |
-| DIARIO | $ 200.425,51 | y mÃ¡s | 0,40 | $ 40.980,33 | MÃ¡s de 19,55% |
+| DIARIO | $ 200.425,51 | y más | 0,40 | $ 40.980,33 | Más de 19,55% |
 
 3
 
-* III.TABLA DE CÃLCULO DEL IMPUESTO GLOBAL COMPLEMENTARIO DEL MES DE MARZO DEL AÃ‘O 2013
+* III.TABLA DE CÁLCULO DEL IMPUESTO GLOBAL COMPLEMENTARIO DEL MES DE MARZO DEL AÑO 2013
 
-| **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **FACTOR (5)** | **CANTIDAD AREBAJAR (NO INCLUYE CRÃ‰DITO 10% DE 1 U.T.A., DEROGADO PORNÂ° 3 ART. ÃšNICO LEY NÂ° 19.753, D.O. 28.09.2001)** | **CANTIDAD AREBAJAR (NO INCLUYE CRÃ‰DITO 10% DE 1 U.T.A., DEROGADO PORNÂ° 3 ART. ÃšNICO LEY NÂ° 19.753, D.O. 28.09.2001)** | **TASADE IMPUESTO EFECTIVA MÃXIMAPOR CADATRAMO DE RENTA (8)** |
+| **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **RENTA ANUAL IMPONIBLE** | **FACTOR (5)** | **CANTIDAD AREBAJAR (NO INCLUYE CRÉDITO 10% DE 1 U.T.A., DEROGADO PORN° 3 ART. ÚNICO LEY N° 19.753, D.O. 28.09.2001)** | **CANTIDAD AREBAJAR (NO INCLUYE CRÉDITO 10% DE 1 U.T.A., DEROGADO PORN° 3 ART. ÚNICO LEY N° 19.753, D.O. 28.09.2001)** | **TASADE IMPUESTO EFECTIVA MÁXIMAPOR CADATRAMO DE RENTA (8)** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| DESDE | DESDE | HASTA | HASTA | FACTOR (5) |  |  | TASADE IMPUESTO EFECTIVA MÃXIMAPOR CADATRAMO DE RENTA (8) |
-| EN UTA (1) | EN PESOS (2) | EN UTA (3) | EN PESOS (4) | FACTOR (5) | EN UTA (6) | EN PESOS (7) | TASADE IMPUESTO EFECTIVA MÃXIMAPOR CADATRAMO DE RENTA (8) |
+| DESDE | DESDE | HASTA | HASTA | FACTOR (5) |  |  | TASADE IMPUESTO EFECTIVA MÁXIMAPOR CADATRAMO DE RENTA (8) |
+| EN UTA (1) | EN PESOS (2) | EN UTA (3) | EN PESOS (4) | FACTOR (5) | EN UTA (6) | EN PESOS (7) | TASADE IMPUESTO EFECTIVA MÁXIMAPOR CADATRAMO DE RENTA (8) |
 | 0,0 | $ - | 13,5 | $ 6.493.770,00 | EXENTO | 0,000 | $ - | Exento |
 | 13,5 | $ 6.493.770,01 | 30 | $14.430.600,00 | 0,04 | 0,54 | $ 259.750,80 | 2,20% |
 | 30 | $ 14.430.600,01 | 50 | $ 24.051.000,00 | 0,08 | 1,74 | $ 836.974,80 | 4,52% |
@@ -115,12 +116,12 @@ Los trabajadores dependientes que durante el mes de marzo del aÃ±o 2013 obteng
 | 70 | $ 33.671.400,01 | 90 | $ 43.291.800,00 | 0,23 | 11,14 | $ 5.358.562,80 | 10,62% |
 | 90 | $ 43.291.800,01 | 120 | $ 57.722.400,00 | 0,304 | 17,80 | $ 8.562.156,00 | 15,57% |
 | 120 | $ 57.722.400,01 | 150 | $ 72.153.000,00 | 0,355 | 23,92 | $11.505.998,40 | 19,55% |
-| 150 | $ 72.153.000,01 | YMÃS | YMÃS | 0,40 | 30,67 | $14.752.883,40 | MÃ¡s de 19,55% |
-| Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- | Valor UTA mes de marzo 2013â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦â€¦.â€¦â€¦â€¦$481.020.- |
+| 150 | $ 72.153.000,01 | YMÁS | YMÁS | 0,40 | 30,67 | $14.752.883,40 | Más de 19,55% |
+| Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- | Valor UTA mes de marzo 2013………………………………………………………………………….………$481.020.- |
 | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. | La tabla se transforma a pesos multiplicando las cantidades de las columnas (1), (3) y (6) por el valor de la UTA del mes respectivo. |
 
 S aluda a Ud.,
 
-## DISTRIBUCIÃ“N: -AL BOLETÃN -INTERNET
+## DISTRIBUCIÓN: -AL BOLETÍN -INTERNET
 
-## ALEJANDRO BURR ORTÃšZAR DIRECTOR (S)
+## ALEJANDRO BURR ORTÚZAR DIRECTOR (S)

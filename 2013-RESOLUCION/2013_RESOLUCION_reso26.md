@@ -1,58 +1,59 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 121 (2013)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÃ‘AS EMPRESAS
+---
+type: "SII Resolución"
+title: "Resolución N° 121 (2013)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÃ‘AS EMPRESAS
 
-SUSTITÃšYESE LAS INSTRUCCIONES DE LLENADO DE LA DECLARACIÃ“N JURADA FORMULARIO NÂ° 1866 A QUE SE REFIERE LA RESOLUCIÃ“N EX. NÂº 121 DE FECHA 31.12.2004.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS
+
+SUSTITÚYESE LAS INSTRUCCIONES DE LLENADO DE LA DECLARACIÓN JURADA FORMULARIO N° 1866 A QUE SE REFIERE LA RESOLUCIÓN EX. Nº 121 DE FECHA 31.12.2004.
 
 SANTIAGO, 22 de febrero de 2013
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂº \_\_26\_\_\_/
+RESOLUCIÓN EX. SII Nº \_\_26\_\_\_/
 
-VISTOS : Lo dispuesto en los artÃ­culos 1Âº y 7Âº letra b) de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Âº del DFL NÂ° 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 6Âº letra A) NÂº 1, 30 y 60 inciso 8Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ°830 de 1974; y
+VISTOS : Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda; en los artículos 6º letra A) Nº 1, 30 y 60 inciso 8° del Código Tributario, contenido en el artículo 1° del D.L. N°830 de 1974; y
 
 ## CONSIDERANDO:
 
-1Â°. Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administraciÃ³n y fiscalizaciÃ³n de los impuestos, se hace necesario optimizar el uso de los recursos y de la informaciÃ³n que se utilizan para el buen logro de esta funciÃ³n.
+1°. Que, en cumplimiento de las funciones de este Servicio de velar por una eficiente administración y fiscalización de los impuestos, se hace necesario optimizar el uso de los recursos y de la información que se utilizan para el buen logro de esta función.
 
-2Â°. Que, los dos primeros incisos del artÃ­culo 30 del CÃ³digo Tributario establecen que: 'Las declaraciones se presentarÃ¡n por escrito, bajo juramento, en las oficinas del Servicio u otras que seÃ±ale la DirecciÃ³n, en la forma y cumpliendo las exigencias que Ã©sta determine.
+2°. Que, los dos primeros incisos del artículo 30 del Código Tributario establecen que: 'Las declaraciones se presentarán por escrito, bajo juramento, en las oficinas del Servicio u otras que señale la Dirección, en la forma y cumpliendo las exigencias que ésta determine.
 
-La DirecciÃ³n podrÃ¡ autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnolÃ³gicos.'
+La Dirección podrá autorizar a los contribuyentes para que presenten los informes y declaraciones, en medios distintos al papel, cuya lectura pueda efectuarse mediante sistemas tecnológicos.'
 
-3Â°. Que, el inciso 8Â° del artÃ­culo 60 del CÃ³digo Tributario establece que: 'Para la aplicaciÃ³n, fiscalizaciÃ³n o investigaciÃ³n del cumplimiento de las leyes tributarias, el Servicio podrÃ¡ pedir declaraciÃ³n jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicciÃ³n de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas. EstarÃ¡n exceptuados de estas obligaciones, salvo en los casos de sucesiÃ³n por causa de muerte o comunidades en que sean comuneros los parientes, el cÃ³nyuge, los parientes por consanguinidad en la lÃ­nea recta o dentro del cuarto grado de la colateral, el adoptante, el adoptado, los parientes por afinidad en la lÃ­nea recta o dentro del segundo grado de la colateral de dichos terceros. AdemÃ¡s, estarÃ¡n exceptuadas de estas obligaciones las personas obligadas a guardar secreto profesional.'
+3°. Que, el inciso 8° del artículo 60 del Código Tributario establece que: 'Para la aplicación, fiscalización o investigación del cumplimiento de las leyes tributarias, el Servicio podrá pedir declaración jurada por escrito o citar a toda persona domiciliada dentro de la jurisdicción de la oficina que la cite, para que concurra a declarar, bajo juramento, sobre hechos, datos o antecedentes de cualquier naturaleza relacionados con terceras personas. Estarán exceptuados de estas obligaciones, salvo en los casos de sucesión por causa de muerte o comunidades en que sean comuneros los parientes, el cónyuge, los parientes por consanguinidad en la línea recta o dentro del cuarto grado de la colateral, el adoptante, el adoptado, los parientes por afinidad en la línea recta o dentro del segundo grado de la colateral de dichos terceros. Además, estarán exceptuadas de estas obligaciones las personas obligadas a guardar secreto profesional.'
 
-4Â°. Que, con la finalidad de dar una mejor claridad a las instrucciones impartidas para la confecciÃ³n de la DeclaraciÃ³n Jurada NÂ° 1866, evitando con ello errores de llenado que conlleven demoras en el proceso de declaraciÃ³n de los impuestos a la renta.
+4°. Que, con la finalidad de dar una mejor claridad a las instrucciones impartidas para la confección de la Declaración Jurada N° 1866, evitando con ello errores de llenado que conlleven demoras en el proceso de declaración de los impuestos a la renta.
 
 ## SE RESUELVE:
 
-1Â°. SustitÃºyese las instrucciones de llenado de la DeclaraciÃ³n Jurada Formulario NÂº 1866, para proporcionar la informaciÃ³n y antecedentes a que se refiere la ResoluciÃ³n Exenta NÂº 121, de fecha 31.12.2004, por las que se adjuntan como Anexo NÂº 1 a la presente ResoluciÃ³n.
+1°. Sustitúyese las instrucciones de llenado de la Declaración Jurada Formulario Nº 1866, para proporcionar la información y antecedentes a que se refiere la Resolución Exenta Nº 121, de fecha 31.12.2004, por las que se adjuntan como Anexo Nº 1 a la presente Resolución.
 
-2Â°. La DeclaraciÃ³n Jurada, deberÃ¡ enviarse mediante la transmisiÃ³n electrÃ³nica de datos, vÃ­a Internet, y su formato e instrucciones se encuentran disponibles en la pÃ¡gina Web del Servicio de Impuestos Internos: [<u>www.sii.cl</u>](http://www.sii.cl)
+2°. La Declaración Jurada, deberá enviarse mediante la transmisión electrónica de datos, vía Internet, y su formato e instrucciones se encuentran disponibles en la página Web del Servicio de Impuestos Internos: [<u>www.sii.cl</u>](http://www.sii.cl)
 
-3Â°. La presente ResoluciÃ³n regirÃ¡ a contar del AÃ±o Tributario 2013, respecto de la informaciÃ³n que debe proporcionarse por las operaciones efectuadas durante el aÃ±o comercial 2012 y siguientes.
+3°. La presente Resolución regirá a contar del Año Tributario 2013, respecto de la información que debe proporcionarse por las operaciones efectuadas durante el año comercial 2012 y siguientes.
 
-4Â°. El Anexo NÂ°1 de esta ResoluciÃ³n, y que se entiende forma parte Ã­ntegra de ella, se publicarÃ¡ oportunamente en la pÃ¡gina Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+4°. El Anexo N°1 de esta Resolución, y que se entiende forma parte íntegra de ella, se publicará oportunamente en la página Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Toda modificaciÃ³n del anexo aludido en el pÃ¡rrafo anterior, se efectuarÃ¡ mediante su oportuna publicaciÃ³n en la pÃ¡gina web de este Servicio
+Toda modificación del anexo aludido en el párrafo anterior, se efectuará mediante su oportuna publicación en la página web de este Servicio
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
-## (FDO.) ALEJANDRO BURR ORTÃšZAR DIRECTOR (S)
+## (FDO.) ALEJANDRO BURR ORTÚZAR DIRECTOR (S)
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 ## CSM/HHB/PCG
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
-* -AL BOLETÃN
+* -AL BOLETÍN
 * -A INTERNET
 * -AL DIARIO OFICIAL
 
-Anexo 1: Modelo Formulario NÂ° 1866 y sus respectivas instrucciones de llenado.
+Anexo 1: Modelo Formulario N° 1866 y sus respectivas instrucciones de llenado.

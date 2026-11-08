@@ -1,84 +1,85 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 48 (2019)
-description: SUBDIRECCIÃ“N NORMATIVA DEPTO. DE NORMAS INTERNACIONALES
+---
+type: "SII Resolución"
+title: "Resolución N° 48 (2019)"
+description: "SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES"
 tags: [SII, 2019, resolucion]
 ---
 
-## SUBDIRECCIÃ“N NORMATIVA DEPTO. DE NORMAS INTERNACIONALES
 
-MATERIA: REEMPLAZA ANEXO I DE RESOLUCIÃ“N EX. SII NÂ°48, DE 31 DE MAYO DE 2018.
+## SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES
+
+MATERIA: REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N°48, DE 31 DE MAYO DE 2018.
 
 SANTIAGO, 02 DE JULIO DE 2019
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. NÂ° 82.- /
+RESOLUCIÓN EX. N° 82.- /
 
-VISTOS: Lo dispuesto en el artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1 del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 6Â° letra A), NÂº 1, y 62 ter del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂº 830, de 1974; en el Decreto NÂ°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de IdentificaciÃ³n de Cuentas Financieras'; en la ResoluciÃ³n Ex. SII NÂ°48, de 31 de mayo de 2018, que establece obligaciÃ³n de presentar anualmente informaciÃ³n sobre cuentas financieras, de conformidad al artÃ­culo 62 ter del CÃ³digo Tributario; en la ConvenciÃ³n sobre Asistencia Administrativa Mutua en Materia Fiscal y en el Acuerdo Multilateral entre Autoridades Competentes para el Intercambio AutomÃ¡tico de InformaciÃ³n sobre Cuentas Financieras,
+VISTOS: Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6° letra A), Nº 1, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L. Nº 830, de 1974; en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'; en la Resolución Ex. SII N°48, de 31 de mayo de 2018, que establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al artículo 62 ter del Código Tributario; en la Convención sobre Asistencia Administrativa Mutua en Materia Fiscal y en el Acuerdo Multilateral entre Autoridades Competentes para el Intercambio Automático de Información sobre Cuentas Financieras,
 
 ## CONSIDERANDO:
 
-1. Que, de conformidad a la Ley OrgÃ¡nica del Servicio de Impuestos Internos y al CÃ³digo Tributario, corresponde al Director interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
-2. Que, el Decreto NÂ° 418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que contiene el Reglamento que Fija las Obligaciones de IdentificaciÃ³n de Cuentas Financieras (en adelante el 'Reglamento') dispone en su artÃ­culo 9 'Definiciones' que, 'para efectos de las disposiciones de este reglamento se entenderÃ¡': letra D, NÂ°3, 'Por JurisdicciÃ³n Participante', otra jurisdicciÃ³n respecto de la cual se encuentre vigente el Acuerdo Multilateral entre Autoridades Competentes sobre Intercambio AutomÃ¡tico de InformaciÃ³n de Cuentas Financieras u otro acuerdo en virtud del cual dicha jurisdicciÃ³n deba facilitar la informaciÃ³n financiera a que se refiere el presente Reglamento. El Servicio de Impuestos Internos deberÃ¡ mantener una lista actualizada de las jurisdicciones que reÃºnen las condiciones de este nÃºmero'.
-3. Que, la ResoluciÃ³n Ex. SII NÂ°48, de 31 de mayo de 2018, dispone en su resolutivo NÂ°3 que 'Para los efectos de lo establecido en el artÃ­culo 9 'Definiciones', letra D), NÂ°3, del Reglamento, deberÃ¡ considerarse como 'JurisdicciÃ³n Participante' cada una de las jurisdicciones incluidas en el Anexo I de esta resoluciÃ³n.'
-4. Que, resulta necesario actualizar la lista de 'Jurisdicciones Participantes' contenida en el Anexo I de la ResoluciÃ³n Ex. SII NÂ°48, de 31 de mayo de 2018, con el propÃ³sito de incluir las jurisdicciones respecto de las cuales se cumplieren las condiciones establecidas en la definiciÃ³n de dicho termino contenida en el artÃ­culo 9, letra D, NÂ°3, del Reglamento.
+1. Que, de conformidad a la Ley Orgánica del Servicio de Impuestos Internos y al Código Tributario, corresponde al Director interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
+2. Que, el Decreto N° 418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que contiene el Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras (en adelante el 'Reglamento') dispone en su artículo 9 'Definiciones' que, 'para efectos de las disposiciones de este reglamento se entenderá': letra D, N°3, 'Por Jurisdicción Participante', otra jurisdicción respecto de la cual se encuentre vigente el Acuerdo Multilateral entre Autoridades Competentes sobre Intercambio Automático de Información de Cuentas Financieras u otro acuerdo en virtud del cual dicha jurisdicción deba facilitar la información financiera a que se refiere el presente Reglamento. El Servicio de Impuestos Internos deberá mantener una lista actualizada de las jurisdicciones que reúnen las condiciones de este número'.
+3. Que, la Resolución Ex. SII N°48, de 31 de mayo de 2018, dispone en su resolutivo N°3 que 'Para los efectos de lo establecido en el artículo 9 'Definiciones', letra D), N°3, del Reglamento, deberá considerarse como 'Jurisdicción Participante' cada una de las jurisdicciones incluidas en el Anexo I de esta resolución.'
+4. Que, resulta necesario actualizar la lista de 'Jurisdicciones Participantes' contenida en el Anexo I de la Resolución Ex. SII N°48, de 31 de mayo de 2018, con el propósito de incluir las jurisdicciones respecto de las cuales se cumplieren las condiciones establecidas en la definición de dicho termino contenida en el artículo 9, letra D, N°3, del Reglamento.
 
 ## RESUELVO:
 
-1Â° SustitÃºyase el Anexo I de la ResoluciÃ³n Ex. SII NÂ° 48, de 31 de mayo de 2018, por el siguiente:
+1° Sustitúyase el Anexo I de la Resolución Ex. SII N° 48, de 31 de mayo de 2018, por el siguiente:
 
 ## Anexo I
 
 Listado de Jurisdicciones Participantes
 
-El Reglamento que Fija las Obligaciones de IdentificaciÃ³n de Cuentas Financieras, contenido en el Decreto NÂ°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017 (en adelante el 'Reglamento'), dispone en su artÃ­culo 9 'Definiciones' que, 'para efectos de las disposiciones de este reglamento se entenderÃ¡': letra D, NÂ°3, 'Por JurisdicciÃ³n Participante', otra jurisdicciÃ³n respecto de la cual se encuentre vigente el Acuerdo Multilateral entre Autoridades Competentes sobre Intercambio AutomÃ¡tico de InformaciÃ³n de Cuentas Financieras u otro acuerdo en virtud del cual dicha jurisdicciÃ³n deba facilitar la informaciÃ³n financiera a que se refiere el presente Reglamento. El Servicio de Impuestos Internos deberÃ¡ mantener una lista actualizada de las jurisdicciones que reÃºnen las condiciones de este nÃºmero.'
+El Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras, contenido en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017 (en adelante el 'Reglamento'), dispone en su artículo 9 'Definiciones' que, 'para efectos de las disposiciones de este reglamento se entenderá': letra D, N°3, 'Por Jurisdicción Participante', otra jurisdicción respecto de la cual se encuentre vigente el Acuerdo Multilateral entre Autoridades Competentes sobre Intercambio Automático de Información de Cuentas Financieras u otro acuerdo en virtud del cual dicha jurisdicción deba facilitar la información financiera a que se refiere el presente Reglamento. El Servicio de Impuestos Internos deberá mantener una lista actualizada de las jurisdicciones que reúnen las condiciones de este número.'
 
-Lo anterior se relaciona con la definiciÃ³n de 'ENF pasiva' contenida en el artÃ­culo 9, letra D, NÂ°6 del Reglamento, la cual establece que: 'Por 'ENF pasiva' se entiende: (i) Una ENF que no es una ENF activa, o ii) Una entidad de inversiÃ³n descrita en la letra A, nÃºmero 5, b) de este artÃ­culo, que no es una InstituciÃ³n Financiera de una JurisdicciÃ³n Participante'.
+Lo anterior se relaciona con la definición de 'ENF pasiva' contenida en el artículo 9, letra D, N°6 del Reglamento, la cual establece que: 'Por 'ENF pasiva' se entiende: (i) Una ENF que no es una ENF activa, o ii) Una entidad de inversión descrita en la letra A, número 5, b) de este artículo, que no es una Institución Financiera de una Jurisdicción Participante'.
 
-De conformidad con lo anterior, las Instituciones Financieras sujetas al Reglamento deberÃ¡n considerar la siguiente lista de jurisdicciones como 'Jurisdicciones Participantes' para efectos de lo dispuesto en el artÃ­culo 9, letra D, NÂ°3 del Reglamento:
+De conformidad con lo anterior, las Instituciones Financieras sujetas al Reglamento deberán considerar la siguiente lista de jurisdicciones como 'Jurisdicciones Participantes' para efectos de lo dispuesto en el artículo 9, letra D, N°3 del Reglamento:
 
 * 1. Principado de Andorra
   2. Anguila
   3. Antigua y Barbuda
-  4. RepÃºblica Argentina
+  4. República Argentina
   5. Aruba
   6. Mancomunidad de Australia
-  7. RepÃºblica de Austria
-  8. RepÃºblica de AzerbaiyÃ¡n
+  7. República de Austria
+  8. República de Azerbaiyán
   9. Mancomunidad de las Bahamas
-  10. Reino de BahrÃ©in
+  10. Reino de Bahréin
   11. Barbados
-  12. Reino de BÃ©lgica
+  12. Reino de Bélgica
   13. Belice
   14. Bermuda
-  15. RepÃºblica Federativa de Brasil
-  16. Islas VÃ­rgenes BritÃ¡nicas
-  17. RepÃºblica de Bulgaria
-  18. CanadÃ¡
-  19. Islas CaimÃ¡n
-  20. RepÃºblica Popular China
-  21. RepÃºblica de Colombia
+  15. República Federativa de Brasil
+  16. Islas Vírgenes Británicas
+  17. República de Bulgaria
+  18. Canadá
+  19. Islas Caimán
+  20. República Popular China
+  21. República de Colombia
   22. Islas Cook
-  23. RepÃºblica de Costa Rica
-  24. RepÃºblica de Croacia
-  25. PaÃ­s de Curazao
-  26. RepÃºblica de Chipre
-  27. RepÃºblica Checa
+  23. República de Costa Rica
+  24. República de Croacia
+  25. País de Curazao
+  26. República de Chipre
+  27. República Checa
   28. Reino de Dinamarca
   29. Dominica
-  30. RepÃºblica de Estonia
+  30. República de Estonia
   31. Islas Feroe
 
-1. RepÃºblica de Finlandia 33) RepÃºblica Francesa 34) RepÃºblica Federal de Alemania 35) Gibraltar 36) RepÃºblica HelÃ©nica 37) Groenlandia 38) Granada 39) Estados de Guernesey 40) Hong Kong, China 41) HungrÃ­a 42) RepÃºblica de Islandia 43) RepÃºblica de la India 44) RepÃºblica de Indonesia 45) Irlanda 46) Isla de Man 47) Estado de Israel 48) RepÃºblica Italiana 49) JapÃ³n 50) Bailiazgo de Jersey 51) RepÃºblica de Corea 52) Estado de Kuwait 53) RepÃºblica de Letonia 54) RepÃºblica Libanesa 55) Principado de Liechtenstein 56) RepÃºblica de Lituania 57) Gran Ducado de Luxemburgo 58) Macao, China 59) Malasia 60) RepÃºblica de Malta 61) RepÃºblica de las Islas Marshall 62) RepÃºblica de Mauricio 63) Estados Unidos Mexicanos 64) MÃ³naco 65) Montserrat 66) RepÃºblica de Nauru 67) Reino de los PaÃ­ses Bajos 68) Reino de Noruega 69) Nueva Zelanda 70) RepÃºblica IslÃ¡mica de PakistÃ¡n 71) PanamÃ¡ 72) RepÃºblica de Polonia 73) RepÃºblica Portuguesa 74) Estado de Catar 75) Rumania 76) FederaciÃ³n de Rusia 77) FederaciÃ³n de San CristÃ³bal y Nieves 78) Santa LucÃ­a 79) San Vicente y las Granadinas 80) Estado Independiente de Samoa 81) RepÃºblica de San Marino 82) Reino de la Arabia Saudita 83) RepÃºblica de Seychelles 84) RepÃºblica de Singapur 85) RepÃºblica Eslovaca 86) RepÃºblica de Eslovenia 87) RepÃºblica de SudÃ¡frica 88) Reino de EspaÃ±a 89) Reino de Suecia 90) ConfederaciÃ³n Suiza 91) Islas Turcas y Caicos 92) Estado de los Emiratos Ãrabes Unidos 93) Reino Unido de Gran BretaÃ±a e Irlanda del Norte
-2. RepÃºblica Oriental del Uruguay 95) Vanuatu 96) RepÃºblica del PerÃº
+1. República de Finlandia 33) República Francesa 34) República Federal de Alemania 35) Gibraltar 36) República Helénica 37) Groenlandia 38) Granada 39) Estados de Guernesey 40) Hong Kong, China 41) Hungría 42) República de Islandia 43) República de la India 44) República de Indonesia 45) Irlanda 46) Isla de Man 47) Estado de Israel 48) República Italiana 49) Japón 50) Bailiazgo de Jersey 51) República de Corea 52) Estado de Kuwait 53) República de Letonia 54) República Libanesa 55) Principado de Liechtenstein 56) República de Lituania 57) Gran Ducado de Luxemburgo 58) Macao, China 59) Malasia 60) República de Malta 61) República de las Islas Marshall 62) República de Mauricio 63) Estados Unidos Mexicanos 64) Mónaco 65) Montserrat 66) República de Nauru 67) Reino de los Países Bajos 68) Reino de Noruega 69) Nueva Zelanda 70) República Islámica de Pakistán 71) Panamá 72) República de Polonia 73) República Portuguesa 74) Estado de Catar 75) Rumania 76) Federación de Rusia 77) Federación de San Cristóbal y Nieves 78) Santa Lucía 79) San Vicente y las Granadinas 80) Estado Independiente de Samoa 81) República de San Marino 82) Reino de la Arabia Saudita 83) República de Seychelles 84) República de Singapur 85) República Eslovaca 86) República de Eslovenia 87) República de Sudáfrica 88) Reino de España 89) Reino de Suecia 90) Confederación Suiza 91) Islas Turcas y Caicos 92) Estado de los Emiratos Árabes Unidos 93) Reino Unido de Gran Bretaña e Irlanda del Norte
+2. República Oriental del Uruguay 95) Vanuatu 96) República del Perú
 
-2Â° La presente ResoluciÃ³n regirÃ¡ a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial.
+2° La presente Resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 Lo que transcribo a Ud. para su conocimiento y fines pertinentes.
 
-DistribuciÃ³n : - Internet - BoletÃ­n - Diario oficial, en extracto
+Distribución : - Internet - Boletín - Diario oficial, en extracto

@@ -1,96 +1,97 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 5 (2020)
-description: DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES | CIRCULAR NÂ° 5.- |
+---
+type: "SII Circular"
+title: "Circular N° 5 (2020)"
+description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES | CIRCULAR N° 5.- |"
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES** | **CIRCULAR NÂ° 5.-** |
+
+| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES** | **CIRCULAR N° 5.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 DE ENERO 2020 |
-| APLICACIÃ“N DE LA CLAUSULA DE LA NACION MASFAVORECIDAAL CONVENIO CON ITALIA | REFERENCIA: CONVENIOS DE DOBLE TRIBUTACION |
+| APLICACIÓN DE LA CLAUSULA DE LA NACION MASFAVORECIDAAL CONVENIO CON ITALIA | REFERENCIA: CONVENIOS DE DOBLE TRIBUTACION |
 
-La presente circular tiene por objeto impartir instrucciones relativas a la aplicaciÃ³n de la clÃ¡usula de la naciÃ³n mÃ¡s favorecida del Convenio para evitar la doble imposiciÃ³n y prevenir la evasiÃ³n fiscal suscrito entre Chile e Italia.
+La presente circular tiene por objeto impartir instrucciones relativas a la aplicación de la cláusula de la nación más favorecida del Convenio para evitar la doble imposición y prevenir la evasión fiscal suscrito entre Chile e Italia.
 
 ## A) INTRODUCCION.
 
-Chile ha suscrito con algunos paÃ­ses convenios para evitar la doble tributaciÃ³n en los cuales se incluye una clÃ¡usula de la naciÃ³n mÃ¡s favorecida, que establece bajo determinados supuestos que, en caso que Chile acuerde en algÃºn convenio concluido con un tercer Estado una exenciÃ³n o tasa mÃ¡s reducida para las categorÃ­as de rentas que se indican en cada convenio, esa exenciÃ³n o tasa reducida se aplicarÃ¡ como si hubiese sido especificada en el mismo.
+Chile ha suscrito con algunos países convenios para evitar la doble tributación en los cuales se incluye una cláusula de la nación más favorecida, que establece bajo determinados supuestos que, en caso que Chile acuerde en algún convenio concluido con un tercer Estado una exención o tasa más reducida para las categorías de rentas que se indican en cada convenio, esa exención o tasa reducida se aplicará como si hubiese sido especificada en el mismo.
 
-La condiciÃ³n para que la clÃ¡usula de la naciÃ³n mÃ¡s favorecida contenida en ciertos convenios se aplique se cumpliÃ³ con la entrada en vigencia del convenio suscrito con JapÃ³n.
+La condición para que la cláusula de la nación más favorecida contenida en ciertos convenios se aplique se cumplió con la entrada en vigencia del convenio suscrito con Japón.
 
-Las instrucciones relativas a la aplicaciÃ³n de la clÃ¡usula de la naciÃ³n mÃ¡s favorecida en los convenios suscritos con Corea, Dinamarca, Irlanda, Reino Unido, Polonia y RepÃºblica Checa han sido impartidas por este Servicio en la Circular NÂ° 22 del 19 de abril de 2018. Por su parte, las instrucciones relativas a la aplicaciÃ³n de la clÃ¡usula de la naciÃ³n mÃ¡s favorecida en los convenios suscritos con Austria, China, Ecuador y EspaÃ±a han sido impartidas por este Servicio en la Circular NÂ° 50 del 11 de octubre del 2018. Finalmente, las instrucciones relativas a la aplicaciÃ³n de la clÃ¡usula de la naciÃ³n mÃ¡s favorecida en los convenios suscritos con Francia, Suecia y Argentina han sido impartidas por este Servicio en la Circular NÂ° 27 del 28 de junio del 2019.
+Las instrucciones relativas a la aplicación de la cláusula de la nación más favorecida en los convenios suscritos con Corea, Dinamarca, Irlanda, Reino Unido, Polonia y República Checa han sido impartidas por este Servicio en la Circular N° 22 del 19 de abril de 2018. Por su parte, las instrucciones relativas a la aplicación de la cláusula de la nación más favorecida en los convenios suscritos con Austria, China, Ecuador y España han sido impartidas por este Servicio en la Circular N° 50 del 11 de octubre del 2018. Finalmente, las instrucciones relativas a la aplicación de la cláusula de la nación más favorecida en los convenios suscritos con Francia, Suecia y Argentina han sido impartidas por este Servicio en la Circular N° 27 del 28 de junio del 2019.
 
-Esta Circular imparte instrucciones acerca de la aplicaciÃ³n de la clÃ¡usula de la naciÃ³n mÃ¡s favorecida en el Convenio suscrito con Italia .
+Esta Circular imparte instrucciones acerca de la aplicación de la cláusula de la nación más favorecida en el Convenio suscrito con Italia .
 
-## Disposiciones contenidas en el convenio con JapÃ³n.
+## Disposiciones contenidas en el convenio con Japón.
 
-En el convenio suscrito con JapÃ³n, que entrÃ³ en vigor el 28 de diciembre del 2016, y que se aplica respecto a los impuestos sobre las rentas que se obtengan y a las cantidades que se paguen, abonen en cuenta, se pongan a disposiciÃ³n o se contabilicen como gasto, a partir del 1 de enero del aÃ±o 2017, se acordaron las siguientes tasas mÃ¡ximas de retenciÃ³n en la fuente para los intereses y regalÃ­as:
+En el convenio suscrito con Japón, que entró en vigor el 28 de diciembre del 2016, y que se aplica respecto a los impuestos sobre las rentas que se obtengan y a las cantidades que se paguen, abonen en cuenta, se pongan a disposición o se contabilicen como gasto, a partir del 1 de enero del año 2017, se acordaron las siguientes tasas máximas de retención en la fuente para los intereses y regalías:
 
-## a) ArtÃ­culo 11 intereses.
+## a) Artículo 11 intereses.
 
-* ' 2. Sin embargo, dichos intereses tambiÃ©n pueden someterse a imposiciÃ³n en el Estado Contratante del que procedan y segÃºn la legislaciÃ³n de este Estado Contratante,
+* ' 2. Sin embargo, dichos intereses también pueden someterse a imposición en el Estado Contratante del que procedan y según la legislación de este Estado Contratante,
 
-pero si el beneficiario efectivo de los intereses es un residente del otro Estado Contratante, el impuesto asÃ­ exigido no podrÃ¡ exceder del:
+pero si el beneficiario efectivo de los intereses es un residente del otro Estado Contratante, el impuesto así exigido no podrá exceder del:
 
 * (a) 4 por ciento del importe bruto de los intereses, cuando el beneficiario efectivo de los intereses es:
 * (i) un banco;
-* (ii) una compaÃ±Ã­a de seguros;
-* (iii) una empresa que substancialmente obtiene su renta bruta producto de llevar a cabo activa y regularmente actividades comerciales de crÃ©dito o financiamiento con partes no relacionadas, cuando la empresa no estÃ© relacionada con el deudor del interÃ©s. Para los efectos de esta disposiciÃ³n, la expresiÃ³n 'actividades comerciales de crÃ©dito y financiamiento' incluye las actividades de emisiÃ³n de cartas de crÃ©dito o el otorgamiento de garantÃ­as, o el suministro de servicios de tarjetas de crÃ©dito;
+* (ii) una compañía de seguros;
+* (iii) una empresa que substancialmente obtiene su renta bruta producto de llevar a cabo activa y regularmente actividades comerciales de crédito o financiamiento con partes no relacionadas, cuando la empresa no esté relacionada con el deudor del interés. Para los efectos de esta disposición, la expresión 'actividades comerciales de crédito y financiamiento' incluye las actividades de emisión de cartas de crédito o el otorgamiento de garantías, o el suministro de servicios de tarjetas de crédito;
 
-(iv) una empresa que vende maquinaria y equipo, cuando el interÃ©s es pagado en conexiÃ³n con la deuda generada por la venta a crÃ©dito de tal maquinaria o equipo; o
+(iv) una empresa que vende maquinaria y equipo, cuando el interés es pagado en conexión con la deuda generada por la venta a crédito de tal maquinaria o equipo; o
 
-(v) cualquier otra empresa que, en la medida que en los tres aÃ±os tributarios anteriores al aÃ±o tributario en el cual el interÃ©s es pagado, genera mÃ¡s del 50 de ciento de sus pasivos por la emisiÃ³n de bonos en los mercados financieros o de la captaciÃ³n de depÃ³sitos a interÃ©s, y mÃ¡s del 50 por ciento de los activos de la empresa consistan en crÃ©ditos a personas con las que no se encuentra relacionada;
+(v) cualquier otra empresa que, en la medida que en los tres años tributarios anteriores al año tributario en el cual el interés es pagado, genera más del 50 de ciento de sus pasivos por la emisión de bonos en los mercados financieros o de la captación de depósitos a interés, y más del 50 por ciento de los activos de la empresa consistan en créditos a personas con las que no se encuentra relacionada;
 
-* (b) 10 por ciento del monto bruto de los intereses en todos los demÃ¡s casos.
+* (b) 10 por ciento del monto bruto de los intereses en todos los demás casos.
 
-Para fines del subpÃ¡rrafo (a), una empresa no estÃ¡ relacionada a una persona si la empresa no tiene con la persona alguna relaciÃ³n de aquellas descritas en los subpÃ¡rrafos (a) o (b) del pÃ¡rrafo 1 del ArtÃ­culo 9 .
+Para fines del subpárrafo (a), una empresa no está relacionada a una persona si la empresa no tiene con la persona alguna relación de aquellas descritas en los subpárrafos (a) o (b) del párrafo 1 del Artículo 9 .
 
-1. Por un periodo de dos aÃ±os contados desde la fecha en que las disposiciones del pÃ¡rrafo 2 de este ArtÃ­culo sean aplicables en conformidad con las disposiciones del pÃ¡rrafo 2 del ArtÃ­culo 29, entren en vigencia, se aplicarÃ¡ una tasa de 15 por ciento en lugar de la tasa prevista en el subpÃ¡rrafo (b) del pÃ¡rrafo 2 de este ArtÃ­culo.
-2. No obstante el subpÃ¡rrafo (a) del pÃ¡rrafo 2, si los intereses a que se refiere ese subpÃ¡rrafo se pagan como parte de un acuerdo que implique un crÃ©dito back-to-back o como parte de otro acuerdo que sea econÃ³micamente equivalente y cuya finalidad sea obtener un efecto similar al de un crÃ©dito back-to-back, tales intereses podrÃ¡n ser sometidos a imposiciÃ³n en el Estado Contratante del que procedan, pero con una tasa que no exceda del 10 por ciento del monto bruto del interÃ©s .'
+1. Por un periodo de dos años contados desde la fecha en que las disposiciones del párrafo 2 de este Artículo sean aplicables en conformidad con las disposiciones del párrafo 2 del Artículo 29, entren en vigencia, se aplicará una tasa de 15 por ciento en lugar de la tasa prevista en el subpárrafo (b) del párrafo 2 de este Artículo.
+2. No obstante el subpárrafo (a) del párrafo 2, si los intereses a que se refiere ese subpárrafo se pagan como parte de un acuerdo que implique un crédito back-to-back o como parte de otro acuerdo que sea económicamente equivalente y cuya finalidad sea obtener un efecto similar al de un crédito back-to-back, tales intereses podrán ser sometidos a imposición en el Estado Contratante del que procedan, pero con una tasa que no exceda del 10 por ciento del monto bruto del interés .'
 
-Adicionalmente, cabe seÃ±alar que el nÃºmero 6 del protocolo del convenio con JapÃ³n establece lo siguiente:
+Adicionalmente, cabe señalar que el número 6 del protocolo del convenio con Japón establece lo siguiente:
 
-' 6. Con respecto al pÃ¡rrafo 4 del ArtÃ­culo 11 del Convenio, Se entiende que la expresiÃ³n 'acuerdo que implique un crÃ©dito back-to-back' cubrirÃ­a, inter alia, cualquier tipo de acuerdo estructurado de manera tal que una instituciÃ³n financiera que sea residente de un Estado Contratante reciba intereses provenientes del otro Estado Contratante y la instituciÃ³n financiera paga intereses equivalentes a otra persona que no tendrÃ­a derecho a la limitaciÃ³n de impuestos establecida en el subpÃ¡rrafo (a) del pÃ¡rrafo 2
+' 6. Con respecto al párrafo 4 del Artículo 11 del Convenio, Se entiende que la expresión 'acuerdo que implique un crédito back-to-back' cubriría, inter alia, cualquier tipo de acuerdo estructurado de manera tal que una institución financiera que sea residente de un Estado Contratante reciba intereses provenientes del otro Estado Contratante y la institución financiera paga intereses equivalentes a otra persona que no tendría derecho a la limitación de impuestos establecida en el subpárrafo (a) del párrafo 2
 
-del ArtÃ­culo 11 del Convenio con respecto a los intereses en ese otro Estado Contratante si la persona hubiese recibido los intereses directamente del otro Estado Contratante .'
+del Artículo 11 del Convenio con respecto a los intereses en ese otro Estado Contratante si la persona hubiese recibido los intereses directamente del otro Estado Contratante .'
 
-## b) ArtÃ­culo 12 regalÃ­as.
+## b) Artículo 12 regalías.
 
-' 2. Sin embargo, dichas regalÃ­as tambiÃ©n pueden someterse a imposiciÃ³n en el Estado Contratante del que procedan y conforme a la legislaciÃ³n de ese Estado Contratante, pero si el beneficiario efectivo es residente del otro Estado Contratante el impuesto asÃ­ exigido no podrÃ¡ exceder del:
+' 2. Sin embargo, dichas regalías también pueden someterse a imposición en el Estado Contratante del que procedan y conforme a la legislación de ese Estado Contratante, pero si el beneficiario efectivo es residente del otro Estado Contratante el impuesto así exigido no podrá exceder del:
 
-(a) 2 por ciento del importe bruto de las regalÃ­as por el uso, o derecho al uso, de equipos industriales, comerciales o cientÃ­ficos;
+(a) 2 por ciento del importe bruto de las regalías por el uso, o derecho al uso, de equipos industriales, comerciales o científicos;
 
-(b) 10 por ciento del importe bruto de las regalÃ­as en todos los demÃ¡s casos .'
+(b) 10 por ciento del importe bruto de las regalías en todos los demás casos .'
 
-## B) APLICACIÃ“N DE LA CLAUSULA DE LA NACION MAS FAVORECIDA.
+## B) APLICACIÓN DE LA CLAUSULA DE LA NACION MAS FAVORECIDA.
 
-En el protocolo del convenio con Italia se establece que, si en algÃºn acuerdo o convenio, concluido por Chile con un Estado miembro de la OrganizaciÃ³n para la CooperaciÃ³n y el Desarrollo EconÃ³micos, que entre en vigor con posterioridad a la fecha de entrada en vigor del Convenio, se dispone que Chile debe eximir de impuesto a los intereses o regalÃ­as (ya sea en general o respecto de categorÃ­as especÃ­ficas de intereses o regalÃ­as) procedentes de Chile, o limitar el impuesto aplicable en Chile a tales intereses o regalÃ­as (ya sea en general o respecto de categorÃ­as especÃ­ficas de intereses o regalÃ­as) a una tasa mÃ¡s baja que la establecida en los pÃ¡rrafos 2 del ArtÃ­culo 11 o el pÃ¡rrafo 2 del ArtÃ­culo 12 del Convenio, tal exenciÃ³n o tasa rebajada se aplicarÃ¡ automÃ¡ticamente a los intereses o regalÃ­as (ya sea en general o respecto de categorÃ­as especÃ­ficas de intereses o regalÃ­as) procedentes de Chile y cuyo beneficiario efectivo sea un residente de Italia, asÃ­ como a los intereses y regalÃ­as procedentes de Italia y cuyo beneficiario efectivo sea un residente de Chile, de la misma manera como si tal exenciÃ³n o tasa rebajada fuese especificada en los mencionados pÃ¡rrafos.
+En el protocolo del convenio con Italia se establece que, si en algún acuerdo o convenio, concluido por Chile con un Estado miembro de la Organización para la Cooperación y el Desarrollo Económicos, que entre en vigor con posterioridad a la fecha de entrada en vigor del Convenio, se dispone que Chile debe eximir de impuesto a los intereses o regalías (ya sea en general o respecto de categorías específicas de intereses o regalías) procedentes de Chile, o limitar el impuesto aplicable en Chile a tales intereses o regalías (ya sea en general o respecto de categorías específicas de intereses o regalías) a una tasa más baja que la establecida en los párrafos 2 del Artículo 11 o el párrafo 2 del Artículo 12 del Convenio, tal exención o tasa rebajada se aplicará automáticamente a los intereses o regalías (ya sea en general o respecto de categorías específicas de intereses o regalías) procedentes de Chile y cuyo beneficiario efectivo sea un residente de Italia, así como a los intereses y regalías procedentes de Italia y cuyo beneficiario efectivo sea un residente de Chile, de la misma manera como si tal exención o tasa rebajada fuese especificada en los mencionados párrafos.
 
-Las 'autoridades competentes' del Convenio, siendo estas el Director del Servicio de Impuestos Internos y la autoridad competente de Italia, suscribieron un memorÃ¡ndum de entendimiento (firmado respectivamente el 25 de octubre del 2019 y el 20 de diciembre del 2019), en el cual acordaron que, con respecto a los artÃ­culos 11 y 12 del Convenio entre Chile e Italia, se entenderÃ¡ que:
+Las 'autoridades competentes' del Convenio, siendo estas el Director del Servicio de Impuestos Internos y la autoridad competente de Italia, suscribieron un memorándum de entendimiento (firmado respectivamente el 25 de octubre del 2019 y el 20 de diciembre del 2019), en el cual acordaron que, con respecto a los artículos 11 y 12 del Convenio entre Chile e Italia, se entenderá que:
 
-## 1) En relaciÃ³n con el pÃ¡rrafo 2 del artÃ­culo 11 - Intereses - del Convenio:
+## 1) En relación con el párrafo 2 del artículo 11 - Intereses - del Convenio:
 
-a) Una tasa de 4 por ciento aplicarÃ¡ (en lugar de la tasa existente de 5 por ciento) al subpÃ¡rrafo a), letras (i) y (iii) a partir del 1 de enero del 2017;
+a) Una tasa de 4 por ciento aplicará (en lugar de la tasa existente de 5 por ciento) al subpárrafo a), letras (i) y (iii) a partir del 1 de enero del 2017;
 
-b) Una tasa de 10 por ciento aplicarÃ¡ (en lugar de la tasa existente de 15 por ciento) al subpÃ¡rrafo b) a partir del 1 de enero del 2019.
+b) Una tasa de 10 por ciento aplicará (en lugar de la tasa existente de 15 por ciento) al subpárrafo b) a partir del 1 de enero del 2019.
 
-## 2) En relaciÃ³n con el pÃ¡rrafo 2 del artÃ­culo 12 - RegalÃ­as - del Convenio:
+## 2) En relación con el párrafo 2 del artículo 12 - Regalías - del Convenio:
 
-Una tasa de 2 por ciento aplicarÃ¡ (en lugar de la tasa existente de 5 por ciento) al subpÃ¡rrafo a), a partir del 1 de enero del 2017.
+Una tasa de 2 por ciento aplicará (en lugar de la tasa existente de 5 por ciento) al subpárrafo a), a partir del 1 de enero del 2017.
 
-Adicionalmente, las autoridades competentes de Chile e Italia acordaron que, bajo requerimiento, resolverÃ¡n caso a caso los problemas de interpretaciÃ³n que surjan del pÃ¡rrafo 9 del Protocolo, de acuerdo con lo dispuesto en el artÃ­culo 25 (procedimiento de acuerdo mutuo).
+Adicionalmente, las autoridades competentes de Chile e Italia acordaron que, bajo requerimiento, resolverán caso a caso los problemas de interpretación que surjan del párrafo 9 del Protocolo, de acuerdo con lo dispuesto en el artículo 25 (procedimiento de acuerdo mutuo).
 
 ## C) ENTRADA EN VIGENCIA.
 
-De acuerdo con lo seÃ±alado, en el memorÃ¡ndum de entendimiento se dejÃ³ constancia que estas tasas se aplican a contar del 1Â° de enero de 2017 y a contar del 1Â° de enero de 2019, segÃºn sea el caso.
+De acuerdo con lo señalado, en el memorándum de entendimiento se dejó constancia que estas tasas se aplican a contar del 1° de enero de 2017 y a contar del 1° de enero de 2019, según sea el caso.
 
-En el caso que se hubieran efectuado retenciones de impuesto por concepto de intereses y regalÃ­as a tasas superiores a las acordadas por aplicaciÃ³n de la clÃ¡usula de naciÃ³n mÃ¡s favorecida, los contribuyentes domiciliados o residentes en Chile o Italia podrÃ¡n pedir la devoluciÃ³n de las cantidades retenidas en exceso conforme a lo dispuesto en la legislaciÃ³n de cada paÃ­s.
+En el caso que se hubieran efectuado retenciones de impuesto por concepto de intereses y regalías a tasas superiores a las acordadas por aplicación de la cláusula de nación más favorecida, los contribuyentes domiciliados o residentes en Chile o Italia podrán pedir la devolución de las cantidades retenidas en exceso conforme a lo dispuesto en la legislación de cada país.
 
-En Chile, la devoluciÃ³n se sujetarÃ¡ al procedimiento previsto en el artÃ­culo NÂ° 126 del CÃ³digo Tributario.
+En Chile, la devolución se sujetará al procedimiento previsto en el artículo N° 126 del Código Tributario.
 
 Saluda a Uds.,
 
-## DISTRIBUCIÃ“N
+## DISTRIBUCIÓN
 
 * -Internet
 * -Diario Oficial en extracto

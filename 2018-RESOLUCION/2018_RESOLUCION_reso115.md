@@ -1,48 +1,49 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 54 (2018)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 54 (2018)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-EXCLUYE DE NÃ“MINA DE CONTRIBUYENTES SUJETOS A RETENCIÃ“N, FIJADA CONFORME A RESOLUCIÃ“N EX. SII NÂ° 54, DE 29 DE JUNIO DE 2018, A ROBERT BOSCH S.A. Y CAVAS REUNIDAS S. A.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+EXCLUYE DE NÓMINA DE CONTRIBUYENTES SUJETOS A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 54, DE 29 DE JUNIO DE 2018, A ROBERT BOSCH S.A. Y CAVAS REUNIDAS S. A.
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCION EX. SII NÂ° 115.-/ SANTIAGO, 23 DE NOVIEMBRE 2018 VISTOS:
+RESOLUCION EX. SII N° 115.-/ SANTIAGO, 23 DE NOVIEMBRE 2018 VISTOS:
 
-1. Lo dispuesto en el NÂ° 5, letra B), del artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 9Â° y siguientes del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el artÃ­culo 3Â° y el TÃ­tulo IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. NÂ° 825, de 1974; el TÃ­tulo XIII del D.S. NÂ° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. NÂ° 825, de 1974; el artÃ­culo 52 de la Ley NÂº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los Ã³rganos de la AdministraciÃ³n del Estado'; la ResoluciÃ³n Ex. SII NÂ° 42, de 30.04.2018 y la ResoluciÃ³n Ex. SII NÂ° 54, de 29.06.2018.
-2. La peticiÃ³n efectuada por el contribuyente Robert Bosch S.A., Rut NÂ° 96.853.390-8, en la cual solicita ser excluido de la NÃ³mina de Contribuyentes sujetos a RetenciÃ³n establecida en la ResoluciÃ³n Ex. SII NÂ° 54, de 29.06.2018.
-3. El reprocesamiento de datos llevado a cabo por este Servicio, el cual ha arrojado la necesidad de excluir de oficio, de la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n, al contribuyente Cavas Reunidas S. A., Rut NÂ° 96.856.9805.
+1. Lo dispuesto en el N° 5, letra B), del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en el artículo 9° y siguientes del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. N° 825, de 1974; el Título XIII del D.S. N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974; el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'; la Resolución Ex. SII N° 42, de 30.04.2018 y la Resolución Ex. SII N° 54, de 29.06.2018.
+2. La petición efectuada por el contribuyente Robert Bosch S.A., Rut N° 96.853.390-8, en la cual solicita ser excluido de la Nómina de Contribuyentes sujetos a Retención establecida en la Resolución Ex. SII N° 54, de 29.06.2018.
+3. El reprocesamiento de datos llevado a cabo por este Servicio, el cual ha arrojado la necesidad de excluir de oficio, de la Nómina de Contribuyentes Sujetos a Retención, al contribuyente Cavas Reunidas S. A., Rut N° 96.856.9805.
 
 ## CONSIDERANDO:
 
-1. Que, mediante ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableciÃ³ el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturaciÃ³n electrÃ³nica, redefiniÃ©ndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retenciÃ³n.
-2. Que, el Resolutivo 3. de la resoluciÃ³n antes citada, creÃ³ los registros denominados 'NÃ³mina de Agentes Retenedores' y 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarÃ¡n afectas al cambio de sujeto.
-3. Que, de conformidad con lo dispuesto en el Resolutivo 4Â° de la ResoluciÃ³n Ex. SII NÂ° 42, se emitiÃ³ la ResoluciÃ³n Ex. SII NÂ° 54 con fecha 29.06.2018, mediante la cual se fijaron las nÃ³minas de agentes retenedores y de contribuyentes sujetos a retenciÃ³n.
-4. Que, las nÃ³minas fijadas por la ResoluciÃ³n Ex. SII NÂ° 54, comenzaron a regir a contar del dÃ­a 1 de agosto de 2018, hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre del presente aÃ±o.
-5. Que, el contribuyente solicitante, en conocimiento de encontrarse incluido en la 'NÃ³mina de Contribuyentes sujetos a RetenciÃ³n', ha demostrado su especial disposiciÃ³n para solucionar sus brechas de cumplimiento tributario, no causando un perjuicio fiscal.
-6. Que, este Servicio, excepcionalmente, por tratarse de la primera nÃ³mina de contribuyentes sujetos a retenciÃ³n que se implementa y, teniendo en consideraciÃ³n el reprocesamiento de datos ya seÃ±alado, ha decidido acceder a la peticiÃ³n formulada por el contribuyente Robert Bosch S.A. y excluir, por su parte, a Cavas Reunidas S.A.
+1. Que, mediante Resolución Ex. SII N° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableció el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturación electrónica, redefiniéndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retención.
+2. Que, el Resolutivo 3. de la resolución antes citada, creó los registros denominados 'Nómina de Agentes Retenedores' y 'Nómina de Contribuyentes Sujetos a Retención'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarán afectas al cambio de sujeto.
+3. Que, de conformidad con lo dispuesto en el Resolutivo 4° de la Resolución Ex. SII N° 42, se emitió la Resolución Ex. SII N° 54 con fecha 29.06.2018, mediante la cual se fijaron las nóminas de agentes retenedores y de contribuyentes sujetos a retención.
+4. Que, las nóminas fijadas por la Resolución Ex. SII N° 54, comenzaron a regir a contar del día 1 de agosto de 2018, hasta el último día hábil del mes de diciembre del presente año.
+5. Que, el contribuyente solicitante, en conocimiento de encontrarse incluido en la 'Nómina de Contribuyentes sujetos a Retención', ha demostrado su especial disposición para solucionar sus brechas de cumplimiento tributario, no causando un perjuicio fiscal.
+6. Que, este Servicio, excepcionalmente, por tratarse de la primera nómina de contribuyentes sujetos a retención que se implementa y, teniendo en consideración el reprocesamiento de datos ya señalado, ha decidido acceder a la petición formulada por el contribuyente Robert Bosch S.A. y excluir, por su parte, a Cavas Reunidas S.A.
 
 ## SE RESUELVE:
 
-1. EXCLÃšYESE excepcionalmente, a contar del 1Â° de diciembre de 2018, de la 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n', fijada conforme a ResoluciÃ³n Ex. SII NÂ° 54, de 29 de junio de 2018, al contribuyente ROBERT BOSCH S.A. , Rut NÂ° 96.853.390-8.
-2. EXCLÃšYESE excepcionalmente, a contar del 1Â° de noviembre de 2018, de la 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n', fijada conforme a ResoluciÃ³n Ex. SII NÂ° 54, de 29 de junio de 2018, al contribuyente CAVAS REUNIDAS S. A. , Rut NÂ° 96.856.980-5.
+1. EXCLÚYESE excepcionalmente, a contar del 1° de diciembre de 2018, de la 'Nómina de Contribuyentes Sujetos a Retención', fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, al contribuyente ROBERT BOSCH S.A. , Rut N° 96.853.390-8.
+2. EXCLÚYESE excepcionalmente, a contar del 1° de noviembre de 2018, de la 'Nómina de Contribuyentes Sujetos a Retención', fijada conforme a Resolución Ex. SII N° 54, de 29 de junio de 2018, al contribuyente CAVAS REUNIDAS S. A. , Rut N° 96.856.980-5.
 
-## ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE
+## ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE
 
-## VÃCTOR VILALLÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
+## VÍCTOR VILALLÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud. para su conocimiento y demás fines.
 
-CGG / GMV / JBA / LVB DistribuciÃ³n:
+CGG / GMV / JBA / LVB Distribución:
 
 * Contribuyentes
-* SubdirecciÃ³n de FiscalizaciÃ³n
+* Subdirección de Fiscalización
 
-Dpto. de AnÃ¡lisis Masivo del Cumplimiento Tributario
+Dpto. de Análisis Masivo del Cumplimiento Tributario
 
-* c/Ãrea de Riesgos de Devoluciones y Gastos
+* c/Área de Riesgos de Devoluciones y Gastos
 * Internet

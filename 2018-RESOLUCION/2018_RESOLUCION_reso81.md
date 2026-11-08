@@ -1,105 +1,106 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 81 (2018)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018
+---
+type: "SII Resolución"
+title: "Resolución N° 81 (2018)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018"
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018
+
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018
 
 77318612589
 
-EXIME A EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA DE LA OBLIGACIÃ“N DE TIMBRAJE DE PAGARÃ‰S ESTABLECIDA EN EL ARTICULO 17 INCISO 2Â° DEL D.L. NÂ° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO.
+EXIME A EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO.
 
 SANTIAGO, 12 DE SEPTIEMBRE DEL 2018
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÃ“N EXENTA SII NÂ°81.-
+RESOLUCIÓN EXENTA SII N°81.-
 
 VISTOS:
 
-Las facultades contempladas en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L NÂ°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en el artÃ­culo 6Â° letra A) NÂ°s 1 y 3 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y los artÃ­culos 1Â°, NÂ°3, 17 inciso 2Â° y 18, del Decreto Ley NÂ° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas;
+Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980; en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y los artículos 1°, N°3, 17 inciso 2° y 18, del Decreto Ley N° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas;
 
-La presentaciÃ³n efectuada, mediante peticiÃ³n administrativa ingresada con fecha 03.08.2018, en la XV DirecciÃ³n Regional Metropolitana Santiago Oriente de este Servicio, por don Manuel Lara CalderÃ³n, RUT NÂ° 11.632.430-K, en representaciÃ³n del contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT NÂ° 76.136.746-3 , ambos domiciliados para estos efectos, en Cerro El Plomo NÂ°5420, piso 18, Las Condes, Santiago, en virtud del cual solicita autorizaciÃ³n para que su representado pueda eximirse del timbraje de pagarÃ©s.
+La presentación efectuada, mediante petición administrativa ingresada con fecha 03.08.2018, en la XV Dirección Regional Metropolitana Santiago Oriente de este Servicio, por don Manuel Lara Calderón, RUT N° 11.632.430-K, en representación del contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT N° 76.136.746-3 , ambos domiciliados para estos efectos, en Cerro El Plomo N°5420, piso 18, Las Condes, Santiago, en virtud del cual solicita autorización para que su representado pueda eximirse del timbraje de pagarés.
 
 ## CONSIDERANDO:
 
-1Â° Que, el contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT NÂ° 76.136.746-3 fundamenta su peticiÃ³n en el alto volumen de operaciones y en los numerosos puntos de venta que poseen en el territorio nacional, lo cual dificulta de sobremanera el modo de operar del contribuyente.
+1° Que, el contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT N° 76.136.746-3 fundamenta su petición en el alto volumen de operaciones y en los numerosos puntos de venta que poseen en el territorio nacional, lo cual dificulta de sobremanera el modo de operar del contribuyente.
 
-2Â° Que, en conformidad a lo dispuesto en el artÃ­culo 17, inciso 2Â°, del D.L. NÂ°3.475, de 1980, los contribuyentes del artÃ­culo 15 NÂ°2 de dicho cuerpo legal, que emitan u otorguen pagarÃ©s o cualquiera de los documentos seÃ±alados en el artÃ­culo 1Â° NÂ°3, deben enumerarlos correlativamente, timbrarlos y registrarlos antes este Servicio.
+2° Que, en conformidad a lo dispuesto en el artículo 17, inciso 2°, del D.L. N°3.475, de 1980, los contribuyentes del artículo 15 N°2 de dicho cuerpo legal, que emitan u otorguen pagarés o cualquiera de los documentos señalados en el artículo 1° N°3, deben enumerarlos correlativamente, timbrarlos y registrarlos antes este Servicio.
 
-3Â° Que, este Servicio, mediante las instrucciones contenidas en la Circular NÂ° 72, de 08 de octubre de 1980, seÃ±alÃ³ que las letras de cambio y demÃ¡s documentos deben ser presentados a registro en la Unidad del Servicio respectiva, mediante la aposiciÃ³n del timbre de presiÃ³n utilizado para el timbraje de las boletas de ventas y servicios.
+3° Que, este Servicio, mediante las instrucciones contenidas en la Circular N° 72, de 08 de octubre de 1980, señaló que las letras de cambio y demás documentos deben ser presentados a registro en la Unidad del Servicio respectiva, mediante la aposición del timbre de presión utilizado para el timbraje de las boletas de ventas y servicios.
 
-4Â° Que, conforme al inciso final del artÃ­culo 18 del D.L. NÂ° 3.475, de 1980, el Director estÃ¡ facultado para suprimir requisitos, cuando Ã©stos dificulten la modalidad normal de operar de los contribuyentes y, sustituirlos por otros que resguarden debidamente el interÃ©s fiscal
+4° Que, conforme al inciso final del artículo 18 del D.L. N° 3.475, de 1980, el Director está facultado para suprimir requisitos, cuando éstos dificulten la modalidad normal de operar de los contribuyentes y, sustituirlos por otros que resguarden debidamente el interés fiscal
 
-5Â° Que, es necesario facilitar el cumplimiento tributario, incorporando los medios tecnolÃ³gicos que se encuentran disponibles en la actualidad.
+5° Que, es necesario facilitar el cumplimiento tributario, incorporando los medios tecnológicos que se encuentran disponibles en la actualidad.
 
 ## SE RESUELVE:
 
-1Â° HA LUGAR A LO SOLICITADO por el contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT NÂ° 76.136.746-3 , eximiÃ©ndolo de la obligaciÃ³n de timbraje de pagarÃ©s que se establece en el inciso segundo artÃ­culo 17 del D.L. NÂ°3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, sujetÃ¡ndose en todo caso al cumplimiento de los requisitos que se establecen en la presente ResoluciÃ³n, a fin de resguardar debidamente el interÃ©s fiscal.
+1° HA LUGAR A LO SOLICITADO por el contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA RUT N° 76.136.746-3 , eximiéndolo de la obligación de timbraje de pagarés que se establece en el inciso segundo artículo 17 del D.L. N°3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas, sujetándose en todo caso al cumplimiento de los requisitos que se establecen en la presente Resolución, a fin de resguardar debidamente el interés fiscal.
 
-2Â° El contribuyente deberÃ¡ presentar la DeclaraciÃ³n Jurada Formulario NÂ°3230 denominada 'DeclaraciÃ³n Jurada para Timbraje de Documentos y/o Libros', en donde informarÃ¡, en forma previa a su emisiÃ³n, los folios asignados a los pagarÃ©s que serÃ¡n emitidos en el (los) perÃ­odo (s) respectivo (s).
+2° El contribuyente deberá presentar la Declaración Jurada Formulario N°3230 denominada 'Declaración Jurada para Timbraje de Documentos y/o Libros', en donde informará, en forma previa a su emisión, los folios asignados a los pagarés que serán emitidos en el (los) período (s) respectivo (s).
 
-Dicha presentaciÃ³n deberÃ¡ realizarse en Oficinas del Servicio de Impuestos Internos competente, segÃºn su domicilio, adjuntando copia de la presente ResoluciÃ³n.
+Dicha presentación deberá realizarse en Oficinas del Servicio de Impuestos Internos competente, según su domicilio, adjuntando copia de la presente Resolución.
 
-Los formularios NÂ° 3230 recepcionados y que contengan la informaciÃ³n de rango de folios nuevos o revalidados, serÃ¡n timbrados en seÃ±al de recepciÃ³n por el SII y, deberÃ¡n ser guardado por el contribuyente.
+Los formularios N° 3230 recepcionados y que contengan la información de rango de folios nuevos o revalidados, serán timbrados en señal de recepción por el SII y, deberán ser guardado por el contribuyente.
 
-3Â° Los pagarÃ©s tendrÃ¡n un nÃºmero Ãºnico a nivel nacional para el contribuyente, el cual se iniciarÃ¡ a partir del folio informado y autorizado previamente por este Servicio.
+3° Los pagarés tendrán un número único a nivel nacional para el contribuyente, el cual se iniciará a partir del folio informado y autorizado previamente por este Servicio.
 
-4Â° Los folios autorizados en forma electrÃ³nica, tendrÃ¡n una duraciÃ³n de seis meses, contados desde el mes de autorizaciÃ³n. Por ejemplo, si los folios fueron autorizados desde el mes de febrero de 2018, se podrÃ¡n utilizar como mÃ¡ximo hasta el mes de julio de 2018. En este ejemplo, si hay folios sin usar posterior al Ãºltimo dÃ­a del mes de julio de 2018, Ã©stos se deberÃ¡n registrar como anulados o, revalidarlos segÃºn se indica en el resolutivo NÂ° 6Â° siguiente.
+4° Los folios autorizados en forma electrónica, tendrán una duración de seis meses, contados desde el mes de autorización. Por ejemplo, si los folios fueron autorizados desde el mes de febrero de 2018, se podrán utilizar como máximo hasta el mes de julio de 2018. En este ejemplo, si hay folios sin usar posterior al último día del mes de julio de 2018, éstos se deberán registrar como anulados o, revalidarlos según se indica en el resolutivo N° 6° siguiente.
 
-Cada vez que el contribuyente requiera autorizaciÃ³n de nuevos folios electrÃ³nicos o, requiera revalidar folios que estÃ¡n por vencer por haber transcurrido seis meses desde la Ãºltima autorizaciÃ³n, deberÃ¡ presentar en la Oficina del Servicio de Impuestos Internos de su jurisdicciÃ³n, el Formulario NÂ°3230 'DeclaraciÃ³n Jurada para Timbraje de documentos y/o Libros y Notificaciones'. En dicha presentaciÃ³n deberÃ¡ adjuntar copia de esta ResoluciÃ³n y del formulario NÂ°3230 anterior.
+Cada vez que el contribuyente requiera autorización de nuevos folios electrónicos o, requiera revalidar folios que están por vencer por haber transcurrido seis meses desde la última autorización, deberá presentar en la Oficina del Servicio de Impuestos Internos de su jurisdicción, el Formulario N°3230 'Declaración Jurada para Timbraje de documentos y/o Libros y Notificaciones'. En dicha presentación deberá adjuntar copia de esta Resolución y del formulario N°3230 anterior.
 
-5Â° El contribuyente deberÃ¡ habilitar acceso a una pÃ¡gina web, con autenticaciÃ³n para opciÃ³n de consulta, a funcionarios del SII.
+5° El contribuyente deberá habilitar acceso a una página web, con autenticación para opción de consulta, a funcionarios del SII.
 
-Esta pÃ¡gina debe poseer protocolos de seguridad y disponibilidad del 100%.
+Esta página debe poseer protocolos de seguridad y disponibilidad del 100%.
 
-En esta pÃ¡gina web, se podrÃ¡ consultar sobre el total de pagarÃ©s emitidos en un mes, visualizar un pagarÃ© especÃ­fico y descargar informaciÃ³n detallada en formato csv para uno o mÃ¡s perÃ­odos.
+En esta página web, se podrá consultar sobre el total de pagarés emitidos en un mes, visualizar un pagaré específico y descargar información detallada en formato csv para uno o más períodos.
 
-* 5.1 La informaciÃ³n de un pagarÃ© deberÃ¡ contener al menos los siguientes datos:
-* a) Folio del pagarÃ©: NÃºmero Ãºnico correlativo a nivel nacional. Se inicia a continuaciÃ³n del Ãºltimo folio en papel timbrado.
+* 5.1 La información de un pagaré deberá contener al menos los siguientes datos:
+* a) Folio del pagaré: Número único correlativo a nivel nacional. Se inicia a continuación del último folio en papel timbrado.
 * b) RUT Cliente
-* c) Estado de pagarÃ©: vÃ¡lido (V) o anulado (A)
+* c) Estado de pagaré: válido (V) o anulado (A)
 * d) Fecha de otorgamiento
 * e) Monto financiado
-* f) NÃºmero del contrato de crÃ©dito al que se encuentra asociado, segÃºn proceda
-* g) NÃºmero del documento tributario otorgado al cliente final
-* h) Identificador del equipo, vehÃ­culo o bien mueble por el cual se suscribe el pagarÃ©
-* i) Impuesto de la operaciÃ³n
-* 5.2 La informaciÃ³n de total de pagarÃ©s emitidos en un mes deberÃ¡ contener al menos los siguientes datos:
-* a) Total pagarÃ©s vÃ¡lidos otorgados
-* b) Total pagarÃ©s anulados
+* f) Número del contrato de crédito al que se encuentra asociado, según proceda
+* g) Número del documento tributario otorgado al cliente final
+* h) Identificador del equipo, vehículo o bien mueble por el cual se suscribe el pagaré
+* i) Impuesto de la operación
+* 5.2 La información de total de pagarés emitidos en un mes deberá contener al menos los siguientes datos:
+* a) Total pagarés válidos otorgados
+* b) Total pagarés anulados
 * c) Total Monto financiado
 * d) Impuesto Total del mes
-* 5.3 El registro en la plataforma computacional, con la informaciÃ³n indicada en el punto 5.1 y 5.2 precedentes, respecto de pagarÃ©s emitidos que den cuenta de crÃ©ditos efectivamente otorgados, debe ser mantenido por un plazo mÃ­nimo de 6 aÃ±os y, deberÃ¡ estar a disposiciÃ³n de este Servicio en caso que lo requiera.
+* 5.3 El registro en la plataforma computacional, con la información indicada en el punto 5.1 y 5.2 precedentes, respecto de pagarés emitidos que den cuenta de créditos efectivamente otorgados, debe ser mantenido por un plazo mínimo de 6 años y, deberá estar a disposición de este Servicio en caso que lo requiera.
 
-6Â° El sistema de emisiÃ³n y control de pagarÃ©s del contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA, debe tener, al menos, las siguientes caracterÃ­sticas:
+6° El sistema de emisión y control de pagarés del contribuyente EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA, debe tener, al menos, las siguientes características:
 
 * a) Ingreso autenticado.
-* b) DistinciÃ³n entre Perfil de Consulta o Perfil de Ingreso de informaciÃ³n.
-* c) Controlar el correlativo Ãºnico nacional de los pagarÃ©s. Debe informar los rangos del documento en papel prefoliado y los rangos en foliado electrÃ³nico.
-* d) El nÃºmero del contrato de crÃ©dito debe ir asociado a un Ãºnico folio de pagarÃ©. Por lo tanto, en caso que se requiera generar un nuevo pagarÃ© para el mismo contrato de crÃ©dito, se deberÃ¡ anular el pagarÃ© anterior. Ese folio no podrÃ¡ ser usado nuevamente.
-* e) Respaldo de la informaciÃ³n: Es responsabilidad del contribuyente mantener respaldo para garantizar la recuperaciÃ³n de informaciÃ³n frente a contingencias.
-* f) El contribuyente podrÃ¡, en casos de contingencia, utilizar pagarÃ© en papel, previamente timbrado, cuyas numeraciones deberÃ¡n ser distintas a las de los documentos, es decir no se podrÃ¡ emitir un pagarÃ© en papel con el mismo nÃºmero del pagarÃ© emitido por la plataforma computacional.
-* g) Cierre mensual: con totales segÃºn se indica en 5.2 anterior.
+* b) Distinción entre Perfil de Consulta o Perfil de Ingreso de información.
+* c) Controlar el correlativo único nacional de los pagarés. Debe informar los rangos del documento en papel prefoliado y los rangos en foliado electrónico.
+* d) El número del contrato de crédito debe ir asociado a un único folio de pagaré. Por lo tanto, en caso que se requiera generar un nuevo pagaré para el mismo contrato de crédito, se deberá anular el pagaré anterior. Ese folio no podrá ser usado nuevamente.
+* e) Respaldo de la información: Es responsabilidad del contribuyente mantener respaldo para garantizar la recuperación de información frente a contingencias.
+* f) El contribuyente podrá, en casos de contingencia, utilizar pagaré en papel, previamente timbrado, cuyas numeraciones deberán ser distintas a las de los documentos, es decir no se podrá emitir un pagaré en papel con el mismo número del pagaré emitido por la plataforma computacional.
+* g) Cierre mensual: con totales según se indica en 5.2 anterior.
 
-7Â° El Servicio de Impuestos Internos podrÃ¡ revocar la autorizaciÃ³n otorgada al contribuyente, si Ã©ste no cumple con las obligaciones establecidas en la presente ResoluciÃ³n.
+7° El Servicio de Impuestos Internos podrá revocar la autorización otorgada al contribuyente, si éste no cumple con las obligaciones establecidas en la presente Resolución.
 
-8Â° DelÃ©gase, en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la ResoluciÃ³n por la que se revoque la presente autorizaciÃ³n. Esta deberÃ¡ mencionar el nÃºmero y fecha de la presente ResoluciÃ³n y deberÃ¡ registrarse, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; ademÃ¡s se publicarÃ¡, en extracto, en el Diario Oficial y se notificarÃ¡ al contribuyente conforme a las reglas generales
+8° Delégase, en el Subdirector de Asistencia al Contribuyente, la facultad de dictar la Resolución por la que se revoque la presente autorización. Esta deberá mencionar el número y fecha de la presente Resolución y deberá registrarse, antes de la firma del delegado, la frase 'POR ORDEN DEL DIRECTOR'; además se publicará, en extracto, en el Diario Oficial y se notificará al contribuyente conforme a las reglas generales
 
-9Â° La presente ResoluciÃ³n regirÃ¡ a partir de su publicaciÃ³n, en extracto, en el Diario Oficial.
+9° La presente Resolución regirá a partir de su publicación, en extracto, en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud. para su conocimiento y demás fines.
 
-VVS/MDA/OBA/MME DistribuciÃ³n:
+VVS/MDA/OBA/MME Distribución:
 
 * -EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA.
-* -SubdirecciÃ³n de Asistencia al Contribuyente
+* -Subdirección de Asistencia al Contribuyente
 * -Departamento de Operaciones
 * -Internet
 * -Oficina de Partes

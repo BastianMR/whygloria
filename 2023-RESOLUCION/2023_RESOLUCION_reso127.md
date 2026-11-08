@@ -1,61 +1,62 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 127 (2023)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DISEÃ‘O DE PROCEDIMIENTOS
+---
+type: "SII Resolución"
+title: "Resolución N° 127 (2023)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DISEÃ‘O DE PROCEDIMIENTOS
 
-MATERIA: INSTRUYE SOBRE PRESENTACIÃ“N DE DECLARACIÃ“N DE IMPUESTOS FORMULARIO 29 FUERA DE PLAZO A TRAVÃ‰S DE INTERNET.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS
+
+MATERIA: INSTRUYE SOBRE PRESENTACIÓN DE DECLARACIÓN DE IMPUESTOS FORMULARIO 29 FUERA DE PLAZO A TRAVÉS DE INTERNET.
 
 SANTIAGO, 13 DE NOVIEMBRE DE 2023
 
-RESOLUCIÃ“N EX. SII NÂ°127.-
+RESOLUCIÓN EX. SII N°127.-
 
-VISTOS: Lo dispuesto en los artÃ­culos 6Â°, letra A), NÂ° 1, 36 y 39, todos del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980; lo previsto en el artÃ­culo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825, de 1974; y,
+VISTOS: Lo dispuesto en los artículos 6°, letra A), N° 1, 36 y 39, todos del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980; lo previsto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825, de 1974; y,
 
 ## CONSIDERANDO:
 
-1Âº Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicaciÃ³n de las franquicias y beneficios tributarios que la ley establece;
+1º Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las franquicias y beneficios tributarios que la ley establece;
 
-2Âº Que, el artÃ­culo 4Âº bis de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Âº del DFL NÂº 7, establece que este Servicio podrÃ¡, ademÃ¡s, relacionarse directamente con los contribuyentes y Ã©stos con el Servicio, a travÃ©s de medios electrÃ³nicos, entendiendo por tales aquellos que tienen capacidades elÃ©ctricas, digitales, magnÃ©ticas, inalÃ¡mbricas, Ã³pticas, electromagnÃ©ticas u otras similares. Los trÃ¡mites y actuaciones que se realicen a travÃ©s de tales medios producirÃ¡n los mismos efectos que los trÃ¡mites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente;
+2º Que, el artículo 4º bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL Nº 7, establece que este Servicio podrá, además, relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquellos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente;
 
-3Â° Que, el inciso primero del artÃ­culo 36 del CÃ³digo Tributario, dispone que el plazo de declaraciÃ³n y pago de los diversos impuestos se regirÃ¡ por las disposiciones legales y reglamentarias vigentes.
+3° Que, el inciso primero del artículo 36 del Código Tributario, dispone que el plazo de declaración y pago de los diversos impuestos se regirá por las disposiciones legales y reglamentarias vigentes.
 
-4Â° Que, de acuerdo al inciso final del artÃ­culo 39 del CÃ³digo Tributario, corresponderÃ¡ al Director autorizar los procedimientos por sistemas tecnolÃ³gicos a travÃ©s de los cuales se pueda realizar la declaraciÃ³n y pago de los impuestos que deban declararse y pagarse simultÃ¡neamente.
+4° Que, de acuerdo al inciso final del artículo 39 del Código Tributario, corresponderá al Director autorizar los procedimientos por sistemas tecnológicos a través de los cuales se pueda realizar la declaración y pago de los impuestos que deban declararse y pagarse simultáneamente.
 
-5Â° Que, el inciso primero del artÃ­culo 64 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), dispone que los contribuyentes afectos a dicha ley deberÃ¡n pagar, hasta el dÃ­a 12 de cada mes, los impuestos devengados en el mes anterior. Dicho plazo se extiende hasta el dÃ­a 20 de cada mes para aquellos contribuyentes que presenten su declaraciÃ³n de impuestos a travÃ©s de internet y se encuentren autorizados como emisores de documentos tributarios electrÃ³nicos, segÃºn lo dispone el artÃ­culo 1Â° del Decreto NÂ° 1.001, del Ministerio de Hacienda, de 2006.
+5° Que, el inciso primero del artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), dispone que los contribuyentes afectos a dicha ley deberán pagar, hasta el día 12 de cada mes, los impuestos devengados en el mes anterior. Dicho plazo se extiende hasta el día 20 de cada mes para aquellos contribuyentes que presenten su declaración de impuestos a través de internet y se encuentren autorizados como emisores de documentos tributarios electrónicos, según lo dispone el artículo 1° del Decreto N° 1.001, del Ministerio de Hacienda, de 2006.
 
-6Âº Que, por razones de buen servicio y de facilitaciÃ³n del cumplimiento tributario, resulta necesario establecer un mecanismo de declaraciÃ³n y pago del impuesto al valor agregado efectuado fuera de plazo, a travÃ©s de medios electrÃ³nicos.
+6º Que, por razones de buen servicio y de facilitación del cumplimiento tributario, resulta necesario establecer un mecanismo de declaración y pago del impuesto al valor agregado efectuado fuera de plazo, a través de medios electrónicos.
 
 <unknown>
 
-dÃ­a 14 de noviembre de 2023.
+día 14 de noviembre de 2023.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 <unknown>
 
 ## DIRECTOR
 
-## CSM/CGG/MCR/JBT DISTRIBUCIÃ“N:
+## CSM/CGG/MCR/JBT DISTRIBUCIÓN:
 
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO
 
 ## RESUELVO:
 
-1Â° Los contribuyentes que efectÃºen su declaraciÃ³n de Impuesto al Valor Agregado (Formulario 29) fuera de los plazos legales, deberÃ¡n presentar la declaraciÃ³n y pagar directamente a travÃ©s de Internet, en el sitio web de Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+1° Los contribuyentes que efectúen su declaración de Impuesto al Valor Agregado (Formulario 29) fuera de los plazos legales, deberán presentar la declaración y pagar directamente a través de Internet, en el sitio web de Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-El pago en lÃ­nea les permitirÃ¡ acceder a una condonaciÃ³n parcial automÃ¡tica de intereses y multas, sin necesidad de dirigirse a las oficinas del Servicio para realizar el trÃ¡mite. Dicha condonaciÃ³n se regirÃ¡ por las instrucciones generales contenidas en la Circular NÂ°50, de 2016, o en aquella que la sustituya o reemplace.
+El pago en línea les permitirá acceder a una condonación parcial automática de intereses y multas, sin necesidad de dirigirse a las oficinas del Servicio para realizar el trámite. Dicha condonación se regirá por las instrucciones generales contenidas en la Circular N°50, de 2016, o en aquella que la sustituya o reemplace.
 
-2Â° En caso de que un contribuyente requiera de un giro por los impuestos no declarados dentro del plazo legal, deberÃ¡ igualmente efectuar su declaraciÃ³n mediante el sitio web del SII, [<u>www.sii.cl</u>](http://www.sii.cl), (actualmente, siguiendo la ruta Servicios online, Impuestos mensuales, DeclaraciÃ³n mensual [F29], Declarar IVA [F29]) y al momento de pagar elegir la opciÃ³n Pago con Giro. Dicha opciÃ³n de pago se habilitarÃ¡ automÃ¡ticamente cuando el perÃ­odo a declarar corresponde a un perÃ­odo fuera de plazo.
+2° En caso de que un contribuyente requiera de un giro por los impuestos no declarados dentro del plazo legal, deberá igualmente efectuar su declaración mediante el sitio web del SII, [<u>www.sii.cl</u>](http://www.sii.cl), (actualmente, siguiendo la ruta Servicios online, Impuestos mensuales, Declaración mensual [F29], Declarar IVA [F29]) y al momento de pagar elegir la opción Pago con Giro. Dicha opción de pago se habilitará automáticamente cuando el período a declarar corresponde a un período fuera de plazo.
 
-Posteriormente, el sistema entregarÃ¡ el Certificado de RecepciÃ³n de DeclaraciÃ³n; un Giro por los impuestos no declarados, si asÃ­ corresponde, y otro por las multas e intereses que correspondan por el retardo u omisiÃ³n en la presentaciÃ³n de la declaraciÃ³n de impuestos.
+Posteriormente, el sistema entregará el Certificado de Recepción de Declaración; un Giro por los impuestos no declarados, si así corresponde, y otro por las multas e intereses que correspondan por el retardo u omisión en la presentación de la declaración de impuestos.
 
-3Â° Para proceder al pago del Giro, el contribuyente deberÃ¡ acceder a Mi SII - Impuestos mensuales - Consultar y pagar giros.
+3° Para proceder al pago del Giro, el contribuyente deberá acceder a Mi SII - Impuestos mensuales - Consultar y pagar giros.
 
-4Â° A contar de la vigencia de la presente resoluciÃ³n, la declaraciÃ³n y pago del Formulario 29 fuera de plazo, deberÃ¡ efectuarse Ãºnicamente a travÃ©s de internet en la pÃ¡gina web del Servicio de Impuestos Internos, de acuerdo a las instrucciones de la presente resoluciÃ³n.
+4° A contar de la vigencia de la presente resolución, la declaración y pago del Formulario 29 fuera de plazo, deberá efectuarse únicamente a través de internet en la página web del Servicio de Impuestos Internos, de acuerdo a las instrucciones de la presente resolución.
 
-5Â° Esta resoluciÃ³n entrarÃ¡ en vigencia a contar del
+5° Esta resolución entrará en vigencia a contar del

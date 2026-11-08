@@ -1,58 +1,59 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 12 (2024)
-description: SUPERINTENDENCIA DE PENSIONES
+---
+type: "SII Resolución"
+title: "Resolución N° 12 (2024)"
+description: "SUPERINTENDENCIA DE PENSIONES"
 tags: [SII, 2024, resolucion]
 ---
+
 
 Sii
 
 SUPERINTENDENCIA DE PENSIONES
 
-NORMA DE CARÃCTER GENERAL N 318
+NORMA DE CARÁCTER GENERAL N 318
 
 SERVICIO DE IMPUESTOS INTERNOS
 
-RESOLUCIÃ“N EX SII NÂ° 12.-
+RESOLUCIÓN EX SII N° 12.-
 
-TESORERÃA GENERAL DE LA REPÃšBLICA
+TESORERÍA GENERAL DE LA REPÚBLICA
 
-CIRCULAR CONJUNTA NÂ° 01
+CIRCULAR CONJUNTA N° 01
 
 SANTIAGO 17 DE ENERO DE 2024
 
 Hoy se ha resuelto lo que sigue:
 
-Lo dispuesto en la ley NÂ° 21.133; en el nÃºmero 3 del artÃ­culo 94 y el artÃ­culo 92 A, ambos del D.L. NÂ° 3.500, de 1980; en el nÃºmero 6 del artÃ­culo 47 de la Ley NÂ° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la TesorerÃ­a General de la RepÃºblica, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras
+Lo dispuesto en la ley N° 21.133; en el número 3 del artículo 94 y el artículo 92 A, ambos del D.L. N° 3.500, de 1980; en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras
 
 VISTOS: de Fondos de Pensiones.
 
-ModifÃ­case el TÃ­tulo XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, la ResoluciÃ³n Ex. SII NÂ° 40, de 2019, del Servicio de Impuestos Internos y la Circular Conjunta NÂ° 4 de la TesorerÃ­a General de la RepÃºblica, que establecen regulaciones comunes en relaciÃ³n al intercambio de informaciÃ³n entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la TesorerÃ­a General de la RepÃºblica, referidas a la
+Modifícase el Título XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, la Resolución Ex. SII N° 40, de 2019, del Servicio de Impuestos Internos y la Circular Conjunta N° 4 de la Tesorería General de la República, que establecen regulaciones comunes en relación al intercambio de información entre las Administradoras de Fondos de Pensiones, el Servicio de Impuestos Internos y la Tesorería General de la República, referidas a la
 
-REF: obligaciÃ³n de cotizar de los trabajadores independientes.
+REF: obligación de cotizar de los trabajadores independientes.
 
-* I. MODIFÃCASE EL CAPÃTULO III. ENTERO DE LAS COTIZACIONES OBLIGATORIAS DE LOS TRABAJADORES INDEPENDIENTES POR LA TESORERÃA GENERAL DE LA REPÃšBLICA DEL TÃTULO XIV DEL LIBRO II DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, DE LA RESOLUCIÃ“N EX. SII NÂ° 40 DE 2019, DEL SERVICIO DE IMPUESTOS INTERNOS, Y DE LA CIRCULAR CONJUNTA NÂ° 4 DE LA TESORERÃA GENERAL DE LA REPÃšBLICA, DE LA SIGUIENTE FORMA:
-* a) IntercÃ¡lase entre la primera y segunda oraciones del nÃºmero 3., la siguiente segunda oraciÃ³n nueva:
+* I. MODIFÍCASE EL CAPÍTULO III. ENTERO DE LAS COTIZACIONES OBLIGATORIAS DE LOS TRABAJADORES INDEPENDIENTES POR LA TESORERÍA GENERAL DE LA REPÚBLICA DEL TÍTULO XIV DEL LIBRO II DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, DE LA RESOLUCIÓN EX. SII N° 40 DE 2019, DEL SERVICIO DE IMPUESTOS INTERNOS, Y DE LA CIRCULAR CONJUNTA N° 4 DE LA TESORERÍA GENERAL DE LA REPÚBLICA, DE LA SIGUIENTE FORMA:
+* a) Intercálase entre la primera y segunda oraciones del número 3., la siguiente segunda oración nueva:
 
-1. ' A su vez, en la misma oportunidad, la TGR remitirÃ¡ la misma informaciÃ³n a la Superintendencia de Pensiones. '
+1. ' A su vez, en la misma oportunidad, la TGR remitirá la misma información a la Superintendencia de Pensiones. '
 
-* b) IntercÃ¡lase entre las expresiones 'las Administradoras,' y 'garantizando que', del nÃºmero 4., la siguiente frase: ' asÃ­ como entre la TGR y la Superintendencia de Pensiones, '.
+* b) Intercálase entre las expresiones 'las Administradoras,' y 'garantizando que', del número 4., la siguiente frase: ' así como entre la TGR y la Superintendencia de Pensiones, '.
 
 ## II. VIGENCIA
 
-La presente norma regirÃ¡ a contar de esta fecha.
+La presente norma regirá a contar de esta fecha.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
-| **(Fdo.) OSVALDO MACÃAS MUÃ‘OZ** | **(Fdo.) HERNÃN NOBIZELLI REYES** |
+| **(Fdo.) OSVALDO MACÍAS MUÑOZ** | **(Fdo.) HERNÁN NOBIZELLI REYES** |
 | --- | --- |
-| Superintendente de Pensiones | Tesorero General de la RepÃºblica |
+| Superintendente de Pensiones | Tesorero General de la República |
 
 (Fdo.) HERNAN FRIGOLETT CORDOVA Director del Servicio de Impuestos Internos
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines
+Lo que transcribo a Ud., para su conocimiento y demás fines
 
-CSM/CVD/PSM DISTRIBUCIÃ“N:
+CSM/CVD/PSM DISTRIBUCIÓN:
 
 * INTERNET
 * DIARIO OFICIAL, EN EXTRACTO

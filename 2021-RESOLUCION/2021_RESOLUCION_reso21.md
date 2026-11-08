@@ -1,87 +1,88 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 80 (2021)
-description: MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÃ“N EX. SII NÂ° 80, DE 2016.
+---
+type: "SII Resolución"
+title: "Resolución N° 80 (2021)"
+description: "MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016."
 tags: [SII, 2021, resolucion]
 ---
 
-MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÃ“N EX. SII NÂ° 80, DE 2016.
+
+MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016.
 
 SANTIAGO, 24 de febrero de 2021
 
-## RESOLUCION EXENTA SII NÂ° 21
+## RESOLUCION EXENTA SII N° 21
 
-VISTOS: Lo dispuesto en el artÃ­culo 41 de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases de la AdministraciÃ³n del Estado; en el artÃ­culo 3Â°, 4Â° bis y en la letra b) del artÃ­culo 7Âº, de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en el artÃ­culo 6Â°, letra A) NÂº 1 y artÃ­culo 35 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂº 830, de 1974; en la Ley NÂ° 19.628 sobre ProtecciÃ³n de la Vida Privada; en la Ley NÂ° 21.210 de 2020 que Moderniza la LegislaciÃ³n Tributaria; en la ResoluciÃ³n Ex. SII NÂ° 80 de 12.08.2016; y,
+VISTOS: Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado; en el artículo 3°, 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A) Nº 1 y artículo 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974; en la Ley N° 19.628 sobre Protección de la Vida Privada; en la Ley N° 21.210 de 2020 que Moderniza la Legislación Tributaria; en la Resolución Ex. SII N° 80 de 12.08.2016; y,
 
 CONSIDERANDO:
 
-1Â° Que, la letra b) del artÃ­culo 7Âº de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda y el artÃ­culo 6Â°, letra A) NÂº 1 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂº 830, de 1974, facultan al Director del Servicio para interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
+1° Que, la letra b) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda y el artículo 6°, letra A) Nº 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974, facultan al Director del Servicio para interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
 
-2Â° Que, el artÃ­culo 4Â° bis de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, de 1980 del Ministerio de Hacienda, dispone que: 'El Servicio de Impuestos Internos podrÃ¡, ademÃ¡s, relacionarse directamente con los contribuyentes y Ã©stos con el Servicio, a travÃ©s de medios electrÃ³nicos, entendiendo por tales aquellos que tienen capacidades elÃ©ctricas, digitales, magnÃ©ticas, inalÃ¡mbricas, Ã³pticas, electromagnÃ©ticas u otras similares. Los trÃ¡mites y actuaciones que se realicen a travÃ©s de tales medios producirÃ¡n los mismos efectos que los trÃ¡mites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.'
+2° Que, el artículo 4° bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980 del Ministerio de Hacienda, dispone que: 'El Servicio de Impuestos Internos podrá, además, relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquellos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.'
 
-3Â° Que, dentro de las modificaciones introducidas por la Ley NÂ° 21.210 de 2020, que moderniza la legislaciÃ³n tributaria, se reemplazÃ³ el artÃ­culo 14 de la Ley sobre Impuesto a la Renta (LIR), D.L. 824 de 1974 e incorporaron nuevos regÃ­menes tributarios.
+3° Que, dentro de las modificaciones introducidas por la Ley N° 21.210 de 2020, que moderniza la legislación tributaria, se reemplazó el artículo 14 de la Ley sobre Impuesto a la Renta (LIR), D.L. 824 de 1974 e incorporaron nuevos regímenes tributarios.
 
-4Â° Que, en tal orden de ideas, la letra D) del artÃ­culo 14 de la LIR, establece un rÃ©gimen especial para las micro, pequeÃ±as y medianas empresas (Pymes), a fin de incentivar la inversiÃ³n, el capital de trabajo y la liquidez de las Pymes, denominado rÃ©gimen Pro Pyme, para las empresas calificadas como tales segÃºn los requisitos que establece dicha disposiciÃ³n.
+4° Que, en tal orden de ideas, la letra D) del artículo 14 de la LIR, establece un régimen especial para las micro, pequeñas y medianas empresas (Pymes), a fin de incentivar la inversión, el capital de trabajo y la liquidez de las Pymes, denominado régimen Pro Pyme, para las empresas calificadas como tales según los requisitos que establece dicha disposición.
 
-5Â° Que, el inciso primero nÃºmero 2 de la letra D) del artÃ­culo 14 de la LIR, establece un mecanismo de acceso al financiamiento de las Pymes, para cuyo fin el Servicio de Impuestos Internos, previa solicitud, entregarÃ¡, en el sitio personal de la Pyme, un informe de la situaciÃ³n tributaria de la empresa, con la informaciÃ³n que mantenga a su disposiciÃ³n y sea relevante para facilitar el acceso al financiamiento de la Pyme, segÃºn lo determine mediante resoluciÃ³n.
+5° Que, el inciso primero número 2 de la letra D) del artículo 14 de la LIR, establece un mecanismo de acceso al financiamiento de las Pymes, para cuyo fin el Servicio de Impuestos Internos, previa solicitud, entregará, en el sitio personal de la Pyme, un informe de la situación tributaria de la empresa, con la información que mantenga a su disposición y sea relevante para facilitar el acceso al financiamiento de la Pyme, según lo determine mediante resolución.
 
-6Â° Que, de acuerdo con la Res. Ex. SII NÂ° 80 de 2016, este Servicio habilitÃ³ en su sitio web, la denominada Carpeta Tributaria para Terceros, archivo electrÃ³nico que permitiÃ³ a los contribuyentes autorizar a los bancos, entidades financieras e intermediarios financieros bancarios y no bancarios, asÃ­ como a participantes en los programas de financiamiento y/o coberturas para empresas de CORFO, o de financiamiento sustentado en ayuda mutua como las cooperativas, para que sean receptoras de informaciÃ³n tributaria que dispone el Servicio a travÃ©s de dicha Carpeta, a objeto de facilitar el acceso de todos los contribuyentes, especialmente las micro, pequeÃ±as y medianas empresas (Mipyme), al sistema financiero.
+6° Que, de acuerdo con la Res. Ex. SII N° 80 de 2016, este Servicio habilitó en su sitio web, la denominada Carpeta Tributaria para Terceros, archivo electrónico que permitió a los contribuyentes autorizar a los bancos, entidades financieras e intermediarios financieros bancarios y no bancarios, así como a participantes en los programas de financiamiento y/o coberturas para empresas de CORFO, o de financiamiento sustentado en ayuda mutua como las cooperativas, para que sean receptoras de información tributaria que dispone el Servicio a través de dicha Carpeta, a objeto de facilitar el acceso de todos los contribuyentes, especialmente las micro, pequeñas y medianas empresas (Mipyme), al sistema financiero.
 
-7Â° Que, con el objeto de fomentar el uso de la Carpeta Tributaria de los contribuyentes, se ha considerado conveniente modificar la documentaciÃ³n exigida a las entidades privadas y considerar a las entidades pÃºblicas que lo soliciten, para ser habilitadas como receptoras de la informaciÃ³n contenida en las Carpetas Tributarias.
+7° Que, con el objeto de fomentar el uso de la Carpeta Tributaria de los contribuyentes, se ha considerado conveniente modificar la documentación exigida a las entidades privadas y considerar a las entidades públicas que lo soliciten, para ser habilitadas como receptoras de la información contenida en las Carpetas Tributarias.
 
 ## SE RESUELVE:
 
-1Â° ESTABLÃ‰CESE la existencia de dos Carpetas Tributarias para Terceros que permiten al contribuyente compartir su informaciÃ³n tributaria mediante autorizaciÃ³n previa, realizada a travÃ©s del sitio web del SII, conforme a las presentes instrucciones:
+1° ESTABLÉCESE la existencia de dos Carpetas Tributarias para Terceros que permiten al contribuyente compartir su información tributaria mediante autorización previa, realizada a través del sitio web del SII, conforme a las presentes instrucciones:
 
-* A- Carpeta Tributaria Regular : Corresponde a un documento estÃ¡tico generado por el contribuyente para un tercero especÃ­fico, a fin que Ã©ste Ãºltimo pueda acceder por un perÃ­odo de hasta 90 dÃ­as, a travÃ©s del sitio web del SII, al contenido de dicha Carpeta mediante un cÃ³digo y clave especÃ­ficos recibidos a travÃ©s de correo electrÃ³nico. En el caso que el contribuyente lo requiera, podrÃ¡ anular en cualquier momento la opciÃ³n de que el tercero autorizado descargue su Carpeta Tributaria Regular desde la misma aplicaciÃ³n.
+* A- Carpeta Tributaria Regular : Corresponde a un documento estático generado por el contribuyente para un tercero específico, a fin que éste último pueda acceder por un período de hasta 90 días, a través del sitio web del SII, al contenido de dicha Carpeta mediante un código y clave específicos recibidos a través de correo electrónico. En el caso que el contribuyente lo requiera, podrá anular en cualquier momento la opción de que el tercero autorizado descargue su Carpeta Tributaria Regular desde la misma aplicación.
 
-La referida Carpeta, incluye informaciÃ³n relacionada a datos del contribuyente, datos para fines tributarios, propiedades y bienes raÃ­ces, boletas de honorarios y declaraciones, entre otros.
+La referida Carpeta, incluye información relacionada a datos del contribuyente, datos para fines tributarios, propiedades y bienes raíces, boletas de honorarios y declaraciones, entre otros.
 
-* B- Carpeta Tributaria por Mandato : Corresponde a un archivo electrÃ³nico dinÃ¡mico descargable, cuyo acceso es entregado por el contribuyente a la o las entidades pÃºblicas o financieras elegibles que estime pertinentes, por un perÃ­odo de 90, 180 o 365 dÃ­as. Las entidades autorizadas podrÃ¡n acceder a la informaciÃ³n de los contribuyentes, que hayan compartido el mandato, a travÃ©s del sitio web del SII. En el caso que el contribuyente lo requiera, podrÃ¡ revocar en cualquier momento el mandato, restringiendo el acceso a la o las instituciones que autorizÃ³ previamente, desde la misma aplicaciÃ³n.
+* B- Carpeta Tributaria por Mandato : Corresponde a un archivo electrónico dinámico descargable, cuyo acceso es entregado por el contribuyente a la o las entidades públicas o financieras elegibles que estime pertinentes, por un período de 90, 180 o 365 días. Las entidades autorizadas podrán acceder a la información de los contribuyentes, que hayan compartido el mandato, a través del sitio web del SII. En el caso que el contribuyente lo requiera, podrá revocar en cualquier momento el mandato, restringiendo el acceso a la o las instituciones que autorizó previamente, desde la misma aplicación.
 
-La referida carpeta, contiene informaciÃ³n relacionada a datos del contribuyente, datos para fines tributarios, propiedades y bienes raÃ­ces, boletas de honorarios y declaraciones, entre otros.
+La referida carpeta, contiene información relacionada a datos del contribuyente, datos para fines tributarios, propiedades y bienes raíces, boletas de honorarios y declaraciones, entre otros.
 
-2 Â° Las entidades pÃºblicas o financieras de carÃ¡cter privado que requieran ser inscritas en la nÃ³mina de Terceros que estarÃ¡ a disposiciÃ³n de los contribuyentes para ser autorizados a tener acceso a la informaciÃ³n contenida en la Carpeta Tributaria por Mandato, deberÃ¡n cumplir con el siguiente procedimiento y requisitos:
+2 ° Las entidades públicas o financieras de carácter privado que requieran ser inscritas en la nómina de Terceros que estará a disposición de los contribuyentes para ser autorizados a tener acceso a la información contenida en la Carpeta Tributaria por Mandato, deberán cumplir con el siguiente procedimiento y requisitos:
 
-## A- Entidades Financieras de carÃ¡cter Privado
+## A- Entidades Financieras de carácter Privado
 
-Las entidades financieras de carÃ¡cter privado que requieran ser incorporadas en la nÃ³mina creada por el Servicio de Impuestos Internos para tal fin, deberÃ¡n acreditar que cumplen de manera copulativa con las siguientes condiciones:
+Las entidades financieras de carácter privado que requieran ser incorporadas en la nómina creada por el Servicio de Impuestos Internos para tal fin, deberán acreditar que cumplen de manera copulativa con las siguientes condiciones:
 
-* aQue dentro de su giro social se encuentra otorgar financiamiento, brindar o garantizar crÃ©ditos, transar instrumentos de operaciones de crÃ©dito de dinero o intermediar en estos procesos. Para estos efectos los datos de su actividad econÃ³mica deberÃ¡n estar creados y actualizados en los registros del Servicio, previamente.
-* bQue se encuentran sujetas a la supervigilancia de algÃºn organismo del Estado o a la fiscalizaciÃ³n de la ComisiÃ³n para el Mercado Financiero (CMF) o de otras entidades que ejerzan similares facultades.
+* aQue dentro de su giro social se encuentra otorgar financiamiento, brindar o garantizar créditos, transar instrumentos de operaciones de crédito de dinero o intermediar en estos procesos. Para estos efectos los datos de su actividad económica deberán estar creados y actualizados en los registros del Servicio, previamente.
+* bQue se encuentran sujetas a la supervigilancia de algún organismo del Estado o a la fiscalización de la Comisión para el Mercado Financiero (CMF) o de otras entidades que ejerzan similares facultades.
 
-En relaciÃ³n a lo anterior, el representante legal de la entidad financiera interesada deberÃ¡ realizar una solicitud de incorporaciÃ³n a travÃ©s del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentaciÃ³n:
+En relación a lo anterior, el representante legal de la entidad financiera interesada deberá realizar una solicitud de incorporación a través del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentación:
 
-* i. Copia autorizada de la escritura pÃºblica de constituciÃ³n de la entidad, debidamente protocolizada y vigente, que especifique al representante legal.
-* ii. El certificado emitido por la ComisiÃ³n para el Mercado Financiero (CMF) o de la entidad reguladora a la que se encuentre sujeta.
+* i. Copia autorizada de la escritura pública de constitución de la entidad, debidamente protocolizada y vigente, que especifique al representante legal.
+* ii. El certificado emitido por la Comisión para el Mercado Financiero (CMF) o de la entidad reguladora a la que se encuentre sujeta.
 
-En caso que una entidad financiera pierda su condiciÃ³n y ya no cumpla con los requisitos antes mencionados, deberÃ¡ informar al SII tal circunstancia, dentro del plazo de 30 dÃ­as de verificado el hecho, a fin de que este organismo proceda a su eliminaciÃ³n de la nÃ³mina de Terceros inscritos para ser autorizado a acceder a la Carpeta Tributaria por Mandato.
+En caso que una entidad financiera pierda su condición y ya no cumpla con los requisitos antes mencionados, deberá informar al SII tal circunstancia, dentro del plazo de 30 días de verificado el hecho, a fin de que este organismo proceda a su eliminación de la nómina de Terceros inscritos para ser autorizado a acceder a la Carpeta Tributaria por Mandato.
 
-El incumplimiento de esta obligaciÃ³n serÃ¡ sancionado conforme a las normas del CÃ³digo Tributario.
+El incumplimiento de esta obligación será sancionado conforme a las normas del Código Tributario.
 
-## B- Entidades PÃºblicas
+## B- Entidades Públicas
 
-Las entidades pÃºblicas que requieran ser incorporadas en la nÃ³mina antes mencionada, deberÃ¡n acreditar que cumplen de manera copulativa con las siguientes condiciones:
+Las entidades públicas que requieran ser incorporadas en la nómina antes mencionada, deberán acreditar que cumplen de manera copulativa con las siguientes condiciones:
 
-* aQue otorguen algÃºn beneficio, a travÃ©s de postulaciones, que se traduzca en tÃ©rminos econÃ³micos para los favorecidos.
+* aQue otorguen algún beneficio, a través de postulaciones, que se traduzca en términos económicos para los favorecidos.
 * bSolo se trate de entidades desconcentradas administrativamente del Gobierno Central.
 
-En relaciÃ³n a lo anterior, el representante legal de la entidad pÃºblica interesada deberÃ¡ realizar una solicitud de incorporaciÃ³n a travÃ©s del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentaciÃ³n:
+En relación a lo anterior, el representante legal de la entidad pública interesada deberá realizar una solicitud de incorporación a través del sitio web de este Servicio, adjuntando en formato PDF la siguiente documentación:
 
-* i. ResoluciÃ³n o constancia donde se indique expresamente le dependencia de la entidad a un Ministerio respectivo.
-* ii. ResoluciÃ³n o Reglamento formal que seÃ±ale explÃ­citamente las caracterÃ­sticas del beneficio a entregar, los requisitos y la forma de postulaciÃ³n.
+* i. Resolución o constancia donde se indique expresamente le dependencia de la entidad a un Ministerio respectivo.
+* ii. Resolución o Reglamento formal que señale explícitamente las características del beneficio a entregar, los requisitos y la forma de postulación.
 
-Adicionalmente, el SII verificarÃ¡ que la entidad pÃºblica se encuentre inscrita como tal en los registros de este Servicio, solicitando la inscripciÃ³n previa si es que se requiriese.
+Adicionalmente, el SII verificará que la entidad pública se encuentre inscrita como tal en los registros de este Servicio, solicitando la inscripción previa si es que se requiriese.
 
-3Â° Las entidades que accedan a la Carpeta Tributaria, deberÃ¡n utilizarla solo para los fines para los cuales hubieren sido autorizados. Asimismo, no podrÃ¡n efectuar traspaso de la informaciÃ³n contenida en Ã©sta a terceros, debiendo adoptar medidas de resguardo y protecciÃ³n de los datos personales, conforme a las disposiciones de la Ley NÂ° 19.628.
+3° Las entidades que accedan a la Carpeta Tributaria, deberán utilizarla solo para los fines para los cuales hubieren sido autorizados. Asimismo, no podrán efectuar traspaso de la información contenida en ésta a terceros, debiendo adoptar medidas de resguardo y protección de los datos personales, conforme a las disposiciones de la Ley N° 19.628.
 
-4Â° Que, en cumplimiento de lo dispuesto por el inciso primero nÃºmero 2 de la letra D) del artÃ­culo 14 de la LIR, que establece un mecanismo de acceso al financiamiento de las Pymes; se determina que la Pyme podrÃ¡ utilizar la carpeta tributaria descrita en la presente resoluciÃ³n para efectos de obtener financiamiento u otros fines que les parezcan necesarios, siendo de su exclusiva responsabilidad la veracidad de la informaciÃ³n que contenga y su entrega a terceros.
+4° Que, en cumplimiento de lo dispuesto por el inciso primero número 2 de la letra D) del artículo 14 de la LIR, que establece un mecanismo de acceso al financiamiento de las Pymes; se determina que la Pyme podrá utilizar la carpeta tributaria descrita en la presente resolución para efectos de obtener financiamiento u otros fines que les parezcan necesarios, siendo de su exclusiva responsabilidad la veracidad de la información que contenga y su entrega a terceros.
 
-5Â° DELÃ‰GASE en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar como receptores de la Carpeta Tributaria por Mandato a las entidades que acrediten cumplir con lo dispuesto en el resolutivo 2Â° de la presente ResoluciÃ³n. Dichas Resoluciones se encontrarÃ¡n disponibles en la pÃ¡gina web de este Servicio.
+5° DELÉGASE en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar como receptores de la Carpeta Tributaria por Mandato a las entidades que acrediten cumplir con lo dispuesto en el resolutivo 2° de la presente Resolución. Dichas Resoluciones se encontrarán disponibles en la página web de este Servicio.
 
-6Âº DÃ‰JASE sin efecto a contar de esta fecha la ResoluciÃ³n Ex. NÂ° 80, de 2016.
+6º DÉJASE sin efecto a contar de esta fecha la Resolución Ex. N° 80, de 2016.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
 <unknown>
 
@@ -89,7 +90,7 @@ Adicionalmente, el SII verificarÃ¡ que la entidad pÃºblica se encuentre insc
 
 <unknown>
 
-VVS/RRG/AVB DistribuciÃ³n:
+VVS/RRG/AVB Distribución:
 
 * -Internet
 * -Diario Oficial, en Extracto

@@ -1,89 +1,90 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 135 (2023)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS GE00265053
+---
+type: "SII Resolución"
+title: "Resolución N° 135 (2023)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053"
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE DISEÃ‘O DE PROCEDIMIENTOS GE00265053
 
-ESTABLECE FORMA Y PLAZO EN QUE LAS ENTIDADES ACREEDORAS DEBEN CUMPLIR LA OBLIGACIÃ“N DE INFORMAR A ESTE SERVICIO LOS CRÃ‰DITOS CON GARANTÃA HIPOTECARIA CONTRATADOS PARA LA ADQUISICIÃ“N DE VIVIENDAS NUEVAS QUE SE HAN ACOGIDO AL BENEFICIO TRIBUTARIO A QUE REFIERE LA LEY NÂ° 21.631, Y DE CERTIFICAR EL MONTO DE LOS DIVIDENDOS A LAS PERSONAS NATURALES QUE HAN PAGADO DICHAS OBLIGACIONES.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053
+
+ESTABLECE FORMA Y PLAZO EN QUE LAS ENTIDADES ACREEDORAS DEBEN CUMPLIR LA OBLIGACIÓN DE INFORMAR A ESTE SERVICIO LOS CRÉDITOS CON GARANTÍA HIPOTECARIA CONTRATADOS PARA LA ADQUISICIÓN DE VIVIENDAS NUEVAS QUE SE HAN ACOGIDO AL BENEFICIO TRIBUTARIO A QUE REFIERE LA LEY N° 21.631, Y DE CERTIFICAR EL MONTO DE LOS DIVIDENDOS A LAS PERSONAS NATURALES QUE HAN PAGADO DICHAS OBLIGACIONES.
 
 ## SANTIAGO, 4 DE DICIEMBRE DE 2023
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EX. SII NÂ° 135.-
+## RESOLUCIÓN EX. SII N° 135.-
 
-VISTOS: Lo establecido en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7 del Ministerio de Hacienda, de 1980; en los artÃ­culos 6Â°, letra A, NÂ° 1 y 33 bis del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en el artÃ­culo Ãºnico y artÃ­culo transitorio de la Ley NÂ° 21.631, que establece un beneficio tributario transitorio y extraordinario a la compra de viviendas nuevas adquiridas con crÃ©ditos con garantÃ­a hipotecaria, publicada en el Diario Oficial de fecha 31.10.2023, y
+VISTOS: Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 del Ministerio de Hacienda, de 1980; en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; en el artículo único y artículo transitorio de la Ley N° 21.631, que establece un beneficio tributario transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, publicada en el Diario Oficial de fecha 31.10.2023, y
 
 ## CONSIDERANDO :
 
-1Â° Que, el artÃ­culo 6Â°, letra A NÂ°1, del CÃ³digo Tributario y el artÃ­culo 7Â°, letra b), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, facultan al Director para fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos.
+1° Que, el artículo 6°, letra A N°1, del Código Tributario y el artículo 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos.
 
-2Â° Que, el artÃ­culo Ãºnico de la Ley NÂ° 21.631 establece un beneficio tributario transitorio y extraordinario por los aÃ±os tributarios 2024, 2025, 2026, 2027, 2028 y 2029, para la adquisiciÃ³n de viviendas con destino habitacional, que cumplan con los requisitos establecidos en el inciso segundo de dicho artÃ­culo, adquiridas por personas naturales con residencia o domicilio en Chile.
+2° Que, el artículo único de la Ley N° 21.631 establece un beneficio tributario transitorio y extraordinario por los años tributarios 2024, 2025, 2026, 2027, 2028 y 2029, para la adquisición de viviendas con destino habitacional, que cumplan con los requisitos establecidos en el inciso segundo de dicho artículo, adquiridas por personas naturales con residencia o domicilio en Chile.
 
-Dicho inciso segundo dispone que podrÃ¡n acceder a este crÃ©dito aquellas personas que adquieran una vivienda con destino habitacional mediante un crÃ©dito con garantÃ­a hipotecaria, con bancos o instituciones financieras, siempre que cumplan copulativamente los requisitos que la misma norma seÃ±ala.
+Dicho inciso segundo dispone que podrán acceder a este crédito aquellas personas que adquieran una vivienda con destino habitacional mediante un crédito con garantía hipotecaria, con bancos o instituciones financieras, siempre que cumplan copulativamente los requisitos que la misma norma señala.
 
-3Â° Que, el beneficio tributario consiste en un crÃ©dito anual por el monto menor entre los dividendos efectivamente pagados por concepto del crÃ©dito con garantÃ­a hipotecaria obtenido para la adquisiciÃ³n de la vivienda acogida a este beneficio dentro del aÃ±o comercial respectivo y un monto equivalente a 16 unidades tributarias mensuales, segÃºn su valor al mes de diciembre del aÃ±o respectivo.
+3° Que, el beneficio tributario consiste en un crédito anual por el monto menor entre los dividendos efectivamente pagados por concepto del crédito con garantía hipotecaria obtenido para la adquisición de la vivienda acogida a este beneficio dentro del año comercial respectivo y un monto equivalente a 16 unidades tributarias mensuales, según su valor al mes de diciembre del año respectivo.
 
-4Â° Que, el crÃ©dito podrÃ¡ ser utilizado respecto de una sola vivienda adquirida con crÃ©dito con garantÃ­a hipotecaria.
+4° Que, el crédito podrá ser utilizado respecto de una sola vivienda adquirida con crédito con garantía hipotecaria.
 
-Los contribuyentes que hayan adquirido una o mÃ¡s viviendas susceptibles de acceder al presente beneficio podrÃ¡n acogerse a este respecto de solo una de ellas. Para estos efectos, se deberÃ¡ dejar constancia en la respectiva escritura de compraventa que el contribuyente no se encuentra actualmente utilizando el beneficio y que la compraventa cumple con los requisitos establecidos en la Ley NÂ° 21.631.
+Los contribuyentes que hayan adquirido una o más viviendas susceptibles de acceder al presente beneficio podrán acogerse a este respecto de solo una de ellas. Para estos efectos, se deberá dejar constancia en la respectiva escritura de compraventa que el contribuyente no se encuentra actualmente utilizando el beneficio y que la compraventa cumple con los requisitos establecidos en la Ley N° 21.631.
 
-En el caso que los contribuyentes hubieren adquirido en comunidad una vivienda y exista mÃ¡s de un deudor, deberÃ¡ dejarse constancia en la escritura pÃºblica respectiva, de la identificaciÃ³n del comunero que se acoge a este beneficio tributario. Con todo, el comunero que utilice este beneficio podrÃ¡ ser distinto de aquÃ©l que haga uso del beneficio establecido en el artÃ­culo 55 bis de la LIR. Sin embargo, quien utilice este Ãºltimo beneficio deberÃ¡ de todas formas realizar el cÃ¡lculo a que se refiere el considerando anterior para establecer los intereses que pueden acogerse al beneficio tributario.
+En el caso que los contribuyentes hubieren adquirido en comunidad una vivienda y exista más de un deudor, deberá dejarse constancia en la escritura pública respectiva, de la identificación del comunero que se acoge a este beneficio tributario. Con todo, el comunero que utilice este beneficio podrá ser distinto de aquél que haga uso del beneficio establecido en el artículo 55 bis de la LIR. Sin embargo, quien utilice este último beneficio deberá de todas formas realizar el cálculo a que se refiere el considerando anterior para establecer los intereses que pueden acogerse al beneficio tributario.
 
-5Â° Que, de acuerdo al artÃ­culo transitorio de la Ley NÂ° 21.631, la ley entrÃ³ en vigencia a contar del primer dÃ­a del mes siguiente a la fecha de su publicaciÃ³n en el Diario Oficial.
+5° Que, de acuerdo al artículo transitorio de la Ley N° 21.631, la ley entró en vigencia a contar del primer día del mes siguiente a la fecha de su publicación en el Diario Oficial.
 
-6Â° Que, para que los contribuyentes seÃ±alados en esta resoluciÃ³n, puedan hacer uso adecuadamente del beneficio tributario que les confiere el artÃ­culo Ãºnico y artÃ­culo transitorio de la Ley NÂ° 21.631 y a su vez, para el debido control del mismo, el inciso final del artÃ­culo Ãºnico de esta disposiciÃ³n establece que las entidades acreedoras deberÃ¡n proporcionar, tanto al Servicio de Impuestos Internos como al contribuyente, la informaciÃ³n relacionada con los crÃ©ditos con garantÃ­a hipotecaria a que se refiere este artÃ­culo, por los medios, forma y plazos que dicho Servicio determine.
+6° Que, para que los contribuyentes señalados en esta resolución, puedan hacer uso adecuadamente del beneficio tributario que les confiere el artículo único y artículo transitorio de la Ley N° 21.631 y a su vez, para el debido control del mismo, el inciso final del artículo único de esta disposición establece que las entidades acreedoras deberán proporcionar, tanto al Servicio de Impuestos Internos como al contribuyente, la información relacionada con los créditos con garantía hipotecaria a que se refiere este artículo, por los medios, forma y plazos que dicho Servicio determine.
 
-7Âº Que, de acuerdo a lo establecido en el artÃ­culo 33 bis del CÃ³digo Tributario, junto con sus declaraciones, los contribuyentes deberÃ¡n acompaÃ±ar o poner a disposiciÃ³n del Servicio, en virtud de las preceptos legales o administrativos que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resoluciÃ³n fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias especÃ­ficas e informaciÃ³n determinada propia del contribuyente o de terceros.
+7º Que, de acuerdo a lo establecido en el artículo 33 bis del Código Tributario, junto con sus declaraciones, los contribuyentes deberán acompañar o poner a disposición del Servicio, en virtud de las preceptos legales o administrativos que correspondan, documentos y antecedentes, pudiendo este Servicio, mediante resolución fundada, requerir a los contribuyentes informes o declaraciones juradas sobre materias específicas e información determinada propia del contribuyente o de terceros.
 
-Agrega la disposiciÃ³n, que para la entrega de informaciÃ³n conforme con este inciso, el Servicio deberÃ¡ emitir resoluciones indicando en forma precisa las obligaciones y fechas en que serÃ¡n requeridos los informes o declaraciones juradas. Estas resoluciones deberÃ¡n dictarse con, a lo menos, cuatro meses de anticipaciÃ³n al tÃ©rmino del aÃ±o o periodo respecto del cual se requerirÃ¡ la informaciÃ³n. Dicho plazo podrÃ¡ ser inferior en caso que exista una disposiciÃ³n legal que asÃ­ lo determine o si lo determina fundadamente el Director por razones de buen servicio.
+Agrega la disposición, que para la entrega de información conforme con este inciso, el Servicio deberá emitir resoluciones indicando en forma precisa las obligaciones y fechas en que serán requeridos los informes o declaraciones juradas. Estas resoluciones deberán dictarse con, a lo menos, cuatro meses de anticipación al término del año o periodo respecto del cual se requerirá la información. Dicho plazo podrá ser inferior en caso que exista una disposición legal que así lo determine o si lo determina fundadamente el Director por razones de buen servicio.
 
-8Âº Que, considerando la fecha de la publicaciÃ³n de la Ley 21.631 en el Diario Oficial, esto es, 31.10.2023, se hace necesario dictar la presente resoluciÃ³n en un plazo inferior al mencionado en el considerando precedente, y por razones de buen servicio;
+8º Que, considerando la fecha de la publicación de la Ley 21.631 en el Diario Oficial, esto es, 31.10.2023, se hace necesario dictar la presente resolución en un plazo inferior al mencionado en el considerando precedente, y por razones de buen servicio;
 
 ## SE RESUELVE:
 
-1Â° Las entidades acreedoras, bancos e instituciones financieras, que hubieren otorgado crÃ©ditos con garantÃ­a hipotecaria a personas naturales con residencia o domicilio en Chile, destinados a adquirir una vivienda nueva con destino habitacional que se acoja al beneficio tributario establecido en el artÃ­culo Ãºnico de la Ley NÂ° 21.631, deberÃ¡n presentar al Servicio de Impuestos Internos el Formulario NÂ° 1957 denominado 'DeclaraciÃ³n Jurada Anual sobre dividendos pagados crÃ©ditos con garantÃ­a hipotecaria relacionados con el beneficio tributario de la Ley NÂ° 21.631' , cuyo formato e instrucciones de llenado se contienen en los Anexos NÂ° 1 y NÂ° 2 de la presente resoluciÃ³n, los que forman parte integrante de esta Ãºltima para todos los efectos legales.
+1° Las entidades acreedoras, bancos e instituciones financieras, que hubieren otorgado créditos con garantía hipotecaria a personas naturales con residencia o domicilio en Chile, destinados a adquirir una vivienda nueva con destino habitacional que se acoja al beneficio tributario establecido en el artículo único de la Ley N° 21.631, deberán presentar al Servicio de Impuestos Internos el Formulario N° 1957 denominado 'Declaración Jurada Anual sobre dividendos pagados créditos con garantía hipotecaria relacionados con el beneficio tributario de la Ley N° 21.631' , cuyo formato e instrucciones de llenado se contienen en los Anexos N° 1 y N° 2 de la presente resolución, los que forman parte integrante de esta última para todos los efectos legales.
 
-En el caso que, respecto del mismo crÃ©dito con garantÃ­a hipotecaria, se utilice el beneficio tributario establecido en el artÃ­culo Ãºnico de la Ley NÂ° 21.631 y el contenido en el artÃ­culo 55 bis de la LIR, las entidades seÃ±aladas en el pÃ¡rrafo anterior mantienen, respecto de ese Ãºltimo beneficio, la obligaciÃ³n de informar dicho crÃ©dito con garantÃ­a hipotecaria a travÃ©s del Formulario NÂ° 1898, establecido a travÃ©s de la ResoluciÃ³n Exenta NÂ° 53 del aÃ±o 2001.
+En el caso que, respecto del mismo crédito con garantía hipotecaria, se utilice el beneficio tributario establecido en el artículo único de la Ley N° 21.631 y el contenido en el artículo 55 bis de la LIR, las entidades señaladas en el párrafo anterior mantienen, respecto de ese último beneficio, la obligación de informar dicho crédito con garantía hipotecaria a través del Formulario N° 1898, establecido a través de la Resolución Exenta N° 53 del año 2001.
 
-2Â° En el caso que la vivienda financiada a travÃ©s del crÃ©dito con garantÃ­a hipotecaria haya sido adquirida en comunidad y respecto de dicho crÃ©dito existiere mÃ¡s de un deudor, deberÃ¡ informarse como deudor en el Formulario NÂ° 1957, columna 'RUT del deudor', al comunero que expresamente se indique en la escritura pÃºblica de compraventa correspondiente como la persona que harÃ¡ uso de este beneficio tributario.
+2° En el caso que la vivienda financiada a través del crédito con garantía hipotecaria haya sido adquirida en comunidad y respecto de dicho crédito existiere más de un deudor, deberá informarse como deudor en el Formulario N° 1957, columna 'RUT del deudor', al comunero que expresamente se indique en la escritura pública de compraventa correspondiente como la persona que hará uso de este beneficio tributario.
 
-De igual forma, en el caso que la vivienda haya sido adquirida en comunidad y que, quien haga uso del beneficio establecido en el artÃ­culo 55 bis de la LIR sea distinto de aquel que harÃ¡ uso del crÃ©dito establecido en la Ley NÂ° 21.631, deberÃ¡ informarse en el Formulario NÂ° 1957 en la columna correspondiente, el NÂ° de RUT de la persona natural que harÃ¡ uso del beneficio tributario a que se refiere el artÃ­culo 55 bis de la LIR.
+De igual forma, en el caso que la vivienda haya sido adquirida en comunidad y que, quien haga uso del beneficio establecido en el artículo 55 bis de la LIR sea distinto de aquel que hará uso del crédito establecido en la Ley N° 21.631, deberá informarse en el Formulario N° 1957 en la columna correspondiente, el N° de RUT de la persona natural que hará uso del beneficio tributario a que se refiere el artículo 55 bis de la LIR.
 
-3Â° La declaraciÃ³n jurada deberÃ¡ ser presentada hasta el 11 de marzo de cada aÃ±o o dÃ­a hÃ¡bil siguiente, respecto de los dividendos por concepto de crÃ©ditos con garantÃ­a hipotecarias que se hubieren pagado en el aÃ±o comercial anterior.
+3° La declaración jurada deberá ser presentada hasta el 11 de marzo de cada año o día hábil siguiente, respecto de los dividendos por concepto de créditos con garantía hipotecarias que se hubieren pagado en el año comercial anterior.
 
-4Â° Asimismo, las entidades acreedoras indicadas en el resolutivo primero, emitirÃ¡n un certificado a las personas naturales, consignando el monto del capital e intereses correspondientes a crÃ©ditos con garantÃ­a hipotecaria pagados por los deudores del mismo durante el ejercicio calendario respectivo, en cumplimiento de las obligaciones contraÃ­das con motivo de la adquisiciÃ³n de una vivienda con destino habitacional; todo ello con el fin de que tales contribuyentes puedan hacer uso del beneficio tributario establecido por el artÃ­culo Ãºnico de la Ley NÂ° 21.631.
+4° Asimismo, las entidades acreedoras indicadas en el resolutivo primero, emitirán un certificado a las personas naturales, consignando el monto del capital e intereses correspondientes a créditos con garantía hipotecaria pagados por los deudores del mismo durante el ejercicio calendario respectivo, en cumplimiento de las obligaciones contraídas con motivo de la adquisición de una vivienda con destino habitacional; todo ello con el fin de que tales contribuyentes puedan hacer uso del beneficio tributario establecido por el artículo único de la Ley N° 21.631.
 
-Para el cumplimiento de la obligaciÃ³n precedente deberÃ¡ utilizarse el modelo de Certificado NÂº 74 y sus respectivas instrucciones, que se adjuntan como Anexos NÂº 3 y NÂ°4 a la presente resoluciÃ³n.
+Para el cumplimiento de la obligación precedente deberá utilizarse el modelo de Certificado Nº 74 y sus respectivas instrucciones, que se adjuntan como Anexos Nº 3 y N°4 a la presente resolución.
 
-Este certificado deberÃ¡ emitirse antes del 1Âº de Marzo de cada aÃ±o.
+Este certificado deberá emitirse antes del 1º de Marzo de cada año.
 
-5Â° El retardo u omisiÃ³n en la presentaciÃ³n de la declaraciÃ³n a que se refiere esta resoluciÃ³n, se sancionarÃ¡ de acuerdo a lo dispuesto en el NÂº 1 del artÃ­culo 97 del CÃ³digo Tributario.
+5° El retardo u omisión en la presentación de la declaración a que se refiere esta resolución, se sancionará de acuerdo a lo dispuesto en el Nº 1 del artículo 97 del Código Tributario.
 
-Por su parte, la omisiÃ³n de la certificaciÃ³n a que se refiere el nÃºmero 4Âº precedente o la certificaciÃ³n parcial, errÃ³nea o extemporÃ¡nea de la informaciÃ³n requerida, se sancionarÃ¡ conforme a lo dispuesto por el artÃ­culo 109 del CÃ³digo Tributario, por cada persona a quiÃ©n debiÃ³ emitÃ­rsele el citado documento.
+Por su parte, la omisión de la certificación a que se refiere el número 4º precedente o la certificación parcial, errónea o extemporánea de la información requerida, se sancionará conforme a lo dispuesto por el artículo 109 del Código Tributario, por cada persona a quién debió emitírsele el citado documento.
 
-6Â° La presente resoluciÃ³n regirÃ¡ a partir del AÃ±o Tributario 2024, respecto de los crÃ©ditos con garantÃ­a hipotecaria otorgados para la adquisiciÃ³n de vivienda nueva cuya escritura pÃºblica de compraventa se celebre a partir del 1Â° de noviembre del aÃ±o 2023 y cuyos dividendos se paguen efectivamente a partir de la misma fecha.
+6° La presente resolución regirá a partir del Año Tributario 2024, respecto de los créditos con garantía hipotecaria otorgados para la adquisición de vivienda nueva cuya escritura pública de compraventa se celebre a partir del 1° de noviembre del año 2023 y cuyos dividendos se paguen efectivamente a partir de la misma fecha.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
-## (Fdo.) HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR
+## (Fdo.) HERNÁN FRIGOLETT CÓRDOVA DIRECTOR
 
-Anexo NÂ° 1 : Formato Formulario DeclaraciÃ³n Jurada NÂ° 1957
+Anexo N° 1 : Formato Formulario Declaración Jurada N° 1957
 
-Anexo NÂ° 2 : Instrucciones de llenado Formulario DeclaraciÃ³n Jurada NÂ° 1957
+Anexo N° 2 : Instrucciones de llenado Formulario Declaración Jurada N° 1957
 
-Anexo NÂ° 3: Certificado NÂ° 74 sobre monto de capital e intereses pagados correspondiente a crÃ©ditos hipotecarios y demÃ¡s antecedentes relacionados con motivo del beneficio tributario establecido en el artÃ­culo Ãºnico de la Ley NÂ° 21.631.
+Anexo N° 3: Certificado N° 74 sobre monto de capital e intereses pagados correspondiente a créditos hipotecarios y demás antecedentes relacionados con motivo del beneficio tributario establecido en el artículo único de la Ley N° 21.631.
 
-Anexo NÂ° 4: Instrucciones de llenado de Certificado NÂ° 74
+Anexo N° 4: Instrucciones de llenado de Certificado N° 74
 
-Lo que transcribo, para su conocimiento y demÃ¡s fines.
+Lo que transcribo, para su conocimiento y demás fines.
 
 CSM/CGG/OEG/PJV
 
-## DISTRIBUCIÃ“N
+## DISTRIBUCIÓN
 
 :
 

@@ -1,53 +1,54 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 78 (2017)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
+---
+type: "SII Resolución"
+title: "Resolución N° 78 (2017)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE
 
-MATERIA: DECLARA TÃ‰RMINO DE GIRO SEGÃšN LO DISPUESTO EN EL INCISO FINAL DEL ARTÃCULO 69 DEL CÃ“DIGO TRIBUTARIO
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
+
+MATERIA: DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO
 
 SANTIAGO, 23 DE AGOSTO 2017
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÃ“N EXENTA SII NÂ° 78.-
+RESOLUCIÓN EXENTA SII N° 78.-
 
 VISTOS:
 
-Lo dispuesto en los artÃ­culos 6Âº letra A), NÂºs 1 y 4, 15 y 69 inciso final del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, de 1974, y artÃ­culo 7Âº letra b), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; y la Circular NÂ° 30, del 10.05.2016;
+Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; y la Circular N° 30, del 10.05.2016;
 
 ## CONSIDERANDO:
 
-1Â° Que, el inciso final del artÃ­culo 69 del CÃ³digo Tributario, incorporado por la Ley NÂ° 20.899 establece que: 'Cuando la persona, entidad o agrupaciÃ³n presente 36 o mÃ¡s perÃ­odos continuos sin operaciones y no tenga utilidades ni activos pendientes de tributaciÃ³n o no se determinen diferencias netas de impuestos, y no posea deudas tributarias, se presumirÃ¡ legalmente que ha terminado su giro, lo que deberÃ¡ ser declarado por el Servicio mediante resoluciÃ³n y sin necesidad de citaciÃ³n previa'.
+1° Que, el inciso final del artículo 69 del Código Tributario, incorporado por la Ley N° 20.899 establece que: 'Cuando la persona, entidad o agrupación presente 36 o más períodos continuos sin operaciones y no tenga utilidades ni activos pendientes de tributación o no se determinen diferencias netas de impuestos, y no posea deudas tributarias, se presumirá legalmente que ha terminado su giro, lo que deberá ser declarado por el Servicio mediante resolución y sin necesidad de citación previa'.
 
-2Â° Que, para efectos de dar cumplimiento a lo seÃ±alado en el inciso final del artÃ­culo 69 del cuerpo legal mencionado, este Servicio dicta la presente ResoluciÃ³n de tÃ©rmino de giro, individualizando en el Anexo a las personas, entidades o agrupaciones afectadas con la presente declaraciÃ³n, mediante su nombre en el caso de las personas naturales, o razÃ³n social y NÃºmero de RUT, en las restantes.
+2° Que, para efectos de dar cumplimiento a lo señalado en el inciso final del artículo 69 del cuerpo legal mencionado, este Servicio dicta la presente Resolución de término de giro, individualizando en el Anexo a las personas, entidades o agrupaciones afectadas con la presente declaración, mediante su nombre en el caso de las personas naturales, o razón social y Número de RUT, en las restantes.
 
 ## SE RESUELVE:
 
-1Â° Se declara el tÃ©rmino de giro, de las personas, entidades o agrupaciones que se individualizan en la NÃ³mina contenida en el Anexo, puesto que presentan treinta y seis o mÃ¡s perÃ­odos tributarios continuos sin operaciones, y que en forma copulativa reÃºnen las siguientes condiciones:
+1° Se declara el término de giro, de las personas, entidades o agrupaciones que se individualizan en la Nómina contenida en el Anexo, puesto que presentan treinta y seis o más períodos tributarios continuos sin operaciones, y que en forma copulativa reúnen las siguientes condiciones:
 
-* a) no tienen utilidades pendientes de tributaciÃ³n;
-* b) no tienen activos pendientes de tributaciÃ³n;
+* a) no tienen utilidades pendientes de tributación;
+* b) no tienen activos pendientes de tributación;
 * c) en caso de que tuviesen utilidades o activos, no se determinen diferencias netas de impuestos; y
-* d) no poseen deudas tributarias, en base a la informaciÃ³n proporcionada por la TesorerÃ­a General de la RepÃºblica, a la fecha de la presente ResoluciÃ³n.
+* d) no poseen deudas tributarias, en base a la información proporcionada por la Tesorería General de la República, a la fecha de la presente Resolución.
 
-2Â° La NÃ³mina de las personas, entidades o agrupaciones afectadas, detalladas en el Anexo, que forma parte de la presente ResoluciÃ³n, serÃ¡ consultable a travÃ©s de la pÃ¡gina web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
+2° La Nómina de las personas, entidades o agrupaciones afectadas, detalladas en el Anexo, que forma parte de la presente Resolución, será consultable a través de la página web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
 
-Asimismo, a las personas, entidades o agrupaciones a quienes este Servicio les haya declarado el tÃ©rmino de giro o cese de actividades se les habilitarÃ¡ un expediente electrÃ³nico con los antecedentes del caso de conformidad a las disposiciones que sobre la materia contempla el artÃ­culo 21 del CÃ³digo Tributario.
+Asimismo, a las personas, entidades o agrupaciones a quienes este Servicio les haya declarado el término de giro o cese de actividades se les habilitará un expediente electrónico con los antecedentes del caso de conformidad a las disposiciones que sobre la materia contempla el artículo 21 del Código Tributario.
 
-3Â° La presente ResoluciÃ³n entrarÃ¡ en vigencia una vez publicada en extracto en el Diario Oficial.
+3° La presente Resolución entrará en vigencia una vez publicada en extracto en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Anexo: NÃ³mina de tÃ©rmino de giro agosto 2017
+Anexo: Nómina de término de giro agosto 2017
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines. RPA/MDA/SOB DistribuciÃ³n:
+Lo que transcribo a Ud., para su conocimiento y demás fines. RPA/MDA/SOB Distribución:
 
 * -Internet
-* -BoletÃ­n
+* -Boletín
 * -Diario Oficial

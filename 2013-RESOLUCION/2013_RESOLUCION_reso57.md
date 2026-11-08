@@ -1,39 +1,40 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 150 (2013)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 150 (2013)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A CONTRIBUYENTES QUE SEÃ‘ALAN.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
 
 ## SANTIAGO, 10 DE JUNIO DE 2013.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_57.-\_\_\_\_\_\_\_\_\_/
+RESOLUCIÓN EXENTA SII N° \_\_\_57.-\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ°830, de 1974; en la ResoluciÃ³n Ex. SII NÂ° 150, de diciembre de 2005; y,
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N°830, de 1974; en la Resolución Ex. SII N° 150, de diciembre de 2005; y,
 
 ## CONSIDERANDO:
 
-1Â° Que, en la Res. Ex. SII NÂ°1 21, del 7 de Octubre del 2008, se ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+1° Que, en la Res. Ex. SII N°1 21, del 7 de Octubre del 2008, se ha delegado en el Subdirector de Fiscalización, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
 
-2Â° Que, los contribuyentes que se detallan en el Resolutivo tercero, han solicitado incorporarse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica establecido en la Res. Ex. SII NÂ° 150, de diciembre de 2005, a partir del aÃ±o 2013.
+2° Que, los contribuyentes que se detallan en el Resolutivo tercero, han solicitado incorporarse al modelo de operación de Contabilidad Electrónica establecido en la Res. Ex. SII N° 150, de diciembre de 2005, a partir del año 2013.
 
-3Â° Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+3° Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, han efectuado las pruebas requeridas para el SII para acogerse al modelo de operación de Contabilidad Electrónica.
 
-4Â° Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII NÂ° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
+4° Que, los contribuyentes listados en el dispositivo segundo, cumplen con los requisitos establecidos en la referida Res. Ex. SII N° 150, de diciembre de 2005 y, declaran contar con CAL para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-Primero: ModifÃ­quese la autorizaciÃ³n a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, otorgada en la Res. Ex. SII NÂ° 40, del 15 de Octubre de 2013, sustituyÃ©ndose a utilizar CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otras empresas del mismo holding, al siguiente contribuyente:
+Primero: Modifíquese la autorización a proceder conforme al modelo de operación de Contabilidad Electrónica, otorgada en la Res. Ex. SII N° 40, del 15 de Octubre de 2013, sustituyéndose a utilizar Códigos de Autorización de Libros (CAL) tipo 2, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otras empresas del mismo holding, al siguiente contribuyente:
 
 * -EMPRESAS AQUACHILE S.A. 86.247.400-7
 
-Segundo: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
+Segundo: Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de ONVISION S.A., RUT 76.372.100-0, a los siguientes contribuyentes:
 
 | **- COLMENA GOLDEN CROSS S.A.** | **94.954.000-6** |
 | --- | --- |
@@ -41,12 +42,12 @@ Segundo: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabil
 | - DISTRIBUIDORA TECNICA ELECTRICA VITEL DOS S.A. | 76.895.480-1 |
 | - DISTRIBUIDORA TECNICA ELECTRICA VITEL S.A. | 89.396.900-4 |
 | - ECO ALUSA S.A. | 89.010.400-2 |
-| - INMOBILIARIA ALTOS DE REÃ‘ACA LTDA. | 76.160.883-5 |
+| - INMOBILIARIA ALTOS DE REÑACA LTDA. | 76.160.883-5 |
 | - INMOBILIARIA CENTENARIO LTDA. | 76.024.240-3 |
 | - INMOBILIARIA EL PATIO LTDA. | 76.257.875-1 |
 | - INMOBILIARIA LOS ALGARROBOS LTDA. | 76.129.795-3 |
 | - INMOBILIARIA PADRE MARIANO LTDA. | 76.244.132-2 |
-| - INMOBILIARIA VILLAR DEL RÃO LTDA. | 78.757.460-2 |
+| - INMOBILIARIA VILLAR DEL RÍO LTDA. | 78.757.460-2 |
 | - INMOBILIARIA Y CONSTRUCTORA ANTONIO BELLET LTDA. | 76.154.827-1 |
 | - INVERSIONES DIAL S.A. | 76.094.988-4 |
 | - INVERSIONES HLZ LTDA. | 76.198.784-4 |
@@ -66,7 +67,7 @@ Segundo: AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabil
 | - | TECNICAS REUNIDAS CHILE LTDA. | 79.645.920-4 |
 | - | TRANSPORTES SANTOLAYA LTDA. | 76.026.358-3 |
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LTDA., RUT 76.029.564-7 a los siguientes contribuyentes:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE LTDA., RUT 76.029.564-7 a los siguientes contribuyentes:
 
 | **-** | **A B ARRIENDOS S.A.** | **96.872.010-4** |
 | --- | --- | --- |
@@ -77,7 +78,7 @@ AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | - | TIENDA VENTISQUEROS SPA. | 76.249.445-0 |
 | - | TRENES METROPOLITANOS S.A. | 96.756.320-K |
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8 a los siguientes contribuyentes:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT 78.079.790-8 a los siguientes contribuyentes:
 
 | **-** | **AGUAS DE ANTOFAGASTA S.A.** | **99.540.870-8** |
 | --- | --- | --- |
@@ -86,27 +87,27 @@ AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | - | DISTRIBUIDORA G&G LTDA. | 77.565.000-1 |
 | - | MANUFACTURA DE CALZADOS SAN MIGUEL LTDA. | 80.582.900-1 |
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9 a los siguientes contribuyentes:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT 77.870.460-9 a los siguientes contribuyentes:
 
 * -ABS CHILE LTDA.
 * -PIC ANDINA S.A.
 
 76.071.420-8 96.955.660-K
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE S.A., RUT 77.586.860-0 al siguiente contribuyente:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de SOUTH CONSULTING SIGNATURE S.A., RUT 77.586.860-0 al siguiente contribuyente:
 
 GOODYEAR DE CHILE S A I C
 
 93.770.000-8
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9 a los siguientes contribuyentes:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de BLUELINE TECHNOLOGY SPA., RUT 76.156.362-9 a los siguientes contribuyentes:
 
 | **-** | **AGRICOLA BALLERINA CHILE LTDA.** | **76.197.308-8** |
 | --- | --- | --- |
 | - | AGRICOLA BALLERINA LTDA. | 77.507.910-K |
 | - | COMERCIAL ALBAL LTDA. | 76.246.252-4 |
 | - | COMERCIAL RAPEL LTDA. | 78.140.420-9 |
-| - | DISTRIBUCIÃ“N Y EXCELENCIA S.A. | 96.568.970-2 |
+| - | DISTRIBUCIÓN Y EXCELENCIA S.A. | 96.568.970-2 |
 | - | DISTRIBUIDORA HOLGREI LTDA. | 86.018.500-8 |
 | - | DISTRIBUIDORA LA CAV LTDA. | 76.055.635-1 |
 | - | HOUSEHOLD PRODUCTS CHILE COMERCIAL LTDA. | 96.861.090-2 |
@@ -117,7 +118,7 @@ AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | - | LABORATORIO BALLERINA LTDA. | 92.405.000-4 |
 | - | TRANSPORTES DESA LTDA. | 77.517.270-3 |
 
-AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2013, a travÃ©s del endoso de EMPRESAS AQUACHILE S.A., RUT 86.247.400-7 a los siguientes contribuyentes:
+Autorízase a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2013, a través del endoso de EMPRESAS AQUACHILE S.A., RUT 86.247.400-7 a los siguientes contribuyentes:
 
 | **- AGUAS** | **CLARAS S.A. 96.509.550-0** |
 | --- | --- |
@@ -131,24 +132,24 @@ AutorÃ­zase a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | - PROCESADORA AGUAS CLARAS LTDA. | 87.782.700-3 |
 | - PROCESADORA HUENOCOIHUE LTDA. | 78.512.930-K |
 | - SALMONES AUSTRALES S.A. | 96.775.710-1 |
-| - SALMONES CAILÃN S.A. | 84.449.400-9 |
+| - SALMONES CAILÍN S.A. | 84.449.400-9 |
 | - SALMONES CHAICAS S.A. | 76.125.666-1 |
 | - SALMONES CHILOE S.A. | 96.535.920-6 |
-| - SALMONES MAULLÃN LTDA. | 79.728.530-7 |
-| - SALMONES MAULLÃN S.A. | 96.786.950-3 |
+| - SALMONES MAULLÍN LTDA. | 79.728.530-7 |
+| - SALMONES MAULLÍN S.A. | 96.786.950-3 |
 | - SERVICIOS AGUAS CLARAS S.A. | 76.495.180-8 |
 
-Tercero: Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+Tercero: Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de Diciembre de 2005, y las modificaciones que a futuro se realicen en el modelo de operación de Contabilidad Electrónica.
 
-Cuarto: AutorÃ­zase ademÃ¡s a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2013 en el formato digital establecido por el Servicio, para lo cual deberÃ¡ cumplir con lo establecido en el resolutivo segundo de la ResoluciÃ³n Ex. SII NÂ° 150, de Diciembre de 2005.
+Cuarto: Autorízase además a dichos contribuyentes para almacenar, con fines tributarios, los libros contables de años anteriores al año 2013 en el formato digital establecido por el Servicio, para lo cual deberá cumplir con lo establecido en el resolutivo segundo de la Resolución Ex. SII N° 150, de Diciembre de 2005.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
 
-## ALEJANDRO BURR ORTÃšZAR SUBDIRECTOR DE FISCALIZACIÃ“N
+## ALEJANDRO BURR ORTÚZAR SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## RPA/CPG/oba DistribuciÃ³n:
+## RPA/CPG/oba Distribución:
 
 * Internet
-* BoletÃ­n SII
+* Boletín SII

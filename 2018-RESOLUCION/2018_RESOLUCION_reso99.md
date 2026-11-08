@@ -1,54 +1,55 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 99 (2018)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 99 (2018)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
 77318634744
 
-AUTORIZA A LIGA CHILENA CONTRA EL MAL DE PARKINSON, COMO RECEPTORA DE PRODUCTOS DE HIGIENE PERSONAL, CUYA COMERCIALIZACIÃ“N SE HA VUELTO INVIABLE.
+AUTORIZA A LIGA CHILENA CONTRA EL MAL DE PARKINSON, COMO RECEPTORA DE PRODUCTOS DE HIGIENE PERSONAL, CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE.
 
 SANTIAGO, 9 DE OCTUBRE 2018
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂº 99.-/
+RESOLUCIÓN EX. SII Nº 99.-/
 
 VISTOS:
 
-Las facultades que me confieren los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el D.F.L. NÂº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artÃ­culo 6Â°, letra A), NÂº 1 y 3, del D.L. NÂº 830, de 1974; que contiene el CÃ³digo Tributario, lo establecido en el artÃ­culo 31Â° NÂº 3, de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. 824, de 1974; lo seÃ±alado en los artÃ­culos 8Â°, letra d) y 79Â° de la Ley sobre Impuesto a la Ventas y Servicios, D.L. NÂ° 825, de 1974; lo establecido en la Ley NÂ° 19.638, publicada en el Diario Oficial con fecha 14.10.1999; lo establecido en la Ley NÂ° 20.500, publicada en el Diario Oficial con fecha 16.02.2011; las instrucciones contenidas en la ResoluciÃ³n Ex. SII NÂ° 45, de fecha 01.09.2003 y sus modificaciones ; las instrucciones contenidas en las Circulares NÂº 3, de fecha 13.01.1992 y NÂ° 42, de fecha 09.08.2018; y ResoluciÃ³n Ex. SII NÂ° 68, de fecha 28.08.2018.
+Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. Nº 7, de 1980 del Ministerio de Hacienda; lo establecido en el artículo 6°, letra A), Nº 1 y 3, del D.L. Nº 830, de 1974; que contiene el Código Tributario, lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974; lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L. N° 825, de 1974; lo establecido en la Ley N° 19.638, publicada en el Diario Oficial con fecha 14.10.1999; lo establecido en la Ley N° 20.500, publicada en el Diario Oficial con fecha 16.02.2011; las instrucciones contenidas en la Resolución Ex. SII N° 45, de fecha 01.09.2003 y sus modificaciones ; las instrucciones contenidas en las Circulares Nº 3, de fecha 13.01.1992 y N° 42, de fecha 09.08.2018; y Resolución Ex. SII N° 68, de fecha 28.08.2018.
 
 ## CONSIDERANDO:
 
-1Â° Que, mediante Circular NÂ° 42, de 09 de agosto de 2018, se complementÃ³ la Circular NÂ° 54, de 02 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal indicados en la letra c), del artÃ­culo 5Â°, del D.S. NÂ° 239 de 2003, del Ministerio de Salud, que debido a desperfectos menores en su presentaciÃ³n o a la proximidad de su fecha de expiraciÃ³n, pierdan su valor comercial dificultÃ¡ndose o haciÃ©ndose imposible su comercializaciÃ³n.
+1° Que, mediante Circular N° 42, de 09 de agosto de 2018, se complementó la Circular N° 54, de 02 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal indicados en la letra c), del artículo 5°, del D.S. N° 239 de 2003, del Ministerio de Salud, que debido a desperfectos menores en su presentación o a la proximidad de su fecha de expiración, pierdan su valor comercial dificultándose o haciéndose imposible su comercialización.
 
-2Â° Que, de conformidad a lo establecido en el resolutivo 10Â° de la ResoluciÃ³n Ex. SII NÂº 68, de 28 de agosto de 2018, el Director ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad de habilitar a las instituciones sin fines de lucro para ser distribuidoras y/o receptoras de productos de higiene personal y, en consecuencia, proceder a su inclusiÃ³n en el 'Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal cuya ComercializaciÃ³n se ha Vuelto Inviable', dictando las resoluciones que se requieran al efecto.
+2° Que, de conformidad a lo establecido en el resolutivo 10° de la Resolución Ex. SII Nº 68, de 28 de agosto de 2018, el Director ha delegado en el Subdirector de Fiscalización, la facultad de habilitar a las instituciones sin fines de lucro para ser distribuidoras y/o receptoras de productos de higiene personal y, en consecuencia, proceder a su inclusión en el 'Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Productos de Higiene Personal cuya Comercialización se ha Vuelto Inviable', dictando las resoluciones que se requieran al efecto.
 
-3Â° Que, de conformidad a lo establecido en la ResoluciÃ³n citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar a Instituciones sin Fines de Lucro como Distribuidoras y/o Receptoras de productos de higiene personal, que presenten una pÃ©rdida de su valor comercial que dificulte o haga imposible su comercializaciÃ³n, siempre que cumplan en forma Ã­ntegra los requisitos seÃ±alados en los Resolutivos NÂº 6 y 7 de dicho acto administrativo.
+3° Que, de conformidad a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar a Instituciones sin Fines de Lucro como Distribuidoras y/o Receptoras de productos de higiene personal, que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización, siempre que cumplan en forma íntegra los requisitos señalados en los Resolutivos Nº 6 y 7 de dicho acto administrativo.
 
-4Â° Que, la InstituciÃ³n individualizada en el resolutivo 1Â° de la presente resoluciÃ³n, ha solicitado autorizaciÃ³n para ser Receptora de productos de higiene personal que presenten una pÃ©rdida de su valor comercial que dificulte o haga imposible su comercializaciÃ³n, a fin de entregarlos a tÃ­tulo gratuito a personas de escasos recursos o en situaciÃ³n de vulnerabilidad. Asimismo, consta en los registros de este Servicio, que mediante ResoluciÃ³n Ex. SII NÂ° 13, de 30 de enero de 2012, la InstituciÃ³n fue autorizada como Receptora de alimentos.
+4° Que, la Institución individualizada en el resolutivo 1° de la presente resolución, ha solicitado autorización para ser Receptora de productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización, a fin de entregarlos a título gratuito a personas de escasos recursos o en situación de vulnerabilidad. Asimismo, consta en los registros de este Servicio, que mediante Resolución Ex. SII N° 13, de 30 de enero de 2012, la Institución fue autorizada como Receptora de alimentos.
 
-5Â° Que, revisada su solicitud, ella cumple lo establecido en la ResoluciÃ³n Ex. SII NÂ° 68, de 28 de agosto de 2018.
+5° Que, revisada su solicitud, ella cumple lo establecido en la Resolución Ex. SII N° 68, de 28 de agosto de 2018.
 
 ## SE RESUELVE:
 
-1Â° Autorizase como InstituciÃ³n Receptora de productos de higiene personal que presentan una pÃ©rdida de su valor comercial que dificulta o hace imposible su comercializaciÃ³n, a LIGA CHILENA CONTRA EL MAL DE PARKINSON, RUT NÂ° 71.613.900K, conforme a facultad delegada en el resolutivo 10Â° de la ResoluciÃ³n Ex. SII NÂº 68, de 28 de agosto de 2018.
+1° Autorizase como Institución Receptora de productos de higiene personal que presentan una pérdida de su valor comercial que dificulta o hace imposible su comercialización, a LIGA CHILENA CONTRA EL MAL DE PARKINSON, RUT N° 71.613.900K, conforme a facultad delegada en el resolutivo 10° de la Resolución Ex. SII Nº 68, de 28 de agosto de 2018.
 
-2Â° La instituciÃ³n autorizada de acuerdo al resolutivo anterior, deberÃ¡ cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂº 68, de 28 de agosto de 2018.
+2° La institución autorizada de acuerdo al resolutivo anterior, deberá cumplir lo establecido en la Resolución Ex. SII Nº 68, de 28 de agosto de 2018.
 
-3Â° El incumplimiento de las obligaciones que establece esta ResoluciÃ³n, serÃ¡ sancionado de conformidad a lo establecido en el artÃ­culo 109 del CÃ³digo Tributario.
+3° El incumplimiento de las obligaciones que establece esta Resolución, será sancionado de conformidad a lo establecido en el artículo 109 del Código Tributario.
 
-4Â° La presente resoluciÃ³n entrarÃ¡ en vigencia a contar de su publicaciÃ³n, en extracto, en el Diario Oficial.
+4° La presente resolución entrará en vigencia a contar de su publicación, en extracto, en el Diario Oficial.
 
-En la oficina virtual del SII en Internet, podrÃ¡ consultar la nÃ³mina de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de productos de higiene personal que presentan una pÃ©rdida de su valor comercial que dificulta o hace imposible su comercializaciÃ³n, autorizadas para recibir tales productos para su entrega en forma gratuita a personas de escasos recursos o en situaciÃ³n de vulnerabilidad.
+En la oficina virtual del SII en Internet, podrá consultar la nómina de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de productos de higiene personal que presentan una pérdida de su valor comercial que dificulta o hace imposible su comercialización, autorizadas para recibir tales productos para su entrega en forma gratuita a personas de escasos recursos o en situación de vulnerabilidad.
 
 ## 'POR ORDEN DEL DIRECTOR'
 
-## VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
+## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-* LVB/GMV/JBA/RSA DISTRIBUCIÃ“N: Â· Diario Oficial (Extracto) Â· BoletÃ­n Â· Internet
+* LVB/GMV/JBA/RSA DISTRIBUCIÓN: · Diario Oficial (Extracto) · Boletín · Internet

@@ -1,37 +1,38 @@
-﻿---
-type: SII ResoluciÃ³n
-title: 2013_RESOLUCION_reso65.md
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "2013_RESOLUCION_reso65"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-TÃ‰NGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÃ“N ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SE INDICAN.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+
+TÉNGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA A LOS CONTRIBUYENTES QUE SE INDICAN.
 
 ## SANTIAGO, Junio 20 de 2013
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_65\_\_\_ \_/
+## RESOLUCIÓN EXENTA SII N° \_\_\_\_65\_\_\_ \_/
 
-VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂº 1 y Art. 69, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; en el Art. 56, incisos 3Â° y 4Â°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1Â° del D.L. NÂº 825, de 1974; la Res. Ex. SII NÂº 45, de 01 de Septiembre de 2003; la Res. Ex. SII NÂº 08, de 23 de Enero de 2004; la Res. Ex. SII NÂº 86, de 1 de Septiembre de 2005; y
+VISTOS: Lo dispuesto en el Art. 6°, Letra A), Nº 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. Nº 825, de 1974; la Res. Ex. SII Nº 45, de 01 de Septiembre de 2003; la Res. Ex. SII Nº 08, de 23 de Enero de 2004; la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005; y
 
 ## CONSIDERANDO:
 
-1Â° Que, mediante Res. Ex. SII NÂº 08, de 23 de Enero de 2004, se ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad establecida en el inciso tercero del artÃ­culo 56Â° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. NÂº 825, de 1974 .
+1° Que, mediante Res. Ex. SII Nº 08, de 23 de Enero de 2004, se ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del artículo 56° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el D. L. Nº 825, de 1974 .
 
-2Â° Que, de acuerdo a lo establecido en la ResoluciÃ³n citada en el considerando precedente, esta facultad delegada se aplica para autorizar como emisores de Documentos Tributarios ElectrÃ³nicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulaciÃ³n y certificaciÃ³n obligatorio a que se hace menciÃ³n en el resolutivo segundo de la Res. Ex. SII NÂº 45, de Septiembre de 2003.
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, esta facultad delegada se aplica para autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y entidades del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se hace mención en el resolutivo segundo de la Res. Ex. SII Nº 45, de Septiembre de 2003.
 
-3Â° Que, conforme el Resolutivo 12Â° de la Res. Ex. SII NÂº 45, antes citada, el contribuyente podrÃ¡ desistirse de ser un emisor electrÃ³nico, situaciÃ³n que deberÃ¡ informar al Servicio de Impuestos Internos, a travÃ©s de la correspondiente solicitud de desafiliaciÃ³n.
+3° Que, conforme el Resolutivo 12° de la Res. Ex. SII Nº 45, antes citada, el contribuyente podrá desistirse de ser un emisor electrónico, situación que deberá informar al Servicio de Impuestos Internos, a través de la correspondiente solicitud de desafiliación.
 
-4Â° Que, los contribuyentes que se detallan en el Dispositivo Primero de esta resoluciÃ³n, han solicitado desistirse de la autorizaciÃ³n para emitir Documentos Tributarios ElectrÃ³nicos.
+4° Que, los contribuyentes que se detallan en el Dispositivo Primero de esta resolución, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos.
 
-5Â° Que, los contribuyentes que se detallan en el Dispositivo Segundo de esta resoluciÃ³n, con el fin de incorporarse como usuarios del Sistema de FacturaciÃ³n ElectrÃ³nica del Portal MIPYME, han solicitado desistirse de la autorizaciÃ³n para emitir Documentos Tributarios ElectrÃ³nicos, otorgada mediante la Res. Ex. SII NÂº 20, de 06 de Febrero de 2009 y Res. Ex. SII NÂº 98, de 11 de Agosto de 2006.
+5° Que, los contribuyentes que se detallan en el Dispositivo Segundo de esta resolución, con el fin de incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, han solicitado desistirse de la autorización para emitir Documentos Tributarios Electrónicos, otorgada mediante la Res. Ex. SII Nº 20, de 06 de Febrero de 2009 y Res. Ex. SII Nº 98, de 11 de Agosto de 2006.
 
 ## SE RESUELVE:
 
-1Â° TÃ‰NGASE POR DESAFILIADOS del Sistema de FacturaciÃ³n ElectrÃ³nica establecido en la Res. Ex. SII NÂº 45, de septiembre de 2003 y la Res. Ex. SII NÂº 86, de 1 de Septiembre de 2005, a partir de la fecha de publicaciÃ³n en el Diario Oficial de la presente resoluciÃ³n, a los contribuyentes:
+1° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003 y la Res. Ex. SII Nº 86, de 1 de Septiembre de 2005, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los contribuyentes:
 
 | **- ALEJANDRO BANO OYARCE** | **11.677.585-9** |
 | --- | --- |
@@ -49,21 +50,21 @@ VISTOS: Lo dispuesto en el Art. 6Â°, Letra A), NÂº 1 y Art. 69, del CÃ³dig
 
 * ENRIQUE ANTONIO MOLINA BUSTOS 07.632.640-1 - GASTON EDUARDO PEREZ ARAYA 05.610.650-2 - GIOVANNI CHRISTOFER RIVERA GRAY 13.010.908-K - IVAN RUBEN FUENTES SEREY 07.365.108-5 - JAIME EDUARDO VIDAL BOBENRIETH 12.247.535-2 - JESSICA ALEJANDRA ALVAREZ CARDENAS 16.683.989-0 - JUAN CARLOS POBLETE ROMERO 05.528.617-5 - JUAN PABLO AGUIRRE ALVAREZ 09.976.199-7 - KARINA FRANCIS GAJARDO INVESTIGACION Y GESTION PARA LA SUSTENTABILIDAD MEDIOAMBIENTAL Y EMPRESARIAL E.I.R.L. 76.167.731-4 - LUIS ALBERTO RAMIREZ ARIAS 11.232.140-3 - MAGDIEL ELIMELEC ARAYA VIDAL 13.798.818-6 - MARCELA BEATRIZ VALLEJOS JIMENEZ 15.810.518-7 - MARIA ANTONIETA HERNANDEZ CASTRO 12.874.116-K - MARIA DE LOS ANGELES RIQUELME PULIDO 14.147.186-4 - MARIA LUZ RAMOS LOPEZ 06.733.855-3 - MARIA VERONICA RODRIGUEZ SERRUYS 07.338.399-4 - MARIO EDMUNDO FLORES MANDIOLA 07.759.915-0 - MIGUEL ANGEL ARMIJO PERALTA 06.948.944-3 - MIGUEL ENRIQUE NANJARI LOPEZ 04.409.849-0 - MIRIAM CRISTINA LIZANA FUENTES 07.575.131-1 - MONICA IRENE MICHAELY WEINSTEIN 05.665.037-7 - NILNS ALFONSO ARCE ORTEGA 05.995.557-8 - OPTIMA INTEGRACION Y SERVICIOS TECNOLOGICOS LTDA. 76.186.677-K - PAMELA ALEJANDRA FEFER SEPULVEDA 11.164.711-9 - PATRICIO EDUARDO COFRE QUEZADA 10.842.389-7 - PATRICIO ESTEBAN VILLAR QUEZADA 15.774.541-7 - PATRICIO EUGENIO ACEVEDO CARVAJAL 09.105.296-2 - PETER THOMAS BROWN NARANJO 07.636.978-K - PINOCHET DEL RIO FRANCISCA ALEJANDRA Y OTRO 53.317.061-7 - RAFAEL SEGUNDO VALDERRAMA ESPINOZA 11.606.882-6 - RAMON EDUARDO ALVAREZ HENRIQUEZ 06.784.618-4 - RICHARD LEONARDO CALDERON LOPEZ 11.377.584-K - ROBERTO ANDRES NEIRA CACERES 12.561.953-3 - RODRIGO ALEJANDRO MIRANDA JAMETT 07.809.068-5 - RODRIGO ANTONIO MOREY ZEPEDA 13.174.754-3 - RODRIGO JAVIER ORTIZ RIQUELME 09.522.525-K - ROMMY JOAN SILVA QUINTANILLA 15.484.119-9 - RORYSON PATRICIO VARELA DROGUETT 13.684.409-1 - RUTH ELENA MONSALVES GARCIA 12.974.321-2 - SERVICIO DE TRANSPORTE XIMENA ANTONIETA CASTILLO VALENZUELA E.I.R.L. 76.164.242-1 - SERVICIOS ELECTRICOS Y ELECTRONICOS JAVIER ALEJANDRO RIEDEMANN AROS E.I.R.L. 76.183.904-7 - TRANSPORTES GLADYS BUSTOS Y CIA. LTDA. 76.074.087-K - TRINIDAD POLANCO GUZMAN 09.269.620-0 - VERONICA DEL CARMEN PLAZA LANAS 11.941.437-7 - VICTOR LEONARDO LOPEZ GARRIDO 14.336.096-2
 
-2Â° TÃ‰NGASE POR DESAFILIADOS del Sistema de FacturaciÃ³n ElectrÃ³nica establecido en la Res. Ex. SII NÂº 45, de septiembre de 2003, con el fin de que incorporarse como usuarios del Sistema de FacturaciÃ³n ElectrÃ³nica del Portal MIPYME, a partir de la fecha de publicaciÃ³n en el Diario Oficial de la presente resoluciÃ³n, a los siguientes contribuyentes:
+2° TÉNGASE POR DESAFILIADOS del Sistema de Facturación Electrónica establecido en la Res. Ex. SII Nº 45, de septiembre de 2003, con el fin de que incorporarse como usuarios del Sistema de Facturación Electrónica del Portal MIPYME, a partir de la fecha de publicación en el Diario Oficial de la presente resolución, a los siguientes contribuyentes:
 
 * RONALDO HUMBERTO LOPEZ SERRAZINA 09.645.740-5
 * SERVICIOS INFORMATICOS NEOFINANZAS LTDA.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO.
 
-## (Fdo.) ALEJANDRO BURR ORTÃšZAR SUBDIRECTOR DE FISCALIZACIÃ“N
+## (Fdo.) ALEJANDRO BURR ORTÚZAR SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines
+Lo que transcribo a Ud., para su conocimiento y demás fines
 
 76.542.310-4
 
-## RPA/CPG/oba DistribuciÃ³n :
+## RPA/CPG/oba Distribución :
 
 * Internet
 * Diario Oficial en extracto
-* BoletÃ­n SII
+* Boletín SII

@@ -1,71 +1,72 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 2 (2021)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+---
+type: "SII Resolución"
+title: "Resolución N° 2 (2021)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2021, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 
-MATERIA: INSTRUYE SOBRE PROCEDIMIENTO ESPECIAL Y TRANSITORIO PARA UTILIZAR BOLETAS DE HONORARIOS NO ELECTRÃ“NICAS EN LA FORMA Y CONDICIONES QUE SE ESTABLECE EN CASOS QUE INDICA
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+
+MATERIA: INSTRUYE SOBRE PROCEDIMIENTO ESPECIAL Y TRANSITORIO PARA UTILIZAR BOLETAS DE HONORARIOS NO ELECTRÓNICAS EN LA FORMA Y CONDICIONES QUE SE ESTABLECE EN CASOS QUE INDICA
 
 SANTIAGO, 7 DE ENERO DE 2021
 
-RESOLUCIÃ“N EX. SII NÂ° 2.-
+RESOLUCIÓN EX. SII N° 2.-
 
 VISTOS:
 
-Las facultades contempladas en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda; lo dispuesto en el artÃ­culo 6Â°, del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830, en los artÃ­culos 42 NÂ°2 y 48 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824, de 1974; la Ley NÂ° 21.242, publicada en el Diario Oficial el 24.06.2020; el artÃ­culo 52 de la Ley NÂ°19.880, Bases de Procedimientos Administrativos; la ResoluciÃ³n Ex. NÂ° 83, de 2004, modificada por la ResoluciÃ³n Ex. NÂ° 16, de 2010; ResoluciÃ³n Ex. NÂ° 112, de 2004; ResoluciÃ³n Ex. NÂ° 166, de 2020; y
+Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda; lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, en los artículos 42 N°2 y 48 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del Decreto Ley N° 824, de 1974; la Ley N° 21.242, publicada en el Diario Oficial el 24.06.2020; el artículo 52 de la Ley N°19.880, Bases de Procedimientos Administrativos; la Resolución Ex. N° 83, de 2004, modificada por la Resolución Ex. N° 16, de 2010; Resolución Ex. N° 112, de 2004; Resolución Ex. N° 166, de 2020; y
 
 ## CONSIDERANDO:
 
-1Â° Que, el artÃ­culo segundo de la Ley NÂ° 21.242, agregÃ³ el artÃ­culo 68 bis a la LIR, disponiendo que los contribuyentes que perciban rentas de aquellas actividades seÃ±aladas en el artÃ­culo 42 NÂ° 2 y en el artÃ­culo 48, del mismo cuerpo legal, deberÃ¡n emitir boletas de honorarios en forma electrÃ³nica (BHE) en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resoluciÃ³n;
+1° Que, el artículo segundo de la Ley N° 21.242, agregó el artículo 68 bis a la LIR, disponiendo que los contribuyentes que perciban rentas de aquellas actividades señaladas en el artículo 42 N° 2 y en el artículo 48, del mismo cuerpo legal, deberán emitir boletas de honorarios en forma electrónica (BHE) en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resolución;
 
-2Â° Que, conforme al artÃ­culo segundo transitorio de la Ley NÂ° 21.242, lo establecido en el artÃ­culo 68 bis de la LIR entrarÃ¡ en vigencia seis meses despuÃ©s de su publicaciÃ³n, para el caso de contribuyentes que, a esa misma fecha, hayan emitido una o mÃ¡s BHE en cualquier momento anterior, y doce meses despuÃ©s de la referida publicaciÃ³n, en todos los demÃ¡s casos, dictÃ¡ndose al efecto la ResoluciÃ³n Ex. NÂ° 166 de 2020, con el propÃ³sito de adecuar el cumplimiento de los requisitos a los respectivos periodos tributarios;
+2° Que, conforme al artículo segundo transitorio de la Ley N° 21.242, lo establecido en el artículo 68 bis de la LIR entrará en vigencia seis meses después de su publicación, para el caso de contribuyentes que, a esa misma fecha, hayan emitido una o más BHE en cualquier momento anterior, y doce meses después de la referida publicación, en todos los demás casos, dictándose al efecto la Resolución Ex. N° 166 de 2020, con el propósito de adecuar el cumplimiento de los requisitos a los respectivos periodos tributarios;
 
-3Â° Que, asimismo, el inciso tercero del artÃ­culo segundo transitorio de la Ley NÂ° 21.242 dispone que este Servicio, mediante una resoluciÃ³n, determinarÃ¡ la forma y condiciones para inutilizar las boletas de honorarios impresas en formato papel a que se refiere el inciso precedente, como, asimismo, dispondrÃ¡ los medios tecnolÃ³gicos para facilitar la emisiÃ³n de boletas de honorarios electrÃ³nicas;
+3° Que, asimismo, el inciso tercero del artículo segundo transitorio de la Ley N° 21.242 dispone que este Servicio, mediante una resolución, determinará la forma y condiciones para inutilizar las boletas de honorarios impresas en formato papel a que se refiere el inciso precedente, como, asimismo, dispondrá los medios tecnológicos para facilitar la emisión de boletas de honorarios electrónicas;
 
-Conforme lo anterior, y en virtud de las facultades contenidas en el NÂ° 1Â° de la letra A del inciso segundo del artÃ­culo 6Â° del CÃ³digo Tributario y en la letra b) del artÃ­culo 7Â° de su Ley OrgÃ¡nica, corresponde a este Servicio impartir instrucciones para el debido cumplimiento de las disposiciones tributarias en el caso de los contribuyentes que, estando obligados a emitir BHE presenten dificultades tÃ©cnicas para utilizar los medios tecnolÃ³gicos provistos por este Servicio o por terceros;
+Conforme lo anterior, y en virtud de las facultades contenidas en el N° 1° de la letra A del inciso segundo del artículo 6° del Código Tributario y en la letra b) del artículo 7° de su Ley Orgánica, corresponde a este Servicio impartir instrucciones para el debido cumplimiento de las disposiciones tributarias en el caso de los contribuyentes que, estando obligados a emitir BHE presenten dificultades técnicas para utilizar los medios tecnológicos provistos por este Servicio o por terceros;
 
-Que, a travÃ©s de la ResoluciÃ³n Ex. NÂ° 83, de
+Que, a través de la Resolución Ex. N° 83, de
 
-4Â°
+4°
 
-2004, modificada por la ResoluciÃ³n Ex. NÂ° 16, de 2010, este Servicio impartiÃ³ instrucciones respecto de la emisiÃ³n de BHE;
+2004, modificada por la Resolución Ex. N° 16, de 2010, este Servicio impartió instrucciones respecto de la emisión de BHE;
 
-5Â° Que, a travÃ©s de la ResoluciÃ³n Ex. NÂ° 112, de 2004, se impartieron instrucciones sobre la emisiÃ³n de Boletas de PrestaciÃ³n de Servicios de Terceros en formato electrÃ³nico;
+5° Que, a través de la Resolución Ex. N° 112, de 2004, se impartieron instrucciones sobre la emisión de Boletas de Prestación de Servicios de Terceros en formato electrónico;
 
-6Â° Que, a travÃ©s de la ResoluciÃ³n Ex. NÂ° 166, de 2020, se instruyÃ³ sobre de obligatoriedad de emisiÃ³n de BHE e implementÃ³ un procedimiento para la aplicaciÃ³n de las excepciones establecidas en el artÃ­culo 68 bis de la Ley sobre Impuesto a la Renta.
+6° Que, a través de la Resolución Ex. N° 166, de 2020, se instruyó sobre de obligatoriedad de emisión de BHE e implementó un procedimiento para la aplicación de las excepciones establecidas en el artículo 68 bis de la Ley sobre Impuesto a la Renta.
 
 ## SE RESUELVE:
 
-1Â° DISPÃ“NESE que a contar de la entrada en vigencia de la obligaciÃ³n establecida en el artÃ­culo 68 bis de la LIR y hasta el 28.02.2021, los contribuyentes que presenten dificultades tÃ©cnicas que les impidan cumplir con la obligaciÃ³n de emitir BHE, podrÃ¡n solicitar excepcionalmente a este Servicio una autorizaciÃ³n para emitir dichos documentos tributarios en formato papel, en la forma y condiciones que se establecen a continuaciÃ³n.
+1° DISPÓNESE que a contar de la entrada en vigencia de la obligación establecida en el artículo 68 bis de la LIR y hasta el 28.02.2021, los contribuyentes que presenten dificultades técnicas que les impidan cumplir con la obligación de emitir BHE, podrán solicitar excepcionalmente a este Servicio una autorización para emitir dichos documentos tributarios en formato papel, en la forma y condiciones que se establecen a continuación.
 
-2Âº Los contribuyentes indicados en el resolutivo anterior deberÃ¡n presentar en el sitio web del Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), o en la DirecciÃ³n Regional o Unidad correspondiente al domicilio del contribuyente, una solicitud mediante el Formulario 2117, exponiendo fundadamente y con antecedentes tÃ©cnicos, las razones que justifican su peticiÃ³n.
+2º Los contribuyentes indicados en el resolutivo anterior deberán presentar en el sitio web del Servicio, [<u>www.sii.cl</u>](http://www.sii.cl), o en la Dirección Regional o Unidad correspondiente al domicilio del contribuyente, una solicitud mediante el Formulario 2117, exponiendo fundadamente y con antecedentes técnicos, las razones que justifican su petición.
 
-Esta solicitud servirÃ¡ de fundamento para que el Director Regional o Unidad correspondiente al domicilio del contribuyente, o el Director de Grandes Contribuyentes, segÃºn corresponda, autorice provisionalmente el timbraje de las boletas de honorarios que sean necesarias para el desarrollo de la actividad del contribuyente, sin perjuicio de lo seÃ±alado en el resolutivo 4Â°.
+Esta solicitud servirá de fundamento para que el Director Regional o Unidad correspondiente al domicilio del contribuyente, o el Director de Grandes Contribuyentes, según corresponda, autorice provisionalmente el timbraje de las boletas de honorarios que sean necesarias para el desarrollo de la actividad del contribuyente, sin perjuicio de lo señalado en el resolutivo 4°.
 
-3Â° Previa verificaciÃ³n de los antecedentes presentados, el Director Regional, Unidad o Director de Grandes Contribuyentes, dictarÃ¡ una resoluciÃ³n fundada, acogiendo o rechazando la peticiÃ³n, la que se notificarÃ¡ conforme a las reglas generales. Con todo, se entenderÃ¡n vÃ¡lidamente emitidas las boletas de honorarios cuyo timbraje fue provisionalmente autorizado conforme al resolutivo anterior y fueren emitidas con anterioridad a la notificaciÃ³n de la resoluciÃ³n que rechace la peticiÃ³n.
+3° Previa verificación de los antecedentes presentados, el Director Regional, Unidad o Director de Grandes Contribuyentes, dictará una resolución fundada, acogiendo o rechazando la petición, la que se notificará conforme a las reglas generales. Con todo, se entenderán válidamente emitidas las boletas de honorarios cuyo timbraje fue provisionalmente autorizado conforme al resolutivo anterior y fueren emitidas con anterioridad a la notificación de la resolución que rechace la petición.
 
-La resoluciÃ³n que se dicte deberÃ¡ individualizar al contribuyente, expresar los fundamentos por los cuales se concede o rechaza lo solicitado. La autorizaciÃ³n podrÃ¡ contemplar hasta un plazo mÃ¡ximo de seis meses contados desde la presentaciÃ³n de la solicitud. En caso de concederse un plazo menor, Ã©ste podrÃ¡ ser prorrogado, previa peticiÃ³n expresa del contribuyente, siempre que continÃºen las circunstancias que motivaron la resoluciÃ³n, sin exceder en caso alguno el plazo mÃ¡ximo anteriormente indicado ni superar el 30.06.2021.
+La resolución que se dicte deberá individualizar al contribuyente, expresar los fundamentos por los cuales se concede o rechaza lo solicitado. La autorización podrá contemplar hasta un plazo máximo de seis meses contados desde la presentación de la solicitud. En caso de concederse un plazo menor, éste podrá ser prorrogado, previa petición expresa del contribuyente, siempre que continúen las circunstancias que motivaron la resolución, sin exceder en caso alguno el plazo máximo anteriormente indicado ni superar el 30.06.2021.
 
-Si la solicitud no es resuelta por el Servicio dentro del plazo de 30 dÃ­as hÃ¡biles contados desde su presentaciÃ³n, se entenderÃ¡ aceptada, lo que podrÃ¡ ser verificado en el sitio web del Servicio o presencialmente en la Unidad respectiva.
+Si la solicitud no es resuelta por el Servicio dentro del plazo de 30 días hábiles contados desde su presentación, se entenderá aceptada, lo que podrá ser verificado en el sitio web del Servicio o presencialmente en la Unidad respectiva.
 
-En caso que la solicitud se entienda aceptada por vencer el plazo seÃ±alado en el pÃ¡rrafo anterior, el peticionario podrÃ¡ emitir las boletas de honorarios impresas en formato papel de que disponga, segÃºn se indica en el resolutivo 5Â°, hasta por el plazo de tres meses contados desde la presentaciÃ³n de la solicitud, sin perjuicio de solicitar una prÃ³rroga.
+En caso que la solicitud se entienda aceptada por vencer el plazo señalado en el párrafo anterior, el peticionario podrá emitir las boletas de honorarios impresas en formato papel de que disponga, según se indica en el resolutivo 5°, hasta por el plazo de tres meses contados desde la presentación de la solicitud, sin perjuicio de solicitar una prórroga.
 
-4Âº El cambio de las circunstancias que determinaron la autorizaciÃ³n o su prÃ³rroga, a que se refieren los resolutivos anteriores, facultarÃ¡ a los Directores Regionales o al Director de Grandes Contribuyentes para disponer su revocaciÃ³n de oficio, mediante la dictaciÃ³n de una resoluciÃ³n fundada.
+4º El cambio de las circunstancias que determinaron la autorización o su prórroga, a que se refieren los resolutivos anteriores, facultará a los Directores Regionales o al Director de Grandes Contribuyentes para disponer su revocación de oficio, mediante la dictación de una resolución fundada.
 
-Dicha resoluciÃ³n, asimismo, fijarÃ¡ el plazo a partir del cual el contribuyente no podrÃ¡ emitir las boletas de honorarios autorizadas conforme los resolutivos anteriores y se notificarÃ¡ conforme a las reglas generales.
+Dicha resolución, asimismo, fijará el plazo a partir del cual el contribuyente no podrá emitir las boletas de honorarios autorizadas conforme los resolutivos anteriores y se notificará conforme a las reglas generales.
 
-5Âº Los contribuyentes que sean autorizados conforme la presente resoluciÃ³n podrÃ¡n emplear las boletas de honorarios impresas que quedaron inutilizadas por el solo ministerio de la ley en la forma y condiciones que se seÃ±alan a continuaciÃ³n:
+5º Los contribuyentes que sean autorizados conforme la presente resolución podrán emplear las boletas de honorarios impresas que quedaron inutilizadas por el solo ministerio de la ley en la forma y condiciones que se señalan a continuación:
 
-a) DeberÃ¡n estampar previamente, en el documento emitido (en un lugar visible de la copia receptor), el nÃºmero y fecha de la resoluciÃ³n del Servicio de Impuestos Internos en virtud de la cual fue exceptuado de dicha obligaciÃ³n. En caso de que la solicitud se entienda aceptada por no tener respuesta dentro del plazo seÃ±alado en el resolutivo 2Â°, el contribuyente deberÃ¡ estampar los datos de la presente ResoluciÃ³n.
+a) Deberán estampar previamente, en el documento emitido (en un lugar visible de la copia receptor), el número y fecha de la resolución del Servicio de Impuestos Internos en virtud de la cual fue exceptuado de dicha obligación. En caso de que la solicitud se entienda aceptada por no tener respuesta dentro del plazo señalado en el resolutivo 2°, el contribuyente deberá estampar los datos de la presente Resolución.
 
-b) Dicho estampado se podrÃ¡ efectuar mediante impresiÃ³n a travÃ©s de medios computacionales, aposiciÃ³n de un timbre de goma o mediante cualquier otro medio manual o mecÃ¡nico.
+b) Dicho estampado se podrá efectuar mediante impresión a través de medios computacionales, aposición de un timbre de goma o mediante cualquier otro medio manual o mecánico.
 
-6Â° El incumplimiento de las obligaciones relativas a la emisiÃ³n de los documentos tributarios, serÃ¡ sancionado de acuerdo a lo establecido en el artÃ­culo 97 NÂ° 10 del CÃ³digo Tributario.
+6° El incumplimiento de las obligaciones relativas a la emisión de los documentos tributarios, será sancionado de acuerdo a lo establecido en el artículo 97 N° 10 del Código Tributario.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EL DIARIO OFICIAL EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EL DIARIO OFICIAL EN EXTRACTO
 
 <unknown>
 
@@ -75,7 +76,7 @@ b) Dicho estampado se podrÃ¡ efectuar mediante impresiÃ³n a travÃ©s de med
 
 PMR/CAB/SOB/OBA/mpm
 
-## DISTRIBUCIÃ“N :
+## DISTRIBUCIÓN :
 
 * Internet
 * Diario Oficial en extracto

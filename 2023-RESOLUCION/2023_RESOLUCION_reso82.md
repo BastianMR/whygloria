@@ -1,37 +1,38 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 82 (2023)
-description: SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821
+---
+type: "SII Resolución"
+title: "Resolución N° 82 (2023)"
+description: "SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821"
 tags: [SII, 2023, resolucion]
 ---
 
+
 ## SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821
 
-MATERIA:PRORROGA DEL PLAZO PARA PRESENTARLOSFORMULARIOSNUMEROS 29Y50HASTA31DEAGOSTODE 2023, CONFORMEALDECRETONÂ°944DE2023.
+MATERIA:PRORROGA DEL PLAZO PARA PRESENTARLOSFORMULARIOSNUMEROS 29Y50HASTA31DEAGOSTODE 2023, CONFORMEALDECRETON°944DE2023.
 
 SANTIAGO,24DEJULIODE2023.
 
-RESOLUCION.EX.SIINÂ°82.-
+RESOLUCION.EX.SIIN°82.-
 
-VisTos:Lasfacultadesconferidasenlos articulos6Â°letraA)NÂ°1,29,36del C6digoTributario,contenidoenarticulo1Â°delDecretoLeyNÂ° 830,de1974;loestablecidoenlosarticulos1Â°y7Â°delDecretoconFuerzadeLeyNÂ°7,de1980, enelarticulo45delCodigoCivil;lodispuestoenelDecretoSupremoNÂ°172defecha24dejunio de2023,delMinisteriodelInteriorySeguridadPublicayenelDecretoSupremoNÂ°944,defecha 30 dejuniode2023,del MinisteriodeHacienda;y loestablecidoen laResolucionEx.Sll NÂ°80de 2023.
+VisTos:Lasfacultadesconferidasenlos articulos6°letraA)N°1,29,36del C6digoTributario,contenidoenarticulo1°delDecretoLeyN° 830,de1974;loestablecidoenlosarticulos1°y7°delDecretoconFuerzadeLeyN°7,de1980, enelarticulo45delCodigoCivil;lodispuestoenelDecretoSupremoN°172defecha24dejunio de2023,delMinisteriodelInteriorySeguridadPublicayenelDecretoSupremoN°944,defecha 30 dejuniode2023,del MinisteriodeHacienda;y loestablecidoen laResolucionEx.Sll N°80de 2023.
 
 ## CONSIDERANDO:
 
-1Â°Que,con fecha 24 de junio de 2023,el PresidentedelaRepublica,a travesdelDecretoSupremoNÂ°172del Ministeriodel Interiory delsistemafrontalacaecidoacontarel20dejuniodelmismoano,declaroalasregionesde Valparaiso,Metropolitana de Santiago,Libertador General Bernardo O'Higgins,Maule,Nubley Biobio como zonas afectadas por catastrofe,locual regira durante el plazo senalado en articulo19 del Decreto Supremo NÂ° 104,de 1977, del Ministerio del Interior, que fija el texto refundido, coordinadoysistematizadodelTitulo1,delaLeyNÂ°16.282.
+1°Que,con fecha 24 de junio de 2023,el PresidentedelaRepublica,a travesdelDecretoSupremoN°172del Ministeriodel Interiory delsistemafrontalacaecidoacontarel20dejuniodelmismoano,declaroalasregionesde Valparaiso,Metropolitana de Santiago,Libertador General Bernardo O'Higgins,Maule,Nubley Biobio como zonas afectadas por catastrofe,locual regira durante el plazo senalado en articulo19 del Decreto Supremo N° 104,de 1977, del Ministerio del Interior, que fija el texto refundido, coordinadoysistematizadodelTitulo1,delaLeyN°16.282.
 
-2Â°Que,con fecha 30 de junio de 2023,el PresidentedelaRepublica,a travesdelDecretoSupremoNÂ°944,delMinisteriodeHacienda (publicado en el Diario Oficial con fecha 20 de julio de 2023), estableci6 una serie de medidas y procedimientosenmateria tributaria,aplicablesaloscontribuyentesdelascomunasafectadaspor yhastaqueextingantodossusefectos,contadosdesdeladeclaraciondezonasafectaspor catastrofedeacuerdoal DecretoSupremoNÂ°172del Ministeriodel InteriorySeguridadPublicade fecha24dejuniode2023.
+2°Que,con fecha 30 de junio de 2023,el PresidentedelaRepublica,a travesdelDecretoSupremoN°944,delMinisteriodeHacienda (publicado en el Diario Oficial con fecha 20 de julio de 2023), estableci6 una serie de medidas y procedimientosenmateria tributaria,aplicablesaloscontribuyentesdelascomunasafectadaspor yhastaqueextingantodossusefectos,contadosdesdeladeclaraciondezonasafectaspor catastrofedeacuerdoal DecretoSupremoN°172del Ministeriodel InteriorySeguridadPublicade fecha24dejuniode2023.
 
-Dentro de dichas medidas,se establece la prorroga,hastael31deagostode2023,delplazodeDeclaracionyPagodelosimpuestosque debendeclararsey/opagarseenelmesdejuliode2023,aqueserefiereelarticulo64delaLey contribuyentescuyacasamatrizseencuentreenlascomunasafectadasylocalizadasenlas regionesdeclaradasZonasAfectadasporlaCatastrofeenDecretoNÂ°172delMinisteriodel Interior y Seguridad Publica.
+Dentro de dichas medidas,se establece la prorroga,hastael31deagostode2023,delplazodeDeclaracionyPagodelosimpuestosque debendeclararsey/opagarseenelmesdejuliode2023,aqueserefiereelarticulo64delaLey contribuyentescuyacasamatrizseencuentreenlascomunasafectadasylocalizadasenlas regionesdeclaradasZonasAfectadasporlaCatastrofeenDecretoN°172delMinisteriodel Interior y Seguridad Publica.
 
-Asimismo,seprorrogahastael31deagostode 2023 el plazo para declarar y pagar los impuestos del mes de julio a que se refieren los articulos 74, 78,79,84y91delaLeysobrelmpuestoalaRenta,contenidaenelarticuloprimerodelDecretoLey NÂ°824,de1974aloscontribuyentescuyacasamatrizseencuentreenlascomunasafectadasy Ministeriodel InteriorySeguridadPublica.
+Asimismo,seprorrogahastael31deagostode 2023 el plazo para declarar y pagar los impuestos del mes de julio a que se refieren los articulos 74, 78,79,84y91delaLeysobrelmpuestoalaRenta,contenidaenelarticuloprimerodelDecretoLey N°824,de1974aloscontribuyentescuyacasamatrizseencuentreenlascomunasafectadasy Ministeriodel InteriorySeguridadPublica.
 
 LaampliaciondelplazorigeparalaDeclaracion Mensual yPago Simultaneo deImpuestosoDeclaracion,segun corresponda,que se efectue a travesdelosFormulariosnumeros29y50delServiciodelmpuestosInternos.
 
-3Â°Dadolosefectosdelevento hidrometeorologicoqueprovoco la alteracionde cursosnormalesde aguay desbordesde rioshacia ciudades,produciendosedanosenlaspersonas,caminosyviviendas,esteServiciohaestimado necesario instruirsobrelasprorrogasestablecidasenelacapite1.-,numeralesNÂ°1y2),delDecreto SupremoNÂ°944defecha30dejuniode2023,delMinisteriodeHacienda.
+3°Dadolosefectosdelevento hidrometeorologicoqueprovoco la alteracionde cursosnormalesde aguay desbordesde rioshacia ciudades,produciendosedanosenlaspersonas,caminosyviviendas,esteServiciohaestimado necesario instruirsobrelasprorrogasestablecidasenelacapite1.-,numeralesN°1y2),delDecreto SupremoN°944defecha30dejuniode2023,delMinisteriodeHacienda.
 
 ## SERESUELVE:
 
-1Â° Las prorrogas senialadas en el considerando 2Â°seaplicarana todosloscontribuyentesque,alafechadelacaecimientodelacatastrofe,tengan ohubieren tenidosu casa matrizen alguna delascomunas delasregiones indicadasen el siguiente cuadro:
+1° Las prorrogas senialadas en el considerando 2°seaplicarana todosloscontribuyentesque,alafechadelacaecimientodelacatastrofe,tengan ohubieren tenidosu casa matrizen alguna delascomunas delasregiones indicadasen el siguiente cuadro:
 
 | **REGION** | **COMUNAS** |
 | --- | --- |
@@ -43,7 +44,7 @@ LaampliaciondelplazorigeparalaDeclaracion Mensual yPago Simultaneo deImpuestosoD
 
 \*Comunas determinadas en basea informacion de SENAPRED
 
-2Â°Porrazones debuenservicio,la presente Resolucion entrara en vigencia antes de su total tramitacion,esto es desde el dia 21 de julio de2023.
+2°Porrazones debuenservicio,la presente Resolucion entrara en vigencia antes de su total tramitacion,esto es desde el dia 21 de julio de2023.
 
 ## ANOTESE,COMUNiQUESEYPUBLIQUESEENEXTRACTOENELDIARIOOFICIAL.
 

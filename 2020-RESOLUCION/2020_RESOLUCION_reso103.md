@@ -1,37 +1,38 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 150 (2020)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+---
+type: "SII Resolución"
+title: "Resolución N° 150 (2020)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SEÃ‘ALA.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
+
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA.
 
 SANTIAGO,
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_\_\_\_\_\_\_\_/
+RESOLUCIÓN EXENTA SII N° \_\_\_\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ° 1 y artÃ­culo 17 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y en la ResoluciÃ³n Exenta NÂ° 150, de 29.12.2005, en que se establecen normas y procedimientos de operaciÃ³n de la Contabilidad ElectrÃ³nica, modificada por la ResoluciÃ³n Exenta NÂ° 86, del 07.09.2017; y la ResoluciÃ³n Exenta NÂ° 126, de 30.12.2014 delegatoria; y
+VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017; y la Resolución Exenta N° 126, de 30.12.2014 delegatoria; y
 
 ## CONSIDERANDO:
 
-1Â° Que, en la ResoluciÃ³n. Ex. SII NÂ° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+1° Que, en la Resolución. Ex. SII N° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
 
-2Â° Que, analizados los casos de los contribuyentes que se seÃ±alan en los resolutivos primero y segundo de la presente ResoluciÃ³n, se determinÃ³ que, cumplen con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+2° Que, analizados los casos de los contribuyentes que se señalan en los resolutivos primero y segundo de la presente Resolución, se determinó que, cumplen con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operación de Contabilidad Electrónica.
 
-3Â° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017 y, declaran contar con CÃ³digos de AutorizaciÃ³n de Libros (en adelante CAL) para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
+3° Que, por su parte, los contribuyentes listados en el Resolutivo segundo, cumplen asimismo con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017 y, declaran contar con Códigos de Autorización de Libros (en adelante CAL) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-1Â° AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, utilizando CAL propio, al siguiente contribuyente que se individualiza, con su nombre y NÂ° de RUT:
+1° AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, utilizando CAL propio, al siguiente contribuyente que se individualiza, con su nombre y N° de RUT:
 
 INVERSIONES VCT INTERNACIONAL SPA.
 
 99.513.110-2
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE SA, RUT NÂ° 78.079.790-8, a los siguientes contribuyentes que se individualizan, con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, a través del endoso de DBNET INGENIERIA DE SOFTWARE SA, RUT N° 78.079.790-8, a los siguientes contribuyentes que se individualizan, con su nombre y N° de RUT:
 
 ENERNUEVAS SPA. INVERSIONES CONO SUR DOS LTDA. INVERSIONES CONO SUR LTDA.
 
@@ -41,7 +42,7 @@ ENERNUEVAS SPA. INVERSIONES CONO SUR DOS LTDA. INVERSIONES CONO SUR LTDA.
 
 76.497.437-9
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, a travÃ©s del endoso de GDE S.A., RUT NÂ° 76.129.486-5, a los siguientes contribuyentes que se indican, con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, a través del endoso de GDE S.A., RUT N° 76.129.486-5, a los siguientes contribuyentes que se indican, con su nombre y N° de RUT:
 
 | **AMPACET CHILE LTDA.** | **76.208.350-7** |
 | --- | --- |
@@ -51,7 +52,7 @@ AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | TRACK SOCIEDAD DE TRANSPORTES S.A. | 78.269.790-0 |
 | VATTIER Y CONTADOR S.A. | 79.806.530-0 |
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, a travÃ©s del endoso de ONVISION SA, RUT NÂ°76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, a través del endoso de ONVISION SA, RUT N°76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
 
 | **ABBVIE PRODUCTOS FARMACEUTICOS LTDA.** | **76.212.732-6** |
 | --- | --- |
@@ -62,35 +63,35 @@ AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | CRELL GENERACION SPA | 76.205.708-5 |
 | M&S DENTAL STUDIO SPA. | 76.543.384-3 |
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, a travÃ©s del endoso de SOUTH CONSULTING SIGNATURE SA., RUT NÂ° 77.586.860-0, al siguiente contribuyente que se seÃ±ala con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, a través del endoso de SOUTH CONSULTING SIGNATURE SA., RUT N° 77.586.860-0, al siguiente contribuyente que se señala con su nombre y N° de RUT:
 
 INVERSIONES KAUFMANN CHILE S.A.
 
 76.246.708-9
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2020, a travÃ©s del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT NÂ° 76.029.564-7, al siguiente contribuyente que se seÃ±alan con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2020, a través del endoso de TECNOLOGIAS PARA LA GESTION MANQUEHUE SPA, RUT N° 76.029.564-7, al siguiente contribuyente que se señalan con su nombre y N° de RUT:
 
 FID CHILE SEGUROS GENERALES S.A.
 
 77.096.952-2
 
-2Â° Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. NÂ° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2020, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida ResoluciÃ³n Ex. SII NÂ° 150 y su modificaciÃ³n.
+2° Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. N° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operación de Contabilidad Electrónica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de años anteriores al año 2020, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida Resolución Ex. SII N° 150 y su modificación.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
 
 <unknown>
 
 ## SUBDIRECTORA DE ASISTENCIA AL CONTRIBUYENTE
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 ## RGV/CAB/XPR
 
-DistribuciÃ³n:
+Distribución:
 
-* -SubdirecciÃ³n de Asistencia al Contribuyente
+* -Subdirección de Asistencia al Contribuyente
 * -Departamento de Operaciones
-* -Ãrea documento tributario electrÃ³nico
+* -Área documento tributario electrónico
 * -Internet
 * -Oficina de Partes
 * -Archivo

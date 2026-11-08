@@ -1,22 +1,23 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 58 (2020)
-description: DEPARTAMENTO EMISOR: SubdirecciÃ³n JurÃ­dica Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°58 114-2020 OGN |
+---
+type: "SII Circular"
+title: "Circular N° 58 (2020)"
+description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Oficina de Gestión Normativa | CIRCULAR N°58 114-2020 OGN |"
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SubdirecciÃ³n JurÃ­dica Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°58 114-2020 OGN** |
+
+| **DEPARTAMENTO EMISOR: Subdirección Jurídica Oficina de Gestión Normativa** | **CIRCULAR N°58 114-2020 OGN** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 10 DE SEPTIEMBRE DE 2020 |
-| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de septiembre de 2020 y el 9 de octubre de 2020, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2020 y el 9 de octubre de 2020, ambos inclusive. | REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de septiembre de 2020 y 9 de octubre de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de septiembre de 2020 y 9 de octubre de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado, publicado en el Diario Oficial de 9 de septiembre de 2020
+## Valor diario de la Unidad de Fomento del período antes indicado, publicado en el Diario Oficial de 9 de septiembre de 2020
 
-| **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** |
+| **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 28.310,86 | 28.339,17 | 28.469,54 | 28.601,15 | 28.693,59 | 28.716,52 | 28.695,46 | 28.666,51 | 28.680,37 | 28.708,80 |  |  |
 | 2 | 28.311,77 | 28.340,08 | 28.475,41 | 28.604,83 | 28.696,46 | 28.716,52 | 28.694,50 | 28.665,59 | 28.681,30 | 28.709,76 |  |  |
 | 3 | 28.312,68 | 28.341,00 | 28.481,29 | 28.608,51 | 28.699,32 | 28.716,52 | 28.693,54 | 28.664,66 | 28.682,22 | 28.710,72 |  |  |
@@ -53,7 +54,7 @@ Saluda a Ud.,
 
 <unknown>
 
-SRG/PAO/LOF/mvv DISTRIBUCIÃ“N:
+SRG/PAO/LOF/mvv DISTRIBUCIÓN:
 
 * -Internet
 

@@ -1,54 +1,55 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 15 (2016)
-description: DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR NÂ° 15.- 04-2015 SN Circ. 14-2015 ID |
+---
+type: "SII Circular"
+title: "Circular N° 15 (2016)"
+description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID |"
 tags: [SII, 2016, circular]
 ---
 
-| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR NÂ° 15.- 04-2015 SN Circ. 14-2015 ID** |
+
+| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 06 de abril de 2016.- |
-| MATERIA: Instruye sobre la situaciÃ³n tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artÃ­culo 2Â°, de la Ley NÂ° 20.809, y el artÃ­culo 41 de la Ley NÂ°16.441. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN: REF. LEGAL : ArtÃ­culo 2Â° de la Ley NÂ° 20.809, publicada en el Diario Oficial de 30 de enero de 2015; artÃ­culo 41 de la Ley NÂ°16.441. |
+| MATERIA: Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley N°16.441. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF. LEGAL : Artículo 2° de la Ley N° 20.809, publicada en el Diario Oficial de 30 de enero de 2015; artículo 41 de la Ley N°16.441. |
 
-## I INTRODUCCIÃ“N.
+## I INTRODUCCIÓN.
 
-La Ley NÂ° 20.809, publicada en el Diario Oficial de 30 de enero de 2015 tuvo por finalidad - en palabras del Mensaje que dio inicio a su tramitaciÃ³n - tener coherencia con el espÃ­ritu de la 'Ley Pascua' y mejorar tÃ©cnicamente su contenido original.
+La Ley N° 20.809, publicada en el Diario Oficial de 30 de enero de 2015 tuvo por finalidad - en palabras del Mensaje que dio inicio a su tramitación - tener coherencia con el espíritu de la 'Ley Pascua' y mejorar técnicamente su contenido original.
 
-La presente Circular tiene por objeto impartir instrucciones respecto de la modificaciÃ³n legal antes mencionada, su armonizaciÃ³n con otros cuerpos legales y resolver algunas cuestiones de orden prÃ¡ctico y operativo que suscita su aplicaciÃ³n.
+La presente Circular tiene por objeto impartir instrucciones respecto de la modificación legal antes mencionada, su armonización con otros cuerpos legales y resolver algunas cuestiones de orden práctico y operativo que suscita su aplicación.
 
 ## II INSTRUCCIONES SOBRE LA MATERIA.
 
-## 1. Antecedentes y contexto de la Ley NÂ° 20.809.
+## 1. Antecedentes y contexto de la Ley N° 20.809.
 
-Con el objeto de precisar el Ã¡mbito de las modificaciones introducidas por la Ley NÂ° 20.809, es pertinente referir brevemente los antecedentes que motivaron su dictaciÃ³n.
+Con el objeto de precisar el ámbito de las modificaciones introducidas por la Ley N° 20.809, es pertinente referir brevemente los antecedentes que motivaron su dictación.
 
-La Ley NÂ° 16.441, 'Ley Pascua', que creÃ³ el Departamento de Isla de Pascua 1 , dispuso en su artÃ­culo 41 que "Los bienes situados en el departamento de Isla de Pascua y las rentas que provengan de ellos o de actividades desarrolladas en Ã©l, estarÃ¡n exentos de toda clase de impuestos o contribuciones, incluso la contribuciÃ³n territorial, y de los demÃ¡s gravÃ¡menes que establezca la legislaciÃ³n actual o futura. De igual exenciÃ³n gozarÃ¡n los actos o contratos que se ejecuten o celebren en el departamento de Isla de Pascua por personas domiciliadas en Ã©l respecto de actividades o bienes que digan relaciÃ³n con ese mismo territorio."
+La Ley N° 16.441, 'Ley Pascua', que creó el Departamento de Isla de Pascua 1 , dispuso en su artículo 41 que "Los bienes situados en el departamento de Isla de Pascua y las rentas que provengan de ellos o de actividades desarrolladas en él, estarán exentos de toda clase de impuestos o contribuciones, incluso la contribución territorial, y de los demás gravámenes que establezca la legislación actual o futura. De igual exención gozarán los actos o contratos que se ejecuten o celebren en el departamento de Isla de Pascua por personas domiciliadas en él respecto de actividades o bienes que digan relación con ese mismo territorio."
 
-Posteriormente, la Ley NÂ° 17.073 de 1968 derogÃ³ 'â€¦ todas las franquicias y exenciones consistentes en la exenciÃ³n total o parcial del Impuesto Global Complementario.'. Como consecuencia de lo anterior, la exenciÃ³n dispuesta por la 'Ley Pascua', en lo referido al impuesto global complementario, quedÃ³ derogada.
+Posteriormente, la Ley N° 17.073 de 1968 derogó '… todas las franquicias y exenciones consistentes en la exención total o parcial del Impuesto Global Complementario.'. Como consecuencia de lo anterior, la exención dispuesta por la 'Ley Pascua', en lo referido al impuesto global complementario, quedó derogada.
 
-Sin embargo, tal como se expone en el Mensaje de la Ley NÂ° 20.809, la derogaciÃ³n dispuesta en la Ley NÂ° 17.073 contradijo 'la amplitud y el espÃ­ritu de la exenciÃ³n establecida en la ley NÂ° 16.441; mÃ¡s aÃºn, considerando que el artÃ­culo 41 de dicha ley precisa que el no pago de tributos serÃ¡ no sÃ³lo para los vigentes el aÃ±o 1966, sino tambiÃ©n' para los que establezca la legislaciÃ³n futura 2 .
+Sin embargo, tal como se expone en el Mensaje de la Ley N° 20.809, la derogación dispuesta en la Ley N° 17.073 contradijo 'la amplitud y el espíritu de la exención establecida en la ley N° 16.441; más aún, considerando que el artículo 41 de dicha ley precisa que el no pago de tributos será no sólo para los vigentes el año 1966, sino también' para los que establezca la legislación futura 2 .
 
-Como concluye el Mensaje citado, el artÃ­culo 2Â° de la Ley NÂ° 20.809, 'en coherencia con el espÃ­ritu de la 'Ley Pascua', pero mejorando tÃ©cnicamente su contenido original que, como se ha comentado, contenÃ­a sÃ³lo una exenciÃ³n del impuesto global complementario,
+Como concluye el Mensaje citado, el artículo 2° de la Ley N° 20.809, 'en coherencia con el espíritu de la 'Ley Pascua', pero mejorando técnicamente su contenido original que, como se ha comentado, contenía sólo una exención del impuesto global complementario,
 
-1 El territorio especial de Isla de Pascua, comprende a la Isla de Pascua y a la Isla Sala y GÃ³mez, de acuerdo a lo prescrito en el artÃ­culo 1Â° de la Ley 16.441.
+1 El territorio especial de Isla de Pascua, comprende a la Isla de Pascua y a la Isla Sala y Gómez, de acuerdo a lo prescrito en el artículo 1° de la Ley 16.441.
 
-2 Historia de la Ley NÂ° 20.809, versiÃ³n digital de la Biblioteca del Congreso Nacional de Chile, PÃ¡gina 6.
+2 Historia de la Ley N° 20.809, versión digital de la Biblioteca del Congreso Nacional de Chile, Página 6.
 
-establece que no constituirÃ¡n renta los ingresos provenientes de bienes situados o de actividades desarrolladas en Isla de Pascua, obtenidos por personas naturales domiciliadas o residentes en dicho territorio especial. En virtud de ello, las personas naturales domiciliadas o residentes en Isla de Pascua, ya sea por los bienes situados en ese territorio o por las actividades remuneradas que lleven a cabo en Ã©l, no tendrÃ¡n que tributar con el impuesto a la renta, ni deberÃ¡n considerar esas rentas para los efectos de aplicar el impuesto global complementario por otras rentas que pudiesen obtener y que no se encuentren liberadas, como, por ejemplo, las que personas o entidades residentes o domiciliadas en la Isla obtengan de bienes situados o actividades desarrolladas fuera de dicho Territorio Especial'.
+establece que no constituirán renta los ingresos provenientes de bienes situados o de actividades desarrolladas en Isla de Pascua, obtenidos por personas naturales domiciliadas o residentes en dicho territorio especial. En virtud de ello, las personas naturales domiciliadas o residentes en Isla de Pascua, ya sea por los bienes situados en ese territorio o por las actividades remuneradas que lleven a cabo en él, no tendrán que tributar con el impuesto a la renta, ni deberán considerar esas rentas para los efectos de aplicar el impuesto global complementario por otras rentas que pudiesen obtener y que no se encuentren liberadas, como, por ejemplo, las que personas o entidades residentes o domiciliadas en la Isla obtengan de bienes situados o actividades desarrolladas fuera de dicho Territorio Especial'.
 
-Adicionalmente - continua el Mensaje -, 'se libera de impuestos a las personas no domiciliadas ni residentes en la Isla por las rentas provenientes de servicios que presten a personas o entidades domiciliadas o residentes en ese Territorio. Ello con el fin de que tales prestadores no recarguen, en las remuneraciones u honorarios que cobren, el monto de los impuestos que podrÃ­an afectarlos.' 3
+Adicionalmente - continua el Mensaje -, 'se libera de impuestos a las personas no domiciliadas ni residentes en la Isla por las rentas provenientes de servicios que presten a personas o entidades domiciliadas o residentes en ese Territorio. Ello con el fin de que tales prestadores no recarguen, en las remuneraciones u honorarios que cobren, el monto de los impuestos que podrían afectarlos.' 3
 
-## 2. LiberaciÃ³n de impuesto a la renta, conforme a lo establecido en la Ley NÂ° 20.809.
+## 2. Liberación de impuesto a la renta, conforme a lo establecido en la Ley N° 20.809.
 
-El artÃ­culo 2Â° de la Ley NÂ° 20.809, en lo que interesa en esta parte, dispuso que:
+El artículo 2° de la Ley N° 20.809, en lo que interesa en esta parte, dispuso que:
 
 'No constituyen renta los ingresos provenientes de bienes situados o de actividades desarrolladas en el Territorio Especial de Isla de Pascua, obtenidas por personas naturales domiciliadas o residentes en dicha isla.
 
-Tampoco constituirÃ¡n renta los ingresos que provengan de servicios prestados por contribuyentes sin domicilio ni residencia en Isla de Pascua a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relaciÃ³n con bienes situados o actividades desarrolladas en Ã©l.' 4
+Tampoco constituirán renta los ingresos que provengan de servicios prestados por contribuyentes sin domicilio ni residencia en Isla de Pascua a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relación con bienes situados o actividades desarrolladas en él.' 4
 
-Luego, los requisitos legales para hacer procedente esta franquicia se comprenden en los dos primeros incisos de esta disposiciÃ³n, los que se analizan en forma separada.
+Luego, los requisitos legales para hacer procedente esta franquicia se comprenden en los dos primeros incisos de esta disposición, los que se analizan en forma separada.
 
-## 2.1. Ingresos correspondientes a personas naturales domiciliadas o residentes en el Territorio Especial de Isla de Pascua (inciso 1Â°, del artÃ­culo 2Â° de la Ley NÂ° 20.809).
+## 2.1. Ingresos correspondientes a personas naturales domiciliadas o residentes en el Territorio Especial de Isla de Pascua (inciso 1°, del artículo 2° de la Ley N° 20.809).
 
 No constituyen renta los ingresos provenientes de bienes situados o de actividades desarrolladas en el Territorio Especial de Isla de Pascua, obtenidas por personas naturales domiciliadas o residentes en dicha isla.
 
@@ -57,143 +58,143 @@ No constituyen renta los ingresos provenientes de bienes situados o de actividad
 Para que se aplique la franquicia tributaria se deben cumplir los siguientes requisitos copulativos:
 
 * a) Los ingresos deben provenir de bienes situados en el Territorio Especial de Isla de Pascua, o de actividades desarrolladas en el mismo lugar, y
-* b) Dichos ingresos deben corresponder a personas naturales domiciliadas o que sean residentes en dicha isla; excluyÃ©ndose por consiguiente a las agrupaciones o entidades con personalidad jurÃ­dica.
+* b) Dichos ingresos deben corresponder a personas naturales domiciliadas o que sean residentes en dicha isla; excluyéndose por consiguiente a las agrupaciones o entidades con personalidad jurídica.
 
-Sobre el concepto de residencia y residente para efectos tributarios se debe tener en consideraciÃ³n lo dispuesto en el artÃ­culo 8Â°, NÂ° 8, del CÃ³digo Tributario. Por su parte, el concepto de domicilio no estÃ¡ definido en las normas tributarias, por lo que cabe aplicar al
+Sobre el concepto de residencia y residente para efectos tributarios se debe tener en consideración lo dispuesto en el artículo 8°, N° 8, del Código Tributario. Por su parte, el concepto de domicilio no está definido en las normas tributarias, por lo que cabe aplicar al
 
-3 Historia de la Ley NÂ° 20.809, versiÃ³n digital de la Biblioteca del Congreso Nacional de Chile, PÃ¡gina 7. Lo mismo se repite durante la discusiÃ³n legislativa, asÃ­ como, por ejemplo, en el informe de la ComisiÃ³n de Hacienda del H. Senado, pÃ¡gina 46.
+3 Historia de la Ley N° 20.809, versión digital de la Biblioteca del Congreso Nacional de Chile, Página 7. Lo mismo se repite durante la discusión legislativa, así como, por ejemplo, en el informe de la Comisión de Hacienda del H. Senado, página 46.
 
-4 El inciso tercero continua: 'Lo dispuesto en el inciso primero del presente artÃ­culo rige a contar del 31 de diciembre de 1968. Lo dispuesto en el inciso segundo regirÃ¡ respecto de los servicios prestados a contar de la publicaciÃ³n de esta ley en el Diario Oficial.'
+4 El inciso tercero continua: 'Lo dispuesto en el inciso primero del presente artículo rige a contar del 31 de diciembre de 1968. Lo dispuesto en el inciso segundo regirá respecto de los servicios prestados a contar de la publicación de esta ley en el Diario Oficial.'
 
-respecto la definiciÃ³n que se contempla en el artÃ­culo 59 y siguientes del CÃ³digo Civil en relaciÃ³n con lo dispuesto en el artÃ­culo 4Â° de la Ley sobre Impuesto a la Renta.
+respecto la definición que se contempla en el artículo 59 y siguientes del Código Civil en relación con lo dispuesto en el artículo 4° de la Ley sobre Impuesto a la Renta.
 
-## 2.1.2. Rentas que comprende la liberaciÃ³n de impuestos del inciso 1Â° del artÃ­culo 2Â° de la Ley NÂ° 20.809.
+## 2.1.2. Rentas que comprende la liberación de impuestos del inciso 1° del artículo 2° de la Ley N° 20.809.
 
-Dados los tÃ©rminos amplios de la norma legal, ella alcanza en general a los ingresos de cualquier actividad gravada con el impuesto a la renta percibidos o devengados por personas naturales residentes o domiciliadas en el Territorio Especial, por lo cual se aplica:
+Dados los términos amplios de la norma legal, ella alcanza en general a los ingresos de cualquier actividad gravada con el impuesto a la renta percibidos o devengados por personas naturales residentes o domiciliadas en el Territorio Especial, por lo cual se aplica:
 
-* a) A los ingresos percibidos o devengados por la explotaciÃ³n de bienes raÃ­ces, actividades comerciales, industriales, extractivas, agrÃ­colas y otras de aquellas a que se refiere el artÃ­culo 20, de la Ley sobre Impuesto a la Renta, gravados con el Impuesto de Primera CategorÃ­a.
-* b) Ingresos afectos a impuestos sustitutivos de la tributaciÃ³n general de la Ley sobre Impuesto a la Renta.
-* c) Rentas consistentes en sueldos, salarios, jubilaciones, montepÃ­os y otras remuneraciones gravadas con el Impuesto Ãšnico de Segunda CategorÃ­a.
+* a) A los ingresos percibidos o devengados por la explotación de bienes raíces, actividades comerciales, industriales, extractivas, agrícolas y otras de aquellas a que se refiere el artículo 20, de la Ley sobre Impuesto a la Renta, gravados con el Impuesto de Primera Categoría.
+* b) Ingresos afectos a impuestos sustitutivos de la tributación general de la Ley sobre Impuesto a la Renta.
+* c) Rentas consistentes en sueldos, salarios, jubilaciones, montepíos y otras remuneraciones gravadas con el Impuesto Único de Segunda Categoría.
 * d) Otros ingresos, afectos al Impuesto Global Complementario, provenientes de servicios prestados o de bienes situados en la Isla de Pascua, y que correspondan a personas naturales domiciliadas o residentes en ese Territorio, tales como honorarios y dividendos.
 
 ## 2.1.3. Vigencia.
 
-De acuerdo al inciso tercero del artÃ­culo 2Â° en anÃ¡lisis, 'lo dispuesto en el inciso primero del presente artÃ­culo rige a contar del 31 de diciembre de 1968.'
+De acuerdo al inciso tercero del artículo 2° en análisis, 'lo dispuesto en el inciso primero del presente artículo rige a contar del 31 de diciembre de 1968.'
 
 Por lo tanto, debe entenderse que en el caso particular de los contribuyentes amparados por la franquicia deben considerar retroactivamente (a contar del 31 de diciembre de 1968) como ingresos no afectos al Impuesto a la Renta los ingresos no constitutivos de renta provenientes de servicios prestados o de bienes situados en la Isla de Pascua.
 
-## 2.2. Ingresos obtenidos por contribuyentes sin domicilio ni residencia en Isla de Pascua por servicios prestados a personas domiciliadas o residentes en ese territorio (inciso 2Â°, del artÃ­culo 2Â°, de la Ley NÂ° 20.089).
+## 2.2. Ingresos obtenidos por contribuyentes sin domicilio ni residencia en Isla de Pascua por servicios prestados a personas domiciliadas o residentes en ese territorio (inciso 2°, del artículo 2°, de la Ley N° 20.089).
 
-Tampoco constituirÃ¡n renta los ingresos que provengan de servicios prestados por contribuyentes sin domicilio ni residencia en Isla de Pascua a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relaciÃ³n con bienes situados o actividades desarrolladas en Ã©l.
+Tampoco constituirán renta los ingresos que provengan de servicios prestados por contribuyentes sin domicilio ni residencia en Isla de Pascua a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relación con bienes situados o actividades desarrolladas en él.
 
 ## 2.2.1. Requisitos.
 
-Los requisitos copulativos que exige la norma legal comentada para que opere esta liberaciÃ³n, son:
+Los requisitos copulativos que exige la norma legal comentada para que opere esta liberación, son:
 
-* a) El prestador de los servicios debe ser contribuyente sin domicilio ni residencia en Isla de Pascua, sea contribuyente de la Primera CategorÃ­a, del Impuesto Global Complementario o Adicional;
-* b) Los ingresos deben provenir de la prestaciÃ³n de servicios a contribuyentes con domicilio o residencia en Isla de Pascua, y
-* c) Dichos servicios deben decir relaciÃ³n con bienes situados en el Territorio Especial de Isla de Pascua o con actividades desarrolladas en el mismo lugar.
+* a) El prestador de los servicios debe ser contribuyente sin domicilio ni residencia en Isla de Pascua, sea contribuyente de la Primera Categoría, del Impuesto Global Complementario o Adicional;
+* b) Los ingresos deben provenir de la prestación de servicios a contribuyentes con domicilio o residencia en Isla de Pascua, y
+* c) Dichos servicios deben decir relación con bienes situados en el Territorio Especial de Isla de Pascua o con actividades desarrolladas en el mismo lugar.
 
-## 2.2.2. Rentas que comprende la liberaciÃ³n de impuestos del inciso 2Â° del artÃ­culo 2Â° de la Ley 20.809.
+## 2.2.2. Rentas que comprende la liberación de impuestos del inciso 2° del artículo 2° de la Ley 20.809.
 
-La liberaciÃ³n alcanza en general a los ingresos obtenidos por contribuyentes sin domicilio ni residencia en Isla de Pascua, provenientes de todo tipo de servicios prestados a personas o entidades domiciliadas o residentes en la isla, siempre que estos servicios se relacionen con bienes situados o con actividades desarrolladas en este Territorio Especial. A modo de ejemplo:
+La liberación alcanza en general a los ingresos obtenidos por contribuyentes sin domicilio ni residencia en Isla de Pascua, provenientes de todo tipo de servicios prestados a personas o entidades domiciliadas o residentes en la isla, siempre que estos servicios se relacionen con bienes situados o con actividades desarrolladas en este Territorio Especial. A modo de ejemplo:
 
-* a) Ingresos obtenidos por empresas gravadas con el Impuesto de Primera CategorÃ­a, provenientes de servicios que digan relaciÃ³n con bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua.
-* b) Rentas consistentes en sueldos, salarios, jubilaciones, montepÃ­os y otras remuneraciones gravadas con el Impuesto Ãšnico de Segunda CategorÃ­a, obtenidas o percibidas por personas no residentes ni domiciliadas en Ã©l.
-* c) Otros ingresos, afectos al Impuesto Global Complementario, que digan relaciÃ³n con bienes situados o actividades desarrolladas en la Isla de Pascua.
-* d) Ingresos por servicios afectos al Impuesto Adicional indicados en el pÃ¡rrafo final del NÂ° 2, del artÃ­culo 59 y en el artÃ­culo 60, incisos 1Â° Ã³ 2Â° ambos de la Ley sobre Impuesto a la Renta, que digan relaciÃ³n con bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua.
+* a) Ingresos obtenidos por empresas gravadas con el Impuesto de Primera Categoría, provenientes de servicios que digan relación con bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua.
+* b) Rentas consistentes en sueldos, salarios, jubilaciones, montepíos y otras remuneraciones gravadas con el Impuesto Único de Segunda Categoría, obtenidas o percibidas por personas no residentes ni domiciliadas en él.
+* c) Otros ingresos, afectos al Impuesto Global Complementario, que digan relación con bienes situados o actividades desarrolladas en la Isla de Pascua.
+* d) Ingresos por servicios afectos al Impuesto Adicional indicados en el párrafo final del N° 2, del artículo 59 y en el artículo 60, incisos 1° ó 2° ambos de la Ley sobre Impuesto a la Renta, que digan relación con bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua.
 
 ## 2.2.3. Vigencia.
 
-La liberaciÃ³n tributaria descrita en este nÃºmero 2.2, rige a contar de la publicaciÃ³n de la Ley en el Diario Oficial, lo que ocurriÃ³ con fecha 30 de enero de 2015; favoreciendo por consiguiente a los ingresos por servicios que cumplan los requisitos legales, prestados a contar de dicha fecha.
+La liberación tributaria descrita en este número 2.2, rige a contar de la publicación de la Ley en el Diario Oficial, lo que ocurrió con fecha 30 de enero de 2015; favoreciendo por consiguiente a los ingresos por servicios que cumplan los requisitos legales, prestados a contar de dicha fecha.
 
 ## 2.3. Efectos.
 
 ## 2.3.1. Impuesto a la Renta.
 
-En virtud de lo dispuesto en el artÃ­culo 2Â°, de la Ley NÂ° 20.809 en comento, las personas naturales domiciliadas o residentes en Isla de Pascua y los contribuyentes no residentes ni domiciliadas en ella, por los ingresos que obtengan ya sea por los bienes situados en ese territorio o por las actividades remuneradas que lleven a cabo en las condiciones que seÃ±ala la Ley, no tendrÃ¡n que tributar con el impuesto a la renta, ni deberÃ¡n considerar esas rentas para los efectos de aplicar los impuestos establecidos en la Ley del ramo, por otras rentas que pudiesen obtener y que no se encuentren liberadas, como, por ejemplo, las que personas o entidades residentes o domiciliadas en la Isla obtengan de bienes situados o actividades desarrolladas fuera de dicho Territorio Especial.
+En virtud de lo dispuesto en el artículo 2°, de la Ley N° 20.809 en comento, las personas naturales domiciliadas o residentes en Isla de Pascua y los contribuyentes no residentes ni domiciliadas en ella, por los ingresos que obtengan ya sea por los bienes situados en ese territorio o por las actividades remuneradas que lleven a cabo en las condiciones que señala la Ley, no tendrán que tributar con el impuesto a la renta, ni deberán considerar esas rentas para los efectos de aplicar los impuestos establecidos en la Ley del ramo, por otras rentas que pudiesen obtener y que no se encuentren liberadas, como, por ejemplo, las que personas o entidades residentes o domiciliadas en la Isla obtengan de bienes situados o actividades desarrolladas fuera de dicho Territorio Especial.
 
 ## 2.3.2. Obligaciones anexas y retenciones.
 
-Por consiguiente, respecto de dichos ingresos beneficiados con el carÃ¡cter de no constitutivo de renta, no se aplicarÃ¡n otras obligaciones asociadas establecidas en la Ley sobre Impuesto a la Renta, tales como la de retenciÃ³n de impuestos por el pagador de los mismas establecida en el artÃ­culo 74 de la Ley sobre Impuesto a la Renta, o la de efectuar Pagos Provisionales Mensuales, de acuerdo al artÃ­culo 84 de la misma ley, segÃºn sea el caso.
+Por consiguiente, respecto de dichos ingresos beneficiados con el carácter de no constitutivo de renta, no se aplicarán otras obligaciones asociadas establecidas en la Ley sobre Impuesto a la Renta, tales como la de retención de impuestos por el pagador de los mismas establecida en el artículo 74 de la Ley sobre Impuesto a la Renta, o la de efectuar Pagos Provisionales Mensuales, de acuerdo al artículo 84 de la misma ley, según sea el caso.
 
-Lo mismo ocurre respecto de contribuyentes sin domicilio ni residencia en la Isla que obtengan ingresos no constitutivos de renta por concepto de servicios prestados a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relaciÃ³n con bienes situados o actividades desarrolladas en Ã©l.
+Lo mismo ocurre respecto de contribuyentes sin domicilio ni residencia en la Isla que obtengan ingresos no constitutivos de renta por concepto de servicios prestados a personas o entidades domiciliadas o residentes en ese territorio, siempre que digan relación con bienes situados o actividades desarrolladas en él.
 
-Se hace presente que, a pesar de lo anterior, se mantiene la obligaciÃ³n de emitir el respectivo documento por parte del perceptor de la renta, esto es, boleta o factura segÃºn corresponda, cuya glosa deberÃ¡ indicar la prestaciÃ³n efectuada que da origen a un ingreso no constitutivo de renta. El no cumplimiento de esta obligaciÃ³n, no desnaturaliza el carÃ¡cter de ingreso no renta del estipendio percibido o devengado, sÃ³lo darÃ¡ origen a las sanciones administrativas correspondientes, de acuerdo a lo dispuesto en el artÃ­culo 97 NÂ°10 del CÃ³digo Tributario.
+Se hace presente que, a pesar de lo anterior, se mantiene la obligación de emitir el respectivo documento por parte del perceptor de la renta, esto es, boleta o factura según corresponda, cuya glosa deberá indicar la prestación efectuada que da origen a un ingreso no constitutivo de renta. El no cumplimiento de esta obligación, no desnaturaliza el carácter de ingreso no renta del estipendio percibido o devengado, sólo dará origen a las sanciones administrativas correspondientes, de acuerdo a lo dispuesto en el artículo 97 N°10 del Código Tributario.
 
-## 3. ExenciÃ³n establecida en el artÃ­culo 41 de la Ley NÂ°16.441.
+## 3. Exención establecida en el artículo 41 de la Ley N°16.441.
 
 ## 3.1. Regla general sobre la vigencia de esta norma legal.
 
-Como ya se seÃ±alÃ³, el artÃ­culo 41Â°, de la Ley NÂ° 16.441, dispone que los bienes situados en el Departamento de Isla de Pascua (Actualmente Territorio Especial) y las rentas que provengan de ellos o de actividades desarrolladas en Ã©l, estarÃ¡n exentos de toda clase de impuestos o contribuciones, incluso la contribuciÃ³n territorial, y de los demÃ¡s gravÃ¡menes que establezca la legislaciÃ³n actual o futura.
+Como ya se señaló, el artículo 41°, de la Ley N° 16.441, dispone que los bienes situados en el Departamento de Isla de Pascua (Actualmente Territorio Especial) y las rentas que provengan de ellos o de actividades desarrolladas en él, estarán exentos de toda clase de impuestos o contribuciones, incluso la contribución territorial, y de los demás gravámenes que establezca la legislación actual o futura.
 
-De la conjugaciÃ³n armÃ³nica de esta disposiciÃ³n legal con el inciso 2Â°, de la Ley NÂ° 20.809, se puede concluir que el artÃ­culo 41 de la Ley NÂ°16.441 continÃºa siendo aplicable respecto de aquellas situaciones no comprendidas expresamente bajo los tÃ©rminos de aquella. AsÃ­ por ejemplo, sucede en el caso especÃ­fico de las rentas obtenidas por personas jurÃ­dicas que provengan de bienes situados en el Territorio Especial de Isla de Pascua.
+De la conjugación armónica de esta disposición legal con el inciso 2°, de la Ley N° 20.809, se puede concluir que el artículo 41 de la Ley N°16.441 continúa siendo aplicable respecto de aquellas situaciones no comprendidas expresamente bajo los términos de aquella. Así por ejemplo, sucede en el caso específico de las rentas obtenidas por personas jurídicas que provengan de bienes situados en el Territorio Especial de Isla de Pascua.
 
 ## 3.2. Requisitos.
 
-Por consiguiente, esta exenciÃ³n es aplicable en los tÃ©rminos que han sido explicados en los pronunciamientos dictados sobre la materia; la que alcanza a los impuestos que se comprenden en la Ley sobre Impuesto a la Renta, que puedan afectar a las rentas generadas en dicho territorio insular, y siempre que:
+Por consiguiente, esta exención es aplicable en los términos que han sido explicados en los pronunciamientos dictados sobre la materia; la que alcanza a los impuestos que se comprenden en la Ley sobre Impuesto a la Renta, que puedan afectar a las rentas generadas en dicho territorio insular, y siempre que:
 
 * 3.2.1. Las rentas provengan de bienes situados en el Territorio Especial de Isla de Pascua, o
 * 3.2.2. Dichas rentas provengan de actividades desarrolladas en el mismo lugar.
 
 De esta forma, la franquicia no alcanza a las rentas derivadas de bienes ubicados o de actividades ejercidas fuera del citado territorio 5 .
 
-## 4. Consideraciones generales y anÃ¡lisis de algunas situaciones especiales.
+## 4. Consideraciones generales y análisis de algunas situaciones especiales.
 
 ## 4.1. Finalidad de la franquicia.
 
-Las franquicias tributarias en comento han tenido por objeto beneficiar a Isla de Pascua, que por su situaciÃ³n geogrÃ¡fica se encuentra en desmedro respecto de otras zonas, con el fin de atenuar las desventajas que significan la distancia y lejanÃ­a de los centros de producciÃ³n y consumo, lo que naturalmente le imprime un carÃ¡cter sustantivamente oneroso a las actividades que se relacionan con dicho territorio.
+Las franquicias tributarias en comento han tenido por objeto beneficiar a Isla de Pascua, que por su situación geográfica se encuentra en desmedro respecto de otras zonas, con el fin de atenuar las desventajas que significan la distancia y lejanía de los centros de producción y consumo, lo que naturalmente le imprime un carácter sustantivamente oneroso a las actividades que se relacionan con dicho territorio.
 
-Por otro lado, se debe tener presente que las exenciones de impuesto, por tratarse de normas de excepciÃ³n a la regla general, deben aplicarse de forma estricta y limitada a los tÃ©rminos contemplados literalmente en los textos legales, los que en el caso en estudio exigen, sin perjuicio de otros requisitos analizados previamente, que las rentas deriven directamente de bienes situados o de actividades desarrolladas en el Territorio de Isla de Pascua o de servicios que digan relaciÃ³n con los mismos bienes o actividades ; por lo que a tÃ­tulo meramente ilustrativo, no se aplicarÃ¡n en los siguientes casos:
+Por otro lado, se debe tener presente que las exenciones de impuesto, por tratarse de normas de excepción a la regla general, deben aplicarse de forma estricta y limitada a los términos contemplados literalmente en los textos legales, los que en el caso en estudio exigen, sin perjuicio de otros requisitos analizados previamente, que las rentas deriven directamente de bienes situados o de actividades desarrolladas en el Territorio de Isla de Pascua o de servicios que digan relación con los mismos bienes o actividades ; por lo que a título meramente ilustrativo, no se aplicarán en los siguientes casos:
 
 * 4.1.1. Dividendos o retiros de rentas afectos al Impuesto Global Complementario percibidas por personas con domicilio o residencia fuera del Territorio Especial, en
 
-5 Al respecto, por ejemplo, Oficio NÂ° 3.589, de 1992.
+5 Al respecto, por ejemplo, Oficio N° 3.589, de 1992.
 
 su calidad de accionistas o socios de sociedades constituidas y domiciliadas en Isla de Pascua.
 
 * 4.1.2. Ingresos obtenidos por las empresas constituidas o con domicilio en el Territorio Especial de Isla de Pascua, respecto de las actividades desarrolladas en otro lugar.
-* 4.1.3. Pensiones de retiro afectas al Impuesto Ãšnico de Segunda CategorÃ­a percibidas por personas domiciliadas en el territorio insular cuando ella derive de una actividad desarrollada fuera del Territorio Especial 6
-* 4.1.4. Otros ingresos afectos al Impuesto Global Complementario que no digan relaciÃ³n con actividades desarrolladas o con bienes situados en el territorio insular.
+* 4.1.3. Pensiones de retiro afectas al Impuesto Único de Segunda Categoría percibidas por personas domiciliadas en el territorio insular cuando ella derive de una actividad desarrollada fuera del Territorio Especial 6
+* 4.1.4. Otros ingresos afectos al Impuesto Global Complementario que no digan relación con actividades desarrolladas o con bienes situados en el territorio insular.
 
-## 4.2. AplicaciÃ³n de pleno derecho.
+## 4.2. Aplicación de pleno derecho.
 
-Cabe seÃ±alar que la aplicaciÃ³n de la franquicia opera de pleno derecho, siempre que se cumplan los requisitos legales, sin requerir de ningÃºn procedimiento especial para gozar del mismo.
+Cabe señalar que la aplicación de la franquicia opera de pleno derecho, siempre que se cumplan los requisitos legales, sin requerir de ningún procedimiento especial para gozar del mismo.
 
-## 4.3. Franquicia del artÃ­culo 36, Ley NÂ° 19.518.
+## 4.3. Franquicia del artículo 36, Ley N° 19.518.
 
-No obstante la liberaciÃ³n de impuestos comentadas en los nÃºmeros 2 y 3 anteriores, las personas que obtengan rentas clasificadas en la Primera CategorÃ­a, de bienes situados en la Isla de Pascua o de actividades desarrolladas en dicho lugar y que se clasifiquen en el artÃ­culo 20 de la Ley sobre Impuesto a la Renta, son contribuyentes de Primera CategorÃ­a, y por lo tanto pueden acceder a la franquicia que contempla el artÃ­culo 36 de la Ley NÂ° 19.518, sobre Estatuto de CapacitaciÃ³n y Empleo, siempre que se dÃ© cumplimiento a los respectivos requisitos legales, cuyas instrucciones estÃ¡n contenidas en la Circular NÂ° 19, de 1999. 7
+No obstante la liberación de impuestos comentadas en los números 2 y 3 anteriores, las personas que obtengan rentas clasificadas en la Primera Categoría, de bienes situados en la Isla de Pascua o de actividades desarrolladas en dicho lugar y que se clasifiquen en el artículo 20 de la Ley sobre Impuesto a la Renta, son contribuyentes de Primera Categoría, y por lo tanto pueden acceder a la franquicia que contempla el artículo 36 de la Ley N° 19.518, sobre Estatuto de Capacitación y Empleo, siempre que se dé cumplimiento a los respectivos requisitos legales, cuyas instrucciones están contenidas en la Circular N° 19, de 1999. 7
 
-## 4.4. SeparaciÃ³n de resultados.
+## 4.4. Separación de resultados.
 
-Si el contribuyente desarrolla actividades en la Isla de Pascua, y estas estÃ¡n exentas de impuesto o dan lugar a un ingreso no constitutivo de renta, segÃºn lo comentado, y ademÃ¡s realiza actividades en el resto del paÃ­s, se deberÃ¡ aplicar para efectos de determinar dichos resultados, lo dispuesto en la Circular NÂ° 68, de 2010, debiendo por consiguiente determinar en forma separada, el resultado anual de sus operaciones vinculadas a ellas, para efectos de dar cumplimiento a la obligaciÃ³n de declaraciÃ³n anual de impuesto a la renta establecida en el artÃ­culo 65, de la LIR.
+Si el contribuyente desarrolla actividades en la Isla de Pascua, y estas están exentas de impuesto o dan lugar a un ingreso no constitutivo de renta, según lo comentado, y además realiza actividades en el resto del país, se deberá aplicar para efectos de determinar dichos resultados, lo dispuesto en la Circular N° 68, de 2010, debiendo por consiguiente determinar en forma separada, el resultado anual de sus operaciones vinculadas a ellas, para efectos de dar cumplimiento a la obligación de declaración anual de impuesto a la renta establecida en el artículo 65, de la LIR.
 
-No obstante lo anterior, si se trata de ingresos exentos del impuesto Primera CategorÃ­a, se les deberÃ¡ dar el tratamiento que corresponda para efectos de aplicar los tributos respectivos a nivel de los socios o propietarios afectos al Impuesto Global Complementario (IGC), cuando estos ingresos exentos sean retirados por contribuyentes del IGC, sin derecho a usar crÃ©dito por Impuesto de Primera CategorÃ­a contra el impuesto final que corresponda, por cuanto las empresas que los producen estÃ¡n exentas de dicho tributo por aplicaciÃ³n del artÃ­culo 41 de la Ley NÂ°16.441.
+No obstante lo anterior, si se trata de ingresos exentos del impuesto Primera Categoría, se les deberá dar el tratamiento que corresponda para efectos de aplicar los tributos respectivos a nivel de los socios o propietarios afectos al Impuesto Global Complementario (IGC), cuando estos ingresos exentos sean retirados por contribuyentes del IGC, sin derecho a usar crédito por Impuesto de Primera Categoría contra el impuesto final que corresponda, por cuanto las empresas que los producen están exentas de dicho tributo por aplicación del artículo 41 de la Ley N°16.441.
 
-## 5. Adecuaciones prÃ¡cticas y operativas.
+## 5. Adecuaciones prácticas y operativas.
 
-## 5.1. Inicio de actividades 'simplificado' y aviso de tÃ©rmino de giro.
+## 5.1. Inicio de actividades 'simplificado' y aviso de término de giro.
 
 A pesar que los ingresos provenientes de bienes situados o de actividades desarrolladas en el Territorio Especial de Isla de Pascua, obtenidos por personas naturales domiciliadas o residentes en dicha isla, no constituyen renta, es posible que obtengan rentas gravadas con impuesto a la renta por actividades o bienes situados fuera del territorio.
 
-6 Oficio NÂ° 1704, de 2010.
+6 Oficio N° 1704, de 2010.
 
-7 Oficio NÂ° 948, de 2002 y 4.275, de 2001.
+7 Oficio N° 948, de 2002 y 4.275, de 2001.
 
-Para ese caso, serÃ¡ necesario que los contribuyentes realicen el trÃ¡mite de inicio de actividades, pero sometidos a reglas especiales dada la ubicaciÃ³n geogrÃ¡fica de los contribuyentes.
+Para ese caso, será necesario que los contribuyentes realicen el trámite de inicio de actividades, pero sometidos a reglas especiales dada la ubicación geográfica de los contribuyentes.
 
-Finalmente, y por las mismas razones anotadas, no es necesario que estos contribuyentes den aviso de tÃ©rmino de giro.
+Finalmente, y por las mismas razones anotadas, no es necesario que estos contribuyentes den aviso de término de giro.
 
-## 5.2. ObligaciÃ³n de llevar Contabilidad
+## 5.2. Obligación de llevar Contabilidad
 
-La Ley 20.809, no exime a los contribuyentes de la obligaciÃ³n de llevar contabilidad, completa o simplificada, segÃºn corresponda.
+La Ley 20.809, no exime a los contribuyentes de la obligación de llevar contabilidad, completa o simplificada, según corresponda.
 
 ## III VIGENCIA DE ESTA CIRCULAR.
 
-Las instrucciones contenidas en la presente Circular regirÃ¡n a contar de la fecha de la publicaciÃ³n de su extracto en el Diario Oficial.
+Las instrucciones contenidas en la presente Circular regirán a contar de la fecha de la publicación de su extracto en el Diario Oficial.
 
 Saluda a Ud.,
 
-JARB/RHA/CFS DISTRIBUCIÃ“N: AL BOLETÃN A INTERNET OFICINA DE GESTIÃ“N NORMATIVA AL DIARIO OFICIAL EN EXTRACTO
+JARB/RHA/CFS DISTRIBUCIÓN: AL BOLETÍN A INTERNET OFICINA DE GESTIÓN NORMATIVA AL DIARIO OFICIAL EN EXTRACTO
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR

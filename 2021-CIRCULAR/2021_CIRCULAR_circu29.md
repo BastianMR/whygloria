@@ -1,22 +1,23 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 29 (2021)
-description: SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N | CIRCULAR NÂº29.- |
+---
+type: "SII Circular"
+title: "Circular N° 29 (2021)"
+description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº29.- |"
 tags: [SII, 2021, circular]
 ---
 
-| **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **SUBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N** | **CIRCULAR NÂº29.-** |
+
+| **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº29.-** |
 | --- | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE MAYODE2021 |
-| MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2021. | MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2021. | REFERENCIA: NÂºYNOMBREDELVOLUMEN Arts. 53 y 97 NÂºs. 2 y 11 D.L. NÂº 830, de 1974, sobre CÃ³digo Tributario. |
-| USO DE CIRCULARES: | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
+| MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2021. | MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS JUNIO 2021. | REFERENCIA: NºYNOMBREDELVOLUMEN Arts. 53 y 97 Nºs. 2 y 11 D.L. Nº 830, de 1974, sobre Código Tributario. |
+| USO DE CIRCULARES: | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
 
-La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s y multa de los Arts. 53 y 97 NÂºs. 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de JUNIO DE 2021.
+La presente Circular tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de JUNIO DE 2021.
 
-|  |  | **% Reajuste** | **% InterÃ˜s** | **% Multa** | **% Multa** | **% Multa** | **IPC (INE)** |  |
+|  |  | **% Reajuste** | **% InterØs** | **% Multa** | **% Multa** | **% Multa** | **IPC (INE)** |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mes de | Art. 53 | Art. 53 | Art. 97 | Art. | 97 NÂ°11 | Base Anual | U.T.M. |
-|  | Vcto. | Inc. 1Â° | Inc. 3Â° | NÂ°2 | Inc. 1Â° | Inc. 2Â° | 2018=100 |  |
+|  | Mes de | Art. 53 | Art. 53 | Art. 97 | Art. | 97 N°11 | Base Anual | U.T.M. |
+|  | Vcto. | Inc. 1° | Inc. 3° | N°2 | Inc. 1° | Inc. 2° | 2018=100 |  |
 | 2015 | ENE | 20,7 | 117,0 | 30 | 30 | 60 | 89,5600 | 43.198 |
 |  | FEB | 21,2 | 115,5 | 30 | 30 | 60 | 89,8800 | 43.025 |
 |  | MAR | 21,1 | 114,0 | 30 | 30 | 60 | 90,4400 | 43.068 |
@@ -68,9 +69,9 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 
 <unknown>
 
-|  | **Mes de Vcto.** | **% Reajuste Art. 53 Inc. 1Â°** | **% InterÃ˜s Art. 53 Inc. 3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa Art. 97 NÂ°11** | **% Multa Art. 97 NÂ°11** | **IPC (INE) Base Anual 2018=100** | **U.T.M.** |
+|  | **Mes de Vcto.** | **% Reajuste Art. 53 Inc. 1°** | **% InterØs Art. 53 Inc. 3°** | **% Multa Art. 97 N°2** | **% Multa Art. 97 N°11** | **% Multa Art. 97 N°11** | **IPC (INE) Base Anual 2018=100** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mes de Vcto. | % Reajuste Art. 53 Inc. 1Â° | % InterÃ˜s Art. 53 Inc. 3Â° | % Multa Art. 97 NÂ°2 | Inc. 1Â° | Inc. 2Â° |  | U.T.M. |
+|  | Mes de Vcto. | % Reajuste Art. 53 Inc. 1° | % InterØs Art. 53 Inc. 3° | % Multa Art. 97 N°2 | Inc. 1° | Inc. 2° |  | U.T.M. |
 | 2019 | ENE | 7,7 | 45,0 | 30 | 30 | 60 | 100,7500 | 48.353 |
 |  | FEB | 7,8 | 43,5 | 30 | 30 | 60 | 100,7900 | 48.305 |
 |  | MAR | 7,7 | 42,0 | 30 | 30 | 60 | 101,2700 | 48.353 |
@@ -105,18 +106,18 @@ La presente Circular tiene por objeto poner en conocimiento de las Unidades del 
 ## NOTAS:
 
 1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
-2. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
-3. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el I.P.C. entregada por el I.N.E. en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y ReconstrucciÃ³n, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18, de 2010, del SII.
+2. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
+3. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18, de 2010, del SII.
 
-| **AÃ‘O** | **2009** | **2010** | **2011** | **2012** | **2013** | **2014** | **2015** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** |
+| **AÑO** | **2009** | **2010** | **2011** | **2012** | **2013** | **2014** | **2015** | **2016** | **2017** | **2018** | **2019** | **2020** | **2021** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | %: | 0,0 | 0,6 | 1,4 | 1,3 | 0,7 | 2,1 | 0,6 | 1,1 | 1,0 | 0,9 | 0,5 | 1,5 | 1,6 |
 
-Se hace presente que a contar del Ãndice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Índice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
-## CSM/CGG/RCJ DISTRIBUCIÃ“N
+## CSM/CGG/RCJ DISTRIBUCIÓN
 
 * Internet
 

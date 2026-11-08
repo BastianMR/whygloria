@@ -1,21 +1,22 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 12 (2020)
-description: SUBBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACION | SUBBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACION | CIRCULAR NÂº 12 |
+---
+type: "SII Circular"
+title: "Circular N° 12 (2020)"
+description: "SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION | SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION | CIRCULAR Nº 12 |"
 tags: [SII, 2020, circular]
 ---
 
-| **SUBBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACION** | **SUBBDIRECCIÃ“N EMISORA SUBDIRECCIÃ“N DE FISCALIZACION** | **CIRCULAR NÂº 12** |
+
+| **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **CIRCULAR Nº 12** |
 | --- | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 24 FEBERO 2020 |
-| MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020 DEJA SIN EFECTO CIRCULAR NÂ° 9, | MATERIA: TABLA DE CÃLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020 DEJA SIN EFECTO CIRCULAR NÂ° 9, | REFERENCIA: Arts. 53 y 97 NÂºs. 2 y 11 D.L NÂ° 830, de 1974, sobre CÃ³digo Tributario |
-| USO DE CIRCULARES: | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteraciÃ³n instrucciones e instrucciones permanentes de carÃ¡cter urgente. Estas Ãºltimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
+| MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020 DEJA SIN EFECTO CIRCULAR N° 9, | MATERIA: TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020 DEJA SIN EFECTO CIRCULAR N° 9, | REFERENCIA: Arts. 53 y 97 Nºs. 2 y 11 D.L N° 830, de 1974, sobre Código Tributario |
+| USO DE CIRCULARES: | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. | Para instrucciones transitorias, reiteración instrucciones e instrucciones permanentes de carácter urgente. Estas últimas deben incorporarse al Manual del Servicio de Impuestos Internos. |
 
-Debido a que el INE rectificÃ³ el IPC General de Enero de 2020, variando el Ãndice de 104,32 a un Ãndice de 104,24, debiendo ajustarse las variaciones del IPC a este nuevo Ãndice, resulta necesario por una parte dejar sin efecto la Circular NÂ° 9, de 12 de Febrero de 2020; y, por otro lado emitir la presente Circular, la que tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de CÃ¡lculos para la aplicaciÃ³n del reajuste, interÃ©s y multa de los Arts. 53 y 97 NÂºs. 2 y 11 del CÃ³digo Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de MARZO DE 2020.
+Debido a que el INE rectificó el IPC General de Enero de 2020, variando el Índice de 104,32 a un Índice de 104,24, debiendo ajustarse las variaciones del IPC a este nuevo Índice, resulta necesario por una parte dejar sin efecto la Circular N° 9, de 12 de Febrero de 2020; y, por otro lado emitir la presente Circular, la que tiene por objeto poner en conocimiento de las Unidades del Servicio, la Tabla de Cálculos para la aplicación del reajuste, interés y multa de los Arts. 53 y 97 Nºs. 2 y 11 del Código Tributario, a impuestos adeudados a liquidarse y pagarse en el mes de MARZO DE 2020.
 
-|  | **Mes de** | **% Reajuste Art. 53 Inc. 1Â°** | **% InterÃ˜s Art. 53 Inc. 3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa** | **% Multa** | **IPC (INE) Base Anual** | **U.T.M.** |
+|  | **Mes de** | **% Reajuste Art. 53 Inc. 1°** | **% InterØs Art. 53 Inc. 3°** | **% Multa Art. 97 N°2** | **% Multa** | **% Multa** | **IPC (INE) Base Anual** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Vcto. | % Reajuste Art. 53 Inc. 1Â° | % InterÃ˜s Art. 53 Inc. 3Â° | % Multa Art. 97 NÂ°2 | Inc. 1Â° Art. | Inc. 2Â° 97 NÂ°11 | 2018=100 | U.T.M. |
+|  | Vcto. | % Reajuste Art. 53 Inc. 1° | % InterØs Art. 53 Inc. 3° | % Multa Art. 97 N°2 | Inc. 1° Art. | Inc. 2° 97 N°11 | 2018=100 | U.T.M. |
 | 2014 | ENE | 22,6 | 112,5 | 30 | 30 | 60 | 85,6700 | 40.935 |
 |  | FEB | 21,9 | 111,0 | 30 | 30 | 60 | 86,0900 | 41.181 |
 |  | MAR | 21,7 | 109,5 | 30 | 30 | 60 | 86,8100 | 41.263 |
@@ -53,9 +54,9 @@ Debido a que el INE rectificÃ³ el IPC General de Enero de 2020, variando el Ã
 |  | NOV | 8,7 | 61,5 | 30 | 30 | 60 | 96,1400 | 46.091 |
 |  | DIC | 8,5 | 60,0 | 30 | 30 | 60 | 95,9400 | 46.183 |
 
-|  |  | **% Reajuste** | **% InterÃ˜s Art. 53 Inc. 3Â°** | **% Multa Art. 97 NÂ°2** | **% Multa** | **% Multa** | **IPC (INE)** | **U.T.M.** |
+|  |  | **% Reajuste** | **% InterØs Art. 53 Inc. 3°** | **% Multa Art. 97 N°2** | **% Multa** | **% Multa** | **IPC (INE)** | **U.T.M.** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mes de Vcto. | Art. 53 Inc. 1Â° |  |  | Inc. 1Â° Art. | Inc. 2Â° 97 NÂ°11 | Base Anual 2018=100 |  |
+|  | Mes de Vcto. | Art. 53 Inc. 1° |  |  | Inc. 1° Art. | Inc. 2° 97 N°11 | Base Anual 2018=100 |  |
 | 2017 | ENE | 8,4 | 58,5 | 30 | 30 | 60 | 96,4600 | 46.229 |
 |  | FEB | 8,7 | 57,0 | 30 | 30 | 60 | 96,6900 | 46.137 |
 |  | MAR | 8,1 | 55,5 | 30 | 30 | 60 | 97,0600 | 46.368 |
@@ -100,16 +101,16 @@ Debido a que el INE rectificÃ³ el IPC General de Enero de 2020, variando el Ã
 
 1. Reajuste Art.72 de la Ley de Impuesto a la Renta.
 
-## AÃ‘O 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 %: 0,7 1,7 0,0 0,6 1,4 1,3 0,7 2,1 0,6 1,1 1,0 0,9 0,5
+## AÑO 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 %: 0,7 1,7 0,0 0,6 1,4 1,3 0,7 2,1 0,6 1,1 1,0 0,9 0,5
 
-1. En las columnas 'InterÃ©s' y 'Multas', para impuestos con fecha de vencimiento al Ãºltimo dÃ­a del mes, debe aplicarse el porcentaje de interÃ©s y multa correspondiente al mes siguiente.
-2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variaciÃ³n experimentada por el I.P.C. entregada por el I.N.E. en su publicaciÃ³n oficial y cuyos porcentajes se han determinado mediante la nueva metodologÃ­a de cÃ¡lculo del IPC, establecida en el Decreto Supremo NÂ° 322, del Ministerio de EconomÃ­a, Fomento y ReconstrucciÃ³n, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular NÂ° 18, de 2010, del SII.
+1. En las columnas 'Interés' y 'Multas', para impuestos con fecha de vencimiento al último día del mes, debe aplicarse el porcentaje de interés y multa correspondiente al mes siguiente.
+2. El reajuste a que se refiere el Art. 53, publicado en la presente Circular, corresponde a la cifra de variación experimentada por el I.P.C. entregada por el I.N.E. en su publicación oficial y cuyos porcentajes se han determinado mediante la nueva metodología de cálculo del IPC, establecida en el Decreto Supremo N° 322, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 29 de enero de 2010 y contenida en la Circular N° 18, de 2010, del SII.
 
-Se hace presente que a contar del Ãndice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
+Se hace presente que a contar del Índice de Enero de 2019 rige el IPC, base anual 2018=100, y, en consecuencia, en la columna 'IPC (INE) Base Anual 2018=100', se muestra la serie empalmada del IPC con dicha base, publicada por el INE.
 
 Saluda a Uds.,
 
-## CSM/CGG/RCJ DISTRIBUCIÃ“N
+## CSM/CGG/RCJ DISTRIBUCIÓN
 
 ## Internet
 

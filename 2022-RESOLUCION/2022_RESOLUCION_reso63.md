@@ -1,40 +1,41 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 150 (2022)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
+---
+type: "SII Resolución"
+title: "Resolución N° 150 (2022)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
 
-AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÃ“N DE CONTABILIDAD ELECTRÃ“NICA A LOS CONTRIBUYENTES QUE SEÃ‘ALA.
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
+
+AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA.
 
 SANTIAGO,
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_\_\_\_\_\_\_\_\_/
+RESOLUCIÓN EXENTA SII N° \_\_\_\_\_\_\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el artÃ­culo 6Â°, Letra A), NÂ° 1 y artÃ­culo 17 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; y en la ResoluciÃ³n Exenta NÂ° 150, de 29.12.2005, en que se establecen normas y procedimientos de operaciÃ³n de la Contabilidad ElectrÃ³nica, modificada por la ResoluciÃ³n Exenta NÂ° 86, del 07.09.2017; y la ResoluciÃ³n Exenta NÂ° 126, de 30.12.2014 delegatoria; y
+VISTOS: Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017; y la Resolución Exenta N° 126, de 30.12.2014 delegatoria; y
 
 ## CONSIDERANDO:
 
-1Â° Que, en la ResoluciÃ³n. Ex. SII NÂ° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+1° Que, en la Resolución. Ex. SII N° 126, del 30.12.2014, se ha delegado en el Subdirector de Asistencia al Contribuyente, la facultad de autorizar a los contribuyentes para proceder de acuerdo al modelo de operación de Contabilidad Electrónica.
 
-2Â° Que, analizados los casos de los contribuyentes que se seÃ±alan en los resolutivos primero y segundo de la presente ResoluciÃ³n, se determinÃ³ que, cumplen con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. SII NÂ° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica.
+2° Que, analizados los casos de los contribuyentes que se señalan en los resolutivos primero y segundo de la presente Resolución, se determinó que, cumplen con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. SII N° 86, del 07.09.2017 y han efectuado las pruebas requeridas, para acogerse al modelo de operación de Contabilidad Electrónica.
 
-3Â° Que, por su parte, los contribuyentes listados en el Resolutivo segundo cumplen asimismo con los requisitos establecidos en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. SII NÂ° 86, del 07.09.2017 y, declaran contar con CÃ³digos de AutorizaciÃ³n de Libros (en adelante CAL) para los Libros Contables ElectrÃ³nicos, esto Ãºltimo a travÃ©s del endoso a efectuar por un contribuyente autorizado.
+3° Que, por su parte, los contribuyentes listados en el Resolutivo segundo cumplen asimismo con los requisitos establecidos en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. SII N° 86, del 07.09.2017 y, declaran contar con Códigos de Autorización de Libros (en adelante CAL) para los Libros Contables Electrónicos, esto último a través del endoso a efectuar por un contribuyente autorizado.
 
 ## SE RESUELVE:
 
-1Â° AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y NÂ° de RUT:
+1° AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, utilizando CAL propio, a los siguientes contribuyentes que se individualizan, con su nombre y N° de RUT:
 
 | **BSK INSUMOS INDUSTRIALES S.A.** | **76319530-9** |
 | --- | --- |
 | DISTRIBUIDORA VARGAS LTDA. | 77565520-8 |
 | SANULAC NUTRICION CHILE SPA. | 76989028-9 |
 
-Se otorgarÃ¡ a los contribuyentes RUT 76319530-9 y 76989028-9, CÃ³digos de AutorizaciÃ³n de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrÃ¡n ser endosados a otros contribuyentes que utilicen el software distribuido.
+Se otorgará a los contribuyentes RUT 76319530-9 y 76989028-9, Códigos de Autorización de Libros (CAL) tipo 3, para los libros Diario, Mayor y Balance, los que podrán ser endosados a otros contribuyentes que utilicen el software distribuido.
 
-2Â° AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de ACEPTA COM S.A., RUT NÂ° 96.919.050-8, a los siguientes contribuyentes que se indican, con su nombre y NÂ° de RUT:
+2° AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de ACEPTA COM S.A., RUT N° 96.919.050-8, a los siguientes contribuyentes que se indican, con su nombre y N° de RUT:
 
 COSMETICA NACIONAL S.A. LOS ANDES TARJETAS DE PREPAGO S.A. SOCIEDAD DE CREDITOS AUTOMOTRICES S.A. VITAMINA HOLDING SPA.
 
@@ -46,29 +47,29 @@ COSMETICA NACIONAL S.A. LOS ANDES TARJETAS DE PREPAGO S.A. SOCIEDAD DE CREDITOS 
 
 77032437-8
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de ENTERNET S.A., RUT 76407930-2, al siguiente contribuyente que se indica, con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de ENTERNET S.A., RUT 76407930-2, al siguiente contribuyente que se indica, con su nombre y N° de RUT:
 
 ASESORIAS Y VALORES EUROAMERICA LTDA. 77385110-7 EUROAMERICA INVERSIONES E INMOBILIARIA S.A. 96772990-6 EUROAMERICA S.A. 78793450-1 EUROAMERICA SEGUROS DE VIDA S.A. 99279000-8 INMOBILIARIA COSTANERA ARICA S.A. 76524304-1 INMOBILIARIA COSTANERA SAN ANTONIO S.A. 76477106-0 INMOBILIARIA E INVERSIONES RENTAS QUILIN SPA. 76509835-1 INMOBILIARIA FASTER S.A. 76009174-K INMOBILIARIA Y RENTAS APOQUINDO SAN PASCUAL SPA. 77139351-9
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT NÂ° 77.870.460-9, al siguiente contribuyente que se indica, con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de SOC. BCN CONSULTORES CIA. LTDA., RUT N° 77.870.460-9, al siguiente contribuyente que se indica, con su nombre y N° de RUT:
 
 BEIT GROUP S.A. 79552690-0 SYNTHESIA TECHNOLOGY SPA. 76321554-7
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de ONVISION S.A., RUT NÂ° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de ONVISION S.A., RUT N° 76.372.100-0, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
 
-ADDVAL AUDITORES SPA. 76607177-5 ADDVAL CONNECT SPA. 77432883-1 AGENCIA COLUMBUS CHILE SPA. 76534144-2 AGRICOLA EL CARMEN DE NAICURA LTDA. 78230520-4 AGRICOLA LAGO MAIHUE LTDA. 86167800-8 AGRICOLA LAS RIENDAS LTDA. 76216925-8 AGRICOLA PILAY LTDA. 76110342-3 AGRICOLA SAN FRANCISCO DE HUELQUEN LTDA. 78230530-1 ALTIPLANO METALS CHILE SPA. 77252974-0 ALTIPLANO MINERALS CHILE SPA. 76746368-5 ANDES METALS SPA. 77270394-5 ARRENDAMIENTO MERCANTIL S.A. 76086707-1 ASESORIA Y CONSULTORIA INTEGRAL S.A. 99593410-8 ASESORIAS E INVERSIONES LA HERRADURA SPA. 99598340-0 AUTOFIN FP SPA. 76899617-2 AUTOFIN S.A. 76139506-8 BANDESARROLLO SOCIEDAD DE LEASING INMOBILIARIO S.A. 96611310-3 CENTRO DE RECUPERACION Y COBRANZA LTDA. 76351260-6 COMET EXPLORATION CHILE SPA. 76131306-1 CUENCA DEL MAIPO SERVICIOS DE SALUD S.A. 96986720-6 EXPORTADORA TOPFRUT NUTS LTDA. 76043437-K FIN-AUTO SPA. 76738771-7 FINTESA SECURITIZADORA S.A. 79558200-2 INFRA TEC SPA. 76866188-K INMOBILIARIA AKAROA S.A. 96990730-5 INMOBILIARIA DON JUAN LTDA. 76218674-8 NOVA SCOTIA INVERSIONES LTDA. 78024770-3 OPERADORA DE SERVICIOS MEDICOS MAITENES S.A. 96971940-1 PICTON ADMINISTRADORA GENERAL DE FONDOS S.A. 76202136-6 PICTON ASESORIAS SPA. 77038421-4 PICTON PERU SPA. 77023358-5 PICTON S.A. 76185894-7 PICTON ADMINISTRADORA DE ACTIVOS S.A. 76186822-5 ISR SPA. 76211277-9 SAGE PARTS CHILE SPA. 76282857-K SCOTIA ADMINISTRADORA GENERAL DE FONDOS S.A. 96634320-6 SCOTIA INMOBILIARIA E INVERSIONES S.A. 99552560-7 SCOTIA AZUL SOCIEDAD DE LEASING INMOBILIARIO S.A. 96805850-9 SCOTIA CORREDORA DE SEGUROS CHILE LTDA. 78745730-4 SCOTIA CORREDORA DE BOLSA CHILE LTDA. 96535720-3 SCOTIA SERVICIOS CORPORATIVOS SPA. 76545870-6 SCOTIA ASESORIAS FINANCIERAS LTDA. 96526410-8 SCOTIABANK CHILE 97018000-1 SERVAC SPA. 96594400-1 SERVICIOS DE IMAGENES MEDICAS S.A. 76208567-4 SERVICIOS REGIONALES TECNOLOGÃA SCOTIABANK LTDA. 97919000-K SOC CLINICA MAITENES LTDA. 77878170-0 SOCIEDAD CONCESIONARIA RUTA DEL ELQUI S.A. 77102042-9 SOCIEDAD DE IMÃGENES MEDICAS TALAGANTE S.A. 76397208-9
+ADDVAL AUDITORES SPA. 76607177-5 ADDVAL CONNECT SPA. 77432883-1 AGENCIA COLUMBUS CHILE SPA. 76534144-2 AGRICOLA EL CARMEN DE NAICURA LTDA. 78230520-4 AGRICOLA LAGO MAIHUE LTDA. 86167800-8 AGRICOLA LAS RIENDAS LTDA. 76216925-8 AGRICOLA PILAY LTDA. 76110342-3 AGRICOLA SAN FRANCISCO DE HUELQUEN LTDA. 78230530-1 ALTIPLANO METALS CHILE SPA. 77252974-0 ALTIPLANO MINERALS CHILE SPA. 76746368-5 ANDES METALS SPA. 77270394-5 ARRENDAMIENTO MERCANTIL S.A. 76086707-1 ASESORIA Y CONSULTORIA INTEGRAL S.A. 99593410-8 ASESORIAS E INVERSIONES LA HERRADURA SPA. 99598340-0 AUTOFIN FP SPA. 76899617-2 AUTOFIN S.A. 76139506-8 BANDESARROLLO SOCIEDAD DE LEASING INMOBILIARIO S.A. 96611310-3 CENTRO DE RECUPERACION Y COBRANZA LTDA. 76351260-6 COMET EXPLORATION CHILE SPA. 76131306-1 CUENCA DEL MAIPO SERVICIOS DE SALUD S.A. 96986720-6 EXPORTADORA TOPFRUT NUTS LTDA. 76043437-K FIN-AUTO SPA. 76738771-7 FINTESA SECURITIZADORA S.A. 79558200-2 INFRA TEC SPA. 76866188-K INMOBILIARIA AKAROA S.A. 96990730-5 INMOBILIARIA DON JUAN LTDA. 76218674-8 NOVA SCOTIA INVERSIONES LTDA. 78024770-3 OPERADORA DE SERVICIOS MEDICOS MAITENES S.A. 96971940-1 PICTON ADMINISTRADORA GENERAL DE FONDOS S.A. 76202136-6 PICTON ASESORIAS SPA. 77038421-4 PICTON PERU SPA. 77023358-5 PICTON S.A. 76185894-7 PICTON ADMINISTRADORA DE ACTIVOS S.A. 76186822-5 ISR SPA. 76211277-9 SAGE PARTS CHILE SPA. 76282857-K SCOTIA ADMINISTRADORA GENERAL DE FONDOS S.A. 96634320-6 SCOTIA INMOBILIARIA E INVERSIONES S.A. 99552560-7 SCOTIA AZUL SOCIEDAD DE LEASING INMOBILIARIO S.A. 96805850-9 SCOTIA CORREDORA DE SEGUROS CHILE LTDA. 78745730-4 SCOTIA CORREDORA DE BOLSA CHILE LTDA. 96535720-3 SCOTIA SERVICIOS CORPORATIVOS SPA. 76545870-6 SCOTIA ASESORIAS FINANCIERAS LTDA. 96526410-8 SCOTIABANK CHILE 97018000-1 SERVAC SPA. 96594400-1 SERVICIOS DE IMAGENES MEDICAS S.A. 76208567-4 SERVICIOS REGIONALES TECNOLOGÍA SCOTIABANK LTDA. 97919000-K SOC CLINICA MAITENES LTDA. 77878170-0 SOCIEDAD CONCESIONARIA RUTA DEL ELQUI S.A. 77102042-9 SOCIEDAD DE IMÁGENES MEDICAS TALAGANTE S.A. 76397208-9
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de GDE S.A., RUT NÂ° 76.129.486-5, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de GDE S.A., RUT N° 76.129.486-5, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
 
 DISTRIBUIDORA ARQUETIPO LTDA.
 
 78036990-6
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT NÂ° 78.079.790-8, a los siguientes contribuyentes que se seÃ±alan con su nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de DBNET INGENIERIA DE SOFTWARE S.A., RUT N° 78.079.790-8, a los siguientes contribuyentes que se señalan con su nombre y N° de RUT:
 
 INMOBILIARIA BIARRITZ S.A. 76487420-K RENTAS PAINE GRANDE SPA. 76425358-2 SOUTHERN CROSS SEAFOODS S.A. 76130862-9 VERTICE TOUR OPERADOR SPA. 76539078-8
 
-AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, a partir del aÃ±o 2022, a travÃ©s del endoso de BLUELINE TECHNOLOGY SPA, RUT NÂ° 76156362-9, a los siguientes contribuyentes que se indican, con nombre y NÂ° de RUT:
+AUTORÍZASE a proceder conforme al modelo de operación de Contabilidad Electrónica, a partir del año 2022, a través del endoso de BLUELINE TECHNOLOGY SPA, RUT N° 76156362-9, a los siguientes contribuyentes que se indican, con nombre y N° de RUT:
 
 | **ACENOR ACEROS DEL NORTE S.A.** | **77660960-9** |
 | --- | --- |
@@ -92,9 +93,9 @@ AUTORÃZASE a proceder conforme al modelo de operaciÃ³n de Contabilidad Elec
 | TRANSPORTES CODIGUA SPA. | 76072221-9 |
 | TRUCK CENTER SPA. | 77104650-9 |
 
-3Â° Los contribuyentes autorizados deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 150, de 2005, modificada por la ResoluciÃ³n Ex. SII NÂ° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operaciÃ³n de Contabilidad ElectrÃ³nica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de aÃ±os anteriores al aÃ±o 2022, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida ResoluciÃ³n Ex. SII NÂ° 150 y su modificaciÃ³n.
+3° Los contribuyentes autorizados deberán cumplir lo establecido en la Resolución Ex. SII N° 150, de 2005, modificada por la Resolución Ex. SII N° 86, del 07.09.2017, y con aquellas condiciones que se establecieren en el futuro en el modelo de operación de Contabilidad Electrónica, pudiendo dichos contribuyentes, almacenar con fines tributarios, los libros contables de años anteriores al año 2022, en el formato digital establecido por el Servicio, conforme a lo establecido en el resolutivo segundo de la referida Resolución Ex. SII N° 150 y su modificación.
 
-ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
+ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET.
 
 <unknown>
 
@@ -104,11 +105,11 @@ ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN INTERNET.
 
 ## RGV/CAB/OBA/MBU
 
-## DistribuciÃ³n:
+## Distribución:
 
-* SubdirecciÃ³n de Asistencia al Contribuyente
+* Subdirección de Asistencia al Contribuyente
 * Departamento Ciclo de Vida
-* Ãrea Documentos Tributarios ElectrÃ³nicos
+* Área Documentos Tributarios Electrónicos
 * Internet
 * Oficina de Partes
 * Archivo

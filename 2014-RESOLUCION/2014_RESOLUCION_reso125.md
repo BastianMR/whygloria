@@ -1,78 +1,79 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 109 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS DIRECCIÃ“N DE GRANDES CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 109 (2014)"
+description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÃ“N DE GRANDES CONTRIBUYENTES
+
+## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES
 
 ## MATERIA:
 
-FIJA NÃ“MINA DE GRANDES CONTRIBUYENTES
+FIJA NÓMINA DE GRANDES CONTRIBUYENTES
 
 SANTIAGO, 30 de diciembre de 2014.-
 
 'Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ°\_125.-\_\_\_\_/
+RESOLUCIÓN EX. SII N°\_125.-\_\_\_\_/
 
 ## VISTOS:
 
-Lo dispuesto en las leyes NÂº 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado, y NÂ° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la AdministraciÃ³n PÃºblica; los Arts. 2Â°, 3 bis, 7Â° letras a), b), c), Ã±) y 9Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. NÂº 7, de Hacienda, de 1980; lo establecido en el Art. 6Â° letra A, NÂº 1 del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; lo dispuesto en el Art. 6Â° de la Ley NÂ° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; lo dispuesto en el NÂ° 1 del Art. 9Â° de la Ley NÂ° 20.455, publicada en el Diario Oficial con fecha 31.07.2010; y
+Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración Pública; los Arts. 2°, 3 bis, 7° letras a), b), c), ñ) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. Nº 7, de Hacienda, de 1980; lo establecido en el Art. 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; lo dispuesto en el Art. 6° de la Ley N° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; lo dispuesto en el N° 1 del Art. 9° de la Ley N° 20.455, publicada en el Diario Oficial con fecha 31.07.2010; y
 
 ## CONSIDERANDO:
 
-1Â° Que, la Ley NÂ° 20.431 por medio de su artÃ­culo 6Â° y la Ley NÂ° 20.455 mediante el NÂ° 1 de su artÃ­culo 9Â°, introdujeron una serie de modificaciones en el Decreto con Fuerza de Ley NÂ° 7, de 1980, del Ministerio de Hacienda, Ley OrgÃ¡nica del Servicio de Impuestos Internos.
+1° Que, la Ley N° 20.431 por medio de su artículo 6° y la Ley N° 20.455 mediante el N° 1 de su artículo 9°, introdujeron una serie de modificaciones en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos.
 
-2Â° Que, el artÃ­culo 2Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos precitada establece que el Servicio estÃ¡ constituido por la DirecciÃ³n Nacional, y su DirecciÃ³n de Grandes Contribuyentes, ambas con sede en la capital de la RepÃºblica, y por las Direcciones Regionales.
+2° Que, el artículo 2° de la Ley Orgánica del Servicio de Impuestos Internos precitada establece que el Servicio está constituido por la Dirección Nacional, y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
 
-3Â° Que, para efectos de cumplir con lo dispuesto en el seÃ±alado artÃ­culo 3Â° bis, mediante ResoluciÃ³n Exenta NÂ° 109, de fecha 27 de diciembre de 2013, se fijÃ³ la nÃ³mina de "Grandes Contribuyentes", sobre la base de los criterios de selecciÃ³n que allÃ­ se indicaron.
+3° Que, para efectos de cumplir con lo dispuesto en el señalado artículo 3° bis, mediante Resolución Exenta N° 109, de fecha 27 de diciembre de 2013, se fijó la nómina de "Grandes Contribuyentes", sobre la base de los criterios de selección que allí se indicaron.
 
-4Â° Que, en consideraciÃ³n al constante interÃ©s de este Servicio tiene en mejorar tanto la calidad asÃ­ como la eficiencia de todos los procesos de fiscalizaciÃ³n y en atenciÃ³n al dinamismo con que suceden los acontecimientos en la vida econÃ³mica, se hace necesario complementar y actualizar tanto los criterios por los cuales se incorpora a los contribuyentes en la NÃ³mina de Grandes Contribuyentes, como asimismo la nÃ³mina fijada, en lo referente a los contribuyentes en ella contenidos, para asÃ­ verificar si cumplen con uno o varios de los parÃ¡metros definidos para ser calificados como 'Grandes Contribuyentes', cualquiera fuere su domicilio.
+4° Que, en consideración al constante interés de este Servicio tiene en mejorar tanto la calidad así como la eficiencia de todos los procesos de fiscalización y en atención al dinamismo con que suceden los acontecimientos en la vida económica, se hace necesario complementar y actualizar tanto los criterios por los cuales se incorpora a los contribuyentes en la Nómina de Grandes Contribuyentes, como asimismo la nómina fijada, en lo referente a los contribuyentes en ella contenidos, para así verificar si cumplen con uno o varios de los parámetros definidos para ser calificados como 'Grandes Contribuyentes', cualquiera fuere su domicilio.
 
-5Â° Que, este Servicio tiene por misiÃ³n fiscalizar y proveer servicios, orientados a la correcta aplicaciÃ³n de los impuestos internos - de manera eficiente, equitativa y transparente - a fin de disminuir la evasiÃ³n y de maximizar y facilitar el cumplimiento tributario.
+5° Que, este Servicio tiene por misión fiscalizar y proveer servicios, orientados a la correcta aplicación de los impuestos internos - de manera eficiente, equitativa y transparente - a fin de disminuir la evasión y de maximizar y facilitar el cumplimiento tributario.
 
-6Â° Que, con el mÃ©rito de las razones expresadas precedentemente,
+6° Que, con el mérito de las razones expresadas precedentemente,
 
 ## RESUELVO:
 
-1Â° FÃ­jese para los efectos seÃ±alados en el artÃ­culo 3 bis de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, la nÃ³mina de contribuyentes que se califican como "Grandes Contribuyentes", y sobre los cuales ejerce jurisdicciÃ³n la DirecciÃ³n de Grandes Contribuyentes, cualquiera sea su domicilio, la cual se contiene en el Anexo 'A' adjunto, que forma parte integrante de esta resoluciÃ³n.
+1° Fíjese para los efectos señalados en el artículo 3 bis de la Ley Orgánica del Servicio de Impuestos Internos, la nómina de contribuyentes que se califican como "Grandes Contribuyentes", y sobre los cuales ejerce jurisdicción la Dirección de Grandes Contribuyentes, cualquiera sea su domicilio, la cual se contiene en el Anexo 'A' adjunto, que forma parte integrante de esta resolución.
 
-2Â° La calificaciÃ³n como 'Grandes Contribuyentes' se ha definido sobre la base del cumplimiento de al menos uno de los criterios generales que a continuaciÃ³n se indican:
+2° La calificación como 'Grandes Contribuyentes' se ha definido sobre la base del cumplimiento de al menos uno de los criterios generales que a continuación se indican:
 
-* a) Tener ingresos o ventas anuales iguales o superiores a 90.000 UTA, en todos y cada uno de los tres Ãºltimos aÃ±os comerciales.
-* b) Poseer un Capital Propio Tributario, en los tÃ©rminos seÃ±alados en el NÂ° 1 del Art. 41 de la Ley sobre Impuesto a la Renta, igual o superior a 110.000 UTA en todos y cada uno de los Ãºltimos tres aÃ±os tributarios.
-* c) Tratarse de contribuyentes que sean propietarios, en forma directa o indirecta, de un 20 % o mÃ¡s del capital de otras empresas o que mantengan una relaciÃ³n patrimonial, de control o de administraciÃ³n, directa o indirecta, o mantengan interÃ©s econÃ³mico, con contribuyentes que cumplan con alguno de los criterios de las letras a) o b) precedentes.
-* d) Estar sometidos a la fiscalizaciÃ³n de la Superintendencia de Bancos e Instituciones Financieras; la Superintendencia de Valores y Seguros; la Superintendencia de Salud y/o la Superintendencia de Pensiones, y que en cualquiera de los Ãºltimos tres aÃ±os comerciales, hayan tenido ingresos de su giro, iguales o superiores a 5.000 UTA.
-* e) Haber declarado exportaciones por un monto promedio anual igual o superior a 25.000 UTA, en cada uno de los Ãºltimos tres aÃ±os comerciales.
-* f) Tratarse de contribuyentes pertenecientes a la Gran MinerÃ­a.
+* a) Tener ingresos o ventas anuales iguales o superiores a 90.000 UTA, en todos y cada uno de los tres últimos años comerciales.
+* b) Poseer un Capital Propio Tributario, en los términos señalados en el N° 1 del Art. 41 de la Ley sobre Impuesto a la Renta, igual o superior a 110.000 UTA en todos y cada uno de los últimos tres años tributarios.
+* c) Tratarse de contribuyentes que sean propietarios, en forma directa o indirecta, de un 20 % o más del capital de otras empresas o que mantengan una relación patrimonial, de control o de administración, directa o indirecta, o mantengan interés económico, con contribuyentes que cumplan con alguno de los criterios de las letras a) o b) precedentes.
+* d) Estar sometidos a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras; la Superintendencia de Valores y Seguros; la Superintendencia de Salud y/o la Superintendencia de Pensiones, y que en cualquiera de los últimos tres años comerciales, hayan tenido ingresos de su giro, iguales o superiores a 5.000 UTA.
+* e) Haber declarado exportaciones por un monto promedio anual igual o superior a 25.000 UTA, en cada uno de los últimos tres años comerciales.
+* f) Tratarse de contribuyentes pertenecientes a la Gran Minería.
 * g) Tratarse de contribuyentes que desarrollen la actividad bancaria.
-* h) Tratarse de Sociedades Plataforma de InversiÃ³n, entendiÃ©ndose por tales aquellos contribuyentes que se encuentren inscritos en el registro de Sociedades AnÃ³nimas acogidas al Art. 41 D de la Ley sobre Impuesto a la Renta a que se refiere la ResoluciÃ³n Ex. SII NÂº 44, de fecha 22 de agosto de 2003.
-* i) Tratarse de contribuyentes que, por disposiciÃ³n legal, se encuentren sometidos a la fiscalizaciÃ³n de la Superintendencia de Casinos de Juego, creada por la Ley NÂ° 19.995 de 2005, o que desarrollen la actividad de casinos de juego.
-* j) Tratarse de contribuyentes que, de acuerdo a lo instruido por la Superintendencia de Valores y Seguros, forman parte de Grupos Empresariales, segÃºn lo dispuesto en el TÃ­tulo XV de la Ley NÂ° 18.045 de Mercado de Valores, sin perjuicio de lo dispuesto en el Resolutivo siguiente.
+* h) Tratarse de Sociedades Plataforma de Inversión, entendiéndose por tales aquellos contribuyentes que se encuentren inscritos en el registro de Sociedades Anónimas acogidas al Art. 41 D de la Ley sobre Impuesto a la Renta a que se refiere la Resolución Ex. SII Nº 44, de fecha 22 de agosto de 2003.
+* i) Tratarse de contribuyentes que, por disposición legal, se encuentren sometidos a la fiscalización de la Superintendencia de Casinos de Juego, creada por la Ley N° 19.995 de 2005, o que desarrollen la actividad de casinos de juego.
+* j) Tratarse de contribuyentes que, de acuerdo a lo instruido por la Superintendencia de Valores y Seguros, forman parte de Grupos Empresariales, según lo dispuesto en el Título XV de la Ley N° 18.045 de Mercado de Valores, sin perjuicio de lo dispuesto en el Resolutivo siguiente.
 
-3Â° Por razones de buen servicio, el Director podrÃ¡ calificar como 'Grandes Contribuyentes' a quienes no cumplan con los requisitos antes mencionados; asimismo, podrÃ¡ no calificar como tales a contribuyentes que cumplan con uno o mÃ¡s de aquellos requisitos y, finalmente, podrÃ¡ dejar de calificar a contribuyentes aun cuando cumplan con alguno de estos requisitos, teniendo a la vista para estos efectos informe del Subdirector de FiscalizaciÃ³n.
+3° Por razones de buen servicio, el Director podrá calificar como 'Grandes Contribuyentes' a quienes no cumplan con los requisitos antes mencionados; asimismo, podrá no calificar como tales a contribuyentes que cumplan con uno o más de aquellos requisitos y, finalmente, podrá dejar de calificar a contribuyentes aun cuando cumplan con alguno de estos requisitos, teniendo a la vista para estos efectos informe del Subdirector de Fiscalización.
 
-Con todo, los contribuyentes calificados como 'Grandes Contribuyentes' y que estÃ¡n mencionados en el 'Anexo A' adjunto, podrÃ¡n ser excluidos de esta nÃ³mina por el Director, previa solicitud fundada presentada en la DirecciÃ³n de Grandes Contribuyentes de este Servicio. Del mismo modo, previa presentaciÃ³n debidamente fundamentada ante la DirecciÃ³n de Grandes Contribuyentes, quienes no hayan sido calificados como 'Grandes Contribuyentes' por el Servicio, podrÃ¡n solicitar dicha calificaciÃ³n e inclusiÃ³n en la nÃ³mina seÃ±alada en el resolutivo NÂ° 1 de esta resoluciÃ³n. En ambos casos, se notificarÃ¡ la decisiÃ³n del Director, al requirente, la que se adoptarÃ¡ considerando el informe que sobre esta materia emita el Subdirector de FiscalizaciÃ³n.
+Con todo, los contribuyentes calificados como 'Grandes Contribuyentes' y que están mencionados en el 'Anexo A' adjunto, podrán ser excluidos de esta nómina por el Director, previa solicitud fundada presentada en la Dirección de Grandes Contribuyentes de este Servicio. Del mismo modo, previa presentación debidamente fundamentada ante la Dirección de Grandes Contribuyentes, quienes no hayan sido calificados como 'Grandes Contribuyentes' por el Servicio, podrán solicitar dicha calificación e inclusión en la nómina señalada en el resolutivo N° 1 de esta resolución. En ambos casos, se notificará la decisión del Director, al requirente, la que se adoptará considerando el informe que sobre esta materia emita el Subdirector de Fiscalización.
 
-4Â° Si alguno de los contribuyentes calificados como 'Grandes Contribuyentes', e incluidos en la NÃ³mina contenida en el 'Anexo A' adjunto, es objeto de transformaciones, modificaciones, fusiones, absorciones, divisiones o cambios tanto en la propiedad de los derechos sobre el establecimiento mercantil o industrial, propiedad accionaria o modificaciones de cualquier Ã­ndole en su organizaciÃ³n jurÃ­dica o corporativa, las personas jurÃ­dicas o establecimientos individuales en que se transformen, se creen o les sucedan, podrÃ¡n ser calificados e incorporados en la NÃ³mina de Grandes Contribuyentes, desde la notificaciÃ³n de la resoluciÃ³n que, para ese efecto, dicte el Director, la que se adoptarÃ¡ considerando el informe que sobre esta materia emita el Subdirector de FiscalizaciÃ³n. Lo anterior, sin perjuicio del aviso que los contribuyentes deban presentar conforme lo establecido en el inciso 5Â° del Art. 68 del CÃ³digo Tributario.
+4° Si alguno de los contribuyentes calificados como 'Grandes Contribuyentes', e incluidos en la Nómina contenida en el 'Anexo A' adjunto, es objeto de transformaciones, modificaciones, fusiones, absorciones, divisiones o cambios tanto en la propiedad de los derechos sobre el establecimiento mercantil o industrial, propiedad accionaria o modificaciones de cualquier índole en su organización jurídica o corporativa, las personas jurídicas o establecimientos individuales en que se transformen, se creen o les sucedan, podrán ser calificados e incorporados en la Nómina de Grandes Contribuyentes, desde la notificación de la resolución que, para ese efecto, dicte el Director, la que se adoptará considerando el informe que sobre esta materia emita el Subdirector de Fiscalización. Lo anterior, sin perjuicio del aviso que los contribuyentes deban presentar conforme lo establecido en el inciso 5° del Art. 68 del Código Tributario.
 
-5Â° La presente ResoluciÃ³n regirÃ¡ a contar del 29 de diciembre de 2014 y, consecuentemente se ceÃ±irÃ¡n a ella las actuaciones de fiscalizaciÃ³n que se inicien a contar de esa fecha. Las Direcciones Regionales que, a la fecha de entrada en vigencia de esta ResoluciÃ³n, hayan asumido la fiscalizaciÃ³n directa o el conocimiento de solicitudes o peticiones administrativas, de algunos de los contribuyentes calificados como 'Grandes Contribuyentes' e incorporados en la NÃ³mina fijada en el dispositivo 1Â° precedente, deberÃ¡n continuar con los trÃ¡mites y diligencias propias de dicha fiscalizaciÃ³n o solicitud hasta su debido tÃ©rmino, informando de ello a la DirecciÃ³n de Grandes Contribuyentes.
+5° La presente Resolución regirá a contar del 29 de diciembre de 2014 y, consecuentemente se ceñirán a ella las actuaciones de fiscalización que se inicien a contar de esa fecha. Las Direcciones Regionales que, a la fecha de entrada en vigencia de esta Resolución, hayan asumido la fiscalización directa o el conocimiento de solicitudes o peticiones administrativas, de algunos de los contribuyentes calificados como 'Grandes Contribuyentes' e incorporados en la Nómina fijada en el dispositivo 1° precedente, deberán continuar con los trámites y diligencias propias de dicha fiscalización o solicitud hasta su debido término, informando de ello a la Dirección de Grandes Contribuyentes.
 
-6Â° Sin perjuicio de lo anterior, la fiscalizaciÃ³n y/o tramitaciÃ³n de solicitudes administrativas presentadas por aquellos sujetos que, a la fecha de entrada en vigencia de esta resoluciÃ³n, hubiese sido iniciada o instruida, segÃºn el caso, por la DirecciÃ³n de Grandes Contribuyentes, continuarÃ¡ bajo jurisdicciÃ³n de Ã©sta, hasta su debido tÃ©rmino, no obstante que el sujeto no haya sido calificado como tal. Igual instrucciÃ³n regirÃ¡, tratÃ¡ndose de contribuyentes que, formando parte de la nÃ³mina que establece la citada resoluciÃ³n, se encuentren sometidos a actuaciones de fiscalizaciÃ³n o de resoluciÃ³n de solicitudes administrativas y pierdan la calificaciÃ³n de Grandes Contribuyentes.
+6° Sin perjuicio de lo anterior, la fiscalización y/o tramitación de solicitudes administrativas presentadas por aquellos sujetos que, a la fecha de entrada en vigencia de esta resolución, hubiese sido iniciada o instruida, según el caso, por la Dirección de Grandes Contribuyentes, continuará bajo jurisdicción de ésta, hasta su debido término, no obstante que el sujeto no haya sido calificado como tal. Igual instrucción regirá, tratándose de contribuyentes que, formando parte de la nómina que establece la citada resolución, se encuentren sometidos a actuaciones de fiscalización o de resolución de solicitudes administrativas y pierdan la calificación de Grandes Contribuyentes.
 
-7Â° La DirecciÃ³n de Grandes Contribuyentes podrÃ¡ iniciar la fiscalizaciÃ³n, en forma puntual, de personas o empresas que mantengan, de manera directa o indirecta, una relaciÃ³n comercial, patrimonial o un interÃ©s econÃ³mico con contribuyentes que hayan sido calificados como 'Grandes Contribuyentes'. Esta fiscalizaciÃ³n deberÃ¡ contar con la autorizaciÃ³n previa de la SubdirecciÃ³n de FiscalizaciÃ³n y deberÃ¡ ser informada a la DirecciÃ³n Regional correspondiente.
+7° La Dirección de Grandes Contribuyentes podrá iniciar la fiscalización, en forma puntual, de personas o empresas que mantengan, de manera directa o indirecta, una relación comercial, patrimonial o un interés económico con contribuyentes que hayan sido calificados como 'Grandes Contribuyentes'. Esta fiscalización deberá contar con la autorización previa de la Subdirección de Fiscalización y deberá ser informada a la Dirección Regional correspondiente.
 
-Sin perjuicio de lo anterior, el Subdirector de FiscalizaciÃ³n tambiÃ©n podrÃ¡ disponer que uno o mÃ¡s contribuyentes a que se refiere el pÃ¡rrafo precedente, sean objeto de fiscalizaciÃ³n por parte de la DirecciÃ³n de Grandes Contribuyentes.
+Sin perjuicio de lo anterior, el Subdirector de Fiscalización también podrá disponer que uno o más contribuyentes a que se refiere el párrafo precedente, sean objeto de fiscalización por parte de la Dirección de Grandes Contribuyentes.
 
-8Â° A partir de la fecha indicada en el dispositivo quinto, dÃ©jese sin efecto la ResoluciÃ³n SII Ex. NÂ° 109 de 27 de diciembre de 2013, y las demÃ¡s resoluciones complementarias de la nÃ³mina fijada por Ã©sta. Para dichos fines, cualquier menciÃ³n o alusiÃ³n a la ResoluciÃ³n Ex. SII NÂ° 109 antes citada, contenida en resoluciones o instrucciones vigentes, se entenderÃ¡ referida a la presente resoluciÃ³n.
+8° A partir de la fecha indicada en el dispositivo quinto, déjese sin efecto la Resolución SII Ex. N° 109 de 27 de diciembre de 2013, y las demás resoluciones complementarias de la nómina fijada por ésta. Para dichos fines, cualquier mención o alusión a la Resolución Ex. SII N° 109 antes citada, contenida en resoluciones o instrucciones vigentes, se entenderá referida a la presente resolución.
 
-9Â° InclÃºyase ademÃ¡s como parte integrante de esta ResoluciÃ³n, el 'Anexo B' que individualiza a aquellos contribuyentes que han dejado de pertenecer a la NÃ³mina de acuerdo a los parÃ¡metros indicados en resolutivo NÂ°2.
+9° Inclúyase además como parte integrante de esta Resolución, el 'Anexo B' que individualiza a aquellos contribuyentes que han dejado de pertenecer a la Nómina de acuerdo a los parámetros indicados en resolutivo N°2.
 
-10Â° PublÃ­quese en el sitio Web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), un enlace dentro del menÃº Oficinas del SII, nÃ³mina de 'Grandes Contribuyentes', mediante el cual los contribuyentes puedan acceder a la nÃ³mina actualizada de contribuyentes calificados como tal.
+10° Publíquese en el sitio Web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)), un enlace dentro del menú Oficinas del SII, nómina de 'Grandes Contribuyentes', mediante el cual los contribuyentes puedan acceder a la nómina actualizada de contribuyentes calificados como tal.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 (FDO.) MICHEL JORRATT DE LUIS DIRECTOR (T y P)
 
@@ -82,12 +83,12 @@ Lo que transcribo para su conocimiento y fines pertinentes.'
 
 * Anexos:
 
-'A' NÃ³mina de Grandes Contribuyentes
+'A' Nómina de Grandes Contribuyentes
 
-'B' NÃ³mina de Contribuyentes que dejan de pertenecer a la NÃ³mina
+'B' Nómina de Contribuyentes que dejan de pertenecer a la Nómina
 
-## DistribuciÃ³n:
+## Distribución:
 
 * Internet
-* BoletÃ­n
+* Boletín
 * Diario Oficial en extracto

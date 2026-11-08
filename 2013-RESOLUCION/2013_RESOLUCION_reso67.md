@@ -1,58 +1,59 @@
-﻿---
-type: SII ResoluciÃ³n
-title: 2013_RESOLUCION_reso67.md
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE FISCALIZACIÃ“N INTERNACIONAL
+---
+type: "SII Resolución"
+title: "2013_RESOLUCION_reso67"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE FISCALIZACIÃ“N INTERNACIONAL
 
-ESTABLECE PROCEDIMIENTO DE PRESENTACIÃ“N Y TRAMITACIÃ“N DE LAS SOLICITUDES DE RECTIFICACIÃ“N CONFORME AL NÂ°8 DEL ART. 41 E DE LA LEY SOBRE IMPUESTO A LA RENTA.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL
+
+ESTABLECE PROCEDIMIENTO DE PRESENTACIÓN Y TRAMITACIÓN DE LAS SOLICITUDES DE RECTIFICACIÓN CONFORME AL N°8 DEL ART. 41 E DE LA LEY SOBRE IMPUESTO A LA RENTA.
 
 ## SANTIAGO, 21 de junio de 2013.-
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N SII EX. NÂ° \_\_67.-\_\_\_\_\_\_\_\_/
+## RESOLUCIÓN SII EX. N° \_\_67.-\_\_\_\_\_\_\_\_/
 
 ## VISTOS:
 
-Lo dispuesto en los artÃ­culos 6Â°, letra A) NÂ° 1, y 60Â° del CÃ³digo Tributario, contenido en artÃ­culo 1Â°, del Decreto Ley NÂº 830, de 1974; lo establecido en los artÃ­culos 1Â° y 7Â°, de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â°, del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; y lo establecido en el artÃ­culo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824, de 1974; y
+Lo dispuesto en los artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº 830, de 1974; lo establecido en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; y lo establecido en el artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824, de 1974; y
 
 ## CONSIDERANDO:
 
-1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la Ley a una autoridad diferente.
+1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la Ley a una autoridad diferente.
 
-2Â° Que, el NÂ° 8 del artÃ­culo 41 E de la Ley sobre Impuesto a la Renta establece que los contribuyentes podrÃ¡n, previa autorizaciÃ³n del Servicio tanto respecto de la naturaleza como del monto del ajuste, rectificar el precio, valor o rentabilidad de las operaciones llevadas a cabo con partes relacionadas en los tÃ©rminos del NÂ° 1 del citado artÃ­culo, sobre la base de los ajustes de precios de transferencia que hayan efectuado otros Estados con los cuales se encuentre vigente un Convenio para evitar la doble tributaciÃ³n internacional que no prohÃ­ba dicho ajuste, y respecto de los cuales no se hayan deducido, ni se encuentren pendientes, los plazos establecidos para deducir recursos o acciones judiciales o administrativas. Agrega, dicha norma, que la solicitud de rectificaciÃ³n debe ser presentada en la forma que fije el Servicio mediante resoluciÃ³n, acompaÃ±ada de todos los documentos en que se funde, incluyendo copia del instrumento que de cuenta del ajuste practicado por el otro Estado, y dentro del plazo de 5 aÃ±os contados desde la expiraciÃ³n del plazo legal en que se debiÃ³ declarar en el paÃ­s los resultados provenientes de las operaciones cuyos precios, valores o rentabilidades se pretenda rectificar.
+2° Que, el N° 8 del artículo 41 E de la Ley sobre Impuesto a la Renta establece que los contribuyentes podrán, previa autorización del Servicio tanto respecto de la naturaleza como del monto del ajuste, rectificar el precio, valor o rentabilidad de las operaciones llevadas a cabo con partes relacionadas en los términos del N° 1 del citado artículo, sobre la base de los ajustes de precios de transferencia que hayan efectuado otros Estados con los cuales se encuentre vigente un Convenio para evitar la doble tributación internacional que no prohíba dicho ajuste, y respecto de los cuales no se hayan deducido, ni se encuentren pendientes, los plazos establecidos para deducir recursos o acciones judiciales o administrativas. Agrega, dicha norma, que la solicitud de rectificación debe ser presentada en la forma que fije el Servicio mediante resolución, acompañada de todos los documentos en que se funde, incluyendo copia del instrumento que de cuenta del ajuste practicado por el otro Estado, y dentro del plazo de 5 años contados desde la expiración del plazo legal en que se debió declarar en el país los resultados provenientes de las operaciones cuyos precios, valores o rentabilidades se pretenda rectificar.
 
-3Â° Que, corresponde a este Servicio fijar, mediante resoluciÃ³n, la forma de presentaciÃ³n y la tramitaciÃ³n de las solicitudes de rectificaciÃ³n de precio, valor o rentabilidad de las operaciones a que alude la norma citada precedentemente.
+3° Que, corresponde a este Servicio fijar, mediante resolución, la forma de presentación y la tramitación de las solicitudes de rectificación de precio, valor o rentabilidad de las operaciones a que alude la norma citada precedentemente.
 
 ## SE RESUELVE:
 
-1Â° La solicitud de rectificaciÃ³n de un precio, valor o rentabilidad de operaciones llevadas a cabo con partes relacionadas, sobre la base de un ajuste de precios de transferencia aplicado en el extranjero, para los efectos de lo dispuesto en el NÂ° 8 del artÃ­culo 41 E de la Ley sobre Impuesto a la Renta, deberÃ¡ ser presentada por escrito, en la oficina de partes de la DirecciÃ³n Nacional de este Servicio y dirigida al Departamento de FiscalizaciÃ³n Internacional dependiente de la SubdirecciÃ³n de FiscalizaciÃ³n.
+1° La solicitud de rectificación de un precio, valor o rentabilidad de operaciones llevadas a cabo con partes relacionadas, sobre la base de un ajuste de precios de transferencia aplicado en el extranjero, para los efectos de lo dispuesto en el N° 8 del artículo 41 E de la Ley sobre Impuesto a la Renta, deberá ser presentada por escrito, en la oficina de partes de la Dirección Nacional de este Servicio y dirigida al Departamento de Fiscalización Internacional dependiente de la Subdirección de Fiscalización.
 
-2Â° La solicitud deberÃ¡ ser acompaÃ±ada de todos los documentos en que se funde la procedencia de la rectificaciÃ³n de los precios, valores o rentabilidades de las operaciones a que se refiere el resolutivo anterior, incluyendo copia del instrumento que de cuenta del ajuste practicado por otro Estado, a manera de ejemplo, informes de fiscalizaciÃ³n de la respectiva administraciÃ³n tributaria extranjera, liquidaciones de impuestos u otros documentos oficiales mediante los cuales se determinen las obligaciones tributarias de dichos contribuyentes, respuestas o reclamos del contribuyente al proceso de determinaciÃ³n de la obligaciÃ³n tributaria realizada por la AdministraciÃ³n Tributaria competente, pronunciamientos administrativos o judiciales sobre el caso especÃ­fico en el extranjero, etc.
+2° La solicitud deberá ser acompañada de todos los documentos en que se funde la procedencia de la rectificación de los precios, valores o rentabilidades de las operaciones a que se refiere el resolutivo anterior, incluyendo copia del instrumento que de cuenta del ajuste practicado por otro Estado, a manera de ejemplo, informes de fiscalización de la respectiva administración tributaria extranjera, liquidaciones de impuestos u otros documentos oficiales mediante los cuales se determinen las obligaciones tributarias de dichos contribuyentes, respuestas o reclamos del contribuyente al proceso de determinación de la obligación tributaria realizada por la Administración Tributaria competente, pronunciamientos administrativos o judiciales sobre el caso específico en el extranjero, etc.
 
-Sin perjuicio de lo anterior, el Servicio podrÃ¡ requerir al peticionario, en cualquier momento, si asÃ­ lo estimare necesario, cualquier otro documento, traducciÃ³n o antecedente acerca de las entidades y operaciones a que se refiere su solicitud.
+Sin perjuicio de lo anterior, el Servicio podrá requerir al peticionario, en cualquier momento, si así lo estimare necesario, cualquier otro documento, traducción o antecedente acerca de las entidades y operaciones a que se refiere su solicitud.
 
-3Â° La solicitud deberÃ¡ ser presentada dentro del plazo de 5 aÃ±os contados desde la expiraciÃ³n del plazo legal en que se debiÃ³ declarar en el paÃ­s los resultados provenientes de las operaciones cuyos precios, valores o rentabilidades se pretenda rectificar. En caso que sea presentada extemporÃ¡neamente, el Servicio denegarÃ¡ dicha solicitud, sin mÃ¡s trÃ¡mite, mediante resoluciÃ³n fundada, que se notificarÃ¡ conforme a las reglas generales.
+3° La solicitud deberá ser presentada dentro del plazo de 5 años contados desde la expiración del plazo legal en que se debió declarar en el país los resultados provenientes de las operaciones cuyos precios, valores o rentabilidades se pretenda rectificar. En caso que sea presentada extemporáneamente, el Servicio denegará dicha solicitud, sin más trámite, mediante resolución fundada, que se notificará conforme a las reglas generales.
 
-4Â° En el caso de estimarse procedente, el Servicio dictarÃ¡ una resoluciÃ³n en la que se establecerÃ¡ el monto del ajuste o rectificaciÃ³n de los precios, valores o rentabilidades de las operaciones que deba ser aceptado, la cual se notificarÃ¡ conforme a las reglas generales. En caso contrario, el Servicio dictarÃ¡ la correspondiente resoluciÃ³n denegando, fundadamente, la respectiva solicitud.
+4° En el caso de estimarse procedente, el Servicio dictará una resolución en la que se establecerá el monto del ajuste o rectificación de los precios, valores o rentabilidades de las operaciones que deba ser aceptado, la cual se notificará conforme a las reglas generales. En caso contrario, el Servicio dictará la correspondiente resolución denegando, fundadamente, la respectiva solicitud.
 
-5Â° Cuando el contribuyente solicite que se inicie un procedimiento de acuerdo mutuo, con el fin de proceder al ajuste correspondiente, de acuerdo a la disposiciÃ³n pertinente de un Convenio para Evitar la Doble TributaciÃ³n Internacional, el Servicio analizarÃ¡ el mÃ©rito y pertinencia de la solicitud. En caso de estimarse pertinente, el Servicio comunicarÃ¡ tal situaciÃ³n al solicitante y procederÃ¡ a contactarse con las autoridades competentes del otro Estado contratante a fin de iniciar el procedimiento de acuerdo mutuo.
+5° Cuando el contribuyente solicite que se inicie un procedimiento de acuerdo mutuo, con el fin de proceder al ajuste correspondiente, de acuerdo a la disposición pertinente de un Convenio para Evitar la Doble Tributación Internacional, el Servicio analizará el mérito y pertinencia de la solicitud. En caso de estimarse pertinente, el Servicio comunicará tal situación al solicitante y procederá a contactarse con las autoridades competentes del otro Estado contratante a fin de iniciar el procedimiento de acuerdo mutuo.
 
-6Â° Cuando con motivo del ajuste resultare una diferencia de impuestos a favor del contribuyente, y para los efectos de su devoluciÃ³n, el contribuyente deberÃ¡ presentar una solicitud de devoluciÃ³n directamente en la DirecciÃ³n Regional o Unidad de su domicilio, la cual deberÃ¡ ser acompaÃ±ada de la resoluciÃ³n que autorice el ajuste de precios referida en el resolutivo 4Â°.
+6° Cuando con motivo del ajuste resultare una diferencia de impuestos a favor del contribuyente, y para los efectos de su devolución, el contribuyente deberá presentar una solicitud de devolución directamente en la Dirección Regional o Unidad de su domicilio, la cual deberá ser acompañada de la resolución que autorice el ajuste de precios referida en el resolutivo 4°.
 
-7Â° La presente ResoluciÃ³n entrarÃ¡ en vigencia a partir de su publicaciÃ³n, en extracto, en el Diario Oficial.
+7° La presente Resolución entrará en vigencia a partir de su publicación, en extracto, en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (FDO.) JULIO PEREIRA GANDARILLAS DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## DistribuciÃ³n:
+## Distribución:
 
-* BoletÃ­n
+* Boletín
 * Internet
 * Diario Oficial en extracto

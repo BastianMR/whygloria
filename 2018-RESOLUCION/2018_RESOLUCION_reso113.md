@@ -1,47 +1,48 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 42 (2018)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 42 (2018)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-SUSPENDE CALIDAD DE AGENTE RETENEDOR A ENEL CHILE S.A., CONFORME A RESOLUCIÃ“N EX. SII NÂ° 42 DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+SUSPENDE CALIDAD DE AGENTE RETENEDOR A ENEL CHILE S.A., CONFORME A RESOLUCIÓN EX. SII N° 42 DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA.
 
 SANTIAGO, 13 DE NOVIEMBRE 2018
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCION EX. SII NÂ° 113.-/
+RESOLUCION EX. SII N° 113.-/
 
 ## VISTOS:
 
-1. Lo dispuesto en el NÂ° 5, letra B), del artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; lo dispuesto en el artÃ­culo 9Â° y siguientes del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; el artÃ­culo 3Â° y el TÃ­tulo IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. NÂ° 825, de 1974; el TÃ­tulo XIII del D.S. NÂ° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. NÂ° 825, de 1974; la ResoluciÃ³n Ex. SII NÂ° 42 de 30.04.2018 y la ResoluciÃ³n Ex. SII NÂ° 54 de 29.06.2018.
-2. La presentaciÃ³n efectuada en Formulario 2117, por Enel Chile S.A. , RUT NÂ° 76.536.353-5, mediante la cual solicita que se le prorrogue o extienda el plazo para la implementaciÃ³n del cambio de sujeto establecido en la ResoluciÃ³n Ex. SII NÂ° 42, de 30.04.2018 y la ResoluciÃ³n Ex. SII NÂ° 54, de 29.06.2018.
+1. Lo dispuesto en el N° 5, letra B), del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; lo dispuesto en el artículo 9° y siguientes del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L. N° 825, de 1974; el Título XIII del D.S. N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L. N° 825, de 1974; la Resolución Ex. SII N° 42 de 30.04.2018 y la Resolución Ex. SII N° 54 de 29.06.2018.
+2. La presentación efectuada en Formulario 2117, por Enel Chile S.A. , RUT N° 76.536.353-5, mediante la cual solicita que se le prorrogue o extienda el plazo para la implementación del cambio de sujeto establecido en la Resolución Ex. SII N° 42, de 30.04.2018 y la Resolución Ex. SII N° 54, de 29.06.2018.
 
 ## CONSIDERANDO:
 
-1. Que, mediante ResoluciÃ³n Ex. SII NÂ° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableciÃ³ el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturaciÃ³n electrÃ³nica, redefiniÃ©ndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retenciÃ³n.
-2. Que, el Resolutivo 3. de la resoluciÃ³n antes citada, creÃ³ los registros denominados 'NÃ³mina de Agentes Retenedores' y 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarÃ¡n afectas al cambio de sujeto.
-3. Que, de conformidad con lo dispuesto en el Resolutivo 4Â° de la ResoluciÃ³n Ex. SII NÂ° 42, se emitiÃ³ la ResoluciÃ³n Ex. SII NÂ° 54 con fecha 29.06.2018, mediante la cual se fijaron las nÃ³minas de agentes retenedores y de contribuyentes sujetos a retenciÃ³n.
-4. Que, las nÃ³minas fijadas por la ResoluciÃ³n Ex. SII NÂ° 54, comenzaron a regir a contar del dÃ­a 1 de agosto de 2018, hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre del presente aÃ±o.
-5. Que, el contribuyente solicitante, en conocimiento de encontrarse incluidos en la 'NÃ³mina de Agentes Retenedores' y, obligado por tanto como agente retenedor a emitir facturas de compra a los contribuyentes que se encuentran en las nÃ³minas de contribuyentes sujetos a retenciÃ³n y de difÃ­cil fiscalizaciÃ³n, requiere se le prorrogue o amplÃ­e el plazo para iniciar las retenciones de IVA a los contribuyentes retenidos en ambas nÃ³minas ya mencionadas. Lo anterior, en razÃ³n de dificultades tÃ©cnicas que no han permitido ajustar y sincronizar todos sus sistemas informÃ¡ticos internos, para que funcionen adecuadamente al momento de emitir una factura de compra.
+1. Que, mediante Resolución Ex. SII N° 42, de 30 de abril de 2018, este Servicio en uso de sus facultades, estableció el cambio de sujeto total de derecho para el cumplimiento de IVA, en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturación electrónica, redefiniéndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retención.
+2. Que, el Resolutivo 3. de la resolución antes citada, creó los registros denominados 'Nómina de Agentes Retenedores' y 'Nómina de Contribuyentes Sujetos a Retención'. El primero, corresponde al listado de contribuyentes obligados a actuar como agentes retenedores, mientras que, el segundo, corresponde al listado de contribuyentes cuyas operaciones gravadas con IVA, estarán afectas al cambio de sujeto.
+3. Que, de conformidad con lo dispuesto en el Resolutivo 4° de la Resolución Ex. SII N° 42, se emitió la Resolución Ex. SII N° 54 con fecha 29.06.2018, mediante la cual se fijaron las nóminas de agentes retenedores y de contribuyentes sujetos a retención.
+4. Que, las nóminas fijadas por la Resolución Ex. SII N° 54, comenzaron a regir a contar del día 1 de agosto de 2018, hasta el último día hábil del mes de diciembre del presente año.
+5. Que, el contribuyente solicitante, en conocimiento de encontrarse incluidos en la 'Nómina de Agentes Retenedores' y, obligado por tanto como agente retenedor a emitir facturas de compra a los contribuyentes que se encuentran en las nóminas de contribuyentes sujetos a retención y de difícil fiscalización, requiere se le prorrogue o amplíe el plazo para iniciar las retenciones de IVA a los contribuyentes retenidos en ambas nóminas ya mencionadas. Lo anterior, en razón de dificultades técnicas que no han permitido ajustar y sincronizar todos sus sistemas informáticos internos, para que funcionen adecuadamente al momento de emitir una factura de compra.
 
-Lo anterior, le imposibilita realizar las retenciones a que estÃ¡n obligados desde el 1 de agosto del presente aÃ±o, como lo instruyeron las resoluciones ya individualizadas.
+Lo anterior, le imposibilita realizar las retenciones a que están obligados desde el 1 de agosto del presente año, como lo instruyeron las resoluciones ya individualizadas.
 
-1. Que, este Servicio, tiene por misiÃ³n procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitaciÃ³n del cumplimiento.
+1. Que, este Servicio, tiene por misión procurar que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitación del cumplimiento.
 
 ## SE RESUELVE:
 
-SUSPÃ‰NDASE la calidad de agente retenedor, conforme a lo dispuesto por la ResoluciÃ³n Ex. SII NÂ° 42 de 30.04.2018 y ResoluciÃ³n Ex. SII NÂ° 54 de 29.06.2018, para ENEL CHILE S.A., RUT NÂ° 76.536.353-5, durando la suspensiÃ³n hasta el Ãºltimo dÃ­a hÃ¡bil del mes de diciembre de 2018, excepcionalmente y por Ãºnica vez, considerando los ajustes que deben realizar en sus sistemas contables conforme a lo expuesto.
+SUSPÉNDASE la calidad de agente retenedor, conforme a lo dispuesto por la Resolución Ex. SII N° 42 de 30.04.2018 y Resolución Ex. SII N° 54 de 29.06.2018, para ENEL CHILE S.A., RUT N° 76.536.353-5, durando la suspensión hasta el último día hábil del mes de diciembre de 2018, excepcionalmente y por única vez, considerando los ajustes que deben realizar en sus sistemas contables conforme a lo expuesto.
 
-## ANÃ“TESE, COMUNÃQUESE Y NOTIFÃQUESE
+## ANÓTESE, COMUNÍQUESE Y NOTIFÍQUESE
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud. para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud. para su conocimiento y demás fines.
 
-VVM / CGG / GMV / LVB DistribuciÃ³n: -Contribuyente -SubdirecciÃ³n de FiscalizaciÃ³n Dpto. de AnÃ¡lisis Masivo del Cumplimiento Tributario Ãrea de Riesgos de Devoluciones y Gastos
+VVM / CGG / GMV / LVB Distribución: -Contribuyente -Subdirección de Fiscalización Dpto. de Análisis Masivo del Cumplimiento Tributario Área de Riesgos de Devoluciones y Gastos
 
 -Internet

@@ -1,156 +1,157 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 110 (2022)
-description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE219587
+---
+type: "SII Resolución"
+title: "Resolución N° 110 (2022)"
+description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE219587"
 tags: [SII, 2022, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y ESTUDIOS TRIBUTARIOS GE219587
 
-Aprueba Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la DirecciÃ³n General de Concesiones y el Servicio de Impuestos Internos.
+## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE219587
+
+Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos.
 
 SANTIAGO, 25 DE NOVIEMBRE DE 2022
 
-RESOLUCIÃ“N EX. SII NÂ° 110.-
+RESOLUCIÓN EX. SII N° 110.-
 
 VISTOS:
 
-Lo dispuesto en los artÃ­culos 1Â° y letra Ã±) del 7Â°, ambos de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; la Ley NÂ°18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; la Ley NÂ° 20.285, sobre Acceso a la InformaciÃ³n PÃºblica; la Ley NÂ° 21.044 y el artÃ­culo 35 del CÃ³digo Tributario
+Lo dispuesto en los artículos 1° y letra ñ) del 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley N° 19.628, sobre Protección de la Vida Privada; la Ley N° 20.285, sobre Acceso a la Información Pública; la Ley N° 21.044 y el artículo 35 del Código Tributario
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente. Adicionalmente, la letra o) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, otorga al Director la atribuciÃ³n de ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente. Adicionalmente, la letra o) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, otorga al Director la atribución de ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio.
 
-1. Que, a su vez, a dicha DirecciÃ³n le corresponde la ejecuciÃ³n, reparaciÃ³n, mantenciÃ³n, conservaciÃ³n y explotaciÃ³n de obras pÃºblicas fiscales, conforme al artÃ­culo 87, y la provisiÃ³n de equipamiento o la prestaciÃ³n de servicios asociados conforme a lo establecido en el decreto supremo NÂ°900, de 1996, del Ministerio de Obras PÃºblicas, como tambiÃ©n la fiscalizaciÃ³n del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesiÃ³n, sin perjuicio de las demÃ¡s funciones que le encomienden las leyes
+1. Que, a su vez, a dicha Dirección le corresponde la ejecución, reparación, mantención, conservación y explotación de obras públicas fiscales, conforme al artículo 87, y la provisión de equipamiento o la prestación de servicios asociados conforme a lo establecido en el decreto supremo N°900, de 1996, del Ministerio de Obras Públicas, como también la fiscalización del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesión, sin perjuicio de las demás funciones que le encomienden las leyes
 
-3.- Que, en virtud de lo anterior, y del principio de competencia consagrado en el artÃ­culo 20 de la Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada, el Servicio de Impuestos Internos y la DirecciÃ³n General de Concesiones de Obras pÃºblicas han acordado suscribir un Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n firmado con fecha 31 de agosto de 2022, destinado al intercambio de informaciÃ³n entre ambos para ser utilizada dentro del marco de sus competencias, y al desarrollo de actividades de coordinaciÃ³n institucional y colaboraciÃ³n recÃ­proca en Ã¡reas de interÃ©s comÃºn que tengan relaciÃ³n con intercambio de informaciÃ³n, a fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente en las funciones que sus respectivas normas orgÃ¡nicas les han asignado.
+3.- Que, en virtud de lo anterior, y del principio de competencia consagrado en el artículo 20 de la Ley N° 19.628, sobre Protección de la Vida Privada, el Servicio de Impuestos Internos y la Dirección General de Concesiones de Obras públicas han acordado suscribir un Convenio de Intercambio de Información y Colaboración firmado con fecha 31 de agosto de 2022, destinado al intercambio de información entre ambos para ser utilizada dentro del marco de sus competencias, y al desarrollo de actividades de coordinación institucional y colaboración recíproca en áreas de interés común que tengan relación con intercambio de información, a fin de contribuir al logro de una gestión más eficiente en las funciones que sus respectivas normas orgánicas les han asignado.
 
 ## RESUELVO:
 
-ApruÃ©base Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la DirecciÃ³n General de Concesiones y el Servicio de Impuestos Internos, celebrado el 31 de agosto de 2022, cuyo texto es el siguiente:
+Apruébase Convenio de Intercambio de Información y Colaboración entre la Dirección General de Concesiones y el Servicio de Impuestos Internos, celebrado el 31 de agosto de 2022, cuyo texto es el siguiente:
 
-## ' CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE LA DIRECCIÃ“N GENERAL DE CONCESIONES Y EL SERVICIO DE IMPUESTOS INTERNOS
+## ' CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE LA DIRECCIÓN GENERAL DE CONCESIONES Y EL SERVICIO DE IMPUESTOS INTERNOS
 
-En Santiago, a 31 de agosto de 2022, entre el Servicio de Impuestos Internos, RUT 60.803.000-K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don HernÃ¡n Frigolett CÃ³rdova, cÃ©dula de identidad NÂ° 6.367.513-7, ambos con domicilio en Teatinos NÂ° 120, Santiago y la DirecciÃ³n General de Concesiones, RUT 61-202.0000 en adelante indistintamente denominado 'la DIRECCIÃ“N', representado por su Director General (s), don Luis Felipe Elton Sanfuentes, cÃ©dula de identidad NÂ° 13.441.447-2, ambos con domicilio en calle Merced NÂ°753, Piso 7, comuna de Santiago, se ha convenido lo siguiente:
+En Santiago, a 31 de agosto de 2022, entre el Servicio de Impuestos Internos, RUT 60.803.000-K, en adelante indistintamente denominado 'SERVICIO', representado por su Director, don Hernán Frigolett Córdova, cédula de identidad N° 6.367.513-7, ambos con domicilio en Teatinos N° 120, Santiago y la Dirección General de Concesiones, RUT 61-202.0000 en adelante indistintamente denominado 'la DIRECCIÓN', representado por su Director General (s), don Luis Felipe Elton Sanfuentes, cédula de identidad N° 13.441.447-2, ambos con domicilio en calle Merced N°753, Piso 7, comuna de Santiago, se ha convenido lo siguiente:
 
-| **PRIMERO:** | **En virtud de lo dispuesto en el artÃ­culo NÂ°2 de la Ley NÂ° 21.044 de 2017 que crea la DirecciÃ³n General de Concesiones de Obras PÃºblicas, le corresponderÃ¡ a Ã©sta la ejecuciÃ³n, reparaciÃ³n, mantenciÃ³n, conservaciÃ³n y explotaciÃ³n de obras pÃºblicas fiscales conforme al artÃ­culo 87, y la provisiÃ³n de equipamiento o la prestaciÃ³n de servicios asociados conforme a lo establecido en el decreto supremo NÂ° 900, de 1996, del Ministerio de Obras PÃºblicas, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley NÂ° 164, de 1991, del Ministerio de Obras PÃºblicas, Ley de Concesiones de Obras PÃºblicas, como tambiÃ©n la fiscalizaciÃ³n del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesiÃ³n, sin perjuicio de las demÃ¡s funciones que le encomienden las leyes.** |
+| **PRIMERO:** | **En virtud de lo dispuesto en el artículo N°2 de la Ley N° 21.044 de 2017 que crea la Dirección General de Concesiones de Obras Públicas, le corresponderá a ésta la ejecución, reparación, mantención, conservación y explotación de obras públicas fiscales conforme al artículo 87, y la provisión de equipamiento o la prestación de servicios asociados conforme a lo establecido en el decreto supremo N° 900, de 1996, del Ministerio de Obras Públicas, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 164, de 1991, del Ministerio de Obras Públicas, Ley de Concesiones de Obras Públicas, como también la fiscalización del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesión, sin perjuicio de las demás funciones que le encomienden las leyes.** |
 | --- | --- |
-| SEGUNDO: | De acuerdo al artÃ­culo 1Â° de su Ley OrgÃ¡nica, contenida en el Decreto con Fuerza de Ley NÂ°7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente. En razÃ³n de dicho objeto, obtiene y procesa informaciÃ³n de los contribuyentes. |
-| TERCERO: | En razÃ³n de lo anterior, considerando el principio de coordinaciÃ³n consagrado en el artÃ­culo 5Â° de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; lo dispuesto en los artÃ­culos 4 al 16 y 20 de la Ley NÂ° 19.628, sobre protecciÃ³n de la vida privada, que establecen un marco al procesamiento de la informaciÃ³n; la DIRECCIÃ“N y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de informaciÃ³n para ser utilizada dentro del marco de sus competencias. Esto Ãºltimo con el fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han encargado. |
-| CUARTO: | La DIRECCIÃ“N y el SERVICIO, sin perjuicio de los procedimientos ya vigentes, para efectos de cumplir con el intercambio de informaciÃ³n previsto en este convenio, se conectarÃ¡n ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la informaciÃ³n a ser traspasada entre las partes se especifica en los anexos, que se entienden parte integrante del presente convenio. |
-|  | Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intenciÃ³n de nuevos intercambios de informaciÃ³n, se adjuntarÃ¡ a travÃ©s de un nuevo anexo, que se entenderÃ¡ parte integrante de este convenio, previo anÃ¡lisis y pronunciamiento de las Ã¡reas pertinentes a la materia a intercambiar, y las Ã¡reas jurÃ­dicas de ambas instituciones. |
-|  | El intercambio de informaciÃ³n y el otorgamiento de servicios objeto de este Convenio, no serÃ¡ remunerado. |
+| SEGUNDO: | De acuerdo al artículo 1° de su Ley Orgánica, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de fecha 30 de septiembre de 1980, al SERVICIO, le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente. En razón de dicho objeto, obtiene y procesa información de los contribuyentes. |
+| TERCERO: | En razón de lo anterior, considerando el principio de coordinación consagrado en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en los artículos 4 al 16 y 20 de la Ley N° 19.628, sobre protección de la vida privada, que establecen un marco al procesamiento de la información; la DIRECCIÓN y el SERVICIO acuerdan suscribir el presente convenio destinado al intercambio de información para ser utilizada dentro del marco de sus competencias. Esto último con el fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han encargado. |
+| CUARTO: | La DIRECCIÓN y el SERVICIO, sin perjuicio de los procedimientos ya vigentes, para efectos de cumplir con el intercambio de información previsto en este convenio, se conectarán ya sea utilizando las redes internet y/o intranet del Estado, o alguna otra forma que acuerden ambas partes. El detalle de la información a ser traspasada entre las partes se especifica en los anexos, que se entienden parte integrante del presente convenio. |
+|  | Sin perjuicio de lo anterior, cualquier desarrollo futuro que se requiera incorporar con intención de nuevos intercambios de información, se adjuntará a través de un nuevo anexo, que se entenderá parte integrante de este convenio, previo análisis y pronunciamiento de las áreas pertinentes a la materia a intercambiar, y las áreas jurídicas de ambas instituciones. |
+|  | El intercambio de información y el otorgamiento de servicios objeto de este Convenio, no será remunerado. |
 
-| **QUINTO:** | **Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designarÃ¡ un Coordinador.** |
+| **QUINTO:** | **Con el objeto de velar por el fiel cumplimiento del presente Convenio, cada una de las partes designará un Coordinador.** |
 | --- | --- |
-|  | El SERVICIO designa como coordinador, para estos efectos, al jefe del Departamento de Estudios EconÃ³micos y Tributarios dependiente de la SubdirecciÃ³n de GestiÃ³n EstratÃ©gica y Estudios Tributarios. |
-|  | La DIRECCIÃ“N designa como coordinador, para estos efectos, al jefe de Departamento de Presupuesto y Control Tributario; y en materias vinculadas al registro denominado Rol de AvalÃºo y a la gestiÃ³n de terrenos en general, al jefe del Departamento de Expropiaciones. |
-|  | En el evento de modificarse la designaciÃ³n, se deberÃ¡ comunicar tal situaciÃ³n formalmente, mediante oficio, al jefe superior de la otra instituciÃ³n. |
-| SEXTO: | Ambas partes se obligan a utilizar la informaciÃ³n proporcionada por el otro, sÃ³lo para los fines propios de cada instituciÃ³n, autorizados por el presente convenio, para lo que deberÃ¡n mantener la confidencialidad correspondiente, en el marco de sus competencias legales, quedando prohibido un uso distinto al seÃ±alado. Asimismo, se obliga a limitar la divulgaciÃ³n de la informaciÃ³n, materia de este convenio, sÃ³lo a aquellos funcionarios que estrictamente tengan la obligaciÃ³n de conocerla, evitando el acceso a terceros no autorizados. |
-|  | Las partes deberÃ¡n instruir por escrito, de acuerdo con sus procedimientos formales internos, a cualquier funcionario que tenga acceso a la informaciÃ³n, respecto a la imposibilidad absoluta de copiarla, total o parcialmente, revelar, publicar, difundir, vender, ceder, reproducir, interferir, interceptar, alterar, modificar, daÃ±ar, inutilizar, destruir, ya sea durante la vigencia del convenio como despuÃ©s de su tÃ©rmino. |
-|  | En dicho contexto, tanto el SERVICIO como la DIRECCIÃ“N, cumplirÃ¡n con lo establecido al efecto por el D.S. NÂ°83, del aÃ±o 2005, del Ministerio SecretarÃ­a General de la Presidencia, que aprueba norma tÃ©cnica para los Ã³rganos de la AdministraciÃ³n del Estado sobre seguridad y confidencialidad de los documentos electrÃ³nicos. |
-|  | En consecuencia, ambas partes deberÃ¡n velar por el cumplimento de la Ley NÂ°19.628 Sobre ProtecciÃ³n de la Vida Privada y a lo dispuesto en el artÃ­culo 35 del CÃ³digo Tributario. Este Ãºltimo, por cuanto ni el SERVICIO, ni la DIRECCIÃ“N solicitarÃ¡ informaciÃ³n sujeta a reserva sin que exista una norma de excepciÃ³n que la habilite expresamente para tal efecto. |
-|  | Las partes se obligan a respetar las disposiciones de la Ley NÂ°20.285, sobre Acceso a la InformaciÃ³n PÃºblica. |
-| SÃ‰PTIMO: | Cualquier incumplimiento respecto de las obligaciones contraÃ­das en virtud del presente acuerdo, en materia de intercambio de informaciÃ³n, darÃ¡ derecho a la parte diligente a poner tÃ©rmino inmediato y en forma anticipada al Convenio. |
-| OCTAVO: | El presente convenio tendrÃ¡ una duraciÃ³n de 1 aÃ±o y se entenderÃ¡ prorrogado automÃ¡ticamente por perÃ­odos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intenciÃ³n de ponerle tÃ©rmino con, al menos, 60 dÃ­as de antelaciÃ³n, mediante carta certificada dirigida al Jefe Superior del respectivo servicio. No obstante, lo anterior, el convenio terminarÃ¡ cuando la ley modifique la competencia de las partes para la entrega de la informaciÃ³n o para recibirla, o que dicha informaciÃ³n sea catalogada como informaciÃ³n confidencial que no puede ser transferida entre los distintos Ã³rganos de la AdministraciÃ³n del Estado. |
-| NOVENO: | El presente convenio podrÃ¡ suscribirse con firma electrÃ³nica avanzada o materialmente, en este Ãºltimo caso, las partes conservaran un ejemplar en su poder. |
+|  | El SERVICIO designa como coordinador, para estos efectos, al jefe del Departamento de Estudios Económicos y Tributarios dependiente de la Subdirección de Gestión Estratégica y Estudios Tributarios. |
+|  | La DIRECCIÓN designa como coordinador, para estos efectos, al jefe de Departamento de Presupuesto y Control Tributario; y en materias vinculadas al registro denominado Rol de Avalúo y a la gestión de terrenos en general, al jefe del Departamento de Expropiaciones. |
+|  | En el evento de modificarse la designación, se deberá comunicar tal situación formalmente, mediante oficio, al jefe superior de la otra institución. |
+| SEXTO: | Ambas partes se obligan a utilizar la información proporcionada por el otro, sólo para los fines propios de cada institución, autorizados por el presente convenio, para lo que deberán mantener la confidencialidad correspondiente, en el marco de sus competencias legales, quedando prohibido un uso distinto al señalado. Asimismo, se obliga a limitar la divulgación de la información, materia de este convenio, sólo a aquellos funcionarios que estrictamente tengan la obligación de conocerla, evitando el acceso a terceros no autorizados. |
+|  | Las partes deberán instruir por escrito, de acuerdo con sus procedimientos formales internos, a cualquier funcionario que tenga acceso a la información, respecto a la imposibilidad absoluta de copiarla, total o parcialmente, revelar, publicar, difundir, vender, ceder, reproducir, interferir, interceptar, alterar, modificar, dañar, inutilizar, destruir, ya sea durante la vigencia del convenio como después de su término. |
+|  | En dicho contexto, tanto el SERVICIO como la DIRECCIÓN, cumplirán con lo establecido al efecto por el D.S. N°83, del año 2005, del Ministerio Secretaría General de la Presidencia, que aprueba norma técnica para los órganos de la Administración del Estado sobre seguridad y confidencialidad de los documentos electrónicos. |
+|  | En consecuencia, ambas partes deberán velar por el cumplimento de la Ley N°19.628 Sobre Protección de la Vida Privada y a lo dispuesto en el artículo 35 del Código Tributario. Este último, por cuanto ni el SERVICIO, ni la DIRECCIÓN solicitará información sujeta a reserva sin que exista una norma de excepción que la habilite expresamente para tal efecto. |
+|  | Las partes se obligan a respetar las disposiciones de la Ley N°20.285, sobre Acceso a la Información Pública. |
+| SÉPTIMO: | Cualquier incumplimiento respecto de las obligaciones contraídas en virtud del presente acuerdo, en materia de intercambio de información, dará derecho a la parte diligente a poner término inmediato y en forma anticipada al Convenio. |
+| OCTAVO: | El presente convenio tendrá una duración de 1 año y se entenderá prorrogado automáticamente por períodos iguales y sucesivos si ninguna de las partes manifiesta a la otra su intención de ponerle término con, al menos, 60 días de antelación, mediante carta certificada dirigida al Jefe Superior del respectivo servicio. No obstante, lo anterior, el convenio terminará cuando la ley modifique la competencia de las partes para la entrega de la información o para recibirla, o que dicha información sea catalogada como información confidencial que no puede ser transferida entre los distintos órganos de la Administración del Estado. |
+| NOVENO: | El presente convenio podrá suscribirse con firma electrónica avanzada o materialmente, en este último caso, las partes conservaran un ejemplar en su poder. |
 
-## DÃ‰CIMO:
+## DÉCIMO:
 
-## UNDÃ‰CIMO:
+## UNDÉCIMO:
 
 Para todos los efectos legales se entiende como fecha del convenio, la fecha de la primera firma de los otorgantes.
 
-El presente Convenio comenzarÃ¡ a regir el dÃ­a primero del mes siguiente a aquel en que se produzca la total tramitaciÃ³n de la Ãºltima resoluciÃ³n y/o decreto que lo apruebe, circunstancia que deberÃ¡ comunicarse por escrito a la otra parte.
+El presente Convenio comenzará a regir el día primero del mes siguiente a aquel en que se produzca la total tramitación de la última resolución y/o decreto que lo apruebe, circunstancia que deberá comunicarse por escrito a la otra parte.
 
-La personerÃ­a de don Luis Felipe Elton Sanfuentes para representar a la DIRECCIÃ“N, en su calidad de subrogante del Director General de Concesiones de Obras PÃºblicas, consta en la resoluciÃ³n exenta de la DIRECCIÃ“N NÂ° 125.355, de 11 de septiembre de 2019, y en el Decreto Supremo Exento del Ministerio de Obras PÃºblicas NÂ° 273, de 30 de noviembre de 2020, del Ministerio de Obras PÃºblicas.
+La personería de don Luis Felipe Elton Sanfuentes para representar a la DIRECCIÓN, en su calidad de subrogante del Director General de Concesiones de Obras Públicas, consta en la resolución exenta de la DIRECCIÓN N° 125.355, de 11 de septiembre de 2019, y en el Decreto Supremo Exento del Ministerio de Obras Públicas N° 273, de 30 de noviembre de 2020, del Ministerio de Obras Públicas.
 
-La personerÃ­a de don HernÃ¡n Frigolett CÃ³rdova, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo NÂ°446, del dÃ­a 31 de marzo de 2022, del Ministerio de Hacienda.
+La personería de don Hernán Frigolett Córdova, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo N°446, del día 31 de marzo de 2022, del Ministerio de Hacienda.
 
-LUIS FELIPE ELTON SANFUENTES DIRECTOR (S) DIRECCIÃ“N GENERAL DE CONCESIONES
+LUIS FELIPE ELTON SANFUENTES DIRECTOR (S) DIRECCIÓN GENERAL DE CONCESIONES
 
-HERNÃN FRIGOLETT CÃ“RDOVA DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
+HERNÁN FRIGOLETT CÓRDOVA DIRECTOR SERVICIO DE IMPUESTOS INTERNOS
 
-## ANEXO NÂ°1
+## ANEXO N°1
 
-InformaciÃ³n que se traspasarÃ¡ desde el SERVICIO a la DIRECCIÃ“N.
+Información que se traspasará desde el SERVICIO a la DIRECCIÓN.
 
-## I. Entregas de informaciÃ³n vÃ­a batch
+## I. Entregas de información vía batch
 
-## InformaciÃ³n de procesos expropiatorios de inmuebles
+## Información de procesos expropiatorios de inmuebles
 
-En el marco de los procesos expropiatorios de inmuebles que le corresponde llevar a cabo a la DIRECCIÃ“N, es de importancia para esta, acceder a la informaciÃ³n y antecedentes que, sobre esta materia, obran en poder del SERVICIO.
+En el marco de los procesos expropiatorios de inmuebles que le corresponde llevar a cabo a la DIRECCIÓN, es de importancia para esta, acceder a la información y antecedentes que, sobre esta materia, obran en poder del SERVICIO.
 
-La DIRECCIÃ“N enviarÃ¡ el listado de propiedades para las cuales el SERVICIO proporcionarÃ¡ la informaciÃ³n necesaria para la materializaciÃ³n de las expropiaciones de terrenos requeridos para la ejecuciÃ³n de las obras concesionadas:
+La DIRECCIÓN enviará el listado de propiedades para las cuales el SERVICIO proporcionará la información necesaria para la materialización de las expropiaciones de terrenos requeridos para la ejecución de las obras concesionadas:
 
-El listado de propiedades debe contener la siguiente informaciÃ³n:
+El listado de propiedades debe contener la siguiente información:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| CÃ³digo de proceso | CÃ³digo de proceso |
+| Código de proceso | Código de proceso |
 | Comuna | Comuna de propiedad expropiada |
 | ROL | ROL de propiedad expropiada |
-| SUPERFICIE | Ãrea de la superficie expropiada. |
-| SUBDIVISIÃ“N DE LOTES | Subdivisiones de lotes (copia de planos de subdivisiÃ³n y copia de la inscripciÃ³n de dominio) |
+| SUPERFICIE | Área de la superficie expropiada. |
+| SUBDIVISIÓN DE LOTES | Subdivisiones de lotes (copia de planos de subdivisión y copia de la inscripción de dominio) |
 
-En respuesta al listado anterior el SII, enviarÃ¡ lo siguiente:
+En respuesta al listado anterior el SII, enviará lo siguiente:
 
-* a) InformaciÃ³n disponible respecto del listado de propiedades remitido que se hallan afectas a expropiaciones en las obras concesionadas, incluyendo:
-* b) InformaciÃ³n disponible de Lotes y roles de avalÃºo:
+* a) Información disponible respecto del listado de propiedades remitido que se hallan afectas a expropiaciones en las obras concesionadas, incluyendo:
+* b) Información disponible de Lotes y roles de avalúo:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ROL DE AVALÃšO | Rol de avalÃºo fiscal |
-| NOMBRE DEL PROPIETARIO REGISTRADO POR EL SERVICIO | Nombre completo de propietario registrado en el sistema de bienes raÃ­ces. |
+| ROL DE AVALÚO | Rol de avalúo fiscal |
+| NOMBRE DEL PROPIETARIO REGISTRADO POR EL SERVICIO | Nombre completo de propietario registrado en el sistema de bienes raíces. |
 | COMUNA | Comuna de propiedad |
-| NOMBRE O UBICACIÃ“N DEL PREDIO | Nombre o ubicaciÃ³n del predio |
+| NOMBRE O UBICACIÓN DEL PREDIO | Nombre o ubicación del predio |
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ROLES DE AVALÃšO ASIGNADOS (CUANDO CORRESPONDA) | Roles de avalÃºo que les hubieran asignado como consecuencia de la divisiÃ³n de los roles matrices. |
+| ROLES DE AVALÚO ASIGNADOS (CUANDO CORRESPONDA) | Roles de avalúo que les hubieran asignado como consecuencia de la división de los roles matrices. |
 
-* c) Respecto del predio afecto a expropiaciÃ³n el SERVICIO entregarÃ¡ lo siguiente:
-* d) Acceso a planos y planchetas de loteo o subdivisiÃ³n (en caso de existir), permitiendo incluso la obtenciÃ³n de copias simples de los mismos. Considerando que dichos documentos se encuentran en los respectivos Departamentos Regionales de Avaluaciones y Unidades del SII. En el caso de las ortofotos se podrÃ¡n consultar solo en las Direcciones Regionales no permitiÃ©ndose la obtenciÃ³n de copias.
-* e) Acceso a los registros individuales de los roles de avalÃºo, pudiendo consultarse en ellas los antecedentes relativos a la inscripciÃ³n de dominio del bien raÃ­z si existieran.
+* c) Respecto del predio afecto a expropiación el SERVICIO entregará lo siguiente:
+* d) Acceso a planos y planchetas de loteo o subdivisión (en caso de existir), permitiendo incluso la obtención de copias simples de los mismos. Considerando que dichos documentos se encuentran en los respectivos Departamentos Regionales de Avaluaciones y Unidades del SII. En el caso de las ortofotos se podrán consultar solo en las Direcciones Regionales no permitiéndose la obtención de copias.
+* e) Acceso a los registros individuales de los roles de avalúo, pudiendo consultarse en ellas los antecedentes relativos a la inscripción de dominio del bien raíz si existieran.
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| UBICACIÃ“N | Urbano/rural |
-| DESTINO | AgrÃ­cola, Forestal y agrÃ­cola por asimilaciÃ³n |
+| UBICACIÓN | Urbano/rural |
+| DESTINO | Agrícola, Forestal y agrícola por asimilación |
 
-## ANEXO NÂ°2
+## ANEXO N°2
 
-InformaciÃ³n que se traspasarÃ¡ desde la DIRECCIÃ“N al SERVICIO.
+Información que se traspasará desde la DIRECCIÓN al SERVICIO.
 
-La informaciÃ³n se enviarÃ¡ durante los 10 primeros dÃ­as hÃ¡biles de los meses de marzo y septiembre de cada aÃ±o (Periodo Julio-Diciembre para entrega en Marzo y periodo Enero-Junio para entrega en Septiembre), vÃ­a formato electrÃ³nico de acuerdo con lo establecido en el Protocolo TÃ©cnico de intercambio de informaciÃ³n mencionado en el Anexo NÂ° 3, la cual se especifica a continuaciÃ³n:
+La información se enviará durante los 10 primeros días hábiles de los meses de marzo y septiembre de cada año (Periodo Julio-Diciembre para entrega en Marzo y periodo Enero-Junio para entrega en Septiembre), vía formato electrónico de acuerdo con lo establecido en el Protocolo Técnico de intercambio de información mencionado en el Anexo N° 3, la cual se especifica a continuación:
 
-## 1) IdentificaciÃ³n de concesionarias
+## 1) Identificación de concesionarias
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | RUT | Rut concesionario. |
 | DV | DV concesionario |
-| RAZÃ“N SOCIAL | RazÃ³n social concesionario |
-| UBICACIÃ“N | Domicilio concesionario. (Casa Matriz o principal, la que tenga registrada) |
-| CONTACTO | TelÃ©fono de contacto |
+| RAZÓN SOCIAL | Razón social concesionario |
+| UBICACIÓN | Domicilio concesionario. (Casa Matriz o principal, la que tenga registrada) |
+| CONTACTO | Teléfono de contacto |
 | CARGO | Representante legal de preferencia |
 | EMAIL | Email de contacto |
-| GRUPO | Holding o grupo al que pertenece - Grupo econÃ³mico |
-| TIPO DE CONCESION | TipologÃ­a (aeropuerto, vial, etc.) |
-| UBICACIÃ“N CONCESIÃ“N | Localidad en donde se encuentra o encontrarÃ¡ la obra (DirecciÃ³n o tramo) |
+| GRUPO | Holding o grupo al que pertenece - Grupo económico |
+| TIPO DE CONCESION | Tipología (aeropuerto, vial, etc.) |
+| UBICACIÓN CONCESIÓN | Localidad en donde se encuentra o encontrará la obra (Dirección o tramo) |
 | ACCESORIOS | Si es solo obra principal o tiene obras accesorias (Si o No). |
-| DESCRIPCIÃ“N OBRA ACCESORIA | Obra solicitada fuera del contrato de concesiÃ³n. |
-| NÂ° DE CONCESIÃ“N | Si es primera vez de concesiÃ³n de la obra o relicitaciÃ³n |
-| ETAPA | ConstrucciÃ³n, operaciÃ³n |
-| FECHA INICIO CONCESIÃ“N | Fecha en que comienza la concesiÃ³n |
-| MECANISMO DE TERMINO DE LA CONCESIÃ“N | Plazo fijo o fÃ³rmula del contrato (VPI) |
-| PLAZO DE CONCESIÃ“N O FÃ“RMULA | Plazo y/o fÃ³rmula. |
+| DESCRIPCIÓN OBRA ACCESORIA | Obra solicitada fuera del contrato de concesión. |
+| N° DE CONCESIÓN | Si es primera vez de concesión de la obra o relicitación |
+| ETAPA | Construcción, operación |
+| FECHA INICIO CONCESIÓN | Fecha en que comienza la concesión |
+| MECANISMO DE TERMINO DE LA CONCESIÓN | Plazo fijo o fórmula del contrato (VPI) |
+| PLAZO DE CONCESIÓN O FÓRMULA | Plazo y/o fórmula. |
 | INGRESOS | Tipo de ingresos percibidos: IMG, Subsidios, consumo usuarios |
-| ESTADO | ConstrucciÃ³n, operaciÃ³n, construcciÃ³n y operaciÃ³n |
+| ESTADO | Construcción, operación, construcción y operación |
 
-## 2) FiscalizaciÃ³n a concesiones
+## 2) Fiscalización a concesiones
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | RUT | Rut concesionario. |
 | DV | DV concesionario |
@@ -159,9 +160,9 @@ La informaciÃ³n se enviarÃ¡ durante los 10 primeros dÃ­as hÃ¡biles de lo
 | MULTA | Monto de la multa |
 | ESTADO DE LA MULTA | Suspendida, anulada, reembolsada, pagada u otro a especificar |
 
-## 3) Cambio de accionista\*: Se desea conocer si hubo cambio de concesionario, total o parcialmente, y cuÃ¡l es el concesionario actual.
+## 3) Cambio de accionista\*: Se desea conocer si hubo cambio de concesionario, total o parcialmente, y cuál es el concesionario actual.
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | RUT\_O | Rut concesionario original |
 | DV\_O | DV concesionario original |
@@ -170,92 +171,92 @@ La informaciÃ³n se enviarÃ¡ durante los 10 primeros dÃ­as hÃ¡biles de lo
 | DV\_N | DV concesionario actual |
 | FECHA\_CAMBIO | Fecha de venta o cambio de concesionario |
 | NOMBRE NUEVO CONCESIONARIO | Nombre o identificador de la obra concesionada |
-| RAZÃ“N | RazÃ³n del cambio (reorganizaciÃ³n, quiebra, etc.) |
+| RAZÓN | Razón del cambio (reorganización, quiebra, etc.) |
 
-* Algunos campos pueden no tener cambios, sÃ³lo en caso de que ocurran serÃ¡n informados
+* Algunos campos pueden no tener cambios, sólo en caso de que ocurran serán informados
 
 ## 4) Ingresos totales (datos presupuestados)
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | NOMBRE | Nombre o identificador de la obra concesionada |
-| TIPO PRESUPUESTO INGRESO | TipologÃ­a del Ingreso a pagar de la SC al MOP |
+| TIPO PRESUPUESTO INGRESO | Tipología del Ingreso a pagar de la SC al MOP |
 | MONTO PRESUPUESTO | Monto del Ingreso a pagar de la SC al MOP |
 
 ## 5) Costos totales (datos presupuestados)
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | NOMBRE | Nombre o identificador de la obra concesionada |
-| TIPO PRESUPUESTO EGRESO | TipologÃ­a del Egreso a pagar del MOP a SC |
+| TIPO PRESUPUESTO EGRESO | Tipología del Egreso a pagar del MOP a SC |
 | MONTO PRESUPUESTO | Monto del Egreso a pagar del MOP a SC |
 
 ## 6) Ingresos totales (agregado solo de datos reales)
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | NOMBRE | Nombre o identificador de la obra concesionada |
-| TIPO INGRESO | TipologÃ­a del Ingreso pagado de la SC al MOP |
+| TIPO INGRESO | Tipología del Ingreso pagado de la SC al MOP |
 | MONTO INGRESO | Monto del Ingreso pagado de la SC al MOP |
 
 ## 7) Costos totales (agregado solo de datos reales)
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
 | NOMBRE | Nombre o identificador de la obra concesionada |
-| TIPO EGRESO | TipologÃ­a del Egreso a pagar del MOP a SC |
+| TIPO EGRESO | Tipología del Egreso a pagar del MOP a SC |
 | MONTO EGRESO | Monto del Egreso a pagar del MOP a SC |
 
-## 8) InformaciÃ³n de expropiaciones
+## 8) Información de expropiaciones
 
-## La DIRECCIÃ“N enviarÃ¡ al SERVICIO la siguiente informaciÃ³n.
+## La DIRECCIÓN enviará al SERVICIO la siguiente información.
 
-Para el SERVICIO resulta de utilidad contar con la informaciÃ³n que se genera durante los procesos expropiatorios respecto de los bienes, especialmente para la individualizaciÃ³n correcta de los predios, la cual, a su vez, es uno de los antecedentes fundamentales para la determinaciÃ³n del Impuesto Territorial. El SERVICIO recibirÃ¡ vÃ­a aplicaciÃ³n de Internet la informaciÃ³n una vez terminado cada uno de los procesos expropiatorios, esto es, cuando se consigna el monto de la expropiaciÃ³n en la cuenta bancaria del Tribunal.
+Para el SERVICIO resulta de utilidad contar con la información que se genera durante los procesos expropiatorios respecto de los bienes, especialmente para la individualización correcta de los predios, la cual, a su vez, es uno de los antecedentes fundamentales para la determinación del Impuesto Territorial. El SERVICIO recibirá vía aplicación de Internet la información una vez terminado cada uno de los procesos expropiatorios, esto es, cuando se consigna el monto de la expropiación en la cuenta bancaria del Tribunal.
 
-* a) InformaciÃ³n de los predios que estÃ¡n actualmente en proceso de expropiaciÃ³n. Ello permitirÃ¡ al SERVICIO adoptar los cursos de acciÃ³n que estime conducentes.
-* b) Copia digital de los planos georreferenciados de expropiaciÃ³n definitivos, con sus respectivos cuadros de expropiaciÃ³n y deslindes.
-* c) Los antecedentes relativos a las tasaciones realizadas por los peritos tasadores, en su labor de determinaciÃ³n del monto provisional de la indemnizaciÃ³n correspondiente a la expropiaciÃ³n de los terrenos.
-* d) Otros antecedentes que la DIRECCIÃ“N recopile a lo largo de los procesos expropiatorios y que puedan tener importancia para el SERVICIO, especialmente, en lo que dice relaciÃ³n con la situaciÃ³n de la propiedad raÃ­z despuÃ©s de verificados los procesos en cuestiÃ³n.
+* a) Información de los predios que están actualmente en proceso de expropiación. Ello permitirá al SERVICIO adoptar los cursos de acción que estime conducentes.
+* b) Copia digital de los planos georreferenciados de expropiación definitivos, con sus respectivos cuadros de expropiación y deslindes.
+* c) Los antecedentes relativos a las tasaciones realizadas por los peritos tasadores, en su labor de determinación del monto provisional de la indemnización correspondiente a la expropiación de los terrenos.
+* d) Otros antecedentes que la DIRECCIÓN recopile a lo largo de los procesos expropiatorios y que puedan tener importancia para el SERVICIO, especialmente, en lo que dice relación con la situación de la propiedad raíz después de verificados los procesos en cuestión.
 
-En el caso de las expropiaciones, se utilizarÃ¡ la aplicaciÃ³n disponible en el sitio web del SERVICIO, para cada predio expropiado, deberÃ¡ adjuntarse como mÃ­nimo esta informaciÃ³n:
+En el caso de las expropiaciones, se utilizará la aplicación disponible en el sitio web del SERVICIO, para cada predio expropiado, deberá adjuntarse como mínimo esta información:
 
-| **CAMPOS** | **DESCRIPCIÃ“N** |
+| **CAMPOS** | **DESCRIPCIÓN** |
 | --- | --- |
-| NÃºmero de decreto | NÂ° decreto emitido por el MOP |
-| Fecha de Decreto | Fecha de emisiÃ³n del decreto |
-| ConsignaciÃ³n de los fondos en la cuenta del tribunal | Fecha de la consignaciÃ³n |
-| InscripciÃ³n de dominio a favor del fisco (\*) | IndicaciÃ³n de fojas, nÃºmero y fecha de inscripciÃ³n |
-| Copia de InscripciÃ³n de dominio | Copia digital de la inscripciÃ³n de dominio |
+| Número de decreto | N° decreto emitido por el MOP |
+| Fecha de Decreto | Fecha de emisión del decreto |
+| Consignación de los fondos en la cuenta del tribunal | Fecha de la consignación |
+| Inscripción de dominio a favor del fisco (\*) | Indicación de fojas, número y fecha de inscripción |
+| Copia de Inscripción de dominio | Copia digital de la inscripción de dominio |
 | Superficie | Superficie predial expropiada |
 | Comuna | Comuna predial |
-| Rol de avalÃºo | Rol del predio expropiado |
+| Rol de avalúo | Rol del predio expropiado |
 | A nombre de | Nombre propietario expropiado |
 | Rut | Rut propietario (s) expropiado (s) |
-| CartografÃ­a digital | Incorporar cartografÃ­a digital asociada |
+| Cartografía digital | Incorporar cartografía digital asociada |
 
-(\*) En caso de haberse efectuado la inscripciÃ³n
+(\*) En caso de haberse efectuado la inscripción
 
 <unknown>
 
 ## AMF
 
-## DistribuciÃ³n
+## Distribución
 
 * -Internet
 
-## ANEXO NÂ°3
+## ANEXO N°3
 
-## 1. Protocolo tÃ©cnico de intercambio de informaciÃ³n.
+## 1. Protocolo técnico de intercambio de información.
 
-Ambas instituciones deberÃ¡n elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrÃ¡ la fecha de inicio del intercambio de informaciÃ³n y las especificaciones tÃ©cnicas del proceso de intercambio de informaciÃ³n tales como: medios de envÃ­o, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la informaciÃ³n, naturaleza de la informaciÃ³n (estructurada o no estructurada), periodicidad, entre otros aspectos tÃ©cnicos a considerar en el intercambio de la informaciÃ³n. Este Documento tÃ©cnico, podrÃ¡ ser revisado y actualizado, a peticiÃ³n de alguna de las Instituciones firmantes y en coordinaciÃ³n con la otra InstituciÃ³n, conforme a las necesidades de nueva informaciÃ³n a intercambiar producto de una actualizaciÃ³n o modificaciÃ³n al Convenio, cambios tecnolÃ³gicos que afecten la naturaleza informÃ¡tica del intercambio o cualquier situaciÃ³n tÃ©cnica del intercambio que amerite actualizar este Documento.
+Ambas instituciones deberán elaborar, de manera conjunta y consensuada, un documento complementario a este Convenio, que contendrá la fecha de inicio del intercambio de información y las especificaciones técnicas del proceso de intercambio de información tales como: medios de envío, tipos de archivo, formatos de registro, diccionario de datos, disponibilidad de los servicios, validaciones de entrada y salida de la información, naturaleza de la información (estructurada o no estructurada), periodicidad, entre otros aspectos técnicos a considerar en el intercambio de la información. Este Documento técnico, podrá ser revisado y actualizado, a petición de alguna de las Instituciones firmantes y en coordinación con la otra Institución, conforme a las necesidades de nueva información a intercambiar producto de una actualización o modificación al Convenio, cambios tecnológicos que afecten la naturaleza informática del intercambio o cualquier situación técnica del intercambio que amerite actualizar este Documento.
 
-## 2. Protocolos de coordinaciÃ³n y colaboraciÃ³n.
+## 2. Protocolos de coordinación y colaboración.
 
-* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberÃ¡ comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias o cualquiera otra instancia que estimen los coordinadores.
-* b) Las Instituciones, a peticiÃ³n de algunas de Ã©stas, brindarÃ¡n apoyo tÃ©cnico al organismo que lo solicite a travÃ©s de capacitaciÃ³n, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
-* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboraciÃ³n mutua en procesos o acciones de fiscalizaciÃ³n que se determinen y acuerden entre ambos organismos, en relaciÃ³n con intercambios de informaciÃ³n que apoyen estos procedimientos. '
+* a) En caso de que una de las Instituciones, considere necesario profundizar sobre alguno de los casos informados, el encargado del Convenio deberá comunicarse con su contraparte, con el fin de agendar las reuniones que sean necesarias o cualquiera otra instancia que estimen los coordinadores.
+* b) Las Instituciones, a petición de algunas de éstas, brindarán apoyo técnico al organismo que lo solicite a través de capacitación, conocimiento y experiencia de tal forma de contribuir en las funciones de cada uno de los organismos.
+* c) Ambas Instituciones se comprometen a trabajar coordinadamente y prestarse colaboración mutua en procesos o acciones de fiscalización que se determinen y acuerden entre ambos organismos, en relación con intercambios de información que apoyen estos procedimientos. '
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE.
 
 <unknown>
 

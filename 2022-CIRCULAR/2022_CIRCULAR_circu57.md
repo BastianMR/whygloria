@@ -1,14 +1,15 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 57 (2022)
-description: DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones | CIRCULARNÂ°57.- GE206755 |
+---
+type: "SII Circular"
+title: "Circular N° 57 (2022)"
+description: "DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones | CIRCULARN°57.- GE206755 |"
 tags: [SII, 2022, circular]
 ---
 
-| **DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones** | **CIRCULARNÂ°57.- GE206755** |
+
+| **DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones** | **CIRCULARN°57.- GE206755** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:26DEDICIEMBREDE2022 |
-| MATERIAImparteinstruccionessobreelimpuesto establecido en el articulo 9Â°de la Ley NÂ°21.420. | REF.LEGAL:Ley NÂ°21.420,publicadaenel DiarioOficialde4defebrerode2022. |
+| MATERIAImparteinstruccionessobreelimpuesto establecido en el articulo 9°de la Ley N°21.420. | REF.LEGAL:Ley N°21.420,publicadaenel DiarioOficialde4defebrerode2022. |
 
 ## INTRODUCCION
 
@@ -24,7 +25,7 @@ Recayendo el impuesto sobre el respectivobien,se consideraran tanto los bienes d
 
 Dejada sin efecto
 
-1 Oficio NÂ° 3035 de 2021.
+1 Oficio N° 3035 de 2021.
 
 2 En conformidad conlo dispuesto enel articulo 12 del decreto enreferencia.
 
@@ -46,7 +47,7 @@ De acuerdocon laLey,unreglamentoaprobadomediantedecretosupremo expedidoporel Min
 
 Dejada sin efecto
 
-16:44:55 -03Â°00'
+16:44:55 -03°00'
 
 DISTRIBUCION:
 

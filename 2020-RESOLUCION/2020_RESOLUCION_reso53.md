@@ -1,49 +1,50 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 111 (2020)
-description: MATERIA: AMPLÃA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926.
+---
+type: "SII Resolución"
+title: "Resolución N° 111 (2020)"
+description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926."
 tags: [SII, 2020, resolucion]
 ---
 
-MATERIA: AMPLÃA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926.
+
+MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926.
 
 ## SANTIAGO, 11 de mayo de 2020
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÃ“N EX. SII NÂ°\_\_53\_\_\_/
+RESOLUCIÓN EX. SII N°\_\_53\_\_\_/
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Âº, 4 bis, y 7Âº de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Âº del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 6Â° letra A) NÂ° 1), 34 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; ResoluciÃ³n Exenta SII NÂ°111 de 2019; y
+VISTOS: Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974; Resolución Exenta SII N°111 de 2019; y
 
 ## CONSIDERANDO:
 
-1.Que, en la situaciÃ³n en que se encuentra el paÃ­s producida por el brote de Covid-19 (Coronavirus), algunos contribuyentes pueden verse imposibilitados de enviar la informaciÃ³n requerida por este Servicio, dentro del plazo establecido.
+1.Que, en la situación en que se encuentra el país producida por el brote de Covid-19 (Coronavirus), algunos contribuyentes pueden verse imposibilitados de enviar la información requerida por este Servicio, dentro del plazo establecido.
 
-2.Que, mediante ResoluciÃ³n Exenta SII NÂ° 111 de fecha 30 de septiembre de 2019, se fijaron plazos para la presentaciÃ³n de declaraciones juradas que en Ã©sta se seÃ±alan, para el AÃ±o Tributario 2020.
+2.Que, mediante Resolución Exenta SII N° 111 de fecha 30 de septiembre de 2019, se fijaron plazos para la presentación de declaraciones juradas que en ésta se señalan, para el Año Tributario 2020.
 
-3.Que, este Servicio en uso de las facultades, por razones de buen servicio y a fin de otorgar el mÃ¡ximo de facilidades a los contribuyentes, ha estimado conveniente ampliar el plazo fijado para la presentaciÃ³n de los Formularios que indican.
+3.Que, este Servicio en uso de las facultades, por razones de buen servicio y a fin de otorgar el máximo de facilidades a los contribuyentes, ha estimado conveniente ampliar el plazo fijado para la presentación de los Formularios que indican.
 
 ## SE RESUELVE:
 
-1Â° AmplÃ­ese, hasta el dÃ­a 14 de mayo de 2020, el plazo para presentar los Formularios que se indican a continuaciÃ³n:
+1° Amplíese, hasta el día 14 de mayo de 2020, el plazo para presentar los Formularios que se indican a continuación:
 
-| **NÂ° Formulario** | **DeclaraciÃ³n Jurada Anual** |
+| **N° Formulario** | **Declaración Jurada Anual** |
 | --- | --- |
-| 1847 | DeclaraciÃ³n Jurada sobre balance de 8 columnas y otros antecedentes. |
-| 1913 | DeclaraciÃ³n Jurada Anual de CaracterizaciÃ³n Tributaria Global |
-| 1926 | DeclaraciÃ³n Jurada anual sobre Base Imponible de Primera CategorÃ­a y Datos Contables Balance. |
+| 1847 | Declaración Jurada sobre balance de 8 columnas y otros antecedentes. |
+| 1913 | Declaración Jurada Anual de Caracterización Tributaria Global |
+| 1926 | Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance. |
 
-2Â° La presente ResoluciÃ³n entrarÃ¡ en vigencia a contar del dÃ­a 11 de mayo de 2020, inclusive.
+2° La presente Resolución entrará en vigencia a contar del día 11 de mayo de 2020, inclusive.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo para su conocimiento y demÃ¡s fines.
+Lo que transcribo para su conocimiento y demás fines.
 
 CSM/CGG/JGR/PSM/igl
 
-DISTRIBUCIÃ“N:
+DISTRIBUCIÓN:
 
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO

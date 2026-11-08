@@ -1,61 +1,62 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 146 (2018)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DESARROLLO DE LAS PERSONAS
+---
+type: "SII Resolución"
+title: "Resolución N° 146 (2018)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DESARROLLO DE LAS PERSONAS"
 tags: [SII, 2018, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DESARROLLO DE LAS PERSONAS
 
-FIJA NUEVAS DENOMINACIONES Y FUNCIONES A LOS DEPARTAMENTOS QUE SE INDICAN, DE LA XIII DIRECCIÃ“N REGIONAL METROPOLITANA, SANTIAGO CENTRO Y DE LA XV DIRECCIÃ“N REGIONAL METROPOLITANA, SANTIAGO ORIENTE.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DESARROLLO DE LAS PERSONAS
+
+FIJA NUEVAS DENOMINACIONES Y FUNCIONES A LOS DEPARTAMENTOS QUE SE INDICAN, DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO CENTRO Y DE LA XV DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO ORIENTE.
 
 ## SANTIAGO, 27 DICIEMBRE 2018
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EX. SII NÂ° 146.-
+## RESOLUCIÓN EX. SII N° 146.-
 
 ## VISTOS:
 
-Lo dispuesto en el artÃ­culo 6Â° del CÃ³digo Tributario contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; el artÃ­culo 4Â°, inciso final de la Ley OrgÃ¡nica del Servicio de Impuestos Internos; el artÃ­culo 7Â°, letras a), c) y Ã±), de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7, de Hacienda, de 1980; en los artÃ­culos 41 y 43 de la Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado y la Ley NÂ° 18.834, sobre Estatuto Administrativo; la ResoluciÃ³n Exenta NÂ°197, de 2009; la ResoluciÃ³n Exenta NÂ°49, de 2012; ambas del Director del Servicio de Impuestos Internos y la ResoluciÃ³n NÂ° 1.600, del 30 de octubre de 2008, de la ContralorÃ­a General de la RepÃºblica; y
+Lo dispuesto en el artículo 6° del Código Tributario contenido en el artículo 1° del D.L. N° 830, de 1974; el artículo 4°, inciso final de la Ley Orgánica del Servicio de Impuestos Internos; el artículo 7°, letras a), c) y ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980; en los artículos 41 y 43 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y la Ley N° 18.834, sobre Estatuto Administrativo; la Resolución Exenta N°197, de 2009; la Resolución Exenta N°49, de 2012; ambas del Director del Servicio de Impuestos Internos y la Resolución N° 1.600, del 30 de octubre de 2008, de la Contraloría General de la República; y
 
 ## CONSIDERANDO :
 
-1Â° Que, conforme a lo establecido en el inciso final del artÃ­culo 4Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, en las Direcciones Regionales existirÃ¡n las Unidades y los Departamentos que establezca el Director, con sujeciÃ³n a la planta del Servicio;
+1° Que, conforme a lo establecido en el inciso final del artículo 4° de la Ley Orgánica del Servicio de Impuestos Internos, en las Direcciones Regionales existirán las Unidades y los Departamentos que establezca el Director, con sujeción a la planta del Servicio;
 
-2Â° Que, las letras a), c) y Ã±) del artÃ­culo 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, facultan al Director para dictar las Ã³rdenes que sean convenientes para la mÃ¡s expedita marcha del Servicio y para fijar y modificar la organizaciÃ³n interna de sus unidades, asÃ­ como sus atribuciones y obligaciones.
+2° Que, las letras a), c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, facultan al Director para dictar las órdenes que sean convenientes para la más expedita marcha del Servicio y para fijar y modificar la organización interna de sus unidades, así como sus atribuciones y obligaciones.
 
-3Â° Que, mediante ResoluciÃ³n Ex. NÂ° 197, del 22 de diciembre de 2009, se reemplazÃ³ la denominaciÃ³n de los Departamentos encargados de atenciÃ³n y control de los diversos trÃ¡mites efectuados por los contribuyentes por Departamento FiscalizaciÃ³n Personas y Micro-PequeÃ±a Empresas y Departamento FiscalizaciÃ³n Medianas y Grandes Empresas, en la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente y en la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro.
+3° Que, mediante Resolución Ex. N° 197, del 22 de diciembre de 2009, se reemplazó la denominación de los Departamentos encargados de atención y control de los diversos trámites efectuados por los contribuyentes por Departamento Fiscalización Personas y Micro-Pequeña Empresas y Departamento Fiscalización Medianas y Grandes Empresas, en la XV Dirección Regional Metropolitana, Santiago Oriente y en la XIII Dirección Regional Metropolitana, Santiago Centro.
 
-4Â° Que, mediante ResoluciÃ³n Ex. NÂ° 49, del 04 de abril de 2012, se creÃ³ en la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente, el Segundo Departamento de FiscalizaciÃ³n de Medianas y Grandes Empresas y se modificÃ³ el nombre del Departamento de Medianas y Grandes Empresas, pasando a denominarse Primer Departamento de Medianas y Grandes Empresas.
+4° Que, mediante Resolución Ex. N° 49, del 04 de abril de 2012, se creó en la XV Dirección Regional Metropolitana, Santiago Oriente, el Segundo Departamento de Fiscalización de Medianas y Grandes Empresas y se modificó el nombre del Departamento de Medianas y Grandes Empresas, pasando a denominarse Primer Departamento de Medianas y Grandes Empresas.
 
-5Â° Que, existe la necesidad de adecuar la organizaciÃ³n de la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente y de la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro, a las actuales denominaciones y funciones, a fin de satisfacer los requerimientos derivados del Modelo de GestiÃ³n de Cumplimiento Tributario
+5° Que, existe la necesidad de adecuar la organización de la XV Dirección Regional Metropolitana, Santiago Oriente y de la XIII Dirección Regional Metropolitana, Santiago Centro, a las actuales denominaciones y funciones, a fin de satisfacer los requerimientos derivados del Modelo de Gestión de Cumplimiento Tributario
 
 ## RESUELVO:
 
-1Â° ReemplÃ¡zase la actual denominaciÃ³n de los Departamentos de las respectivas Direcciones Regionales en la forma que a continuaciÃ³n, se indica:
+1° Reemplázase la actual denominación de los Departamentos de las respectivas Direcciones Regionales en la forma que a continuación, se indica:
 
-* -El 'Departamento de FiscalizaciÃ³n Personas y Micro-PequeÃ±a Empresas' de la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente, por 'Departamento de FiscalizaciÃ³n NÂ° 1'.
-* -El 'Primer Departamento de FiscalizaciÃ³n Medianas y Grandes Empresas' de la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente, por 'Departamento de FiscalizaciÃ³n NÂ° 2'.
-* -El 'Segundo Departamento de FiscalizaciÃ³n Medianas y Grandes Empresas' de la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente, por 'Departamento de FiscalizaciÃ³n NÂ° 3'.
-* -El 'Departamento de FiscalizaciÃ³n Personas y Micro-PequeÃ±a Empresas' de la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro, por 'Departamento de FiscalizaciÃ³n'.
+* -El 'Departamento de Fiscalización Personas y Micro-Pequeña Empresas' de la XV Dirección Regional Metropolitana, Santiago Oriente, por 'Departamento de Fiscalización N° 1'.
+* -El 'Primer Departamento de Fiscalización Medianas y Grandes Empresas' de la XV Dirección Regional Metropolitana, Santiago Oriente, por 'Departamento de Fiscalización N° 2'.
+* -El 'Segundo Departamento de Fiscalización Medianas y Grandes Empresas' de la XV Dirección Regional Metropolitana, Santiago Oriente, por 'Departamento de Fiscalización N° 3'.
+* -El 'Departamento de Fiscalización Personas y Micro-Pequeña Empresas' de la XIII Dirección Regional Metropolitana, Santiago Centro, por 'Departamento de Fiscalización'.
 
-2Â° ElimÃ­nese el Departamento de FiscalizaciÃ³n Medianas y Grandes Empresas de la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro.
+2° Elimínese el Departamento de Fiscalización Medianas y Grandes Empresas de la XIII Dirección Regional Metropolitana, Santiago Centro.
 
-3Â° 'Al Departamento de FiscalizaciÃ³n NÂ° 1, NÂ°2 y NÂ° 3 en la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente y al Departamento de FiscalizaciÃ³n de la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro, les corresponderÃ¡ ejecutar las acciones regionales que apoyen la plena implementaciÃ³n del Modelo de GestiÃ³n de Cumplimiento Tributario, de acuerdo a la metodologÃ­a de determinaciÃ³n de brechas tributarias, riesgos y acciones de tratamiento estructurales, preventivos y correctivos; velar por la debida proporcionalidad de las acciones de tratamiento en funciÃ³n del riesgo de contribuyente; orientar las acciones para potenciar el cumplimiento tributario y disuadir respecto del incumplimiento; verificar acceso a informaciÃ³n para potenciar el anÃ¡lisis y conocimiento de los contribuyentes de su jurisdicciÃ³n; determinar segmentos de interÃ©s; indagar en factores que inciden en el comportamiento tributario; y aquellas funciones que emanen de los planes nacionales de fiscalizaciÃ³n'.
+3° 'Al Departamento de Fiscalización N° 1, N°2 y N° 3 en la XV Dirección Regional Metropolitana, Santiago Oriente y al Departamento de Fiscalización de la XIII Dirección Regional Metropolitana, Santiago Centro, les corresponderá ejecutar las acciones regionales que apoyen la plena implementación del Modelo de Gestión de Cumplimiento Tributario, de acuerdo a la metodología de determinación de brechas tributarias, riesgos y acciones de tratamiento estructurales, preventivos y correctivos; velar por la debida proporcionalidad de las acciones de tratamiento en función del riesgo de contribuyente; orientar las acciones para potenciar el cumplimiento tributario y disuadir respecto del incumplimiento; verificar acceso a información para potenciar el análisis y conocimiento de los contribuyentes de su jurisdicción; determinar segmentos de interés; indagar en factores que inciden en el comportamiento tributario; y aquellas funciones que emanen de los planes nacionales de fiscalización'.
 
-4Â° Toda alusiÃ³n relativa a la asignaciÃ³n de funciones, delegaciÃ³n de facultades y procedimientos que hubieran correspondido a los ex Departamentos de FiscalizaciÃ³n de Personas y Micro-PequeÃ±a Empresas y FiscalizaciÃ³n de Medianas y Grandes Empresas, en la XV DirecciÃ³n Regional Metropolitana, Santiago Oriente y en la XIII DirecciÃ³n Regional Metropolitana, Santiago Centro, o a sus respectivas jefaturas y grupos dependientes, conforme a instrucciones o resoluciones de carÃ¡cter interno, se entenderÃ¡ referida a los actuales Departamentos de FiscalizaciÃ³n, segÃºn resolutivo NÂ° 1 de la presente resoluciÃ³n.
+4° Toda alusión relativa a la asignación de funciones, delegación de facultades y procedimientos que hubieran correspondido a los ex Departamentos de Fiscalización de Personas y Micro-Pequeña Empresas y Fiscalización de Medianas y Grandes Empresas, en la XV Dirección Regional Metropolitana, Santiago Oriente y en la XIII Dirección Regional Metropolitana, Santiago Centro, o a sus respectivas jefaturas y grupos dependientes, conforme a instrucciones o resoluciones de carácter interno, se entenderá referida a los actuales Departamentos de Fiscalización, según resolutivo N° 1 de la presente resolución.
 
-5Â° La presente resoluciÃ³n entrarÃ¡ en vigencia el 01 de enero de 2019.
+5° La presente resolución entrará en vigencia el 01 de enero de 2019.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo para su conocimiento y demÃ¡s fines.
+Lo que transcribo para su conocimiento y demás fines.
 
-## DistribuciÃ³n:
+## Distribución:
 
 * Internet
-* BoletÃ­n
+* Boletín
 * Diario Oficial.

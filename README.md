@@ -1,10 +1,12 @@
-﻿---
-type: Reference
-title: WhyGloria â€” SII Public Tax Information
-description: Open-source collection of Chilean SII circulares, resoluciones and public tax information.
+---
+type: "Reference"
+title: "WhyGloria — SII Public Tax Information"
+description: "Open-source collection of Chilean SII circulares, resoluciones and public tax information."
+tags: []
 ---
 
-# WhyGloria â€” SII Public Tax Information
+
+# WhyGloria — SII Public Tax Information
 
 Open-source collection of Chilean **Servicio de Impuestos Internos (SII)** public
 documents: circulares, resoluciones and related tax information, organized by year
@@ -17,15 +19,22 @@ Each document lives in a folder named `<year>-<TYPE>` (e.g. `2013-CIRCULAR`,
 
 ```
 WhyGloria/
-â”œâ”€â”€ 2013-CIRCULAR/
-â”œâ”€â”€ 2013-RESOLUCION/
-â”œâ”€â”€ 2014-CIRCULAR/
-â”œâ”€â”€ ...
-â””â”€â”€ 2025-CIRCULAR/
+├── 2013-CIRCULAR/
+├── 2013-RESOLUCION/
+├── 2014-CIRCULAR/
+├── ...
+└── 2025-CIRCULAR/
 ```
 
 Each document is an OKF markdown concept (`.md`) with frontmatter (`type`,
 `title`, `description`, `tags`), converted from the original SII `.docx`.
+
+## Validate frontmatter
+
+```bash
+python scripts/check_okf.py        # report problems
+python scripts/check_okf.py --fix  # repair in place
+```
 
 ## Purpose
 

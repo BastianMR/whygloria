@@ -1,33 +1,34 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 103 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
+---
+type: "SII Resolución"
+title: "Resolución N° 103 (2014)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÃ“N
 
-MATERIA: Fija plazo para presentaciÃ³n de declaraciones juradas que se indican.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
+
+MATERIA: Fija plazo para presentación de declaraciones juradas que se indican.
 
 SANTIAGO, 04 de diciembre de 2014.-
 
 Hoy se ha resuelto lo siguiente:
 
-RESOLUCIÃ“N EX. SII NÂ°\_112.-\_\_/
+RESOLUCIÓN EX. SII N°\_112.-\_\_/
 
-VISTOS: Las necesidades del Servicio y las facultades contempladas en los artÃ­culos 1Â°, 4Â° bis y 7Â° del D.F.L. NÂ° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley OrgÃ¡nica del Servicio de Impuestos Internos; en el NÂ° 1, letra A), del artÃ­culo 6Â°, los artÃ­culos 34, 35, 60 y 85 inciso 2Â°, del D.L. NÂ° 830 de 1974, sobre CÃ³digo Tributario.
+VISTOS: Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L. N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos; en el N° 1, letra A), del artículo 6°, los artículos 34, 35, 60 y 85 inciso 2°, del D.L. N° 830 de 1974, sobre Código Tributario.
 
 ## CONSIDERANDO:
 
-1Â° Que, este Servicio, mediante instrucciones contenidas en las Resoluciones Exentas SII NÂ° 103 de 16 de diciembre de 2013, NÂ° 11 de 28 de enero de 2014 y NÂ° 50 de 26 de mayo de 2014, fijÃ³ el plazo de presentaciÃ³n para las declaraciones juradas que en ellas se indican.
+1° Que, este Servicio, mediante instrucciones contenidas en las Resoluciones Exentas SII N° 103 de 16 de diciembre de 2013, N° 11 de 28 de enero de 2014 y N° 50 de 26 de mayo de 2014, fijó el plazo de presentación para las declaraciones juradas que en ellas se indican.
 
-2Â° Que, por razones de buen servicio y dadas las modificaciones efectuadas en los diversos instrumentos resolutivos que las contienen, se hace necesario readecuar los plazos de presentaciÃ³n de las declaraciones juradas antes indicadas, en relaciÃ³n a los actuales procesos operativos.
+2° Que, por razones de buen servicio y dadas las modificaciones efectuadas en los diversos instrumentos resolutivos que las contienen, se hace necesario readecuar los plazos de presentación de las declaraciones juradas antes indicadas, en relación a los actuales procesos operativos.
 
 ## SE RESUELVE:
 
-* 1Â° FÃ­jase, a contar del aÃ±o tributario 2015, el plazo para la presentaciÃ³n de las Declaraciones Juradas que se indican en el cuadro siguiente:
+* 1° Fíjase, a contar del año tributario 2015, el plazo para la presentación de las Declaraciones Juradas que se indican en el cuadro siguiente:
 
-| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios NÂ°s** |
+| **Fecha de vencimiento:** | **Fecha de vencimiento:** | **Formularios N°s** |
 | --- | --- | --- |
 | 1 | 27 de febrero | 1831, 1891 y 1902 |
 | 2 | 05 de marzo | 1896 y 1898 |
@@ -41,18 +42,18 @@ VISTOS: Las necesidades del Servicio y las facultades contempladas en los artÃ�
 | 10 | 15 de junio | 1846 y 1847 |
 | 11 | 30 de junio | 1802, 1803, 1807, 1838, 1848, 1854, 1855, 1856, 1857, 1858, 1859, 1860, 1864, 1865, 1866, 1867, 1868 y 1907 |
 
-2Â° Cuando las fechas indicadas en el resolutivo anterior, terminen en dÃ­as SÃ¡bados, Domingos o Feriados, se entenderÃ¡ que el plazo de vencimiento de las referidas Declaraciones Juradas corresponderÃ¡ al dÃ­a primer dÃ­a hÃ¡bil siguiente, de acuerdo a lo previsto en el ArtÃ­culo 10 del CÃ³digo Tributario.
+2° Cuando las fechas indicadas en el resolutivo anterior, terminen en días Sábados, Domingos o Feriados, se entenderá que el plazo de vencimiento de las referidas Declaraciones Juradas corresponderá al día primer día hábil siguiente, de acuerdo a lo previsto en el Artículo 10 del Código Tributario.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL
 
 ## (FDO.) MICHEL JORRATT DE LUIS DIRECTOR (T y P)
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 VVM/CSM/PSM/ess.
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
-* AL BOLETÃN
+* AL BOLETÍN
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO

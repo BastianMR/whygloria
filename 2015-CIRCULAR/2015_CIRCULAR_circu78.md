@@ -1,89 +1,90 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 78 (2015)
-description: DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR NÂ° 78.- 19-2015 SN Circ. 106-2015 ID |
+---
+type: "SII Circular"
+title: "Circular N° 78 (2015)"
+description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 78.- 19-2015 SN Circ. 106-2015 ID |"
 tags: [SII, 2015, circular]
 ---
 
-| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR NÂ° 78.- 19-2015 SN Circ. 106-2015 ID** |
+
+| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 78.- 19-2015 SN Circ. 106-2015 ID** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 22 de septiembre de 2015.- |
-| MATERIA: Instruye sobre el plazo y procedimiento a travÃ©s del cual los contribuyentes deben dar aviso a este Servicio, en caso de pÃ©rdidas de existencias en el inventario, asÃ­ como respecto de la pÃ©rdida o inutilizaciÃ³n fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catÃ¡strofe nacional ocurrida el 16 de septiembre de 2015. | REF. LEGAL: Ley NÂ° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en D.F.L. NÂ° 104 de 1977, Ley NÂ° 20.444, artÃ­culo 31, inciso 3Â°, NÂ° 3 de la Ley sobre Impuesto a la Renta (LIR), artÃ­culo 79, de la Ley sobre Impuesto a las Ventas y Servicios y artÃ­culo 97 NÂ° 16 del CÃ³digo Tributario, Decreto Supremo NÂ° 1.227 del Ministerio del Interior, de 16 de septiembre de 2015, publicado en el D.O. el 21.09.2015. |
+| MATERIA: Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la catástrofe nacional ocurrida el 16 de septiembre de 2015. | REF. LEGAL: Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en D.F.L. N° 104 de 1977, Ley N° 20.444, artículo 31, inciso 3°, N° 3 de la Ley sobre Impuesto a la Renta (LIR), artículo 79, de la Ley sobre Impuesto a las Ventas y Servicios y artículo 97 N° 16 del Código Tributario, Decreto Supremo N° 1.227 del Ministerio del Interior, de 16 de septiembre de 2015, publicado en el D.O. el 21.09.2015. |
 
-## I.- INTRODUCCIÃ“N.
+## I.- INTRODUCCIÓN.
 
-Como es de conocimiento pÃºblico, el dÃ­a 16 de septiembre de 2015, la Provincia de Choapa y la Comuna de Coquimbo, ambas de la RegiÃ³n de Coquimbo, se vieron afectadas por un sismo con caracterÃ­sticas de terremoto, provocando daÃ±os en las personas, ocasionando derrumbes, y otros daÃ±os de consideraciÃ³n en diversas edificaciones y viviendas, red vial, servicios bÃ¡sicos y sistemas de comunicaciones de las regiones seÃ±aladas.
+Como es de conocimiento público, el día 16 de septiembre de 2015, la Provincia de Choapa y la Comuna de Coquimbo, ambas de la Región de Coquimbo, se vieron afectadas por un sismo con características de terremoto, provocando daños en las personas, ocasionando derrumbes, y otros daños de consideración en diversas edificaciones y viviendas, red vial, servicios básicos y sistemas de comunicaciones de las regiones señaladas.
 
-Dado los efectos de la catÃ¡strofe seÃ±alada, este Servicio imparte instrucciones especiales sobre la destrucciÃ³n y consecuente pÃ©rdida de existencias en el inventario, asÃ­ como respecto de la pÃ©rdida o inutilizaciÃ³n de los libros de contabilidad o documentos que sirven para acreditar las anotaciones contables o que estÃ©n relacionados con las actividades afectas a cualquier impuesto de las empresas ubicadas en las 'zonas afectadas por la catÃ¡strofe', que corresponden a la Provincia de Choapa y la Comuna de Coquimbo, ambas de la RegiÃ³n de Coquimbo, segÃºn establece el Decreto Supremo NÂ° 1.227, de 16 de septiembre de 2015, del Ministerio de Interior, publicado en el Diario Oficial el dÃ­a 21 de septiembre de 2015.
+Dado los efectos de la catástrofe señalada, este Servicio imparte instrucciones especiales sobre la destrucción y consecuente pérdida de existencias en el inventario, así como respecto de la pérdida o inutilización de los libros de contabilidad o documentos que sirven para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto de las empresas ubicadas en las 'zonas afectadas por la catástrofe', que corresponden a la Provincia de Choapa y la Comuna de Coquimbo, ambas de la Región de Coquimbo, según establece el Decreto Supremo N° 1.227, de 16 de septiembre de 2015, del Ministerio de Interior, publicado en el Diario Oficial el día 21 de septiembre de 2015.
 
-AdemÃ¡s, se informa sobre los efectos tributarios que provoca la dictaciÃ³n del Decreto Supremo NÂ° 1.227 de 2015, que establece las zonas afectadas por la catÃ¡strofe.
+Además, se informa sobre los efectos tributarios que provoca la dictación del Decreto Supremo N° 1.227 de 2015, que establece las zonas afectadas por la catástrofe.
 
 ## II.- INSTRUCCIONES SOBRE LA MATERIA.
 
-* 1.- Instrucciones relativas a la obligaciÃ³n de comunicar a este Servicio las pÃ©rdidas de existencias en los casos que indica y forma de acreditar tales pÃ©rdidas.
+* 1.- Instrucciones relativas a la obligación de comunicar a este Servicio las pérdidas de existencias en los casos que indica y forma de acreditar tales pérdidas.
 
-Las instrucciones generales sobre la materia estÃ¡n contenidas en la Circular NÂ° 3 de 1992, la cual se encuentra publicada en la pÃ¡gina web [<u>www.sii.cl</u>](http://www.sii.cl). Dichas instrucciones se mantienen plenamente vigentes, sin perjuicio que deben entenderse complementadas en el siguiente sentido:
+Las instrucciones generales sobre la materia están contenidas en la Circular N° 3 de 1992, la cual se encuentra publicada en la página web [<u>www.sii.cl</u>](http://www.sii.cl). Dichas instrucciones se mantienen plenamente vigentes, sin perjuicio que deben entenderse complementadas en el siguiente sentido:
 
-## a.- ObligaciÃ³n de comunicar al Servicio de Impuestos Internos.
+## a.- Obligación de comunicar al Servicio de Impuestos Internos.
 
-SegÃºn lo instruido a travÃ©s de Circular NÂ°3 de 1992, en caso de pÃ©rdidas de existencias en el inventario provenientes de caso fortuito o fuerza mayor, el contribuyente deberÃ¡ dar aviso a la Unidad del Servicio correspondiente a su domicilio, dentro del plazo de 48 horas de ocurrido el hecho.
+Según lo instruido a través de Circular N°3 de 1992, en caso de pérdidas de existencias en el inventario provenientes de caso fortuito o fuerza mayor, el contribuyente deberá dar aviso a la Unidad del Servicio correspondiente a su domicilio, dentro del plazo de 48 horas de ocurrido el hecho.
 
-No obstante lo anterior, dado el carÃ¡cter excepcional de la situaciÃ³n que atraviesa el paÃ­s, los contribuyentes domiciliados en la Provincia de Choapa y la Comuna de Coquimbo, ambas de la RegiÃ³n de Coquimbo, que quieran solicitar un plazo especial para efectuar tal comunicaciÃ³n, deberÃ¡n solicitarlo mediante una solicitud administrativa Formulario NÂ°2117 en la oficina de este Servicio que corresponda a su domicilio, acreditando las circunstancias que a su juicio le han impedido cumplir con el plazo establecido en la citada Circular NÂ°3. Dicho plazo no podrÃ¡ otorgarse mÃ¡s allÃ¡ del 31 de diciembre de 2015.
+No obstante lo anterior, dado el carácter excepcional de la situación que atraviesa el país, los contribuyentes domiciliados en la Provincia de Choapa y la Comuna de Coquimbo, ambas de la Región de Coquimbo, que quieran solicitar un plazo especial para efectuar tal comunicación, deberán solicitarlo mediante una solicitud administrativa Formulario N°2117 en la oficina de este Servicio que corresponda a su domicilio, acreditando las circunstancias que a su juicio le han impedido cumplir con el plazo establecido en la citada Circular N°3. Dicho plazo no podrá otorgarse más allá del 31 de diciembre de 2015.
 
-Las referidas comunicaciones podrÃ¡n presentarse en cualquier oficina del Servicio de Impuestos Internos.
+Las referidas comunicaciones podrán presentarse en cualquier oficina del Servicio de Impuestos Internos.
 
-## b.- Forma de acreditar las pÃ©rdidas de existencias.
+## b.- Forma de acreditar las pérdidas de existencias.
 
-Los contribuyentes que deban declarar su renta efectiva y que sufran daÃ±os o pÃ©rdidas de existencias o inventarios como consecuencia de la catÃ¡strofe seÃ±alada y se encuentren ubicados dentro de las 'zonas afectadas por la catÃ¡strofe', deberÃ¡n acreditar las pÃ©rdidas de existencias, cuando este Servicio asÃ­ lo requiera, aportando los siguientes antecedentes de respaldo:
+Los contribuyentes que deban declarar su renta efectiva y que sufran daños o pérdidas de existencias o inventarios como consecuencia de la catástrofe señalada y se encuentren ubicados dentro de las 'zonas afectadas por la catástrofe', deberán acreditar las pérdidas de existencias, cuando este Servicio así lo requiera, aportando los siguientes antecedentes de respaldo:
 
-i) Cuando el contribuyente sÃ³lo haya perdido sus mercaderÃ­as o existencias, conservando sus libros, registros y documentos de respaldo, deberÃ¡n obligatoriamente aportarse:
+i) Cuando el contribuyente sólo haya perdido sus mercaderías o existencias, conservando sus libros, registros y documentos de respaldo, deberán obligatoriamente aportarse:
 
-* Libros de contabilidad y otros libros o registros exigidos por este Servicio, con sus anotaciones al dÃ­a;
-* Control de existencias o inventarios, conforme a la ResoluciÃ³n Ex. NÂº985, de 24 de septiembre de 1975, cuando corresponda;
+* Libros de contabilidad y otros libros o registros exigidos por este Servicio, con sus anotaciones al día;
+* Control de existencias o inventarios, conforme a la Resolución Ex. Nº985, de 24 de septiembre de 1975, cuando corresponda;
 * Documentos tributarios de respaldo autorizados por el Servicio y que sirvieron de base para documentar sus operaciones comerciales, tanto recibidos, como emitidos.
 
-ii) Para acreditar el hecho de la pÃ©rdida, este Servicio aceptarÃ¡, entro otros, los siguientes antecedentes:
+ii) Para acreditar el hecho de la pérdida, este Servicio aceptará, entro otros, los siguientes antecedentes:
 
-* FotografÃ­as, registros, grabaciones, recortes de prensa y otros que permitan establecer o acreditarla;
-* Informes y/o certificaciones de instituciones tales como: Cuerpos de Bomberos de Chile, EjÃ©rcito de Chile, Armada de Chile, Carabineros de Chile, PolicÃ­a de Investigaciones de Chile (PDI), Servicio AgrÃ­cola y Ganadero (SAG), CorporaciÃ³n Nacional Forestal (CONAF), CompaÃ±Ã­as de Seguros, Municipalidades, Gobiernos Regionales o Provinciales, Oficina Nacional de Emergencias (ONEMI) Bancos o Instituciones Financieras, Servicio Nacional de Aduanas (SNA) o Gobernaciones MarÃ­timas.
+* Fotografías, registros, grabaciones, recortes de prensa y otros que permitan establecer o acreditarla;
+* Informes y/o certificaciones de instituciones tales como: Cuerpos de Bomberos de Chile, Ejército de Chile, Armada de Chile, Carabineros de Chile, Policía de Investigaciones de Chile (PDI), Servicio Agrícola y Ganadero (SAG), Corporación Nacional Forestal (CONAF), Compañías de Seguros, Municipalidades, Gobiernos Regionales o Provinciales, Oficina Nacional de Emergencias (ONEMI) Bancos o Instituciones Financieras, Servicio Nacional de Aduanas (SNA) o Gobernaciones Marítimas.
 
-Este Servicio, en mÃ©rito de los antecedentes aportados y en conformidad a lo dispuesto por el artÃ­culo 21 del CÃ³digo Tributario, calificarÃ¡ los antecedentes presentados para los fines de la aceptaciÃ³n del gasto por concepto de pÃ©rdidas de existencias a que se refiere el NÂ° 3, del inciso 3Â°, del artÃ­culo 31 de la Ley sobre Impuesto a la Renta, asÃ­ como para los fines de lo dispuesto en el artÃ­culo 79 de la Ley sobre Impuesto a las Ventas y Servicios.
+Este Servicio, en mérito de los antecedentes aportados y en conformidad a lo dispuesto por el artículo 21 del Código Tributario, calificará los antecedentes presentados para los fines de la aceptación del gasto por concepto de pérdidas de existencias a que se refiere el N° 3, del inciso 3°, del artículo 31 de la Ley sobre Impuesto a la Renta, así como para los fines de lo dispuesto en el artículo 79 de la Ley sobre Impuesto a las Ventas y Servicios.
 
-Finalmente, cabe seÃ±alar que el contribuyente, ejerciendo su derecho de peticiÃ³n, podrÃ¡ solicitar a este Servicio la constataciÃ³n fÃ­sica de las pÃ©rdidas sufridas presentando un Formulario NÂ° 2117 'TrÃ¡mites Generales - Solicitud,' para tal efecto.
+Finalmente, cabe señalar que el contribuyente, ejerciendo su derecho de petición, podrá solicitar a este Servicio la constatación física de las pérdidas sufridas presentando un Formulario N° 2117 'Trámites Generales - Solicitud,' para tal efecto.
 
-## 2.- Instrucciones relativas a la obligaciÃ³n de dar aviso a este Servicio de la pÃ©rdida o inutilizaciÃ³n fortuita de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables.
+## 2.- Instrucciones relativas a la obligación de dar aviso a este Servicio de la pérdida o inutilización fortuita de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables.
 
-El artÃ­culo 97, NÂ° 16 del CÃ³digo Tributario, establece que en todos los casos de pÃ©rdida o inutilizaciÃ³n de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estÃ©n relacionados con las actividades afectas a cualquier impuesto, los contribuyentes deberÃ¡n:
+El artículo 97, N° 16 del Código Tributario, establece que en todos los casos de pérdida o inutilización de los libros de contabilidad o documentos que sirvan para acreditar las anotaciones contables o que estén relacionados con las actividades afectas a cualquier impuesto, los contribuyentes deberán:
 
-a) Dar aviso al Servicio dentro de los 10 dÃ­as siguientes, y b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrÃ¡ ser inferior a treinta dÃ­as.
+a) Dar aviso al Servicio dentro de los 10 días siguientes, y b) Reconstituir la contabilidad dentro del plazo y conforme a las normas que fije el Servicio, plazo que no podrá ser inferior a treinta días.
 
-Agrega a continuaciÃ³n la norma legal en comento, que el incumplimiento de dichas obligaciones serÃ¡ sancionado con multa de hasta diez unidades tributarias mensuales.
+Agrega a continuación la norma legal en comento, que el incumplimiento de dichas obligaciones será sancionado con multa de hasta diez unidades tributarias mensuales.
 
-Por estar establecido en la Ley, el plazo para dar aviso de pÃ©rdida o inutilizaciÃ³n de la documentaciÃ³n y libros, serÃ¡ el indicado en el artÃ­culo 97, NÂ°16 del CÃ³digo Tributario, es decir, dentro de los diez (10) dÃ­as siguientes contados de la ocurrencia de la pÃ©rdida o inutilizaciÃ³n y deberÃ¡ efectuarse a travÃ©s del Formulario NÂº 3238 'Aviso - Informe PÃ©rdida - InutilizaciÃ³n de Documentos'; y/o el NÂ° 2117 'TrÃ¡mites Generales - Solicitud'.
+Por estar establecido en la Ley, el plazo para dar aviso de pérdida o inutilización de la documentación y libros, será el indicado en el artículo 97, N°16 del Código Tributario, es decir, dentro de los diez (10) días siguientes contados de la ocurrencia de la pérdida o inutilización y deberá efectuarse a través del Formulario Nº 3238 'Aviso - Informe Pérdida - Inutilización de Documentos'; y/o el N° 2117 'Trámites Generales - Solicitud'.
 
-Sin embargo, se instruye a los Directores Regionales de las 'zonas afectadas por la catÃ¡strofe' para que, en el caso de configurarse la infracciÃ³n establecida en el inciso 5Â°, del artÃ­culo 97, NÂ° 16,
+Sin embargo, se instruye a los Directores Regionales de las 'zonas afectadas por la catástrofe' para que, en el caso de configurarse la infracción establecida en el inciso 5°, del artículo 97, N° 16,
 
-citado, en uso de las facultades que establecen los artÃ­culos 6, letra B, NÂ°4, inciso 2Â°, y 106, ambos del CÃ³digo Tributario, que Ã©stos podrÃ¡n condonar el total de la multa que deba imponerse, cuando a su juicio dichas sanciones se hubieren originado por causa no imputable al contribuyente, como es precisamente la situaciÃ³n de fuerza mayor provocada por la catÃ¡strofe.
+citado, en uso de las facultades que establecen los artículos 6, letra B, N°4, inciso 2°, y 106, ambos del Código Tributario, que éstos podrán condonar el total de la multa que deba imponerse, cuando a su juicio dichas sanciones se hubieren originado por causa no imputable al contribuyente, como es precisamente la situación de fuerza mayor provocada por la catástrofe.
 
-Finalmente, cabe hacer presente que de no acreditarse fehacientemente la pÃ©rdida de las mercaderÃ­as o el carÃ¡cter fortuito de la pÃ©rdida o inutilizaciÃ³n de los libros de contabilidad u otros antecedentes, ello con motivo de la catÃ¡strofe, procederÃ¡ el cobro de los impuestos que pudieren adeudarse y la aplicaciÃ³n de las sanciones que correspondan conforme al CÃ³digo Tributario.
+Finalmente, cabe hacer presente que de no acreditarse fehacientemente la pérdida de las mercaderías o el carácter fortuito de la pérdida o inutilización de los libros de contabilidad u otros antecedentes, ello con motivo de la catástrofe, procederá el cobro de los impuestos que pudieren adeudarse y la aplicación de las sanciones que correspondan conforme al Código Tributario.
 
-## 3.- Efectos de la dictaciÃ³n del Decreto Supremo NÂ° 1.227 de 2015.
+## 3.- Efectos de la dictación del Decreto Supremo N° 1.227 de 2015.
 
-Junto con los demÃ¡s efectos que establece la Ley y el propio Decreto Supremo NÂ° 1.227 de 16 de septiembre de 2015, publicado en el Diario Oficial el 21 de septiembre de 2015, se informa que la dictaciÃ³n del mismo, habilita a los contribuyentes para efectuar donaciones al amparo de la Ley NÂ° 16.282 y al Fondo Nacional de ReconstrucciÃ³n en virtud de lo establecido en la Ley NÂ° 20.444 de 2010, con los beneficios tributarios que dichas normas establecen.
+Junto con los demás efectos que establece la Ley y el propio Decreto Supremo N° 1.227 de 16 de septiembre de 2015, publicado en el Diario Oficial el 21 de septiembre de 2015, se informa que la dictación del mismo, habilita a los contribuyentes para efectuar donaciones al amparo de la Ley N° 16.282 y al Fondo Nacional de Reconstrucción en virtud de lo establecido en la Ley N° 20.444 de 2010, con los beneficios tributarios que dichas normas establecen.
 
 Para tal efecto, los contribuyentes deben considerar las siguientes instrucciones:
 
-* Respecto de las donaciones efectuadas al amparo de la Ley NÂ° 16.282, las que se encuentran limitadas a aquellas donaciones que se efectÃºen y tengan por objeto satisfacer las necesidades bÃ¡sicas de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte de los habitantes de las zonas afectadas, este Servicio ha instruido mediante las Circulares NÂ° 24 de 1993, 19 de 2010 y 22 de 2014.
-* Respecto de las donaciones efectuadas al amparo de la Ley NÂ° 20.444 1 , cuyo objeto es financiar la construcciÃ³n, reconstrucciÃ³n, reposiciÃ³n, remodelaciÃ³n, restauraciÃ³n o rehabilitaciÃ³n de infraestructura, instalaciones, patrimonio histÃ³rico arquitectÃ³nico de zonas patrimoniales y zonas tÃ­picas, obras y equipamiento, ubicados en las comunas, provincias o regiones afectadas por terremotos, maremotos, erupciones volcÃ¡nicas, inundaciones, aluviones u otras catÃ¡strofes que puedan ocurrir en el territorio nacional, este Servicio ha instruido mediante la Circular NÂ° 22 de 2014.
+* Respecto de las donaciones efectuadas al amparo de la Ley N° 16.282, las que se encuentran limitadas a aquellas donaciones que se efectúen y tengan por objeto satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas, este Servicio ha instruido mediante las Circulares N° 24 de 1993, 19 de 2010 y 22 de 2014.
+* Respecto de las donaciones efectuadas al amparo de la Ley N° 20.444 1 , cuyo objeto es financiar la construcción, reconstrucción, reposición, remodelación, restauración o rehabilitación de infraestructura, instalaciones, patrimonio histórico arquitectónico de zonas patrimoniales y zonas típicas, obras y equipamiento, ubicados en las comunas, provincias o regiones afectadas por terremotos, maremotos, erupciones volcánicas, inundaciones, aluviones u otras catástrofes que puedan ocurrir en el territorio nacional, este Servicio ha instruido mediante la Circular N° 22 de 2014.
 
 ## III.- VIGENCIA DE ESTAS INSTRUCCIONES.
 
-Las presentes instrucciones regirÃ¡n desde el dÃ­a hÃ¡bil siguiente a la catÃ¡strofe, es decir, desde el 17 de septiembre de 2015.
+Las presentes instrucciones regirán desde el día hábil siguiente a la catástrofe, es decir, desde el 17 de septiembre de 2015.
 
 Saluda a Ud.,
 
-JARB/PCR DISTRIBUCIÃ“N: AL BOLETÃN OFICINA DE GESTIÃ“N NORMATIVA A INTERNET AL DIARIO OFICIAL EN EXTRACTO
+JARB/PCR DISTRIBUCIÓN: AL BOLETÍN OFICINA DE GESTIÓN NORMATIVA A INTERNET AL DIARIO OFICIAL EN EXTRACTO
 
-1 Modificada el aÃ±o 2012, por la Ley NÂ° 20.565.
+1 Modificada el año 2012, por la Ley N° 20.565.
 
 JUAN ALBERTO ROJAS BARRANTI DIRECTOR (S)

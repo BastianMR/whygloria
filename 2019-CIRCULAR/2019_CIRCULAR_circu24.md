@@ -1,24 +1,25 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 24 (2019)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 24 |
+---
+type: "SII Circular"
+title: "Circular N° 24 (2019)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 24 |"
 tags: [SII, 2019, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 24** |
+
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 24** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 DE JUNIO DE 2019 |
-| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de junio de 2019 y el 9 de julio de 2019. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2019 y el 9 de julio de 2019. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de junio de 2019 y 9 de julio de 2019, los cuales se indican en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de junio de 2019 y 9 de julio de 2019, los cuales se indican en forma destacada en negrita.
 
-## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
+## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
 
 (Publicado en D.O. de 08.06.2019)
 
-| **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** | **AÃ‘O 2019** |
+| **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** | **AÑO 2019** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 27.565,79 | 27.545,34 | 27.557,89 | 27.565,76 | 27.666,77 | 27.765,23 | 27.908,86 |  |  |  |  |  |
 | 2 | 27.565,79 | 27.544,45 | 27.558,87 | 27.565,76 | 27.671,37 | 27.767,91 | 27.914,43 |  |  |  |  |  |
 | 3 | 27.565,79 | 27.543,56 | 27.559,85 | 27.565,76 | 27.675,97 | 27.770,60 | 27.920,00 |  |  |  |  |  |
@@ -55,5 +56,5 @@ Saluda a Ud.,
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR
 
-* AL BOLETÃN
+* AL BOLETÍN
 * A INTERNET

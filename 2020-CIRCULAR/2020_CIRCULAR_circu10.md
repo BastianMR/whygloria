@@ -1,24 +1,25 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 10 (2020)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 10 015-2020 OGN |
+---
+type: "SII Circular"
+title: "Circular N° 10 (2020)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 10 015-2020 OGN |"
 tags: [SII, 2020, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 10 015-2020 OGN** |
+
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 10 015-2020 OGN** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 FEBRERO 2020 |
-| MATERIA: Operaciones de crÃ©dito de dinero. Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : REF. LEGAL: acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
+| MATERIA: Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : REF. LEGAL: acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta. |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.1990, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de febrero de 2020 y 9 de marzo de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41 bis de la Ley sobre Impuesto a la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.1990, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de febrero de 2020 y 9 de marzo de 2020, ambos inclusive, el que se indica en forma destacada en negrita.
 
-## Valor diario de la Unidad de Fomento del perÃ­odo antes indicado
+## Valor diario de la Unidad de Fomento del período antes indicado
 
 ## (Publicado en D.O. de 08.02.2020)
 
-| **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** | **AÃ‘O 2020** |
+| **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** | **AÑO 2020** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| DÃA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
+| DÍA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 28.310,86 | 28.339,17 | 28.469,54 |  |  |  |  |  |  |  |  |  |
 | 2 | 28.311,77 | 28.340,08 | 28.475,41 |  |  |  |  |  |  |  |  |  |
 | 3 | 28.312,68 | 28.341,00 | 28.481,29 |  |  |  |  |  |  |  |  |  |

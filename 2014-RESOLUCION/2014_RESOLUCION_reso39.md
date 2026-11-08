@@ -1,37 +1,38 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 19 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 19 (2014)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-## REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÃ‘ALA.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+
+## REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA.
 
 ## SANTIAGO, 17 de abril de 2014.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_39.-\_\_\_ \_\_/
+RESOLUCIÓN EXENTA SII N° \_\_\_\_39.-\_\_\_ \_\_/
 
-VISTOS: Lo dispuesto en el Art. 6Â°, Inciso NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ° 830, de 1974; en el Art. 4Â° bis del D.F.L. NÂ° 7, 1980, del Ministerio de Hacienda, la Ley NÂ° 20.727, de 2014; y
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 4° bis del D.F.L. N° 7, 1980, del Ministerio de Hacienda, la Ley N° 20.727, de 2014; y
 
 ## CONSIDERANDO:
 
-1Â° Que, el Art. 4Â° bis, inciso segundo, del D.F.L. NÂ° 7, 1980, del Ministerio de Hacienda, seÃ±ala que el Servicio de Impuestos Internos podrÃ¡ relacionarse directamente con los contribuyentes y Ã©stos con el Servicio, a travÃ©s de medios electrÃ³nicos.
+1° Que, el Art. 4° bis, inciso segundo, del D.F.L. N° 7, 1980, del Ministerio de Hacienda, señala que el Servicio de Impuestos Internos podrá relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos.
 
-2Â° Que, los contribuyentes que se detallan en el Resolutivo primero, tercero y cuarto de la presente resoluciÃ³n han postulado como emisores de documentos tributarios electrÃ³nicos y cumplen con los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003 para ser registrados como tal.
+2° Que, los contribuyentes que se detallan en el Resolutivo primero, tercero y cuarto de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser registrados como tal.
 
-3Â° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrÃ³nicos mediante la Res. Ex. SII NÂ° 23, del 17 de Febrero de 2012 y la Res. Ex. SII NÂ° 79, del 17 de Junio de 2011, de acuerdo a los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+3° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrónicos mediante la Res. Ex. SII N° 23, del 17 de Febrero de 2012 y la Res. Ex. SII N° 79, del 17 de Junio de 2011, de acuerdo a los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-4Â° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrÃ³nicos mediante la Res. Ex. SII NÂ° 07, del 10 de Enero de 2013, la Res. Ex. SII NÂ° 31, del 31 de Marzo de 2014, la Res. Ex. SII NÂ° 13, del 31 de Enero de 2014, la Res. Ex. SII NÂ° 14, del 30 de Enero del 2009, la Res. Ex. SII NÂ° 158, del 20 de Octubre de 2010, la Res. Ex. SII NÂ° 29, del 18 de Marzo de 2014, la Res. Ex. SII NÂ° 22, del 14 de Febrero de 2014, la Res. Ex. SII NÂ° 43, del 19 de Marzo de 2012, la Res. Ex. SII NÂ° 81, del 30 de Junio de 2008, la Res. Ex. SII NÂ° 128, del 29 de Noviembre de 2005, la Res. Ex. SII NÂ° 83, del 01 de Agosto de 2012, la Res. Ex. SII NÂ° 25, del 27 de Febrero de 2014, la Res. Ex. SII NÂ° 33, del 19 de Marzo de 2013, la Res. Ex. SII NÂ° 113, del 28 de Octubre de 2005, la Res. Ex. SII NÂ° 94, del 18 de Noviembre de 2013 y la Res. Ex. SII NÂ° 11, del 01 de Febrero de 2011, de acuerdo a los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+4° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrónicos mediante la Res. Ex. SII N° 07, del 10 de Enero de 2013, la Res. Ex. SII N° 31, del 31 de Marzo de 2014, la Res. Ex. SII N° 13, del 31 de Enero de 2014, la Res. Ex. SII N° 14, del 30 de Enero del 2009, la Res. Ex. SII N° 158, del 20 de Octubre de 2010, la Res. Ex. SII N° 29, del 18 de Marzo de 2014, la Res. Ex. SII N° 22, del 14 de Febrero de 2014, la Res. Ex. SII N° 43, del 19 de Marzo de 2012, la Res. Ex. SII N° 81, del 30 de Junio de 2008, la Res. Ex. SII N° 128, del 29 de Noviembre de 2005, la Res. Ex. SII N° 83, del 01 de Agosto de 2012, la Res. Ex. SII N° 25, del 27 de Febrero de 2014, la Res. Ex. SII N° 33, del 19 de Marzo de 2013, la Res. Ex. SII N° 113, del 28 de Octubre de 2005, la Res. Ex. SII N° 94, del 18 de Noviembre de 2013 y la Res. Ex. SII N° 11, del 01 de Febrero de 2011, de acuerdo a los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-5Â° Que, los contribuyentes que se describen en el Resolutivo segundo, tercero y cuarto han solicitado el otorgamiento de la autorizaciÃ³n de que se trata por Internet y han cumplido satisfactoriamente con el proceso de postulaciÃ³n que los habilita para ser emisores de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, de acuerdo a lo establecido en la ResoluciÃ³n Ex. SII NÂ° 19, de 12 de Febrero de 2008.
+5° Que, los contribuyentes que se describen en el Resolutivo segundo, tercero y cuarto han solicitado el otorgamiento de la autorización de que se trata por Internet y han cumplido satisfactoriamente con el proceso de postulación que los habilita para ser emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, de acuerdo a lo establecido en la Resolución Ex. SII N° 19, de 12 de Febrero de 2008.
 
 ## SE RESUELVE:
 
-Primero : RegÃ­strese como emisores de Documentos Tributarios ElectrÃ³nicos, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
+Primero : Regístrese como emisores de Documentos Tributarios Electrónicos, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
 
 | **- AGRICOLA LAS HIGUERAS S.A.** | **79.536.640-7** |
 | --- | --- |
@@ -44,11 +45,11 @@ Primero : RegÃ­strese como emisores de Documentos Tributarios ElectrÃ³nicos,
 | - ASESORIA LEGAL HUGO GONZALO NIEVA E.I.R.L. | 76.359.903-5 |
 
 * ASESORIAS Y SERVICIOS INTEGRALES SAN LUIS SPA. 76.043.923-1 - ASH CONSTRUCTORA SPA. 76.257.382-2 - AULA EDITORES S.A. 76.591.500-7 - AURORA AUSTRALIS S.A. 76.135.131-1 - AUTOFACT CHILE SPA. 76.197.647-8 - AUTOMOTRIZ BAUDET DONOSO LTDA. 76.331.841-9 - BATNA S.A. 76.942.430-K - BIANCHI CHILE S.A. 96.808.880-7 - BIDDING SPA. 76.351.327-0 - CARMEN SYLVIA FRIAS BAREA 06.862.445-2 - CECILIA GONZALEZ ACUNA LTDA. 76.247.570-7 - CHILE SOLID S.A. 76.030.543-K - CHIRGWIN ABOGADOS SPA. 76.073.068-8 - CHRISTIAN BRAVO Y CIA. LTDA. 52.004.777-8 - COAGRA SOLUCIONES FINANCIERAS S.A. 76.148.326-9 - COMERCIAL BULLDOG LTDA. 76.097.469-2 - COMERCIAL E INDUSTRIAL ALTO CALAFQUEN LTDA. 77.680.180-1 - COMERCIAL E INDUSTRIAL COIN S.A. 96.584.280-2 - COMERCIAL E INDUSTRIAL TECNAROME LTDA. 76.452.040-8 - COMERCIAL HELVETICA S.A. 76.024.459-7 - COMERCIAL LOS REYES SPA. 76.338.544-2 - COMERCIAL NUTRIMEL LTDA. 76.054.140-0 - COMERCIAL PAL HARMONY CHILE LTDA. 77.161.670-4 - COMERCIAL RESCATELIFE LTDA. 76.217.441-3 - COMERCIAL TERMOLAM LTDA. 76.007.089-0 - COMERCIAL V.A.M. OFFICES SUPPLIES LTDA. 76.265.266-8 - COMERCIAL VITACURA SPA. 76.261.108-2 - COMERCIAL Y SERVICIOS LENGA LTDA. 76.162.957-3 - COMERCIALIZADORA CASA ITALIA SPA. 76.191.066-3 - COMERCIALIZADORA CYDRAULIC LTDA. 76.332.507-5 - COMERCIALIZADORA GUAJARDO Y CIA. LTDA. 76.076.497-3 - COMERCIALIZADORA PLASTIVAL LTDA. 76.739.760-7 - CONDOR BUS LTDA. 80.228.400-4 - CONSORCIO GASTRONOMICO PARTNERS LTDA. 76.226.399-8 - CONSTRUCCIONES OLEGARIO PEREZ Y CIA. LTDA. 88.161.700-5 - CONSTRUCTORA ANDRIGHETTI HERMANOS LTDA. 77.033.990-1 - CONSTRUCTORA INCOLUR IECSA LTDA. 77.913.240-4 - CONSTRUCTORA INFINISKI LTDA. 76.039.911-6 - CONSULTORES DE INGENIERIA LTDA. 85.136.400-5 - CORROSION INTEGRAL Y TECNOLOGIA LTDA. 77.902.010-K - CSAV AGENCIAMIENTO MARITIMO SPA. 76.350.651-7 - DGCONTENT S.A. 76.467.430-8 - DIAZ Y GARCES LTDA. 76.202.323-7 - EAGON LAUTARO S.A. 96.665.000-1 - EGIDO TRANSPORGRUAS Y CIA. LTDA. 77.095.760-5 - ELECTRONICA MACTECH LTDA. 76.266.101-2 - EQUINTEC SPA. 76.284.932-1 - ESPINOLA Y CIA. LTDA. 77.948.010-0 - ESTACIONES DE SERVICIO EN RED LTDA. 78.964.720-8 - EVOLUTION INGENIERIA LTDA. 76.264.979-9 - FORESTAL Y ASERRADERO LEONERA LTDA. 52.000.288-K - FRUTERA AGUAS BLANCAS LTDA. 79.660.760-2 - GESTION DE PROYECTOS ELECTRICOS S.A. 99.566.950-1 - GO FACTORING S.A. 76.111.453-0 - GONLINE S.A. 76.172.631-5 - GOODLOCK SPA. 76.237.008-5 - GRABADOS FOTOPOLIMEROS CHILE LTDA. 76.151.340-0 - HADPRO COMPUTACION CRISTIAN RODRIGO HERNANDEZ LOPEZ SPA. 76.360.531-0 - HADPRO OUTSOURCING CRISTIAN RODRIGO HERNANDEZ LOPEZ E.I.R.L. 76.360.527-2 - HPV S.A. 76.058.347-2
-* IBANEZ RAMIREZ HERMANOS LTDA. 76.105.978-5 - IMALAB S.A. 76.244.189-6 - IMPORGEN S.A. 76.077.198-8 - IMPORTADORA CERO MOTORS LTDA. 76.137.248-3 - IMPORTADORA Y DISTRIBUIDORA HOHOS LTDA. 77.675.490-0 - IN MOTION SERVICIOS S.A. 99.525.490-5 - INDUSTRIA DE BALATAS CABAL S.A. 88.720.600-7 - INGENIERIA DE PROYECTOS Y ASESORIAS LTDA. 79.711.380-8 - INGENIERIA Y CONSTRUCCION GB CINCO S.A. 96.981.910-4 - INGENIERIA Y PROYECTOS DE CLIMATIZACION LTDA. 76.026.022-3 - INGENIERÃA, CONSTRUCCIONES, SERVICIOS AGRÃCOLAS, GANADEROS Y FORESTALES ARL LTDA. 76.293.078-1 - INGENIO INVERSIONES SPA. 76.184.934-4 - INGESACO CONSULTORES LTDA. 76.329.825-6 - INMOBILIARIA E INVERSIONES ANDO LTDA. 96.593.960-1 - INMOBILIARIA E INVERSIONES LA RABIDA LTDA. 96.866.450-6 - INMOBILIARIA E INVERSIONES MALL PLAZA DE LOS RIOS LTDA. 77.503.420-3 - INMOBILIARIA E INVERSIONES PESCO LTDA. 76.057.855-K - INMOBILIARIA E INVERSIONES RIO TAJO LTDA. 78.856.650-6 - INMOBILIARIA SAN ROSENDO LTDA. 76.196.772-K - INMOBILIARIA TEUBER S.A. 78.202.100-1 - INRECAR S.A. 76.080.842-3 - INTEGRAL BTL MARKETING LTDA. 76.103.099-K - INVERSIONES ANDRIGHETTI CIFUENTES S.A. 76.311.960-2 - INVERSIONES C&M LTDA. 76.151.134-3 - INVERSIONES DR. FISH LTDA. 76.268.168-4 - INVERSIONES PINTACURA S.A. 99.586.450-9 - INVERSIONES SEREMOSMAS LTDA. 76.152.713-4 - INVERSIONES Y COMUNICACIONES TU MOVIL LTDA. 76.270.185-5 - INVERSIONES Y SERVICIOS COMERCIALES TRANSWARRANTS S.A. 96.808.570-0 - INZAFE S.A. 76.250.712-9 - JARDIN CENTER LTDA. 76.320.997-0 - JENNY STELLA SCHEIHING NEEDHAM 06.799.227-K - JOSE ALFREDO TRUJILLO HIDALGO 16.678.398-4 - JRP INGENIERIA Y CONSTRUCCION LTDA. 77.387.860-9 - JUAN CARLOS VALDIVIA MOLINA 07.863.130-9 - LA ELEGANTE OPEN PLAZA LTDA. 76.320.933-4 - LA HIGUERA S.A. 96.864.810-1 - LAMINAS FLEXIBLES LTDA. 76.009.692-K - LARRAIN SIERRA Y CIA. LTDA. 82.293.400-5 - LDC COMERCIAL CHILE LTDA. 76.216.839-1 - LUZ JEANNETTE FUENTES RAPOSO 08.929.002-3 - MAESTRANZA EMILIO VILLEGAS E HIJOS LTDA. 76.129.363-K - MAFRA INDUSTRIAL LTDA. 76.289.199-9 - MAGIC COLORS LTDA. 76.239.971-7 - MANTILHUE LTDA. 76.076.140-0 - MARCOS MURANA QUISPE 08.862.698-2 - MARIA ESTER GALLARDO RIVEROS 06.065.135-3 - MARIA PAZ UGARTE WOLFES TRANSPORTES E.I.R.L. 52.003.052-2 - MAS DESIGN PLUSS SPA. 76.311.355-8 - MASTOOLS CHILE SPA. 76.333.151-2 - MAXS SIMMONDS WAGEMANN CONSULTING E.I.R.L. 76.093.643-K - MERIT INGENIERIA S.A. 76.008.773-4 - MGS REPUESTOS Y CIA. LTDA. 76.200.860-2 - MILANO OBRAS LTDA. 77.105.500-1 - MONTAJES INDUSTRIALES NOVEL LTDA. 76.153.650-8 - MONTALDO GONZALEZ LTDA. 76.416.720-1 - MUEBLES FORESTA LTDA. 89.693.600-K - MUNDO DEL VINO S.A. 76.352.378-0 - NET PEOPLE CHILE S.A. 79.755.260-7
-* NEWGEST AUDITORES Y CONSULTORES ASOCIADOS SPA. 76.272.483-9 - NG MADERAS S.A. 78.421.870-8 - NILFISK-ADVANCE S.A. 76.036.110-0 - OSMOFLO SPA. 76.151.357-5 - PANELES DECORADOS LTDA. 76.008.186-8 - PATRICIA ILONKA CSILLAG PIMSTEIN 07.772.509-1 - PESCO CAPACITACIONES LTDA. 76.079.405-8 - PESCO RENTAL S.A. 76.238.635-6 - PESCO SEGURIDAD Y SERVICIOS S.A. 76.132.956-1 - PETEWAY SPA. 76.362.676-8 - PLANETSOFT S.A. 96.851.330-3 - PORTE & CANALES ABOGADOS Y CONSULTORES LTDA. 76.096.182-5 - PRODUCCION Y SERVICIOS DE EMBALAJES Y ETIQUETAS PEDRO GUILLERMO ECHEVERRIA RUIZ E.I.R.L. 76.252.473-2 - PROVEEDORA E IMPORTADORA DE EQUIPOS INDUSTRIALES S.A.C.I. 92.765.000-2 - PROQUIMIA S.A. 96.695.350-0 - QUIMIALMEL CHILE SPA. 76.713.760-5 - RECICLADORA RECICLEAN SPA. 76.201.081-K - REINALDO HERNAN ESPELETA SANTIS MANTENCIONES INDUSTRIALES E.I.R.L. 76.268.844-1 - RENT A CAR ARAYA HERMANOS LTDA. 76.248.406-4 - RENTAS FONZASO S.A. 76.085.228-7 - RESIDUOS SOLIDOS COYHAIQUE LTDA. 77.647.600-5 - REVESTIMIENTOS DECO S.A. 76.019.598-7 - REVESTIMIENTOS SINTETICOS S.A. 96.701.050-2 - ROBERT HALF INTERNACIONAL EMPRESA DE SERVICIOS TRANSITORIOS LTDA. 76.108.845-9 - RUBEN PASCUAL ROJAS ISLA 05.348.136-1 - SANTA ISABEL SELLOS DE SEGURIDAD LTDA. 76.050.435-1 - SCHWAGER SERVICE S.A. 76.145.047-6 - SEIDOR TECHNOLOGIES S.A. 76.449.580-2 - SERVICIO DE ASESORIA Y CONSULTORIA LEGAL Y ADMINISTRATIVA LTDA. 76.363.224-5 - SERVICIOS CLOUD CONSULTING LTDA. 76.194.955-1 - SERVICIOS COCINAS INDUSTRIALES KITCHEN RENTAL LTDA. 76.317.035-7 - SERVICIOS DE AMBIENTACION Y PRODUCCION LTDA. 76.153.924-8 - SERVICIOS EMPRESARIALES Y NEGOCIOS S.A. 96.967.290-1 - SERVICIOS INDUSTRIALES BRIGIDO HERNÃN LÃ“PEZ FUENTES E.I.R.L. 76.305.388-1 - SERVICIOS INDUSTRIALES GROUP LTDA. 76.016.561-1 - SOC. AGRICOLA Y AVICOLA SANTA CARMEN LTDA. 89.241.900-0 - SOC. COM ALTO REPRESENTACIONES LTDA. 76.839.330-3 - SOC. COMERCIAL, INDUSTRIAL Y SERVICIOS CLEANWORK LTDA. 76.187.680-5 - SOC. COMERCIALIZADORA DE RIEGOS LTDA. 78.461.630-4 - SOC. DE DESARROLLO TECNOLOGICO LTDA. 77.442.380-K - SOC. DE SERVICIOS DE ALIMENTACION S.A. 96.987.050-9 - SOC. DE TRANSPORTES GT LTDA. 77.707.220-K - SOC. INTELEC LTDA. 77.287.250-K - SOC. VIVERO RANCAGUA S.A. 85.074.700-8 - SOCIEDAD ADMINISTRADORA ISIDORA S.A. 76.218.347-1 - SOCIEDAD COLORADO RED BIKES S.A. 76.320.082-5 - SOCIEDAD COMERCIAL ARAUCANIA LTDA. 76.042.313-0 - SOCIEDAD COMERCIAL VASQUEZ MONTENEGRO LTDA. 76.056.038-3 - SOCIEDAD CONTRACTUAL MINERA CORPORACION DE DESARROLLO DEL NORTE 96.630.310-7 - SOCIEDAD DE INVERSIONES CORNEJO ARANGUIZ E HIJOS LTDA. 76.226.565-6 - SOCIEDAD DE INVERSIONES MAC-KAY LTDA. 76.113.656-9 - SOCIEDAD DE INVERSIONES ORANGE FISH S.A. 76.208.366-3 - SOCIEDAD DE TECNOLOGIA GREENTECK LTDA. 76.208.713-8 - SOCIEDAD DE TRANSPORTES ARAUCANIA LTDA. 76.055.973-3 - SOCIEDAD DE TRANSPORTES ILLESCA LTDA. 76.278.626-5 - SOCIEDAD INMOBILIARIA E INVERSIONES ROSNER LTDA. 76.027.125-K - SOCIEDAD SERFOVAL LTDA. 76.090.919-K - SOLUCIONES MINERAS SPA. 76.310.584-9 - SOLUCIONES TECNICAS AVILA & PERIC LTDA. 76.219.601-8
+* IBANEZ RAMIREZ HERMANOS LTDA. 76.105.978-5 - IMALAB S.A. 76.244.189-6 - IMPORGEN S.A. 76.077.198-8 - IMPORTADORA CERO MOTORS LTDA. 76.137.248-3 - IMPORTADORA Y DISTRIBUIDORA HOHOS LTDA. 77.675.490-0 - IN MOTION SERVICIOS S.A. 99.525.490-5 - INDUSTRIA DE BALATAS CABAL S.A. 88.720.600-7 - INGENIERIA DE PROYECTOS Y ASESORIAS LTDA. 79.711.380-8 - INGENIERIA Y CONSTRUCCION GB CINCO S.A. 96.981.910-4 - INGENIERIA Y PROYECTOS DE CLIMATIZACION LTDA. 76.026.022-3 - INGENIERÍA, CONSTRUCCIONES, SERVICIOS AGRÍCOLAS, GANADEROS Y FORESTALES ARL LTDA. 76.293.078-1 - INGENIO INVERSIONES SPA. 76.184.934-4 - INGESACO CONSULTORES LTDA. 76.329.825-6 - INMOBILIARIA E INVERSIONES ANDO LTDA. 96.593.960-1 - INMOBILIARIA E INVERSIONES LA RABIDA LTDA. 96.866.450-6 - INMOBILIARIA E INVERSIONES MALL PLAZA DE LOS RIOS LTDA. 77.503.420-3 - INMOBILIARIA E INVERSIONES PESCO LTDA. 76.057.855-K - INMOBILIARIA E INVERSIONES RIO TAJO LTDA. 78.856.650-6 - INMOBILIARIA SAN ROSENDO LTDA. 76.196.772-K - INMOBILIARIA TEUBER S.A. 78.202.100-1 - INRECAR S.A. 76.080.842-3 - INTEGRAL BTL MARKETING LTDA. 76.103.099-K - INVERSIONES ANDRIGHETTI CIFUENTES S.A. 76.311.960-2 - INVERSIONES C&M LTDA. 76.151.134-3 - INVERSIONES DR. FISH LTDA. 76.268.168-4 - INVERSIONES PINTACURA S.A. 99.586.450-9 - INVERSIONES SEREMOSMAS LTDA. 76.152.713-4 - INVERSIONES Y COMUNICACIONES TU MOVIL LTDA. 76.270.185-5 - INVERSIONES Y SERVICIOS COMERCIALES TRANSWARRANTS S.A. 96.808.570-0 - INZAFE S.A. 76.250.712-9 - JARDIN CENTER LTDA. 76.320.997-0 - JENNY STELLA SCHEIHING NEEDHAM 06.799.227-K - JOSE ALFREDO TRUJILLO HIDALGO 16.678.398-4 - JRP INGENIERIA Y CONSTRUCCION LTDA. 77.387.860-9 - JUAN CARLOS VALDIVIA MOLINA 07.863.130-9 - LA ELEGANTE OPEN PLAZA LTDA. 76.320.933-4 - LA HIGUERA S.A. 96.864.810-1 - LAMINAS FLEXIBLES LTDA. 76.009.692-K - LARRAIN SIERRA Y CIA. LTDA. 82.293.400-5 - LDC COMERCIAL CHILE LTDA. 76.216.839-1 - LUZ JEANNETTE FUENTES RAPOSO 08.929.002-3 - MAESTRANZA EMILIO VILLEGAS E HIJOS LTDA. 76.129.363-K - MAFRA INDUSTRIAL LTDA. 76.289.199-9 - MAGIC COLORS LTDA. 76.239.971-7 - MANTILHUE LTDA. 76.076.140-0 - MARCOS MURANA QUISPE 08.862.698-2 - MARIA ESTER GALLARDO RIVEROS 06.065.135-3 - MARIA PAZ UGARTE WOLFES TRANSPORTES E.I.R.L. 52.003.052-2 - MAS DESIGN PLUSS SPA. 76.311.355-8 - MASTOOLS CHILE SPA. 76.333.151-2 - MAXS SIMMONDS WAGEMANN CONSULTING E.I.R.L. 76.093.643-K - MERIT INGENIERIA S.A. 76.008.773-4 - MGS REPUESTOS Y CIA. LTDA. 76.200.860-2 - MILANO OBRAS LTDA. 77.105.500-1 - MONTAJES INDUSTRIALES NOVEL LTDA. 76.153.650-8 - MONTALDO GONZALEZ LTDA. 76.416.720-1 - MUEBLES FORESTA LTDA. 89.693.600-K - MUNDO DEL VINO S.A. 76.352.378-0 - NET PEOPLE CHILE S.A. 79.755.260-7
+* NEWGEST AUDITORES Y CONSULTORES ASOCIADOS SPA. 76.272.483-9 - NG MADERAS S.A. 78.421.870-8 - NILFISK-ADVANCE S.A. 76.036.110-0 - OSMOFLO SPA. 76.151.357-5 - PANELES DECORADOS LTDA. 76.008.186-8 - PATRICIA ILONKA CSILLAG PIMSTEIN 07.772.509-1 - PESCO CAPACITACIONES LTDA. 76.079.405-8 - PESCO RENTAL S.A. 76.238.635-6 - PESCO SEGURIDAD Y SERVICIOS S.A. 76.132.956-1 - PETEWAY SPA. 76.362.676-8 - PLANETSOFT S.A. 96.851.330-3 - PORTE & CANALES ABOGADOS Y CONSULTORES LTDA. 76.096.182-5 - PRODUCCION Y SERVICIOS DE EMBALAJES Y ETIQUETAS PEDRO GUILLERMO ECHEVERRIA RUIZ E.I.R.L. 76.252.473-2 - PROVEEDORA E IMPORTADORA DE EQUIPOS INDUSTRIALES S.A.C.I. 92.765.000-2 - PROQUIMIA S.A. 96.695.350-0 - QUIMIALMEL CHILE SPA. 76.713.760-5 - RECICLADORA RECICLEAN SPA. 76.201.081-K - REINALDO HERNAN ESPELETA SANTIS MANTENCIONES INDUSTRIALES E.I.R.L. 76.268.844-1 - RENT A CAR ARAYA HERMANOS LTDA. 76.248.406-4 - RENTAS FONZASO S.A. 76.085.228-7 - RESIDUOS SOLIDOS COYHAIQUE LTDA. 77.647.600-5 - REVESTIMIENTOS DECO S.A. 76.019.598-7 - REVESTIMIENTOS SINTETICOS S.A. 96.701.050-2 - ROBERT HALF INTERNACIONAL EMPRESA DE SERVICIOS TRANSITORIOS LTDA. 76.108.845-9 - RUBEN PASCUAL ROJAS ISLA 05.348.136-1 - SANTA ISABEL SELLOS DE SEGURIDAD LTDA. 76.050.435-1 - SCHWAGER SERVICE S.A. 76.145.047-6 - SEIDOR TECHNOLOGIES S.A. 76.449.580-2 - SERVICIO DE ASESORIA Y CONSULTORIA LEGAL Y ADMINISTRATIVA LTDA. 76.363.224-5 - SERVICIOS CLOUD CONSULTING LTDA. 76.194.955-1 - SERVICIOS COCINAS INDUSTRIALES KITCHEN RENTAL LTDA. 76.317.035-7 - SERVICIOS DE AMBIENTACION Y PRODUCCION LTDA. 76.153.924-8 - SERVICIOS EMPRESARIALES Y NEGOCIOS S.A. 96.967.290-1 - SERVICIOS INDUSTRIALES BRIGIDO HERNÁN LÓPEZ FUENTES E.I.R.L. 76.305.388-1 - SERVICIOS INDUSTRIALES GROUP LTDA. 76.016.561-1 - SOC. AGRICOLA Y AVICOLA SANTA CARMEN LTDA. 89.241.900-0 - SOC. COM ALTO REPRESENTACIONES LTDA. 76.839.330-3 - SOC. COMERCIAL, INDUSTRIAL Y SERVICIOS CLEANWORK LTDA. 76.187.680-5 - SOC. COMERCIALIZADORA DE RIEGOS LTDA. 78.461.630-4 - SOC. DE DESARROLLO TECNOLOGICO LTDA. 77.442.380-K - SOC. DE SERVICIOS DE ALIMENTACION S.A. 96.987.050-9 - SOC. DE TRANSPORTES GT LTDA. 77.707.220-K - SOC. INTELEC LTDA. 77.287.250-K - SOC. VIVERO RANCAGUA S.A. 85.074.700-8 - SOCIEDAD ADMINISTRADORA ISIDORA S.A. 76.218.347-1 - SOCIEDAD COLORADO RED BIKES S.A. 76.320.082-5 - SOCIEDAD COMERCIAL ARAUCANIA LTDA. 76.042.313-0 - SOCIEDAD COMERCIAL VASQUEZ MONTENEGRO LTDA. 76.056.038-3 - SOCIEDAD CONTRACTUAL MINERA CORPORACION DE DESARROLLO DEL NORTE 96.630.310-7 - SOCIEDAD DE INVERSIONES CORNEJO ARANGUIZ E HIJOS LTDA. 76.226.565-6 - SOCIEDAD DE INVERSIONES MAC-KAY LTDA. 76.113.656-9 - SOCIEDAD DE INVERSIONES ORANGE FISH S.A. 76.208.366-3 - SOCIEDAD DE TECNOLOGIA GREENTECK LTDA. 76.208.713-8 - SOCIEDAD DE TRANSPORTES ARAUCANIA LTDA. 76.055.973-3 - SOCIEDAD DE TRANSPORTES ILLESCA LTDA. 76.278.626-5 - SOCIEDAD INMOBILIARIA E INVERSIONES ROSNER LTDA. 76.027.125-K - SOCIEDAD SERFOVAL LTDA. 76.090.919-K - SOLUCIONES MINERAS SPA. 76.310.584-9 - SOLUCIONES TECNICAS AVILA & PERIC LTDA. 76.219.601-8
 * SUAZO GOMEZ S.A. 80.955.900-9 - SZALAY & GARIAZZO CIA. LTDA. 76.261.903-2 - TECHNO PACIFIC LTDA. 77.111.910-7 - TECNO- WOOD LTDA. 76.361.854-4 - TECNOLOGIA Y TELECOMUNICACIONES LTDA. 76.176.947-2 - TRANS WARRANTS S.A. 84.540.600-6 - TRANSPORTES DELGADO LTDA. 76.130.032-6 - TRANSPORTES PELLIN LTDA. 76.194.840-7 - TRANSPORTES SANTA MARIA S.A. 79.705.390-2 - UPSOLUTIONS CONSULTING S.A. 76.268.358-K - URBE DISENO Y GESTION URBANA LTDA. 78.462.500-1 - VENDETU SPA. 76.363.561-9 - VENTAS Y SERVICIOS TAILOR MACHINERY AND EQUIPMENT LTDA. 76.184.103-3 - VICTORIA CANALES Y CIA. LTDA. 79.610.730-8 - VIDELA Y ASOCIADOS S.A. 76.135.162-1 - VIXONIC S.A. 76.141.707-K - VSA SPA. 76.316.094-7 - WOODS SPA. 78.016.230-9 - ZUNIGA Y CIA. LTDA. 77.511.850-4
 
-Segundo : RegÃ­strese como emisores de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
+Segundo : Regístrese como emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
 
 | **- CENTRAL FOOD S.A.** | **76.017.063-1** |
 | --- | --- |
@@ -69,7 +70,7 @@ Segundo : RegÃ­strese como emisores de Boletas ElectrÃ³nicas y Boletas no Af
 | - SERVICIO NACIONAL DE GEOLOGIA Y MINERIA | 61.702.000-9 |
 | - TECNOLOGIA EN VENTANAS DE PVC S.A. | 77.246.260-3 |
 
-Tercero : RegÃ­strese como emisores de Documentos Tributarios ElectrÃ³nicos, Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
+Tercero : Regístrese como emisores de Documentos Tributarios Electrónicos, Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
 
 | **- ALIMENTOS ARAUCO LTDA.** | **96.648.580-9** |
 | --- | --- |
@@ -79,11 +80,11 @@ Tercero : RegÃ­strese como emisores de Documentos Tributarios ElectrÃ³nicos,
 | - SOC. COMERCIAL WERNER Y RADDATZ LTDA. | 78.481.770-9 |
 | - VITIVINICOLA DEL SUR S.A. | 76.772.800-K |
 
-Cuarto : RegÃ­strese como emisores de Documentos Tributarios ElectrÃ³nicos, Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Abril del 2014, al siguiente contribuyente:
+Cuarto : Regístrese como emisores de Documentos Tributarios Electrónicos, Boletas no Afectas o Exentas Electrónicas, a contar del mes de Abril del 2014, al siguiente contribuyente:
 
 * EDUCACION VIVA SPA. 76.321.309-9
 
-Quinto : RegÃ­strese como emisores de Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
+Quinto : Regístrese como emisores de Boletas no Afectas o Exentas Electrónicas, a contar del mes de Abril del 2014, a los siguientes contribuyentes:
 
 * COLEGIO DUNALASTAIR VALLE NORTE SPA.
 * SERVICIOS INFORMATICOS Y CAPACITACION EVOLUCION SPA.
@@ -92,45 +93,45 @@ Quinto : RegÃ­strese como emisores de Boletas no Afectas o Exentas ElectrÃ³n
 
 76.280.116-7
 
-En la Oficina Virtual del SII en Internet se podrÃ¡n consultar los documentos que los mencionados contribuyentes, de los resolutivos primero, segundo, tercero y cuarto, estÃ¡n autorizados a emitir en forma electrÃ³nica.
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes, de los resolutivos primero, segundo, tercero y cuarto, están autorizados a emitir en forma electrónica.
 
 ## Sexto :
 
-## SÃ©ptimo :
+## Séptimo :
 
-Los contribuyentes registrados conforme al Resolutivo primero deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 45, de Septiembre del 2003, asÃ­ como lo expresado en la declaraciÃ³n de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+Los contribuyentes registrados conforme al Resolutivo primero deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
 
-* AdministraciÃ³n de perfiles de acceso de usuarios.
-* GestiÃ³n de CÃ³digos de AutorizaciÃ³n de Folios (almacenamiento y control de acceso).
-* FoliaciÃ³n Controlada (asignaciÃ³n Ãºnica de cada folio autorizado por el SII).
-* Respaldo seguro de los documentos e informaciÃ³n generada.
-* EnvÃ­o de documentos al SII previo a su entrega al receptor del mismo, salvo excepciÃ³n contemplada en el NÂ° 10, del Resolutivo Cuarto, de la Res. Ex. SII NÂ° 45, del 2003.
-* Intercambio (envÃ­o y recepciÃ³n) de documentos con otros contribuyentes.
-* GeneraciÃ³n de respuestas y acuses de recibo de documentos tributarios electrÃ³nicos recibidos.
-* GeneraciÃ³n, mantenciÃ³n y custodia de la InformaciÃ³n ElectrÃ³nica de Compras y Ventas, que incluye tanto los documentos electrÃ³nicos como los no electrÃ³nicos.
-* EnvÃ­o mensual al SII, de los archivos de la InformaciÃ³n ElectrÃ³nica de Compras y Ventas.
-* GeneraciÃ³n, mantenciÃ³n y custodia del Libro de GuÃ­as de Despacho ElectrÃ³nicas, si procede.
-* Cuadratura de envÃ­os aceptados, rechazados y aceptados con reparos del SII.
-* AdministraciÃ³n de contingencias.
+* Administración de perfiles de acceso de usuarios.
+* Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+* Foliación Controlada (asignación única de cada folio autorizado por el SII).
+* Respaldo seguro de los documentos e información generada.
+* Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del Resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+* Intercambio (envío y recepción) de documentos con otros contribuyentes.
+* Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+* Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+* Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas.
+* Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+* Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+* Administración de contingencias.
 
-Adicionalmente, los contribuyentes registrados conforme al Resolutivo segundo, tercero, cuarto y quinto deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 19, del 12 de Febrero de 2008, en especial, en lo relacionado con las siguientes obligaciones:
+Adicionalmente, los contribuyentes registrados conforme al Resolutivo segundo, tercero, cuarto y quinto deberán cumplir lo establecido en la Resolución Ex. SII N° 19, del 12 de Febrero de 2008, en especial, en lo relacionado con las siguientes obligaciones:
 
-* EnvÃ­o diario al SII, del archivo reporte de consumo de folios de boletas electrÃ³nicas, excepto las empresas de servicios periÃ³dicos.
-* GeneraciÃ³n, mantenciÃ³n y custodia del Libro de Boletas ElectrÃ³nicas.
-* Mantener disponible en un sitio web la consulta de boleta electrÃ³nica, dicha direcciÃ³n web se debe seÃ±alar en la representaciÃ³n impresa de la boleta electrÃ³nica o boleta no afecta o exenta electrÃ³nica, excepto las empresas de servicios periÃ³dicos.
+* Envío diario al SII, del archivo reporte de consumo de folios de boletas electrónicas, excepto las empresas de servicios periódicos.
+* Generación, mantención y custodia del Libro de Boletas Electrónicas.
+* Mantener disponible en un sitio web la consulta de boleta electrónica, dicha dirección web se debe señalar en la representación impresa de la boleta electrónica o boleta no afecta o exenta electrónica, excepto las empresas de servicios periódicos.
 
-El incumplimiento de las obligaciones que establece esta resoluciÃ³n, como asimismo la utilizaciÃ³n maliciosa del Sistema de Factura ElectrÃ³nica, se encuentra sancionada en los Arts. 97 Ã³ 109 del CÃ³digo Tributario, segÃºn corresponda.
+El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
 
-AnÃ³tese, comunÃ­quese y publÃ­quese en extracto.
+Anótese, comuníquese y publíquese en extracto.
 
-## VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
+## VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 ## RPA/CPG/oba
 
-## DistribuciÃ³n:
+## Distribución:
 
 * Internet
 * Diario Oficial en extracto
-* BoletÃ­n SII
+* Boletín SII

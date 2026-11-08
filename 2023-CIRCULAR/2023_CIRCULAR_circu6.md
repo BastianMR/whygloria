@@ -1,252 +1,253 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 6 (2023)
-description: DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR NÂ°6.- GE 236987 |
+---
+type: "SII Circular"
+title: "Circular N° 6 (2023)"
+description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°6.- GE 236987 |"
 tags: [SII, 2023, circular]
 ---
 
-| **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR NÂ°6.- GE 236987** |
+
+| **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°6.- GE 236987** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 09 DE FEBRERO DE 2023 |
-| MATERIA: Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catÃ¡strofes. | REF. LEGAL: ArtÃ­culo 31 de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824, de 1974; Ley NÂ° 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020; artÃ­culo 7Â° de la Ley NÂ° 16.282 cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley NÂ° 104 de 1977; artÃ­culo 37 del Decreto Ley NÂ° 1939 de 1977; artÃ­culo4Â°de la Ley NÂ°19.896; Decreto Ley NÂ° 45 de 1973; Ley NÂ° 20.444, publicada en el Diario Oficial de fecha 28 de mayo de 2010. |
+| MATERIA: Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes. | REF. LEGAL: Artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974; Ley N° 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020; artículo 7° de la Ley N° 16.282 cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977; artículo 37 del Decreto Ley N° 1939 de 1977; artículo4°de la Ley N°19.896; Decreto Ley N° 45 de 1973; Ley N° 20.444, publicada en el Diario Oficial de fecha 28 de mayo de 2010. |
 
-## I INTRODUCCIÃ“N
+## I INTRODUCCIÓN
 
-Como es de conocimiento pÃºblico, durante el mes de febrero de 2023 se han producido una serie de incendios forestales que han afectado a las regiones de Ã‘uble, del BiobÃ­o y de la AraucanÃ­a, perjudicando gravemente a muchos de sus habitantes, la propiedad pÃºblica y privada, asÃ­ como las actividades econÃ³micas desarrolladas en dichas regiones.
+Como es de conocimiento público, durante el mes de febrero de 2023 se han producido una serie de incendios forestales que han afectado a las regiones de Ñuble, del Biobío y de la Araucanía, perjudicando gravemente a muchos de sus habitantes, la propiedad pública y privada, así como las actividades económicas desarrolladas en dichas regiones.
 
-Como consecuencia de lo anterior, se han promulgado los actos administrativos correspondientes, declarando a las regiones de Ã‘uble, del BiobÃ­o y de la AraucanÃ­a bajo el estado de excepciÃ³n constitucional de catÃ¡strofe y como zonas afectadas por catÃ¡strofe 1 .
+Como consecuencia de lo anterior, se han promulgado los actos administrativos correspondientes, declarando a las regiones de Ñuble, del Biobío y de la Araucanía bajo el estado de excepción constitucional de catástrofe y como zonas afectadas por catástrofe 1 .
 
-En este contexto, se hace necesario reiterar las instrucciones administrativas impartidas por este Servicio para casos similares de catÃ¡strofes.
+En este contexto, se hace necesario reiterar las instrucciones administrativas impartidas por este Servicio para casos similares de catástrofes.
 
-Las presentes instrucciones constituyen una sÃ­ntesis general y orgÃ¡nica de las diversas instrucciones impartidas previamente, en particular en la Circular NÂ° 32 de 2020 2 asÃ­ como en la Circular NÂ° 22 de 2014 3 .
+Las presentes instrucciones constituyen una síntesis general y orgánica de las diversas instrucciones impartidas previamente, en particular en la Circular N° 32 de 2020 2 así como en la Circular N° 22 de 2014 3 .
 
-Luego, para un conocimiento mÃ¡s detallado de las materias tratadas en la presente circular, es posible recurrir a las instrucciones referidas en el pÃ¡rrafo anterior, las cuales se encuentran plenamente vigentes y publicadas en el sitio web de este Servicio.
+Luego, para un conocimiento más detallado de las materias tratadas en la presente circular, es posible recurrir a las instrucciones referidas en el párrafo anterior, las cuales se encuentran plenamente vigentes y publicadas en el sitio web de este Servicio.
 
-Asimismo, es pertinente recordar que la Circular NÂ° 32 de 2020, junto con dejar sin efecto la Circular NÂ° 19 de 2010, tambiÃ©n actualizÃ³ o modificÃ³ ciertos criterios previos, a fin de facilitar el rÃ©gimen tributario asociado a los gastos y donaciones por catÃ¡strofes.
+Asimismo, es pertinente recordar que la Circular N° 32 de 2020, junto con dejar sin efecto la Circular N° 19 de 2010, también actualizó o modificó ciertos criterios previos, a fin de facilitar el régimen tributario asociado a los gastos y donaciones por catástrofes.
 
 ## II INSTRUCCIONES SOBRE LA MATERIA
 
-## 1. GASTOS ASOCIADOS AL INCENDIO (ARTÃCULO 31 DE LA LEY SOBRE IMPUESTO A LA RENTA)
+## 1. GASTOS ASOCIADOS AL INCENDIO (ARTÍCULO 31 DE LA LEY SOBRE IMPUESTO A LA RENTA)
 
-A partir del inciso primero del artÃ­culo 31 de la Ley sobre Impuesto a la Renta (LIR), y en conformidad con las instrucciones impartidas en materia de gastos (Circular NÂ° 53 de 2020), son requisitos generales para su deducciÃ³n que:
+A partir del inciso primero del artículo 31 de la Ley sobre Impuesto a la Renta (LIR), y en conformidad con las instrucciones impartidas en materia de gastos (Circular N° 53 de 2020), son requisitos generales para su deducción que:
 
-1 Con fecha 2 de febrero de 2023, mediante Decreto Supremo NÂº 51, del Ministerio del Interior y Seguridad PÃºblica, publicado en el Diario Oficial el 3 de febrero de 2023, se declarÃ³ a las regiones de Ã‘uble y del BiobÃ­o, como zonas afectadas por catÃ¡strofe derivada de la multiplicidad de incendios forestales producidos en dichos territorios. Con fecha 2 de febrero de 2023, mediante Decreto Supremo NÂº 50, del Ministerio del Interior y Seguridad PÃºblica, publicado en el Diario Oficial el 3 de febrero de 2023, se declarÃ³ estado de excepciÃ³n constitucional de catÃ¡strofe en las regiones de Ã‘uble y del BiobÃ­o, por un plazo de 30 dÃ­as contados desde la publicaciÃ³n del mencionado decreto en el Diario Oficial, de conformidad a lo dispuesto en el artÃ­culo 8Â° de la Ley NÂº 18.415. Con fecha 4 de febrero de 2023, mediante Decreto Supremo NÂº 54, del Ministerio del Interior y Seguridad PÃºblica, publicado en el Diario Oficial el 4 de febrero de 2023, se declarÃ³ a la regiÃ³n de la AraucanÃ­a, como zona afectada por catÃ¡strofe derivada de la multiplicidad de incendios forestales producidos en dicho territorio. Con fecha 4 de febrero de 2023, mediante Decreto Supremo NÂº 53, del Ministerio del Interior y Seguridad PÃºblica, publicado en el Diario Oficial el 3 de febrero de 2023, se declarÃ³ estado de excepciÃ³n constitucional de catÃ¡strofe en la regiÃ³n de la AraucanÃ­a, por un plazo de 30 dÃ­as contados desde la publicaciÃ³n del mencionado decreto en el Diario Oficial, de conformidad a lo dispuesto en el artÃ­culo 8Â° de la Ley NÂº 18.415.
+1 Con fecha 2 de febrero de 2023, mediante Decreto Supremo Nº 51, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial el 3 de febrero de 2023, se declaró a las regiones de Ñuble y del Biobío, como zonas afectadas por catástrofe derivada de la multiplicidad de incendios forestales producidos en dichos territorios. Con fecha 2 de febrero de 2023, mediante Decreto Supremo Nº 50, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial el 3 de febrero de 2023, se declaró estado de excepción constitucional de catástrofe en las regiones de Ñuble y del Biobío, por un plazo de 30 días contados desde la publicación del mencionado decreto en el Diario Oficial, de conformidad a lo dispuesto en el artículo 8° de la Ley Nº 18.415. Con fecha 4 de febrero de 2023, mediante Decreto Supremo Nº 54, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial el 4 de febrero de 2023, se declaró a la región de la Araucanía, como zona afectada por catástrofe derivada de la multiplicidad de incendios forestales producidos en dicho territorio. Con fecha 4 de febrero de 2023, mediante Decreto Supremo Nº 53, del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial el 3 de febrero de 2023, se declaró estado de excepción constitucional de catástrofe en la región de la Araucanía, por un plazo de 30 días contados desde la publicación del mencionado decreto en el Diario Oficial, de conformidad a lo dispuesto en el artículo 8° de la Ley Nº 18.415.
 
 2 Tratamiento tributario de los gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19.
 
-3 Tratamiento tributario de las donaciones que se efectÃºen al Fondo Nacional de ReconstrucciÃ³n conforme a la Ley NÂ° 20.444, en virtud de las modificaciones efectuadas por la Ley NÂ° 20.565.
+3 Tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley N° 20.444, en virtud de las modificaciones efectuadas por la Ley N° 20.565.
 
-* a) Se trate de gastos necesarios para producir la renta, entendiendo por tales aquellos que tengan aptitud de generar renta, en el mismo o futuros ejercicios y se encuentren asociados al interÃ©s, desarrollo o mantenciÃ³n del giro del negocio;
-* b) No hayan sido rebajados en virtud del artÃ­culo 30 de la LIR;
+* a) Se trate de gastos necesarios para producir la renta, entendiendo por tales aquellos que tengan aptitud de generar renta, en el mismo o futuros ejercicios y se encuentren asociados al interés, desarrollo o mantención del giro del negocio;
+* b) No hayan sido rebajados en virtud del artículo 30 de la LIR;
 * c) Se encuentren pagados o adeudados en el ejercicio comercial correspondiente;
 * d) Se acrediten o justifiquen en forma fehaciente ante el Servicio.
 
-De acuerdo con el texto del inciso primero del artÃ­culo 31 de la LIR, lo reseÃ±ado en las letras anteriores y la necesidad de mantener el desarrollo de las actividades econÃ³micas por parte de las empresas, asÃ­ como la adopciÃ³n de medidas para la protecciÃ³n de la salud de sus trabajadores y terceros, pueden deducirse como gasto:
+De acuerdo con el texto del inciso primero del artículo 31 de la LIR, lo reseñado en las letras anteriores y la necesidad de mantener el desarrollo de las actividades económicas por parte de las empresas, así como la adopción de medidas para la protección de la salud de sus trabajadores y terceros, pueden deducirse como gasto:
 
-* a) Aquellas cantidades incurridas, voluntaria u obligatoriamente, por los contribuyentes y destinados a evitar, contener o disminuir la propagaciÃ³n de los incendios;
-* b) AsÃ­ como aquellos desembolsos destinados a aminorar o paliar sus efectos y que tengan por objeto, en general, resguardar los intereses del negocio del contribuyente, garantizando, por ejemplo:
+* a) Aquellas cantidades incurridas, voluntaria u obligatoriamente, por los contribuyentes y destinados a evitar, contener o disminuir la propagación de los incendios;
+* b) Así como aquellos desembolsos destinados a aminorar o paliar sus efectos y que tengan por objeto, en general, resguardar los intereses del negocio del contribuyente, garantizando, por ejemplo:
 * i. sus ingresos presentes o futuros;
-* ii. la mantenciÃ³n o apoyo a sus trabajadores, incluyendo el pago de remuneraciones a pesar de que no hayan podido concurrir o presentarse a sus lugares de trabajo por caso fortuito, fuerza mayor u otra causa atribuible a los efectos de los incendios.
+* ii. la mantención o apoyo a sus trabajadores, incluyendo el pago de remuneraciones a pesar de que no hayan podido concurrir o presentarse a sus lugares de trabajo por caso fortuito, fuerza mayor u otra causa atribuible a los efectos de los incendios.
 
-En consecuencia, y cumpliÃ©ndose los demÃ¡s requisitos, deben aceptarse como gasto todos los desembolsos incurridos en la adquisiciÃ³n de, por ejemplo, mascarillas, medicamentos, dispositivos mÃ©dicos, ropas o equipos especiales, papel higiÃ©nico, paÃ±uelos desechables, guantes, equipos mÃ©dicos, agua, palas, mangueras, extintores, retardantes quÃ­micos del fuego, etc.
+En consecuencia, y cumpliéndose los demás requisitos, deben aceptarse como gasto todos los desembolsos incurridos en la adquisición de, por ejemplo, mascarillas, medicamentos, dispositivos médicos, ropas o equipos especiales, papel higiénico, pañuelos desechables, guantes, equipos médicos, agua, palas, mangueras, extintores, retardantes químicos del fuego, etc.
 
-Las reglas anteriores son de aplicaciÃ³n general, independientemente del tipo de actividad del contribuyente (industrial, comercial, extractiva, etc.).
+Las reglas anteriores son de aplicación general, independientemente del tipo de actividad del contribuyente (industrial, comercial, extractiva, etc.).
 
-## 2. DONACIONES AL FISCO AL AMPARO DEL ARTÃCULO 37 DEL DECRETO LEY NÂ° 1.939 DE 1977
+## 2. DONACIONES AL FISCO AL AMPARO DEL ARTÍCULO 37 DEL DECRETO LEY N° 1.939 DE 1977
 
-El artÃ­culo 37 del Decreto Ley NÂ° 1.939 de 1977 regula las donaciones efectuadas a los Ã³rganos y servicios pÃºblicos incluidos en la Ley de Presupuestos que, a su turno, forman parte del 'Fisco' 4 , de conformidad con lo dispuesto por el artÃ­culo 4Â° de la Ley NÂ° 19.896 5 , con los siguientes beneficios 6 :
+El artículo 37 del Decreto Ley N° 1.939 de 1977 regula las donaciones efectuadas a los órganos y servicios públicos incluidos en la Ley de Presupuestos que, a su turno, forman parte del 'Fisco' 4 , de conformidad con lo dispuesto por el artículo 4° de la Ley N° 19.896 5 , con los siguientes beneficios 6 :
 
-* a) EstÃ¡n exentas de toda clase de impuestos, incluyendo el Impuesto al Valor Agregado en la importaciÃ³n de bienes donados 7 ;
+* a) Están exentas de toda clase de impuestos, incluyendo el Impuesto al Valor Agregado en la importación de bienes donados 7 ;
 * b) Tienen la calidad de gasto necesario para producir la renta para los efectos de lo establecido en la LIR;
-* c) No estÃ¡n sujetas al lÃ­mite global absoluto (en adelante, 'LGA') establecido en el artÃ­culo 10 de la Ley NÂ° 19.885; y
-* d) No requieren del trÃ¡mite de la insinuaciÃ³n.
+* c) No están sujetas al límite global absoluto (en adelante, 'LGA') establecido en el artículo 10 de la Ley N° 19.885; y
+* d) No requieren del trámite de la insinuación.
 
-4 Forman parte del Fisco los Ã³rganos de la AdministraciÃ³n del Estado que actÃºan bajo la personalidad del Fisco y con los recursos de Ã©ste, sin tener personalidad jurÃ­dica ni patrimonio propio.
+4 Forman parte del Fisco los órganos de la Administración del Estado que actúan bajo la personalidad del Fisco y con los recursos de éste, sin tener personalidad jurídica ni patrimonio propio.
 
-5 Mediante la Circular NÂ° 32 de 2020 se reiteran las instrucciones vigentes sobre la materia, las cuales fueron abordadas a travÃ©s de las Circulares NÂ° 31 y NÂ° 59, ambas de 2018:
+5 Mediante la Circular N° 32 de 2020 se reiteran las instrucciones vigentes sobre la materia, las cuales fueron abordadas a través de las Circulares N° 31 y N° 59, ambas de 2018:
 
-a) Mediante la Circular NÂ° 31 de 2018, en lo pertinente, se imparten instrucciones sobre las modificaciones introducidas por el artÃ­culo 6Â° de la Ley NÂ° 21.047, al artÃ­culo 37 del Decreto Ley NÂ° 1.939 de 1977, que contiene las normas sobre adquisiciÃ³n, administraciÃ³n y disposiciÃ³n de bienes del Estado, a fin de beneficiar tributariamente las donaciones de bienes al Fisco.
+a) Mediante la Circular N° 31 de 2018, en lo pertinente, se imparten instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 21.047, al artículo 37 del Decreto Ley N° 1.939 de 1977, que contiene las normas sobre adquisición, administración y disposición de bienes del Estado, a fin de beneficiar tributariamente las donaciones de bienes al Fisco.
 
-b) Dicha circular fue complementada a travÃ©s de la Circular NÂ° 59 de 2018, que armonizÃ³ lo dispuesto en el citado artÃ­culo 37 con las normas contenidas en el artÃ­culo 4Â° de la Ley NÂ° 19.896, que introduce modificaciones al Decreto Ley NÂº 1.263, de 1975, orgÃ¡nico de administraciÃ³n financiera del Estado y establece otras normas sobre administraciÃ³n presupuestaria y de personal.
+b) Dicha circular fue complementada a través de la Circular N° 59 de 2018, que armonizó lo dispuesto en el citado artículo 37 con las normas contenidas en el artículo 4° de la Ley N° 19.896, que introduce modificaciones al Decreto Ley Nº 1.263, de 1975, orgánico de administración financiera del Estado y establece otras normas sobre administración presupuestaria y de personal.
 
-6 Apartado 3.6. de la Circular NÂ° 59 de 2018
+6 Apartado 3.6. de la Circular N° 59 de 2018
 
-7 Aplica doctrina del Oficio NÂ° 2732 de 2019.
+7 Aplica doctrina del Oficio N° 2732 de 2019.
 
-En cuanto al tratamiento tributario especÃ­fico de las donaciones efectuadas al amparo del artÃ­culo 4Â° de la Ley NÂ° 19.896, ver lo instruido en TÃ­tulo II, CapÃ­tulo II, nÃºmero 4, de la Circular NÂ° 31 de 2018, sin perjuicio de lo instruido en la Circular NÂ° 59 de 2018, que la complementÃ³.
+En cuanto al tratamiento tributario específico de las donaciones efectuadas al amparo del artículo 4° de la Ley N° 19.896, ver lo instruido en Título II, Capítulo II, número 4, de la Circular N° 31 de 2018, sin perjuicio de lo instruido en la Circular N° 59 de 2018, que la complementó.
 
-Como precisa la Circular NÂ° 32 de 2020, verificÃ¡ndose 'situaciones de emergencias' 8 , las donaciones efectuadas al Fisco o a los Ã³rganos y servicios pÃºblicos incluidos en la Ley de Presupuestos que forman parte del Fisco en el contexto de los incendios 9 , no requieren de autorizaciÃ³n o aceptaciÃ³n previa .
+Como precisa la Circular N° 32 de 2020, verificándose 'situaciones de emergencias' 8 , las donaciones efectuadas al Fisco o a los órganos y servicios públicos incluidos en la Ley de Presupuestos que forman parte del Fisco en el contexto de los incendios 9 , no requieren de autorización o aceptación previa .
 
-Como fuera seÃ±alado en la Circular NÂ° 59 de 2018, no se aplica el lÃ­mite de las 250 unidades tributarias mensuales cuando se trata de donaciones en especie o dinero en situaciones de emergencia o calamidad pÃºblica ni respecto de bienes sujetos a prÃ³ximo deterioro o descomposiciÃ³n.
+Como fuera señalado en la Circular N° 59 de 2018, no se aplica el límite de las 250 unidades tributarias mensuales cuando se trata de donaciones en especie o dinero en situaciones de emergencia o calamidad pública ni respecto de bienes sujetos a próximo deterioro o descomposición.
 
-## 3. DONACIONES AL AMPARO DEL ARTÃCULO 7Â° DE LA LEY NÂ° 16.282 ASOCIADAS A LOS INCENDIOS
+## 3. DONACIONES AL AMPARO DEL ARTÍCULO 7° DE LA LEY N° 16.282 ASOCIADAS A LOS INCENDIOS
 
-El artÃ­culo 7Â° de la Ley NÂ° 16.282, cuyo texto refundido, coordinado y sistematizado, estÃ¡ contenido en el Decreto con Fuerza de Ley NÂ° 104, de 1977, dispone que las 'donaciones que se efectÃºen con ocasiÃ³n de la catÃ¡strofe o calamidad pÃºblica, al Estado, a personas naturales o jurÃ­dicas de derecho pÃºblico o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado, o que Chile haga a un paÃ­s extranjero, que permitan satisfacer las necesidades bÃ¡sicas de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte de los habitantes de las zonas afectadas, estarÃ¡n exentas de todo pago o gravamen que las afecten, en las mismas condiciones que las seÃ±aladas en el decreto ley NÂ° 45, de 1973, y no se considerarÃ¡n para el cÃ¡lculo de los lÃ­mites contemplados en el artÃ­culo 10 de la ley NÂ° 19.885.'
+El artículo 7° de la Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, está contenido en el Decreto con Fuerza de Ley N° 104, de 1977, dispone que las 'donaciones que se efectúen con ocasión de la catástrofe o calamidad pública, al Estado, a personas naturales o jurídicas de derecho público o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado, o que Chile haga a un país extranjero, que permitan satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas, estarán exentas de todo pago o gravamen que las afecten, en las mismas condiciones que las señaladas en el decreto ley N° 45, de 1973, y no se considerarán para el cálculo de los límites contemplados en el artículo 10 de la ley N° 19.885.'
 
-Por su parte, el inciso segundo del mismo precepto dispone que, asimismo, 'las importaciones o exportaciones de las especies donadas con los fines indicados en el inciso anterior estarÃ¡n liberadas de todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas, como tambiÃ©n estarÃ¡n liberadas estas importaciones o exportaciones de las tarifas de carga o descarga, movilizaciÃ³n, almacenaje, operaciones complementarias u otras, ya sea en puertos, aeropuertos, pasos fronterizos terrestres o estaciones de ferrocarriles, y se entenderÃ¡n tambiÃ©n eximidas de las prohibiciones, limitaciones y depÃ³sitos aplicables al rÃ©gimen general de importaciones o exportaciones. El Ministerio del Interior acreditarÃ¡ y calificarÃ¡ el carÃ¡cter de la donaciÃ³n y su destino, y emitirÃ¡ un certificado en que consten tales hechos, el que deberÃ¡ ser exigido por la Aduana.'
+Por su parte, el inciso segundo del mismo precepto dispone que, asimismo, 'las importaciones o exportaciones de las especies donadas con los fines indicados en el inciso anterior estarán liberadas de todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas, como también estarán liberadas estas importaciones o exportaciones de las tarifas de carga o descarga, movilización, almacenaje, operaciones complementarias u otras, ya sea en puertos, aeropuertos, pasos fronterizos terrestres o estaciones de ferrocarriles, y se entenderán también eximidas de las prohibiciones, limitaciones y depósitos aplicables al régimen general de importaciones o exportaciones. El Ministerio del Interior acreditará y calificará el carácter de la donación y su destino, y emitirá un certificado en que consten tales hechos, el que deberá ser exigido por la Aduana.'
 
-## 3.1. Donaciones efectuadas al amparo del inciso primero del artÃ­culo 7Â° de la Ley NÂ° 16.282
+## 3.1. Donaciones efectuadas al amparo del inciso primero del artículo 7° de la Ley N° 16.282
 
-Conforme a lo dispuesto en el inciso primero del artÃ­culo 7Â° de la Ley NÂ° 16.282, y reiterando en parte lo informado en su oportunidad a la ContralorÃ­a General de la RepÃºblica 10 , los aspectos relevantes de la norma son los siguientes:
+Conforme a lo dispuesto en el inciso primero del artículo 7° de la Ley N° 16.282, y reiterando en parte lo informado en su oportunidad a la Contraloría General de la República 10 , los aspectos relevantes de la norma son los siguientes:
 
-## a) Donaciones que pueden acogerse a los beneficios de la Ley NÂ° 16.282
+## a) Donaciones que pueden acogerse a los beneficios de la Ley N° 16.282
 
-A las donaciones efectuadas al amparo del inciso primero del artÃ­culo 7Â° de la Ley NÂ° 16.282 les son aplicables las mismas exenciones que a las donaciones efectuadas al Estado conforme al Decreto Ley NÂ° 45 de 1973. Esto es, las donaciones estarÃ¡n exentas de los siguientes pagos o gravÃ¡menes:
+A las donaciones efectuadas al amparo del inciso primero del artículo 7° de la Ley N° 16.282 les son aplicables las mismas exenciones que a las donaciones efectuadas al Estado conforme al Decreto Ley N° 45 de 1973. Esto es, las donaciones estarán exentas de los siguientes pagos o gravámenes:
 
-* (i) Del impuesto a las donaciones de la Ley NÂ° 16.271, en virtud de lo dispuesto en el NÂ° 6 del artÃ­culo 18 de la misma ley;
-* (ii) Del trÃ¡mite de insinuaciÃ³n contemplado en los artÃ­culos 1.401 y siguientes del CÃ³digo Civil y 889 y siguientes del CÃ³digo de Procedimiento Civil.
+* (i) Del impuesto a las donaciones de la Ley N° 16.271, en virtud de lo dispuesto en el N° 6 del artículo 18 de la misma ley;
+* (ii) Del trámite de insinuación contemplado en los artículos 1.401 y siguientes del Código Civil y 889 y siguientes del Código de Procedimiento Civil.
 
-8 De acuerdo a lo dispuesto en el artÃ­culo 37 del Decreto Ley NÂ° 1.939 de 1977, como en el artÃ­culo 4Â° de la Ley NÂ° 19.896, las donaciones efectuadas al Fisco o a los Ã³rganos y servicios pÃºblicos incluidos en la Ley de Presupuestos que forman parte del Fisco, deben ser, por regla general, aceptadas o autorizadas previamente mediante trÃ¡mites especÃ­ficos. Con todo, el artÃ­culo 4Â° de la Ley NÂ° 19.896 libera de la autorizaciÃ³n previa: (i) a las donaciones, en especie o dinero, 'en situaciones de emergencia o calamidad pÃºblica; (ii) aquellas donaciones, en especie o dinero, cuyo valor o monto no exceda al equivalente en moneda nacional de 250 unidades tributarias mensuales al momento del ofrecimiento; y (iii) las donaciones que recaigan sobre bienes sujetos a prÃ³ximo deterioro o descomposiciÃ³n.
+8 De acuerdo a lo dispuesto en el artículo 37 del Decreto Ley N° 1.939 de 1977, como en el artículo 4° de la Ley N° 19.896, las donaciones efectuadas al Fisco o a los órganos y servicios públicos incluidos en la Ley de Presupuestos que forman parte del Fisco, deben ser, por regla general, aceptadas o autorizadas previamente mediante trámites específicos. Con todo, el artículo 4° de la Ley N° 19.896 libera de la autorización previa: (i) a las donaciones, en especie o dinero, 'en situaciones de emergencia o calamidad pública; (ii) aquellas donaciones, en especie o dinero, cuyo valor o monto no exceda al equivalente en moneda nacional de 250 unidades tributarias mensuales al momento del ofrecimiento; y (iii) las donaciones que recaigan sobre bienes sujetos a próximo deterioro o descomposición.
 
-9 En el presente caso, se ha decretado estado de excepciÃ³n constitucional de catÃ¡strofe y declaraciÃ³n como zonas afectadas por la catÃ¡strofe. 10 Ordinario NÂ° 212 de 2015, acompaÃ±ando una guÃ­a sobre diversas normas legales relativas a las donaciones.
+9 En el presente caso, se ha decretado estado de excepción constitucional de catástrofe y declaración como zonas afectadas por la catástrofe. 10 Ordinario N° 212 de 2015, acompañando una guía sobre diversas normas legales relativas a las donaciones.
 
-* (iii) A pesar que no se trata propiamente de una exenciÃ³n, el monto de las erogaciones o donaciones efectuadas por contribuyentes del impuesto a la renta se desgrava, permitiÃ©ndose rebajarlas de la renta imponible correspondiente al ejercicio o perÃ­odo en que se realice la donaciÃ³n o erogaciÃ³n, incluso para los fines del impuesto a favor de la CorporaciÃ³n de la Vivienda, cuando proceda; distinguiendo segÃºn el tipo de contribuyente y forma de concretar la donaciÃ³n (artÃ­culos 3Â° y 4Â° del Decreto Ley NÂ° 45 de 1973).
+* (iii) A pesar que no se trata propiamente de una exención, el monto de las erogaciones o donaciones efectuadas por contribuyentes del impuesto a la renta se desgrava, permitiéndose rebajarlas de la renta imponible correspondiente al ejercicio o período en que se realice la donación o erogación, incluso para los fines del impuesto a favor de la Corporación de la Vivienda, cuando proceda; distinguiendo según el tipo de contribuyente y forma de concretar la donación (artículos 3° y 4° del Decreto Ley N° 45 de 1973).
 
-De acuerdo con lo interpretado en la Circular NÂ° 32 de 2020, no es requisito de procedencia de los beneficios que las donaciones consistentes en dinero o en bienes, verificadas al amparo del inciso primero del artÃ­culo 7Â° de la Ley NÂ° 16.282, 'formen parte del activo del donante'.
+De acuerdo con lo interpretado en la Circular N° 32 de 2020, no es requisito de procedencia de los beneficios que las donaciones consistentes en dinero o en bienes, verificadas al amparo del inciso primero del artículo 7° de la Ley N° 16.282, 'formen parte del activo del donante'.
 
-Solo son requisitos de procedencia de las donaciones efectuadas al amparo del inciso primero del artÃ­culo 7Â° de la Ley NÂ° 16.282, los siguientes:
+Solo son requisitos de procedencia de las donaciones efectuadas al amparo del inciso primero del artículo 7° de la Ley N° 16.282, los siguientes:
 
-* (i) Que, exista un decreto supremo fundado, del Presidente de la RepÃºblica, que declare la existencia de un sismo o catÃ¡strofe (cumpliendo demÃ¡s requisitos genÃ©ricos);
-* (ii) Que las donaciones se efectÃºen con ocasiÃ³n de una catÃ¡strofe o calamidad pÃºblica;
-* (iii) Que sean efectuadas al Estado, a personas naturales o jurÃ­dicas de derecho pÃºblico o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado y;
-* (iv) Que permitan satisfacer las necesidades bÃ¡sicas de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte de los habitantes de las zonas afectadas.
+* (i) Que, exista un decreto supremo fundado, del Presidente de la República, que declare la existencia de un sismo o catástrofe (cumpliendo demás requisitos genéricos);
+* (ii) Que las donaciones se efectúen con ocasión de una catástrofe o calamidad pública;
+* (iii) Que sean efectuadas al Estado, a personas naturales o jurídicas de derecho público o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado y;
+* (iv) Que permitan satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas.
 
-Como interpreta la Circular NÂ° 32 de 2020, pueden ser objeto de donaciÃ³n conforme a esta norma tanto dinero como bienes, de cualquier naturaleza o clase, en la medida que permitan satisfacer las necesidades bÃ¡sicas de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte de los habitantes de las zonas afectadas.
+Como interpreta la Circular N° 32 de 2020, pueden ser objeto de donación conforme a esta norma tanto dinero como bienes, de cualquier naturaleza o clase, en la medida que permitan satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas.
 
-## b) LÃ­mite de las donaciones susceptibles de acogerse al beneficio tributario
+## b) Límite de las donaciones susceptibles de acogerse al beneficio tributario
 
-Estas donaciones no se someten a los lÃ­mites seÃ±alados en el artÃ­culo 10 de la Ley NÂ° 19.885. Es decir, no se les aplica el LGA que establece dicha disposiciÃ³n.
+Estas donaciones no se someten a los límites señalados en el artículo 10 de la Ley N° 19.885. Es decir, no se les aplica el LGA que establece dicha disposición.
 
-Asimismo, estas donaciones no se computan en la suma del total de las donaciones para el cÃ¡lculo del LGA que afecta a las demÃ¡s donaciones sometidas a ese lÃ­mite. Es decir, no se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta al resto de las donaciones con beneficios tributarios.
+Asimismo, estas donaciones no se computan en la suma del total de las donaciones para el cálculo del LGA que afecta a las demás donaciones sometidas a ese límite. Es decir, no se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta al resto de las donaciones con beneficios tributarios.
 
-La Ley NÂ° 16.282 tampoco establece un lÃ­mite particular para el monto de estas donaciones que tienen el beneficio tributario.
+La Ley N° 16.282 tampoco establece un límite particular para el monto de estas donaciones que tienen el beneficio tributario.
 
-## c) SituaciÃ³n del donante con pÃ©rdidas
+## c) Situación del donante con pérdidas
 
-En cuanto al tratamiento tributario de aquellos contribuyentes que, encontrÃ¡ndose en situaciÃ³n de pÃ©rdida tributaria, efectÃºen donaciones al amparo de la Ley NÂ° 16.282, atendido el claro tenor literal del artÃ­culo 7Â° de dicha ley, tales donaciones deben ser aceptadas como gasto conforme a lo dispuesto por el artÃ­culo 31 de la LIR, no aplicÃ¡ndose a su respecto lo dispuesto por el artÃ­culo 21 del mismo texto legal.
+En cuanto al tratamiento tributario de aquellos contribuyentes que, encontrándose en situación de pérdida tributaria, efectúen donaciones al amparo de la Ley N° 16.282, atendido el claro tenor literal del artículo 7° de dicha ley, tales donaciones deben ser aceptadas como gasto conforme a lo dispuesto por el artículo 31 de la LIR, no aplicándose a su respecto lo dispuesto por el artículo 21 del mismo texto legal.
 
-Lo anterior quiere decir que tales donaciones constituyen un gasto que disminuye la renta lÃ­quida imponible del donante e incluso puede aumentar la pÃ©rdida tributaria cuyo tratamiento serÃ¡ el establecido en el NÂ° 3 del inciso cuarto del artÃ­culo 31de la LIR 11 .
+Lo anterior quiere decir que tales donaciones constituyen un gasto que disminuye la renta líquida imponible del donante e incluso puede aumentar la pérdida tributaria cuyo tratamiento será el establecido en el N° 3 del inciso cuarto del artículo 31de la LIR 11 .
 
 ## d) Donantes
 
-Pueden ser donantes los contribuyentes del impuesto de primera categorÃ­a (IDPC), que tributen en base a renta efectiva y los contribuyentes del artÃ­culo 42 NÂ° 1 y NÂ° 2 de la LIR.
+Pueden ser donantes los contribuyentes del impuesto de primera categoría (IDPC), que tributen en base a renta efectiva y los contribuyentes del artículo 42 N° 1 y N° 2 de la LIR.
 
-11 Criterio extraÃ­do de la Circular NÂ° 32 de 2020
+11 Criterio extraído de la Circular N° 32 de 2020
 
 ## e) Donatarios
 
-Son beneficiarios, el Estado, las personas naturales o personas jurÃ­dicas de derecho pÃºblico, las fundaciones o corporaciones de derecho privado y las Universidades reconocidas por el Estado.
+Son beneficiarios, el Estado, las personas naturales o personas jurídicas de derecho público, las fundaciones o corporaciones de derecho privado y las Universidades reconocidas por el Estado.
 
-Asimismo, en la medida que estas donaciones son efectuadas a los beneficiarios antes seÃ±alados con el fin de 'satisfacer las necesidades bÃ¡sicas' de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte 'de los habitantes de las zonas afectadas', ciertamente tambiÃ©n son donatarios los habitantes de las zonas afectadas que, en definitiva, reciben la ayuda.
+Asimismo, en la medida que estas donaciones son efectuadas a los beneficiarios antes señalados con el fin de 'satisfacer las necesidades básicas' de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte 'de los habitantes de las zonas afectadas', ciertamente también son donatarios los habitantes de las zonas afectadas que, en definitiva, reciben la ayuda.
 
 ## f) Beneficio para el donante
 
-El beneficio consiste en la deducciÃ³n de la base imponible del impuesto a la renta, por el monto de las donaciones. Si se tratare de donaciones en especie efectuadas por un contribuyente de IDPC, se considerarÃ¡ el costo tributario de dichas especies. Por su parte, si las donaciones en especie son efectuadas por un contribuyente de impuesto Ãºnico de segunda categorÃ­a (IUSC) o impuesto global complementario (IGC), se considerarÃ¡ el valor de adquisiciÃ³n reajustado de tales bienes.
+El beneficio consiste en la deducción de la base imponible del impuesto a la renta, por el monto de las donaciones. Si se tratare de donaciones en especie efectuadas por un contribuyente de IDPC, se considerará el costo tributario de dichas especies. Por su parte, si las donaciones en especie son efectuadas por un contribuyente de impuesto único de segunda categoría (IUSC) o impuesto global complementario (IGC), se considerará el valor de adquisición reajustado de tales bienes.
 
 ## g) Tratamiento tributario de las donaciones para el donatario
 
-Para las instituciones donatarias, las sumas percibidas por concepto de donaciones, son ingresos no constitutivos de renta, conforme lo dispone el artÃ­culo 17 NÂ° 9 de la LIR. Por lo tanto, tales sumas no se encuentran afectas a ninguno de los impuestos establecidos en dicho texto legal.
+Para las instituciones donatarias, las sumas percibidas por concepto de donaciones, son ingresos no constitutivos de renta, conforme lo dispone el artículo 17 N° 9 de la LIR. Por lo tanto, tales sumas no se encuentran afectas a ninguno de los impuestos establecidos en dicho texto legal.
 
-## h) AcreditaciÃ³n de las donaciones
+## h) Acreditación de las donaciones
 
-Debe tenerse presente la obligaciÃ³n general de acreditaciÃ³n para el contribuyente en materia tributaria, establecida en el artÃ­culo 21 del CÃ³digo Tributario.
+Debe tenerse presente la obligación general de acreditación para el contribuyente en materia tributaria, establecida en el artículo 21 del Código Tributario.
 
-## i) Deberes de informaciÃ³n de los donantes, donatarios y otros, al Servicio
+## i) Deberes de información de los donantes, donatarios y otros, al Servicio
 
-De acuerdo con las Resoluciones Ex. NÂ° 110 de 2004 y NÂ° 106 de 2013, aplicables a las donaciones efectuadas al amparo del Decreto Ley NÂ° 45 de 1973 y a la ResoluciÃ³n Ex. NÂ° 98 de 2017, que hace aplicable a las personas jurÃ­dicas la obligaciÃ³n de informar las donaciones efectuadas al amparo de la Ley NÂ° 16.282, los donatarios que reciban este tipo de donaciones deberÃ¡n presentar en el aÃ±o siguiente la DeclaraciÃ³n Jurada NÂ° 1832 con la informaciÃ³n allÃ­ requerida.
+De acuerdo con las Resoluciones Ex. N° 110 de 2004 y N° 106 de 2013, aplicables a las donaciones efectuadas al amparo del Decreto Ley N° 45 de 1973 y a la Resolución Ex. N° 98 de 2017, que hace aplicable a las personas jurídicas la obligación de informar las donaciones efectuadas al amparo de la Ley N° 16.282, los donatarios que reciban este tipo de donaciones deberán presentar en el año siguiente la Declaración Jurada N° 1832 con la información allí requerida.
 
-## 3.2. Importaciones, inciso segundo del artÃ­culo 7Â° de la Ley NÂ° 16.282
+## 3.2. Importaciones, inciso segundo del artículo 7° de la Ley N° 16.282
 
-En cuanto al inciso segundo del artÃ­culo 7Â° de la Ley NÂ° 16.282, que establece que las importaciones o exportaciones de las especies donadas estarÃ¡n liberadas de 'todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas', se entiende que se encuentran liberadas del Impuesto al Valor Agregado que grave, en particular, a las importaciones; siempre en el contexto que las donaciones sean efectuadas para los fines indicados en el inciso primero del mismo artÃ­culo 7Â°. Esto es, donaciones que se efectÃºen con ocasiÃ³n de la catÃ¡strofe o calamidad pÃºblica (a las personas o entidades que establece la norma) que permitan satisfacer las necesidades bÃ¡sicas de alimentaciÃ³n, abrigo, habitaciÃ³n, salud, aseo, ornato, remociÃ³n de escombros, educaciÃ³n, comunicaciÃ³n y transporte de los habitantes de las zonas afectadas.
+En cuanto al inciso segundo del artículo 7° de la Ley N° 16.282, que establece que las importaciones o exportaciones de las especies donadas estarán liberadas de 'todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas', se entiende que se encuentran liberadas del Impuesto al Valor Agregado que grave, en particular, a las importaciones; siempre en el contexto que las donaciones sean efectuadas para los fines indicados en el inciso primero del mismo artículo 7°. Esto es, donaciones que se efectúen con ocasión de la catástrofe o calamidad pública (a las personas o entidades que establece la norma) que permitan satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas.
 
-Lo anterior, sin perjuicio de estar liberadas de las tarifas de carga o descarga, movilizaciÃ³n, almacenaje, operaciones complementarias u otras, y demÃ¡s prohibiciones o limitaciones que seÃ±ala la propia norma.
+Lo anterior, sin perjuicio de estar liberadas de las tarifas de carga o descarga, movilización, almacenaje, operaciones complementarias u otras, y demás prohibiciones o limitaciones que señala la propia norma.
 
-## 3.3. ExenciÃ³n de impuesto al valor agregado en las importaciones que constituyan donaciones y socorros
+## 3.3. Exención de impuesto al valor agregado en las importaciones que constituyan donaciones y socorros
 
-El pÃ¡rrafo segundo del NÂ° 7 de la letra B) del artÃ­culo 12 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), declara exentas de Impuesto al Valor Agregado las importaciones que constituyan donaciones y socorros calificados como tales a juicio exclusivo del Servicio Nacional de Aduanas, destinadas a corporaciones y fundaciones y a las Universidades.
+El párrafo segundo del N° 7 de la letra B) del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), declara exentas de Impuesto al Valor Agregado las importaciones que constituyan donaciones y socorros calificados como tales a juicio exclusivo del Servicio Nacional de Aduanas, destinadas a corporaciones y fundaciones y a las Universidades.
 
-Para estos efectos, exige la norma legal, corresponderÃ¡ al donatario acompaÃ±ar los antecedentes que justifiquen la exenciÃ³n.
+Para estos efectos, exige la norma legal, corresponderá al donatario acompañar los antecedentes que justifiquen la exención.
 
-## 4. TRATAMIENTO DE LAS ADQUISICIONES Y DONACIONES FRENTE AL IMPUESTO AL VALOR AGREGADO. HECHO GRAVADO Y CRÃ‰DITO FISCAL
+## 4. TRATAMIENTO DE LAS ADQUISICIONES Y DONACIONES FRENTE AL IMPUESTO AL VALOR AGREGADO. HECHO GRAVADO Y CRÉDITO FISCAL
 
-Las donaciones no configuran el hecho gravado general de 'venta' por faltar el tÃ­tulo 'oneroso', requisito contenido en el artÃ­culo 2Â° NÂ° 2Â°) de la LIVS, que define este hecho gravado.
+Las donaciones no configuran el hecho gravado general de 'venta' por faltar el título 'oneroso', requisito contenido en el artículo 2° N° 2°) de la LIVS, que define este hecho gravado.
 
-A su vez, los bienes donados, cumpliendo con los requisitos de esta Circular y sin fines promocionales o de propaganda, no se considerarÃ¡n retiros ni faltantes de inventario para los efectos de lo dispuesto por la letra d) del artÃ­culo 8 de la LIVS, como tampoco serÃ¡ necesario dar aviso alguno a dicho respecto a este Servicio en relaciÃ³n a la entrega de bienes conforme a esta Circular.
+A su vez, los bienes donados, cumpliendo con los requisitos de esta Circular y sin fines promocionales o de propaganda, no se considerarán retiros ni faltantes de inventario para los efectos de lo dispuesto por la letra d) del artículo 8 de la LIVS, como tampoco será necesario dar aviso alguno a dicho respecto a este Servicio en relación a la entrega de bienes conforme a esta Circular.
 
-Las donaciones referidas en esta circular no tienen incidencia en el derecho al crÃ©dito fiscal por el IVA soportado en la adquisiciÃ³n de los bienes que serÃ¡n objeto de la donaciÃ³n, pudiendo ser utilizado por la empresa en la medida en que se cumplan los requisitos establecidos en los artÃ­culos 23 y siguientes de la LIVS para generar el derecho a la utilizaciÃ³n como crÃ©dito fiscal de los impuestos soportados en las adquisiciones realizadas.
+Las donaciones referidas en esta circular no tienen incidencia en el derecho al crédito fiscal por el IVA soportado en la adquisición de los bienes que serán objeto de la donación, pudiendo ser utilizado por la empresa en la medida en que se cumplan los requisitos establecidos en los artículos 23 y siguientes de la LIVS para generar el derecho a la utilización como crédito fiscal de los impuestos soportados en las adquisiciones realizadas.
 
-Por lo tanto, y atendido el hecho de que las donaciones sin fines de publicidad o propaganda no reÃºnen los requisitos para ser consideradas ventas, ni aÃºn exentas o no gravadas, no deben ser consideras para efectos del uso proporcional del crÃ©dito fiscal destinado a generar simultÃ¡neamente operaciones gravadas y exentas o no gravadas, conforme al artÃ­culo 23 NÂ° 3 de la LIVS.
+Por lo tanto, y atendido el hecho de que las donaciones sin fines de publicidad o propaganda no reúnen los requisitos para ser consideradas ventas, ni aún exentas o no gravadas, no deben ser consideras para efectos del uso proporcional del crédito fiscal destinado a generar simultáneamente operaciones gravadas y exentas o no gravadas, conforme al artículo 23 N° 3 de la LIVS.
 
-No procede a su respecto la emisiÃ³n de facturas exentas o no afectas a IVA, debiendo emitirse en relaciÃ³n a ellas cualquier documento que dÃ© cuenta fehacientemente de la operaciÃ³n realizada.
+No procede a su respecto la emisión de facturas exentas o no afectas a IVA, debiendo emitirse en relación a ellas cualquier documento que dé cuenta fehacientemente de la operación realizada.
 
-SegÃºn lo dispuesto en el NÂ° 1 del artÃ­culo 23 de la LIVS, procede la utilizaciÃ³n como crÃ©dito fiscal del IVA soportado en la adquisiciÃ³n de implementos tales como mascarillas, jabÃ³n lÃ­quido, medicamentos, dispositivos mÃ©dicos, ropas o equipos especiales, papel higiÃ©nico, paÃ±uelos desechables, cobertura de salud en general de las personas y familias, los seÃ±alados en el apartado 1 de la presente circular, etc.
+Según lo dispuesto en el N° 1 del artículo 23 de la LIVS, procede la utilización como crédito fiscal del IVA soportado en la adquisición de implementos tales como mascarillas, jabón líquido, medicamentos, dispositivos médicos, ropas o equipos especiales, papel higiénico, pañuelos desechables, cobertura de salud en general de las personas y familias, los señalados en el apartado 1 de la presente circular, etc.
 
-## 5. COORDINACIÃ“N DE NORMAS LEGALES
+## 5. COORDINACIÓN DE NORMAS LEGALES
 
-El contribuyente que efectÃºe una donaciÃ³n en el marco de la catÃ¡strofe ocasionada por los incendios podrÃ¡ acogerse indistintamente al artÃ­culo 37 del Decreto Ley NÂ° 1939 de 1977 (y al artÃ­culo 4Â° de la Ley NÂ° 19.896, que se relaciona con la norma anterior), el cual permite efectuar donaciones al Fisco; o al artÃ­culo 7Â° de la Ley NÂ° 16.282, cuyo texto fue refundido y sistematizado por el Decreto con Fuerza de Ley NÂ° 104 de 1977.
+El contribuyente que efectúe una donación en el marco de la catástrofe ocasionada por los incendios podrá acogerse indistintamente al artículo 37 del Decreto Ley N° 1939 de 1977 (y al artículo 4° de la Ley N° 19.896, que se relaciona con la norma anterior), el cual permite efectuar donaciones al Fisco; o al artículo 7° de la Ley N° 16.282, cuyo texto fue refundido y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977.
 
-En ambos casos el contribuyente tendrÃ¡ los beneficios tributarios, y deberÃ¡ cumplir los requisitos y limitaciones, que cada cuerpo legal establece y han sido sistematizados en la presente circular, asÃ­ como en las Circulares NÂ° 31 y NÂ° 59, ambas de 2018.
+En ambos casos el contribuyente tendrá los beneficios tributarios, y deberá cumplir los requisitos y limitaciones, que cada cuerpo legal establece y han sido sistematizados en la presente circular, así como en las Circulares N° 31 y N° 59, ambas de 2018.
 
-## 6. DONACIONES A FAVOR DEL FONDO NACIONAL DE RECONSTRUCCIÃ“N CREADO POR LA LEY NÂ° 20.444
+## 6. DONACIONES A FAVOR DEL FONDO NACIONAL DE RECONSTRUCCIÓN CREADO POR LA LEY N° 20.444
 
-El artÃ­culo 1Â° de la Ley NÂ° 20.444, crea el Fondo Nacional de ReconstrucciÃ³n (en adelante 'el Fondo'), cuyo objeto es financiar la construcciÃ³n, reconstrucciÃ³n, reposiciÃ³n, remodelaciÃ³n, restauraciÃ³n o rehabilitaciÃ³n de infraestructura, instalaciones, patrimonio histÃ³rico arquitectÃ³nico de zonas patrimoniales y zonas tÃ­picas, obras y equipamiento, ubicados en las comunas, provincias o regiones afectadas por terremotos, maremotos, erupciones volcÃ¡nicas, inundaciones, aluviones u otras catÃ¡strofes que puedan ocurrir en el territorio nacional.
+El artículo 1° de la Ley N° 20.444, crea el Fondo Nacional de Reconstrucción (en adelante 'el Fondo'), cuyo objeto es financiar la construcción, reconstrucción, reposición, remodelación, restauración o rehabilitación de infraestructura, instalaciones, patrimonio histórico arquitectónico de zonas patrimoniales y zonas típicas, obras y equipamiento, ubicados en las comunas, provincias o regiones afectadas por terremotos, maremotos, erupciones volcánicas, inundaciones, aluviones u otras catástrofes que puedan ocurrir en el territorio nacional.
 
-## 6.1. Donaciones que pueden acogerse a los beneficios de la Ley NÂ° 20.444
+## 6.1. Donaciones que pueden acogerse a los beneficios de la Ley N° 20.444
 
-Pueden acogerse a los beneficios tributarios que establece la Ley, las donaciones procedentes tanto de Chile como del extranjero, que se destinen al Fondo o a financiar obras especÃ­ficas, segÃºn el caso, y que se materialicen dentro del plazo de dos aÃ±os contado desde la fecha en que se dicte el Decreto Supremo que seÃ±ale las zonas afectadas por alguna de las catÃ¡strofes, o por el plazo menor que establezca el Presidente de la RepÃºblica, mediante Decreto Supremo fundado.
+Pueden acogerse a los beneficios tributarios que establece la Ley, las donaciones procedentes tanto de Chile como del extranjero, que se destinen al Fondo o a financiar obras específicas, según el caso, y que se materialicen dentro del plazo de dos años contado desde la fecha en que se dicte el Decreto Supremo que señale las zonas afectadas por alguna de las catástrofes, o por el plazo menor que establezca el Presidente de la República, mediante Decreto Supremo fundado.
 
-Por regla general, las donaciones deben efectuarse en dinero 12 . Sin embargo, los contribuyentes del IDPC que declaren su renta efectiva, sobre la base de un balance general segÃºn contabilidad completa, podrÃ¡n efectuar donaciones en especies 13 .
+Por regla general, las donaciones deben efectuarse en dinero 12 . Sin embargo, los contribuyentes del IDPC que declaren su renta efectiva, sobre la base de un balance general según contabilidad completa, podrán efectuar donaciones en especies 13 .
 
 ## 6.2. Beneficios tributarios
 
-La Ley contempla, en tÃ©rminos generales, los siguientes beneficios tributarios -los cuales se explican de forma mÃ¡s detallada en la Circular NÂ° 22 de 2014-:
+La Ley contempla, en términos generales, los siguientes beneficios tributarios -los cuales se explican de forma más detallada en la Circular N° 22 de 2014-:
 
 ## a) En el Impuesto a la Renta:
 
-* i. Contribuyentes del IDPC. El monto y tipo del beneficio tributario depende en este caso, de si las donaciones son destinadas al Fondo (sin destino especÃ­fico) o si se efectÃºan para financiar obras especÃ­ficas, en la medida que se cumplan los requisitos legales.
+* i. Contribuyentes del IDPC. El monto y tipo del beneficio tributario depende en este caso, de si las donaciones son destinadas al Fondo (sin destino específico) o si se efectúan para financiar obras específicas, en la medida que se cumplan los requisitos legales.
 
-En el primer caso, el beneficio tributario consiste en que podrÃ¡n imputar un crÃ©dito contra el referido tributo, equivalente al 50% del monto de las donaciones que efectÃºen al Fondo y aquella parte de la misma que no pueda ser imputada como crÃ©dito, podrÃ¡ ser deducida como gasto. En el segundo caso, el beneficio tributario consiste sÃ³lo en la posibilidad de deducir como gasto el monto total de la donaciÃ³n. En ambos casos, el monto total de los referidos beneficios no podrÃ¡ exceder, a elecciÃ³n del contribuyente, de las siguientes cantidades:
+En el primer caso, el beneficio tributario consiste en que podrán imputar un crédito contra el referido tributo, equivalente al 50% del monto de las donaciones que efectúen al Fondo y aquella parte de la misma que no pueda ser imputada como crédito, podrá ser deducida como gasto. En el segundo caso, el beneficio tributario consiste sólo en la posibilidad de deducir como gasto el monto total de la donación. En ambos casos, el monto total de los referidos beneficios no podrá exceder, a elección del contribuyente, de las siguientes cantidades:
 
-(i) El monto de la renta lÃ­quida imponible del ejercicio respectivo, determinada en conformidad a los artÃ­culos 29 al 33 de la LIR. Cabe hacer presente que la citada base imponible, incluye sÃ³lo aquella parte de la donaciÃ³n que constituye crÃ©dito y, por tanto, aquella que puede ser rebajada como gasto se encuentra previamente deducida.
+(i) El monto de la renta líquida imponible del ejercicio respectivo, determinada en conformidad a los artículos 29 al 33 de la LIR. Cabe hacer presente que la citada base imponible, incluye sólo aquella parte de la donación que constituye crédito y, por tanto, aquella que puede ser rebajada como gasto se encuentra previamente deducida.
 
-(ii) El uno coma seis por mil (0,16%), del capital propio tributario de la empresa, determinado al tÃ©rmino del ejercicio respectivo conforme a lo dispuesto en el artÃ­culo 41 de la LIR (este lÃ­mite procederÃ¡ aÃºn en situaciÃ³n de pÃ©rdida tributaria o en el caso en que dicha donaciÃ³n sea la que genera tal pÃ©rdida).
+(ii) El uno coma seis por mil (0,16%), del capital propio tributario de la empresa, determinado al término del ejercicio respectivo conforme a lo dispuesto en el artículo 41 de la LIR (este límite procederá aún en situación de pérdida tributaria o en el caso en que dicha donación sea la que genera tal pérdida).
 
-* ii. Contribuyentes del IGC, del IUSC y del Impuesto Adicional (IA). Estos contribuyentes, podrÃ¡n imputar un crÃ©dito contra el respectivo tributo, equivalente a un porcentaje de la donaciÃ³n efectuada.
+* ii. Contribuyentes del IGC, del IUSC y del Impuesto Adicional (IA). Estos contribuyentes, podrán imputar un crédito contra el respectivo tributo, equivalente a un porcentaje de la donación efectuada.
 
 ## b) En el Impuesto al Valor Agregado (IVA).
 
 La Ley establece tres beneficios en materia de IVA:
 
-* i. Las donaciones en especies no se afectarÃ¡n con los tributos de la LIVS (sin perjuicio de la obligaciÃ³n de emitir la correspondiente factura no gravada).
-* ii. Los donantes que sean contribuyentes de esa Ley tendrÃ¡n derecho al crÃ©dito fiscal por el impuesto soportado en las adquisiciones de los bienes donados.
-* iii. El monto correspondiente a las donaciones no gravadas, no se considerarÃ¡ dentro de las ventas no gravadas del perÃ­odo para efectos de calcular la proporciÃ³n del crÃ©dito fiscal a que tiene derecho el contribuyente, cuando este fuere de utilizaciÃ³n comÃºn.
+* i. Las donaciones en especies no se afectarán con los tributos de la LIVS (sin perjuicio de la obligación de emitir la correspondiente factura no gravada).
+* ii. Los donantes que sean contribuyentes de esa Ley tendrán derecho al crédito fiscal por el impuesto soportado en las adquisiciones de los bienes donados.
+* iii. El monto correspondiente a las donaciones no gravadas, no se considerará dentro de las ventas no gravadas del período para efectos de calcular la proporción del crédito fiscal a que tiene derecho el contribuyente, cuando este fuere de utilización común.
 
 Tales beneficios se aplican independientemente de si las especies donadas forman parte o no de los bienes del giro de la empresa.
 
-12 La Ley no establece limitaciones respecto de la moneda en la pueden efectuarse las donaciones, por lo que se entenderÃ¡n como donaciones en dinero aquellas que se efectÃºen en moneda nacional o extranjera.
+12 La Ley no establece limitaciones respecto de la moneda en la pueden efectuarse las donaciones, por lo que se entenderán como donaciones en dinero aquellas que se efectúen en moneda nacional o extranjera.
 
-13 ComprendiÃ©ndose tambiÃ©n dentro de Ã©stas Ãºltimas, aquellas que consistan en una obra especÃ­fica construida previamente por el donante o especialmente construida al efecto. Cabe agregar que, conforme con el inciso sexto del artÃ­culo 4Â° de la Ley, el valor de los bienes donados serÃ¡ el que corresponda a su costo para los efectos de la LIR. AsÃ­, por ejemplo, en aquellos casos en que la donaciÃ³n consista en un bien que se haya encontrado sujeto a depreciaciÃ³n, deberÃ¡ considerarse el valor de adquisiciÃ³n, menos las depreciaciones acumuladas, ambas cantidades reajustadas hasta la fecha del balance correspondiente al ejercicio inmediatamente anterior a aquel en que se efectÃºa la donaciÃ³n.
+13 Comprendiéndose también dentro de éstas últimas, aquellas que consistan en una obra específica construida previamente por el donante o especialmente construida al efecto. Cabe agregar que, conforme con el inciso sexto del artículo 4° de la Ley, el valor de los bienes donados será el que corresponda a su costo para los efectos de la LIR. Así, por ejemplo, en aquellos casos en que la donación consista en un bien que se haya encontrado sujeto a depreciación, deberá considerarse el valor de adquisición, menos las depreciaciones acumuladas, ambas cantidades reajustadas hasta la fecha del balance correspondiente al ejercicio inmediatamente anterior a aquel en que se efectúa la donación.
 
 ## c) En el Impuesto a las Herencias, Asignaciones y Donaciones (IHAD).
 
-Los contribuyentes personas naturales que efectÃºen donaciones en dinero, tendrÃ¡n derecho a que el 40% de la donaciÃ³n pueda ser imputado como crÃ©dito contra el pago del IHAD que grave a sus herederos o legatarios. TambiÃ©n darÃ¡n derecho a crÃ©dito las donaciones en dinero llevadas a cabo por las sucesiones hereditarias, siempre que se efectÃºen dentro del plazo de tres aÃ±os, contados desde el fallecimiento del causante. AdemÃ¡s, las cantidades donadas se encuentran exentas del referido tributo. Para que proceda el beneficio, las donaciones efectuadas no podrÃ¡n acogerse a los demÃ¡s beneficios tributarios establecidos en la Ley.
+Los contribuyentes personas naturales que efectúen donaciones en dinero, tendrán derecho a que el 40% de la donación pueda ser imputado como crédito contra el pago del IHAD que grave a sus herederos o legatarios. También darán derecho a crédito las donaciones en dinero llevadas a cabo por las sucesiones hereditarias, siempre que se efectúen dentro del plazo de tres años, contados desde el fallecimiento del causante. Además, las cantidades donadas se encuentran exentas del referido tributo. Para que proceda el beneficio, las donaciones efectuadas no podrán acogerse a los demás beneficios tributarios establecidos en la Ley.
 
 ## 6.3. Otros beneficios y reglas especiales
 
-* a) Inaplicabilidad del LGA que establece el artÃ­culo 10 de la Ley NÂ° 19.885.
-* b) La Ley establece que las donaciones a que se refiere estÃ¡n exentas del IHAD. AdemÃ¡s, se encuentran liberadas del trÃ¡mite de la insinuaciÃ³n, contemplado en los artÃ­culos 1.401 y siguientes del CÃ³digo Civil y en el TÃ­tulo IX, Libro IV del CÃ³digo de Procedimiento Civil.
-* c) El artÃ­culo 16 de la Ley NÂ° 20.444, establece que las donaciones acogidas a los beneficios tributarios de esta Ley no podrÃ¡n acogerse a otros beneficios tributarios contemplados en otras leyes.
-* d) La Ley establece que cuando los contribuyentes del IDPC que declaren su renta efectiva sobre la base de un balance general segÃºn contabilidad completa, efectÃºen donaciones en especies, las importaciones de las especies donadas estarÃ¡n liberadas de todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas.
+* a) Inaplicabilidad del LGA que establece el artículo 10 de la Ley N° 19.885.
+* b) La Ley establece que las donaciones a que se refiere están exentas del IHAD. Además, se encuentran liberadas del trámite de la insinuación, contemplado en los artículos 1.401 y siguientes del Código Civil y en el Título IX, Libro IV del Código de Procedimiento Civil.
+* c) El artículo 16 de la Ley N° 20.444, establece que las donaciones acogidas a los beneficios tributarios de esta Ley no podrán acogerse a otros beneficios tributarios contemplados en otras leyes.
+* d) La Ley establece que cuando los contribuyentes del IDPC que declaren su renta efectiva sobre la base de un balance general según contabilidad completa, efectúen donaciones en especies, las importaciones de las especies donadas estarán liberadas de todo tipo de impuesto, derecho, tasa u otro gravamen que sea percibido por Aduanas.
 
 ## III FISCALIZACION
 
-En sus procesos de fiscalizaciÃ³n, este Servicio revisarÃ¡ el correcto cumplimiento de los requisitos legales y aplicarÃ¡ las sanciones que corresponda, cuando sea el caso.
+En sus procesos de fiscalización, este Servicio revisará el correcto cumplimiento de los requisitos legales y aplicará las sanciones que corresponda, cuando sea el caso.
 
 Saluda a Uds.,
 
 <unknown>
 
-## SRG/CFS/VVC DISTRIBUCIÃ“N:
+## SRG/CFS/VVC DISTRIBUCIÓN:
 
 * Internet
 * Diario Oficial en Extracto

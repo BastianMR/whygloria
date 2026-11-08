@@ -1,70 +1,71 @@
-﻿---
-type: SII ResoluciÃ³n
-title: 2015_RESOLUCION_reso111.md
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "2015_RESOLUCION_reso111"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÃ“N JURADA ANUAL DE FONDO DE UTILIDADES TRIBUTABLES (FUT), FORMULARIO NÂ° 1925.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL DE FONDO DE UTILIDADES TRIBUTABLES (FUT), FORMULARIO N° 1925.
 
 SANTIAGO, 24 de diciembre de 2015.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂº \_111.-\_\_\_\_\_\_/
+RESOLUCIÓN EX. SII Nº \_111.-\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Âº, 4 bis, y 7Âº de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Âº del D.F.L. NÂº 7, de 1980, del Ministerio de Hacienda; en los artÃ­culos 6Â° letra A) NÂ° 1), 34, 35 y 60 inciso penÃºltimo del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974, las modificaciones incorporadas a la Ley sobre Impuesto a la Renta por los artÃ­culos 1Â° permanente y segundo y tercero transitorios de la Ley NÂ° 20.780, de 2014; y
+VISTOS: Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L. Nº 7, de 1980, del Ministerio de Hacienda; en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L. N° 830, de 1974, las modificaciones incorporadas a la Ley sobre Impuesto a la Renta por los artículos 1° permanente y segundo y tercero transitorios de la Ley N° 20.780, de 2014; y
 
 ## CONSIDERANDO:
 
-1.Que, al Servicio de Impuestos Internos le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos y cuyo control no estÃ¡ dado a otra autoridad, y por ello, es un propÃ³sito permanente de este Servicio mejorar el control y facilitar el cumplimiento de las obligaciones tributarias de los contribuyentes.
+1.Que, al Servicio de Impuestos Internos le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos y cuyo control no está dado a otra autoridad, y por ello, es un propósito permanente de este Servicio mejorar el control y facilitar el cumplimiento de las obligaciones tributarias de los contribuyentes.
 
-2.Que, el artÃ­culo 34 del CÃ³digo Tributario obliga a atestiguar bajo juramento sobre los puntos contenidos en una declaraciÃ³n, a los contribuyentes y a las demÃ¡s personas que la misma disposiciÃ³n seÃ±ala cuando el Servicio de Impuestos Internos asÃ­ lo requiera.
+2.Que, el artículo 34 del Código Tributario obliga a atestiguar bajo juramento sobre los puntos contenidos en una declaración, a los contribuyentes y a las demás personas que la misma disposición señala cuando el Servicio de Impuestos Internos así lo requiera.
 
-3.Que, el artÃ­culo 35 del CÃ³digo Tributario, en lo pertinente establece que este Servicio podrÃ¡ exigir la presentaciÃ³n de otros documentos tales como libros de contabilidad, detalle de la cuenta de pÃ©rdidas y ganancias, documentos o exposiciÃ³n explicativa y demÃ¡s que justifiquen el monto de la renta declarada y las partidas anotadas en la contabilidad.
+3.Que, el artículo 35 del Código Tributario, en lo pertinente establece que este Servicio podrá exigir la presentación de otros documentos tales como libros de contabilidad, detalle de la cuenta de pérdidas y ganancias, documentos o exposición explicativa y demás que justifiquen el monto de la renta declarada y las partidas anotadas en la contabilidad.
 
-4.Que, la ley NÂ° 20.780 de 2014, incorpora modificaciones a los registros de utilidades que deben llevar los contribuyentes, lo que hace necesario implementar medidas tendientes a llevar el control de los saldos de los registros actualmente existentes.
+4.Que, la ley N° 20.780 de 2014, incorpora modificaciones a los registros de utilidades que deben llevar los contribuyentes, lo que hace necesario implementar medidas tendientes a llevar el control de los saldos de los registros actualmente existentes.
 
-5.Que, la entrega de informaciÃ³n a travÃ©s de la transmisiÃ³n electrÃ³nica de datos vÃ­a Internet es la que ofrece las mayores garantÃ­as de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la informaciÃ³n y dar una respuesta de recepciÃ³n al instante.
+5.Que, la entrega de información a través de la transmisión electrónica de datos vía Internet es la que ofrece las mayores garantías de seguridad y rapidez, por cuanto permite recibir en forma directa los antecedentes proporcionados por el interesado, validar previamente la información y dar una respuesta de recepción al instante.
 
 ## SE RESUELVE:
 
-1Â° EstablÃ©cese el Formulario NÂ° 1925 sobre ' DeclaraciÃ³n Jurada Anual de Fondo de Utilidades Tributables (FUT) ', segÃºn formato e Instrucciones de llenado que se publicarÃ¡n en la pÃ¡gina web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
+1° Establécese el Formulario N° 1925 sobre ' Declaración Jurada Anual de Fondo de Utilidades Tributables (FUT) ', según formato e Instrucciones de llenado que se publicarán en la página web del Servicio ([<u>www.sii.cl</u>](http://www.sii.cl)).
 
-2Â° La declaraciÃ³n jurada establecida en el resolutivo anterior deberÃ¡ ser presentada por los contribuyentes obligados a determinar su renta efectiva segÃºn contabilidad completa y balance general, que al 31 de diciembre del aÃ±o anterior al que informa mantengan rentas acumuladas, en cualquiera de los siguientes registros: Fondo de Utilidades Tributables, Fondo de Utilidades No Tributables y/o Fondo de Utilidades Reinvertidas. Asimismo, tambiÃ©n estarÃ¡n obligadas a presentar dicha declaraciÃ³n, las Administradoras de Fondos de inversiÃ³n, por las utilidades tributables y no tributables acumuladas de cada uno de los fondos que administren presentando una declaraciÃ³n por cada fondo.
+2° La declaración jurada establecida en el resolutivo anterior deberá ser presentada por los contribuyentes obligados a determinar su renta efectiva según contabilidad completa y balance general, que al 31 de diciembre del año anterior al que informa mantengan rentas acumuladas, en cualquiera de los siguientes registros: Fondo de Utilidades Tributables, Fondo de Utilidades No Tributables y/o Fondo de Utilidades Reinvertidas. Asimismo, también estarán obligadas a presentar dicha declaración, las Administradoras de Fondos de inversión, por las utilidades tributables y no tributables acumuladas de cada uno de los fondos que administren presentando una declaración por cada fondo.
 
-Asimismo, deberÃ¡n informar los saldos por retiros en exceso provenientes de empresas en donde participa.
+Asimismo, deberán informar los saldos por retiros en exceso provenientes de empresas en donde participa.
 
-3Â° El plazo para presentar la declaraciÃ³n jurada a que se refiere el resolutivo nÃºmero 1Â° anterior, es hasta el dÃ­a 15 de junio, del aÃ±o siguiente a aquel cuyos saldos de rentas acumuladas y retiros en exceso, estÃ©n siendo informados.
+3° El plazo para presentar la declaración jurada a que se refiere el resolutivo número 1° anterior, es hasta el día 15 de junio, del año siguiente a aquel cuyos saldos de rentas acumuladas y retiros en exceso, estén siendo informados.
 
-4Â° La declaraciÃ³n jurada referida en la presente ResoluciÃ³n, deberÃ¡ ser realizada a travÃ©s de internet y enviada por los medios que el Servicio instruya en el Suplemento de Declaraciones Juradas del aÃ±o tributario respectivo.
+4° La declaración jurada referida en la presente Resolución, deberá ser realizada a través de internet y enviada por los medios que el Servicio instruya en el Suplemento de Declaraciones Juradas del año tributario respectivo.
 
-5Â° El Servicio pondrÃ¡ a disposiciÃ³n de los contribuyentes que no puedan acceder a Internet, los medios tecnolÃ³gicos necesarios para realizar la transmisiÃ³n electrÃ³nica de los datos que permitan presentar la declaraciÃ³n jurada a que se refiere la presente ResoluciÃ³n.
+5° El Servicio pondrá a disposición de los contribuyentes que no puedan acceder a Internet, los medios tecnológicos necesarios para realizar la transmisión electrónica de los datos que permitan presentar la declaración jurada a que se refiere la presente Resolución.
 
-6Â° Los Anexos de esta ResoluciÃ³n, que se entiende forman parte Ã­ntegra de Ã©sta, se publicarÃ¡n oportunamente en la pÃ¡gina Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+6° Los Anexos de esta Resolución, que se entiende forman parte íntegra de ésta, se publicarán oportunamente en la página Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Toda modificaciÃ³n a los anexos antes aludidos, se efectuarÃ¡ mediante su oportuna publicaciÃ³n en la pÃ¡gina web de este Servicio.
+Toda modificación a los anexos antes aludidos, se efectuará mediante su oportuna publicación en la página web de este Servicio.
 
-7Â° El retardo u omisiÃ³n en la presentaciÃ³n de la declaraciÃ³n jurada establecida en el resolutivo NÂ° 1Â° serÃ¡ sancionado conforme a lo dispuesto en el NÂ° 15 del artÃ­culo 97 del CÃ³digo Tributario.
+7° El retardo u omisión en la presentación de la declaración jurada establecida en el resolutivo N° 1° será sancionado conforme a lo dispuesto en el N° 15 del artículo 97 del Código Tributario.
 
-8Â° La presente ResoluciÃ³n regirÃ¡ sÃ³lo para los AÃ±os Tributarios 2016 y 2017, respecto de la informaciÃ³n correspondiente a los aÃ±os calendarios 2015 y 2016.
+8° La presente Resolución regirá sólo para los Años Tributarios 2016 y 2017, respecto de la información correspondiente a los años calendarios 2015 y 2016.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## Anexos:
 
-Anexo NÂ° 1: Formato Formulario NÂ° 1925 Anexo NÂ° 2: Instrucciones de llenado Formulario NÂ° 1925
+Anexo N° 1: Formato Formulario N° 1925 Anexo N° 2: Instrucciones de llenado Formulario N° 1925
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
 VVM/CGG/NSM/OEG/MDA/GET
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
-* AL BOLETÃN
+* AL BOLETÍN
 * A INTERNET
 * AL DIARIO OFICIAL, EN EXTRACTO

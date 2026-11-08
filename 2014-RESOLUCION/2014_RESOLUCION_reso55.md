@@ -1,54 +1,55 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 19 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 19 (2014)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-AUTORIZA COMO EMISOR DE BOLETAS ELECTRÃ“NICAS A CONTRIBUYENTE QUE SE SEÃ‘ALA.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+
+AUTORIZA COMO EMISOR DE BOLETAS ELECTRÓNICAS A CONTRIBUYENTE QUE SE SEÑALA.
 
 SANTIAGO, 03 de junio de 2014.-
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EXENTA SII NÂ° \_\_55.-\_\_\_\_\_\_/
+RESOLUCIÓN EXENTA SII N° \_\_55.-\_\_\_\_\_\_/
 
-VISTOS: Lo dispuesto en el Art. 6Â°, Inciso NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ° 830, de 1974; en el Art. 4Â° bis del D.F.L. NÂ° 7, 1980, del Ministerio de Hacienda; la Ley NÂ° 20.727, de 2014; y
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 4° bis del D.F.L. N° 7, 1980, del Ministerio de Hacienda; la Ley N° 20.727, de 2014; y
 
 ## CONSIDERANDO:
 
-1Â° Que, mediante Res. Ex. SII NÂ° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1Â° del D.L. NÂ° 825, de 1974.
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
 
-2Â° Que, de acuerdo a lo establecido en la ResoluciÃ³n citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios ElectrÃ³nicos a los contribuyentes y Ã³rganos del Estado que cumplan en forma satisfactoria el proceso de postulaciÃ³n y certificaciÃ³n obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-3Â° Que, el contribuyente que se describe en el Resolutivo primero, se encuentra autorizado como emisor electrÃ³nico mediante la Res. Ex. SII NÂ° 45, del 16 de Mayo de 2014, de acuerdo a los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+3° Que, el contribuyente que se describe en el Resolutivo primero, se encuentra autorizado como emisor electrónico mediante la Res. Ex. SII N° 45, del 16 de Mayo de 2014, de acuerdo a los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-4Â° Que, el contribuyente indicado ha solicitado el otorgamiento de la autorizaciÃ³n de que se trata por Internet y ha cumplido satisfactoriamente con el proceso de postulaciÃ³n que lo habilita para ser emisor de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, de acuerdo a lo establecido en la ResoluciÃ³n Ex. SII NÂ° 19, de 12 de Febrero de 2008.
+4° Que, el contribuyente indicado ha solicitado el otorgamiento de la autorización de que se trata por Internet y ha cumplido satisfactoriamente con el proceso de postulación que lo habilita para ser emisor de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, de acuerdo a lo establecido en la Resolución Ex. SII N° 19, de 12 de Febrero de 2008.
 
 ## SE RESUELVE:
 
-Primero : AutorÃ­zase como emisor de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Junio del 2014, al siguiente contribuyente:
+Primero : Autorízase como emisor de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, a contar del mes de Junio del 2014, al siguiente contribuyente:
 
-* -IMPORTADORA Y COMERCIALIZADORA BROKERMED DE 76.292.834-5 DISPOSITIVOS MÃ‰DICOS, EQUIPAMIENTO DE USO CLINICO, MEDICAMENTOS Y PRODUCTOS COSMETICOS LTDA
+* -IMPORTADORA Y COMERCIALIZADORA BROKERMED DE 76.292.834-5 DISPOSITIVOS MÉDICOS, EQUIPAMIENTO DE USO CLINICO, MEDICAMENTOS Y PRODUCTOS COSMETICOS LTDA
 
-En la Oficina Virtual del SII en Internet se podrÃ¡n consultar los documentos que el mencionado contribuyente estÃ¡ autorizado a emitir en forma electrÃ³nica.
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que el mencionado contribuyente está autorizado a emitir en forma electrónica.
 
 Segundo :
 
-El contribuyente autorizado conforme al dispositivo anterior deberÃ¡ cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 45, de Septiembre del 2003 y la ResoluciÃ³n Ex. SII NÂ° 19, del 12 de Febrero de 2008.
+El contribuyente autorizado conforme al dispositivo anterior deberá cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003 y la Resolución Ex. SII N° 19, del 12 de Febrero de 2008.
 
-Tercero : El incumplimiento de las obligaciones que establece esta resoluciÃ³n, como asimismo la utilizaciÃ³n maliciosa del Sistema de Factura ElectrÃ³nica, se encuentra sancionada en los Arts. 97 Ã³ 109 del CÃ³digo Tributario, segÃºn corresponda.
+Tercero : El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
 
-AnÃ³tese, comunÃ­quese y publÃ­quese en extracto.
+Anótese, comuníquese y publíquese en extracto.
 
-## (Fdo.) VÃCTOR VILLALÃ“N MÃ‰NDEZ SUBDIRECTOR DE FISCALIZACIÃ“N
+## (Fdo.) VÍCTOR VILLALÓN MÉNDEZ SUBDIRECTOR DE FISCALIZACIÓN
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## RPA/CPG/lvw DistribuciÃ³n:
+## RPA/CPG/lvw Distribución:
 
 * Internet
 * Diario Oficial en extracto
-* BoletÃ­n SII
+* Boletín SII

@@ -1,118 +1,119 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 2 (2018)
-description: DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÃ“N EX. SII NÂ° 2, DE 12 DE ENERO DE 2018.
+---
+type: "SII Resolución"
+title: "Resolución N° 2 (2018)"
+description: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018."
 tags: [SII, 2018, resolucion]
 ---
 
-DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÃ“N EX. SII NÂ° 2, DE 12 DE ENERO DE 2018.
+
+DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018.
 
 SANTIAGO, 30 de abril de 2018
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ° 42 /
+RESOLUCIÓN EX. SII N° 42 /
 
-VISTOS : Las facultades contempladas en los artÃ­culos 1Â°, 4Â° bis, letras b) y q) del artÃ­culo 7Â° y artÃ­culo 9Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el ArtÃ­culo Primero del D.F.L. NÂ° 7, del Ministerio de Hacienda; en el artÃ­culo 41 del D.F.L. NÂ° 1 del aÃ±o 2001, del Ministerio SecretarÃ­a General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley de Bases Generales de la AdministraciÃ³n del Estado; en el artÃ­culo 6Â°, letra A, NÂ° 1 y 88 del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830 de 1974, del Ministerio de Hacienda; en los artÃ­culos 2Â°, 3Â° y 51 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. NÂ° 825 de 1974, del Ministerio de Hacienda, y en las normas contenidas en el TÃ­tulo XIII del D.S. NÂ° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, tambiÃ©n del Ministerio de Hacienda; ResoluciÃ³n Exenta SII NÂ° 39 de 27.03.2008, modificada por Resoluciones Exentas SII NÂ° 102, de 04.11.2014 y NÂ° 55, de fecha 17.06.2016; ResoluciÃ³n Exenta SII NÂ° 20, de 28 de febrero de 2018; y
+VISTOS : Las facultades contempladas en los artículos 1°, 4° bis, letras b) y q) del artículo 7° y artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L. N° 7, del Ministerio de Hacienda; en el artículo 41 del D.F.L. N° 1 del año 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley de Bases Generales de la Administración del Estado; en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda; en los artículos 2°, 3° y 51 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. N° 825 de 1974, del Ministerio de Hacienda, y en las normas contenidas en el Título XIII del D.S. N° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, también del Ministerio de Hacienda; Resolución Exenta SII N° 39 de 27.03.2008, modificada por Resoluciones Exentas SII N° 102, de 04.11.2014 y N° 55, de fecha 17.06.2016; Resolución Exenta SII N° 20, de 28 de febrero de 2018; y
 
 ## CONSIDERANDO:
 
-* 1Â°. Que, mediante ResoluciÃ³n Exenta SII NÂ° 2 de fecha 12 de enero de 2018, se derogÃ³ la ResoluciÃ³n Exenta SII NÂ° 39 de 27 de marzo de 2008, que excepciona de las retenciones por cambio de sujeto de derecho de IVA a las operaciones respaldadas con documentos tributarios electrÃ³nicos. En su resolutivo tercero, la citada ResoluciÃ³n dispuso que regirÃ¡ a contar del primer dÃ­a del mes subsiguiente a la fecha de su publicaciÃ³n en extracto en el Diario Oficial.
-* 2Â°. Que, mediante ResoluciÃ³n Ex. SII NÂ° 20, de 28 de febrero de 2018, se ampliÃ³ al 1 de mayo de 2018 el plazo de entrada en vigencia de la ResoluciÃ³n Ex. SII NÂ° 2, de 12 de enero de 2018.
-* 3Â°. Que, este Servicio en uso de sus facultades legales, por razones de buen servicio y a fin de otorgar el mÃ¡ximo de facilidades a los contribuyentes que estarÃ¡n obligados por la referida resoluciÃ³n, y considerando reuniones de trabajo con distintos actores, ha estimado conveniente modificar los criterios que conducen al cambio de sujeto de la ResoluciÃ³n Ex. SII NÂ° 2, de 12 de enero de 2018, lo que supone dejarla sin efecto.
-* 4Â°. Que, este Servicio en uso de sus facultades, ha decidido implementar una nueva regulaciÃ³n referida al cambio de sujeto en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturaciÃ³n electrÃ³nica, redefiniÃ©ndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retenciÃ³n.
-* 5Â°. Que, segÃºn lo previsto en los artÃ­culos 2Âº, NÂ°s 3Â°) y 4Â°), 3Âº y 10 de la Ley sobre Impuesto a las Ventas y Servicios, el sujeto pasivo de derecho del IVA es el vendedor o prestador de servicios, no obstante, lo cual, el inciso tercero del artÃ­culo 3Â° de la misma Ley prescribe que este tributo afectarÃ¡ al adquirente, en los casos que asÃ­ lo determine la DirecciÃ³n Nacional del Servicio de Impuestos Internos a su juicio exclusivo, a travÃ©s de las normas generales que imparta.
-* 6Â°. Que, en consideraciÃ³n al constante interÃ©s de este Servicio de mejorar tanto la calidad como la eficiencia de todos los procesos de fiscalizaciÃ³n y, considerando el dinamismo con que suceden los acontecimientos en la vida econÃ³mica, esta DirecciÃ³n ha decidido hacer uso de la facultad establecida en el inciso tercero del artÃ­culo 3Â° del D.L. NÂ° 825, de 1974, cambiando totalmente el sujeto de derecho del IVA y traspasando la responsabilidad de la declaraciÃ³n y pago del tributo que afecta a los proveedores y prestadores de
+* 1°. Que, mediante Resolución Exenta SII N° 2 de fecha 12 de enero de 2018, se derogó la Resolución Exenta SII N° 39 de 27 de marzo de 2008, que excepciona de las retenciones por cambio de sujeto de derecho de IVA a las operaciones respaldadas con documentos tributarios electrónicos. En su resolutivo tercero, la citada Resolución dispuso que regirá a contar del primer día del mes subsiguiente a la fecha de su publicación en extracto en el Diario Oficial.
+* 2°. Que, mediante Resolución Ex. SII N° 20, de 28 de febrero de 2018, se amplió al 1 de mayo de 2018 el plazo de entrada en vigencia de la Resolución Ex. SII N° 2, de 12 de enero de 2018.
+* 3°. Que, este Servicio en uso de sus facultades legales, por razones de buen servicio y a fin de otorgar el máximo de facilidades a los contribuyentes que estarán obligados por la referida resolución, y considerando reuniones de trabajo con distintos actores, ha estimado conveniente modificar los criterios que conducen al cambio de sujeto de la Resolución Ex. SII N° 2, de 12 de enero de 2018, lo que supone dejarla sin efecto.
+* 4°. Que, este Servicio en uso de sus facultades, ha decidido implementar una nueva regulación referida al cambio de sujeto en aquellos casos de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del Impuesto al Valor Agregado (IVA) o a la facturación electrónica, redefiniéndose los requisitos para obtener la calidad de agente retenedor y de contribuyente sujeto a retención.
+* 5°. Que, según lo previsto en los artículos 2º, N°s 3°) y 4°), 3º y 10 de la Ley sobre Impuesto a las Ventas y Servicios, el sujeto pasivo de derecho del IVA es el vendedor o prestador de servicios, no obstante, lo cual, el inciso tercero del artículo 3° de la misma Ley prescribe que este tributo afectará al adquirente, en los casos que así lo determine la Dirección Nacional del Servicio de Impuestos Internos a su juicio exclusivo, a través de las normas generales que imparta.
+* 6°. Que, en consideración al constante interés de este Servicio de mejorar tanto la calidad como la eficiencia de todos los procesos de fiscalización y, considerando el dinamismo con que suceden los acontecimientos en la vida económica, esta Dirección ha decidido hacer uso de la facultad establecida en el inciso tercero del artículo 3° del D.L. N° 825, de 1974, cambiando totalmente el sujeto de derecho del IVA y traspasando la responsabilidad de la declaración y pago del tributo que afecta a los proveedores y prestadores de
 
 servicios de contribuyentes que reiteradamente presentan brechas de cumplimiento tributario asociadas a las obligaciones del IVA, a determinados adquirentes de los referidos bienes y servicios.
 
 ## SE RESUELVE:
 
-1. DispÃ³ngase el cambio total del sujeto pasivo de derecho del Impuesto al Valor Agregado, por las ventas y prestaciones de servicios gravados con IVA que realicen Contribuyentes Sujetos a RetenciÃ³n, a adquirentes o beneficiarios de servicios calificados como Agentes Retenedores, conforme se dispone en la siguiente resoluciÃ³n.
+1. Dispóngase el cambio total del sujeto pasivo de derecho del Impuesto al Valor Agregado, por las ventas y prestaciones de servicios gravados con IVA que realicen Contribuyentes Sujetos a Retención, a adquirentes o beneficiarios de servicios calificados como Agentes Retenedores, conforme se dispone en la siguiente resolución.
 
-Este cambio de sujeto regirÃ¡ con independencia de que los contribuyentes involucrados en la operaciÃ³n sean emisores de documentos tributarios electrÃ³nicos.
+Este cambio de sujeto regirá con independencia de que los contribuyentes involucrados en la operación sean emisores de documentos tributarios electrónicos.
 
-## 2. Para efectos de la presente resoluciÃ³n
+## 2. Para efectos de la presente resolución
 
-se entenderÃ¡ por:
+se entenderá por:
 
-* a) Contribuyentes Sujetos a RetenciÃ³n: Los vendedores y prestadores de servicios que hayan sido incorporados a la 'NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n', y que, por tal motivo, en las ventas que efectÃºen y/o servicios que presten a Agentes Retenedores, serÃ¡n estos Ãºltimos quienes deberÃ¡n retener, declarar y enterar en arcas fiscales el IVA de dichas operaciones; y
-* b) Agentes Retenedores: Contribuyentes incluidos en la 'NÃ³mina de Agentes Retenedores' y que, por tal motivo, asumen, desde su incorporaciÃ³n y conforme al artÃ­culo 3, inciso 3, del D.L. NÂ° 825 de 1974, la calidad de sujeto del impuesto, quedando obligados a retener, declarar y enterar en arcas fiscales el total del IVA de las ventas que les efectÃºen y/o servicios que les presten Contribuyentes Sujetos a RetenciÃ³n.
+* a) Contribuyentes Sujetos a Retención: Los vendedores y prestadores de servicios que hayan sido incorporados a la 'Nómina de Contribuyentes Sujetos a Retención', y que, por tal motivo, en las ventas que efectúen y/o servicios que presten a Agentes Retenedores, serán estos últimos quienes deberán retener, declarar y enterar en arcas fiscales el IVA de dichas operaciones; y
+* b) Agentes Retenedores: Contribuyentes incluidos en la 'Nómina de Agentes Retenedores' y que, por tal motivo, asumen, desde su incorporación y conforme al artículo 3, inciso 3, del D.L. N° 825 de 1974, la calidad de sujeto del impuesto, quedando obligados a retener, declarar y enterar en arcas fiscales el total del IVA de las ventas que les efectúen y/o servicios que les presten Contribuyentes Sujetos a Retención.
 
-1. CrÃ©anse los siguientes registros:
+1. Créanse los siguientes registros:
 
-* a) NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n: CorresponderÃ¡ al listado al cual se incorporarÃ¡n, por una o mÃ¡s resoluciones dictadas al efecto, los contribuyentes cuyas operaciones gravadas con IVA estarÃ¡n afectas al cambio de sujeto establecido en la presente ResoluciÃ³n.
+* a) Nómina de Contribuyentes Sujetos a Retención: Corresponderá al listado al cual se incorporarán, por una o más resoluciones dictadas al efecto, los contribuyentes cuyas operaciones gravadas con IVA estarán afectas al cambio de sujeto establecido en la presente Resolución.
 
-La NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n, podrÃ¡ ser conformada, entre otros, por:
+La Nómina de Contribuyentes Sujetos a Retención, podrá ser conformada, entre otros, por:
 
 * i) Aquellos contribuyentes que presenten reiteradamente, entre otras, las siguientes brechas de cumplimiento tributario asociadas a las obligaciones del IVA:
 
-1. OmisiÃ³n de declaraciones de Formularios 29, habiendo emitido documentos tributarios electrÃ³nicos (en adelante DTE) con IVA DÃ©bito Fiscal;
-2. SubdeclaraciÃ³n de dÃ©bitos fiscales en sus Formularios 29, habiendo emitido DTE con IVA dÃ©bito fiscal por montos superiores a los declarados;
-3. Sobre-declaraciÃ³n de IVA crÃ©ditos fiscales en sus Formularios 29, en relaciÃ³n a los DTE respectivos que tenga derecho a la utilizaciÃ³n del IVA CrÃ©dito Fiscal.
+1. Omisión de declaraciones de Formularios 29, habiendo emitido documentos tributarios electrónicos (en adelante DTE) con IVA Débito Fiscal;
+2. Subdeclaración de débitos fiscales en sus Formularios 29, habiendo emitido DTE con IVA débito fiscal por montos superiores a los declarados;
+3. Sobre-declaración de IVA créditos fiscales en sus Formularios 29, en relación a los DTE respectivos que tenga derecho a la utilización del IVA Crédito Fiscal.
 4. ii) Aquellos contribuyentes que presenten de forma reiterada algunas de las siguientes brechas de cumplimiento tributario:
-5. Falta de pago de giros emitidos por postergaciÃ³n de IVA en la cantidad de perÃ­odos tributarios seÃ±alados en el artÃ­culo 64 de la Ley del IVA;
-6. Falta de pago de giros por declaraciones fuera de plazo de IVA, en cobranza de TesorerÃ­a, giros con convenio de pago caduco o de deudas declaradas incobrables;
-7. Domicilio inexistente, no ubicado y/o inconcurrente a notificaciones de requerimiento de antecedentes en el marco de una auditorÃ­a, o en un proceso de recopilaciÃ³n de antecedentes;
-8. Falta de declaraciÃ³n del impuesto anual a la renta que implique la omisiÃ³n de los ingresos facturados o sin facturar, en la cantidad de perÃ­odos tributarios seÃ±alados en el artÃ­culo 64 de la Ley del IVA.
+5. Falta de pago de giros emitidos por postergación de IVA en la cantidad de períodos tributarios señalados en el artículo 64 de la Ley del IVA;
+6. Falta de pago de giros por declaraciones fuera de plazo de IVA, en cobranza de Tesorería, giros con convenio de pago caduco o de deudas declaradas incobrables;
+7. Domicilio inexistente, no ubicado y/o inconcurrente a notificaciones de requerimiento de antecedentes en el marco de una auditoría, o en un proceso de recopilación de antecedentes;
+8. Falta de declaración del impuesto anual a la renta que implique la omisión de los ingresos facturados o sin facturar, en la cantidad de períodos tributarios señalados en el artículo 64 de la Ley del IVA.
 
-Constituye reiteraciÃ³n para fines de este cambio de sujeto, la verificaciÃ³n de alguna de las brechas de cumplimiento tributario descritas en la presente ResoluciÃ³n, por dos o mÃ¡s perÃ­odos.
+Constituye reiteración para fines de este cambio de sujeto, la verificación de alguna de las brechas de cumplimiento tributario descritas en la presente Resolución, por dos o más períodos.
 
-La permanencia en la NÃ³mina de Contribuyentes Retenidos tendrÃ¡ una duraciÃ³n mÃ­nima de seis meses. Transcurrido este plazo, el contribuyente retenido serÃ¡ excluido de la nÃ³mina, siempre que haya solucionado sus brechas de cumplimiento tributario y no haya incurrido en nuevas, refiriÃ©ndose en ambos casos, a las brechas descritas en la presente ResoluciÃ³n.
+La permanencia en la Nómina de Contribuyentes Retenidos tendrá una duración mínima de seis meses. Transcurrido este plazo, el contribuyente retenido será excluido de la nómina, siempre que haya solucionado sus brechas de cumplimiento tributario y no haya incurrido en nuevas, refiriéndose en ambos casos, a las brechas descritas en la presente Resolución.
 
-* b) NÃ³mina de Agentes Retenedores: CorresponderÃ¡ al listado al cual se incorporarÃ¡n, por una o mÃ¡s resoluciones dictadas al efecto, los contribuyentes obligados a actuar como agentes retenedores en las operaciones que realicen con Contribuyentes Sujetos a RetenciÃ³n.
+* b) Nómina de Agentes Retenedores: Corresponderá al listado al cual se incorporarán, por una o más resoluciones dictadas al efecto, los contribuyentes obligados a actuar como agentes retenedores en las operaciones que realicen con Contribuyentes Sujetos a Retención.
 
-1. Las NÃ³minas de Contribuyentes Sujetos a RetenciÃ³n y de Agentes Retenedores serÃ¡n publicadas semestralmente en la pÃ¡gina web del Servicio de Impuestos Internos (sii.cl).
+1. Las Nóminas de Contribuyentes Sujetos a Retención y de Agentes Retenedores serán publicadas semestralmente en la página web del Servicio de Impuestos Internos (sii.cl).
 
-Dicha publicaciÃ³n se efectuarÃ¡ el Ãºltimo dÃ­a hÃ¡bil de junio y diciembre de cada aÃ±o. Al dÃ­a siguiente de dicha publicaciÃ³n comenzarÃ¡n a regir las obligaciones de retenciÃ³n.
+Dicha publicación se efectuará el último día hábil de junio y diciembre de cada año. Al día siguiente de dicha publicación comenzarán a regir las obligaciones de retención.
 
-Los contribuyentes, en el desarrollo de sus operaciones, deberÃ¡n verificar si su contraparte se encuentra incluida en alguna de dichas nÃ³minas, segÃºn corresponda.
+Los contribuyentes, en el desarrollo de sus operaciones, deberán verificar si su contraparte se encuentra incluida en alguna de dichas nóminas, según corresponda.
 
-1. Los contribuyentes no incluidos en la NÃ³mina de Agentes Retenedores, podrÃ¡n solicitar su inclusiÃ³n a la DirecciÃ³n Regional correspondiente a su domicilio, o a la DirecciÃ³n de Grandes Contribuyentes, segÃºn corresponda, siempre que acrediten que realizan operaciones con contribuyentes incluidos en la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n.
+1. Los contribuyentes no incluidos en la Nómina de Agentes Retenedores, podrán solicitar su inclusión a la Dirección Regional correspondiente a su domicilio, o a la Dirección de Grandes Contribuyentes, según corresponda, siempre que acrediten que realizan operaciones con contribuyentes incluidos en la Nómina de Contribuyentes Sujetos a Retención.
 
-En la misma situaciÃ³n precedente, el respectivo Director Regional, el Director de Grandes Contribuyentes o el Subdirector de FiscalizaciÃ³n, podrÃ¡n incorporar de oficio a uno o mÃ¡s contribuyentes en la NÃ³mina de Agentes Retenedores, asÃ­ como tambiÃ©n podrÃ¡n de oficio, incorporar contribuyentes en la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n que presenten brechas tributarias reiteradas.
+En la misma situación precedente, el respectivo Director Regional, el Director de Grandes Contribuyentes o el Subdirector de Fiscalización, podrán incorporar de oficio a uno o más contribuyentes en la Nómina de Agentes Retenedores, así como también podrán de oficio, incorporar contribuyentes en la Nómina de Contribuyentes Sujetos a Retención que presenten brechas tributarias reiteradas.
 
-1. Los Contribuyentes Sujetos a RetenciÃ³n, a quienes se les retenga totalmente el IVA en virtud de esta ResoluciÃ³n, tendrÃ¡n derecho a recuperar su crÃ©dito fiscal, al igual que el remanente que se origine, imputÃ¡ndolo directamente al dÃ©bito fiscal producto de otras ventas que generen en el perÃ­odo.
+1. Los Contribuyentes Sujetos a Retención, a quienes se les retenga totalmente el IVA en virtud de esta Resolución, tendrán derecho a recuperar su crédito fiscal, al igual que el remanente que se origine, imputándolo directamente al débito fiscal producto de otras ventas que generen en el período.
 
-Si efectuadas las imputaciones del pÃ¡rrafo anterior, subsistieren crÃ©ditos fiscales o remanentes que no hayan podido ser imputados por no poseer dÃ©bitos fiscales suficientes, el contribuyente podrÃ¡ solicitar su devoluciÃ³n hasta el monto del dÃ©bito fiscal retenido, o del remanente, si Ã©ste es menor, presentando una solicitud ante este Servicio.
+Si efectuadas las imputaciones del párrafo anterior, subsistieren créditos fiscales o remanentes que no hayan podido ser imputados por no poseer débitos fiscales suficientes, el contribuyente podrá solicitar su devolución hasta el monto del débito fiscal retenido, o del remanente, si éste es menor, presentando una solicitud ante este Servicio.
 
-La solicitud deberÃ¡ presentarse de acuerdo a lo instruido en la ResoluciÃ³n Ex. SII NÂ° 41, del 6 de mayo de 2016, que establece nuevo procedimiento para solicitar la devoluciÃ³n por Cambio de Sujeto de Derecho de IVA, a travÃ©s de Ã©l o los formularios cuyo(s) formato(s) e instrucciones se encuentran disponibles en la pÃ¡gina Web de este Servicio, sii.cl.
+La solicitud deberá presentarse de acuerdo a lo instruido en la Resolución Ex. SII N° 41, del 6 de mayo de 2016, que establece nuevo procedimiento para solicitar la devolución por Cambio de Sujeto de Derecho de IVA, a través de él o los formularios cuyo(s) formato(s) e instrucciones se encuentran disponibles en la página Web de este Servicio, sii.cl.
 
-La peticiÃ³n, deberÃ¡ presentarse por cada perÃ­odo tributario, dentro del mes siguiente al de la retenciÃ³n del tributo, una vez efectuada la declaraciÃ³n mensual que establece el artÃ­culo 64 de la Ley sobre Impuesto a las Ventas y Servicios.
+La petición, deberá presentarse por cada período tributario, dentro del mes siguiente al de la retención del tributo, una vez efectuada la declaración mensual que establece el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios.
 
-Si durante la verificaciÃ³n de los antecedentes que dan origen al crÃ©dito fiscal, se establecen crÃ©ditos en exceso o que no reÃºnan los requisitos del artÃ­culo 23 de la Ley sobre Impuesto a las Ventas y Servicios, deberÃ¡n deducirse del crÃ©dito fiscal del perÃ­odo y, a partir del remanente si lo hubiera, recalcular el monto de la devoluciÃ³n.
+Si durante la verificación de los antecedentes que dan origen al crédito fiscal, se establecen créditos en exceso o que no reúnan los requisitos del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, deberán deducirse del crédito fiscal del período y, a partir del remanente si lo hubiera, recalcular el monto de la devolución.
 
-Las solicitudes presentadas fuera del plazo que establece el artÃ­culo 3Â° de la Ley sobre Impuesto a las Ventas y Servicios, tambiÃ©n deberÃ¡n ser presentadas de acuerdo a la normativa vigente sobre el procedimiento de devoluciones por Cambio de Sujeto de Derecho de IVA, para ser tramitadas conforme al NÂ° 3 del artÃ­culo 126 del CÃ³digo Tributario.
+Las solicitudes presentadas fuera del plazo que establece el artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, también deberán ser presentadas de acuerdo a la normativa vigente sobre el procedimiento de devoluciones por Cambio de Sujeto de Derecho de IVA, para ser tramitadas conforme al N° 3 del artículo 126 del Código Tributario.
 
-1. DelÃ©guese (i) en el Subdirector de FiscalizaciÃ³n, (ii) en los Directores Regionales, respecto de aquellos contribuyentes que detentan domicilio dentro del territorio de su jurisdicciÃ³n y, (iii) en el Director de Grandes Contribuyentes, respecto de aquellos incluidos en la nÃ³mina de grandes contribuyentes, la facultad de incorporar y eliminar a su juicio exclusivo, contribuyentes de la NÃ³mina de Contribuyentes Sujetos a RetenciÃ³n y/o NÃ³mina de Agentes Retenedores, para lo cual podrÃ¡n atender a las circunstancias o caracterÃ­sticas del comprador o beneficiario del servicio y, considerar tambiÃ©n otras circunstancias propias del vendedor o prestador del servicio, del mercado u otras que determine relevantes para aplicar dicha medida.
+1. Deléguese (i) en el Subdirector de Fiscalización, (ii) en los Directores Regionales, respecto de aquellos contribuyentes que detentan domicilio dentro del territorio de su jurisdicción y, (iii) en el Director de Grandes Contribuyentes, respecto de aquellos incluidos en la nómina de grandes contribuyentes, la facultad de incorporar y eliminar a su juicio exclusivo, contribuyentes de la Nómina de Contribuyentes Sujetos a Retención y/o Nómina de Agentes Retenedores, para lo cual podrán atender a las circunstancias o características del comprador o beneficiario del servicio y, considerar también otras circunstancias propias del vendedor o prestador del servicio, del mercado u otras que determine relevantes para aplicar dicha medida.
 
-DelÃ©guese (i) en los Directores Regionales, respecto de aquellos contribuyentes que detentan domicilio dentro del territorio de su jurisdicciÃ³n y, (ii) en el Director de Grandes Contribuyentes, respecto de aquellos incluidos en la nÃ³mina de grandes contribuyentes, la facultad de resolver las solicitudes seÃ±aladas en el Resolutivo NÂ° 5 precedente, tanto para otorgar como para revocar la calidad de agente retenedor y de contribuyentes retenidos.
+Deléguese (i) en los Directores Regionales, respecto de aquellos contribuyentes que detentan domicilio dentro del territorio de su jurisdicción y, (ii) en el Director de Grandes Contribuyentes, respecto de aquellos incluidos en la nómina de grandes contribuyentes, la facultad de resolver las solicitudes señaladas en el Resolutivo N° 5 precedente, tanto para otorgar como para revocar la calidad de agente retenedor y de contribuyentes retenidos.
 
-En las resoluciones que se dicten en uso de la(s) facultad(es) delegada(s) en lo precedente, deberÃ¡ dejarse constancia que ellas se dictan haciendo uso de la seÃ±alada delegaciÃ³n.
+En las resoluciones que se dicten en uso de la(s) facultad(es) delegada(s) en lo precedente, deberá dejarse constancia que ellas se dictan haciendo uso de la señalada delegación.
 
-1. Como consecuencia del cambio total de sujeto del impuesto, los Agentes Retenedores deberÃ¡n emitir 'facturas de compra' y recargar separadamente en ellas el 100% del IVA a retener, el que deberÃ¡ ser declarado y pagado como un impuesto de retenciÃ³n; no teniendo el Contribuyente Sujeto a RetenciÃ³n obligaciÃ³n de emitir factura por esa operaciÃ³n, sin perjuicio de la guÃ­a de despacho por el traslado de los bienes, segÃºn corresponda.
+1. Como consecuencia del cambio total de sujeto del impuesto, los Agentes Retenedores deberán emitir 'facturas de compra' y recargar separadamente en ellas el 100% del IVA a retener, el que deberá ser declarado y pagado como un impuesto de retención; no teniendo el Contribuyente Sujeto a Retención obligación de emitir factura por esa operación, sin perjuicio de la guía de despacho por el traslado de los bienes, según corresponda.
 
-En la factura de compra emitida, se deberÃ¡ dejar constancia expresa que se ha retenido el 100% del IVA sobre el total de la compra. Por ejemplo:
+En la factura de compra emitida, se deberá dejar constancia expresa que se ha retenido el 100% del IVA sobre el total de la compra. Por ejemplo:
 
 | **CANTIDAD** | **DETALLE** | **PRECIO UNITARIO** | **TOTAL** |
 | --- | --- | --- | --- |
-| 100 | Unidades de artÃ­culos ABC. MAS: 19% IVA A RETENER (\*) Subtotal MENOS: 19% IVA RETENIDO | $ 980 | $ 98.000 $ 18.620 ------------- $116.620 $ 18.620 ------------- |
+| 100 | Unidades de artículos ABC. MAS: 19% IVA A RETENER (\*) Subtotal MENOS: 19% IVA RETENIDO | $ 980 | $ 98.000 $ 18.620 ------------- $116.620 $ 18.620 ------------- |
 
-(\*) Tasa del IVA vigente a la fecha de publicaciÃ³n de la presente ResoluciÃ³n.
+(\*) Tasa del IVA vigente a la fecha de publicación de la presente Resolución.
 
-1. El monto del IVA recargado y retenido en las 'facturas de compra', serÃ¡ para el Agente Retenedor un impuesto de retenciÃ³n, que deberÃ¡ declarar y pagar Ã­ntegramente en arcas fiscales, sin que opere, a su respecto, imputaciÃ³n o deducciÃ³n alguna, debiendo incluirse dicho monto total en el reverso del Formulario NÂ° 29 (F29) de declaraciÃ³n y pago simultÃ¡neo mensual, en el espacio o lÃ­nea destinado a declarar 'IVA total retenido a terceros (tasa Art. 14 D.L. 825/74)', cÃ³digo 39.
-2. El total del IVA recargado en las 'facturas de compra', retenido, declarado y pagado mensualmente, podrÃ¡ ser utilizado por los adquirentes mencionados, sobre los cuales recae el cambio de sujeto de esta ResoluciÃ³n, como crÃ©dito fiscal de conformidad a lo establecido en el TÃ­tulo II, pÃ¡rrafo 6Â°, de la Ley de Impuestos a las Ventas y Servicios y TÃ­tulo VIII de su Reglamento.
-3. El no otorgamiento de factura de compra o, su emisiÃ³n sin cumplir los requisitos legales, reglamentarios y los establecidos en la presente ResoluciÃ³n, harÃ¡n aplicable las sanciones del NÂ° 10 del artÃ­culo 97 del CÃ³digo Tributario.
+1. El monto del IVA recargado y retenido en las 'facturas de compra', será para el Agente Retenedor un impuesto de retención, que deberá declarar y pagar íntegramente en arcas fiscales, sin que opere, a su respecto, imputación o deducción alguna, debiendo incluirse dicho monto total en el reverso del Formulario N° 29 (F29) de declaración y pago simultáneo mensual, en el espacio o línea destinado a declarar 'IVA total retenido a terceros (tasa Art. 14 D.L. 825/74)', código 39.
+2. El total del IVA recargado en las 'facturas de compra', retenido, declarado y pagado mensualmente, podrá ser utilizado por los adquirentes mencionados, sobre los cuales recae el cambio de sujeto de esta Resolución, como crédito fiscal de conformidad a lo establecido en el Título II, párrafo 6°, de la Ley de Impuestos a las Ventas y Servicios y Título VIII de su Reglamento.
+3. El no otorgamiento de factura de compra o, su emisión sin cumplir los requisitos legales, reglamentarios y los establecidos en la presente Resolución, harán aplicable las sanciones del N° 10 del artículo 97 del Código Tributario.
 
-El Agente Retenedor deberÃ¡ pagar, ademÃ¡s, el IVA que debiÃ³ retener, mÃ¡s los reajustes, intereses y multas, establecidos en los artÃ­culos NÂ° 53 incisos 1Â° y 3Â° y 97 NÂº 11 incisos 1Â° o 2Â° del CÃ³digo Tributario, segÃºn corresponda.
+El Agente Retenedor deberá pagar, además, el IVA que debió retener, más los reajustes, intereses y multas, establecidos en los artículos N° 53 incisos 1° y 3° y 97 Nº 11 incisos 1° o 2° del Código Tributario, según corresponda.
 
-1. Se deroga la ResoluciÃ³n Exenta SII NÂ°2 de 2018, a contar del 2 de mayo de 2018.
-2. El cambio de sujeto establecido en la presente resoluciÃ³n, regirÃ¡ a contar del 1Â° de agosto de 2018.
+1. Se deroga la Resolución Exenta SII N°2 de 2018, a contar del 2 de mayo de 2018.
+2. El cambio de sujeto establecido en la presente resolución, regirá a contar del 1° de agosto de 2018.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 Lo que transcribo a Ud., para su conocimiento y fines pertinentes:
 
-VVM/CGG/GMV/LVB/MDT DistribuciÃ³n: Internet BoletÃ­n Diario Oficial, en extracto.
+VVM/CGG/GMV/LVB/MDT Distribución: Internet Boletín Diario Oficial, en extracto.

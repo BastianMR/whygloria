@@ -1,11 +1,12 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 101 (2024)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÃ“N NORMATIVA GE285959
+---
+type: "SII Resolución"
+title: "Resolución N° 101 (2024)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959"
 tags: [SII, 2024, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÃ“N NORMATIVA GE285959
+
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959
 
 INSTRUYE SOBRE LA FORMA DE DOCUMENTAR LOS SERVICIOS PRESTADOS POR TRABAJADORES INDEPENDIENTES DE PLATAFORMAS DIGITALES SIN DOMICILIO O RESIDENCIA EN CHILE
 
@@ -13,79 +14,79 @@ INSTRUYE SOBRE LA FORMA DE DOCUMENTAR LOS SERVICIOS PRESTADOS POR TRABAJADORES I
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ°101.-
+RESOLUCIÓN EX. SII N°101.-
 
-VISTOS : Lo dispuesto en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del Decreto con Fuerza de Ley NÂ° 7 de 1980, del Ministerio de Hacienda; en el artÃ­culo 6Â°, letra A, NÂ° 1 y 33 bis del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ° 830 de 1974; en los artÃ­culos 52 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en Decreto Ley NÂ° 825 de 1974; en los artÃ­culos 42, 68 bis y 74 NÂ° 2 de La Ley sobre Impuesto a la Renta, contenida en al artÃ­culo 1Â° del Decreto Ley NÂ° 824 de 1974; en el artÃ­culo Ãºnico NÂ° 2 de la Ley NÂ° 21.431; en los artÃ­culos 152 quÃ¡ter W y siguientes del Decreto con Fuerza de Ley NÂ° 1 del Ministerio del Trabajo y PrevisiÃ³n Social, que fija el texto refundido, coordinado y sistematizado del CÃ³digo del Trabajo; y la ResoluciÃ³n Ex. SII NÂ° 112 de 2004, NÂ° 166 de 2020, NÂ° 64 de 2021 y NÂ° 132 de 2023; y,
+VISTOS : Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda; en el artículo 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974; en los artículos 52 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en Decreto Ley N° 825 de 1974; en los artículos 42, 68 bis y 74 N° 2 de La Ley sobre Impuesto a la Renta, contenida en al artículo 1° del Decreto Ley N° 824 de 1974; en el artículo único N° 2 de la Ley N° 21.431; en los artículos 152 quáter W y siguientes del Decreto con Fuerza de Ley N° 1 del Ministerio del Trabajo y Previsión Social, que fija el texto refundido, coordinado y sistematizado del Código del Trabajo; y la Resolución Ex. SII N° 112 de 2004, N° 166 de 2020, N° 64 de 2021 y N° 132 de 2023; y,
 
 ## CONSIDERANDO:
 
-1Âº Que, de acuerdo con el artÃ­culo 152 quÃ¡ter W del CÃ³digo del Trabajo, respecto de los trabajadores independientes de plataformas digitales, la empresa de plataforma digital de servicios deberÃ¡ limitarse a coordinar el contacto entre el trabajador independiente de plataformas digitales y los usuarios de Ã©sta, sin perjuicio de establecer los tÃ©rminos y condiciones generales que permitan operar a travÃ©s de sus sistemas informÃ¡ticos o tecnolÃ³gicos.
+1º Que, de acuerdo con el artículo 152 quáter W del Código del Trabajo, respecto de los trabajadores independientes de plataformas digitales, la empresa de plataforma digital de servicios deberá limitarse a coordinar el contacto entre el trabajador independiente de plataformas digitales y los usuarios de ésta, sin perjuicio de establecer los términos y condiciones generales que permitan operar a través de sus sistemas informáticos o tecnológicos.
 
-2Âº Que, de acuerdo con el articulo 152 quÃ¡ter Y, sobre los honorarios de los trabajadores independientes de plataformas digitales y el acceso al sistema de seguridad social, dentro del respectivo perÃ­odo de pago, el que no podrÃ¡ exceder de un mes, la empresa de plataforma digital de servicios deberÃ¡ pagar al trabajador independiente de plataformas digitales los honorarios que correspondan por los servicios efectivamente prestados a sus usuarios.
+2º Que, de acuerdo con el articulo 152 quáter Y, sobre los honorarios de los trabajadores independientes de plataformas digitales y el acceso al sistema de seguridad social, dentro del respectivo período de pago, el que no podrá exceder de un mes, la empresa de plataforma digital de servicios deberá pagar al trabajador independiente de plataformas digitales los honorarios que correspondan por los servicios efectivamente prestados a sus usuarios.
 
-Asimismo, conforme al inciso segundo del mismo artÃ­culo, para efectos de determinar el tratamiento tributario que corresponda al trabajador independiente, se estarÃ¡ a lo dispuesto en el NÂ° 2 del artÃ­culo 42 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824 de 1974 y, segÃºn corresponda, a las restantes disposiciones aplicables de dicha ley.
+Asimismo, conforme al inciso segundo del mismo artículo, para efectos de determinar el tratamiento tributario que corresponda al trabajador independiente, se estará a lo dispuesto en el N° 2 del artículo 42 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del Decreto Ley N° 824 de 1974 y, según corresponda, a las restantes disposiciones aplicables de dicha ley.
 
-3Âº Que, por aplicaciÃ³n de lo dispuesto en el artÃ­culo 68 bis de la LIR, los contribuyentes que perciban rentas por el ejercicio de aquellas actividades seÃ±aladas en el NÂ° 2 del artÃ­culo 42 de la LIR deberÃ¡n emitir boletas de honorarios en forma electrÃ³nica en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resoluciÃ³n.
+3º Que, por aplicación de lo dispuesto en el artículo 68 bis de la LIR, los contribuyentes que perciban rentas por el ejercicio de aquellas actividades señaladas en el N° 2 del artículo 42 de la LIR deberán emitir boletas de honorarios en forma electrónica en la forma y en el plazo que determine el Servicio de Impuestos Internos mediante una resolución.
 
-4Âº Que, sin perjuicio de lo anterior, de acuerdo con el inciso segundo del artÃ­culo 56 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), contenida en el Decreto Ley NÂ° 825 de 1974, el Servicio de Impuestos Internos podrÃ¡ autorizar el uso de boletas, facturas, facturas de compra, guÃ­as de despacho, liquidaciones facturas, notas de dÃ©bito y notas de crÃ©dito, que no reÃºnan los requisitos exigidos por la Ley y el Reglamento, y que, a juicio de este Servicio, resguarden debidamente el interÃ©s fiscal.
+4º Que, sin perjuicio de lo anterior, de acuerdo con el inciso segundo del artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), contenida en el Decreto Ley N° 825 de 1974, el Servicio de Impuestos Internos podrá autorizar el uso de boletas, facturas, facturas de compra, guías de despacho, liquidaciones facturas, notas de débito y notas de crédito, que no reúnan los requisitos exigidos por la Ley y el Reglamento, y que, a juicio de este Servicio, resguarden debidamente el interés fiscal.
 
-5Âº Que, el inciso tercero del artÃ­culo 152 quÃ¡ter Y del CÃ³digo del Trabajo dispone que las empresas de plataforma digital de servicios deberÃ¡n exigir que el trabajador independiente de plataformas digitales extienda la documentaciÃ³n tributaria que corresponde, tal como la respectiva boleta de honorarios por los servicios prestados a los usuarios,
+5º Que, el inciso tercero del artículo 152 quáter Y del Código del Trabajo dispone que las empresas de plataforma digital de servicios deberán exigir que el trabajador independiente de plataformas digitales extienda la documentación tributaria que corresponde, tal como la respectiva boleta de honorarios por los servicios prestados a los usuarios,
 
-salvo que el Servicio de Impuestos Internos establezca, mediante resoluciÃ³n, otra forma de documentar la operaciÃ³n.
+salvo que el Servicio de Impuestos Internos establezca, mediante resolución, otra forma de documentar la operación.
 
-En uso de esta facultad, este Servicio podrÃ¡ establecer una forma distinta de documentar la prestaciÃ³n de servicios realizados por trabajadores independientes de tales plataformas.
+En uso de esta facultad, este Servicio podrá establecer una forma distinta de documentar la prestación de servicios realizados por trabajadores independientes de tales plataformas.
 
-6Âº Que, de acuerdo con la letra h) del artÃ­culo 152 quÃ¡ter X del CÃ³digo del Trabajo, en el respectivo contrato de prestaciÃ³n de servicios de trabajadores de plataformas digitales independientes, se debe seÃ±alar un representante de la empresa para los fines que dicha letra establece.
+6º Que, de acuerdo con la letra h) del artículo 152 quáter X del Código del Trabajo, en el respectivo contrato de prestación de servicios de trabajadores de plataformas digitales independientes, se debe señalar un representante de la empresa para los fines que dicha letra establece.
 
 ## SE RESUELVE:
 
-1Âº Los contribuyentes calificados como empresas de plataforma digital de servicios, sin domicilio ni residencia en Chile, que tengan trabajadores independientes de acuerdo con el PÃ¡rrafo III, del CapÃ­tulo X, del TÃ­tulo II, del CÃ³digo del Trabajo y que paguen rentas a dichos trabajadores por servicios prestados a los usuarios de la plataforma, deberÃ¡n otorgar como comprobante de pago por los servicios referidos, boletas de prestaciÃ³n de servicios de terceros electrÃ³nicas, de aquellas referidas en la ResoluciÃ³n Ex. SII NÂ° 112 de 2004, o aquella que la reemplace, con las siguientes particularidades.
+1º Los contribuyentes calificados como empresas de plataforma digital de servicios, sin domicilio ni residencia en Chile, que tengan trabajadores independientes de acuerdo con el Párrafo III, del Capítulo X, del Título II, del Código del Trabajo y que paguen rentas a dichos trabajadores por servicios prestados a los usuarios de la plataforma, deberán otorgar como comprobante de pago por los servicios referidos, boletas de prestación de servicios de terceros electrónicas, de aquellas referidas en la Resolución Ex. SII N° 112 de 2004, o aquella que la reemplace, con las siguientes particularidades.
 
-2Âº La obligaciÃ³n de emitir boletas de prestaciÃ³n de servicios de terceros electrÃ³nicas deberÃ¡ ser cumplida por la plataforma, a travÃ©s del representante designado al efecto.
+2º La obligación de emitir boletas de prestación de servicios de terceros electrónicas deberá ser cumplida por la plataforma, a través del representante designado al efecto.
 
-3Âº El representante serÃ¡ designado mediante la declaraciÃ³n que consta en el anexo de la presente resoluciÃ³n, el cual forma parte integrante de ella, que deberÃ¡ ser enviada a la casilla de correo electrÃ³nico <u>plataformas\_BTE@sii.cl</u> , dentro del plazo de 2 meses siguientes a la publicaciÃ³n de la presente resoluciÃ³n en el Diario Oficial.
+3º El representante será designado mediante la declaración que consta en el anexo de la presente resolución, el cual forma parte integrante de ella, que deberá ser enviada a la casilla de correo electrónico <u>plataformas\_BTE@sii.cl</u> , dentro del plazo de 2 meses siguientes a la publicación de la presente resolución en el Diario Oficial.
 
-Al efecto, la plataforma podrÃ¡ designar como representante, a una de las siguientes personas siempre que tenga domicilio o residencia en Chile:
+Al efecto, la plataforma podrá designar como representante, a una de las siguientes personas siempre que tenga domicilio o residencia en Chile:
 
-* a) Al representante designado para los fines seÃ±alados en la letra h) del artÃ­culo 152 quÃ¡ter X del CÃ³digo del Trabajo.
-* b) Uno de los contactos nombrados al inscribirse en el rÃ©gimen de tributaciÃ³n simplificada del PÃ¡rrafo 7Â° bis del TÃ­tulo II de la LIVS, de acuerdo con la ResoluciÃ³n Ex. NÂ° 55 de 2020 o de aquella resoluciÃ³n que la reemplace.
-* c) Otra persona natural o jurÃ­dica que tenga inicio de actividades en nuestro paÃ­s.
+* a) Al representante designado para los fines señalados en la letra h) del artículo 152 quáter X del Código del Trabajo.
+* b) Uno de los contactos nombrados al inscribirse en el régimen de tributación simplificada del Párrafo 7° bis del Título II de la LIVS, de acuerdo con la Resolución Ex. N° 55 de 2020 o de aquella resolución que la reemplace.
+* c) Otra persona natural o jurídica que tenga inicio de actividades en nuestro país.
 
-En los mismos tÃ©rminos precedentes la plataforma deberÃ¡ informar el cambio de representante dentro del plazo de dos meses, establecido en el artÃ­culo 68 de CÃ³digo Tributario.
+En los mismos términos precedentes la plataforma deberá informar el cambio de representante dentro del plazo de dos meses, establecido en el artículo 68 de Código Tributario.
 
-4Âº Cuando las empresas de plataforma digital de servicios no cumplan la obligaciÃ³n establecida en los resolutivos 2Â° y 3Â° anteriores, la obligaciÃ³n pesarÃ¡ sobre el representante seÃ±alado en la letra a) del resolutivo 3Â°. Si dicho represente no ha sido designado, la obligaciÃ³n pesarÃ¡ sobre aquel seÃ±alado en la letra b) del mismo resolutivo, siempre que tenga domicilio o residencia en Chile.
+4º Cuando las empresas de plataforma digital de servicios no cumplan la obligación establecida en los resolutivos 2° y 3° anteriores, la obligación pesará sobre el representante señalado en la letra a) del resolutivo 3°. Si dicho represente no ha sido designado, la obligación pesará sobre aquel señalado en la letra b) del mismo resolutivo, siempre que tenga domicilio o residencia en Chile.
 
-5Âº El representante a que se refiere la presente resoluciÃ³n tendrÃ¡ el carÃ¡cter de emisor masivo de boletas de prestaciÃ³n de servicios de terceros electrÃ³nicas de acuerdo con lo establecido en el numeral ii, de la letra a), del resolutivo NÂ° 2, de la ResoluciÃ³n Ex. NÂ° 112 de 2004.
+5º El representante a que se refiere la presente resolución tendrá el carácter de emisor masivo de boletas de prestación de servicios de terceros electrónicas de acuerdo con lo establecido en el numeral ii, de la letra a), del resolutivo N° 2, de la Resolución Ex. N° 112 de 2004.
 
-6Âº El referido representante deberÃ¡ emitir las boletas de prestaciÃ³n de servicios de terceros electrÃ³nicas, a cada uno de los trabajadores independientes, hasta el quinto dÃ­a de cada mes, por os servicios prestados por cada trabajador independiente en el mes calendario inmediatamente anterior.
+6º El referido representante deberá emitir las boletas de prestación de servicios de terceros electrónicas, a cada uno de los trabajadores independientes, hasta el quinto día de cada mes, por os servicios prestados por cada trabajador independiente en el mes calendario inmediatamente anterior.
 
-Dichos documentos deberÃ¡n ser emitidos por los servicios prestados por los trabajadores independientes al menos una vez por cada mes calendario si es que existieren prestaciones en dicho perÃ­odo.
+Dichos documentos deberán ser emitidos por los servicios prestados por los trabajadores independientes al menos una vez por cada mes calendario si es que existieren prestaciones en dicho período.
 
-Los referidos documentos deberÃ¡n ser emitidos por el monto del honorario que corresponde al trabajador independiente, contemplando siempre una retenciÃ³n segÃºn la tasa aplicable de acuerdo al NÂ° 2 del artÃ­culo 74 de la LIR, la cual deberÃ¡ ser retenida, declarada y enterada mensualmente en arcas fiscales por el representante.
+Los referidos documentos deberán ser emitidos por el monto del honorario que corresponde al trabajador independiente, contemplando siempre una retención según la tasa aplicable de acuerdo al N° 2 del artículo 74 de la LIR, la cual deberá ser retenida, declarada y enterada mensualmente en arcas fiscales por el representante.
 
-Estos documentos deberÃ¡n contener expresamente en el detalle la siguiente leyenda 'Servicio segÃºn Ley NÂ° 21.431'.
+Estos documentos deberán contener expresamente en el detalle la siguiente leyenda 'Servicio según Ley N° 21.431'.
 
-7Âº El representante a que se refiere la presente resoluciÃ³n deberÃ¡ presentar al Servicio de Impuestos Internos, entre otras, la DeclaraciÃ³n Jurada anual Formulario 1879, sobre retenciones efectuadas conforme al NÂ° 2 del artÃ­culo 42 de la LIR, informando el monto que resulte de sumar las retenciones actualizadas efectuadas al receptor de la renta durante el aÃ±o calendario al que se informa, de acuerdo a las instrucciones de la seÃ±alada DeclaraciÃ³n Jurada disponibles en el sitio web de este Servicio.
+7º El representante a que se refiere la presente resolución deberá presentar al Servicio de Impuestos Internos, entre otras, la Declaración Jurada anual Formulario 1879, sobre retenciones efectuadas conforme al N° 2 del artículo 42 de la LIR, informando el monto que resulte de sumar las retenciones actualizadas efectuadas al receptor de la renta durante el año calendario al que se informa, de acuerdo a las instrucciones de la señalada Declaración Jurada disponibles en el sitio web de este Servicio.
 
-8Âº El cumplimiento de las obligaciones establecidas en la presente resoluciÃ³n no implica para la respectiva plataforma digital de servicios, de manera alguna, la adquisiciÃ³n de domicilio o residencia en Chile para fines tributarios.
+8º El cumplimiento de las obligaciones establecidas en la presente resolución no implica para la respectiva plataforma digital de servicios, de manera alguna, la adquisición de domicilio o residencia en Chile para fines tributarios.
 
-9Âº Si la respectiva plataforma digital sin domicilio o residencia en Chile cuenta con un representante conforme a lo seÃ±alado en la presente resoluciÃ³n, liberarÃ¡ los trabajadores independientes de tales plataformas de la obligaciÃ³n establecida en el artÃ­culo 68 bis de la LIR, no debiendo emitir sus propias boletas de honorarios electrÃ³nicas por servicios prestados a usuarios de la plataforma.
+9º Si la respectiva plataforma digital sin domicilio o residencia en Chile cuenta con un representante conforme a lo señalado en la presente resolución, liberará los trabajadores independientes de tales plataformas de la obligación establecida en el artículo 68 bis de la LIR, no debiendo emitir sus propias boletas de honorarios electrónicas por servicios prestados a usuarios de la plataforma.
 
-Ahora bien, si la plataforma no contara con un representante conforme a lo seÃ±alado en la presente resoluciÃ³n, los trabajadores independientes deberÃ¡n emitir sus propios documentos, de acuerdo con las normas generales establecidas en el artÃ­culo 68 bis de la LIR.
+Ahora bien, si la plataforma no contara con un representante conforme a lo señalado en la presente resolución, los trabajadores independientes deberán emitir sus propios documentos, de acuerdo con las normas generales establecidas en el artículo 68 bis de la LIR.
 
-10Âº La presente resoluciÃ³n entrarÃ¡ en vigencia el primer dÃ­a del mes posterior a los tres (3) meses de publicada en el Diario Oficial.
+10º La presente resolución entrará en vigencia el primer día del mes posterior a los tres (3) meses de publicada en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL.
 
 ## (FDO.) JAVIER ETCHEBERRY CELHAY DIRECTOR (S)
 
-Anexo : DECLARACIÃ“N JURADA INFORMA REPRESENTANTE EN CHILE LEY NÂ° 21.431 SOBRE PLATAFORMAS DIGITALES DE SERVICIOS
+Anexo : DECLARACIÓN JURADA INFORMA REPRESENTANTE EN CHILE LEY N° 21.431 SOBRE PLATAFORMAS DIGITALES DE SERVICIOS
 
 Lo que transcribo a Ud., para su conocimiento y fines pertinentes.
 
 ## SRG PMR
 
-## DISTRIBUCIÃ“N:
+## DISTRIBUCIÓN:
 
 * -Internet
 * -Diario Oficial, en extracto

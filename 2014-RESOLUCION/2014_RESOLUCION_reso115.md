@@ -1,43 +1,44 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 109 (2014)
-description: SERVICIO DE IMPUESTOS INTERNOS DIRECCIÃ“N DE GRANDES CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 109 (2014)"
+description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÃ“N DE GRANDES CONTRIBUYENTES
 
-## COMPLEMENTA RESOLUCIÃ“N EXENTA SII NÂ°109 DE 27 DE DICIEMBRE DE 2013, EN LOS TÃ‰RMINOS QUE INDICA.
+## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES
+
+## COMPLEMENTA RESOLUCIÓN EXENTA SII N°109 DE 27 DE DICIEMBRE DE 2013, EN LOS TÉRMINOS QUE INDICA.
 
 Santiago, 11 de diciembre de 2014.-
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EX. SII NÂ°\_\_\_115.-\_\_\_\_\_/
+## RESOLUCIÓN EX. SII N°\_\_\_115.-\_\_\_\_\_/
 
 ## VISTOS:
 
-Lo dispuesto en las leyes NÂº 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado, y NÂ° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la AdministraciÃ³n PÃºblica; los Arts. 2Â°, 3 bis, 7Â° letras a), b), c), Ã±) y 9Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. NÂº 7, de Hacienda, de 1980; lo establecido en el Art. 6Â° letra A, NÂº 1 del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂº 830, de 1974; lo dispuesto en el Art. 6Â° de la Ley NÂ° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; lo dispuesto en el NÂ° 1 del Art. 9Â° de la Ley NÂ° 20.455, publicada en el Diario Oficial con fecha 31.07.2010; y la Resoluciones Exentas SII NÂ° 109, de fecha 27.12.2013 y NÂ° 30 de fecha 19 de marzo de 2014..
+Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración Pública; los Arts. 2°, 3 bis, 7° letras a), b), c), ñ) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. Primero del D.F.L. Nº 7, de Hacienda, de 1980; lo establecido en el Art. 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L. Nº 830, de 1974; lo dispuesto en el Art. 6° de la Ley N° 20.431, publicada en el Diario Oficial con fecha 30 de Abril de 2010; lo dispuesto en el N° 1 del Art. 9° de la Ley N° 20.455, publicada en el Diario Oficial con fecha 31.07.2010; y la Resoluciones Exentas SII N° 109, de fecha 27.12.2013 y N° 30 de fecha 19 de marzo de 2014..
 
 ## CONSIDERANDO:
 
-1Â° Que, la Ley NÂ° 20.431 por medio de su artÃ­culo 6Â° y la Ley NÂ° 20.455 mediante el NÂ° 1 de su artÃ­culo 9Â°, introdujeron una serie de modificaciones en el Decreto con Fuerza de Ley NÂ° 7, de 1980, del Ministerio de Hacienda, Ley OrgÃ¡nica del Servicio de Impuestos Internos.
+1° Que, la Ley N° 20.431 por medio de su artículo 6° y la Ley N° 20.455 mediante el N° 1 de su artículo 9°, introdujeron una serie de modificaciones en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos.
 
-2Â° Que, el artÃ­culo 2Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos precitada establece que el Servicio estÃ¡ constituido por la DirecciÃ³n Nacional, y su DirecciÃ³n de Grandes Contribuyentes, ambas con sede en la capital de la RepÃºblica, y por las Direcciones Regionales.
+2° Que, el artículo 2° de la Ley Orgánica del Servicio de Impuestos Internos precitada establece que el Servicio está constituido por la Dirección Nacional, y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
 
-3Â° Que, el artÃ­culo 3Â° bis del texto legal citado, fija la competencia de la DirecciÃ³n de Grandes Contribuyentes sobre los contribuyentes calificados como grandes contribuyentes por resoluciÃ³n del Director, cualquiera fuera su domicilio.
+3° Que, el artículo 3° bis del texto legal citado, fija la competencia de la Dirección de Grandes Contribuyentes sobre los contribuyentes calificados como grandes contribuyentes por resolución del Director, cualquiera fuera su domicilio.
 
-4Â° Que, para efectos de cumplir con lo dispuesto en el seÃ±alado artÃ­culo 3Â° bis, mediante ResoluciÃ³n Exenta NÂ° 109, de fecha 27 de diciembre de 2013, se fijÃ³ la nÃ³mina de "Grandes Contribuyentes", sobre la base de los criterios de selecciÃ³n que allÃ­ se indicaron. TambiÃ©n se seÃ±ala expresamente, que la NÃ³mina se actualizarÃ¡ con aquellos contribuyentes cuya inclusiÃ³n o exclusiÃ³n autorice el suscrito.
+4° Que, para efectos de cumplir con lo dispuesto en el señalado artículo 3° bis, mediante Resolución Exenta N° 109, de fecha 27 de diciembre de 2013, se fijó la nómina de "Grandes Contribuyentes", sobre la base de los criterios de selección que allí se indicaron. También se señala expresamente, que la Nómina se actualizará con aquellos contribuyentes cuya inclusión o exclusión autorice el suscrito.
 
-5Â° Que, conforme a lo dispuesto en el resolutivo 3Â° de la ResoluciÃ³n Exenta SII NÂ° 109, de 27 de diciembre de 2013, esta autoridad por razones de buen servicio ha procedido a calificar como 'Grandes Contribuyentes' a los contribuyentes que se individualizan en la parte resolutiva de la presente resoluciÃ³n.
+5° Que, conforme a lo dispuesto en el resolutivo 3° de la Resolución Exenta SII N° 109, de 27 de diciembre de 2013, esta autoridad por razones de buen servicio ha procedido a calificar como 'Grandes Contribuyentes' a los contribuyentes que se individualizan en la parte resolutiva de la presente resolución.
 
-6Â° Que, en consideraciÃ³n al constante interÃ©s de este Servicio por mejorar y facilitar los procesos de asistencia y fiscalizaciÃ³n de todos los contribuyentes a lo largo del paÃ­s, se hace necesario complementar la NÃ³mina de Grandes Contribuyentes de la DirecciÃ³n de Grandes Contribuyentes.
+6° Que, en consideración al constante interés de este Servicio por mejorar y facilitar los procesos de asistencia y fiscalización de todos los contribuyentes a lo largo del país, se hace necesario complementar la Nómina de Grandes Contribuyentes de la Dirección de Grandes Contribuyentes.
 
-Que, con el mÃ©rito de las razones expresadas precedentemente,
+Que, con el mérito de las razones expresadas precedentemente,
 
 ## RESUELVO:
 
-1Â° COMPLEMÃ‰NTASE la NÃ³mina de Grandes Contribuyentes contenida en el Anexo 'A' de la ResoluciÃ³n Ex. SII NÂ° 109, de 27 de diciembre de 2013, incluyÃ©ndose a los contribuyentes:
+1° COMPLEMÉNTASE la Nómina de Grandes Contribuyentes contenida en el Anexo 'A' de la Resolución Ex. SII N° 109, de 27 de diciembre de 2013, incluyéndose a los contribuyentes:
 
 | **Nombre** | **RUT** |
 | --- | --- |
@@ -56,7 +57,7 @@ Que, con el mÃ©rito de las razones expresadas precedentemente,
 | S Q GRAND CAYMAN CORPORATION | 59.065.270-9 |
 | INVERSIONES DEL SUR S.A. | 88.773.700-2 |
 | FELIPE GARCIA HUIDOBRO MAC AULIFFE | 6.240.948-7 |
-| CARLOS RAFAEL LARENAS PEÃ‘AFIEL | 5.300.687-6 |
+| CARLOS RAFAEL LARENAS PEÑAFIEL | 5.300.687-6 |
 | ALBARTO FRANCISCO LE BLANC MATTHAEI | 7.033.703-7 |
 | INVERSIONES TRANSCORP LIMITADA | 76.266.460-7 |
 | INVERSIONES CHIMBARONGO | 79.709.580-K |
@@ -75,13 +76,13 @@ Que, con el mÃ©rito de las razones expresadas precedentemente,
 | FLORENCIA LE BLANC URETA | 19.638.477-4 |
 | TERESA LE BLANC URETA | 20.663.715-3 |
 | MANUEL BULNES MUZARD | 7.022.334-1 |
-| FELIPE ERRÃZURIZ AMENÃBAR | 12.062.410-5 |
+| FELIPE ERRÁZURIZ AMENÁBAR | 12.062.410-5 |
 | LEONIDAS ANIBAL VIAL ECHEVERRIA | 5.719.922-9 |
 | ANA MARIA CLARO VALDES MANUEL JOSE VIAL ECHEVERRIA | 6.374.908-7 6.803.445-0 |
 | INVERSIONES SAINT THOMAS S.A. | 79.793.150-0 |
 | RENTAS ST LIMITADA | 76.256.627-3 |
 | RENTAS ST DOS LIMITADA | 76.256.243-K |
-| AGRICOLA E INVERSIONES LA VIÃ‘A S.A. | 88.462.100-3 |
+| AGRICOLA E INVERSIONES LA VIÑA S.A. | 88.462.100-3 |
 | JULIETS SOCIEDAD ANONIMA | 59.019.930-3 |
 | RENTAS VC Y CIA | 76.090.461-9 |
 | INVERSIONES JULIET'S CHILE LIMITADA | 79.672.960-0 |
@@ -116,8 +117,8 @@ Que, con el mÃ©rito de las razones expresadas precedentemente,
 | WORLD FINANCE CORP S.A. | 76.218.672-1 |
 | INVERSIONES ENJOY LIMITADA | 76.029.118-8 |
 | INVERSIONES ALSINO S.A. | 76.059.206-4 |
-| IKOM INTEGRACION Y COMUNICACIÃ“N S.A. | 77.146.530-7 |
-| DASCO TECNOLOGÃA S.A. | 76.189.178-2 |
+| IKOM INTEGRACION Y COMUNICACIÓN S.A. | 77.146.530-7 |
+| DASCO TECNOLOGÍA S.A. | 76.189.178-2 |
 | SOMYL S.A. | 76.002.581-K |
 | LUIS EUGENIO PONCE LEROU | 5.370.715-7 |
 | JULIO CESAR PONCE PINOCHET | 10.409.400-7 |
@@ -136,20 +137,20 @@ Que, con el mÃ©rito de las razones expresadas precedentemente,
 | JUAN IGNACIO LANGLOIS MARGOZZINI | 7.515.463-1 |
 | NICOLAS LARRAIN HURTADO | 15.385.628-1 |
 
-2Â° La presente resoluciÃ³n regirÃ¡ a partir de la fecha de su publicaciÃ³n, en extracto, en el Diario Oficial, y, consecuentemente, se ceÃ±irÃ¡n a ella todas las actuaciones de fiscalizaciÃ³n que se inicien a contar de su vigencia.
+2° La presente resolución regirá a partir de la fecha de su publicación, en extracto, en el Diario Oficial, y, consecuentemente, se ceñirán a ella todas las actuaciones de fiscalización que se inicien a contar de su vigencia.
 
-3Â° Las Direcciones Regionales u otras unidades del Servicio que, a la fecha de entrada en vigencia de esta ResoluciÃ³n, hayan iniciado la fiscalizaciÃ³n o tomado conocimiento, asumido o dado inicio a la tramitaciÃ³n de solicitudes o peticiones administrativas que hubieren sido presentadas por los contribuyentes que son incorporados al Anexo A de la ResoluciÃ³n Ex. SII NÂ° 109, de 27 de diciembre de 2013, por la presente complementaciÃ³n, deberÃ¡n continuar con los trÃ¡mites y diligencias propias de dicha fiscalizaciÃ³n o solicitud hasta su debido tÃ©rmino, informando de ello a la DirecciÃ³n de Grandes Contribuyentes.
+3° Las Direcciones Regionales u otras unidades del Servicio que, a la fecha de entrada en vigencia de esta Resolución, hayan iniciado la fiscalización o tomado conocimiento, asumido o dado inicio a la tramitación de solicitudes o peticiones administrativas que hubieren sido presentadas por los contribuyentes que son incorporados al Anexo A de la Resolución Ex. SII N° 109, de 27 de diciembre de 2013, por la presente complementación, deberán continuar con los trámites y diligencias propias de dicha fiscalización o solicitud hasta su debido término, informando de ello a la Dirección de Grandes Contribuyentes.
 
-4Â° ActualÃ­cese en el sitio web del Servicio, ([<u>www.sii.cl</u>](http://www.sii.cl)) el enlace mediante el cual los contribuyentes tienen acceso a la NÃ³mina de Grandes Contribuyentes, dentro del menÃº 'Oficinas del SII', conforme la Res. Ex. SII NÂ° 109, de 2013.
+4° Actualícese en el sitio web del Servicio, ([<u>www.sii.cl</u>](http://www.sii.cl)) el enlace mediante el cual los contribuyentes tienen acceso a la Nómina de Grandes Contribuyentes, dentro del menú 'Oficinas del SII', conforme la Res. Ex. SII N° 109, de 2013.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 (FDO.) MICHEL JORRATT DE LUIS DIRECTOR (T y P)
 
 Lo que transcribo para su conocimiento y fines pertinentes.
 
-## DistribuciÃ³n:
+## Distribución:
 
-Internet BoletÃ­n
+Internet Boletín
 
 Diario Oficial en extracto

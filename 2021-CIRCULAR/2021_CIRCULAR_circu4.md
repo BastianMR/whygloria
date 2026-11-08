@@ -1,29 +1,30 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 4 (2021)
-description: DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa | CIRCULAR NÂ°4.- 173155.2021 GE |
+---
+type: "SII Circular"
+title: "Circular N° 4 (2021)"
+description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°4.- 173155.2021 GE |"
 tags: [SII, 2021, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SubdirecciÃ³n Normativa Oficina de GestiÃ³n Normativa** | **CIRCULAR NÂ°4.- 173155.2021 GE** |
+
+| **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°4.- 173155.2021 GE** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 DE ENERO DE 2021 |
-| MATERIA: Informa datos relacionados con la aplicaciÃ³n del sistema de correcciÃ³n monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al aÃ±o tributario 2021. Reemplaza tabla incluida en la pÃ¡gina 48 de la Circular NÂ° 73 de 2020. | REF. LEGAL: arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta. |
+| MATERIA: Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2021. Reemplaza tabla incluida en la página 48 de la Circular N° 73 de 2020. | REF. LEGAL: arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta. |
 
-* I InformaciÃ³n para la aplicaciÃ³n de las normas sobre correcciÃ³n monetaria, contenidas en el artÃ­culo 41 de la Ley sobre Impuesto a la Renta (LIR), respecto de ejercicios o perÃ­odos finalizados al 31.12.2020
+* I Información para la aplicación de las normas sobre corrección monetaria, contenidas en el artículo 41 de la Ley sobre Impuesto a la Renta (LIR), respecto de ejercicios o períodos finalizados al 31.12.2020
 
-## 1. Cotizaciones de monedas extranjeras y su variaciÃ³n porcentual
+## 1. Cotizaciones de monedas extranjeras y su variación porcentual
 
-| **Tipos de monedas** | **Cotizaciones al:** | **Cotizaciones al:** | **Cotizaciones al:** | **VariaciÃ³n porcentual** | **VariaciÃ³n porcentual** |
+| **Tipos de monedas** | **Cotizaciones al:** | **Cotizaciones al:** | **Cotizaciones al:** | **Variación porcentual** | **Variación porcentual** |
 | --- | --- | --- | --- | --- | --- |
 | Tipos de monedas | 31.12.2019 ($) | 30.06.2020 ($) | 31.12.2020 ($) | Segundo semestre | Anual |
-| DÃ³lar EE.UU | 748,74 | 821,23 | 710,95 | (13,43%) | (5,05%) |
-| DÃ³lar Canadiense | 573,26 | 604,25 | 557,00 | (7,82%) | (2,84%) |
-| DÃ³lar Australiano | 524,25 | 566,56 | 545,88 | (3,65%) | 4,13% |
-| DÃ³lar NeozelandÃ©s | 504,13 | 530,10 | 512,25 | (3,37%) | 1,61% |
-| DÃ³lar de Singapur | 555,36 | 589,33 | 537,09 | (8,86%) | (3,29%) |
+| Dólar EE.UU | 748,74 | 821,23 | 710,95 | (13,43%) | (5,05%) |
+| Dólar Canadiense | 573,26 | 604,25 | 557,00 | (7,82%) | (2,84%) |
+| Dólar Australiano | 524,25 | 566,56 | 545,88 | (3,65%) | 4,13% |
+| Dólar Neozelandés | 504,13 | 530,10 | 512,25 | (3,37%) | 1,61% |
+| Dólar de Singapur | 555,36 | 589,33 | 537,09 | (8,86%) | (3,29%) |
 | Libra Esterlina | 983,24 | 1017,26 | 967,15 | (4,93%) | (1,64%) |
-| Yen JaponÃ©s | 6,88 | 7,61 | 6,88 | (9,59%) | 0,00% |
+| Yen Japonés | 6,88 | 7,61 | 6,88 | (9,59%) | 0,00% |
 | Franco Suizo | 773,81 | 867,47 | 804,97 | (7,20%) | 4,03% |
 | Corona Danesa | 112,41 | 123,81 | 117,40 | (5,18%) | 4,44% |
 | Corona Noruega | 85,17 | 85,21 | 83,09 | (2,49%) | (2,44%) |
@@ -31,12 +32,12 @@ tags: [SII, 2021, circular]
 | Corona Checa | 33,05 | 34,62 | 33,32 | (3,76%) | 0,82% |
 | Yuan | 107,31 | 116,15 | 109,23 | (5,96%) | 1,79% |
 | EURO | 839,58 | 922,73 | 873,30 | (5,36%) | 4,02% |
-| Nuevo Shekel IsraelÃ­ | 216,46 | 237,24 | 221,17 | (6,77%) | 2,18% |
+| Nuevo Shekel Israelí | 216,46 | 237,24 | 221,17 | (6,77%) | 2,18% |
 | Ringgit Malayo | 182,35 | 191,70 | 176,20 | (8,09%) | (3,37%) |
 | Won Coreano | 0,65 | 0,68 | 0,65 | (4,41%) | 0,00% |
 | Zloty Polaco | 197,38 | 207,60 | 190,89 | (8,05%) | (3,29%) |
 | DEG | 1035,32 | 1129,77 | 1023,98 | (9,36%) | (1,10%) |
-| Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observÃ³ en el mercado bancario los dÃ­as 30.06.2020 y 30.12.2020, respectivamente (Ãºltimos dÃ­as hÃ¡biles bancarios), y |
+| Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y | Nota: el valor de las monedas extranjeras al 30.06.2020 y al 31.12.2020, corresponde al que se observó en el mercado bancario los días 30.06.2020 y 30.12.2020, respectivamente (últimos días hábiles bancarios), y |
 
 ## 2. Cotizaciones de monedas nacionales de oro al 31.12.2020
 
@@ -44,30 +45,30 @@ tags: [SII, 2021, circular]
 | --- | --- |
 | Oro amonedado de $ 50 | $ 490.000,00 |
 | Oro amonedado de $ 20 | $ 100.000,00 |
-| Nota: el valor de las monedas de oro al 31.12.2020, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el dÃ­a 30.12.2020 (Ãºltimo dÃ­a hÃ¡bil bursÃ¡til del aÃ±o). | Nota: el valor de las monedas de oro al 31.12.2020, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el dÃ­a 30.12.2020 (Ãºltimo dÃ­a hÃ¡bil bursÃ¡til del aÃ±o). |
+| Nota: el valor de las monedas de oro al 31.12.2020, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el día 30.12.2020 (último día hábil bursátil del año). | Nota: el valor de las monedas de oro al 31.12.2020, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el día 30.12.2020 (último día hábil bursátil del año). |
 
-## 3. Costo de reposiciÃ³n de mercaderÃ­as nacionales al 31.12.2020
+## 3. Costo de reposición de mercaderías nacionales al 31.12.2020
 
-* Si existen adquisiciones en el segundo semestre del aÃ±o 2020 de bienes de su mismo gÃ©nero, calidad o caracterÃ­sticas, el costo de reposiciÃ³n tributario serÃ¡ el precio mÃ¡s alto convenido para dichos bienes durante el aÃ±o 2020.
-* Si solo existen adquisiciones en el primer semestre del aÃ±o 2020 de bienes de su mismo gÃ©nero, calidad o caracterÃ­sticas, el costo de reposiciÃ³n tributario serÃ¡ el precio mÃ¡s alto convenido para dichos bienes en el seÃ±alado semestre, reajustado en un 1,4 %.
+* Si existen adquisiciones en el segundo semestre del año 2020 de bienes de su mismo género, calidad o características, el costo de reposición tributario será el precio más alto convenido para dichos bienes durante el año 2020.
+* Si solo existen adquisiciones en el primer semestre del año 2020 de bienes de su mismo género, calidad o características, el costo de reposición tributario será el precio más alto convenido para dichos bienes en el señalado semestre, reajustado en un 1,4 %.
 
-Â· Si no existen adquisiciones en el aÃ±o 2020 de bienes de su mismo gÃ©nero, calidad o caracterÃ­sticas, el costo de reposiciÃ³n tributario serÃ¡ su valor de libros al tÃ©rmino del ejercicio anterior, reajustado en un 2,7%.
+· Si no existen adquisiciones en el año 2020 de bienes de su mismo género, calidad o características, el costo de reposición tributario será su valor de libros al término del ejercicio anterior, reajustado en un 2,7%.
 
-## 4. Costo de reposiciÃ³n de mercaderÃ­as adquiridas en el extranjero al 31.12.2020
+## 4. Costo de reposición de mercaderías adquiridas en el extranjero al 31.12.2020
 
-Â· El costo de reposiciÃ³n tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales solo exista internaciÃ³n de los de su mismo gÃ©nero, calidad y caracterÃ­sticas durante el segundo semestre del aÃ±o 2020, serÃ¡ equivalente al valor de la Ãºltima importaciÃ³n.
+· El costo de reposición tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales solo exista internación de los de su mismo género, calidad y características durante el segundo semestre del año 2020, será equivalente al valor de la última importación.
 
-Â· El costo de reposiciÃ³n tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales solo exista internaciÃ³n de los de su mismo gÃ©nero, calidad y caracterÃ­sticas durante el primer semestre del aÃ±o 2020, serÃ¡ equivalente al valor de la Ãºltima importaciÃ³n, reajustado en la variaciÃ³n porcentual semestral de la moneda extranjera de que se trate, segÃºn cuadro contenido en el NÂº 1 anterior.
+· El costo de reposición tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales solo exista internación de los de su mismo género, calidad y características durante el primer semestre del año 2020, será equivalente al valor de la última importación, reajustado en la variación porcentual semestral de la moneda extranjera de que se trate, según cuadro contenido en el Nº 1 anterior.
 
-Â· El costo de reposiciÃ³n tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales no exista importaciÃ³n para los de su mismo gÃ©nero, calidad o caracterÃ­sticas durante el aÃ±o 2020, serÃ¡ equivalente al valor de libros existente al tÃ©rmino del aÃ±o anterior reajustado en la variaciÃ³n porcentual anual de la moneda extranjera de que se trate, segÃºn cuadro contenido en el NÂº 1 anterior.
+· El costo de reposición tributario de aquellos bienes adquiridos en el extranjero, respecto de los cuales no exista importación para los de su mismo género, calidad o características durante el año 2020, será equivalente al valor de libros existente al término del año anterior reajustado en la variación porcentual anual de la moneda extranjera de que se trate, según cuadro contenido en el Nº 1 anterior.
 
 ## 5. Reajuste del capital propio inicial
 
 Para ejercicios iniciados el 01.01.2020 y finalizados el 31.12.2020, el capital propio inicial debe reajustarse en un 2,7%.
 
-## 6. Porcentajes y factores de actualizaciÃ³n directos
+## 6. Porcentajes y factores de actualización directos
 
-| **Mes en que ocurriÃ³ el hecho objeto de actualizaciÃ³n** | **Mes en que ocurriÃ³ el hecho objeto de actualizaciÃ³n** | **Porcentaje de reajuste** | **Factor de actualizaciÃ³n directo** |
+| **Mes en que ocurrió el hecho objeto de actualización** | **Mes en que ocurrió el hecho objeto de actualización** | **Porcentaje de reajuste** | **Factor de actualización directo** |
 | --- | --- | --- | --- |
 | Enero | 2020 | 2,6 % | 1,026 |
 | Febrero | 2020 | 2,1 % | 1,021 |
@@ -82,15 +83,15 @@ Para ejercicios iniciados el 01.01.2020 y finalizados el 31.12.2020, el capital 
 | Noviembre | 2020 | -0,1 % | 1,000 |
 | Diciembre | 2020 | 0,0 % | 1,000 |
 
-Nota: se hace presente que, de acuerdo a las disposiciones que rigen el sistema de correcciÃ³n monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualÃ¡ndose a cero (0) , normativa que rige tanto para los efectos de la aplicaciÃ³n de las normas sobre correcciÃ³n monetaria para ejercicios o perÃ­odos finalizados al 31 de diciembre de cada aÃ±o, como para los tÃ©rminos de giro y demÃ¡s situaciones de reajustabilidad que establece dicho texto legal.
+Nota: se hace presente que, de acuerdo a las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose a cero (0) , normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año, como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.
 
 ## II Reajuste de los saldos de los registros empresariales, del registro FUR (Fondo de utilidades reinvertidas) y de los excesos de retiros no imputados, todos existentes al 31.12.2019
 
-Los saldos de los registros empresariales, del registro FUR y de los excesos de retiros no imputados, todos existentes al 31.12.2019, de acuerdo a lo dispuesto en el artÃ­culo 14 de la LIR y en los artÃ­culos dÃ©cimo transitorio, undÃ©cimo transitorio, dÃ©cimo sexto transitorio y el dÃ©cimo sÃ©ptimo transitorio de la Ley NÂ° 21.210, deben reajustarse en el aÃ±o comercial 2020 en un 2,7%.
+Los saldos de los registros empresariales, del registro FUR y de los excesos de retiros no imputados, todos existentes al 31.12.2019, de acuerdo a lo dispuesto en el artículo 14 de la LIR y en los artículos décimo transitorio, undécimo transitorio, décimo sexto transitorio y el décimo séptimo transitorio de la Ley N° 21.210, deben reajustarse en el año comercial 2020 en un 2,7%.
 
-Cabe hacer presente que los contribuyentes acogidos al rÃ©gimen del artÃ­culo 14, letra D), NÂ° 3, de la LIR, no deben reajustar sus registros empresariales, por cuanto no se encuentran sujetos a correcciÃ³n monetaria.
+Cabe hacer presente que los contribuyentes acogidos al régimen del artículo 14, letra D), N° 3, de la LIR, no deben reajustar sus registros empresariales, por cuanto no se encuentran sujetos a corrección monetaria.
 
-## III Tabla de cÃ¡lculo del Impuesto Global Complementario aÃ±o tributario 2021, establecida en el artÃ­culo 52 de la LIR y modificaciÃ³n de la Circular NÂ° 73 de 2020
+## III Tabla de cálculo del Impuesto Global Complementario año tributario 2021, establecida en el artículo 52 de la LIR y modificación de la Circular N° 73 de 2020
 
 | **Renta imponible anual** | **Renta imponible anual** | **Factor** | **Cantidad a rebajar** |
 | --- | --- | --- | --- |
@@ -102,13 +103,13 @@ Cabe hacer presente que los contribuyentes acogidos al rÃ©gimen del artÃ­cul
 | $ 42.864.360,01 | $ 55.111.320,00 | 0,23 | $ 6.821.556,72 |
 | $ 55.111.320,01 | $ 73.481.760,00 | 0,304 | $ 10.899.794,40 |
 | $ 73.481.760,01 | $ 189.827.880,00 | 0,35 | $ 14.279.955,36 |
-| $ 189.827.880,01 | y mÃ¡s | 0,40 | $ 23.771.349,36 |
+| $ 189.827.880,01 | y más | 0,40 | $ 23.771.349,36 |
 
-Considerando que la tabla de Impuesto Global Complementario aÃ±o tributario 2021, incluida en la pÃ¡gina 48 de la Circular NÂ° 73 de 2020 no se ajusta a lo dispuesto en el artÃ­culo 52 de la LIR, modifÃ­quese la referida circular reemplazando dicha tabla por la transcrita precedentemente.
+Considerando que la tabla de Impuesto Global Complementario año tributario 2021, incluida en la página 48 de la Circular N° 73 de 2020 no se ajusta a lo dispuesto en el artículo 52 de la LIR, modifíquese la referida circular reemplazando dicha tabla por la transcrita precedentemente.
 
-Cabe hacer presente que la modificaciÃ³n anterior no incide en los cÃ¡lculos numÃ©ricos de los ejemplos NÂ° 1 y 2, contenidos en las pÃ¡ginas 47 y 48 de la Circular NÂ° 73 en referencia.
+Cabe hacer presente que la modificación anterior no incide en los cálculos numéricos de los ejemplos N° 1 y 2, contenidos en las páginas 47 y 48 de la Circular N° 73 en referencia.
 
-* IV Tabla de cÃ¡lculo del Impuesto Global Complementario aÃ±o tributario 2021, establecida en la letra b), del artÃ­culo 52 bis de la LIR, para el Presidente de la RepÃºblica, ministros de Estado, subsecretarios, senadores y diputados
+* IV Tabla de cálculo del Impuesto Global Complementario año tributario 2021, establecida en la letra b), del artículo 52 bis de la LIR, para el Presidente de la República, ministros de Estado, subsecretarios, senadores y diputados
 
 | **Renta imponible anual** | **Renta imponible anual** | **Factor** | **Cantidad a rebajar** |
 | --- | --- | --- | --- |
@@ -120,7 +121,7 @@ Cabe hacer presente que la modificaciÃ³n anterior no incide en los cÃ¡lculos
 | $ 42.864.360,01 | $ 55.111.320,00 | 0,23 | $ 6.821.556,72 |
 | $ 55.111.320,01 | $ 73.481.760,00 | 0,304 | $ 10.899.794,40 |
 | $ 73.481.760,01 | $ 91.852.200,00 | 0,35 | $ 14.279.955,36 |
-| $ 91.852.200,01 | y mÃ¡s | 0,40 | $ 18.872.565,36 |
+| $ 91.852.200,01 | y más | 0,40 | $ 18.872.565,36 |
 
 Saluda a Ud.,
 
@@ -128,7 +129,7 @@ Saluda a Ud.,
 
 ## SRG/PAO/LOF/mvv
 
-DISTRIBUCIÃ“N:
+DISTRIBUCIÓN:
 
 * A Internet
 

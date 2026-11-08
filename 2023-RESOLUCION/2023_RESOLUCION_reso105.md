@@ -1,69 +1,70 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 105 (2023)
-description: SUBDIRECCIÃ“N DE CONTRALORÃA INTERNA GE 258175
+---
+type: "SII Resolución"
+title: "Resolución N° 105 (2023)"
+description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE 258175"
 tags: [SII, 2023, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE CONTRALORÃA INTERNA GE 258175
 
-MATERIA: APRUEBA CÃ“DIGO DE ETICA DEL SERVICIO DE IMPUESTOS INTERNOS.
+## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE 258175
+
+MATERIA: APRUEBA CÓDIGO DE ETICA DEL SERVICIO DE IMPUESTOS INTERNOS.
 
 SANTIAGO, 06 DE SEPTIEMBRE DE 2023
 
-RESOLUCIÃ“N EXENTA NÂ°105.-
+RESOLUCIÓN EXENTA N°105.-
 
-VISTOS: La ConstituciÃ³n PolÃ­tica de la RepÃºblica; la Ley NÂ°18.575 OrgÃ¡nica Constitucional sobre Bases Generales de la AdministraciÃ³n del Estado; la Ley NÂ°18.834 sobre Estatuto Administrativo; la Ley NÂ°19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de los Ã³rganos de la administraciÃ³n del Estado, y
+VISTOS: La Constitución Política de la República; la Ley N°18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado; la Ley N°18.834 sobre Estatuto Administrativo; la Ley N°19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la administración del Estado, y
 
 ## CONSIDERANDO:
 
-1Â° Que, en el aÃ±o 2015 en el marco de la ejecuciÃ³n de la Agenda de Probidad y Transparencia en los Negocios y la PolÃ­tica, se incorporaron 14 medidas administrativa y 18 medidas legislativas.
+1° Que, en el año 2015 en el marco de la ejecución de la Agenda de Probidad y Transparencia en los Negocios y la Política, se incorporaron 14 medidas administrativa y 18 medidas legislativas.
 
-* 2Â° Que, entre las medidas administrativas se encontraba la de establecer la obligaciÃ³n de los servicios pÃºblicos de redactar un CÃ³digo Ã‰tica para la FunciÃ³n PÃºblica, el que tendrÃ­a por finalidad fijar altos estÃ¡ndares de comportamiento para el desempeÃ±o probo, transparente y virtuoso de la funciÃ³n de los funcionarios pÃºblicos del paÃ­s.
-* 3Â° Que, en conformidad a lo anterior el Servicio de Impuestos Internos aprobÃ³ mediante ResoluciÃ³n Ex. SII NÂ°73 del 29 de julio de 2016 el CÃ³digo de Ã‰tica del Servicio de Impuestos Internos.
-* 4Â° Que, debido al tiempo transcurrido desde la aprobaciÃ³n de ese CÃ³digo de Ã‰tica y considerando la necesidad de actualizar sus contenidos, considerando, entre otros, nuevas formas de trabajo, avance tecnolÃ³gico y nuevos desafÃ­os organizacionales, se resolviÃ³ reformular el CÃ³digo de Ã‰tica Institucional.
+* 2° Que, entre las medidas administrativas se encontraba la de establecer la obligación de los servicios públicos de redactar un Código Ética para la Función Pública, el que tendría por finalidad fijar altos estándares de comportamiento para el desempeño probo, transparente y virtuoso de la función de los funcionarios públicos del país.
+* 3° Que, en conformidad a lo anterior el Servicio de Impuestos Internos aprobó mediante Resolución Ex. SII N°73 del 29 de julio de 2016 el Código de Ética del Servicio de Impuestos Internos.
+* 4° Que, debido al tiempo transcurrido desde la aprobación de ese Código de Ética y considerando la necesidad de actualizar sus contenidos, considerando, entre otros, nuevas formas de trabajo, avance tecnológico y nuevos desafíos organizacionales, se resolvió reformular el Código de Ética Institucional.
 
-5Â° Que, en conformidad con lo anterior, se iniciÃ³ el proceso de reformulaciÃ³n del CÃ³digo de Ã‰tica del Sll, a travÃ©s de un proceso de participaciÃ³n, inclusiÃ³n y colaboraciÃ³n, enmarcado en un proceso de 'Red Ã‰tica', inclusivo, participativo y colaborativo, conforme al procedimiento instruido en el Oficio Circular NÂ°37, de 27.12.2018, ejecutado durante el aÃ±o 2022, en que todos los equipos del Servicio reflexionaron sobre cuÃ¡les
+5° Que, en conformidad con lo anterior, se inició el proceso de reformulación del Código de Ética del Sll, a través de un proceso de participación, inclusión y colaboración, enmarcado en un proceso de 'Red Ética', inclusivo, participativo y colaborativo, conforme al procedimiento instruido en el Oficio Circular N°37, de 27.12.2018, ejecutado durante el año 2022, en que todos los equipos del Servicio reflexionaron sobre cuáles
 
-6Â° Que, el CÃ³digo de Ã‰tica constituye una herramienta que promueve un sentido de propÃ³sito y valores compartidos que, puestos en prÃ¡ctica en el trabajo realizado dÃ­a a dÃ­a por cada funcionaria y funcionario, otorgarÃ¡ a la labor el sello de integridad que refleja la cultura institucional y garantiza seguir siendo una instituciÃ³n reconocida y valorada, tanto por su capacidad humana y tÃ©cnica, como por los resultados y la forma de debÃ­an ser los valores y cÃ³mo debÃ­an aplicarse en el contexto organizacional. relacionarse con los integrantes de la sociedad.
+6° Que, el Código de Ética constituye una herramienta que promueve un sentido de propósito y valores compartidos que, puestos en práctica en el trabajo realizado día a día por cada funcionaria y funcionario, otorgará a la labor el sello de integridad que refleja la cultura institucional y garantiza seguir siendo una institución reconocida y valorada, tanto por su capacidad humana y técnica, como por los resultados y la forma de debían ser los valores y cómo debían aplicarse en el contexto organizacional. relacionarse con los integrantes de la sociedad.
 
-7Â° Que, la reformulaciÃ³n del CÃ³digo de Ã‰tica, fue aprobada por el ComitÃ© de Ã‰tica del Servicio de Impuestos Internos.
+7° Que, la reformulación del Código de Ética, fue aprobada por el Comité de Ética del Servicio de Impuestos Internos.
 
 ## RESUELVO:
 
-PRIMERO: APRUÃ‰BASE el siguiente CÃ³digo de
+PRIMERO: APRUÉBASE el siguiente Código de
 
-## CÃ³digo de Ã‰tica del Servicio de Impuestos Internos Agosto, 2023
+## Código de Ética del Servicio de Impuestos Internos Agosto, 2023
 
-Ã‰tica:
+Ética:
 
-## ÃNDICE
+## ÍNDICE
 
 | **1.** | **Palabras del Director** | **03** |
 | --- | --- | --- |
-| 2. | Â¿QuÃ© es el CÃ³digo de Ã‰tica? | 04 |
-| 3. | Â¿Por quÃ© es importante el CÃ³digo de Ã‰tica? | 04 |
-| 4. | Â¿CÃ³mo se elaborÃ³ el CÃ³digo de Ã‰tica? | 05 |
-| 5. | Â¿A quiÃ©n aplica el CÃ³digo de Ã‰tica? | 06 |
-| 6. | Â¿A quÃ© nos comprometemos con el CÃ³digo de Ã‰tica? | 06 |
-| 7. | MisiÃ³n, VisiÃ³n y Valores Institucionales | 07 |
-| 8. | Conductas Ã©ticas segÃºn nuestros valores institucionales | 08 |
+| 2. | ¿Qué es el Código de Ética? | 04 |
+| 3. | ¿Por qué es importante el Código de Ética? | 04 |
+| 4. | ¿Cómo se elaboró el Código de Ética? | 05 |
+| 5. | ¿A quién aplica el Código de Ética? | 06 |
+| 6. | ¿A qué nos comprometemos con el Código de Ética? | 06 |
+| 7. | Misión, Visión y Valores Institucionales | 07 |
+| 8. | Conductas éticas según nuestros valores institucionales | 08 |
 |  | PROBIDAD |  |
 |  | Conflicto de Intereses | 10 |
-|  | Uso del cargo pÃºblico | 11 |
-|  | Uso de los Recursos PÃºblicos | 11 |
+|  | Uso del cargo público | 11 |
+|  | Uso de los Recursos Públicos | 11 |
 |  | RESPETO |  |
 |  | Relaciones Internas | 12 |
-|  | Relaciones con la ciudadanÃ­a | 13 |
-|  | Diversidad e InclusiÃ³n | 13 |
+|  | Relaciones con la ciudadanía | 13 |
+|  | Diversidad e Inclusión | 13 |
 |  | COMPROMISO |  |
 |  | Excelencia | 14 |
 |  | Trabajo Colaborativo | 15 |
-|  | Flexibilidad e InnovaciÃ³n | 15 |
+|  | Flexibilidad e Innovación | 15 |
 |  | Rol social y medioambiental | 16 |
 |  | TRANSPARENCIA |  |
-|  | Acceso a la informaciÃ³n pÃºblica | 17 |
-|  | Resguardo de la informaciÃ³n | 17 |
+|  | Acceso a la información pública | 17 |
+|  | Resguardo de la información | 17 |
 | 9. | Mecanismos para realizar consultas y denuncias | 18 |
 | 10. | Acciones disciplinarias y sanciones | 18 |
 | 11. | Glosario | 19 |
@@ -71,74 +72,74 @@ PRIMERO: APRUÃ‰BASE el siguiente CÃ³digo de
 
 ## 1.- Palabras del Director
 
-Estimado Equipo SII, Las organizaciones son mÃ¡s fuertes cuando comparten una mirada sobre hacia dÃ³nde queremos llegar, pero tambiÃ©n cuando existe el consenso sobre cÃ³mo lo realizaremos. Por eso, debemos sentir orgullo por nuestro CÃ³digo de Ã‰tica, fruto de un proceso inÃ©dito de participaciÃ³n, inclusiÃ³n y colaboraciÃ³n, en que todos los equipos de nuestro Servicio reflexionaron sobre cuÃ¡les debÃ­an ser nuestros valores y cÃ³mo debÃ­amos aplicarlos en el contexto que vivimos. Se trata de una guÃ­a fundamental para todas las personas que integramos el SII, al orientar nuestro comportamiento y definir la forma en que alcanzaremos nuestra misiÃ³n de contribuir al bien comÃºn a travÃ©s del cumplimiento tributario. Se trata de un desafÃ­o que solo podemos lograr si trabajamos todas y todos juntos, movilizados por nuestra vocaciÃ³n de servicio y desarrollando nuestra labor de acuerdo con nuestros valores y nuestra cultura. Porque Ser SII implica quiÃ©nes somos, pero tambiÃ©n quiÃ©nes queremos ser y dÃ³nde queremos llegar, haciendo realidad metas que se vuelven abordables si lo hacemos en conjunto, unidas y unidos por objetivos comunes y fieles a nuestras convicciones y creencias, que contribuyen a hacer posible los sueÃ±os de un paÃ­s entero. Sigamos avanzando con paso firme en nuestra ruta. Sigamos fortaleciÃ©ndonos como organizaciÃ³n al conocer cÃ³mo debemos desempeÃ±arnos. DÃ©mosle sentido a cada acciÃ³n haciendo que nuestros valores sean protagonistas de nuestra experiencia. Hagamos realidad nuestro compromiso en forma consciente al poner en prÃ¡ctica cada comportamiento que nace de los valores que definimos en conjunto. Los valores de nuestro CÃ³digo de Ã‰tica nos definen como personas y como profesionales. Â¡VivÃ¡moslos!
+Estimado Equipo SII, Las organizaciones son más fuertes cuando comparten una mirada sobre hacia dónde queremos llegar, pero también cuando existe el consenso sobre cómo lo realizaremos. Por eso, debemos sentir orgullo por nuestro Código de Ética, fruto de un proceso inédito de participación, inclusión y colaboración, en que todos los equipos de nuestro Servicio reflexionaron sobre cuáles debían ser nuestros valores y cómo debíamos aplicarlos en el contexto que vivimos. Se trata de una guía fundamental para todas las personas que integramos el SII, al orientar nuestro comportamiento y definir la forma en que alcanzaremos nuestra misión de contribuir al bien común a través del cumplimiento tributario. Se trata de un desafío que solo podemos lograr si trabajamos todas y todos juntos, movilizados por nuestra vocación de servicio y desarrollando nuestra labor de acuerdo con nuestros valores y nuestra cultura. Porque Ser SII implica quiénes somos, pero también quiénes queremos ser y dónde queremos llegar, haciendo realidad metas que se vuelven abordables si lo hacemos en conjunto, unidas y unidos por objetivos comunes y fieles a nuestras convicciones y creencias, que contribuyen a hacer posible los sueños de un país entero. Sigamos avanzando con paso firme en nuestra ruta. Sigamos fortaleciéndonos como organización al conocer cómo debemos desempeñarnos. Démosle sentido a cada acción haciendo que nuestros valores sean protagonistas de nuestra experiencia. Hagamos realidad nuestro compromiso en forma consciente al poner en práctica cada comportamiento que nace de los valores que definimos en conjunto. Los valores de nuestro Código de Ética nos definen como personas y como profesionales. ¡Vivámoslos!
 
-HernÃ¡n Frigolett CÃ³rdova Director SII
+Hernán Frigolett Córdova Director SII
 
-## 2.- Â¿QuÃ© es el CÃ³digo de Ã‰tica?
+## 2.- ¿Qué es el Código de Ética?
 
-Es un marco de referencia para nuestro comportamiento Ã©tico funcionario, basado en una serie de principios y valores, consensuados participativamente en el SII.
+Es un marco de referencia para nuestro comportamiento ético funcionario, basado en una serie de principios y valores, consensuados participativamente en el SII.
 
-El CÃ³digo es parte de nuestro Sistema de Integridad Institucional 1 y plantea la postura del Servicio de Impuestos Internos ante algunos temas relevantes que se generan en el ejercicio de nuestro rol.
+El Código es parte de nuestro Sistema de Integridad Institucional 1 y plantea la postura del Servicio de Impuestos Internos ante algunos temas relevantes que se generan en el ejercicio de nuestro rol.
 
-El objetivo de este CÃ³digo es:
+El objetivo de este Código es:
 
-* Fortalecer los estÃ¡ndares de conducta basada en valores y la confianza entre las funcionarias y funcionarios.
-* Guiar la toma de decisiones hacia lo correcto, tanto en las relaciones internas, como con el contribuyente, con los proveedores y la ciudadanÃ­a.
-* Aumentar la confianza de la ciudadanÃ­a en nuestra labor y contribuciÃ³n social.
+* Fortalecer los estándares de conducta basada en valores y la confianza entre las funcionarias y funcionarios.
+* Guiar la toma de decisiones hacia lo correcto, tanto en las relaciones internas, como con el contribuyente, con los proveedores y la ciudadanía.
+* Aumentar la confianza de la ciudadanía en nuestra labor y contribución social.
 
-Nuestro CÃ³digo de Ã‰tica abarca una amplia gama de conductas a las que nos podemos ver expuestos como funcionarias y funcionarios, pero en ningÃºn caso a la totalidad de situaciones, por ello, este documento presenta los mecanismos institucionales para responder dudas frente a dilemas Ã©ticos.
+Nuestro Código de Ética abarca una amplia gama de conductas a las que nos podemos ver expuestos como funcionarias y funcionarios, pero en ningún caso a la totalidad de situaciones, por ello, este documento presenta los mecanismos institucionales para responder dudas frente a dilemas éticos.
 
-## 3.- Â¿Por quÃ© es importante el CÃ³digo de Ã‰tica?
+## 3.- ¿Por qué es importante el Código de Ética?
 
-Porque es una herramienta que promueve un sentido de propÃ³sito y valores compartidos que, puestos en prÃ¡ctica en el trabajo realizado dÃ­a a dÃ­a por cada funcionario y funcionaria, otorgarÃ¡ a nuestra labor el sello de integridad que refleja nuestra cultura institucional.
+Porque es una herramienta que promueve un sentido de propósito y valores compartidos que, puestos en práctica en el trabajo realizado día a día por cada funcionario y funcionaria, otorgará a nuestra labor el sello de integridad que refleja nuestra cultura institucional.
 
-## 4.- Â¿CÃ³mo se elaborÃ³ el CÃ³digo de Ã‰tica?
+## 4.- ¿Cómo se elaboró el Código de Ética?
 
-El presente documento es una reformulaciÃ³n de nuestro CÃ³digo de Ã‰tica, cÃ³digo que tuvo sus orÃ­genes en el aÃ±o 2004, respondiendo a la necesidad de consensuar el cÃ³mo desempeÃ±amos nuestra funciÃ³n respetando los valores y estÃ¡ndares Ã©ticos institucionales.
+El presente documento es una reformulación de nuestro Código de Ética, código que tuvo sus orígenes en el año 2004, respondiendo a la necesidad de consensuar el cómo desempeñamos nuestra función respetando los valores y estándares éticos institucionales.
 
-En el aÃ±o 2016, en el marco de la Agenda de Probidad y Transparencia del Gobierno, se realizÃ³ la actualizaciÃ³n participativa del CÃ³digo de Ã‰tica del SII que estuvo vigente hasta la presente versiÃ³n.
+En el año 2016, en el marco de la Agenda de Probidad y Transparencia del Gobierno, se realizó la actualización participativa del Código de Ética del SII que estuvo vigente hasta la presente versión.
 
-En el aÃ±o 2022 debido al impacto de los cambios acontecidos en los aÃ±os precedentes, en el marco de la Red Ã‰tica, iniciativa ampliamente valorada y que tuvo una masiva participaciÃ³n a nivel nacional 2 , analizamos la reformulaciÃ³n del CÃ³digo de Ã‰tica Institucional, logrando con ello un nuevo pacto de integridad entre todas las personas que componemos esta instituciÃ³n. AdemÃ¡s, como compromiso de Red Ã‰tica, cada SubdirecciÃ³n y DirecciÃ³n Regional elaborÃ³ videos que nutren como ejemplo las conductas de este CÃ³digo.
+En el año 2022 debido al impacto de los cambios acontecidos en los años precedentes, en el marco de la Red Ética, iniciativa ampliamente valorada y que tuvo una masiva participación a nivel nacional 2 , analizamos la reformulación del Código de Ética Institucional, logrando con ello un nuevo pacto de integridad entre todas las personas que componemos esta institución. Además, como compromiso de Red Ética, cada Subdirección y Dirección Regional elaboró videos que nutren como ejemplo las conductas de este Código.
 
-Finalmente, la elaboraciÃ³n del presente CÃ³digo contÃ³ con la participaciÃ³n y colaboraciÃ³n de las Asociaciones de funcionarias y funcionarios del SII.
+Finalmente, la elaboración del presente Código contó con la participación y colaboración de las Asociaciones de funcionarias y funcionarios del SII.
 
 1 Ver anexo
 
-2 ParticipaciÃ³n efectiva en Red Ã‰tica 2022: 32 Reuniones de equipos directivos, 22 Reuniones de Mesas de trabajo, 332 Reuniones de equipos de trabajo y 4.076 funcionarias/os participantes (82% de la dotaciÃ³n).
+2 Participación efectiva en Red Ética 2022: 32 Reuniones de equipos directivos, 22 Reuniones de Mesas de trabajo, 332 Reuniones de equipos de trabajo y 4.076 funcionarias/os participantes (82% de la dotación).
 
-## 5.- Â¿A quiÃ©n aplica el CÃ³digo de Ã‰tica?
+## 5.- ¿A quién aplica el Código de Ética?
 
-Este CÃ³digo de Ã‰tica se aplica a todas las personas que trabajamos en y para el Servicio de Impuestos Internos, independiente del escalafÃ³n, la calidad jurÃ­dica o relaciÃ³n contractual (planta, contrata, honorarios, alumnos en prÃ¡ctica y/o personal externo) e independiente del lugar donde se estÃ© desarrollando la funciÃ³n: dependencias institucionales, comisiÃ³n de servicio, teletrabajo u otras. AdemÃ¡s, instamos y promovemos que cualquier tercero que se relacione con nosotros, actÃºe de acuerdo con este cÃ³digo (por ejemplo, nuestros proveedores).
+Este Código de Ética se aplica a todas las personas que trabajamos en y para el Servicio de Impuestos Internos, independiente del escalafón, la calidad jurídica o relación contractual (planta, contrata, honorarios, alumnos en práctica y/o personal externo) e independiente del lugar donde se esté desarrollando la función: dependencias institucionales, comisión de servicio, teletrabajo u otras. Además, instamos y promovemos que cualquier tercero que se relacione con nosotros, actúe de acuerdo con este código (por ejemplo, nuestros proveedores).
 
-## 6.- Â¿A quÃ© nos comprometemos con el CÃ³digo de Ã‰tica?
+## 6.- ¿A qué nos comprometemos con el Código de Ética?
 
 Que cada funcionario y funcionaria integre los valores institucionales -Probidad, Respeto, Compromiso y Transparencia-, en su trabajo cotidiano y en la toma de decisiones que les correspondan de acuerdo con sus funciones y cargos.
 
-Que nuestras actuaciones reflejen el sello valÃ³rico de la cultura institucional, de manera de generar confianza mutua, credibilidad en la ciudadanÃ­a, con nuestras contrapartes y ser un modelo para las nuevas generaciones que se vayan integrando al Servicio.
+Que nuestras actuaciones reflejen el sello valórico de la cultura institucional, de manera de generar confianza mutua, credibilidad en la ciudadanía, con nuestras contrapartes y ser un modelo para las nuevas generaciones que se vayan integrando al Servicio.
 
-## Â¿CuÃ¡l es el rol del Equipo Directivo y Jefaturas?
+## ¿Cuál es el rol del Equipo Directivo y Jefaturas?
 
-El Equipo Directivo y Jefaturas del SII se comprometen a cumplir los estÃ¡ndares establecidos en este CÃ³digo y a promover que sus equipos tambiÃ©n lo hagan. Para ello, es muy importante que el funcionaria o funcionario que ejerza el rol de jefatura viva y promueva los valores institucionales convirtiÃ©ndose en un modelo de credibilidad y coherencia entre sus declaraciones y su actuar. Asimismo, se comprometen a mantener informados a las funcionarias y funcionarios respecto a los contenidos de este cÃ³digo, los valores consignados y las acciones que puedan proceder en caso de contravenciÃ³n a los principios de Ã©tica y probidad.
+El Equipo Directivo y Jefaturas del SII se comprometen a cumplir los estándares establecidos en este Código y a promover que sus equipos también lo hagan. Para ello, es muy importante que el funcionaria o funcionario que ejerza el rol de jefatura viva y promueva los valores institucionales convirtiéndose en un modelo de credibilidad y coherencia entre sus declaraciones y su actuar. Asimismo, se comprometen a mantener informados a las funcionarias y funcionarios respecto a los contenidos de este código, los valores consignados y las acciones que puedan proceder en caso de contravención a los principios de ética y probidad.
 
-* 7.- MisiÃ³n, VisiÃ³n y Valores Institucionales
+* 7.- Misión, Visión y Valores Institucionales
 
-MisiÃ³n
+Misión
 
-* Asegurar el cumplimiento tributario, procurando que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitaciÃ³n del cumplimiento, en el marco que establecen los principios de probidad, equidad y transparencia, en un ambiente de trabajo que propicie el desarrollo integral de los funcionarios y funcionarias, para lograr un desempeÃ±o de excelencia que aporte al progreso del paÃ­s.
+* Asegurar el cumplimiento tributario, procurando que cada contribuyente cumpla cabalmente sus obligaciones tributarias, aplicando y fiscalizando los impuestos internos de manera efectiva y eficiente, con estricto apego a la legalidad vigente y buscando la facilitación del cumplimiento, en el marco que establecen los principios de probidad, equidad y transparencia, en un ambiente de trabajo que propicie el desarrollo integral de los funcionarios y funcionarias, para lograr un desempeño de excelencia que aporte al progreso del país.
 
-VisiÃ³n
+Visión
 
-* Ser una instituciÃ³n reconocida como referente a nivel mundial, que opera bajo una cultura innovadora, de excelencia, orientada al contribuyente y su pleno cumplimiento tributario, y que asegura una recaudaciÃ³n adecuada, justa y equitativa.
+* Ser una institución reconocida como referente a nivel mundial, que opera bajo una cultura innovadora, de excelencia, orientada al contribuyente y su pleno cumplimiento tributario, y que asegura una recaudación adecuada, justa y equitativa.
 
 ## Valores Institucionales
 
 * Probidad: En el SII tenemos un comportamiento integro, honesto y leal. Evitamos todo conflicto de intereses, anteponiendo el bien general sobre el particular.
-* Respeto: En el SII reconocemos el valor de cada persona, valorando su diversidad y velando por la equidad e inclusiÃ³n, en un marco de buen trato, empatÃ­a y solidaridad.
-* Compromiso: En el SII realizamos nuestro trabajo con excelencia, movilizando todas nuestras capacidades y utilizando estrategias innovadoras, para cumplir con los desafÃ­os institucionales y nuestro rol social.
-* Transparencia: En el SII garantizamos el acceso oportuno a la informaciÃ³n pÃºblica, comunicamos de forma clara y simple nuestros actos, procesos y actividades, y resguardamos las causales legales de reserva.
+* Respeto: En el SII reconocemos el valor de cada persona, valorando su diversidad y velando por la equidad e inclusión, en un marco de buen trato, empatía y solidaridad.
+* Compromiso: En el SII realizamos nuestro trabajo con excelencia, movilizando todas nuestras capacidades y utilizando estrategias innovadoras, para cumplir con los desafíos institucionales y nuestro rol social.
+* Transparencia: En el SII garantizamos el acceso oportuno a la información pública, comunicamos de forma clara y simple nuestros actos, procesos y actividades, y resguardamos las causales legales de reserva.
 
-## 8.- Conductas Ã©ticas segÃºn nuestros valores institucionales
+## 8.- Conductas éticas según nuestros valores institucionales
 
 ## PROBIDAD
 
@@ -150,51 +151,51 @@ En el SII tenemos un comportamiento integro, honesto y leal. Evitamos todo confl
 
 * o Nos inhabilitamos cuando nos encontramos frente a un potencial conflicto de intereses.
 * o Nos abstenemos de intervenir con familiares, amigos y/o con personas que tengamos alguna enemistad.
-* o En la atenciÃ³n a contribuyentes respetamos siempre el orden de llegada, evitando cualquier tipo de preferencia no fundada.
-* o No permitimos que nuestras relaciones personales afecten las decisiones ni el ambiente laboral, ya que siempre debe primar el interÃ©s pÃºblico e institucional.
+* o En la atención a contribuyentes respetamos siempre el orden de llegada, evitando cualquier tipo de preferencia no fundada.
+* o No permitimos que nuestras relaciones personales afecten las decisiones ni el ambiente laboral, ya que siempre debe primar el interés público e institucional.
 * o Nunca utilizamos nuestro cargo para favorecer a personas a las que anteriormente prestamos servicios profesionales.
-* o No aceptamos regalos, ventajas, beneficios o privilegios de ningÃºn tipo.
-* o No realizamos actividades que sean incompatibles con nuestra condiciÃ³n de funcionarias y funcionarios del SII.
+* o No aceptamos regalos, ventajas, beneficios o privilegios de ningún tipo.
+* o No realizamos actividades que sean incompatibles con nuestra condición de funcionarias y funcionarios del SII.
 
 ## Ejemplos:
 
-* Â¿CÃ³mo nos inhabilitamos?
-* Â¿Puedo recibir regalos?
+* ¿Cómo nos inhabilitamos?
+* ¿Puedo recibir regalos?
 * Ejemplos de Conflicto de Intereses
 
-## Uso del cargo pÃºblico
+## Uso del cargo público
 
 ## Conductas:
 
 * o Rechazamos todo tipo de cohecho y soborno.
-* o Actuamos con honestidad y acorde al rol pÃºblico tanto dentro como fuera de la InstituciÃ³n.
+* o Actuamos con honestidad y acorde al rol público tanto dentro como fuera de la Institución.
 * o Solicitamos boleta al momento de comprar en el comercio establecido, sea presencial o por internet.
 * o Fomentamos la responsabilidad social tributaria, teniendo un buen comportamiento como contribuyentes.
 * o No compramos en el comercio informal, sea presencial o por internet.
 
 ## Ejemplos:
 
-* Â¿CuÃ¡l es nuestro Rol pÃºblico?
-* Â¡Somos intachables!
+* ¿Cuál es nuestro Rol público?
+* ¡Somos intachables!
 
-## Uso de los Recursos PÃºblicos
+## Uso de los Recursos Públicos
 
 ## Conductas:
 
-* o Hacemos buen uso de los recursos que se nos entregan para realizar nuestra labor, utilizÃ¡ndolos sÃ³lo para los fines establecidos.
-* o Tomamos todos los resguardos necesarios para cuidar los equipos computacionales y la tecnologÃ­a asignada para ejercer nuestra labor.
+* o Hacemos buen uso de los recursos que se nos entregan para realizar nuestra labor, utilizándolos sólo para los fines establecidos.
+* o Tomamos todos los resguardos necesarios para cuidar los equipos computacionales y la tecnología asignada para ejercer nuestra labor.
 * o Cumplimos con la jornada de trabajo, ya sea en la oficina, en teletrabajo o cuando nos encontramos en terreno.
-* o Realizamos el trabajo en forma oportuna durante la jornada, evitando hacer trÃ¡mites personales en horario laboral.
+* o Realizamos el trabajo en forma oportuna durante la jornada, evitando hacer trámites personales en horario laboral.
 * o Hacemos uso adecuado de las horas extraordinarias debidamente autorizadas.
 
 ## Ejemplos:
 
-* Cuidemos los recursos pÃºblicos
+* Cuidemos los recursos públicos
 * Buen uso del tiempo
 
 ## RESPETO
 
-En el SII reconocemos el valor de cada persona, valorando su diversidad y velando por la equidad e inclusiÃ³n, en un marco de buen trato, empatÃ­a y solidaridad.
+En el SII reconocemos el valor de cada persona, valorando su diversidad y velando por la equidad e inclusión, en un marco de buen trato, empatía y solidaridad.
 
 ## Relaciones Internas
 
@@ -202,193 +203,193 @@ En el SII reconocemos el valor de cada persona, valorando su diversidad y veland
 
 * o Rechazamos cualquier conducta de maltrato o acoso laboral o sexual.
 * o Rechazamos toda conducta que atente contra la dignidad u honra de una funcionaria o funcionario.
-* o Evitamos el uso de sarcasmos, descalificaciones, ironÃ­as y menoscabos en las interacciones laborales.
+* o Evitamos el uso de sarcasmos, descalificaciones, ironías y menoscabos en las interacciones laborales.
 * o No descalificamos o desmerecemos el trabajo del otro.
 * o Nos relacionamos de manera respetuosa con nuestras jefaturas, con nuestros colaboradores y con nuestros pares.
-* o Escuchamos a nuestros colegas en forma atenta y sin interrupciÃ³n, aplicando la escucha activa.
+* o Escuchamos a nuestros colegas en forma atenta y sin interrupción, aplicando la escucha activa.
 * o Aceptamos la existencia de distintas miradas y su aporte al resultado final de nuestro trabajo.
-* o Promovemos un clima de empatÃ­a, en que podamos escucharnos antes de emitir algÃºn juicio o comentario que pueda ser ofensivo.
+* o Promovemos un clima de empatía, en que podamos escucharnos antes de emitir algún juicio o comentario que pueda ser ofensivo.
 * o Somos capaces de plantear las situaciones que nos afectan, de manera clara, asertiva y respetuosa.
-* o Somos puntuales en las reuniones o compromisos, respetando los turnos y tiempos de los demÃ¡s.
+* o Somos puntuales en las reuniones o compromisos, respetando los turnos y tiempos de los demás.
 
 ## Ejemplos:
 
 * Promovamos buenas relaciones laborales
 * El respeto nos hace bien a todas/os
 
-## Relaciones con la ciudadanÃ­a
+## Relaciones con la ciudadanía
 
 ## Conductas:
 
-* o Procuramos que el contribuyente tenga una buena experiencia desde principio y hasta el final de nuestra atenciÃ³n.
+* o Procuramos que el contribuyente tenga una buena experiencia desde principio y hasta el final de nuestra atención.
 * o Atendemos a los contribuyentes sin demoras, siendo diligentes en los procesos.
 * o Empatizamos con las necesidades de los contribuyentes y ponemos todo nuestro esfuerzo para solucionar sus problemas e inquietudes.
-* o Atendemos de forma cordial, usando un lenguaje formal y apropiado a la comprensiÃ³n de nuestro interlocutor.
-* o Entregamos informaciÃ³n clara, oportuna, completa y actualizada, utilizando nuestro sitio web.
-* o Gestionamos el conflicto de manera empÃ¡tica y asertiva.
-* o Activamos los protocolos de seguridad en momentos crÃ­ticos, para garantizar la protecciÃ³n de los funcionarios
+* o Atendemos de forma cordial, usando un lenguaje formal y apropiado a la comprensión de nuestro interlocutor.
+* o Entregamos información clara, oportuna, completa y actualizada, utilizando nuestro sitio web.
+* o Gestionamos el conflicto de manera empática y asertiva.
+* o Activamos los protocolos de seguridad en momentos críticos, para garantizar la protección de los funcionarios
 
 ## Ejemplos:
 
-* Somos empÃ¡ticos
+* Somos empáticos
 * Brindamos una buena experiencia
 
-## Diversidad e InclusiÃ³n
+## Diversidad e Inclusión
 
 ## Conductas:
 
-* o Valoramos la diversidad, rechazando cualquier acto de discriminaciÃ³n ya sea fÃ­sica, polÃ­tica, religiosa, Ã©tnica, de gÃ©nero, orientaciÃ³n sexual u otras.
-* o Reconocemos en todas las personas igualdad de derechos y oportunidades, sin distinciÃ³n de nivel jerÃ¡rquico.
+* o Valoramos la diversidad, rechazando cualquier acto de discriminación ya sea física, política, religiosa, étnica, de género, orientación sexual u otras.
+* o Reconocemos en todas las personas igualdad de derechos y oportunidades, sin distinción de nivel jerárquico.
 * o Aceptamos distintas creencias, posturas y formas de ser, que sean respetuosas de la dignidad humana y la normativa vigente, sin descalificar.
-* o Aseguramos atenciÃ³n preferencial a la tercera edad, mujeres embarazadas, personas con movilidad reducida o necesidades especiales.
+* o Aseguramos atención preferencial a la tercera edad, mujeres embarazadas, personas con movilidad reducida o necesidades especiales.
 
 ## Ejemplos:
 
-* Â¿QuÃ© es un trato digno e igualitario?
+* ¿Qué es un trato digno e igualitario?
 * Reconocemos la diversidad
 
 ## COMPROMISO
 
-En el SII realizamos nuestro trabajo con excelencia, movilizando todas nuestras capacidades y utilizando estrategias innovadoras, para cumplir con los desafÃ­os institucionales y nuestro rol social.
+En el SII realizamos nuestro trabajo con excelencia, movilizando todas nuestras capacidades y utilizando estrategias innovadoras, para cumplir con los desafíos institucionales y nuestro rol social.
 
 ## Excelencia
 
 ## Conductas:
 
 * o Realizamos nuestro trabajo con responsabilidad y profesionalismo, brindando un servicio de excelencia.
-* o Movilizamos todas nuestras capacidades para cumplir con los objetivos y nuevos desafÃ­os que se nos imponen como instituciÃ³n.
-* o Actuamos con proactividad, identificando y comunicando los obstÃ¡culos que puedan afectar el cumplimiento de las tareas.
-* o Resolvemos las peticiones de los contribuyentes, proveedores y ciudadanÃ­a, dentro de los plazos establecidos, con un alto estÃ¡ndar de calidad.
+* o Movilizamos todas nuestras capacidades para cumplir con los objetivos y nuevos desafíos que se nos imponen como institución.
+* o Actuamos con proactividad, identificando y comunicando los obstáculos que puedan afectar el cumplimiento de las tareas.
+* o Resolvemos las peticiones de los contribuyentes, proveedores y ciudadanía, dentro de los plazos establecidos, con un alto estándar de calidad.
 * o Damos respuesta oportuna y eficiente a todos los requerimientos internos, informando eventuales retrasos.
 * o Respetamos la normativa y las instrucciones establecidas para realizar nuestro trabajo.
-* o Tenemos la disposiciÃ³n permanente a evaluar o corregir el trabajo realizado, desde la mirada del mejoramiento continuo.
-* o Organizamos las actividades, asignando equitativamente las cargas laborales, transparentÃ¡ndolas a todo el equipo.
-* o Nos capacitamos para desarrollar el trabajo de la mejor manera, realizando los cursos a los que somos convocados (internos y externos) y buscamos especializaciÃ³n.
+* o Tenemos la disposición permanente a evaluar o corregir el trabajo realizado, desde la mirada del mejoramiento continuo.
+* o Organizamos las actividades, asignando equitativamente las cargas laborales, transparentándolas a todo el equipo.
+* o Nos capacitamos para desarrollar el trabajo de la mejor manera, realizando los cursos a los que somos convocados (internos y externos) y buscamos especialización.
 
 ## Ejemplos:
 
-* Â¡La excelencia es el camino!
-* Â¡Con la camiseta puesta!
+* ¡La excelencia es el camino!
+* ¡Con la camiseta puesta!
 
 ## Trabajo Colaborativo
 
 ## Conductas:
 
 * o Promovemos el trabajo colaborativo y en equipo.
-* o Realizamos nuestro trabajo de forma oportuna y responsable, evitando afectar la carga de trabajo de los demÃ¡s.
-* o Mantenemos una buena comunicaciÃ³n con nuestros compaÃ±eros y compaÃ±eras de trabajo.
+* o Realizamos nuestro trabajo de forma oportuna y responsable, evitando afectar la carga de trabajo de los demás.
+* o Mantenemos una buena comunicación con nuestros compañeros y compañeras de trabajo.
 * o Organizamos nuestros feriados, permisos y la carga laboral de tal manera de no sobrecargar a nuestro equipo de trabajo.
-* o Colaboramos en la gestiÃ³n del conocimiento al interior de los equipos, compartiendo capacitaciones, habilidades y buenas prÃ¡cticas.
-* o Valoramos la trayectoria de las personas con mayor experiencia, como un recurso en el proceso de formaciÃ³n y guÃ­a de nuevos funcionarias y funcionarios.
-* o Nos apoyamos entre compaÃ±eros y compaÃ±eras de trabajo, cuando alguien tiene una dificultad.
+* o Colaboramos en la gestión del conocimiento al interior de los equipos, compartiendo capacitaciones, habilidades y buenas prácticas.
+* o Valoramos la trayectoria de las personas con mayor experiencia, como un recurso en el proceso de formación y guía de nuevos funcionarias y funcionarios.
+* o Nos apoyamos entre compañeros y compañeras de trabajo, cuando alguien tiene una dificultad.
 
 ## Ejemplo:
 
-* Â¡Juntos podemos!
+* ¡Juntos podemos!
 
-## Flexibilidad e innovaciÃ³n
+## Flexibilidad e innovación
 
 ## Conductas:
 
-* o Hacemos cosas nuevas, materializando los cambios e incorporÃ¡ndolos como prÃ¡cticas habituales en nuestra labor.
+* o Hacemos cosas nuevas, materializando los cambios e incorporándolos como prácticas habituales en nuestra labor.
 * o Asumimos con flexibilidad el cambio y nos adaptamos a las nuevas situaciones, perseverando en nuestro trabajo.
-* o Realizamos las tareas requeridas por la instituciÃ³n, aunque no sean las habituales, superando los inconvenientes que se puedan presentar.
-* o Facilitamos la creaciÃ³n e implementaciÃ³n de formas de trabajo y plataformas virtuales, para mantener una comunicaciÃ³n eficaz entre las diversas unidades del SII y con los contribuyentes.
+* o Realizamos las tareas requeridas por la institución, aunque no sean las habituales, superando los inconvenientes que se puedan presentar.
+* o Facilitamos la creación e implementación de formas de trabajo y plataformas virtuales, para mantener una comunicación eficaz entre las diversas unidades del SII y con los contribuyentes.
 
 ## Ejemplos:
 
-* Â¿CÃ³mo nos adaptamos al cambio?
-* Â¡Valoramos la innovaciÃ³n!
+* ¿Cómo nos adaptamos al cambio?
+* ¡Valoramos la innovación!
 
 ## Rol social y medioambiental
 
 ## Conductas:
 
 * o Somos conscientes de que la labor que realizamos es importante para la sociedad, entendiendo el impacto que tiene en los otros.
-* o Damos respuesta a la confianza que las personas depositan en nosotros, a travÃ©s del trabajo bien hecho.
-* o Nuestras conductas y trabajo se desarrollan en pro de la instituciÃ³n y de cara a la comunidad.
+* o Damos respuesta a la confianza que las personas depositan en nosotros, a través del trabajo bien hecho.
+* o Nuestras conductas y trabajo se desarrollan en pro de la institución y de cara a la comunidad.
 * o Cuidamos nuestra honorabilidad, ya que nuestras acciones o actitudes impactan la imagen del SII.
-* o Cuidamos el prestigio institucional evitando cualquier comentario o publicaciÃ³n que atente contra Ã©ste.
-* o Hacemos un uso eficiente de los insumos y la energÃ­a que consumimos, para asÃ­ convertirnos en una instituciÃ³n sustentable.
-* o Estamos comprometidos con la polÃ­tica de 'cero-papel', evitando imprimir documentos, utilizando solo el formato digital.
+* o Cuidamos el prestigio institucional evitando cualquier comentario o publicación que atente contra éste.
+* o Hacemos un uso eficiente de los insumos y la energía que consumimos, para así convertirnos en una institución sustentable.
+* o Estamos comprometidos con la política de 'cero-papel', evitando imprimir documentos, utilizando solo el formato digital.
 * o Fomentamos el reciclaje en todas las unidades del SII.
 
 ## Ejemplos:
 
-* Â¡Damos el ejemplo!
-* Â¡Cuidamos nuestra imagen!
+* ¡Damos el ejemplo!
+* ¡Cuidamos nuestra imagen!
 
 ## TRANSPARENCIA
 
-En el SII garantizamos el acceso oportuno a la informaciÃ³n pÃºblica, comunicamos de forma clara y simple nuestros actos, procesos y actividades, y resguardamos las causales legales de reserva.
+En el SII garantizamos el acceso oportuno a la información pública, comunicamos de forma clara y simple nuestros actos, procesos y actividades, y resguardamos las causales legales de reserva.
 
-## Acceso a la informaciÃ³n pÃºblica
+## Acceso a la información pública
 
 ## Conductas:
 
 ## Ejemplos:
 
-* Â¿CÃ³mo resguardamos la informaciÃ³n?
-* o Facilitamos el acceso pÃºblico a la informaciÃ³n y la damos a conocer, a menos que exista una causal de reserva.
-* o Transparentamos la informaciÃ³n con los contribuyentes respecto a los procedimientos que les ataÃ±en.
-* o Entregamos la informaciÃ³n propia de un contribuyente solo a Ã©ste o a quien acredite su representaciÃ³n.
-* o Damos respuesta oportuna a solicitudes, consultas o inquietudes de compaÃ±eros y compaÃ±eras de trabajo y la ciudadanÃ­a.
-* o Aseguramos que los procesos de adquisiciones sean transparentes e igualitarios para los proveedores, publicando toda la informaciÃ³n respectiva.
+* ¿Cómo resguardamos la información?
+* o Facilitamos el acceso público a la información y la damos a conocer, a menos que exista una causal de reserva.
+* o Transparentamos la información con los contribuyentes respecto a los procedimientos que les atañen.
+* o Entregamos la información propia de un contribuyente solo a éste o a quien acredite su representación.
+* o Damos respuesta oportuna a solicitudes, consultas o inquietudes de compañeros y compañeras de trabajo y la ciudadanía.
+* o Aseguramos que los procesos de adquisiciones sean transparentes e igualitarios para los proveedores, publicando toda la información respectiva.
 
 ## Ejemplos:
 
 * Somos transparentes
 
-## Resguardo de la informaciÃ³n
+## Resguardo de la información
 
 ## Conductas:
 
-* o Mantenemos el correcto resguardo de la informaciÃ³n reservada de los contribuyentes.
-* o Resguardamos los antecedentes fÃ­sicos y digitales, tanto de las funcionarias y funcionarios como de los contribuyentes.
-* o Hacemos buen uso de la informaciÃ³n a la que tenemos acceso, no la usamos para beneficio personal ni de terceros (familiares, amigos y con los contribuyentes).
+* o Mantenemos el correcto resguardo de la información reservada de los contribuyentes.
+* o Resguardamos los antecedentes físicos y digitales, tanto de las funcionarias y funcionarios como de los contribuyentes.
+* o Hacemos buen uso de la información a la que tenemos acceso, no la usamos para beneficio personal ni de terceros (familiares, amigos y con los contribuyentes).
 * o Cuidamos nuestras claves de acceso a los sistemas y no la compartimos.
 * o Usamos los perfiles otorgados de acuerdo con las funciones/cargo que ejercemos.
 
 ## 9.- Mecanismos para realizar consultas y denuncias
 
-Si en el desempeÃ±o de nuestras funciones se presenta alguna duda o interrogante acerca de la legalidad o idoneidad de alguna conducta funcionaria, existe un canal de consultas del SII denominado 'LÃ­nea Ã‰tica' que es la vÃ­a oficial para resolver consultas referentes a las obligaciones y prohibiciones que afectan a los funcionarios y sobre temas relacionados con la Ã©tica y probidad. Se encuentra ubicada en Intranet, en el Portal Ã‰tico.
+Si en el desempeño de nuestras funciones se presenta alguna duda o interrogante acerca de la legalidad o idoneidad de alguna conducta funcionaria, existe un canal de consultas del SII denominado 'Línea Ética' que es la vía oficial para resolver consultas referentes a las obligaciones y prohibiciones que afectan a los funcionarios y sobre temas relacionados con la ética y probidad. Se encuentra ubicada en Intranet, en el Portal Ético.
 
-Si somos testigos de alguna situaciÃ³n que falte a la probidad o sospechamos de alguna situaciÃ³n contraria a la normativa y/o al CÃ³digo de Ã‰tica, podemos comunicarnos con nuestra jefatura directa para evaluar un curso de acciÃ³n.
+Si somos testigos de alguna situación que falte a la probidad o sospechamos de alguna situación contraria a la normativa y/o al Código de Ética, podemos comunicarnos con nuestra jefatura directa para evaluar un curso de acción.
 
-Ante situaciones de mayor complejidad, debemos realizar la denuncia a travÃ©s del Canal de Denuncias, donde podemos solicitar reserva de la identidad.
+Ante situaciones de mayor complejidad, debemos realizar la denuncia a través del Canal de Denuncias, donde podemos solicitar reserva de la identidad.
 
-Las situaciones de presunto acoso y/o discriminaciÃ³n, poseen polÃ­ticas y procedimientos especÃ­ficos regulados en:
+Las situaciones de presunto acoso y/o discriminación, poseen políticas y procedimientos específicos regulados en:
 
-* 'PolÃ­tica contra la DiscriminaciÃ³n'
-* 'Procedimiento ante denuncia y sanciÃ³n del Maltrato Laboral, Acoso Laboral y Acoso Sexual'
+* 'Política contra la Discriminación'
+* 'Procedimiento ante denuncia y sanción del Maltrato Laboral, Acoso Laboral y Acoso Sexual'
 
 ## 10.- Acciones disciplinarias y sanciones
 
-Cuando un funcionario o funcionaria incurra en una infracciÃ³n a este CÃ³digo y/o a los deberes y obligaciones estipuladas en la normativa que nos rige, se aplicarÃ¡ la medida disciplinaria que corresponda a los hechos realizados y comprobados, la cual puede ser censura, multa, suspensiÃ³n o destituciÃ³n. Lo anterior, sin perjuicio de la responsabilidad civil o penal que tambiÃ©n pueda conllevar dicha acciÃ³n.
+Cuando un funcionario o funcionaria incurra en una infracción a este Código y/o a los deberes y obligaciones estipuladas en la normativa que nos rige, se aplicará la medida disciplinaria que corresponda a los hechos realizados y comprobados, la cual puede ser censura, multa, suspensión o destitución. Lo anterior, sin perjuicio de la responsabilidad civil o penal que también pueda conllevar dicha acción.
 
 ## 11.- Glosario
 
-Acoso laboral: T oda conducta que constituya agresiÃ³n u hostigamiento reiterados, ejercida por el empleador o por uno o mÃ¡s trabajadores, en contra de otro u otros trabajadores, por cualquier medio, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillaciÃ³n, o bien que amenace o perjudique su situaciÃ³n laboral o sus oportunidades en el empleo.
+Acoso laboral: T oda conducta que constituya agresión u hostigamiento reiterados, ejercida por el empleador o por uno o más trabajadores, en contra de otro u otros trabajadores, por cualquier medio, y que tenga como resultado para el o los afectados su menoscabo, maltrato o humillación, o bien que amenace o perjudique su situación laboral o sus oportunidades en el empleo.
 
-Acoso sexual: Requerimientos de carÃ¡cter sexual que realiza una persona, por cualquier medio, no consentidos por quien los recibe y que amenacen o perjudiquen su situaciÃ³n laboral o sus oportunidades en el empleo.
+Acoso sexual: Requerimientos de carácter sexual que realiza una persona, por cualquier medio, no consentidos por quien los recibe y que amenacen o perjudiquen su situación laboral o sus oportunidades en el empleo.
 
-Agenda de probidad y transparencia: Conjunto de medidas administrativas e iniciativas legislativas que tienen por finalidad abordar e implementar las diversas propuestas y recomendaciones contenidas en el informe del Consejo Asesor AnticorrupciÃ³n del Gobierno.
+Agenda de probidad y transparencia: Conjunto de medidas administrativas e iniciativas legislativas que tienen por finalidad abordar e implementar las diversas propuestas y recomendaciones contenidas en el informe del Consejo Asesor Anticorrupción del Gobierno.
 
-Canal de denuncias: AplicaciÃ³n informÃ¡tica dispuesta para facilitar a los funcionarios/as la obligaciÃ³n de denunciar los hechos de carÃ¡cter irregular que se encuentra en la pÃ¡gina de intranet del SII.
+Canal de denuncias: Aplicación informática dispuesta para facilitar a los funcionarios/as la obligación de denunciar los hechos de carácter irregular que se encuentra en la página de intranet del SII.
 
-Censura: ReprensiÃ³n por escrito que se hace al funcionario/a, de la cual se dejarÃ¡ constancia en su hoja de vida, mediante una anotaciÃ³n de demÃ©rito. Clima laboral: Conjunto de cualidades, atributos o propiedades, relativamente permanentes de un ambiente de trabajo, que son percibidas, sentidas o experimentadas por las personas que componen la organizaciÃ³n y que influyen sobre su conducta. Cohecho/Soborno: Solicitar/ofrecer objetos de valor, favores, dinero o cualquier beneficio indebido para que un funcionario/a ejecute, omita, o infrinja sus deberes pÃºblicos o bien, ejerza su influencia para que se cometa un delito funcionario. Al ser un delito bilateral, se diferencia el tipo penal en el que solicita o acepta el beneficio indebido (funcionario pÃºblico=cohecho) y quiÃ©n ofrece o acepta entregar el beneficio indebido (persona natural o jurÃ­dica=soborno). Comercio informal: Intercambio de bienes que se realiza sin cumplir con las autorizaciones y/o requisitos de la autoridad tributaria, sanitaria o municipal, entre otras. ComitÃ© de Ã‰tica Institucional: Ã“rgano de carÃ¡cter propositivo, consultivo, que promueve la participaciÃ³n y el compromiso institucional con la integridad, creado por la Red Ã‰tica, lo conforman el Director, Subdirector de ContralorÃ­a Interna, Subdirector de Asuntos Corporativos y Subdirector de Desarrollo de Personas. DestituciÃ³n: DecisiÃ³n de la autoridad facultada para hacer el nombramiento de poner tÃ©rmino a los servicios de un funcionario. DiscriminaciÃ³n arbitraria: Toda distinciÃ³n, exclusiÃ³n o restricciÃ³n que carezca de justificaciÃ³n razonable y que cause privaciÃ³n, perturbaciÃ³n o amenaza en el ejercicio legÃ­timo de los derechos fundamentales, en particular cuando se funden en motivos como la raza o etnia, la nacionalidad, la situaciÃ³n socioeconÃ³mica, el idioma, la ideologÃ­a u opiniÃ³n polÃ­tica, la religiÃ³n o creencia, la sindicaciÃ³n o participaciÃ³n en organizaciones gremiales o la falta de ellas, el sexo, la orientaciÃ³n sexual, la identidad de gÃ©nero, el estado civil, la edad, la filiaciÃ³n, la apariencia personal y la enfermedad o discapacidad. Eficiente: Capacidad de lograr los mismos resultados con menos recursos, o mejores resultados manteniendo iguales medios. Ã‰tica: Es el conjunto de principios, valores, costumbres y normas que rigen la conducta humana. Imagen del SII: PercepciÃ³n de la ciudadanÃ­a acerca la organizaciÃ³n. InformaciÃ³n reservada: Documentos, datos o informaciones que no pueden ser proporcionados a terceros de conformidad a lo establecido en el artÃ­culo 21 de la Ley 20.285, sobre Acceso a la InformaciÃ³n PÃºblica. Entre las causales de reserva cobra especial importancia el secreto tributario, establecido en el artÃ­culo 35 del CÃ³digo Tributario. Inhabilitarse o inhabilitaciÃ³n: ComunicaciÃ³n a la jefatura respectiva de alguna causal de conflicto de intereses o afectaciÃ³n de la imparcialidad en el ejercicio de sus funciones por alguna razÃ³n determinada. InterÃ©s general: Bien ComÃºn, entendido como la valoraciÃ³n que hace la sociedad de un conjunto de principios, valores y necesidades de carÃ¡cter superior que es necesario resguardar.
+Censura: Reprensión por escrito que se hace al funcionario/a, de la cual se dejará constancia en su hoja de vida, mediante una anotación de demérito. Clima laboral: Conjunto de cualidades, atributos o propiedades, relativamente permanentes de un ambiente de trabajo, que son percibidas, sentidas o experimentadas por las personas que componen la organización y que influyen sobre su conducta. Cohecho/Soborno: Solicitar/ofrecer objetos de valor, favores, dinero o cualquier beneficio indebido para que un funcionario/a ejecute, omita, o infrinja sus deberes públicos o bien, ejerza su influencia para que se cometa un delito funcionario. Al ser un delito bilateral, se diferencia el tipo penal en el que solicita o acepta el beneficio indebido (funcionario público=cohecho) y quién ofrece o acepta entregar el beneficio indebido (persona natural o jurídica=soborno). Comercio informal: Intercambio de bienes que se realiza sin cumplir con las autorizaciones y/o requisitos de la autoridad tributaria, sanitaria o municipal, entre otras. Comité de Ética Institucional: Órgano de carácter propositivo, consultivo, que promueve la participación y el compromiso institucional con la integridad, creado por la Red Ética, lo conforman el Director, Subdirector de Contraloría Interna, Subdirector de Asuntos Corporativos y Subdirector de Desarrollo de Personas. Destitución: Decisión de la autoridad facultada para hacer el nombramiento de poner término a los servicios de un funcionario. Discriminación arbitraria: Toda distinción, exclusión o restricción que carezca de justificación razonable y que cause privación, perturbación o amenaza en el ejercicio legítimo de los derechos fundamentales, en particular cuando se funden en motivos como la raza o etnia, la nacionalidad, la situación socioeconómica, el idioma, la ideología u opinión política, la religión o creencia, la sindicación o participación en organizaciones gremiales o la falta de ellas, el sexo, la orientación sexual, la identidad de género, el estado civil, la edad, la filiación, la apariencia personal y la enfermedad o discapacidad. Eficiente: Capacidad de lograr los mismos resultados con menos recursos, o mejores resultados manteniendo iguales medios. Ética: Es el conjunto de principios, valores, costumbres y normas que rigen la conducta humana. Imagen del SII: Percepción de la ciudadanía acerca la organización. Información reservada: Documentos, datos o informaciones que no pueden ser proporcionados a terceros de conformidad a lo establecido en el artículo 21 de la Ley 20.285, sobre Acceso a la Información Pública. Entre las causales de reserva cobra especial importancia el secreto tributario, establecido en el artículo 35 del Código Tributario. Inhabilitarse o inhabilitación: Comunicación a la jefatura respectiva de alguna causal de conflicto de intereses o afectación de la imparcialidad en el ejercicio de sus funciones por alguna razón determinada. Interés general: Bien Común, entendido como la valoración que hace la sociedad de un conjunto de principios, valores y necesidades de carácter superior que es necesario resguardar.
 
-InterÃ©s particular: Utilidad o beneficio de carÃ¡cter individual. LÃ­nea Ã‰tica: Canal de comunicaciÃ³n directo entre los funcionarios y las funcionarias del SII y la SubdirecciÃ³n de ContralorÃ­a Interna, dispuesto para realizar consultar sobre obligaciones y prohibiciones que afectan a los funcionarios y sobre temas relacionados con la Ã©tica y probidad. Maltrato Laboral: Cualquier manifestaciÃ³n de una conducta abusiva, especialmente, los comportamientos, palabras, actos, gestos, escritos y omisiones que atenten contra la personalidad, dignidad o integridad fÃ­sica o psÃ­quica de un individuo, poniendo en peligro su empleo o degradando el clima laboral. Multa: PrivaciÃ³n de un porcentaje de la remuneraciÃ³n mensual, la que no podrÃ¡ ser inferior a un cinco por ciento ni superior a un veinte por ciento de Ã©sta. Portal Ã‰tico: Plataforma en Intranet que reÃºne informaciÃ³n, herramientas, cursos y links relacionados con temas Ã©ticos. Red Ã‰tica: Espacio donde tienen lugar conversaciones y reflexiones sobre temas Ã©ticos que nos afectan como funcionarias/os del Servicio. Responsabilidad civil: ObligaciÃ³n de toda persona de pagar por los daÃ±os y perjuicios que cause en la persona o el patrimonio de otra. Responsabilidad penal: Consecuencia jurÃ­dica derivada de la comisiÃ³n de un hecho tipificado en una ley, y siempre que dicho hecho sea contrario al orden jurÃ­dico. Sistema de Integridad: Conjunto de acciones sistemÃ¡ticas e interrelacionadas, orientadas a fortalecer la comprensiÃ³n e internalizaciÃ³n de la Ã©tica y la probidad. SuspensiÃ³n: PrivaciÃ³n temporal del empleo con goce de un cincuenta a un setenta por ciento de las remuneraciones y sin poder hacer uso de los derechos y prerrogativas inherentes al cargo. Teletrabajo: Cuando los servicios se prestan mediante la utilizaciÃ³n de medios tecnolÃ³gicos, informÃ¡ticos o de telecomunicaciones o cuando deben reportarse travÃ©s de esos medios.
+Interés particular: Utilidad o beneficio de carácter individual. Línea Ética: Canal de comunicación directo entre los funcionarios y las funcionarias del SII y la Subdirección de Contraloría Interna, dispuesto para realizar consultar sobre obligaciones y prohibiciones que afectan a los funcionarios y sobre temas relacionados con la ética y probidad. Maltrato Laboral: Cualquier manifestación de una conducta abusiva, especialmente, los comportamientos, palabras, actos, gestos, escritos y omisiones que atenten contra la personalidad, dignidad o integridad física o psíquica de un individuo, poniendo en peligro su empleo o degradando el clima laboral. Multa: Privación de un porcentaje de la remuneración mensual, la que no podrá ser inferior a un cinco por ciento ni superior a un veinte por ciento de ésta. Portal Ético: Plataforma en Intranet que reúne información, herramientas, cursos y links relacionados con temas éticos. Red Ética: Espacio donde tienen lugar conversaciones y reflexiones sobre temas éticos que nos afectan como funcionarias/os del Servicio. Responsabilidad civil: Obligación de toda persona de pagar por los daños y perjuicios que cause en la persona o el patrimonio de otra. Responsabilidad penal: Consecuencia jurídica derivada de la comisión de un hecho tipificado en una ley, y siempre que dicho hecho sea contrario al orden jurídico. Sistema de Integridad: Conjunto de acciones sistemáticas e interrelacionadas, orientadas a fortalecer la comprensión e internalización de la ética y la probidad. Suspensión: Privación temporal del empleo con goce de un cincuenta a un setenta por ciento de las remuneraciones y sin poder hacer uso de los derechos y prerrogativas inherentes al cargo. Teletrabajo: Cuando los servicios se prestan mediante la utilización de medios tecnológicos, informáticos o de telecomunicaciones o cuando deben reportarse través de esos medios.
 
 ## ANEXO 1 Sistema de Integridad del SII
 
-El CÃ³digo de Ã‰tica forma parte del Sistema de Integridad, que es un conjunto de acciones sistemÃ¡ticas e interrelacionadas, orientadas a fortalecer la comprensiÃ³n e internalizaciÃ³n de la Ã©tica y la probidad, retroalimentar a la organizaciÃ³n sobre las opiniones y percepciones de los actores del sistema respecto de la Ã©tica y las buenas prÃ¡cticas, y llevar a cabo medidas de control, para aquellas conductas que se desvÃ­en de la Ã©tica institucional.
+El Código de Ética forma parte del Sistema de Integridad, que es un conjunto de acciones sistemáticas e interrelacionadas, orientadas a fortalecer la comprensión e internalización de la ética y la probidad, retroalimentar a la organización sobre las opiniones y percepciones de los actores del sistema respecto de la ética y las buenas prácticas, y llevar a cabo medidas de control, para aquellas conductas que se desvíen de la ética institucional.
 
 ## Estructura del Sistema
 
 SEGUNDO :
 
-DÃ©jese sin efecto la ResoluciÃ³n
+Déjese sin efecto la Resolución
 
 ## ANOTESE Y COMUNIQUESE
 
@@ -396,11 +397,11 @@ DÃ©jese sin efecto la ResoluciÃ³n
 
 ## DIRECTOR
 
-Exenta SII NÂ° 73 de 29.07.2016.
+Exenta SII N° 73 de 29.07.2016.
 
 <unknown>
 
-ADBR DistribuciÃ³n:
+ADBR Distribución:
 
 * -Internet
 * -Intranet

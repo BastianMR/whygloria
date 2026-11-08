@@ -1,22 +1,23 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 86 (2015)
-description: DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA | CIRCULAR NÂ° 86 |
+---
+type: "SII Circular"
+title: "Circular N° 86 (2015)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 86 |"
 tags: [SII, 2015, circular]
 ---
 
-| **DEPARTAMENTO EMISOR OFICINA DE GESTIÃ“N NORMATIVA** | **CIRCULAR NÂ° 86** |
+
+| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 86** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 de Noviembre de 2015 |
-| MATERIA: OPERACIONES DE CRÃ‰DITO DE DINERO - Valor de la Unidad de Fomento para los dÃ­as comprendidos entre el 10 de noviembre del aÃ±o 2015 y el 9 de diciembre del aÃ±o 2015. | REFERENCIA: NÂ° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÃA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
+| MATERIA: OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2015 y el 9 de diciembre del año 2015. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN : 6 RENTA 6(12)00 IMPUESTO DE PRIMERA CATEGORÍA REF. LEGAL: Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta. |
 
-Para los efectos tributarios a que se refiere el artÃ­culo 41Âº bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuaciÃ³n la tabla de valores de la Unidad de Fomento para el perÃ­odo comprendido entre los dÃ­as 10 de noviembre del aÃ±o 2015 y el 9 de diciembre del aÃ±o 2015, los cuales se indican en forma destacada en negrita.
+Para los efectos tributarios a que se refiere el artículo 41º bis de la Ley de la Renta, y de conformidad al acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 08.01.90, se publica a continuación la tabla de valores de la Unidad de Fomento para el período comprendido entre los días 10 de noviembre del año 2015 y el 9 de diciembre del año 2015, los cuales se indican en forma destacada en negrita.
 
-## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÃODO ANTES INDICADO
+## VALOR DIARIO DE LA UNIDAD DE FOMENTO DEL PERÍODO ANTES INDICADO
 
 (Publicado en D.O. de 07.11.2015)
 
-| **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** | **AÃ‘O 2015** |
+| **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** | **AÑO 2015** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DIA | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC |
 | 1 | 24.627,10 | 24.553,98 | 24.546,11 | 24.625,95 | 24.759,71 | 24.909,55 | 24.984,62 | 25.090,61 | 25.197,45 | 25.352,78 | 25.494,15 | 25.601,82 |
@@ -55,5 +56,5 @@ Saluda a Ud.,
 
 FERNANDO BARRAZA LUENGO DIRECTOR
 
-* AL BOLETÃN
+* AL BOLETÍN
 * A INTERNET

@@ -1,83 +1,84 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 82 (2024)
-description: SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÃ“N NORMATIVA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
+---
+type: "SII Resolución"
+title: "Resolución N° 82 (2024)"
+description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2024, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÃ“N NORMATIVA SUBDIRECCIÃ“N DE FISCALIZACIÃ“N
+
+## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA SUBDIRECCIÓN DE FISCALIZACIÓN
 
 GE285235
 
-MATERIA: PROCEDIMIENTO DE EXCLUSIÃ“N DEL REGISTRO DE SOCIEDADES DE PROFESIONALES POR INCUMPLIMIENTO DE REQUISITOS.
+MATERIA: PROCEDIMIENTO DE EXCLUSIÓN DEL REGISTRO DE SOCIEDADES DE PROFESIONALES POR INCUMPLIMIENTO DE REQUISITOS.
 
 SANTIAGO, 29 DE AGOSTO DE 2024
 
-RESOLUCIÃ“N EXENTA SII NÂ°82.-
+RESOLUCIÓN EXENTA SII N°82.-
 
 VISTOS:
 
-Las facultades contempladas en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo primero del Decreto con Fuerza de Ley NÂ° 7, del Ministerio de Hacienda, de 1980; lo dispuesto en el NÂ°1 de la letra A) del artÃ­culo 6Â° del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del Decreto Ley NÂ°830 de 1974; los artÃ­culos 2Â° NÂ° 2, 8Â° y 12Â° letra E de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley NÂ° 825 de 1974; los artÃ­culos 20Â°, 42Â° y 43Â° de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del Decreto Ley NÂ° 824 de 1974; la Ley NÂ° 21.420, que reduce o elimina exenciones tributarias que indica; la ResoluciÃ³n Ex. SII NÂ° 115 de 2022, que instruye sobre el procedimiento para el registro de la sociedades de profesionales, modificada por la ResoluciÃ³n Ex. SII NÂ° 63 de 2023; y.
+Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; lo dispuesto en el N°1 de la letra A) del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974; los artículos 2° N° 2, 8° y 12° letra E de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974; los artículos 20°, 42° y 43° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974; la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica; la Resolución Ex. SII N° 115 de 2022, que instruye sobre el procedimiento para el registro de la sociedades de profesionales, modificada por la Resolución Ex. SII N° 63 de 2023; y.
 
 ## CONSIDERANDO:
 
-1Â° Que, de conformidad con los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos y el artÃ­culo 6Â°, letra A, NÂ° 1, del CÃ³digo Tributario, corresponde al Servicio interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar Ã³rdenes para la aplicaciÃ³n y fiscalizaciÃ³n de los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente.
+1° Que, de conformidad con los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos y el artículo 6°, letra A, N° 1, del Código Tributario, corresponde al Servicio interpretar administrativamente las disposiciones tributarias, fijar normas, impartir instrucciones y dictar órdenes para la aplicación y fiscalización de los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente.
 
-2Â° Que, de acuerdo con el apartado 2.2 de la Circular NÂ° 50 de 2022, para calificar como 'sociedad de profesionales' para los efectos de la exenciÃ³n contenida en el NÂ° 8 de la letra E del artÃ­culo 12 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), los contribuyentes deben cumplir los siguientes requisitos:
+2° Que, de acuerdo con el apartado 2.2 de la Circular N° 50 de 2022, para calificar como 'sociedad de profesionales' para los efectos de la exención contenida en el N° 8 de la letra E del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios (LIVS), los contribuyentes deben cumplir los siguientes requisitos:
 
 * a) Debe tratarse de una sociedad de personas.
 
-b) Su objeto exclusivo debe ser la prestaciÃ³n de servicios o asesorÃ­as profesionales, las cuales deben haber sido informadas al Servicio (inscritas en segunda categorÃ­a, no afecta a IVA). Ninguna de sus actividades econÃ³micas puede estar clasificada en primera categorÃ­a, sin perjuicio de la opciÃ³n establecida en el pÃ¡rrafo tercero del NÂ° 2 del artÃ­culo 42 de la LIR, que permite a las sociedades de profesionales optar por declarar sus rentas clasificadas en la segunda categorÃ­a de acuerdo a las reglas de la primera categorÃ­a.
+b) Su objeto exclusivo debe ser la prestación de servicios o asesorías profesionales, las cuales deben haber sido informadas al Servicio (inscritas en segunda categoría, no afecta a IVA). Ninguna de sus actividades económicas puede estar clasificada en primera categoría, sin perjuicio de la opción establecida en el párrafo tercero del N° 2 del artículo 42 de la LIR, que permite a las sociedades de profesionales optar por declarar sus rentas clasificadas en la segunda categoría de acuerdo a las reglas de la primera categoría.
 
-c) Estos servicios deben ser prestados por intermedio de sus socios, asociados o con la colaboraciÃ³n de dependientes que coadyuven a la prestaciÃ³n del servicio profesional.
+c) Estos servicios deben ser prestados por intermedio de sus socios, asociados o con la colaboración de dependientes que coadyuven a la prestación del servicio profesional.
 
-d) Todos sus socios (sean personas naturales u otras sociedades de profesionales) deben ejercer sus profesiones para la sociedad, no correspondiendo que uno o mÃ¡s de ellos solo aporte capital.
+d) Todos sus socios (sean personas naturales u otras sociedades de profesionales) deben ejercer sus profesiones para la sociedad, no correspondiendo que uno o más de ellos solo aporte capital.
 
-* e) Las profesiones de los socios deben ser idÃ©nticas, similares, afines o complementarias.
+* e) Las profesiones de los socios deben ser idénticas, similares, afines o complementarias.
 
-3Â° Que, conforme a la ResoluciÃ³n Ex. NÂ° 115 de 2022, todas las sociedades de profesionales deben inscribirse en el registro de sociedad de profesionales (registro), en la forma y dentro de los plazos establecidos por la referida instrucciÃ³n.
+3° Que, conforme a la Resolución Ex. N° 115 de 2022, todas las sociedades de profesionales deben inscribirse en el registro de sociedad de profesionales (registro), en la forma y dentro de los plazos establecidos por la referida instrucción.
 
-4Â° Que, el Servicio de Impuestos Internos, de acuerdo con las normas del CÃ³digo Tributario y de su ley orgÃ¡nica, estÃ¡ facultado para ejercer, en los plazos de prescripciÃ³n, las acciones de verificaciÃ³n, revisiÃ³n y/o fiscalizaciÃ³n que correspondan, con el objeto de determinar la correcta tributaciÃ³n de los contribuyentes, y, en consecuencia, si efectivamente se cumplen los requisitos para calificar como sociedad de profesionales.
+4° Que, el Servicio de Impuestos Internos, de acuerdo con las normas del Código Tributario y de su ley orgánica, está facultado para ejercer, en los plazos de prescripción, las acciones de verificación, revisión y/o fiscalización que correspondan, con el objeto de determinar la correcta tributación de los contribuyentes, y, en consecuencia, si efectivamente se cumplen los requisitos para calificar como sociedad de profesionales.
 
-5Â° Que, conforme lo expuesto, es necesario instruir sobre la exclusiÃ³n del registro y pÃ©rdida de la exenciÃ³n contenida en el NÂ° 8 de la Letra E del artÃ­culo 12 de la LIVS en caso de incumplir el contribuyente los requisitos para calificar como sociedad de profesionales.
+5° Que, conforme lo expuesto, es necesario instruir sobre la exclusión del registro y pérdida de la exención contenida en el N° 8 de la Letra E del artículo 12 de la LIVS en caso de incumplir el contribuyente los requisitos para calificar como sociedad de profesionales.
 
 ## SE RESUELVE:
 
-1Âº Los contribuyentes que dejen de cumplir con alguno de los requisitos para calificar como sociedades de profesionales deberÃ¡n dar aviso sobre dicha circunstancia al Servicio hasta el Ãºltimo dÃ­a del mes calendario en que ocurriÃ³ el incumplimiento.
+1º Los contribuyentes que dejen de cumplir con alguno de los requisitos para calificar como sociedades de profesionales deberán dar aviso sobre dicha circunstancia al Servicio hasta el último día del mes calendario en que ocurrió el incumplimiento.
 
-El aviso deberÃ¡ presentarse en el sitio web del Servicio, a travÃ©s de una peticiÃ³n administrativa, indicando el contribuyente los motivos para su exclusiÃ³n del registro y acompaÃ±ar los documentos y antecedentes necesarios.
+El aviso deberá presentarse en el sitio web del Servicio, a través de una petición administrativa, indicando el contribuyente los motivos para su exclusión del registro y acompañar los documentos y antecedentes necesarios.
 
-2Âº Presentado el aviso a que se refiere el resolutivo 1Â° anterior, el contribuyente serÃ¡ excluido del registro a contar del primer dÃ­a del mes siguiente a la ocurrencia del incumplimiento, sin perjuicio de las facultades de fiscalizaciÃ³n que tiene este Servicio.
+2º Presentado el aviso a que se refiere el resolutivo 1° anterior, el contribuyente será excluido del registro a contar del primer día del mes siguiente a la ocurrencia del incumplimiento, sin perjuicio de las facultades de fiscalización que tiene este Servicio.
 
-3Âº Los contribuyentes que, incumpliendo los requisitos de las letras a) 1 y/o b) del Considerando NÂ° 2 de la presente ResoluciÃ³n, no den el aviso de acuerdo con el resolutivo 1Â° precedente, serÃ¡n excluidos del registro.
+3º Los contribuyentes que, incumpliendo los requisitos de las letras a) 1 y/o b) del Considerando N° 2 de la presente Resolución, no den el aviso de acuerdo con el resolutivo 1° precedente, serán excluidos del registro.
 
-En estos casos y conforme la informaciÃ³n que obre en poder de este Servicio, determinado el incumplimiento de alguno de los requisitos referidos, la exclusiÃ³n del registro regirÃ¡ a contar del primer dÃ­a del mes siguiente a dicha determinaciÃ³n, sin perjuicio de las facultades de fiscalizaciÃ³n que tiene este Servicio.
+En estos casos y conforme la información que obre en poder de este Servicio, determinado el incumplimiento de alguno de los requisitos referidos, la exclusión del registro regirá a contar del primer día del mes siguiente a dicha determinación, sin perjuicio de las facultades de fiscalización que tiene este Servicio.
 
-El Servicio informarÃ¡ de la exclusiÃ³n del registro en el sitio personal del contribuyente, seÃ±alando la fecha de exclusiÃ³n del registro y el motivo del incumplimiento, de acuerdo con la informaciÃ³n con la que cuenta.
+El Servicio informará de la exclusión del registro en el sitio personal del contribuyente, señalando la fecha de exclusión del registro y el motivo del incumplimiento, de acuerdo con la información con la que cuenta.
 
-Por su parte, tambiÃ©n serÃ¡n excluidos del registro, aquellos contribuyentes que hayan incumplido alguno de los requisitos de las letras c), d) y e) del Considerando NÂ° 2 de la presente ResoluciÃ³n y no hayan dado aviso de acuerdo con el resolutivo 1Â° precedente, cuando ello se determine en un proceso de fiscalizaciÃ³n, segÃºn las reglas generales.
+Por su parte, también serán excluidos del registro, aquellos contribuyentes que hayan incumplido alguno de los requisitos de las letras c), d) y e) del Considerando N° 2 de la presente Resolución y no hayan dado aviso de acuerdo con el resolutivo 1° precedente, cuando ello se determine en un proceso de fiscalización, según las reglas generales.
 
-En ambos casos, en uso de sus facultades de fiscalizaciÃ³n, el Servicio podrÃ¡ determinar las diferencias de impuestos que correspondan por el IVA no declarado ni enterado en arcas fiscales, desde el primer dÃ­a del mes siguiente de la fecha del incumplimiento determinada en la fiscalizaciÃ³n, junto con los reajustes, intereses y multas que correspondan.
+En ambos casos, en uso de sus facultades de fiscalización, el Servicio podrá determinar las diferencias de impuestos que correspondan por el IVA no declarado ni enterado en arcas fiscales, desde el primer día del mes siguiente de la fecha del incumplimiento determinada en la fiscalización, junto con los reajustes, intereses y multas que correspondan.
 
-4Âº En materia de impuesto a la renta, y como consecuencia del incumplimiento de requisitos para calificar como sociedad de profesionales, los contribuyentes tributarÃ¡n conforme a las normas de la primera categorÃ­a en los siguientes tÃ©rminos:
+4º En materia de impuesto a la renta, y como consecuencia del incumplimiento de requisitos para calificar como sociedad de profesionales, los contribuyentes tributarán conforme a las normas de la primera categoría en los siguientes términos:
 
-* 1.1. A los contribuyentes que ya registren alguna actividad econÃ³mica de primera categorÃ­a se les mantendrÃ¡ dicha actividad, dando por finalizadas todas aquellas calificadas como segunda categorÃ­a;
+* 1.1. A los contribuyentes que ya registren alguna actividad económica de primera categoría se les mantendrá dicha actividad, dando por finalizadas todas aquellas calificadas como segunda categoría;
 
-1 Incluyendo la composiciÃ³n de las mismas. Ver apartado NÂ° 2.2.1 de la Circular NÂ° 50 de 2022.
+1 Incluyendo la composición de las mismas. Ver apartado N° 2.2.1 de la Circular N° 50 de 2022.
 
-* 1.2. A los contribuyentes que solo registren actividades econÃ³micas de segunda categorÃ­a, estas se darÃ¡n por finalizadas, asignÃ¡ndoles a los contribuyentes la actividad econÃ³mica cÃ³digo 829900 'OTRAS ACTIVIDADES DE SERVICIOS DE APOYO A LAS EMPRESAS N.C.P.'.
+* 1.2. A los contribuyentes que solo registren actividades económicas de segunda categoría, estas se darán por finalizadas, asignándoles a los contribuyentes la actividad económica código 829900 'OTRAS ACTIVIDADES DE SERVICIOS DE APOYO A LAS EMPRESAS N.C.P.'.
 
-El contribuyente deberÃ¡ actualizar esta informaciÃ³n segÃºn mejor represente su actividad, en el plazo establecido en el artÃ­culo 68 del CÃ³digo Tributario.
+El contribuyente deberá actualizar esta información según mejor represente su actividad, en el plazo establecido en el artículo 68 del Código Tributario.
 
-Asimismo, aquellos contribuyentes que mientras eran sociedades de profesionales tributaban en la segunda categorÃ­a, deberÃ¡n inscribirse en un rÃ©gimen tributario de la primera categorÃ­a del impuesto a la renta, dentro de los 2 meses siguientes a la fecha del incumplimiento de requisitos para seguir siendo sociedad de profesionales. Transcurrido dicho plazo, si el contribuyente no se ha inscrito en rÃ©gimen tributario alguno, el Servicio le asignarÃ¡ el que corresponda en base a sus caracterÃ­sticas. El rÃ©gimen de primera categorÃ­a al que quede adscrito regirÃ¡ a partir del 1Â° de enero del aÃ±o del incumplimiento de uno o mÃ¡s requisitos para calificar como sociedad de profesionales. Las mencionadas sociedades deberÃ¡n declarar sus ingresos correspondientes al aÃ±o comercial del incumplimiento conforme a las normas de la primera categorÃ­a, segÃºn el rÃ©gimen tributario de renta que tenga, de acuerdo con lo seÃ±alado en los pÃ¡rrafos anteriores.
+Asimismo, aquellos contribuyentes que mientras eran sociedades de profesionales tributaban en la segunda categoría, deberán inscribirse en un régimen tributario de la primera categoría del impuesto a la renta, dentro de los 2 meses siguientes a la fecha del incumplimiento de requisitos para seguir siendo sociedad de profesionales. Transcurrido dicho plazo, si el contribuyente no se ha inscrito en régimen tributario alguno, el Servicio le asignará el que corresponda en base a sus características. El régimen de primera categoría al que quede adscrito regirá a partir del 1° de enero del año del incumplimiento de uno o más requisitos para calificar como sociedad de profesionales. Las mencionadas sociedades deberán declarar sus ingresos correspondientes al año comercial del incumplimiento conforme a las normas de la primera categoría, según el régimen tributario de renta que tenga, de acuerdo con lo señalado en los párrafos anteriores.
 
-En tal caso, la sociedad dejarÃ¡ de ser un contribuyente clasificado en la segunda categorÃ­a y deberÃ¡ tributar conforme a la primera categorÃ­a desde el 1Â° de enero del aÃ±o del incumplimiento. A esa fecha, deberÃ¡ efectuar un inventario inicial considerando todos sus activos y pasivos a valor tributario, y determinar un capital propio tributario inicial, el que se entenderÃ¡ como capital aportado a esa misma fecha, pero sin incluir en su determinaciÃ³n los activos que constituyan ingresos devengados ni los pasivos que constituyan gastos adeudados al 31 de diciembre del aÃ±o anterior. Tales activos y pasivos deberÃ¡n o no reconocerse al 1Â° de enero del aÃ±o del incumplimiento, y tendrÃ¡n asÃ­ efecto en la base imponible a determinar por el contribuyente, segÃºn si el rÃ©gimen tributario al que se sujete tribute o no en base a ingresos percibidos o devengados y gastos pagados o adeudados.
+En tal caso, la sociedad dejará de ser un contribuyente clasificado en la segunda categoría y deberá tributar conforme a la primera categoría desde el 1° de enero del año del incumplimiento. A esa fecha, deberá efectuar un inventario inicial considerando todos sus activos y pasivos a valor tributario, y determinar un capital propio tributario inicial, el que se entenderá como capital aportado a esa misma fecha, pero sin incluir en su determinación los activos que constituyan ingresos devengados ni los pasivos que constituyan gastos adeudados al 31 de diciembre del año anterior. Tales activos y pasivos deberán o no reconocerse al 1° de enero del año del incumplimiento, y tendrán así efecto en la base imponible a determinar por el contribuyente, según si el régimen tributario al que se sujete tribute o no en base a ingresos percibidos o devengados y gastos pagados o adeudados.
 
-5Âº El incumplimiento de la obligaciÃ³n establecida en el Resolutivo NÂ° 1 se sancionarÃ¡ de acuerdo con el NÂ° 1 del artÃ­culo 97 del CÃ³digo Tributario.
+5º El incumplimiento de la obligación establecida en el Resolutivo N° 1 se sancionará de acuerdo con el N° 1 del artículo 97 del Código Tributario.
 
-6Âº La presente resoluciÃ³n regirÃ¡ desde su publicaciÃ³n en extracto en el Diario Oficial.
+6º La presente resolución regirá desde su publicación en extracto en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 <unknown>
 
@@ -85,7 +86,7 @@ En tal caso, la sociedad dejarÃ¡ de ser un contribuyente clasificado en la seg
 
 <unknown>
 
-## PMR/RGV/AVB/SOB DISTRIBUCIÃ“N:
+## PMR/RGV/AVB/SOB DISTRIBUCIÓN:
 
 * Internet
 * Diario Oficial en extracto

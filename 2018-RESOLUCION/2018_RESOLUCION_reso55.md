@@ -1,63 +1,64 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 124 (2018)
-description: MAT.: Actualiza listado de paÃ­ses contenido en la ResoluciÃ³n Exenta SII NÂ° 124, de 19.12.2017.
+---
+type: "SII Resolución"
+title: "Resolución N° 124 (2018)"
+description: "MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
 tags: [SII, 2018, resolucion]
 ---
 
-MAT.: Actualiza listado de paÃ­ses contenido en la ResoluciÃ³n Exenta SII NÂ° 124, de 19.12.2017.
+
+MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017.
 
 SANTIAGO, 05 de julio de 2018
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂº 55 /
+RESOLUCIÓN EX. SII Nº 55 /
 
-VISTOS: Lo dispuesto en el artÃ­culos 6Â°, letra A) NÂ° 1Â° contenido en el artÃ­culo 1Â° del D.L. NÂ° 830, de 1974; en los artÃ­culos 1Â° y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; y en el artÃ­culo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del D.L. NÂ° 824 de 1974, norma esta Ãºltima, agregada a dicho texto legal por el NÂ° 27 del artÃ­culo 1Â° de la Ley NÂ° 20.780 publicada en el Diario Oficial el 29.09.2014, y posteriormente modificada por el NÂ° 6 del artÃ­culo 1Â° de la Ley NÂ° 20.899 publicada en el Diario Oficial el 08.02.2016; Circulares SII NÂ°s 12, de 2015 y 34, de 2016; ResoluciÃ³n Exenta SII NÂ° 87, de 25.08.2016 y ResoluciÃ³n Exenta SII NÂ° 124, de 19.12.2017.
+VISTOS: Lo dispuesto en el artículos 6°, letra A) N° 1° contenido en el artículo 1° del D.L. N° 830, de 1974; en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. N° 824 de 1974, norma esta última, agregada a dicho texto legal por el N° 27 del artículo 1° de la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, y posteriormente modificada por el N° 6 del artículo 1° de la Ley N° 20.899 publicada en el Diario Oficial el 08.02.2016; Circulares SII N°s 12, de 2015 y 34, de 2016; Resolución Exenta SII N° 87, de 25.08.2016 y Resolución Exenta SII N° 124, de 19.12.2017.
 
 ## CONSIDERANDO:
 
-1Â° Que, el Servicio de Impuestos Internos estimÃ³ que el anÃ¡lisis preliminar respecto a la situaciÃ³n en que se encuentran los distintos paÃ­ses y jurisdicciones frente a las normas del artÃ­culo 41 H de la LIR, constituye una informaciÃ³n relevante para fines de facilitar el correcto cumplimiento tributario voluntario de los contribuyentes, razÃ³n por la cual dictÃ³ la ResoluciÃ³n Exenta SII NÂ° 124, de fecha 19.12.2017, en virtud de la cual pone en conocimiento de Ã©stos un listado de paÃ­ses y jurisdicciones que hacen aplicables ciertas tasas de Impuesto Adicional o activan determinadas normas de control internacional previstas en la Ley sobre Impuesto a la Renta.
+1° Que, el Servicio de Impuestos Internos estimó que el análisis preliminar respecto a la situación en que se encuentran los distintos países y jurisdicciones frente a las normas del artículo 41 H de la LIR, constituye una información relevante para fines de facilitar el correcto cumplimiento tributario voluntario de los contribuyentes, razón por la cual dictó la Resolución Exenta SII N° 124, de fecha 19.12.2017, en virtud de la cual pone en conocimiento de éstos un listado de países y jurisdicciones que hacen aplicables ciertas tasas de Impuesto Adicional o activan determinadas normas de control internacional previstas en la Ley sobre Impuesto a la Renta.
 
-2Â° Que, desde el aÃ±o 2014 se han producido avances en estas materias, por ejemplo, a travÃ©s del desarrollo del Plan de acciÃ³n BEPS y la vigencia del Convenio multilateral de intercambio de informaciÃ³n que nuestro paÃ­s ha suscrito y se encuentra vigente.
+2° Que, desde el año 2014 se han producido avances en estas materias, por ejemplo, a través del desarrollo del Plan de acción BEPS y la vigencia del Convenio multilateral de intercambio de información que nuestro país ha suscrito y se encuentra vigente.
 
-En dicho contexto, diversos paÃ­ses han asumido compromisos formales con la OCDE en relaciÃ³n a su normativa interna o bien, han iniciado procesos de cambios legales o administrativos para permitir a otras jurisdicciones como la chilena el acceso a la informaciÃ³n tributaria relevante.
+En dicho contexto, diversos países han asumido compromisos formales con la OCDE en relación a su normativa interna o bien, han iniciado procesos de cambios legales o administrativos para permitir a otras jurisdicciones como la chilena el acceso a la información tributaria relevante.
 
-3Â° Que, considerando el carÃ¡cter preliminar del listado mencionado y la modificaciÃ³n de circunstancias de hecho producida en algunos de los paÃ­ses incluidos en el listado adjunto a la ResoluciÃ³n Exenta SII NÂ° 124, de fecha 19.12.2017;
+3° Que, considerando el carácter preliminar del listado mencionado y la modificación de circunstancias de hecho producida en algunos de los países incluidos en el listado adjunto a la Resolución Exenta SII N° 124, de fecha 19.12.2017;
 
 ## SE RESUELVE:
 
-1Â° ACTUALÃCESE el listado de paÃ­ses y jurisdicciones contenido en la ResoluciÃ³n Exenta SII NÂ° 124, de 19.12.2017, para efectos de la Ley sobre Impuesto a la Renta, segÃºn lo seÃ±alado en el artÃ­culo 41 H de dicha ley, en el cual se indicarÃ¡ de manera preliminar si, a la fecha del anÃ¡lisis efectuado, cumplen con los requisitos que se establecen en las disposiciones del seÃ±alado artÃ­culo, pudiendo cada paÃ­s o jurisdicciÃ³n encontrarse en una de las siguientes situaciones:
+1° ACTUALÍCESE el listado de países y jurisdicciones contenido en la Resolución Exenta SII N° 124, de 19.12.2017, para efectos de la Ley sobre Impuesto a la Renta, según lo señalado en el artículo 41 H de dicha ley, en el cual se indicará de manera preliminar si, a la fecha del análisis efectuado, cumplen con los requisitos que se establecen en las disposiciones del señalado artículo, pudiendo cada país o jurisdicción encontrarse en una de las siguientes situaciones:
 
-a) PaÃ­ses que se consideran no tener un rÃ©gimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, por cuanto se trata de paÃ­ses miembros de la OCDE a los cuales no les resulta aplicable lo dispuesto en el artÃ­culo 41 H del citado texto legal (Anexo NÂ° 1).
+a) Países que se consideran no tener un régimen fiscal preferencial para efectos de la Ley sobre Impuesto a la Renta, por cuanto se trata de países miembros de la OCDE a los cuales no les resulta aplicable lo dispuesto en el artículo 41 H del citado texto legal (Anexo N° 1).
 
-b) PaÃ­ses o jurisdicciones que, sin ser miembros de la OCDE, de acuerdo a la informaciÃ³n disponible en que se basa el anÃ¡lisis preliminar, cumplen con al menos dos de los requisitos seÃ±alados en el artÃ­culo 41 H de la LIR y, en consecuencia, les resultan aplicables ciertas tasas de Impuesto Adicional o activan determinadas normas de control internacional previstas en la Ley sobre Impuesto a la Renta (Anexo NÂ° 2).
+b) Países o jurisdicciones que, sin ser miembros de la OCDE, de acuerdo a la información disponible en que se basa el análisis preliminar, cumplen con al menos dos de los requisitos señalados en el artículo 41 H de la LIR y, en consecuencia, les resultan aplicables ciertas tasas de Impuesto Adicional o activan determinadas normas de control internacional previstas en la Ley sobre Impuesto a la Renta (Anexo N° 2).
 
-Se excluyen de este listado, no obstante cumplir con los requisitos descritos, aquellos paÃ­ses que a la fecha de la dictaciÃ³n de la presente resoluciÃ³n hubieren asumido compromisos formales con la OCDE en relaciÃ³n a su normativa interna o bien, han iniciado procesos de cambios legales o administrativos para permitir a otras jurisdicciones el acceso a la informaciÃ³n tributaria relevante.
+Se excluyen de este listado, no obstante cumplir con los requisitos descritos, aquellos países que a la fecha de la dictación de la presente resolución hubieren asumido compromisos formales con la OCDE en relación a su normativa interna o bien, han iniciado procesos de cambios legales o administrativos para permitir a otras jurisdicciones el acceso a la información tributaria relevante.
 
-2Â° El listado de paÃ­ses y jurisdicciones a que se refieren las letras a) y b) del resolutivo 1Â° anterior, serÃ¡ publicado en la pÃ¡gina web del Servicio de Impuestos Internos y serÃ¡ actualizado periÃ³dicamente y al menos una vez al aÃ±o.
+2° El listado de países y jurisdicciones a que se refieren las letras a) y b) del resolutivo 1° anterior, será publicado en la página web del Servicio de Impuestos Internos y será actualizado periódicamente y al menos una vez al año.
 
-Para efectos de su publicaciÃ³n, se utilizarÃ¡ la codificaciÃ³n oficial de paÃ­ses del estÃ¡ndar internacional de normalizaciÃ³n ISO 3166.
+Para efectos de su publicación, se utilizará la codificación oficial de países del estándar internacional de normalización ISO 3166.
 
-3Â° El listado a que se refiere el resolutivo NÂ° 1 anterior, tendrÃ¡ el carÃ¡cter de anÃ¡lisis preliminar que servirÃ¡ como referencia respecto del cumplimiento de los requisitos establecidos en el artÃ­culo 41 H de la LIR, y no obstarÃ¡, a la facultad de este Servicio para resolver particular y nominativamente en sus actuaciones de fiscalizaciÃ³n o a travÃ©s de las solicitudes que presenten los contribuyentes acerca del cumplimiento de dichos requisitos y en consecuencia la tributaciÃ³n aplicable. Las resoluciones dictadas en dicho Ã¡mbito, serÃ¡n consideradas en las actualizaciones periÃ³dicas reciÃ©n mencionadas.
+3° El listado a que se refiere el resolutivo N° 1 anterior, tendrá el carácter de análisis preliminar que servirá como referencia respecto del cumplimiento de los requisitos establecidos en el artículo 41 H de la LIR, y no obstará, a la facultad de este Servicio para resolver particular y nominativamente en sus actuaciones de fiscalización o a través de las solicitudes que presenten los contribuyentes acerca del cumplimiento de dichos requisitos y en consecuencia la tributación aplicable. Las resoluciones dictadas en dicho ámbito, serán consideradas en las actualizaciones periódicas recién mencionadas.
 
-Del mismo modo, los contribuyentes que requieran certeza jurÃ­dica o que tengan dudas o reparos respecto del listado, o de la informaciÃ³n en que se basa, podrÃ¡n, mediante el mecanismo de solicitud referido en la Circular NÂ° 12, de 2015, aportar los antecedentes del caso para que el Servicio se pronuncie al respecto.
+Del mismo modo, los contribuyentes que requieran certeza jurídica o que tengan dudas o reparos respecto del listado, o de la información en que se basa, podrán, mediante el mecanismo de solicitud referido en la Circular N° 12, de 2015, aportar los antecedentes del caso para que el Servicio se pronuncie al respecto.
 
-4Â° La presente ResoluciÃ³n regirÃ¡ a partir de su publicaciÃ³n en extracto en el Diario Oficial.
+4° La presente Resolución regirá a partir de su publicación en extracto en el Diario Oficial.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 ## (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 ## Anexos:
 
-1. PaÃ­ses miembros de la OCDE a quienes no les resulta aplicable lo dispuesto en el artÃ­culo 41 H de la Ley sobre Impuesto a la Renta;
-2. Listado de paÃ­ses que se considera tienen un rÃ©gimen fiscal preferencial de acuerdo a lo dispuesto en el ArtÃ­culo 41H de la Ley sobre Impuesto a la Renta. AnÃ¡lisis preliminar.
+1. Países miembros de la OCDE a quienes no les resulta aplicable lo dispuesto en el artículo 41 H de la Ley sobre Impuesto a la Renta;
+2. Listado de países que se considera tienen un régimen fiscal preferencial de acuerdo a lo dispuesto en el Artículo 41H de la Ley sobre Impuesto a la Renta. Análisis preliminar.
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## VVM/PAF/CGG/LRP DISTRIBUCIÃ“N
+## VVM/PAF/CGG/LRP DISTRIBUCIÓN
 
-* Al BoletÃ­n
+* Al Boletín
 * A Internet
 * Al Diario Oficial, en extracto

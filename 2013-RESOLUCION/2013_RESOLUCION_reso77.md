@@ -1,37 +1,38 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 19 (2013)
-description: SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
+---
+type: "SII Resolución"
+title: "Resolución N° 19 (2013)"
+description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
 ---
 
-## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ATENCIÃ“N Y ASISTENCIA DE CONTRIBUYENTES
 
-## AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÃ“NICOS Y BOLETAS ELECTRÃ“NICAS A CONTRIBUYENTES QUE SEÃ‘ALA.
+## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
+
+## AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS Y BOLETAS ELECTRÓNICAS A CONTRIBUYENTES QUE SEÑALA.
 
 ## SANTIAGO, 20 de agosto de 2013
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EXENTA SII NÂ° \_\_\_\_77 \_\_/
+## RESOLUCIÓN EXENTA SII N° \_\_\_\_77 \_\_/
 
-VISTOS: Lo dispuesto en el Art. 6Â°, Inciso NÂ° 1, del CÃ³digo Tributario, contenido en el Art. 1Â° del D.L. NÂ° 830, de 1974; en el Art. 56, incisos 3Â° y 4Â°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1Â° del D.L. NÂ° 825, de 1974; y
+VISTOS: Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L. N° 830, de 1974; en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. N° 825, de 1974; y
 
 ## CONSIDERANDO:
 
-1Â° Que, mediante Res. Ex. SII NÂ° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de FiscalizaciÃ³n, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1Â° del D.L. NÂ° 825, de 1974.
+1° Que, mediante Res. Ex. SII N° 08, del 23 de Enero del 2004, el Director ha delegado en el Subdirector de Fiscalización, la facultad establecida en el inciso tercero del Art. 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Art. 1° del D.L. N° 825, de 1974.
 
-2Â° Que, de acuerdo a lo establecido en la ResoluciÃ³n citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios ElectrÃ³nicos a los contribuyentes y Ã³rganos del Estado que cumplan en forma satisfactoria el proceso de postulaciÃ³n y certificaciÃ³n obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+2° Que, de acuerdo a lo establecido en la Resolución citada en el considerando precedente, el ejercicio de dicha facultad delegada permite autorizar como emisores de Documentos Tributarios Electrónicos a los contribuyentes y órganos del Estado que cumplan en forma satisfactoria el proceso de postulación y certificación obligatorio a que se refiere el dispositivo segundo de la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-3Â° Que, los contribuyentes que se detallan en el Resolutivo primero y tercero de la presente resoluciÃ³n han postulado como emisores de documentos tributarios electrÃ³nicos y cumplen con los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003 para ser autorizados como tal.
+3° Que, los contribuyentes que se detallan en el Resolutivo primero y tercero de la presente resolución han postulado como emisores de documentos tributarios electrónicos y cumplen con los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003 para ser autorizados como tal.
 
-4Â° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrÃ³nicos mediante la Res. Ex. SII NÂ° 74, del 31 de Julio de 2013, la Res. Ex. SII NÂ° 70, del 17 de Julio de 2013, la Res. Ex. SII NÂ° 69 del 28 de Junio de 2013, la Res. Ex. SII NÂ° 109 del 17 de Octubre del 2012, la Res. Ex. SII NÂ° 130 del 28 de Diciembre de 2012, la Res. Ex. SII NÂ° 63 del 18 de Junio de 2013 y la Res. Ex. SII NÂ° 31 del 01 de Marzo de 2013 de acuerdo a los requisitos establecidos en la Res. Ex. SII NÂ° 45, de Septiembre del 2003.
+4° Que, los contribuyentes que se describen en el Resolutivo segundo, se encuentran autorizados como emisores electrónicos mediante la Res. Ex. SII N° 74, del 31 de Julio de 2013, la Res. Ex. SII N° 70, del 17 de Julio de 2013, la Res. Ex. SII N° 69 del 28 de Junio de 2013, la Res. Ex. SII N° 109 del 17 de Octubre del 2012, la Res. Ex. SII N° 130 del 28 de Diciembre de 2012, la Res. Ex. SII N° 63 del 18 de Junio de 2013 y la Res. Ex. SII N° 31 del 01 de Marzo de 2013 de acuerdo a los requisitos establecidos en la Res. Ex. SII N° 45, de Septiembre del 2003.
 
-5Â° Que, los contribuyentes que se describen en el Resolutivo segundo y tercero han solicitado el otorgamiento de la autorizaciÃ³n de que se trata por Internet y han cumplido satisfactoriamente con el proceso de postulaciÃ³n que los habilita para ser emisores de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, de acuerdo a lo establecido en la ResoluciÃ³n Ex. SII NÂ° 19, de 12 de Febrero de 2008.
+5° Que, los contribuyentes que se describen en el Resolutivo segundo y tercero han solicitado el otorgamiento de la autorización de que se trata por Internet y han cumplido satisfactoriamente con el proceso de postulación que los habilita para ser emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, de acuerdo a lo establecido en la Resolución Ex. SII N° 19, de 12 de Febrero de 2008.
 
 ## SE RESUELVE:
 
-Primero : AutorÃ­cese como emisores de Documentos Tributarios ElectrÃ³nicos, a contar del mes de Agosto del 2013, a los siguientes contribuyentes:
+Primero : Autorícese como emisores de Documentos Tributarios Electrónicos, a contar del mes de Agosto del 2013, a los siguientes contribuyentes:
 
 | **- 24SEVEN PRODUCCIONES SOCIEDAD LTDA.** | **76.172.236-0** |
 | --- | --- |
@@ -80,7 +81,7 @@ Primero : AutorÃ­cese como emisores de Documentos Tributarios ElectrÃ³nicos,
 | - VOLTTA INGENIERIA ELECTRICA LTDA. | 76.233.999-4 |
 | - ZENIT SEGUROS GENERALES S.A. | 76.061.223-5 |
 
-Segundo : AutorÃ­zase como emisores de Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Agosto del 2013, los siguientes contribuyentes:
+Segundo : Autorízase como emisores de Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, a contar del mes de Agosto del 2013, los siguientes contribuyentes:
 
 | **- COMERCIAL LA CASERITA LTDA.** | **76.288.567-0** |
 | --- | --- |
@@ -98,7 +99,7 @@ Segundo : AutorÃ­zase como emisores de Boletas ElectrÃ³nicas y Boletas no Af
 | - INVERSIONES MARCO ANTONIO SANHUEZA RIVEROS E.I.R.L. | 76.202.144-7 |
 | - PEDRO JOSE MANUEL GOMEZ ARAYA | 07.821.684-0 |
 
-Tercero : AutorÃ­zase como emisores de Documentos Tributarios ElectrÃ³nicos, Boletas ElectrÃ³nicas y Boletas no Afectas o Exentas ElectrÃ³nicas, a contar del mes de Agosto del 2013, al siguiente contribuyente:
+Tercero : Autorízase como emisores de Documentos Tributarios Electrónicos, Boletas Electrónicas y Boletas no Afectas o Exentas Electrónicas, a contar del mes de Agosto del 2013, al siguiente contribuyente:
 
 | **- ANCASI LTDA.** | **76.287.177-7** |
 | --- | --- |
@@ -111,41 +112,41 @@ Tercero : AutorÃ­zase como emisores de Documentos Tributarios ElectrÃ³nicos,
 
 76.487.820-5 76.260.282-2
 
-En la Oficina Virtual del SII en Internet se podrÃ¡n consultar los documentos que los mencionados contribuyentes, de los resolutivos primero, segundo y tercero, estÃ¡n autorizados a emitir en forma electrÃ³nica.
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los mencionados contribuyentes, de los resolutivos primero, segundo y tercero, están autorizados a emitir en forma electrónica.
 
-Cuarto : Los contribuyentes autorizados conforme al Resolutivo primero deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 45, de Septiembre del 2003, asÃ­ como lo expresado en la declaraciÃ³n de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
+Cuarto : Los contribuyentes autorizados conforme al Resolutivo primero deberán cumplir lo establecido en la Resolución Ex. SII N° 45, de Septiembre del 2003, así como lo expresado en la declaración de cumplimiento de requisitos que han presentado ante este Servicio, en especial, en lo relacionado con las siguientes obligaciones:
 
-* AdministraciÃ³n de perfiles de acceso de usuarios.
-* GestiÃ³n de CÃ³digos de AutorizaciÃ³n de Folios (almacenamiento y control de acceso).
-* FoliaciÃ³n Controlada (asignaciÃ³n Ãºnica de cada folio autorizado por el SII).
-* Respaldo seguro de los documentos e informaciÃ³n generada.
-* EnvÃ­o de documentos al SII previo a su entrega al receptor del mismo, salvo excepciÃ³n contemplada en el NÂ° 10, del Resolutivo Cuarto, de la Res. Ex. SII NÂ° 45, del 2003.
-* Intercambio (envÃ­o y recepciÃ³n) de documentos con otros contribuyentes.
-* GeneraciÃ³n de respuestas y acuses de recibo de documentos tributarios electrÃ³nicos recibidos.
-* GeneraciÃ³n, mantenciÃ³n y custodia de la InformaciÃ³n ElectrÃ³nica de Compras y Ventas, que incluye tanto los documentos electrÃ³nicos como los no electrÃ³nicos.
-* EnvÃ­o mensual al SII, de los archivos de la InformaciÃ³n ElectrÃ³nica de Compras y Ventas.
-* GeneraciÃ³n, mantenciÃ³n y custodia del Libro de GuÃ­as de Despacho ElectrÃ³nicas, si procede.
-* Cuadratura de envÃ­os aceptados, rechazados y aceptados con reparos del SII.
-* AdministraciÃ³n de contingencias.
+* Administración de perfiles de acceso de usuarios.
+* Gestión de Códigos de Autorización de Folios (almacenamiento y control de acceso).
+* Foliación Controlada (asignación única de cada folio autorizado por el SII).
+* Respaldo seguro de los documentos e información generada.
+* Envío de documentos al SII previo a su entrega al receptor del mismo, salvo excepción contemplada en el N° 10, del Resolutivo Cuarto, de la Res. Ex. SII N° 45, del 2003.
+* Intercambio (envío y recepción) de documentos con otros contribuyentes.
+* Generación de respuestas y acuses de recibo de documentos tributarios electrónicos recibidos.
+* Generación, mantención y custodia de la Información Electrónica de Compras y Ventas, que incluye tanto los documentos electrónicos como los no electrónicos.
+* Envío mensual al SII, de los archivos de la Información Electrónica de Compras y Ventas.
+* Generación, mantención y custodia del Libro de Guías de Despacho Electrónicas, si procede.
+* Cuadratura de envíos aceptados, rechazados y aceptados con reparos del SII.
+* Administración de contingencias.
 
-Adicionalmente, los contribuyentes autorizados conforme al Resolutivo segundo y tercero deberÃ¡n cumplir lo establecido en la ResoluciÃ³n Ex. SII NÂ° 19, del 12 de Febrero de 2008, en especial, en lo relacionado con las siguientes obligaciones:
+Adicionalmente, los contribuyentes autorizados conforme al Resolutivo segundo y tercero deberán cumplir lo establecido en la Resolución Ex. SII N° 19, del 12 de Febrero de 2008, en especial, en lo relacionado con las siguientes obligaciones:
 
-* EnvÃ­o diario al SII, del archivo reporte de consumo de folios de boletas electrÃ³nicas, excepto las empresas de servicios periÃ³dicos.
-* GeneraciÃ³n, mantenciÃ³n y custodia del Libro de Boletas ElectrÃ³nicas.
-* Mantener disponible en un sitio web la consulta de boleta electrÃ³nica, dicha direcciÃ³n web se debe seÃ±alar en la representaciÃ³n impresa de la boleta electrÃ³nica o boleta no afecta o exenta electrÃ³nica, excepto las empresas de servicios periÃ³dicos.
+* Envío diario al SII, del archivo reporte de consumo de folios de boletas electrónicas, excepto las empresas de servicios periódicos.
+* Generación, mantención y custodia del Libro de Boletas Electrónicas.
+* Mantener disponible en un sitio web la consulta de boleta electrónica, dicha dirección web se debe señalar en la representación impresa de la boleta electrónica o boleta no afecta o exenta electrónica, excepto las empresas de servicios periódicos.
 
-El incumplimiento de las obligaciones que establece esta resoluciÃ³n, como asimismo la utilizaciÃ³n maliciosa del Sistema de Factura ElectrÃ³nica, se encuentra sancionada en los Arts. 97 Ã³ 109 del CÃ³digo Tributario, segÃºn corresponda.
+El incumplimiento de las obligaciones que establece esta resolución, como asimismo la utilización maliciosa del Sistema de Factura Electrónica, se encuentra sancionada en los Arts. 97 ó 109 del Código Tributario, según corresponda.
 
 ## Quinto :
 
-AnÃ³tese, comunÃ­quese y publÃ­quese en extracto.
+Anótese, comuníquese y publíquese en extracto.
 
-(Fdo.) RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÃ“N (S)
+(Fdo.) RICARDO PIZARRO ALFARO SUBDIRECTOR DE FISCALIZACIÓN (S)
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## MSB/PVG/CPG/oba DistribuciÃ³n:
+## MSB/PVG/CPG/oba Distribución:
 
 * Internet
 * Diario Oficial en extracto
-* BoletÃ­n SII
+* Boletín SII

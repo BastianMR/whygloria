@@ -1,68 +1,69 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 112 (2017)
-description: SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+---
+type: "SII Resolución"
+title: "Resolución N° 112 (2017)"
+description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE FISCALIZACIÃ“N DEPARTAMENTO DE ANÃLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 
-MODIFICASE LA RESOLUCIÃ“N EXENTA SII NÂ° 112, DEL 24 DE DICIEMBRE DE 2015, QUE CREA LA DECLARACIÃ“N JURADA ANUAL NÂ° 1926 SOBRE BASE IMPONIBLE DE PRIMERA CATEGORÃA Y DATOS CONTABLES BALANCE.
+## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
+
+MODIFICASE LA RESOLUCIÓN EXENTA SII N° 112, DEL 24 DE DICIEMBRE DE 2015, QUE CREA LA DECLARACIÓN JURADA ANUAL N° 1926 SOBRE BASE IMPONIBLE DE PRIMERA CATEGORÍA Y DATOS CONTABLES BALANCE.
 
 SANTIAGO, 13 DE OCTUBRE 2017
 
 Hoy se ha resuelto lo que sigue:
 
-## RESOLUCIÃ“N EX. SII NÂ° 101
+## RESOLUCIÓN EX. SII N° 101
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Â°, 4Â° bis y 7Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo 1Â° del D.F.L. NÂ° 7, del Ministerio de Hacienda, de 1980; en el artÃ­culo 6Â°, letra A), NÂ° 1, 34 y 35, ambos del CÃ³digo Tributario, contenido en el artÃ­culo 1Â° del D. L. NÂ° 830, de 1974; en el artÃ­culo 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artÃ­culo 1Â° del DL. NÂ° 824; y en la ResoluciÃ³n Exenta SII NÂ°112 del 24.12.2015.
+VISTOS: Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7, del Ministerio de Hacienda, de 1980; en el artículo 6°, letra A), N° 1, 34 y 35, ambos del Código Tributario, contenido en el artículo 1° del D. L. N° 830, de 1974; en el artículo 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL. N° 824; y en la Resolución Exenta SII N°112 del 24.12.2015.
 
 ## CONSIDERANDO:
 
-1Â° Que, a este Servicio le corresponde la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicaciÃ³n de las obligaciones tributarias que la ley establece.
+1° Que, a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la ley a una autoridad diferente y, asimismo, fiscalizar en forma eficiente y oportuna la correcta aplicación de las obligaciones tributarias que la ley establece.
 
-* 2Â° Que, el artÃ­culo 34 del CÃ³digo Tributario establece que estÃ¡n obligados a atestiguar bajo juramento sobre los puntos contenidos en una declaraciÃ³n los contribuyentes, los que la hayan firmado, los tÃ©cnicos y asesores que hayan intervenido en su confecciÃ³n o en la preparaciÃ³n de ella o de sus antecedentes, siempre que el Servicio lo requiera, dentro de los plazos de prescripciÃ³n.
-* 3Â° Que, el artÃ­culo 35 del CÃ³digo Tributario establece que el Servicio podrÃ¡ exigir a los contribuyentes, junto con las declaraciones, la presentaciÃ³n de otros documentos tales como libros de contabilidad, detalle de las cuentas de pÃ©rdidas y ganancias, documentos o exposiciÃ³n explicativa y demÃ¡s que justifiquen el monto de la renta declarada y las partidas anotadas en la contabilidad.
-* 4Â° Que, mediante ResoluciÃ³n Exenta NÂ°112 del 24 de diciembre de 2015, se estableciÃ³ la obligaciÃ³n para los contribuyentes que al 31 de diciembre del aÃ±o anterior se encuentren clasificados en el segmento de 'Medianas Empresas', de 'Grandes Empresas' y tambiÃ©n para aquellos que se encuentren dentro de la NÃ³mina de Grandes Contribuyentes, conforme a la ResoluciÃ³n dictada por este Servicio, de acuerdo a la facultad dispuesta en el artÃ­culo 3Â° bis de la Ley OrgÃ¡nica de este Servicio, de presentar la DeclaraciÃ³n Jurada Anual NÂ° 1926 denominada 'DeclaraciÃ³n Jurada anual sobre Base Imponible de Primera CategorÃ­a y Datos Contables Balance'.
-* 5Â° Que, la Ley NÂ° 20.780, sobre Reforma Tributaria, modificada por el NÂ° 1 del artÃ­culo 8Â° de la Ley NÂ° 20.899, sustituyÃ³ el sistema de tributaciÃ³n de la renta e introdujo diversos ajustes en el sistema tributario.
-* 6Â° Que, la principal modificaciÃ³n introducida a la Ley sobre Impuesto a la Renta (en adelante LIR), que rige a partir del 1 de enero de 2017, dice relaciÃ³n con la forma en que deberÃ¡n tributar los propietarios, comuneros, socios o accionistas de empresas o sociedades que determinen sus rentas efectivas sobre la base de un balance general segÃºn contabilidad completa.
+* 2° Que, el artículo 34 del Código Tributario establece que están obligados a atestiguar bajo juramento sobre los puntos contenidos en una declaración los contribuyentes, los que la hayan firmado, los técnicos y asesores que hayan intervenido en su confección o en la preparación de ella o de sus antecedentes, siempre que el Servicio lo requiera, dentro de los plazos de prescripción.
+* 3° Que, el artículo 35 del Código Tributario establece que el Servicio podrá exigir a los contribuyentes, junto con las declaraciones, la presentación de otros documentos tales como libros de contabilidad, detalle de las cuentas de pérdidas y ganancias, documentos o exposición explicativa y demás que justifiquen el monto de la renta declarada y las partidas anotadas en la contabilidad.
+* 4° Que, mediante Resolución Exenta N°112 del 24 de diciembre de 2015, se estableció la obligación para los contribuyentes que al 31 de diciembre del año anterior se encuentren clasificados en el segmento de 'Medianas Empresas', de 'Grandes Empresas' y también para aquellos que se encuentren dentro de la Nómina de Grandes Contribuyentes, conforme a la Resolución dictada por este Servicio, de acuerdo a la facultad dispuesta en el artículo 3° bis de la Ley Orgánica de este Servicio, de presentar la Declaración Jurada Anual N° 1926 denominada 'Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance'.
+* 5° Que, la Ley N° 20.780, sobre Reforma Tributaria, modificada por el N° 1 del artículo 8° de la Ley N° 20.899, sustituyó el sistema de tributación de la renta e introdujo diversos ajustes en el sistema tributario.
+* 6° Que, la principal modificación introducida a la Ley sobre Impuesto a la Renta (en adelante LIR), que rige a partir del 1 de enero de 2017, dice relación con la forma en que deberán tributar los propietarios, comuneros, socios o accionistas de empresas o sociedades que determinen sus rentas efectivas sobre la base de un balance general según contabilidad completa.
 
-7Â° Que, a partir del 1 de enero de 2017, los contribuyentes que deban declarar sus rentas efectivas determinadas sobre la base de un balance general segÃºn contabilidad completa, deberÃ¡n estar acogidos al rÃ©gimen de Renta Atribuida a que se refiere la letra A), del artÃ­culo 14 de la LIR, o al RÃ©gimen de ImputaciÃ³n Parcial de CrÃ©ditos (tambiÃ©n denominado Semi-Integrado), establecido en la letra B), del artÃ­culo 14 precitado.
+7° Que, a partir del 1 de enero de 2017, los contribuyentes que deban declarar sus rentas efectivas determinadas sobre la base de un balance general según contabilidad completa, deberán estar acogidos al régimen de Renta Atribuida a que se refiere la letra A), del artículo 14 de la LIR, o al Régimen de Imputación Parcial de Créditos (también denominado Semi-Integrado), establecido en la letra B), del artículo 14 precitado.
 
-8Â° Que, la letra b), del NÂ°4 de la letra B), del artÃ­culo 14 de la LIR, dispuso que los contribuyentes del Impuesto de Primera CategorÃ­a, sujetos a las disposiciones de esta misma letra, deberÃ¡n informar anualmente al Servicio, en la forma y plazo que Ã©ste determine mediante ResoluciÃ³n, el remanente proveniente del ejercicio anterior, aumentos o disminuciones del ejercicio, asÃ­ como el saldo final que se determine, para los registros a que se refieren las letras a), b), c) y d) del NÂ° 2 de la letra B), del artÃ­culo 14 de la LIR.
+8° Que, la letra b), del N°4 de la letra B), del artículo 14 de la LIR, dispuso que los contribuyentes del Impuesto de Primera Categoría, sujetos a las disposiciones de esta misma letra, deberán informar anualmente al Servicio, en la forma y plazo que éste determine mediante Resolución, el remanente proveniente del ejercicio anterior, aumentos o disminuciones del ejercicio, así como el saldo final que se determine, para los registros a que se refieren las letras a), b), c) y d) del N° 2 de la letra B), del artículo 14 de la LIR.
 
 ## SE RESUELVE:
 
-1Â° Modificase el resolutivo NÂ°1 de la ResoluciÃ³n Exenta SII NÂ° 112, de 24 de diciembre de 2015, quedando como sigue:
+1° Modificase el resolutivo N°1 de la Resolución Exenta SII N° 112, de 24 de diciembre de 2015, quedando como sigue:
 
-'EstablÃ©cese la obligaciÃ³n de presentar el Formulario NÂ° 1926, denominado 'DeclaraciÃ³n Jurada anual sobre Base Imponible de Primera CategorÃ­a y Datos Contables Balance', a los contribuyentes que al 01 de enero del aÃ±o comercial que declara se encuentren obligados a declarar sus rentas efectivas determinadas sobre la base de un balance general segÃºn contabilidad completa, sujetos al rÃ©gimen de impuesto de primera categorÃ­a con deducciÃ³n parcial del crÃ©dito en los impuestos finales. '
+'Establécese la obligación de presentar el Formulario N° 1926, denominado 'Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance', a los contribuyentes que al 01 de enero del año comercial que declara se encuentren obligados a declarar sus rentas efectivas determinadas sobre la base de un balance general según contabilidad completa, sujetos al régimen de impuesto de primera categoría con deducción parcial del crédito en los impuestos finales. '
 
-2Â° ElimÃ­nese el resolutivo NÂ° 5 de la ResoluciÃ³n Exenta SII NÂ°112, del 24 de diciembre de 2015, a contar de la entrada en vigencia de la presente resoluciÃ³n.
+2° Elimínese el resolutivo N° 5 de la Resolución Exenta SII N°112, del 24 de diciembre de 2015, a contar de la entrada en vigencia de la presente resolución.
 
-3Â° Modificase el Formulario NÂ° 1926, denominado 'DeclaraciÃ³n Jurada anual sobre Base Imponible de Primera CategorÃ­a y Datos Contables Balance', de acuerdo a la estructura e instrucciones contenidas en Anexos NÂ°s 1 y 2 de la presente resoluciÃ³n, respectivamente.
+3° Modificase el Formulario N° 1926, denominado 'Declaración Jurada anual sobre Base Imponible de Primera Categoría y Datos Contables Balance', de acuerdo a la estructura e instrucciones contenidas en Anexos N°s 1 y 2 de la presente resolución, respectivamente.
 
-4Â° Los Anexos de esta ResoluciÃ³n, que se entiende forman parte Ã­ntegra de Ã©sta, se publicarÃ¡n oportunamente en la pÃ¡gina Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
+4° Los Anexos de esta Resolución, que se entiende forman parte íntegra de ésta, se publicarán oportunamente en la página Internet de este Servicio, [<u>www.sii.cl</u>](http://www.sii.cl).
 
-Toda modificaciÃ³n a los anexos antes aludidos, se efectuarÃ¡ mediante su oportuna publicaciÃ³n en la pÃ¡gina web de este Servicio.
+Toda modificación a los anexos antes aludidos, se efectuará mediante su oportuna publicación en la página web de este Servicio.
 
-4Â° La presente ResoluciÃ³n regirÃ¡ a partir del AÃ±o Tributario 2018, respecto de la informaciÃ³n correspondiente al aÃ±o calendario 2017 y siguientes.
+4° La presente Resolución regirá a partir del Año Tributario 2018, respecto de la información correspondiente al año calendario 2017 y siguientes.
 
-## ANÃ“TESE, COMUNÃQUESE Y PUBLÃQUESE EN EXTRACTO
+## ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO
 
 (FDO.) FERNANDO BARRAZA LUENGO DIRECTOR
 
 Anexo 1:
 
-Formato Formulario NÂ°1926
+Formato Formulario N°1926
 
 Anexo 2:
 
-Instrucciones Formulario NÂ°1926
+Instrucciones Formulario N°1926
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-## VVM/PAF/RHH/GET DISTRIBUCIÃ“N:
+## VVM/PAF/RHH/GET DISTRIBUCIÓN:
 
-* Al BoletÃ­n.
+* Al Boletín.
 * A Internet.
 * Al Diario Oficial, en extracto.

@@ -1,103 +1,104 @@
-﻿---
-type: SII ResoluciÃ³n
-title: ResoluciÃ³n NÂ° 139 (2020)
-description: SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y
+---
+type: "SII Resolución"
+title: "Resolución N° 139 (2020)"
+description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
 ---
 
-## SUBDIRECCIÃ“N DE GESTIÃ“N ESTRATÃ‰GICA Y
+
+## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 
 ## ESTUDIOS TRIBUTARIOS
 
-MATERIA: Aprueba Adendum Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la Subsecretaria de EconomÃ­a y Empresas de Menor TamaÃ±o y el Servicio de Impuestos Internos
+MATERIA: Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos
 
 ## SANTIAGO, 04 FEBERO 2020
 
 Hoy se ha resuelto lo que sigue:
 
-RESOLUCIÃ“N EX. SII NÂ° \_\_\_15\_\_\_/
+RESOLUCIÓN EX. SII N° \_\_\_15\_\_\_/
 
-VISTOS: Lo dispuesto en los artÃ­culos 1Â° de la Ley OrgÃ¡nica del Servicio de Impuestos Internos, contenida en el artÃ­culo Primero del D.F.L. NÂ° 7, de 1980, del Ministerio de Hacienda; Ley NÂ° 18.575, OrgÃ¡nica Constitucional de Bases Generales de la AdministraciÃ³n del Estado; Ley NÂ° 19.628, sobre ProtecciÃ³n de la Vida Privada; Decreto Exento NÂ°432, de fecha 19 de octubre de 2018 del Ministerio de EconomÃ­a, Fomento y Turismo y ResoluciÃ³n EX. SII NÂ° 139, de fecha 27 de diciembre de 2018 del Servicio de Impuestos Internos.
+VISTOS: Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L. N° 7, de 1980, del Ministerio de Hacienda; Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; Ley N° 19.628, sobre Protección de la Vida Privada; Decreto Exento N°432, de fecha 19 de octubre de 2018 del Ministerio de Economía, Fomento y Turismo y Resolución EX. SII N° 139, de fecha 27 de diciembre de 2018 del Servicio de Impuestos Internos.
 
 ## CONSIDERANDO:
 
-1.- Que, corresponde al Servicio de Impuestos Internos la aplicaciÃ³n y fiscalizaciÃ³n de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carÃ¡cter en que tenga interÃ©s el Fisco y cuyo control no estÃ© especialmente encomendado por ley a una autoridad diferente.
+1.- Que, corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por ley a una autoridad diferente.
 
-1. Que, a su vez, la Subsecretaria de EconomÃ­a y Empresas de Menor TamaÃ±o tiene como misiÃ³n diseÃ±ar y supervisar la implementaciÃ³n de polÃ­ticas pÃºblicas que contribuyan a acelerar el crecimiento econÃ³mico y la competitividad del paÃ­s, a travÃ©s del diseÃ±o y coordinaciÃ³n de las PolÃ­ticas de InnovaciÃ³n, Emprendimiento y EconomÃ­a Social.
+1. Que, a su vez, la Subsecretaria de Economía y Empresas de Menor Tamaño tiene como misión diseñar y supervisar la implementación de políticas públicas que contribuyan a acelerar el crecimiento económico y la competitividad del país, a través del diseño y coordinación de las Políticas de Innovación, Emprendimiento y Economía Social.
 
-3.- Que, en virtud de lo anterior, el Servicio de Impuestos Internos y la Subsecretaria de EconomÃ­a y Empresas de Menor TamaÃ±o han acordado suscribir el presente Adendum al Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre ambas instituciones firmado con fecha 13 de diciembre de 2019, a fin de contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han asignado.
+3.- Que, en virtud de lo anterior, el Servicio de Impuestos Internos y la Subsecretaria de Economía y Empresas de Menor Tamaño han acordado suscribir el presente Adendum al Convenio de Intercambio de Información y Colaboración entre ambas instituciones firmado con fecha 13 de diciembre de 2019, a fin de contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han asignado.
 
 ## RESUELVO:
 
-ApruÃ©base Adendum Convenio de Intercambio de InformaciÃ³n y ColaboraciÃ³n entre la Subsecretaria de EconomÃ­a y Empresas de Menor TamaÃ±o y el Servicio de Impuestos Internos, celebrado el 13 de diciembre de 2019, cuyo texto es el siguiente:
+Apruébase Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos, celebrado el 13 de diciembre de 2019, cuyo texto es el siguiente:
 
-## ' ADENDUM 'CONVENIO DE INTERCAMBIO DE INFORMACIÃ“N Y COLABORACIÃ“N ENTRE LA SUBSECRETARIA DE ECONOMÃA Y EMPRESAS DE MENOR TAMAÃ‘O
+## ' ADENDUM 'CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE LA SUBSECRETARIA DE ECONOMÍA Y EMPRESAS DE MENOR TAMAÑO
 
 ## Y EL SERVICIO DE IMPUESTOS INTERNOS'
 
-En Santiago, 13 de diciembre de 2019, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante e indistintamente denominado el 'SERVICIO' o 'SII', representado por su Director, don Fernando Barraza Luengo, ambos con domicilio en Teatinos NÂ° 120, Santiago, y la SubsecretarÃ­a de EconomÃ­a y Empresas de Menor TamaÃ±o, RUT 60.701.000-5, representada en este acto por doÃ±a MarÃ­a Guadalupe Orrego SÃ¡nchez, Jefa de la DivisiÃ³n JurÃ­dica, ambos domiciliados en Avenida Libertador Bernardo O'Higgins NÂ° 1449, piso 11, comuna y ciudad de Santiago, en adelante e
+En Santiago, 13 de diciembre de 2019, entre el Servicio de Impuestos Internos, RUT 60.803.000 - K, en adelante e indistintamente denominado el 'SERVICIO' o 'SII', representado por su Director, don Fernando Barraza Luengo, ambos con domicilio en Teatinos N° 120, Santiago, y la Subsecretaría de Economía y Empresas de Menor Tamaño, RUT 60.701.000-5, representada en este acto por doña María Guadalupe Orrego Sánchez, Jefa de la División Jurídica, ambos domiciliados en Avenida Libertador Bernardo O'Higgins N° 1449, piso 11, comuna y ciudad de Santiago, en adelante e
 
-indistintamente denominada la 'SUBSECRETARÃA', se ha convenido la siguiente modificaciÃ³n al convenio de intercambio de informaciÃ³n y colaboraciÃ³n suscrito entre ambas instituciones con fecha 01 de octubre de 2018:
+indistintamente denominada la 'SUBSECRETARÍA', se ha convenido la siguiente modificación al convenio de intercambio de información y colaboración suscrito entre ambas instituciones con fecha 01 de octubre de 2018:
 
 PRIMERO:
 
-Con fecha 01 de octubre de 2018, la SUBSECRETARÃA y el SII suscribieron un convenio de intercambio de informaciÃ³n y colaboraciÃ³n, aprobado por el Decreto Exento NÂ° 432, de fecha 19 de octubre 2018, del Ministerio de EconomÃ­a, Fomento y Turismo, y la ResoluciÃ³n EX. SII NÂ° 139, de fecha 27 de diciembre de 2018, del SERVICIO.
+Con fecha 01 de octubre de 2018, la SUBSECRETARÍA y el SII suscribieron un convenio de intercambio de información y colaboración, aprobado por el Decreto Exento N° 432, de fecha 19 de octubre 2018, del Ministerio de Economía, Fomento y Turismo, y la Resolución EX. SII N° 139, de fecha 27 de diciembre de 2018, del SERVICIO.
 
 SEGUNDO:
 
 TERCERO:
 
-Ha surgido la necesidad de incorporar un nuevo anexo de manera de permitir que el SERVICIO pueda suministrar a la SUBSECRETARÃA otros Servicios Web, que permitirÃ¡n contribuir al logro de una gestiÃ³n mÃ¡s eficiente de las funciones que sus respectivas normas orgÃ¡nicas les han encargado.
+Ha surgido la necesidad de incorporar un nuevo anexo de manera de permitir que el SERVICIO pueda suministrar a la SUBSECRETARÍA otros Servicios Web, que permitirán contribuir al logro de una gestión más eficiente de las funciones que sus respectivas normas orgánicas les han encargado.
 
-En virtud de lo anterior, ambas partes acuerdan modificar el Convenio de intercambio de informaciÃ³n y colaboraciÃ³n celebrado el 01 de octubre de 2018, en el sentido de incorporar el siguiente Anexo NÂ°4 al Convenio, denominado 'Otra informaciÃ³n que se traspasarÃ¡ desde el SERVICIO a la SUBSECRETARÃA':
+En virtud de lo anterior, ambas partes acuerdan modificar el Convenio de intercambio de información y colaboración celebrado el 01 de octubre de 2018, en el sentido de incorporar el siguiente Anexo N°4 al Convenio, denominado 'Otra información que se traspasará desde el SERVICIO a la SUBSECRETARÍA':
 
-## ANEXO NÂ°4
+## ANEXO N°4
 
-Otra informaciÃ³n que se traspasarÃ¡ desde el SERVICIO a la SUBSECRETARÃA
+Otra información que se traspasará desde el SERVICIO a la SUBSECRETARÍA
 
 ## Datos a traspasar por medio de WEBSERVICE
 
-Para acceder a la informaciÃ³n deberÃ¡n cumplir con lo establecido en el punto 2 del Anexo NÂ°1 del convenio, en relaciÃ³n a la informaciÃ³n a travÃ©s de Webservice.
+Para acceder a la información deberán cumplir con lo establecido en el punto 2 del Anexo N°1 del convenio, en relación a la información a través de Webservice.
 
-* a. InformaciÃ³n del Contribuyente: Para obtener esta informaciÃ³n, se requieren como parÃ¡metros de entrada un RUT, su dÃ­gito verificador (DV) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+* a. Información del Contribuyente: Para obtener esta información, se requieren como parámetros de entrada un RUT, su dígito verificador (DV) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | Estado de la consulta. Ej.: 0 indica que la respuesta estÃ¡OK |
+| ESTADO | Estado de la consulta. Ej.: 0 indica que la respuesta estáOK |
 | GLOSA | Detalle del estado. Ej.: OK |
 | NOMBRE | Nombre del Contribuyente |
 | AP-PATERNO | Apellido Paterno del Contribuyente |
 | AP-MATERNO | Apellido Materno del Contribuyente |
-| RAZON-SOCIAL | RazÃ³n Social de la Empresa |
+| RAZON-SOCIAL | Razón Social de la Empresa |
 
-* b. Actividades EconÃ³micas del Contribuyente : Para obtener esta informaciÃ³n, se requieren como parÃ¡metros de entrada un RUT, su dÃ­gito verificador (DV) y un TOKEN generado mediante el proceso de autenticaciÃ³n, definido por el Servicio de Impuestos Internos.
+* b. Actividades Económicas del Contribuyente : Para obtener esta información, se requieren como parámetros de entrada un RUT, su dígito verificador (DV) y un TOKEN generado mediante el proceso de autenticación, definido por el Servicio de Impuestos Internos.
 
-ParÃ¡metros de salida:
+Parámetros de salida:
 
-| **CAMPO** | **DESCRIPCIÃ“N** |
+| **CAMPO** | **DESCRIPCIÓN** |
 | --- | --- |
-| ESTADO | Estado de la consulta. Ej. : 0 indica que la respuesta estÃ¡ OK |
+| ESTADO | Estado de la consulta. Ej. : 0 indica que la respuesta está OK |
 | GLOSA | Detalle del estado. Ej.: OK |
-| ACTIVIDAD | Corresponde al cÃ³digo de Actividad EconÃ³mica |
-| CATEGORÃA | Corresponde a la categorÃ­a del Contribuyente |
-| DESCRIPCIÃ“N | Corresponde a la descripciÃ³n del cÃ³digo de Actividad |
+| ACTIVIDAD | Corresponde al código de Actividad Económica |
+| CATEGORÍA | Corresponde a la categoría del Contribuyente |
+| DESCRIPCIÓN | Corresponde a la descripción del código de Actividad |
 | FECHINIC | Corresponde a la Fecha de Inicio de Actividad |
 
-CUARTO: La personerÃ­a de MarÃ­a Guadalupe Orrego SÃ¡nchez, para actuar en representaciÃ³n de la SubsecretarÃ­a de EconomÃ­a y Empresas de Menor TamaÃ±o, consta en la ResoluciÃ³n Exenta NÂ° 1253, de fecha 1 de junio de 2018, de la SubsecretarÃ­a de EconomÃ­a y Empresas de Menor TamaÃ±o, en relaciÃ³n con el Decreto Supremo NÂ° 157, de 19 de marzo de 2019, del Ministerio de EconomÃ­a, Fomento y Turismo.
+CUARTO: La personería de María Guadalupe Orrego Sánchez, para actuar en representación de la Subsecretaría de Economía y Empresas de Menor Tamaño, consta en la Resolución Exenta N° 1253, de fecha 1 de junio de 2018, de la Subsecretaría de Economía y Empresas de Menor Tamaño, en relación con el Decreto Supremo N° 157, de 19 de marzo de 2019, del Ministerio de Economía, Fomento y Turismo.
 
-La personerÃ­a de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo NÂ° 1068, del dÃ­a 10 de agosto de 2018, del Ministerio de Hacienda.
+La personería de don Fernando Barraza Luengo, para representar al Servicio de Impuestos Internos, consta en el Decreto Supremo N° 1068, del día 10 de agosto de 2018, del Ministerio de Hacienda.
 
-MARÃA GUADALUPE ORREGO SÃNCHEZ JEFA DIVISIÃ“N JURÃDICA SUBSECRETARÃA DE ECONOMÃA Y EMPRESAS DE MENOR TAMAÃ‘O
+MARÍA GUADALUPE ORREGO SÁNCHEZ JEFA DIVISIÓN JURÍDICA SUBSECRETARÍA DE ECONOMÍA Y EMPRESAS DE MENOR TAMAÑO
 
-ANÃ“TESE Y COMUNÃQUESE.
+ANÓTESE Y COMUNÍQUESE.
 
 (Fdo.) FERNANDO BARRAZA LUENGO DIRECTOR
 
-Lo que transcribo a Ud., para su conocimiento y demÃ¡s fines.
+Lo que transcribo a Ud., para su conocimiento y demás fines.
 
-DistribuciÃ³n:
+Distribución:
 
 -Internet
 

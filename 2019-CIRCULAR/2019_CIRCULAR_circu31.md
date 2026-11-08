@@ -1,197 +1,198 @@
-﻿---
-type: SII Circular
-title: Circular NÂ° 31 (2019)
-description: DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N DE AVALUACIONES | CIRCULAR NÂº 31.- |
+---
+type: "SII Circular"
+title: "Circular N° 31 (2019)"
+description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 31.- |"
 tags: [SII, 2019, circular]
 ---
 
-| **DEPARTAMENTO EMISOR: SUBDIRECCIÃ“N DE AVALUACIONES** | **CIRCULAR NÂº 31.-** |
+
+| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 31.-** |
 | --- | --- |
 | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 12 DE JULIO 2019 |
-| MATERIA: IMPARTE INSTRUCCIONES PARA LA APLICACIÃ“N Y REVISIÃ“N DE LA SOBRETASA QUE GRAVA A LOS BIENES RAÃCES NO AGRÃCOLAS AFECTOS A IMPUESTO TERRITORIAL, UBICADOS EN ÃREAS URBANAS, CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, SEÃ‘ALADA EN EL ARTÃCULO 8Â° DE LA LEY NÂ° 17.235, SOBRE IMPUESTO TERRITORIAL, MODIFICADO POR LA LEY NÂ° 21.078, SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR AMPLIACIÃ“N DEL LÃMITE URBANO. | REFERENCIA: ARTÃCULO 8Â° DE LA LEY NÂ° 17.235 |
+| MATERIA: IMPARTE INSTRUCCIONES PARA LA APLICACIÓN Y REVISIÓN DE LA SOBRETASA QUE GRAVA A LOS BIENES RAÍCES NO AGRÍCOLAS AFECTOS A IMPUESTO TERRITORIAL, UBICADOS EN ÁREAS URBANAS, CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, SEÑALADA EN EL ARTÍCULO 8° DE LA LEY N° 17.235, SOBRE IMPUESTO TERRITORIAL, MODIFICADO POR LA LEY N° 21.078, SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO. | REFERENCIA: ARTÍCULO 8° DE LA LEY N° 17.235 |
 
-## 1. INTRODUCCIÃ“N
+## 1. INTRODUCCIÓN
 
-La Ley NÂ° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliaciÃ³n del lÃ­mite urbano, publicada en el Diario Oficial de fecha 15.02.2018, modificÃ³ el artÃ­culo 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial.
+La Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano, publicada en el Diario Oficial de fecha 15.02.2018, modificó el artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial.
 
-Ante este nuevo marco normativo, el objetivo de la presente circular es instruir sobre la aplicaciÃ³n de la sobretasa que grava a los bienes raÃ­ces no agrÃ­colas afectos a impuesto territorial, ubicados en Ã¡reas urbanas, correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros e impartir instrucciones para solicitar la revisiÃ³n de Ã©sta, a partir del perÃ­odo 2019.
+Ante este nuevo marco normativo, el objetivo de la presente circular es instruir sobre la aplicación de la sobretasa que grava a los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros e impartir instrucciones para solicitar la revisión de ésta, a partir del período 2019.
 
-## 2. MODIFICACIÃ“N LEGAL
+## 2. MODIFICACIÓN LEGAL
 
-El NÂ° 2 del artÃ­culo tercero de la Ley NÂ° 21.078, modificÃ³ el artÃ­culo 8Â° de la Ley NÂ° 17.235, en el siguiente sentido:
+El N° 2 del artículo tercero de la Ley N° 21.078, modificó el artículo 8° de la Ley N° 17.235, en el siguiente sentido:
 
-* a) ElimÃ­nase de su inciso primero la frase 'con urbanizaciÃ³n'.
-* b) ReemplÃ¡zase su inciso segundo por el siguiente:
+* a) Elimínase de su inciso primero la frase 'con urbanización'.
+* b) Reemplázase su inciso segundo por el siguiente:
 
-"Con todo, esta sobretasa no se aplicarÃ¡ a los inmuebles localizados fuera de los lÃ­mites del Ã¡rea geogrÃ¡fica donde se prestan los servicios pÃºblicos de distribuciÃ³n de agua potable y de recolecciÃ³n de aguas servidas. Dicha situaciÃ³n deberÃ¡ acreditarse por el dueÃ±o u ocupante del inmueble ante la respectiva municipalidad mediante la presentaciÃ³n de certificado expedido por la empresa concesionaria correspondiente.".
+"Con todo, esta sobretasa no se aplicará a los inmuebles localizados fuera de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas. Dicha situación deberá acreditarse por el dueño u ocupante del inmueble ante la respectiva municipalidad mediante la presentación de certificado expedido por la empresa concesionaria correspondiente.".
 
-* c) SustitÃºyese en su inciso cuarto la frase "declaradas como abandonadas y las correspondientes a pozos lastreros", por la siguiente: "a que se refieren los incisos primero y segundo de este artÃ­culo,".
+* c) Sustitúyese en su inciso cuarto la frase "declaradas como abandonadas y las correspondientes a pozos lastreros", por la siguiente: "a que se refieren los incisos primero y segundo de este artículo,".
 
-Luego, en virtud de las modificaciones introducidas, el texto actualizado del artÃ­culo 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial, es el siguiente:
+Luego, en virtud de las modificaciones introducidas, el texto actualizado del artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, es el siguiente:
 
-'Los bienes raÃ­ces no agrÃ­colas afectos a impuesto territorial, ubicados en Ã¡reas urbanas, y que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, pagarÃ¡n una sobretasa del 100% respecto de la tasa vigente del impuesto. La referida sobretasa no se aplicarÃ¡ en Ã¡reas de extensiÃ³n urbana o urbanizables, asÃ­ determinadas por los respectivos instrumentos de planificaciÃ³n territorial.
+'Los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, y que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, pagarán una sobretasa del 100% respecto de la tasa vigente del impuesto. La referida sobretasa no se aplicará en áreas de extensión urbana o urbanizables, así determinadas por los respectivos instrumentos de planificación territorial.
 
-Con todo, esta sobretasa no se aplicarÃ¡ a los inmuebles localizados fuera de los lÃ­mites del Ã¡rea geogrÃ¡fica donde se prestan los servicios pÃºblicos de distribuciÃ³n de agua potable y de recolecciÃ³n de aguas servidas. Dicha situaciÃ³n deberÃ¡ acreditarse por el dueÃ±o u ocupante del inmueble ante la respectiva municipalidad mediante la presentaciÃ³n de certificado expedido por la empresa concesionaria correspondiente.
+Con todo, esta sobretasa no se aplicará a los inmuebles localizados fuera de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas. Dicha situación deberá acreditarse por el dueño u ocupante del inmueble ante la respectiva municipalidad mediante la presentación de certificado expedido por la empresa concesionaria correspondiente.
 
-En los casos en que, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demoliciÃ³n total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado, la sobretasa a que se refiere el inciso primero de este artÃ­culo sÃ³lo se aplicarÃ¡ transcurrido el plazo de diez aÃ±os contado desde la fecha en que se verificÃ³ el hecho constitutivo del siniestro.
+En los casos en que, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demolición total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado, la sobretasa a que se refiere el inciso primero de este artículo sólo se aplicará transcurrido el plazo de diez años contado desde la fecha en que se verificó el hecho constitutivo del siniestro.
 
-Para la aplicaciÃ³n de esta sobretasa y de lo dispuesto en el artÃ­culo 3Âº de la presente ley, los municipios deberÃ¡n informar al Servicio de Impuestos Internos, la nÃ³mina de propiedades a que se refieren los incisos primero y segundo de este artÃ­culo, en la forma y plazo que dicho Servicio determine.'.
+Para la aplicación de esta sobretasa y de lo dispuesto en el artículo 3º de la presente ley, los municipios deberán informar al Servicio de Impuestos Internos, la nómina de propiedades a que se refieren los incisos primero y segundo de este artículo, en la forma y plazo que dicho Servicio determine.'.
 
-## 3. ANÃLISIS DE LA MODIFICACIÃ“N LEGAL
+## 3. ANÁLISIS DE LA MODIFICACIÓN LEGAL
 
-La nueva redacciÃ³n del artÃ­culo 8Â° de la Ley NÂ° 17.235, tiene los siguientes efectos:
+La nueva redacción del artículo 8° de la Ley N° 17.235, tiene los siguientes efectos:
 
-* a) Extiende el Ã¡mbito de aplicaciÃ³n del gravamen incorporando a todos los bienes raÃ­ces no agrÃ­colas, afectos a impuesto territorial, ubicados en Ã¡reas urbanas, y que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, sin importar si estos cuentan o no con urbanizaciÃ³n. En su redacciÃ³n anterior el texto legal modificado seÃ±alaba que los inmuebles afectos al gravamen de la sobretasa debÃ­an contar con urbanizaciÃ³n.
-* b) Agrega un nuevo requisito para su aplicaciÃ³n al disponer que los inmuebles estarÃ¡n afectos a sobretasa, siempre y cuando, se encuentren localizados dentro de los lÃ­mites del Ã¡rea geogrÃ¡fica donde se prestan los servicios pÃºblicos de distribuciÃ³n de agua potable y de recolecciÃ³n de aguas servidas. Por el contrario, los sitios no edificados, propiedades abandonadas o pozos lastreros situados fuera de dicha zona quedan excluidos del pago de esta sobretasa, cuestiÃ³n que deberÃ¡ acreditarse por el dueÃ±o u ocupante del inmueble ante la respectiva municipalidad mediante la presentaciÃ³n de certificado expedido por la empresa concesionaria correspondiente.
-* c) Excluye de su aplicaciÃ³n a los bienes raÃ­ces ubicados dentro de las Ã¡reas de extensiÃ³n urbana o urbanizables, asÃ­ determinadas por los respectivos instrumentos de planificaciÃ³n territorial.
-* d) Deroga la disposiciÃ³n de acuerdo a la cual la sobretasa aplicable a los sitios no edificados, regirÃ¡ a contar del aÃ±o subsiguiente de la recepciÃ³n en forma definitiva, total o parcial, de las respectivas obras de urbanizaciÃ³n. En consecuencia, a partir del aÃ±o 2019, a todos los sitios no edificados que cuenten con obras de urbanizaciÃ³n, con o sin recepciÃ³n final, se les aplicarÃ¡ la referida sobretasa en el marco del nuevo alcance del artÃ­culo 8Â° de la Ley de Impuesto Territorial.
-
-De esta forma, los inmuebles que se encontraban gozando de este beneficio, lo mantuvieron hasta el 1 de enero de 2019.
-
-* e) Suprime la norma que suspendÃ­a por 10 aÃ±os la aplicaciÃ³n de la sobretasa tratÃ¡ndose de proyectos de subdivisiÃ³n o loteo, cuya superficie fuera superior a cincuenta hectÃ¡reas, desde la fecha de recepciÃ³n definitiva, total o parcial, de dichas obras de urbanizaciÃ³n. En consecuencia, a partir del aÃ±o 2019, a todos los proyectos de subdivisiÃ³n o loteo que cumplan con estas caracterÃ­sticas, se les aplicarÃ¡ la referida sobretasa en el marco de los nuevos alcances del artÃ­culo 8Â° de la Ley de Impuesto Territorial.
+* a) Extiende el ámbito de aplicación del gravamen incorporando a todos los bienes raíces no agrícolas, afectos a impuesto territorial, ubicados en áreas urbanas, y que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, sin importar si estos cuentan o no con urbanización. En su redacción anterior el texto legal modificado señalaba que los inmuebles afectos al gravamen de la sobretasa debían contar con urbanización.
+* b) Agrega un nuevo requisito para su aplicación al disponer que los inmuebles estarán afectos a sobretasa, siempre y cuando, se encuentren localizados dentro de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas. Por el contrario, los sitios no edificados, propiedades abandonadas o pozos lastreros situados fuera de dicha zona quedan excluidos del pago de esta sobretasa, cuestión que deberá acreditarse por el dueño u ocupante del inmueble ante la respectiva municipalidad mediante la presentación de certificado expedido por la empresa concesionaria correspondiente.
+* c) Excluye de su aplicación a los bienes raíces ubicados dentro de las áreas de extensión urbana o urbanizables, así determinadas por los respectivos instrumentos de planificación territorial.
+* d) Deroga la disposición de acuerdo a la cual la sobretasa aplicable a los sitios no edificados, regirá a contar del año subsiguiente de la recepción en forma definitiva, total o parcial, de las respectivas obras de urbanización. En consecuencia, a partir del año 2019, a todos los sitios no edificados que cuenten con obras de urbanización, con o sin recepción final, se les aplicará la referida sobretasa en el marco del nuevo alcance del artículo 8° de la Ley de Impuesto Territorial.
 
 De esta forma, los inmuebles que se encontraban gozando de este beneficio, lo mantuvieron hasta el 1 de enero de 2019.
 
-* f) Mantiene la norma que suspende la aplicaciÃ³n de la sobretasa por diez aÃ±os cuando, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demoliciÃ³n total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado.
-* g) Entrega a las municipalidades la obligaciÃ³n de informar al Servicio de Impuestos Internos, a partir de la entrada en vigencia de la Ley NÂ° 21.078, en la forma y plazo que
+* e) Suprime la norma que suspendía por 10 años la aplicación de la sobretasa tratándose de proyectos de subdivisión o loteo, cuya superficie fuera superior a cincuenta hectáreas, desde la fecha de recepción definitiva, total o parcial, de dichas obras de urbanización. En consecuencia, a partir del año 2019, a todos los proyectos de subdivisión o loteo que cumplan con estas características, se les aplicará la referida sobretasa en el marco de los nuevos alcances del artículo 8° de la Ley de Impuesto Territorial.
 
-el Servicio determine, la nÃ³mina de propiedades a que se refieren los incisos primero y segundo del artÃ­culo 8Â°, a partir de la cual, se girarÃ¡ la referida sobretasa.
+De esta forma, los inmuebles que se encontraban gozando de este beneficio, lo mantuvieron hasta el 1 de enero de 2019.
+
+* f) Mantiene la norma que suspende la aplicación de la sobretasa por diez años cuando, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demolición total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado.
+* g) Entrega a las municipalidades la obligación de informar al Servicio de Impuestos Internos, a partir de la entrada en vigencia de la Ley N° 21.078, en la forma y plazo que
+
+el Servicio determine, la nómina de propiedades a que se refieren los incisos primero y segundo del artículo 8°, a partir de la cual, se girará la referida sobretasa.
 
 ## 4. DEFINICIONES APLICABLES
 
-Ãrea de extensiÃ³n urbana: Superficie del territorio ubicada al interior del lÃ­mite urbano, destinada al crecimiento urbano proyectado por el plan regulador intercomunal. (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, CapÃ­tulo 1, Normas de competencia y definiciones, artÃ­culo 1.1.2).
+Área de extensión urbana: Superficie del territorio ubicada al interior del límite urbano, destinada al crecimiento urbano proyectado por el plan regulador intercomunal. (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
 
-Ãrea urbana: Superficie del territorio ubicada al interior del lÃ­mite urbano, destinada al desarrollo armÃ³nico de los centros poblados y sus actividades existentes y proyectadas por el instrumento de planificaciÃ³n territorial. (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, CapÃ­tulo 1, Normas de competencia y definiciones, artÃ­culo 1.1.2).
+Área urbana: Superficie del territorio ubicada al interior del límite urbano, destinada al desarrollo armónico de los centros poblados y sus actividades existentes y proyectadas por el instrumento de planificación territorial. (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
 
-Ãrea urbanizable: Ãrea de extensiÃ³n urbana.
+Área urbanizable: Área de extensión urbana.
 
-Edificio: Toda edificaciÃ³n compuesta por uno o mÃ¡s recintos, cualquiera sea su destino (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, CapÃ­tulo 1, Normas de competencia y definiciones, artÃ­culo 1.1.2).
+Edificio: Toda edificación compuesta por uno o más recintos, cualquiera sea su destino (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
 
-LÃ­mite urbano: LÃ­nea imaginaria que delimita las Ã¡reas urbanas y de extensiÃ³n urbana establecidas en los instrumentos de planificaciÃ³n territorial, diferenciÃ¡ndolos del resto del Ã¡rea comunal. (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, CapÃ­tulo 1, Normas de competencia y definiciones, artÃ­culo 1.1.2).
+Límite urbano: Línea imaginaria que delimita las áreas urbanas y de extensión urbana establecidas en los instrumentos de planificación territorial, diferenciándolos del resto del área comunal. (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
 
-Se entenderÃ¡ tambiÃ©n por LÃ­mite Urbano, la lÃ­nea imaginaria que delimita las Ã¡reas urbanas y de extensiÃ³n urbana que conforman los centros poblados, diferenciÃ¡ndolos del resto del Ã¡rea comunal. (D.F.L. NÂ° 458, Ley General de Urbanismo y Construcciones, ArtÃ­culo 52).
+Se entenderá también por Límite Urbano, la línea imaginaria que delimita las áreas urbanas y de extensión urbana que conforman los centros poblados, diferenciándolos del resto del área comunal. (D.F.L. N° 458, Ley General de Urbanismo y Construcciones, Artículo 52).
 
-El lÃ­mite urbano corresponde a uno de los tipos de Instrumento de PlanificaciÃ³n Territorial. (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, artÃ­culo 2.1.2.).
+El límite urbano corresponde a uno de los tipos de Instrumento de Planificación Territorial. (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, artículo 2.1.2.).
 
-Pozo lastrero: Es toda excavaciÃ³n de la que se extrae o ha extraÃ­do arena, ripio, grava, rocas u otros materiales Ã¡ridos.
+Pozo lastrero: Es toda excavación de la que se extrae o ha extraído arena, ripio, grava, rocas u otros materiales áridos.
 
-Propiedad abandonada: Inmueble no habitado, que se encuentra permanentemente desatendido, ya sea por falta de cierros, protecciones adecuadas, aseo o mantenciÃ³n, o por otras circunstancias manifiestas de abandono o deterioro que afecten negativamente su entorno inmediato (D.S. NÂ° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, CapÃ­tulo 1, Normas de competencia y definiciones, artÃ­culo 1.1.2).
+Propiedad abandonada: Inmueble no habitado, que se encuentra permanentemente desatendido, ya sea por falta de cierros, protecciones adecuadas, aseo o mantención, o por otras circunstancias manifiestas de abandono o deterioro que afecten negativamente su entorno inmediato (D.S. N° 47, de 05.06.1992, que fija nuevo texto de la Ordenanza General de la Ley General de Urbanismo y Construcciones, Capítulo 1, Normas de competencia y definiciones, artículo 1.1.2).
 
-La declaraciÃ³n de abandono corresponde que sea efectuada por la Municipalidad respectiva a travÃ©s de un decreto alcaldicio fundado (artÃ­culo 58 bis del D.L. NÂ° 3063, sobre Rentas Municipales).
+La declaración de abandono corresponde que sea efectuada por la Municipalidad respectiva a través de un decreto alcaldicio fundado (artículo 58 bis del D.L. N° 3063, sobre Rentas Municipales).
 
-Sitio no edificado: Corresponde a cualquier bien raÃ­z de la serie No AgrÃ­cola donde no existe ningÃºn tipo de edificaciÃ³n terminada. No serÃ¡n consideradas como edificaciones, para efectos de la aplicaciÃ³n de esta sobretasa, los pavimentos cualquiera sea su calidad, definida en el marco de las normas asociadas a cada reavalÃºo de bienes raÃ­ces no agrÃ­colas.
+Sitio no edificado: Corresponde a cualquier bien raíz de la serie No Agrícola donde no existe ningún tipo de edificación terminada. No serán consideradas como edificaciones, para efectos de la aplicación de esta sobretasa, los pavimentos cualquiera sea su calidad, definida en el marco de las normas asociadas a cada reavalúo de bienes raíces no agrícolas.
 
-Por otro lado, de acuerdo a lo dispuesto en el artÃ­culo 15 de la Ley NÂ° 17.235, los inmuebles en donde las edificaciones permanecieren sin concluir o reparar, despuÃ©s de expirados los plazos que para ello hubiere concedido la Municipalidad, serÃ¡n considerados como sitios eriazos (no edificados) para los efectos del pago del Impuesto Territorial que los afecte.
+Por otro lado, de acuerdo a lo dispuesto en el artículo 15 de la Ley N° 17.235, los inmuebles en donde las edificaciones permanecieren sin concluir o reparar, después de expirados los plazos que para ello hubiere concedido la Municipalidad, serán considerados como sitios eriazos (no edificados) para los efectos del pago del Impuesto Territorial que los afecte.
 
-Finalmente, no se considerarÃ¡n como sitios no edificados, aquellos predios en los cuales exista prohibiciÃ³n total de edificar, la cual debe estar seÃ±alada en el respectivo instrumento de planificaciÃ³n territorial.
+Finalmente, no se considerarán como sitios no edificados, aquellos predios en los cuales exista prohibición total de edificar, la cual debe estar señalada en el respectivo instrumento de planificación territorial.
 
-## 5. APLICACIÃ“N DE LA SOBRETASA
+## 5. APLICACIÓN DE LA SOBRETASA
 
-En virtud de la modificaciÃ³n del artÃ­culo 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial, para la aplicaciÃ³n de la sobretasa establecida en dicha norma y de la tasaciÃ³n que debe efectuarse con vigencia 1 de enero de cada aÃ±o, a que se refiere el inciso dÃ©cimo del artÃ­culo 3Â° de dicha ley, los Municipios deberÃ¡n informar al Servicio de Impuestos Internos, los inmuebles correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, que cumplan los siguientes requisitos:
+En virtud de la modificación del artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, para la aplicación de la sobretasa establecida en dicha norma y de la tasación que debe efectuarse con vigencia 1 de enero de cada año, a que se refiere el inciso décimo del artículo 3° de dicha ley, los Municipios deberán informar al Servicio de Impuestos Internos, los inmuebles correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, que cumplan los siguientes requisitos:
 
-* a. Ubicados en Ã¡reas urbanas, asÃ­ determinadas por los respectivos instrumentos de planificaciÃ³n territorial, y
-* b. Localizados dentro de los lÃ­mites del Ã¡rea geogrÃ¡fica donde se prestan los servicios pÃºblicos de distribuciÃ³n de agua potable y de recolecciÃ³n de aguas servidas.
+* a. Ubicados en áreas urbanas, así determinadas por los respectivos instrumentos de planificación territorial, y
+* b. Localizados dentro de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas.
 
-Una vez recepcionada la nÃ³mina correspondiente, el Servicio de Impuestos Internos procederÃ¡ a aplicar la sobretasa a partir del 1 de enero del aÃ±o siguiente, dentro del proceso de tasaciÃ³n anual que ordena el inciso dÃ©cimo del artÃ­culo 3Â° de la Ley NÂ° 17.235.
+Una vez recepcionada la nómina correspondiente, el Servicio de Impuestos Internos procederá a aplicar la sobretasa a partir del 1 de enero del año siguiente, dentro del proceso de tasación anual que ordena el inciso décimo del artículo 3° de la Ley N° 17.235.
 
 La sobretasa corresponde a un cobro adicional a la cuota de contribuciones equivalente a un 100% de su cuota neta y se cobra conjuntamente con las cuotas normales.
 
-En los casos en que la construcciÃ³n existente en un predio haya sido destruida en forma total, o quede inhabilitada para ser utilizada, por un siniestro o por causa no imputable al propietario u ocupante, quedando aquÃ©l en calidad de 'no edificado', la aplicaciÃ³n de la sobretasa, cuando proceda, regirÃ¡ a contar del 1 de enero del aÃ±o siguiente a aquÃ©l en que se cumple el plazo de 10 aÃ±os contado desde la ocurrencia del siniestro.
+En los casos en que la construcción existente en un predio haya sido destruida en forma total, o quede inhabilitada para ser utilizada, por un siniestro o por causa no imputable al propietario u ocupante, quedando aquél en calidad de 'no edificado', la aplicación de la sobretasa, cuando proceda, regirá a contar del 1 de enero del año siguiente a aquél en que se cumple el plazo de 10 años contado desde la ocurrencia del siniestro.
 
-TratÃ¡ndose de los predios declarados como 'propiedad abandonada', la sobretasa se aplicarÃ¡ a contar del 1 de enero del aÃ±o siguiente a aquel en que se expide el decreto alcaldicio fundado, en el que se adjudique dicha calidad al inmueble.
+Tratándose de los predios declarados como 'propiedad abandonada', la sobretasa se aplicará a contar del 1 de enero del año siguiente a aquel en que se expide el decreto alcaldicio fundado, en el que se adjudique dicha calidad al inmueble.
 
-Para efectos del cÃ¡lculo de la respectiva sobretasa, no se considerarÃ¡ el impuesto de beneficio fiscal del 0,025% a que se refiere el inciso final del artÃ­culo 7Â° de la Ley NÂ° 17.235.
+Para efectos del cálculo de la respectiva sobretasa, no se considerará el impuesto de beneficio fiscal del 0,025% a que se refiere el inciso final del artículo 7° de la Ley N° 17.235.
 
-## 6. SOLICITUD DE REVISIÃ“N DE SOBRETASA
+## 6. SOLICITUD DE REVISIÓN DE SOBRETASA
 
-La revisiÃ³n de la sobretasa podrÃ¡ iniciarse, por un lado, a travÃ©s de una solicitud administrativa, a peticiÃ³n del propietario (representante o mandatario) del bien raÃ­z o interesado (concesionario, arrendatario, etc.), directamente desde internet, en la pÃ¡gina web Sii.cl o presencialmente en cualquier oficina del Servicio de Impuestos Internos, adjuntando la documentaciÃ³n pertinente de acuerdo a la causal de revisiÃ³n de sobretasa.
+La revisión de la sobretasa podrá iniciarse, por un lado, a través de una solicitud administrativa, a petición del propietario (representante o mandatario) del bien raíz o interesado (concesionario, arrendatario, etc.), directamente desde internet, en la página web Sii.cl o presencialmente en cualquier oficina del Servicio de Impuestos Internos, adjuntando la documentación pertinente de acuerdo a la causal de revisión de sobretasa.
 
-Adicionalmente, tambiÃ©n se iniciarÃ¡ un proceso de revisiÃ³n de sobretasa de oficio, cuando el Servicio de Impuestos Internos cuente con informaciÃ³n fidedigna que motive su eliminaciÃ³n.
+Adicionalmente, también se iniciará un proceso de revisión de sobretasa de oficio, cuando el Servicio de Impuestos Internos cuente con información fidedigna que motive su eliminación.
 
-## 7. CAUSALES DE REVISIÃ“N DE LA SOBRETASA
+## 7. CAUSALES DE REVISIÓN DE LA SOBRETASA
 
-Teniendo en consideraciÃ³n que el catastro de bienes raÃ­ces se encuentra en permanente actualizaciÃ³n y que la fiscalizaciÃ³n del Impuesto Territorial compete a este Servicio, de oficio o a peticiÃ³n del interesado, se revisarÃ¡ la sobretasa que se hubiera girado en las siguientes circunstancias:
+Teniendo en consideración que el catastro de bienes raíces se encuentra en permanente actualización y que la fiscalización del Impuesto Territorial compete a este Servicio, de oficio o a petición del interesado, se revisará la sobretasa que se hubiera girado en las siguientes circunstancias:
 
-* a) Error en el monto girado por concepto de la sobretasa, por un cÃ¡lculo equivocado en las operaciones aritmÃ©ticas.
+* a) Error en el monto girado por concepto de la sobretasa, por un cálculo equivocado en las operaciones aritméticas.
 
-Para ello, el interesado deberÃ¡ adjuntar cualquier comprobante de giro de contribuciones por los perÃ­odos donde se demuestre el error.
+Para ello, el interesado deberá adjuntar cualquier comprobante de giro de contribuciones por los períodos donde se demuestre el error.
 
-* b) Que la propiedad se encuentre errÃ³neamente clasificada en la segunda serie no agrÃ­cola.
+* b) Que la propiedad se encuentre erróneamente clasificada en la segunda serie no agrícola.
 
-Las instrucciones para determinar la clasificaciÃ³n de un predio se encuentran contenidas en la Circular NÂ° 15, de 2019, de este Servicio.
+Las instrucciones para determinar la clasificación de un predio se encuentran contenidas en la Circular N° 15, de 2019, de este Servicio.
 
-* c) Que la propiedad estÃ© ubicada en un Ã¡rea de extensiÃ³n urbana o urbanizable o rural determinada por el respectivo instrumento de planificaciÃ³n territorial.
+* c) Que la propiedad esté ubicada en un área de extensión urbana o urbanizable o rural determinada por el respectivo instrumento de planificación territorial.
 
-Esta condiciÃ³n se acredita con el Certificado de Informaciones Previas, emitido por la las Direcciones de Obras Municipales de cada comuna.
+Esta condición se acredita con el Certificado de Informaciones Previas, emitido por la las Direcciones de Obras Municipales de cada comuna.
 
-* d) Que en la propiedad exista una construcciÃ³n terminada o en condiciones de ser usada.
+* d) Que en la propiedad exista una construcción terminada o en condiciones de ser usada.
 
-Para estos casos, de acuerdo a lo dispuesto en la ResoluciÃ³n Ex. SII NÂ° 46, de 2017, de este Servicio, se deberÃ¡ acreditar tal situaciÃ³n, con un Permiso de EdificaciÃ³n, Plano de Arquitectura, Especificaciones TÃ©cnicas y Certificado de RecepciÃ³n Final Municipal total o parcial o Formulario 'Encuesta de EdificaciÃ³n del INE', si lo hubiera.
+Para estos casos, de acuerdo a lo dispuesto en la Resolución Ex. SII N° 46, de 2017, de este Servicio, se deberá acreditar tal situación, con un Permiso de Edificación, Plano de Arquitectura, Especificaciones Técnicas y Certificado de Recepción Final Municipal total o parcial o Formulario 'Encuesta de Edificación del INE', si lo hubiera.
 
-TambiÃ©n podrÃ¡ acreditarse esta situaciÃ³n con una declaraciÃ³n del contribuyente, adjuntando, por ejemplo, fotos de la edificaciÃ³n, facturas de compras de materiales constructivos o contrataciÃ³n de alguna empresa constructora o inmobiliaria, boletas de consumo de agua, luz, gas, entre otros documentos, situaciÃ³n en la cual, corresponderÃ¡ al Servicio de Impuestos Internos verificar esta circunstancia. Lo anterior, en el marco de lo dispuesto en el artÃ­culo 15 de la Ley NÂ° 17.235, que establece que se entenderÃ¡n terminadas las obras cuando estÃ©n en condiciones de ser usadas.
+También podrá acreditarse esta situación con una declaración del contribuyente, adjuntando, por ejemplo, fotos de la edificación, facturas de compras de materiales constructivos o contratación de alguna empresa constructora o inmobiliaria, boletas de consumo de agua, luz, gas, entre otros documentos, situación en la cual, corresponderá al Servicio de Impuestos Internos verificar esta circunstancia. Lo anterior, en el marco de lo dispuesto en el artículo 15 de la Ley N° 17.235, que establece que se entenderán terminadas las obras cuando estén en condiciones de ser usadas.
 
-Cabe seÃ±alar, que no procederÃ¡ la eliminaciÃ³n de la sobretasa en aquellos casos en que sÃ³lo existan construcciones provisorias, como, por ejemplo: casetas de vigilantes o, construcciones precarias, que no tengan condiciones de seguridad, habitabilidad y protecciÃ³n de sus habitantes.
+Cabe señalar, que no procederá la eliminación de la sobretasa en aquellos casos en que sólo existan construcciones provisorias, como, por ejemplo: casetas de vigilantes o, construcciones precarias, que no tengan condiciones de seguridad, habitabilidad y protección de sus habitantes.
 
-* e) Que en la propiedad exista una edificaciÃ³n en construcciÃ³n que cuente con el respectivo permiso municipal vigente emitido por la DirecciÃ³n de Obras respectiva.
+* e) Que en la propiedad exista una edificación en construcción que cuente con el respectivo permiso municipal vigente emitido por la Dirección de Obras respectiva.
 
-Para ello, se deberÃ¡ adjuntar el Permiso de EdificaciÃ³n vigente y si las hubiere, fotografÃ­as de la iniciaciÃ³n de las obras de edificaciÃ³n.
+Para ello, se deberá adjuntar el Permiso de Edificación vigente y si las hubiere, fotografías de la iniciación de las obras de edificación.
 
-Cabe seÃ±alar que, de acuerdo a lo dispuesto en el ArtÃ­culo 1.4.17 de la Ordenanza General de Urbanismo y Construcciones, un permiso caducarÃ¡ automÃ¡ticamente a los tres aÃ±os de concedido si no hubieren iniciado las obras correspondientes o si Ã©stas hubieren permanecido paralizadas durante el mismo lapso.
+Cabe señalar que, de acuerdo a lo dispuesto en el Artículo 1.4.17 de la Ordenanza General de Urbanismo y Construcciones, un permiso caducará automáticamente a los tres años de concedido si no hubieren iniciado las obras correspondientes o si éstas hubieren permanecido paralizadas durante el mismo lapso.
 
-Agrega dicha norma que una obra se entenderÃ¡ iniciada una vez realizados los trazados y comenzadas las excavaciones contempladas en los planos del proyecto.
+Agrega dicha norma que una obra se entenderá iniciada una vez realizados los trazados y comenzadas las excavaciones contempladas en los planos del proyecto.
 
-* f) Que la propiedad tenga prohibiciÃ³n de edificar.
+* f) Que la propiedad tenga prohibición de edificar.
 
-En esta situaciÃ³n se deberÃ¡ demostrar tal restricciÃ³n a travÃ©s de un documento oficial emitido por la DirecciÃ³n de Obras Municipal, con indicaciÃ³n de que el inmueble tiene una prohibiciÃ³n de edificar, indicado, por ejemplo, en el respetivo Certificado de Informaciones Previas.
+En esta situación se deberá demostrar tal restricción a través de un documento oficial emitido por la Dirección de Obras Municipal, con indicación de que el inmueble tiene una prohibición de edificar, indicado, por ejemplo, en el respetivo Certificado de Informaciones Previas.
 
-De acuerdo a la definiciÃ³n de sitio no edificado seÃ±alada en el punto NÂ° 4 de la presente Circular, cuando la propiedad tenga prohibiciÃ³n total de edificar, corresponderÃ¡ la eliminaciÃ³n total de la sobretasa.
+De acuerdo a la definición de sitio no edificado señalada en el punto N° 4 de la presente Circular, cuando la propiedad tenga prohibición total de edificar, corresponderá la eliminación total de la sobretasa.
 
-Por su parte, cuando la prohibiciÃ³n de edificar sea parcial, la propiedad se mantendrÃ¡ afecta al cobro de la sobretasa en la proporciÃ³n que corresponda. Para ello, cuando la prohibiciÃ³n de edificar sea igual o superior al 10%, se efectuarÃ¡n ajustes al avalÃºo del terreno a travÃ©s de la aplicaciÃ³n de coeficientes correctores excepcionales, en el marco de lo dispuesto en la ResoluciÃ³n vigente para el Ãºltimo reavalÃºo de los bienes raÃ­ces de la Segunda Serie No AgrÃ­cola.
+Por su parte, cuando la prohibición de edificar sea parcial, la propiedad se mantendrá afecta al cobro de la sobretasa en la proporción que corresponda. Para ello, cuando la prohibición de edificar sea igual o superior al 10%, se efectuarán ajustes al avalúo del terreno a través de la aplicación de coeficientes correctores excepcionales, en el marco de lo dispuesto en la Resolución vigente para el último reavalúo de los bienes raíces de la Segunda Serie No Agrícola.
 
-A su vez, cuando la prohibiciÃ³n de edificar provenga de una declaratoria de utilidad pÃºblica, por expropiaciÃ³n, se aplicarÃ¡ la exenciÃ³n a que se refiere el artÃ­culo 99 de la Ley General de Urbanismo y Construcciones, en concordancia a lo dispuesto en el punto 8. letra b) de la presente Circular.
+A su vez, cuando la prohibición de edificar provenga de una declaratoria de utilidad pública, por expropiación, se aplicará la exención a que se refiere el artículo 99 de la Ley General de Urbanismo y Construcciones, en concordancia a lo dispuesto en el punto 8. letra b) de la presente Circular.
 
-* g) Que la propiedad se encuentre localizada fuera de los lÃ­mites del Ã¡rea geogrÃ¡fica donde se prestan los servicios pÃºblicos de distribuciÃ³n de agua potable y de recolecciÃ³n de aguas servidas.
+* g) Que la propiedad se encuentre localizada fuera de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas.
 
-De acuerdo a lo dispuesto en el ArtÃ­culo 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial, dicha situaciÃ³n deberÃ¡ acreditarse por el dueÃ±o u ocupante del inmueble ante la respectiva municipalidad mediante la presentaciÃ³n de un certificado expedido por la empresa concesionaria correspondiente.
+De acuerdo a lo dispuesto en el Artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, dicha situación deberá acreditarse por el dueño u ocupante del inmueble ante la respectiva municipalidad mediante la presentación de un certificado expedido por la empresa concesionaria correspondiente.
 
-En estos casos, procederÃ¡ que el Municipio informe al Servicio de Impuestos Internos de esta nueva situaciÃ³n, mediante oficio o por solicitud, a travÃ©s de la pÃ¡gina web sii.cl, adjuntando la documentaciÃ³n que respalda tal situaciÃ³n, con el fin de eliminar la sobretasa.
+En estos casos, procederá que el Municipio informe al Servicio de Impuestos Internos de esta nueva situación, mediante oficio o por solicitud, a través de la página web sii.cl, adjuntando la documentación que respalda tal situación, con el fin de eliminar la sobretasa.
 
-* h) Que con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demoliciÃ³n total de la construcciÃ³n de un inmueble, o quede inhabilitado para ser utilizado.
+* h) Que con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demolición total de la construcción de un inmueble, o quede inhabilitado para ser utilizado.
 
-En los casos en que el inmueble quede en calidad de 'no edificado' por estas circunstancias y se cuente con documentaciÃ³n municipal, podrÃ¡ ser solicitada la revisiÃ³n de la sobretasa. TambiÃ©n podrÃ¡ verificarse esta circunstancia por fiscalizaciÃ³n en terreno.
+En los casos en que el inmueble quede en calidad de 'no edificado' por estas circunstancias y se cuente con documentación municipal, podrá ser solicitada la revisión de la sobretasa. También podrá verificarse esta circunstancia por fiscalización en terreno.
 
-De acuerdo a lo dispuesto en el ArtÃ­culo 8Â° de la Ley NÂ° 17.235, sobre Impuesto Territorial, transcurrido el plazo de diez aÃ±os contado desde la fecha en que se verificÃ³ el hecho constitutivo del siniestro, se levantarÃ¡ el beneficio a partir del 1 de enero del aÃ±o siguiente.
+De acuerdo a lo dispuesto en el Artículo 8° de la Ley N° 17.235, sobre Impuesto Territorial, transcurrido el plazo de diez años contado desde la fecha en que se verificó el hecho constitutivo del siniestro, se levantará el beneficio a partir del 1 de enero del año siguiente.
 
-* i) Que la respectiva Municipalidad haya puesto tÃ©rmino a la declaraciÃ³n de propiedad abandonada.
+* i) Que la respectiva Municipalidad haya puesto término a la declaración de propiedad abandonada.
 
-Se deberÃ¡ contar con el respectivo Decreto Alcaldicio que alza la declaraciÃ³n de propiedad abandonada.
+Se deberá contar con el respectivo Decreto Alcaldicio que alza la declaración de propiedad abandonada.
 
-Dado que el nuevo marco normativo establece que los municipios son responsables de informar aquellos inmuebles sobre los cuales se aplicarÃ¡ la sobretasa y el Servicio de Impuestos Internos es responsable de aplicar y fiscalizar este gravamen, ademÃ¡s de mantener un catastro actualizado, velando por el justo cobro del impuesto territorial, una vez corroborada la causal sobre la cual se confirme la procedencia de eliminar el giro de la sobretasa, se informe de este hecho al Municipio.
+Dado que el nuevo marco normativo establece que los municipios son responsables de informar aquellos inmuebles sobre los cuales se aplicará la sobretasa y el Servicio de Impuestos Internos es responsable de aplicar y fiscalizar este gravamen, además de mantener un catastro actualizado, velando por el justo cobro del impuesto territorial, una vez corroborada la causal sobre la cual se confirme la procedencia de eliminar el giro de la sobretasa, se informe de este hecho al Municipio.
 
 ## 8. Otras Situaciones
 
 * a. Terrenos destinados a estacionamientos para dar cumplimiento a la normativa legal vigente.
 
-El artÃ­culo 2.4.1 de la Ordenanza General de Urbanismo y Construcciones establece que todo edificio que se construya deberÃ¡ proyectarse con una dotaciÃ³n mÃ­nima de estacionamientos de acuerdo a lo que fije el Instrumento de PlanificaciÃ³n Territorial respectivo; por otra parte, el artÃ­culo 8Âº de la Ley NÂº 19.537 prescribe que en todo condominio deberÃ¡ contemplarse una cantidad mÃ­nima obligatoria de estacionamientos, de acuerdo al plan regulador respectivo, de manera que en los casos que la existencia de Ã¡reas no edificadas destinadas a estacionamientos sea un imperativo legal no corresponde la aplicaciÃ³n de la sobretasa.
+El artículo 2.4.1 de la Ordenanza General de Urbanismo y Construcciones establece que todo edificio que se construya deberá proyectarse con una dotación mínima de estacionamientos de acuerdo a lo que fije el Instrumento de Planificación Territorial respectivo; por otra parte, el artículo 8º de la Ley Nº 19.537 prescribe que en todo condominio deberá contemplarse una cantidad mínima obligatoria de estacionamientos, de acuerdo al plan regulador respectivo, de manera que en los casos que la existencia de áreas no edificadas destinadas a estacionamientos sea un imperativo legal no corresponde la aplicación de la sobretasa.
 
-En la situaciÃ³n descrita se encuentran aquellos estacionamientos ubicados en bienes raÃ­ces vecinos al predio principal en el cual se sitÃºa un edificio, y que se han adquirido precisamente para cumplir con el nÃºmero de estacionamientos mÃ­nimos exigidos por la norma vigente.
+En la situación descrita se encuentran aquellos estacionamientos ubicados en bienes raíces vecinos al predio principal en el cual se sitúa un edificio, y que se han adquirido precisamente para cumplir con el número de estacionamientos mínimos exigidos por la norma vigente.
 
-* b. SituaciÃ³n de propiedades exentas en su totalidad o en parte.
+* b. Situación de propiedades exentas en su totalidad o en parte.
 
-En el caso de predios que gozan de la exenciÃ³n total del Impuesto Territorial de acuerdo a lo prescrito en el inciso primero del artÃ­culo 2Âº de la Ley NÂº 17.235, no es procedente aplicar la sobretasa ya que la exenciÃ³n se extiende tanto respecto del impuesto que resulte de la aplicaciÃ³n de la tasa base, como asimismo de la sobretasa seÃ±alada. Luego en los casos que un inmueble goce parcialmente de exenciÃ³n del Impuesto Territorial, corresponderÃ¡ rebajar la base sobre la que se aplica la sobretasa en la misma proporciÃ³n.
+En el caso de predios que gozan de la exención total del Impuesto Territorial de acuerdo a lo prescrito en el inciso primero del artículo 2º de la Ley Nº 17.235, no es procedente aplicar la sobretasa ya que la exención se extiende tanto respecto del impuesto que resulte de la aplicación de la tasa base, como asimismo de la sobretasa señalada. Luego en los casos que un inmueble goce parcialmente de exención del Impuesto Territorial, corresponderá rebajar la base sobre la que se aplica la sobretasa en la misma proporción.
 
 ## 9. VIGENCIA DE LAS MODIFICACIONES A LOS GIROS
 
-Considerando lo dispuesto en el artÃ­culo 13 de la Ley NÂ° 17.235, una vez verificada la procedencia de eliminar o modificar la sobretasa por aquellas causales indicadas en la letra a), b) y g) del punto 7 de esta instrucciÃ³n, se deberÃ¡n eliminar o modificar los giros por este concepto, desde la misma fecha en que se produjo el error u omisiÃ³n. En caso de configurarse alguna de las causales contenidas las letras c), d), e), f) o i) de la presente Circular, la eliminaciÃ³n procederÃ¡ desde el 1 de enero del aÃ±o siguiente en el cual ocurriÃ³ el hecho. Por otra parte, y de conformidad al artÃ­culo 8 de la Ley, para el caso de la causal seÃ±alada en la letra h), la eliminaciÃ³n de la sobretasa procederÃ¡ desde el 1 de enero del aÃ±o en que se verificÃ³ el hecho constitutivo del siniestro.
+Considerando lo dispuesto en el artículo 13 de la Ley N° 17.235, una vez verificada la procedencia de eliminar o modificar la sobretasa por aquellas causales indicadas en la letra a), b) y g) del punto 7 de esta instrucción, se deberán eliminar o modificar los giros por este concepto, desde la misma fecha en que se produjo el error u omisión. En caso de configurarse alguna de las causales contenidas las letras c), d), e), f) o i) de la presente Circular, la eliminación procederá desde el 1 de enero del año siguiente en el cual ocurrió el hecho. Por otra parte, y de conformidad al artículo 8 de la Ley, para el caso de la causal señalada en la letra h), la eliminación de la sobretasa procederá desde el 1 de enero del año en que se verificó el hecho constitutivo del siniestro.
 
-1. VIGENCIA DE APLICACIÃ“N DE LAS INSTRUCCIONES
+1. VIGENCIA DE APLICACIÓN DE LAS INSTRUCCIONES
 
-Las instrucciones impartidas por la presente Circular, rigen a contar del 1Â° de enero de 2019.
+Las instrucciones impartidas por la presente Circular, rigen a contar del 1° de enero de 2019.
 
-Sin perjuicio de ello, en aquellos casos en los cuales se proceda a revisar la aplicaciÃ³n de la sobretasa por un periodo anterior al 1 de enero de 2019, serÃ¡ aplicable la Circular NÂ° 60, de 2008.
+Sin perjuicio de ello, en aquellos casos en los cuales se proceda a revisar la aplicación de la sobretasa por un periodo anterior al 1 de enero de 2019, será aplicable la Circular N° 60, de 2008.
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR
 
-* -Al BoletÃ­n
+* -Al Boletín
 * -A Internet
 * -Al Diario Oficial, en extracto.
