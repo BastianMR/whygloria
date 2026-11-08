@@ -30,11 +30,12 @@ WhyGloria/
 Each document is an OKF markdown concept (`.md`) with frontmatter (`type`,
 `title`, `description`, `tags`), converted from the original SII `.docx`.
 
-## Validate frontmatter
+## Validate
 
 ```bash
-python scripts/check_okf.py        # report problems
-python scripts/check_okf.py --fix  # repair in place
+python scripts/check_okf.py         # report frontmatter problems
+python scripts/check_okf.py --fix   # repair in place
+python scripts/check_duplicates.py  # detect duplicate content
 ```
 
 ## Purpose
