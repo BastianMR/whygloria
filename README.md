@@ -1,3 +1,9 @@
+---
+type: Reference
+title: WhyGloria — SII Public Tax Information
+description: Open-source collection of Chilean SII circulares, resoluciones and public tax information.
+---
+
 # WhyGloria — SII Public Tax Information
 
 Open-source collection of Chilean **Servicio de Impuestos Internos (SII)** public
@@ -35,5 +41,5 @@ repackages them for accessibility.
 ## OKF navigation
 
 This repository is an [Open Knowledge Format (OKF)](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
-bundle under `knowledge/`. Start at [knowledge/index.md](./knowledge/index.md) for
-progressive disclosure of all documents.
+bundle. Start at [index.md](./index.md) for progressive disclosure; every
+`<year>-<TYPE>/` folder carries its own `index.md`.
