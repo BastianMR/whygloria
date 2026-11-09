@@ -18,3 +18,5 @@ okf_version: "0.2"
 
 * [ARCHITECTURE.md](./ARCHITECTURE.md) - provenance, design decisions and pending work
 * [CHECKLIST.md](./CHECKLIST.md) - ordered pipeline and naming quirks
+* [GLOSSARY.md](./GLOSSARY.md) - Chilean tax acronyms used in the corpus
+* [navigation/](navigation/) - generated indexes by tax, form, regime and materia

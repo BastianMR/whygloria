@@ -46,7 +46,9 @@ Data moves one way: a document lands in `SIN_PROCESAR/`, becomes a concept in
   two runs on the same commit produce the same file.
 - [ ] **10. Rebuild the derived series** — `python scripts/series.py --report`
   Regenerates `series/*.csv` from the corpus. Deterministic; CI fails if it drifts.
-- [ ] **11. Commit** — review `git status`, then commit.
+- [ ] **11. Rebuild the navigation indexes** — `python scripts/navigation.py`
+  Regenerates `navigation/` from frontmatter. Deterministic; CI fails if it drifts.
+- [ ] **12. Commit** — review `git status`, then commit.
 
 ## Matching a source to its concept
 

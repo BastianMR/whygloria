@@ -20,6 +20,7 @@ python scripts/check_okf.py             # expect 0 problems (reports metadata ga
 python scripts/check_duplicates.py      # expect 0 exact duplicate groups
 python scripts/sii_pdfs.py --vigencia   # rebuild status_vigencia + relaciones.json
 python scripts/series.py --report       # rebuild series/utm.csv from the corpus
+python scripts/navigation.py            # rebuild navigation/ indexes from frontmatter
 python scripts/backfill_metadata.py     # one-shot: rebuild frontmatter (body, PDF header fallback)
 ```
 

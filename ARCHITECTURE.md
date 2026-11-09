@@ -138,6 +138,11 @@ hand-edited, and CI fails if it drifts: `python scripts/series.py` then
 `git diff --exit-code`. It is explicitly not authoritative — the circular is —
 and `series/README.md` carries the extraction rules and the remaining gaps.
 
+`navigation/` is the second generated layer: one index per dimension (tax, form,
+regime, materia keyword) over the whole corpus, with the status of every entry.
+Documents without a value for a dimension are listed as `unclassified`, never
+dropped. `GLOSSARY.md` is the only hand-maintained file in that layer.
+
 ## How to work with it
 
 ### Reading
