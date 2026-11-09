@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° letras a), y c) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6º, letra A) N°1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974 y en los artículos 1°, 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA.

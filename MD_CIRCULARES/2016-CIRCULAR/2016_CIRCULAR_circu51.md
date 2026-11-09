@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["CIRCULAR N° 33, DE 2013."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 33, "target_year": 2013, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 51.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 29 de julio de 2016.- | | MATERIA: SUSTITUYE EL NUMERAL 1-7 DEL CAPÍTULO TERCERO DE LA CIRCUL"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 51.-** |

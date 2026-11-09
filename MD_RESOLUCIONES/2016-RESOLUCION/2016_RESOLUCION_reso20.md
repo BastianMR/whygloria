@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 125, "target_year": 2006, "raw_text": "N° 1-829, de 1994 (la cual posteriormente fue derogada y reemplazada por Resolución Exenta N° 125, de 2006) se establecieron las atribuciones y obligaciones de dicho Departamento; * 5.- Que, en la Resolución Exenta N° 7-590, de 1999, se est"}, {"type": "deroga", "target_type": "resolucion", "target_number": 349, "target_year": 1984, "raw_text": "DÉCIMO: Desde la entrada en vigencia de la presente resolución, se derogan el apartado I del Párrafo N°1 de la Resolución N° 349, de 1984; y las Resoluciones N° 5093, de 24 de octubre de 1995, N° 125, de 19 de octubre de 2006 y N° 94, de 26"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE CONTRALORÍA INTERNA

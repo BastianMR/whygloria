@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMA DE PRESENTAR SOLICITUD DE ACUERDO ANTICIPADO DE PRECIOS DE TRANSFERENCIA, ARTÍCULO 41 E N°7 DE LA LEY SOBRE IMPUESTO A LA RENTA Y MODIFICA RESOLUCIÓN SII EX. N° 68 DE 2013.

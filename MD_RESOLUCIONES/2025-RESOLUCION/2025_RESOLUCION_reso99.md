@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades establecidas en los artículos 1°, 6º letra A, Nº 1, y 68 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "el artículo 1° y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "la Ley N° 21.713"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 INSTRUYE SOBRE LA FORMA EN QUE LAS ENTIDADES QUE SE INDICAN DEBEN VERIFICAR LO DISPUESTO EN LOS INCISOS DECIMOSEGUNDO Y FINAL DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO. DEJA SIN EFECTO RESOLUCIÓN EX. N° 79 DE 2025.

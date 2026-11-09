@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 72 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTOEMISOR: Subdirección Normativa Oficinade Gestión Normativa** | **CIRCULARN° 15.- 242550.2023 GE** |

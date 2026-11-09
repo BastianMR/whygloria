@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 101 y 206 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 35, "target_year": 2022, "raw_text": "Modifica Circular N° 35 de 2022 | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídicas** | **CIRCULAR N° 34.- 314023.2025 GE** |

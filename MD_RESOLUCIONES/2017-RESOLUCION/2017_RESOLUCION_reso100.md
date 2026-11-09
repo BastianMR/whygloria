@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980 del Ministerio de Hacienda", "lo dispuesto en la letra A) del artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899 publicada en el Diario Oficial el 0"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 107, "target_year": null, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N° 107 DE FECHA 24 DE DICIEMBRE 2015 Y DEROGA RESOLUCIÓN EXENTA SII N° 31 DE FECHA 15 DE MARZO 2017, RELATIVAS A LA OBLIGACIÓN DE PRESENTAR DECLARACION JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DE "}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

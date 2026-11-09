@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980, del Ministerio de Hacienda", "en el Decreto N° 970, de 11.11.1990, del Ministerio de Hacienda", "y las instrucciones contenidas en las Circulares N° 54, de 22.10.1990"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 37, "target_year": 2015, "raw_text": "Cabe señalar que las Circulares N° 54, de 1990 y N° 6 de 1991, fueron dictadas conforme a lo establecido en el artículo 5° transitorio de la Ley N° 18-985, del año 1990, norma que fue derogada por la Ley N° 20-780; lo que se debe entender s"}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

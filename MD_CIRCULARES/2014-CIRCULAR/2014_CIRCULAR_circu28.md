@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 56, "target_year": 2007, "raw_text": "| **DEPARTAMENTO EMISOR TECNICA TRIBUTARIA SUBDIRECCION NORMATIVA** | **CIRCULAR N° 28 01-2014 CIRC.SN 001-2014 CIRC.TT** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 de abril de 2014.- | | MATERIA: MODIFICA CIRCUL"}]
 ---
 
 | **DEPARTAMENTO EMISOR TECNICA TRIBUTARIA SUBDIRECCION NORMATIVA** | **CIRCULAR N° 28 01.2014 CIRC.SN 001.2014 CIRC.TT** |

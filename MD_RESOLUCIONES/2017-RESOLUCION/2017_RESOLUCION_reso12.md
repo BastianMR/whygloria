@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980", "el artículo 56 del D.L N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "el artículo 4° de la Ley N° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artículo 25 de la Ley N° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableció incentivos para el desarrollo económico de las Provincias de Arica y Parinacota y por el", "el artículo 11 de la Ley N° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV Región de Arica y Parinacota y la Provincia del Tamarugal en la Región de Tarapacá", "y la Resolución Exenta N° 46, del 10.05.2013, que dejó sin efecto y reemplazó lo dispuesto mediante la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "aclara", "target_type": "resolucion", "target_number": 12, "target_year": 2016, "raw_text": "SII N°67, del 2009 y sus modificaciones. * 4° Que, la Resolución Exenta N°, 12, del 2016, modificó en parte la Resolución Exenta N° 67, del 2009, en circunstancias que debió referirse a la Resolución Exenta N° 46, del 2013, toda vez, que aq"}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

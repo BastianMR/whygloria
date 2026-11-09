@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 4 de la Ley N° 21.398, publicada en el Diario Oficial de 24 de diciembre de 2021", "artículo 21 y 70 de la Ley sobre Impuesto a las Ventas y Servicios"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°19.- 205702.2022 GE** |

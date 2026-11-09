@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L N° 830, de 1974", "en la Resolución N° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades", "y en la Resolución N° 13, del 08.02.2022, que modifica los requisitos exigidos a las entidades públicas que son habilitadas como receptoras de la información contenida en la 'Carpeta Tributaria por Mandato'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

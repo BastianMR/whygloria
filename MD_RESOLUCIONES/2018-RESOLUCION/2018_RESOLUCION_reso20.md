@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1), 88 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 2°, 3°, 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

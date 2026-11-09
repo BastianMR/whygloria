@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección de Asistencia al Contribuyente. Departamento de Atención y Asistencia de Contribuyentes.** | **CIRCULAR N° 21.-** |

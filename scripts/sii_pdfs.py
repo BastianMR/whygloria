@@ -293,11 +293,16 @@ def main() -> int:
     parser.add_argument("--pending", action="store_true", help="list documents with a PDF but no .md")
     parser.add_argument("--unpack", action="store_true", help="extract the circular from .zip archives")
     parser.add_argument("--publish", action="store_true", help="move converted sources to the PDF mirror")
+    parser.add_argument("--vigencia", action="store_true", help="rebuild the supersession map")
     parser.add_argument("--list-missing", action="store_true", help="name every missing file")
     parser.add_argument("--years", type=int, nargs="+", help=f"default {FIRST_YEAR}..current")
     args = parser.parse_args()
 
     years = args.years or list(range(FIRST_YEAR, date.today().year + 1))
+    if args.vigencia:
+        import backfill_metadata
+
+        return backfill_metadata.rebuild()
     if args.pending:
         return pending(years)
     if args.unpack:

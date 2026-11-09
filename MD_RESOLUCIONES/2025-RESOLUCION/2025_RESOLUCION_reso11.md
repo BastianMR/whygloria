@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° letra A) N° 1, 88, 97 y 105 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "los artículos 2°, 3°, 10, 20, 21, 52, 53, 54, 55 y 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 resolución se entenderá por:

@@ -10,6 +10,9 @@ impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los Artículos 6° letra A N°1, del Código Tributario, contenido en el D.L N° 830, de 27 de diciembre de 1974, y en el art 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 117-SDAC-2019

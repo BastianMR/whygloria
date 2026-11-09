@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 14 ter, letra A., y 34 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en el artículo 1°, N° 6 y 18 y en el artículo primero de las disposiciones transitorias, ambos de la Ley N° 20.780, sobre Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "en los artículos 1° N°2 y 8°, N° 1, letra c., y en el artículo segundo de las disposiciones transitorias, todos de la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada en el Diario Oficial de 8 de febrero de 2016"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMA Y PLAZO PARA QUE LAS ENTIDADES RELACIONADAS QUE SE INDICAN INFORMEN A LA EMPRESA O SOCIEDAD RESPECTIVA, EL MONTO TOTAL DE LOS INGRESOS DE SU GIRO PERCIBIDOS O DEVENGADOS EN EL EJERCICIO RESPECTIVO, PARA DETERMINAR SI SE CUMPLEN LOS LÍMITES DE INGRESOS PARA EFECTOS DE ACOGERSE Y/O PERMANECER EN EL RÉGIMEN SIMPLIFICADO DE LA LETRA A), DEL ARTÍCULO 14 TER O EN EL REGIMEN DE RENTA PRESUNTA DEL ARTÍCULO 34, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA

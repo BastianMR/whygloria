@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020", "Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Ley N° 19.983, que regula la transferencia y otorga mérito ejecutivo a la copia de la factura."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 50** |

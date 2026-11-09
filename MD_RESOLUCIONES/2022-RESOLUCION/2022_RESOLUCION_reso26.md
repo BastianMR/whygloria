@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° y en las letras a), c) y ñ), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "lo dispuesto en las Resoluciones Exentas SII N°379, de 1991 y sus modificaciones, N°7.590, de 1999, N° 37, de 2016, todas de la Dirección del SII", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 37, "target_year": 2016, "raw_text": "UNDÉCIMO: Desde la entrada en vigencia de la presente resolución, se deja sin efecto la Resolución Exenta SII N° 37, de 2016, así como cualquier resolución dictada anteriormente sobre la misma materia, en lo que se oponga a la presente."}]
 ---
 
 REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN AVALUACIONES, DE ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII N° 37, 2016.

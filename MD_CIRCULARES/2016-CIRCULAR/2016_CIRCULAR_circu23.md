@@ -10,6 +10,9 @@ impuestos: ["contribuciones"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Código Tributario, artículo 11"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 34, "target_year": 2015, "raw_text": "En concordancia con lo anterior y con el objeto de mantener la necesaria coherencia entre las nuevas normas y las instrucciones del Servicio, se modifican los Capítulos I y II de la Circular N° 34, de 2015, en el siguiente sentido:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 23.-** |

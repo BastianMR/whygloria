@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu51.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 46, "target_year": 2006, "raw_text": "La presente Circular reemplaza a la Circular N°46, de 2006 y actualiza las instrucciones relativas al procedimiento relacionado con la declaración de cálculo del avalúo fiscal de la edificación de cada unidad de los bienes raíces acogidos a"}]
 ---
 
 Complementada por Circular N° 68, del 26 de diciembre de 2014

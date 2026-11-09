@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A), Nº 1, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L Nº 830, de 1974", "en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'", "en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678

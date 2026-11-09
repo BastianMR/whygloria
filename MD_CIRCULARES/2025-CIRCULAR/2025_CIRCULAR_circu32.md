@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 66, "target_year": 1998, "raw_text": "Deroga parcialmente la Circular N°66, de 1998;"}]
 ---
 
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº32.- GE00310456** |

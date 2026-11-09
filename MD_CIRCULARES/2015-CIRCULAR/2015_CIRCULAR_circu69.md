@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F22"]
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 2", "65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "artículo 2° del Decreto Ley N° 2.398 de 1978", "artículo 2° de la Ley N° 19.149", "artículo 2° de la Ley N° 18.392", "Artículo 23 del Decreto con Fuerza de Ley N° 341 de 1977", "artículo 2° de la Ley N° 19.709", "artículo 1° de la Ley N° 19.420", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu49.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 37, "target_year": 2015, "raw_text": "* El N° 11, del artículo 17 de la Ley, deroga algunos artículos transitorios de la Ley N° 18-985, en relación con los artículos 20 N° 1 y 34 de la LIR, modificación que ha sido instruida en Circular N° 37 de 2015, sobre régimen de renta pre"}]
 ---
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875

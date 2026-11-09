@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en la Ley Orgánica del Servicio Nacional de Aduanas contenida en el Decreto Nº329, del Ministerio de Hacienda, de 1979", "en el Decreto con Fuerza de Ley N°30 de 2004 que aprueba el texto refundido, coordinado y sistematizado del Decreto con Fuerza de Ley Nº213, de 1953, sobre Ordenanza de Aduanas", "en el Decreto con Fuerza de Ley N°31 del año 2005, que aprueba el texto refundido, coordinado y sistematizado de la Ley Nº18.525, que establece normas sobre importación de mercancías al país", "en los artículos 3°, 16° y tercero transitorio de la Ley N 21.713", "en los artículos 2°, 3°, 3° bis, 4°, 5°, 8° letra a),12 letra B) N°11 y N°18 y lo dispuesto en el Párrafo 7° bis, del Título II, todos de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "en la Ley N°18.084", "y en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FORMA DE ACREDITAR LA EXENCIÓN DE IVA EN LA IMPORTACIÓN DE BIENES DE BAJO VALOR A QUE SE REFIERE EL ARTÍCULO 12 LETRA B) N° 18, DEL DECRETO LEY N° 825 DE 1974, ADQUIRIDOS DE, O POR MEDIO DE, CONTRIBUYENTES INSCRITOS EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA.

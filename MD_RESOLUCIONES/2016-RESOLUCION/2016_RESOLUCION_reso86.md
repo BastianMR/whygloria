@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1° del Código Tributario, y artículos 2°, 3°, 10 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, y artículo 69 del D.S Nº 55, del Ministerio de Hacienda, de 1977, que contiene el Reglamento de la Ley sob"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

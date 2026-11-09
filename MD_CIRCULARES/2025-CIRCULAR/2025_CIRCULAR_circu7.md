@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 62 y 62 bis del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 46, "target_year": 2010, "raw_text": "Deja sin efecto la Circular N° 46 de 2010. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°07.- GE00304043** |

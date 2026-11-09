@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 14, 17 N° 8, 21, 31 y 33, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "las instrucciones impartidas por este Servicio, a través de la Circular N° 68, de 03 de noviembre de 2010"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

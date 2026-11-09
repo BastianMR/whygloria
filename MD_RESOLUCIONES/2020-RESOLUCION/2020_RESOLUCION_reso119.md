@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, letra A) N°1 y en los artículos 33 bis, 60 y 66, todos del Código Tributario contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "los artículos 10 inciso tercero y siguientes y 58 Nº 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en Art 1º D.L Nº 824, de 1974", "las modificaciones legales introducidas por la Ley N° 21.210, de 24 febrero de 2020, sobre Modernización Tributaria, y lo instruido en las Circulares N°14 de 2014, modificada por la Circular N°59 del mismo año, y en la Resolución Ex"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 65, "target_year": 2015, "raw_text": "Y DEJA SIN EFECTO RESOLUCIÓN N° 65 DE 2015."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

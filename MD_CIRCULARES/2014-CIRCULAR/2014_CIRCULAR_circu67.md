@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, Artículo 97 N°20", "Ley N°20.780, Artículo 10, N° 25, letra b)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA** | **CIRCULAR N° 67.-** |

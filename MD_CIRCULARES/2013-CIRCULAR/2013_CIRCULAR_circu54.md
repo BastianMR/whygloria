@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F22"]
 regimen: ["renta-presunta"]
 ref_legal: ["Artículo 74 N° 4 y 79 de la Ley Sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974)", "Ley N° 20.630, del 27 de septiembre del 2012."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu39.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°: 54.- 19.2013 ID 008.2013 SN** |

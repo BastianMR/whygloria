@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, los artículos 3° y 8° de la Ley N° 17.235 sobre Impuesto Territorial, el Decreto N° 47, de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones, el"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 <unknown>

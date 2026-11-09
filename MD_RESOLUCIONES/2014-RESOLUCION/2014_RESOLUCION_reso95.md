@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en los artículos 3°"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 7, "target_year": 1999, "raw_text": "TERCERO: Sustituyese el número 8 del texto actual del dispositivo I de la Resolución Exenta N°7-590, de 15 de noviembre de 1999, por el siguiente:"}]
 ---
 
 383/2014

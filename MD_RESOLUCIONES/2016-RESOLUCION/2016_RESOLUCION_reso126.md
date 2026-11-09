@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 5°, 32 N°15 y 54 N°1 de la Constitución Política de la República, el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 33°, 34°, 35°,36, 60° inciso noveno, todos del Código Tributario, contenido en artículo 1°, del D.L Nº 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 41 E, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en los artículos 4°, 5°, 6 y 7°, de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria", "y el artículo 27 de la Convención sobre el Derecho de los Tratados y su anexo"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2022-RESOLUCION/2022_RESOLUCION_reso71.md"]
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO. DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

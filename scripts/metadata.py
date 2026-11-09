@@ -15,6 +15,8 @@ import re
 from datetime import date
 from pathlib import Path
 
+import vigencia
+
 VOCAB = json.loads((Path(__file__).with_name("tax_vocab.json")).read_text(encoding="utf-8"))
 
 MONTHS = {
@@ -254,6 +256,7 @@ def extract_ref_legal(body: str) -> list[str]:
     citations = []
     for item in items:
         value = _clean(re.sub(r"^(?:y|e)\s+", "", item, flags=re.I)).strip(" ;,")
+        value = value.lstrip(". ").strip()
         value = re.sub(r"\s+(?:y|e)$", "", value, flags=re.I)
         value = ABBREV_RE.sub(r"\1", value)
         value = SENTENCE_END_RE.split(value)[0]
@@ -297,4 +300,5 @@ def extract_metadata(body: str, kind: str, year: str = "") -> dict:
         "regimen": extract_regimen(body),
         "exenta": kind == "RESOLUCION" and extract_exenta(body),
         "fecha": extract_fecha(body, year),
+        "relaciones": vigencia.extract_relaciones(body),
     }

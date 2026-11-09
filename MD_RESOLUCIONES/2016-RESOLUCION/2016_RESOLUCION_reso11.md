@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 379, "target_year": 1991, "raw_text": "Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013."}]
 ---
 
 Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013.

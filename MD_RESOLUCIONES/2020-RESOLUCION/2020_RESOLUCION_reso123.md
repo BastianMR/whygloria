@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 16, 17, 21, 33 bis y 35 del Código Tributario", "la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020", "y Resoluciones Exentas SII N° 2 de 2012, N°112 de 2015, N°101 de 2017 y N°110 de 2019"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 2, "target_year": 2012, "raw_text": "DEJA SIN EFECTO RESOLUCIONES EXENTAS N°s 2, DEL 2012, 112, DEL 2015, 101 DE 2017 y 110 DE 2019."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Las facultades que me confieren los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en las Circulares N°s 17 de 09.03.1994 y N° 29 de 10.06.1994"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 17, "target_year": 1994, "raw_text": "MATERIA: DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994;"}]
 ---
 
 MATERIA: DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; CIRCULAR N° 29, DE 10 DE JUNIO DE 1994; RES. EX. SII N° 1124, DE 04 DE MARZO DE 1994; y, RES. EX. SII N° 2509, DE 03 DE JUNIO DE 1994, QUE FIJAN NORMAS SOBRE ENAJENACIÓN DE VEHICULOS MOTORIZADOS DESTINADOS AL TRANSPORTE DE CARGA AJENA O PASAJEROS.

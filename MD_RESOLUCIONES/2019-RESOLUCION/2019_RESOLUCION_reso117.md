@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974", "el artículo 45 del Código Civil"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.

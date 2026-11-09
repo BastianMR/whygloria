@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974", "el artículo 45 del Código Civil", "y Decreto Supremo del Ministerio del Interior y Seguridad Pública N° 172, de 24 de junio de 2023."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

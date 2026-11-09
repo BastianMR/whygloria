@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A, N° 1, 16 y 17 del Código Tributario", "en el artículo 34 de la Ley sobre Impuesto a la Renta (LIR), según su texto vigente a contar del 01.01.2016, sustituido por la Ley N° 20.780, de 2014, en el artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos", "y en la Circular N° 37, de 28.05.2015"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

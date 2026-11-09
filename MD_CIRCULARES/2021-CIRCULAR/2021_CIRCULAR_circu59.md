@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Depto. Normas Internacionales** | **CIRCULAR N°59.- 183665.2021 GE** |

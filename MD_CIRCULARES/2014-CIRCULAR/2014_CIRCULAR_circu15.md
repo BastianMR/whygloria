@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 14 y 41 N° 9 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu70.md", "MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu44.md"]
+relaciones: [{"type": "aclara", "target_type": "circular", "target_number": 13, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ.** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 de marzo de 2014 | | MATERIA: Aclara y precisa la vigencia de las inst"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ.** |

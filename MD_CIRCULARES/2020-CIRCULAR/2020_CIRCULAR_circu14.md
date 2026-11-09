@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["arts 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 22, de 27 de enero de 2020, del Ministerio de Hacienda, publicado en el Diario Oficial de 5 de febrero de 2020", "y Resolución Exenta N° 23, de 12 de febrero de 2020, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 18 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 14 05-2020 SN CIRC. 024-2020 OGN** |

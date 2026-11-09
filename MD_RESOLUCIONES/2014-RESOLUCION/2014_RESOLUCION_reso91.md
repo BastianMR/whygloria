@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS

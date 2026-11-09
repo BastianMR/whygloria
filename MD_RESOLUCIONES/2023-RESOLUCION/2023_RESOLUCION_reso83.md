@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario", "en las letras c) i) j) y r) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L N°7, de Hacienda, de 1980", "en el artículo 35 del Código Tributario", "en el artículo 41, de la Ley N°18.575, que establece las bases generales de la Administración del Estado, y en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.

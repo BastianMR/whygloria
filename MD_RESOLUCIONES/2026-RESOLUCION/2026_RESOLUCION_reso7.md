@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, y en el artículo 34, Nº 2, letra b), de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824 de 1974, y las instrucciones impartidas medi"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE00359394

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 42 N° 2 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del Decreto Ley N° 824, de 1974", "y lo establecido en el artículo primero de la Ley Nº 21.242, publicada en el D.O. de 24.06.2020, que establece un beneficio para los trabajadores independientes que indica."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

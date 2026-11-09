@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 20, 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "la Ley N° 16.282 que establece disposiciones para casos de catástrofes", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, modificado por Decreto Supremo N° 1.043, publicado en el Diario Oficial de 3 de julio de 2020, ambos del Ministerio de Hacienda, que 'Modifica Decreto Supremo Nº 420, de 30 de marzo de 2020, del Ministerio de Hacienda, estableciendo "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

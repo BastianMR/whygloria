@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en el artículo 6º letra A, N° 3° del Código Tributario", "en los artículos 1°, inciso segundo y 41 de la Ley Nº 18.575, sobre Bases Generales de la Administración del Estado", "en el inciso sexto del artículo 3° de la Ley N° 19.913 de 2003, modificado por la Ley N° 20.818 de 2015, y el Oficio Circular del Ministerio de Hacienda N° 20 de fecha 15.05.2015:"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 DESIGNA FUNCIONARIO TITULAR Y SUPLENTE PARA LA COORDINACIÓN E IMPLEMENTACIÓN DEL SISTEMA PREVENTIVO CONTRA DELITOS FUNCIONARIOS, LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO Y DELEGA FACULTAD QUE INDICA.

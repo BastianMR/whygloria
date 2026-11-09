@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículo 64, del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, y Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 61, "target_year": 2014, "raw_text": "Deroga instrucciones contenidas en Circular N° 61 de 2014. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Depto. de Impuestos Indirectos 023.2020 CIRC.SN 020-2020 CIRC.II** | **CIRCULAR N° 25** |

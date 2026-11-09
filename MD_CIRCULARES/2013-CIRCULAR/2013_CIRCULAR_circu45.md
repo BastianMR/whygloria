@@ -10,6 +10,9 @@ impuestos: ["renta", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículo 21, 31, 33 N° 1 y otras disposiciones de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley N° 20.630, del 27 de septiembre de 2012."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Modificada por Circular N° 54, del 25 de noviembre de 2013

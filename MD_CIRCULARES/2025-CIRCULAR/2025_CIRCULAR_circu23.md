@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial el 24 de octubre de 2024"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 45, "target_year": 2001, "raw_text": "Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la Circular N° 23 de 1975. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°23.- GE00308534** |

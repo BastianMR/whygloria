@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 128, de fecha 28.12.2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES 521-SDF-2017 593-2017 / 4857-17

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2° N°s 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de 1977 del Ministerio de Hacienda, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, de 2017, modificada por Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318702033

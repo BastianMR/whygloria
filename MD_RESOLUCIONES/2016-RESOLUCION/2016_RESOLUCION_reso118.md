@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 151, "target_year": 2009, "raw_text": "REEMPLAZA CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS SOBRE CREDITO ESPECIAL EMPRESAS CONSTRUCTORAS, FORMULARIOS N° 1842 Y N° 1843, INCLUIDAS EN RESOLUCIÓN EXENTA SII N°151 DEL 07 DE OCTUBRE DE 2009."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

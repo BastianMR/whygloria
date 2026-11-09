@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "Artículos 6°, letra B N° 11, 65 bis inciso primero y 65 ter del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 41, "target_year": 2015, "raw_text": "Complementa Circular N° 41 de 2015 . | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°18.- 305701.2024 GE** |

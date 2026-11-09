@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 3° de la Ley N° 17.235 sobre Impuesto Territorial, y Ley N° 20.650 de 31.12.2012."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Técnica Tributaria** | **CIRCULAR N° 57.-** |

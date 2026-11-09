@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 55, "target_year": 2014, "raw_text": "Complementa Circular N° 55, de 16 de octubre de 2014."}, {"type": "deroga", "target_type": "circular", "target_number": 55, "target_year": 2015, "raw_text": "Deroga Circular N° 55, de 24 de junio de 2015. | REFERENCIA: Código Tributario, artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis."}, {"type": "complementa", "target_type": "circular", "target_number": 55, "target_year": null, "raw_text": "Por esta instrucción se complementa lo señalado en la Circular N° 55 del 16 de octubre 2014, precisando la vigencia y ámbito de aplicación temporal de las normas anti elusivas, y se deroga la Circular N° 55, del 24 de junio de 2015."}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 42.-** |

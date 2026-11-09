@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1- y 88 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "y las Resoluciones Exentas N° 1414, de 27.10.1978"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 83, "target_year": null, "raw_text": "## MODIFICA RESOLUCIÓN EXENTA SII N° 83, DEL 30-08-2004"}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

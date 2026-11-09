@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["14A", "14D3", "14D8"]
 ref_legal: ["Artículos 14, letra D), y 20 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "artículos vigésimo primero, vigésimo segundo transitorio y vigésimo segundo transitorio bis de la Ley N° 21.210", "Ley N° 21.256, publicada en el Diario Oficial de 2 de septiembre de 2020", "Circular N° 31 de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 31, "target_year": 2020, "raw_text": "Complementa y modifica instrucciones de la Circular N° 31 de 2020 tras modificaciones a los artículos vigésimo primero y vigésimo segundo transitorios e incorporación de artículo vigésimo segundo transitorio bis, todos de la Ley N° 21-210, "}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°11.- 174964 GE ID 21-2020** |

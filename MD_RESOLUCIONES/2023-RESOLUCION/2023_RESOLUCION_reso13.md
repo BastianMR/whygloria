@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, contenida en el Decreto Ley Nº 824 de 1974", "lo dispuesto en la Resolución Ex", "y lo establecido en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 103, "target_year": 2021, "raw_text": "## MATERIA: MODIFICA LA RESOLUCIÓN EXENTA SII N°103 DE 31 DE AGOSTO DE 2021."}]
 ---
 
 ## SUBDIRECCION DE FISCALIZACION DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 236909

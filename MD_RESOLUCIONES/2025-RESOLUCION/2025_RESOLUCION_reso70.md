@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las letras a) y b), del artículo 7, de la Ley Orgánica del Servicio, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980 del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

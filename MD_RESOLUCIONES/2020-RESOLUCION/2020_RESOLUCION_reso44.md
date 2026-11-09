@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 60 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley N° 21.207, publicada en el Diario Oficial de 20.01.2020, que contempla diversas medidas tributarias y financieras destinadas a apoyar a las micro, pequeñas y medianas empresas"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

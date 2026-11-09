@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N°2 del Código Tributario, última disposición modificada por Ley N° 21.453, publicada en el Diario Oficial de fecha 30.06.2022", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7 de 1980, los artículos 14, letra A), N° 8, letra e), 41 A N° 6 y 41 G letra F) de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 120, "target_year": 2016, "raw_text": "DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº120 DE 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020."}]
 ---
 
 REGULA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº120 DE 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020.

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.540, publicada en el Diario Oficial el 15 de febrero de 2023 y Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 5, "target_year": 2023, "raw_text": "Deja sin efecto la Circular N° 5 de 2023. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°14.- 237845.2023 GE** |

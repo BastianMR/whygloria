@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en el N°1 de la letra A) del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "los artículos 2° N° 2, 8° y 12° letra E de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "los artículos 20°, 42° y 43° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA SUBDIRECCIÓN DE FISCALIZACIÓN

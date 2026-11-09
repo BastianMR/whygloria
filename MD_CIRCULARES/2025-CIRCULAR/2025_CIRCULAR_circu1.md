@@ -10,6 +10,9 @@ impuestos: ["contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículos 3°, 53 y 55 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 9, "target_year": 1988, "raw_text": "Modifica la Circular N° 9 de 1988. | REF."}, {"type": "reemplaza", "target_type": "circular", "target_number": 9, "target_year": 1988, "raw_text": "A partir de la misma fecha se reemplaza el N° 3 de la Circular N° 9 de 1988, sobre la tasa de interés aplicable conforme al artículo 53, por lo instruido en el apartado 2, anterior, de la presente circular."}]
 ---
 
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº01.- 305745.2024 GE** |

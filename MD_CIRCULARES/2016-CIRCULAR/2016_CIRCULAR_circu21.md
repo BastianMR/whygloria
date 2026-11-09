@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "contribuciones"]
 formularios: []
 regimen: ["14A", "14B", "renta-presunta"]
 ref_legal: ["Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 1875

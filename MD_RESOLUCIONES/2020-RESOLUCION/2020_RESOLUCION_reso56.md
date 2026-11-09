@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: ["F24"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) numeral 1) y en los artículos 36 inciso primero, 60 inciso penúltimo y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 del Ministerio de Hacienda, de 1980", "en el artículo tercero de la Ley N° 21.225, de 2020, que Establece Medidas para Apoyar a las Familias y a las Micro, Pequeñas y Medianas Empresas por el Impacto de la Enfermedad COVID19 en Chile."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 INSTRUYE SOBRE CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS ACCESORIAS RESPECTO DE HECHOS GRAVADOS BENEFICIADOS CON LA DISMINUCIÓN TRANSITORIA A 0% DE LAS TASAS ESTABLECIDAS EN LOS ARTÍCULOS 1° NUMERAL 3); 2° Y 3° DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.

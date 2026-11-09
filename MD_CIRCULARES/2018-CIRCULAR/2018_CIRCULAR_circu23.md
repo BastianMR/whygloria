@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu26.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 21, "target_year": 2014, "raw_text": "Deroga Circular N°21, de 04-04-2014 | REFERENCIA Circular N°21, de 2014 Circular N° 2, de2017 Resolución Ex."}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 23** |

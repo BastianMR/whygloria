@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A), N° 1 y en los artículos 29, 30, 33, 34, 35,36, 60 inciso noveno, todos del Código Tributario, contenido en artículo 1°, del D.L Nº 830, de 1974", "en el artículo 41 E, de la Ley sobre Impuesto a la Renta, modificado por el artículo 1., número 4., de la Ley N° 21.047, de 23.11.2017", "en los artículos 4°, 5°, 6° y 7°, de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria", "en el artículo 27, de la Convención sobre el Derecho de los Tratados y su anexo", "en las Resoluciones Exentas SII N°s 126 y 124, de 2016 y 2017, respectivamente"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 62.- 351659.2025 GE** |

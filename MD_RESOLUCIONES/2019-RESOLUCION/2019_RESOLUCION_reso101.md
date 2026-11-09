@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "y lo dispuesto en las Resoluciones: N° 349, de 1984, N° 379 de 1991, N° 7590 de 1999, y todas sus modificaciones"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 379, "target_year": 1991, "raw_text": "PRIMERO: Reemplazase el número 5 de la letra A de la Resolución N° 379, de 4 de diciembre de 1991, por el siguiente:"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA

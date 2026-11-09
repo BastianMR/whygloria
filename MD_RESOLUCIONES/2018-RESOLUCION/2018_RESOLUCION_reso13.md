@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, letra A), N° 1", "el artículo 88 del Código Tributario, contenido en el artículo Primero del D.L N° 830, de 1974", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["artículo 18 de la Ley N° 21.258, publicada en el Diario Oficial con fecha 2 de septiembre de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°42.- 182839.2021 GE** |

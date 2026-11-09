@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° Letra A) N° 1 y N° 5 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1°, 4 bis, y las letras a), b), y q) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 2 N° 1, 23 N° 1 y N° 4, 25 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "los artículos 69 y 71 bis del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda", "los artículos 21 y 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "el artículo 10 del Decreto con Fuerza de Ley N° 3 de 1969, que crea el Rol Único Tributario y establece normas para su aplicación", "las instrucciones impartidas a través de las Resoluciones Exentas SII N° 1661 de 1985, N° 6289 de 1998, N° 45 de 2003, N° 56 de 2016 y N° 36 de 2024"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 REITERA EXIGENCIAS LEGALES SOBRE EMISIÓN DE FACTURAS PARA EL CASO DE SUPERMERCADOS Y RESTAURANTES Y SU CUMPLIMIENTO.

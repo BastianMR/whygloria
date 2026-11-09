@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° letras c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 64° de la Ley N° 18.834, sobre Estatuto Administrativo, la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Subdirección de Contraloría Interna Departamento de Auditoría Interna

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["La facultad del artículo 6°, letra A, N° 1 del Código Tributario", "lo dispuesto en el artículo 3°, inciso tercero y artículos 20, 21, 54 y 56 del D.L Nº 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "lo dispuesto en los Arts 14, 16, 22, 73 y 81 del D.S de Hacienda Nº 55, de 1977, Reglamento del D.L N° 825", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 3, "target_year": 2000, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 3-721, DE 28 DE JULIO DE 2000."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO ÁREA DE RIESGOS DE DEVOLUCIONES Y GASTOS

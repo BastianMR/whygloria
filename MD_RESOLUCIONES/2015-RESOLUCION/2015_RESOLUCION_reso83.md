@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30, ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "la Resolución Ex"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 contribuyente;

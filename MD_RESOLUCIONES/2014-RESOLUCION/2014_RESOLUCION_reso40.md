@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N° 1600, de 2008 de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Distribución:

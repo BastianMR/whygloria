@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y los artículos 1°, N°3, 17 inciso 2° y 18, del Decreto Ley N° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018

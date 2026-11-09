@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y del Código Tributario, en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980", "la letra h) del artículo 20 de la Ley N° 19.995, que establece las Bases Generales para la Autorización, Funcionamiento y Fiscalización de Casinos de Juego, modificada por la Ley N° 20.856"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 38, "target_year": null, "raw_text": "VISTOS: Lo dispuesto en los artículos 6° letra A N° 1 y del Código Tributario, en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980; la letra h) del "}]
 ---
 
 ESTABLECE PROCEDIMIENTOS DE SOLICITUD Y EMISIÓN DE CERTIFICADOS DE CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS, EN LOS CASOS DE CAMBIOS DE DIRECTORES, GERENTE GENERAL, ACCIONISTAS Y DETERMINADOS CAMBIOS SOCIETARIOS DE CASINOS DE JUEGO.

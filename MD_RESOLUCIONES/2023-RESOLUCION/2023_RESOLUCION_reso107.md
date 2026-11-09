@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA GE00256882

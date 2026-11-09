@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 83 del Decreto Ley N° 830, sobre Código Tributario", "el N° 2 del artículo 16 de la Ley 17.235, sobre Impuesto Territorial", "el artículo 9° del Decreto Ley N° 3.063, sobre Rentas Municipales", "el artículo 7°, letras a) y c) del Decreto Ley N° 7, Ley Orgánica del Servicio de Impuestos Internos", "y el artículo N° 63, letras k) y ll) de la Ley N° 18.695 Orgánica Constitucional de Municipalidades."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA : Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos.

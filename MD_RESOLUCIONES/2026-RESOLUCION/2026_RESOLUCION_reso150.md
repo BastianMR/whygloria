@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 6° letra A) N° 3 y 68 del Código Tributario, contenido en el artículo 1°, del D.L N° 830, de 1974", "los artículos 1° y 7° letra b) de la Ley orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "la Ley N° 21.713", "la Ley N° 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado", "la Ley N° 19.628, sobre protección de la vida privada", "la Resolución N° 117, del 10.09.2025, que establece el procedimiento de acceso a la Interfaz de Programación de Aplicaciones (API), de Inicio de Actividades"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA

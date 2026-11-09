@@ -10,6 +10,9 @@ impuestos: ["iva", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A), N° s 1, 4, 87 y 102 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Sii

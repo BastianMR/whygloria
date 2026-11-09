@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el art 41, de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del estado", "en la letra i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

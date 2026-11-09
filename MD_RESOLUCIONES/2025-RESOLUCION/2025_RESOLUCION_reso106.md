@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 8° N° 18, 30, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "la Ley N° 21.713", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓNDEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

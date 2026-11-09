@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu49.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 66, "target_year": 2015, "raw_text": "que éste será reemplazado por el saldo que se determine en esa oportunidad, considerando los valores del patrimonio neto financiero o del capital propio tributario, según corresponda, del capital aportado y de los remanentes después de impu"}, {"type": "reemplaza", "target_type": "circular", "target_number": 67, "target_year": 2015, "raw_text": "En relación a la determinación del saldo del registro RAI, es preciso señalar que se deberá reversar el remanente proveniente del ejercicio anterior que no haya sido agotado a la fecha de división, dado que éste será reemplazado por el sald"}]
 ---
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875

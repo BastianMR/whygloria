@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "iec", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 13 bis del Decreto Ley N° 828 de 1974", "artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR SUBDIRECCION NORMATIVA IMPUESTOS DIRECTOS** | **CIRCULAR N° 36.- 06.2015 SN 36.2015 ID** |

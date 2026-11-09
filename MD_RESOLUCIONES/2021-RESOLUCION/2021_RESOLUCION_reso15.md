@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta (en adelante, LIR), contenida en el artículo 1° del D.L N° 824, de 1974 y, en la Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020, sobre Modernización Tributaria."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6° letra B N° 5 y 67 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en la Circular N° 39, modificada por la Circular N° 60, ambas de 2025", "en la Resolución Conjunta Ex", "en la Resolución Ex", "y en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 363662

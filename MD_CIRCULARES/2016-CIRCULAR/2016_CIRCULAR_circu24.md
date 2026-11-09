@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980, artículo 9°", "Ley N° 20.899, artículo 6°, N° 2."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 41, "target_year": 2015, "raw_text": "Modifica la Circular N° 41, de 5 de junio de 2015. | REFERENCIA: Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980, artículo 9°;"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 24.-** |

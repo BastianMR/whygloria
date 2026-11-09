@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "territorial", "contribuciones"]
 formularios: ["DJ1808", "F22"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7°"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso56.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR Nº02.- GE00302908** |

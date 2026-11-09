@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de Hacienda, de fecha 30 de Septiembre de 1980", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario, del D.L N° 830, de 1974", "lo dispuesto en el artículo 27 de la Ley N° 19.420, de 1995, que establece incentivos para el desarrollo económico de las provincias de Arica y Parinacota y modifica los cuerpos legales que indica, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L N° 1, de 2001, del Ministerio", "lo dispuesto en el artículo 56, incisos 3° y 4° de la Ley sobre Impuesto a las Ventas y Servicios, del D", "la Resolución Ex", "las Circulares N° 50 de 1995, N° 64 de 1996, N° 46 de 2000 y N° 45 de 2008, que instruyen sobre la aplicación de la Ley Arica N° 19.420"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

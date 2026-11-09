@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 5, 6 N° 3, primero, quinto y sexto transitorios de la Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Artículo único y transitorio de la Ley N° 21.462, publicada en el Diario Oficial el 26 de julio de 2022", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "Decreto Ley N° 910 de 1975."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2023-CIRCULAR/2023_CIRCULAR_circu37.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 43.- GE204516.** |

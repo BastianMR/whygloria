@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario, y artículo 15° transitorio de la Ley N° 20.780."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu42.md"]
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 55, "target_year": 2014, "raw_text": "Complementa instrucciones contenidas en la Circular N° 55 de 2014, de este Servicio. | REFERENCIA: Nº Y NOMBRE DEL VOLUMEN: Artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario, y artículo 15° tran"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA 1875** | **CIRCULAR Nº 55.-** |

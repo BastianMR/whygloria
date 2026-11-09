@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824 de 1974", "la Resolución Exenta SII N° 6836 de fecha 28.12.1993 y sus modificaciones posteriores", "la Resolución Exenta SII Nº 46 de fecha 24.05.2016", "la Resolución Exenta SII Nº 44, de fecha 27.04.2021, y la Resolución Exenta N°285 de fecha 11.03.2021, de la Dirección del Trabajo"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario Nº 1887, en los casos que se señalan.

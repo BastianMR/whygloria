@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, letra A, N° 1", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

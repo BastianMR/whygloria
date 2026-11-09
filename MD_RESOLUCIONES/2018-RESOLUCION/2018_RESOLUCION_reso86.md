@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1, 34, 35, y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L 830, de 1974", "en los artículos 1° y siguientes, de la Ley Orgánica del Servicio de Impuestos Internos contenido en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 42 N°2 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "lo dispuesto en el artículo 2° de la Ley N° 20.809 que, entre otros, otorga beneficios tributarios en el territorio de Isla de Pascua", "en el Decreto Ley N° 3.500 de 1980, que establece Nuevo Sistema de Pensiones, modificado mediante la Ley N° 20.255, que Establece Reforma Previsional"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2021-RESOLUCION/2021_RESOLUCION_reso98.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "y las Resoluciones Exentas N°s 5028, de 28.08.1998"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 50, "target_year": 1985, "raw_text": "MODIFÍCASE la Resolución Exenta N° 50, del 27-05-2016 en términos de suprimir la referencia que se hace en dicho acto a la Resolución Exenta N° 75, de 1985."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016

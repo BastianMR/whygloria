@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.848, publicada en el Diario Oficial de 25 de junio de 2015, Ley 20.899, publicada en el Diario Oficial de 08 de febrero de 2016 y Ley N° 21.210 publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 48, "target_year": 1978, "raw_text": "Deja sin efecto la Circular N° 48 de 1978 | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 55** |

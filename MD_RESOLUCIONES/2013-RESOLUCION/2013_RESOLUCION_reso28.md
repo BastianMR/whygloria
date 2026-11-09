@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Título IV de la Ley N° 20.255, de 2008, del Ministerio del Trabajo y Previsión Social, y Subsecretaría de Previsión Social, que establece Reforma Previsional"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS

@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 4° y 29° de la Ley N°17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A), N°1 del Decreto Ley N°830, sobre Código Tributario de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ANEXA TABLAS DE COEFICIENTES GUÍAS DE TERRENO A PLANO DE PRECIOS DE LA COMUNA DE MELIPILLA CONTENIDO EN LA RESOLUCIÓN EX. SII N°108 DE 27.12.2013

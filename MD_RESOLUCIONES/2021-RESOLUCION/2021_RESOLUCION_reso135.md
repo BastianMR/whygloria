@@ -10,6 +10,9 @@ impuestos: ["segunda-categoria"]
 formularios: ["DJ1887"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "lo dispuesto en el artículo 4° de Decreto con Fuerza de Ley N° 1, de 1967, del Ministerio del Trabajo y Previsión Social", "la Resolución Exenta N° 260 de 28 de febrero de 2019, que aprueba Definiciones Estratégicas Subsecretaría del Trabajo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00197579

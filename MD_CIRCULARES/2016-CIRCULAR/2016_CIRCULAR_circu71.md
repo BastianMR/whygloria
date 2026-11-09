@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres"]
 formularios: ["DJ1922"]
 regimen: ["14B"]
 ref_legal: ["Ley N° 20.712 de 2014"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 67, "target_year": 2016, "raw_text": "Asimismo, se complementa la Circular N° 67 de 2016, en lo relacionado con las modificaciones efectuadas a los artículos 104 y 108, de la LIR, por las leyes 20-956 4 y 20-780, respectivamente."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 71.- 15-2016 ID 5-2016 SN** |

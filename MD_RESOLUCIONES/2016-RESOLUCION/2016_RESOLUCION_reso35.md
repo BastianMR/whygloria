@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 349 de 1984", "y lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República:"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2024-RESOLUCION/2024_RESOLUCION_reso46.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 349, "target_year": 1984, "raw_text": "NOVENO: Desde la entrada en vigencia de la presente resolución, se deja sin efecto el apartado VI del Párrafo N°1 de la Resolución N° 349, de 1984; la Resolución Exenta N° 10, de 2009, y la Resolución Exenta N° 75, de 2013 y sus modificacio"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

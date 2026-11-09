@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 54 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "la Ley N° 21.210 de 2020 que Moderniza la Legislación Tributaria", "la Ley N° 21.256 de 2020 que establece medidas tributarias que forman parte del plan de emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

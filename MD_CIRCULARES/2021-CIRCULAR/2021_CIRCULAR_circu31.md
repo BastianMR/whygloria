@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "segunda-categoria"]
 formularios: ["F29", "F50"]
 regimen: ["renta-presunta"]
 ref_legal: ["Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 48, "target_year": 2016, "raw_text": "Deja sin efecto la Circular N° 48 de 2016 y parcialmente la Circular N° 44 de 2017. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°31.- 179607.2021 GE** |

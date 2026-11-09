@@ -10,6 +10,9 @@ impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo décimo noveno de la Ley N°21.210 de 2020", "las instrucciones impartidas en las Resoluciones Exentas SII N° 4085 de 1990 y sus modificaciones posteriores, N° 6836 de 1993 y sus modificaciones posteriores, N° 86 de 2012 y sus modificaciones posteriores, N° 120 de 2016 y sus modificaciones posteriores, Nº 86 de 2018, N° 97 de 2020 y N° 127 de 2"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 86, "target_year": 2018, "raw_text": "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018"}]
 ---
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018

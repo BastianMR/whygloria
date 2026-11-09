@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974, del Ministerio de Hacienda", "el D.S N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 <unknown>

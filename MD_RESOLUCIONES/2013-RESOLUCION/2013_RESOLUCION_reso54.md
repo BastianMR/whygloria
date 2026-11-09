@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991, la Resolución Ex", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 379, "target_year": 1991, "raw_text": "Modifícase el número 8 de la letra A de la Resolución N° 379, de 04 de diciembre de 1991, modificada por las Resoluciones Exentas N° 15549 de 28 de diciembre de 2007, N° 6 de 02 de enero de 2009 y N° 143 de 15 de diciembre de 2011 respectiv"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 1° N° 3 y artículo segundo transitorio Ley N° 21.047"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 43, "target_year": 2003, "raw_text": "Deja sin efecto las Circulares N° 43 de 2003 y N° 16 de 2018. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°15.- 199043.2021 GE** |

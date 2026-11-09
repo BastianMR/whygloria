@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "lo dispuesto en la letra C) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899 publicada en el Diario Oficial el 08.02"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2020-RESOLUCION/2020_RESOLUCION_reso127.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

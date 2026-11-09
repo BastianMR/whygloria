@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en el artículo 6º letra A, Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L Nº 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el D.L N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y su Reglamento, contenido en el D.S N° 55 del Ministerio de Hacienda, de 1977", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "y las instrucciones contenidas en las Resoluciones Ex", "la Resolución Ex", "la Circular SII N°19, de 11.05.1995"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

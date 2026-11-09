@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículo 30 y 31 N°3 de la Ley sobre Impuesto a la Renta", "artículo 23 N°1 de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 54, "target_year": 2009, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 39 161-2018 ID 5-2018 SDN Circ.** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 DE JULIO 2018 | | MATERIA: Complementa Circular N°54 del 2 de octubre de 2"}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 164, "target_year": 2009, "raw_text": "1 La Resolución N°59 del 20 de junio de 2014 reemplazó a la Resolución N°129 del 6 de agosto de 2010, instrucción que a su vez había reemplazado a la Resolución N°164 del 30 de octubre de 2009."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 39 161-2018 ID 5-2018 SDN Circ.** |

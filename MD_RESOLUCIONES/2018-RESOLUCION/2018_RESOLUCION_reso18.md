@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 129, de fecha 29.12.2017."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 129, "target_year": 2017, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA.

@@ -10,6 +10,9 @@ impuestos: []
 formularios: ["DJ1820", "DJ1835", "DJ1862", "DJ1866", "DJ1874", "DJ1879", "DJ1887", "DJ1907", "DJ1926", "DJ1928", "DJ1930", "DJ1943", "DJ1944"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del Decreto Ley N° 830, de 1974", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "la Ley N° 21.713", "las instrucciones impartidas en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

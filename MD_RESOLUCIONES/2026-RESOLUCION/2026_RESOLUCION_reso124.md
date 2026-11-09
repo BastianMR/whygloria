@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras b) y c), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Lri e dio contenido en el artículo 1º del Decreto Ley Nº 830 de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MANTÉNGASE VIGENTE LA NÓMINA DE BIENES AFECTOS DE LA RESOLUCIÓN EX. SI N°194 AÑO 2025, EN CONFORMIDAD A LO ESTABLECIDO EN EL ARTÍCULO 9°DE LA LEY N° 21.420.

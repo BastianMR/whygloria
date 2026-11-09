@@ -10,6 +10,9 @@ impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["ARTS PERTINENTES DE LA LIR, LEY N° 20.444 Y CIRCULARES N°S 44, de 2010 Y 26, DE 2013"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 61.-** |

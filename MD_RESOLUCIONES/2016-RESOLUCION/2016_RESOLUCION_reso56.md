@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 66 del Código Tributario contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 2°, 4° y 7° del D.F.L N° 3 del Ministerio de Hacienda, de 1969, que crea el Rol Único Tributario y establece normas para su aplicación", "y las facultades que me confieren los artículos 6º letra A) Nº 1 del mencionado Código y 4° bis y 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Intern"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

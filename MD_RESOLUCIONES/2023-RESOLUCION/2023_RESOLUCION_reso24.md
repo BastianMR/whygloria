@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c) y i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N°6, de 2019 de la Contraloría General de la República"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2023-RESOLUCION/2023_RESOLUCION_reso134.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 227547

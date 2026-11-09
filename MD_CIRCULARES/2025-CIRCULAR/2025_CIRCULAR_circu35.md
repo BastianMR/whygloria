@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 9°, 11, 11 bis, 11 ter, 12, 13, 14 y 15", "Ley N° 21.713, artículo 1°, numerales 10, 11 y 12."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 34, "target_year": 2015, "raw_text": "Deja sin efecto la Circular N° 34 de 2015, modificada por Circulares N° 23 de 2016 y N° 12 de 2021 | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica. Asesoría Jurídica** | **CIRCULAR N°35.- 317829.2025 GE** |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 10, 21, 35 y 85 bis del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el apartado 2 del Artículo Único y Artículo transitorio de la Ley N° 21.453, que Modifica el Código Tributario obligando a Bancos y otras instituciones financieras a entregar información sobre saldos y sumas de abonos en cuentas financieras al Servicio de Impuestos Internos, publicada en el Diari"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMATO, CONTENIDO Y MEDIO DE ENVÍO DEL REPORTE DE SALDOS Y SUMAS DE ABONOS DE CUENTAS FINANCIERAS, SEGÚN ARTÍCULO 85 BIS DEL CÓDIGO TRIBUTARIO.

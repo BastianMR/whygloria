@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu27.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 21, "target_year": 2013, "raw_text": "DEROGA CIRCULAR N° 21, DE 19 DE ABRIL DE 2013, N° 41, DE 05 DE SEPTIEMBRE DE 2013 y N° 89, DE 25 DE NOVIEMBRE DE 2015."}]
 ---
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR N° 50.-** |

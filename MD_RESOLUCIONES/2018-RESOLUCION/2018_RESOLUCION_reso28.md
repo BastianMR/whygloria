@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Ley N° 20.650, los artículos 2°, 3°, 4°, 7°, 9° y 29 de la Ley N° 17.235, sobre Impuesto Territorial, el artículo 6°, letra A), N°1 del Decreto Ley N°830, de 1974, sobre Código Tributario"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 128, "target_year": 2017, "raw_text": "REFUNDE Y COMPLEMENTA RESOLUCIONES EXENTAS SII N° 128 DE 29 DE DICIEMBRE DE 2017;"}]
 ---
 
 REFUNDE Y COMPLEMENTA RESOLUCIONES EXENTAS SII N° 128 DE 29 DE DICIEMBRE DE 2017; N° 7, DE 18 DE ENERO DE 2018; N° 16, DE 14 DE FEBRERO DE 2018, QUE FIJAN VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA, Y RESOLUCIÓN EXENTA N° 11, DE 30 DE ENERO DE 2018, QUE FIJA VALORES DE MONTOS DE AVALÚO EXENTO, DE AVALÚO PARA CAMBIO DE TASA DEL IMPUESTO TERRITORIAL Y EXENCIÓN DE PLENO DERECHO, PARA PREDIOS NO AGRÍCOLAS REAVALUADOS CON VIGENCIA 1° DE ENERO DE 2018.

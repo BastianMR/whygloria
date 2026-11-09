@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 1, de la letra A, del artículo 6° del Código Tributario y las letras a), b) e i) del artículo 7°, todos del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda, sobre Ley Orgánica del Servicio de Impuestos Internos", "y en el artículo trigésimo tercero transitorio de la Ley N° 21.210."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA PROCEDIMIENTO ADMINISTRATIVO A QUE SE DEBEN SOMETER LAS SOLICITUDES EFECTUADAS POR LOS CONTRIBUYENTES EN EL MARCO DE LO DISPUESTO EN EL ARTÍCULO TRIGÉSIMO TERCERO TRANSITORIO DE LA LEY N°21.210.

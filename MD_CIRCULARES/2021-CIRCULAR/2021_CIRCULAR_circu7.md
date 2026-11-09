@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículos 20 y 84 de la Ley sobre Impuesto a la Renta", "artículo décimo octavo transitorio de la Ley N° 21.210 publicada en el Diario Oficial el 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°7.- 174206 GE CIRC ID 18-2020** |

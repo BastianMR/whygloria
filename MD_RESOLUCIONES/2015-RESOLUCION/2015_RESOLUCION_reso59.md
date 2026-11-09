@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Distribución:

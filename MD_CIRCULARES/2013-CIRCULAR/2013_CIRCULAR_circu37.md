@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["D.F.L N° 340 de 1960 sobre Concesiones Marítimas"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 15, "target_year": 2010, "raw_text": "| **DEPARTAMENTO EMISOR: Técnica Tributaria** | **CIRCULAR N° 37.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 30 de julio de 2013.- | | MATERIA: Complementa instrucciones relacionadas con las tasaciones que corres"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Técnica Tributaria** | **CIRCULAR N° 37.-** |

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el N° 1, de la letra A), del Art 6°, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los Arts 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios", "la Resolución Ex", "la Circular N° 129, de 1977", "la Circular N° 39, de 2000"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018

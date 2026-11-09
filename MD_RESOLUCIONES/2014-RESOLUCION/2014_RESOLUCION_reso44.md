@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, el Código Tributario contenido en D.L N° 830 de 1974, la Ley N° 18.575 Orgánica Constitucional sobre Bases de la Administración del Estado, la Resolución N° 349 de 1984 y, en "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURIDÍCA

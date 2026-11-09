@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1, artículo 24, y artículo 68, todos del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D), 22 N° 5, y artículo 34, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824, de 1974", "el Decreto N°240, de fecha 23.06.2021, del Ministerio de Hacienda, que fija rubros especiales afectados por la pandemia provocada por el Covid-19, de conformidad a lo dispuesto en el artículo 11 de la Ley Nº21.354", "lo dispuesto en el Decreto N° 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que 'Fija el texto refundido, coordinado y sistematizado de la Ley N° 18.892, de 1989 y sus modificaciones, Ley General de Pesca y Acuicultura'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

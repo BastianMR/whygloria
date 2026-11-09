@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980", "el artículo 6°, letra A), N° 1° del D.L N° 830, de 1974, sobre Código Tributario", "los artículos 1º, 36 y 68 del D.L Nº 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "el artículo 83 bis del D.S N° 55, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "el artículo 2°, letra c) y artículo 6°, inciso 3°, del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto fue aprobado mediante Decreto N° 79 de 1991, del mismo Ministerio", "las Resoluciones Exentas N° 208 de 2009"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 53, DE 30.04.2019. COMPLEMENTA RESOLUCIÓN EX. SII N° 208 DE 2009

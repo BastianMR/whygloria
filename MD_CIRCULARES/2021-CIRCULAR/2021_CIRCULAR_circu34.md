@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "14B"]
 ref_legal: ["Ley N° 21.210", "Ley N° 20.712", "Circular N° 71 de 2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 73, "target_year": 2020, "raw_text": "Se reemplaza la expresión 'y 3' por ', 4 y 5', y se reemplaza la letra 'B)' por la letra 'A)' 8 para adecuar el texto de la citada norma legal, al nuevo régimen de tributación contenido en la letra A del artículo 14 de la LIR, aplicable a l"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°34.- 178836.2021 GE** |

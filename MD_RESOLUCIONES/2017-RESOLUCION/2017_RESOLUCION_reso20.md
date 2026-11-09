@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en los artículos pertinentes de la Ley sobre Impuesto a la Renta", "y en la Ley Nº 20.900, que establece normas para el fortalecimiento y transparencia de la democracia"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 92, "target_year": null, "raw_text": "DEROGA RESOLUCIONES N°92 Y N°116, AMBAS DEL AÑO 2004, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1830 y N°1831, RESPECTIVAMENTE"}, {"type": "deroga", "target_type": "resolucion", "target_number": 116, "target_year": null, "raw_text": "DEROGA RESOLUCIONES N°92 Y N°116, AMBAS DEL AÑO 2004, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1830 y N°1831, RESPECTIVAMENTE"}, {"type": "deroga", "target_type": "resolucion", "target_number": 92, "target_year": 2004, "raw_text": "1° Derógase, a partir del Año Tributario 2017, la Resolución Exenta N° 92, de 2004, que establece la obligación de presentar del Formulario N°1830 y la Resolución Exenta N° 116, de 2004, que establece la obligación de presentar del Formular"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

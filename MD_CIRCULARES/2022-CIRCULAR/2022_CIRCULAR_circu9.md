@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 18, de 28 de enero de 2022, del Ministerio de Hacienda, publicado en el Diario Oficial de 9 de febrero de 2022", "y Resolución Exenta N° 14, de 10 de febrero de 2022, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 16 de febrero de 2022."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°9.- 204349.2022 GE** |

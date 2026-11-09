@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1° y artículo 7°, letras c), y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00192652

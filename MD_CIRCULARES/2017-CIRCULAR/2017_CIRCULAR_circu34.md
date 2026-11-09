@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 10, letra e)", "y 13, todos de la Ley N°17.235, Sobre Impuesto Territorial", "Artículos 1° y 3° de la Ley N° 16.282, Sobre Disposiciones Permanentes para Casos de Sismos o Catástrofes."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES** | **CIRCULAR N°: 34.-** |

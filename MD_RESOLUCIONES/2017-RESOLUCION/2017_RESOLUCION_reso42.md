@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° letras c), i), j) y k) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "los artículos 66 y 69, del DFL"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## MATERIA: DELEGA FACULTAD QUE INDICA.

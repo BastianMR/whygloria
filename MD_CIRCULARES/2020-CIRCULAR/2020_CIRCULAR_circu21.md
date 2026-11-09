@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT** | **CIRCULAR N° 21** |

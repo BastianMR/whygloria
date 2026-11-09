@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "territorial", "segunda-categoria", "cont
 formularios: ["F22"]
 regimen: ["14A", "14B", "14D3", "14D8", "renta-presunta"]
 ref_legal: ["Artículo 14 letra D) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 43, "target_year": 2016, "raw_text": "Reemplaza la Circular N°43 de 2016 | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN NORMATIVA IMPUESTOS DIRECTOS** | **CIRCULAR N° 62 25.2020 CIRC.SN 10.2020 CIRC.ID** |

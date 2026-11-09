@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A) N°1 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7 de 1980, del Ministerio de Hacienda", "en los artículos 2°, 31, 42 N°2, 43, 50, 51, 52, 54, 65, 68 letra b), 68 bis, 69, 74 N°2, 84 letra b), 91, 95 y 98 de La Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N°824 de 1974", "en los artículos 12 letra E) N°8, 52, 53 y 54 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "y lo instruido en las Circulares N°21 de 1991, N°53 de 2020 y N°25 de 2021", "y en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

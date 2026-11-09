@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 20, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 02.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 de enero de 2017.- | | MATERIA: Complementa instrucciones"}, {"type": "complementa", "target_type": "circular", "target_number": 21, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 02.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 11 de enero de 2017.- | | MATERIA: Complementa instrucciones"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 02.-** |

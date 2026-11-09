@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 7 de la Ley N° 21.641, publicada en el Diario Oficial de 30 de diciembre de 2023", "artículos 66 y 66 bis del Código Tributario, y artículo 42 de la Ley N° 18.840, Orgánica Constitucional del Banco Central de Chile."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 31, "target_year": 2007, "raw_text": "Complementa Circulares N° 31 de 2007 y N° 31 de 2014. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº26.- GE00274893** |

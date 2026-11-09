@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "los artículos 6°, letra A), N° 1, 21, 30 y 34 del Código Tributario, contenidos en el artículo 1° del Decreto Ley N° 830, de 1974", "el artículo 17 N° 8 letra b), según texto vigente a contar del 01 de enero de 2017, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "y el párrafo iii) del N° XVI, del artículo tercero transitorio, de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación a la renta e introduce diversos ajustes en el sistema tributario"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

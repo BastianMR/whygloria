@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley N° 20.732 publicada en el Diario Oficial el 05 de marzo de 2014"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 20, "target_year": 2014, "raw_text": "Asimismo, deroga parcialmente Circulares N°s 20 y 41, de 2014 y N° 2, de 2017. | REFERENCIA: Ley N° 21-210, publicada en el Diario Oficial el 24 de febrero de 2020;"}, {"type": "deroga", "target_type": "circular", "target_number": 41, "target_year": 2017, "raw_text": "Asimismo, deroga parcialmente Circulares N°s 20 y 41, de 2014 y N° 2, de 2017. | REFERENCIA: Ley N° 21-210, publicada en el Diario Oficial el 24 de febrero de 2020;"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Avaluaciones** | **CIRCULAR N° 24** |

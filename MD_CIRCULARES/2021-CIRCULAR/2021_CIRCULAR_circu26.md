@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, artículo tercero, que modifica el Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu12.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 26 178148.2021 GE** |

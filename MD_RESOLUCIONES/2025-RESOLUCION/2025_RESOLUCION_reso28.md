@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830 de 1974", "y el N° 3 del artículo 2° de la Ley N° 21.713"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

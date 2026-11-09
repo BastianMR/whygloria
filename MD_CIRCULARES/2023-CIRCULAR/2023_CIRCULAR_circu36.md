@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.564, Ley N° 8.834, Ley sobre Impuesto a la Renta y Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 106, "target_year": 1979, "raw_text": "Se deja sin efecto Circular N° 106 de 1979. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos** | **CIRCULAR N°36.- 247101.2023 GE** |

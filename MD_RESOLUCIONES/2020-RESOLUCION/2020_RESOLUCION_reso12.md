@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los Artículos 1°, 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial, y en la Resolución Exenta SII N° 144 de 2019, que fija valores de terrenos y construcciones para el reavalúo de los bienes raíces de la primera serie agrícola"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MODIFICA RESOLUCIÓN EX. SII N° 144, DE 31 DE DICIEMBRE DE 2019, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA.

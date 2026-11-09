@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "los artículos 3, 12, 21, 31 al 33, 41 A, 41 B, 41 C, 41 D, 41 G y 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, modificada por las Leyes N°s 20.780 y 20.899, publicadas en el Diario Oficial el 29 de septiembre de 2014 y el 8 de febrero de 2016, respec"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

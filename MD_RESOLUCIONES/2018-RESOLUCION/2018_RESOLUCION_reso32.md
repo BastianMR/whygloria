@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "14B", "renta-presunta"]
 ref_legal: ["Las facultades conferidas en el artículo 6° letra B), N° 3, del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974, lo dispuesto en el ordinal 2° del artículo 8° bis del mismo cuerpo legal y lo establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N°", "lo dispuesto en el artículo 69 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L N° 824, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Otorga condonación sobre las multas infraccionales en los casos que se señalan.

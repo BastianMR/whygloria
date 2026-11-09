@@ -97,6 +97,29 @@ SII N…`) survived the conversion. 213 resolutions lost that header line, so th
 read `false` even though their PDF says otherwise; recomputing them needs a
 re-conversion, not a rule change.
 
+## Supersession map
+
+Circulares and resoluciones repeal, modify and replace each other in their own
+text. `scripts/vigencia.py` turns that into `relaciones` (one entry per stated
+edge), and derives `status_vigencia` plus `replaced_by` across the whole corpus.
+The graph is written to [`relaciones.json`](./relaciones.json).
+
+Only a phrase followed by an explicit document number in the same sentence
+creates an edge. That rule is measured, not assumed: `MODIFICA` appears 9207
+times in this corpus and most of those are prose, not relationships.
+
+```bash
+python scripts/sii_pdfs.py --vigencia   # rebuild frontmatter status + relaciones.json
+python scripts/vigencia.py              # report only, from current frontmatter
+```
+
+`status_vigencia` says what this corpus knows: `vigente` means no document here
+repeals or amends it, which is not proof — an oficio or a law can repeal a
+circular silently. `desconocido` is reserved for a genuine ambiguity (the same
+number twice in the same year), so today it is zero; the 215 unresolved targets
+are listed in the report and in `relaciones.json`, and they are the honest
+"repealed from outside the corpus" set.
+
 ## How to work with it
 
 ### Reading
@@ -137,9 +160,7 @@ re-conversion, not a rule change.
    have no circular number, so they do not fit the `circu<N>` naming yet.
 3. Fix the two legacy title collisions (`reso37` / `reso37_afecta` in 2013,
    `reso06` / `reso6` in 2014) if a strict one-file-per-document rule matters.
-4. Add CI that runs the three validators on push. They are offline checks, so
-   a free runner is enough.
-5. SII publishes through the year. Re-run the checklist quarterly so the mirror
+4. SII publishes through the year. Re-run the checklist quarterly so the mirror
    does not drift.
 
 ## References
@@ -158,4 +179,6 @@ re-conversion, not a rule change.
   publication without a circular number, and the bundle has no convention for
   them yet.
 - The two title collisions above predate the pipeline.
-- No CI yet: the validators only run by hand.
+- 213 resolutions lost their signature line in conversion, so `exenta` reads
+  `false`; 65 documents lost their date and 9 their subject. These need a
+  re-conversion of that subset, not a rule change.

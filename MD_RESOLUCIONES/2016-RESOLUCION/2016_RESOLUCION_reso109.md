@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los artículos 2°, 3° bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del D.F.L Nº 7, del Ministerio de Hacienda, de 1980", "y la Resolución Exenta SII N° 119, de fecha 29.12.2015."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 DENIEGA SOLICITUD DE EXCLUSIÓN DE NÓMINA DE GRANDES CONTRIBUYENTES A COMPAÑÍA MINERA SAN GERONIMO, RUT N° 78.801.520-8.

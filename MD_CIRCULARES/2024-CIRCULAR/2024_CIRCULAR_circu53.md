@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "Ley N° 21.440, publicada en el Diario Oficial de 12 de abril de 2022", "y N° 9 del artículo 46 de la Ley N° 21.455, publicada en el Diario Oficial de 13 de junio de 2022."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 24, "target_year": 1993, "raw_text": "Modifica Circular N° 24 de 1993 y deja sin efecto Circular N° 49 de 2022. | REF."}, {"type": "deroga", "target_type": "circular", "target_number": 49, "target_year": 2022, "raw_text": "Atendido que las modificaciones introducidas al Título VIII bis implican cambios relevantes, para mayor claridad, en la presente circular se imparten instrucciones actualizadas sobre el régimen de donaciones que consagra ese Título VIII bis"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°53.- 299756.2024 GE** |

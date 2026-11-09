@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "la Ley N°19.880 que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "en el artículo 3° del Decreto Ley N°3.457 de 1980", "en la Resolución Exenta SII N°41, de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 41, "target_year": 2025, "raw_text": "MODIFICA FECHA DE ENTRADA EN VIGENCIA DE LA RESOLUCIÓN EXENTA SII N°41 DE 2025, QUE DISPONE FORMA DE SUSCRIPCIÓN DE LA DECLARACIÓN JURADA EXIGIDA POR LAS CIRCULARES N° 39 DE 1991 Y N° 27 DE 2007."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

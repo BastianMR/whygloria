@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 1 de la Letra A) del artículo 6°, el artículo 149 y el artículo 150, del D.L N° 830, de 1974, sobre Código Tributario, los artículos 1°, 7° y 10 del DFL N° 7, de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos y, las leyes N° 17"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017.

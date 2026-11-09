@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 50, de 7 de febrero de 2025, del Ministerio de Hacienda, publicado en el Diario Oficial de 14 de febrero de 2025", "y Resolución Exenta N° 33, de 13 de marzo de 2025, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 20 de marzo de 2025."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°24.- 318442.2025 GE** |

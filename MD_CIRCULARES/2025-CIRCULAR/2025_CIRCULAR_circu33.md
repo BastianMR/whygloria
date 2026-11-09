@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 63, "target_year": 2001, "raw_text": "Modifica las Circulares N° 63 de 2001 y N° 34 de 2022. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°33 GE00307631** |

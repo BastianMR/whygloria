@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo vigésimo séptimo transitorio de la Ley N° 21.210, en relación conel N° 3 del artículo 31 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTOEMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 19 178657.2021 GE** |

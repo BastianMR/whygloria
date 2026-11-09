@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Sii

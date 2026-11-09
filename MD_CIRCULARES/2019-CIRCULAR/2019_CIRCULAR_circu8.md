@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 7, "target_year": 2019, "raw_text": "| **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°8** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 13 DE FEBRERO 2019 | | MODIFICA CIRCULAR N° 7, DEL 11 DE FEBRERO DE 2019, EN LA PARTE QUE INDICA. "}]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°8** |

@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A) numero 1°, del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "los artículos 10, 16 y 28 de la Ley N°17.235, sobre Impuesto Territorial", "y la Circular N° 7 y N° 28, de 2020, de este Servicio"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES

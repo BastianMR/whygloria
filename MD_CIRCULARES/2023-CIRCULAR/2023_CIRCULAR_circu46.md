@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.581, Ley N° 20.998 y Ley de Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Indirectos** | **CIRCULAR N°46.- 255395.2023 GE** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículo 5 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024 y artículo 9 de la Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 57, "target_year": 2022, "raw_text": "Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°50.- 297989.2024 GE** |

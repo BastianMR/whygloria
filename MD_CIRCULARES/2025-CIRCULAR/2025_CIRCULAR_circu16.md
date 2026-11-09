@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículo 41 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 9, "target_year": 2025, "raw_text": "Complementa Circular N° 9 de 2025. | la REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°16.- 313901.2025 GE** |

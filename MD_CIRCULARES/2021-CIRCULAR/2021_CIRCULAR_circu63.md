@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["N° 8 del artículo 8° del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Normas Internacionales** | **CIRCULAR N° 63.- 167124.2021 GE** |

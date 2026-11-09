@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Art 64, del D.L N° 825, de 1974 y la Ley N° 20.780, de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu25.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 61** |

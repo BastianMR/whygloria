@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6° letra A) N°1, 33 bis y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "en el artículo 588 del Código de Comercio", "en los artículos 17 N°3, 20, 52, 56 N°3, 57 bis, 60, 63, 75 y 78 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824 de 1974", "la Ley N°21.420, que modificó el artículo 17 de la Ley N°16.271, de Impuesto a las Herencias, Asignaciones y Donaciones"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

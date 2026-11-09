@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "la letra 'q' del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el Decreto con Fuerza de Ley N° 1 del año 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 DELEGA FACULTAD DE CELEBRAR ACUERDOS DE COLABORACIÓN TRIBUTARIA EN DIRECTORES REGIONALES Y EN EL DIRECTOR DE GRANDES CONTRIBUYENTES.

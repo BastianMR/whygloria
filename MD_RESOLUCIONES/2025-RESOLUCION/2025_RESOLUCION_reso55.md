@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 8 N° 14, 8° bis, 59, 59 ter, 65 bis y 65 ter todos del Código Tributario", "en los artículos 1°, 4 bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, de Hacienda", "las modificaciones introducidas al Código Tributario por los números 21, 28 y 29 del artículo 1° de la Ley N° 21.713, y la Circular N° 6 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 GE 316936

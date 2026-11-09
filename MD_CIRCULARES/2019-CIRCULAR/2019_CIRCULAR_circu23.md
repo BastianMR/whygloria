@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
 ref_legal: ["Art 29, de la Ley N° 18.591."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 12, "target_year": 1987, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N°23.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 16 DE MAYO 2019 | | MATERIA: Se modifican instrucciones contenidas en el N° 4-1, de la Circular N° 12, "}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N°23.-** |

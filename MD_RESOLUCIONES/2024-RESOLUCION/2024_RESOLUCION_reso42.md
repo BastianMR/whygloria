@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 3°, 4°, 10° y 12° de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1 de 1998, del Ministerio de Hacienda, y lo instruido en la Resolución Exenta SII N° 150 de 2023, q"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 150, "target_year": 2023, "raw_text": "MODIFÍCASE el resolutivo 5° de la Resolución Exenta N° 150 de 2023, actualizando al primer semestre de 2024 el monto de avalúo exento de los bienes raíces pertenecientes a la primera serie agrícola, e incluyendo las actualizaciones catastra"}]
 ---
 
 MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAICES DE LA PRIMERA SERIE AGRÍCOLA, POR LA ACTUALIZACIÓN CATASTRAL, EN LO QUE INDICA.

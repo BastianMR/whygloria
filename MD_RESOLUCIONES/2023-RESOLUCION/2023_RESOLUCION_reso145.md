@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° letras a), c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6º, letra A) N°1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974", "la Circular SII N°57 de fecha 26.12.2022 y su modificación por Circular SII N° 38, del 06.09.2023"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA REGISTRO DEL PRECIO CORRIENTE EN PLAZA DE HELICÓPTEROS, AVIONES Y YATES, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420.

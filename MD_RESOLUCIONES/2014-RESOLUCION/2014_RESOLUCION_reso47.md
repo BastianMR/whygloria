@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6º letra A) Nº 1, 60 inciso octavo y 63 inciso primero del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2018-RESOLUCION/2018_RESOLUCION_reso46.md"]
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA DEPTO. NORMAS INTERNACIONALES

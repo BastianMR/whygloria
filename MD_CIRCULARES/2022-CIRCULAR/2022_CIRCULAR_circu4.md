@@ -10,6 +10,9 @@ impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 9, 10, 14, 34 y 60 del Código Tributario."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 54, "target_year": 2002, "raw_text": "Deroga Circular N° 54 de 2002, modificada por la Circular N° 12 de 2021. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N° 4.- GE00195417** |

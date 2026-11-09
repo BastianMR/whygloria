@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 62, "target_year": 2025, "raw_text": "Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026. | REF."}]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                                                                    | CIRCULAR N°07 365105.2026 GE                                                      |

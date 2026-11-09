@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980", "lo dispuesto en el artículo 104 de la Ley sobre Impuesto a la Renta, texto legal contenido en el artículo 1° del D.L N° 824, de 1974", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 4847, "target_year": 1995, "raw_text": "MODIFICA LA RESOLUCIÓN EXENTA SII N° 4847 DE 1995 REEMPLAZANDO EL FORMULARIO 1891 E INSTRUCCIONES DE LLENADO."}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 1, "target_year": null, "raw_text": "1995, por cuanto se reemplaza el Formulario N° 1891 e instrucciones de llenado contenidas en los Anexos de la citada resolución, por los contenidos en el Anexo N° 1 y 2 de la presente resolución, pasando a denominarse: ' Declaración Jurada "}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 2, "target_year": null, "raw_text": "1995, por cuanto se reemplaza el Formulario N° 1891 e instrucciones de llenado contenidas en los Anexos de la citada resolución, por los contenidos en el Anexo N° 1 y 2 de la presente resolución, pasando a denominarse: ' Declaración Jurada "}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

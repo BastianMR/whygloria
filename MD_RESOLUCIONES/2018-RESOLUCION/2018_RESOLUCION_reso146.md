@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° del Código Tributario contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 4°, inciso final de la Ley Orgánica del Servicio de Impuestos Internos", "el artículo 7°, letras a), c) y ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "en los artículos 41 y 43 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y la Ley N° 18.834, sobre Estatuto Administrativo", "la Resolución Exenta N°197, de 2009", "la Resolución Exenta N°49, de 2012"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DESARROLLO DE LAS PERSONAS

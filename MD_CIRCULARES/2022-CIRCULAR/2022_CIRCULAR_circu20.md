@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022", "Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Departamento de Técnica Tributaria** | **CIRCULAR N°20.- 204839.2022 GE** |

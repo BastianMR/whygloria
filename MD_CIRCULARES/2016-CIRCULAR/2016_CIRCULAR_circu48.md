@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780 de 29 de septiembre de 2014", "Ley N° 20.899 de 8 de febrero de 2016 y artículos 41 A, 41 B, 41 C, y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2018-CIRCULAR/2018_CIRCULAR_circu13.md", "MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu31.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 46, "target_year": 2015, "raw_text": "Deja sin efecto Circular N° 46 de 2015. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 48.- 18.2016 ID 08.2016 SN** |

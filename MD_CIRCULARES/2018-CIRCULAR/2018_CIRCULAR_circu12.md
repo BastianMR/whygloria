@@ -10,6 +10,9 @@ impuestos: ["herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 16.271, sobre Impuesto a las Herencias y Donaciones"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 19, "target_year": 2004, "raw_text": "| **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES** | **CIRCULAR N° 12.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 15 DE FEBRERO 2018 | | MATERIA: MODIFICA LA CIRCULAR N° 19, DEL 19"}, {"type": "reemplaza", "target_type": "circular", "target_number": 19, "target_year": 2004, "raw_text": "Con ello, los Anexos que se adjuntan en la presente instrucción reemplazan en el mismo orden a los que se encuentran anexados a la Circular N° 19 de 2004."}, {"type": "complementa", "target_type": "circular", "target_number": 19, "target_year": 2004, "raw_text": "Asimismo, se complementa el apartado 1-6. contenido en la letra A) del capítulo IV, titulado: 'Forma de acreditar el pago del impuesto o su exención', de la citada Circular N° 19, del 2004, agregando como párrafo final el siguiente:"}]
 ---
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES** | **CIRCULAR N° 12.-** |

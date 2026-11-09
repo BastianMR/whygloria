@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980 del Ministerio de Hacienda", "en el artículo 6°, letra A), N° 1 y artículo 33 del Código Tributario", "en el artículo 1° número 18 de la Ley N° 21.210 publicada en el Diario Oficial el 24.02.2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA PLAZO Y FORMA EN QUE ESTE SERVICIO DEBE REALIZAR LOS AVISOS PARA EJECUTAR LAS MEDIDAS PREVENTIVAS Y DE COLABORACIÓN CONTEMPLADAS EN EL NUMERAL iii. DEL ARTÍCULO 33 DEL CÓDIGO TRIBUTARIO

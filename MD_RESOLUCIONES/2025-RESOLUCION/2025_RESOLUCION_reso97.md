@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 del DFL N° 1/19.653, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "la Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento, contenido en el Decreto Supremo N° 661 del año 2024, del Ministerio de Hacienda", "y la Resolución Exenta SII N° 146, de 27 de noviembre de 2020, que Delega facultades y asigna funciones en las Jefaturas que indica", "las Resoluciones Exentas SII N° 49 y 63, ambas de 2021, que modifican la anterior", "la Resolución N° 36, de 2024, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 146, "target_year": 2020, "raw_text": "## MODIFICA RESOLUCIÓN EXENTA SII N° 146, DE 2020, SOBRE DELEGACIÓN DE FACULTADES Y ASIGNACIÓN DE FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA."}, {"type": "modifica", "target_type": "resolucion", "target_number": 36, "target_year": 2024, "raw_text": "VISTOS: Lo dispuesto en el artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980; el N°3 de la "}]
 ---
 
 Sii

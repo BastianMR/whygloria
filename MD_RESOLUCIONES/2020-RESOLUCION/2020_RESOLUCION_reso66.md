@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N°1 del Código Tributario y, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el Decreto N° 104, de fecha 18 de marzo de 2020 que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile', complementado por el Decreto N° 107 de la misma repartición, de fecha 20 de marzo de 2020 que 'Declara como zonas afectadas por catástrofe", "y el Decreto Nº 269, de 12 de junio de 2020, del Ministerio del Interior y Seguridad Pública, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indica'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 <unknown>

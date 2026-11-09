@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1º del D.L Nº 830, de 1974", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "el artículo 45 del Código Civil"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

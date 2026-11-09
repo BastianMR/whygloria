@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, Art 21"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu41.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 40.-** |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 fecha 14 de enero de 2019, en el siguiente sentido:

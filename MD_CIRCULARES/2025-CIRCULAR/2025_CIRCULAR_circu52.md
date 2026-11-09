@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL Nº 830 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 49, "target_year": 2025, "raw_text": "Modifica Circular N° 49 de 2025. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº52.- GE00337730** |

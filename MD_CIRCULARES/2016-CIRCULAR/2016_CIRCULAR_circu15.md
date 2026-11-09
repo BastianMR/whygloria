@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 2° de la Ley N° 20.809, publicada en el Diario Oficial de 30 de enero de 2015", "artículo 41 de la Ley N°16.441."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID** |

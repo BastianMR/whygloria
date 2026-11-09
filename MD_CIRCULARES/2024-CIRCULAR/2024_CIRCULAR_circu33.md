@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 42, letra a), del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 11, "target_year": 2024, "raw_text": "Impuestos Indirectos** | **CIRCULAR N°33.- 291584-2024 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 26 DE JULIO DE 2024 | | MATERIA: Deja sin efecto lo instruido en la Circular N° 11 de 2024. | REFERENCIA: Artícu"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa. Impuestos Indirectos** | **CIRCULAR N°33.- 291584.2024 GE** |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L N° 830, de 1974", "y la Resolución N° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2021 77318691947

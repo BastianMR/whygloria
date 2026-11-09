@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6° letra B) N° 3, 97 N° 1 y 106 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 13 de la Ley N° 20.544, de 2011, que Regula el Tratamiento Tributario de los Instrumentos Derivados", "en el artículo 31 de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo vigésimo transitorio de la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIOS DE IMPUESTOS INTERNOS

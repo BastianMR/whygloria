@@ -10,6 +10,9 @@ impuestos: ["renta", "timbres", "segunda-categoria"]
 formularios: []
 regimen: ["14B", "renta-presunta"]
 ref_legal: ["Artículos 21, 43 N° 1, 52, 52 bis y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo primero del Decreto Ley N° 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu39.md"]
+relaciones: []
 ---
 
 Complementada por Circular N° 39, del 8 de julio de 2016

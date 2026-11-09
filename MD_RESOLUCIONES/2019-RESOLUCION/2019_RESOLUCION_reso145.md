@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en la Resolución Exenta SII N° 123, de 4 de noviembre de 2019, en la Resolución Exenta SII N° 130, de 28 de noviembre de 2019, y en el Artículo 52° del D.F.L N° 458 de 1976, Ley General de Urbanismo y Construc"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES

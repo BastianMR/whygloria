@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley 20.780", "inciso cuarto del artículo 88 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Complementada por Circular N° 25, del 3 de mayo de 2016

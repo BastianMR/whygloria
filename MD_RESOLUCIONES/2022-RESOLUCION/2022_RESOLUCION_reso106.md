@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 1, de la letra A, del artículo 6° y en los artículos 132, 132 bis y 132 ter del Código Tributario, modificados por la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020, y en las letras a), b) e i) del artículo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL GE00197271

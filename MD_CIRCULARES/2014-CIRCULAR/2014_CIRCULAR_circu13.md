@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 15", "17 N° 8, letras a), b), e i), 31 N° 9 y 41, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012, y Ley N° 20.727, de 31 de enero de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu70.md", "MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu44.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 69, "target_year": 2010, "raw_text": "De acuerdo a lo anterior, las instrucciones dictadas mediante la presente Circular, reemplazan aquellas contenidas en la Circular N° 69 de 2010."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 13 146-2012 ID 11-2013 SN Circ.** |

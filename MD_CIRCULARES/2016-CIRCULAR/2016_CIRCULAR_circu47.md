@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014 y Ley N° 20.899, publicada en el Diario Oficial el 8 de febrero de 2016."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu49.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 52, "target_year": 2015, "raw_text": "Deja sin efecto Circular N° 52, de 2015. | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR TECNICA TRIBUTARIA** | **CIRCULAR N° 47.- 16.2016 CIRC.SN 01.2016 CIRC.TT** |

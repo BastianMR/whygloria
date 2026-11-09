@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y 33 bis del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley N° 18.168 General de Telecomunicaciones y en su Reglamento, el cual está contenido en el Decreto N° 18 del 2014, del Ministerio de Transporte y Telecomunicaciones y la Subsecretaria de Telecomunicaciones", "y lo dispuesto en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 266102

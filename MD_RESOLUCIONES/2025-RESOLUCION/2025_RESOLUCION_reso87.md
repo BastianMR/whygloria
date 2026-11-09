@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Artículo Primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 379 de 1991", "y lo instruido en la Resolución N° 36, de 2024, de la Contraloría General de la República:"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 128, "target_year": 2024, "raw_text": "DÉCIMO: Modificase la Resolución Ex SII N°128, de 2024, que reorganiza las Unidades que conforman el Departamento Subdirección de Asistencia al Contribuyente, suprimiendo los numerales 5), 6), 7) y 8) del resolutivo Cuarto de la referida Re"}, {"type": "modifica", "target_type": "resolucion", "target_number": 130, "target_year": 2024, "raw_text": "DECIMOPRIMERO: Modifícase la Resolución Ex SII N°130, de 2024, que suprime el Departamento Subdirección de Asuntos Corporativos, suprimiendo el resolutivo Tercero."}, {"type": "deroga", "target_type": "resolucion", "target_number": 46, "target_year": 2024, "raw_text": "DECIMOSÉPTIMO: La presente Resolución regirá a partir de la fecha de su publicación en extracto en el Diario Oficial y desde su entrada en vigencia, se deja sin efecto la Resolución Exenta SII N°46, de 2024 y se modifican las Resoluciones E"}]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO ASESORÍA JURÍDICA GE00329734

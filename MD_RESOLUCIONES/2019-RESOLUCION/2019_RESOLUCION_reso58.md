@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L N° 830, de 1974", "y la Resolución N° 80, del 12.08.2016, , que establece los requisitos que deben cumplir las entidades que se indican para ser receptoras de la 'carpeta tributaria electrónica' y delega facultades"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 147 - SDAC - 2019 77319770819

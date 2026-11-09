@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["el artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, modificada en lo pertinente por el N° 27 del artículo 1° de la Ley N° 20.780", "el N° 6 del artículo 1° de la Ley N° 20.899, las Circulares N° 12, de 2015 y N° 34, de 2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN GE 268308

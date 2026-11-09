@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 34°, 35°, 60° inciso octavo y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L Nº 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "y en los artículos 10 y 58 N°3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y en la Circular N° 14, de 2014"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2020-RESOLUCION/2020_RESOLUCION_reso119.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO.

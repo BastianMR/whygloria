@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículo 60", "Ley N° 20.780, Artículo 10 N°15."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 49, "target_year": 2010, "raw_text": "3 La Circular N° 33 de 2015 instruye sobre las modificaciones incorporadas en el artículo 59 del Código Tributario, por el N° 13 del Artículo 10 de la Ley 20-780, y deroga la Circular N° 49 de 2010, la que a su vez instruía respecto a modif"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 57.-** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 6° letra B, 59 inciso final, y 59 bis del Código Tributario"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 Modificada por Circular Nº 24, del 3 de mayo de 2016

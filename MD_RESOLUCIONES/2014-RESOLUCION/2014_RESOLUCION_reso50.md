@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículos 6º, letra A), N° 1, 34 y 60 del Código Tributario, contenido en el artículo 1º del DL N° 830, de 1974 y la Ley de Donaciones con Fines Culturales, contenida en el artículo 8° de la Ley N° 18.985, sustituido por el artículo único de la Ley N° 20.675, publicada en el Diario Oficial el "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

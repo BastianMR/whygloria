@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["ARTS 31 N° 6, 42 N° 1, 42 BIS, 50 Y 55 DE LA LEY SOBRE IMPUESTO A LA RENTA Y RES"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°5.- 01-2019 SN CIRC. 02-2019 OGN 05-2019 ID** |

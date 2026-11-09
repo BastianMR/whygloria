@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "los artículos 1°, 3° , 7° y 9° de Ley N° 20.502, que crea el Ministerio del Interior y Seguridad Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado y el artículo 35 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00190311

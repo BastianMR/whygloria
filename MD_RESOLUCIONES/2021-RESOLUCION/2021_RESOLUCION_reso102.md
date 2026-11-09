@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1, 33 bis y artículo 60 del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974 del Ministerio de Hacienda", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, de 1980", "en los artículos 14° y 18°, de la Ley N°21.258 de 2020, que 'Crea la Ley Nacional del Cáncer, que rinde homenaje póstumo al doctor Claudio Mora'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

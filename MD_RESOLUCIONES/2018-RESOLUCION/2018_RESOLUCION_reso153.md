@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 4847, "target_year": 1995, "raw_text": "## MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO"}]
 ---
 
 ## MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO

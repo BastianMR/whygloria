@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 6°, Letra A), N° 1, del Código Tributario, D.L N° 830, de 31.12.1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE** | **CIRCULAR N° 18** |

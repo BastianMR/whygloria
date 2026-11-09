@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["14A", "14B"]
 ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2023-CIRCULAR/2023_CIRCULAR_circu31.md"]
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 7, "target_year": 2002, "raw_text": "Modifica Circulares N° 7 de 2002, N° 68 de 2010, N° 10 de 2012, N° 67 y N° 71 de 2016, y N° 40, N° 43 y N° 44 de 2021. | REF.LEGAL: Ley N° 21-420, publicada en el Diario Oficial el 4 de febrero de 2022;"}, {"type": "modifica", "target_type": "circular", "target_number": 44, "target_year": 2016, "raw_text": "Lo anterior, modifica lo instruido en la Circular N° 44 de 2016."}, {"type": "modifica", "target_type": "circular", "target_number": 43, "target_year": 2021, "raw_text": "Lo anterior modifica, en lo pertinente, lo instruido respecto del N° 6 del artículo 17 de la LIR en la Circular N° 43 de 2021 y lo instruido respecto del artículo 110 de la LIR en la Circular N° 40 de 2021, manteniéndose vigentes en lo que "}]
 ---
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N° 39.- GE204576.2022** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 33 bis, N° 2, letra B y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley N°21.713, publicada en el Diario Oficial de fecha 24.10.2024, y que, entre otros, incorporó modificaciones a la letra B del N° 2 del artículo 33 bis del Código Tributario, la Circular N°19 de fecha 06.03.2025, y la Resolución Exenta SII N° 125 de fecha 30.09.2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 125, "target_year": 2020, "raw_text": "## MODIFICA RESOLUCIÓN EXENTA SII N° 125 DE 2020, SOBRE DECLARACION JURADA FORMULARIO N° 1952."}, {"type": "deroga", "target_type": "resolucion", "target_number": 46, "target_year": 2018, "raw_text": "Que, la Resolución Exenta SII N° 125 de 2020 \"Establece obligación de presentar declaración anual sobre trusts; fija formato y mecanismo de declaración; y deja sin efecto Resolución Exenta SII N° 46 de 2018\", contiene las instrucciones para"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

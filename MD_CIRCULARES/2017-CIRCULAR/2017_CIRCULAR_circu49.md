@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 7, "target_year": 2017, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 49** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 22 SEPTIEMBRE 2017 | | MATERIA: Sustituye el N° 1 del Capítulo"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 49** |

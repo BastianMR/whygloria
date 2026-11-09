@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu50.md"]
+relaciones: []
 ---
 
 ## Dejada sin efecto por Circular N° 50, del 20 de julio de 2016

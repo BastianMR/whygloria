@@ -10,6 +10,9 @@ impuestos: ["herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 21, 33 bis y 35 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 2 y cuarto transitorio de la Ley N° 21.420, que reduce o elimina exenciones tributarias, publicada en el Diario Oficial con fecha 4 de febrero de 2022", "y lo instruido en la Circular N° 20 de 2022"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMA EN QUE LAS COMPAÑIAS DE SEGURO DEBEN CALCULAR, REBAJAR, ENTERAR E INFORMAR EL DETALLE DEL IMPUESTO QUE AFECTA A LAS SUMAS QUE TENGAN DERECHO A RECIBIR LOS BENEFICIARIOS DE SEGUROS DE VIDA CON OCASIÓN DE LA MUERTE DEL ASEGURADO.

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L 824 de 1974)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 14, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 59.- 206-2014 SN 102-2014 ID 35-2014 NI** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 14 de noviembre de 2014.- | | MATERIA: Modifica las instruccione"}, {"type": "reemplaza", "target_type": "circular", "target_number": 14, "target_year": 2014, "raw_text": "De acuerdo a ello, se reemplazan las instrucciones contenidas en la letra H), del N°1), del Capítulo II., de la Circular N°14, de 2014, por las siguientes:"}]
 ---
 
 1875

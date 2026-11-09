@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 y 88 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el artículo 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974", "en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS 77326428998

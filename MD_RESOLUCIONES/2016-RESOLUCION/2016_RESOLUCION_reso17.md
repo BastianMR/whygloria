@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6º letra A) Nº 1 y 30 inciso segundo del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974", "el artículo 14 ter letra A) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "el artículo segundo de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "el artículo 8° de la Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016", "las Resoluciones Exentas SII N°s 101 y 107, del 17 de diciembre de 2015 y 24 de diciembre de 2015, respectivamente"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 AMPLÍA PLAZO DE PRESENTACIÓN DE LA DECLARACIÓN JURADA ANUAL FORMULARIO N° 1924, SOBRE RENTAS Y CRÉDITOS CORRESPONDIENTES A PROPIETARIOS, SOCIOS, COMUNEROS O ACCIONISTAS DE CONTRIBUYENTES ACOGIDOS AL RÉGIMEN TRIBUTARIO DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LEY SOBRE IMPUESTO A LA RENTA, Y EL DE SU CERTIFICACIÓN RESPECTIVA

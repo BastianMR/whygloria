@@ -41,7 +41,10 @@ Data moves one way: a document lands in `SIN_PROCESAR/`, becomes a concept in
   Expect `0 problems` and `0 exact duplicate groups`. Title collisions are informational.
 - [ ] **8. Re-check the backlog** — `python scripts/sii_pdfs.py --pending`
   Expect `pending conversion: 0`. Anything left is a decision, not a bug.
-- [ ] **9. Commit** — review `git status`, then commit.
+- [ ] **9. Rebuild the supersession map** — `python scripts/sii_pdfs.py --vigencia`
+  Rewrites `status_vigencia` and `relaciones.json` from the corpus. Deterministic:
+  two runs on the same commit produce the same file.
+- [ ] **10. Commit** — review `git status`, then commit.
 
 ## Matching a source to its concept
 

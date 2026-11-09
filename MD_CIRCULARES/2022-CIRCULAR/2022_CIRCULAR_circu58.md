@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 161 y 162."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 8, "target_year": 2010, "raw_text": "| **DEPARTAMENTO EMISOR DEPARTAMENTO DE DELITOS TRIBUTARIOS DEPARTAMENTO DE DEFENSA JUDICIAL PENAL** | **CIRCULAR N°58.- GE00125685** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA:28 DE DICIEMBRE DE 2022 | | MATERIA: IM"}, {"type": "deroga", "target_type": "circular", "target_number": 8, "target_year": null, "raw_text": "A contar de la misma fecha, se deroga la Circular N°8, del 14-01-2010, y asimismo, se entenderán derogadas todas aquellas instrucciones que resulten incompatibles con las disposiciones de la presente Circular."}]
 ---
 
 | **DEPARTAMENTO EMISOR DEPARTAMENTO DE DELITOS TRIBUTARIOS DEPARTAMENTO DE DEFENSA JUDICIAL PENAL** | **CIRCULAR N°58.- GE00125685** |

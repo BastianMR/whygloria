@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 12, "target_year": 2015, "raw_text": "Reemplaza, en lo pertinente, la Circular N° 12 de 2015."}, {"type": "complementa", "target_type": "circular", "target_number": 40, "target_year": 2016, "raw_text": "Complementa Circular N° 40 de 2016. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Impuestos Directos** | **CIRCULAR N° 45 27.2020 SN 20.2020 ID** |

@@ -10,6 +10,9 @@ impuestos: ["contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N° 19.628, sobre Protección de la Vida Privada", "y el artículo 5° de la Ley N°18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos.

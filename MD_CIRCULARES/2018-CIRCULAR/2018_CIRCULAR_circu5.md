@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 130, "target_year": 1977, "raw_text": "Asimismo, a partir de la entrada en vigencia de la presente Circular, se deroga la Circular N° 130, de 3 de octubre de 1977, como asimismo toda otra instrucción o pronunciamiento del Servicio que sea incompatible o contraria con la presente"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO OFICINA DE APOYO LEGAL Y ADMINISTRATIVO SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR N°5** |

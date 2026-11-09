@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el D.F.L Nº1/19.653, que fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N°19.880, que Establece Bases de los Procedimientos Administrativos que Rigen Los Actos de los Órganos de la Administración del Estado", "en el artículo 7°, letra i) de la Ley Nº19.477, Orgánica del Servicio de Registro Civil e Identificación", "en el artículo 1°del Decreto con Fuerza de Ley N°7 del Ministerio de Hacienda, de fecha 30 de septiembre de 1980, que contempla la Ley Orgánica del Servicio de Impuestos Internos", "en el artículo 87 del Código Tributario", "en la Ley Nº19.628, sobre Protección a la Vida Privada", "en el Decreto Exento N°4.013 de fecha 23 de Octubre de 2013, que Aprueba Traspaso de Convenio de Cooperación Proyecto Plataforma Integrada de Servicios Electrónicos del Estado, Fase Masificación, suscrito entre el Ministerio Secretaría General de la Presidencia y Organismos Públicos que se indican, "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y

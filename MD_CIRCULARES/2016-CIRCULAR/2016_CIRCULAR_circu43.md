@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "segunda-categoria"]
 formularios: []
 regimen: ["14A", "14B", "renta-presunta"]
 ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y las Leyes N°s 20.780 y 20.899, publicadas en los Diarios Oficiales de 29 de septiembre de 2014 y 8 de febrero de 2016 respectivamente."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu62.md", "MD_RESOLUCIONES/2020-RESOLUCION/2020_RESOLUCION_reso173.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 43.- 20.2016 ID 10.2016 SN** |

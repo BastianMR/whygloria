@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 128, de fecha 28.12.2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 128, "target_year": 2016, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°503-496-497-490-SDF/2017 Folios N°3820-3776-2797-3210-3664/2017

@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 68 bis, de la Ley sobre Impuesto a la Renta, introducido por la Ley Nº 21.242, publicada en el Diario Oficial con fecha 24 de junio de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°25.- 176859 GE** |

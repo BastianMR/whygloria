@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art 1° del D.F.L N° 7, del Ministerio de Hacienda", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "y en los Arts 1°, N° 3, 17 inciso 2° y Art 18°, del D.L N° 3.475, de 1980, sobre Impuesto de Timbres y Estampillas."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

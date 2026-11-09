@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 26 bis, 100 bis, 119 y 160 bis, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Subdirección de Fiscalización Oficina de Análisis de Elusión

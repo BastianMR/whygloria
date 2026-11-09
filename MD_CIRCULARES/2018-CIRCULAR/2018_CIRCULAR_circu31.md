@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 4° y 6 de la Ley N°21.047 de 2017", "artículo cuarto de las Disposiciones Transitorias de la Ley N°20.899 de 2016", "artículo 63 de la Ley sobre Impuesto a la Renta (LIR)", "artículo 37 del Decreto Ley N°1.939 de 1977", "artículo 10 de la Ley N°19.885 de 2003."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 31 292-2017 ID 01-2018 SN Circ.** |

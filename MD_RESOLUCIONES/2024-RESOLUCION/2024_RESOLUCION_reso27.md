@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 88°, ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el inciso cuarto del artículo 3° y el Título IV de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el Título XIII del D.S N° 55. de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE

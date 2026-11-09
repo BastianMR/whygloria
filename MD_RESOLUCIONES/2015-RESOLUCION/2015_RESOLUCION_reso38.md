@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de Hacienda, de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 bajo su dependencia las siguientes oficinas:

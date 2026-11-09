@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 60 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974", "lo dispuesto en el artículo noveno y en el artículo vigésimo transitorio de la Ley N° 21.210 que Moderniza la Legislación Tributaria, de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020.

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "segunda-categoria"]
 formularios: []
 regimen: ["14A", "renta-presunta"]
 ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 48.- 42.2015 ID 08.2015 SN** |

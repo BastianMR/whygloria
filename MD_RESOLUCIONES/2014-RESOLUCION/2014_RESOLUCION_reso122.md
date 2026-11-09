@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de Hacienda, de fecha 30 de Septiembre de 1980", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en el artículo 8° de la Ley N° 18.985, sustituido por la Ley N° 20.675 de 2013, texto legal sobre Donaciones con Fines Culturales"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

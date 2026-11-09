@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 33, "target_year": null, "raw_text": "En virtud de las modificaciones referidas, por la presente Circular se complementa la Circular N° 33, de 20-06-2013, de este Servicio que 'Actualiza los procedimientos para determinar el avalúo fiscal de bienes raíces acogidos al régimen de"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES** | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES** | **CIRCULAR Nº 68** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "territorial", "iec", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°45.- 299422.2024 GE** |

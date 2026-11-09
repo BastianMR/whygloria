@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 41 A, 41 C y 41 G de la Ley sobre Impuesto a la Renta (LIR)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 48, "target_year": 2016, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 13 03-2018 SN 40-2018 ID** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 20 de febrero de 2018 | | MATERIA: Modifica parcialmente las instrucciones contenida"}, {"type": "reemplaza", "target_type": "circular", "target_number": 48, "target_year": 2016, "raw_text": "Atendida la modificación de la fecha de vencimiento del plazo para inscribir la inversión en el RIE, a su vez se reemplaza el párrafo final de la letra (B), del II.2.-, del apartado II, de la Circular N°48 de 2016, por los dos siguientes pá"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 13 03-2018 SN 40-2018 ID** |

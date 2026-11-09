@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 39, "target_year": 2022, "raw_text": "| **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 31.- 245639-2023 GE 140-2023 ID** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 20 DE JULIO DE 2023 | | MATERIA: Reemplaza apartado 2-"}, {"type": "modifica", "target_type": "circular", "target_number": 39, "target_year": 2022, "raw_text": "Por consiguiente, se modifica la Circular N° 39 de 2022, reemplazando su apartado 2-5. por el siguiente:"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 31.- 245639.2023 GE 140.2023 ID** |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 1, "target_year": 2015, "raw_text": "MODIFICA RESOLUCIONES EXENTAS N°s 1 y 83, AMBAS DE 2015, QUE ESTABLECEN LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EXTRANJERO CONTENIDO EN"}, {"type": "modifica", "target_type": "resolucion", "target_number": 83, "target_year": 2015, "raw_text": "MODIFICA RESOLUCIONES EXENTAS N°s 1 y 83, AMBAS DE 2015, QUE ESTABLECEN LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EXTRANJERO CONTENIDO EN"}]
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades establecidas en los artículos 1° y 6°, letra A, N° 1, del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales, cuyo texto refundido y sistematizado fue fijado por Decreto N° 2.385 de 1986, del Ministerio del Interior", "en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 393472

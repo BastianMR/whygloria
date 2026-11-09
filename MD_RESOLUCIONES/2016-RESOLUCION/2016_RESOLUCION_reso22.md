@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El Art 6°, letra A) N° 1, del Código Tributario, contenido en el Art 1° del DL", "lo dispuesto en la letra b) del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 54 y 56, del DL", "la Ley N°19.983, de 2004", "la Circular N° 64, de 14.09.2001", "la Circular N° 32, de 20.06.2005"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

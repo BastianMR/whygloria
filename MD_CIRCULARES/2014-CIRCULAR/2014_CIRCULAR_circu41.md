@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["LEY 20.732, DE 2014, PUBLICADA EN EL DIARIO OFICIAL DE 05.03.2014."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 20, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 41.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 21-07-2014 | | MATERIA: COMPLEMENTA CIRCULAR N° 20, DE 2014, RESPECTO DE LA REBAJA DEL IMPUES"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 41.-** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980", "el artículo 6°, letra A), N° 1° del D.L N° 830, de 1974, sobre Código Tributario", "los artículos 18 Nº 8, 50, 51, 52 y 60 de la Ley Nº 16.271, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8° del D.F.L N° 1 de 2000, del Ministerio de Justicia"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 19, "target_year": 2004, "raw_text": "VISTOS: Lo dispuesto en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980; el artículo 6°, letra A), N° 1° del D.L N° 830, de 1974, sobre Código Tributario; los artículos"}]
 ---
 
 ## Subdirección de Fiscalización

@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Ley N°20.650, los Artículos 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial y en la Resolución Exenta SII N° 149 del 27 de Noviembre de 2006."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS ÁREAS URBANAS.

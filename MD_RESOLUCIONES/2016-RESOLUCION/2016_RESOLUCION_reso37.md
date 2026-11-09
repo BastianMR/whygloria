@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980 y en las letras a), c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las resoluciones Ex", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2022-RESOLUCION/2022_RESOLUCION_reso26.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 349, "target_year": 1984, "raw_text": "DÉCIMO: Desde la entrada en vigencia de la presente resolución, se derogan la letra D. del apartado VII del Párrafo N° 1 de la Resolución N° 349, de 1984, y la Resolución Exenta N° 90, de 2009, así como cualquier resolución dictada anterior"}]
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES

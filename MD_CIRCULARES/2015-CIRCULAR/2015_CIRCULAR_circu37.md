@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 20 N° 1 y 34 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del D.L 824 de 1974) y Ley N° 20.780 de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu69.md", "MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu39.md", "MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu49.md", "MD_RESOLUCIONES/2018-RESOLUCION/2018_RESOLUCION_reso1.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 37.- 14.2015 SN 50.2015 ID** |

@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 123 bis y 124 del Código Tributario, y artículo 51 bis del Decreto con Fuerza de Ley N°7 de 1980."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 12, "target_year": 2021, "raw_text": "Modifica Circular N°12 de 2021."}, {"type": "deroga", "target_type": "circular", "target_number": 23, "target_year": 2018, "raw_text": "Deja sin efecto Circular N°23 de 2018. | REF."}, {"type": "reemplaza", "target_type": "circular", "target_number": 12, "target_year": 2021, "raw_text": "Se reemplaza la instrucción del numeral 10-2 de la Circular, relativo a la \"Audiencia de Cierre\", por el siguiente: \"No será necesario realizar una Audiencia de Cierre, sino cuando el Jefe del Departamento, Oficina o Subdirección a cargo as"}, {"type": "deroga", "target_type": "circular", "target_number": 23, "target_year": null, "raw_text": "Ámbito de aplicación del Recurso Jerárquico: En virtud de lo dispuesto en el artículo 6 letra A N°7 del CT, el Recurso Jerárquico sólo procede en contra de la resolución que resuelve la RAV, y debe ser interpuesto ante el/la Director(a) del"}]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                                                                                                                                              | CIRCULAR N°26.- 373287.2026 GE                                                                                          |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 10, 21, 35, 85 bis y 85 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley N°21.755, publicada en el Diario Oficial de fecha 11.07.2025, y que, entre otras, incorporó modificaciones a las letras a) y b) del artículo 85 bis del Código Tributario", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3º bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 168, de fecha 28.12.2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 168, "target_year": 2020, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA.

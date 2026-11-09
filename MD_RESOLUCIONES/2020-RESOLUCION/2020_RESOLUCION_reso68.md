@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 8, 36, 53, 192 y 207 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 22 del decreto con fuerza de ley Nº 1, de 1998, del Ministerio de Hacienda, que fija texto refundido, coordinado, sistematizado y actualizado de la ley Nº 17.235, sobre Impuesto Territorial", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 2 N°1 del Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1994", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, del Ministerio de Hacienda, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## RESOLUCIÓN EXENTA SII N° 68 RESOLUCION EXENTA TGR N°490

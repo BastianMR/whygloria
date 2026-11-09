@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["N° 11, del numeral I.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014, y artículo 14 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 1875

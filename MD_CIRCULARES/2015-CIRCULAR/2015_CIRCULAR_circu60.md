@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.659, publicada en el Diario Oficial del 08 de febrero de 2013"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 23, "target_year": 2013, "raw_text": "DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 60** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 7 de julio de 2015.- | | MATERIA: Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 20"}, {"type": "modifica", "target_type": "circular", "target_number": 23, "target_year": null, "raw_text": "Dado lo anterior, la presente Circular modifica las instrucciones contenidas en la citada Circular N°23, de la forma señalada los siguientes dos puntos:"}, {"type": "reemplaza", "target_type": "circular", "target_number": 23, "target_year": 2013, "raw_text": "Para dar cuenta de las modificaciones, se reemplaza el Anexo 'Cuadro con Modificaciones en el Registro y Trámites a efectuar en el Servicio', contenido en la Circular N° 23, de 2013, por el siguiente:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 60** |

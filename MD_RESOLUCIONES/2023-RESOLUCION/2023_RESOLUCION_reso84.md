@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7", "y la Circular N° 30, del 10.05.2016"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE255511

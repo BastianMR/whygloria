@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, Letra A, N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "en el Art 56, de la Ley sobre Impuesto a las Ventas y Servicios, del D.L N° 825, de 1974", "en la Resolución Ex", "y en las Resoluciones Ex"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES.

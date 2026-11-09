@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 92, "target_year": 1985, "raw_text": "1° Modifícase lo establecido en Resoluciones Exentas N°92 de 1985 y N°31 de 2005 referente al territorio jurisdiccional de la XV Dirección Regional Metropolitana Santiago Oriente."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

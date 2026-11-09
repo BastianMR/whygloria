@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, del Ministerio de Hacienda", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "en el artículo 13 bis del D.L N° 828, de 1974, que Establece Normas para el Cultivo, Elaboración, Comercialización e Impuestos que afectan al Tabaco"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal.

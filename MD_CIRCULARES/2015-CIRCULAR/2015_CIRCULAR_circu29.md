@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, Artículo 97 N° 6", "Ley N°20.780, Artículo 10, N° 25, letra a)."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu27.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR OFICINADE ANÁLISIS DE LAJURISPRUDENCIA** | **CIRCULARN°29.-** |

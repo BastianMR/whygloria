@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["LEY 20.791, DE 2014, PUBLICADA EN EL DIARIO OFICIAL DE 29.10.2014, ARTS 59, 99 Y 116 D.F.L N° 458/76, ARTS2°, 10 ,13 Y 20 LEY N° 17.235 Y ART 9° CÓDIGO TRIBUTARIO"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº15** |

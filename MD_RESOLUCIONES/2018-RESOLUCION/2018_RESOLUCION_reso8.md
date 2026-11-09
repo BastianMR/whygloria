@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 88 y 97 del Código Tributario, contenido en el artículo primero del D.L N° 830, de 1974", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 2° N°s 1 y 2", "y las Resoluciones Ex"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 448-SDAC-2017 77317395899

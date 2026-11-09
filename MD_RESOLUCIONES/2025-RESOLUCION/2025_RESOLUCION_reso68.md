@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 3° y 7° del DFL N°7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el Decreto con Fuerza de Ley N° 1 de 2016, del Ministerio de Hacienda, que fija la planta de personal del Servicio de Impuestos Internos", "lo dispuesto en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## CREA LA OFICINA DE RELACIONES INTERNACIONALES.

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 12 bis de la Ley de Donaciones con Fines Culturales, contenida en el artículo 8° de la ley Nº 18.985"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE00269322

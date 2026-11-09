@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 10, 33 bis, 35, 60, 97 N° 1 y N° 4 y 109 del Código Tributario, contenido en Decreto Ley Nº 830 de 1974", "en los artículos 1º, 3º bis, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 14, 17 N° 7, 20, 41 A, 41 C, 42 bis, 52, 56 N° 3, 58, 63, 104, 107 y 108 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "lo dispuesto en los artículos 80, 81, 82, 86 y 92 de la Ley N° 20.712, y sus modificaciones efectuadas por las Leyes N° 20.899 y N° 21.210", "y lo establecido en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 336042

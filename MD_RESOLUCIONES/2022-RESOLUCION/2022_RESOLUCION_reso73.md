@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "la Resolución Exenta SII N° 110 de 2015 y sus modificaciones posteriores"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO N° 1913

@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["LEY 20.732, DE 2014, PUBLICADA EN EL DIARIO OFICIAL DE 05.03.2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu24.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 20** |

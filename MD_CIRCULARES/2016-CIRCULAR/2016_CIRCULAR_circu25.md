@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 75, 84 bis y 88"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 43, "target_year": 2015, "raw_text": "Complementa Circulares N° 43, de 09 de junio de 2015 y N° 51, de 22 de junio de 2015. | REFERENCIA: Código Tributario, artículos 75, 84 bis y 88."}, {"type": "complementa", "target_type": "circular", "target_number": 43, "target_year": null, "raw_text": "A partir de la entrada en vigencia de la presente Circular, se complementan y modifican en lo pertinente las instrucciones sobre esta materia, contenidas en las Circulares N°s 43 y 51, ambas del año 2015."}, {"type": "complementa", "target_type": "circular", "target_number": 51, "target_year": null, "raw_text": "A partir de la entrada en vigencia de la presente Circular, se complementan y modifican en lo pertinente las instrucciones sobre esta materia, contenidas en las Circulares N°s 43 y 51, ambas del año 2015."}]
 ---
 
 25

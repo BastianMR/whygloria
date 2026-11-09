@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y la Resolución Exenta N° 150, de 29.12.2005, en que este Servicio estableció las normas y procedimientos de operación de la Contabilidad Electrónica", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

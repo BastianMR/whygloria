@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° D.L N° 825, de 1974", "la Resolución Ex", "y en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 56, "target_year": null, "raw_text": "MATERIA: COMPLEMENTA RESOLUCIÓN EXENTA SII N°56 DE 09-06-2014 QUE AUTORIZA A CONTRIBUYENTE QUE SE INDICA PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES"}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 225 - SDAC - 2017 77317294594

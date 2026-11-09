@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículos 33 bis N° 2 y 85 bis del Código Tributario"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 41, "target_year": 2021, "raw_text": "Modifica Circular N° 41 de 2021. | REFERENCIA: Artículos 33 bis N° 2 y 85 bis del Código Tributario."}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 47.- GE00219143** |

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda", "las Resoluciones Exentas SII N°s 16 y 18, de 11 de julio de 2002 y 29 de agosto de 2002, respectivamente", "el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 9, "target_year": 2022, "raw_text": "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."}]
 ---
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022.

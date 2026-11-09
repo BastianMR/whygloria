@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo único de la Ley N° 21.622 que establece requisitos para asimilar las entidades que prestan servicios culturales a las sociedades de profesionales, publicada en el Diario Oficial el 17 de noviembre de 2023", "Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N°22.- 261259.2023 GE** |

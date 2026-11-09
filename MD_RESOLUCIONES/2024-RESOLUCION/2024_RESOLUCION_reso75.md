@@ -10,6 +10,9 @@ impuestos: ["iva", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1, 88 y 97 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 3 de la Ley N° 21.488, de 27 de septiembre de 2022", "el Decreto N° 48 de 2023, del Ministerio de Hacienda, que 'Aprueba Reglamento que establece forma de acreditar y cumplir la obligación de emitir guías de despacho electrónicas, e incorpora definiciones conforme al Decreto con Fuerza de Ley Nº 15, de 22 de enero de 1968, del Ministerio de Agricultura", "en la Resolución Exenta SII N° 1661, de 1985", "en las Resoluciones Exentas SII N° 45, de 2003"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA

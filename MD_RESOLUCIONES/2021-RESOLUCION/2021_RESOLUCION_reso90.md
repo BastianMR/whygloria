@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15.10.1980", "en el artículo 6°, letra A, N° 1, 60 quinquies, 88 y 97 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y en el D", "en el artículo 13 bis del Decreto Ley N° 828 de 1974, que Establece normas para el Cultivo, Elaboración, Comercialización e Impuestos que afectan al Tabaco", "en la Resolución Exenta N° 1661, de 1985, que 'Fija las características de las Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Liquidaciones - Factura, Notas de Débito y Notas de Crédito, con sus respectivas copias, y regula la emisión con series de éstos mismos documentos'", "en las Resoluciones Exentas SII N° 45, de 2003, que 'Establece normas y procedimientos de operación respecto de los documentos Tributarios Electrónicos'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA REQUISITOS DE LLENADO, PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO, UTILIZADAS EN LA VENTA DE CIGARRILLOS, EFECTUADAS POR CONTRIBUYENTES OBLIGADOS A UTILIZAR EL SISTEMA DE TRAZABILIDAD FISCAL.

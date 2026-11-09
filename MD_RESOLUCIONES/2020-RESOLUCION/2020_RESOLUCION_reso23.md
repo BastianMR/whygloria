@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["La facultad que me confiere el N° 1, de la letra A, del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en el inciso 3° del artículo 23 y en el inciso 4°, de la letra c), del N° 2 del artículo 34, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA

@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["ARTS 31 N° 6, 42 N° 1, 42 BIS, 50 Y 55 DE LA LEY SOBREIMPUESTO ALARENTAYRES.EX.N°321 Y 322, DE 2019, DE LA SUPERINTENDENCIA DE PENSIONES"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "aclara", "target_type": "circular", "target_number": 5, "target_year": 2019, "raw_text": "ACLARA APLICACIÓN DE INFORMACIÓN CONTENIDA EN CIRCULAR N° 5 DE 2019. | REFERENCIA: 6 - RENTA N° Y NOMBRE DEL VOLUMEN: 6(12)00 IMPUESTO DE PRIMERA CATEGORÍA 6(15)00 IMPUESTO GLOBAL COMPLEMENTARIO REF.LEGAL: ARTS 31 N° 6, 42 N° 1, 42 BIS, 50 "}]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 10.- 02-2019 SN CIRC. 11-2019 OGN** |

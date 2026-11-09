@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las letras a) c) y o) del artículo 7° del D"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Servicio de Impuestos Internos Subdirección de Estudios

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "renta-presunta"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Código Tributario, contenido en el Decreto Ley N° 830 de 1974."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 57, "target_year": 2017, "raw_text": "Deja sin efecto la Circular N° 57 de 2017. | REF."}, {"type": "modifica", "target_type": "circular", "target_number": 29, "target_year": 2013, "raw_text": "Considerando que no se modifican las normas sustantivas sobre precios de transferencia, siguen plenamente vigente las instrucciones contenidas en las Circulares N° 29 de 2013, N° 62 de 2014 y N° 32 de 2021."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°40.- 185393.2021 GE** |

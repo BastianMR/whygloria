@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "iec"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 11, 11 bis, 11 ter, 33 numeral ii), 53, 59 bis, 68 y 97 N° 11 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 20, 34 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en los artículos 29 y 59 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825 de 1974", "en el artículo 34 de la Ley N° 19.728, sobre protección de la vida privada", "en el artículo 56, inciso quinto, de la Ley N° 20.255, que establece reforma previsional", "en el artículo 14 de la Ley N° 21.354, que otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la enfermedad COVID-19", "y en los artículos 8° y siguientes de la Ley N° 21.578, que reajusta el monto del ingreso mínimo mensual, aumenta el universo de beneficiarios y beneficiarias de la asignación familiar y maternal, y extiende el ingreso mínimo garantizado y el subsidio temporal a las micro, pequeñas y medianas empres"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR EL SUBSIDIO TEMPORAL QUE BENEFICIA A LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS ESTABLECIDO EN EL ARTÍCULO 8° DE LA LEY N°\_21.578, Y HABILITA PLATAFORMA PARA ELLO.

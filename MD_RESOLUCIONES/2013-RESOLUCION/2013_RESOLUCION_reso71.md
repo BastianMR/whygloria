@@ -10,6 +10,9 @@ impuestos: ["iva", "timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 379, "target_year": 1991, "raw_text": "MATERIA: MODIFICA RESOLUCIÓN N° 379, DE 04 DE DICIEMBRE DE 1991, EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ESTABLECE AMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

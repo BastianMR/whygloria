@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 14 letra A, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "en el numeral iii), letra b), N°1, del numeral I.- del artículo tercero de las disposiciones transitorias de la Ley N° 20.780", "en el artículo vigésimo quinto transitorio de la Ley N° 21.210, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de 24 de febrero de 2020", "y la Resolución Exenta SII N°27 del 25 de febrero del 2009."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 27, "target_year": 2009, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2025, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS.

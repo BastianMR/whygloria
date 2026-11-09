@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículos 6°, 6 bis, 8 bis N°5, N°16 y N°20", "artículo 24, 33, 33 bis, 59, 63, 88 bis y 92 ter del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 12, "target_year": 2021, "raw_text": "Modifica Circulares N°12 de 2021 y N°41 de 2021, modificada por la N°47 de 2022. | REF."}, {"type": "modifica", "target_type": "circular", "target_number": 41, "target_year": 2021, "raw_text": "Dadas las adecuaciones específicas a esta normativa, se modifica el numeral 1-1 de la letra B del Capítulo II de la Circular N° 41 de 2021, de acuerdo a lo siguiente:"}, {"type": "modifica", "target_type": "circular", "target_number": 47, "target_year": 2022, "raw_text": "Atendidos los cambios legales referidos, se modifican las instrucciones contenidas en el Capítulo II, numeral 1., de la Circular N° 47 de 2022, en los siguientes términos:"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°19.- GE00306107** |

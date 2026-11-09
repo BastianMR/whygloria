@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N°1, y 33 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en los artículos 2, 4, 6, 12 y 13 del Artículo Primero de la Ley N° 21.252, que establece un financiamiento para la protección de los ingresos de la clase media en los casos que indica", "y lo instruido en las Resoluciones N° 88 del 3 de agosto de 2020, N° 92 de 21 de agosto de 2020, N° 132 de 2 de octubre de 2020 y N°136 de 23 de octubre de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

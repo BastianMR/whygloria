@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 48, "target_year": null, "raw_text": "Gratificación de zona: para fijar el límite máximo establecido en el artículo 13º del D.L Nº 889, de 1975, el sueldo del Grado 1-A de la E.U.S., asciende para el mes de diciembre del año 2023, enero y febrero de 2024 a $ 683-350, de acuerdo"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°01.- 269994.2024 GE** |

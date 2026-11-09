@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.322, artículo 2° transitorio"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 73, "target_year": 2001, "raw_text": "| **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 45.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 21 de agosto de 2014.- | | MATERIA: IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES I"}, {"type": "modifica", "target_type": "circular", "target_number": 73, "target_year": 2011, "raw_text": "En tal sentido, por la presente Circular se modifican los párrafos tercero y cuarto del numeral 4-2-1 de la Circular N° 73, de 11 de octubre de 2011, reemplazado por la Circular N° 63, de 10 de noviembre de 2006, en el siguiente sentido:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 45.-** |

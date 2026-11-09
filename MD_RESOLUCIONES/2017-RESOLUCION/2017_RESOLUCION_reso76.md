@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES

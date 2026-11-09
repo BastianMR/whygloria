@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N°1 y 9° del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 2°, 3°, 5°, 8° letra n), 12 letra E), 13 y en el Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en el artículo 3° de la Ley N° 21.713", "en los artículos 59 y 59 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "y en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA PROCEDIMIENTO DE INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DEL TÍTULO II DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, POR PARTE DE CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE QUE PRESTEN SERVICIOS AFECTOS A IVA.

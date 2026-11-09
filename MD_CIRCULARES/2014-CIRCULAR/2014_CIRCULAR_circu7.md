@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.365 de 2009, Ley sobre Impuesto a la Renta, (contenida en el artículo 1°, del Decreto Ley 824 de 1974)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: IMPUESTOS DIRECTOS** | **CIRCULAR N° 07.- 16.2013 SN Circ. 133-2013 ID** |

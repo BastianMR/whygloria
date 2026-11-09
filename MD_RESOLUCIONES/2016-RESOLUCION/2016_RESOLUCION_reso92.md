@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2024-RESOLUCION/2024_RESOLUCION_reso129.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 349, "target_year": 1984, "raw_text": "SEXTO: Desde la entrada en vigencia de la presente Resolución, se deja sin efecto el apartado IV del Párrafo N°1 de la Resolución N° 349, de 1984; el N°4 del Resolutivo I de la Resolución N° 7-590, de 1999 y se deroga la Resolución Exenta N"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

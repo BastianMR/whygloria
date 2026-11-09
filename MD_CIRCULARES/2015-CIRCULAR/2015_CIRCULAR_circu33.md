@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 59, Código Tributario"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu41.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 49, "target_year": 2010, "raw_text": "9.- Derogación: Las instrucciones de la presente Circular respecto de la normativa contenida en el artículo 59 del Código Tributario reemplazan a las incluidas en la Circular N° 49, de 2010, la que a partir de la entrada en vigor de la pres"}]
 ---
 
 | **DEPARTAMENTOEMISOR: Departamento de Asesoría Jurídica 1875** | **CIRCULAR Nº 33** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 1º, 4 bis, 7º y 9º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en el artículo 41\\_E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824 de 1974", "las instrucciones impartidas por este Servicio a través de la Resolución Exenta SII Nº 126 de 2016 y sus modificaciones posteriores."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 PRORROGA DEL PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS EN MATERIA DE PRECIOS DE TRANSFERENCIA, FORMULARIOS N os 1907, 1937, 1950 Y 1951.

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980", "lo dispuesto en el Artículo 6°, Inciso 1°, del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

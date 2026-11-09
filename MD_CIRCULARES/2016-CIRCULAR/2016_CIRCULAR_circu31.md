@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley sobre Impuesto a la Renta, Artículo 41 E, N°6", "agregado por la Ley N°20.630, Artículo 1, N°16, letra e)."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu32.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR DEPARTAMENTO ANALISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO.** | **CIRCULAR N°31.-** |

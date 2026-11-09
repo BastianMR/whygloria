@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 6 N° 1 y 2 y octavo transitorio de la Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 21, "target_year": 1991, "raw_text": "Modifica el segundo párrafo del N° 3 de la letra Bdel Título II de la Circular N° 21 de 1991, en la forma que indica. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°50.- 215276.2022 GE** |

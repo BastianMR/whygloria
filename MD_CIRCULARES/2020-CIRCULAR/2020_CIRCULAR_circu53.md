@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "territorial", "contribuciones"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículos 21 y 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 62, "target_year": 2014, "raw_text": "## III REEMPLAZA LA CIRCULAR N° 62 DE 2014 EN LA PARTE QUE INDICA"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 53 11.2020 SN 07.2020 ID** |

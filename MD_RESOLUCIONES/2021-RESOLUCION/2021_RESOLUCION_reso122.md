@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los Artículos 1° y 7° letra a), c), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7, de 1980, del Ministerio de Hacienda", "la Ley N° 18.575, de Bases Generales de la Administración del Estado", "el Decreto Ley N° 799 de 1974 que contiene disposiciones que regulan el uso y circulación de vehículos estatales", "el Decreto N° 4, de 2020, del Ministerio de Salud", "las Resoluciones N° 7 de 2019, N° 16 de 2020, y los dictámenes N°52.060, de 2005 y N°3.610 de 2020, todos de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ADMINISTRACIÓN

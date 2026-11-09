@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, y artículo 10 de la Ley N° 19.885."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 09.2020 CIRC SN 04.2020 CIRC ID** | **CIRCULAR N° 20** |

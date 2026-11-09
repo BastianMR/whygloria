@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210", "y lo establecido en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 67, "target_year": 2020, "raw_text": "2° Modificase la Resolución Exenta SII N° 67 de 2020 en la forma que se indica a continuación: a) En el numeral 1-3 del resolutivo 1° se sustituye el primer párrafo por el siguiente:"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

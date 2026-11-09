@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "la letra A) y N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L N°824, de 1974", "las disposiciones contenidas en la Ley N° 21.210 de 2020, Resoluciones Exentas SII N°s 97 y 98, ambas de fecha 28.08.2020 y N° 32, de 23.03.2021"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y N° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÉRMINOS QUE INDICA.

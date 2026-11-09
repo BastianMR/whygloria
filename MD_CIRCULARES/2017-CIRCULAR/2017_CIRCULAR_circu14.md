@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["DECRETO SUPREMO (M) N° 2, DE 2005"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 15, "target_year": null, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 14** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 21 de febrero de 2017 | | MATERIA: COMPLEMENTA CIRCULAR N° 15, DE 12-02-2010 QUE ACTUALIZA INST"}, {"type": "complementa", "target_type": "circular", "target_number": 15, "target_year": 2010, "raw_text": "De este modo, por la presente Circular se complementan las instrucciones impartidas mediante la Circular N° 15, de 2010, en los siguientes términos:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 14** |

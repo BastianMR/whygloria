@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículo 33 bis, N° 2, letra A, artículo 97 N°1, artículo 107 y 109, todos del Código Tributario y artículos 41 A, N° 6, y 41 G, letra F), de la Ley sobre Impuesto a la Renta", "Ley N° 21.453, publicada en el Diario Oficial el 30 de junio de 2022"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 40, "target_year": 2016, "raw_text": "Complementa las Circulares N° 40 de 2016 y N° 31 de 2021 y aclara Circular N° 73 de 2020. |"}, {"type": "aclara", "target_type": "circular", "target_number": 73, "target_year": 2020, "raw_text": "La presente Circular tiene por objeto instruir sobre las sanciones aplicables ante diversos incumplimientos establecidos en las referidas normas y los artículos 97 N°1, 107 y 109 del Código Tributario, relacionadas con estos deberes de info"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Procedimientos Administrativos** | **CIRCULAR N°48.-** |

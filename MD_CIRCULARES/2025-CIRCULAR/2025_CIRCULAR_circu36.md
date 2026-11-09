@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículos 100 ter, 100 quáter y 100 quinquies del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Asesoría Jurídica** | **CIRCULAR N°36 00317726.2025 GE** |

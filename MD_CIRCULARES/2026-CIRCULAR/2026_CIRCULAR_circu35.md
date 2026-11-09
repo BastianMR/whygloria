@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 123 bis, 124, 6 letra B) N°5 y 6 letra A) N°7, todos del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 34, "target_year": 2018, "raw_text": "Deja sin efecto Circulares N°34 de 27 de junio de 2018, N°26 de 18 junio de 2026 y el Capítulo IV de la Circular N°12 de 2021. | REF."}, {"type": "deroga", "target_type": "circular", "target_number": 12, "target_year": null, "raw_text": "Por su parte, a partir de la misma fecha indicada, se deja sin efecto el Capítulo IV de la Circular N°12 del año 2021, \"Modificaciones a los Procedimientos RAV y RAF\"."}]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                                                                                                             | CIRCULAR N°35.- GE383031                                                                          |

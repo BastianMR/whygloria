@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 8 N° 16, 8° bis N° 9, 26 bis, 30, 35, 60 bis, 62, 85, 85 bis, 101 N°5, 168, 195 y 206 del Código Tributario", "Art 7 Ley 19.628", "Art 40 letra c) de la ley Orgánica del Servicio de Impuestos Internos"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 43, "target_year": 1998, "raw_text": "Deja sin efecto la Circular N°43, de 1998 y sus modificaciones. | REFERENCIA: Arts 8 N° 16, 8° bis N° 9, 26 bis, 30, 35, 60 bis, 62, 85, 85 bis, 101 N°5, 168, 195 y 206 del Código Tributario;"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica** | **CIRCULAR Nº 35.- GE126944** |

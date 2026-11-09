@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 5, "target_year": 1998, "raw_text": "Deroga Circular N° s 5, de 09-01-1998, 11, de 10-02-1997 y 60, de 18-10-1996 . | REFERENCIA LEGAL: Circular N° 5, de 1998."}, {"type": "deroga", "target_type": "circular", "target_number": 5, "target_year": null, "raw_text": "Esta Circular entrará en vigencia desde el momento de su publicación en extracto en el Diario Oficial, fecha desde la cual se derogan las Circulares N° s 5 del 09-01-1998, 11, de 10-02-1997 y 60, de 18-10-1996."}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 47** |

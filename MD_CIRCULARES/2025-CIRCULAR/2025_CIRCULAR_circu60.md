@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 3 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 4°, 3° bis nuevo y 12, letra B, de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°60.- 346414.2025 GE** |

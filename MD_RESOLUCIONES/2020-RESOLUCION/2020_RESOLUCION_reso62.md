@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 143, de fecha 31.12.2019."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 143, "target_year": 2019, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N°143 DE 31 DE DICIEMBRE DE 2019, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N°143 DE 31 DE DICIEMBRE DE 2019, EN LOS TÉRMINOS QUE INDICA.

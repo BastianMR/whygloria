@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 3° y 7° del DFL N°7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en las Resoluciones N°349 de 1984", "y Resoluciones Exentas SII N°98 de 2014", "y lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República:"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso160.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 20, "target_year": 2021, "raw_text": "DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N°20 de 2021 Y N°86 de 2022."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00307614

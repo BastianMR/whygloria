@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 20.732, PARA LAS CUOTAS 3 Y 4 DE UN AÑO Y 1 Y 2 DEL SIGUIENTE .

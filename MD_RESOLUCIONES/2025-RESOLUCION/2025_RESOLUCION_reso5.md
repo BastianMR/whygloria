@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 10, 21, 35, 85 bis y 85 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las instrucciones contenidas en la Circular N° 47 de 2022, Circular N° 2 de 2025 y Resolución Exenta SII N° 113 de 2022"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE307353

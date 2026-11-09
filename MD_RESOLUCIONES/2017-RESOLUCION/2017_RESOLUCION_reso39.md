@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F22"]
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo tercero de las disposiciones transitorias de la Ley N° 20.780, sobre Reforma Tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, modificada por la Ley N° 20.899, que simplifica el sistema de tributación a la"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

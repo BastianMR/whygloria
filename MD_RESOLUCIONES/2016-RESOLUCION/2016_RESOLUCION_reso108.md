@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en los artículos 3°, 7° letras c), i) y ñ) 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D", "en el artículo 6°, letra A) N° 3 del Código Tributario", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2016, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos", "en la Resolución Exenta N° 95, de 2010, y en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

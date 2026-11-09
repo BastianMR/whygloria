@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Art 2°, N° 2, D.L N° 825", "Art 20, N° 4, de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 80, "target_year": 2015, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 83.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 19 de octubre de 2015.- | | MATERIA: Deja sin efecto Circular N° 80, de 29/09/2015."}]
 ---
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR

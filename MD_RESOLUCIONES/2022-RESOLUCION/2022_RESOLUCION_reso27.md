@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades dispuestas en los artículos 6°, letra A), N° 1 y lo preceptuado en el artículo 68, del Código Tributario, contenido en el artículo 1° del D.L N°830, de 1974", "el artículo 2° número 5 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L N°824, de 1974", "los artículos 1° y 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y la Ley N° 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial del 24 de febrero de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755

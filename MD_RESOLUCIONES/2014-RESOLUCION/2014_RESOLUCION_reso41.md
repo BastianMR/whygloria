@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y en artículos 16, 17, 29, 30, 33, 34, 35, 60, inciso 8° y 63, inciso 1°, todos del Código Tributario, contenido en el artículo 1° del D", "en el artículo 14 de la Ley de Impuesto a la Renta contenido en el artículo 1° del D.L N°824", "en los artículos 1°, 3° bis, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "la Resolución Exenta SII N° 03, de 2012", "y Resolución Exenta SII N° 109, de 2013, todas de este Servicio"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 3, "target_year": 2012, "raw_text": "MATERIA: ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL QUE INDICA, A LOS CONTRIBUYENTES PERTENECIENTES A LA NOMINA DE GRANDES CONTRIBUYENTES Y REEMPLAZA RESOLUCIÓN EXENTA N°03, DE 2012."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del DFL N°7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el Artículo 3° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "La Ley N° 21.125, sobre Presupuesto para el Sector Público para el año 2019", "la Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento", "la Resolución Exenta N° 1055, de 2010, sobre procedimientos para adquisiciones, la Resolución Exenta N° 96, de 2013, que la modifica, y la Resolución Nº 37 de 2013, todas de la Dirección Nacional del Servicio de Impuestos Internos", "y la Resolución N° 7, de 2019, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 37, "target_year": 2013, "raw_text": "## COMPLEMENTA RESOLUCIÓN N° 37, DE 2013, EN LOS TÉRMINOS QUE INDICA."}, {"type": "modifica", "target_type": "resolucion", "target_number": 37, "target_year": 2013, "raw_text": "La Ley N° 21-125, sobre Presupuesto para el Sector Público para el año 2019; la Ley N°19-886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento; los Decretos N°s N° 472, 473, 474, del 19 de oct"}]
 ---
 
 ## Subdirección de Administración Depto. de Adquisiciones

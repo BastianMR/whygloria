@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, lo dispuesto en los Artículos 42 N° 1, 43 N° 1, 74 N° 1 y 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

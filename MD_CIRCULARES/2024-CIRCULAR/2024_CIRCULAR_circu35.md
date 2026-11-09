@@ -10,6 +10,9 @@ impuestos: ["renta", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 12 de la Ley N° 21.681, publicada en el Diario Oficial de 1° de julio de 2024", "artículo 8° bis de la Ley N° 20.444, publicada en el Diario Oficial de 28 de mayo de 2010."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 22, "target_year": 2014, "raw_text": "| **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°35.- 287082-2024 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 01 DE AGOSTO DE 2024 | | MATERIA: Modifica la Circu"}, {"type": "deroga", "target_type": "circular", "target_number": 44, "target_year": 2010, "raw_text": "Deja sin efecto la Circular N° 44 de 2010. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°35.- 287082.2024 GE** |

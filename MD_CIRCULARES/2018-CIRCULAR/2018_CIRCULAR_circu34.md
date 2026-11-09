@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, contenido en el artículo primero del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda, artículo 123 bis", "Ley N° 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera", "artículo 2°, N° 5, de la Ley N° 21.039, que perfecciona la Justicia Tributaria y Aduanera."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu12.md", "MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu35.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 13, "target_year": 2010, "raw_text": "Deroga Circular N° 13, de 29 de enero de 2010. | REFERENCIA: Código Tributario, contenido en el artículo primero del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda, artículo 123 bis;"}, {"type": "deroga", "target_type": "circular", "target_number": 13, "target_year": null, "raw_text": "Derógase a contar de la fecha de vigencia de la presente Circular, la Circular N° 13 de 29-01-2010."}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA.** | **CIRCULAR Nº 34.-** |

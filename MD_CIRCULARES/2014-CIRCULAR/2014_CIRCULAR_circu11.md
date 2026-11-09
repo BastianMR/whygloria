@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Arts 23, 34 Nº 1 y 74 Nº 6 LIR"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **GABINETE DEL DIRECTOR OFICINA DE GESTION NORMATIVA** | **CIRCULAR N° 11.-** |

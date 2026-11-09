@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 4° y 29 de la ley N° 17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A), N° 1 del Decreto Ley N° 830, sobre Código Tributario, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 132, "target_year": null, "raw_text": "REEMPLAZA PLANOS DE PRECIOS DE LAS COMUNAS DE CATEMU, PANQUEHUE, CHILLÁN Y CONCEPCIÓN DE LA RESOLUCIÓN N° 132 DE 31-12-2012 Y CORRIGE ERROR DE TRANSCRIPCIÓN."}]
 ---
 
 SUBDIRECCIÓN DE AVALUACIONES

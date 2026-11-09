@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 53 y 97 Nºs 2 y 11 D.L N° 830, de 1974, sobre Código Tributario"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 9, "target_year": null, "raw_text": "| **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **CIRCULAR Nº 12** | | --- | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | SISTEMA DE PUBLICACIONES ADMINISTRAT"}, {"type": "deroga", "target_type": "circular", "target_number": 9, "target_year": 2020, "raw_text": "Debido a que el INE rectificó el IPC General de Enero de 2020, variando el Índice de 104,32 a un Índice de 104,24, debiendo ajustarse las variaciones del IPC a este nuevo Índice, resulta necesario por una parte dejar sin efecto la Circular "}]
 ---
 
 | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **CIRCULAR Nº 12** |

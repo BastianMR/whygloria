@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DLF N° 7, de 1980, Hacienda", "las Resoluciones Exentas N°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente", "el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales", "y la Resolución Exenta N° 08, del 10 de enero del 2024, el artículo segundo transitorio de la Ley N°21.505, que promueve el almacenamiento de energía eléctrica y la electromovilidad"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 8, "target_year": 2024, "raw_text": "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."}]
 ---
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024.

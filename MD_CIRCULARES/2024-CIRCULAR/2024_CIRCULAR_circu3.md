@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.591, publicada en el Diario Oficial de 10 de agosto de 2023", "Ley N° 21.647, publicada en el Diario Oficial de 23 de diciembre de 2023", "Ley sobre Impuesto a la Renta, contenida en artículo 1° del Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°03.- 254807.2023 GE** |

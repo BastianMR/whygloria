@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Circular 54, de 2012"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2017-CIRCULAR/2017_CIRCULAR_circu49.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 54, "target_year": 2012, "raw_text": "Deroga Circular N° 54 del 15 de noviembre del 2012. | REFERENCIA: Circular 54, de 2012 |"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 07.-** |

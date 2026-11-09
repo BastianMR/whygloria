@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1, 8 bis, 18, 36, 36 bis, 53, 57, 97 N° 11, 126 y 128 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 2°, 3°, 3° bis, 4°, 5°, 8° letras a) y n), 11 letra e), 12 letra B) N° 11 y 18, 15, en el Párrafo 7° Bis del Título II, 37 y 42 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en la Ley N° 19.378", "en el artículo 3° de la Ley N° 21.713", "y en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 93, "target_year": 2025, "raw_text": "MODIFICA LA RESOLUCION N° 93 DE 2025 QUE REGULA LA DECLARACIÓN Y PAGO DEL IVA POR PARTE DE VENDEDORES REMOTOS Y OPERADORES DE PLATAFORMAS DIGITALES DE INTERMEDIACIÓN CONFORME AL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DE LA L"}]
 ---
 
 Sii

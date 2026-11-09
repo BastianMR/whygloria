@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14D3"]
 ref_legal: ["Ley N° 21.578, Ley N° 21.256 y Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos** | **CIRCULAR N°34.- 249136.2023 GE** |

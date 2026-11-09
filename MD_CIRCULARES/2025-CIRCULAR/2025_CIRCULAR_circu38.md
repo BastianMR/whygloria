@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 66 y 68 del Código Tributario", "Ley N° 21.641, publicada en el Diario Oficial de 30 de diciembre de 2023", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020", "y, Decreto con Fuerza de Ley N° 3 de 1969, del Ministerio de Hacienda, que crea el Rol Único Tributario y establece normas para su aplicación."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 31, "target_year": 2007, "raw_text": "Deja sin efecto las Circulares N° 31 de 2007 y N° 7 de 2008."}, {"type": "complementa", "target_type": "circular", "target_number": 31, "target_year": 2014, "raw_text": "Complementa y modifica las Circulares N° 31 de 2014, N° 58 de 2015, N° 41 de 2021 y N° 24 de 2024. | REF."}, {"type": "modifica", "target_type": "circular", "target_number": 31, "target_year": 2014, "raw_text": "Además, se modifica la Circular N° 31 de 2014 (modificada por las Circulares N° 41 de 2021 y N° 24 de 2024), en cuanto a que el trámite de inscripción en el registro RUT y/o aviso de actividades debe ser realizado a través de la carpeta tri"}, {"type": "complementa", "target_type": "circular", "target_number": 58, "target_year": 2015, "raw_text": "Finalmente, en virtud de las presentes instrucciones, se complementan o modifican, según corresponda, las instrucciones impartidas mediante la Circular N° 58 de 2015."}]
 ---
 
 | **DEPARTAMENTOEMISOR Subdirección de Asistencia al Contribuyente Departamento deCiclo de Vida Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°38.- GE320525** |

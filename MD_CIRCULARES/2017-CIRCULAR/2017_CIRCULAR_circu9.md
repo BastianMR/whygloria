@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en el Decreto Supremo N° 104 de 1977", "Ley N° 20.444", "artículo 31, inciso 4°, N° 3 de la Ley sobre Impuesto a la Renta", "artículo 79 de la Ley sobre Impuesto a las Ventas y Servicios", "artículo 97 N° 16 del Código Tributario"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS

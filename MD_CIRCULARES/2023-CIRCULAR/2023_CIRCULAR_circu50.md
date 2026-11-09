@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Articulo 132 ter del Código Tributario, contenido en el Decreto Ley N° 830, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 12, "target_year": 2021, "raw_text": "| **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°50.- 260956-2023 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 29 DE NOVIEMBRE DE 2023. | | MATERIA : Modifica Circ"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°50.- 260956.2023 GE** |

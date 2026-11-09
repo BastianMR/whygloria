@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 7, de 2019, de la Contraloría General de la República."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE274699

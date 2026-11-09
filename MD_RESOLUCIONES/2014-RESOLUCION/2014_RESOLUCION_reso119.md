@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los artículos 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974 y los artículos 68, 69 y 71 bis del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios contenido en el Decreto Supremo N°55 del 02 de Febrero de 1977"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

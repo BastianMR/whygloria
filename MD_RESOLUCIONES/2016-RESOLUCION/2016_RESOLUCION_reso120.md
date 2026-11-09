@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 inciso noveno del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974", "en los artículos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "la Resolución Exenta SII N° 16 de 3 de marzo de 2015 modificada por la Resolución N°113 del 24 de diciembre de 2015"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2022-RESOLUCION/2022_RESOLUCION_reso127.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 16, "target_year": 2015, "raw_text": "Y DEROGA RESOLUCIONES N°s 16 Y 113 DE 2015."}, {"type": "deroga", "target_type": "resolucion", "target_number": 113, "target_year": 2015, "raw_text": "Y DEROGA RESOLUCIONES N°s 16 Y 113 DE 2015."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

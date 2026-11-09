@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 14 letra A) y D) N° 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "en el párrafo segundo del numeral i), letra a), N°1, del numeral I.- del artículo tercero de las disposiciones transitorias de la Ley N° 20.780", "en el artículo décimo y undécimo de la Ley N° 21.681", "y la Resolución Exenta SII N°27 del 25 de febrero del 2009."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 27, "target_year": 2009, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009"}]
 ---
 
 ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS CONTENIDAS EN EL REGISTRO RAI, QUE ESTABLECE EL ARTÍCULO DÉCIMO Y UNDÉCIMO DE LA LEY N° 21.681. MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009

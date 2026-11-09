@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "el Art 7 de la Ley Orgánica del Servicios de Impuestos Internos, contenida en el Art 1 del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980, el Art 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974, el Art 4° de la Ley N° 1", "el Artículo 6° de la Ley N° 20.655, publicada en el Diario Oficial del 01.02.2013", "y las instrucciones impartidas mediante Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras a), c) y q), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: APRUEBA PROTOCOLO DE COLABORACIÓN 'RED DE ACADEMIAS, ESCUELAS Y PROGRAMAS DE SERVICIOS PUBLICOS', ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y EL SERVICIO CIVIL.

@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, lo dispuesto en los artículos 42 N° 1, 42 bis, 43 N° 1, 74 N° 1 e inciso tercero del artículo 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley ", "lo dispuesto en el artículo 5° transitorio de la Ley N° 19.768, del 2001", "lo dispuesto en Resolución Exenta SII N° 6509, del 20 de diciembre de 1993, y sus modificaciones posteriores", "la Resolución Exenta SII N° 8, del 10.01.2007", "y la Resolución Exenta SII N° 13, del 24.02.2015"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

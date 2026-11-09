@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6, letra A), N° 1 y 60 inciso 8 del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 21 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, sustituido por la Ley N° 20.630, publicada en el Diario Oficial de 27 de septiembre de 2012"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 4, "target_year": 1995, "raw_text": "MATERIA: Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas o cantidades a que se refiere el inciso tercero del artículo 21 de la Ley sobre Impuesto a la Renta y deroga Resolución Exenta N° 4-845 d"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES

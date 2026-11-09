@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 29, "target_year": 2013, "raw_text": "Deja sin efecto la Circular N° 29 de 2013. | al REFERENCIA: Artículo 41 Ede la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974;"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°10.- 300338.2024 GE** |

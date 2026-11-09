@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, de 1980, del Ministerio de Hacienda", "el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824 de 1974", "en el artículo 7° y en el artículo segundo de las disposiciones transitorias de la Ley N°21.591 de Royalty a la Minería, publicada en el Diario Oficial de fecha 23.12.2023", "la Circular SII N°03 del 10.01.2024, y las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

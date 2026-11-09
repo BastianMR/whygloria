@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "territorial"]
 formularios: []
 regimen: ["14A", "14B", "14D3", "renta-presunta"]
 ref_legal: ["Artículos 14, 17 N° 7, 20, 38 bis, 56 N° 3, 63 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N°21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu34.md", "MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu4.md"]
+relaciones: []
 ---
 
 ## Modificada por Circular N° 4, del 12 de enero de 2021

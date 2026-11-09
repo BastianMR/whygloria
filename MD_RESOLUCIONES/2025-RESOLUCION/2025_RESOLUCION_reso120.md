@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, del Ministerio de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "en la Ley N° 19.296 que Establece Normas sobre Asociaciones de Funcionarios de la Administración del Estado", "lo dispuesto en las Resoluciones N°349, de 1984", "y Resolución Exenta N°136, de 2021, todas ellas del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 136, "target_year": 2021, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII Nº136, DE 2021."}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 379, "target_year": 1991, "raw_text": "PRIMERO: Reemplazase el número 8, de la letra A, de la Resolución N°379, de 1991, del Servicio de Impuestos Internos por el siguiente:"}]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 264683

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y letra o) del 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 2 de la Ley N° 20.575 y el artículo 35 del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 1041, "target_year": 2012, "raw_text": "La entrada en vigencia del presente convenio deja sin efecto el Convenio de Colaboración e Intercambio de Información firmado el 7 de noviembre de 2012, aprobado por Resolución Exenta N°1041, de fecha 12 de noviembre de 2012, de la Fiscalía"}]
 ---
 
 Sii

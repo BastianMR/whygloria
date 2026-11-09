@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que confieren los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "los artículos 53, 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974, del Ministerio de Hacienda", "el artículo 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.S Nº 55, de 1977, del Ministerio de Hacienda", "la Ley Nº 21.210 de 2020 sobre Modernización de la Legislación Tributaria", "la Ley Nº 21.256 que Establece Medidas Tributarias para la Reactivación", "la Ley Nº 21.713 de 2024 sobre Cumplimiento de las Obligaciones Tributarias", "las Resoluciones Exentas SII N° 45, 99 de 2019, 74, de 2020, 176, de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE LA OBLIGACIÓN DE ENTREGAR REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y DEL COMPROBANTE DE PAGO ELECTRÓNICO, EN LAS CONDICIONES QUE SE INDICAN.

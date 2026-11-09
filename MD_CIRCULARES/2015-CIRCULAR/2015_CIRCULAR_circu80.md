@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Art 2°, N° 2, del D.L N° 825"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu83.md"]
+relaciones: []
 ---
 
 043-2014 II (008-2014 Circ-SN)

@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Decreto Ley Nº 3.475 de 1980, Ley sobre Impuesto de Timbres y Estampillas", "artículo 1° de la ley N° 21.299, publicada el 4 de enero de 2021", "artículo tercero de la Ley N° 21.307, publicada el 3 de febrero de 2021."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°38.- 181679.2021 GE** |

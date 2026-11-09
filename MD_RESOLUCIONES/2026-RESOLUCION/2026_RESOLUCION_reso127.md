@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["La Resolución Ex", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 16, "target_year": 2026, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA N°16 DE 2026, QUE APROBÓ LA SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) \"INICIO DE ACTIVIDADES\"."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA

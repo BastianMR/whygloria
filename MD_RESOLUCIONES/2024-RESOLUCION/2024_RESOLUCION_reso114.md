@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 21.640, de Presupuestos del Sector Público para el año 2024", "las Resoluciones N° 7 de 2019 y N° 14 de 2022, ambas de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59ª Asamblea General del CIAT.

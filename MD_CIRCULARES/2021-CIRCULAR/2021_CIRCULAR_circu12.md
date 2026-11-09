@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Modifica Circulares N° 54 de 2002, N° 47 de 2011, N° 23 de 2016, N° 34 de 2018, y Deroga Circulares N°26 de 2008 y N° 19 de 2011."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu26.md"]
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 54, "target_year": 2002, "raw_text": "| **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº 12.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 DE FEBRERO DE 2021 | | MATERIA: Imparte instrucciones sobre der"}, {"type": "complementa", "target_type": "circular", "target_number": 34, "target_year": 2018, "raw_text": "Como consecuencia de las modificaciones introducidas al artículo 123 bis del CT, se hace necesario incorporar las siguientes instrucciones que complementan la Circular N° 34 de 27 de junio de 2018."}, {"type": "deroga", "target_type": "circular", "target_number": 26, "target_year": null, "raw_text": "Se deroga desde esta fecha la Circular N° 26 del año 2008, que regulaba la solicitud de Revisión de la Actuación Fiscalizadora."}, {"type": "deroga", "target_type": "circular", "target_number": 34, "target_year": 2018, "raw_text": "Se deroga la Circular N° 34 de 2018, en todo aquello que resulte contradictorio con las nuevas instrucciones, y con la modificación legal a que estas respondan, en especial en lo que dice relación con las audiencias consignadas en dicha Cir"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº 12.-** |

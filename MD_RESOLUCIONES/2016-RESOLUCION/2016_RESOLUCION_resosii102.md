@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° y 7° letras i) y j) del D.F.L N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, el artículo 36 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto N° 871, de 2016, del Ministerio de Hacienda y lo establecido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: DESIGNA REPRESENTANTE TITULAR Y ALTERNO DEL SERVICIO DE IMPUESTOS INTERNOS ANTE EL COMITÉ TÉCNICO PÚBLICO-PRIVADO DE EXPORTACIÓN DE SERVICIOS.

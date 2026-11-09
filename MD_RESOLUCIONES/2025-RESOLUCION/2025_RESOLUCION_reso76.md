@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "en los artículos 2°, 3° y 8° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825 de 1974, del Ministerio de Hacienda", "las normas contenidas en el Título XIII del D.S N° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, también del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330801

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 3° y 7° del DFL N°7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el DFL N°1 del Ministerio de Hacienda, de 2016, que Fija la planta de personal del Servicio de Impuestos Internos", "y lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República:"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUPRIME EL DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS.

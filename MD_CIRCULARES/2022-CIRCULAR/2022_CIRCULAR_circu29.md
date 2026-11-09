@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 32, "target_year": 2021, "raw_text": "Deja sin efecto la Circular N° 32 de 2021 | REFERENCIA: Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta. |"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Diseño de Procedimientos** | **CIRCULAR N° 29.- GE00213256** |

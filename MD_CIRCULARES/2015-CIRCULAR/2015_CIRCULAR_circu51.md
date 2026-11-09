@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N°20.780", "Artículo 84 bis del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Complementada por Circular N° 25, del 3 de mayo de 2016

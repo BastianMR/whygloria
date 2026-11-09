@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu87.md"]
+relaciones: []
 ---
 
 | **SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA** | **CIRCULAR N° 47.-** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "renta-presunta"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "la Ley N° 21.210, de 24.02.2020, que moderniza la legislación tributaria"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 93, "target_year": null, "raw_text": "DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 93 DE 22-09-2016."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

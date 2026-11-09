@@ -10,6 +10,9 @@ impuestos: ["renta", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 6° de la Ley N° 21.047", "artículo 37 del Decreto Ley N° 1.939 de 1977", "artículo 4° de la Ley N° 19.896."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 31, "target_year": 2018, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°59 09-2018 CIRC.SN 243-2018 CIRC.TT** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 27 DICIEMBRE 2018 | | MATERIA Complementa la Circular N° 31 de 2018, en la"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°59 09.2018 CIRC.SN 243.2018 CIRC.TT** |

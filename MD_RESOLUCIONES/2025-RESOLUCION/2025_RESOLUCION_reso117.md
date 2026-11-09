@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 6° letra A) N°s 1 y 4, 35, 68 y 89 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES.

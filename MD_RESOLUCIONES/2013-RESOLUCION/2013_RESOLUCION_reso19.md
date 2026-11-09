@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, las Resoluciones números 16 y 18 exentas, de 11 de Julio de 2002 y 29 de Agosto de 2002, respectivamente, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobr"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013.

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 7°, letras c), e), i) y j) y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980 del Ministerio de Hacienda", "en los artículos 6° letra A N° 3° del Código Tributario y en el artículo 41 del D.F.L N° 01 de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional De Bases Generales de la Administración del E"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 191, "target_year": 2010, "raw_text": "MATERIA: DELEGA FACULTADES QUE INDICA EN FUNCIONARIO QUE SEÑALA, Y DEROGA EN PARTE RESOLUCIÓN EXENTA NÚMERO 191 DE 24 DE DICIEMBRE DE 2010"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de Hacienda, de 1980", "el artículo 6°, letra A), N° 1° del Código Tributario, contenido en el D.L N° 830, de 1974", "el artículo 4 bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980", "los artículos 1, 36 inc. 1°, 59 y 68 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974", "el artículo 83 bis de su Reglamento, contenido en el D.S N° 55, de Hacienda de 1977", "el artículo 2° del Decreto N° 893, del Ministerio de Hacienda, publicado en el Diario Oficial del 24.01.2004"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 117, "target_year": 2011, "raw_text": "DEROGA RESOLUCIÓN EXENTA SII N°117 DEL 03 DE OCTUBRE DEL 2011."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

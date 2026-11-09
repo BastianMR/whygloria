@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L N° 7, del Ministerio de Hacienda, publicado en el D.O. del 15.10.1980, y en los artículos 6 letra A) N° 1, y 88 del Código Tributario, D.L N° 830, de 1974", "en los artículos 2°, 3° y 54, de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "las Resoluciones Exentas SII N° 55, de 02.06.2005, N° 4095 de 25.08.2000 y N° 39 de 27.03.2008, esta última, modificada por Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

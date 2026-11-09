@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.713, Artículos primero y Ley N° 21.716, Artículo único", "Código Tributario, artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 160 bis, del Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 65, "target_year": 2015, "raw_text": "Deja sin efecto la Circular N° 65 de 2015. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº31.- GE00312320** |

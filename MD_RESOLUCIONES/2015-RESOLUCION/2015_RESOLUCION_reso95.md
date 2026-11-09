@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art Primero del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 125, de fecha 30.12.2014 y sus complementos."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 125, "target_year": 2014, "raw_text": "## COMPLEMENTA RESOLUCIÓN EXENTA SII N°125 DE 30 DE DICIEMBRE DE 2014, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en la Circular N° 54, de 2009, el Servicio de Impuestos Internos, procederá a su inscripción en el 'Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Alimentos cuya Comercialización sea Inviable', cuya nómina se publica, en el sitio [<u>www.sii.cl</u>](http://www.sii.cl)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 5, letra B), del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en el artículo 9° y siguientes del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

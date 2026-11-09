@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14B"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A), N° 1, 34 y 35, ambos del Código Tributario, contenido en el artículo 1° del D", "en los Artículos 81, 82 y 86 de la Ley N° 20.712", "en el artículo 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL", "y en la Resolución Exenta SII N°20, del 10.03.2015."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE.

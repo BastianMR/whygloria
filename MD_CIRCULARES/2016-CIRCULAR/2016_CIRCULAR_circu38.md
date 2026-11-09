@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["CIRCULAR N° 52, DE 09.09.1999"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 58, "target_year": 1996, "raw_text": "| **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 05 de julio de 2016.- | | MATERIA: ACTUALIZA E IMPARTE INSTRUCCIONES SOBRE PROCEDIMIENTO DE E"}, {"type": "deroga", "target_type": "circular", "target_number": 52, "target_year": 1999, "raw_text": "Esta circular entrará en vigencia desde la fecha de su publicación en extracto en el Diario Oficial, y a contar de dicha fecha se derogan las Circulares N° 52, de 1999 y N° 58, de 1996."}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** |

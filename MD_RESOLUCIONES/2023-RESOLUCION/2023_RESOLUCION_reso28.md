@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["las facultades que se me confieren en las letras c), k) y l) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, lo establecido en el artículo 17 de la norma recién citada, y lo instruido en la Resolución N° 6, "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ENCARGA FUNCIONES DE SECRETARÍA GENERAL A FUNCIONARIA QUE INDICA, DESIGNA SUBROGANTE Y DEJA SIN EFECTO LA RESOLUCIÓN QUE SEÑALA.

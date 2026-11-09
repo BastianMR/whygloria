@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 23 N° 7, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974", "artículo 3° de la Ley N° 20.956", "el D.S N° 55, de 1977, Reglamento de la Ley del IVA", "y artículo 4° de la Ley N° 20.956 que establece medidas para impulsar la productividad."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Modificada por Circular Nº 35, del 23 de junio de 2017

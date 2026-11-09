@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 38 y 58 N°1 de la Ley sobre Impuesto a la Renta, 66 del Código Tributario, Circular N° 31 de 2014 y 3° del D.F.L N° 3 de 1969."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2021-CIRCULAR/2021_CIRCULAR_circu40.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 57 72-2017 ID 3-2017 SN** |

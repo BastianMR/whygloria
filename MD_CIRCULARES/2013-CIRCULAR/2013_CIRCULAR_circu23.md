@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.659, publicada en el Diario Oficial del 08 de febrero de 2013"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu56.md", "MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu60.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N°23** |

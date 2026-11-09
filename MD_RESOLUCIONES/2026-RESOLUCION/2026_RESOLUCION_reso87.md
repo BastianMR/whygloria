@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["La Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 49 al 53 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda", "en el N° 8 de la letra D) del artículo 14, artículo 22, y artículo 52 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° Decreto Ley N° 824 de 1974", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 385032

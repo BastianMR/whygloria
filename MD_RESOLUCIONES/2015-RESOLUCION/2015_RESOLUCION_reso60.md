@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en los artículos 37, 38 y 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el artículo 7°, letras a), c), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N°7, de 1980, del Ministerio de Hacienda", "en el N°3 de la letra A) del artículo 6° del Código Tributario", "el Decreto Exento N°115, de 2014, del Ministerio de Hacienda, que establece el orden de subrogación del cargo de Director del Servicio de Impuestos Internos", "la Resolución N°1600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA OFICINA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA

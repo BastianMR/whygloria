@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Los artículos 1°, 4° bis, 7° letra b) y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "los artículos 6°, letra A) N° 1 y letra B) N° 8 y 9, 8° bis, 18, 57, 58, 123 bis,124, 126 y 128 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "los artículos 8° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "la Ley N° 19.880", "el artículo 6° del Decreto con Fuerza de Ley N° 1 que contiene el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorerías", "la Circular N° 42 de 2020", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE PROCEDIMIENTO PARA SOLICITAR LA DEVOLUCIÓN O IMPUTACIÓN DEL IVA, INTERESES, REAJUSTES O MULTAS PAGADOS EN EXCESO POR CONTRIBUYENTES EXTRANJEROS SUJETOS AL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DEL TÍTULO II DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y 88°, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el inciso tercero del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2019-RESOLUCION/2019_RESOLUCION_reso123.md", "MD_RESOLUCIONES/2019-RESOLUCION/2019_RESOLUCION_reso123.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

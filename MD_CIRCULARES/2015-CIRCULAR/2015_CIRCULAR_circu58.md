@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Código Tributario, artículos 68 y 69", "Ley N° 20.780, artículo 10, N°s 20 y 21."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 12, "target_year": 2003, "raw_text": "Deroga la Circular N° 12, de 4 de febrero de 2003, y las Resoluciones Exentas N°s 29 y 41 de 2002. | REFERENCIA: Código Tributario, artículos 68 y 69;"}]
 ---
 
 Complementada por Circular N° 30, del 10 de mayo de 2016

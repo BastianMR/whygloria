@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA.

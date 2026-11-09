@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, las Resoluciones números 16 y 18 Exentas, de 11 de Julio de 2002 y 29 de Agosto de 2002, respectivamente, y el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 RECTIFICA RESOLUCIÓN EX. SII N° 3 DEL 14 DE ENERO DE 2016, QUE FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS.

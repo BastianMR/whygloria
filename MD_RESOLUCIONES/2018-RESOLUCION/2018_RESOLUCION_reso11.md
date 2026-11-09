@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Resolución Exenta SII N° 128 publicada el 29.12.2017, los Artículos 2° y 7° de la Ley N° 17.235, sobre Impuesto Territorial"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE MONTOS DE AVALÚO EXENTO, DE AVALÚO PARA CAMBIO DE TASA DEL IMPUESTO TERRITORIAL Y EXENCIÓN DE PLENO DERECHO, PARA PREDIOS NO AGRÍCOLAS REAVALUADOS CON VIGENCIA 1° DE ENERO DE 2018.

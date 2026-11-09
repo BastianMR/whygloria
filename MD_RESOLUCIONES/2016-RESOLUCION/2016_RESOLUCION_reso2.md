@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y en el artículo 34º Nº 2 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE.

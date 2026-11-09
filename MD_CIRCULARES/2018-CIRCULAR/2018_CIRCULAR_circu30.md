@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 53 y 97 Nºs 2 y 11 D.L Nº 830, de 1974, sobre Código Tributario."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 30** |

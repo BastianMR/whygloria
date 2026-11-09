@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES** | **CIRCULAR N°: 05.-** |

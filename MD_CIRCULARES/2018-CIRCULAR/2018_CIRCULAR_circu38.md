@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo Económico. -Artículo 251 bis y 251 ter Código Penal. -Artículo 1, contenido en artículo primero, Ley 20.393. -Articulo 31 Ley d"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 56, "target_year": null, "raw_text": "Deroga Circular N° 56 de 08-11-2007 su modificación efectuada Circular 28 de 25-04-2014. | REFERENCIA: - Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organizació"}]
 ---
 
 | **DEPARTAMENTO EMISOR:** | **CIRCULAR Nº 38 .-** |

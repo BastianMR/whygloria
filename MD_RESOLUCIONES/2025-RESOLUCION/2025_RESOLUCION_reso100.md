@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "las reglas generales de validez de los documentos electrónicos establecidas por la Ley N° 19.799 y sus modificaciones."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN

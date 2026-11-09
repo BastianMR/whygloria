@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA.

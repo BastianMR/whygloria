@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda", "lo dispuesto en numeral iii) de la letra a) del N° 8 y N° 3 de la letra D) del artículo 14, y artículo 68 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del D.L N°824, de 1974", "el artículo 59 de la Ley sobre Impuestos a las Ventas y Servicios, y las disposiciones contenidas en la Ley N° 21.210 publicada en el Diario Oficial el 24 de febrero de 2020, sobre Modernización Tributaria."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE LOS REQUISITOS Y FORMATO QUE DEBE CUMPLIR EL LIBRO DE INGRESOS Y EGRESOS Y EL LIBRO DE CAJA, QUE SE EXIGE LLEVAR A LOS CONTRIBUYENTES ACOGIDOS AL RÉGIMEN DE TRANSPARENCIA TRIBUTARIA DEL ARTÍCULO 14 LETRA D) N°8, PRO PYME TRANSPARENTE, Y A LOS CONTRIBUYENTES DEL RÉGIMEN PRO PYME EN BASE A RETIROS O DISTRIBUCIONES, DEL ARTÍCULO 14 LETRA D) N°3, QUE DECIDAN ACOGERSE A CONTABILIDAD SIMPLIFICADA, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 129, DE FECHA 31.12.2014.

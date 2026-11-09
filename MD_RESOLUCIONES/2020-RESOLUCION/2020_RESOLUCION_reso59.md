@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los N°s 1 y 2, de la letra A, del artículo 6° del Código Tributario", "en las letras a), b) e i) del artículo 7°, todos del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda, sobre Ley Orgánica del Servicio de Impuestos Internos", "y en el artículo primero numeral 1"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias.

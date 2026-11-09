@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° letras a), c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6°, letra A), N°1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en el artículo 5° de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024, que introdujo modificaciones al artículo 9 de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA NÓMINA DE BIENES AFECTOS, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420.

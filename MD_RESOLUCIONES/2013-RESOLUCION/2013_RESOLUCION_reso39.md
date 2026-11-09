@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L N° 7, de 1980, del Ministerio de Hacienda, en los artículos 6º letra A) Nº 1, 30 y 60 inciso 8° del Código Tributario, contenido en el artículo 1° del D.L N°830", "y el artículo 55 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

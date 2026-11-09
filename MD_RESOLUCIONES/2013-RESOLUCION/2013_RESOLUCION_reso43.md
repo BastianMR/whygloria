@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["La facultad que el artículo 2°, letra c) y artículo 6°, inciso 3° del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Turismo, confiere al Servicio de Impuestos Internos para fijar las especificaciones que deben contener y los antecedentes que deben acompañar las declaraciones", "lo dispuesto en el artículo 6°, letra A, N° 1, del Decreto Ley N°830, de 1974, sobre Código Tributario", "en el artículo 36, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "la Resolución N°208, de 2009, que establece el procedimiento de solicitud de devolución de impuestos que deben presentar los exportadores, conforme a los plazos y forma previstos en el Decreto Supremo N°348 de 1975, del Ministerio de Economía, Fomento y Turismo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 208, "target_year": 2009, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 208, DE 2009, EN RELACIÓN A LA RECUPERACIÓN DE IMPUESTO A QUE TIENEN DERECHO LAS EMPRESAS NAVIERAS CHILENAS SEÑALADAS EN EL ARTÍCULO 36 INCISO OCTAVO, DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO. MEDIANAS Y GRANDES EMPRESAS

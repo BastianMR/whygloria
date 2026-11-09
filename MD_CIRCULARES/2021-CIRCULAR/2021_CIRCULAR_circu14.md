@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["arts 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 28, de 2 de febrero de 2021, del Ministerio de Hacienda, publicado en el Diario Oficial de 11 de febrero de 2021", "y Resolución Exenta N° 18, de 22 de febrero de 2021, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 27 de febrero de 2021."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°14.- 176922.2021 GE** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis del Código Tributario, contenido en artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 3°, 10, 11, 14, 38, 41 A, 41 B y 41 G, 41 E N°6, 58, 59, 60, 62, 63, 74, 79, 82 y 101, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824 de 1974", "las instrucciones impartidas en las Resoluciones Exentas SII N ° 107 de 2017 y sus modificaciones posteriores"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 REEMPLAZA FORMATO E INSTRUCCIONES DE LLENADO DE DECLARACIONES JURADAS N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951.

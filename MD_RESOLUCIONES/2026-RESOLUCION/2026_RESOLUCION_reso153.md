@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 1°y 7°, letras a), c) y o), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda", "las disposiciones de la Ley N° 19.886, sobre Bases de Contratos Administrativos de Suministros y Prestación de Servicios", "el artículo 35 de la Ley N° 21.080, que Modifica diversos cuerpos legales para modernizar el Ministerio de Relaciones Exteriores"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 36, "target_year": 2024, "raw_text": "Ley N° 18-575, Orgánica Constitucional de Bases Generales de la Administración del Estado; las disposiciones de la Ley N° 19-886, sobre Bases de Contratos Administrativos de Suministros y Prestación de Servicios; el artículo 35 de la Ley N°"}]
 ---
 
 ## Subdirección Desarrollo de Personas Depto. Formación GE00395959

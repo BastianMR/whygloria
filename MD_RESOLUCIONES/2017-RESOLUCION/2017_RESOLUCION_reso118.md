@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["las facultades de fiscalización otorgadas a este Servicio y que fueran incorporadas por Ley N° 20.780 de 2014", "la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

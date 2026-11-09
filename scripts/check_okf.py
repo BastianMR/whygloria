@@ -24,6 +24,7 @@ from pathlib import Path
 import yaml
 
 import metadata
+import vigencia
 
 ROOT = Path(__file__).resolve().parents[1]
 FOLDER_RE = re.compile(r"^(\d{4})-(CIRCULAR|RESOLUCION)$")
@@ -35,6 +36,7 @@ IMPUESTOS = set(metadata.VOCAB["impuestos"]["values"])
 REGIMEN = set(metadata.VOCAB["regimen"]["values"])
 FORM_PATTERN = re.compile(metadata.VOCAB["formularios"]["pattern"])
 CITATION_RE = re.compile(metadata.VOCAB["ref_legal"]["pattern"], re.IGNORECASE)
+RELATION_TYPES = set(vigencia.VARIANTS.values())
 
 
 def clean_description(text: str) -> str:
@@ -94,11 +96,18 @@ def concept_meta(path: Path, body: str) -> dict:
         "tags": ["SII", year, tag],
     }
     meta.update(metadata.extract_metadata(body, kind, year))
+    meta.setdefault("status_vigencia", "desconocido")
+    meta.setdefault("replaced_by", [])
     return meta
 
 
 def yaml_list(values: list) -> str:
-    return "[" + ", ".join(json.dumps(str(value), ensure_ascii=False) for value in values) + "]"
+    def item(value):
+        if isinstance(value, (dict, list)):
+            return json.dumps(value, ensure_ascii=False)
+        return json.dumps(str(value), ensure_ascii=False)
+
+    return "[" + ", ".join(item(value) for value in values) + "]"
 
 
 def render_frontmatter(meta: dict) -> str:
@@ -122,6 +131,9 @@ def render_frontmatter(meta: dict) -> str:
             f"formularios: {yaml_list(meta['formularios'])}",
             f"regimen: {yaml_list(meta['regimen'])}",
             f"ref_legal: {yaml_list(meta['ref_legal'])}",
+            f"status_vigencia: {quote(meta.get('status_vigencia', 'desconocido'))}",
+            f"replaced_by: {yaml_list(meta.get('replaced_by') or [])}",
+            "relaciones: " + yaml_list(meta.get("relaciones") or []),
         ]
     return "\n".join(lines) + "\n---\n\n"
 
@@ -138,6 +150,10 @@ def fix_file(path: Path) -> None:
         write_md(path, text.lstrip("\ufeff"))
         return
     meta = concept_meta(path, body)
+    # Status is derived from the whole corpus; --fix must never reset it.
+    for key in ("status_vigencia", "replaced_by"):
+        if key in data:
+            meta[key] = data[key]
     if not meta:
         # Root-level concept (e.g. README.md): preserve existing keys.
         if data is None:
@@ -195,6 +211,26 @@ def metadata_problems(relative, data: dict) -> list[str]:
     for value in data.get("ref_legal") or []:
         if not isinstance(value, str) or not CITATION_RE.search(value):
             problems.append(f"{relative}: ref_legal item is not a citation: {value!r}")
+    if data.get("status_vigencia") not in vigencia.STATUSES:
+        problems.append(f"{relative}: unknown status_vigencia {data.get('status_vigencia')!r}")
+    if not isinstance(data.get("replaced_by"), list):
+        problems.append(f"{relative}: 'replaced_by' is not a list")
+    relaciones = data.get("relaciones")
+    if not isinstance(relaciones, list):
+        problems.append(f"{relative}: 'relaciones' is not a list")
+    for relation in relaciones or []:
+        if not isinstance(relation, dict):
+            problems.append(f"{relative}: relacion is not a mapping")
+            continue
+        if relation.get("type") not in RELATION_TYPES:
+            problems.append(f"{relative}: unknown relation type {relation.get('type')!r}")
+        if relation.get("target_type") not in ("circular", "resolucion"):
+            problems.append(f"{relative}: bad target_type {relation.get('target_type')!r}")
+        if not isinstance(relation.get("target_number"), int):
+            problems.append(f"{relative}: bad target_number {relation.get('target_number')!r}")
+        year = relation.get("target_year")
+        if year is not None and not isinstance(year, int):
+            problems.append(f"{relative}: bad target_year {year!r}")
     return problems
 
 

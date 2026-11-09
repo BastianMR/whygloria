@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 20.780, de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu53.md"]
+relaciones: []
 ---
 
 Modificada por Circular N° 53, del 10 de agosto de 2020

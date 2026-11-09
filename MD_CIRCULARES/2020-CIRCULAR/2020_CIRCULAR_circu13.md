@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 440 y 441, de 2020, de la Superintendencia de Pensiones."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "aclara", "target_type": "circular", "target_number": 6, "target_year": 2020, "raw_text": "Aclara aplicación de información contenida en Circular N° 6 de 2020."}, {"type": "modifica", "target_type": "circular", "target_number": 11, "target_year": 2020, "raw_text": "Modifica Circular N° 11 de 2020, en la parte que indica. | REF.LEGAL: Arts 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 440 y 441, de 2020, de la Superintendencia de Pensiones. |"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 13 04-2020 SN CIRC. 022-2020 OGN** |

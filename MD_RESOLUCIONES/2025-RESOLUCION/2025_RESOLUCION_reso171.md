@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, y 69° inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y la Circular N° 32, de 17.04.2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00346102

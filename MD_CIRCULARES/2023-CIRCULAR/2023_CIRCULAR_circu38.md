@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 57, "target_year": 2022, "raw_text": "| **DEPARTAMENTO EMISOR Subdirección de Avaluaciones** | **CIRCULAR N°38.- 256519-2023 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 06 DE SEPTIEMBRE DE 2023 | | MATERIA: Modifica Circular N° 57 de 2022, que impar"}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección de Avaluaciones** | **CIRCULAR N°38.- 256519.2023 GE** |

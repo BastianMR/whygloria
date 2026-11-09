@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las letras c) y o) del artículo 7° del D.F.L N° 7 que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, lo dispuesto en el artículo 5° de la Ley N° 18.575 de Bases de la Administración del Estado, y, el artículo 35 del Código Tributario, contenido en el Decreto Ley"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL

@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1 y las letras a), h) y o) del artículo 7, ambos de la Ley Orgánica del Servicio, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980 del Ministerio de Hacienda", "los párrafos segundo, tercero y cuarto del N° 18 del artículo 8° del Código Tributario, incorporados por el artículo 1 N° 8, letra c) de la Ley N° 21.713 de 2025", "la Circular 6 del 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

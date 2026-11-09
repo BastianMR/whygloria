@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "en los artículos 2°, 3° bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES GE00199141

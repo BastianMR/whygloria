@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El Artículo 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos", "el Artículo 14° ter de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N°824"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

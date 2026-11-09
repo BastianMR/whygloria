@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D", "y lo dispuesto en las Resoluciones Exentas N°s 150, de 29.12.2005 y 126, de 30.12.2014 delegatoria"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el artículo único y artículo transitorio de la Ley N° 21.631, que establece un beneficio tributario transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, publicada en el Diario Oficial de fecha 31.10.2023"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053

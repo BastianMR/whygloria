@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades consagradas en los Arts 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los Arts 54° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974 (en adelante, LIVS)", "la Ley N° 21.210, que Moderniza la Legislación Tributaria", "la Ley N° 21.256, que Establece Medidas Tributarias para la Reactivación Económica", "las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

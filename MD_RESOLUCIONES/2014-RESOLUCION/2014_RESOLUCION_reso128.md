@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974, y lo dispuesto en el N° 11, del numeral I), del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de septiembre de 2014", "y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

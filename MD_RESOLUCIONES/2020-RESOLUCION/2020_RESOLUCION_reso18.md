@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 del Ministerio de Hacienda, de fecha 30 de septiembre de 1980", "los artículos 6° Letra A) Nº 1), 30 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 54 de la Ley sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L N°825, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

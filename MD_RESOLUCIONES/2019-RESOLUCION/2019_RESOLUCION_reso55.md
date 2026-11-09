@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 92, "target_year": 1985, "raw_text": "PRIMERO: Modifícase lo establecido en Resoluciones N° 92, de 1985, N° 31, de 2005 y N° 28, de 2015, en lo referente al territorio jurisdiccional de la XV Dirección Regional Metropolitana Santiago Oriente."}, {"type": "modifica", "target_type": "resolucion", "target_number": 271, "target_year": 1991, "raw_text": "TERCERO: Modifícase lo establecido en la Resolución Exenta N° 271, de 1991, en lo referente a la Unidad de Ñuñoa, la cual cambia su dependencia desde la XV Dirección Regional Metropolitana Santiago Oriente a la XIII Dirección Regional Metro"}, {"type": "modifica", "target_type": "resolucion", "target_number": 444, "target_year": 1997, "raw_text": "CUARTO: Modifícase lo establecido en resolutivo N° 1 de la Resolución N° 444, de 1997 en lo relativo a la dependencia de la Central Metropolitana de Timbraje, que cambia desde la XV Dirección Regional Metropolitana Santiago Oriente a la XII"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS

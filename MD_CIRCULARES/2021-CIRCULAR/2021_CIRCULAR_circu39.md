@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículo vigésimo quinto transitorio de la Ley N° 21.210, y artículo 14 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 43, "target_year": 2020, "raw_text": "| **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°39.- 181615-2021 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 25 DE JUNIO DE 2021 | | MATERIA: Complementa Circular N° 43 de 202"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°39.- 181615.2021 GE** |

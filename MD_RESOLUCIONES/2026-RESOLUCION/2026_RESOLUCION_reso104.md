@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6º letra B), N os 3 y 4, 53, 56 inciso final y 106, y lo dispuesto en los artículos 97 y 207 del Código Tributario, contenido en artículo 1º del D.L Nº 830, de 1974", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "el artículo 45 del Código Civil", "el Decreto 437 de 30.04. 2025, del Ministerio de Hacienda: Reglamento que establece la Política de Condonaciones de acuerdo a lo previsto en el artículo 207 del Código Tributario, publicado en el Diario Oficial el 18.06.2026", "y el Decreto Supremo N°133 de 2026."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

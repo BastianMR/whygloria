@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en la letra A), N° 1, del artículo 6°, y los artículos 17, 34, 35 y 60, del D.L N° 830 de 1974, sobre Código Tributario", "en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica.

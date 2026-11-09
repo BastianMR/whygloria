@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, de 1986 Orgánica Constitucional de Bases Generales de la Administración del Estado, la Ley N° 20.285, sobre acceso a la in", "y en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011 Sobre Asociaciones y Participación Ciudadana en la Gestión Pública"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2016-RESOLUCION/2016_RESOLUCION_reso112.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 36, "target_year": 2008, "raw_text": "SEGUNDO.Se dejan sin efecto las Resoluciones Exentas del Servicio de Impuestos Internos N°s 36, de 24 de marzo de 2008;"}]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA

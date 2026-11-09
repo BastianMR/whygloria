@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículos 30 y 31 N°3 de la Ley sobre Impuesto a la Renta", "artículo 23 N°1 de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 54, "target_year": 2009, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 42 180-2018 ID 7-2018 SN (Circ.)** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 9 DE AGOSTO 2018 | | MATERIA: Complementa Circular N°54, del 2 de octubre de"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 42 180-2018 ID 7-2018 SN (Circ.)** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.440, publicada en el Diario Oficial de 12 de abril de 2022", "N° 9 del artículo 46 de la Ley N° 21.455, publicada en el Diario Oficial de 13 de junio de 2022."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2024-CIRCULAR/2024_CIRCULAR_circu53.md"]
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 24, "target_year": 1993, "raw_text": "Modifica Circular N° 24 de 1993. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°49.- 213391.2022 GE** |

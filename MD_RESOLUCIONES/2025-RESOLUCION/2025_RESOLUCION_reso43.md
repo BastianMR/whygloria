@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º letra A) N os 1 y 3, letra B) del N o 5, y los artículos 8°, 8° bis, 10, 59, 59 bis, 62, 63, 62 bis, 85 ter y 161 del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830 de 1974", "en los artículos 1º, 3 bis, 4 bis, 7º, 9º y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley Nº 7, del Ministerio de Hacienda, de 1980", "en las modificaciones introducidas por el artículo 1 N os 24 y 25 de la Ley N° 21.713 de 2024", "los artículos 69 y 154 de la Ley General de Bancos, contenida en el Decreto con Fuerza de Ley Nº 3 de 1997, del Ministerio de Hacienda", "en los artículos 2°, 3°, 5°, 8° y 13 la Ley Nº 18.575 de 1986, Orgánica Constitucional sobre Bases de la Administración del Estado", "las instrucciones impartidas por este Servicio en la Circular N° 7 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 REGULA PROCEDIMIENTO PARA EL EJERCICIO DE LA FACULTAD DE ACCESO A LA INFORMACIÓN BANCARIA DE QUE TRATAN LOS ARTÍCULOS 62 Y 62 BIS DEL CÓDIGO TRIBUTARIO.

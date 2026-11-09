@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en el punto 3.1.8 de la Circular N° 66, de 1998, el Jefe del Departamento de Fiscalización correspondiente, deberá disponer las medidas, coordinaciones y actuaciones que estime necesarias para la debida conclusión del trámite de Destrucción de Documentos. 3"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 66, "target_year": 1998, "raw_text": "| **SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 42** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA, 05 de septiembre de 2013.- |"}]
 ---
 
 | **SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 42** |

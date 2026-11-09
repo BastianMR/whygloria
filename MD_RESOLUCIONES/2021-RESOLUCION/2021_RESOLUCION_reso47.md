@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6° letra A N°1 del Código Tributario, contenido en el Art 1° del Decreto Ley N°830, de 1974", "en los Arts 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en los Arts 14 letra D) N°3 letra (k), 14 letra D N°8 letra (a) número viii, 42 N°1 y 84, todos de la Ley sobre Impuesto a la Renta (LIR), contenida en el Art 1° del Decreto Ley N°824, de 1974", "en la Ley N°19.728", "en el Art trigésimo sexto transitorio de la Ley N°21.210, que moderniza la legislación tributaria", "las instrucciones impartidas en la Resolución Ex", "y en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO

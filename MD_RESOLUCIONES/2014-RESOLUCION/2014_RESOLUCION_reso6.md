@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 7°, letras c), i), j) k) y ll), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N°7, de 1980, del Ministerio de Hacienda", "en el artículo 41 del D.F.L N° 1-19653, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Resolución N° 343 de 2000 de esta Dirección Nacional, y la Resolución N°1600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

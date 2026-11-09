@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el número 1 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE NUEVO PROCEDIMIENTO PARA LA DECLARACIÓN QUE DEBEN EFECTUAR LAS EMPRESAS IMPORTADORAS, DISTRIBUIDORAS Y COMERCIALIZADORAS DE VEHÍCULOS MOTORIZADOS NUEVOS, CONFORME LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 12 DEL DECRETO LEY N° 3.063, DE 1979, SOBRE RENTAS MUNICIPALES.

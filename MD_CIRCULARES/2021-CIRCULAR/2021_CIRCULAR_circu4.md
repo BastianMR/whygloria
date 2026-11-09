@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["arts 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 73, "target_year": 2020, "raw_text": "Reemplaza tabla incluida en la página 48 de la Circular N° 73 de 2020. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°4.- 173155.2021 GE** |

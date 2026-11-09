@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 23 N° 7, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974", "el D.S N° 55, de 1977, Reglamento de la Ley del IVA", "Ley N° 19.983 que otorga mérito ejecutivo y regula la transferencia de la copia de la factura", "Ley N° 20.956 que establece medidas para impulsar la productividad", "y la Circular N° 4, de 11.01.2017."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES** | **CIRCULAR N° 35.-** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 58 y 59, de la Ley N°20.551 y artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **1875 CIRCULAR N° 22 163.2011 ID 006-2011 SN** |

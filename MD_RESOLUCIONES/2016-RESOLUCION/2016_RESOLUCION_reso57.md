@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda publicado en el Diario Oficial el 15 de octubre de 1980", "el artículo 6°, letra A), N° 1 del Código Tributario contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 700, "target_year": null, "raw_text": "2° DERÓGASE las Resoluciones Exentas N°s 700, de 28-01-1998;"}]
 ---
 
 ## DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN.

@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 20 N° 1", "34 y 38 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "y Ley N° 20.899, Diario Oficial de 8 de Febrero de 2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 54, "target_year": 2913, "raw_text": "Modifica Circular N°54, de 2913 Modifica Circular N° 17, de 2016."}, {"type": "reemplaza", "target_type": "circular", "target_number": 37, "target_year": 2015, "raw_text": "## De igual forma se reemplaza lo dispuesto en el N° 3) 'Tercer requisito' de la letra B.2) de la Circular N° 37 de 2015, por lo siguiente:"}, {"type": "deroga", "target_type": "circular", "target_number": 71, "target_year": 2015, "raw_text": "Atendido lo instruido en la letra a) precedente, resulta necesario dejar sin efecto las instrucciones contenidas en la letra a), de la letra B), del N° 1), del Capítulo III, de la Circular N° 71 de 2015, debiendo estarse en esta materia a l"}, {"type": "deroga", "target_type": "circular", "target_number": 54, "target_year": 2013, "raw_text": "Por lo anterior, resulta necesario dejar sin efecto las instrucciones contenidas en el N° 2.-, de la letra B.-, del Capítulo II, de la Circular N° 54 de 2013, debiendo estarse en esta materia a las siguientes instrucciones:"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 39.- 21.2016 ID 11.2016 SN** |

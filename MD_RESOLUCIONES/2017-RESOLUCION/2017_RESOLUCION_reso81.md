@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "lo dispuesto en la letra B) del artículo 14 y en las letras a) y b) del artículo 101, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974, y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES POR ACCIONES EN CUSTODIA.

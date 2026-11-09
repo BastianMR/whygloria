@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 74 N° 7 y 8, y artículo 104 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en el Artículo 1 y primero transitorio de la Ley N° 20.956", "y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 187, "target_year": null, "raw_text": "REEMPLAZA FORMATO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO NÚMERO 1806, MODIFICA RESOLUCIÓN EXENTA SII N° 187 DEL 23-12-2010 Y ELIMINA DECLARACIÓN JURADA DE FORMULARIO 1849."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TIBUTARIO

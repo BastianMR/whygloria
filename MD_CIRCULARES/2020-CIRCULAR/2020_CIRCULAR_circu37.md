@@ -10,6 +10,9 @@ impuestos: ["iva", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Decreto Ley N° 825, de 1974 , Ley sobre Impuesto a las Ventas y Servicios"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N° 37 19.2020 CIRC.SN 18.2020 CIRC. II** |

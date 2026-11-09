@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en las letras a) y c) del artículo 7°de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6 letra A N° 1 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 3509, "target_year": null, "raw_text": "MATERIA: DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N°3509, DE 13-07-2000 QUE INSTRUYE SOBRE CANJE DE INFORMACIÓN COMPUTARIZADA;"}, {"type": "deroga", "target_type": "resolucion", "target_number": 3509, "target_year": 2000, "raw_text": "5° Que, el dejar sin efecto las Resoluciones Ex SII N°3509, de 13 de julio de 2000, y N°5395, de 07 de diciembre de 2000, no tendrá efectos adversos en convenios ya firmados, ni en la celebración de nuevos convenios de esta naturaleza, por "}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

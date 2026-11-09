@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, norma esta última, modificada en lo pertinente por el N° 27 del artículo 1° de la Ley 20.780 publicada en el Diario Oficial el 29.09.2014, y el N° 6 del artículo 1° de la Ley N° 20.899 publ"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

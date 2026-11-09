@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los artículos 6°, letra A, N° 3 y 162, inciso tercero, ambos del Código Tributario", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008.

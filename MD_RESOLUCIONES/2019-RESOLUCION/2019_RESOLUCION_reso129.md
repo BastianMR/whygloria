@@ -10,6 +10,9 @@ impuestos: ["iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública y la Ley Nº19.518 del Servicio Nacional de Capacitación y Empleo", "el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda ."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

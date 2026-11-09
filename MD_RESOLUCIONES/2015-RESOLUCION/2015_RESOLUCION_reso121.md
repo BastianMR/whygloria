@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y n) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2024-RESOLUCION/2024_RESOLUCION_reso129.md"]
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL

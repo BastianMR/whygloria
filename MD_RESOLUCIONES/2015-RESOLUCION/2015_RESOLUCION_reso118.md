@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial y la Ley N° 20.731, de 2014."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Servicio.

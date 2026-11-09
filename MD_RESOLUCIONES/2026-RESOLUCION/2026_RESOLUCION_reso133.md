@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 3° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado, sistematizado y actualizado se contiene en el Decreto con Fuerza de Ley N° 1 de 1998, del Ministerio de Hacienda", "el Decreto N° 47 de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones", "el artículo 58 bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales, cuyo texto refundido y sistematizado se contiene en el Decreto N° 2.385 de 1996, del Ministerio del Interior", "el N° 2 del artículo tercero de la Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano", "y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Sii

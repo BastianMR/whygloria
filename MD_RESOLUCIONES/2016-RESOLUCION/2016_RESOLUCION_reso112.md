@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido coordinado y sistematizado de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011, sobre Asociaciones y Participación Ciudadana en la Gestión Pública"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 49, "target_year": 2015, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 49, DE 25 DE MAYO DE 2015, EN EL SENTIDO QUE INDICA Y APRUEBA NUEVO REGLAMENTO INTERNO DEL CONSEJO DE LA SOCIEDAD CIVIL."}]
 ---
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos undécimo y duodécimo transitorios de la Ley N° 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal, publicada en el Diario Oficial del 24 de octubre de 20", "en el artículo único de la Ley N° 21.716, que modifica la Ley N° 21.713, en relación al concepto de abuso en materia tributaria y a la vigencia de algunas de sus disposiciones, publicada en el Diario Oficial del 13 de noviembre de 2024", "y en las Resoluciones Exentas SII N°s 103 y 104, ambas del 25 de octubre de 2024"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 103, "target_year": 2024, "raw_text": "VISTOS: Las facultades que confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; lo establecido en los art"}, {"type": "modifica", "target_type": "resolucion", "target_number": 104, "target_year": 2024, "raw_text": "VISTOS: Las facultades que confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; lo establecido en los art"}]
 ---
 
 AMPLIA PLAZO PARA PRESENTAR EL FORMULARIO N° 1920 PARA ACOGERSE AL SISTEMA DE DECLARACIÓN VOLUNTARIA Y EXTRAORDINARIA DE BIENES O RENTAS; Y AL TÉRMINO ANTICIPADO DE GESTIONES JUDICIALES PENDIENTES; CONFORME A LOS ARTÍCULOS UNDÉCIMO Y DUODÉCIMO TRANSITORIOS DE LA LEY N° 21.713.

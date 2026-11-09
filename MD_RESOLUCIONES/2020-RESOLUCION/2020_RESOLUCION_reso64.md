@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 12 Letra E Nº 12 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, del Ministerio de Hacienda", "la Ley N° 16.282 que establece disposiciones permanentes para casos de sismos o catástrofes y cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "el Decreto Nº 269, de 12 de junio de 2020, del Ministerio del Interior y Seguridad Pública, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indica'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15°, 68° y 69° inciso octavo del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y Circular N° 62, de 24.09.2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00301671

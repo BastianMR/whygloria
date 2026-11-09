@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L 824, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 17, "target_year": 2006, "raw_text": "Complementa Circular N° 17 de fecha 17 de marzo de 2006 6(12)00 | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: IMPUESTO DE PRIMERA CATEGORIA."}]
 ---
 
 1875

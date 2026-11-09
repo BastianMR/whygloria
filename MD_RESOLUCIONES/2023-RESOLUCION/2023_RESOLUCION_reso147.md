@@ -10,6 +10,9 @@ impuestos: ["iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de Hacienda, de 1980", "el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Ley N° 1.172, de 1975, que crea la Comisión Nacional de Riego", "la Ley N°18.450, que Aprueba normas para el Fomento de la Inversión Privada en Obras de Riego y Drenaje", "y la Resolución N° 7, del año 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 1000, "target_year": 2004, "raw_text": "La entrada en vigencia del presente convenio deja sin efecto el Convenio de Intercambio de Información firmado el 14 de Junio de 2004, aprobado por resolución SII N° 1000 del 21 de Septiembre de 2004, entre el Servicio de Impuestos Internos"}]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547

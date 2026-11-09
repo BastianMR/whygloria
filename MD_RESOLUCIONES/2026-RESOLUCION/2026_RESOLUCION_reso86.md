@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 12, letra a), del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales", "en el artículo 5° de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024, que introdujo modificaciones al artículo 9° de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Anexo:

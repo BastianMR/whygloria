@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El Artículo 7° letras c), i) y k) del DFL N° 7/1980 del Ministerio de Hacienda, que fija Texto de la Ley Orgánica del Servicio de Impuestos Internos, la Resolución N° 1600/2008 de la Contraloría General de la República, el Instructivo Presidencial Gab"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE RECURSOS HUMANOS

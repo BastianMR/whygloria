@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2022-CIRCULAR/2022_CIRCULAR_circu29.md"]
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 31, "target_year": 2016, "raw_text": "Deja sin efecto la Circular N° 31 de 2016 | REFERENCIA: Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta;"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Análisis Selectivo del Cumplimiento Tributario** | **CIRCULAR N°32.-** |

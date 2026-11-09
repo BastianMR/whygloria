@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N°21.420,publicadaenel DiarioOficialde4defebrerode2022."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2024-CIRCULAR/2024_CIRCULAR_circu50.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones** | **CIRCULARN°57.- GE206755** |

@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA.

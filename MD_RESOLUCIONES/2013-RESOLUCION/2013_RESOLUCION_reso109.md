@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art Primero del D.F.L Nº 7, de Hacienda, de 1980", "lo dispuesto en el Art 6° de la Ley N° 20.431, publicada en el Diario Oficial con fecha 30.04.2010", "y lo dispuesto en el N° 1 del Art9°de la Ley N° 20.455, publicada en el Diario Oficial con fecha 31.07.2010"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

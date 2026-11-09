@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Resolución Exenta SII N° 108 publicada el 27.12.2013, los Artículos 2° y 7° de la Ley N° 17.235, sobre Impuesto Territorial"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## FIJA VALORES DE MONTOS DE AVALÚO EXENTO Y DE AVALÚO PARA CAMBIO DE TASA DEL IMPUESTO TERRITORIAL, PARA PREDIOS NO AGRÍCOLAS REAVALUADOS CON VIGENCIA 1° DE ENERO DE 2014

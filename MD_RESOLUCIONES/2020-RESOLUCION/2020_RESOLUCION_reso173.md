@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 43, "target_year": 2016, "raw_text": "Reemplaza la Circular N°43 de 2016\"."}]
 ---
 
 NFA/pmm/lfmf CORFO

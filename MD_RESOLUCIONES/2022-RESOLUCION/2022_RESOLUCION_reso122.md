@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren las letras a), c), e) i), o) y q) del art 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los arts 3°, 5°, 7°, 11° y 31 del D.F.L N° 1, de 2001, que contiene el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y el art 23° de Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria, que contiene la Ley Orgánica de la Defensoría del Contribuyente."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE231616

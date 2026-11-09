@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la letra c), i) y j) del artículo 7 del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "lo dispuesto en la Ley N° 17.235"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE AVALUACIONES

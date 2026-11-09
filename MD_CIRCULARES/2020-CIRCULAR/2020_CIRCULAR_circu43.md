@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: ["DJ1938", "DJ1939"]
 regimen: ["14A"]
 ref_legal: ["Artículo vigésimo quinto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria, publicada en el Diario Oficial de 24 de febrero de 2020, y artículo 14 de la Ley sobre Impuesto a la Renta (LIR)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTOEMISOR Impuestos Directos** | **CIRCULAR N° 43** |

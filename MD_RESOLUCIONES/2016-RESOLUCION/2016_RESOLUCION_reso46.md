@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo.

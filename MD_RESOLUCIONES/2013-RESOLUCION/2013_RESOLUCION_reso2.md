@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 114, "target_year": 2010, "raw_text": "MODIFICA RESOLUCIONES EXENTAS SII N° 114 DE 21 DE JULIO DE 2010 Y N° 153 DE 23 DE DICIEMBRE DE 2011."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

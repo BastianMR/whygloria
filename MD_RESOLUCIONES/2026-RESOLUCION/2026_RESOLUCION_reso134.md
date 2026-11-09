@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4°bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 55 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "lo dispuesto en los artículos 71 y 71 bis del Reglamento del Decreto Ley N°825, contenido en el Decreto Supremo N°55 del Ministerio de Hacienda de 1977", "lo dispuesto en los artículos 24 y 91 bis del Decreto con Fuerza de Ley N°30 de 2005 que contiene el texto refundido coordinada y sistematizado de la Ordenanza de Aduanas", "lo dispuesto en la Resolución N°1.300 de 2006, de la Dirección Nacional de Aduanas, que sustituye el Compendio de Normas Aduaneras aprobado por Resolución N°2.400 de 1985", "y lo dispuesto en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 2, "target_year": 1985, "raw_text": "Las facultades contempladas en los artículos 1°, 4°bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980; lo establecido en el artículo 6° letra A)"}]
 ---
 
 AUTORIZA EL ENVÍO DE INFORMACIÓN DE GUÍA AÉREA COURIER EN REEMPLAZO DE LA GUÍA DE DESPACHO.

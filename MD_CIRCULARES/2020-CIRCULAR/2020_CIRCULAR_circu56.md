@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial"]
 formularios: ["F22"]
 regimen: ["14B", "renta-presunta"]
 ref_legal: ["Artículos 59, 60, 62, 63, 69 N°4, 74 N° 4 y 79 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°56 28.2020 ID 13.2020 SN** |

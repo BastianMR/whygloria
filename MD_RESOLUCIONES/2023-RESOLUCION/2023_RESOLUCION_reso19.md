@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DLF N° 7, de 1980, del Ministerio de Hacienda", "las Resoluciones Exentas N°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente", "el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales", "y la Resolución Exenta N° 4, del 16 de enero del 2023 complementada por la Resolución Exenta N° 12, del 08 de febrero del 2023"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023.

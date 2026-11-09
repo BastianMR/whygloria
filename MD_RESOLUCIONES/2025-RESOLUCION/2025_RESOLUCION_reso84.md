@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 2°, 3°, 3° bis, 4°, 5°, 8° letra a) y n), 12 letra B N° 11 y N° 18 y en el Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en el artículo 3° de la Ley N° 21.713", "y en la Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 GE 328234

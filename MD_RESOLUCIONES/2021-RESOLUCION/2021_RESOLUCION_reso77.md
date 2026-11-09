@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) y artículo 34, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824, de 1974 lo establecido en la Ley N°21.354, que otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la enfermedad Co", "el Decreto N°240, de fecha 23.06.2021, del Ministerio de Hacienda, que fija rubros especiales afectados por la pandemia provocada por el Covid-19, de conformidad a lo dispuesto en el artículo 11 de la Ley Nº21.354", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A.-, N° 1, 34, 35 y 60, del Código Tributario contenido en el artículo primero del D.L N° 830, de 1974", "y las modificaciones legales introducidas por la Ley N° 20.630, que perfecciona la legislación tributaria y financia la reforma educacional, publicada en el Diario Oficial con fecha 27.09.2012", "las instrucciones contenidas en las Resoluciones Exentas SII N° 6, de 21 de Enero de 2003 y N° 109, de 10 de Diciembre de 2004", "y sus modificaciones posteriores contenidas en Resoluciones Exentas SII N° 103, de 16 de Diciembre de 2013"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2016-RESOLUCION/2016_RESOLUCION_reso120.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

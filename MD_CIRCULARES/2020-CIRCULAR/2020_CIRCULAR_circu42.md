@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N° 42** |

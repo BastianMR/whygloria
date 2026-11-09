@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículo 34, N° 2, letra c) y 74, N° 6, de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 75, de 4 de marzo de 2026, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de marzo de 2026", "y Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                          | CIRCULAR N° 12 372094.2026 GE                                                                                                                                                                                                                                                                                |

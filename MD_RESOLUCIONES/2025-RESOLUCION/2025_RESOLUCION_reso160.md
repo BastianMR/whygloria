@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Exento (Por orden del Presidente de la República) RA N°289/323/2024, de fecha 04/07/2024 del Ministerio de Hacienda, que nombra subrogante en el cargo de Director del Servicio de Impuestos Internos a Carolina Saravia Morales", "la Resolución Ex", "la Resolución N°36, de 2024 de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón, de las materias de personal"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 128, "target_year": 2024, "raw_text": "DEJA SIN EFECTO LA RESOLUCIÓN EXENTA SII N° 128 DE 2024."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00347254

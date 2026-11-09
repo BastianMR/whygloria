@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 167 del D.F.L N° 458, de 1975, Ley General de Urbanismo y Construcciones", "en el D.F.L N° 2, de 1959, sobre Plan Habitacional de Viviendas Económicas, en los artículos 6 Letra A) N° 3 y B) N° 5 y 7 del Código Tributario", "en el artículo 43 de la Ley N° 18.575, Orgánica Constitucional Sobre Bases Generales de la Administración del Estado", "en los artículos 1°, 7° letras a), b) y j) y 20, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE AVALUACIONES

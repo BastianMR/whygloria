@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35, 60 y 85 inciso 2°, del Código Tributario", "en los artículos 1°, 4° bis y 7° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "las instrucciones impartidas en las Resoluciones Exentas SII N° 4085 de 1990 y sus modificaciones posteriores"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 187, "target_year": 2010, "raw_text": "6° Que, con el fin de simplificar el cumplimiento tributario por parte de los contribuyentes y considerando que la información descrita en el considerando anterior es obtenida a través de otras fuentes, tales como la Comisión para el Mercad"}]
 ---
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS Y CERTIFICADOS QUE SE INDICAN Y DEJA SIN EFECTO LAS RESOLUCIONES QUE SE SEÑALAN.

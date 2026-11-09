@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 10, 37, 38, 41 A, 41 B, 41 C, 58 N°s 1, 2 y 3, 59, 60, 61, 62, 63, 64 ter y 65 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824 de 1974) y Ley N° 20.630 del 27 de septiembre de 2012."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2014-CIRCULAR/2014_CIRCULAR_circu59.md", "MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu11.md"]
+relaciones: []
 ---
 
 ## Modificada por Circular N° 59, del 14 de noviembre de 2014

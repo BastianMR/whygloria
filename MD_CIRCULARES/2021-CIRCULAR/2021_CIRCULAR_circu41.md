@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Modifica Circulares N°s 17 de 1995, 66 de 1998, 58 de 2000, 31 de 2007, 23 de 2013, 42 de 2013, 31 de 2014, 41 de 2015, 58 de 2015"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 17, "target_year": 1995, "raw_text": "| **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°41.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 02 DE JULIO DE 2021 | | MATERIA Imparte instrucciones sobre modifica"}, {"type": "deroga", "target_type": "circular", "target_number": 40, "target_year": 2015, "raw_text": "Deroga: en parte Circular Nºs 40 de 2015 y 33 de 2015. |"}, {"type": "deroga", "target_type": "circular", "target_number": 33, "target_year": 2015, "raw_text": "En virtud de las modificaciones legales y las nuevas instrucciones impartidas por esta circular se deroga la Circular Nº 33 de 2015."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°41.-** |

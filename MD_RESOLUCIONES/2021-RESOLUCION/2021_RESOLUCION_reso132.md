@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de la Administración del Estado", "la Resolución SII N° 38, de 15.04.2016, que Delega Facultades que Indica", "la Resolución SII N° 48, de 30.09.2016, que modifica Resolución SII N° 38, de 2016", "la Resolución Exenta SII N° 2902, de 17.08.2020, lo dispuesto en la Resolución N° 6, de 2019, de la Contraloría General de la República que fija normas sobre exención del trámite de toma de razón"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 38, "target_year": 2016, "raw_text": "Lo dispuesto en el artículo 7° letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda; el artículo 41 de la Ley N° 18-575, Orgánica Const"}]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 176319

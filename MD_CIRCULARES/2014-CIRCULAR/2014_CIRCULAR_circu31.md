@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["CIRCULAR N°31 DEL 01 DE JUNIO DE 2007."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 31, "target_year": 2007, "raw_text": "Por lo anterior, y para mayor claridad y ordenamiento de los procedimientos, se reemplazan las instrucciones impartidas mediante la Circular N° 31 de 2007, en lo relativo a extranjeros y se establecen las siguientes instrucciones."}]
 ---
 
 Complementada por Circular N° 38, del 30 de abril de 2025 Modificada por Circular N° 38, del 30 de abril de 2025 Complementada por Circular N° 26, del 03 de abril de 2025

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N°1, 30 inciso 2°, 34 y 60 inciso 8° del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 9° transitorio A) de la Ley N° 20.712, publicada en el Diario Oficial de 07 de enero de 2014"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2014-RESOLUCION/2014_RESOLUCION_reso5.md"]
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

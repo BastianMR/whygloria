@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N°7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Ex", "la Resolución N°36, de 2024, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 160, "target_year": 2025, "raw_text": "MATERIA: MODIFICA RESOLUCIÓN EXENTA SII N°160, DE 12 DE NOVIEMBRE DE 2025 Y CREA ÁREA QUE INDICA."}, {"type": "modifica", "target_type": "resolucion", "target_number": 87, "target_year": 2025, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N°87, DE 17 DE JULIO DE 2025."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00390001

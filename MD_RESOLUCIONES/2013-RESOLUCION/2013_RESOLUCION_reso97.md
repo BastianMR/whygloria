@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo 5° de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en los artículos 1° y siguientes de la Ley N° 20.659, publicada en el Diario Oficial de 08 de febrero de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedades comerciales", "y el artículo 6° de su Reglamento, contenido en el Decreto Supremo N° 45, del año 2013, del Ministerio de Economía, Fomento y Turismo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Anexo: Convenio de Colaboración

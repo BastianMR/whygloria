@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.582, artículos 1° y 14"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 8, "target_year": 2000, "raw_text": "Modifica Circulares N°s 8, de 2000;"}]
 ---
 
 ## Modificada por Circular N° 38, del 30 de abril de 2025

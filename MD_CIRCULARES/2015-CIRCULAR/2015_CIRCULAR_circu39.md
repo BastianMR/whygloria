@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, Artículo 165 N° 3", "Ley N° 20.780, Artículo 10."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA** | **CIRCULAR N° 39.-** |

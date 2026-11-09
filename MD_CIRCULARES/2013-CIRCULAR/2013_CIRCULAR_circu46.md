@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 53 y 97 Nºs 2 y 11 D.L Nº 830, de 1974, sobre Código Tributario."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu33.md"]
+relaciones: []
 ---
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 46** |

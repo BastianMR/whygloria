@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980", "en los artículos 6°, letra A, N° 1, 33 bis y 60 del Código Tributario", "en los artículos 3, 12, 14, 38, 41 A, 41 B y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "las modificaciones legales introducidas por la Ley N°21.210 de 24 de febrero de 2020 y Resolución Exenta SII N° 120 de 26 de diciembre de 2016"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

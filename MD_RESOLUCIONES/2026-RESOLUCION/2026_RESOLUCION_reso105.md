@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 2, 3 bis y 7° letras b), c) y ñ de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L Nº 7, de Hacienda, de 1980", "en de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES

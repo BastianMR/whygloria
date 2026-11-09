@@ -10,6 +10,9 @@ impuestos: ["herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letra c) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 6° letra A N°3 y 162, inciso tercero, todos del Código Tributario", "el artículo 41 de la ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras a), c), ñ) del artículo 7° del mismo texto legal", "lo dispuesto en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 13, "target_year": 2016, "raw_text": "MODIFICA RESOLUCION EX SII N° 13, DE 2016, RESPECTO UNIDAD QUE INDICA DEL DEPARTAMENTO SUBDIRECCIÓN DESARROLLO DE PERSONAS."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS

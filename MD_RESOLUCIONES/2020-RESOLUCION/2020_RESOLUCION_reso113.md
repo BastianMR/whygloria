@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario", "en los artículos 3, 10, 11, 14, 21, 38, 58, 59, 60, 62, 63, 74, 79, 82 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en los artículos 81, 82 y 86 de la ley que regula la administración de fondos de terceros y carteras individuales, contenida en el artículo primero de la Ley N° 20.712 de 2014", "y en las Resoluciones Exentas SII N°s 36, de 2011 y 107, de 2017."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 107, "target_year": 2017, "raw_text": "MODIFICA LA RESOLUCIÓN EXENTA SII N°107 DE 2017 Y LA ESTRUCTURA E INSTRUCCIONES DE LA DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN CHILE POR MEDIO DE FORMULARIO N°1946."}, {"type": "modifica", "target_type": "resolucion", "target_number": 107, "target_year": null, "raw_text": "3.Que, la Ley N° 21-210 sobre Modernización Tributaria, modifica diversas disposiciones legales que hacen necesario actualizar la Resolución Exenta SII Nº 107 señalada en el considerando anterior, de manera de adecuarla a las nuevas referen"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

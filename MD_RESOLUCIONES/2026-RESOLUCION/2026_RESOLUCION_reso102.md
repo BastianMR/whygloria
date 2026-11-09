@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el articulo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo 6 letra A N° 3 del Código Tributario", "los articulos 2°, 3°, 31, 36 y Resolución N° 36 de 2024, de la Contraloría General de la República, Decreto N° 293, de 25.03.2026, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA

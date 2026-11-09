@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A), N° 1 y 8° y artículos 126 y 128, todos del Código Tributario, contenido en el Decreto Ley N° 830, de Hacienda, de 1974", "en los artículos 2°, 12, letra F), y 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en el artículo cuarto transitorio de la Ley N° 21.850", "la Resolución 36, que Fija normas sobre exención del Trámite de Toma de Razón, publicada en el D.O. de fecha 23.12.2024, modificada por la Resolución 3, publicada en el D.O. de fecha 21.02.2026, ambas de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR DEVOLUCIÓN DEL IMPUESTO AL VALOR AGREGADO SEGÚN EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY N° 21.850.

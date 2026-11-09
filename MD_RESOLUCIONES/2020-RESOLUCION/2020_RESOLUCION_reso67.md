@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Los artículos 1°, 4° bis, 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1, y 18 N° 3, letra b), del Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974", "el nuevo Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974, incorporado por la Ley N° 21.210 que Moderniza la Legislación Tributaria y que establece un régimen de tributación simplificada para contribuyentes no domicil"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

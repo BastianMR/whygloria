@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 54 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974", "el artículo 3° y 1° transitorio de la Ley N° 21.131", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma", "la Resolución Exenta SII N° 45 de 2003", "la Resolución Exenta SII N° 99 de 2019"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE 00179151

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15 de octubre de 1980", "en el artículo 6° letra A), N°1 y en los artículos 29, 30 inciso primero y segundo, y 32 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: MODIFICA DISEÑO DEL FORMULARIO 29, SOBRE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS, INCORPORANDO UNA NUEVA LÍNEA 27, CON LOS CÓDIGOS QUE SE INDICAN, CONFORME A LA MODIFICACIÓN QUE LA LEY N° 20.780 INTRODUCE AL ARTICULO 23 N°4 D.L.825, DE 1974.

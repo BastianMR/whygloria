@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículo 100 sexies del Código Tributario ."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamentode AsesoríaJurídica** | **CIRCULAR Nº13 304267.2024 GE** |

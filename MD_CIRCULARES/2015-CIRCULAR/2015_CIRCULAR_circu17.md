@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780 de 2014, publicada en el Diario Oficial el 29 de septiembre de 2014"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA** | **CIRCULAR N° 17** |

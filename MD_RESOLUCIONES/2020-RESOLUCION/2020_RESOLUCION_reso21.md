@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DEPTO. DE ASESORÍA JURIDÍCA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA ID 49/2020 43-2020 SJ

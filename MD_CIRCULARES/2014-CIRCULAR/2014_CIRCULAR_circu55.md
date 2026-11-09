@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "territorial", "iec", "segunda-categoria"
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 55 13.2014 Circ. SN 114.2014 ID** |

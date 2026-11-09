@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 41 del D.F.L N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en las letras a), b) c) y j) del artículo 7º y 42, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974", "y los artículos 55 y 56 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el Decreto Ley N° 825, de 1974", "y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "y las Resoluciones Exentas SII N° 5028, del 28.08.1998"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

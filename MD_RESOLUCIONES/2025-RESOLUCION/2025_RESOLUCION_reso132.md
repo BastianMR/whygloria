@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, Hacienda", "en el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales", "y lo instruido en la Circular N°15 de 2020", "en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025.

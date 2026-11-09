@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2021-RESOLUCION/2021_RESOLUCION_reso136.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 15, "target_year": 2007, "raw_text": "NOVENO: Desde la entrada en vigencia de la presente resolución, se derogan las Resoluciones Exentas N° 15-549, de 2007 y N° 85, de 2015, así como cualquier Resolución dictada anteriormente sobre esta materia, en lo que se oponga a la presen"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS

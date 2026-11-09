@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "en el N° 1, letra A), de los artículos 6°, 34, 35, 60 y 85 inciso 2°, del Código Tributario", "las instrucciones contenidas en las Resoluciones Exentas SII N° 6836, de 28 de diciembre de 1993, y sus modificaciones posteriores"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A) número 1 y 68, del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "los artículos 7 bis, 16 y 28 de la Ley N°17.235, sobre Impuesto Territorial", "y en las Circulares N° 31, del 2007"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE00183263

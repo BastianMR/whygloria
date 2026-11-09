@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.558, publicada en el Diario Oficial de 25 de abril de 2023."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°42.- 250892.2023 GE** |

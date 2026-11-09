@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 42, letra a), del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2024-CIRCULAR/2024_CIRCULAR_circu33.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°11.- 178131.2021 GE** |

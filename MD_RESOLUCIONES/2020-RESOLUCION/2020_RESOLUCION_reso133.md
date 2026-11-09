@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 33 bis y 60 del Código Tributario, contenido en Artículo 1° del Decreto Ley Nº 830, de 1974", "en el artículo noveno de la Ley N° 21.210", "en el artículo 13 de la Ley N° 20.544 que Regula el Tratamiento Tributario de los Instrumentos Derivados", "en el Decreto N° 4 del Ministerio de Salud modificado por el Decreto N° 10 del Ministerio de Salud, de fecha 25 de marzo de 2020", "en el Decreto N° 104 del Ministerio del Interior y Seguridad Pública, de fecha 18 de marzo de 2020", "en el Decreto N° 107 de la misma repartición, de fecha 23 de marzo de 2020", "en el Decreto Supremo Nº 420 modificado por Decreto Supremo Nº 1.043, de 3 de julio de 2020, ambos del Ministerio de Hacienda", "en la Resolución Exenta SII N° 114 de 2012 y en la Resolución Exenta SII N° 38 de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

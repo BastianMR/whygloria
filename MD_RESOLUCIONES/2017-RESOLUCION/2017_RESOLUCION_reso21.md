@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, y lo dispuesto en el artículo 4 bis del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO.

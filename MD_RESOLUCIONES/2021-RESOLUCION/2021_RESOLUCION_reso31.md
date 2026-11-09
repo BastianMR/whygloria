@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda", "lo dispuesto en numeral iii) de la letra a) del N° 8 y N° 3 de la letra D) del artículo 14, y artículo 68 de la Ley sobre Impuesto a la Renta (LIR) contenida en el artículo 1° del D.L N°824, de 1974", "el artículo 59 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el D.L N°825, de 1974", "las disposiciones contenidas en la Ley N° 21.210", "y la Resolución Exenta SII N° 14 de fecha 12.02.2021."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 14, "target_year": 2021, "raw_text": "## COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."}]
 ---
 
 ## COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021.

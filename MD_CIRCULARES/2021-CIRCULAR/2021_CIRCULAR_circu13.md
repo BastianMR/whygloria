@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículos pertinentes de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                      | CIRCULAR N°13.- 176750.2021 GE                                                                             |

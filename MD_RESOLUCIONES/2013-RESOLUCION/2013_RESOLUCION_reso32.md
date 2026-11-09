@@ -10,6 +10,9 @@ impuestos: ["iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D", "en los artículos 6°, letra A N° 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D", "lo dispuesto en el inciso quinto y sexto del artículo 1° y en el artículo segundo transitorio de la Ley N° 20.493, publicada en el Diario Oficial de fecha 14 de febrero de 2011", "y las instrucciones impartidas mediante Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES

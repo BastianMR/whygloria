@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el inciso cuarto del artículo 31 de la Ley sobre Impuesto a la Renta", "en el Decreto N° 4 del Ministerio de Salud, de fecha 5 de enero de 2020 modificado por el Decreto N° 10 del Ministerio de Salud, de fecha 24 de marzo de 2020", "y el Decreto N° 104 del Ministerio del Interior y Seguridad Pública, de fecha 18 de marzo de 2020 y Decreto N° 107 de la misma repartición, de fecha 20 de marzo de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 AUTORIZACIÓN A CORPORACION RED DE ALIMENTOS, RUT Nº 65.020.518-9, PARA DISTRIBUIR ALIMENTOS, PAÑALES Y OTROS ARTÍCULOS DE PRIMERA NECESIDAD A INSTITUCIONES SIN FINES DE LUCRO NO INSCRITAS EN LOS TÉRMINOS QUE SE INDICAN.

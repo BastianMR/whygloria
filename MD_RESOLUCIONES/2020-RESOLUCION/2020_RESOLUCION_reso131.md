@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 3° de la Ley N° 17.235, sobre Impuesto Territorial"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 DISPONE DECLARACIÓN JURADA DE MEJORAS EFECTUADAS POR PROPIETARIOS DE BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA Y FIJA PLAZO DE PRESENTACIÓN.

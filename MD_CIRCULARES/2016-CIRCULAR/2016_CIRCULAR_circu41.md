@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 4 bis, 4 ter, 4 quáter y 4 quinquies, 26 bis y 100 bis"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 65, "target_year": 2015, "raw_text": "Modifica Circular N° 65, de 23 de julio de 2015. | REFERENCIA: Código Tributario, artículos 4 bis, 4 ter, 4 quáter y 4 quinquies, 26 bis y 100 bis."}, {"type": "deroga", "target_type": "circular", "target_number": 65, "target_year": 2015, "raw_text": "DERÓGASE EL CAPÍTULO VII CONTENIDO EN LA CIRCULAR N° 65, DE 23 DE JULIO DE 2015, RELATIVO AL PROCEDIMIENTO ADMINISTRATIVO DE CALIFICACIÓN DE ACTOS O NEGOCIOS COMO ELUSIVOS"}, {"type": "complementa", "target_type": "circular", "target_number": 65, "target_year": 2015, "raw_text": "Por lo tanto, a partir de la fecha antes señalada, se complementa en lo pertinente las instrucciones sobre esta materia, contenidas en la Circular N° 65, de 23 de julio, de 2015."}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 41.-** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en el N° 1 de la letra A) del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 2° N° 2, 8°, 12 letra E, 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974", "los artículos 42, 43 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica, publicada en el Diario Oficial con fecha 4 de febrero de 2022", "la Resolución Ex", "la Circular N° 50 de 2022 de este Servicio."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00228328

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984", "y lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso120.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 13, "target_year": 2016, "raw_text": "OCTAVO: Desde la entrada en vigencia de la presente resolución, se dejan sin efecto las Resoluciones Ex N° 13, de 2016, y N° 77 de 2017, así como cualquier Resolución dictada anteriormente sobre esta materia, en lo que se oponga a la presen"}]
 ---
 
 REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE DESARROLLO DE PERSONAS, ESTABLECE FUNCIONES, ÁMBITO DE COMPETENCIA Y DEJA SIN EFECTO RES. EX SII Nº 13, 2016 Y RES. EX. SII Nº 77, 2017.

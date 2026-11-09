@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 8° bis, 18, 36, 53, 56 y 97 Nº 11 del Código Tributario, contenido en el Decreto Ley Nº 830, de 1974", "los artículos 2°, 5°, 8° letra n), 11 letra e) y en el Párrafo 7° bis del Título II que regula el régimen de tributación simplificada de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "y lo en las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 GE 334809

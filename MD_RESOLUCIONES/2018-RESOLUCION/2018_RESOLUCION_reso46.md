@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 14 letra E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, incorporado por la Ley N° 20.780 y este último texto legal modificado por la Ley N° 20.899, publicadas en el Diario Oficial de 29.09.2014 y 08.02.2016, respectivamente"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2020-RESOLUCION/2020_RESOLUCION_reso125.md", "MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso108.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 47, "target_year": null, "raw_text": "Y DEROGA RESOLUCIÓN EXENTA SII N° 47 DE FECHA 19-05-2014."}, {"type": "deroga", "target_type": "resolucion", "target_number": 47, "target_year": 2014, "raw_text": "8° Derógase la Resolución Exenta SII N° 47, de 2014 a contar de la entrada en vigencia de la presente Resolución."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

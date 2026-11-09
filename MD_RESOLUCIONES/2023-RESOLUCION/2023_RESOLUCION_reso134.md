@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c) e i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N°7, de 1980, de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N°6, de 2019, de la Contraloría General de la República", "la Resolución Exenta SII N°24, de 2023, que Aprueba Política Institucional de Igualdad de Género y Conciliación de la vida laboral, familiar y personal del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 24, "target_year": 2023, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N°24, DE 2023."}]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979

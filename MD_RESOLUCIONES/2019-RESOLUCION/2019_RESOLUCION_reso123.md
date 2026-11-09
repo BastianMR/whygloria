@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, los artículos 3° y 8° de la Ley N° 17.235 sobre Impuesto Territorial, el Decreto N° 47, de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones, el"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 149, "target_year": null, "raw_text": "DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N° 149, DE 27-11-2006, Y N° 194, DE 29-12-2010."}, {"type": "deroga", "target_type": "resolucion", "target_number": 149, "target_year": 2010, "raw_text": "4º A contar de la publicación de la presente resolución, en extracto, en el Diario Oficial, se dejan sin efecto las Resoluciones Exentas SII N° 149 de 27-11-2006 y N° 194, de 29 de diciembre de 2010."}]
 ---
 
 ESTABLECE FORMA Y PLAZO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS LA NÓMINA DE BIENES RAÍCES NO AGRÍCOLAS, QUE CORRESPONDAN A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, A QUE SE REFIERE EL ARTÍCULO 8° DE LA LEY N° 17.235.

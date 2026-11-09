@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu11.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 30, "target_year": 2015, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 40.- 4-2016 SN 14-2016 ID** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 08 de julio de 2016.- | | MATERIA: Instrucciones sobre el artículo 41 G de la "}, {"type": "deroga", "target_type": "circular", "target_number": 30, "target_year": 2015, "raw_text": "La presente Circular imparte nuevas instrucciones sobre el artículo 41 G de la LIR, considerando las modificaciones efectuadas por la Ley N°20-899, y deja sin efecto la Circular N°30 de 2015, que regulaba esta misma materia con anterioridad"}]
 ---
 
 Complementada por Circular N° 11, del 30 de enero de 2025

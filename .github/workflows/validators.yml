@@ -1,0 +1,23 @@
+name: validators
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml requests
+      - name: Frontmatter and metadata
+        run: python scripts/check_okf.py
+      - name: Duplicate content
+        run: python scripts/check_duplicates.py
+      - name: Supersession graph is up to date
+        run: python scripts/sii_pdfs.py --vigencia
+      - name: Nothing was left uncommitted by the rebuild
+        run: git diff --exit-code

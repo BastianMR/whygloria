@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES** | **CIRCULAR N°42** |

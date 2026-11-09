@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016", "y, Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 47, "target_year": 2016, "raw_text": "Deja sin efecto Circular N° 47, de 2016. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa, Depto. Técnica Tributaria** | **CIRCULAR N° 49** |

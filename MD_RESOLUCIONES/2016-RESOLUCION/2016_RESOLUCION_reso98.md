@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 7°, letras e), i), j) y q), 42 y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980 del Ministerio de Hacienda", "en el artículo 6° letra A N° 3° del Código Tributario y en los artículos 2, 3, 31, 36 y 41 del D.F.L N° 1 de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Admini"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DELEGA FACULTAD QUE INDICA.

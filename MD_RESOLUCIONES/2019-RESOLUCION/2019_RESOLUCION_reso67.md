@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 4° de la Ley N° 17.235, sobre Impuesto Territorial"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## FIJA COEFICIENTES DE AJUSTE PARA LA TASACIÓN DE OBRAS CIVILES DE HORMIGÓN ARMADO

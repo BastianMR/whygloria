@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1, 34, 35, y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y siguientes, de la Ley Orgánica del Servicio de Impuestos Internos contenido en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos segundo y tercero de las disposiciones transitorias de la Ley N° 20.780, sobre Reforma Tributaria", "la Resolución Exenta S.I.I"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 105, "target_year": null, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N° 105 DE 24-12-2015, MANTENIENDO LA OBLIGACIÓN DE PRESENTAR LA DECLARACIÓN JURADA N° 1822 Y DEJA SIN EFECTO LA OBLIGACIÓN DE PRESENTAR LA DECLARACIÓN JURADA N°1821."}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 7213, "target_year": null, "raw_text": "SII N° 105, de 24 de diciembre de 2015, se reemplaza la estructura y contenido de los anexos adjuntos de la Resolución Exenta N° 7213 de 02-12-1998 y se establece que las sociedades receptoras de las inversiones a que se refiere el N° 2, de"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

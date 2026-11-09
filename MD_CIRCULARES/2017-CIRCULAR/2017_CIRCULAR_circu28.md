@@ -9,7 +9,10 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 68 del Código Tributario, artículos 14 y 54 de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 17, "target_year": null, "raw_text": "| **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE** | **CIRCULAR N° 28.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 17 de mayo de 2017.- | | MATERIA OBLIGACIÓN"}, {"type": "modifica", "target_type": "circular", "target_number": 17, "target_year": 1995, "raw_text": "A consecuencia de las modificaciones legales introducidas mediante las Leyes N°s 20-780 y 20-899, a los artículos 14 y 54 de la Ley sobre Impuesto a la Renta, circunstancia descrita en la Circular N° 49, del 14-07-2016, mediante la presente"}]
 ---
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE** | **CIRCULAR N° 28.-** |

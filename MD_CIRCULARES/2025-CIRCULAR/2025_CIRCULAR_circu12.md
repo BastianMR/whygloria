@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Artículo 3 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024, que modifica los artículos 5°", "y 83, y Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 26, "target_year": 2021, "raw_text": "Deja sin efecto las instrucciones contenidas en el N° 6 del Título II de la Circular N° 26 de 2021."}, {"type": "complementa", "target_type": "circular", "target_number": 42, "target_year": 2020, "raw_text": "Complementa las instrucciones contenidas en la Circular N° 42 de 2020 y en el apartado 3-7-1 del Título II de la Circular N° 61 de 2020. | REF."}, {"type": "complementa", "target_type": "circular", "target_number": 61, "target_year": 2020, "raw_text": "Conforme lo anterior, a partir de la vigencia de las presentes instrucciones, se complementa el apartado 3-7-1 de la Circular N° 61 de 2020, según lo comentado precedentemente."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°12.- 300079.2024GE** |

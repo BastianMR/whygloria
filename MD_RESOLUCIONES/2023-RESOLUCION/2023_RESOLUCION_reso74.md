@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 2°, 3°, 3° bis, las letras c) y ñ) del artículo 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de Hacienda, de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 95, "target_year": 2010, "raw_text": "DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N° 95 DE 2010 Y SUS MODIFICACIONES."}]
 ---
 
 MATERIA: REORGANIZA Y FIJA EL ÁMBITO DE COMPETENCIAS DE LAS UNIDADES QUE CONFORMAN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES. DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N° 95 DE 2010 Y SUS MODIFICACIONES.

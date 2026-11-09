@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["los Arts 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 119, de fecha 29.12.2015."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 119, "target_year": 2015, "raw_text": "COMPLEMENTA RESOLUCIÓN EXENTA SII N°119 DE 29 DE DICIEMBRE DE 2015, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES 600-SDF-2016 77316078349 3336-3339-16

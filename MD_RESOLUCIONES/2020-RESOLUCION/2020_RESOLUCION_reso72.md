@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1, y artículo 87° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "la 'Convención Interamericana para la Eliminación de todas las Formas de Discriminación en contra de las Personas con Discapacidad' de 1999, promulgada a través del Decreto N° 99, de 25.03.2002, del Ministerio de Relaciones Exteriores", "la 'Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad', de 2008, promulgada mediante Decreto N° 201, del Ministerio de Relaciones Exteriores", "y artículos 6° inciso final y 10° del Decreto N° 64 de 2018, del Ministerio del Trabajo y Previsión Social, que 'Aprueba Reglamento del capítulo II \"De la inclusión laboral de personas con discapacidad\", del título III del Libro I del Código del Trabajo, incorporado por la Ley N° 21.015, que incenti", "los artículos 17, letra c), y 52° de la Ley N° 19.880, que 'Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

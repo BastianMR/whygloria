@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 10, "target_year": 2006, "raw_text": "Por la presente Circular, se reemplaza la Circular N° 10 de 2006."}]
 ---
 
 | **DEPARTAMENTO EMISOR** | **CIRCULAR N°: 6.-** |

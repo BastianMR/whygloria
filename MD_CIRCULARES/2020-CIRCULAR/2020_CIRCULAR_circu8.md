@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículos pertinentes de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                              | CIRCULAR N° 8 02-2020 SN CIRC. 005-2020 OGN                                                                |

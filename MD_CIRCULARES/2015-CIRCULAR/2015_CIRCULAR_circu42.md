@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780, de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2015-CIRCULAR/2015_CIRCULAR_circu70.md"]
+relaciones: []
 ---
 
 029-2015 II (009-2015 Circ-SN)

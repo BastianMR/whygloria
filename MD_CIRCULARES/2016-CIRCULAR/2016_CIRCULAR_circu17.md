@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F50"]
 regimen: ["no-aplica"]
 ref_legal: ["Artículo primero de las disposiciones transitorias de la Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016, y artículo 14 de la Ley sobre Impuesto a la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 17 34.2016 ID 14.2016 SN** |

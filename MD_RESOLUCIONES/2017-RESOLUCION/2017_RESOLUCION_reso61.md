@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "la Ley N° 20.727 que 'Introduce modificaciones a la legislación tributaria en materia de factura electrónica y dispone otras medidas que indica'"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 5, "target_year": null, "raw_text": "11° Se deroga, a partir de la fecha de entrada en vigencia de la presente Resolución, la Resolución Exenta SII N° 5, del año 2014, que estableció la obligación de presentar la \"Declaración Jurada de compras y otras operaciones afectas a los"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

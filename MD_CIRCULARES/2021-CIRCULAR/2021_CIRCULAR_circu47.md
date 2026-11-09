@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 7, "target_year": 2018, "raw_text": "| **DEPARTAMENTO EMISOR: Subdirección Normativa Normas Internacionales** | **CIRCULAR N° 47 160744-2020 GE** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 03 DE AGOSTO DE 2021. | | MATERIA: Modifica Circular N° 7 de 20"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Normas Internacionales** | **CIRCULAR N° 47 160744.2020 GE** |

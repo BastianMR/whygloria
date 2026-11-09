@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El D.F.L N° 262, de 1977, del Ministerio de Hacienda, que aprueba el reglamento de viáticos para el personal de la Administración Pública", "el artículo 7° del D.L N° 3.551, de 1981, del Ministerio de Hacienda, que fija normas sobre Remuneraciones y sobre personal para el sector público", "el artículo 7°, letras c), i) y j) y el artículo 34° ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el N° 3 de la letra A) del artículo 6°, del Código Tributario", "el artículo 5° de la Ley N° 18.575", "las Resoluciones N°1.600, de 2008 y N° 10, de 2017, ambas de la Contraloría General de la República, lo establecido en la Resolución N° 38, del 15 de abril del 2016, de la Dirección Nacional del Servicio de Impuestos Internos sobre Delegación de Facultades"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ADMINISTRACIÓN

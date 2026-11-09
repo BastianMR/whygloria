@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["artículo 6° de la Ley N° 21.673, publicada en el Diario Oficial de 30 de mayo de 2024", "Decreto Ley N° 3.475 de 1980, Ley sobre Impuesto de Timbres y Estampillas"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°32.- 284962.2024 GE** |

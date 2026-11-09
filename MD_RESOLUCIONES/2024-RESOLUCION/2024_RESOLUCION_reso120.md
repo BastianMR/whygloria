@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en la letra A y N° 5 de la letra C ambas del inciso segundo del artículo 6°, N° 1, 10, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en la letra c) del N° 6 del artículo 1, el artículo octavo transitorio y artículo transitorio final de la Ley N° 21.713"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749

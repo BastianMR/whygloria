@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["EN LA LEY N°20.720."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 55, "target_year": null, "raw_text": "V.1.Derógase la Circular N°55 de 27-04-1977, sobre obligaciones tributarias del Síndico en caso de continuación parcial de las actividades del 'fallido'."}, {"type": "modifica", "target_type": "circular", "target_number": 10, "target_year": null, "raw_text": "V.2.Modifícase el Capítulo III, letra C, de la Circular N°10 de 15-02-1991, que impartió instrucciones acerca de las modificaciones introducidas por la Ley N°19-041 publicada en el Diario Oficial de 11-02-1991."}, {"type": "modifica", "target_type": "circular", "target_number": 16, "target_year": null, "raw_text": "V.3.Modifícase el Capítulo XI, letra F, de la Circular N°16 de 01-04-1991, sobre instrucciones generales relativas a Pagos Previsionales Mensuales."}]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA

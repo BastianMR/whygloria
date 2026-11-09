@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 4 bis del DFL N°7, de 1980 sobre Ley Orgánica del Servicio de Impuestos Internos, en el N° 1, de la letra A, del artículo 6°, y en el N° 1, del artículo 8° Bis, ambos del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en los N°s 1 y 2, del artículo 2°, en la letra a) del artículo 9 y en los artículos 37°, 42°, 52°, 54° y 71° todos de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y los servicios de certificación de dicha firma", "en la Ley N° 21.131 que estableció la obligación de emitir la guía de despacho en formato electrónico obligatoria", "en el decreto supremo N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, en especial su Título XIII sobre Documentos Tributarios, artículos 69 a 71 bis", "en las Resoluciones Exentas SII N° 45, de 2003"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS

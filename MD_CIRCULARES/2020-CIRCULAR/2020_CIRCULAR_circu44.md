@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Modifica: Circular N°65 de 2015 Deroga: Circular Nº71 de 2001"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 65, "target_year": 2015, "raw_text": "Circular Miscelánea sobre Modificaciones al Código Tributario | REFERENCIA: Modifica: Circular N°65 de 2015 Deroga: Circular Nº71 de 2001 |"}, {"type": "deroga", "target_type": "circular", "target_number": 71, "target_year": 2001, "raw_text": "SII Nº59, que imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias, por lo que se deroga la Circular Nº71 de 2001."}]
 ---
 
 | **DEPARTAMENTO EMISOR Departamento de Asesoría Jurídica** | **CIRCULAR N° 44** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## Complementada por Circular N° 11, del 17 de febrero de 2021

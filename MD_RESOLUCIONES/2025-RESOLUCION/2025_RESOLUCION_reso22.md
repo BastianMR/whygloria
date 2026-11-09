@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º letra A) Nº 1 y 3, letra B) N os 5 y 11, y los artículos 8, 8 bis, 33, 59, 59 ter, 60, 65 bis, 65 ter, 123 bis y 124 del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830 de 1974", "en los artículos 1º, 4 bis, 7º, 9º y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley Nº 7, de Hacienda, de 1980", "en las modificaciones introducidas por el artículo 1 N os 21, 28 y 29 de la Ley Nº 21.713 de 2024", "en los artículos 2, 3, 5, 8 y 13 la Ley Nº 18.575 de 1986, Orgánica Constitucional sobre Bases de la Administración del Estado"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 INSTRUYE SOBRE LA EJECUCIÓN DE PROCEDIMIENTOS DE FISCALIZACIÓN, REVISIÓN O DE OTRO TIPO EN EL MARCO DE LO ESTABLECIDO POR LOS ARTÍCULOS 6 LETRA B Nº 11 Y 65 TER DEL CÓDIGO TRIBUTARIO.

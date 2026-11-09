@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A), N° 1, y 62 ter del Código Tributario, contenidos en el artículo 1° del Decreto Ley N° 830 de 1974", "en el Decreto N° 418, del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018.

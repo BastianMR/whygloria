@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras a), c) y o), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Subdirección Desarrollo de Personas Depto. Formación GE00306021

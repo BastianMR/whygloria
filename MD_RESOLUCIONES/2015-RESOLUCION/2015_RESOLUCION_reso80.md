@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 10, 11, 12, 13, 15 y 16 de la Ley N°17.235, de 1969, sobre Impuesto Territorial", "en los artículos 116, 144 y 145 de la Ley General de Urbanismo y Construcción, DFL N° 458, de 1975", "en el artículo 17 N° 8 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y en el N° XVI, del artículo tercero transitorio, de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación a la renta e introduce diversos ajustes en el sistema tributario"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

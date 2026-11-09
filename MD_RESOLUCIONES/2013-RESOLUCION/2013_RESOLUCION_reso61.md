@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Art 6°, letra A), N°1 y Art 92 Bis del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "el Art 56° incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art 1° del D.L N° 825, de 1974", "lo dispuesto en el inciso cuarto del Art 71 Bis del Reglamento del D.L N° 825, de 1974, contenido en el D.S N° 55, de 1977, del Ministerio de Hacienda", "y las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN y ASISTENCIA DE CONTRIBUYENTES

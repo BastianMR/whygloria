@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El artículo 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda", "lo dispuesto en el artículo 14° letra D) N°3 letra (k) numerales (i), (ii) y (iii)", "y número 8, letra (a), numeral (viii), ambas de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824 de 1974 (en adelante LIR)", "y el artículo 1° de la Ley Nº 21.256 publicada en el Diario Oficial el 2.09. 2020, que establece medidas tributarias que fomentan parte del plan de emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

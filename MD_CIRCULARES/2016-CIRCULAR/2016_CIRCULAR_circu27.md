@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículo 97 N° 6"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 29, "target_year": 2015, "raw_text": "Deroga Circular N° 29, del 05 de mayo de 2015."}, {"type": "complementa", "target_type": "circular", "target_number": 1, "target_year": 2004, "raw_text": "Complementa la Circular N° 1, del 02 de enero de 2004. | REFERENCIA: Código Tributario, artículo 97 N° 6."}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 27.-** |

@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "en el Decreto Supremo del Ministerio del Interior N° 1227, de fecha 16 de septiembre de 2015, publicado en el Diario Oficial de fecha 21 de septiembre del año en curso, que declaran como afectadas por la catástrofe derivada de un sismo de alta intensidad que afectó gran parte del territorio nacional"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE NUEVAS FECHAS DE PAGO DEL IMPUESTO TERRITORIAL CORRESPONDIENTES A LA 3 a Y 4 a CUOTA DEL AÑO 2015, PARA LOS BIENES RAÍCES UBICADOS EN LA PROVINCIA DE CHOAPA O EN LA COMUNA DE COQUIMBO, AMBAS DE LA IV REGIÓN DE COQUIMBO.

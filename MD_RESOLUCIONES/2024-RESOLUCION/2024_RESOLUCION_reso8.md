@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º, letra A) N° 1, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y el artículo 12º, letra a), del Decreto N°20.385 de 1996 del Ministerio del Interior, que Fija Texto refundido y sistematizado del Decreto Ley Num. 3.063, de 1979, sob"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA.

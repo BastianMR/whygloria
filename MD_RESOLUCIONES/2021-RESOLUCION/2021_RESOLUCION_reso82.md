@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del Decreto Ley N°824, de 1974", "lo dispuesto en el Decreto Ley N° 825, de 1974, que contiene la Ley de Impuesto al Valor Agregado (en adelante IVA)", "en el artículo trigésimo sexto transitorio de la Ley N°21.210, que moderniza la legislación tributaria", "la Ley N° 21.227 que faculta el acceso a prestaciones del seguro de desempleo de la Ley N° 19.728, en circunstancias excepcionales"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

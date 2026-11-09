@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 e inciso final del artículo 69 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del Decreto con Fuerza de Ley N", "el numeral 9 del artículo 3° de la Ley N° 20.899, sobre Simplificación Tributaria, que agregó un nuevo inciso final al artículo 69 del Código Tributario", "y la Circular N° 30, del 10.05.2016"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

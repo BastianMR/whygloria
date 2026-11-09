@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 8° de la Constitución Política de la República", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "en la Ley N° 20.285 sobre Acceso a la Información Pública", "en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos y en el Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974", "las instrucciones contenidas en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

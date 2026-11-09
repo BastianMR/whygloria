@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14B"]
 ref_legal: ["en los artículos 6° letra A N° 1, 16, 17, 21, 69 y 35 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en la letra A), D) y G) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en los artículos transitorios décimo, undécimo, décimo sexto, décimo séptimo y vigésimo séptimo de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en el N°3 de la Letra D) del Artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020.

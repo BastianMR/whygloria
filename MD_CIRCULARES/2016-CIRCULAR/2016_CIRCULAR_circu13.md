@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.899, D.L N° 825, Art 21 del D.L N° 910, Ley N° 20.780"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 012-2016 II (01-2016 Circ-SN)

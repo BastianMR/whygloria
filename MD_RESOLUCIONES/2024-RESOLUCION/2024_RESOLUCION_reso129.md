@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 3°y 7° del DFL N°7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en las Resoluciones Exentas SII N°121 de 2015", "y lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 57, "target_year": 2023, "raw_text": "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS, ESTABLECE FUNCIONES, ÁMBITO DE COMPETENCIA Y DEJA SIN EFECTO RESOLUCIÓN EXENTA N°57 DE 2023."}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 92, "target_year": 2016, "raw_text": "Que, la Resolución Exenta SII N° 121 de 2015, reemplaza la denominación del 'Departamento Subdirección de Estudios', por la de 'Departamento Subdirección de Gestión Estratégica y Estudios Tributarios'; la cual fue reemplazada por las Resolu"}, {"type": "deroga", "target_type": "resolucion", "target_number": 121, "target_year": 2015, "raw_text": "NOVENO : La presente resolución regirá a contar de su publicación, en extracto, en el Diario Oficial y a partir de esa fecha se deja sin efecto las Resoluciones Exentas SII N°121 de 2015 y N°57 de 2023."}]
 ---
 
 SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE307616

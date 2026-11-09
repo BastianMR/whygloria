@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "segunda-categoria", "contribuciones"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 14 bis, 14 ter y 14 quáter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974, y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2014-CIRCULAR/2014_CIRCULAR_circu13.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 69.- 128.2014 ID 16.2014 SN** |

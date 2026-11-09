@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art 1° del D.L Nº 830, de 1974", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L Nº 825, de 1974", "las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00168793 GE00168923 GE00169491

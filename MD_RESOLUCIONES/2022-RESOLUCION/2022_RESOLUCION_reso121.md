@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y el artículo 88° del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del artículo 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos", "los artículos 2° N°2, 3° inciso tercero y 10 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del Decreto Supremo N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "el artículo 6° de la Ley 21.420, que reduce o elimina exenciones tributarias que indica, publicada en el Diario Oficial de fecha 04.02.2022, y la solicitud de fecha 07.11.2022, presentada por don Enrique Alejandro Fritzsche Figueroa, RUT N° 9.704.683-2, en representación de SOCIEDAD DE SERVICIOS TRA"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO GE00228918

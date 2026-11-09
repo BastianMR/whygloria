@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis del Código Tributario, contenido en artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980", "los artículos 10, inciso tercero y siguientes, y 58 N° 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974 (LIR) y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 119, "target_year": 2020, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N° 119 DE 2020 QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE POR MEDIO DE FORMULARIO N° 1921, EN LO RELATIVO A SUS OBLI"}]
 ---
 
 Ex. SII N° 119 de 2020, por el siguiente:

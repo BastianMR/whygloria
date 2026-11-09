@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "Ley N° 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "artículo 7° de la Ley N° 16.282 cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "artículo 37 del Decreto Ley N° 1939 de 1977", "artículo 4° de la Ley N° 19.896", "Decreto Ley N° 45 de 1973."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 19, "target_year": 2010, "raw_text": "Deja sin efecto Circular N° 19 de 2010. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N° 32** |

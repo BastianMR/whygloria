@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Ley N° 20.241, de 2008, Ley N° 20.570, de 2012 y Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 1875

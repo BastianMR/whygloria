@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 84 y siguientes de la Ley sobre 11 del"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos                                                                                                                                                                    | CIRCULAR Nº 21.- GE379386                                      |

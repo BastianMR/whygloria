@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L 830, de 1974", "en los artículos 55, 56, inciso 3°, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenido en el artículo 1° de D.L N° 825, de 1974", "el Anexo N° 1, del D.L N° 825, que contiene el D.S N° 55, de Hacienda, de 1977, Reglamentario de dicha ley", "en el artículo 4° bis del D.F.L N° 7, 1980, del Ministerio de Hacienda", "y las instrucciones impartidas por este Servicio en las Resoluciones Exentas SII N° 09, de 2001", "y en la Circular N°32, de 2005"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

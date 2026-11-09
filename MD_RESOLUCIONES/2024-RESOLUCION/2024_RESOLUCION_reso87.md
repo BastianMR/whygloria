@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N°1, 33 bis, 34, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "en la letra B) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 (en adelante, 'LIR')"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 127, "target_year": 2020, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 127 DE 2020."}, {"type": "reemplaza", "target_type": "resolucion", "target_number": 127, "target_year": 2020, "raw_text": "2° REEMPLAZA las instrucciones de llenado y el formato de los Certificados N° 57 y 58, contenidos en el Anexo N° 3 de la Resolución N° 127 de 2020, por el formato y contenido que se contienen en los Anexos N° 3 al 6 de la presente resolució"}]
 ---
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CONTRIBUYENTES ACOGIDOS A LAS NORMAS DEL ARTÍCULOS 14 LETRA B) N° 1 (CONTRIBUYENTES DE PRIMERA CATEGORÍA QUE DECLAREN RENTAS EFECTIVAS Y QUE NO LAS DETERMINEN SOBRE LA BASE DE UN BALANCE GENERAL, SEGÚN CONTABILIDAD COMPLETA) Y 14 LETRA B) N° 2 y 34 (CONTRIBUYENTES DE PRIMERA CATEGORÍA ACOGIDOS AL RÉGIMEN DE RENTA PRESUNTA) DE LA LIR, FORMULARIO N° 1943. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 127 DE 2020.

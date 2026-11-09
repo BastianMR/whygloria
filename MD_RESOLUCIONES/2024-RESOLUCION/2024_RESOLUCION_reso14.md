@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N°349 de 1984", "la Política General de Seguridad de la Información del SII contenida en la Resolución N°1536, de 2018", "la Resolución Exenta SII N° 354, de 4 de febrero de 2022, que 'Aprueba Política de Continuidad de Negocios del Servicio de Impuestos Internos y establece procesos críticos'", "el Decreto N°7, Norma Técnica de Seguridad de la Información y Ciberseguridad publicado el 17 de agosto de 2023"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.

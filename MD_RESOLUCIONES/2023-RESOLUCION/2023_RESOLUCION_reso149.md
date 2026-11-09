@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras a) y c), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6º, letra A), N° 1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830 de 1974", "en los artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado, sistematizado y actualizado se contiene en el Decreto con Fuerza de Ley N° 1 de 1998, del Ministerio de Hacienda", "en la Resolución Exenta SII N° 123 de 2019, y en el artículo 52 del Decreto con Fuerza de Ley N° 458 de 1976, Ley General de Urbanismo y Construcciones"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2024, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS.

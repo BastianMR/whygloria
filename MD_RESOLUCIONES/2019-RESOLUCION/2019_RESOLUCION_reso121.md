@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974", "el artículo 45 del Código Civil"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 117, "target_year": 2019, "raw_text": "1° Modifícase el Resolutivo 3° de la resolución Ex SII N°117 de fecha 21 de octubre de 2019, por el siguiente"}]
 ---
 
 MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.

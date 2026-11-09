@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 163, "target_year": null, "raw_text": "MATERIA: COMPLEMENTA RESOLUCIÓN EXENTA SII N° 163, DE FECHA 16-12-2008 QUE ESTABLECE NUEVOS FORMATOS DE DECLARACIÓN JURADA SOLICITUD DE DEVOLUCIÓN POR CAMBIO DE SUJETO DE DERECHO DEL IVA Y RESOLUCIÓN EX."}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

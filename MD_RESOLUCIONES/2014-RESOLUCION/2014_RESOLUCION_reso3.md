@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 92, "target_year": 1985, "raw_text": "1° Modifícase lo establecido en Resolución N°92 de 1985, en lo referente a los territorios jurisdiccionales de la XIII Dirección Regional Metropolitana Santiago Centro y XIV Dirección Regional Metropolitana Santiago Poniente, dejando de per"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA

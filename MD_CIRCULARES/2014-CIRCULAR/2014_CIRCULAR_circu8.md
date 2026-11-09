@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos 20 N° 1, letra b)", "34 bis N°s 2 y 3 y 84 letra e) de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley N° 20.630, del 27 de septiembre de 2012."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N°08.- 02.2013 SN 140.2012 ID** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 19, "target_year": 2004, "raw_text": "Modifica Circular N° 19 de 2004. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°33.- 178075.2021 GE** |

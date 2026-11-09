@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo sobre Procedimiento de Acuerdo Mutuo establecido en cada uno de los Convenios para Evitar la Doble Tributación Internacional suscritos por Chile."]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica** | **CIRCULAR N°13.- 171101.2020 GE** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículos 6°, letra A) N° 1° contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, norma esta última, agregada a dicho texto legal por el N° 27 del artículo 1° de la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, y posteriormente modificada por el N° 6 del ar"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017.

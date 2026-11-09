@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 10 y 11 de la Ley N° 21.681, que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción, publicada en el Diario Oficial de 1° de julio de 2024, y artículo 14 de la Ley sobre Impuesto a la Renta (LIR)."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°34.- 284033.2024 GE** |

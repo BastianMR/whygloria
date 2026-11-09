@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El artículo 6°, letra B) N°s 6° y 7°, e inciso final, del Código Tributario", "el artículo 7°, letras c) y ñ), y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 41 de la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19.653, de 17 de noviembre de 2001, del Ministerio Secretaría General de la Presidencia", "la Resolución N° 379, de 4 de diciembre de 1991", "la Resolución Ex", "la Resolución N° 2937, de 24 de agosto de 2001", "la Resolución Ex.SII N° 23, de 17 de febrero de 2011", "y la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

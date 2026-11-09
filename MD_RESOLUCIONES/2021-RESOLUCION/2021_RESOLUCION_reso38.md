@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F22"]
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo trigésimo segundo Transitorio de la Ley N° 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial del 24 de febrero de 2020, y la Circular 18 del 01.04.2021."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

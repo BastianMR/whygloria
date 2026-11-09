@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Ley N°20.650, los Artículos 2°, 3°, 4°, 8° y 9° de la Ley N° 17.235, sobre Impuesto Territorial."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE 200604

@@ -10,6 +10,9 @@ impuestos: ["renta", "iec"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Código Tributario, artículos 17, 60, 60 bis, 60 ter, 60 quáter, 60 quinquies y 69", "Ley N° 20.899, artículo 3°, N°s 2, 4, 5, 6, 7, 8 y 9."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 47, "target_year": 2015, "raw_text": "Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015."}, {"type": "modifica", "target_type": "circular", "target_number": 50, "target_year": 2015, "raw_text": "Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015."}, {"type": "modifica", "target_type": "circular", "target_number": 54, "target_year": 2015, "raw_text": "Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015."}, {"type": "modifica", "target_type": "circular", "target_number": 57, "target_year": 2015, "raw_text": "Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015."}, {"type": "complementa", "target_type": "circular", "target_number": 58, "target_year": 2015, "raw_text": "Complementa la Circular N° 58, de 2015. | REFERENCIA: Código Tributario, artículos 17, 60, 60 bis, 60 ter, 60 quáter, 60 quinquies y 69;"}, {"type": "modifica", "target_type": "circular", "target_number": 59, "target_year": 2015, "raw_text": "## Modifícase lo instruido en la Circular N° 59, de 3 de julio de 2015, en la forma siguiente:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 30** |

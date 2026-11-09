@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 41 D de la Ley sobre Impuesto a la Renta (LIR)", "artículo 1° N°3 de la Ley N°21.047."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N°16.- 02-2018 SN Circ 39-2018 ID** |

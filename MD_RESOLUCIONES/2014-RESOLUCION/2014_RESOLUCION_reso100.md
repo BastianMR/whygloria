@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["El Art 6º, letra A) Nº 1, del Código Tributario, contenido en el Art 1º del D.L Nº 830, de 1974", "lo dispuesto en la letra b) del Art 7º del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los incisos tercero y cuarto del Art 56, del D.L Nº 825, de 1974", "la Ley N° 19.983, de 2004", "la Ley N° 20.494, de 2011", "la Ley 20.727, de 2014", "la Circular N° 64, de 14.09.2001", "la Circular N° 32, de 20.06.2005"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

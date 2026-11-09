@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["ARTÍCULO 16° DE LA LEY N° 17.235."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 33, "target_year": null, "raw_text": "En consecuencia, se reemplaza lo instruido en las Circulares N°33, de 20-06-2013, N°68, de 26-12-2014, y N° 51, de 29-07-2016, en todo lo que se refiera a la tramitación y llenado de la declaración jurada contenida en los formularios F2802,"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 62.-** |

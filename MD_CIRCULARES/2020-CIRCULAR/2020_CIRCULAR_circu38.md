@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 1° numeral 3), 2° y 3° del Decreto Ley N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas", "Ley N° 21.225, publicada en el Diario Oficial de fecha 02 de abril de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Técnica Tributaria** | **CIRCULAR N° 38** |

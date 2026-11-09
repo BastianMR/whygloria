@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu47.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA** | **CIRCULAR N° 52.- 20.2014 CIRC.SN 003.2014 CIRC.TT** |

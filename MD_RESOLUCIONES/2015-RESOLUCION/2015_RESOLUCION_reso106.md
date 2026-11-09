@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 6° letra A), N° 1, 30 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, lo establecido en el Numeral VI, del artículo tercero transitorio, de la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014 sobre Reforma Tributaria que modi"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

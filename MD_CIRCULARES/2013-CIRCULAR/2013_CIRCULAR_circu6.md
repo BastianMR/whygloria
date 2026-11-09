@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 43, 47, 52, 54, 55 ter, 56, 65 y 75, de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley 824, de 1974) y Ley 20.630 , del 27 de septiembre de 2012."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 1875

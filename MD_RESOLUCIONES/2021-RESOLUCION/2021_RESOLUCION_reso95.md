@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1 del Código Tributario, contenido DL N°830, de 1974", "en el artículo 59 inciso cuarto número 1 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL N°824, de 1974", "en el artículo trigésimo quinto transitorio de la Ley N°21.210", "en los artículos 1°, 7° y 42° dela Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N°7, de Hacienda, de 1980", "en la Circular SII N°56, de fecha 04.09.2020 y en la Resolución Exenta N°59, de fecha 14.05.2008, ambas de este Servicio"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 59, "target_year": null, "raw_text": "A contar de la entrada en vigencia de la presente Resolución, se deja sin efecto Resolución Exenta SII Nº 59, de 14-05-2008."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DE CUMPLIMIENTO TRIBUTARIO

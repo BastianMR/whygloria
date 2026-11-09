@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "timbres", "herencias", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.755, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las Resoluciones Exentas N° 7.590, de 1999", "y en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 349, "target_year": 1984, "raw_text": "QUINTO : Desde la entrada en vigencia de la presente resolución, se derogan el apartado VII del Párrafo N°1 de la resolución N° 349, de 1984; y la Resolución Exenta N° 90, de 2009, así como cualquier Resolución dictada anteriormente sobre e"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA

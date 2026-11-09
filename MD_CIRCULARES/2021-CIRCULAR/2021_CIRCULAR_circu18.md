@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: ["F22"]
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210 publicada en el Diario Oficial el 24 de febrero de 2020."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 44, "target_year": 2020, "raw_text": "5 A este respecto, se debe tener en consideración que la Ley modifica, a partir del 1° de marzo de 2020, los referidos artículos 98 y 99 del Código Tributario, cuyas instrucciones se impartieron mediante la Circular N° 44 de 2020."}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 18 178765.2021 GE** |

@@ -10,6 +10,9 @@ impuestos: ["renta", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Código Tributario, Arts 4 bis, 4 ter, 4 quáter, 4 quinquies, 26 bis, 100 bis, 119 y 160 bis, del Código Tributario"]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu41.md", "MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu31.md"]
+relaciones: []
 ---
 
 Modificada por Circular N° 41, del 11 de julio de 2016

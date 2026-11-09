@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 349, de 1984"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

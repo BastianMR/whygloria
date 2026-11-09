@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio y las facultades que se me confieren en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de Hacienda, de 30 de Septiembre de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 .

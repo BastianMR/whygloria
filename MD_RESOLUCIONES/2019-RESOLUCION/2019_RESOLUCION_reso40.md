@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la ley N° 21.133", "en el número 3 del artículo 94 y el artículo 92 A, ambos del D.L N° 3.500, de 1980", "en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras"]
+status_vigencia: "parcialmente_derogado"
+replaced_by: []
+relaciones: []
 ---
 
 Sii

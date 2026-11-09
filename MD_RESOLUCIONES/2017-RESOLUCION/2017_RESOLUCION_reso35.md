@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda de 1980", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "la Resolución Ex", "y en la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 101, "target_year": null, "raw_text": "MATERIA: COMPLEMENTA RESOLUCIÓN EXENTA SII N°101 DE 08-08-2011 MODIFICADA POR LA RESOLUCIÓN 133, DEL 23-11-2011 EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 706 - SDAC - 2016 77316130409

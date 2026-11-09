@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº54.-** |

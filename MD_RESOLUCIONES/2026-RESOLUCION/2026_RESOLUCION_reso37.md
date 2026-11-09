@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 y 8 bis, del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en los artículos 23 N° 5, 36, y 80 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: APLICACIÓN DEL N° 5 DEL ARTÍCULO 23 DE LA LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS A LOS CONTRIBUYENTES DEL RUBRO AGRÍCOLA EN EL CONTEXTO DE SOLICITUDES DE DEVOLUCIÓN DE IVA.

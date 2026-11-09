@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "y lo dispuesto en el nuevo párrafo 7° ter Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, incorporado por el artículo único de la Ley N° 21.745", "la Circular N° 64 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## MODIFÍCASE LA RESOLUCIÓN EX. SII N° 179 DE 2025, QUE CREA EL REGISTRO DE FERIAS LIBRES.

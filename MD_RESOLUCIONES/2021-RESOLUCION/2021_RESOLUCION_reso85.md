@@ -10,6 +10,9 @@ impuestos: ["herencias"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980", "el artículo 6°, letra A), N° 1° del D.L N° 830, de 1974, sobre Código Tributario", "el artículo 29 de la Ley Nº16.271 de 1965, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8 del D.F.L N° 1 de 2000, del Ministerio de Justicia", "el artículo cuarto de Ley N° 21.210, que moderniza la legislación tributaria e introduce modificaciones a la Ley N° 16.271"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 <unknown>

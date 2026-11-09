@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 76 y 97 N° 1 del Código Tributario Artículo 2° de la Ley N° 17.990"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 41, "target_year": 1998, "raw_text": "Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 de 2007 y N°57 de 2008. | REFERENCIA: Artículos 76 y 97 N° 1 del Código Tributario Artículo 2° de la Ley N° 17-990 |"}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES** | **CIRCULAR Nº 7** |

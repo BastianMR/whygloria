@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 4° de la Ley N° 21.811, publicada en el Diario Oficial de 26 de marzo de 2026."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | DEPARTAMENTO EMISOR: Departamento de Impuestos Indirectos                                                                                                                                                                                                                                                                                                                                              | CIRCULAR N° 22 372434.2026 GE                                                                       |

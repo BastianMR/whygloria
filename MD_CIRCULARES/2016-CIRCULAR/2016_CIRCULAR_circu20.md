@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974, Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014 y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 69, "target_year": 2014, "raw_text": "Modifica en parte instrucciones contenidas en Circular N°69, de 2014."}]
 ---
 
 ## IMPUESTOS DIRECTOS 1875

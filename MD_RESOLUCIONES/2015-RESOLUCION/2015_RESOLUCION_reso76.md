@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["las facultades que se me confieren en las letras c) y k) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, lo establecido en el artículo 17 de la norma recién citada"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003.

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el Artículo 7° letra o), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7 de 1980 del Ministerio de Hacienda", "la Ley N° 19.880 que establece Bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado", "la Ley N°19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, su modificación mediante Ley N°21.634 de 2023 y su reglamento", "la Resolución Exenta N°4220, de 2024, sobre Manual Proceso de Adquisiciones y Contratación", "la Resolución Exenta N° 146, de 2020, sobre delegación de facultades y la Resolución Exenta N°63, de 2021, que la complementa", "la Resolución N°7, de 2019 y la Resolución N°14, de 2022, ambas de la Contraloría General de la República"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "resolucion", "target_number": 7, "target_year": 2019, "raw_text": "Ley N° 21-722 sobre Presupuestos del Sector Público correspondiente al año 2025; la Ley N° 19-880 que establece Bases de los procedimientos administrativos que rigen los actos de los órganos de la administración del Estado; la Ley N°19-886 "}]
 ---
 
 ## IDENTIFICA PERSONAL QUE SEÑALA EL ARTICULO 14 DEL DS N°661/2024 QUE APRUEBA REGLAMENTO DE COMPRAS PÚBLICAS.

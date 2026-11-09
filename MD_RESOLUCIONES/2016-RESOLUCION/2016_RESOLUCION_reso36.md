@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "y lo dispuesto en las Resoluciones N° 349, de 1984, N° 379 de diciembre de 1991, Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 11, "target_year": 2005, "raw_text": "DECIMOSEGUNDO: Desde la entrada en vigencia de la presente resolución, se derogan las Resoluciones Exentas N° 11-163, de 2005;"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA

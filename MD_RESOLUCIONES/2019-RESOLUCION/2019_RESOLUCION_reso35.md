@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "el artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2°, 3°, 5° y demás aplicables en la especie de la Ley N° 19.880 de 2003"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 78, "target_year": null, "raw_text": "Corte de Apelaciones de Santiago, conociendo del recurso de protección interpuesto, resolvió dejar sin efecto, a su respecto, la Resolución Exenta N°78, de 23-08-2017, declarándose que, en todo el tiempo intermedio, la sociedad mantuvo su g"}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

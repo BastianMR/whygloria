@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el inciso cuarto del artículo 31 de la Ley sobre Impuesto a la Renta, en el Decreto N° 4 del Ministerio de Salud, de fecha 5 de enero de 2020 modificado por el Decreto N° 10 del Ministerio de Salud, de fecha 24 de marzo de 2020", "y el Decreto N° 104 del Ministerio del Interior y Seguridad Pública, de fecha 18 de marzo de 2020, el Decreto N° 107 de la misma repartición, de fecha 20 de marzo de 2020, y el Decreto Supremo Nº 420 de 30 de marzo de 2020, modificado por Decreto Supremo Nº 1.043, de 26 de junio de 2020, ambos del M"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 151, "target_year": 2018, "raw_text": "2° Que, para establecer el procedimiento de inscripción en el Registro de instituciones sin fines de lucro a las distribuidoras y/o receptoras de alimentos cuya comercialización sea inviable, se emitió la Resolución Exenta Nº 59 de 20 de ju"}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

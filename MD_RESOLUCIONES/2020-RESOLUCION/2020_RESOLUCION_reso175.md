@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en la Resoluciones Exentas SII N° 123, de 2019 y N°149, de 2020, y en el Artículo 52° del D.F.L N° 458 de 1976, Ley General de Urbanismo y Construcciones."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2021, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS.

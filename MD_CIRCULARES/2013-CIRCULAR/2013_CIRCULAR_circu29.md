@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 38 y 41 E, de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley 20.630, del 27 de septiembre de 2012."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu10.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS FISCALIZACIÓN INTERNACIONAL 1875** | **CIRCULAR N° 29 145-2012 ID 07-2013 SN** |

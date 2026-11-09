@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 42 ter de la Ley sobre Impuesto a la Renta y Circular N° 23, de 2002."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 23, "target_year": 2002, "raw_text": "Al implicar lo señalado la adopción de un nuevo criterio sobre la materia, se reemplaza el primer párrafo del punto a.2) de la letra a) del numeral 2, del Capítulo III de la Circular N° 23, de 2002, quedando este como sigue: «La otra altern"}, {"type": "modifica", "target_type": "circular", "target_number": 23, "target_year": 2002, "raw_text": "Se modifica también el segundo párrafo del punto a.2 de la letra a) del numeral 2, del Capítulo III de la Circular N° 23, de 2002, reemplazando la parte que señala '800 UTM en un solo año', por la siguiente: '800 UTM en el plazo de un año c"}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 16 194-2016 ID 18-2016 SN** |

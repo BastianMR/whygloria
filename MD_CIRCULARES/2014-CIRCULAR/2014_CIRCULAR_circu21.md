@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2018-CIRCULAR/2018_CIRCULAR_circu23.md"]
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINADE REVISIÓN Y APOYO JURÍDICO ALAACTUACIÓN FISCALIZADORA** | **CIRCULAR Nº 21** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso primero del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda y en el artículo 59 N° 2 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, texto éste último, modific"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ESTABLECE LA FORMA Y OPORTUNIDAD EN QUE LOS CONTRIBUYENTES QUE INVOQUEN LA EXENCIÓN DE IMPUESTO ADICIONAL ESTABLECIDA EN EL N° 2 DEL INCISO CUARTO DEL ARTÍCULO 59 DE LA LEY SOBRE IMPUESTO A LA RENTA, DEBERÁN INFORMAR SUS OPERACIONES POR LOS AÑOS TRIBUTARIOS 2011 AL 2015; Y MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2003.

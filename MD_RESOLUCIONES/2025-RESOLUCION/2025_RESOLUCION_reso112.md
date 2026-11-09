@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 10, 33 bis, 35, 60 y 97 N° 1 del Código Tributario, contenido en el Decreto Ley Nº 830 de 1974", "en los artículos 1º, 3º bis, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 80, 81, 82, 84, 85, 86 y 92 de la Ley N° 20.712"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

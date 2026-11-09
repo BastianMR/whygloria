@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.899, de 2016", "Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 12, "target_year": 2015, "raw_text": "Complementa Circular N° 12, de 2015."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 34.-** |

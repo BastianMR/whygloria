@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 60 y 60 bis, todos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y en los artículos 1°, 7°, letra b) y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA EL PROCEDIMIENTO, FORMA Y PLAZOS PARA LA APLICACIÓN Y EJERCICIO DE LA FACULTAD ESTABLECIDA EN EL ARTÍCULO 60 BIS DEL CÓDIGO TRIBUTARIO.

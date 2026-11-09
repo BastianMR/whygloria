@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L 825, de 1974, Resoluciones Exentas N os 3.338 de 1992"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DISPONE LA PUBLICACIÓN DE LA NÓMINA DE CONTRIBUYENTES DE DIFÍCIL FISCALIZACIÓN, EN PÁGINA WEB DE ESTE SERVICIO

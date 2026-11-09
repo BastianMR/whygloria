@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1°"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE SERVICIO DE IMPUESTOS INTERNOS Y INSTITUTO PROFESIONAL CHILENO BRITÁNICO DE CULTURA.

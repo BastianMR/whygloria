@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L Nº 830 de 1974", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en la Ley N° 21.440 publicada en el Diario Oficial de fecha 12.04.2022, la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 2017, QUE ESTABLECE LA OBLIGACION DE PRESENTAR FORMULARIO N° 1945, DECLARACIÓN JURADA ANUAL SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO.

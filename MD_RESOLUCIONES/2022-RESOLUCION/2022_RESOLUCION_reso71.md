@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en el Nº 6 del artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824 de 1974", "las instrucciones impartidas en las Resoluciones Exentas SII Nº 126 de 2016 y sus modificaciones posteriores, y Nº 101 de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "resolucion", "target_number": 126, "target_year": 2016, "raw_text": "REEMPLAZA FORMATO, CONTENIDO, DEFINICIONES E INSTRUCCIONES DE LAS DECLARACIONES JURADAS QUE SE INDICAN, AUTORIZA A DELEGAR LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS QUE SE INDICAN Y MODIFICA RESOLUCIÓN EXENTA SII Nº 126 DE 2016"}]
 ---
 
 REEMPLAZA FORMATO, CONTENIDO, DEFINICIONES E INSTRUCCIONES DE LAS DECLARACIONES JURADAS QUE SE INDICAN, AUTORIZA A DELEGAR LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS QUE SE INDICAN Y MODIFICA RESOLUCIÓN EXENTA SII Nº 126 DE 2016

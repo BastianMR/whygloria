@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: ["F50"]
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.956 de 2016", "y 59, inciso 1° e inciso 4°, N° 2, párrafo segundo, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L N°824, de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 48, "target_year": 2016, "raw_text": "Modifica instrucciones contenidas en la letra G), del II.4.- del apartado II, de la Circular N° 48 de 2016, relativas al N° 3, del artículo 41 C de la Ley sobre Impuesto a la Renta."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 44.- 38-2017 ID 2-2017 SN** |

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el número 3 del artículo 94", "en el artículo 92 A del D.L N° 3.500, de 1980", "en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 9, "target_year": 2012, "raw_text": "MATERIA: MODIFICA EL TÍTULO XIV, DEL LIBRO II, DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, LA RESOLUCIÓN N° 9, DE 2012, DEL SERVICIO DE IMPUESTOS INTERNOS Y LA CIRCULAR NORMATIVA N° 2 DE LA TESORERÍ"}]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES

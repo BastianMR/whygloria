@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 17, "target_year": 2003, "raw_text": "REEMPLAZA PÁRRAFO QUE INDICA, DE LA CIRCULAR N° 17, DE 10-05-1995, MODIFICADA POR LAS CIRCULARES N° 50, DEL 2003 Y 28, DEL 2017. | REFERENCIA Artículo 68 del Código Tributario, artículos 14 y 54 de la Ley sobre Impuesto a la Renta;"}, {"type": "reemplaza", "target_type": "circular", "target_number": 17, "target_year": 1995, "raw_text": "Para tales efectos, se reemplaza el segundo párrafo del punto 2-3-7-2. de la mencionada instrucción (Circular N° 17, de 1995, modificada por la Circular N° 50, de 2003 y Circular N°28, de 2017), por el siguiente:"}]
 ---
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES** | **CIRCULAR N° 28** |

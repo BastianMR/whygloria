@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N°7 de 1980, del Ministerio de Hacienda, el artículo 6 letra A N°3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N°18.575", "lo dispuesto en el artículo 385 del Código de Procedimiento Civil"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 GE00258009

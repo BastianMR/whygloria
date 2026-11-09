@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A), N° s 1 y 4, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "las Resoluciones Ex", "el Reglamento, contenido en el Decreto N° 871 de 2025, de Hacienda", "la Circular N° 64 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357793

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: PROCEDIMIENTO DE SOLICITUD DE INSCRIPCIÓN EN REGISTRO DE INSTITUCIONES SIN FINES DE LUCRO DISTRIBUIDORAS Y/O RECEPTORAS DE PAÑALES, CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE.

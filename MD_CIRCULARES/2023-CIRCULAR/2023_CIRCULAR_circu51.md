@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: ["F22"]
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.631, publicada en el Diario Oficial de 31 de octubre de 2023."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 87, "target_year": 2001, "raw_text": "Complementa Circular N° 87 de 2001. | REF."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°51.- 263226.2023 GE** |

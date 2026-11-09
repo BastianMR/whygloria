@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades del artículo 6°, letra A, N° 1° y artículos 66 y 68, del Código Tributario, contenido en el artículo 1°, del Decreto Ley (DL) N°830, de 1974", "lo dispuesto en los artículos 65 y 68 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1°, del DL N° 824, de 1974", "las modificaciones incorporadas por la Ley N° 21.210"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 36, "target_year": 2011, "raw_text": "Deja sin efecto Resolución Exenta SII Nº 36, de 2011."}]
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN

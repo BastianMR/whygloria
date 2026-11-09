@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 6°, Letra A), N° 1, del Código Tributario, D.L N° 830, de 31.12.1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 42, "target_year": 2019, "raw_text": "| **SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE** | **CIRCULAR N°46.-** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 26 DE NOVIEMBRE 2019 | | MATERIA: COMPLEMENTA CIRCULAR N° 42 DEL 30 DE OCTUBRE"}]
 ---
 
 | **SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE** | **CIRCULAR N°46.-** |

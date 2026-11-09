@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["lo dispuesto enla Ley sobre Impuesto alasVentasyServicios,contenida en el D.LN°825de 1974"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIONDEFISCALIZACION OFICINADEAPOYOLEGALYADMINISTRATIVO GE00176483

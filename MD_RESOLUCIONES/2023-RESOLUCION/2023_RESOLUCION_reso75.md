@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 2°, 3° bis, 7°, 9° y 42° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980", "en los artículos 6° letra A, Nº 1 y 65 bis del Código Tributario contenido en el Art 1° del D.L Nº 830, de 1974", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Exenta N°142, de 30 de diciembre de 2021, del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: FIJA NÓMINA DE GRANDES CONTRIBUYENTES

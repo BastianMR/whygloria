@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades conferidas en la letra c) del artículo 7° y el artículo 4° bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 1° y 6 letra A N°8 del Código Tributario, contenido en el D.L N° 830 de 1974", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dicha firma", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N°21.180 sobre 'Transformación Digital del Estado'", "la Ley N°19.880 que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado", "la Ley N° 20.285 sobre Acceso a la Información Pública", "el D.F.L N° 29 del 2005 que fija el texto Refundido, Coordinado y Sistematizado de la Ley N°18.834, sobre Estatuto Administrativo", "el Decreto Supremo N°83, de 2005, de la Secretaría General de la Presidencia, que aprueba Norma Técnica para los Órganos de la Administración del Estado sobre Seguridad y Confidencialidad de los Documentos Electrónicos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00265693

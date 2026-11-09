@@ -10,6 +10,9 @@ impuestos: ["renta", "iva", "segunda-categoria", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo único de la Ley N° 21.745, publicada en el Diario Oficial de fecha 22 de mayo de 2025", "nuevo Párrafo 7° ter de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°64.- 329125.2025 GE** |

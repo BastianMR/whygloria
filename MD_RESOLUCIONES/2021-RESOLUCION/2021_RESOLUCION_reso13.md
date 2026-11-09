@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1 y 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda, lo establecido en la Ley N° 19.799 sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma y su Reglamento co", "en la Circular Nº 54 de 2015 sobre reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN

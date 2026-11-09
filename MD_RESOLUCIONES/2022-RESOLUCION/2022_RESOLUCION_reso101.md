@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, publicado en el Diario Oficial el 31.12.1974", "en el artículo 46 del D.S N° 2.385, del Ministerio del Interior, publicado en el Diario Oficial el 20.11.1996, que fija texto refundido y sistematizado del D.L N° 3.063, de 1979, sobre Rentas Municipales, en el artículo 3° de la Ley N° 19.247, que aprueba la Ley de Donaciones con Fines Educacionales", "la Ley N°16.282 que fija disposiciones para casos de sismos o catástrofes, sobre la Ley N° 19.712, sobre donaciones deportivas", "la Ley N° 20.675, publicada en el Diario Oficial el 05.06.2013, que sustituyó el artículo 8° de la Ley N° 18.985, sobre donaciones con fines culturales", "la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, publicada en el Diario Oficial el 06.08.2003", "los artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "la Resolución Ex", "la Resolución Exenta SII N° 89, de 29.08.2014", "la Resolución Exenta SII N° 113, de 5.10.2021"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00224705

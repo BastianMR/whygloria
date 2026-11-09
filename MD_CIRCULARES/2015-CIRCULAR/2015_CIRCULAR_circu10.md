@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Artículos segundo, numerales 1)", "10) y 11), y tercero, numeral I.-, N°s 4.-, 7.-, y 8.-, ambos de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, y Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 10.- 17.2014 SN 136.2014 ID** |

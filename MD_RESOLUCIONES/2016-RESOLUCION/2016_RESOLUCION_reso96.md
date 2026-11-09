@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["las disposiciones contenidas en la Ley N° 20.365, publicada en el Diario Oficial de 19.08.2009", "en la Ley N° 20.897, publicada en el Diario Oficial de 05.02.2016", "en el Decreto Supremo N° 331, de los Ministerios de Hacienda y de Economía Fomento y Reconstrucción, publicado en el Diario Oficial de 26.05.2010", "en el Decreto Supremo N° 33, del Ministerio de Energía, publicado en el Diario Oficial 17.06.2016"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

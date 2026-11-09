@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "y las disposiciones pertinentes del D.S N° 55, de 1977, Reglamentario de dicha ley", "en el Art 4° bis del D.F.L N° 7, 1980, del Ministerio de Hacienda", "en las Resoluciones Exentas SII N° 09, de 2001"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 del DFL N° 1/19.653, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "la Ley N°19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento, contenido en el Decreto Supremo N° 250 del año 2004 del Ministerio de Hacienda", "y la Resolución Exenta SII N° 146, de 27 de noviembre de 2020, que Delega Facultades y asigna funciones en las Jefaturas que indica", "las Resoluciones N° 6, y 7 de 2019, de la Contraloría General de la República, que fijan normas sobre exención del trámite de toma de razón"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 146, "target_year": 2020, "raw_text": "MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES."}]
 ---
 
 MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES.

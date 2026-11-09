@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 20.727 de 31 de enero de 2014", "Ley N° 20.780 de 29 de septiembre de 2014", "y Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
+status_vigencia: "derogado"
+replaced_by: ["MD_CIRCULARES/2020-CIRCULAR/2020_CIRCULAR_circu45.md", "MD_CIRCULARES/2025-CIRCULAR/2025_CIRCULAR_circu11.md", "MD_RESOLUCIONES/2020-RESOLUCION/2020_RESOLUCION_reso174.md"]
+relaciones: [{"type": "reemplaza", "target_type": "circular", "target_number": 25, "target_year": 2008, "raw_text": "Las instrucciones de la presente letra, reemplazan aquellas contenidas en el numeral (i.1), de la letra (i), del N° 4, del Capítulo III, de la Circular N° 25 de 2008."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 12** |

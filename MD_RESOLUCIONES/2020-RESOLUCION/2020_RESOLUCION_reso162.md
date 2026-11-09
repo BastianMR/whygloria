@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1, y 60, ambos del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 42 Nº 1 y 2 y artículo 47, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824 de 1974", "el Decreto Ley N° 3.500, de 1980, que establece un nuevo sistema de pensiones, y en la Ley Nº 21.295 publicada en el Diario Oficial de fecha 10 de diciembre de 2020, que establece un retiro único y extraordinario de fondos previsionales y."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA: ESTABLECE OBLIGACIÓN DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES DE INFORMAR, EN LA FORMA Y PLAZO QUE SE SEÑALA, LOS MONTOS DE LOS RETIROS EFECTUADOS POR LOS AFILIADOS EN CONFORMIDAD LA LEY N° 21.295.

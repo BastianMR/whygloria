@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de Hacienda, de fecha 30 de septiembre de 1980", "el artículo 6° Letra A) Nº 1), los artículos 30 y 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en el artículo 8° de la Ley N° 20.780, sobre Reforma Tributaria, artículo 8° N° 2 de la Ley N° 20.899 sobre Simplificación de la Reforma Tributaria, Decreto Supremo N° 18 de 2016, del Ministerio de Medio Ambiente."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 MATERIA : Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas y la forma de emitir el giro correspondiente.

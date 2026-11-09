@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 bis de la Ley de la Renta."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 54, "target_year": null, "raw_text": "Para el mes de enero del año 2018, el tributo asciende a $ 3-291.- * 5.Gratificación de Zona: Para fijar el límite máximo establecido en el artículo 13º del D.L Nº 889, de 1975, el Sueldo del Grado 1-A de la E.U.S., asciende para el mes de "}]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 58.-** |

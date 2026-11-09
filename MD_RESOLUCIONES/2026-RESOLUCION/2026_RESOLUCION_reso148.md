@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 68, inciso duodécimo, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en la Ley N° 21.713", "en los artículos 3°, 11, 41, 59 y 61 de la Ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado", "la Resolución Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 12, "target_year": 2026, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA N°12 DE 2026, QUE APROBÓ LA SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) \"INICIO DE ACTIVIDADES\"."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA

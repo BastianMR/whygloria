@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículos 30 y 31 N° 3 de la Ley sobre Impuesto a la Renta", "artículo 23 N° 1 de la Ley sobre Impuesto a las Ventas y Servicios."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "complementa", "target_type": "circular", "target_number": 54, "target_year": null, "raw_text": "| **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 60 279-2018ID 10-2018 SDN** | | --- | --- | | SISTEMA DE PUBLICACIONES ADMINISTRATIVAS | FECHA: 28 DICIEMBRE 2018 | | MATERIA: Refunde y complementa las Circulares N° 54 de 02-10-"}, {"type": "reemplaza", "target_type": "circular", "target_number": 54, "target_year": null, "raw_text": "En consecuencia, la presente instrucción reemplaza a las Circulares N° 54 de 02-10-2009, N° 39 de 13-07-2018 y N° 42 de 09-08-2018, e incorpora nuevos productos susceptibles de ser castigados debido a la pérdida de su valor comercial."}]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 60 279-2018ID 10-2018 SDN** |

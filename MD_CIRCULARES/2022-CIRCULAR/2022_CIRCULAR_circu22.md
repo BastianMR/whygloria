@@ -10,6 +10,9 @@ impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022", "Decretocon Fuerza de Ley N° 2 de 1959, del Ministerio de Hacienda, sobre Plan Habitacional", "Ley N° 17.235, sobre Impuesto Territorial."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 57, "target_year": 2010, "raw_text": "Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020. | REF."}, {"type": "complementa", "target_type": "circular", "target_number": 28, "target_year": 2020, "raw_text": "COMPLEMENTA Y MODIFICA LA CIRCULAR N° 28 DE 2020"}, {"type": "modifica", "target_type": "circular", "target_number": 28, "target_year": 2020, "raw_text": "Por otra parte, como consecuencia de la modificación en comentada en el apartado 2-2. del Capítulo II, a partir del 1° de enero de 2023 se modifican los dos primeros párrafos del apartado 1-4 de la Circular N° 28 de 2020, en el siguiente se"}]
 ---
 
 | **DEPARTAMENTOEMISOR: Subdirección de Avaluaciones Subdirección Normativa, Departamento de Técnica Tributaria** | **CIRCULARNº 22.- GE205117** |

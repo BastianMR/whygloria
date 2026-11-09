@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo tercero de la Ley N° 21.078, publicada en el Diario Oficial de fecha 15 de febrero de 2018."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección de Avaluaciones Departamento de Tasaciones** | **CIRCULAR N°25.- 221854.2022 GE** |

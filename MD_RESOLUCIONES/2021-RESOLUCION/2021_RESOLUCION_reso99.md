@@ -10,6 +10,9 @@ impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6º letra A) Nº 1, 30, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974", "en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 1° y 7° de la Ley N° 18.156, de 1982", "en los artículos 1° y 2° de la Ley N° 18.225, de 1983", "en el artículo 5° transitorio de la Ley N° 19.768, del 2001", "en los artículos 42 N° 1, 42 bis, 43 N° 1, 74 N° 1, 78 e inciso tercero del artículo 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo 69, del D.L N°3.500, de 1980, y lo instruido en las Resoluciones Exentas SII N° 08, de fecha 10.01.2007"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 8, "target_year": null, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII N° 08, DE FECHA 10-01-2007, EN LOS TÉRMINOS QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN EXENTA SII Nº 25, DE FECHA 24-03-2016."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

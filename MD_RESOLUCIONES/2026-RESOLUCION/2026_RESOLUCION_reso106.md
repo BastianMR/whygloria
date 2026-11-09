@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en la Ley 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 3° y en las letras a), c) y ñ), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "en el Código Tributario contenido en el Decreto Ley N° 830 de 1974", "el artículo 7° de la Ley N° 19.646", "en lo dispuesto en las Resoluciones Exentas SII N°379, de 1991 y sus modificaciones, N°7.590, de 1999"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE 389112

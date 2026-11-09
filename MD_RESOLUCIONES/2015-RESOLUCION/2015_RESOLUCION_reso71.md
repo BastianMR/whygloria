@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## DISTRIBUCIÓN:

@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1°, 35, 101 y 206, todos del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los N°41 y N°76 del artículo 1° de la Ley N°21.713, publicada en Diario Oficial de fecha 24.10.2024, y que, entre otras materias, introducen modificaciones a los artículos 101 y 206 del Código Tributario", "y en la Circular SII N° 34 de 25 de abril de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial el 24 de octubre de 2024", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "circular", "target_number": 14, "target_year": 2014, "raw_text": "Modifica y complementa las Circulares N° 14 de 2014, N° 12 de 2015, y N° 40 de 2016. | REF."}, {"type": "reemplaza", "target_type": "circular", "target_number": 14, "target_year": 2014, "raw_text": "De este modo, en atención a la modificación legal realizada, se reemplazan las instrucciones contenidas en el N° 3 de la letra B) del N° 1) del Título II de la Circular N° 14 de 2014 4 , por las siguientes:"}, {"type": "reemplaza", "target_type": "circular", "target_number": 40, "target_year": 2016, "raw_text": "De acuerdo con lo anterior 10 , se reemplazan las instrucciones impartidas por este Servicio en el apartado 2 del Título II de la Circular N° 40 de 2016, conforme al texto contenido en el siguiente apartado 2-3."}, {"type": "reemplaza", "target_type": "circular", "target_number": 12, "target_year": 2015, "raw_text": "De acuerdo a lo anterior, se sustituyen las instrucciones contenidas en el apartado 4 del Título II de la Circular N° 12 de 2015, complementada por la Circular N° 34 de 2016, por las siguientes:"}]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°11.- 299913.2024 GE** |

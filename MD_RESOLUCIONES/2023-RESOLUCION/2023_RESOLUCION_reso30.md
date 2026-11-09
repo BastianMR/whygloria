@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 8, 36, 53 y 192 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 22 del Decreto con Fuerza de Ley Nº 1, de 1998, del Ministerio de Hacienda, que fija texto refundido, coordinado, sistematizado y actualizado de la ley Nº 17.235, sobre Impuesto Territorial", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 2 N°1 del Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1994, fija el texto refundido, coordinado, sistematizado y actualizado del estatuto orgánico del Servicio de Tesorerías", "en los numerales 4, 5, y 6 del N° 1 del Decreto Supremo N° 147, de 2023, del Ministerio de Hacienda, que establece medidas de índole tributaria para las regiones de Ñuble, del Biobío y de la Araucanía"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## RESOLUCIÓN EXENTA SII N° 30.RESOLUCIÓN EXENTA TGR N° 49.-

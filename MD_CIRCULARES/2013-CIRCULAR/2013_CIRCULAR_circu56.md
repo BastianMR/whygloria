@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 23, "target_year": 2005, "raw_text": "Deroga Circular N° 23 de 2005 y Circular N° 27 de 2009. | REFERENCIAS Ley N° 19-983, del 15 de diciembre de 2004 D.S N° 93 del 13 de abril de 2005."}]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección de Fiscalización Departamento de Atención y Asistencia de Contribuyentes** | **CIRCULAR N° 56.-** |

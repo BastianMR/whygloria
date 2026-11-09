@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 10, 21, 33 bis, 35 y 89 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley General de Bancos, contenida en el artículo único del Decreto con Fuerza de Ley N° 3 de 1997", "la Ley N° 21.713, publicada en el Diario Oficial de fecha 24.10.2024, y que incorporó un nuevo inciso segundo al artículo 89 del Código Tributario", "y lo instruido en la Circular N° 38 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 Sii

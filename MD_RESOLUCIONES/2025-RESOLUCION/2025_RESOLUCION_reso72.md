@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["en los artículos 6°, letra A, N° 1, 8° N° 14 y N° 18, 8 bis, 10, 21, 33, 35, 59, 59 bis y 59 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las instrucciones contenidas en la Circular N° 06 de 2025"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

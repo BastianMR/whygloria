@@ -10,6 +10,9 @@ impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 88 del Código Tributario, contenido en el artículo primero del D.L N° 830, de 1974", "el artículo 1° de la Ley N° 20.727, de 2014", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 2° N°s 1 y 2, 9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios", "y las Resoluciones Ex"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 8, "target_year": 2018, "raw_text": "RUT N° 76-828-790-2 Y MODIFICA RESOLUCIÓN EXENTA SII N° 08 DEL 24 DE ENERO DEL 2018, CONFORME SE INDICA."}]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA

@@ -10,6 +10,9 @@ impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1°, 4 bis y 7° del artículo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "el Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "los artículos 3°, 59, 60 inciso primero, 74 N° 4, 75, 79, 82 y 83 de la Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N° 824, de 1974", "el artículo 12 letra E N°7 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "lo dispuesto en el artículo 3° de la Ley N° 16.282, que Fija Disposiciones para casos de Sismos o Catástrofes, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto N° 104 de 1977, del Ministerio del Interior", "el Decreto N° 148, de 08.02.2023, del Ministerio de Hacienda."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

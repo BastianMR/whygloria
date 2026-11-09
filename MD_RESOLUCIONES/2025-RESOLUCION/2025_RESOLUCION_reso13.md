@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i), j) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N°7, de 1980, de Hacienda", "el N°3 de la letra A) del artículo 6°, del Código Tributario", "el artículo 41, de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Ex", "el punto II N°2 de la letra d) del Oficio Circular N°4, de 13.03.2017, que se refiere a la política de seguridad de sistemas y uso de los recursos informáticos del Servicio de Impuestos Internos"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 69, "target_year": 2017, "raw_text": "MATERIA: Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica."}]
 ---
 
 MATERIA: Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica.

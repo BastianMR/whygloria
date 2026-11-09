@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
 ref_legal: ["El artículo 1°, 4° bis, 7° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "en los artículos 14 letras A) y D) N° 3 y 38 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974 (en adelante, \"LIR\")", "en la Ley N° 21.210, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

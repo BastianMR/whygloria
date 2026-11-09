@@ -10,6 +10,9 @@ impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Las facultades contempladas en los artículos 1° y 7° letras a), y c) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6º, letra A) N°1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974 , en los artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en la Resoluciones Exentas SII N° 123, de 2019 y N° 119, de 2022, y en el artículo 52° del "]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: []
 ---
 
 FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2023, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS.

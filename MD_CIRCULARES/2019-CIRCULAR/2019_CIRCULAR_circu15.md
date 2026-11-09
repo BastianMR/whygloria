@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 38, "target_year": null, "raw_text": "Deroga la Circular N° 38 de 01-07-1997, sobre Actualización y Complementación de Instrucciones para la Clasificación, Enrolamiento Y Tasación Fiscal de Predios Rurales. | REFERENCIA LEGAL: Artículo 6° letra A) N° 1 del Código Tributario."}]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 15.-** |

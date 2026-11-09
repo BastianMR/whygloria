@@ -10,6 +10,9 @@ impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Artículo 207 del Código Tributario, Decreto N° 437 de 30 de abril de 2025, del Ministerio de Hacienda."]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "deroga", "target_type": "circular", "target_number": 50, "target_year": 2016, "raw_text": "En consecuencia, a contar de la fecha indicada queda derogada la Circular N° 50, de 20 de julio de 2016, y cualquier instrucción contraria a lo dispuesto en la presente Circular."}]
 ---
 
 | DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA                                                                                                                                                                                          | CIRCULAR Nº 27 GE 380752                                                                                           |

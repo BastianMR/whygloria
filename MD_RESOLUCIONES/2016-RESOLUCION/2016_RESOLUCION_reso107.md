@@ -10,6 +10,9 @@ impuestos: []
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: []
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 9, "target_year": 2012, "raw_text": "REF: Modifica el Título XIV, del Libro II, del Compendio de Normas del Sistema de Pensiones de la Superintendencia de Pensiones, la Resolución N° 9, de 2012, del Servicio de Impuestos Internos y la Circular Normativa N° 2 de la Tesorería Ge"}]
 ---
 
 Sii

@@ -10,6 +10,9 @@ impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
 ref_legal: ["Lo dispuesto en el artículo 6º letra A Nº 1 del Código Tributario, contenido en artículo 1º del D.L Nº 830 de 1974", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 17 y 18 del Decreto Ley Nº 3475 de 1980 sobre Impuesto de Timbres y Estampillas", "las instrucciones impartidas en la Resolución Exenta SII Nº 128 de 2022"]
+status_vigencia: "vigente"
+replaced_by: []
+relaciones: [{"type": "modifica", "target_type": "resolucion", "target_number": 128, "target_year": null, "raw_text": "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE FECHA 29-12-2022, EN LOS TÉRMINOS QUE INDICA."}]
 ---
 
 <unknown>

@@ -10,6 +10,9 @@ impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
 ref_legal: ["Lo dispuesto en los artículos 6° letra A N°1, 33 bis, 34, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "en la letra B) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 (en adelante, 'LIR')", "la Ley N° 21.210 de 2020, y la Resolución Exenta SII N° 102, de 13.10.2017"]
+status_vigencia: "derogado"
+replaced_by: ["MD_RESOLUCIONES/2024-RESOLUCION/2024_RESOLUCION_reso87.md", "MD_RESOLUCIONES/2024-RESOLUCION/2024_RESOLUCION_reso87.md"]
+relaciones: [{"type": "deroga", "target_type": "resolucion", "target_number": 102, "target_year": 2017, "raw_text": "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 102 DE 2017."}]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
