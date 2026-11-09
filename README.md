@@ -64,7 +64,9 @@ python scripts/pdf_to_md.py            # convert pending sources
 ```
 
 The ordered procedure, the source-to-concept matching rule and the known naming
-quirks live in [`CHECKLIST.md`](./CHECKLIST.md).
+quirks live in [`CHECKLIST.md`](./CHECKLIST.md). Where the content comes from,
+why it is markdown and what is still pending live in
+[`ARCHITECTURE.md`](./ARCHITECTURE.md).
 
 ## Purpose
 

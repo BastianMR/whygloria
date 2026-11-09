@@ -13,3 +13,8 @@ okf_version: "0.2"
 
 * [PDF_CIRCULARES](PDF_CIRCULARES/) - Circulares SII as published, 2013-2026
 * [PDF_RESOLUCIONES](PDF_RESOLUCIONES/) - Resoluciones SII as published, 2013-2026
+
+## Documentation
+
+* [ARCHITECTURE.md](./ARCHITECTURE.md) - provenance, design decisions and pending work
+* [CHECKLIST.md](./CHECKLIST.md) - ordered pipeline and naming quirks
