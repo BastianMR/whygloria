@@ -1,0 +1,19 @@
+---
+type: "SII Circular"
+title: "Circular N° 60 (2017)"
+description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
+tags: [SII, 2017, circular]
+---
+
+| DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIRCULAR N° 60                                                                                                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                                                                                                                | FECHA: 15 DE DICIEMBRE 2017                                                                                                                                                                                                                                                        |
+| Suplemento Tributario con la normativa vigente para efectuar la declaración de los Impuestos Anuales a la Renta correspondientes al Año Tributario 2018 | REFERENCIA: N° Y NOMBRE DEL VOLUMEN: 6 - RENTA 6(12)00 IMPTO. DE PRIMERA CATEGORÍA 6(13)00 IMPTO. ÚNICO DE SEGUNDA CATEGORÍA 6(15)00 IMPTO. GLOBAL COMPLEMENTARIO 6(16)00 IMPTO. ADICIONAL 6(17)00 ADMINISTRACIÓN DEL IMPUESTO REF. LEGAL: Arts. pertinentes de la Ley de la Renta |
+
+1. Mediante la presente Circular, se publica el Suplemento Tributario con la normativa vigente para efectuar la Declaración de los Impuestos Anuales a la Renta correspondientes al Año Tributario 2018.
+
+Saluda a Ud.,
+
+DISTRIBUCION: - INTERNET
+
+## FERNANDO BARRAZA LUENGO DIRECTOR
