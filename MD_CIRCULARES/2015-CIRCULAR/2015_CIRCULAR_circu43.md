@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2015)"
 description: "Complementada por Circular N° 25, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
+materia: "Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel"
+fecha: "2015-06-09"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley 20.780", "inciso cuarto del artículo 88 del Código Tributario."]
 ---
-
-
 
 ## Complementada por Circular N° 25, del 3 de mayo de 2016
 

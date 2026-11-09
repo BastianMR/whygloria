@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 52 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 52 09-2014 SN 108-2014 ID |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría, a raíz de las modificaciones efectuadas a la Ley sobre I"
+fecha: "2014-10-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["14B"]
+ref_legal: ["Artículos 20 y 84 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L. 824 de 1974) y la Ley N° 20.780, de 29 de septiembre de 2014."]
 ---
-
-
 
 1875
 

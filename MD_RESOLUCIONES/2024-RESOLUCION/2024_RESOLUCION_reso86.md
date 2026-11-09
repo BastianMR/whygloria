@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549"
+fecha: "2024-08-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14D8"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 14 D N° 8, 20, 39 N° 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del D.L", "en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549
 

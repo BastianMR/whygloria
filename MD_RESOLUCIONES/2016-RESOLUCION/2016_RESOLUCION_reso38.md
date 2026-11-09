@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2016)"
 description: "DELEGA FACULTADES QUE INDICA."
 tags: [SII, 2016, resolucion]
+materia: "## DELEGA FACULTADES QUE INDICA."
+fecha: "2016-04-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i), j), k), l), ll), m), n), ñ) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, de Hacienda", "el N°3 de la letra A) del artículo 6°, del Código Tributario, el artículo 41, de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto N° 1.159, de 2015 del Ministerio de Hacienda, que nombra al Director del Servicio de Impuestos Internos", "la Resolución N° 343, de 05.07.2000", "modificada por Resolución N° 408, de 30.08.2002, Resolución Ex"]
 ---
 
 ## DELEGA FACULTADES QUE INDICA.

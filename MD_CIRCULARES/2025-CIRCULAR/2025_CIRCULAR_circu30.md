@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 30 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE321389 | CIRCULAR Nº30.- |"
 tags: [SII, 2025, circular]
+materia: "Informa tabla de cálculos de reajustes multas para el mes de Mayo 2025. Modifica Circular Nº 22 de 2025"
+fecha: "2025-04-17"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL Nº 830 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE321389** | **CIRCULAR Nº30.-** |
 | --- | --- |

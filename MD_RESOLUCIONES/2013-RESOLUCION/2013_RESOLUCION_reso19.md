@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2013)"
 description: "RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013."
 tags: [SII, 2013, resolucion]
+materia: "RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013."
+fecha: "2013-02-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, las Resoluciones números 16 y 18 exentas, de 11 de Julio de 2002 y 29 de Agosto de 2002, respectivamente, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobr"]
 ---
-
-
 
 RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013.
 

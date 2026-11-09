@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 70 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 70 |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha."
+fecha: "2014-12-31"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["N° 11, del numeral I.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014, y artículo 14 de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 1875
 

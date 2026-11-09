@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+materia: "INSTRUYE SOBRE EL CUMPLIMIENTO DE LA OBLIGACIÓN DEL ARTÍCULO 29 DE LA LEY N°16.271, SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES, QUE ORDENA A LOS CONSERVADORES REMITIR POR MEDIOS ELECTRÓNICOS LAS NÓMINAS DE LAS INSCRIPCIONES DE POSESIONES EFECTIVAS ."
+fecha: "2021-07-23"
+exenta: true
+impuestos: ["herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "el artículo 6°, letra A), N° 1° del D.L", "el artículo 29 de la Ley Nº16.271 de 1965, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8 del D.F.L", "el artículo cuarto de Ley N° 21.210, que moderniza la legislación tributaria e introduce modificaciones a la Ley N° 16.271", "lo instruido por medio de la Circular SII Nº7 de 2020", "y, Resolución Exenta SII Nº7 de 2020."]
 ---
-
-
 
 <unknown>
 

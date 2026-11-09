@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2016, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+fecha: "2016-12-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 42 N°2 de la Ley sobre Impuesto a la Renta y lo dispuesto en el artículo 2° de la Ley N° 20.809, instruido en Circular N° 15 de 2016 de este Servicio, que entre otros, otorga beneficios tributarios en el territorio de Isla de Pascua."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

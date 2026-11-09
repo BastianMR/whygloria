@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00192652"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00192652"
+fecha: "2021-10-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° y artículo 7°, letras c), y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N°20.727, de 2014", "Ley N°21.210, de 2020", "artículo 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Artículo Primero del D.L", "las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00192652
 

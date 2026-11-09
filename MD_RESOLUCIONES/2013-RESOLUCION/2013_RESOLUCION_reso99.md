@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TIMBRADOS QUE INDICA."
+fecha: "2013-11-29"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 6º letra A, Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el D.L", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

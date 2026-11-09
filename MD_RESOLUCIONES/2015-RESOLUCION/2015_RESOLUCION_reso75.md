@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX.SII N° 59, DE 10 DE JULIO DE 2015, QUE CREA LA UNIDAD DE PROVIDENCIA DEPENDIENTE DE LA XV DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE."
+fecha: "2015-09-16"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en el artículo 7° letra ñ) del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN
 

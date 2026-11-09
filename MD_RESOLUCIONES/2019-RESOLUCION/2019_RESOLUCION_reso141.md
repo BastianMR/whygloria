@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO ÁREA DE RIESGOS DE DEVOLUCIONES Y GASTOS"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO ÁREA DE RIESGOS DE DEVOLUCIONES Y GASTOS"
+fecha: "2019-12-26"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["La facultad del artículo 6°, letra A, N° 1 del Código Tributario", "lo dispuesto en el artículo 3°, inciso tercero y artículos 20, 21, 54 y 56 del D.L", "lo dispuesto en los Arts. 14, 16, 22, 73 y 81 del D.S. de Hacienda Nº 55, de 1977, Reglamento del D.L", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO ÁREA DE RIESGOS DE DEVOLUCIONES Y GASTOS

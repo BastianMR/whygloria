@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 71 (2015)"
 description: "Complementada por Circular N° 39, del 8 de julio de 2016"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el N° 4, del artículo 74. También se instruye sobre las modificaciones incorporad"
+fecha: "2015-07-23"
+exenta: false
+impuestos: ["renta", "timbres", "segunda-categoria"]
+formularios: []
+regimen: ["14B", "renta-presunta"]
+ref_legal: ["Artículos 21, 43 N° 1, 52, 52 bis y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo primero del Decreto Ley N° 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
-
-
 
 Complementada por Circular N° 39, del 8 de julio de 2016
 

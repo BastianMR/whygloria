@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
+fecha: "2024-12-12"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contenidas en los artículos 6°, letra A, números 1 y 4, y 88 bis, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "el artículo 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 52 y siguientes del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, y en su Reglamento, contenido en el Decreto Supremo N° 55 de 1977, de Hacienda", "la Ley N° 21.713"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA
 

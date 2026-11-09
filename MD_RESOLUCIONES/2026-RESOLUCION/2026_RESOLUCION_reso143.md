@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00390001"
 tags: [SII, 2026, resolucion]
+materia: "MODIFICA RESOLUCIÓN EXENTA SII N°160, DE 12 DE NOVIEMBRE DE 2025 Y CREA ÁREA QUE INDICA. MODIFICA RESOLUCIÓN EXENTA SII N°87, DE 17 DE JULIO DE 2025."
+fecha: "2026-10-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N°7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Ex", "la Resolución N°36, de 2024, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00390001

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2020)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS Y CERTIFICADOS QUE SE INDICAN Y DEJA SIN EFECTO LAS RESOLUCIONES QUE SE SEÑALAN."
 tags: [SII, 2020, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS Y CERTIFICADOS QUE SE INDICAN Y DEJA SIN EFECTO LAS RESOLUCIONES QUE SE SEÑALAN."
+fecha: "2020-09-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35, 60 y 85 inciso 2°, del Código Tributario", "en los artículos 1°, 4° bis y 7° del D.F.L", "las instrucciones impartidas en las Resoluciones Exentas SII N° 4085 de 1990 y sus modificaciones posteriores"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS Y CERTIFICADOS QUE SE INDICAN Y DEJA SIN EFECTO LAS RESOLUCIONES QUE SE SEÑALAN.
 

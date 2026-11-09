@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2023)"
 description: "INSTRUYE SOBRE FORMA Y PLAZO PARA DECLARAR Y PAGAR LAS RETENCIONES QUE LAS ENTIDADES QUE SE INDICAN, DEBERÁN REALIZAR PARA EL PAGO DEL PRÉSTAMO TASA CERO PAR..."
 tags: [SII, 2023, resolucion]
+materia: "INSTRUYE SOBRE FORMA Y PLAZO PARA DECLARAR Y PAGAR LAS RETENCIONES QUE LAS ENTIDADES QUE SE INDICAN, DEBERÁN REALIZAR PARA EL PAGO DEL PRÉSTAMO TASA CERO PARA PENSIONADOS BAJO LA MODALIDAD DE RENTA VITALICIA ESTABLECIDO EN EL INCISO QUINTO ARTÍCULO 9° DE LA LEY N° 21.323."
+fecha: "2023-01-27"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 4° bis, y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 97 N° 11 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 42 N° 1, 74 N° 1 y 79 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en los artículos 1°, 9 y 17 de la Ley N° 21.323", "y en la Resolución Ex"]
 ---
-
-
 
 INSTRUYE SOBRE FORMA Y PLAZO PARA DECLARAR Y PAGAR LAS RETENCIONES QUE LAS ENTIDADES QUE SE INDICAN, DEBERÁN REALIZAR PARA EL PAGO DEL PRÉSTAMO TASA CERO PARA PENSIONADOS BAJO LA MODALIDAD DE RENTA VITALICIA ESTABLECIDO EN EL INCISO QUINTO ARTÍCULO 9° DE LA LEY N° 21.323.
 

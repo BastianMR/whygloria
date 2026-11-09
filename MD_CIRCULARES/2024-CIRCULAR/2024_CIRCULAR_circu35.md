@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 35 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°35.- 287082.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "Modifica la Circular N° 22 de 2014, que imparte instrucciones sobre el tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley N° 20.444. Deja sin efecto la Circular N° 44 de 2010."
+fecha: "2024-08-01"
+exenta: false
+impuestos: ["renta", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 12 de la Ley N° 21.681, publicada en el Diario Oficial de 1° de julio de 2024", "artículo 8° bis de la Ley N° 20.444, publicada en el Diario Oficial de 28 de mayo de 2010."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°35.- 287082.2024 GE** |
 | --- | --- |

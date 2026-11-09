@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2024)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395"
+fecha: "2024-05-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en las letras c), k) y l) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 17 del mismo cuerpo legal", "lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2016, resolucion]
+materia: "DELEGA FACULTADES QUE INDICA EN FUNCIONARIO QUE SEÑALA, Y DEROGA EN PARTE RESOLUCIÓN EXENTA NÚMERO 191 DE 24 DE DICIEMBRE DE 2010"
+fecha: "2016-07-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 7°, letras c), e), i) y j) y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en los artículos 6° letra A N° 3° del Código Tributario y en el artículo 41 del D.F.L", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República", "lo establecido en las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS
 

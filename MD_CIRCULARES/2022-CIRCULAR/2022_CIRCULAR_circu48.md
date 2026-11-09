@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 48 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Procedimientos Administrativos | CIRCULAR N°48.- |"
 tags: [SII, 2022, circular]
+materia: "Instruye sobre las multas aplicables al incumplimiento de informar inversiones en el exterior y sus rentas, conforme a lo dispuesto en la Ley sobre Impuesto a la Renta y Código Tributario."
+fecha: "2022-10-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Procedimientos Administrativos** | **CIRCULAR N°48.-** |
 | --- | --- |

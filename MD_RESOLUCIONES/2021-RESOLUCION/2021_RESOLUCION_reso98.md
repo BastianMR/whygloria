@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2021)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018"
 tags: [SII, 2021, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018"
+fecha: "2021-08-26"
+exenta: true
+impuestos: ["segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo décimo noveno de la Ley N°21.210 de 2020", "las instrucciones impartidas en las Resoluciones Exentas SII N° 4085 de 1990 y sus modificaciones posteriores, N° 6836 de 1993 y sus modificaciones posteriores, N° 86 de 2012 y sus modificaciones posteriores, N° 120 de 2016 y sus modificaciones posteriores, Nº 86 de 2018, N° 97 de 2020 y N° 127 de 2"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018
 

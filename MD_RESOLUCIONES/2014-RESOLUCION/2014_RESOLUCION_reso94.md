@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2014)"
 description: "Subdirección Contraloría Interna"
 tags: [SII, 2014, resolucion]
+materia: ""
+fecha: "2014-09-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos, y las necesidades de"]
 ---
-
-
 
 ## Subdirección Contraloría Interna
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 48 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 48.- 42.2015 ID 08.2015 SN |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario para la micro, pequeña y mediana empresa contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. 6(12)00"
+fecha: "2015-06-15"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "segunda-categoria"]
+formularios: []
+regimen: ["14A", "renta-presunta"]
+ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 48.- 42.2015 ID 08.2015 SN** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 64 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°64.- 198820.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y el 9 de enero de 2022, ambos inclusive."
+fecha: "2021-12-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°64.- 198820.2021 GE** |
 | --- | --- |

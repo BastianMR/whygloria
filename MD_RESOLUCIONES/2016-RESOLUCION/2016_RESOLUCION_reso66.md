@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2016)"
 description: "MATERIA: REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN, ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LA CONFOR..."
 tags: [SII, 2016, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN, ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LA CONFORMAN."
+fecha: "2016-07-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y en las letras c), h), ñ y o) del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "la Ley N° 18.755, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resoluciones Ex", "la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 MATERIA: REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN, ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LA CONFORMAN.
 

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 144 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00340715"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00340715"
+fecha: "2025-10-16"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículos 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N°s. 1 y 2, 9° letra a)", "54, , 56 inciso segundo, y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex"]
 ---
 
 Sii

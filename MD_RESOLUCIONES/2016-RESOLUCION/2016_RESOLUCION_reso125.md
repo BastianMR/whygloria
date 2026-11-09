@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2016)"
 description: "DISPONE LA PUBLICACIÓN DE LA NÓMINA DE CONTRIBUYENTES DE DIFÍCIL FISCALIZACIÓN, EN PÁGINA WEB DE ESTE SERVICIO"
 tags: [SII, 2016, resolucion]
+materia: "## DISPONE LA PUBLICACIÓN DE LA NÓMINA DE CONTRIBUYENTES DE DIFÍCIL FISCALIZACIÓN, EN PÁGINA WEB DE ESTE SERVICIO"
+fecha: "2016-12-27"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "N°1 de la letra A), del artículo 6° del Código Tributario, contenido en el artículo 1º del D.L", "en el artículo 3° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L. 825, de 1974, Resoluciones Exentas N os 3.338 de 1992"]
 ---
-
-
 
 ## DISPONE LA PUBLICACIÓN DE LA NÓMINA DE CONTRIBUYENTES DE DIFÍCIL FISCALIZACIÓN, EN PÁGINA WEB DE ESTE SERVICIO
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2016)"
 description: "Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013."
 tags: [SII, 2016, resolucion]
+materia: ""
+fecha: "2016-03-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos", "lo estatuido en las Resoluciones N° 349 de 1984", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013.
 

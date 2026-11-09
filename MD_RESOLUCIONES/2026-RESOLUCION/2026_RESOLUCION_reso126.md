@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS 77326428998"
 tags: [SII, 2026, resolucion]
+materia: "AUTORIZACIÓN EXCEPCIONAL A CONTRIBUYENTE QUE SE INDICA PARA DAR CUMPLIMIENTO A LAS OBLIGACIONES ESTABLECIDAS EN LA RESOLUCIÓN EX. SII N° 36 DE 2024 EN LAS CONDICIONES QUE SE SEÑALAN"
+fecha: "2026-09-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 y 88 del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "en el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "en la Resolución Ex"]
 ---
 
 SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS 77326428998

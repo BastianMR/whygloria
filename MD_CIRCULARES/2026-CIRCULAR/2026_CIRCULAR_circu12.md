@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 12 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                          | CIRCULAR N° 12 372094.2026 GE                            ..."
 tags: [SII, 2026, circular]
+materia: "Tasas a considerar para la determinación de la renta presunta en el año tributario 2026."
+fecha: "2026-04-01"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículo 34, N° 2, letra c) y 74, N° 6, de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 75, de 4 de marzo de 2026, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de marzo de 2026", "y Resolución Ex"]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                          | CIRCULAR N° 12 372094.2026 GE                                                                                                                                                                                                                                                                                |

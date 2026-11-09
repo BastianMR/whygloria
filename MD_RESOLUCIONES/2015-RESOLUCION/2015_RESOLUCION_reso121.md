@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE NUEVA DENOMINACIÓN A DEPARTAMENTO SUBDIRECCION DE ESTUDIOS"
+fecha: "2015-12-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y n) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+materia: "FIJA NUEVO PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE BALANCE DE 8 COLUMNAS Y OTROS ANTECEDENTES, FORMULARIO N°1847, Y DECLARACIÓN JURADA ANUAL SOBRE BASE IMPONIBLE DE PRIMERA CATEGORIA Y DATOS CONTABLES BALANCE, FORMULARIO N°1926."
+fecha: "2016-06-14"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 3° bis, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "Resoluciones Exentas SII N°02 de 11.01.2012, N°101, de 17.12.2015 y N ° 112, de 24.12.2015"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

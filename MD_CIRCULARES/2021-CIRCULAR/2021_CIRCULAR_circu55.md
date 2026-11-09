@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 55 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N° 55 181974.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Imparte instrucciones sobre la contribución para el desarrollo regional introducida por el artículo trigésimo segundo de la Ley N° 21.210."
+fecha: "2021-10-08"
+exenta: false
+impuestos: ["renta", "iva", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "artículo 3, N° 5, de la Ley N° 21.256, publicada en el Diario Oficial de 2 de septiembre de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N° 55 181974.2021 GE** |
 | --- | --- |

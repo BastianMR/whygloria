@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE216724"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE216724"
+fecha: "2022-07-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.S"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE216724
 

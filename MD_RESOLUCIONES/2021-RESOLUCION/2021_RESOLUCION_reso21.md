@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2021)"
 description: "MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016."
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016."
+fecha: "2021-02-24"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "en el artículo 3°, 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 1 y artículo 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974", "en la Ley N° 19.628 sobre Protección de la Vida Privada", "en la Ley N° 21.210 de 2020 que Moderniza la Legislación Tributaria", "en la Resolución Ex"]
 ---
-
-
 
 MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016.
 

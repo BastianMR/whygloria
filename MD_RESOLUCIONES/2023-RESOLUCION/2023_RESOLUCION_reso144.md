@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 144 (2023)"
 description: "ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE INMUEBLES OCUPADOS EN CASOS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 40 ..."
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE INMUEBLES OCUPADOS EN CASOS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 40 DE 2023."
+fecha: "2023-12-15"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 10, letra e), 13 y 19 de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado, sistematizado y actualizado se contiene en el Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1998", "en la Ley N° 21.633, regula los delitos de ocupación ilegal de inmuebles, fija nuevas penas y formas comisivas e incorpora mecanismos eficientes de restitución y lo instruido en la Resolución Ex"]
 ---
-
-
 
 ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE INMUEBLES OCUPADOS EN CASOS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 40 DE 2023.
 

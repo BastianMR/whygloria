@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 19 (2023)"
 description: "DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica | CIRC..."
 tags: [SII, 2023, circular]
+materia: "Modifica Circular N° 13 de 2022, que imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile."
+fecha: "2023-04-19"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo sobre Procedimiento de Acuerdo Mutuo establecido en cada uno de los Convenios para Evitar la Doble Tributación Internacional suscritos por Chile."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica** | **CIRCULAR N° 19.- 228139.2020 GE** |
 | --- | --- |

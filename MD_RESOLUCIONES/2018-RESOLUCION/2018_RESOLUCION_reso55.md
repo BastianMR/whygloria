@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2018)"
 description: "MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
 tags: [SII, 2018, resolucion]
+materia: "Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
+fecha: "2018-07-05"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículos 6°, letra A) N° 1° contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "Circulares SII N°s 12, de 2015 y 34, de 2016", "Resolución Exenta SII N° 87, de 25.08.2016 y Resolución Exenta SII N° 124, de 19.12.2017."]
 ---
-
-
 
 MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+materia: "ESTABLECE LA OBLIGACIÓN DE INFORMAR AL CONSEJO NACIONAL DE LA CULTURA Y LAS ARTES, ACERCA DE LOS BENEFICIARIOS DE LAS DONACIONES CON FINES CULTURALES ESTABLECIDAS EN EL ARTÍCULO 8° DE LA LEY N° 18.985."
+fecha: "2014-12-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 8° de la Ley N° 18.985, sustituido por la Ley N° 20.675 de 2013, texto legal sobre Donaciones con Fines Culturales"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

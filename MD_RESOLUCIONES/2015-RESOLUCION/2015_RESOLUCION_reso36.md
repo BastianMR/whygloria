@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2015)"
 description: "Servicio de Impuestos Internos Subdirección de Estudios"
 tags: [SII, 2015, resolucion]
+materia: "APRUEBA CONVENIO DE PRESTACIÓN DE SERVICIOS DE CONSULTA SOBRE ESTADO DE VIGENCIA DE DOCUMENTOS DE IDENTIDAD CELEBRADO ENTRE EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN Y EL SERVICIO DE IMPUESTOS INTERNOS"
+fecha: "2015-04-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras a) c) y o) del artículo 7° del D"]
 ---
-
-
 
 ## Servicio de Impuestos Internos Subdirección de Estudios
 

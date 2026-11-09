@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 38 (2025)"
 description: "DEPARTAMENTOEMISOR Subdirección de Asistencia al Contribuyente Departamento deCiclo de Vida Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULA..."
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre la obtención de rol único tributario y aviso de inicio de actividades. Deja sin efecto las Circulares N° 31 de 2007 y N° 7 de 2008. Complementa y modifica las Circulares N° 31 de 2014, N° 58 de 2015, N° 41 de 2021 y N° 24 de 2024."
+fecha: "2025-04-30"
+exenta: false
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 66 y 68 del Código Tributario", "Ley N° 21.641, publicada en el Diario Oficial de 30 de diciembre de 2023", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020", "y, Decreto con Fuerza de Ley N° 3 de 1969, del Ministerio de Hacienda, que crea el Rol Único Tributario y establece normas para su aplicación."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR Subdirección de Asistencia al Contribuyente Departamento deCiclo de Vida Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°38.- GE320525** |
 | --- | --- |

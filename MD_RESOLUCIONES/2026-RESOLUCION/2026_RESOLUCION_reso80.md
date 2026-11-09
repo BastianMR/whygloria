@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
+fecha: "2026-06-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["RESOLUCIÓN"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA

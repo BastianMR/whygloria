@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2018)"
 description: "DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015."
 tags: [SII, 2018, resolucion]
+materia: "DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015."
+fecha: "2018-03-05"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras h), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario contenido en el artículo 1° del D.L", "la Resolución SII Ex", "la Resolución N°1.600 de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015.
 

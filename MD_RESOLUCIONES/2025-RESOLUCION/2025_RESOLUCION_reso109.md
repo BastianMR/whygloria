@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+materia: "MODIFICA RES. EX. SII N° 113 DE 2022, QUE ESTABLECE FORMATO, CONTENIDO Y MEDIO DE ENVÍO DEL REPORTE DE SALDOS Y SUMAS DE ABONOS DE CUENTAS FINANCIERAS, Y RES. EX. SII N° 5 DE 2025, QUE ESTABLECE FORMA Y PLAZO DE PRESENTACIÓN DE LA DECLARACIÓN JURADA PARA INFORMACIÓN DE ABONOS RECIBIDOS. DECLARACIONE"
+fecha: "2025-08-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A, N° 1, 10, 21, 35, 85 bis y 85 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley N°21.755, publicada en el Diario Oficial de fecha 11.07.2025, y que, entre otras, incorporó modificaciones a las letras a) y b) del artículo 85 bis del Código Tributario", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

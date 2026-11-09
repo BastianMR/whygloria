@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 52 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA"
 tags: [SII, 2017, circular]
+materia: "## OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2017-10-13"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA
 

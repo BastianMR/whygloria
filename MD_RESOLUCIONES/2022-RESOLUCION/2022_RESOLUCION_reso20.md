@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00194121"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos."
+fecha: "2022-02-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública y la Ley N° 20.255, que establece reforma previsional."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00194121
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 57 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 57.- |"
 tags: [SII, 2015, circular]
+materia: "Facultad del Servicio para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares. Requerimiento de antecedentes con el fin de recabar información del contribuyente."
+fecha: "2015-06-26"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el artículo 59."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 57.-** |
 | --- | --- |

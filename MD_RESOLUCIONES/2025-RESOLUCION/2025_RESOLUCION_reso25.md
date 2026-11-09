@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2025)"
 description: "DEFINE ORGANIGRAMA DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2025, resolucion]
+materia: "RESOLUCIÓN EXENTA SII N°25."
+fecha: "2025-02-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N°20.285, de 2008, sobre acceso a la información pública", "en el Decreto con Fuerza de Ley N°7,, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Decreto Ley N°830 de 1974, que aprueba texto del Código Tributario y en el Decreto con Fuerza de Ley N°1 , de 2016, que fija planta de personal del Servicio de Impuestos Internos, todos del Ministerio de Hacienda", "lo dispuesto en las Resoluciones N°349 de 1984", "y lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República:"]
 ---
 
 Sii

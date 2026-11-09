@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 44 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 44.- 38-2017 ID 2-2017 SN |"
 tags: [SII, 2017, circular]
+materia: "Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al inciso 1° y párrafo segundo, del N° 2, del inciso 4°, del artícu"
+fecha: "2017-08-25"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: ["F50"]
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.956 de 2016", "y 59, inciso 1° e inciso 4°, N° 2, párrafo segundo, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 44.- 38-2017 ID 2-2017 SN** |
 | --- | --- |

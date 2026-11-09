@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2019)"
 description: "fecha 14 de enero de 2019, en el siguiente sentido:"
 tags: [SII, 2019, resolucion]
+materia: "CÓDIGO AÑO | TIPO | MARCAMODELOCILINDR. | | | COMB. | TRANS. TASACIÓN 2019 DICE | TASACIÓN 2019 DEBE DECIR | PERMISO 2019 DICE | PERMISO 2019 DEBE DECIR"
+fecha: "2019-01-14"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales"]
 ---
-
-
 
 fecha 14 de enero de 2019, en el siguiente sentido:
 

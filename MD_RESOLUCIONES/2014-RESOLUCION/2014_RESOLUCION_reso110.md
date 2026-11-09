@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+materia: "Establece la forma y procedimiento en que se hará efectiva la postergación del pago del Impuesto al Valor Agregado, establecida en el inciso tercero del artículo 64 del D.L. N° 825, de 1974."
+fecha: "2014-12-02"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1", "36 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos (SII), contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64, de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Decreto Ley 825, de 1974, modificado por el número 11 del artículo 2° de la Ley N° 20.780 de 2014, sobre Reforma Tributaria"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

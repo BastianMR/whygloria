@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 150 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA"
+fecha: "2026-10-28"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° letra A) N° 3 y 68 del Código Tributario, contenido en el artículo 1°, del D.L", "los artículos 1° y 7° letra b) de la Ley orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "la Ley N° 21.713", "la Ley N° 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado", "la Ley N° 19.628, sobre protección de la vida privada", "la Resolución N° 117, del 10.09.2025, que establece el procedimiento de acceso a la Interfaz de Programación de Aplicaciones (API), de Inicio de Actividades"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA

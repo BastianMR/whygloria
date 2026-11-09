@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2020)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 tags: [SII, 2020, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
+fecha: "2020-09-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo", "Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## MZR
 

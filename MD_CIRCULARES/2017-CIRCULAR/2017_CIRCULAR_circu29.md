@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 29 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS"
 tags: [SII, 2017, circular]
+materia: "Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, como consecuencia de la catást"
+fecha: "2017-05-19"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en el Decreto Supremo N° 104 de 1977", "Ley N° 20.444", "artículo 31, inciso 4° N° 3 de la Ley sobre Impuesto a la Renta", "artículo 79 de la Ley sobre Impuesto a las Ventas y Servicios", "artículo 97 N° 16 del Código Tributario", "y Decreto Supremo N° 716, de 13 de mayo de 2017, del Ministerio de Interior y Seguridad Pública."]
 ---
-
-
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS
 

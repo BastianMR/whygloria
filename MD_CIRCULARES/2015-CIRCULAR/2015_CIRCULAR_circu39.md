@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 39 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA | CIRCULAR N° 39.- |"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones sobre nuevo número 3° que se intercala en el artículo 165 del Código Tributario por la Ley N° 20.780. 6(12)"
+fecha: "2015-06-05"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Código Tributario, Artículo 165 N° 3", "Ley N° 20.780, Artículo 10."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA** | **CIRCULAR N° 39.-** |
 | --- | --- |

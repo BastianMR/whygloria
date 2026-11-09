@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fomento de la Producción."
+fecha: "2020-01-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública y el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

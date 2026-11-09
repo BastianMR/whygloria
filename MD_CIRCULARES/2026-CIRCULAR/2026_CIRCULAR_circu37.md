@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 37 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                    | CIRCULAR N° 37 ..."
 tags: [SII, 2026, circular]
+materia: "Tablas de impuesto único de segunda categoría para el mes de octubre de 2026 información adicional relacionada con dicho impuesto."
+fecha: "2026-09-11"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                    | CIRCULAR N° 37 396561.2026 GE                                                           |

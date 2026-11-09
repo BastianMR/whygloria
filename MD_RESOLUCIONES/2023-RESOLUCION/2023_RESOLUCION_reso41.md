@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2023, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos."
+fecha: "2023-03-31"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y letra ñ) del 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "la Ley N°18.575 y el artículo 35 del Código Tributario."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

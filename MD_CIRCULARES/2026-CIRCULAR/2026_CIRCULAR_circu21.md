@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 21 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos                                                                  ..."
 tags: [SII, 2026, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2026. Impuesto a la Renta, y artículos 53 y 97 Nº Código Tributario."
+fecha: "2026-05-25"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 84 y siguientes de la Ley sobre 11 del"]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos                                                                                                                                                                    | CIRCULAR Nº 21.- GE379386                                      |

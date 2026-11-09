@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2018, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y Servicio de Impuestos Internos."
+fecha: "2018-04-12"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública y la Ley N° 20.255, que establece reforma previsional."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

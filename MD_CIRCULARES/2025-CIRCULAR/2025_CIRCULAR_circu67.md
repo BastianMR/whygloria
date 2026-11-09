@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 67 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°67.- 356101.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo."
+fecha: "2025-12-10"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°67.- 356101.2025 GE** |
 | --- | --- |

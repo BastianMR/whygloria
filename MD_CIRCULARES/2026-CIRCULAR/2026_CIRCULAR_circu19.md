@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 19 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos                                                                                             ..."
 tags: [SII, 2026, circular]
+materia: "Imparte instrucciones sobre exención de IVA contenida en el nuevo N° 7 de la letra A del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios agregado por el artículo 90 de la Ley N° 21.806, aplicable a la venta de bienes usados realizada por instituciones de beneficencia y que provengan ex"
+fecha: "2026-05-12"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos                                                                                                                                                                                                                                                                                           | CIRCULAR N° 19 366674.2026 GE                                                                           |

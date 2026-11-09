@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°6 173745.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Informa nuevos límites máximos imponibles para efectos previsionales, vigentes para el año calendario 2021."
+fecha: "2021-01-20"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 2 y 3, de 2021, de la Superintendencia de Pensiones."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°6 173745.2021 GE** |
 | --- | --- |

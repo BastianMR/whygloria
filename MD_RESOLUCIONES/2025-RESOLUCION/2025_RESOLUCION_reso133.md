@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 133 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
+fecha: "2025-10-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L", "en la Resolución N° 117, del 10.09.2025, que establece los requisitos y procedimiento que deben cumplir las instituciones que requieran tener acceso a la API Inicio de Actividades"]
 ---
 
 |

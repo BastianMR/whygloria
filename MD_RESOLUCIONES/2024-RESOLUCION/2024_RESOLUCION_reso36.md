@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2024)"
 description: "ESTABLECE REQUISITOS RESPECTO DE LA INFORMACIÓN REGISTRADA EN LA SECCIÓN DE DETALLE DE LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS QUE INDICA."
 tags: [SII, 2024, resolucion]
+materia: "ESTABLECE REQUISITOS RESPECTO DE LA INFORMACIÓN REGISTRADA EN LA SECCIÓN DE DETALLE DE LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS QUE INDICA."
+fecha: "2024-03-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 8° bis N° 1 del Código Tributario, contenido en el Artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 2° N OS 1º y 2º, 9° letra a), 52 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.S", "las instrucciones impartidas por este Servicio en la Resolución Ex"]
 ---
-
-
 
 ESTABLECE REQUISITOS RESPECTO DE LA INFORMACIÓN REGISTRADA EN LA SECCIÓN DE DETALLE DE LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS QUE INDICA.
 

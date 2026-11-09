@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 27 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 27 043-2020 OGN |"
 tags: [SII, 2020, circular]
+materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2020, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
+fecha: "2020-04-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Art. 72 de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 27 043-2020 OGN** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 39 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 39 161-2018 ID 5-2018 SDN Circ. |"
 tags: [SII, 2018, circular]
+materia: "Complementa Circular N°54 del 2 de octubre de 2009 extendiendo el tratamiento tributario contenido en ella, a los pañales que presenten fallas o deterioros que produzcan una pérdida del valor comercial del producto y dificulten o hagan imposible su comercialización"
+fecha: "2018-07-13"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["artículo 30 y 31 N°3 de la Ley sobre Impuesto a la Renta", "artículo 23 N°1 de la Ley sobre Impuesto a las Ventas y Servicios."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 39 161-2018 ID 5-2018 SDN Circ.** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 7 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°07.- GE00304043 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre los artículos 62 y 62 bis del Código Tributario, modificados por la Ley Nº 21.713. Deja sin efecto la Circular N° 46 de 2010."
+fecha: "2025-01-16"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 62 y 62 bis del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°07.- GE00304043** |
 | --- | --- |

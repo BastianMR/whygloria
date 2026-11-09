@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 69 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmente sobre las normas rel"
+fecha: "2015-07-23"
+exenta: false
+impuestos: ["renta"]
+formularios: ["F22"]
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 2", "65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "artículo 2° del Decreto Ley N° 2.398 de 1978", "artículo 2° de la Ley N° 19.149", "artículo 2° de la Ley N° 18.392", "Artículo 23 del Decreto con Fuerza de Ley N° 341 de 1977", "artículo 2° de la Ley N° 19.709", "artículo 1° de la Ley N° 19.420", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
 ---
-
-
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 39 (2017)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 39 |"
 tags: [SII, 2017, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS AGOSTO 2017"
+fecha: "2017-07-28"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 39** |
 | --- | --- | --- |

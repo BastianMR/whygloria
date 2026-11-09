@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
+materia: "## AUTORIZA DELEGACIÓN DE FACULTAD QUE INDICA"
+fecha: "2015-02-13"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 167 del D.F.L", "en el artículo 43 de la Ley N° 18.575, Orgánica Constitucional Sobre Bases Generales de la Administración del Estado", "en los artículos 1°, 7° letras a), b) y j) y 20, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 SUBDIRECCIÓN DE AVALUACIONES
 

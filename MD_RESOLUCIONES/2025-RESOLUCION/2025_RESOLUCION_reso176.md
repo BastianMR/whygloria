@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 176 (2025)"
 description: "CREA REGISTRO ESPECIAL DE OPERADORES LOCALES DE PLATAFORMAS DIGITALES QUE INTERMEDIAN EN LA VENTA REMOTA DE BIENES DE BAJO VALOR Y FIJA PROCEDIMIENTO DE INSC..."
 tags: [SII, 2025, resolucion]
+materia: "CREA REGISTRO ESPECIAL DE OPERADORES LOCALES DE PLATAFORMAS DIGITALES QUE INTERMEDIAN EN LA VENTA REMOTA DE BIENES DE BAJO VALOR Y FIJA PROCEDIMIENTO DE INSCRIPCIÓN."
+fecha: "2025-12-10"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6° letra B N° 5 y 67 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en los artículos 2°, 3° bis, 4° y 12 letra B, N° 18 y 69 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en el artículo 3° de la Ley N° 21.713", "en las Circulares N° 39, modificada por la Circular N° 60, ambas de 2025", "y en la Resolución Conjunta Ex"]
 ---
 
 GE 351990

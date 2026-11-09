@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 26 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                           ..."
 tags: [SII, 2026, circular]
+materia: "Actualiza instrucciones sobre el recurso de reposición administrativa voluntaria, en conformidad con las modificaciones introducidas por la Ley N°21.713 al artículo 124 del Código Tributario. Modifica Circular N°12 de 2021. Deja sin efecto Circular N°23 de 2018."
+fecha: "2026-06-18"
+exenta: false
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 123 bis y 124 del Código Tributario, y artículo 51 bis del Decreto con Fuerza de Ley N°7 de 1980."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                                                                                                                                              | CIRCULAR N°26.- 373287.2026 GE                                                                                          |

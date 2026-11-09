@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 53 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 53.- |"
 tags: [SII, 2018, circular]
+materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE DICIEMBRE DEL AÑO 2018, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
+fecha: "2018-11-12"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 53.-** |
 | --- | --- |

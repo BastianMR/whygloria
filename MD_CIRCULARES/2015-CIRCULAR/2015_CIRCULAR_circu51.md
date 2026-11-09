@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 51 (2015)"
 description: "Complementada por Circular N° 25, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones sobre la obligación de los órganos que indica de remitir información financiera y de otro tipo al Servicio de Impuestos Internos conforme al nuevo artículo 84 bis del Código Tributario incorporado por la Ley N° 20.780."
+fecha: "2015-06-22"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N°20.780", "Artículo 84 bis del Código Tributario."]
 ---
-
-
 
 ## Complementada por Circular N° 25, del 3 de mayo de 2016
 

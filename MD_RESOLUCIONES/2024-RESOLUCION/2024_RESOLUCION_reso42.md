@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2024)"
 description: "MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA ..."
 tags: [SII, 2024, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAICES DE LA PRIMERA SERIE AGRÍCOLA, POR LA ACTUALIZACIÓN CATASTRAL, EN LO QUE INDICA."
+fecha: "2024-04-02"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 3°, 4°, 10° y 12° de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1 de 1998, del Ministerio de Hacienda, y lo instruido en la Resolución Exenta SII N° 150 de 2023, q"]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII N° 150, DE 28 DE DICIEMBRE DE 2023, QUE FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAICES DE LA PRIMERA SERIE AGRÍCOLA, POR LA ACTUALIZACIÓN CATASTRAL, EN LO QUE INDICA.
 

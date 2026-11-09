@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 31 (2017)"
 description: "Subdirección Emisora Subdirección de Fiscalización | Subdirección Emisora Subdirección de Fiscalización | CIRCULAR Nº 31.- |"
 tags: [SII, 2017, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante"
+fecha: "2017-05-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº 31.-** |
 | --- | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 20 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°20.- 317064.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2025 y el 9 de abril de 2025, ambos inclusive."
+fecha: "2025-03-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°20.- 317064.2025 GE** |
 | --- | --- |

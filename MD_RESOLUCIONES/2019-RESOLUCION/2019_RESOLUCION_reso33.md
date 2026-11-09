@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 134 - SDAC - 2018 77318540269"
 tags: [SII, 2019, resolucion]
+materia: "CORRIGE ERROR DE TRANSCRIPCIÓN EN RESOLUCIÓN EX. SII N° 26 DE 18.02.2019 QUE AUTORIZA IMPRESORA FISCAL MARCA EPSON, MODELO TM-T900FC, PARA EMITIR VALES QUE REEMPLACEN A LAS BOLETAS DE VENTAS Y SERVICIOS."
+fecha: "2019-02-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, letra A), N° 1 y Art. 92° Bis del Código Tributario, contenido en el Art. 1° del D.L", "la letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el Título XIII del D.S. del Ministerio de Hacienda N° 55, de 1977, que contiene el reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 134 - SDAC - 2018 77318540269
 

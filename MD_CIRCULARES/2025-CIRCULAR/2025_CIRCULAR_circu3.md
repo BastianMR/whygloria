@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°03 301676.2024 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Informa sobre modificación introducida por la letra c) del N° 14 del artículo 4 de la Ley N° 21.713 al artículo 152 de la Ordenanza de Aduanas, en materia de impuesto a las donaciones."
+fecha: "2025-01-09"
+exenta: false
+impuestos: ["renta", "iva", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°03 301676.2024 GE** |
 | --- | --- |

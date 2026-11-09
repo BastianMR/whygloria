@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 64 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre modificaciones introducidas al Código Tributario por las Leyes N° N°20.780 ' reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario ', y 20.720, que ' sustituye el régimen concursal vigente por una ley de reorganizac"
+fecha: "2015-07-13"
+exenta: false
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["EN LA LEY N°20.720."]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 36 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Asesoría Jurídica | CIRCULAR N°36 00317726.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre las normas incorporadas por la Ley N° 21.713 en el Código Tributario en materia de cooperación eficaz y denunciante anónimo."
+fecha: "2025-04-30"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículos 100 ter, 100 quáter y 100 quinquies del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Asesoría Jurídica** | **CIRCULAR N°36 00317726.2025 GE** |
 | --- | --- |

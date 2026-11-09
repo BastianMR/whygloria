@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2023)"
 description: "JLF/BOB Distribución"
 tags: [SII, 2023, resolucion]
+materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SAN MIGUEL."
+fecha: "2023-01-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

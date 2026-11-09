@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2023)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN GE234032 | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN GE234032 | CIRCULAR Nº 4 |"
 tags: [SII, 2023, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS FEBRERO 2023."
+fecha: "2023-01-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN GE234032** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN GE234032** | **CIRCULAR Nº 4** |
 | --- | --- | --- |

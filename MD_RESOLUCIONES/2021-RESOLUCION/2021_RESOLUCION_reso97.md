@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2021)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
+fecha: "2021-08-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

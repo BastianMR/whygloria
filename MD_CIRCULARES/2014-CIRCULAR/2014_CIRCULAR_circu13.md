@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 13 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 13 146-2012 ID 11-2013 SN Circ. |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre las modificaciones incorporadas por la Ley N° 20.630 de 2012, a los artículos 15, 17 N° 8, 31 N° 9 y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el N° 1, del artículo 5°, de la Ley N° 20.727, al inciso 2°, del N° 8, del artículo 17, de la misma Ley. 6(12)"
+fecha: "2014-03-07"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 15", "17 N° 8, letras a), b), e i), 31 N° 9 y 41, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012, y Ley N° 20.727, de 31 de enero de 2014."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 13 146-2012 ID 11-2013 SN Circ.** |
 | --- | --- |

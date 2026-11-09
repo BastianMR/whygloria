@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2022)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES GE224790"
 tags: [SII, 2022, resolucion]
+materia: "## DIRECCIÓN DE GRANDES CONTRIBUYENTES GE224790"
+fecha: "2022-10-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "en los artículos 2°, 3° bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "lo establecido en los artículos 6° letra A, Nº 1", "65 bis del Código Tributario, contenido en el Art. 1° del D.L"]
 ---
-
-
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES GE224790
 

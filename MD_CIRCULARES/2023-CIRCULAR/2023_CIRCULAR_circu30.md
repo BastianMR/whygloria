@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 30 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº30.- |"
 tags: [SII, 2023, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas Agosto de 2023. Modifica Circular Nº 27 de 2023."
+fecha: "2023-07-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº30.-** |
 | --- | --- |

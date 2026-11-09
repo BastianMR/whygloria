@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2021)"
 description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y..."
 tags: [SII, 2021, resolucion]
+materia: "AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y N° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÉRMINOS QUE INDICA."
+fecha: "2021-03-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 16, 17, 21, 33 bis, 35, 60 inciso 8°, 63 y 69 del Código Tributario, contenido en el artículo 1° del D.L", "la letra A) y N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L N°824, de 1974", "las disposiciones contenidas en la Ley N° 21.210 de 2020, Resoluciones Exentas SII N°s 97 y 98, ambas de fecha 28.08.2020 y N° 32, de 23.03.2021"]
 ---
-
-
 
 MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y N° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÉRMINOS QUE INDICA.
 

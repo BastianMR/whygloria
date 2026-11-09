@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2017)"
 description: "Anexo 1: Planos de precios de terrenos"
 tags: [SII, 2017, resolucion]
+materia: "## FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
+fecha: "2017-12-29"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°20.650, los Artículos 2°, 3°, 4° y 9° de la Ley N° 17.235, sobre Impuesto Territorial"]
 ---
-
-
 
 ## Anexos:
 

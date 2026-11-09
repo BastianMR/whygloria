@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE NUEVA DENOMINACIÓN A DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS"
+fecha: "2015-12-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL
 

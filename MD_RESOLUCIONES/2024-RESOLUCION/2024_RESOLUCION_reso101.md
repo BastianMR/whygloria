@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959"
+fecha: "2024-10-24"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 52 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en Decreto Ley N° 825 de 1974", "en los artículos 42, 68 bis y 74 N° 2 de La Ley sobre Impuesto a la Renta, contenida en al artículo 1° del Decreto Ley N° 824 de 1974", "en el artículo único N° 2 de la Ley N° 21.431", "en los artículos 152 quáter W y siguientes del Decreto con Fuerza de Ley N° 1 del Ministerio del Trabajo y Previsión Social, que fija el texto refundido, coordinado y sistematizado del Código del Trabajo", "y la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959
 

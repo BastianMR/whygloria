@@ -38,8 +38,13 @@ WhyGloria/
 ```
 
 Each document is an OKF markdown concept (`.md`) with frontmatter (`type`,
-`title`, `description`, `tags`), converted from the SII PDF of the same document
-number.
+`title`, `description`, `tags`) plus structured tax metadata (`materia`,
+`fecha`, `exenta`, `impuestos`, `formularios`, `regimen`, `ref_legal`),
+converted from the SII PDF of the same document number.
+
+<!-- Decision: markdown exists so AI agents and RAG pipelines can read the corpus
+     without PDF parsing or OCR. The PDFs stay as provenance, never as the
+     working copy. Rationale: ARCHITECTURE.md, "Why markdown". -->
 
 ## Validate
 

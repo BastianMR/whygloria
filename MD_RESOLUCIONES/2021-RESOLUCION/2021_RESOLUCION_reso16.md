@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2021)"
 description: "DESIGNA SECRETARIO GENERAL SUBROGANTE"
 tags: [SII, 2021, resolucion]
+materia: "## DESIGNA SECRETARIO GENERAL SUBROGANTE"
+fecha: "2021-02-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["las facultades que se me confieren en las letras c) y k) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980, lo establecido en el artículo 17 de la norma recién citada"]
 ---
-
-
 
 SECRETARIA GENERAL
 

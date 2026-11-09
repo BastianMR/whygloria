@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 39 (2022)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N° 39.- GE204576.2022 |"
 tags: [SII, 2022, circular]
+materia: "Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a los artículos 17 N° 6, 33 bis, 107 y 110 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974. Modifica Circulares N° 7 de 2002, N° 68 de 2010, N° 10 de 2012, N° 67 y N° 71 de 20"
+fecha: "2022-08-31"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["14A", "14B"]
+ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N° 39.- GE204576.2022** |
 | --- | --- |

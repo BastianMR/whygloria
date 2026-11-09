@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "## DÉJASE SIN EFECTO RESOLUCIÓN EXENTA SII N° 19, DEL 29 DE ENERO DE 2004."
+fecha: "2013-05-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en el artículo 6º letra A) Nº 1 del Código Tributario, contenido en el artículo 1º del D.L", "y lo dispuesto en el Título IV de la Ley N° 20.255, de 2008, del Ministerio del Trabajo y Previsión Social, y Subsecretaría de Previsión Social, que establece Reforma Previsional"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE DECLARACIÓN JURADA SIMPLE A PRESENTAR POR LOS CONTRIBUYENTES, PARA LA CESION DEL CRÉDITO POR GASTOS EN EDUCACIÓN, SEGÚN EL ARTÍCULO 55 TER DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2013-04-12"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "y el artículo 55 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 69 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 69.- |"
 tags: [SII, 2016, circular]
+materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE ENERO DEL AÑO 2017, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
+fecha: "2016-12-14"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 69.-** |
 | --- | --- |

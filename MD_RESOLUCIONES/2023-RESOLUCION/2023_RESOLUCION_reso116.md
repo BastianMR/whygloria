@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2023)"
 description: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2024."
 tags: [SII, 2023, resolucion]
+materia: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2024."
+fecha: "2023-10-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en letra A), Nº 1, del artículo 6º, y en los artículos 33 bis, 34, 35 y 60 del artículo 1º del D.L"]
 ---
-
-
 
 FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2024.
 

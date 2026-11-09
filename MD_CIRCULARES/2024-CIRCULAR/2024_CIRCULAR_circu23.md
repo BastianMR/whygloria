@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 23 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº23.- |"
 tags: [SII, 2024, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2024. sobre Impuesto a la Renta, y 11 del Código Tributario."
+fecha: "2024-05-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 88 y siguientes de la Ley artículos 53 y 97 Nº"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº23.-** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "REEMPLAZA ESTRUCTURA Y CONTENIDO DE DECLARACIONES JURADAS Y CERTIFICADOS QUE SE INDICAN."
+fecha: "2013-12-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en el N° 1, letra A), de los artículos 6°, 34, 35, 60 y 85 inciso 2°, del Código Tributario", "y las modificaciones legales introducidas por la Ley N° 20.630, que perfecciona la legislación tributaria y financia la reforma educacional, publicada en el Diario Oficial con fecha 27.09.2012", "las instrucciones contenidas en las Resoluciones Exentas SII N° 64, de 11 de enero de 1993, y sus modificaciones posteriores"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
 

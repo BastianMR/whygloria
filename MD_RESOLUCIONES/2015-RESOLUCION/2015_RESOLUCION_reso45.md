@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 45 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
+materia: "COMPLEMENTA RESOLUCIÓN QUE REVOCA LA FACULTAD DE DECIDIR LA INTERPOSICIÓN DE DENUNCIA O QUERELLA EN CASOS QUE INDICA."
+fecha: "2015-05-11"
+exenta: true
+impuestos: ["herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letra c), e), g), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "los artículos 6° letra A N°3 y 162, inciso tercero, todos del Código Tributario", "el artículo 41 de la ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL
 

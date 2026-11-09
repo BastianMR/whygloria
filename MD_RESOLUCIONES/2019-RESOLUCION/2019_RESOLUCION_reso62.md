@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2019)"
 description: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 241 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 62"
 tags: [SII, 2019, resolucion]
+materia: "I. MODIFICACIÓN AL TÍTULO XIV DEL LIBRO II DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, A LA RESOLUCIÓN EXENTA N° 40 DE 2019, DEL SERVICIO DE IMPUESTOS INTERNOS, Y A LA CIRCULAR CONJUNTA N° 4 DE LA TESORERÍA GENERAL DE LA REPÚBLICA."
+fecha: "2019-05-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la ley N° 21.133", "en el número 3 del artículo 94 y el artículo 92 A, ambos del D.L", "en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras"]
 ---
-
-
 
 Sii
 

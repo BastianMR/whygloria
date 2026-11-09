@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
+fecha: "2026-09-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["La Resolución Ex", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA

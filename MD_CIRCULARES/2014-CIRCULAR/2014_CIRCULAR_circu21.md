@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 21 (2014)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINADE REVISIÓN Y APOYO JURÍDICO ALAACTUACIÓN FISCALIZADORA | CIRCULAR Nº 21 |"
 tags: [SII, 2014, circular]
+materia: "Imparte instrucciones respecto del recurso de reposición del avalúo que formulen los contribuyentes y Municipalidades con motivo del proceso de retasación general o modificación individual de bienes raíces."
+fecha: "2014-04-04"
+exenta: false
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINADE REVISIÓN Y APOYO JURÍDICO ALAACTUACIÓN FISCALIZADORA** | **CIRCULAR Nº 21** |
 | --- | --- |

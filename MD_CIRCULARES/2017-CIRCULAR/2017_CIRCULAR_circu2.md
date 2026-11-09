@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 2 (2017)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES | CIRCULAR Nº 02.- |"
 tags: [SII, 2017, circular]
+materia: "Complementa instrucciones impartidas en las Circulares números 20 y 21, ambas del 4 de abril de 2014."
+fecha: "2017-01-11"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES** | **CIRCULAR Nº 02.-** |
 | --- | --- |

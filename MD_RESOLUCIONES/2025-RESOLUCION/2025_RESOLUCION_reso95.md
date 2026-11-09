@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00332900"
 tags: [SII, 2025, resolucion]
+materia: "ESTABLECE FORMA Y PERIODICIDAD PARA EL ENVÍO DE LA INFORMACIÓN QUE LAS MUNICIPALIDADES DEBEN ENTREGAR DE ACUERDO CON EL NUEVO RÉGIMEN DE FERIAS LIBRES CONFORME A LO DISPUESTO EN EL PÁRRAFO 7° TER DEL TÍTULO II DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
+fecha: "2025-07-31"
+exenta: true
+impuestos: ["iva", "patente-municipal"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A), N° s 1, 4, 87 y 102 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "artículos 4°bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "artículos 35 J a 35 Ñ del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, incorporados por la Ley N° 21.745, publicada en el Diario Oficial de 22 de mayo de 2025"]
 ---
 
 Sii

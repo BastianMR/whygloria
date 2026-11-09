@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2013, resolucion]
+materia: "MODIFICA RESOLUCIONES EXENTAS SII N° 114 DE 21 DE JULIO DE 2010 Y N° 153 DE 23 DE DICIEMBRE DE 2011."
+fecha: "2013-01-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA
 

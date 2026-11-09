@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 12 (2022)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 12.- GE00206449 |"
 tags: [SII, 2022, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS ABRIL 2022."
+fecha: "2022-01-16"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 12.- GE00206449** |
 | --- | --- | --- |

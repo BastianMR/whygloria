@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2018)"
 description: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018."
 tags: [SII, 2018, resolucion]
+materia: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018."
+fecha: "2018-04-30"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis, letras b) y q) del artículo 7° y artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 41 del D.F.L", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "en los artículos 2°, 3° y 51 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "Resolución Exenta SII N° 39 de 27.03.2008, modificada por Resoluciones Exentas SII N° 102, de 04.11.2014 y N° 55, de fecha 17.06.2016", "Resolución Exenta SII N° 20, de 28 de febrero de 2018"]
 ---
-
-
 
 DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018.
 

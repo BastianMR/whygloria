@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 38 (2015)"
 description: "Subdirección Emisora Subdirección de Fiscalización | Subdirección Emisora Subdirección de Fiscalización | CIRCULAR Nº 38.- |"
 tags: [SII, 2015, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante elAÑO 2015"
+fecha: "2015-06-02"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº 38.-** |
 | --- | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2021, resolucion]
+materia: "REGULA OBLIGACIÓN DE ENTREGAR POR MEDIOS ELECTRÓNICOS INFORMACIÓN RELATIVA A BIENES RAÍCES POR PARTE DE NOTARIOS, CONSERVADORES Y CONTRIBUYENTES EN RELACIÓN CON LA DETERMINACIÓN DEL IMPUESTO TERRITORIAL Y SOBRETASA."
+fecha: "2021-01-22"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A) numero 1°, del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "los artículos 10, 16 y 28 de la Ley N°17.235, sobre Impuesto Territorial", "y la Circular N° 7 y N° 28, de 2020, de este Servicio"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
+materia: "MODIFICA RES. EX. SII N° 21 DE 2021."
+fecha: "2022-02-08"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "en el artículo 3°, 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 1 y artículo 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974", "en la Ley N° 19.628 sobre Protección de la Vida Privada", "en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

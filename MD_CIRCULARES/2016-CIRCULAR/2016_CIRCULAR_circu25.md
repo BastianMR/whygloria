@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 25 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 25 .- |"
 tags: [SII, 2016, circular]
+materia: "ADECUA INSTRUCCIONES DE ACUERDO A LAS MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.899, QUE SIMPLIFICA EL SISTEMA DE TRIBUTACIÓN A LA RENTA Y PERFECCIONA OTRAS DISPOSICIONES LEGALES, A LOS ARTÍCULOS 75, 84 BIS Y 88 DEL CÓDIGO TRIBUTARIO.."
+fecha: "2016-05-03"
+exenta: false
+impuestos: ["renta", "iva", "timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 25
 

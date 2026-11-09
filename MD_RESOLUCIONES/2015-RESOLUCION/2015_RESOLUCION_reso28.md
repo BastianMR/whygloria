@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA TERRITORIOS JURISDICCIONALES DE LA XV Y XVI DIRECCIONES REGIONALES METROPOLITANAS SANTIAGO ORIENTE Y SUR Y CAMBIA DEPENDENCIA DE UNIDAD LA FLORIDA."
+fecha: "2015-03-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN
 

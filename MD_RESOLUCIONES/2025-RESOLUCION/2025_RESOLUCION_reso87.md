@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 87 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO ASESORÍA JURÍDICA GE00329734"
 tags: [SII, 2025, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EX. SII N°46 DE 2024 y MODIFICA RESOLUCIONES EX. SII N°128 DE 2024 y RESOLUCIÓN EX. SII N°7590, de 1999."
+fecha: "2025-07-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Artículo Primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 379 de 1991", "Resolución Ex SII N° 2.519, de 2016 ,la Resolución Exenta N° 46 de 2024, N° 128 de 2024 y N° 130 de 2024, todas ellas del Director del Servicio de Impuestos Internos", "y lo instruido en la Resolución N° 36, de 2024, de la Contraloría General de la República:"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO ASESORÍA JURÍDICA GE00329734

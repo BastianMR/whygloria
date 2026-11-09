@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2024)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2024, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+fecha: "2024-03-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo", "Resolución N° 6 de 26.03.2019, de la Contraloría General de la República"]
 ---
-
-
 
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
 

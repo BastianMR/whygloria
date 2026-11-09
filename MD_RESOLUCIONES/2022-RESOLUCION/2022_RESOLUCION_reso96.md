@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2022)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2022, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+fecha: "2022-10-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo", "Resolución N° 6 de 26.03.2019, de la Contraloría General de la República", "Decreto Exento RA N° 289/46/2020, de fecha 22.01.2020, con trámite de registro en la Contraloría General de la República, en la que consta la calidad de Director Subrogante del Servicio de Impuestos Internos."]
 ---
-
-
 
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
 

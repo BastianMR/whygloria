@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 42.- |"
 tags: [SII, 2016, circular]
+materia: "VIGENCIA Y APLICACIÓN DE LAS NORMAS ANTI ELUSIÓN ESTABLECIDAS EN LOS ARTÍCULOS 4° BIS, 4° TER, 4° QUÁTER, 4° QUINQUIES, 100 BIS, 119 Y 160 BIS DEL CÓDIGO TRIBUTARIO.."
+fecha: "2016-07-11"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 42.-** |
 | --- | --- |

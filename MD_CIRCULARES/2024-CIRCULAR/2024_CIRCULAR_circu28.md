@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 28 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°28.- 289351.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "Tablas de impuesto único de segunda categoría para el mes de agosto de 2024 e información adicional relacionada con dicho tributo."
+fecha: "2024-07-09"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°28.- 289351.2024 GE** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2018-12-14"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1°, 66, 68 y 69 del Código Tributario, contenido en el artículo 1°, del Decreto Ley N°830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 3° y 10°, del Decreto con Fuerza de Ley N°3, de 1969, del Ministerio de Hacienda, sobre Reglamento del Rol Único Tributario (en adelante RUT)", "la Ley N° 20.712, publicada en el Diario Oficial de 07.01.2014", "la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014, sobre Reforma Tributaria y la Ley N° 20.899, publicada el 08.02.2016, que modifica el Sistema de Tributación de la Renta e Introduce diversos ajustes en el Sistema Tributario", "Ley N° 21.000 que crea la Comisión para el Mercado Financiero", "las Circulares N°31, de 01.06.2007, complementada por la Circular N°7, de 22.01.2008 y por la Circular N°31, de 19.05.2014, que instruyen materias relativas a la obligación de Registro en el Rol Único Tributario e inicio de actividades", "la Circular N° 58, de 30.06.2015, que aborda las modificaciones al artículo 68 del Código Tributario efectuadas por la Ley N° 20.780, complementada por Circular N° 30, del 10.05.2016, que contempla las modificaciones introducidas por la Ley N° 20.899, de 8 de febrero de 2016", "la Circular N° 17, de 10.05.1995 y sus modificaciones, siendo la última de ellas, la Circular N° 28, del 17.05.2017", "la Resolución Exenta N° 55, del 30.09.2003, que instruyen sobre la obligatoriedad de dar aviso de cambios de información a este Servicio"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

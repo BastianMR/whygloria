@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "## REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA."
+fecha: "2014-03-18"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 4° bis del D.F.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

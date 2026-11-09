@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2024)"
 description: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS CONTENIDAS EN ..."
 tags: [SII, 2024, resolucion]
+materia: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS CONTENIDAS EN EL REGISTRO RAI, QUE ESTABLECE EL ARTÍCULO DÉCIMO Y UNDÉCIMO DE LA LEY N° 21.681. MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009"
+fecha: "2024-07-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 14 letra A) y D) N° 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el párrafo segundo del numeral i), letra a), N°1, del numeral I.- del artículo tercero de las disposiciones transitorias de la Ley N° 20.780", "en el artículo décimo y undécimo de la Ley N° 21.681", "y la Resolución Exenta SII N°27 del 25 de febrero del 2009."]
 ---
-
-
 
 ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS CONTENIDAS EN EL REGISTRO RAI, QUE ESTABLECE EL ARTÍCULO DÉCIMO Y UNDÉCIMO DE LA LEY N° 21.681. MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009
 

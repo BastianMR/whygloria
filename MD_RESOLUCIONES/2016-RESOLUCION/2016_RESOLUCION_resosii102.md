@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2016)"
 description: "MATERIA: DESIGNA REPRESENTANTE TITULAR Y ALTERNO DEL SERVICIO DE IMPUESTOS INTERNOS ANTE EL COMITÉ TÉCNICO PÚBLICO-PRIVADO DE EXPORTACIÓN DE SERVICIOS."
 tags: [SII, 2016, resolucion]
+materia: "DESIGNA REPRESENTANTE TITULAR Y ALTERNO DEL SERVICIO DE IMPUESTOS INTERNOS ANTE EL COMITÉ TÉCNICO PÚBLICO-PRIVADO DE EXPORTACIÓN DE SERVICIOS."
+fecha: "2016-10-24"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° y 7° letras i) y j) del D.F.L", "el Decreto N° 871, de 2016, del Ministerio de Hacienda y lo establecido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 MATERIA: DESIGNA REPRESENTANTE TITULAR Y ALTERNO DEL SERVICIO DE IMPUESTOS INTERNOS ANTE EL COMITÉ TÉCNICO PÚBLICO-PRIVADO DE EXPORTACIÓN DE SERVICIOS.
 

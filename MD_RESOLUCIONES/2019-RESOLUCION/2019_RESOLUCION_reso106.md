@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2019-09-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1, 34, 35, y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y siguientes, de la Ley Orgánica del Servicio de Impuestos Internos contenido en el artículo primero del D.F.L", "artículos 14 y 17 N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "los artículos segundo y tercero de las disposiciones transitorias de la Ley N° 20.780, sobre Reforma Tributaria", "la Resolución Exenta S.I.I"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

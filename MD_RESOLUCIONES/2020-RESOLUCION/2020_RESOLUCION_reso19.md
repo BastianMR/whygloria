@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE DECLARAR FORMULARIOS N°s 29 Y 50 A TRAVÉS DE INTERNET."
+fecha: "2020-02-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6° letra A), N°1 y 30 del Código Tributario, contenido en artículo 1° del D.L", "lo establecido en los artículos 1°, 4° bis, y 7° letra b) del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

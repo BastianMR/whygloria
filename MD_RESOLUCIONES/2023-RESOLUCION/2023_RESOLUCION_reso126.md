@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2023)"
 description: "SUBDIRECCIÓN ASUNTOS CORPORATIVOS Oficina de Transparencia y Acceso a la Información"
 tags: [SII, 2023, resolucion]
+materia: "APRUEBA NORMA GENERAL DE PARTICIPACION CIUDADANA DEL SERVICIO DE IMPUESTOS INTERNOS Y DEJA SIN EFECTO LA RESOLUCIÓN EXENTA SII N° 33, DE 2015."
+fecha: "2023-11-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Instructivo Presidencial para la Participación Ciudadana en la Gestión Pública N° 007, de 18 de Agosto de 2022, en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011, sobre Asociaciones y Participación Ciudadana en la Gestión Pública", "la Ley N° 20.285, de 2008, sobre Acceso a la Información Pública, del Ministerio Secretaria General de Gobierno"]
 ---
-
-
 
 ## SUBDIRECCIÓN ASUNTOS CORPORATIVOS Oficina de Transparencia y Acceso a la Información
 

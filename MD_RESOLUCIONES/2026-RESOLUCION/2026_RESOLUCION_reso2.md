@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2026)"
 description: "IMPLEMENTA FIRMA DIGITAL CENTRALIZADA PARA LA EMISIÓN DE BOLETAS ELECTRÓNICAS A TRAVÉS DEL SISTEMA GRATUITO DEL SII"
 tags: [SII, 2026, resolucion]
+materia: "IMPLEMENTA FIRMA DIGITAL CENTRALIZADA PARA LA EMISIÓN DE BOLETAS ELECTRÓNICAS A TRAVÉS DEL SISTEMA GRATUITO DEL SII"
+fecha: "2026-01-07"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que confieren los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6º letra A) Nº 1, 97 y 109 del Código Tributario, contenido en el artículo 1º del D.L", "los artículos 53, 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.S", "la Ley Nº 21.256, de 2020, que Establece Medidas Tributarias para la Reactivación", "las Resoluciones Ex"]
 ---
 
 IMPLEMENTA FIRMA DIGITAL CENTRALIZADA PARA LA EMISIÓN DE BOLETAS ELECTRÓNICAS A TRAVÉS DEL SISTEMA GRATUITO DEL SII

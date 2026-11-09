@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+materia: "OTORGA POR UNA SOLA VEZ EL PLAZO QUE SE INDICA PARA INFORMAR AL SII DE LAS MODIFICACIONES RELACIONADAS CON LA ACTUALIZACIÓN DE LOS SOCIOS Y COMUNEROS; Y EL PORCENTAJE DE PARTICIPACIÓN EN EL CAPITAL Y/O UTILIDADES."
+fecha: "2016-06-15"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el inciso final del artículo 68 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

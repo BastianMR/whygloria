@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 70 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 70.- 43-2015 ID 10-2015 SN |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, ambos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017 y reemplaza dos ejemplos contenidos en la Circ"
+fecha: "2015-07-23"
+exenta: false
+impuestos: ["renta", "iva", "herencias", "territorial", "segunda-categoria"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 17 N°s 5, 6 y 8, 18, y 41 inciso 1°, N°s 8 y 9, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974, y Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 70.- 43-2015 ID 10-2015 SN** |
 | --- | --- |

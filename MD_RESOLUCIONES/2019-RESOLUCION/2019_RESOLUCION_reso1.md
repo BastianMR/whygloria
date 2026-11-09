@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2019)"
 description: "OFICINA DE ASISTENCIA Y EDUCACIÓN AL"
 tags: [SII, 2019, resolucion]
+materia: "INCORPÓRASE A FACTORING SECURITY S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
+fecha: "2019-01-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L", "y la Resolución N° 80, del 12.08.2016, , que establece los requisitos que deben cumplir las entidades que se indican para ser receptoras de la 'carpeta tributaria electrónica' y delega facultades"]
 ---
-
-
 
 ## OFICINA DE ASISTENCIA Y EDUCACIÓN AL
 

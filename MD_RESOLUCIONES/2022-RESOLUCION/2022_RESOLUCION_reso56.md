@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
+materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CHILLÁN."
+fecha: "2022-06-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

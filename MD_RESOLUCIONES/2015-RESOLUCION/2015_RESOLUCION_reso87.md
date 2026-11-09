@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 87 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA RESOLUCIONES EXENTAS N°s 1 y 83, AMBAS DE 2015, QUE ESTABLECEN LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EXTRANJERO CONTENIDO EN EL ARTÍCULO VIGESIMOCUARTO TRANSITORIO DE LA LEY N° 20.780 PUBLICADA EN EL DIARIO OFICIAL DE 29 DE SEPTIEMBRE DE 2014."
+fecha: "2015-11-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "las Resoluciones Ex"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN
 

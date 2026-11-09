@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2026)"
 description: "CREA REGISTRO ESPECIAL DE INSTITUCIONES DE BENEFICENCIA VENDEDORAS DE BIENES USADOS Y FIJA PROCEDIMIENTO DE INSCRIPCIÓN."
 tags: [SII, 2026, resolucion]
+materia: "CREA REGISTRO ESPECIAL DE INSTITUCIONES DE BENEFICENCIA VENDEDORAS DE BIENES USADOS Y FIJA PROCEDIMIENTO DE INSCRIPCIÓN."
+fecha: "2026-06-05"
+exenta: true
+impuestos: ["iva", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 90 de la Ley N° 21.806", "en el artículo 6° letra A N° 1 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en el artículo 18 de la Ley N° 16.271", "en el artículo 2° numerales 1 y 3, 3°, 10, 12 Letra A, 52, 53, 54 y 55 de la Ley sobre Impuestos a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "y lo dispuesto en la Circular N° 19 de 2026"]
 ---
 
 GE 369269

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00323232"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00323232"
+fecha: "2025-06-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N°1, artículo 11°, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N°7 de 1980 del Ministerio de Hacienda", "artículo único de la Ley N°21.713 y lo instruido en la Circular SII N°35 de 2025."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00323232

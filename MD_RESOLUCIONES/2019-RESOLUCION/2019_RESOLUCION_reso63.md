@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 117-SDAC-2019"
 tags: [SII, 2019, resolucion]
+materia: "MODIFICA RES. EX. N° 5856 DEL 6 DE OCTUBRE DE 1998 QUE ELIMINA OTORGAMIENTO DE BOLETAS DE HONORARIOS POR PROFESIONALES Y SOCIEDADES DE PROFESIONALES AL FONDO NACIONAL DE SALUD."
+fecha: "2019-05-17"
+exenta: false
+impuestos: ["segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los Artículos 6° letra A N°1, del Código Tributario, contenido en el D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 117-SDAC-2019
 

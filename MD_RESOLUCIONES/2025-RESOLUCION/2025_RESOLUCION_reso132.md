@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2025)"
 description: "RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 tags: [SII, 2025, resolucion]
+materia: "## RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
+fecha: "2025-10-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, Hacienda", "en el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales", "y lo instruido en la Circular N°15 de 2020", "en las Resoluciones Ex"]
 ---
 
 ## RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025.

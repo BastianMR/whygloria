@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2019)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 3.- |"
 tags: [SII, 2019, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS FEBRERO 2019."
+fecha: "2019-01-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 3.-** |
 | --- | --- | --- |

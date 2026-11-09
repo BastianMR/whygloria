@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 43.- |"
 tags: [SII, 2018, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año"
+fecha: "2018-08-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 43.-** |
 | --- | --- |

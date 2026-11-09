@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2023)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN."
 tags: [SII, 2023, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN."
+fecha: "2023-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "la Ley N° 20.899 que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias", "la Ley N° 21.210 que moderniza la legislación tributaria", "la Ley N° 21.309 que establece beneficio que indica para los afiliados y pensionados calificados como enfermos terminales", "la Ley N° 21.419 que crea la pensión garantizada universal y modifica los cuerpos legales que indica", "la Ley N° 21.420 que reduce o elimina exenciones tributarias que indica", "la Ley Nº 21.484 de 2022, sobre responsabilidad parental y pago efectivo de deudas de pensiones de alimentos", "la Ley N° 21.462 que modifica la ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "la Ley N° 21.558 que modifica diversos cuerpos normativos para adecuarlos al plan de emergencia habitacional y facilitar la ejecución de obras urbanas"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN.
 

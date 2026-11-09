@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE222050"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Subsecretaría del Trabajo."
+fecha: "2022-11-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública", "lo dispuesto en el artículo 4° de Decreto con Fuerza de Ley N° 1, de 1967, del Ministerio del Trabajo y Previsión Social", "la Resolución Exenta N° 260 de 28 de febrero de 2019, que aprueba Definiciones Estratégicas Subsecretaría del Trabajo"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE222050
 

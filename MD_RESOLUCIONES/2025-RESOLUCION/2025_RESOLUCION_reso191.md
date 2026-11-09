@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 191 (2025)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE00345265"
 tags: [SII, 2025, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N°106, DE 02 DE SEPTIEMBRE DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
+fecha: "2025-12-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en los artículos 3°, las letras a), c) y ñ) del artículo 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "lo dispuesto en la Resolución Exenta Nº 349 de 1984 y sus modificaciones, la Resolución N° 379 de 1991 y sus modificaciones, la Resolución Exenta N° 106 de 2021, la Resolución Exenta N° 148 de 2023, la Resolución Exenta N° 111 de 2024 y lo dispuesto en la Resolución N°36 de 2024, de la Contraloría G"]
 ---
 
 SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE00345265

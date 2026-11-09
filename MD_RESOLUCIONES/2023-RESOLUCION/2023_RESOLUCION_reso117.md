@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2023)"
 description: "DISPONE LA EJECUCIÓN DE ACCIONES DE TRATAMIENTO EN LAS DIRECCIONES REGIONALES QUE SE INDICAN."
 tags: [SII, 2023, resolucion]
+materia: "## DISPONE LA EJECUCIÓN DE ACCIONES DE TRATAMIENTO EN LAS DIRECCIONES REGIONALES QUE SE INDICAN."
+fecha: "2023-10-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, y los artículos 8, 33, 59, 60 y 65 bis, del Código Tributario, contenido en el artículo 1º del Decreto Ley N° 830 de 1974", "en los artículos 1º, 4 bis, 7º, 9º y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "en los artículos 2, 3, 5, 8 y 13 la Ley N° 18.575 de 1986, Orgánica Constitucional sobre Bases de la Administración del Estado"]
 ---
-
-
 
 ## DISPONE LA EJECUCIÓN DE ACCIONES DE TRATAMIENTO EN LAS DIRECCIONES REGIONALES QUE SE INDICAN.
 

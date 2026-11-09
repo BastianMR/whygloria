@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2017)"
 description: "MATERIA: ESTABLECE PROCEDIMIENTO PARA SOLICITAR CONDONACIÓN DE LOS IMPUESTOS QUE GRAVEN LOS PAGOS O REMESAS REALIZADOS AL EXTERIOR, CONFORME A LO DISPUESTO E..."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR CONDONACIÓN DE LOS IMPUESTOS QUE GRAVEN LOS PAGOS O REMESAS REALIZADOS AL EXTERIOR, CONFORME A LO DISPUESTO EN EL DECRETO N° 100, DE 1 FEBRERO DE 2017, DEL MINISTERIO DE HACIENDA."
+fecha: "2017-02-14"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4 bis y 7° del artículo primero D.F.L", "artículos 3°, 59, 60 inciso primero, 74 N° 4, 75, 79, 82 y 83 de la Ley sobre Impuesto a la Renta", "lo previsto en el artículo 19 de la Ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado", "lo dispuesto en el artículo 3° de la Ley N° 16.282, que Fija Disposiciones para casos de Sismos o Catástrofes, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto N° 104 de 1977, del Ministerio del Interior", "y el Decreto N° 100, de 01 de febrero de 2017, del Ministerio de Hacienda, publicado en el Diario Oficial de 4 de febrero del mismo año"]
 ---
-
-
 
 MATERIA: ESTABLECE PROCEDIMIENTO PARA SOLICITAR CONDONACIÓN DE LOS IMPUESTOS QUE GRAVEN LOS PAGOS O REMESAS REALIZADOS AL EXTERIOR, CONFORME A LO DISPUESTO EN EL DECRETO N° 100, DE 1 FEBRERO DE 2017, DEL MINISTERIO DE HACIENDA.
 

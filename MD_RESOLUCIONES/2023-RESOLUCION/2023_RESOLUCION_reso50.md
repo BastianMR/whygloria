@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917"
+fecha: "2023-04-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda", "el artículo 41 de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.880 que Establece Bases de los Procedimientos Administrativos que rigen los actos de la Administración del Estado", "la Resolución Exenta SII N°24, de 08.03.2023, que Aprueba política institucional de igualdad de género y conciliación de la vida laboral, familiar y personal del Servicio de Impuestos Internos", "lo dispuesto en la Resolución N°6, de 2019, de la Contraloría General de la República que fija normas sobre exención del trámite de toma de razón"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917
 

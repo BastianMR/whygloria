@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 49 (2014)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 49.- |"
 tags: [SII, 2014, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS OCTUBRE 2014"
+fecha: "2014-09-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 49.-** |
 | --- | --- | --- |

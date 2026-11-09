@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2017-03-28"
+exenta: true
+impuestos: ["renta"]
+formularios: ["F22"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 30, 34, 35, 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo tercero de las disposiciones transitorias de la Ley N° 20.780, sobre Reforma Tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, modificada por la Ley N° 20.899, que simplifica el sistema de tributación a la"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "## TÉNGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA A LOS CONTRIBUYENTES QUE SE INDICAN."
+fecha: "2014-01-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Letra A), Nº 1 y Art. 69, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

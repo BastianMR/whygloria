@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2014)"
 description: "DEPARTAMENTO EMISOR | CIRCULAR N°: 6.- |"
 tags: [SII, 2014, circular]
+materia: "NORMA APLICACIÓN DE AJUSTES AL AVALÚO DE TERRENO A CASOS PARTICULARES DE BIENES RAÍCES NO AGRÍCOLAS HABITACIONALES, ESTACIONAMIENTOS Y BODEGAS ACOGIDOS A COPROPIEDAD INMOBILIARIA, SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS REAVALUADOS."
+fecha: "2014-01-30"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR** | **CIRCULAR N°: 6.-** |
 | --- | --- |

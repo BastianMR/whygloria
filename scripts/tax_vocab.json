@@ -1,0 +1,101 @@
+{
+  "_comment": "Controlled vocabularies for the structured tax metadata in concept frontmatter. Data, not code: review edits here as a diff. Keywords are case-insensitive regular expressions applied to the concept body.",
+  "impuestos": {
+    "values": [
+      "renta",
+      "iva",
+      "timbres",
+      "herencias",
+      "territorial",
+      "iec",
+      "segunda-categoria",
+      "contribuciones",
+      "patente-municipal",
+      "otro"
+    ],
+    "keywords": {
+      "renta": [
+        "impuesto a la renta",
+        "ley sobre impuesto a la renta",
+        "ley de la renta",
+        "renta líquida imponible",
+        "impuesto de primera categoría",
+        "renta afecta"
+      ],
+      "iva": [
+        "impuesto al valor agregado",
+        "\\biva\\b",
+        "impuesto a las ventas y servicios",
+        "decreto ley n[°º]?\\s*825",
+        "d\\.?l\\.? n[°º]?\\s*825"
+      ],
+      "timbres": [
+        "impuesto de timbres",
+        "timbres y estampillas",
+        "\\btimbres\\b"
+      ],
+      "herencias": [
+        "impuesto a las herencias",
+        "asignaciones y donaciones",
+        "ley n[°º]?\\s*16\\.?271"
+      ],
+      "territorial": [
+        "impuesto territorial",
+        "ley n[°º]?\\s*17\\.?235",
+        "\\b17\\.?235\\b"
+      ],
+      "iec": [
+        "impuesto específico a los combustibles",
+        "impuesto específico al alcohol",
+        "impuestos específicos",
+        "\\biec\\b"
+      ],
+      "segunda-categoria": [
+        "segunda categoría",
+        "segunda categoria"
+      ],
+      "contribuciones": [
+        "contribuciones de bienes raíces",
+        "contribuciones de bienes raices",
+        "\\bcontribuciones\\b"
+      ],
+      "patente-municipal": [
+        "patente municipal",
+        "patentes municipales"
+      ],
+      "otro": []
+    }
+  },
+  "regimen": {
+    "values": [
+      "14A",
+      "14B",
+      "14D1",
+      "14D2",
+      "14D3",
+      "14D8",
+      "renta-presunta",
+      "pre-2020",
+      "no-aplica"
+    ],
+    "_comment": "pre-2020 is never inferred: it is only set by hand when a document predates the 2020 reform and does not name a regime. no-aplica means no regime is named in the body.",
+    "patterns": {
+      "14A": ["\\b14\\s*[Aa]\\b", "artículo 14 letra a"],
+      "14B": ["\\b14\\s*[Bb]\\b", "artículo 14 letra b"],
+      "14D1": ["\\b14\\s*[Dd]\\s*(?:n[°º.]?\\s*)?1\\b"],
+      "14D2": ["\\b14\\s*[Dd]\\s*(?:n[°º.]?\\s*)?2\\b"],
+      "14D3": ["\\b14\\s*[Dd]\\s*(?:n[°º.]?\\s*)?3\\b"],
+      "14D8": ["\\b14\\s*[Dd]\\s*(?:n[°º.]?\\s*)?8\\b"],
+      "renta-presunta": ["renta presunta"]
+    }
+  },
+  "formularios": {
+    "_comment": "Open set: SII adds forms every year, so items are validated by shape instead of a closed enum. observed_f lists the F numbers that actually appear in this corpus; a new one must be added here on purpose.",
+    "pattern": "^(F\\d{2,3}|DJ\\d{4})$",
+    "observed_f": ["F22", "F29", "F50", "F129", "F24", "F21", "F45", "F12"]
+  },
+  "ref_legal": {
+    "_comment": "A citation is kept as the document writes it. This pattern only rejects prose that slipped in.",
+    "pattern": "(art|ley|d\\.\\s?l|dfl|decreto|c[oó]digo|resoluci[oó]n|res\\.?\\s*ex|circular)"
+  }
+}

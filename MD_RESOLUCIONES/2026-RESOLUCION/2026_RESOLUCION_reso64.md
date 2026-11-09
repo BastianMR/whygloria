@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2026)"
 description: "SUBDIRECCIÓN JURÍDICA OFICINA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN GE00375644"
 tags: [SII, 2026, resolucion]
+materia: "Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin e"
+fecha: "2026-04-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios", "en el Decreto Supremo N°71 de 2014, del Ministerio Secretaría General de la Presidencia, Reglamento de la Ley N°20.730, que \"Regula el Lobby y las Gestiones que representen intereses particulares ante las Autoridades y Funcionarios de la Administración del Estado\"", "en el artículo 7°, letras c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 31 inciso 2°, de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L", "la Resolución N°36, de 2024, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA OFICINA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN GE00375644

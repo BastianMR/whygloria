@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00235752"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00235752"
+fecha: "2023-01-27"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1 y 36, ambos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos trigésimo segundo, trigésimo octavo transitorio y trigésimo octavo transitorio bis de la Ley N° 21.210, que moderniza la Legislación Tributaria", "lo instruido en la Circular N° 55 de 2021"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00235752
 

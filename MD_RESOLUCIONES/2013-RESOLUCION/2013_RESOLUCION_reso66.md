@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR AUTORIZACIÓN DE MÉTODO DE PRORRATEO O ASIGNACIÓN DE COSTOS, GASTOS Y/O DESEMBOLSOS DE UTILIZACIÓN COMÚN DESTINADOS A PRODUCIR INGRESOS AFECTOS AL RÉGIMEN GENERAL DE PRIMERA CATEGORÍA, RENTAS EXENTAS, INGRESOS NO RENTA O INGRESOS AFECTOS A IMPUESTO ÚNICO DE PRIMERA CATEGORÍA, DISTINTO AL ESTABLECIDO EN LA CIRCULAR N° 68, DE 2010."
+fecha: "2013-06-21"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1, 21, 27, 35 inciso primero, 60 incisos primero y segundo, y 63 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en los artículos 14, 17 N° 8, 21, 31 y 33, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las instrucciones impartidas por este Servicio, a través de la Circular N° 68, de 03 de noviembre de 2010"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS
 

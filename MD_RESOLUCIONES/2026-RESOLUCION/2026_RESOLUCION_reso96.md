@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2026)"
 description: "Anexo N°1: Lista que complementa valores de automóviles y otros vehículos motorizados usados 2026, en el sitio web sii.cl, Servicios online, Tasación fiscal ..."
 tags: [SII, 2026, resolucion]
+materia: "## COMPLEMENTA Y RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 6 DE 2026."
+fecha: "2026-07-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 12, letra a), del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales", "y lo instruido en la Circular N°15 de 2000", "en las Resoluciones Ex"]
 ---
 
 ## Anexos:

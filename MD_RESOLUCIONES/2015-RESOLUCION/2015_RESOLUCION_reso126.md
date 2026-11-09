@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2015-12-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario", "en el artículo 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos", "en los artículos 20 N°1, letra b), 34 y 34 bis de la Ley sobre Impuesto a la Renta, según su texto vigente hasta el 31 de diciembre de 2015", "en la Ley N°20.780 publicada en el Diario Oficial con fecha 29.09.2014", "y en la Circular N° 37, de 28.05.2015 de este Servicio"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

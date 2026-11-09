@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 29 (2018)"
 description: "Subdirección Emisora Subdirección de Fiscalización | Subdirección Emisora Subdirección de Fiscalización | CIRCULAR Nº 29 |"
 tags: [SII, 2018, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante"
+fecha: "2018-05-18"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº 29** |
 | --- | --- | --- |

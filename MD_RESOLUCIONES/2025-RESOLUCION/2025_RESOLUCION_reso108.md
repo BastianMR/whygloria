@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2025-08-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A, N° 1, 33 bis, N° 2, letra B y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley N°21.713, publicada en el Diario Oficial de fecha 24.10.2024, y que, entre otros, incorporó modificaciones a la letra B del N° 2 del artículo 33 bis del Código Tributario, la Circular N°19 de fecha 06.03.2025, y la Resolución Exenta SII N° 125 de fecha 30.09.2020"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

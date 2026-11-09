@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 79-SDAC-2019 77319748081"
 tags: [SII, 2019, resolucion]
+materia: "AUTORIZA AL CONTRIBUYENTE SABORES CARD SPA., RUT N° 76.969.846-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
+fecha: "2019-04-17"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Ex", "y en las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 79-SDAC-2019 77319748081
 

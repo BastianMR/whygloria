@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2020)"
 description: "MODIFICA RESOLUCIÓN EX. SII Nº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA Nº 1933 POR LOS MANDATARIOS ENCAR..."
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII Nº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA Nº 1933 POR LOS MANDATARIOS ENCARGADOS DE GESTIONAR EL MANDATO ESPECIAL DE ADMINISTRACIÓN DE CARTERA DE VALORES ESTABLECIDO EN LA LEY Nº 20.880."
+fecha: "2020-09-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 97 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 24, 25, 26, 28, 36 y 1° transitorio de la Ley N° 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses", "en el Decreto N° 2, de 2016, del Ministerio Secretaria General de la Presidencia, que contiene Reglamento de la Ley N° 20.880", "la Ley Nº 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de fecha 24 de febrero de 2020 y la Resolución Ex"]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII Nº 124 DE 26 DE DICIEMBRE DE 2016 QUE ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA Nº 1933 POR LOS MANDATARIOS ENCARGADOS DE GESTIONAR EL MANDATO ESPECIAL DE ADMINISTRACIÓN DE CARTERA DE VALORES ESTABLECIDO EN LA LEY Nº 20.880.
 

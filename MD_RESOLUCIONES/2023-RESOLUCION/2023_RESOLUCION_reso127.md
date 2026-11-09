@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+materia: "INSTRUYE SOBRE PRESENTACIÓN DE DECLARACIÓN DE IMPUESTOS FORMULARIO 29 FUERA DE PLAZO A TRAVÉS DE INTERNET."
+fecha: "2023-11-13"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 36 y 39, todos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS
 

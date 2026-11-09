@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 10 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 10.- 17.2014 SN 136.2014 ID |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones a la Ley sobre Impuesto a la Renta que se indican, efectuadas por la Ley N° 20.780 y que rigen a contar del 1° de enero de 2015. 6(12)00"
+fecha: "2015-01-30"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos segundo, numerales 1)", "10) y 11), y tercero, numeral I.-, N°s 4.-, 7.-, y 8.-, ambos de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, y Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 10.- 17.2014 SN 136.2014 ID** |
 | --- | --- |

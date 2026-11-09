@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 41 (2014)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 41.- |"
 tags: [SII, 2014, circular]
+materia: "COMPLEMENTA CIRCULAR N° 20, DE 2014, RESPECTO DE LA REBAJA DEL IMPUESTO TERRITORIAL CORRESPONDIENTE A PROPIEDADES DE ADULTOS MAYORES VULNERABLES ECONÓMICAMENTE."
+fecha: "2014-07-21"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 41.-** |
 | --- | --- |

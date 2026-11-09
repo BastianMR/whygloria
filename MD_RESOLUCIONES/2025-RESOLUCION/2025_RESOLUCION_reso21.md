@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
+fecha: "2025-02-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A) Nº 1, y letra B) N o 5 y 11, y en los artículos 8 N°14 y N°18, 8 bis, 33, 59, 59 ter y 68 del Código Tributario", "en los artículos 1º, 4 bis, 7º, 9º y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley Nº 7, de Hacienda, de 1980", "en las modificaciones introducidas al Código Tributario por el artículo 1° N o 21, 28 y 29 de la Ley 21.713 de 2024, la Circular N° 06 de 2025, Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

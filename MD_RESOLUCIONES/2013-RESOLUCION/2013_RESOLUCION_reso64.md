@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 89, DEL 16.08.2012, QUE AUTORIZA EXCEPCIONALMENTE EL REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS POR EL COMPROBANTE EMITIDO POR LA EMPRESA TRANSBANK S.A. A CONTRIBUYENTES QUE INDICA."
+fecha: "2013-06-20"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, letra A, N° 1", "Artículos 88 y 97 N°s 10 y 19 del Código Tributario, contenido en el Artículo Primero del D.L", "en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "9° letra a), 55°, 56° y 58° de la Ley sobre Impuesto a las Ventas y Servicios", "la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

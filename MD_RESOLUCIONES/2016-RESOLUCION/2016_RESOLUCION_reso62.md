@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2016)"
 description: "MATERIA: CREA DEPARTAMENTO DE ADMINISTRACIÓN EN LA XVIII DIRECCIÓN REGIONAL, ARICA; EN LA X DIRECCIÓN REGIONAL, PUERTO MONTT, EN LA XI DIRECCIÓN REGIONAL, CO..."
 tags: [SII, 2016, resolucion]
+materia: "CREA DEPARTAMENTO DE ADMINISTRACIÓN EN LA XVIII DIRECCIÓN REGIONAL, ARICA; EN LA X DIRECCIÓN REGIONAL, PUERTO MONTT, EN LA XI DIRECCIÓN REGIONAL, COYHAIQUE Y EN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES Y SUPRIME OFICINAS DE ADMINISTRACIÓN DE ESAS DEPENDENCIAS."
+fecha: "2016-06-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 4° y en las letras c), h) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, Decreto con Fuerza de Ley N° 1, de 2016, del Ministerio de Hacienda, que fija la plan", "la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "las Resoluciones Exentas N° 1.039, de 30.09.2004", "EX SIIPERS N° 10.090, de 31.07.2008, todas del Servicio de Impuestos Internos y lo establecido en la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 MATERIA: CREA DEPARTAMENTO DE ADMINISTRACIÓN EN LA XVIII DIRECCIÓN REGIONAL, ARICA; EN LA X DIRECCIÓN REGIONAL, PUERTO MONTT, EN LA XI DIRECCIÓN REGIONAL, COYHAIQUE Y EN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES Y SUPRIME OFICINAS DE ADMINISTRACIÓN DE ESAS DEPENDENCIAS.
 

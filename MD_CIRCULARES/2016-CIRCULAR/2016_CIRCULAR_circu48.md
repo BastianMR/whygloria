@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 48 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 48.- 18.2016 ID 08.2016 SN |"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014 y Ley N° 20.899 de 2016 a los artículos 41 A, 41 B, y 41 C, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Y, créditos por impuesto pagado en el extranjero sobre rentas pasivas, conforme al ar"
+fecha: "2016-07-12"
+exenta: false
+impuestos: ["renta", "territorial", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780 de 29 de septiembre de 2014", "Ley N° 20.899 de 8 de febrero de 2016 y artículos 41 A, 41 B, 41 C, y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 48.- 18.2016 ID 08.2016 SN** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2021)"
 description: "Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en ..."
 tags: [SII, 2021, resolucion]
+materia: ""
+fecha: "2021-03-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14B"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6° letra A N° 1, 16, 17, 21, 69 y 35 del Código Tributario, contenido en el artículo 1° del D.L", "en la letra A), D) y G) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en los artículos transitorios décimo, undécimo, décimo sexto, décimo séptimo y vigésimo séptimo de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
 ---
-
-
 
 Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en el N°3 de la Letra D) del Artículo 14 de la Ley sobre Impuesto a la Renta, vigente a partir del 01 de enero de 2020.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2023)"
 description: "SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678"
+fecha: "2023-03-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 6° letra A), Nº 1, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L", "en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'", "en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678
 

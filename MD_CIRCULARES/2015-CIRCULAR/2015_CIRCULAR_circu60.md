@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 60 (2015)"
 description: "DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES | CIRCULAR N° 60 |"
 tags: [SII, 2015, circular]
+materia: "Modifica instrucciones impartidas en Circular N° 23 del 03 de Mayo de 2013, referente a la obligación de informar ciertas modificaciones directamente en el Servicio de Impuestos Internos para Sociedades por Acciones, Sociedades en Comandita por Acciones, Sociedades Anónimas Cerradas y Sociedades Anó"
+fecha: "2015-07-07"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 60** |
 | --- | --- |

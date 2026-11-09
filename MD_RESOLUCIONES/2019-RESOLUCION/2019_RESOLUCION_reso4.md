@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 4 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2019, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y la Superintendencia de Bancos e Instituciones Financieras."
+fecha: "2019-01-16"
+exenta: true
+impuestos: []
+formularios: ["DJ1887"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública y el Título I del texto refundido de la Ley General de Bancos, según D.F.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

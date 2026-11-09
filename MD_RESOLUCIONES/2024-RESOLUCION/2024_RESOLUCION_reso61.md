@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE271782"
 tags: [SII, 2024, resolucion]
+materia: "Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Subsecretaría de Energía."
+fecha: "2024-05-24"
+exenta: true
+impuestos: ["territorial", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE271782
 

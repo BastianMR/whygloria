@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 151 (2025)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00319321"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00319321"
+fecha: "2025-10-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en los artículos 3° bis y 4° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en la Resolución N°379 de 1991, que Establece los Departamentos de la Dirección Nacional y de las Direcciones Regionales en el Servicio de Impuestos Internos", "la Resolución Exenta SII N°146, de 2020, que Delega facultades y asigna funciones en las jefaturas y materias que indica", "la Resolución Exenta SII N°132, de 2021, que Delega facultades que indica en materia de personas", "la Resolución Exenta SII N°74, de 2023, que Reorganiza y fija el ámbito de competencias de las unidades que conforman la Dirección de Grandes Contribuyentes", "y lo instruido en la Resolución N°36, de 2024, de la Contraloría General de la República"]
 ---
 
 Sii

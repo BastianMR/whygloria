@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 14 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
 tags: [SII, 2016, circular]
+materia: "SUPLEMENTO TRIBUTARIO CON LA NORMATIVA VIGENTE PARA EFECTUAR LA DECLARACION DE LOS IMPUESTOS ANUALES A LA RENTA CORRESPONDIENTES AL AÑO TRIBUTARIO 2016"
+fecha: "2016-03-24"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. pertinentes de la Ley de la Renta"]
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIRCULAR N° 14.-                                                                                                                                                                                                                                                                   |

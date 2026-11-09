@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 11 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N°11.- 178131.2021 GE |"
 tags: [SII, 2024, circular]
+materia: "Fija nuevo criterio sobre aplicación de impuesto adicional a néctares, bebidas isotónicas y bebidas hipotónicas, establecido en la letra a) del artículo 42 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios."
+fecha: "2024-03-11"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°11.- 178131.2021 GE** |
 | --- | --- |

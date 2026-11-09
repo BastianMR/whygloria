@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2019)"
 description: "IMPARTE INSTRUCCIONES AL DIRECTOR REGIONAL DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO CENTRO, PARA DELEGAR EN JEFE DE UNIDAD DE ÑUÑOA LAS FACULTAD..."
 tags: [SII, 2019, resolucion]
+materia: "IMPARTE INSTRUCCIONES AL DIRECTOR REGIONAL DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO CENTRO, PARA DELEGAR EN JEFE DE UNIDAD DE ÑUÑOA LAS FACULTADES QUE INDICA."
+fecha: "2019-05-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra B Nos. 3 y 7 del Código Tributario", "contenido en el artículo 1° del D.L"]
 ---
-
-
 
 IMPARTE INSTRUCCIONES AL DIRECTOR REGIONAL DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO CENTRO, PARA DELEGAR EN JEFE DE UNIDAD DE ÑUÑOA LAS FACULTADES QUE INDICA.
 

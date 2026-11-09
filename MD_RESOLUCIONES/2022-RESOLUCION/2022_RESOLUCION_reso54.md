@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00214375"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00214375"
+fecha: "2022-06-13"
+exenta: true
+impuestos: ["renta", "iva", "iec"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1, 7, 11, 11 bis, 11 ter, 33 numeral ii), 53, 68 y 97 N°11 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en los artículos 20, 34 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824, de 1974", "en los artículo 29 y 59 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Decreto Ley N°825 de 1974", "en el artículo 34 de la Ley N°19.728", "en el artículo 56, inciso quinto de la Ley N° 20.255", "en el artículo 14 de la Ley N°21.354", "y en los artículos 9° y siguientes de la Ley N°21.456, que reajusta el monto del ingreso mínimo mensual así como la asignación familiar y maternal y el subsidio familiar y otorga un subsidio temporal a las micro, pequeñas y medianas empresas."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00214375
 

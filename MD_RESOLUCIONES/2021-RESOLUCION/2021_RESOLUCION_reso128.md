@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2021)"
 description: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2022."
 tags: [SII, 2021, resolucion]
+materia: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2022."
+fecha: "2021-11-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en letra A), Nº 1, del artículo 6º, y en los artículos 34, 35 y 60 del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
-
-
 
 FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2022.
 

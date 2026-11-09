@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 160 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00347254"
 tags: [SII, 2025, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA. DEJA SIN EFECTO LA RESOLUCIÓN EXENTA SII N° 128 DE 2024."
+fecha: "2025-11-12"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Exento (Por orden del Presidente de la República) RA N°289/323/2024, de fecha 04/07/2024 del Ministerio de Hacienda, que nombra subrogante en el cargo de Director del Servicio de Impuestos Internos a Carolina Saravia Morales", "la Resolución Ex", "la Resolución N°36, de 2024 de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón, de las materias de personal"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00347254

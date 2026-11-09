@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 27 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°27.- GE214170.2022 |"
 tags: [SII, 2022, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio de 2022 y el 9 de julio de 2022, ambos inclusive."
+fecha: "2022-06-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°27.- GE214170.2022** |
 | --- | --- |

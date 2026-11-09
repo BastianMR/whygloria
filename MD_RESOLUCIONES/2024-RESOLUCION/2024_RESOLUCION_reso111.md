@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2024)"
 description: "MODIFICA RESOLUCIÓN EX. SII Nº 106 DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA D..."
 tags: [SII, 2024, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII Nº 106 DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
+fecha: "2024-11-28"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley Nº 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en los artículos 3º, las letras a), c) y ñ) del artículo 7º y 9º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley Nº 7, de Hacienda, de 1980", "en los números 2º y siguientes del artículo 1º de la Ley Nº 21.713 de 2024, sobre Cumplimiento de las Obligaciones Tributarias", "la Resolución Nº 349 de 1984 y sus modificaciones", "la Resolución Nº 379 de 1991 y sus modificaciones", "la Resolución Exenta SII Nº 106 de 2021", "la Resolución Exenta SII Nº 148 de 2023, todas de este Servicio", "la Resolución Nº 6 de 2019, de la Contraloría General de la República, sobre exención del trámite de toma de razón."]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII Nº 106 DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN.
 

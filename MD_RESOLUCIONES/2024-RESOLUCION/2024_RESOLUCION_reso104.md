@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2024)"
 description: "ESTABLECE FORMA DE ACOGERSE A SOLICITUD DE TÉRMINO ANTICIPADO DE GESTIONES JUDICIALES PENDIENTES CONFORME AL ARTÍCULO DUODÉCIMO TRANSITORIO DE LA LEY 21.713."
 tags: [SII, 2024, resolucion]
+materia: "ESTABLECE FORMA DE ACOGERSE A SOLICITUD DE TÉRMINO ANTICIPADO DE GESTIONES JUDICIALES PENDIENTES CONFORME AL ARTÍCULO DUODÉCIMO TRANSITORIO DE LA LEY 21.713."
+fecha: "2024-10-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6°, Letra A), N° 1 contenido en el artículo 1° del Decreto Ley N° 830, de 1974 y el artículo duodécimo transitorio de la Ley 21.713"]
 ---
-
-
 
 ESTABLECE FORMA DE ACOGERSE A SOLICITUD DE TÉRMINO ANTICIPADO DE GESTIONES JUDICIALES PENDIENTES CONFORME AL ARTÍCULO DUODÉCIMO TRANSITORIO DE LA LEY 21.713.
 

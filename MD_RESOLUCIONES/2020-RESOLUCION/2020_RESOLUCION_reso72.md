@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE FORMA DE CUMPLIR CON LA OBLIGACIÓN DE REMITIR UNA COPIA A ESTE SERVICIO, DE LA COMUNICACIÓN ELECTRÓNICA EFECTUADA A LA DIRECCIÓN DEL TRABAJO POR AQUELLAS EMPRESAS QUE EJECUTEN LA MEDIDA SUBSIDIARIA SEÑALADA EN LA LETRA B) DEL ARTÍCULO 157 TER DEL CÓDIGO DEL TRABAJO."
+fecha: "2020-07-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1, y artículo 87° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "artículo 5° de la ley 18.575, de 2001, que 'Establece Bases Generales de la Administración del Estado'", "Resolución Exenta SII N°112 del 2018", "la 'Convención Interamericana para la Eliminación de todas las Formas de Discriminación en contra de las Personas con Discapacidad' de 1999, promulgada a través del Decreto N° 99, de 25.03.2002, del Ministerio de Relaciones Exteriores", "la 'Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad', de 2008, promulgada mediante Decreto N° 201, del Ministerio de Relaciones Exteriores", "artículos 153°, 154° N° 7, 157 bis y 157 ter del Código del Trabajo", "artículo 3° de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "y artículos 6° inciso final y 10° del Decreto N° 64 de 2018, del Ministerio del Trabajo y Previsión Social, que 'Aprueba Reglamento del capítulo II \"De la inclusión laboral de personas con discapacidad\", del título III del Libro I del Código del Trabajo, incorporado por la Ley N° 21.015, que incenti", "los artículos 17, letra c), y 52° de la Ley N° 19.880, que 'Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado'"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

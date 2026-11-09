@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 7 (2014)"
 description: "DEPARTAMENTO EMISOR: IMPUESTOS DIRECTOS | CIRCULAR N° 07.- 16.2013 SN Circ. 133-2013 ID |"
 tags: [SII, 2014, circular]
+materia: "Instrucciones respecto del término de la vigencia de las normas establecidas en la Ley N° 20.365 de 2009, que otorgan un crédito tributario a las empresas constructoras que instalen Sistemas Solares Térmicos en las viviendas que construyan. 6(12)00"
+fecha: ""
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.365 de 2009, Ley sobre Impuesto a la Renta, (contenida en el artículo 1°, del Decreto Ley 824 de 1974)."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: IMPUESTOS DIRECTOS** | **CIRCULAR N° 07.- 16.2013 SN Circ. 133-2013 ID** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2016)"
 description: "SUPERINTENDENCIA DE PENSIONES"
 tags: [SII, 2016, resolucion]
+materia: "I. MODIFICACIONES AL LIBRO II, TÍTULO XIV DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, A LA RESOLUCIÓN N° 9 DE 2012, DEL SERVICIO DE IMPUESTOS INTERNOS, Y A LA CIRCULAR NORMATIVA N° 2 DE LA TESORERÍA GENERAL DE LA REPÚBLICA."
+fecha: ""
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["República, se imparten las siguientes instrucciones de obligatorio para todas las Administradoras de Fondos de Pensiones."]
 ---
-
-
 
 Sii
 

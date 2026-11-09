@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO. DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO. DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2020-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 5°, 32 N°15 y 54 N°1 de la Constitución Política de la República, el artículo 6°, letra A), N° 1, los artículos 33 bis y 60 del Código Tributario", "los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "el artículo 41 E, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N°21.210, de 2020, que Moderniza la Legislación Tributaria", "los artículos 4°, 5°, 6 y 7°, de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria", "el artículo 27 de la Convención sobre el Derecho de los Tratados y su anexo", "la Acción 13 del Plan de Acción Contra la Erosión de la Base Imponible y el Traslado de Beneficios (BEPS), adoptado por la Organización para la Cooperación y Desarrollo Económico (OCDE), las Resoluciones Exentas SII N°s 126 de 2016, N°51 de 2018 y N°108 de 2019, todas del Servicio de Impuestos Inter"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO. DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

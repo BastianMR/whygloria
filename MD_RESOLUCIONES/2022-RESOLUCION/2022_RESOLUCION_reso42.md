@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2022)"
 description: "SUBDIRECCIÓN DE INFORMÁTICA GE 208653"
 tags: [SII, 2022, resolucion]
+materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
+fecha: "2022-05-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra a) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "lo establecido en la Resolución Exenta N° 09, del 15 de febrero del 2001, publicada en el Diario Oficial del 21 de febrero del 2001, en especial lo que establecen sus resolutivos 2° letras a), b) y c), 3°, 6° y 7°", "y las reglas generales de validez de documentos electrónicos establecidas por la Ley N° 19.799 del año 2002."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE INFORMÁTICA GE 208653
 

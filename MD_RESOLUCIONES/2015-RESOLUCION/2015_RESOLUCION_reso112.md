@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2015-12-24"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6°, letra A), N° 1, 34 y 35 del Código Tributario, contenido en el artículo 1° del D", "el artículo 14 ter de la Ley de Impuesto a la Renta, contenida en el artículo 1° del DL", "la Ley N° 20.416", "y las Resoluciones Exentas SII N°s 01 y 02 del 11.01.2012"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

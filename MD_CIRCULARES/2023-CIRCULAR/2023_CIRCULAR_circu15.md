@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 15 (2023)"
 description: "DEPARTAMENTOEMISOR: Subdirección Normativa Oficinade Gestión Normativa | CIRCULARN° 15.- 242550.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2023, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
+fecha: "2023-04-06"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 72 de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR: Subdirección Normativa Oficinade Gestión Normativa** | **CIRCULARN° 15.- 242550.2023 GE** |
 | --- | --- |

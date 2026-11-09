@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2020)"
 description: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DEL ARTÍCULO 14 LETRA D) N° 8 DE LA LIR, POR RENTAS O CAN..."
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DEL ARTÍCULO 14 LETRA D) N° 8 DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS PROPIETARIOS, E INFORMAR Y CERTIFICAR LO QUE SE INDICA."
+fecha: "2020-08-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6, letra A), Nº 1, del D.L", "lo dispuesto en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DEL ARTÍCULO 14 LETRA D) N° 8 DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS PROPIETARIOS, E INFORMAR Y CERTIFICAR LO QUE SE INDICA.
 

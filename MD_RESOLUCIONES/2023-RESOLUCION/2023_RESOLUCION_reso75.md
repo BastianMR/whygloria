@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2023)"
 description: "MATERIA: FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2023, resolucion]
+materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
+fecha: "2023-06-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 2°, 3° bis, 7°, 9° y 42° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "en los artículos 6° letra A, Nº 1 y 65 bis del Código Tributario contenido en el Art. 1° del D.L", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Exenta N°142, de 30 de diciembre de 2021, del Servicio de Impuestos Internos"]
 ---
-
-
 
 MATERIA: FIJA NÓMINA DE GRANDES CONTRIBUYENTES
 

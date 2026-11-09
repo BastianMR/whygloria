@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 350 -SDAC -1016"
 tags: [SII, 2016, resolucion]
+materia: "ESTABLECE LA FORMA Y PROCEDIMIENTO PARA ACOGERSE A LOS REGÍMENES DE TRIBUTACIÓN ESTABLECIDOS EN LAS LETRAS A) O B) DEL ARTICULO 14 DE LA LEY DE IMPUESTO A LA RENTA, VIGENTES A PARTIR DEL 01.01.2017, DE LOS CONTRIBUYENTES QUE HAYAN INICIADO O INICIEN ACTIVIDADES HASTA EL 31 DE DICIEMBRE DE 2016."
+fecha: "2016-09-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L", "la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014", "la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016 sobre Simplificación de la Reforma Tributaria", "y las instrucciones impartidas en la Circular N° 49, del 14.07.2016"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 350 -SDAC -1016
 

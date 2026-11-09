@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2015, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A ORGANISMOS PÚBLICOS COMO RECEPTORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS, Y DERÓGUESE RESOLUCIÓN EXENTA SII N° 78, DEL 06 DE AGOSTO DE 2004."
+fecha: "2015-08-21"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 41, de la Ley 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la letra j) del Art. 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "en el Art. 6°, letra A) Nº 3 del Código Tributario, contenido en Art. 1° del Decreto Ley Nº 830, de 1974", "en el Art. 56 inciso 3° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

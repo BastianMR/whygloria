@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2022)"
 description: "INSTRUYE GIRO Y PAGO DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 tags: [SII, 2022, resolucion]
+materia: "INSTRUYE GIRO Y PAGO DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
+fecha: "2022-12-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), numero 1°, 37 y 53 del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 9 de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "Circular SII N°57, de fecha 26.12.2022", "Resolución Ex"]
 ---
-
-
 
 INSTRUYE GIRO Y PAGO DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420.
 

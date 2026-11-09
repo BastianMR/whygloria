@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE FORMA DE DAR CUMPLIMIENTO A LAS OBLIGACIONES DISPUESTAS EN LOS ARTÍCULOS 5° INCISO FINAL Y 21 DE LA LEY N° 20.241, DE 2008, MODIFICADA POR LEY 20.570, DE 2012, EN VIRTUD DE LA CUAL LOS CONTRIBUYENTES QUE UTILICEN EL BENEFICIO SEÑALADO EN ESTA LEY DEBEN INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, AQUELLA PARTE DE LOS DESEMBOLSOS EFECTUADOS EN CONTRATOS Y/O PROYECTOS DE INVESTIGACIÓN Y DESARROLLO QUE NO HAYA SIDO FINANCIADA CON RECURSOS PÚBLICOS. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 130, DE 2008"
+fecha: "2013-02-12"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la Ley N° 20.241, de 2008, modificada por la Ley N° 20.570, publicada en el Diario Oficial con fecha 06.03.2012, que establece un incentivo tributario a la inversión privada en investigación y desarrollo"]
 ---
-
-
 
 SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS
 

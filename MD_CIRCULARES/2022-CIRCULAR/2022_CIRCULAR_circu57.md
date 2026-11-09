@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 57 (2022)"
 description: "DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones | CIRCULARN°57.- GE206755 |"
 tags: [SII, 2022, circular]
+materia: "MATERIAImparteinstruccionessobreelimpuesto establecido en el articulo 9°de la Ley N°21.420."
+fecha: "2022-12-26"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N°21.420,publicadaenel DiarioOficialde4defebrerode2022."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones** | **CIRCULARN°57.- GE206755** |
 | --- | --- |

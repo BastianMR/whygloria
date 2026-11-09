@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE198200"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE198200"
+fecha: "2022-06-09"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1, del Código Tributario, contenido en D.L", "los artículos 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y la Resolución Ex"]
 ---
-
-
 
 <unknown>
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2014, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES PARA ACOGERSE AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA."
+fecha: "2014-12-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el art. 41, de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del estado", "en la letra i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

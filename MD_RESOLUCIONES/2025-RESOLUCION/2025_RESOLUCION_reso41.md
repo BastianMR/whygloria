@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2025)"
 description: "DISPONE FORMA DE SUSCRIPCIÓN DE LA DECLARACIÓN JURADA EXIGIDA POR LAS CIRCULARES N° 39 DE 1991 Y N° 27 DE 2007."
 tags: [SII, 2025, resolucion]
+materia: "## DISPONE FORMA DE SUSCRIPCIÓN DE LA DECLARACIÓN JURADA EXIGIDA POR LAS CIRCULARES N° 39 DE 1991 Y N° 27 DE 2007."
+fecha: "2025-04-03"
+exenta: true
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 3°, 10, 14 y 15 del Decreto Ley N° 3.475 de 1980, sobre Impuesto de Timbres y Estampillas", "en la Ley N° 21.582", "y lo instruido en las Circulares N° 39 de 1991, N° 27 de 2007 y N° 24 de 2024"]
 ---
 
 ## DISPONE FORMA DE SUSCRIPCIÓN DE LA DECLARACIÓN JURADA EXIGIDA POR LAS CIRCULARES N° 39 DE 1991 Y N° 27 DE 2007.

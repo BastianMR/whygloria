@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 35 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica. Asesoría Jurídica | CIRCULAR N°35.- 317829.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 en el Código Tributario, en materia de notificaciones. Deja sin efecto la Circular N° 34 de 2015, modificada por Circulares N° 23 de 2016 y N° 12 de 2021"
+fecha: "2025-04-30"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Código Tributario, artículos 9°, 11, 11 bis, 11 ter, 12, 13, 14 y 15", "Ley N° 21.713, artículo 1°, numerales 10, 11 y 12."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica. Asesoría Jurídica** | **CIRCULAR N°35.- 317829.2025 GE** |
 | --- | --- |

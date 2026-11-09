@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2017-10-06"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L", "en los artículos 54 y 56 del D.L", "las Resoluciones Exentas N° 63, de 15.07.2004 y, N° 61 y N° 68, ambas de julio de 2017"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

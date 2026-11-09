@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314"
+fecha: "2025-04-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["las facultades que se me confieren en la letra c) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en el artículo 6, letra A N° 1 del Código Tributario", "la Ley N°21.713, publicada en el Diario Oficial de fecha 24.10.2024, que, entre otras materias, agregó el artículo 3° quáter a la Ley Orgánica del Servicio de Impuestos Internos y el artículo 100 sexies al Código Tributario", "el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, la Circular N°13, de 2025 que imparte instrucciones sobre el artículo 100 sexies del Código Tributario", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314

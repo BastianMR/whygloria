@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2025)"
 description: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES."
 tags: [SII, 2025, resolucion]
+materia: "## ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES."
+fecha: "2025-09-10"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° letra A) N°s 1 y 4, 35, 68 y 89 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7 de 1980, del Ministerio de Hacienda, la Ley N°21.713, lo instruido en la Circular N°38 de 2025, Resoluciones Ex"]
 ---
 
 ## ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES.

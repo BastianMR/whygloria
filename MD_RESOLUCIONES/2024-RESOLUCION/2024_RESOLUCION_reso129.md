@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE307616"
 tags: [SII, 2024, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS, ESTABLECE FUNCIONES, ÁMBITO DE COMPETENCIA Y DEJA SIN EFECTO RESOLUCIÓN EXENTA N°57 DE 2023."
+fecha: "2024-12-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3°y 7° del DFL N°7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en las Resoluciones Exentas SII N°121 de 2015", "y lo instruido en la Resolución N°6, de 2019, de la Contraloría General de la República"]
 ---
-
-
 
 SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE307616
 

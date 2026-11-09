@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 149 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2018-12-28"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y 88°, del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del Art. 7° del D.F.L", "el inciso tercero del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

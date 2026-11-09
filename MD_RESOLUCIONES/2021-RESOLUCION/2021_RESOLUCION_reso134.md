@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2021-12-01"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 y 87 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "lo establecido en el Decreto con Fuerza de Ley N° 3 de 2006, que fija el texto refundido, coordinado y sistematizado de la Ley N° 19.039 sobre Propiedad Industrial y en su Reglamento, contenido en el Decreto N° 236 de 2005, del Ministerio de Economía, Fomento y Reconstrucción", "en la Ley N° 17.336 sobre Propiedad Intelectual y en su Reglamento, contenido en el Decreto N° 277 de 2013, del Ministerio de Educación", "en la Ley N° 19.342 y en su Reglamento, contenido en el Decreto N° 373 de 1996 del Ministerio de Agricultura", "en el artículo 31 N° 5 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo vigésimo segundo transitorio bis de la Ley N° 21.210 introducido por el artículo 3° de la Ley N° 21.256", "y lo instruido en la Circular SII N° 11 de 2021."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
 

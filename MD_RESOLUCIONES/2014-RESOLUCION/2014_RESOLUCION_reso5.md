@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2014, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS SEMESTRALES QUE INDICA. DEROGA RESOLUCIÓN EXENTA SII N°117 DEL 03 DE OCTUBRE DEL 2011."
+fecha: ""
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "el artículo 6°, letra A), N° 1° del Código Tributario, contenido en el D.L", "el artículo 4 bis de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980", "los artículos 1, 36 inc. 1°, 59 y 68 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 83 bis de su Reglamento, contenido en el D.S", "el artículo 2° del Decreto N° 893, del Ministerio de Hacienda, publicado en el Diario Oficial del 24.01.2004"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS
 

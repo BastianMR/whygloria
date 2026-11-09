@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00224705"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00224705"
+fecha: "2022-10-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.S", "la Ley N°16.282 que fija disposiciones para casos de sismos o catástrofes, sobre la Ley N° 19.712, sobre donaciones deportivas", "la Ley N° 20.675, publicada en el Diario Oficial el 05.06.2013, que sustituyó el artículo 8° de la Ley N° 18.985, sobre donaciones con fines culturales", "la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, publicada en el Diario Oficial el 06.08.2003", "los artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que 'Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'", "artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00224705
 

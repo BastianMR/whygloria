@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2018)"
 description: "Subdirección de Fiscalización DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+materia: "RESOLUCION EX. SII N° 83.SANTIAGO, 14 DE SEPTIEMBRE DE 2018 VISTOS:"
+fecha: "2018-09-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'", "la Resolución Ex", "en las cuales solicitan ser excluidos de la Nómina de Contribuyentes sujetos a Retención establecida en la Resolución Ex"]
 ---
-
-
 
 ## Subdirección de Fiscalización DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

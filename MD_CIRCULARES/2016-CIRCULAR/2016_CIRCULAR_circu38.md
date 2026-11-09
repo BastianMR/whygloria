@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 38 (2016)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 38.- |"
 tags: [SII, 2016, circular]
+materia: "ACTUALIZA E IMPARTE INSTRUCCIONES SOBRE PROCEDIMIENTO DE EMISIÓN DE LOS CERTIFICADOS DE AVALÚO FISCAL Y DEROGA CIRCULARES N°S 58, DE 1996 Y 52, DE 1999."
+fecha: "2016-07-05"
+exenta: false
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** |
 | --- | --- |

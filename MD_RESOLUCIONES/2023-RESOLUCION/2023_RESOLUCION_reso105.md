@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2023)"
 description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE 258175"
 tags: [SII, 2023, resolucion]
+materia: "APRUEBA CÓDIGO DE ETICA DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2023-09-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["la Ley N°18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "la Ley N°18.834 sobre Estatuto Administrativo", "la Ley N°19.880 que establece las Bases de los Procedimientos Administrativos que rigen los actos de los órganos de la administración del Estado"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE 258175
 

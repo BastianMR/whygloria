@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016"
 tags: [SII, 2016, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 50, DEL 27.05.2016, QUE AUTORIZÓ A NALS ASESORÍAS Y SERVICIOS INFORMÁTICOS SPA PARA EMITIR BOLETAS DE SERVICIOS PARA EL INGRESO A ESPECTÁCULOS PÚBLICOS POR CUENTA DE TERCEROS, EN LOS TÉRMINOS QUE INDICA."
+fecha: "2016-07-11"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las Resoluciones Exentas N°s 5028, de 28.08.1998"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016
 

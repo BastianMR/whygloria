@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2021)"
 description: "DESTRUCCIÓN DE PRODUCTOS ALIMENTICIOS CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE; Y FORMA DE ACREDITAR LA DESTRUCCION NO VOLUNTARIA."
 tags: [SII, 2021, resolucion]
+materia: "DESTRUCCIÓN DE PRODUCTOS ALIMENTICIOS CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE; Y FORMA DE ACREDITAR LA DESTRUCCION NO VOLUNTARIA."
+fecha: "2021-11-08"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980 del Ministerio de Hacienda", "lo establecido en el artículo 6, letra A), N° 1 y 21 Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo dispuesto en los artículos 21, 31 N° 3 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "lo dispuesto en el artículo 8 letra d), 23 y 79 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el Decreto Ley N° 825, de 1974", "lo dispuesto en la Resolución Exenta SII N° 151 de 2018", "y lo establecido en la Circulares N° 3 de 1992, N° 60 de 2018 y N° 53 de 2020."]
 ---
-
-
 
 DESTRUCCIÓN DE PRODUCTOS ALIMENTICIOS CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE; Y FORMA DE ACREDITAR LA DESTRUCCION NO VOLUNTARIA.
 

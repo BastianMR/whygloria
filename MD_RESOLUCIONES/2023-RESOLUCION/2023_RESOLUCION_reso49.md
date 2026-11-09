@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
+fecha: "2023-04-24"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L", "el artículo 2°,3°, 8° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "Ley Nº19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+materia: "INCORPORA A LA TABLA DE DEPRECIACIÓN DE RES. EX.SII N°43 DE 2002, LOS VEHÍCULOS ELÉCTRICOS O HÍBRIDOS CON RECARGA ELÉCTRICA EXTERIOR, Y OTROS CALIFICADOS COMO CERO EMISIONES POR RESOLUCIÓN FUNDADA DEL MINISTERIO DE ENERGÍA."
+fecha: "2021-06-09"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 21 y 60 del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 8 de la Ley N° 21.305, sobre Eficiencia Energética, publicada en el Diario Oficial con fecha 13.02.2021", "en el artículo 31 N° 5 y N° 5 bis de la Ley sobre Impuesto a la Renta y en la Resolución Exenta SII N°43 del 26.12.2002."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL
 

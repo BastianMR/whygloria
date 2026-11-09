@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
+fecha: "2015-04-01"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra B) Nos. 3 y 7 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 119.653, de 13 de Diciembre de 2000, del Ministerio Secretaria General de la Presidencia"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA
 

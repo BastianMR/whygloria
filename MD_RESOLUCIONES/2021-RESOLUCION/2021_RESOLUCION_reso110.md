@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO"
+fecha: "2021-09-20"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 14 letra D) N° 3 letra (k), 14 letra D) N° 8 letra (a) N° (viii), 42 N° 1 y N° 2, 74 N° 1 y N° 2, 79, 84 letras a) y b), 86 y 90 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en los artículos 1° y 7° del artículo primero y en el artículo cuarto transitorio de la Ley N° 21.242", "en los artículos 5°, 7° y 9° del artículo primero de la Ley N° 21.252", "y en las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO
 

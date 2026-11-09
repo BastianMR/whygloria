@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 23 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 23.- 04-2014 SN Circ. 41-2014 ID |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de los efectos de la "
+fecha: "2014-04-09"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en D.F.L"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 23.- 04-2014 SN Circ. 41-2014 ID** |
 | --- | --- |

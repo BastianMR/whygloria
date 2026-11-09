@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2023)"
 description: "MATERIA: DETERMINA CONTRIBUYENTE OBLIGADO A APLICAR A LOS BIENES O PRODUCTOS, SUS ENVASES, PAQUETES O ENVOLTORIOS, EL SISTEMA DE MARCACIÓN ESTABLECIDO EN EL ..."
 tags: [SII, 2023, resolucion]
+materia: "DETERMINA CONTRIBUYENTE OBLIGADO A APLICAR A LOS BIENES O PRODUCTOS, SUS ENVASES, PAQUETES O ENVOLTORIOS, EL SISTEMA DE MARCACIÓN ESTABLECIDO EN EL ARTÍCULO 60 QUINQUIES DEL CÓDIGO TRIBUTARIO Y 13 BIS DEL D.L. N° 828, DE 1974, E INDICA EMPRESA CON LA CUAL EL CONTRIBUYENTE OBLIGADO DEBERÁ CONTRATAR, "
+fecha: "2023-09-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D.L", "lo establecido en el Decreto Supremo N° 1027, de 04 de agosto de 2016, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de diciembre del mismo año, que aprueba el Nuevo Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L", "Resolución Exenta N° 946 de 04 de agosto de 2023 de la Subsecretaría de Salud Pública"]
 ---
-
-
 
 MATERIA: DETERMINA CONTRIBUYENTE OBLIGADO A APLICAR A LOS BIENES O PRODUCTOS, SUS ENVASES, PAQUETES O ENVOLTORIOS, EL SISTEMA DE MARCACIÓN ESTABLECIDO EN EL ARTÍCULO 60 QUINQUIES DEL CÓDIGO TRIBUTARIO Y 13 BIS DEL D.L. N° 828, DE 1974, E INDICA EMPRESA CON LA CUAL EL CONTRIBUYENTE OBLIGADO DEBERÁ CONTRATAR, CON EL OBJETO DE IMPLEMENTAR EL SISTEMA DE TRAZABILIDAD FISCAL.
 

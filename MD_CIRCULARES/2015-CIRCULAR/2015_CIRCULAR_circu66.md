@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 66 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones incorporadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017, particularmen"
+fecha: "2015-07-23"
+exenta: false
+impuestos: ["renta", "iva", "territorial", "contribuciones"]
+formularios: ["F50"]
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3 y 5, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
 ---
-
-
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875
 

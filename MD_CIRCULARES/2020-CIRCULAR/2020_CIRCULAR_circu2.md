@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 2 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°2.- |"
 tags: [SII, 2020, circular]
+materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2020 e información adicional relacionada con dicho tributo."
+fecha: "2020-01-09"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°2.-** |
 | --- | --- |

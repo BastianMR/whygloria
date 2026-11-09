@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 51 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 51.- |"
 tags: [SII, 2014, circular]
+materia: "Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los Artículos 3°, 12°, letra B), 23°, N° 4 y 42°, del D.L. N° 825, de 1974. 6(12)00"
+fecha: "2014-10-03"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 51.-** |
 | --- | --- |

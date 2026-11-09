@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
+fecha: "2016-12-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Orgánica"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 15 (2022)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°15.- 199043.2021 GE |"
 tags: [SII, 2022, circular]
+materia: "Imparte instrucciones sobre la derogación del artículo 41 D de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° de enero de 2022. Deja sin efecto las Circulares N° 43 de 2003 y N° 16 de 2018."
+fecha: "2022-04-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°15.- 199043.2021 GE** |
 | --- | --- |

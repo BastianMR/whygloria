@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS"
 tags: [SII, 2017, resolucion]
+materia: "MODIFICA RESOLUCION EX SII N° 13, DE 2016, RESPECTO UNIDAD QUE INDICA DEL DEPARTAMENTO SUBDIRECCIÓN DESARROLLO DE PERSONAS."
+fecha: "2017-08-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras a), c), ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS
 

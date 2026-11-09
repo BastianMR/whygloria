@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2026)"
 description: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO ÚNICO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE LOS SALDOS DEL FONDO DE UTILIDADES REINVER..."
 tags: [SII, 2026, resolucion]
+materia: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO ÚNICO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE LOS SALDOS DEL FONDO DE UTILIDADES REINVERTIDAS Y/O SALDO TOTAL DE UTILIDADES TRIBUTABLES Y/O RETIROS EN EXCESO, QUE ESTABLECEN LOS ARTÍCULO UNDÉCIMO Y DUODÉCIMO TRANSITORIO DE LA LEY N° 21.850."
+fecha: "2026-10-19"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "el artículo 14 letra A) y D) N° 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "el artículo decimosexto transitorio de la Ley N° 21.210", "el N° 2 del numeral I.- del artículo tercero transitorio de la Ley N° 20.780", "el artículo undécimo y duodécimo transitorio de la Ley N° 21.850", "y en las Resoluciones Ex"]
 ---
 
 ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO ÚNICO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE LOS SALDOS DEL FONDO DE UTILIDADES REINVERTIDAS Y/O SALDO TOTAL DE UTILIDADES TRIBUTABLES Y/O RETIROS EN EXCESO, QUE ESTABLECEN LOS ARTÍCULO UNDÉCIMO Y DUODÉCIMO TRANSITORIO DE LA LEY N° 21.850.

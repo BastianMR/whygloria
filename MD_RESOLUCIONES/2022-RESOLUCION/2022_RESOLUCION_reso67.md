@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2022)"
 description: "2021 en todo lo no modificado."
 tags: [SII, 2022, resolucion]
+materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE."
+fecha: "2022-08-10"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N°1, del Código Tributario, contenido en el artículo 1° del D.L", "la letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 62 de la Ley N° 19.880 de 2003, los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma", "la Resolución Exenta SII N° 45 de 2003", "la Resolución Exenta SII N° 99 de 2019, la Resolución Exenta SII N° 72 de 2021"]
 ---
-
-
 
 2021 en todo lo no modificado.
 

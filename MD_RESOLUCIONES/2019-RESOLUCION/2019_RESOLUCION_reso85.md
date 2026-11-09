@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00119253"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00119253"
+fecha: "2019-07-25"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículos 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N° s . 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, de 2017, modificada por Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00119253
 

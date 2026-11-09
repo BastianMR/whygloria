@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 4.- |"
 tags: [SII, 2013, circular]
+materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2013"
+fecha: "2013-01-15"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ARTS. 31 N°6"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 4.-** |
 | --- | --- |

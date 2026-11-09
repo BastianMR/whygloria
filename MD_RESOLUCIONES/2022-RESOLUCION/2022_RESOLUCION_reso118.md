@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198769"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamento."
+fecha: "2022-12-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "La Ley N° 18.359 del año 1984", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "Ley N° 20.659 y su reglamento y el artículo 35 del Código Tributario."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198769
 

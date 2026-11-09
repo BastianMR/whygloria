@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTOTRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTOTRIBUTARIO"
+fecha: "2021-05-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTOTRIBUTARIO
 

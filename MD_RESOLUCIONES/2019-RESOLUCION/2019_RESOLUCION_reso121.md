@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2019)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2019, resolucion]
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
+fecha: "2019-10-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L", "lo establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "el artículo 45 del Código Civil", "y los Decretos Supremos del Ministerio del Interior que han decretado Zona de Excepción en diversas Regiones, Provincias y Comunas del país"]
 ---
-
-
 
 MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.
 

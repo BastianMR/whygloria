@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 60 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 60 279-2018ID 10-2018 SDN |"
 tags: [SII, 2018, circular]
+materia: "Refunde y complementa las Circulares N° 54 de 02.10.2009, N° 39 de 13.07.2018 y N° 42 de 09.08.2018, sobre castigo de productos aptos para elconsumohumanoque hubieren perdido su valor comercial, dificultando o haciendo imposible su comercialización."
+fecha: "2018-12-28"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 30 y 31 N° 3 de la Ley sobre Impuesto a la Renta", "artículo 23 N° 1 de la Ley sobre Impuesto a las Ventas y Servicios."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 60 279-2018ID 10-2018 SDN** |
 | --- | --- |

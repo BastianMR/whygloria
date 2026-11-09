@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
+fecha: "2019-04-30"
+exenta: true
+impuestos: ["renta", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, inciso segundo, Letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el artículo 6° de la Ley N° 21.047, publicada en el Diario Oficial de 23.11.2017, que modificó el artículo 37 del Decreto Ley N° 1.939 de 1977, que contiene normas sobre adquisición, administración y disposición de bienes del Estado", "en el artículo 4° de la Ley N° 19.896 que introdujo modificaciones al Decreto Ley Nº 1.263, de 1975, orgánico de administración financiera del Estado y establece otras normas sobre administración presupuestaria y de personal"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO
 

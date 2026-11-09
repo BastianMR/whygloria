@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2021."
+fecha: "2020-09-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

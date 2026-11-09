@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2015)"
 description: "SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2015, resolucion]
+materia: "CREA EL DEPARTAMENTO DE DESARROLLO ORGANIZACIONAL DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS. OTRAS MEDIDAS QUE INDICA."
+fecha: "2015-10-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, el D.F.L", "la Resolución Ex", "las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE RECURSOS HUMANOS
 

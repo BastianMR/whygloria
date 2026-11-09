@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 1 (2025)"
 description: "DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº01.- 305745.2024 GE |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre normas del Código Tributario en materia de aplicación de reajustes e intereses moratorios tras las modificaciones introducidas por la Ley N° 21.713. Modifica la Circular N° 9 de 1988."
+fecha: "2025-01-02"
+exenta: false
+impuestos: ["contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "artículos 3°, 53 y 55 del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº01.- 305745.2024 GE** |
 | --- | --- |

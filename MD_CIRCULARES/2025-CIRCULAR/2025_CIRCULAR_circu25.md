@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 25 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección de Avaluaciones Departamento de Tasaciones | CIRCULAR N°25.- 221854.2022 GE |"
 tags: [SII, 2025, circular]
+materia: "Instruye sobre el reavalúo de bienes raíces ubicados en comunas o sectores de éstas en que se produzca una ampliación en el límite urbano de un instrumento de planificación territorial, en el período comprendido entre dos reavalúos nacionales."
+fecha: "2025-04-03"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo tercero de la Ley N° 21.078, publicada en el Diario Oficial de fecha 15 de febrero de 2018."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección de Avaluaciones Departamento de Tasaciones** | **CIRCULAR N°25.- 221854.2022 GE** |
 | --- | --- |

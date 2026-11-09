@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 49 (2022)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°49.- 213391.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "MATERIA Imparte instrucciones en materias tributarias sobre el nuevorégimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N°"
+fecha: "2022-10-18"
+exenta: false
+impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.440, publicada en el Diario Oficial de 12 de abril de 2022", "N° 9 del artículo 46 de la Ley N° 21.455, publicada en el Diario Oficial de 13 de junio de 2022."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°49.- 213391.2022 GE** |
 | --- | --- |

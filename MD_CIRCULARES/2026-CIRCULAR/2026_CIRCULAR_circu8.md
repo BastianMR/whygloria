@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 8 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2026 y el 9 de marzo de 2026, ambos inclusive."
+fecha: "2026-02-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                                     | CIRCULAR N°08.- 365096.2026 GE                                                                                                                                        |

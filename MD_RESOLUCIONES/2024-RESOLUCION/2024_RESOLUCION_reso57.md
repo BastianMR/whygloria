@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2024)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE274699"
 tags: [SII, 2024, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y EL INSTITUTO CHILENO DE DERECHO TRIBUTARIO."
+fecha: "2024-05-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 7, de 2019, de la Contraloría General de la República."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE274699
 

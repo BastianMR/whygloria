@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2020)"
 description: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 tags: [SII, 2020, resolucion]
+materia: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
+fecha: "2020-01-10"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y en el artículo 34º Nº 2 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974."]
 ---
-
-
 
 FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR.
 

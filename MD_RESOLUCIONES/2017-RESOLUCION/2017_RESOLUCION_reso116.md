@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2017)"
 description: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 tags: [SII, 2017, resolucion]
+materia: "Fija nuevo plazo para presentar las Declaraciones Juradas sobre balance de 8 columnas y otros antecedentes; y sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formularios N°s 1847 y 1926 respectivamente."
+fecha: "2017-12-01"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "Resolución Exenta SII N° 96 de 2017"]
 ---
-
-
 
 Tributario 2018.
 

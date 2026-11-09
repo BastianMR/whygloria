@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2015)"
 description: "SANTIAGO, 04 DE MARZO DE 2015 HOY SE HA RESUELTO LO QUE SIGUE: RESOLUCIÓN EXENTA SII N° 17.-"
 tags: [SII, 2015, resolucion]
+materia: "## SANTIAGO, 04 DE MARZO DE 2015 HOY SE HA RESUELTO LO QUE SIGUE: RESOLUCIÓN EXENTA SII N° 17."
+fecha: "2015-03-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 de la Ley N° 18.575", "la Resolución N°343, de 05 de julio de 2000, modificada por la Resolución N°408, de 30 de agosto de 2002, por la Resolución SIIPERS Ex", "el Decreto Supremo Nº 453, de 2014, del Ministerio de Hacienda", "la Resolución N°1600 de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## DELEGACIÓN DE FIRMA
 

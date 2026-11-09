@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2025)"
 description: "Subdirección Desarrollo de Personas Depto. Formación GE00306021"
 tags: [SII, 2025, resolucion]
+materia: "APRUEBA CONVENIO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y LA DIRECCIÓN NACIONAL DEL SERVICIO CIVIL."
+fecha: "2025-03-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras a), c) y o), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo establecido en la Resolución Exenta SII N° 136, de 20.12.2021, y lo establecido en la Resolución N° 7, de 2019 y N° 14, de 2022, ambas de la Contraloría General de la República, sobre exención del trámite de toma de razón"]
 ---
 
 Subdirección Desarrollo de Personas Depto. Formación GE00306021

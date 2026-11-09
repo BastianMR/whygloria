@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2014, resolucion]
+materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
+fecha: "2014-05-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra a) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "lo establecido en la Resolución Exenta N°09 del 15 de Febrero del 2001, publicada en el Diario Oficial del 21 de Febrero del 2001, en especial lo que establecen los artículos 2° letras a), b) y c), 3°, 6° y 7° de la Resolución Exenta N°09", "y las reglas generales de validez de documentos electrónicos establecidas por la ley 19.799 del año 2002."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE303373"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE303373"
+fecha: "2024-11-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° letra A), N° 1, 86, 88, 97 y 109 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "los artículos 54, 55 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "los artículos 69, 70, 71 y 71 bis del Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Circular SII N°64 de 2001"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE303373
 

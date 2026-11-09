@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2013, resolucion]
+materia: "MODIFICA PLAZO DE PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO 3325, ESTABLECIDA POR RESOLUCIÓN EX. SII N° 57, DE 2011."
+fecha: "2013-03-12"
+exenta: true
+impuestos: ["iva", "iec"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D", "en los artículos 6°, letra A N° 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D", "lo dispuesto en el inciso quinto y sexto del artículo 1° y en el artículo segundo transitorio de la Ley N° 20.493, publicada en el Diario Oficial de fecha 14 de febrero de 2011", "y las instrucciones impartidas mediante Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES
 

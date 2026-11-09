@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2021)"
 description: "MODIFICA RESOLUCIÓN EX. SII N° 114 DE 2012, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS POR LOS CONTRIBUYENTES QUE INDICA, RESPECTO DE CON..."
 tags: [SII, 2021, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 114 DE 2012, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS POR LOS CONTRIBUYENTES QUE INDICA, RESPECTO DE CONTRATOS DE DERIVADOS DEFINIDOS EN EL ARTÍCULO 2° DE LA LEY N° 20.544."
+fecha: "2021-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 30, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974", "lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 31 de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 20.544", "en el artículo noveno y en el artículo vigésimo transitorio de la Ley N° 21.210", "en la Circular N° 22 de 2020", "y en las Resoluciones Exentas SII N° 114 de 2012, N° 38 de 2020 y N° 133 de 2020."]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII N° 114 DE 2012, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS POR LOS CONTRIBUYENTES QUE INDICA, RESPECTO DE CONTRATOS DE DERIVADOS DEFINIDOS EN EL ARTÍCULO 2° DE LA LEY N° 20.544.
 

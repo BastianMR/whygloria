@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DOCUMENTOS TRIBUTARIOS ELECTRÓNICA GE00362016 134-2026 II"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DOCUMENTOS TRIBUTARIOS ELECTRÓNICA GE00362016 134-2026 II"
+fecha: "2026-08-27"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "los artículos 9° letra a), 54, 55 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y, la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DOCUMENTOS TRIBUTARIOS ELECTRÓNICA GE00362016 134-2026 II

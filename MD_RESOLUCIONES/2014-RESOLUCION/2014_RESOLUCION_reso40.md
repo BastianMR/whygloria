@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2014)"
 description: "Diario Oficial (en extracto)"
 tags: [SII, 2014, resolucion]
+materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
+fecha: "2014-04-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "lo establecido en el N° 3 de la letra A) del artículo 6° del Código Tributario", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N° 1600, de 2008 de la Contraloría General de la República"]
 ---
-
-
 
 ## Distribución:
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE180075"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE180075"
+fecha: "2021-04-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.S", "la Resolución Ex", "los artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que 'Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'", "artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "y la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE180075
 

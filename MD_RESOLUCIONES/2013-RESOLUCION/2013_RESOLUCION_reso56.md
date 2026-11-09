@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2013)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2013, resolucion]
+materia: "REEMPLAZA PLANOS DE PRECIOS DE LAS COMUNAS DE CATEMU, PANQUEHUE, CHILLÁN Y CONCEPCIÓN DE LA RESOLUCIÓN N° 132 DE 31.12.2012 Y CORRIGE ERROR DE TRANSCRIPCIÓN."
+fecha: "2013-06-06"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 4° y 29 de la ley N° 17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A), N° 1 del Decreto Ley N° 830, sobre Código Tributario, de 1974"]
 ---
-
-
 
 SUBDIRECCIÓN DE AVALUACIONES
 

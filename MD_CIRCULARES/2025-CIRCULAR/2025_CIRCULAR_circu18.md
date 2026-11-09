@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 18 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°18.- 305701.2024 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre la competencia de las Unidades del Servicio para realizar actuaciones que indica de conformidad con las disposiciones del N° 11 de la letra B) del artículo 6°; inciso primero del artículo 65 bis y artículo 65 ter, todos del Código Tributario. Complementa Circular "
+fecha: "2025-02-21"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "Artículos 6°, letra B N° 11, 65 bis inciso primero y 65 ter del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°18.- 305701.2024 GE** |
 | --- | --- |

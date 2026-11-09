@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2023)"
 description: "ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE PREDIOS OCUPADOS, UBICADOS EN ZONAS DECLARADAS EN ESTADO DE EXCEPCIÓN CONSTIT..."
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE PREDIOS OCUPADOS, UBICADOS EN ZONAS DECLARADAS EN ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA QUE INDICA."
+fecha: "2023-03-30"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en los artículos 10, letra e), 13 y 19 de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado, sistematizado y actualizado se contiene en el Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1998", "y el Decreto Supremo N° 270, de 2021, del Ministerio del Interior y Seguridad Pública, que declara estado de excepción constitucional de emergencia en las zonas del territorio nacional que indica y los sucesivos decretos supremos de prórroga del estado de excepción constitucional de emergencia en la"]
 ---
-
-
 
 ESTABLECE PROCEDIMIENTO ESPECIAL PARA SOLICITAR REBAJA DE LAS CONTRIBUCIONES DE PREDIOS OCUPADOS, UBICADOS EN ZONAS DECLARADAS EN ESTADO DE EXCEPCIÓN CONSTITUCIONAL DE EMERGENCIA QUE INDICA.
 

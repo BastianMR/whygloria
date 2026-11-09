@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 16 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°16.- 313901.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "Informa datos relacionados con aplicación del sistema de corrección monetaria. Cotizaciones de monedas de oro al 31.12.2024. Complementa Circular N° 9 de 2025."
+fecha: "2025-02-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["artículo 41 de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°16.- 313901.2025 GE** |
 | --- | --- |

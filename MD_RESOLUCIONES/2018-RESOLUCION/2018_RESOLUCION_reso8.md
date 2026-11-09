@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 448-SDAC-2017 77317395899"
 tags: [SII, 2018, resolucion]
+materia: "AUTORIZA A MULTICAJA S.A., PARA OPERAR SISTEMA DE EMISIÓN DE VALES ELECTRÓNICOS EN REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS, PARA SER UTILIZADO POR CONTRIBUYENTES TERCEROS AFILIADOS A SU RED."
+fecha: "2018-01-24"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 88 y 97 del Código Tributario, contenido en el artículo primero del D.L", "artículo 1° de la Ley N° 20.727, de 2014", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 2° N°s 1 y 2", "9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios", "y las Resoluciones Ex", "100, de 2014 y 61, de 2017 modificada esta última por la Resolución Exenta N° 68 del mismo año"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 448-SDAC-2017 77317395899
 

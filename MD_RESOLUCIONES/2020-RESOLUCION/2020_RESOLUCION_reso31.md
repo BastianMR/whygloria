@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Convenio de Colaboración entre Banco Central de Chile y el Servicio de Impuestos Internos para el Cruce de Bases de Datos para fines de Investigación Aplicada."
+fecha: "2020-03-18"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública y la Ley Orgánica Constitucional N° 18.840 que establece las funciones y atribuciones definidas para el Banco Central de Chile"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL"
 tags: [SII, 2014, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL"
+fecha: "2014-02-07"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras c) y o) del artículo 7° del D.F.L N° 7 que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, lo dispuesto en el artículo 5° de la Ley N° 18.575 de Bases de la Administración del Estado, y, el artículo 35 del Código Tributario, contenido en el Decreto Ley"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE FORMATO DE LOS REGISTROS TRIBUTARIOS DE RENTAS EMPRESARIALES QUE DEBEN LLEVAR LOS CONTRIBUYENTES DEL RÉGIMEN DE TRIBUTACIÓN DE LA LETRA A) DE ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, VIGENTE A PARTIR DEL 01 DE ENERO DE 2020."
+fecha: "2021-02-23"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6° letra A N° 1, 16, 17, 21 y 35 del Código Tributario, contenido en el artículo 1° del D.L", "en la letra A) y G) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en los artículos transitorios décimo, undécimo, décimo sexto, décimo séptimo y vigésimo séptimo de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

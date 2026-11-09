@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2018)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2018, resolucion]
+materia: "OMISIÓN DE GIRO DE ROLES DE CONTRIBUCIONES QUE SE INDICAN CUYA CUOTA NO SUPERE LOS MONTOS SEÑALADOS."
+fecha: "2018-03-28"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7, letras b), c) y r), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 3, 5 y 11 de la Ley N° 18.575", "los artículos 37 y 44 del Código Tributario, contenido en el artículo primero del D.L", "los artículos 13 y 16 de la Ley N° 19.880", "los artículos 9,18 y 19 de la Ley N° 17.235", "la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 SUBDIRECCIÓN DE AVALUACIONES
 

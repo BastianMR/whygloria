@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 40 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 40.- |"
 tags: [SII, 2015, circular]
+materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY 20.780, AL ARTÍCULO 21 DEL CÓDIGO TRI- BUTARIO EN MATERIA DE EMPLEO DE EXPE- DIENTES ELECTRÓNICOS."
+fecha: "2015-06-05"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en la Ley 19.880, armonizan con la incorporación de tecnologías de la información y comunicación en la función de los organismos públicos, en la medida que se dé cumplimiento a las disposiciones que regulan los procedimientos respectivos. (Dictámenes N° 4941 de 2004"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 40.-** |
 | --- | --- |

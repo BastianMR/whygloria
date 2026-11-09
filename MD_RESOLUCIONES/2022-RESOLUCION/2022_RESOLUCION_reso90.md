@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2022)"
 description: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 tags: [SII, 2022, resolucion]
+materia: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2022-09-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A", "renta-presunta"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6° letra A N° 1, 16, 17, 21 y 35 del Código Tributario, contenido en el artículo 1° del D.L", "en las letras A), D) y G) del artículo 14 y artículo 107 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en los artículos transitorios décimo, undécimo, décimo sexto, décimo séptimo y vigésimo séptimo de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24.02.2020", "en el artículo 1 de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica, publicada en el Diario Oficial con fecha 04.02.2022", "lo establecido en las Resoluciones Ex", "y lo dispuesto en la Circular N° 39 de 2022."]
 ---
-
-
 
 INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA.
 

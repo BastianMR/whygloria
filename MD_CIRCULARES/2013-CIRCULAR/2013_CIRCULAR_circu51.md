@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 51 (2013)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 51.- |"
 tags: [SII, 2013, circular]
+materia: "MODIFICA CIRCULAR N° 50, DE 2013, SOBRE TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS NOVIEMBRE 2013"
+fecha: "2013-11-08"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 51.-** |
 | --- | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 27 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº27.- |"
 tags: [SII, 2024, circular]
+materia: "Tabla de cálculos de reajustes, intereses y multas julio 2024."
+fecha: "2024-06-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL 830 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos** | **CIRCULAR Nº27.-** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 59 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°59 |"
 tags: [SII, 2017, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los comprendidos entre el 10 de diciembre del"
+fecha: "2017-12-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°59** |
 | --- | --- |

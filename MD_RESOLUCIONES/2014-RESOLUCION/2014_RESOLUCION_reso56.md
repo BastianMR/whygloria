@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA AL CONTRIBUYENTE ALIMENTACIÓN EXPRESS SPA., RUT N° 76.299.578-6, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
+fecha: "2014-06-09"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 56, de la Ley sobre Impuesto a las Ventas y Servicios, del D.L", "en la Resolución Ex", "y en las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

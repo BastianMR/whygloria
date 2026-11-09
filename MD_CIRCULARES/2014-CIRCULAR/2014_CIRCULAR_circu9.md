@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 09.- |"
 tags: [SII, 2014, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero del año 2014 y el 9 de marzo del año 2014"
+fecha: "2014-02-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 09.-** |
 | --- | --- |

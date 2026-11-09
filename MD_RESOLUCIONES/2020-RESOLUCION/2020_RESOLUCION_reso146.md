@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 146 (2020)"
 description: "DELEGA FACULTADES Y ASIGNA FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 1 DE 2020."
 tags: [SII, 2020, resolucion]
+materia: "DELEGA FACULTADES Y ASIGNA FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 1 DE 2020."
+fecha: "2020-11-27"
+exenta: true
+impuestos: ["contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 del DFL N° 1/19.653, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "la Ley N°19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento, contenido en el Decreto Supremo N° 250 del año 2004 del Ministerio de Hacienda", "el Decreto N° 799 de 1974, que establece Disposiciones que Regulan Uso y Circulación de Vehículos Estatales", "el Decreto N° 4, de 2020, del Ministerio de Salud, y sus modificaciones posteriores dispuestas por los Decretos N°s 6 y 10, del mismo año y Ministerio", "el Decreto Supremo N° 104, de 2020, del Ministerio del Interior y Seguridad Pública, y sus renovaciones posteriores dispuestas por los Decretos Supremos N°s 269 y 400 del mismo año y Ministerio", "los Dictámenes N° 35.593 de 1995, y N° 3.610 de 2020, ambos de la Contraloría General de la República, que imparte instrucciones sobre uso y circulación de vehículos estatales", "la Resolución Exenta N° 1 de 2020, y la Resolución Exenta N° 39 de 2020, que la complementa, ambas del Director del Servicio de Impuestos Internos"]
 ---
-
-
 
 DELEGA FACULTADES Y ASIGNA FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 1 DE 2020.
 

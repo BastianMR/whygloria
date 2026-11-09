@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 41 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 41 GE00401804                                    ..."
 tags: [SII, 2026, circular]
+materia: "Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2026."
+fecha: "2026-10-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del DL Nº 830 de 1974."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 41 GE00401804                                                                                           |

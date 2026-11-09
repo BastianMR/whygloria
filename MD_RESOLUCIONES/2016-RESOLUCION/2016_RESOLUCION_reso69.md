@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2016)"
 description: "ESTABLECE LA FORMA EN QUE SE DEBERÁ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE ÉSTA DEBE CUMPLIR."
 tags: [SII, 2016, resolucion]
+materia: "ESTABLECE LA FORMA EN QUE SE DEBERÁ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE ÉSTA DEBE CUMPLIR."
+fecha: "2016-07-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y los artículos 4° bis, 4° ter, 4° quáter y 26 bis, del Código Tributario."]
 ---
-
-
 
 ESTABLECE LA FORMA EN QUE SE DEBERÁ PRESENTAR LA CONSULTA VINCULANTE DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO Y LOS REQUISITOS QUE ÉSTA DEBE CUMPLIR.
 

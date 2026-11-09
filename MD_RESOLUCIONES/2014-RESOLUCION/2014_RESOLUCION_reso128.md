@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2014)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2014-12-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974, y lo dispuesto en el N° 11, del numeral I), del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de septiembre de 2014", "y la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

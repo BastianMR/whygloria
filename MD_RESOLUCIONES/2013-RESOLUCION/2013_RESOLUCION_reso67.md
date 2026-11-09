@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO DE PRESENTACIÓN Y TRAMITACIÓN DE LAS SOLICITUDES DE RECTIFICACIÓN CONFORME AL N°8 DEL ART. 41 E DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2013-06-21"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº 830, de 1974", "lo establecido en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "y lo establecido en el artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL
 

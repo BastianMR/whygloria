@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 17 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°17.- 177531.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de abril de 2021 e información adicional relacionada con dicho tributo."
+fecha: "2021-03-11"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°17.- 177531.2021 GE** |
 | --- | --- |

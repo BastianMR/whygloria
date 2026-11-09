@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2020)"
 description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR DECLARACIONES JURADAS N°1933, N°3225 Y N° 3226."
 tags: [SII, 2020, resolucion]
+materia: "AMPLÍA EL PLAZO PARA PRESENTAR DECLARACIONES JURADAS N°1933, N°3225 Y N° 3226."
+fecha: "2020-03-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en el artículo 1° del D.L", "en la Ley N° 20.880", "en la Resolución Exenta SII N°124 de 2016", "y Resolución Exenta Nº0267, de 1985."]
 ---
-
-
 
 ## MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR DECLARACIONES JURADAS N°1933, N°3225 Y N° 3226.
 

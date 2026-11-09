@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 153 (2020)"
 description: "MODIFICA RESOLUCIÓN EX.SII Nº 106 DE 24.12.2013 QUE CONTIENE EL FORMATO DE FORMULARIO DE DECLARACION JURADA Nº 1887 Y LA RESOLUCIÓN EX. SII Nº 110, DE 30.09...."
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX.SII Nº 106 DE 24.12.2013 QUE CONTIENE EL FORMATO DE FORMULARIO DE DECLARACION JURADA Nº 1887 Y LA RESOLUCIÓN EX. SII Nº 110, DE 30.09.2019 QUE CONTIENE INSTRUCCIONES DE LLENADO."
+fecha: "2020-12-10"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A), N° 1, 33 bis y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 42 Nº 1 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L", "en la Ley Nº 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "en los artículos 2, 4, 6, 12 y 13 del Artículo Primero de la Ley N° 21.252, publicada en el Diario Oficial de fecha 1° de agosto de 2020", "en las Resoluciones Ex"]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX.SII Nº 106 DE 24.12.2013 QUE CONTIENE EL FORMATO DE FORMULARIO DE DECLARACION JURADA Nº 1887 Y LA RESOLUCIÓN EX. SII Nº 110, DE 30.09.2019 QUE CONTIENE INSTRUCCIONES DE LLENADO.
 

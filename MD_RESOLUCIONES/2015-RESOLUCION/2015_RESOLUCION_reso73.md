@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2015)"
 description: "MATERIA: MODIFICA DISEÑO DEL FORMULARIO 29, SOBRE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS, INCORPORANDO UNA NUEVA LÍNEA 27, CON LOS CÓDIGOS QUE SE..."
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA DISEÑO DEL FORMULARIO 29, SOBRE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS, INCORPORANDO UNA NUEVA LÍNEA 27, CON LOS CÓDIGOS QUE SE INDICAN, CONFORME A LA MODIFICACIÓN QUE LA LEY N° 20.780 INTRODUCE AL ARTICULO 23 N°4 D.L.825, DE 1974."
+fecha: "2015-08-28"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A), N°1 y en los artículos 29, 30 inciso primero y segundo, y 32 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo previsto en la parte final del N°4 correspondiente al artículo 23°, de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Decreto Ley 825, de 1974, modificado por la letra a) del número 9 del artículo 2° de la Ley N° 20.780 de 2014, sobre Reforma Tributaria"]
 ---
-
-
 
 MATERIA: MODIFICA DISEÑO DEL FORMULARIO 29, SOBRE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS, INCORPORANDO UNA NUEVA LÍNEA 27, CON LOS CÓDIGOS QUE SE INDICAN, CONFORME A LA MODIFICACIÓN QUE LA LEY N° 20.780 INTRODUCE AL ARTICULO 23 N°4 D.L.825, DE 1974.
 

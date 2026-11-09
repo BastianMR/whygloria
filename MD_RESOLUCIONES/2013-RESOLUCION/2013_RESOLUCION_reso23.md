@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "## MODIFICA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE INDICA."
+fecha: "2013-02-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contenidas en los artículos 1° y 7° del D.F.L", "en el N° 1, letra A), del artículo 6°, 34, 35, 60 y 85 inciso 2°, todos del Código Tributario."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS
 

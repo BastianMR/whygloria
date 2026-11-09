@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE TRUSTS; FIJA FORMATO Y MECANISMO DE DECLARACIÓN; Y DEROGA RESOLUCIÓN EXENTA SII N° 47 DE FECHA 19.05.2014."
+fecha: "2018-05-18"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1) y 63 inciso primero, del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 14 letra E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

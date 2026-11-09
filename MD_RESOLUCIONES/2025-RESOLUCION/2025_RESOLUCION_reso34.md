@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2025)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2025, resolucion]
+materia: "OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
+fecha: "2025-03-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L", "lo establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos"]
 ---
 
 MATERIA: OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.

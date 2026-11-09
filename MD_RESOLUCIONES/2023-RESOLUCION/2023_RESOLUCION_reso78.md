@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE241891"
 tags: [SII, 2023, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos."
+fecha: "2023-06-28"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 que establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE241891
 

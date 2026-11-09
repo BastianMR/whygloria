@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES | CIRCULAR N° 42 |"
 tags: [SII, 2013, circular]
+materia: "COMPLEMENTA CIRCULAR N° 66 DEL 29 DE OCTUBRE DE 1998, PARA APLICACIÓN EN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES."
+fecha: "2013-09-05"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el punto 3.1.8 de la Circular N° 66, de 1998, el Jefe del Departamento de Fiscalización correspondiente, deberá disponer las medidas, coordinaciones y actuaciones que estime necesarias para la debida conclusión del trámite de Destrucción de Documentos. 3"]
 ---
-
-
 
 | **SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 42** |
 | --- | --- |

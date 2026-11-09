@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 43 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE FORMA Y OPORTUNIDAD EN QUE LOS CONTRIBUYENTES DEL IMPUESTO DE PRIMERA CATEGORÍA ACOGIDOS A LOS REGÍMENES TRIBUTARIOS: ART. 14 LETRA A), RENTA PRESUNTA, O ART. 14 TER DEBEN CUMPLIR CON LA OBLIGACIÓN DE INFORMAR LOS CRITERIOS PARA LA DISTRIBUCIÓN DE UTILIDADES, ESTABLECIDA EN EL N° 6 DE LA L"
+fecha: "2017-05-05"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 14 letras A) y C), 14 ter y 54 N° 1 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014, sobre Reforma Tributaria", "la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016, sobre Simplificación de la Reforma Tributaria", "las instrucciones impartidas por este Servicio en la Circular SII N°s. 17, de 10.05.1995, modificada por la Circular N° 50, del 29.09.2003", "la Circular N° 31, del 01.06.2007, modificada por la Circular N° 7, de 22.01.2008", "y las Circulares N°s 49, del 14.07.2016", "37, del 28.05.2015, modificada por la Circular N°39, del 08.07.2016", "y la Resolución Exenta SII N° 55, de 30.09.2003"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

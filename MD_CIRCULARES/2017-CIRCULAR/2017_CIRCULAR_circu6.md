@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 06.- |"
 tags: [SII, 2017, circular]
+materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2017"
+fecha: "2017-01-11"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ARTS. 31 N°6"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 06.-** |
 | --- | --- |

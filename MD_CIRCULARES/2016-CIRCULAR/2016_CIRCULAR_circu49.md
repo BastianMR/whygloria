@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 49 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 49.- 13-2016 I.D. 3-2016 S.N. |"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre las modificaciones efectuadas por las Leyes N°s 20.780 y 20.899 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017. De"
+fecha: "2016-07-14"
+exenta: false
+impuestos: ["renta", "iva", "territorial", "contribuciones"]
+formularios: ["F22"]
+regimen: ["14A", "14B", "renta-presunta"]
+ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3, 5 y 5 bis, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65, 69 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
 ---
-
-
 
 1875
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00214763"
 tags: [SII, 2022, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE SERVICIO DE IMPUESTOS INTERNOS E INSTITUTO PROFESIONAL LOS LEONES"
+fecha: "2022-09-02"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1°"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00214763
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 3.- |"
 tags: [SII, 2013, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero del año 2013 y el 9 de febrero del año 2013"
+fecha: "2013-01-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 3.-** |
 | --- | --- |

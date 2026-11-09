@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2021)"
 description: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
 tags: [SII, 2021, resolucion]
+materia: "## CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
+fecha: "2021-10-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 14 letra D) N° 3 letra (k), 14 letra D) N° 8 letra (a) N° (viii), 42 N° 1 y N° 2, 74 N° 1 y N° 2, 79, 84 letras a) y b), 86 y 90 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo 62 de la Ley N° 19.880 de 2003", "en los artículos 1° y 7° del artículo primero y en el artículo cuarto transitorio de la Ley N° 21.242", "en los artículos 5°, 7° y 9° del artículo primero de la Ley N° 21.252", "en las Resoluciones Ex", "y en la Resolución Ex"]
 ---
-
-
 
 <unknown>
 

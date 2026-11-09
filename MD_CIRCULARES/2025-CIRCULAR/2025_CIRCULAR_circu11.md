@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 11 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos | CIRCULAR N°11.- 299913.2024 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 10, 41G y 41 H, todos de la Ley sobre Impuesto a la Renta. Modifica y complementa las Circulares N° 14 de 2014, N° 12 de 2015, y N° 40 de 2016."
+fecha: "2025-01-30"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial el 24 de octubre de 2024", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°11.- 299913.2024 GE** |
 | --- | --- |

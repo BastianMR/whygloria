@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA DEPTO. NORMAS INTERNACIONALES"
 tags: [SII, 2014, resolucion]
+materia: "SOLICITA INFORMACIÓN RESPECTO DE TRUSTS Y ENTIDADES CON CARACTERISTICAS SIMILARES A UN TRUST CREADAS DE ACUERDO A DISPOSICIONES DE DERECHO EXTRANJERO, Y DEROGA RESOLUCIÓN EX. SII N°81 DEL 10.09.2013, D.O. 13.09.2013."
+fecha: "2014-05-19"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6º letra A) Nº 1, 60 inciso octavo y 63 inciso primero del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA DEPTO. NORMAS INTERNACIONALES
 

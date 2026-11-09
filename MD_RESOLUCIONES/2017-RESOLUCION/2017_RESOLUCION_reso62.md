@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2017, resolucion]
+materia: "Aprueba Acuerdo sobre Intercambio de Información entre Servicio Nacional De Aduanas y Servicio de Impuestos Internos."
+fecha: "2017-07-14"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: ["F22", "F29", "F50"]
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública", "artículos 4° y 5° de la Ley N°19.749, de 1996 y en la Ley Orgánica del Servicio Nacional de Aduanas, D.F.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

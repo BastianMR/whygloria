@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 33 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa. Impuestos Indirectos | CIRCULAR N°33.- 291584.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "Deja sin efecto lo instruido en la Circular N° 11 de 2024."
+fecha: "2024-07-26"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa. Impuestos Indirectos** | **CIRCULAR N°33.- 291584.2024 GE** |
 | --- | --- |

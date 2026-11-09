@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+materia: "DEJA SIN EFECTO LAS INSTRUCCIONES RELATIVAS A VALES EN REEMPLAZO DE BOLETAS Y VALES ELECTRÓNICOS EN REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
+fecha: "2020-09-08"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades consagradas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1, del Código Tributario, contenido en D.L", "los artículos 54° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "la Ley N° 21.210, que Moderniza la Legislación Tributaria", "la Ley N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica", "las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

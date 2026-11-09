@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 14 (2014)"
 description: "Modificada por Circular N° 59, del 14 de noviembre de 2014"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributación internacional. 6(12)00 6"
+fecha: "2014-03-07"
+exenta: false
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 10, 37, 38, 41 A, 41 B, 41 C, 58 N°s 1, 2 y 3, 59, 60, 61, 62, 63, 64 ter y 65 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824 de 1974) y Ley N° 20.630 del 27 de septiembre de 2012."]
 ---
-
-
 
 ## Modificada por Circular N° 59, del 14 de noviembre de 2014
 

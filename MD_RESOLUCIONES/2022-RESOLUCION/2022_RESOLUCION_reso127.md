@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2022)"
 description: "REGULA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N..."
 tags: [SII, 2022, resolucion]
+materia: "REGULA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº120 DE 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020."
+fecha: "2022-12-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N°2 del Código Tributario, última disposición modificada por Ley N° 21.453, publicada en el Diario Oficial de fecha 30.06.2022", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "Resolución Ex", "Resolución SII Ex", "Circulares N° 40 de 2016, N° 31 de 2021, N° 73 de 2020 y N°47 de 2022"]
 ---
-
-
 
 REGULA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº120 DE 2016, N°105 de 2017, N°87 de 2018, N°109 de 2020.
 

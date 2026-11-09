@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 179 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00350539 SDAC/2025"
 tags: [SII, 2025, resolucion]
+materia: "CREA"
+fecha: "2025-12-10"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria", "patente-municipal"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A), N° s 1, 3 y 4, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 1°, 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 35 J a 35 Ñ de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "la Ley N° 21.745", "la Circular N° 64 de 2025", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00350539 SDAC/2025

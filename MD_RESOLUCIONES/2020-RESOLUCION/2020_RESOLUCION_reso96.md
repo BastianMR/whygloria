@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional del Consumidor y el Servicio de Impuestos Internos."
+fecha: "2020-08-25"
+exenta: true
+impuestos: []
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada y el artículo 58 de la Ley N° 19.496, modificada por la Ley N° 21.081."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 21 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 21.- 13.2016 Circ. SN 28.2016 ID |"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias."
+fecha: "2016-04-19"
+exenta: false
+impuestos: ["renta", "iva", "contribuciones"]
+formularios: []
+regimen: ["14A", "14B", "renta-presunta"]
+ref_legal: ["Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016."]
 ---
-
-
 
 1875
 

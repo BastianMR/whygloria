@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "EXIME A FUNDACIÓN LAS ROSAS DE AYUDA FRATERNA DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS PARA RESGUARDAR EL INTERÉS FISCAL."
+fecha: "2014-07-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L", "lo dispuesto en el Artículo 6°, Inciso 1°, del Código Tributario, contenido en el Artículo 1° del D.L", "del Artículo 46 del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

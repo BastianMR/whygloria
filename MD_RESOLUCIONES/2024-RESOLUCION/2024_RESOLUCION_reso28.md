@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2024)"
 description: "INSTRUYE SOBRE PRÓRROGA DEL PLAZO PARA LA PRESENTACIÓN DE LOS FORMULARIOS NÚMEROS 29 Y 50 HASTA 28 DE MARZO DE 2024, CONFORME AL DECRETO SUPREMO Nº 71 DE 202..."
 tags: [SII, 2024, resolucion]
+materia: "INSTRUYE SOBRE PRÓRROGA DEL PLAZO PARA LA PRESENTACIÓN DE LOS FORMULARIOS NÚMEROS 29 Y 50 HASTA 28 DE MARZO DE 2024, CONFORME AL DECRETO SUPREMO Nº 71 DE 2024, DEL MINISTERIO DE HACIENDA."
+fecha: "2024-02-21"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 29 y 36 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en los artículos 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "en el artículo 3º del Decreto Supremo Nº 104 de 1977, del Ministerio del Interior, que fija el texto refundido, coordinado y sistematizado del Título l de la Ley Nº 16.282 de 1965", "en el artículo 45 del Código Civil", "en los Decretos Supremos N os 83 y 84 de 2 de febrero de 2024, del Ministerio del Interior y Seguridad Pública, publicados en el Diario Oficial con fecha 3 de febrero de 2024", "en el Decreto Supremo Nº 71, de 5 de febrero de 2024, del Ministerio de Hacienda, publicado en el Diario Oficial con fecha 20 de febrero 2024"]
 ---
-
-
 
 INSTRUYE SOBRE PRÓRROGA DEL PLAZO PARA LA PRESENTACIÓN DE LOS FORMULARIOS NÚMEROS 29 Y 50 HASTA 28 DE MARZO DE 2024, CONFORME AL DECRETO SUPREMO Nº 71 DE 2024, DEL MINISTERIO DE HACIENDA.
 

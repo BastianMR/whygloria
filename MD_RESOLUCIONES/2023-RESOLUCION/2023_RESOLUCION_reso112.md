@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2023)"
 description: "RESOLUCIÓN EXENTA SII N°112.RESOLUCIÓN EXENTA TGR N° 513.-"
 tags: [SII, 2023, resolucion]
+materia: "## RESOLUCIÓN EXENTA SII N°112.RESOLUCIÓN EXENTA TGR N° 513."
+fecha: "2023-09-21"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 8, 36, 53 y 192 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 22 del Decreto con Fuerza de Ley N° 1, de 1998, del Ministerio de Hacienda, que fija texto refundido, coordinado, sistematizado y actualizado de la Ley N° 17.235, sobre Impuesto Territorial", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 2 N°1 del Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1994, que fija el texto refundido, coordinado, sistematizado y actualizado del estatuto orgánico del Servicio de Tesorerías", "el Decreto Supremo N° 172, de 2023, del Ministerio del Interior y Seguridad Pública, y el Decreto Supremo N°944, de 2023, del Ministerio de Hacienda"]
 ---
-
-
 
 ## RESOLUCIÓN EXENTA SII N°112.RESOLUCIÓN EXENTA TGR N° 513.-
 

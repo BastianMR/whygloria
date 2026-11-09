@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 30 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 30 05.2015 SN 26.2015. ID |"
 tags: [SII, 2015, circular]
+materia: "Instruye respecto de la incorporación del nuevo artículo 41 G a la Ley sobre Impuesto a la Renta, efectuada por la Ley N° 20.780, sobre el cómputo en Chile de las rentas pasivas percibidas o devengadas por empresas controladas en el exterior. 6(12)00"
+fecha: "2015-05-08"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780 de 29 de septiembre de 2014, artículos 12, 54, 41 G y 62 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 30 05.2015 SN 26.2015. ID** |
 | --- | --- |

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2026)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN GE00301974"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ADMINISTRACIÓN GE00301974"
+fecha: "2026-06-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los Artículos 1° y 7° letras a), c), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7, de 1980, del Ministerio de Hacienda", "los artículos 5° y 41 de la Ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "el Decreto Ley N° 799, de 1974, que contiene disposiciones que regulan el uso y circulación de vehículos estatales", "la Resolución N°36 de 2024, Resolución N°8, de 2025, y los dictámenes N°52.060, de 2005, y N° E27202, de 2020, todos de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE ADMINISTRACIÓN GE00301974

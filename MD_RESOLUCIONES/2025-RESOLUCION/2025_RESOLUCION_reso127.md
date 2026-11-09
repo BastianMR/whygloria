@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2025)"
 description: "MODIFICA VIGENCIA DE LAS RESOLUCIONES EX. SII N° 69 Y N° 99, AMBAS DE 2025, SOBRE CUMPLIMIENTO DE LO DISPUESTO EN LOS INCISOS DÉCIMOSEGUNDO Y FINAL DEL ARTÍC..."
 tags: [SII, 2025, resolucion]
+materia: "MODIFICA VIGENCIA DE LAS RESOLUCIONES EX. SII N° 69 Y N° 99, AMBAS DE 2025, SOBRE CUMPLIMIENTO DE LO DISPUESTO EN LOS INCISOS DÉCIMOSEGUNDO Y FINAL DEL ARTÍCULO 68 Y ARTÍCULO 89, AMBOS DEL CÓDIGO TRIBUTARIO."
+fecha: "2025-09-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 1°, 6° letra A, N° 1, y 68 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 21.713, que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal", "la Circular N° 38 de 2025, que instruye sobre el trámite de inicio de actividades", "las Resoluciones Ex"]
 ---
 
 MODIFICA VIGENCIA DE LAS RESOLUCIONES EX. SII N° 69 Y N° 99, AMBAS DE 2025, SOBRE CUMPLIMIENTO DE LO DISPUESTO EN LOS INCISOS DÉCIMOSEGUNDO Y FINAL DEL ARTÍCULO 68 Y ARTÍCULO 89, AMBOS DEL CÓDIGO TRIBUTARIO.

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2017-05-12"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1- y 88 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y las Resoluciones Exentas N° 1414, de 27.10.1978"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

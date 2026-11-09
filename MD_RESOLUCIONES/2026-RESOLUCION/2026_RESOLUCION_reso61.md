@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 370910"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 370910"
+fecha: "2026-04-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1, 33 bis, 35, 62 ter y 97 N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en la Convención sobre Asistencia Administrativa Mutua en Materia Fiscal, promulgada mediante Decreto N° 104, de 2016, del Ministerio de Relaciones Exteriores", "en el Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras, contenido en el Decreto N° 418, de 2017, del Ministerio de Hacienda", "en la Ley sobre Administración de Fondos de Terceros y Carteras Individuales, contenida en el artículo primero de la Ley N° 20.712", "en la Resolución Exenta SII N° 94 de 2024"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 370910

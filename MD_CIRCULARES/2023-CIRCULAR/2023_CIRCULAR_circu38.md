@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 38 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección de Avaluaciones | CIRCULAR N°38.- 256519.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Modifica Circular N° 57 de 2022, que imparte instrucciones sobre el impuesto establecido en el artículo 9 de la Ley N° 21.420, en la parte relativa a la exención que beneficia a bienes de empresas."
+fecha: "2023-09-06"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección de Avaluaciones** | **CIRCULAR N°38.- 256519.2023 GE** |
 | --- | --- |

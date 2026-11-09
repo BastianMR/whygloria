@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 50 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N°50.- 215276.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por los números 1 y 2 del artículo 6 de la Ley N° 21.420, a los artículos 2° N° 2°) y 12 letra E de la Ley sobre Impuesto a las Ventas y Servicios. Modifica el segundo párrafo del N° 3 de la letra Bdel Título II de la Circular N° 21 de 1991"
+fecha: "2022-10-27"
+exenta: false
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 6 N° 1 y 2 y octavo transitorio de la Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°50.- 215276.2022 GE** |
 | --- | --- |

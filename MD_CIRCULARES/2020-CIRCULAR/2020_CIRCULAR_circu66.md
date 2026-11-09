@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 66 (2020)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 66 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones para la determinación de la tasación fiscal de vehículos motorizados para los fines que indica"
+fecha: "2020-10-28"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 66** |
 | --- | --- |

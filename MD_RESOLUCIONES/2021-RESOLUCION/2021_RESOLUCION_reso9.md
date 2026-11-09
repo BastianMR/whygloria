@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2021, resolucion]
+materia: "Modifica la fecha de entrada en vigencia de la obligación contenida en la subletra e) de la letra E) de la Resolución Ex. SII N° 176 de fecha 31.12.2020, en los términos que indica."
+fecha: "2021-01-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades consagradas en los Arts. 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el Art. 6° letra A) N° 1, del Código Tributario, contenido en D.L", "los Arts. 54° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "la Ley N° 21.210, que Moderniza la Legislación Tributaria", "la Ley N° 21.256, que Establece Medidas Tributarias para la Reactivación Económica", "las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

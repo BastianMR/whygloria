@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2014, resolucion]
+materia: "## SUSTITUYE ESTRUCTURA Y CONTENIDO DEL FORMULARIO N° 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS."
+fecha: "2014-01-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, y sus modificaciones contenidas en la Ley N°20.630, de 2012", "y lo dispuesto en la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE OFICINA DE ATENCIÓN DE PÚBLICO EN LA COMUNA DE ALTO HOSPICIO, DEPENDIENTE DE LA I DIRECCIÓN REGIONAL, IQUIQUE Y DELEGA FACULTADES QUE INDICA"
+fecha: "2015-06-30"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras h), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19653, de 13 Diciembre de 2000, del Ministerio Secretaría General de la Presidencia, y e"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA
 

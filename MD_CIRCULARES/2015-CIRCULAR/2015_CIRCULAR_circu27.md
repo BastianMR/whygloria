@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 27 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 27.- |"
 tags: [SII, 2015, circular]
+materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE MAYO DEL AÑO 2015 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
+fecha: "2015-04-14"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1 y 43 al 47 y 52 de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 27.-** |
 | --- | --- |

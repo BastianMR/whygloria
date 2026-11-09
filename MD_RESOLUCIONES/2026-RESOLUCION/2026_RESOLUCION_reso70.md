@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2026-06-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L", "en la Resolución N° 117, del 10.09.2025, que establece los requisitos y procedimiento que deben cumplir las instituciones que requieran tener acceso a la API Inicio de Actividades"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

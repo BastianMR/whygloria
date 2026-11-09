@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2015)"
 description: "ESTABLECE NUEVAS FECHAS DE PAGO PARA LAS CUOTAS DE IMPUESTO TERRITORIAL CORRESPONDIENTES A LOS MESES DE ABRIL Y JUNIO DE 2015, PARA LOS BIENES RAÍCES UBICADO..."
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE NUEVAS FECHAS DE PAGO PARA LAS CUOTAS DE IMPUESTO TERRITORIAL CORRESPONDIENTES A LOS MESES DE ABRIL Y JUNIO DE 2015, PARA LOS BIENES RAÍCES UBICADOS EN LA REGIÓN DE ATACAMA Y EN LAS COMUNAS DE ANTOFAGASTA Y TALTAL DE LA II REGIÓN DE ANTOFAGASTA."
+fecha: "2015-06-30"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "en los Decretos Supremos del Ministerio del Interior N° 354 y N° 355, ambos de fecha 25 de marzo de 2015, y Decreto Supremo N° 357, de fecha 26 de marzo de 2015, publicados en el Diario Oficial de fecha 31 de marzo del año en curso, que declaran como afectadas por la catástrofe derivada del mal tiem"]
 ---
-
-
 
 ESTABLECE NUEVAS FECHAS DE PAGO PARA LAS CUOTAS DE IMPUESTO TERRITORIAL CORRESPONDIENTES A LOS MESES DE ABRIL Y JUNIO DE 2015, PARA LOS BIENES RAÍCES UBICADOS EN LA REGIÓN DE ATACAMA Y EN LAS COMUNAS DE ANTOFAGASTA Y TALTAL DE LA II REGIÓN DE ANTOFAGASTA.
 

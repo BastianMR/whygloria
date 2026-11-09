@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2021)"
 description: "MAMM/AND/AGP DISTRIBUCIÓN: Internet Diario Oficial (en extracto)"
 tags: [SII, 2021, resolucion]
+materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA DE MEJORAS EFECTUADAS POR PROPIETARIOS DE BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA."
+fecha: "2021-06-29"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 3° de la Ley N° 17.235, sobre Impuesto Territorial", "artículo 12 de la Ley N°18.450, en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el DL N° 830, de 1974, y en las letras a) y b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "la Resolución Exenta SII N°131, de 2020"]
 ---
-
-
 
 <unknown>
 

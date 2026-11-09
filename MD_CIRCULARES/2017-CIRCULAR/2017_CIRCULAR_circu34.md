@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 34 (2017)"
 description: "DEPARTAMENTO EMISOR SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES | CIRCULAR N°: 34.- |"
 tags: [SII, 2017, circular]
+materia: "NORMA APLICACIÓN DE REBAJAS DE AVALÚO PARA PROPIEDADES DESTRUIDAS O GRAVEMENTE DAÑADAS, UBICADAS EN ZONA DECLARADA DE CATÁSTROFE"
+fecha: "2017-06-16"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES** | **CIRCULAR N°: 34.-** |
 | --- | --- |

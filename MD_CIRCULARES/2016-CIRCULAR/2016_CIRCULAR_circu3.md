@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 3 |"
 tags: [SII, 2016, circular]
+materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2016"
+fecha: "2016-01-13"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ARTS. 31 N°6"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 3** |
 | --- | --- |

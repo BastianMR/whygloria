@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 196 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00354332"
 tags: [SII, 2025, resolucion]
+materia: "Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo."
+fecha: "2025-12-23"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública", "lo establecido en el Decreto Ley N°830 sobre Código Tributario, el Decreto Ley N°3.063 sobre Rentas Municipales y la Ley N° 18.695 Orgánica Constitucional de Municipalidades, en lo relacionado con la cooperación para el intercambio de información entre los municipios y el Servicio de Impuestos Inter"]
 ---
 
 Sii

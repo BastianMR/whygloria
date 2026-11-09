@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2017)"
 description: "DELEGA FACULTADES QUE INDICA RELATIVAS A HORAS EXTRAORDINARIAS, Y REVOCA LAS FACULTADES QUE SE SEÑALAN, CONFERIDAS MEDIANTE LA RESOLUCIÓN N° 343, DE 2000, DE..."
 tags: [SII, 2017, resolucion]
+materia: "DELEGA FACULTADES QUE INDICA RELATIVAS A HORAS EXTRAORDINARIAS, Y REVOCA LAS FACULTADES QUE SE SEÑALAN, CONFERIDAS MEDIANTE LA RESOLUCIÓN N° 343, DE 2000, DE ESTA DIRECCIÓN NACIONAL, A LAS JEFATURAS QUE SE INDICAN."
+fecha: "2017-08-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), e), i), j) y m) y el artículo 42° ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 66° del D.F.L N° 29, del Ministerio de Hacienda, del 2004, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo", "la Resolución N° 38, de 2016, de esta Dirección Nacional", "el artículo 41 de la Ley N° 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "las Resoluciones N°1600 de 2008 y N° 10 de 2017, ambas de la Contraloría General de la República"]
 ---
-
-
 
 DELEGA FACULTADES QUE INDICA RELATIVAS A HORAS EXTRAORDINARIAS, Y REVOCA LAS FACULTADES QUE SE SEÑALAN, CONFERIDAS MEDIANTE LA RESOLUCIÓN N° 343, DE 2000, DE ESTA DIRECCIÓN NACIONAL, A LAS JEFATURAS QUE SE INDICAN.
 

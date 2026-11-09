@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 41 (2015)"
 description: "Modificada por Circular Nº 24, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
+materia: "Actualiza y sistematiza instrucciones sobre la competencia territorial de las Unidades del Servicio de Impuestos Internos y la radicación de la fiscalización, en conformidad a las modificaciones incorporadas por la Ley 20.780."
+fecha: "2015-06-05"
+exenta: false
+impuestos: ["renta", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 Modificada por Circular Nº 24, del 3 de mayo de 2016
 

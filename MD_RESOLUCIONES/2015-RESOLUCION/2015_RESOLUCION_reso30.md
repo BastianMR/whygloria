@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA LOS DISTRIBUIDORES DE GAS NATURAL COMPRIMIDO (GNC) DE ORIGEN NO FÓSIL, QUE DESEEN ACOGERSE A LA EXENCIÓN DEL IMPUESTO A LOS COMBUSTIBLES DISPUESTA EN EL INCISO QUINTO DEL ARTÍCULO 1° DE LA LEY N° 18.502."
+fecha: "2015-03-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso octavo del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en la Ley N° 18.502, publicada en el Diario Oficial el día 3 de abril de 1986, modificada por la Ley N° 20.633 publicada en el Diario Oficial el día 13 de septiembre de 2012", "Decreto Supremo 348 de 2013 y Decreto 277 Exento de 2013, ambos emitidos por el Ministerio de Hacienda"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

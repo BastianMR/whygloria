@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2023)"
 description: "MATERIA Crea el Archivo Histórico Institucional del Servicio de Impuestos internos."
 tags: [SII, 2023, resolucion]
+materia: "## SANTIAGO, 23 DE AGOSTO DE 2023 RESOLUCIÓN EXENTA SII N°91."
+fecha: "2023-08-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Artículo 7° letra c) y h), y Art. 17°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7, de 1980, del Ministerio de Hacienda", "el Artículo N° 6 de la Ley N° 18.845, que Establece Sistemas de Microcopia o Micrograbación de Documentos, en relación a lo establecido en Circular N° 28.704 de 1981 de la Contraloría General de la República y Circular 51° del 2009 del Archivo Nacional", "el Art. 1°, N°6 y 8 de la Ley N° 21.045 que Crea el Ministerio de las Culturas, las Artes y el Patrimonio", "la Resolución Exenta N° 1.536 de 2018 que aprueba la Política General de Seguridad de la Información del Servicio de Impuestos Internos, y el Oficio Circular N° 4369 del 19 de noviembre de 1987, la Resolución Exenta N°650 del 2 de marzo de 2022, que establece la Política de Gestión Documental y la R"]
 ---
-
-
 
 MATERIA Crea el Archivo Histórico Institucional del Servicio de Impuestos internos.
 

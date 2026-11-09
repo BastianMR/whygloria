@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
+materia: "DESIGNA SECRETARIOS SUPLENTES, EN TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE TALCA."
+fecha: "2022-04-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

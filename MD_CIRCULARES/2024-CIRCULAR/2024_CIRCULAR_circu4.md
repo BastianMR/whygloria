@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2024)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº4.- |"
 tags: [SII, 2024, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS FEBRERO 2024."
+fecha: "2024-01-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº4.-** |
 | --- | --- |

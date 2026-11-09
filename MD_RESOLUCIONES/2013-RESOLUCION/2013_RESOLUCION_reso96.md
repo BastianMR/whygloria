@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2013)"
 description: "adjudicación, deberá consignarse'."
 tags: [SII, 2013, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. N°1055, DE 2010 SOBRE NORMATIVA INTERNA DEL SERVICIO DE IMPUESTOS INTERNOS EN MATERIA DE ADQUISICIONES."
+fecha: "2013-11-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "la Resolución N° 37 de 2013, de esta Dirección Nacional y la Resolución N°1600 de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 adjudicación, deberá consignarse'.
 

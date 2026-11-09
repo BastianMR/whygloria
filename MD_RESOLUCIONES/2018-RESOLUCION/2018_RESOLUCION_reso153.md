@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 153 (2018)"
 description: "MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO"
 tags: [SII, 2018, resolucion]
+materia: "## MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO"
+fecha: "2018-12-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) N° 1) y 60 inciso noveno del Código Tributario, contenido en el artículo 1° del D.L", "la Resolución Ex"]
 ---
-
-
 
 ## MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO
 

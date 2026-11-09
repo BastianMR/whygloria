@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 26 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº26.- GE00274893 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.641 al artículo 66 del Código Tributario y nuevo artículo 66 bis del mismo código. Complementa Circulares N° 31 de 2007 y N° 31 de 2014."
+fecha: "2025-04-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 7 de la Ley N° 21.641, publicada en el Diario Oficial de 30 de diciembre de 2023", "artículos 66 y 66 bis del Código Tributario, y artículo 42 de la Ley N° 18.840, Orgánica Constitucional del Banco Central de Chile."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº26.- GE00274893** |
 | --- | --- |

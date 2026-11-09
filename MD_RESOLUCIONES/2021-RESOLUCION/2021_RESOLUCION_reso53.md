@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE CRITERIOS GENERALES Y SITUACIONES QUE CONFIGURAN EL HECHO GRAVADO, EN LOS CASOS QUE SEÑALA LA LETRA G, DEL ARTICULO 8°, DEL D.L. N° 825 DE 1974, LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
+fecha: "2021-05-25"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1 del D.L", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "lo dispuesto en la letra g), del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las disposiciones contenidas en la Ley N° 21.210", "el artículo 52 de la Ley N° 19.880, que 'Establece Bases de los procedimientos administrativos que rigen los actos de los Órganos de la Administración del Estado", "la Circular N° 37 de 2020, que 'Imparte instrucciones sobre las modificaciones introducidas por el artículo tercero de la Ley N° 21.210, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, en materia de inmuebles'"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

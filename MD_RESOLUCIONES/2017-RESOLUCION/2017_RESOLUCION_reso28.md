@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2017-03-08"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N° 1° y 66 del Código Tributario, contenido en el artículo 1°, del Decreto Ley N°830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 3° y 10°, del DFL N°3, de 1969, del Ministerio de Hacienda, sobre Reglamento del Rol Único Tributario (RUT)", "la Ley N° 20.712, publicada en el Diario Oficial de 7 de enero de 2014", "la Ley N°20.780 de 29 de Septiembre del 2014 y la Ley N° 20.899 de 8 de Febrero del 2016 sobre Reforma Tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

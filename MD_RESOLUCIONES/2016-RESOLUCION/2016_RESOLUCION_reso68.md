@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2016)"
 description: "Subdirección de Fiscalización Oficina de Análisis de Elusión"
 tags: [SII, 2016, resolucion]
+materia: "## CREA COMITÉ ANTI ELUSIÓN Y FIJA SUS ATRIBUCIONES Y FUNCIONES."
+fecha: "2016-07-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 26 bis, 100 bis, 119 y 160 bis, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "Circular N° 65, de 23 de julio de 2015 y Circular N° 41, de 11 de julio de 2016."]
 ---
-
-
 
 ## Subdirección de Fiscalización Oficina de Análisis de Elusión
 

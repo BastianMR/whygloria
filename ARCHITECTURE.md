@@ -70,6 +70,28 @@ skipped, so a run resumes instead of duplicating.
 Titles are derived from the filename number, not from the body: a circular
 usually cites several other documents before reaching its own number.
 
+## Structured tax metadata
+
+Frontmatter carries the tax signal, so a query does not have to read the prose:
+
+| Field | Shape | Meaning |
+| --- | --- | --- |
+| `materia` | string | the MATERIA line, wording as published |
+| `fecha` | ISO 8601 | signature date from the header |
+| `exenta` | boolean | the document is a *resolución exenta* |
+| `impuestos` | list of enum | `renta`, `iva`, `timbres`, `herencias`, `territorial`, `iec`, `segunda-categoria`, `contribuciones`, `patente-municipal`, `otro` |
+| `formularios` | list | SII forms and sworn statements named in the body (`F22`, `DJ1887`, …), validated by shape |
+| `regimen` | list of enum | `14A`, `14B`, `14D1`…`14D8`, `renta-presunta`, `pre-2020`, `no-aplica` |
+| `ref_legal` | list of strings | legal citations as the document writes them |
+
+The vocabularies and their keyword patterns live in
+[`scripts/tax_vocab.json`](./scripts/tax_vocab.json); the extraction lives in
+`scripts/metadata.py` and is shared by the conversion and the backfill, so the
+two paths cannot drift. Extraction is deterministic and keyword-based: it never
+calls a model. Where the source has no MATERIA line or lost its date,
+`check_okf.py` reports a *metadata gap* instead of an error, because inventing a
+value would be worse than leaving it empty.
+
 ## How to work with it
 
 ### Reading

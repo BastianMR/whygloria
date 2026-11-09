@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES"
+fecha: "2017-10-13"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6°, letra A), N° 1, y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES
 

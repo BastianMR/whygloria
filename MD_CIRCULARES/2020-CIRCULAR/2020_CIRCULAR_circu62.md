@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 62 (2020)"
 description: "DEPARTAMENTO EMISOR SUBDIRECCIÓN NORMATIVA IMPUESTOS DIRECTOS | CIRCULAR N° 62 25.2020 CIRC.SN 10.2020 CIRC.ID |"
 tags: [SII, 2020, circular]
+materia: "Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016"
+fecha: "2020-09-24"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "territorial", "segunda-categoria", "contribuciones"]
+formularios: ["F22"]
+regimen: ["14A", "14B", "14D3", "14D8", "renta-presunta"]
+ref_legal: ["Artículo 14 letra D) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR SUBDIRECCIÓN NORMATIVA IMPUESTOS DIRECTOS** | **CIRCULAR N° 62 25.2020 CIRC.SN 10.2020 CIRC.ID** |
 | --- | --- |

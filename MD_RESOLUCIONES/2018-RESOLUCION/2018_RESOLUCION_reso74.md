@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2018)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
+fecha: "2018-09-04"
+exenta: true
+impuestos: ["renta", "iva", "herencias", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°21.033 que crea la XVI Región de Ñuble y las Provincias de Diguillín, Punilla e Itata y lo dispuesto en los artículos 4° y 7°, letra ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda", "el DFL N° 1 del año 2016, del Ministerio de Hacienda, que Fija la Planta de Personal del Servicio de Impuestos Internos", "y el DFL N° 19, del año 2018, del Ministerio de Hacienda, que lo modifica", "la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA
 

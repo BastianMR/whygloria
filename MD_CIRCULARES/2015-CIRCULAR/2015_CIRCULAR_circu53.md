@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 53 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 53.- |"
 tags: [SII, 2015, circular]
+materia: "IMPARTE INSTRUCCIONES SOBRE LA PUBLICACIÓN DE INFORMACIÓN Y ESTADÍSTICAS EN EL SITIO WEB DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2015-06-24"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 53.-** |
 | --- | --- |

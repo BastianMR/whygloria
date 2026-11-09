@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2018-09-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1, 34, 35, y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L. 830, de 1974", "en los artículos 1° y siguientes, de la Ley Orgánica del Servicio de Impuestos Internos contenido en el artículo 1° del D.F.L", "en los artículos 42 N°2 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo dispuesto en el artículo 2° de la Ley N° 20.809 que, entre otros, otorga beneficios tributarios en el territorio de Isla de Pascua", "lo prescrito en los artículos 145 A y siguientes del Código del Trabajo", "en el Decreto Ley N° 3.500 de 1980, que establece Nuevo Sistema de Pensiones, modificado mediante la Ley N° 20.255, que Establece Reforma Previsional", "Resoluciones Exentas N° 4.085, de 24 de diciembre de 1990, N° 6.509, de 14 de diciembre de 1993, N° 70, de 19 de junio de 2012, N° 108, de 24 de diciembre de 2015 y N° 122, de 26 de diciembre de 2016."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

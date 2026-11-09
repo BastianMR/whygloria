@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+fecha: "2020-04-13"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 20, 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "artículo segundo de la Ley N° 20.416, que 'Fija Normas Especiales para las Empresas de Menor Tamaño'", "la Ley N° 16.282 que establece disposiciones para casos de catástrofes", "Decreto Supremo N° 104, de 18 de marzo de 2020, que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile', y Decreto Supremo Nº 107, de 20 de marzo de 2020, que 'Declara como zonas afectadas por catástrofe a las comunas que indica', ambos del Mi", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, del Ministerio de Hacienda, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

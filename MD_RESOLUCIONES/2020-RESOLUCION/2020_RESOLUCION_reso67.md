@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2020-06-25"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: ["F129"]
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 1°, 4° bis, 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6°, letra A), N° 1, y 18 N° 3, letra b), del Código Tributario, contenido en el artículo 1° del D.L", "el nuevo Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "Circular 42, de 11 de junio de 2020."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

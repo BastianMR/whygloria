@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 35 (2020)"
 description: "Subdirección Emisora Subdirección de Fiscalización | Subdirección Emisora Subdirección de Fiscalización | CIRCULAR Nº 35 |"
 tags: [SII, 2020, circular]
+materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida , para aplicarse durante"
+fecha: "2020-05-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº 35** |
 | --- | --- | --- |

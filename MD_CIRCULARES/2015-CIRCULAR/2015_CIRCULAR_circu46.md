@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 46 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 46.- 41.2015 ID 07.2015 SN |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014, a los artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. 6(12)00"
+fecha: "2015-06-11"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "segunda-categoria", "contribuciones"]
+formularios: ["F29", "F50"]
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780 de 29 de septiembre de 2014", "y artículos 41 A, 41 B, 41 C y 41 D, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 46.- 41.2015 ID 07.2015 SN** |
 | --- | --- |

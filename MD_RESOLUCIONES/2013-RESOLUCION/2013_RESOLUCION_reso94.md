@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+materia: "AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS Y BOLETAS ELECTRÓNICAS A CONTRIBUYENTES QUE SEÑALA."
+fecha: "2013-11-18"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

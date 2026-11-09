@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos."
+fecha: "2021-04-27"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N° 20.530, que crea el Ministerio de Desarrollo Social y Familia."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

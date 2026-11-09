@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2020)"
 description: "SERVICIOS DE IMPUESTOS INTERNOS"
 tags: [SII, 2020, resolucion]
+materia: "OTORGA CONDONACIÓN DE LAS MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
+fecha: "2020-04-29"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6° letra B) N° 3, 97 N° 1 y 106 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830, de 1974", "lo establecido en los artículos 1°, 9° y 19 letra c) y d) del Decreto con Fuerza de Ley N° 7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el artículo 13 de la Ley N° 20.544, de 2011, que Regula el Tratamiento Tributario de los Instrumentos Derivados", "en el artículo 31 de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo vigésimo transitorio de la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria."]
 ---
-
-
 
 ## SERVICIOS DE IMPUESTOS INTERNOS
 

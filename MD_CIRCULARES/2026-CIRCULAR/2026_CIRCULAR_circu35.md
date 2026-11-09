@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 35 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                           ..."
 tags: [SII, 2026, circular]
+materia: "Actualiza instrucciones sobre mecanismos de impugnación administrativa: RAV, RAF y Recurso Jerárquico. Deja sin efecto Circulares N°34 de 27 de junio de 2018, N°26 de 18 junio de 2026 y el Capítulo IV de la Circular N°12 de 2021."
+fecha: "2026-08-31"
+exenta: false
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 123 bis, 124, 6 letra B) N°5 y 6 letra A) N°7, todos del Código Tributario."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                                                                                                             | CIRCULAR N°35.- GE383031                                                                          |

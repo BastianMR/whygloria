@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
+fecha: "2026-03-05"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L", "y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
 ---
 
 Sii

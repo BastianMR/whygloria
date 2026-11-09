@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2023)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA."
 tags: [SII, 2023, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA."
+fecha: "2023-09-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N°18.575", "lo dispuesto en el artículo 385 del Código de Procedimiento Civil", "Resolución N°6 de 26.03.2019, de la Contraloría General de la República"]
 ---
-
-
 
 GE00258009
 

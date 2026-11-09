@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2017)"
 description: "MATERIA: DELEGA FIRMA Y ESTABLECE PROCEDIMIENTO PARA INFORMAR A LA CONTRALORIA GENERAL DE LA REPUBLICA SOBRE REINTEGRO DE REMUNERACIONES POR LICENCIAS MÉDICA..."
 tags: [SII, 2017, resolucion]
+materia: "DELEGA FIRMA Y ESTABLECE PROCEDIMIENTO PARA INFORMAR A LA CONTRALORIA GENERAL DE LA REPUBLICA SOBRE REINTEGRO DE REMUNERACIONES POR LICENCIAS MÉDICAS RECHAZADAS O REDUCIDAS."
+fecha: "2017-07-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), i), j) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "los artículos 72 y 111 del D.F.L N° 29, del Ministerio de Hacienda, del 2004, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo", "el inciso segundo del artículo 10 y el artículo 67 de la Ley N° 10.336, sobre Organización y Atribuciones de la Contraloría General de la República", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 MATERIA: DELEGA FIRMA Y ESTABLECE PROCEDIMIENTO PARA INFORMAR A LA CONTRALORIA GENERAL DE LA REPUBLICA SOBRE REINTEGRO DE REMUNERACIONES POR LICENCIAS MÉDICAS RECHAZADAS O REDUCIDAS.
 

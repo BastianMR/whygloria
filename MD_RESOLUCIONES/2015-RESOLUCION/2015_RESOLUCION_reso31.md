@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2015)"
 description: "MATERIA: Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las Regiones de Antofagasta..."
 tags: [SII, 2015, resolucion]
+materia: "Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las Regiones de Antofagasta, Atacama y Coquimbo."
+fecha: "2015-03-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 MATERIA: Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las Regiones de Antofagasta, Atacama y Coquimbo.
 

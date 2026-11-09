@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2023)"
 description: "MFM/BOB/AID Distribución:"
 tags: [SII, 2023, resolucion]
+materia: "DESIGNA SECRETARIOS TITULAR Y SUPLENTES, EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE COYHAIQUE."
+fecha: "2023-06-28"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2017)"
 description: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE MOVIMIENTOS Y SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES DEL RÉGIMEN DE IMPUTACIÓN..."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE MOVIMIENTOS Y SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES DEL RÉGIMEN DE IMPUTACIÓN PARCIAL DE CRÉDITO A QUE SE REFIERE LA LETRA B) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, Y DE LOS REGISTROS ESTABLECIDOS EN EL NÚMERO 2) DEL ARTÍCULO 81 DE LA LEY 20.712."
+fecha: "2017-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35, 60 inciso penúltimo, 63 y 69 inciso primero, todos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra B) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo señalado en el Artículo 81 y 86 de la Ley N° 20.712", "las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016", "la Resolución Exenta SII N°130 del 30.12.2016"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE MOVIMIENTOS Y SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES DEL RÉGIMEN DE IMPUTACIÓN PARCIAL DE CRÉDITO A QUE SE REFIERE LA LETRA B) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, Y DE LOS REGISTROS ESTABLECIDOS EN EL NÚMERO 2) DEL ARTÍCULO 81 DE LA LEY 20.712.
 

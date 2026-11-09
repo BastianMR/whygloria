@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 344951"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 344951"
+fecha: "2026-01-14"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F129"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis, 7° letra b) y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 6°, letra A) N° 1 y N° 3 y 85 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 2° N° 1 y 3°, 3° bis, 4°, 12 letra B) N° 18, y en los artículos 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en la Circular N° 39 de 2025", "en las Resoluciones Ex", "y en las Resoluciones N° 84 y N° 93, ambas de 2025."]
 ---
 
 Sii

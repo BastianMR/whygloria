@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 64 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 64.- |"
 tags: [SII, 2014, circular]
+materia: "TABLASDELIMPUESTOÚNICODESEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE ENERO DEL AÑO 2015 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
+fecha: "2014-12-12"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1 y 43 al 47 y 52 de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 64.-** |
 | --- | --- |

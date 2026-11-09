@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2024)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA GE274253"
 tags: [SII, 2024, resolucion]
+materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN."
+fecha: "2024-02-26"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 23, inciso tercero, y 34, N° 2, letra c), inciso cuarto, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA GE274253
 

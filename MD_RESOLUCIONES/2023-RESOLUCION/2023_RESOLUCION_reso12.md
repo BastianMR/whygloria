@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2023)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023."
 tags: [SII, 2023, resolucion]
+materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023."
+fecha: "2023-02-08"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DLF N° 7, de 1980, Hacienda", "las Resoluciones Exentas N°s 16 y 18, de 11 de julio y 29 de agosto de 2002, respectivamente", "el artículo 12°, letra a), del Decreto Ley N°3.063, de 1979, sobre Rentas Municipales", "y la Resolución Exenta N° 4, del 16 de enero del 2023"]
 ---
-
-
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°4, DE 2023.
 

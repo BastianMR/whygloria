@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2017, resolucion]
+materia: "colaboración."
+fecha: "2017-07-18"
+exenta: true
+impuestos: ["renta", "iva", "territorial", "contribuciones"]
+formularios: ["DJ1808", "F22"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

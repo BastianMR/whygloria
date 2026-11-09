@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+materia: "INSTRUYE SOBRE EL PROCEDIMIENTO PARA ACOGERSE A LOS REGÍMENES TRIBUTARIOS DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA. DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 93 DE 22.09.2016."
+fecha: "2020-07-17"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A", "renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "la Ley N° 21.210, de 24.02.2020, que moderniza la legislación tributaria", "y, la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

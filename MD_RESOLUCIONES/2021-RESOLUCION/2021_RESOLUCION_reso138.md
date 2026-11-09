@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 138 (2021)"
 description: "Subdirección de Fiscalización"
 tags: [SII, 2021, resolucion]
+materia: "INSTRUYE FORMA DE DECLARACIÓN Y PAGO DE LOS IMPUESTOS ESTABLECIDOS EN LA LEY N° 16.271, SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES, Y LA OBLIGACIÓN DE INFORMAR DEL ARTÍCULO 18 Nº 8, DE LA MISMA LEY."
+fecha: "2021-12-20"
+exenta: true
+impuestos: ["renta", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "el artículo 6°, letra A), N° 1° del D.L", "los artículos 18 Nº 8, 50, 51, 52 y 60 de la Ley Nº 16.271, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8° del D.F.L", "y, artículo cuarto de Ley N° 21.210, que Moderniza la Legislación Tributaria e introduce modificaciones a la Ley N° 16.271, y la Circular SII N°33 del 25.05.2021, que imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, a la Ley N° 16.271, de Impuesto a las Herencias, Asigna"]
 ---
-
-
 
 ## Subdirección de Fiscalización
 

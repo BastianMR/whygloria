@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 145 (2019)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2019, resolucion]
+materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2020, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS."
+fecha: "2019-12-31"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en la Resolución Exenta SII N° 123, de 4 de noviembre de 2019, en la Resolución Exenta SII N° 130, de 28 de noviembre de 2019, y en el Artículo 52° del D.F.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES
 

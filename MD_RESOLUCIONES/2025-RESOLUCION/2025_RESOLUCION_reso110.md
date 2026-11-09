@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+materia: "ESTABLECE OPORTUNIDAD, FORMA Y CONDICIONES DE PRESENTACIÓN DEL REPORTE SOBRE OPERACIONES A TRAVÉS DE CUENTAS CORRIENTES CORRESPONSALES EN CHILE, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 66 BIS DEL CÓDIGO TRIBUTARIO. FORMULARIO 1960."
+fecha: "2025-08-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A), N° 1, y 66 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "la Circular N° 26 de 2025 y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

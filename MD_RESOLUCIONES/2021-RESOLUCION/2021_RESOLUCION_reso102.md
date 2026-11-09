@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N°110 DE 2004, INCORPORANDO EN DECLARACIÓN JURADA ANUAL N°1832, LA INFORMACIÓN DE DONACIONES EFECTUADAS AL FONDO NACIONAL DEL CANCER, CONFORME LO DISPUESTO EN LA LEY N°21.258."
+fecha: "2021-08-31"
+exenta: true
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1, 33 bis y artículo 60 del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974 del Ministerio de Hacienda", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 14° y 18°, de la Ley N°21.258 de 2020, que 'Crea la Ley Nacional del Cáncer, que rinde homenaje póstumo al doctor Claudio Mora'", "lo instruido en la Resolución Ex", "N°98 de 2017, N°126 de 2020 y N°128 de 2020, y lo señalado en la Resolución Ex"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

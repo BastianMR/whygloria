@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 140 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00186688"
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos."
+fecha: "2021-12-28"
+exenta: true
+impuestos: ["iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado y el artículo 35 del Código Tributario."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00186688
 

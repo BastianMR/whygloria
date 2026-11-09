@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 5 (2020)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES | CIRCULAR N° 5.- |"
 tags: [SII, 2020, circular]
+materia: "APLICACIÓN DE LA CLAUSULA DE LA NACION MASFAVORECIDAAL CONVENIO CON ITALIA"
+fecha: "2020-01-17"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES** | **CIRCULAR N° 5.-** |
 | --- | --- |

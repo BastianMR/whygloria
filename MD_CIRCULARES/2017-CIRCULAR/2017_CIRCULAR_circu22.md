@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 22 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 22.- |"
 tags: [SII, 2017, circular]
+materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2017, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2017-04-07"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ART. 72 LIR"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 22.-** |
 | --- | --- |

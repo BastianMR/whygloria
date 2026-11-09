@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2020)"
 description: "MATERIA: Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado d..."
 tags: [SII, 2020, resolucion]
+materia: "Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017."
+fecha: "2020-05-29"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35, 60 inciso penúltimo, 63 inciso primero, todos del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 81 de la Ley N°18.046, el artículo 82 de la Ley sobre Impuesto a la Renta y lo dispuesto en la Resoluciones N°s 80 y 81 del 31.08.2017."]
 ---
-
-
 
 MATERIA: Registro de accionistas que debe ser considerado para los fines de determinar la obligación de retención del impuesto adicional y crea Certificado de Calificación Tributaria de Dividendos. Complementa Resoluciones Exentas SII N°s 80 y N°81, de 2017.
 

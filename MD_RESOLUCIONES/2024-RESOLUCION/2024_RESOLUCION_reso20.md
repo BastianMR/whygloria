@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 266102"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 266102"
+fecha: "2024-01-31"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y 33 bis del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo establecido en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980", "lo establecido en los artículos 8° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "lo dispuesto en la Ley N° 18.168 General de Telecomunicaciones y en su Reglamento, el cual está contenido en el Decreto N° 18 del 2014, del Ministerio de Transporte y Telecomunicaciones y la Subsecretaria de Telecomunicaciones", "y lo dispuesto en las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 266102
 

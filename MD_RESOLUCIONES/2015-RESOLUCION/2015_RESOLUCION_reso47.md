@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2015)"
 description: "MATERIA: Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación esta..."
 tags: [SII, 2015, resolucion]
+materia: "Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 13 bis del D.L. N° 828, de 1974."
+fecha: "2015-05-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D", "el artículo undécimo transitorio de la Ley N° 20.780 de 2014, sobre Reforma Tributaria que Modifica el Sistema de Tributación de la Renta e Introduce Diversos Ajustes en el Sistema Tributario", "lo establecido en el Decreto Supremo N°19 de 20 de enero de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de 17 de abril del mismo año, que contiene el Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L"]
 ---
-
-
 
 MATERIA: Determina contribuyentes obligados a aplicar a los respectivos bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 13 bis del D.L. N° 828, de 1974.
 

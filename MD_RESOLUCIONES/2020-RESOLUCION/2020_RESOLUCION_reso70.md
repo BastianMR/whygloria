@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TRIBUTARIOS AUTORIZADOS EN FORMATO PAPEL QUE INDICA."
+fecha: "2020-06-30"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 6º letra A, Nºs 1 y 3 y 88 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 23 N° 5", "Nº 54 y Nº 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el artículo 1° del D.L", "y el artículo Nº 70 del Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "y las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE OPERACIONES
 

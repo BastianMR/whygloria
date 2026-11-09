@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 213 - SDAC - 2018 77318589137"
 tags: [SII, 2018, resolucion]
+materia: "AMPLÍA AUTORIZACIÓN A SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A.RUT N° 96.556.930-8. COMPLEMENTA RESOLUCIÓN EXENTA SII N°166 DE 04.11.2010, EN LOS TÉRMINOS QUE INDICA."
+fecha: "2018-09-12"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en del D.L", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 213 - SDAC - 2018 77318589137
 

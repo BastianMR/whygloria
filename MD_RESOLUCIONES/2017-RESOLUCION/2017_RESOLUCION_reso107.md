@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2017)"
 description: "Subdirección de Fiscalización Departamento de Análisis Selectivo del Cumplimiento Tributario"
 tags: [SII, 2017, resolucion]
+materia: "Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016."
+fecha: "2017-10-26"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1, 34, 35, y 60 inciso noveno del Código Tributario, contenido en artículo 1° del D.L", "en los artículos 3, 10, 11, 14, 21, 38, 58, 59, 60, 62, 63, 74, 79, 82 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en los artículos 81, 82 y 86 de la ley que regula la administración de fondos de terceros y carteras individuales, contenida en el artículo primero de la Ley N° 20.712 de 2014", "artículo 10 del D.L", "y en las Resoluciones Exentas N° 1, 17 y 73, de 2003"]
 ---
-
-
 
 Subdirección de Fiscalización Departamento de Análisis Selectivo del Cumplimiento Tributario
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 19 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 19.- |"
 tags: [SII, 2017, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2017-03-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 19.-** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA COMO EMISOR DE BOLETAS ELECTRÓNICAS A CONTRIBUYENTE QUE SE SEÑALA."
+fecha: "2014-06-03"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 4° bis del D.F.L", "la Ley N° 20.727, de 2014"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

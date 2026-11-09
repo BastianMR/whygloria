@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2016-06-30"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, publicada en el Diario Oficial de fecha 15.10.1980", "el artículo 6°, letra A), N° 1 y artículo 69 del Código Tributario contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "la Ley N° 20.780, sobre Reforma Tributaria publicada en el Diario Oficial de 29.09.2014", "el numeral 9 del artículo 3° la Ley N° 20.899, que Simplifica el Sistema de Tributación a la Renta y Perfecciona otras Disposiciones Legales Tributarias, publicada en el Diario Oficial el 08.02.2016", "la Circular N° 66, de 29.10.1998 que imparte instrucciones sobre el procedimiento de término de giro", "la Circular N° 58, del 30.06.2015 que instruye acerca de las modificaciones introducidas por la Ley N° 20.780, de 29.09.2014, a los artículos 68 y 69 del Código Tributario, y que deroga la Circular N° 12, de 04.02.2003", "la Circular N° 30 de 10.05.2016, que imparte instrucciones relativas al nuevo inciso final del artículo 69 del Código Tributario, incorporado por la Ley N° 20.899", "y las Resoluciones Exentas N°s 29 y 41, de 2002", "la Resolución Exenta N°100 de fecha 23.10.2014, que complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando el resolutivo duodécimo de la Resolución Exenta SII N° 45, del 01.09.2003", "y la Resolución Exenta SII N° 98, de 21.10.2014"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

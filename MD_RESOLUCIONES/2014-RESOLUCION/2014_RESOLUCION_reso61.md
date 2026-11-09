@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "## EXIME DEL TIMBRAJE DE PAGARÉS A CONTRIBUYENTE QUE INDICA."
+fecha: "2014-06-20"
+exenta: true
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el Art. 1° del D.L", "y en los Arts. 1°, N° 3, 17 inciso 2° y Art. 18°, del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

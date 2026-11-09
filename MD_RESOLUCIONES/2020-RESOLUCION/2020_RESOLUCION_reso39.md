@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2020)"
 description: "Subdirección de Administración"
 tags: [SII, 2020, resolucion]
+materia: "## COMPLEMENTA RESOLUCIÓN EXENTA N° 1 DE 2020 EN EL SENTIDO QUE INDICA"
+fecha: "2020-04-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del DFL N°7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el Artículo 3° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "La Ley N° 21.192, sobre Presupuesto para el Sector Público para el año 2020", "la Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento", "el Decreto N° 4, de 2020, del Ministerio de Salud, y sus modificaciones posteriores dispuestas por los Decretos N°s 6 y 10, del mismo año y Ministerio", "el Decreto N° 104, de 2020, del Ministerio del Interior y Seguridad Pública, y sus modificaciones posteriores dispuestas por los Decretos N°s 106 y 107, ambos del mismo año y Ministerio", "la Resolución Exenta N° 1055, de 2010, sobre procedimientos para adquisiciones, la Resolución Exenta N° 96, de 2013, que la modifica, y la Resolución Exenta Nº 1 de 2020, todas de la Dirección Nacional del Servicio de Impuestos Internos", "y la Resolución N° 7, de 2019, de la Contraloría General de la República"]
 ---
-
-
 
 Subdirección de Administración
 

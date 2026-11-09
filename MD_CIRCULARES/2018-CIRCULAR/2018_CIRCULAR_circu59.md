@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 59 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N°59 09.2018 CIRC.SN 243.2018 CIRC.TT |"
 tags: [SII, 2018, circular]
+materia: "MATERIA Complementa la Circular N° 31 de 2018, en la parte que instruye sobre las modificaciones incorporadas por la Ley N° 21.047 al artículo 37 del Decreto Ley N° 1.939 de 1977. Tratamiento tributario de las donaciones efectuadas al amparo del artículo 4° de la Ley N° 19.896, que introduce modific"
+fecha: "2018-12-27"
+exenta: false
+impuestos: ["renta", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 6° de la Ley N° 21.047", "artículo 37 del Decreto Ley N° 1.939 de 1977", "artículo 4° de la Ley N° 19.896."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°59 09.2018 CIRC.SN 243.2018 CIRC.TT** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA RES. EX. SII N° 56, DE 30 DE JUNIO DE 2015, EN EL SENTIDO QUE INDICA."
+fecha: "2015-08-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en las letras h), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y en el N° 3 de la letra A) del Artículo 6 del Código Tributario contenido en el D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA
 

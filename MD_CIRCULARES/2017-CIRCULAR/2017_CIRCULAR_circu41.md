@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 41 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 41 |"
 tags: [SII, 2017, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2017-08-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 41** |
 | --- | --- |

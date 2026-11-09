@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2020)"
 description: "Diario Oficial en extracto"
 tags: [SII, 2020, resolucion]
+materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CONCEPCIÓN."
+fecha: ""
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

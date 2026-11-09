@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+materia: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO SOBRE RENTAS ACUMULADAS, PARA CONTRIBUYENTES ACOGIDOS O QUE SE ACOJAN AL RÉGIMEN SIMPLIFICADO DEL ARTÍCULO 14 TER DE LA LEY SOBRE IMPUESTO A LA RENTA Y PARA CONTRIBUYENTES SUJETOS AL RÉGIMEN GENERAL DEL IMPUESTO A LA RENTA."
+fecha: "2016-04-05"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 14 y 14 ter letra A, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el N° 11, del numeral I y en el número 8 del numeral III, incorporado por la Ley N° 20.899, ambas del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, y el artículo primero de las disposiciones transitorias de la Ley N° 20.899", "y la Resolución Exenta N° 128, de 31 de diciembre de 2014, Resolución Exenta N° 27, de 27 de julio de 2001, modificada mediante las Resoluciones Exentas N° 87, de 08 de septiembre de 2004"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

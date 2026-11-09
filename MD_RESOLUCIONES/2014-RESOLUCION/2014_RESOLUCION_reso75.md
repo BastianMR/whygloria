@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "108-SDF-2014 24/2014-DAAC 407/2014-DAAC 77314445856"
+fecha: "2014-08-11"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, letra A), N° 1 y Art. 92° BIS, contenido en el Art. 1° del D.L", "la letra b), del Art. 7° del D.F.L", "el Título XIII del D.S. de Hacienda N° 55, de 1977, reglamentario del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

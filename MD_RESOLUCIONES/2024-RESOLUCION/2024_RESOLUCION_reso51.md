@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2024, resolucion]
+materia: "## CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77324627379 121-DCV-2024 GE278874"
+fecha: "2024-04-24"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N°s. 1 y 2, 9° letra a)", "54, 55, 56, 69 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL
 

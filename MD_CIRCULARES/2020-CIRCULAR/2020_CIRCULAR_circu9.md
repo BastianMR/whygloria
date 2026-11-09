@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2020)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 9 |"
 tags: [SII, 2020, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020."
+fecha: "2020-02-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 9** |
 | --- | --- |

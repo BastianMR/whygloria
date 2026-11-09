@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES c-211-2015 sd SDAC-19-2015"
 tags: [SII, 2015, resolucion]
+materia: "## AUTORIZA COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE SE SEÑALA."
+fecha: "2015-11-20"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 56, incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES c-211-2015 sd SDAC-19-2015
 

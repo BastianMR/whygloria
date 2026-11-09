@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 67 (2016)"
 description: "Complementada por Circular Nº 71, del 29 de diciembre de 2016"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR)."
+fecha: "2016-12-07"
+exenta: false
+impuestos: ["renta", "iva", "timbres"]
+formularios: ["DJ1922"]
+regimen: ["14A"]
+ref_legal: ["Ley N° 20.712 de 2014 y artículos 107, 108 y 109 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L. 824, de 1974."]
 ---
-
-
 
 Complementada por Circular Nº 71, del 29 de diciembre de 2016
 

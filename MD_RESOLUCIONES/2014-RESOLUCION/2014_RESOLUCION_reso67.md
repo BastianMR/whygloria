@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA A CONTRIBUYENTE QUE INDICA PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS."
+fecha: "2014-07-21"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

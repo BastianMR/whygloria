@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 20 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 20.- |"
 tags: [SII, 2018, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2018-04-10"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 20.-** |
 | --- | --- |

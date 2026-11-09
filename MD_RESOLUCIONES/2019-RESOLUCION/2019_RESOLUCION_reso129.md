@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2019, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos."
+fecha: "2019-11-20"
+exenta: true
+impuestos: ["iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública y la Ley Nº19.518 del Servicio Nacional de Capacitación y Empleo", "el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda ."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

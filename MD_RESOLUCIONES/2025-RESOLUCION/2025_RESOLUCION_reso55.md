@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2025)"
 description: "IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE FISCALIZACIÓN UNIFICADO DEL ARTÍCULO 59 TER DEL CÓDIGO TRIBUTARIO."
 tags: [SII, 2025, resolucion]
+materia: "IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE FISCALIZACIÓN UNIFICADO DEL ARTÍCULO 59 TER DEL CÓDIGO TRIBUTARIO."
+fecha: "2025-04-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 8 N° 14, 8° bis, 59, 59 ter, 65 bis y 65 ter todos del Código Tributario", "en los artículos 1°, 4 bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, de Hacienda", "las modificaciones introducidas al Código Tributario por los números 21, 28 y 29 del artículo 1° de la Ley N° 21.713, y la Circular N° 6 de 2025"]
 ---
 
 GE 316936

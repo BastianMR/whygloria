@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 23 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 23.- |"
 tags: [SII, 2016, circular]
+materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.899, AL ARTÍCULO 11, DEL CÓDIGO TRIBUTA- RIO. MODIFICA EN LAS PARTES PERTINENTES LA CIR- CULAR N° 34, DE 2015."
+fecha: "2016-05-03"
+exenta: false
+impuestos: ["contribuciones"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["en el Código Tributario, materia sobre la cual se impartieron instrucciones por Circular N° 34, de 2015."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 23.-** |
 | --- | --- |

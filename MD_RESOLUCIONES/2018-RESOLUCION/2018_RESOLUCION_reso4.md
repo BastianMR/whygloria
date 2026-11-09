@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 4 (2018)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 tags: [SII, 2018, resolucion]
+materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
+fecha: "2018-01-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales."]
 ---
-
-
 
 ## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA
 

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 137 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00344029"
 tags: [SII, 2025, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación Superior y el Servicio de Impuestos Internos."
+fecha: "2025-10-08"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y letra o) del 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 2 de la Ley N° 20.575 y el artículo 35 del Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00344029

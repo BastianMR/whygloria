@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2020)"
 description: "MAMM/MZR Distribución:"
 tags: [SII, 2020, resolucion]
+materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE COYHAIQUE."
+fecha: "2020-07-14"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

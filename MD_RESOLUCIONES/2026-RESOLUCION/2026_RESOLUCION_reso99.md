@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
 tags: [SII, 2026, resolucion]
+materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LAS REGIONES DE ATACAMA, COQUIMBO, VALPARAÍSO, METROPOLITANA DE SANTIAGO, LIBERTADOR GENERAL BERNARDO O'HIGGINS, MAULE, ÑUBLE, BIOBÍO, LA ARAUCANÍA Y LOS RÍOS."
+fecha: "2026-07-27"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34, todos del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 54 de la Ley sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS

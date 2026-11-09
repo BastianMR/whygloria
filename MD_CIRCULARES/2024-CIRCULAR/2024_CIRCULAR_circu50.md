@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 50 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°50.- 297989.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 9 de la Ley N° 21.420. Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023."
+fecha: "2024-11-28"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículo 5 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024 y artículo 9 de la Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°50.- 297989.2024 GE** |
 | --- | --- |

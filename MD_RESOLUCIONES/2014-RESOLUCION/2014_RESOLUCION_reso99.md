@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "REGULA INSCRIPCIÓN EN SISTEMA DE FACTURACIÓN GRATUITO DEL SII, DISPONIBLE EN INTERNET."
+fecha: "2014-10-21"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El Art. 6º, letra A) Nº 1, el Art. 8° ter del Código Tributario, contenido en el Art. 1º del D.L", "lo dispuesto en la letra b) del Art. 7º, el Art. 4° bis, ambos del D.F.L", "el Art. 54°, del D.L", "la Ley N° 19.983, de 2004", "la Ley N° 20.494, de 2011", "la Ley N° 20.659, de 2013", "la Circular N° 32, de 20.06.2005", "la Circular N° 23, de 03.05.2013"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

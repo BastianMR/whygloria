@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2026)"
 description: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2027"
 tags: [SII, 2026, resolucion]
+materia: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2027"
+fecha: "2026-10-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en letra A), Nº 1, del artículo 6º, y en los artículos 33 bis, y 35 del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
 
 GE 399601

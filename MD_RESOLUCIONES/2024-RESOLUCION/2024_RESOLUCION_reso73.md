@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2024)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE281212"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES GE281212"
+fecha: "2024-07-05"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980, en los artículos 6° letra A N° 1, 8, 36, 53 y 192 del Código Tributario, contenido en el artículo ", "en el artículo 22 del Decreto con Fuerza de Ley N° 1, de 1998, del Ministerio de Hacienda, que fija texto refundido, coordinado, sistematizado y actualizado de la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 2° N°1 del Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1994, que fija el texto refundido, coordinado, sistematizado y actualizado del estatuto orgánico del Servicio de Tesorerías", "en el Decreto Supremo Nº 230, de 6 de septiembre de 2023, del Ministerio del Interior y Seguridad Pública, que extiende vigencia de declaración de zona de catástrofe de las comunas de la región de Coquimbo y en el Decreto Supremo N° 287, de 2024, del Ministerio de Hacienda, que establece medidas de "]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE281212
 

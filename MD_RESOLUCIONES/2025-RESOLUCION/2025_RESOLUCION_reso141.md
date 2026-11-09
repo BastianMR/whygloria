@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2025)"
 description: "ESTABLECE FORMA DE ACREDITAR EL COBRO DE IVA EN LA VENTA PARA LA PROCEDENCIA DE LA EXENCIÓN DE IVA Y DE ARANCEL ADUANERO EN LA IMPORTACIÓN DE BIENES DE BAJO ..."
 tags: [SII, 2025, resolucion]
+materia: "ESTABLECE FORMA DE ACREDITAR EL COBRO DE IVA EN LA VENTA PARA LA PROCEDENCIA DE LA EXENCIÓN DE IVA Y DE ARANCEL ADUANERO EN LA IMPORTACIÓN DE BIENES DE BAJO VALOR A QUE SE REFIERE EL ARTÍCULO 12 LETRA B) N°18, DEL DECRETO LEY N°825 DE 1974, ADQUIRIDOS POR MEDIO DE UNA PLATAFORMA DIGITAL DE INTERMEDIACIÓN CUYO OPERADOR TIENE DOMICILIO O RESIDENCIA EN CHILE."
+fecha: "2025-10-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en la Ley Orgánica del Servicio Nacional de Aduanas contenida en el Decreto Nº329, del Ministerio de Hacienda, de 1979", "en el Decreto con Fuerza de Ley N°30 de 2004 que aprueba el texto refundido, coordinado y sistematizado del Decreto con Fuerza de Ley Nº213, de 1953, sobre Ordenanza de Aduanas", "en el Decreto con Fuerza de Ley N°31 del año 2005, que aprueba el texto refundido, coordinado y sistematizado de la Ley Nº18.525, que establece normas sobre importación de mercancías al país", "en los artículos 3°, 16° y tercero transitorio de la Ley N°21.713", "en los artículos 2°, 3° bis, 4°, 8° letra a), 9° letras a) y b), 12 letra B) N°11 y N°18, 15, 16 letra a) y 35 A de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "en la Ley N°18.084", "lo instruido en la Circular SII N°39 de 2025 o en aquella que la modifique o componente", "y en la Resolución Ex"]
 ---
 
 ESTABLECE FORMA DE ACREDITAR EL COBRO DE IVA EN LA VENTA PARA LA PROCEDENCIA DE LA EXENCIÓN DE IVA Y DE ARANCEL ADUANERO EN LA IMPORTACIÓN DE BIENES DE BAJO VALOR A QUE SE REFIERE EL ARTÍCULO 12 LETRA B) N°18, DEL DECRETO LEY N°825 DE 1974, ADQUIRIDOS POR MEDIO DE UNA PLATAFORMA DIGITAL DE INTERMEDIACIÓN CUYO OPERADOR TIENE DOMICILIO O RESIDENCIA EN CHILE.

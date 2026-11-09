@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2024)"
 description: "FIJA PROCEDIMIENTO PARA LA DECLARACIÓN Y PAGO DEL IVA POR CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE INSCRITOS EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFI..."
 tags: [SII, 2024, resolucion]
+materia: "FIJA PROCEDIMIENTO PARA LA DECLARACIÓN Y PAGO DEL IVA POR CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE INSCRITOS EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DEL TÍTULO II DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
+fecha: "2024-11-14"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: ["F129"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 18 N° 3 letra b), 36, 36 bis, 50, 51, 53, 126, 128 y 164 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 3°, 5°, 8° letra n), 9° letra a), 11 letra e), 12 letra E), 13 y lo dispuesto en el Párrafo 7° bis, del Título II, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en el artículo 3° de la Ley N°21.713", "en los artículo 59, 59 bis, 74 N° 4 y 79 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "en las Resoluciones Ex"]
 ---
-
-
 
 FIJA PROCEDIMIENTO PARA LA DECLARACIÓN Y PAGO DEL IVA POR CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE INSCRITOS EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DEL TÍTULO II DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+materia: "ESTABLECE LA FORMA Y PROCEDIMIENTO PARA HACER EFECTIVA POSTERGACIÓN DEL PAGO DEL IMPUESTO AL VALOR AGREGADO, CONFORME AL INCISO TERCERO DEL ARTÍCULO 64 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 110 DE 2014."
+fecha: "2022-05-03"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 36 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 1° del D.S"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS
 

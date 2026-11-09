@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 17 (2015)"
 description: "DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA | CIRCULAR N° 17 |"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por el artículo 6° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria, a la Ley sobre Impuesto de Timbres y Estampillas, contenida en el Decreto Ley N° 3.475 de 1980."
+fecha: "2015-03-02"
+exenta: false
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780 de 2014, publicada en el Diario Oficial el 29 de septiembre de 2014"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA** | **CIRCULAR N° 17** |
 | --- | --- |

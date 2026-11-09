@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2016)"
 description: "FIJA PROCEDIMIENTO MEDIANTE EL CUAL LOS CONTRIBUYENTES PUEDEN SOLICITAR UNA NUEVA TASACIÓN DE UN INMUEBLE, AL AMPARO DE LO INDICADO EN EL DL N°825, DE 1974."
 tags: [SII, 2016, resolucion]
+materia: "FIJA PROCEDIMIENTO MEDIANTE EL CUAL LOS CONTRIBUYENTES PUEDEN SOLICITAR UNA NUEVA TASACIÓN DE UN INMUEBLE, AL AMPARO DE LO INDICADO EN EL DL N°825, DE 1974."
+fecha: "2016-05-26"
+exenta: true
+impuestos: ["iva", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 17 del DL N° 825, sobre Impuesto a las Ventas y Servicios, de 1974", "en el número 6 del artículo 2°, de la Ley N° 20.899, que simplificó el sistema de tributación a la renta y perfeccionó otras disposiciones legales tributarias", "en el número 1, letra A del artículo 6° del D.L", "en el artículo 7° del D.F.L N° 7 de 1980, Ley Orgánica del Servicio de Impuestos Internos"]
 ---
-
-
 
 FIJA PROCEDIMIENTO MEDIANTE EL CUAL LOS CONTRIBUYENTES PUEDEN SOLICITAR UNA NUEVA TASACIÓN DE UN INMUEBLE, AL AMPARO DE LO INDICADO EN EL DL N°825, DE 1974.
 

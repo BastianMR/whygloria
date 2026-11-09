@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE NORMAS EN RELACIÓN A LA EMISIÓN DEL COMPROBANTE O 'RECIBO DE PAGO' GENERADO EN TRANSACCIONES PAGADAS A TRAVÉS DE MEDIOS ELECTRÓNICOS, COMO SUSTITUTO DE LA BOLETA DE VENTAS Y SERVICIOS, DE ACUERDO A LO DISPUESTO POR EL ART. 54 DEL D.L. N°825, DE 1974."
+fecha: "2015-01-22"
+exenta: false
+impuestos: ["iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, letra A, N° 1", "Artículos 88 y 97 N°s 1 y 10 del Código Tributario, contenido en el Artículo Primero del D.L", "Artículo 1° de la Ley 20.727 de 2014, en los Artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios", "las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

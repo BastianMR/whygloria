@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+materia: "REESTRUCTURA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE. MODIFICA RES. EX N° 98, DE 2014"
+fecha: "2018-03-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras a), c), y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y la Resolución Exenta N° 98, de 21.10.2014 que Crea el Departamento Subdirección de Asistencia al Contribuyente y Establece Funciones y Ámbito de Competencia de las Unidades que lo conforman, de la Dirección Nacional del Servicio de Impuestos Internos, modificada por la Resolución Exenta N°65", "la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

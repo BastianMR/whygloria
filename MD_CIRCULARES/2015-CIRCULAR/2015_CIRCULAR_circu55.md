@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 55 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA 1875 | CIRCULAR Nº 55.- |"
 tags: [SII, 2015, circular]
+materia: "Vigencia de las normas anti elusión establecidas en los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario. Complementa instrucciones contenidas en la Circular N° 55 de 2014, de este Servicio."
+fecha: "2015-06-24"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA 1875** | **CIRCULAR Nº 55.-** |
 | --- | --- |

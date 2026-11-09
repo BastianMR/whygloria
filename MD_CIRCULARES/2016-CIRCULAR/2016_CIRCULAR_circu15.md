@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 15 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID |"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre la situación tributaria de las rentas derivadas de bienes situados o actividades desarrolladas en el Territorio Especial de Isla de Pascua, conforme a lo dispuesto en el artículo 2°, de la Ley N° 20.809, y el artículo 41 de la Ley N°16.441."
+fecha: "2016-04-06"
+exenta: false
+impuestos: ["renta", "segunda-categoria", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 2° de la Ley N° 20.809, publicada en el Diario Oficial de 30 de enero de 2015", "artículo 41 de la Ley N°16.441."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 15.- 04-2015 SN Circ. 14-2015 ID** |
 | --- | --- |

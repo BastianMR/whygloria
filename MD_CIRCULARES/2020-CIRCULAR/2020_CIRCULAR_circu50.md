@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 50 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 50 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios."
+fecha: "2020-07-31"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020", "Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Ley N° 19.983, que regula la transferencia y otorga mérito ejecutivo a la copia de la factura."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 50** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 24 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 24.- |"
 tags: [SII, 2016, circular]
+materia: "Modificación introducida por la Ley N° 20.899, de 8 de febrero de 2016, al artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos. Modifica la Circular N° 41, de 5 de junio de 2015."
+fecha: "2016-05-03"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 24.-** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2016)"
 description: "MATERIA: Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimient..."
 tags: [SII, 2016, resolucion]
+materia: "Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de"
+fecha: "2016-06-17"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N°1, y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en la Ley Orgánica del Servicio Nacional de Aduanas contenida en el Decreto con Fuerza de Ley Nº329/1979, ambos del Ministerio de Hacienda", "en el artículo 41 E N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el artículo 3° de la Ley N° 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por D.F.L", "en la Ley N° 19.880 que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, en la Resolución N°1600 de 30 de octubre de 2008 de Contraloría General de la República, sobre exención del trámite de Toma de Razón y lo dispuesto en la "]
 ---
-
-
 
 MATERIA: Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de importaciones de mercancías entre partes relacionadas.
 

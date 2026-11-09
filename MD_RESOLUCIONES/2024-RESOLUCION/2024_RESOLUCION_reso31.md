@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2024)"
 description: "MFM/CVE/AID Distribución:"
 tags: [SII, 2024, resolucion]
+materia: "DESIGNA SECRETARIOS TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SAN MIGUEL."
+fecha: "2024-03-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

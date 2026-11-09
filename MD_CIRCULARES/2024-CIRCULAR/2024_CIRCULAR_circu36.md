@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 36 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°36.- 293054.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2024 y el 9 de septiembre de 2024, ambos inclusive."
+fecha: "2024-08-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°36.- 293054.2024 GE** |
 | --- | --- |

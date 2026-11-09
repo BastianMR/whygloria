@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2018, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos."
+fecha: "2018-03-16"
+exenta: true
+impuestos: []
+formularios: ["F22", "F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública y el D.F.L N°1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del Decreto Ley N°2.763, de 1979 y de las Leyes N° 18.933 y N° 18.469"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

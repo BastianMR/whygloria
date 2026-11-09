@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "IMPLEMENTA EXCEPCIONES ESTABLECIDAS EN EL INCISO SEGUNDO DEL ARTÍCULO 54 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, REFERENTE A LA OBLIGACIÓN DE EMITIR DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS, EN LA FORMA QUE INDICA."
+fecha: "2014-07-31"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial del 12 de abril de 2002", "el artículo 2° de la Ley N° 20.416, que fija Normas Especiales para las Empresas de Menor Tamaño", "las instrucciones impartidas mediante Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

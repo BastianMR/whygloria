@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 110 DE 2015 QUE ESTABLECE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO N° 1913."
+fecha: "2020-09-29"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en la Resolución Exenta SII N° 110, de fecha 24 de diciembre de 2015", "en la Resolución Exenta SII N° 105, de fecha 30 de septiembre de 2019", "y las disposiciones contenidas en la Ley N° 21.210 publicada en el Diario Oficial el 24.02.2020"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

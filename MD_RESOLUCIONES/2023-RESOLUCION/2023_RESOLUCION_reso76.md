@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2023)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2023, resolucion]
+materia: "## MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA."
+fecha: "2023-06-28"
+exenta: true
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A Nº 1 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en los artículos 17 y 18 del Decreto Ley Nº 3475 de 1980 sobre Impuesto de Timbres y Estampillas", "las instrucciones impartidas en la Resolución Exenta SII Nº 128 de fecha 29.12.2022"]
 ---
-
-
 
 ## MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA.
 

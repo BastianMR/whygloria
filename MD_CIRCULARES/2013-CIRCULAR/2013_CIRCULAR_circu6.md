@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 06.- 10.2012 SN 128-2012 ID |"
 tags: [SII, 2013, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley 20.630, a la Ley sobre Impuesto a la Renta, que rebaja las escalas de tasas de los impuestos Único de Segunda Categoría y Global Complementario, perfecciona las normas que permiten efectuar una reliquidación anual del Impuesto Único de Segunda "
+fecha: "2013-01-28"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 43, 47, 52, 54, 55 ter, 56, 65 y 75, de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley 824, de 1974) y Ley 20.630 , del 27 de septiembre de 2012."]
 ---
-
-
 
 1875
 

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2025)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 tags: [SII, 2025, resolucion]
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
+fecha: "2025-07-22"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F129"]
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 8° bis, 18, 36, 53, 56 y 97 Nº 11 del Código Tributario, contenido en el Decreto Ley Nº 830, de 1974", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "los artículos 2°, 5°, 8° letra n), 11 letra e) y en el Párrafo 7° bis del Título II que regula el régimen de tributación simplificada de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "y lo en las Resoluciones Ex"]
 ---
 
 GE 334809

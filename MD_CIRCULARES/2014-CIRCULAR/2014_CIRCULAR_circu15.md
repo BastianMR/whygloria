@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 15 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ. |"
 tags: [SII, 2014, circular]
+materia: "Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sob"
+fecha: "2014-03-17"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 14 y 41 N° 9 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ.** |
 | --- | --- |

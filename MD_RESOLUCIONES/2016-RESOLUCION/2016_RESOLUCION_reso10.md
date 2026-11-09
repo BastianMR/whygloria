@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR MODELOS DE MÁQUINAS REGISTRADORAS, MODELOS DE MÁQUINAS DE IMPRESIÓN Y TERMINALES DE PUNTO DE VENTA Y PARA EMISIÓN DE CERTIFICADOS TÉCNICOS DE MANTENCIÓN PARA TERMINALES DE PUNTO DE VENTA Y MÁQUINAS REGISTRADORAS"
+fecha: "2016-02-29"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el art. 41 de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en las letras a), b), c) e i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830 de 1974", "y el artículo 56 de la Ley de Impuesto a las ventas y Servicios, contenido en el artículo 1° del Decreto Ley N° 825"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

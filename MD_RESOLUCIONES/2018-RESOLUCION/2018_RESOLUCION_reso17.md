@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2018)"
 description: "MAT: Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero."
 tags: [SII, 2018, resolucion]
+materia: "Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero."
+fecha: "2018-02-20"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1) y 33 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 12, 41 A, 41 C, 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D", "y la Resolución Exenta SII N° 50, de 13 de abril de 2011"]
 ---
-
-
 
 MAT: Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero.
 

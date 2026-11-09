@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2017)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES | CIRCULAR N°42 |"
 tags: [SII, 2017, circular]
+materia: "Aplicación de cláusula de nación más favorecida contenida en el protocolo del Convenio entre Chile y México respecto de servicios prestados por personas naturales."
+fecha: "2017-08-23"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES** | **CIRCULAR N°42** |
 | --- | --- |

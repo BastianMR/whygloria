@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2017)"
 description: "ESTABLECE PROCEDIMIENTO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE CONSTRUCCIONES Y, ..."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE CONSTRUCCIONES Y, O REGULARIZACIONES QUE OTORGUEN."
+fecha: "2017-11-27"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 16, N° 2, de la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A, N° 1, y 83 y 87 del Código Tributario", "contenido en el artículo 1° del D.L", "en los artículos 1° y 7° letras a) y b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 ESTABLECE PROCEDIMIENTO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS RESPECTO DE LAS RECEPCIONES DEFINITIVAS DE CONSTRUCCIONES Y, O REGULARIZACIONES QUE OTORGUEN.
 

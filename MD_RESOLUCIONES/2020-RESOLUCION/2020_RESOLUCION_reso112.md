@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2020)"
 description: "ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR E..."
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 20.732. DEJA SIN EFECTO RESOLUCIONES QUE INDICA."
+fecha: "2020-09-14"
+exenta: true
+impuestos: ["renta", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en la Ley N° 20.732, de 2014, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente", "el artículo vigésimo octavo de la Ley N° 21.210, de 2020, que moderniza la legislación tributaria"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 20.732. DEJA SIN EFECTO RESOLUCIONES QUE INDICA.
 

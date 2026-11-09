@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00206173"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00206173"
+fecha: "2023-07-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "artículos 35 y 162 del Código Tributario, artículos 83 y siguientes de la Constitución Política de la República", "Ley N° 19.640, que establece la ley Orgánica Constitucional del Ministerio Público", "la Ley N° 19.628, sobre Protección de la Vida Privada", "artículo 5, del artículo primero, de la Ley N° 20.285, sobre Acceso a la Información Pública"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00206173
 

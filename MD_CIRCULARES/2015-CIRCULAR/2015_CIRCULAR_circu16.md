@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 16 (2015)"
 description: "GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 16.- |"
 tags: [SII, 2015, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 1 de la Ley de la Renta."
+fecha: "2015-02-24"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Arts. 23, 34 Nº 1 y 74 Nº 6 LIR"]
 ---
-
-
 
 | **GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 16.-** |
 | --- | --- |

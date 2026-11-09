@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2022)"
 description: "ESTABLECE PROCEDIMIENTO PARA PRESENTAR LA DECLARACIÓN JURADA SOBRE AVISO DE INTENCIÓN DE PERMANENCIA EN CHILE, DE ACUERDO A LA CIRCULAR N° 63 DE 2021."
 tags: [SII, 2022, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA PRESENTAR LA DECLARACIÓN JURADA SOBRE AVISO DE INTENCIÓN DE PERMANENCIA EN CHILE, DE ACUERDO A LA CIRCULAR N° 63 DE 2021."
+fecha: "2022-12-02"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 6°, letra A), N° 1, 8 N° 8, 60 y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 3° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "la Ley N° 21.210 sobre modernización tributaria que modifica el N° 8 del artículo 8° del Código Tributario, y las Circulares N° 40 y N° 63, ambas de 2021."]
 ---
-
-
 
 ESTABLECE PROCEDIMIENTO PARA PRESENTAR LA DECLARACIÓN JURADA SOBRE AVISO DE INTENCIÓN DE PERMANENCIA EN CHILE, DE ACUERDO A LA CIRCULAR N° 63 DE 2021.
 

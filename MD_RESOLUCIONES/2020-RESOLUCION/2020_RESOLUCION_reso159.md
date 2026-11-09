@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 159 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00168793 GE00168923 GE00169491"
 tags: [SII, 2020, resolucion]
+materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
+fecha: ""
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017"]
 ---
-
-
 
 SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00168793 GE00168923 GE00169491
 

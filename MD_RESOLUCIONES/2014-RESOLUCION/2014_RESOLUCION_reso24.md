@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
+materia: "INSTALA LA XIX DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO NORTE, FIJANDO SU SEDE Y TERRITORIO JURISDICCIONAL."
+fecha: "2014-02-24"
+exenta: true
+impuestos: ["timbres", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades de este Servicio y lo dispuesto en la Ley N° 20.727 que crea la XIX Dirección Regional Metropolitana Santiago Norte, los artículos 4° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980, la Le"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 13 (2017)"
 description: "GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°13 |"
 tags: [SII, 2017, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N°2 letra c) de la Ley de la Renta."
+fecha: "2017-02-17"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Arts. 23, 34 N°2 letra c) y 74 Nº 6 LIR"]
 ---
-
-
 
 | **GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°13** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2021)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274"
 tags: [SII, 2021, resolucion]
+materia: "Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses"
+fecha: "2021-05-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 31 inciso 2°, de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el artículo 61 de la Ley N° 19.880 que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "la Resolución N° 07, de 2019, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274
 

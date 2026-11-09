@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2017, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
+fecha: "2017-12-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["las facultades de fiscalización otorgadas a este Servicio y que fueran incorporadas por Ley N° 20.780 de 2014", "la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo instruido en la Resolución N° 1.600, de 2008 y N° 10, de 2017, ambas de la Contraloría General de la República", "lo establecido en las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS
 

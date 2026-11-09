@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 359 - SDAC - 2018 77318659075"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 359 - SDAC - 2018 77318659075"
+fecha: "2018-12-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L", "y la Resolución N° 80, del 12.08.2016, , que establece los requisitos que deben cumplir las entidades que se indican para ser receptoras de la 'carpeta tributaria electrónica' y delega facultades"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 359 - SDAC - 2018 77318659075
 

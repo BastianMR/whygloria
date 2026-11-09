@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+materia: "COMPLEMENTA RESOLUCIÓN EX. SII N° 11, DE 11.02.2003, FIJANDO PROCEDIMIENTO DE ENTREGA DE BOLETAS ELECTRÓNICAS, EN SERVICIOS DE RECARGA TELEFÓNICA MÓVIL A TRAVÉS DE INTERNET, EN LOS CASOS QUE INDICA."
+fecha: "2013-06-17"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, letra A), N°1 y Art. 92 Bis del Código Tributario, contenido en el Art. 1° del D.L", "el Art. 56° incisos 3° y 4°, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L", "lo dispuesto en el inciso cuarto del Art. 71 Bis del Reglamento del D.L", "lo establecido en los Artículos 3° y 5° de la ley N° 19.799 en materia de valor probatorio del documento electrónico", "y las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN y ASISTENCIA DE CONTRIBUYENTES
 

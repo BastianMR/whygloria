@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES GE00321137"
 tags: [SII, 2025, resolucion]
+materia: "Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses "
+fecha: "2025-04-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios", "en el Decreto Supremo N°71 de 2014, del Ministerio Secretaría General de la Presidencia, Reglamento de la Ley N°20.730, que \"Regula el Lobby y las Gestiones que representen intereses particulares ante las Autoridades y Funcionarios de la Administración del Estado\"", "en el artículo 7°, letras c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 31 inciso 2°, de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L", "la Resolución N°07, de 2019, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES GE00321137

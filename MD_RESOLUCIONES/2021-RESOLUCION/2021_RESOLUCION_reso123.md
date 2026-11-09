@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00193050"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00193050"
+fecha: "2021-11-02"
+exenta: true
+impuestos: ["iva", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1, 88 y 97 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "artículo 54, 55 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Exenta N° 1661, de 1985", "en las Resoluciones Exentas SII N° 45, de 2003"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00193050
 

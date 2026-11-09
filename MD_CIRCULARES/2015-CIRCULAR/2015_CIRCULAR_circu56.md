@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 56 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 56.- |"
 tags: [SII, 2015, circular]
+materia: "Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes."
+fecha: "2015-06-25"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["que sean constitutivos de fuerza mayor o caso fortuito y que hayan incidido en los resultados de la revisión, entendiéndose estos conceptos en los términos definidos en el artículo 45 del Código Civil 6 , por aplicación de lo dispuesto en el artículo 2° del Código Tributario 7 ."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 56.-** |
 | --- | --- |

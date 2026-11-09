@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+materia: "FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIONES JURADAS FORMULARIOS N°s 1851, 1852 y 1853, ESTABLECIDAS MEDIANTE RESOLUCIÓN EXENTA QUE SE INDICA."
+fecha: "2015-03-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° del D.F.L", "en el N° 1, letra A), del artículo 6°, 34, 35, 60 y 85 inciso 2°, todos del Código Tributario"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

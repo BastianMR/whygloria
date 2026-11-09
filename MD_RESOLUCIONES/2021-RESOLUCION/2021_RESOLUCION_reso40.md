@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+fecha: "2021-04-14"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 4, 6, 10 y 17 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media", "la Resolución Ex", "y, lo establecido en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL
 

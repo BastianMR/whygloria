@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 33 (2025)"
 description: "DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica | CIRCULAR N°33 GE00307631 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario. Modifica las Circulares N° 63 de 2001 y N° 34 de 2022."
+fecha: "2025-04-17"
+exenta: false
+impuestos: ["renta", "iva", "patente-municipal"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024", "números 4, 6, 9, 10, 12, 17, 22 y 27 del artículo 97 del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°33 GE00307631** |
 | --- | --- |

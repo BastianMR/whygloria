@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 20 (2022)"
 description: "DEPARTAMENTO EMISOR Departamento de Técnica Tributaria | CIRCULAR N°20.- 204839.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "MATERIA Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones."
+fecha: "2022-04-21"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022", "Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Departamento de Técnica Tributaria** | **CIRCULAR N°20.- 204839.2022 GE** |
 | --- | --- |

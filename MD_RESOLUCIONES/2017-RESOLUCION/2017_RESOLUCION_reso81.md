@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2017)"
 description: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES POR ACCIONES EN CUSTODIA."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES POR ACCIONES EN CUSTODIA."
+fecha: "2017-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35, 60 inciso penúltimo, 63 y 69 inciso primero, todos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra B) del artículo 14 y en las letras a) y b) del artículo 101, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES POR ACCIONES EN CUSTODIA.
 

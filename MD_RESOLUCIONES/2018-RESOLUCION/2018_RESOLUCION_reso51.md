@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+materia: "ACTUALIZA RESOLUCIÓN EXENTA SII N° 126, DE 27.12.2016, EN LO QUE DICE RELACIÓN CON LOS CONTRIBUYENTES OBLIGADOS A PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE PRECIOS DE TRANSFERENCIA, ATENDIDA LA DEROGACIÓN DEL ARTÍCULO 41 D Y LA MODIFICACIÓN DEL ARTÍCULO 41 E, AMBOS DE LA LEY SOBRE IMPUESTO A LA RE"
+fecha: "2018-06-20"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L", "en el artículo 6°, letra A), N° 1 y en los artículos 29, 30, 33, 34, 35,36, 60 inciso noveno, todos del Código Tributario, contenido en artículo 1°, del D.L", "en el artículo 41 E, de la Ley sobre Impuesto a la Renta, modificado por el artículo 1., número 4., de la Ley N° 21.047, de 23.11.2017", "en los artículos 4°, 5°, 6° y 7°, de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria", "en el artículo 27, de la Convención sobre el Derecho de los Tratados y su anexo", "en las Resoluciones Exentas SII N°s 126 y 124, de 2016 y 2017, respectivamente"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2020)"
 description: "MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 13 DE OCTUBRE DE 2017 QUE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1945 SOBRE INGRESOS, DESEMBO..."
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 13 DE OCTUBRE DE 2017 QUE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1945 SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO."
+fecha: "2020-09-14"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6°, letra A), N° 1, 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "artículo 31 Nº 3 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 13 DE OCTUBRE DE 2017 QUE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1945 SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO.
 

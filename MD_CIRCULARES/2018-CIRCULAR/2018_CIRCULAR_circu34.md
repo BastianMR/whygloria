@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 34 (2018)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA. | CIRCULAR Nº 34.- |"
 tags: [SII, 2018, circular]
+materia: "Imparte instrucciones relativas al procedimiento de reposición administrativa establecido en el artículo 123 bis del Código Tributario, modificado por la Ley N° 21.039. Deroga Circular N° 13, de 29 de enero de 2010."
+fecha: "2018-06-27"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA.** | **CIRCULAR Nº 34.-** |
 | --- | --- |

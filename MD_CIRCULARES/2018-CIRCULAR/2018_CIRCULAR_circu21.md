@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 21 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N°21 |"
 tags: [SII, 2018, circular]
+materia: "Instruye sobre las modificaciones incorporadas por el D.S. N° 682 de 2017, del Ministerio de Hacienda, al D.S. N° 55 de 1977, del mismo Ministerio, reglamento del Decreto Ley N° 825, de 1974, Leysobre Impuesto a las Ventas y Servicios. 6(12)00"
+fecha: "2018-04-12"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N°21** |
 | --- | --- |

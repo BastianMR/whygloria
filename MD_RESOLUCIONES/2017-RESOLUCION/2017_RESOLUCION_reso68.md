@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+materia: "MODIFICA RES. EX. SII N° 61, DE 12.07.2017, AMPLIANDO UNIVERSO DE CONTRIBUYENTES EXIMIDOS DE LLEVAR LIBRO DE COMPRAS Y VENTAS."
+fecha: "2017-07-31"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 59 y 63 del D.L", "lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo establecido en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 59 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 59.- |"
 tags: [SII, 2015, circular]
+materia: "Regula la facultad de examinar la información contable y tributaria de los contribuyentes, accediendo a los sistemas tecnológicos que sirvan de soporte a dicha información, y a los que permitan la generación de libros impresos en hojas sueltas, permitiéndole también verificar, para fines tributarios"
+fecha: "2015-07-03"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 59.-** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 50 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 50 |"
 tags: [SII, 2015, circular]
+materia: "Facultad del Servicio de Impuestos Internos para autorizar o exigir la utilización de sistemas tecnológicos de información que permitan el debido control tributario de ciertos sectores de contribuyentes o actividades."
+fecha: "2015-06-22"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 50** |
 | --- | --- |

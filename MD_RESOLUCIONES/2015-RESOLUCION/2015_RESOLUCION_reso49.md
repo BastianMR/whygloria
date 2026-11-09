@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
+fecha: "2015-05-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, de 1986 Orgánica Constitucional de Bases Generales de la Administración del Estado, la Ley N° 20.285, sobre acceso a la in", "y en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011 Sobre Asociaciones y Participación Ciudadana en la Gestión Pública", "en el Instructivo Presidencial N° 007 de 06 de agosto de 2014 que establece la Política para la Participación Ciudadana en el marco de la corresponsabilidad", "Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 21 (2022)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°21.- 202082.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "MATERIA Tratamiento tributario de seguros de vida con ahorro."
+fecha: "2022-04-21"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°21.- 202082.2022 GE** |
 | --- | --- |

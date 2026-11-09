@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2024-10-10"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A), números 1 y 4, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en el artículo 12 bis de la Ley de Donaciones con Fines Culturales, contenida en el artículo 8° de la ley N° 18.985", "en la Circular N° 22 de 2024", "en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

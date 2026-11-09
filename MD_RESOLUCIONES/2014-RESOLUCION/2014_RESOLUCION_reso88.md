@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "FIJA NUEVA FECHA DE VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TIMBRADOS, Y PRORROGA PLAZO QUE DISPONE LA RESOLUCIÓN EX. SII N° 99, DE 2013."
+fecha: "2014-08-29"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 6º letra A, Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el D.L", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "las Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

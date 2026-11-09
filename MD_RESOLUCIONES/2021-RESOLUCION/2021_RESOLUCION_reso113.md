@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2021)"
 description: "ELIMINASE LA APOSICIÓN DE CUÑO SECO, EN LA AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL."
 tags: [SII, 2021, resolucion]
+materia: "ELIMINASE LA APOSICIÓN DE CUÑO SECO, EN LA AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL."
+fecha: "2021-10-05"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 4° bis inciso 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 54, 55, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 69, 70, 71, 71 bis, 73 y 74 del Reglamento del IVA, contenido en el Decreto Supremo N° 55 de 1977 y, la Circular Nº 19, del 11 de mayo de 1995."]
 ---
-
-
 
 ELIMINASE LA APOSICIÓN DE CUÑO SECO, EN LA AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL.
 

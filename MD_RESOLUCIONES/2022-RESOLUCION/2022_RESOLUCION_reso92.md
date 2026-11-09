@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2022)"
 description: "EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE AUTORIZACIÓN PREVIA A LA EMISIÓN, DE LOS CERTIFICADOS DE DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
 tags: [SII, 2022, resolucion]
+materia: "EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE AUTORIZACIÓN PREVIA A LA EMISIÓN, DE LOS CERTIFICADOS DE DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
+fecha: "2022-09-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.S"]
 ---
-
-
 
 EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE AUTORIZACIÓN PREVIA A LA EMISIÓN, DE LOS CERTIFICADOS DE DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN.
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°09.- 312310GE.2025 |"
 tags: [SII, 2025, circular]
+materia: "Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2025."
+fecha: "2025-01-30"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°09.- 312310GE.2025** |
 | --- | --- |

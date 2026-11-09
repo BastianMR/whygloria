@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 166 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+materia: "INSTRUYE SOBRE DE OBLIGATORIEDAD DE EMISIÓN DE BOLETAS DE HONORARIOS ELECTRÓNICAS E IMPLEMENTA EXCEPCIONES ESTABLECIDAS EN EL ARTÍCULO 68 BIS DE LA LEY DE IMPUESTO A LA RENTA."
+fecha: "2020-12-23"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L", "la Ley N° 21.242, publicada en el Diario Oficial el 24.06.2020", "Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

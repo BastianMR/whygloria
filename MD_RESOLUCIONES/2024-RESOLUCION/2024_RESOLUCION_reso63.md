@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA GE00280626"
 tags: [SII, 2024, resolucion]
+materia: "DELEGA EN EL (LA) SUBDIRECTOR (A) JURÍDICO(A), EN LOS (LAS) DIRECTORES (AS) REGIONALES Y EN EL DIRECTOR (A) DE GRANDES CONTRIBUYENTES LAS FACULTADES QUE INDICA."
+fecha: "2024-06-06"
+exenta: true
+impuestos: ["herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, y 162 del Código Tributario", "en las letras c), e), g), j) y r) del artículo 7° y en el artículo 9, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L", "en el artículo 90 de la Ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado se contiene en el DFL 29, de 2004, del Ministerio de Hacienda", "en el artículo 41, de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado., y en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA GE00280626
 

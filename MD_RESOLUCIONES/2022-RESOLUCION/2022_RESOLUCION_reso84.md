@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 tags: [SII, 2022, resolucion]
+materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
+fecha: "2022-01-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda", "las Resoluciones números 16 y 18 exentas, de 11 de Julio de 2002 y 29 de agosto de 2002, respectivamente, ambas del SII y en el artículo 34º Nº 2 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974, y la Circular SII N°66, de 2020"]
 ---
-
-
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022.
 

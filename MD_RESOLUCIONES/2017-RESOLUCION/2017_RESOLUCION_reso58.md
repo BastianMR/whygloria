@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2017-07-05"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L. 830, de 1974", "en los artículos 55, 56, inciso 3°, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenido en el artículo 1° de D.L", "el Anexo N° 1, del D.L", "en el artículo 4° bis del D.F.L", "lo establecido en las Leyes N° 19.799, N° 19.983 y N° 20.727, sobre Factura Electrónica", "y las instrucciones impartidas por este Servicio en las Resoluciones Exentas SII N° 09, de 2001", "y en la Circular N°32, de 2005"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

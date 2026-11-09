@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 144 (2026)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+materia: "FÍJASE EXIGENCIAS SOBRE LAS FACTURAS Y GUÍAS DE DESPACHO QUE AMPARAN EL TRASLADO DE BIENES CORPORALES MUEBLES Y DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 154, DE 2025."
+fecha: "2026-10-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A), N°s 1 y 4, 15, 97 N°s 1, 10 y 17, 109 y 165 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "artículos 1°, 4° bis, 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "artículos 54, 55, y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974, del Ministerio de Hacienda", "artículos 70 y 71 bis del Decreto N° 55 de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Ley N° 21.131", "Circulares N° 103 de 1979, N° 62 de 1980, N° 64 de 2001", "Resoluciones Ex"]
 ---
 
 Sii

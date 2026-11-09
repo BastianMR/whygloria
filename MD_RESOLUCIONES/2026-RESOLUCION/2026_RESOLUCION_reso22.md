@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2026)"
 description: "DEJA SIN EFECTO LA RESOLUCIÓN EX. N° 209 DE 2025, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO ..."
 tags: [SII, 2026, resolucion]
+materia: "DEJA SIN EFECTO LA RESOLUCIÓN EX. N° 209 DE 2025, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
+fecha: "2026-02-05"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras b) y c), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 2°, 3°, 4°, 8° y 9° de la Ley N° 17.235, sobre Impuesto Territorial, cuyo texto refundido, coordinado, sistematizado y actualizado se contiene en el Decreto con Fuerza de Ley N° 1 de 1998, del Ministerio de Hacienda", "y la Ley N° 21.806, que otorga reajuste general de remuneraciones a las y los trabajadores del sector público, concede aguinaldos que señala, concede otros beneficios que indica y modifica diversos cuerpos legales"]
 ---
 
 DEJA SIN EFECTO LA RESOLUCIÓN EX. N° 209 DE 2025, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA.

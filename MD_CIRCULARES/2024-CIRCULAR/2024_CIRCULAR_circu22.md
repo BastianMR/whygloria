@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 22 (2024)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N°22.- 261259.2023 GE |"
 tags: [SII, 2024, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985."
+fecha: "2024-05-16"
+exenta: false
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo único de la Ley N° 21.622 que establece requisitos para asimilar las entidades que prestan servicios culturales a las sociedades de profesionales, publicada en el Diario Oficial el 17 de noviembre de 2023", "Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N°22.- 261259.2023 GE** |
 | --- | --- |

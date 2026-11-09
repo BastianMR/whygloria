@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2026)"
 description: "ACTUALIZA NÓMINA DE BIENES AFECTOS CONTENIDA EN LA RESOLUCIÓN EX. N° 194 DE 2025, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420."
 tags: [SII, 2026, resolucion]
+materia: "ACTUALIZA NÓMINA DE BIENES AFECTOS CONTENIDA EN LA RESOLUCIÓN EX. N° 194 DE 2025, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420."
+fecha: "2026-03-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6º, letra A), N° 1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974", "en el artículo 5 de la Ley N° 21.713, que introdujo modificaciones al artículo 9 de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "lo instruido en la Circular N° 50 de 2024 y en las Resoluciones Ex"]
 ---
 
 ACTUALIZA NÓMINA DE BIENES AFECTOS CONTENIDA EN LA RESOLUCIÓN EX. N° 194 DE 2025, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420.

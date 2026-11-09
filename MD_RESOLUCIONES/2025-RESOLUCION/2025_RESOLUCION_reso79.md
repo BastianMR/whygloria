@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2025)"
 description: "INSTRUYE SOBRE LA FORMA EN QUE LOS ÓRGANOS DE LA ADMINISTRACIÓN DEL ESTADO, OPERADORES Y OTRAS ENTIDADES QUE SE INDICAN, DEBERÁN VERIFICAR EL CUMPLIMIENTO DE..."
 tags: [SII, 2025, resolucion]
+materia: "INSTRUYE SOBRE LA FORMA EN QUE LOS ÓRGANOS DE LA ADMINISTRACIÓN DEL ESTADO, OPERADORES Y OTRAS ENTIDADES QUE SE INDICAN, DEBERÁN VERIFICAR EL CUMPLIMIENTO DEL INCISO DÉCIMO SEGUNDO Y DÉCIMO TERCERO DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO."
+fecha: "2025-06-26"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contenidas en los artículos 1°, 6º letra A, Nº 1, y 68 del Código Tributario, contenidos en el D.L", "el artículo 1° y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "el artículo 5° de la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N°21.180 \"Transformación Digital del Estado\"", "la Ley N°19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado", "la Ley N° 21.713, que \"Dicta normas para asegurar el Cumplimiento de las Obligaciones Tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal\"", "la Circular N°38 del 30 de abril 2025, que instruye sobre el trámite de inicio de actividades"]
 ---
 
 INSTRUYE SOBRE LA FORMA EN QUE LOS ÓRGANOS DE LA ADMINISTRACIÓN DEL ESTADO, OPERADORES Y OTRAS ENTIDADES QUE SE INDICAN, DEBERÁN VERIFICAR EL CUMPLIMIENTO DEL INCISO DÉCIMO SEGUNDO Y DÉCIMO TERCERO DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO.

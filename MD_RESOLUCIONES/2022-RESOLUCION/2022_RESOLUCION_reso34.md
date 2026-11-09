@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2022)"
 description: "DELEGA FACULTAD RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2022, resolucion]
+materia: "DELEGA FACULTAD RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2022-04-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 18.045, de Mercado de Valores", "el D.L", "la Resolución N°7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón"]
 ---
-
-
 
 GE 208222
 

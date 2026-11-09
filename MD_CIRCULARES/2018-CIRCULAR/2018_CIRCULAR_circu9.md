@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 9 |"
 tags: [SII, 2018, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2018-02-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 9** |
 | --- | --- |

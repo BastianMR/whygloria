@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL"
 tags: [SII, 2019, resolucion]
+materia: "CIRCULAR CONJUNTA N° 3411 RESOLUCIÓN EX SII N° 44 CIRCULAR CONJUNTA N°6"
+fecha: "2019-04-09"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 SUPERINTENDENCIA DE SEGURIDAD SOCIAL
 

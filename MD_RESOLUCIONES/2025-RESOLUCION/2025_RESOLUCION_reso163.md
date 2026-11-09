@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 163 (2025)"
 description: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
 tags: [SII, 2025, resolucion]
+materia: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
+fecha: "2025-11-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, las facultades consagradas en las letras c), k) y l) del artículo 7°, lo dispuesto en el artículo 17, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "y lo instruido en la Resolución N°36, de 2024 de la Contraloría General de la República:"]
 ---
 
 Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS

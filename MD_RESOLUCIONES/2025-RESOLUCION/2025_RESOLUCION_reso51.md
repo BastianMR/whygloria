@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2025, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos."
+fecha: "2025-04-24"
+exenta: true
+impuestos: ["renta", "iva", "territorial"]
+formularios: ["F129", "F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "Resolución N° 7, del año 2019, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón", "el artículo 53º, inciso final de la ley N° 18.840, Ley Orgánica Constitucional del Banco Central de Chile", "y el artículo 35 del Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL

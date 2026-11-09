@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2019)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
+fecha: "2019-07-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA
 

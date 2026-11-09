@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+materia: "DEJA SIN EFECTO FACULTAD DELEGATORIA QUE INDICA, CONTENIDA EN LA RESOLUCIÓN EXENTA N° 90, DEL 2004"
+fecha: "2018-03-05"
+exenta: true
+impuestos: ["herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 6º, letra A), Nº 1 del Código Tributario, contenido en el D.L", "el artículo 41 de la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones", "y la Resolución Exenta N° 90, del 21.09.2004"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

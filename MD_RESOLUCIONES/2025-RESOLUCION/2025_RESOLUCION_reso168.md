@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 168 (2025)"
 description: "INSTRUYE SOBRE LA FORMA DE ACREDITAR EL CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS Y LAS SITUACIONES QUE SE CONSIDERARÁN COMO INCUMPLIMIENTO PARA LOS EFECTOS D..."
 tags: [SII, 2025, resolucion]
+materia: "INSTRUYE SOBRE LA FORMA DE ACREDITAR EL CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS Y LAS SITUACIONES QUE SE CONSIDERARÁN COMO INCUMPLIMIENTO PARA LOS EFECTOS DEL INCISO DECIMOSEGUNDO DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO. CREA CERTIFICADO QUE INDICA."
+fecha: "2025-11-27"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades establecidas en los artículos 1°, 6° letra A, N° 1, y 68 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "en los artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en la Ley N° 21.713, que \"Dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal\" que, entre otros, modificó el artículo 68 del Código Tributario", "lo instruido en la Circular N° 38 de 2025 y en la Resolución Ex"]
 ---
 
 INSTRUYE SOBRE LA FORMA DE ACREDITAR EL CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS Y LAS SITUACIONES QUE SE CONSIDERARÁN COMO INCUMPLIMIENTO PARA LOS EFECTOS DEL INCISO DECIMOSEGUNDO DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO. CREA CERTIFICADO QUE INDICA.

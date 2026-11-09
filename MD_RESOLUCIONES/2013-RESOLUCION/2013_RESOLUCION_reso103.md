@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2013, resolucion]
+materia: "Fija plazo para presentación de declaraciones juradas que se indican."
+fecha: "2013-12-16"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en el N° 1, letra A), del artículo 6°, 34, 35, 60 y 85 inciso 2°, todos del Código Tributario."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES
 

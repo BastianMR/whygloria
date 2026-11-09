@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N° 4.- GE00195417 |"
 tags: [SII, 2022, circular]
+materia: "Instrucciones sobre comparecencia y representación de los contribuyentes ante el Servicio de Impuestos Internos. Deroga Circular N° 54 de 2002, modificada por la Circular N° 12 de 2021."
+fecha: "2022-01-18"
+exenta: false
+impuestos: ["segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 9, 10, 14, 34 y 60 del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N° 4.- GE00195417** |
 | --- | --- |

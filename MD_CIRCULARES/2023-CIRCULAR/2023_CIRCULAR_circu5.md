@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 5 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°5.- 220105.2022 GE |"
 tags: [SII, 2023, circular]
+materia: "Imparte instrucciones sobre nuevo artículo 37 bis de la Ley sobre Impuesto a la Renta, incorporado por la Ley N° 21.420."
+fecha: "2023-01-12"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "territorial"]
+formularios: []
+regimen: ["14B", "renta-presunta"]
+ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°5.- 220105.2022 GE** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO GE173579"
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO A SEGUIR RESPECTO DE LAS SOLICITUDES DE DEVOLUCIÓN DE REMANENTE DE CRÉDITO FISCAL IVA POR ADQUISICIONES DE ACTIVO FIJO. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII Nº 617 DE 1999."
+fecha: "2021-06-04"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la letra b), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 27 bis de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, modificado por el N° 18, del artículo tercero, de la Ley N° 21.210, que Moderniza la Legislación Tributaria", "el artículo 31 de la Ley N° 19.880, que 'Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado'"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO GE173579
 

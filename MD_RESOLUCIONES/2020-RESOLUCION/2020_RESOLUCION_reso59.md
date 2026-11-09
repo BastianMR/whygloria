@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2020)"
 description: "Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias."
 tags: [SII, 2020, resolucion]
+materia: ""
+fecha: "2020-06-01"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los N°s 1 y 2, de la letra A, del artículo 6° del Código Tributario", "en las letras a), b) e i) del artículo 7°, todos del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda, sobre Ley Orgánica del Servicio de Impuestos Internos", "y en el artículo primero numeral 1"]
 ---
-
-
 
 Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias.
 

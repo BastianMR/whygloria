@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2020)"
 description: "MODIFICA RESOLUCIONES EXENTAS SII Nºs 20 DE 2015 Y 99 DE 2017, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1922 Y DE EMITIR LOS CER..."
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA RESOLUCIONES EXENTAS SII Nºs 20 DE 2015 Y 99 DE 2017, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1922 Y DE EMITIR LOS CERTIFICADOS N°s 43 Y 44, ADECUÁNDOLOS A LA NORMATIVA VIGENTE."
+fecha: "2020-09-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1, 33 bis y 34 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda de 1980", "en los artículos 2 y 11 de la Ley N° 18.401", "en el artículo tercero de las disposiciones transitorias de la Ley N° 18.775", "en el ex artículo 32 de la Ley N° 18.815", "en los artículos 14, 17 N° 7, 41 A, 56 N° 3, 63, 105, 107 y 108 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "en los artículos 80, 81, 82, 85, 86 y 92 del artículo primero de la Ley N° 20.712", "en el artículo décimo octavo de la Ley N° 21.210", "en las Resoluciones Exentas SII N°s 20 de 10.03.2015 y 99 de 13.10.2017"]
 ---
-
-
 
 MODIFICA RESOLUCIONES EXENTAS SII Nºs 20 DE 2015 Y 99 DE 2017, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1922 Y DE EMITIR LOS CERTIFICADOS N°s 43 Y 44, ADECUÁNDOLOS A LA NORMATIVA VIGENTE.
 

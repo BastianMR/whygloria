@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE LA FORMA Y PLAZO EN QUE LOS CONTRIBUYENTES DEBERÁN ACREDITAR LAS DEVOLUCIONES, DISMINUCIONES O RETIROS DE CAPITAL REALIZADOS EN SOCIEDADES, ESTABLECIMIENTOS PERMANENTES Y OTRAS ENTIDADES EN EL EXTERIOR."
+fecha: "2020-10-23"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 1°, 6°, letra A, N° 1, 21, 33 bis, 34, 35, 59, 60 y 63 del Código Tributario", "en los artículos 2° N° 1, 3, 12, 41 A N°6 y 41 B de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 18 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
 tags: [SII, 2014, circular]
+materia: "SUPLEMENTO TRIBUTARIO CON LA NORMATIVA VIGENTE PARA EFECTUAR LA DECLARACIÓN DE LOS IMPUESTOS ANUALES A LA RENTA CORRESPONDIENTES AL AÑO TRIBUTARIO 2014"
+fecha: "2014-03-24"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. pertinentes de la Ley de la Renta"]
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIRCULAR N° 18.-                                                                                                                                                                                                                                                                   |

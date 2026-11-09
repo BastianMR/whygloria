@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2016)"
 description: "SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
+materia: "AUTORIZA A DIRECTOR DE LA DIRECCIÓN DE GRANDES CONTRIBUYENTES PARA DELEGAR EN EL JEFE DEL DEPARTAMENTO JURÍDICO DE SU DEPENDENCIA LAS FACULTADES QUE INDICA."
+fecha: "2016-03-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra B), N°s 5 y 7 del Código Tributario", "en los artículos 7° letras c) y ñ), 9° y 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 43 de la Ley N° 18.575, de 1986, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "y la Resolución Exenta N° 174, del 25 de noviembre de 2009, que creó el Departamento Jurídico de la Dirección de Grandes Contribuyentes"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA
 

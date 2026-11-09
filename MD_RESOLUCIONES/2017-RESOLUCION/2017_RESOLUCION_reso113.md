@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 489 - SDAC - 2017 77315807651"
 tags: [SII, 2017, resolucion]
+materia: "AUTORIZA AL NOTARIO SR. LUIS ALBERTO MALDONADO CONCHA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
+fecha: "2017-11-27"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 y en los incisos 3°al 6° del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L", "las Resoluciones Exentas del SII N° 1414, de 27.10.1978", "N° 83, de 30.08.2004 y Resolución Exenta N° 48, del 12.05.2017 que modifica esta última Resolución"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 489 - SDAC - 2017 77315807651
 

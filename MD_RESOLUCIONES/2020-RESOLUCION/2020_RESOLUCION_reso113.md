@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2020-09-15"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario", "en los artículos 3, 10, 11, 14, 21, 38, 58, 59, 60, 62, 63, 74, 79, 82 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en los artículos 81, 82 y 86 de la ley que regula la administración de fondos de terceros y carteras individuales, contenida en el artículo primero de la Ley N° 20.712 de 2014", "artículo 10 del D.L", "y en las Resoluciones Exentas SII N°s 36, de 2011 y 107, de 2017."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

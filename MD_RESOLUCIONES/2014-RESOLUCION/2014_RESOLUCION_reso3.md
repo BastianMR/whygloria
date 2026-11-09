@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
+materia: "MODIFICA TERRITORIOS JURISDICCIONALES DE LA XIII Y XIV DIRECCIONES REGIONALES METROPOLITANAS SANTIAGO CENTRO Y PONIENTE, CREA UNIDAD NORTE Y AUTORIZA DELEGACIÓN DE FACULTADES."
+fecha: "2014-01-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA
 

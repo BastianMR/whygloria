@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2025)"
 description: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5°..."
 tags: [SII, 2025, resolucion]
+materia: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5° DE LA LEY 21.713."
+fecha: "2025-06-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y r) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6º, letra A) N°1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974", "artículo 5° de la Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024, que introdujo modificaciones al artículo 9° de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "Circular N°50 de 2024 y en las Resoluciones Ex"]
 ---
 
 ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5° DE LA LEY 21.713.

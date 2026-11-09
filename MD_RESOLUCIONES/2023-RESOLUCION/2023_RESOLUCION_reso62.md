@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2023, resolucion]
+materia: "AUTORIZA A CHILE TIKET SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
+fecha: ""
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "y la Resolución Exenta N° 60, del 14.06.2021"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL
 

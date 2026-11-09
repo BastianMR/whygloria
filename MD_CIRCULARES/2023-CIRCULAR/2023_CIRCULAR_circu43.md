@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 43.- 261261.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2023 y el 9 de noviembre de 2023, ambos inclusive."
+fecha: "2023-10-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, publicado en el Diario Oficial de 8 de enero de 1990, y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 43.- 261261.2023 GE** |
 | --- | --- |

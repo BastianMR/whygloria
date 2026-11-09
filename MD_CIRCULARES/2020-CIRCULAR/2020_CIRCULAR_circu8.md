@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 8 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                             ..."
 tags: [SII, 2020, circular]
+materia: "Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondientes al año tributario 2020"
+fecha: "2020-01-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["artículos pertinentes de la Ley sobre Impuesto a la Renta"]
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                              | CIRCULAR N° 8 02-2020 SN CIRC. 005-2020 OGN                                                                |

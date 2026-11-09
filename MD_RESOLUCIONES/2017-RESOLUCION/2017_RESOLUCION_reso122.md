@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2017, resolucion]
+materia: "Aprueba Convenio de Coordinación entre Contraloría General de la República y Servicio de Impuestos Internos."
+fecha: "2017-12-07"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: ["F22", "F29"]
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública y la Ley N° 10.336, de Organización y Atribuciones de la Contraloría General de la República."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

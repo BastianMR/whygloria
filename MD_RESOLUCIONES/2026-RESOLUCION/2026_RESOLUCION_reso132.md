@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2026)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Colina."
 tags: [SII, 2026, resolucion]
+materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Colina."
+fecha: "2026-09-25"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública", "lo establecido en el Decreto Ley N°830 sobre Código Tributario", "la ley 17.235, sobre Impuesto Territorial", "el artículo 1°, numeral 6 de la Ley N°21.180, sobre Transformación Digital del Estado", "la Ley N° 18.695, Orgánica Constitucional de Municipalidades."]
 ---
 
 MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital "SIIMAPAS" a la Ilustre Municipalidad de Colina.

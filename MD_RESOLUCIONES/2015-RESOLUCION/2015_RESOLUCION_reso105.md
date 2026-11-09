@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2015)"
 description: "MODIFICA DECLARACIONES JURADAS FORMULARIOS N° 1821 Y 1822, Y SU CERTIFICACIÓN RESPECTIVA, Y EXTIENDE OBLIGACIÓN DE DECLARAR A LOS CONTRIBUYENTES QUE INDICA."
 tags: [SII, 2015, resolucion]
+materia: "MODIFICA DECLARACIONES JURADAS FORMULARIOS N° 1821 Y 1822, Y SU CERTIFICACIÓN RESPECTIVA, Y EXTIENDE OBLIGACIÓN DE DECLARAR A LOS CONTRIBUYENTES QUE INDICA."
+fecha: "2015-12-24"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6º letra A) Nº 1 y 30 inciso segundo del Código Tributario, contenido en el artículo 1º del D.L", "artículos 14 y 17 N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "los artículos segundo y tercero de las disposiciones transitorias de la Ley N° 20.780, sobre Reforma Tributaria", "la Resolución Exenta S.I.I"]
 ---
-
-
 
 MODIFICA DECLARACIONES JURADAS FORMULARIOS N° 1821 Y 1822, Y SU CERTIFICACIÓN RESPECTIVA, Y EXTIENDE OBLIGACIÓN DE DECLARAR A LOS CONTRIBUYENTES QUE INDICA.
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 39 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N°39.- 315212.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a la Ley sobre Impuesto a las Ventas y Servicios en materia de Impuesto al Valor Agregado en las ventas de bienes muebles ubicados en el extranjero."
+fecha: "2025-04-30"
+exenta: false
+impuestos: ["iva"]
+formularios: ["F129", "F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 3 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 4°, 3° bis nuevo y 12, letra B, de la Ley sobre Impuesto a las Ventas y Servicios."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°39.- 315212.2025 GE** |
 | --- | --- |

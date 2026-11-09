@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2020)"
 description: "DEPARTAMENTOEMISOR Impuestos Directos | CIRCULAR N° 43 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido enel artículovigésimoquintotransitoriodela Ley N° 21.210, que moderniza la legislación tributaria."
+fecha: "2020-06-24"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: ["DJ1938", "DJ1939"]
+regimen: ["14A"]
+ref_legal: ["Artículo vigésimo quinto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria, publicada en el Diario Oficial de 24 de febrero de 2020, y artículo 14 de la Ley sobre Impuesto a la Renta (LIR)."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR Impuestos Directos** | **CIRCULAR N° 43** |
 | --- | --- |

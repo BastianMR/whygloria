@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2024)"
 description: "SANTIAGO, 23 DE AGOSTO DE 2024."
 tags: [SII, 2024, resolucion]
+materia: "## SANTIAGO, 23 DE AGOSTO DE 2024."
+fecha: "2024-08-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), h), i), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.880 que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "la Ley N°19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento, contenido en el Decreto Supremo N° 250 del año 2004 del Ministerio de Hacienda", "la Ley N°21.634 de 2023, que moderniza la ley de compras públicas", "la Resolución Exenta N° 1.055 de 2010 sobre procedimientos para adquisiciones y la Resolución Exenta N° 96 de 2013, que la modifica", "la Resolución N° 146 de 2020 sobre delegación de facultades", "sus modificaciones sancionadas por las Resoluciones N°49 y 63, ambas de 2021", "Resolución N° 27 de 2023, que designa responsables de procesos, delega facultades, todas de la Dirección Nacional del Servicio de Impuestos Internos", "la Resolución N° 7, de 2019, y la Resolución N°14, de 2022, todas de la Contraloría General de la República"]
 ---
-
-
 
 ## SANTIAGO, 23 DE AGOSTO DE 2024.
 

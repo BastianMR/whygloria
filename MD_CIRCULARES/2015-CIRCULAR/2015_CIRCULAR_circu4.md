@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2015)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 04.- |"
 tags: [SII, 2015, circular]
+materia: "PROTOCOLO DE FISCALIZACIÓN DE LA EXENCIÓN DE IMPUESTO TERRITORIAL QUE FAVORECE AL DEPORTE."
+fecha: "2015-01-15"
+exenta: false
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 04.-** |
 | --- | --- |

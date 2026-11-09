@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2016)"
 description: "GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 9.- |"
 tags: [SII, 2016, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 de la Ley de la Renta."
+fecha: "2016-02-29"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Arts. 23, 34 y 74 Nº 6 LIR"]
 ---
-
-
 
 | **GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 9.-** |
 | --- | --- |

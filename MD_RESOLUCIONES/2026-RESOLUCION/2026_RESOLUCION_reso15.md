@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES GE00360708"
 tags: [SII, 2026, resolucion]
+materia: "APRUEBA ACUERDO DE COOPERACIÓN CON GRUPO EMPRESARIAL ENEL"
+fecha: "2026-01-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° y 7° letras a), c) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en los artículos 6° letra A, N° 1, 8° N° 14 y N° 18, y 8 bis, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, la Resolución Exenta SII EX"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES GE00360708

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2019)"
 description: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 240 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX. SII N° 40"
 tags: [SII, 2019, resolucion]
+materia: "I. REEMPLÁZASEEL TÍTULO XIV DEL LIBRO II DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, Y DERÓGANSE LA RESOLUCIÓN EX. SII N° 9 DE 2012, DEL SERVICIO DE IMPUESTOS INTERNOS, Y A LA CIRCULAR NORMATIVA N° 2 DE LA TESORERÍA GENERAL DE LA REPÚBLICA, POR EL SIGUIENTE TEXTO:"
+fecha: "2019-03-29"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la ley N° 21.133", "en el número 3 del artículo 94 y el artículo 92 A, ambos del D.L", "en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras"]
 ---
-
-
 
 Sii
 

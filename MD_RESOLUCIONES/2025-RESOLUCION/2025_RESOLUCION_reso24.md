@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00314906"
 tags: [SII, 2025, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N°54 DE 02 MAYO DE 2024, REEMPLAZANDO ORDEN DE SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
+fecha: "2025-02-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, las facultades que se me confieren en las letras c), k) e l) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda y lo dispuesto en el artículo 17 del mismo cuerpo lega", "y lo instruido en la Resolución N°6, de 2019 de la Contraloría General de la República:"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00314906

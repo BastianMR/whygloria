@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2016)"
 description: "MATERIA: Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017."
 tags: [SII, 2016, resolucion]
+materia: "Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017."
+fecha: "2016-12-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en letra A), N°1, del artículo 6°, los artículos 34, 35, 60 y 85 inciso 2°, del D.L"]
 ---
-
-
 
 MATERIA: Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2017.
 

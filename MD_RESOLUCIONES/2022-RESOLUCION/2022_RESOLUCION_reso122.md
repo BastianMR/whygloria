@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2022)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE231616"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Acuerdo entre el Servicio de Impuestos Internos y la Defensoría del Contribuyente, sobre implementación de la Clave Tributaria."
+fecha: "2022-12-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren las letras a), c), e) i), o) y q) del art. 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los arts. 3°, 5°, 7°, 11° y 31 del D.F.L", "y el art. 23° de Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria, que contiene la Ley Orgánica de la Defensoría del Contribuyente."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE231616
 

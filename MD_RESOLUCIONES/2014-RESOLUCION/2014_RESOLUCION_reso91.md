@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2014, resolucion]
+materia: "CREA OFICINA DE COMUNICACIONES CORPORATIVAS EN LA DIRECCIÓN NACIONAL DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2014-09-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS
 

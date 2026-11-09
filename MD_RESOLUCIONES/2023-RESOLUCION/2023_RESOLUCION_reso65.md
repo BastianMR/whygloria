@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2023)"
 description: "ESTABLECE FORMA Y PLAZO EN QUE LAS ORGANIZACIONES DEPORTIVAS NACIONALES DEBERÁN INFORMAR AL SERVICIO LAS OPERACIONES RELACIONADAS CON EVENTOS DEPORTIVOS DISP..."
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO EN QUE LAS ORGANIZACIONES DEPORTIVAS NACIONALES DEBERÁN INFORMAR AL SERVICIO LAS OPERACIONES RELACIONADAS CON EVENTOS DEPORTIVOS DISPUESTOS EN LA LEY N° 21.564."
+fecha: "2023-06-06"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1°, 4° bis y en las letras a), c) y o) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 del Ministerio de Hacienda, de 1980", "en los artículos 6° letra A N° 1, 33 bis, 60 y 87 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el artículo 3 y 5 de la Ley Nº18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N°19.880, que Establece Bases de los Procedimientos Administrativos que Rigen Los Actos de los Órganos de la Administración del Estado", "en la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo primero del Decreto Ley N° 825, de 1974", "en el Decreto con Fuerza de Ley N° 30, de 2004, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del Decreto con Fuerza de Ley de Hacienda Nº 213, de 1953, sobre Ordenanza de Aduanas, y en la Ley N° 21.564, que deroga la Ley N°8.834, de 1947, y regula beneficios"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO EN QUE LAS ORGANIZACIONES DEPORTIVAS NACIONALES DEBERÁN INFORMAR AL SERVICIO LAS OPERACIONES RELACIONADAS CON EVENTOS DEPORTIVOS DISPUESTOS EN LA LEY N° 21.564.
 

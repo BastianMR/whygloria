@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°03 233648.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2023."
+fecha: "2023-01-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°03 233648.2023 GE** |
 | --- | --- |

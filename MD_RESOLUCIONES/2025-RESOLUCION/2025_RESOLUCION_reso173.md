@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 173 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00351986 77325977653 1192-DCV-2025"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00351986 77325977653 1192-DCV-2025"
+fecha: "2025-12-03"
+exenta: true
+impuestos: ["iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículos 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 54, , 56 inciso segundo, y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio de 2019 y en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00351986 77325977653 1192-DCV-2025

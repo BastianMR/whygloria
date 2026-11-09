@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2015)"
 description: "MATERIA: CREA DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS ESTABLECE FUNCIONES Y AMBITO DE COMPETENCIA."
 tags: [SII, 2015, resolucion]
+materia: "CREA DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS ESTABLECE FUNCIONES Y AMBITO DE COMPETENCIA."
+fecha: "2015-12-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y artículo 7°, letras a), c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y sus modificaciones posteriores", "la Ley N° 20.780, sobre Reforma Tributaria que modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario"]
 ---
-
-
 
 DIRECCIÓN NACIONAL
 

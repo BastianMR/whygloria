@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2018-07-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L", "y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017 y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

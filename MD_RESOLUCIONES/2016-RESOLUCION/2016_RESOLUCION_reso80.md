@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+materia: "ESTABLECE REQUISITOS QUE DEBEN CUMPLIR LAS ENTIDADES QUE SE INDICAN PARA SER RECEPTORAS DE LA 'CARPETA TRIBUTARIA ELECTRÓNICA'."
+fecha: "2016-08-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "en el artículo 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo 6°, letra A) Nº 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

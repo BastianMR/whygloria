@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 12 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N°12.- 300079.2024GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones sobre modificaciones incorporadas por la Ley N° 21.713 a diversos artículos de la Ley sobre Impuesto a las Ventas y Servicios. Deja sin efecto las instrucciones contenidas en el N° 6 del Título II de la Circular N° 26 de 2021. Complementa las instrucciones contenidas en"
+fecha: "2025-01-30"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Artículo 3 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024, que modifica los artículos 5°", "y 83, y Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N°12.- 300079.2024GE** |
 | --- | --- |

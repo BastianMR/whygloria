@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 11 (2019)"
 description: "SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 11.- 03-2019 SN CIRC. 12-2019 OGN |"
 tags: [SII, 2019, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta."
+fecha: "2019-02-25"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Arts. 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 31, de fecha 29.01.2019, del Ministerio de Hacienda, publicado en el D.O. de fecha 06.02.2019", "Decreto Exento N° 40, de fecha 12.02.2019, del Ministerio de Hacienda, publicado en el D.O. de fecha 18.02.2019"]
 ---
-
-
 
 | **SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 11.- 03-2019 SN CIRC. 12-2019 OGN** |
 | --- | --- |

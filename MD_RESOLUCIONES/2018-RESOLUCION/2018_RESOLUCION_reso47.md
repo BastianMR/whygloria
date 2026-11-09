@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2018)"
 description: "RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
 tags: [SII, 2018, resolucion]
+materia: "## RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
+fecha: "2018-05-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda", "las Resoluciones números 16 y 18 exentas, de 11 de Julio de 2002 y 29 de agosto de 2002, respectivamente, ambas del SII", "el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales"]
 ---
-
-
 
 ## RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018.
 

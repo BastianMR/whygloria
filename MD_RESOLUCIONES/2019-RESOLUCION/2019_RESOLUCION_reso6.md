@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2019)"
 description: "MATERIA: Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido..."
 tags: [SII, 2019, resolucion]
+materia: "Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974."
+fecha: "2019-01-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D.L", "lo establecido en el Decreto Supremo N° 1027, de 04 de agosto de 2016, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de diciembre del mismo año, que aprueba el Nuevo Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L", "Resolución Ex"]
 ---
-
-
 
 MATERIA: Resuelve solicitud de Tabacalera S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974.
 

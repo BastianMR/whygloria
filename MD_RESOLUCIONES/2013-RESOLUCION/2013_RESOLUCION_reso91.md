@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE REQUISITOS Y PROCEDIMIENTO PARA LA EMISIÓN DE DOCUMENTOS TRIBUTARIOS EN OPERACIONES DE REMATE DE BIENES CORPORALES MUEBLES EFECTUADAS POR MARTILLEROS PÚBLICOS."
+fecha: "2013-10-25"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1", "artículos 88 y 97 N° 10 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 2° N°s 1 y 3, 3° inciso tercero, 9° letra a) y 55 de la Ley sobre Impuesto a las Ventas y Servicios, D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
+materia: "CREA EL DEPARTAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS EN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES; DEJA SIN EFECTO RESOLUCIÓN QUE SEÑALA Y AUTORIZA DELEGACIÓN DE FACULTADES QUE INDICA."
+fecha: "2016-11-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en los artículos 3°, 7° letras c), i) y ñ) 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D", "en el artículo 6°, letra A) N° 3 del Código Tributario", "en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2016, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos", "en la Resolución Exenta N° 95, de 2010, y en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA
 

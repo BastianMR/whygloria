@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00228328"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00228328"
+fecha: "2022-11-30"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo dispuesto en el N° 1 de la letra A) del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 2° N° 2, 8°, 12 letra E, 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "los artículos 42, 43 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica, publicada en el Diario Oficial con fecha 4 de febrero de 2022", "la Resolución Ex", "la Circular N° 50 de 2022 de este Servicio."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00228328
 

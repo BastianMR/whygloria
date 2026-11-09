@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+materia: "DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 51 DE FECHA 10 DE JUNIO DE 2015, QUE ESTABLECE NUEVO REQUISITO PARA LAS FACTURAS, FACTURAS DE COMPRAS Y GUÍAS DE DESPACHO, ELECTRÓNICAS O NO ELECTRÓNICAS, UTILIZADAS EN EL TRASLADO DE ESPECIES EN VEHÍCULOS DESTINADOS AL TRANSPORTE DE CARGA."
+fecha: "2015-12-29"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 61 de la Ley N°19.880 que Establece bases de los Procedimientos Administrativos que rigen los actos de los órganos de la Administración del Estado", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Circular N° 64 de 2001", "en la Resolución Exenta N° 1661, de 1985", "en las Resoluciones Exentas SII N° 45, de 2003"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

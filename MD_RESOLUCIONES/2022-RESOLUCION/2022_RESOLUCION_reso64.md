@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2022)"
 description: "INCORPORA NUEVOS CÓDIGOS AL FORMULARIO 29 DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS PARA DECLARAR Y ENTERAR EN ARCAS FISCALES EL IVA RETENIDO POR..."
 tags: [SII, 2022, resolucion]
+materia: "INCORPORA NUEVOS CÓDIGOS AL FORMULARIO 29 DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS PARA DECLARAR Y ENTERAR EN ARCAS FISCALES EL IVA RETENIDO POR EL CAMBIO DE SUJETO DISPUESTO EN EL INCISO SÉPTIMO DEL ARTÍCULO 3° DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
+fecha: "2022-07-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1, 29, 30, 36, 97 N°11 y 128 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en los artículos 3° inciso séptimo, 8° letra n), 35 A y siguientes y 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825, de 1974", "en la Circular N°42 de 2020", "y en las Resoluciones Ex"]
 ---
-
-
 
 INCORPORA NUEVOS CÓDIGOS AL FORMULARIO 29 DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS PARA DECLARAR Y ENTERAR EN ARCAS FISCALES EL IVA RETENIDO POR EL CAMBIO DE SUJETO DISPUESTO EN EL INCISO SÉPTIMO DEL ARTÍCULO 3° DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
 

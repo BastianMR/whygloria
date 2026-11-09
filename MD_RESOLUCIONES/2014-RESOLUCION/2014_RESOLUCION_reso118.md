@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+materia: "INCORPORA A LOS DONATARIOS DE DONACIONES CULTURALES DEL ARTÍCULO 8° DE LA LEY N° 18.985, SOBRE DONACIONES CON FINES CULTURALES, LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL N° 1828."
+fecha: "2014-12-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso octavo del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 8° de la Ley N° 18.985, sustituido por la Ley N° 20.675, publicada en el Diario Oficial el día 05 de junio de 2013", "lo dispuesto en Resolución Exenta SII N° 204, del 24 de diciembre de 2009", "Resolución Exenta SII N° 110, del 15 de diciembre de 2004", "y Resolución Exenta SII N° 106, del 24 de diciembre de 2013"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

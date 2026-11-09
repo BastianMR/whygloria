@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 136 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACION"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO DE VERIFICACIÓN DE ANTECEDENTES PARA DETERMINAR EL CUMPLIMIENTO DE REQUISITOS DE PROCEDENCIA DEL BENEFICIO DEL ARTÍCULO 5 DEL ARTÍCULO PRIMERO DE LA LEY N° 21.252 PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA CON MOTIVO DE LA PROPAGACIÓN DE LA ENFERMEDAD DENOMINADA COVID-19."
+fecha: "2020-10-23"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N°1, y 33 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en los artículos 2, 4, 6, 12 y 13 del artículo primero de la Ley N° 21.252, que establece un financiamiento para la protección de los ingresos de la clase media en los casos que indica", "y lo instruido en las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACION
 

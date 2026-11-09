@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 155-SDAC-2018 77318559001"
 tags: [SII, 2018, resolucion]
+materia: "AUTORIZA A CONTRIBUYENTE QUE INDICA PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS."
+fecha: "2018-12-14"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el Art. 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 155-SDAC-2018 77318559001
 

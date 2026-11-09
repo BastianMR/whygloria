@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2013, resolucion]
+materia: "CREA LA OFICINA DE RELACIONES LABORALES COMO UNIDAD DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS QUE INDICA."
+fecha: "2013-11-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991, la Resolución Ex", "la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA TIMBRAJE DE DOCUMENTOS A CONTRIBUYENTES DE LA UNIDAD NORTE EN LA FORMA QUE INDICA."
+fecha: "2014-01-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 6º letra A, Nºs 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el D.L", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "y las instrucciones contenidas en las Resoluciones Ex", "la Resolución Ex", "la Circular SII N°19, de 11.05.1995"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2021)"
 description: "ESTABLECE LA FORMA Y REQUISITOS DE LA CONSULTA VINCULANTE EN MATERIA DE ELUSION DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO."
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE LA FORMA Y REQUISITOS DE LA CONSULTA VINCULANTE EN MATERIA DE ELUSION DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO."
+fecha: "2021-10-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "artículo primero numeral 16 de la Ley N° 21.210 publicada en el Diario Oficial de fecha 24.02.2020", "los artículos 4° bis, 4° ter, 4° quáter y 26 bis, del Código Tributario", "la Circular SII Nº 44 de fecha 26.06.2020, que modifica la Circular Nº 65 de 2015, y la Resolución Ex"]
 ---
-
-
 
 ESTABLECE LA FORMA Y REQUISITOS DE LA CONSULTA VINCULANTE EN MATERIA DE ELUSION DEL ARTÍCULO 26 BIS DEL CODIGO TRIBUTARIO.
 

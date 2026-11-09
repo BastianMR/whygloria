@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+materia: "MODIFICA FECHA DE ENTRADA EN VIGENCIA DE LA RESOLUCIÓN EX. SII N° 74 DE FECHA 02 DE JULIO DE 2020, QUE INSTRUYE PROCEDIMIENTO PARA EMITIR BOLETAS ELECTRÓNICAS Y BOLETAS NO AFECTAS Y EXENTAS ELECTRÓNICAS DE VENTAS Y SERVICIOS."
+fecha: "2020-09-02"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1, del Código Tributario, contenido en D.L", "los artículos 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las Leyes N° 21.210, de 2020, que Moderniza la Legislación Tributaria y N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica, publicada en el Diario Oficial el 2 de septiembre de 2020, y las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

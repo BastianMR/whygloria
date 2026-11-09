@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2020)"
 description: "MATERIA: EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
 tags: [SII, 2020, resolucion]
+materia: "EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
+fecha: "2020-01-17"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma"]
 ---
-
-
 
 MATERIA: EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA.
 

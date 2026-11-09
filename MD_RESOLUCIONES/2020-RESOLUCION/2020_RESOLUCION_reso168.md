@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 168 (2020)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2020, resolucion]
+materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
+fecha: "2020-12-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "en los artículos. 2°, 3° bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "lo establecido en los artículos 6° letra A, Nº 1 y 65 bis del Código Tributario, contenido en el Art. 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2017)"
 description: "DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2017, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA."
+fecha: "2017-03-08"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 de la Ley N° 18.575", "Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N°1600 de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## DELEGA FACULTAD QUE INDICA.
 

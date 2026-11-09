@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+materia: "EMISIÓN DE BOLETAS DE SERVICIOS POR CUENTA DE EMPRESAS PRODUCTORAS U ORGANIZADORAS DE ESPECTÁCULOS PÚBLICOS Y REUNIONES PAGADAS."
+fecha: "2021-06-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6 letra A N°1 del Código Tributario, contenido en el Decreto Ley N°830, de 1974", "en el artículo 1, 4 bis y 7 letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7 del Ministerio de Hacienda, de 1980", "en los artículos 52, 53, 54, 55 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en el artículo 69 del Reglamento de la Ley sobre Impuesto a la Ventas y Servicios, contenido en el Decreto Supremo N°55 del Ministerio de Hacienda, de 1977", "lo dispuesto en la Circular SII Nº126 de 1977, y en las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL
 

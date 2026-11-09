@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2025)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2025, resolucion]
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
+fecha: "2025-01-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A) N° 1, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales, artículo segundo transitorio de la Ley N°21.505, que promueve el almacenamient"]
 ---
 
 FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA.

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+materia: "IMPARTE INSTRUCCIONES PARA ACOGERSE AL RÉGIMEN DE RECUPERACIÓN DE LOS IMPUESTOS DEL DECRETO LEY Nº 825, DE 1974, POR LAS VENTAS DE MERCANCÍAS DE SU PROPIA PRODUCCIÓN QUE HAGAN A LA ZONA FRANCA DE EXTENSIÓN O A OTROS USUARIOS DE ZONA FRANCA A QUE SE REFIERE EL ARTÍCULO 27 DE LA LEY N° 19.420, DE 1995."
+fecha: "2013-05-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario, del D.L", "lo dispuesto en el artículo 27 de la Ley N° 19.420, de 1995, que establece incentivos para el desarrollo económico de las provincias de Arica y Parinacota y modifica los cuerpos legales que indica, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L", "lo dispuesto en el artículo 56, incisos 3° y 4° de la Ley sobre Impuesto a las Ventas y Servicios, del D", "la Resolución Ex", "las Circulares N° 50 de 1995, N° 64 de 1996, N° 46 de 2000 y N° 45 de 2008, que instruyen sobre la aplicación de la Ley Arica N° 19.420"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

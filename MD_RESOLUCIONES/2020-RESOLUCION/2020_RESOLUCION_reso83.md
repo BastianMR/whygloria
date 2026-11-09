@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2020)"
 description: "FIJA PROCEDIMIENTO ADMINISTRATIVO A QUE SE DEBEN SOMETER LAS SOLICITUDES EFECTUADAS POR LOS CONTRIBUYENTES EN EL MARCO DE LO DISPUESTO EN EL ARTÍCULO TRIGÉSI..."
 tags: [SII, 2020, resolucion]
+materia: "FIJA PROCEDIMIENTO ADMINISTRATIVO A QUE SE DEBEN SOMETER LAS SOLICITUDES EFECTUADAS POR LOS CONTRIBUYENTES EN EL MARCO DE LO DISPUESTO EN EL ARTÍCULO TRIGÉSIMO TERCERO TRANSITORIO DE LA LEY N°21.210."
+fecha: "2020-07-20"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N° 1, de la letra A, del artículo 6° del Código Tributario y las letras a), b) e i) del artículo 7°, todos del Decreto con Fuerza de Ley N°7, de 1980, del Ministerio de Hacienda, sobre Ley Orgánica del Servicio de Impuestos Internos", "y en el artículo trigésimo tercero transitorio de la Ley N° 21.210."]
 ---
-
-
 
 FIJA PROCEDIMIENTO ADMINISTRATIVO A QUE SE DEBEN SOMETER LAS SOLICITUDES EFECTUADAS POR LOS CONTRIBUYENTES EN EL MARCO DE LO DISPUESTO EN EL ARTÍCULO TRIGÉSIMO TERCERO TRANSITORIO DE LA LEY N°21.210.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
+materia: "RENUEVA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
+fecha: "2022-12-07"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 <unknown>
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA HACER EFECTIVO EL DERECHO AL CRÉDITO FISCAL DEL IMPUESTO A LAS VENTAS Y SERVICIOS, ESTABLECIDO EN EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY N° 20.780, DE 2014, MODIFICADO POR LA LEY N° 20.899, DE 2016."
+fecha: "2017-02-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30° y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "artículos 23 al 25 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

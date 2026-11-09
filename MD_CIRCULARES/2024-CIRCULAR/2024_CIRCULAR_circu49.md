@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 49 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°49.- 298545.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "MATERIA Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo undécimo transitorio de la Ley N° 21.713, modificado por la Ley N° 21.716."
+fecha: "2024-11-21"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024 y Ley N° 21.716, publicada en el Diario Oficial de 13 de noviembre de 2024."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°49.- 298545.2024 GE** |
 | --- | --- |

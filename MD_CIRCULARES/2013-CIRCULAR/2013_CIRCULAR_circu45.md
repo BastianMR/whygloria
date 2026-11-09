@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 45 (2013)"
 description: "Modificada por Circular N° 54, del 25 de noviembre de 2013"
 tags: [SII, 2013, circular]
+materia: "Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N° 20.630 de 2012. 6(12)00"
+fecha: "2013-09-23"
+exenta: false
+impuestos: ["renta", "timbres", "territorial", "contribuciones"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Artículo 21, 31, 33 N° 1 y otras disposiciones de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley N° 20.630, del 27 de septiembre de 2012."]
 ---
-
-
 
 Modificada por Circular N° 54, del 25 de noviembre de 2013
 

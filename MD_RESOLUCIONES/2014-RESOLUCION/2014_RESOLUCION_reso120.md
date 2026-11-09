@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2014, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
+fecha: "2014-12-26"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el art. 41, de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la letra i) del artículo 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en artículo 1° del Decreto Ley Nº 830, de 1974 y en el artículo 56 inciso 3° de la Ley sobre Impuesto a las Ventas y Servicios contenida en el artículo 1° del D"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

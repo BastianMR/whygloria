@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2017)"
 description: "DELEGA FACULTAD DE CELEBRAR ACUERDOS DE COLABORACIÓN TRIBUTARIA EN DIRECTORES REGIONALES Y EN EL DIRECTOR DE GRANDES CONTRIBUYENTES."
 tags: [SII, 2017, resolucion]
+materia: "DELEGA FACULTAD DE CELEBRAR ACUERDOS DE COLABORACIÓN TRIBUTARIA EN DIRECTORES REGIONALES Y EN EL DIRECTOR DE GRANDES CONTRIBUYENTES."
+fecha: "2017-07-14"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "la letra 'q' del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el Decreto con Fuerza de Ley N° 1 del año 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
 ---
-
-
 
 DELEGA FACULTAD DE CELEBRAR ACUERDOS DE COLABORACIÓN TRIBUTARIA EN DIRECTORES REGIONALES Y EN EL DIRECTOR DE GRANDES CONTRIBUYENTES.
 

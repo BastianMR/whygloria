@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 32 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Análisis Selectivo del Cumplimiento Tributario | CIRCULAR N°32.- |"
 tags: [SII, 2021, circular]
+materia: "Instruye sobre sanciones aplicables conforme a lo dispuesto por el N° 6 del artículo 41 E de la Ley sobre Impuesto a la Renta, por la no presentación de las declaraciones juradas a que se refiere dicha norma, o su presentación errónea, incompleta, extemporánea, o maliciosamente falsa. Deja sin efect"
+fecha: "2021-05-19"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Análisis Selectivo del Cumplimiento Tributario** | **CIRCULAR N°32.-** |
 | --- | --- |

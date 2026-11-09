@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2023)"
 description: "MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 2017, QUE ESTABLECE LA OBLIGACION DE PRESENTAR FORMULARIO N° 1945, DECLARACIÓN JURADA ANUAL SOBRE INGRESOS, DESEMBOLSOS..."
 tags: [SII, 2023, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 2017, QUE ESTABLECE LA OBLIGACION DE PRESENTAR FORMULARIO N° 1945, DECLARACIÓN JURADA ANUAL SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO."
+fecha: "2023-08-31"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en la Ley N° 21.440 publicada en el Diario Oficial de fecha 12.04.2022, la Resolución Ex"]
 ---
-
-
 
 MODIFICA RESOLUCIÓN EX. SII Nº 103 DE 2017, QUE ESTABLECE LA OBLIGACION DE PRESENTAR FORMULARIO N° 1945, DECLARACIÓN JURADA ANUAL SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO.
 

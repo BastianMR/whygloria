@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 172 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO PARA EJERCER LA OPCIÓN DEL INCENTIVO AL AHORRO A QUE SE REFIERE LA LETRA E) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2020-12-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 21 y 36, del Código Tributario, contenido en el artículo 1° del D.L", "la letra A) y N° 3 de la letra D) y E) del artículo 14 y el artículo 69 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974 (en adelante, \"LIR\")", "y las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

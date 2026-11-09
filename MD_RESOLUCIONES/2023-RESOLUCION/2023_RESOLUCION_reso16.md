@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2023)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA 237328.2023 GE"
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN."
+fecha: "2023-02-16"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el °, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 23, inciso tercero, y 34, N° 2, letra c), inciso cuarto, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA 237328.2023 GE
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2018-09-05"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 92 bis del Código Tributario, contenido en el artículo 1° del D.L. 830, de 1974", "los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L", "los artículos 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenido en el artículo 1° de D.L", "y las instrucciones impartidas por este Servicio en la Resolución Exenta SII N° 18, del 2003, modificada por las Resoluciones Exentas N°s 84, del 2005, 157, del 2007,y 22, del 2016", "la Resolución Exenta N° 45, del 2003 modificada por las Resoluciones Exentas N°s 80 y 100, del 2014", "las Resoluciones Exentas N°s 61 y 68 del 2017", "la Resolución Exenta N° 19, del 2008, modificada por la Resolución Exenta N° 160, del 2010", "la Resolución Exenta N° 6, del 2018"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

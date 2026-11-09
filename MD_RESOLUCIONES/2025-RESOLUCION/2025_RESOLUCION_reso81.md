@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2025-06-30"
+exenta: true
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "la Ley N°19.880 que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "en el artículo 3° del Decreto Ley N°3.457 de 1980", "en la Resolución Exenta SII N°41, de 2025"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

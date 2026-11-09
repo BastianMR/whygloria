@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00200089"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Dirección General de Promoción de Exportaciones y el Servicio de Impuestos Internos."
+fecha: "2022-01-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada, la Ley N° 20.285 sobre Acceso a la Información Pública y el artículo 61 de la Ley Nº 21.080 en donde se designan a PROCHILE y la Subsecretaria de Relaciones Económicas Internacionales, como sucesoras y continuadoras legales de la Dirección General "]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00200089
 

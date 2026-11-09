@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+materia: "INCORPORA Y REGULA EL USO DE CÉDULA RUT ELECTRÓNICA (e-RUT)"
+fecha: "2016-06-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 66 del Código Tributario contenido en el artículo 1° del D.L", "los artículos 2°, 4° y 7° del D.F.L", "y las facultades que me confieren los artículos 6º letra A) Nº 1 del mencionado Código y 4° bis y 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

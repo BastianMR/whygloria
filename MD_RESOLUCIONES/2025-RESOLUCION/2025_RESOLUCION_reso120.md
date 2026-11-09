@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2025)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 264683"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 264683"
+fecha: "2025-09-16"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, del Ministerio de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo establecido en la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 19.296 que Establece Normas sobre Asociaciones de Funcionarios de la Administración del Estado", "lo dispuesto en las Resoluciones N°349, de 1984", "y Resolución Exenta N°136, de 2021, todas ellas del Servicio de Impuestos Internos", "lo establecido en la Resolución N°2, de 2018, de la Dirección Nacional del Servicio Civil, sobre participación Funcionaria", "lo instruido en la Resolución N°36, de 2024, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 264683

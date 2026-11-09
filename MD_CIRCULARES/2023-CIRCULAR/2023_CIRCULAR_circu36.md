@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 36 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos | CIRCULAR N°36.- 247101.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Imparte instrucciones sobre los efectos tributarios de las modificaciones introducidas por la Ley N° 21.564, que deroga la Ley N° 8.834, y regula beneficios para promover la realización en Chile de eventos deportivos oficiales de relevancia internacional. Se deja sin efecto Circular N° 106 de 1979."
+fecha: "2023-08-31"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.564, Ley N° 8.834, Ley sobre Impuesto a la Renta y Ley sobre Impuesto a las Ventas y Servicios."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos** | **CIRCULAR N°36.- 247101.2023 GE** |
 | --- | --- |

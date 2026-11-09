@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE DECLARACIÓN JURADA A PRESENTAR POR LAS INSTITUCIONES DE PREVISIÓN DEL RÉGIMEN ANTIGUO ADMINISTRADAS POR EL INSTITUTO DE PREVISIÓN SOCIAL, DIRECCIÓN DE PREVISIÓN DE CARABINEROS DE CHILE O CAJA DE PREVISIÓN DE LA DEFENSA NACIONAL."
+fecha: "2013-02-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Título IV de la Ley N° 20.255, de 2008, del Ministerio del Trabajo y Previsión Social, y Subsecretaría de Previsión Social, que establece Reforma Previsional"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS
 

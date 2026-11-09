@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2020-03-24"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 4° bis inciso 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 54 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "el artículo 3° de la Ley N° 21.131, que establece el pago a treinta días, modificado por la Ley Nº 21.203", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma", "el artículo 70 del Reglamento de la Ley del IVA contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "el Decreto N° 104, del 18 de marzo de 2020 del Ministerio del Interior y Seguridad Pública"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

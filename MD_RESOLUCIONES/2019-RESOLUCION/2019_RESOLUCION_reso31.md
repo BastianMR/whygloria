@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2019)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile."
 tags: [SII, 2019, resolucion]
+materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile."
+fecha: "2019-02-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y en la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016, sobre Simplificación de la Reforma Tributaria."]
 ---
-
-
 
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Gremial de los Empresarios Hoteleros de Chile.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE PUENTE ALTO SR. GONZALO ALEJANDRO MARTÍN IGLESIAS, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
+fecha: "2016-08-09"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 y en los incisos 3°al 6° del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L", "las Resoluciones Exentas del SII N° 1414, de 27.10.1978 y N° 83, de 30.08.2004."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

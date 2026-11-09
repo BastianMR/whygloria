@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+materia: "MODIFICA CONTENIDO DEL FORMULARIO N° 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS."
+fecha: "2014-07-21"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las normas pertinentes de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "la Ley N° 20.657 del Ministerio de Economía, Fomento y Turismo, publicada en el Diario Oficial el 09 de Febrero de 2013, que Modifica la Ley General de Pesca y Acuicultura, contenida en la Ley N° 18.892, de 1989 y sus modificaciones", "y lo dispuesto en la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN
 

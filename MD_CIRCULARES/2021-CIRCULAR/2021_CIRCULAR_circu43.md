@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°43.- 180906.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, a los números 5, 6, 7 y 8 del artículo 17 de la Ley sobre Impuesto a la Renta, y lo dispuesto en el artículo vigésimo cuarto transitorio de la Ley N° 21.210."
+fecha: "2021-07-05"
+exenta: false
+impuestos: ["renta", "herencias", "territorial", "segunda-categoria"]
+formularios: ["F22"]
+regimen: ["renta-presunta"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°43.- 180906.2021 GE** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2019)"
 description: "FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMB..."
 tags: [SII, 2019, resolucion]
+materia: "FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA."
+fecha: "2019-06-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "en los artículos 2°, 3° y 8° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y Resolución Ex"]
 ---
-
-
 
 FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA.
 

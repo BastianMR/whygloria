@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979"
+fecha: "2023-11-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c) e i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N°7, de 1980, de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "los Decretos Supremos N°789, de 1989, que promulgó la 'Convención sobre la eliminación de todas las formas de discriminación contra la mujer', adoptada por la Asamblea General de las Naciones Unidas el 18 de diciembre de 1979, y N°1640, de 1998, que 'Promulga la 'Convención Interamericana para preve", "la Resolución N°6, de 2019, de la Contraloría General de la República", "la Resolución Exenta SII N°24, de 2023, que Aprueba Política Institucional de Igualdad de Género y Conciliación de la vida laboral, familiar y personal del Servicio de Impuestos Internos"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2024)"
 description: "MATERIA: REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJ..."
 tags: [SII, 2024, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 35, de 2016."
+fecha: "2024-04-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Artículo primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario, contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 379 de 1991", "la Resolución Exenta N° 35, de 2016, todas ellas del Director del Servicio de Impuestos Internos", "y lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República:"]
 ---
-
-
 
 MATERIA: REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 35, de 2016.
 

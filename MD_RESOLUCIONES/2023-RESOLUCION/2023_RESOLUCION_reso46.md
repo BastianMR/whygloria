@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2023-04-12"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, y 88°, del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del Art. 7° del D.F.L", "el inciso cuarto del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "las Resoluciones SII N°s 1087 y 1110, de 1978", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
 

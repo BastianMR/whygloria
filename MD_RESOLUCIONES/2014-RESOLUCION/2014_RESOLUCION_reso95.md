@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2014)"
 description: "Modifica Resoluciones Ex. SII N° 7590, de 1999 y 75, de 2013."
 tags: [SII, 2014, resolucion]
+materia: ""
+fecha: "2014-10-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en los artículos 3°", "7° y 9°, todos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "lo establecido en la Ley N°18.575", "lo estatuido en la Resolución N°379, de 1991, Resolución Exenta N° 7.590, de 1999, Resolución Exenta N°184, de 2009, Resolución Exenta N°10, de 2009, Resolución Exenta N°153, de 2011, y Resolución Exenta N°75, de 2013, todas ellas del Director del Servicio de Impuestos Internos", "lo instruido en la Resolución N°1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 383/2014
 

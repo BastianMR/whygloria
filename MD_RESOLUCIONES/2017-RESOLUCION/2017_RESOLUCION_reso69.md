@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2017)"
 description: "Delegación de facultades que indica."
 tags: [SII, 2017, resolucion]
+materia: "Delegación de facultades que indica."
+fecha: "2017-08-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i), j) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, de Hacienda", "el N°3 de la letra A) del artículo 6°, del Código Tributario", "el artículo 41, de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Ex", "el punto II N° 2 de la letra d) del Oficio Circular N° 4, de 13.03.2017, que se refiere a la política de seguridad de sistemas y uso de los recursos informáticos del Servicio de Impuestos Internos"]
 ---
-
-
 
 MATERIA:
 

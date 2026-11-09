@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2024)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO Nº 1913"
 tags: [SII, 2024, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO Nº 1913"
+fecha: "2024-08-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 3º bis, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "la Resolución Exenta SII Nº 110 de 2015 y sus modificaciones posteriores"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO Nº 1913
 

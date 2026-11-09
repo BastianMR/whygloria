@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
+materia: "REFUNDE Y REESTRUCTURA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE. DEJA SIN EFECTO RES. EX N° 98, DE 2014, RES. EX 65 DE 2016 Y N° 31, DE 2018."
+fecha: "2021-02-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c), ñ) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Exenta N°98, de 21.10.2014, que Crea el Departamento Subdirección de Asistencia al Contribuyente y Establece Funciones y Ámbito de Competencia de las Unidades que lo conforman, de la Dirección Nacional del Servicio de Impuestos Internos", "la Resolución Exenta SII N°31 de 19.03.2018, que Reestructura Departamento Subdirección de Asistencia al Contribuyente y modifica Resolución Ex", "la Resolución N°6, de 2019 de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 19 (2020)"
 description: "DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 07.2020 CIRC.SN 02.2020 ID | CIRCULAR N° 19 |"
 tags: [SII, 2020, circular]
+materia: "MATERIA Imparte instrucciones sobre la modificación de los artículos 42 N° 1, 43 y 47 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210, de 24 de febrero de 2020."
+fecha: "2020-03-25"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 07.2020 CIRC.SN 02.2020 ID** | **CIRCULAR N° 19** |
 | --- | --- |

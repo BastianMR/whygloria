@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 153 (2026)"
 description: "Subdirección Desarrollo de Personas Depto. Formación GE00395959"
 tags: [SII, 2026, resolucion]
+materia: "APRUEBA MEMORANDO DE ENTENDIMIENTO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS, LA FACULTAD DE ECONOMÍA Y NEGOCIOS DE LA UNIVERSIDAD DE CHILE Y EL INSTITUTO DE ESTUDIOS FISCALES DEL MINISTERIO DE HACIENDA DEL REINO DE ESPAÑA."
+fecha: "2026-11-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 1°y 7°, letras a), c) y o), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las disposiciones de la Ley N° 19.886, sobre Bases de Contratos Administrativos de Suministros y Prestación de Servicios", "el artículo 35 de la Ley N° 21.080, que Modifica diversos cuerpos legales para modernizar el Ministerio de Relaciones Exteriores", "lo establecido en la Resolución N°36, de 2024, de la Contraloría General de la República, sobre exención del trámite de toma de razón"]
 ---
 
 ## Subdirección Desarrollo de Personas Depto. Formación GE00395959

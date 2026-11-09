@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2017)"
 description: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS..."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS POR CONTRIBUYENTES SUJETOS AL RÉGIMEN DE LA LETRA A) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA Y SOBRE SALDO DE RETIROS EN EXCESO PENDIENTE DE IMPUTACIÓN."
+fecha: "2017-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35, 60 inciso penúltimo, 63 y 69 inciso primero del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS POR CONTRIBUYENTES SUJETOS AL RÉGIMEN DE LA LETRA A) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA Y SOBRE SALDO DE RETIROS EN EXCESO PENDIENTE DE IMPUTACIÓN.
 

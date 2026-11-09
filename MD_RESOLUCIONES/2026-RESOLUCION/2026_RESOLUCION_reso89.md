@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2026)"
 description: "Anexo N°1: Nómina de Helicópteros y Aviones"
 tags: [SII, 2026, resolucion]
+materia: "ACTUALIZA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°194 AÑO 2025, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9° DE LA LEY N° 21.420."
+fecha: "2026-06-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras b) y c), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6º, letra A), N° 1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830 de 1974", "artículo 9° de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "Circular SII N°50 de 2024", "Resoluciones Ex"]
 ---
 
 ## Anexos:

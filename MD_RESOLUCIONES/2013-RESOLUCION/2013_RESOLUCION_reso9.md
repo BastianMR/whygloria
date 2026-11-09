@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2013)"
 description: "MATERIA: AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
 tags: [SII, 2013, resolucion]
+materia: "AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
+fecha: "2013-01-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Art. 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 56, de la Ley sobre Impuesto a las Ventas y Servicios, del D.L", "en la Resolución Ex", "y en las Resoluciones Ex"]
 ---
-
-
 
 MATERIA: AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES.
 

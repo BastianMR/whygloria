@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2025)"
 description: "MATERIA: ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE ACTIVOS DIGITALES RESPECTO DE CONTRIBUYENTES CON RESIDENCIA TRIBUTARIA EN EL EXTRANJE..."
 tags: [SII, 2025, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE ACTIVOS DIGITALES RESPECTO DE CONTRIBUYENTES CON RESIDENCIA TRIBUTARIA EN EL EXTRANJERO. DECLARACIÓN JURADA FORMULARIO N° 1963."
+fecha: "2025-08-26"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 6° letra A), Nº 1, 33 bis, 35, y 97 N°1 del Código Tributario, el artículo 6 de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria"]
 ---
 
 GE 335514

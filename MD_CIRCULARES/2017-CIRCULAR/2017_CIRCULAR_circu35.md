@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 35 (2017)"
 description: "SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES | CIRCULAR N° 35.- |"
 tags: [SII, 2017, circular]
+materia: "MATERIA COMPLEMENTACIRCULAR N° 4, DE 11.01.2017 QUE ESTABLECE REQUSITOS PARA EFECTOS DE HACER USO DEL CRÉDITO FISCAL CONTENIDO EN LA FACTURA ELECTRÓNICA."
+fecha: "2017-06-23"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 23 N° 7, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974", "Ley N° 19.983 que otorga mérito ejecutivo y regula la transferencia de la copia de la factura", "Ley N° 20.956 que establece medidas para impulsar la productividad", "y la Circular N° 4, de 11.01.2017."]
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES** | **CIRCULAR N° 35.-** |
 | --- | --- |

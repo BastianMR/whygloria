@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2017)"
 description: "CREA EL CENTRO DE FORMACIÓN E INVESTIGACIÓN TRIBUTARIA DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2017, resolucion]
+materia: "CREA EL CENTRO DE FORMACIÓN E INVESTIGACIÓN TRIBUTARIA DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2017-11-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el Artículo 7° letras a), c), i), k) y q), del DFL N° 7/1980 del Ministerio de Hacienda, que fija Texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "la Ley N° 20.853 que Fortalece al Servicio de Impuestos Internos y la Resolución N° 10/2017 de la Contraloría General de la República."]
 ---
-
-
 
 CREA EL CENTRO DE FORMACIÓN E INVESTIGACIÓN TRIBUTARIA DEL SERVICIO DE IMPUESTOS INTERNOS.
 

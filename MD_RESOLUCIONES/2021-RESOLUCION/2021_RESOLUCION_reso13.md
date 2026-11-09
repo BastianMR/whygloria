@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN"
+fecha: "2021-02-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1 y 17 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L", "en la Circular Nº 54 de 2015 sobre reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN
 

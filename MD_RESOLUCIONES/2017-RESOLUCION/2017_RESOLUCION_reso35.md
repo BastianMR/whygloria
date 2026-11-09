@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 706 - SDAC - 2016 77316130409"
 tags: [SII, 2017, resolucion]
+materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°101 DE 08.08.2011 MODIFICADA POR LA RESOLUCIÓN 133, DEL 23.11.2011 EN LOS TÉRMINOS QUE INDICA."
+fecha: "2017-03-23"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda de 1980", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "la Resolución Ex", "y en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 706 - SDAC - 2016 77316130409
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00184687"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00184687"
+fecha: "2023-05-17"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1 y artículo 88° en su inciso penúltimo, del Código Tributario, contenido en D.L", "los artículos 55° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el de D.L", "el N°24 del artículo N° 3 de la Ley N° 21.210, que Moderniza la Legislación Tributaria", "la Ley N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica", "la Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00184687
 

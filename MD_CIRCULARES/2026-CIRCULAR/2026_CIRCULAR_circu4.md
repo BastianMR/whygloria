@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 4 (2026)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos                                                                                                ..."
 tags: [SII, 2026, circular]
+materia: "Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros docu"
+fecha: "2026-01-19"
+exenta: false
+impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "Ley N° 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "artículo 7° de la Ley N° 16.282 cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "artículo 37 del Decreto Ley N° 1.939 de 1977", "artículo 4° de la Ley N° 19.896", "Decreto Ley N° 45 de 1973", "Ley N° 20.444, publicada en el Diario Oficial de fecha 28 de mayo de 2010."]
 ---
 
 | DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos                                                                                                                                                                                                                                                                | CIRCULAR N°04.- 361026.2026 GE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |

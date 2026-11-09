@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2019)"
 description: "COMPLEMENTA RESOLUCIONES EX. SII NÚMEROS 208, DE 2009 Y 117, DE 2011"
 tags: [SII, 2019, resolucion]
+materia: "## COMPLEMENTA RESOLUCIONES EX. SII NÚMEROS 208, DE 2009 Y 117, DE 2011"
+fecha: "2019-04-30"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "el artículo 6°, letra A), N° 1° del D.L", "los artículos 1º, 36 y 68 del D.L", "el artículo 83 bis del D.S", "el artículo 2°, letra c) y artículo 6°, inciso 3°, del Decreto Supremo N° 348, de 1975, del Ministerio de Economía, Fomento y Reconstrucción, cuyo texto fue aprobado mediante Decreto N° 79 de 1991, del mismo Ministerio", "las Resoluciones Exentas N° 208 de 2009"]
 ---
-
-
 
 ## COMPLEMENTA RESOLUCIONES EX. SII NÚMEROS 208, DE 2009 Y 117, DE 2011
 

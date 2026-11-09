@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "MODIFICA RESOLUCIÓN EXENTA SII N°95 DE 08 DE JUNIO DE 2010"
+fecha: "2014-04-15"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 2°, 3° bis, 7° letras c) y ñ), y 9° inciso final de la Ley Orgánica del Servicio de Impuestos Internos", "y el artículo 6 del Código Tributario"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES
 

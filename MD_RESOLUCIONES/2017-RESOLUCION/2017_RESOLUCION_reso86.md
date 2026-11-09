@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2017-09-07"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L. 830, de 1974, en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "lo establecido en las Leyes N° 19.799 y N° 19.983", "en el artículo 4° bis del D.F.L", "Ley 20.727 de 2014, de Factura Electrónica", "en las Resoluciones Exentas SII N° 09, de 2001", "N° 61 y 68, de 2017 y la Circular N°32, de 2005"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

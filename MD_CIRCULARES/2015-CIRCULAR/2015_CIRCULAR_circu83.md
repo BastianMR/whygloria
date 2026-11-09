@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 83 (2015)"
 description: "FERNANDO BARRAZA LUENGO DIRECTOR"
 tags: [SII, 2015, circular]
+materia: "Deja sin efecto Circular N° 80, de 29/09/2015. 6(12)00"
+fecha: "2015-10-19"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR
 

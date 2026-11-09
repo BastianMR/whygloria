@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 49 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa, Depto. Técnica Tributaria | CIRCULAR N° 49 |"
 tags: [SII, 2020, circular]
+materia: "MATERIA Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado por las Leyes N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, y N° 2"
+fecha: "2020-07-20"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016", "y, Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa, Depto. Técnica Tributaria** | **CIRCULAR N° 49** |
 | --- | --- |

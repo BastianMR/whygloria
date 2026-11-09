@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
+fecha: "2015-01-13"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES
 

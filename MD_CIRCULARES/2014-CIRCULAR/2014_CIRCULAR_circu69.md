@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 69 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 69.- 128.2014 ID 16.2014 SN |"
 tags: [SII, 2014, circular]
+materia: "Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015. 6(12)00"
+fecha: "2014-12-30"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "segunda-categoria", "contribuciones"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 14 bis, 14 ter y 14 quáter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974, y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 69.- 128.2014 ID 16.2014 SN** |
 | --- | --- |

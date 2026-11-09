@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+materia: "COMUNICA NUEVA CODIFICACIÓN DE LAS ACTIVIDADES ECONÓMICAS"
+fecha: "2018-07-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "y en el artículo 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y el Decreto N° 187, del Ministerio de Economía, Fomento y Turismo, publicado el 21.11.2014"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

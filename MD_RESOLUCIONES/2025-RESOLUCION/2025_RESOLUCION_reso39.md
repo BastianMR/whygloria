@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2025)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE 317031"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE 317031"
+fecha: "2025-03-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letras a), c) y r), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en el artículo 5° de la Ley N° 21.713, que introdujo modificaciones al artículo 9 de la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica", "lo instruido en la Circular N° 50 de 2024 y en las Resoluciones Ex"]
 ---
 
 Sii

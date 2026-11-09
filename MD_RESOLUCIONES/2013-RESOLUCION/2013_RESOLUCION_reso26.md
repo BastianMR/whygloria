@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "SUSTITÚYESE LAS INSTRUCCIONES DE LLENADO DE LA DECLARACIÓN JURADA FORMULARIO N° 1866 A QUE SE REFIERE LA RESOLUCIÓN EX. Nº 121 DE FECHA 31.12.2004."
+fecha: "2013-02-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 6º letra A) Nº 1, 30 y 60 inciso 8° del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS
 

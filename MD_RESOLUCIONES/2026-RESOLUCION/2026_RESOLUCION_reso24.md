@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2026)"
 description: "RESOLUCIÓN EXENTA SII N°24.- RESOLUCIÓN EXENTA TGR N°01.-"
 tags: [SII, 2026, resolucion]
+materia: "## RESOLUCIÓN EXENTA SII N°24.- RESOLUCIÓN EXENTA TGR N°01."
+fecha: "2026-02-10"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1, 8, 36, 53 y 192 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 22 del Decreto con Fuerza de Ley N° 1, de 1998, del Ministerio de Hacienda, que fija texto refundido, coordinado, sistematizado y actualizado de la Ley N° 17.235, sobre Impuesto Territorial", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 2 N°1 del Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1994, que fija el texto refundido, coordinado, sistematizado y actualizado del estatuto orgánico del Servicio de Tesorerías", "Decretos Supremos Nos 2, 3, 4 y 5 del 2026, del Ministerio del Interior, y el Decreto Supremo N°9, de 2026, del Ministerio de Hacienda"]
 ---
 
 Sii

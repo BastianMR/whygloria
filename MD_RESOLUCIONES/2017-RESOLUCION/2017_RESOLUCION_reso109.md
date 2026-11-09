@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "DESIGNA RESPONSABLES EN LAS CERTIFICACIONES DIGITALES QUE INDICA."
+fecha: "2017-11-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el artículo 4° bis y la letra j) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A) Nº 3 y 86 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

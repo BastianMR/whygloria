@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 26 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 26.- GE249438 |"
 tags: [SII, 2023, circular]
+materia: "Tablas de impuesto único de segunda categoría para el mes de julio de 2023 e información adicional relacionada con dicho tributo."
+fecha: "2023-06-09"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N° 26.- GE249438** |
 | --- | --- |

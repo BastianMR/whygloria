@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 60 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°60 30.2020 SN Circ. 15.2020 ID |"
 tags: [SII, 2020, circular]
+materia: "Instruye sobre modificaciones introducidas por la Ley N° 21.210, en los regímenes tributarios establecidos en el Decreto Ley N° 3.529 de 1980, Decreto con Fuerza de ley N° 341 de 1977, del Ministerio de Hacienda, y en las leyes N°s 18.392, 19.149, 19.420, 19.709, 19.606 y 19.853."
+fecha: "2020-09-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Ley N° 21.210"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°60 30.2020 SN Circ. 15.2020 ID** |
 | --- | --- |

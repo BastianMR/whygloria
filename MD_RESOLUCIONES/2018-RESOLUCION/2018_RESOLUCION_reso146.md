@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 146 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DESARROLLO DE LAS PERSONAS"
 tags: [SII, 2018, resolucion]
+materia: "FIJA NUEVAS DENOMINACIONES Y FUNCIONES A LOS DEPARTAMENTOS QUE SE INDICAN, DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO CENTRO Y DE LA XV DIRECCIÓN REGIONAL METROPOLITANA, SANTIAGO ORIENTE."
+fecha: "2018-12-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° del Código Tributario contenido en el artículo 1° del D.L", "el artículo 4°, inciso final de la Ley Orgánica del Servicio de Impuestos Internos", "el artículo 7°, letras a), c) y ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "en los artículos 41 y 43 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y la Ley N° 18.834, sobre Estatuto Administrativo", "la Resolución Exenta N°197, de 2009", "la Resolución Exenta N°49, de 2012", "ambas del Director del Servicio de Impuestos Internos y la Resolución N° 1.600, del 30 de octubre de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DESARROLLO DE LAS PERSONAS
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2018-01-02"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 3° transitorio, numeral IV, N° 6 de la de la Ley N° 20.780, de 2014, sobre Reforma Tributaria", "en el Decreto N° 970, de 11.11.1990, del Ministerio de Hacienda", "y las instrucciones contenidas en las Circulares N° 54, de 22.10.1990"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

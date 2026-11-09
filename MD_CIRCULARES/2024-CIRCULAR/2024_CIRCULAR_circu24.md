@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 24 (2024)"
 description: "Modificada por Circular N° 38, del 30 de abril de 2025"
 tags: [SII, 2024, circular]
+materia: "MATERIA Imparte instrucciones acerca de las implicancias que se derivan de la dictación de la Ley N° 21.582, que suprime o modifica la intervención de notarios en trámites, actuaciones y gestiones determinadas que se realicen ante órganos de la Administración del Estado, para el desarrollo de los pr"
+fecha: "2024-05-23"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.582, artículos 1° y 14"]
 ---
-
-
 
 ## Modificada por Circular N° 38, del 30 de abril de 2025
 

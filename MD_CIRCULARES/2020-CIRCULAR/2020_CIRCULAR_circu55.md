@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 55 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 55 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978"
+fecha: "2020-08-18"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.848, publicada en el Diario Oficial de 25 de junio de 2015, Ley 20.899, publicada en el Diario Oficial de 08 de febrero de 2016 y Ley N° 21.210 publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 55** |
 | --- | --- |

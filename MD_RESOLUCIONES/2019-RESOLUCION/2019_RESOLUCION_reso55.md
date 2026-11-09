@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS DEPARTAMENTO GESTION DE LAS PERSONAS"
+fecha: "2019-04-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS
 

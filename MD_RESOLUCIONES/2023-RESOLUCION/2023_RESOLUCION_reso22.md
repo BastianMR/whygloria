@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR CONDONACIÓN DE LOS IMPUESTOS QUE GRAVEN LOS PAGOS O REMESAS REALIZADOS AL EXTERIOR, CONFORME CON LO DISPUESTO EN EL DECRETO N° 148, DE FECHA 08.02.2023, DEL MINISTERIO DE HACIENDA, Y DELEGA FACULTADES QUE INDICA."
+fecha: "2023-03-03"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4 bis y 7° del artículo primero del D.F.L", "el Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "los artículos 3°, 59, 60 inciso primero, 74 N° 4, 75, 79, 82 y 83 de la Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N° 824, de 1974", "el artículo 12 letra E N°7 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "lo previsto en la Ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado", "lo dispuesto en el artículo 3° de la Ley N° 16.282, que Fija Disposiciones para casos de Sismos o Catástrofes, cuyo texto refundido, coordinado y sistematizado fue fijado por el Decreto N° 104 de 1977, del Ministerio del Interior", "el Decreto N° 148, de 08.02.2023, del Ministerio de Hacienda."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
 

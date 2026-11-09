@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Adendum Convenio entre Subsecretaria de Economía y Empresas de Menor Tamaño y Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la Ley 20.659 y su reglamento."
+fecha: "2020-01-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública y el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

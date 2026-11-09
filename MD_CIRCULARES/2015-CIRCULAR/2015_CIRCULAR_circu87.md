@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 87 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 87.- |"
 tags: [SII, 2015, circular]
+materia: "Deja sin efecto Circular N° 47, de 26 de septiembre de 2013."
+fecha: "2015-11-18"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 87.-** |
 | --- | --- |

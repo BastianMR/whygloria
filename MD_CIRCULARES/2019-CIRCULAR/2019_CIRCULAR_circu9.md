@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 9 (2019)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 9.- |"
 tags: [SII, 2019, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2019."
+fecha: "2019-02-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº 9.-** |
 | --- | --- | --- |

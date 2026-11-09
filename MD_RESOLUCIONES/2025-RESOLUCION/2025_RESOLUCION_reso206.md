@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 206 (2025)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00358342"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00358342"
+fecha: "2025-12-30"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 19 Nº 4, de la Constitución Política de la República, la Ley N° 19.628, sobre Protección de la Vida Privada", "Resolución N° 36 de 2024, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00358342

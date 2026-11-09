@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 10 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°10.- 275488.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta."
+fecha: "2024-03-07"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 60, de 12 de febrero de 2024, del Ministerio de Hacienda, publicado en el Diario Oficial de 17 de febrero de 2024", "y Resolución Exenta N° 29, de 26 de febrero de 2024, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 1 de marzo de 2024."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°10.- 275488.2024 GE** |
 | --- | --- |

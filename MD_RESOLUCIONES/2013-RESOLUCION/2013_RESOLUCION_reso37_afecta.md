@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2013)"
 description: "las siguientes facultades:"
 tags: [SII, 2013, resolucion]
+materia: "## DELEGA FACULTADES QUE INDICA."
+fecha: ""
+exenta: true
+impuestos: ["contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 7°, letras c), h), i), j), o) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "el N°3 de la letra A) del artículo 6° del Código Tributario", "el artículo 41 de la Ley N° 18.575", "la Resolución N°343, de 05 de julio de 2000, modificada por Resolución N°408, de 30 de agosto de 2002, Resolución Ex", "la Resolución N°1600 de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 las siguientes facultades:
 

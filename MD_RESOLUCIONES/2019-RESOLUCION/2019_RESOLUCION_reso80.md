@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2019-06-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del DL N° 830 de 1974", "los artículos 1, 4 bis y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "artículos 18 y 19 de la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado", "las modificaciones introducidas por la Ley N° 20.956 de 2016, que Establece Medidas para Impulsar la Productividad", "la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

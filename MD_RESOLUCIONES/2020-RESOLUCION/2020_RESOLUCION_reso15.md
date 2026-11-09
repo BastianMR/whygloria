@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos"
+fecha: "2019-12-13"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Decreto Exento N°432, de fecha 19 de octubre de 2018 del Ministerio de Economía, Fomento y Turismo y Resolución EX"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

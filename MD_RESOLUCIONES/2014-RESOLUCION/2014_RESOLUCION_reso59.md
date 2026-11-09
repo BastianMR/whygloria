@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2014, resolucion]
+materia: "REEMPLAZA RESOLUCIÓN EX. SII Nº 129, DE FECHA 06.08.2010, SOBRE PROCEDIMIENTO DE SOLICITUD DE INSCRIPCIÓN EN REGISTRO DE INSTITUCIONES SIN FINES DE LUCRO DISTRIBUIDORAS Y/O RECEPTORAS DE ALIMENTOS, CUYA COMERCIALIZACIÓN SEA INVIABLE."
+fecha: "2014-06-20"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en la Circular N° 54, de 2009, el Servicio de Impuestos Internos, procederá a su inscripción en el 'Registro de Instituciones sin Fines de Lucro Distribuidoras y/o Receptoras de Alimentos cuya Comercialización sea Inviable', cuya nómina se publica, en el sitio [<u>www.sii.cl</u>](http://www.sii.cl)."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
 

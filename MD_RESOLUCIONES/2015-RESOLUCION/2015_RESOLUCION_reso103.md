@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2015)"
 description: "SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2015, resolucion]
+materia: "ACTUALIZA NORMAS DE FUNCIONAMIENTO DEL COMITÉ BIPARTITO DE CAPACITACIÓN DEL SII."
+fecha: "2015-12-21"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El Artículo 7° letras c), i) y k) del DFL N° 7/1980 del Ministerio de Hacienda, que fija Texto de la Ley Orgánica del Servicio de Impuestos Internos, la Resolución N° 1600/2008 de la Contraloría General de la República, el Instructivo Presidencial Gab"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE RECURSOS HUMANOS
 

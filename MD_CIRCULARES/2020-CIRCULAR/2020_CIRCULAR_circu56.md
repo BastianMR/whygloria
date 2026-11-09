@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 56 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°56 28.2020 ID 13.2020 SN |"
 tags: [SII, 2020, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional."
+fecha: "2020-09-04"
+exenta: false
+impuestos: ["renta", "territorial"]
+formularios: ["F22"]
+regimen: ["14B", "renta-presunta"]
+ref_legal: ["Artículos 59, 60, 62, 63, 69 N°4, 74 N° 4 y 79 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°56 28.2020 ID 13.2020 SN** |
 | --- | --- |

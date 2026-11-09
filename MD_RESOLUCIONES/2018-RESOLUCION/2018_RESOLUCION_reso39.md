@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA"
 tags: [SII, 2018, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 91, DE 20 DE SEPTIEMBRE DE 2016 QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN NORMATIVA DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 137, DE 29 DE OCTUBRE DE 2008."
+fecha: "2018-04-13"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 20.780 de 2014, sobre Reforma Tributaria", "la Ley N° 20.899 de 2016", "lo dispuesto en la Resolución N° 349, de 1984", "lo establecido en la Resolución Ex", "y lo instruido en la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA
 

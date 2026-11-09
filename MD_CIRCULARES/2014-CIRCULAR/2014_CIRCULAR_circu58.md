@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 58 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 58.- |"
 tags: [SII, 2014, circular]
+materia: "TABLASDELIMPUESTOÚNICODESEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE DICIEMBRE DEL AÑO 2014 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
+fecha: "2014-11-12"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1 y 43 al 47 y 52 de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 58.-** |
 | --- | --- |

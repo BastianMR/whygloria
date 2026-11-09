@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 10 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 10 015-2020 OGN |"
 tags: [SII, 2020, circular]
+materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive."
+fecha: "2020-02-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 10 015-2020 OGN** |
 | --- | --- |

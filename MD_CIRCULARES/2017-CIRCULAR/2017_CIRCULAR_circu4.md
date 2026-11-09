@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2017)"
 description: "Modificada por Circular Nº 35, del 23 de junio de 2017"
 tags: [SII, 2017, circular]
+materia: "MATERIA ESTABLECE REQUISITOS PARA EFECTOS DE HACER USO DEL CRÉDITO FISCAL CONTENIDO EN LA FACTURA ELECTRÓNICA POR MODIFICACIONES ESTABLECIDAS A LA LEY DE MÉRITO EJECUTIVO."
+fecha: "2017-01-11"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 23 N° 7, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974", "artículo 3° de la Ley N° 20.956", "y artículo 4° de la Ley N° 20.956 que establece medidas para impulsar la productividad."]
 ---
-
-
 
 ## Modificada por Circular Nº 35, del 23 de junio de 2017
 

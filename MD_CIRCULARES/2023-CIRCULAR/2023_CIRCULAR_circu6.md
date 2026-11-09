@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2023)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°6.- GE 236987 |"
 tags: [SII, 2023, circular]
+materia: "Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes."
+fecha: "2023-02-09"
+exenta: false
+impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "Ley N° 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "artículo 7° de la Ley N° 16.282 cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "artículo 37 del Decreto Ley N° 1939 de 1977", "artículo4°de la Ley N°19.896", "Decreto Ley N° 45 de 1973", "Ley N° 20.444, publicada en el Diario Oficial de fecha 28 de mayo de 2010."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°6.- GE 236987** |
 | --- | --- |

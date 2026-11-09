@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2016)"
 description: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN."
 tags: [SII, 2016, resolucion]
+materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN."
+fecha: "2016-11-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D", "lo establecido en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "y lo dispuesto en las Resoluciones Exentas N°s 150, de 29.12.2005 y 126, de 30.12.2014 delegatoria"]
 ---
-
-
 
 AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN.
 

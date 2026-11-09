@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2025)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE CICLO DE VIDA GE323922"
 tags: [SII, 2025, resolucion]
+materia: "## ESTABLECE PROCEDIMIENTO PARA LA OBTENCIÓN DE RUT E INICIO DE ACTIVIDADES"
+fecha: "2025-06-26"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 6° letra A) N° 1, 66, 66 bis y 68 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en la Ley N° 21.713 que, entre otros, modificó el artículo 68 del Código Tributario", "y lo instruido en las Circulares N°26 y N°38 de 2025"]
 ---
 
 SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE CICLO DE VIDA GE323922

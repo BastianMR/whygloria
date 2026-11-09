@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2023)"
 description: "MODIFICA RES. EX. SII N° 115 DEL 2022, EN LO REFERIDO AL PROCEDIMIENTO EXTRAORDINARIO PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES."
 tags: [SII, 2023, resolucion]
+materia: "MODIFICA RES. EX. SII N° 115 DEL 2022, EN LO REFERIDO AL PROCEDIMIENTO EXTRAORDINARIO PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES."
+fecha: "2023-05-30"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: ["F22"]
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo dispuesto en el N° 1 de la letra A) del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 2° N° 2, 8°, 12 letra E, 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo primero del D.L", "los artículos 42, 43 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N° 21.420, que reduce o elimina exenciones tributarias que indica, publicada en el Diario Oficial con fecha 4 de febrero de 2022", "la Circular N° 50 de 2022 y la Resolución Ex"]
 ---
-
-
 
 MODIFICA RES. EX. SII N° 115 DEL 2022, EN LO REFERIDO AL PROCEDIMIENTO EXTRAORDINARIO PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES.
 

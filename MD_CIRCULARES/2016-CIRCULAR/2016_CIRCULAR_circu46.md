@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 46 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 46.- |"
 tags: [SII, 2016, circular]
+materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DE IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE AGOSTO DEL AÑO 2016, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
+fecha: "2016-07-12"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 de la Ley de la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 46.-** |
 | --- | --- |

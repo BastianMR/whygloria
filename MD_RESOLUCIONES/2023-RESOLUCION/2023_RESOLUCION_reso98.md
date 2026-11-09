@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2023)"
 description: "a) Los corredores de propiedades, intermediarios y mandatarios, de arrendadores o arrendatarios, de bienes raíces agrícolas y/o no agrícolas, cuya participac..."
 tags: [SII, 2023, resolucion]
+materia: "INSTRUYE OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE BIENES RAÍCES ARRENDADOS POR MEDIO DE FORMULARIO N° 1835; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y N° 12 DE 2015."
+fecha: "2023-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14D8"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 14 D N° 8, 20, 39 N° 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del D.L", "en la Resolución Ex"]
 ---
-
-
 
 por:
 

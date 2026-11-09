@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 154 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos."
+fecha: "2020-12-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "el artículo 1°, del Decreto Supremo Nº 4.727, de 1957, del Ministerio de Hacienda", "el artículo 15º, del Decreto Ley Nº 1.263, de 1975, Orgánico de Administración Financiera del Estado."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

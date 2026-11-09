@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592"
+fecha: "2024-12-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° quáter y en las letras b), c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, N°1 letra A del artículo 6, letra C del artículo 6°, 24, 100 bis, 100 quinquies, 100 sexies, 132 ter, 160 bis, 162, todos del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, la Ley 21.713 y la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592
 

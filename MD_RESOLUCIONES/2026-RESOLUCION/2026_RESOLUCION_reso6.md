@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2026)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2026, resolucion]
+materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
+fecha: "2026-01-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A), N° 1, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830 de 1974", "el artículo 12, letra a) y artículo 17, del Decreto Ley Nº 3.063 de 1979, sobre Rentas Municipales, cuyo texto refundido y sistematizado fue fijado por el Decreto N° 2.385 de 1996, del Ministerio del Interior", "y en el artículo segundo transitorio de la Ley N°21.505, que promueve el almacenamiento de energía eléctrica y la electromovilidad, y las instrucciones impartidas mediante la Circular N°66 de 2020."]
 ---
 
 ## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA.

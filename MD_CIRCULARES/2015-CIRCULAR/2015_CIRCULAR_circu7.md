@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 7 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 07.- |"
 tags: [SII, 2015, circular]
+materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2015"
+fecha: "2015-01-15"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ARTS. 31 N°6"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 07.-** |
 | --- | --- |

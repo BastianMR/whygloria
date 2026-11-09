@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00201869"
 tags: [SII, 2022, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE SERVICIO DE IMPUESTOS INTERNOS Y EL CENTRO DE FORMACIÓN TÉCNICA ENAC"
+fecha: "2022-09-02"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1°"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00201869
 

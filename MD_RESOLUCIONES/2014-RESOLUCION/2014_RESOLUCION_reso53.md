@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2014)"
 description: "ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR E..."
 tags: [SII, 2014, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 20.732, PARA LAS CUOTAS 3 Y 4 DE UN AÑO Y 1 Y 2 DEL SIGUIENTE ."
+fecha: "2014-05-30"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente", "lo indicado en el artículo 6°, letra A, N° 1, del Código Tributario y lo establecido en el artículo 4° bis y las letras a) y c) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 ESTABLECE FORMA Y PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII Y DE PRESENTACIÓN DE ANTECEDENTES PARA SOLICITAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 20.732, PARA LAS CUOTAS 3 Y 4 DE UN AÑO Y 1 Y 2 DEL SIGUIENTE .
 

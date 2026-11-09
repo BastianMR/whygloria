@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 13 (2016)"
 description: "012-2016 II (01-2016 Circ-SN)"
 tags: [SII, 2016, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, en lo que dice relación con el D.L. N° 825 sobre Impuesto a las Ventas y Servicios, Ley 20.780 y Art. 21°, del "
+fecha: "2016-03-24"
+exenta: false
+impuestos: ["renta", "iva", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.899, D.L"]
 ---
-
-
 
 012-2016 II (01-2016 Circ-SN)
 

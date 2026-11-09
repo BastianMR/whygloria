@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 8 (2015)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 8 |"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones sobre el sistema de declaración voluntaria y extraordinaria para el pago del impuesto único y sustitutivo establecido en el artículo 24° transitorio de la Ley N°20.780."
+fecha: "2015-01-16"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 8** |
 | --- | --- |

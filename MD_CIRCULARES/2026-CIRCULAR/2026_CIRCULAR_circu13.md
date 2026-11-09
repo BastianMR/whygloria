@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 13 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2026, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
+fecha: "2026-04-08"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 72 de la Ley sobre Impuesto a la Renta."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                                                                              | CIRCULAR N° 13 373002.2026 GE                                |

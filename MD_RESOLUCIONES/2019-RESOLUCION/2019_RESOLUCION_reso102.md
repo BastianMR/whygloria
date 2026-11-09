@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2019)"
 description: "MATERIA: CAMBIA LA DENOMINACIÓN DE LA OFICINA DE SERVICIOS DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN Y REORGANIZA LAS UNIDADES QUE LA CONFO..."
 tags: [SII, 2019, resolucion]
+materia: "CAMBIA LA DENOMINACIÓN DE LA OFICINA DE SERVICIOS DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN Y REORGANIZA LAS UNIDADES QUE LA CONFORMAN."
+fecha: "2019-09-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "las Resoluciones Exentas N° 2519 y N° 66, de 2016, y Resolución N° 101, de 2019", "y la Resolución N° 06, de 2019, de la Contraloría General de la República"]
 ---
-
-
 
 MATERIA: CAMBIA LA DENOMINACIÓN DE LA OFICINA DE SERVICIOS DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE ADMINISTRACIÓN Y REORGANIZA LAS UNIDADES QUE LA CONFORMAN.
 

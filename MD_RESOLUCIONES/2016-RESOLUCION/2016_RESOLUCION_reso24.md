@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2016)"
 description: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
 tags: [SII, 2016, resolucion]
+materia: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
+fecha: "2016-03-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L. 830, de 1974, en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "lo establecido en las Leyes N° 19.799 y N° 19.983", "en el Art. 4° bis del D.F.L", "Ley 20.727 de 2014, de Factura Electrónica", "en las Resoluciones Exentas SII N° 09, de 2001", "Circular N°32, de 2005"]
 ---
-
-
 
 ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS.
 

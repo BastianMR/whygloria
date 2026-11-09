@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2016)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2016, resolucion]
+materia: "Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Integrados de Información S.A."
+fecha: "2016-03-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y Ley N° 19.628, sobre Protección de la Vida Privada."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

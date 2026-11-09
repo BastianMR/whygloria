@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 65 (2015)"
 description: "Modificada por Circular N° 41, del 11 de julio de 2016"
 tags: [SII, 2015, circular]
+materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS NORMAS INCORPORADAS EN EL CÓDIGO TRI- BUTARIO POR LA LEY N° 20.780, EN MATERIA DE ME- DIDAS ANTI ELUSIÓN."
+fecha: "2015-07-23"
+exenta: false
+impuestos: ["renta", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["en la ley"]
 ---
-
-
 
 Modificada por Circular N° 41, del 11 de julio de 2016
 

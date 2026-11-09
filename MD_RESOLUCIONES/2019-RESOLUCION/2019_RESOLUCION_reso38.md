@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2019)"
 description: "MATERIA: Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan..."
 tags: [SII, 2019, resolucion]
+materia: "Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal."
+fecha: "2019-03-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D.L", "lo establecido en el Decreto Supremo N° 1.027, de 04 de agosto de 2016, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de diciembre del mismo año, que aprueba el Nuevo Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L", "Resoluciones Ex", "Resolución Ex", "artículo 52 de la Ley N° 19.880, que 'Establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado"]
 ---
-
-
 
 MATERIA: Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal.
 

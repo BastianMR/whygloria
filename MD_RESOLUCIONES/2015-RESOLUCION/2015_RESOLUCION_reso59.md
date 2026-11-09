@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2015)"
 description: "ESTABLECE UNIDAD PROVIDENCIA DEPENDIENTE DE LA XV DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE."
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE UNIDAD PROVIDENCIA DEPENDIENTE DE LA XV DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO ORIENTE."
+fecha: "2015-07-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en el artículo 7°, letra ñ), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 15 de octubre de 1980, del Ministerio de Hacienda"]
 ---
-
-
 
 ## Distribución:
 

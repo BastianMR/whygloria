@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2020)"
 description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+materia: "APRUEBACONVENIODE COLABORACIONMUTUAENTRESERVICIO DEIMPUESTOSINTERNOSEINSTITUTO PROFESIONALAIEP."
+fecha: ""
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lasfacultades queme confieren los articulos1°"]
 ---
-
-
 
 ## SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 4 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 4 |"
 tags: [SII, 2018, circular]
+materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2018"
+fecha: "2018-01-10"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["ARTS. 31 N°6"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 4** |
 | --- | --- |

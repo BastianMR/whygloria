@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 63 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Normas Internacionales | CIRCULAR N° 63.- 167124.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Imparte instrucciones sobre la definición de residente contenida en el N° 8° del artículo 8° del Código Tributario, reemplazada por la Ley N° 21.210 y sobre el concepto domicilio para fines tributarios."
+fecha: "2021-11-25"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["N° 8 del artículo 8° del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Normas Internacionales** | **CIRCULAR N° 63.- 167124.2021 GE** |
 | --- | --- |

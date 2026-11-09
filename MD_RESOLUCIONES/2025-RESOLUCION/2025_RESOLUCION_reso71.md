@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
+fecha: "2025-06-19"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1 y las letras a), h) y o) del artículo 7, ambos de la Ley Orgánica del Servicio, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980 del Ministerio de Hacienda", "lo establecido en el artículo 6° letra A) del Código Tributario", "los párrafos segundo, tercero y cuarto del N° 18 del artículo 8° del Código Tributario, incorporados por el artículo 1 N° 8, letra c) de la Ley N° 21.713 de 2025", "la Circular 6 del 2025"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

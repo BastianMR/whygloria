@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 25 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°25.- 176859 GE |"
 tags: [SII, 2021, circular]
+materia: "Imparte instrucciones sobre la obligatoriedad de las boletas de honorarios electrónicas."
+fecha: "2021-04-21"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 68 bis, de la Ley sobre Impuesto a la Renta, introducido por la Ley Nº 21.242, publicada en el Diario Oficial con fecha 24 de junio de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°25.- 176859 GE** |
 | --- | --- |

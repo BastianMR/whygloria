@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2019, resolucion]
+materia: "Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos."
+fecha: "2019-02-05"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

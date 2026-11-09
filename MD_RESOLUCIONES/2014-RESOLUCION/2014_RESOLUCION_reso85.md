@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2014)"
 description: "Plano de la comuna de Melipilla"
 tags: [SII, 2014, resolucion]
+materia: "REEMPLAZA PLANO DE PRECIOS DE LA COMUNA DE MELIPILLA CONTENIDO RESOLUCIÓN EX. SII N°132 DE 31.12.2012."
+fecha: "2014-08-22"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 4° y 29° de la Ley N°17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A), N°1 del Decreto Ley N°830, sobre Código Tributario de 1974"]
 ---
-
-
 
 Anexo:
 

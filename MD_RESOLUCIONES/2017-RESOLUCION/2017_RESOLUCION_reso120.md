@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2017)"
 description: "REEMPLAZA PROCEDIMIENTO PARA DETERMINAR EL AVALÚO FISCAL DE BIENES RAÍCES ACOGIDOS AL RÉGIMEN DE COPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537."
 tags: [SII, 2017, resolucion]
+materia: "REEMPLAZA PROCEDIMIENTO PARA DETERMINAR EL AVALÚO FISCAL DE BIENES RAÍCES ACOGIDOS AL RÉGIMEN DE COPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537."
+fecha: "2017-12-07"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el número 1 de la letra A del artículo 6° del Código Tributario", "en los artículos 3° y 29 de la Ley N° 19.537, sobre Copropiedad Inmobiliaria", "en el artículo 19 N° 3 de la Ley N° 19.880, sobre Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado", "y en el número 3° del artículo 16 de la Ley N°17.235 sobre Impuesto Territorial."]
 ---
-
-
 
 REEMPLAZA PROCEDIMIENTO PARA DETERMINAR EL AVALÚO FISCAL DE BIENES RAÍCES ACOGIDOS AL RÉGIMEN DE COPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537.
 

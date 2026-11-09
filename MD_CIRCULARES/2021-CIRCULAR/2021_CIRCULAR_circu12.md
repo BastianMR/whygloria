@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 12 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº 12.- |"
 tags: [SII, 2021, circular]
+materia: "Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria"
+fecha: "2021-02-17"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en los artículos 40 y 41 de la Ley N° 19.880, respecto de actos de mera tramitación\"."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº 12.-** |
 | --- | --- |

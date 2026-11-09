@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+fecha: "2020-09-08"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: ["F29"]
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, Decreto Ley N° 825, de 1974, del Ministerio de Hacienda (en adelante, LIVS)", "artículo segundo de la Ley N° 21.256, publicada en el Diario Oficial con fecha 02 de septiembre de 2020, que 'Establece medidas tributarias que forman parte del Plan de Emergencia para la reactivación económica y del empleo en un marco de convergencia fiscal de mediano plazo'", "Decreto Supremo Nº 107, de 20 de marzo de 2020, del Ministerio del Interior, que 'Declara como zonas afectadas por catástrofe a las comunas que indica"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

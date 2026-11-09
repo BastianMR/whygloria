@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 200604"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES GE 200604"
+fecha: "2021-12-30"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°20.650, los Artículos 2°, 3°, 4°, 8° y 9° de la Ley N° 17.235, sobre Impuesto Territorial."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE 200604
 

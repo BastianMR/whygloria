@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2017)"
 description: "FIJA EL PROCEDIMIENTO, FORMA Y PLAZOS PARA LA APLICACIÓN Y EJERCICIO DE LA FACULTAD ESTABLECIDA EN EL ARTÍCULO 60 BIS DEL CÓDIGO TRIBUTARIO."
 tags: [SII, 2017, resolucion]
+materia: "FIJA EL PROCEDIMIENTO, FORMA Y PLAZOS PARA LA APLICACIÓN Y EJERCICIO DE LA FACULTAD ESTABLECIDA EN EL ARTÍCULO 60 BIS DEL CÓDIGO TRIBUTARIO."
+fecha: "2017-06-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 60 y 60 bis, todos del Código Tributario, contenido en el artículo 1° del D.L", "y en los artículos 1°, 7°, letra b) y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L"]
 ---
-
-
 
 FIJA EL PROCEDIMIENTO, FORMA Y PLAZOS PARA LA APLICACIÓN Y EJERCICIO DE LA FACULTAD ESTABLECIDA EN EL ARTÍCULO 60 BIS DEL CÓDIGO TRIBUTARIO.
 

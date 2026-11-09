@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 33 (2015)"
 description: "DEPARTAMENTOEMISOR: Departamento de Asesoría Jurídica 1875 | CIRCULAR Nº 33 |"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones respecto de los plazos que posee el Servicio para las actuaciones de fiscalización en las materias que indica. Deroga Circular 49, de 2010."
+fecha: "2015-05-13"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["por la ley y por los montos correspondientes"]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR: Departamento de Asesoría Jurídica 1875** | **CIRCULAR Nº 33** |
 | --- | --- |

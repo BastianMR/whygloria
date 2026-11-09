@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 1 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 1 |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas legales que se indican, que entran en vigencia a contar del 1° de enero de 2015."
+fecha: "2015-01-02"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 31, 41, 59 y 91 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L. 824 de 1974)", "artículo 13 de la Ley N° 18.768, publicada en el Diario Oficial de 29 de diciembre de 1988", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
-
-
 
 1875
 

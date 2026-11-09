@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2021)"
 description: "MATERIA: Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica."
 tags: [SII, 2021, resolucion]
+materia: "Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica."
+fecha: "2021-03-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en la letra A), N° 1, del artículo 6°, y los artículos 17, 34, 35 y 60, del D.L", "artículo 62 del Código del Trabajo", "lo establecido en la Ley N° 19.799", "en las Resoluciones Ex", "Decreto Supremo Nº 375 de 1969 del Ministerio del Trabajo y Previsión Social"]
 ---
-
-
 
 MATERIA: Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica.
 

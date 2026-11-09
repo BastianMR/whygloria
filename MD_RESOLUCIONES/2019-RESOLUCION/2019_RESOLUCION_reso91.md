@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905"
+fecha: "2019-07-25"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.L", "la Ley N° 19.885, publicada en el Diario Oficial el 06.08.2003, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos", "artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'", "y artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "y la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905
 

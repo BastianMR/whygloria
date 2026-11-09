@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 33 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°33.- 178075.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "MATERIA Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, a la Ley N° 16.271, de Impuesto a las Herencias, Asignaciones y Donaciones. Modifica Circular N° 19 de 2004."
+fecha: "2021-05-25"
+exenta: false
+impuestos: ["renta", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria** | **CIRCULAR N°33.- 178075.2021 GE** |
 | --- | --- |

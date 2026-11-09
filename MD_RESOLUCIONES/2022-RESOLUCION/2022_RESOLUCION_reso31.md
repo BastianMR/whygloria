@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE173334"
 tags: [SII, 2022, resolucion]
+materia: "AUTORIZA A EDEREND CHILE S.A RUT N° 96.781.350-8, A EMITIR DOCUMENTOS TRIBUTARIOS EN LA FORMA QUE INDICA."
+fecha: "2022-04-11"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "lo dispuesto en el inciso segundo del artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE173334
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 8 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N°08.- 02.2013 SN 140.2012 ID |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630 a la Ley sobre Impuesto a la Renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícola, de la minería, transporte terrestre de carga ajena y de pasajeros. 6(12)00"
+fecha: "2014-02-07"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 20 N° 1, letra b)", "34 bis N°s 2 y 3 y 84 letra e) de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley N° 20.630, del 27 de septiembre de 2012."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N°08.- 02.2013 SN 140.2012 ID** |
 | --- | --- |

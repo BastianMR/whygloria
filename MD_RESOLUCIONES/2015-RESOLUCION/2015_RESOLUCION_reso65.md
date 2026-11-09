@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO."
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO."
+fecha: "2015-07-30"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 34°, 35°, 60° inciso octavo y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "y en los artículos 10 y 58 N°3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y en la Circular N° 14, de 2014"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO.
 

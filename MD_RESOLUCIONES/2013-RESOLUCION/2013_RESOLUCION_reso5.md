@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2013)"
 description: "FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO..."
 tags: [SII, 2013, resolucion]
+materia: "FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE."
+fecha: "2013-01-09"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y en el artículo 34º bis, Nºs. 2 y 3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974."]
 ---
-
-
 
 FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE.
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 50 (2023)"
 description: "DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica | CIRCULAR N°50.- 260956.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Modifica Circular N° 12 de 2021, que imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria."
+fecha: "2023-11-29"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Articulo 132 ter del Código Tributario, contenido en el Decreto Ley N° 830, de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR N°50.- 260956.2023 GE** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 34 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 34.- |"
 tags: [SII, 2016, circular]
+materia: "Modificaciones efectuadas por la Ley N° 20.899 a los artículos 41 F y 41 H de la Ley sobre Impuesto a la Renta; y al primer párrafo, del número 2, del inciso cuarto del artículo 59, de la misma Ley. Complementa Circular N° 12, de 2015. 6(12)00"
+fecha: "2016-06-07"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.899, de 2016", "Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824, de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 34.-** |
 | --- | --- |

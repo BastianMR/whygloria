@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE307353"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE307353"
+fecha: "2025-01-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A, N° 1, 10, 21, 35, 85 bis y 85 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las instrucciones contenidas en la Circular N° 47 de 2022, Circular N° 2 de 2025 y Resolución Exenta SII N° 113 de 2022"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE307353

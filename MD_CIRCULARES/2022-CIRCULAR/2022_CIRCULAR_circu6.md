@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°6.- 203863.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2022 e información adicional relacionada con dicho tributo."
+fecha: "2022-02-09"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°6.- 203863.2022 GE** |
 | --- | --- |

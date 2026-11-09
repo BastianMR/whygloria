@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2013, resolucion]
+materia: "CREA OFICINA DE COMUNICACIONES INSTITUCIONALES EN LA DIRECCIÓN NACIONAL DEL SERVICIO DE IMPUESTOS INTERNOS."
+fecha: "2013-10-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en las letras c), i) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS
 

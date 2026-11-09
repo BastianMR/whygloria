@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2022)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL GE00197271"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL GE00197271"
+fecha: "2022-11-17"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N° 1, de la letra A, del artículo 6° y en los artículos 132, 132 bis y 132 ter del Código Tributario, modificados por la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020, y en las letras a), b) e i) del artículo"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL GE00197271
 

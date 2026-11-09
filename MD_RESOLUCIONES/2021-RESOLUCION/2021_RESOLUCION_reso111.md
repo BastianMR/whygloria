@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+fecha: "2021-10-01"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15 y 69 inciso final del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, y artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7", "y la Circular N° 30, del 10.05.2016"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

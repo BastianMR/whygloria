@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 73 (2020)"
 description: "Modificada por Circular N° 4, del 12 de enero de 2021"
 tags: [SII, 2020, circular]
+materia: "Instruye sobre las modificaciones introducidas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales relacionadas con el nuevo régimen general de tributación sobre renta efectiva según contabilidad completa, vigente a contar del 1° de enero de 2020."
+fecha: "2020-12-22"
+exenta: false
+impuestos: ["renta", "iva", "territorial"]
+formularios: []
+regimen: ["14A", "14B", "14D3", "renta-presunta"]
+ref_legal: ["Artículos 14, 17 N° 7, 20, 38 bis, 56 N° 3, 63 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N°21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
-
-
 
 ## Modificada por Circular N° 4, del 12 de enero de 2021
 

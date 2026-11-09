@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "COMPLEMENTA Y ACTUALIZA NORMAS Y PROCEDIMIENTOS DE OPERACIÓN DE LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS, REEMPLAZANDO RESOLUTIVO DUODÉCIMO DE LA RESOLUCIÓN EX. SII N° 45, DEL 01.09.2003."
+fecha: "2014-10-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El Art. 6º, letra A) Nº 1, del Código Tributario, contenido en el Art. 1º del D.L", "lo dispuesto en la letra b) del Art. 7º del D.F.L", "los incisos tercero y cuarto del Art. 56, del D.L", "la Ley N° 19.983, de 2004", "la Ley N° 20.494, de 2011", "la Ley 20.727, de 2014", "la Circular N° 64, de 14.09.2001", "la Circular N° 32, de 20.06.2005"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

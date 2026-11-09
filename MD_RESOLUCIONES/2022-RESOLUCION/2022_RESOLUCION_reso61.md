@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 216940"
 tags: [SII, 2022, resolucion]
+materia: "Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar a"
+fecha: "2022-07-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N°1 y 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D.L", "lo establecido en el Decreto Supremo N° 1.027, de 04 de agosto de 2016, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de diciembre del mismo año, que aprueba el Nuevo Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 216940
 

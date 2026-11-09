@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 61 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 61 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974"
+fecha: "2020-09-11"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos** | **CIRCULAR N° 61** |
 | --- | --- |

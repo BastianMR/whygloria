@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00175290"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00175290"
+fecha: "2021-06-24"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1 y 88, del Código Tributario, contenido en el artículo 1° del D.L", "en el N° 2 del artículo 42 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las Resoluciones Exentas SII N° 1414, de 27.10.1978 y N° 83, de 30.08.2004, modificada esta última por Resolución Exenta SII N° 48, de 12.05.2017"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00175290
 

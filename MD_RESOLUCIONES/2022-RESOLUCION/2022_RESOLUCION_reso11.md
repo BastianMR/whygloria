@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2022)"
 description: "Diario Oficial (en extracto)"
 tags: [SII, 2022, resolucion]
+materia: "FIJA VALORES DE MONTOS DE AVALÚO EXENTO, DE AVALÚO PARA CAMBIO DE TASA DEL IMPUESTO TERRITORIAL Y EXENCIÓN DE PLENO DERECHO, PARA PREDIOS NO AGRÍCOLAS REAVALUADOS CON VIGENCIA 1° DE ENERO DE 2022."
+fecha: "2022-02-01"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Resolución Exenta SII N° 143 publicada el 30 de diciembre de 2022, los Artículos 2° y 7° de la Ley N° 17.235, sobre Impuesto Territorial"]
 ---
-
-
 
 <unknown>
 

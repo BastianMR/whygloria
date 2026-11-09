@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N°3509, DE 13.07.2000 QUE INSTRUYE SOBRE CANJE DE INFORMACIÓN COMPUTARIZADA; Y, LA RESOLUCIÓN EXENTA SII N° 5395 DE 07.12.2000, QUE LA COMPLEMENTA."
+fecha: "2026-04-08"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en las letras a) y c) del artículo 7°de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6 letra A N° 1 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Resolución Ex", "complementada por Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

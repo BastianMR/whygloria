@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE254026"
 tags: [SII, 2023, resolucion]
+materia: "Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos."
+fecha: "2023-11-02"
+exenta: true
+impuestos: ["renta"]
+formularios: ["F22"]
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "la Ley N° 21.133 que modifica las normas para la Incorporación de los Trabajadores Independientes a los Regímenes de Protección Social", "el artículo 35 del Código Tributario y la Ley N° 20.255, que establece reforma previsional."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE254026
 

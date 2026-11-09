@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 2 (2025)"
 description: "DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica | CIRCULAR Nº02.- GE00302908 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre la información que las entidades financieras deben reportar conforme al nuevo artículo 85 ter del Código Tributario, incorporado por la Ley N° 21.713."
+fecha: "2025-01-02"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.713, publicada en el Diario Oficial de 24 de octubre de 2024"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica Subdirección Jurídica** | **CIRCULAR Nº02.- GE00302908** |
 | --- | --- |

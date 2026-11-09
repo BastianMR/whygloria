@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 12 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 12 |"
 tags: [SII, 2015, circular]
+materia: "Instruye sobre las modificaciones efectuadas a los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta por las Leyes N°s 20.727 y 20.780 de 2014, y la incorporación de los artículos 41 F y 41 H efectuada por esta última Ley."
+fecha: "2015-01-30"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.727 de 31 de enero de 2014", "Ley N° 20.780 de 29 de septiembre de 2014", "y Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 12** |
 | --- | --- |

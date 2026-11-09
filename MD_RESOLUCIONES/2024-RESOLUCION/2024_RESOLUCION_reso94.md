@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2024)"
 description: "MATERIA: ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE CUENTAS FINANCIERAS, DE CONFORMIDAD A LOS ARTÍCULOS 33 BIS N°1 y 62 TER DEL CÓDIGO TR..."
 tags: [SII, 2024, resolucion]
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE CUENTAS FINANCIERAS, DE CONFORMIDAD A LOS ARTÍCULOS 33 BIS N°1 y 62 TER DEL CÓDIGO TRIBUTARIO. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 48, DE 2018."
+fecha: "2024-10-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 6° letra A), Nº 1, 33 bis, 35, 62 ter y 97 N°1 del Código Tributario, contenido en el artículo 1° del D.L", "en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'"]
 ---
-
-
 
 MATERIA: ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE CUENTAS FINANCIERAS, DE CONFORMIDAD A LOS ARTÍCULOS 33 BIS N°1 y 62 TER DEL CÓDIGO TRIBUTARIO. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 48, DE 2018.
 

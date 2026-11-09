@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS DEPARTAMENTO DE RIESGOS DE INCUMPLIMIENTO"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS DEPARTAMENTO DE RIESGOS DE INCUMPLIMIENTO"
+fecha: "2026-06-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° letra A) N° 1, 88, 97 y 105 del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "los artículos 2°, 3°, 10, 20, 21, 52, 53, 54, 55, 64, 80 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "los artículos 69, 70, 71 y 71 bis del Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Circular N° 51 de 2014 y N° 61 de 2020", "Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS DEPARTAMENTO DE RIESGOS DE INCUMPLIMIENTO

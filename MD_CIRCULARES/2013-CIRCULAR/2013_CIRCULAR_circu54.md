@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 54 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N°: 54.- 19.2013 ID 008.2013 SN |"
 tags: [SII, 2013, circular]
+materia: "Instruye sobre las modificaciones efectuadas a las normas sobre retención de impuesto establecidas en el N° 4, del artículo 74 de la Ley sobre Impuesto a la Renta, por la Ley N° 20.630, del 27 de septiembre del 2012. 6(12)00"
+fecha: "2013-11-25"
+exenta: false
+impuestos: ["renta"]
+formularios: ["F22"]
+regimen: ["renta-presunta"]
+ref_legal: ["Artículo 74 N° 4 y 79 de la Ley Sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974)", "Ley N° 20.630, del 27 de septiembre del 2012."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N°: 54.- 19.2013 ID 008.2013 SN** |
 | --- | --- |

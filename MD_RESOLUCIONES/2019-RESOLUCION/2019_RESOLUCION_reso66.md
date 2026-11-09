@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2019)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2019, resolucion]
+materia: "## DELEGA FACULTADES QUE INDICA, RELATIVAS AL PAGO DE VIATICOS."
+fecha: "2019-05-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["el artículo 7° del D.L", "el artículo 7°, letras c), i) y j) y el artículo 34° ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el N° 3 de la letra A) del artículo 6°, del Código Tributario", "lo preceptuado en el artículo 78 del D.F.L", "el artículo 5° de la Ley N° 18.575", "las Resoluciones N°1.600, de 2008 y N° 10, de 2017, ambas de la Contraloría General de la República, lo establecido en la Resolución N° 38, del 15 de abril del 2016, de la Dirección Nacional del Servicio de Impuestos Internos sobre Delegación de Facultades"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ADMINISTRACIÓN
 

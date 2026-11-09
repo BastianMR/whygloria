@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2020)"
 description: "CREA MODELO DE CERTIFICADO Nº 66 SOBRE DONACIONES ASOCIADAS AL BROTE MUNDIAL DEL VIRUS DENOMINADO CORONAVIRUS-2 O COVID-19."
 tags: [SII, 2020, resolucion]
+materia: "CREA MODELO DE CERTIFICADO Nº 66 SOBRE DONACIONES ASOCIADAS AL BROTE MUNDIAL DEL VIRUS DENOMINADO CORONAVIRUS-2 O COVID-19."
+fecha: "2020-04-30"
+exenta: true
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1º y 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "artículo 6º, letra A, Nº 1 y 60 del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974 del Ministerio de Hacienda", "artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974", "la Ley N° 16.282 que establece disposiciones para casos de catástrofes", "el Decreto N° 4 del Ministerio de Salud, de fecha 5 de enero de 2020 modificado por el Decreto N° 10 del Ministerio de Salud, de fecha 24 de marzo de 2020", "el Decreto N° 104, de fecha 18 de marzo de 2020 que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile', complementado por el Decreto N° 107 de la misma repartición, de fecha 20 de marzo de 2020 que 'Declara como zonas afectadas por catást", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, del Ministerio de Hacienda, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Ch", "y la Circular Nº 32 de fecha 29.04.2020 que regula el tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta (LIR) por el N° 13 del artículo 2° de l"]
 ---
-
-
 
 CREA MODELO DE CERTIFICADO Nº 66 SOBRE DONACIONES ASOCIADAS AL BROTE MUNDIAL DEL VIRUS DENOMINADO CORONAVIRUS-2 O COVID-19.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2016)"
 description: "MATERIA: FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851."
 tags: [SII, 2016, resolucion]
+materia: "FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851."
+fecha: "2016-03-18"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° del D.F.L", "en el N° 1, letra A), del artículo 6°, 34, 35, 60 y 85 inciso 2°, todos del Código Tributario, Resolución Exenta SII N° 101, de 2015"]
 ---
-
-
 
 MATERIA: FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851.
 

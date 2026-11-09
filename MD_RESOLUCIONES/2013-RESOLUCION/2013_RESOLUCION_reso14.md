@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2013, resolucion]
+materia: "## ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL INFORMATIVA DE PRECIOS DE TRANSFERENCIA"
+fecha: "2013-01-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 33°, 34°, 35°, 60° inciso octavo y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "y en los artículos 38 y 41 E, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL
 

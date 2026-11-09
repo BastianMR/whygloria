@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 15 (2017)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº15 |"
 tags: [SII, 2017, circular]
+materia: "APLICACIÓN DE LA EXENCIÓN DEL 100% DEL IMPUESTO TERRITORIAL DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO 99 DE LA LEY GENERAL DE URBANISMO Y CONSTRUCCIONES, CONTENIDA EN EL D.F.L N° 458, DE 1976, DEL MINISTERIO DE VIVIENDA Y URBANISMO"
+fecha: "2017-02-22"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº15** |
 | --- | --- |

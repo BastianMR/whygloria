@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 58 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                     | CIRCUL..."
 tags: [SII, 2018, circular]
+materia: "Suplemento Tributario con la normativa vigente para efectuar la Declaración de Impuestos Anuales a la Renta, correspondientes al Año Tributario 2019"
+fecha: "2018-12-20"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. pertinentes de la Ley sobre Impuesto a la Renta"]
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                     | CIRCULAR N° 58.-                                                                                                                                                                                                                                                                                 |

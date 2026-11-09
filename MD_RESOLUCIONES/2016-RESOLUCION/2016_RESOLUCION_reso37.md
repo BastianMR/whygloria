@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2016)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2016, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE AVALUACIONES Y ESTABLECE AMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LA CONFORMAN."
+fecha: "2016-04-15"
+exenta: true
+impuestos: ["renta", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980 y en las letras a), c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las resoluciones Ex", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES
 

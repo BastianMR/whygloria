@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2021)"
 description: "FIJA REQUISITOS DE LLENADO, PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO, UTILIZADAS EN LA VENTA DE CIGARRILLOS, EFECTUADAS POR CONTRIBUYENTES OBLIG..."
 tags: [SII, 2021, resolucion]
+materia: "FIJA REQUISITOS DE LLENADO, PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO, UTILIZADAS EN LA VENTA DE CIGARRILLOS, EFECTUADAS POR CONTRIBUYENTES OBLIGADOS A UTILIZAR EL SISTEMA DE TRAZABILIDAD FISCAL."
+fecha: "2021-07-30"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1, 60 quinquies, 88 y 97 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en el artículo 13 bis del Decreto Ley N° 828 de 1974, que Establece normas para el Cultivo, Elaboración, Comercialización e Impuestos que afectan al Tabaco", "en la Resolución Exenta N° 1661, de 1985, que 'Fija las características de las Facturas, Facturas de Compra, Guías de Despacho, Liquidaciones, Liquidaciones - Factura, Notas de Débito y Notas de Crédito, con sus respectivas copias, y regula la emisión con series de éstos mismos documentos'", "en las Resoluciones Exentas SII N° 45, de 2003, que 'Establece normas y procedimientos de operación respecto de los documentos Tributarios Electrónicos'", "N° 80, de 2014, que modifica las resoluciones Ex", "N° 100 de 2014, que 'Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la resolución Ex"]
 ---
-
-
 
 FIJA REQUISITOS DE LLENADO, PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO, UTILIZADAS EN LA VENTA DE CIGARRILLOS, EFECTUADAS POR CONTRIBUYENTES OBLIGADOS A UTILIZAR EL SISTEMA DE TRAZABILIDAD FISCAL.
 

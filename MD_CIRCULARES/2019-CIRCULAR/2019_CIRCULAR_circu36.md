@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 36 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 36.- |"
 tags: [SII, 2019, circular]
+materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE OCTUBRE DE 2019 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHO TRIBUTO."
+fecha: "2019-09-10"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 36.-** |
 | --- | --- |

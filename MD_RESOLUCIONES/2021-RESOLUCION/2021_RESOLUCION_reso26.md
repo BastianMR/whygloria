@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO"
+fecha: "2021-03-03"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 1°, 4 bis, 7 letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6° letra A) N° 1 y 164 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "el artículo 8° letra n), 35 A y 35 I de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en la Circular N° 42 de 2020", "y en las Resoluciones Exentas SII N° 55 y N° 67, ambas de 2020."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO
 

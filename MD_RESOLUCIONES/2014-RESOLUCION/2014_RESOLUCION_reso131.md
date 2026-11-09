@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 131 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+materia: "FIJA FORMATO DE MANDATO PARA RETIRO O LIQUIDACIÓN DE INVERSIONES EFECTUADAS PARA LA REINVERSIÓN EN LA MISMA U OTRA INSTITUCIÓN HABILITADA, DE CONFORMIDAD CON EL INCISO DÉCIMO DEL ARTÍCULO 54 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2014-12-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1 del Código Tributario, contenido en el artículo 1° del D.L", "lo establecido en el N° 35 del artículo 1° de la Ley N° 20.780, de 2014 sobre Reforma Tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario", "y en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2013, resolucion]
+materia: "REEMPLAZAR OFICINA DE BIENESTAR Y SERVICIO A LAS PERSONAS, CONTENIDA EN EL DISPOSITIVO 3° DE LA RESOLUCIÓN N° 143 DE 2011, FIJANDO NUEVA DENOMINACIÓN A LA OFICINA DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS QUE INDICA."
+fecha: "2013-06-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y ñ) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991, la Resolución Ex", "la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE RECURSOS HUMANOS
 

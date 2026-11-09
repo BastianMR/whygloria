@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 47 (2016)"
 description: "DEPARTAMENTO EMISOR TECNICA TRIBUTARIA | CIRCULAR N° 47.- 16.2016 CIRC.SN 01.2016 CIRC.TT |"
 tags: [SII, 2016, circular]
+materia: "MATERIA Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, modificado por el artículo 8°, N° 2, de la Ley N° 20.899, de 8 de febrero de 201"
+fecha: "2016-07-12"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014 y Ley N° 20.899, publicada en el Diario Oficial el 8 de febrero de 2016."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR TECNICA TRIBUTARIA** | **CIRCULAR N° 47.- 16.2016 CIRC.SN 01.2016 CIRC.TT** |
 | --- | --- |

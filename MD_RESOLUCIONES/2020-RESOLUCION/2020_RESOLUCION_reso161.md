@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 161 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "INSTRUYE SOBRE LA OBLIGACIÓN DE INFORMAR SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES POR PARTE DE LOS CONTRIBUYENTES QUE PASAN A ESTAR SUJETOS A LOS REGÍMENES PRO PYME DE LOS N° 3 Y 8 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2020-12-16"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["El artículo 1°, 4° bis, 7° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), N°1) y 21 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo dispuesto en el artículo 14° letras A) y D) de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N°824, de 1974 (en adelante, 'LIR')", "las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24.02.2020", "y las instrucciones contenidas en la Circular N° 64 de 2020"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

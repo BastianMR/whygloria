@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2015)"
 description: "MATERIA: REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008."
 tags: [SII, 2015, resolucion]
+materia: "REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008."
+fecha: "2015-12-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en el artículo 7°, letra c) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "los artículos 6°, letra A, N° 3 y 162, inciso tercero, ambos del Código Tributario", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
 ---
-
-
 
 MATERIA: REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008.
 

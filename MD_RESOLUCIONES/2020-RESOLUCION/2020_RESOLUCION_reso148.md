@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 148 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
+materia: "## DEPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA GE00163332"
+fecha: "2020-11-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 * -Intranet
 * -Diario Oficial, en extracto

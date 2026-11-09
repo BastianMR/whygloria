@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2015)"
 description: "FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, AGRÍCOLA."
 tags: [SII, 2015, resolucion]
+materia: "FIJA DEFINICIONES TÉCNICAS Y APRUEBA TABLAS DE VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, AGRÍCOLA."
+fecha: "2015-12-29"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial y la Ley N° 20.731, de 2014."]
 ---
-
-
 
 Servicio.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO DE EMISIÓN DE FACTURAS POR PAGOS DE REMANENTES A CLIENTES FINALES ESTABLECIDOS EN LA LEY N° 20.571."
+fecha: "2015-03-09"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contenidas en el artículo 6º letra A, Nº 1 y 4 del Código Tributario, contenido en el Art. 1° del D.L", "el artículo 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "lo dispuesto en los artículos 52 y siguientes del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios y en el Decreto Supremo N° 55 de 1977, de Hacienda, Reglamento del D.L", "las instrucciones contenidas en las Resoluciones Ex", "la Ley 20.571, de 2012, que regula el pago de las tarifas eléctricas de las generadoras residenciales", "y la Ley N° 20.780, de 2014 sobre Reforma Tributaria que modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

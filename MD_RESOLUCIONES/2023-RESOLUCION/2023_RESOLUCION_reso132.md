@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE00244780"
 tags: [SII, 2023, resolucion]
+materia: "INSTRUYE SOBRE LA FORMA DE DOCUMENTAR LOS SERVICIOS PRESTADOS POR TRABAJADORES INDEPENDIENTES DE PLATAFORMAS DIGITALES DOMICILIADAS O RESIDENTES EN CHILE."
+fecha: "2023-11-20"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A, N° 1, 33 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 52 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del Decreto Ley N° 825, de 1974, en los artículos 42 y 68 bis de La Ley sobre Impuesto a la Renta, contenida en al artículo 1° del Decreto Ley N° 824, de 1974, en los artículos 152 quáter "]
 ---
-
-
 
 SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE00244780
 

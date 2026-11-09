@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00301671"
 tags: [SII, 2024, resolucion]
+materia: "TÉRMINO DE GIRO SIMPLIFICADO, SEGÚN LO DISPUESTO EN EL INCISO OCTAVO DEL ARTÍCULO 69° DEL CÓDIGO TRIBUTARIO."
+fecha: "2024-12-05"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 15°, 68° y 69° inciso octavo del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "artículo 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "número 31 letra d), del artículo primero de la Ley 21.713 que dicta normas para asegurar el cumplimiento de las obligaciones tributarias dentro del pacto por el crecimiento económico, el progreso social y la responsabilidad fiscal", "Circular N° 42, de 05.09.2013", "Circular N° 30, de 10.05.2016", "y Circular N° 62, de 24.09.2020."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00301671
 

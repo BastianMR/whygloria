@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991"
+fecha: "2023-03-09"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N°3, y 132 ter, todos del Código Tributario", "en las letras j) y r) del inciso primero del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L", "en los artículos 9°, 31°, 32°, 42° y 43° de la Ley N°19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE CONTENIDO Y CONDICIONES DE LA DECLARACIÓN QUE DEBE SOLICITAR EL PAGADOR DE UNA RENTA O CANTIDAD AL BENEFICIARIO RESIDENTE EN UN PAÍS CON EL QUE EXISTA UN CONVENIO VIGENTE PARA EVITAR LA DOBLE TRIBUTACIÓN, CON EL OBJETO DE ACREDITAR LAS CIRCUNSTANCIAS SEÑALADAS EN EL N° 4, DEL ARTÍCULO 74 D"
+fecha: "2021-06-11"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N° 1", "33 bis y 60 del Código Tributario", "en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 74 número 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las modificaciones legales introducidas por la Ley N° 21.210 de 24 de febrero de 2020", "y las Circulares N° 54, de 2013, modificada por la Circular N°39 de 2016 y Circular 56 de 4 de septiembre de 2020"]
 ---
-
-
 
 SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

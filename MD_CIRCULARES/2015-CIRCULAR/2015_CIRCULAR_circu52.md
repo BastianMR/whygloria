@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 52 (2015)"
 description: "DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA | CIRCULAR N° 52.- 20.2014 CIRC.SN 003.2014 CIRC.TT |"
 tags: [SII, 2015, circular]
+materia: "Imparte instrucciones sobre declaración y pago del impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas, contenido en el artículo 8° de la Ley N° 20.780, de 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce "
+fecha: "2015-06-23"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 20.780, publicada en el Diario Oficial el 29 de septiembre de 2014."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR TÉCNICA TRIBUTARIA** | **CIRCULAR N° 52.- 20.2014 CIRC.SN 003.2014 CIRC.TT** |
 | --- | --- |

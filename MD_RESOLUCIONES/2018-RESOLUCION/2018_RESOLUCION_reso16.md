@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2018)"
 description: "CORRIGE COMPAGINACIÓN Y TRANSCRIPCIÓN EN RESOLUCIÓN EX. SII N° 128, DE 29 DE DICIEMBRE DE 2017, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚ..."
 tags: [SII, 2018, resolucion]
+materia: "CORRIGE COMPAGINACIÓN Y TRANSCRIPCIÓN EN RESOLUCIÓN EX. SII N° 128, DE 29 DE DICIEMBRE DE 2017, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
+fecha: "2018-02-14"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°20.650, los artículos 2°, 3°, 4° 9° y 29 de la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 6°, letra A), N°1 del Decreto Ley N°830, de 1974, sobre Código Tributario."]
 ---
-
-
 
 CORRIGE COMPAGINACIÓN Y TRANSCRIPCIÓN EN RESOLUCIÓN EX. SII N° 128, DE 29 DE DICIEMBRE DE 2017, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA.
 

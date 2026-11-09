@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LAS REGIONES DEL MAULE Y BIOBIO."
+fecha: "2017-01-31"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6° Letra A) Nº 1), 30 y 34 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 54 de la Ley sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L", "y la Resolución Exenta N° 11, del 25.01.2017, de este Servicio"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

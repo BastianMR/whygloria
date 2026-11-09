@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+materia: "DEROGA RES. EX. N° 15, DE 30.01.2008 Y ESTABLECE NUEVO FORMATO DE DECLARACION JURADA ANUAL F1811 SOBRE COMPRAS DE MINERALES Y/O RETENCIONES DE IMPUESTOS A QUE SE REFIEREN LOS ARTICULOS 73 Y 74 Nº 6, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2016-12-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D", "en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en los artículos 73°, 74° N° 6, 75° y 101° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2026-01-19"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1º del D.L", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "el artículo 45 del Código Civil", "los Decretos Supremos Nºs 2, 3, 4 y 5 de 18 de enero de 2026, del Ministerio de Hacienda, publicados en el Diario Oficial en la misma fecha"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

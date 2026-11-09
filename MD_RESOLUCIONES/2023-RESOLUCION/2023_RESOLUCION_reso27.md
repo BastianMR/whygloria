@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2023)"
 description: "SUBDIRECCIÓN DE GESTION ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN DE GESTION ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
+fecha: "2023-03-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República y en la Resolución EX SII N° 1670, de 2017"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTION ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

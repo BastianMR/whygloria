@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCION NORMATIVA DEPTO NORMAS INTERNACIONALES"
 tags: [SII, 2013, resolucion]
+materia: "SOLICITA INFORMACION SOBRE TRUSTS CONSTITUIDOS EN EL EXTRANJERO"
+fecha: "2013-09-10"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6º letra A) Nº 1, 60 inciso octavo y 63 inciso primero del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCION NORMATIVA DEPTO NORMAS INTERNACIONALES
 

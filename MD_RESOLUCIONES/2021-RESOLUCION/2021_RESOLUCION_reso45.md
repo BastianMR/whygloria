@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 45 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00172250"
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Modificación de Convenio de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos."
+fecha: "2021-04-29"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285 sobre Acceso a la Información Pública", "Resolución Ex", "Resoluciones Ex", "Resolución Ex SII N° 49, del 16 de mayo de 2017 que Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos", "Resolución Ex SII N° 5, del 17 de enero de 2020, que Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fomento de la Producción y el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00172250
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 43 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 43.- 20.2016 ID 10.2016 SN |"
 tags: [SII, 2016, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, modificada por la Ley N° 20.899, al régimen tributario para la micro, pequeña y mediana empresa contenido en el artículo 14 ter de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Deja sin efecto Circular"
+fecha: "2016-07-11"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "segunda-categoria"]
+formularios: []
+regimen: ["14A", "14B", "renta-presunta"]
+ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, y las Leyes N°s 20.780 y 20.899, publicadas en los Diarios Oficiales de 29 de septiembre de 2014 y 8 de febrero de 2016 respectivamente."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 43.- 20.2016 ID 10.2016 SN** |
 | --- | --- |

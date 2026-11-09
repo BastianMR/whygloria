@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE FORMA Y PLAZO PARA QUE LAS ENTIDADES RELACIONADAS QUE SE INDICAN INFORMEN A LA EMPRESA O SOCIEDAD RESPECTIVA, EL MONTO TOTAL DE LOS INGRESOS DE SU GIRO PERCIBIDOS O DEVENGADOS EN LOS EJERCICIOS RESPECTIVOS Y OTRAS RENTAS QUE SE SEÑALAN, PARA DETERMINAR SI SE CUMPLEN LOS LÍMITES DE INGRESOS PARA EFECTOS DE ACOGERSE Y/O PERMANECER EN EL RÉGIMEN PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS (PYMES), DE LA LETRA D) DEL ARTÍCULO 14 O EN EL RÉGIMEN DE RENTA PRESUNTA DEL ARTÍCULO 34, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA. DEROGA RESOLUCIÓN EX. SII N° 131, DE 30.12.2016"
+fecha: "2020-07-22"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6, letra A), Nº 1, 8 Nº 17 y 21 del D.L", "lo dispuesto en la letra D) del artículo 14 y el artículo 34 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

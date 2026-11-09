@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE306524"
 tags: [SII, 2025, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos."
+fecha: "2025-02-07"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "Resolución Ex", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "Resolución N° 7, del año 2019, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón", "el DFL N° 5, de 2017, del Ministerio Secretaría General de la Presidencia que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.556 y el artículo 35 del Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE306524

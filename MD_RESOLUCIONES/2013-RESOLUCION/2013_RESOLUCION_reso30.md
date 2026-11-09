@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN"
+fecha: "2013-02-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["La facultad que me confiere el artículo 6º, Letra A, Nº 1, del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA
 

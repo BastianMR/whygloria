@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 31 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N° 31.- 245639.2023 GE 140.2023 ID |"
 tags: [SII, 2023, circular]
+materia: "Reemplaza apartado 2.5. y párrafo final del apartado 2.8 de la Circular N° 39 de 2022, en la parte relativa a los pagos provisionales mensuales en operaciones del artículo 107 de la Ley sobre Impuesto a la Renta."
+fecha: "2023-07-20"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N° 31.- 245639.2023 GE 140.2023 ID** |
 | --- | --- |

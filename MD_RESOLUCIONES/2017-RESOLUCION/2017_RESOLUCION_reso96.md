@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2017, resolucion]
+materia: "Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2018."
+fecha: "2017-10-13"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN
 

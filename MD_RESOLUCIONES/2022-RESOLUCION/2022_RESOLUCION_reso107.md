@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2022)"
 description: "APRUEBACONVENIODECOLABORACION MUTUAENTRE SERVICIODEIMPUESTOS INTERNOSYCORPORACIONINSTITUTO PROFESIONALESCUELA DE CONTADORES AUDITORESDESANTIAGO"
 tags: [SII, 2022, resolucion]
+materia: "APRUEBACONVENIODECOLABORACION MUTUAENTRE SERVICIODEIMPUESTOS INTERNOSYCORPORACIONINSTITUTO PROFESIONALESCUELA DE CONTADORES AUDITORESDESANTIAGO"
+fecha: "2022-11-17"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los articulos 1° y 7° letras h) y o) de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo 1° del D.F.L", "Ley N° 18.575,Organica Constitucionai de Bases Generales de la Administracion del Estado,y en la Resolucion N° 1600, del 06.11.2008,de la Contraloria General de la Republica"]
 ---
-
-
 
 GE00225031
 

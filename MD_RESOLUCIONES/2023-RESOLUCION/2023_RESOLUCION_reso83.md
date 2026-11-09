@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2023)"
 description: "DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA."
 tags: [SII, 2023, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA."
+fecha: "2023-08-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario", "en las letras c) i) j) y r) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero, del D.F.L", "en el artículo 35 del Código Tributario", "en el artículo 41, de la Ley N°18.575, que establece las bases generales de la Administración del Estado, y en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República"]
 ---
-
-
 
 DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA.
 

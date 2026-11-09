@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 34 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos | CIRCULAR N°34.- 284033.2024 GE |"
 tags: [SII, 2024, circular]
+materia: "MATERIA Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en los artículos 10 y 11 dela LeyN°21.681,que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción."
+fecha: "2024-07-30"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 10 y 11 de la Ley N° 21.681, que crea el Fondo de Emergencia Transitorio por Incendios y establece otras medidas para la reconstrucción, publicada en el Diario Oficial de 1° de julio de 2024, y artículo 14 de la Ley sobre Impuesto a la Renta (LIR)."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°34.- 284033.2024 GE** |
 | --- | --- |

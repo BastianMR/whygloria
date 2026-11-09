@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 54 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 54.- |"
 tags: [SII, 2015, circular]
+materia: "Reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos."
+fecha: "2015-06-24"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 54.-** |
 | --- | --- |

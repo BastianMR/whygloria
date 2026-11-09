@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 34 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 34 09-2013 SN (Circ) 74-2013 ID |"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre el tratamiento tributario de las donaciones con Fines Culturales, a raíz de la sustitución del artículo 8° de la Ley N° 18.985, efectuada por el artículo único de la Ley N° 20.675. 6(12)00"
+fecha: "2014-06-05"
+exenta: false
+impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L. 824, de 1974, Ley N° 20.675 y artículo 8° de la Ley N° 18.985."]
 ---
-
-
 
 1875
 

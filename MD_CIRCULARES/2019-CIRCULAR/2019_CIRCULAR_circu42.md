@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2019)"
 description: "DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 42 |"
 tags: [SII, 2019, circular]
+materia: "IMPARTE INSTRUCCIONES TRANSITORIAS MOTIVADAS EN LA SITUACIÓN DE EMERGENCIA Y HECHOS POSTERIORES RELACIONADOS."
+fecha: "2019-10-30"
+exenta: false
+impuestos: ["renta", "iva", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 6 letra b), N°4, 21, 97 N°16 y 106 del Código Tributario, N°3 del artículo 31 de la Ley de la Renta, letra d) del artículo 8, del D.L. 825, sobre Impuesto a las Ventas y Servicios, letra e) del artículo 10 de la Ley N°17.235 sobre Impuesto Territorial y Circular N° 3 de 1992."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 42** |
 | --- | --- |

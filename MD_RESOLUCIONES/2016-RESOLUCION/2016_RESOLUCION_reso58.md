@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TIMBRADOS QUE INDICA."
+fecha: "2016-06-23"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 6º letra A, Nºs 1 y 3 y 88 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 23 N° 5 de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el artículo 1° del D.L", "y en los artículos 69 al 71 bis del Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura y en la Ley N° 20.727", "y las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

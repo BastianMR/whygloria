@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 130 (2019)"
 description: "AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
 tags: [SII, 2019, resolucion]
+materia: "AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
+fecha: "2019-11-28"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019.
 

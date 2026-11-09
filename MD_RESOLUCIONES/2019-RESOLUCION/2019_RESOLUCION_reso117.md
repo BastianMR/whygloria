@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2019)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2019, resolucion]
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
+fecha: "2019-10-21"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6° letra B), N° 3 y 4, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1° del D.L", "lo establecido en los artículos 1°, 9° y 19 letras c) y d), del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "el artículo 45 del Código Civil", "y Decretos Supremos del Ministerio del Interior y Seguridad Pública N° 472 de 18 de octubre de 2019"]
 ---
-
-
 
 MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN.
 

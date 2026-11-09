@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00205870"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo de Garantía para Pequeños y Medianos Empresarios y el Servicio de Impuestos Internos."
+fecha: "2022-04-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada, la Ley N° 20.285, sobre Acceso a la Información Pública, y el artículo 35 del Código Tributario."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00205870
 

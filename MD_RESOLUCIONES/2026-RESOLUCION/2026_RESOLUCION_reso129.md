@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2026)"
 description: "DELEGA FACULTAD QUE INDICA"
 tags: [SII, 2026, resolucion]
+materia: "RESOLUCIÓN EX. SII N°129."
+fecha: "2026-09-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° y 46 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, de Hacienda", "el N°3 de la letra A) del artículo 6°, del Código Tributario", "el artículo 41, de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Exenta SII N° 568, de 01.02.2024", "la Resolución Exenta SII N° 136, de 08.10.2025, que Reorganiza las Unidades del Departamento Subdirección de Tecnologías de la Información y establece su ámbito de competencia", "Resolución N° 36, de 2024, de la Contraloría General de la República"]
 ---
 
 ## DELEGA FACULTAD QUE INDICA

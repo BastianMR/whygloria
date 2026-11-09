@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2016)"
 description: "DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN."
 tags: [SII, 2016, resolucion]
+materia: "## DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN."
+fecha: "2016-06-22"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda publicado en el Diario Oficial el 15 de octubre de 1980", "el artículo 6°, letra A), N° 1 del Código Tributario contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
 ---
-
-
 
 ## DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN.
 

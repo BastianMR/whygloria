@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2024)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 tags: [SII, 2024, resolucion]
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
+fecha: "2024-02-05"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 y 106 del Código Tributario, contenido en artículo 1º del D.L", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "el artículo 45 del Código Civil", "el Decreto Supremo del Ministerio del Interior y Seguridad Pública Nº 83, de 2 de febrero de 2024"]
 ---
-
-
 
 OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN
 

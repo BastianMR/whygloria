@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 23 (2013)"
 description: "DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES | CIRCULAR N°23 |"
 tags: [SII, 2013, circular]
+materia: "Imparte instrucciones sobre cumplimiento de obligaciones de Inscripción en el Rol Único Tributario, dar Aviso de Inicio de Actividades y Aviso de Modificaciones, a partir de la vigencia de la Ley N° 20.659, de 2013, que simplifica el régimen de constitución, modificación y disolución de las sociedad"
+fecha: "2013-05-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N°23** |
 | --- | --- |

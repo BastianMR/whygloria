@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA GE00268340"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA GE00268340"
+fecha: "2024-01-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA GE00268340
 

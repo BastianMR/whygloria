@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2014)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2014-12-04"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6°, letra A), N° 1, y 21 del Código Tributario, contenidos en el artículo 1° del D.L", "en el artículo 31 N° 9 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y en la letra b), del artículo primero, en concordancia con el numeral XIX, del artículo tercero, ambas disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de septiembre de 2014, sobre reforma tributaria que modifica el sistema de tributación a la renta e intr"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 65 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Normas | CIRCULAR N°65.- 332912.2025 GE 334817.2025 GE |"
 tags: [SII, 2025, circular]
+materia: "MATERIA Imparte instrucciones aplicación de la cláusula de la nación más favorecida al Convenio con Noruega, Suiza, Uruguay, Nueva Zelandia y Bélgica."
+fecha: "2025-12-03"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Normas** | **CIRCULAR N°65.- 332912.2025 GE 334817.2025 GE** |
 | --- | --- |

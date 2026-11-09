@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 152 (2026)"
 description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00402534"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00402534"
+fecha: "2026-11-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario", "en las letras c), i) y j) del artículo 7° y artículos 40, 41 y 41 bis, todos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en el artículo 41 de la Ley N°18.575, que establece las Bases Generales de la Administración del Estado, y en la Resolución N° 36, de 2024, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00402534

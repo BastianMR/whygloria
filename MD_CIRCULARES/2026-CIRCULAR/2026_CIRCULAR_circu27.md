@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 27 (2026)"
 description: "DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA                                                                                                        ..."
 tags: [SII, 2026, circular]
+materia: "Pone en conocimiento la Política de Condonaciones contenida en el Decreto N° 437, de 30 de abril de 2025, dictado en cumplimiento de lo dispuesto en el artículo 207 del Código tributario Deroga Circular N° 50, 20 de julio de 2016"
+fecha: "2026-06-23"
+exenta: false
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo 207 del Código Tributario, Decreto N° 437 de 30 de abril de 2025, del Ministerio de Hacienda."]
 ---
 
 | DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA                                                                                                                                                                                          | CIRCULAR Nº 27 GE 380752                                                                                           |

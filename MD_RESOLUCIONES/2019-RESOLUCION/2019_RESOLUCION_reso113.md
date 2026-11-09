@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2019, resolucion]
+materia: "REVOCA AUTORIZACIÓN DE EMISIÓN EN PAPEL DE DOCUMENTOS TRIBUTARIOS, QUE DEBEN SER EMITIDOS EN FORMATO ELECTRÓNICO, A LOS CONTRIBUYENTES QUE INDICA."
+fecha: "2019-10-10"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial del 12 de abril de 2002", "las instrucciones impartidas mediante Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

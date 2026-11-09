@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE"
+fecha: "2024-02-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 88°, ambos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el inciso cuarto del artículo 3° y el Título IV de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE
 

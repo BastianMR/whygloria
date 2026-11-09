@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
+materia: "## DELEGA FACULTADES EN EL DIRECTOR REGIONAL DE LA XIX D.R.M.STGO NORTE."
+fecha: "2014-02-28"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 7°, letras c), i), j) k) y ll), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "lo establecido en el N°3 de la letra A) del artículo 6° del Código Tributario", "en el artículo 41 del D.F.L", "en la Resolución N° 343 de 2000 de esta Dirección Nacional, y la Resolución N°1600, de 2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA
 

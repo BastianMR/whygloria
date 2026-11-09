@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2021)"
 description: "MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
+fecha: "2021-06-14"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 6°, inciso a) del Decreto Ley N° 1.762, del 30 de abril de 1977, y su modificación del 21 de octubre de 1982", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado y el artículo 35 del Código Tributario."]
 ---
-
-
 
 MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos.
 

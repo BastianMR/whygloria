@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 22 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | 1875 CIRCULAR N° 22 163.2011 ID 006-2011 SN |"
 tags: [SII, 2013, circular]
+materia: "Tratamiento tributario de garantías y gastos incurridos en cumplimiento de planes de cierre de faenas e instalaciones mineras para los efectos de los impuestos a la renta y a las ventas y servicios."
+fecha: "2013-05-03"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["por la Ley o por la rentabilidad generada por los instrumentos otorgados en garantía, deberán considerarse en el monto de la garantía efectivamente constituida para los efectos de su deducción como gasto necesario, en la oportunidad que fija la Ley"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **1875 CIRCULAR N° 22 163.2011 ID 006-2011 SN** |
 | --- | --- |

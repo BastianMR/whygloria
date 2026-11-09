@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 13 (2022)"
 description: "DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica | CIRC..."
 tags: [SII, 2022, circular]
+materia: "Imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile."
+fecha: "2022-03-18"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículo sobre Procedimiento de Acuerdo Mutuo establecido en cada uno de los Convenios para Evitar la Doble Tributación Internacional suscritos por Chile."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica** | **CIRCULAR N°13.- 171101.2020 GE** |
 | --- | --- |

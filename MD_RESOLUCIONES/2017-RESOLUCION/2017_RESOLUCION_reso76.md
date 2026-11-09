@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2017)"
 description: "CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
 tags: [SII, 2017, resolucion]
+materia: "## CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
+fecha: "2017-08-23"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES
 

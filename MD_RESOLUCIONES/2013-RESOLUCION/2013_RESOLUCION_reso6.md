@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2013, resolucion]
+materia: "MODIFICA EL TÍTULO XIV, DEL LIBRO II, DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, LA RESOLUCIÓN N° 9, DE 2012, DEL SERVICIO DE IMPUESTOS INTERNOS Y LA CIRCULAR NORMATIVA N° 2 DE LA TESORERÍA GENERAL DE LA REPÚBLICA, QUE ESTABLECE REGULACIONES COMUNES EN RELA"
+fecha: "2013-01-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el número 3 del artículo 94", "en el artículo 92 A del D.L", "en el número 6 del artículo 47 de la Ley N° 20.255, y las facultades que confiere la Ley a la Superintendencia de Pensiones, al Servicio de Impuestos Internos y a la Tesorería General de la República, se imparten las siguientes instrucciones de cumplimiento obligatorio para todas las Administradoras"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES
 

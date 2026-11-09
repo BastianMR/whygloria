@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2018)"
 description: "MATERIA: Otorga condonación sobre las multas infraccionales en los casos que se señalan."
 tags: [SII, 2018, resolucion]
+materia: "Otorga condonación sobre las multas infraccionales en los casos que se señalan."
+fecha: "2018-03-21"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["14A", "14B", "renta-presunta"]
+ref_legal: ["Las facultades conferidas en el artículo 6° letra B), N° 3, del Código Tributario, contenido en artículo 1° del D.L", "lo señalado en los artículos 97 y 109, ambos del Código Tributario", "lo dispuesto en el artículo 69 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L"]
 ---
-
-
 
 MATERIA: Otorga condonación sobre las multas infraccionales en los casos que se señalan.
 

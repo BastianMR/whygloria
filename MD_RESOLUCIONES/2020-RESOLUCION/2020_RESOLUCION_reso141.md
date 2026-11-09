@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2020)"
 description: "IMPARTE INSTRUCCIONES SOBRE LA OPCIÓN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, CON EFECTO RETROACTIVO, EL INGRESO DIFERIDO POR LAS RENTAS O CANTIDADES ..."
 tags: [SII, 2020, resolucion]
+materia: "IMPARTE INSTRUCCIONES SOBRE LA OPCIÓN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, CON EFECTO RETROACTIVO, EL INGRESO DIFERIDO POR LAS RENTAS O CANTIDADES QUE SE MANTENGAN PENDIENTES DE TRIBUTACIÓN, CONFORME A LO DISPUESTO EN EL ARTÍCULO DÉCIMO QUINTO TRANSITORIO DE LA LEY N° 21.210, SOBRE MODERNIZACIÓN TRIBUTARIA."
+fecha: "2020-11-13"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 14 ter letra A) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo dispuesto en los artículos segundo y tercero transitorios de la Ley N° 20.780 sobre reforma tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario, publicada en el Diario Oficial de 29 de septiembre de 2014", "lo dispuesto en el artículo 8° de la Ley N° 20.899 que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada en el Diario Oficial de 8 de febrero de 2016", "la Resolución Exenta SII N° 32, de 06 de abril de 2016", "el artículo décimo quinto de las disposiciones transitorias de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
 ---
-
-
 
 IMPARTE INSTRUCCIONES SOBRE LA OPCIÓN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, CON EFECTO RETROACTIVO, EL INGRESO DIFERIDO POR LAS RENTAS O CANTIDADES QUE SE MANTENGAN PENDIENTES DE TRIBUTACIÓN, CONFORME A LO DISPUESTO EN EL ARTÍCULO DÉCIMO QUINTO TRANSITORIO DE LA LEY N° 21.210, SOBRE MODERNIZACIÓN TRIBUTARIA.
 

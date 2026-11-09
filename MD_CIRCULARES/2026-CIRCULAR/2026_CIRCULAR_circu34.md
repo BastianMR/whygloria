@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 34 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 34 GE00391988                                    ..."
 tags: [SII, 2026, circular]
+materia: "Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026."
+fecha: "2026-08-17"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 53 y 97 N os 2 y 11 del Código Tributario, contenido en el artículo 1º del D.L"]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 34 GE00391988                                                                                             |

@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2025)"
 description: "ESTABLECE LA OBLIGACIÓN DE ENTREGAR REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y DEL COMPROBANTE DE PAGO ELECTRÓNICO, EN LAS CONDICIONES QUE S..."
 tags: [SII, 2025, resolucion]
+materia: "ESTABLECE LA OBLIGACIÓN DE ENTREGAR REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y DEL COMPROBANTE DE PAGO ELECTRÓNICO, EN LAS CONDICIONES QUE SE INDICAN."
+fecha: "2025-01-17"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que confieren los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en el artículo 6º letra A) Nº 1, del Código Tributario, contenido en el artículo 1º del D.L", "los artículos 53, 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el D.S", "la Ley Nº 21.210 de 2020 sobre Modernización de la Legislación Tributaria", "la Ley Nº 21.256 que Establece Medidas Tributarias para la Reactivación", "la Ley Nº 21.713 de 2024 sobre Cumplimiento de las Obligaciones Tributarias", "las Resoluciones Exentas SII N° 45, 99 de 2019, 74, de 2020, 176, de 2020"]
 ---
 
 ESTABLECE LA OBLIGACIÓN DE ENTREGAR REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y DEL COMPROBANTE DE PAGO ELECTRÓNICO, EN LAS CONDICIONES QUE SE INDICAN.

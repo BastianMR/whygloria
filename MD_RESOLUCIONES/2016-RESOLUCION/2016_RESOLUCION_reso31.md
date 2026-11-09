@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337"
 tags: [SII, 2016, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337"
+fecha: "2016-04-06"
+exenta: true
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "y los artículos 1°, N° 3, 17 inciso 2° y 18, del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337
 

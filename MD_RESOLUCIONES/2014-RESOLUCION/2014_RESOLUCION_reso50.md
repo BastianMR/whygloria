@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2014, resolucion]
+materia: "ESTABLECE DECLARACIÓN JURADA Y MODELO DE CERTIFICADO A EMITIR, POR LOS EMPLEADORES HABILITADOS O PAGADORES DE RENTAS DEL ARTÍCULO 42 N° 1 DE LA LEY SOBRE IMPUESTO A LA RENTA, RESPECTO DEL CRÉDITO POR DONACIONES CON FINES CULTURALES A QUE SE REFIERE EL ARTÍCULO 8°, DE LA LEY N° 18.985."
+fecha: "2014-05-26"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículos 6º, letra A), N° 1, 34 y 60 del Código Tributario, contenido en el artículo 1º del DL N° 830, de 1974 y la Ley de Donaciones con Fines Culturales, contenida en el artículo 8° de la Ley N° 18.985, sustituido por el artículo único de la Ley N° 20.675, publicada en el Diario Oficial el "]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
 

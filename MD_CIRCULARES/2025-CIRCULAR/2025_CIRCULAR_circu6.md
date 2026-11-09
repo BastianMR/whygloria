@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 6 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº06.- GE00304048 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas al Código Tributario por la Ley N° 21.713 en materia de grupos empresariales y el procedimiento de fiscalización unificado. Complementa la Circular N° 12 de 2021."
+fecha: "2025-01-16"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº06.- GE00304048** |
 | --- | --- |

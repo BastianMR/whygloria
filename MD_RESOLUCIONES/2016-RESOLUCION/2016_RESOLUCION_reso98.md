@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2016)"
 description: "DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2016, resolucion]
+materia: "## DELEGA FACULTAD QUE INDICA."
+fecha: "2016-10-04"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 7°, letras e), i), j) y q), 42 y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en el artículo 6° letra A N° 3° del Código Tributario y en los artículos 2, 3, 31, 36 y 41 del D.F.L"]
 ---
-
-
 
 ## DELEGA FACULTAD QUE INDICA.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2024, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+fecha: "2024-01-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N°1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el artículo 7° y en el artículo segundo de las disposiciones transitorias de la Ley N°21.591 de Royalty a la Minería, publicada en el Diario Oficial de fecha 23.12.2023", "la Circular SII N°03 del 10.01.2024, y las Resoluciones Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS
 

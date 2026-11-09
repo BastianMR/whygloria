@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE279231"
 tags: [SII, 2024, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos."
+fecha: "2024-04-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada y el decreto con fuerza de ley N° 1, de 1994, del Ministerio de Hacienda, que fija el texto refundido, coordinado, sistematizado y actualizado del Estatuto Orgánico del Servicio de Tesorería"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE279231
 

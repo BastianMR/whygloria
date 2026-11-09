@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2026)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE00359394"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE00359394"
+fecha: "2026-01-14"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, y en el artículo 34, Nº 2, letra b), de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824 de 1974, y las instrucciones impartidas medi"]
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE00359394

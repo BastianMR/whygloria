@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2019)"
 description: "REEMPLAZA RESOLUTIVO 2° DE LA RESOLUCIÓN EX. SII N° 21 DE 2017, QUE 'ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO'."
 tags: [SII, 2019, resolucion]
+materia: "REEMPLAZA RESOLUTIVO 2° DE LA RESOLUCIÓN EX. SII N° 21 DE 2017, QUE 'ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO'."
+fecha: "2019-02-15"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "y en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda."]
 ---
-
-
 
 REEMPLAZA RESOLUTIVO 2° DE LA RESOLUCIÓN EX. SII N° 21 DE 2017, QUE 'ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO'.
 

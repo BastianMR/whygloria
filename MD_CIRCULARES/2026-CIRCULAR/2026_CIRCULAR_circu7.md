@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 7 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+materia: "Tablas de impuesto único de segunda categoría para el mes de marzo de 2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026."
+fecha: "2026-02-12"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 bis de la Ley sobre Impuesto a la Renta."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                                                                    | CIRCULAR N°07 365105.2026 GE                                                      |

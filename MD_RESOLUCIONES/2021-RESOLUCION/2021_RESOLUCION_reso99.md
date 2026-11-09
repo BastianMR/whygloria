@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
+fecha: "2021-08-27"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A) Nº 1, 30, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1º del D.L", "en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 1° y 7° de la Ley N° 18.156, de 1982", "en los artículos 1° y 2° de la Ley N° 18.225, de 1983", "en el artículo 5° transitorio de la Ley N° 19.768, del 2001", "en los artículos 42 N° 1, 42 bis, 43 N° 1, 74 N° 1, 78 e inciso tercero del artículo 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en el artículo 69, del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO
 

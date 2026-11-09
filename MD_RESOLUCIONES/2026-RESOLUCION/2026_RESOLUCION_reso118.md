@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES GE00379404"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES GE00379404"
+fecha: "2026-09-03"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y 8, del Código Tributario, contenido en el artículo 1°del D.L", "el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "los artículos 4°, 6° y siguientes de la Ley N°19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación", "el Decreto Supremo N°9, de 2023, de la Secretaría General de la Presidencia", "la Resolución Ex", "la Resolución N°102, del 14 de agosto de 2025, que: \"Establece condiciones y términos de uso para que los Órganos de la Administración del Estado que se Indican, puedan solicitar e Integrar La Clave Tributaria SII en su Sitio Web\""]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES GE00379404

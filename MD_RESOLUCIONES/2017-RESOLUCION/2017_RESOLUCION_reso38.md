@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2017)"
 description: "ESTABLECE PROCEDIMIENTO VOLUNTARIO A UTILIZAR PARA DETERMINAR LA RENTA LÍQUIDA IMPONIBLE DEL IMPUESTO DE PRIMERA CATEGORÍA PARA LOS CONTRIBUYENTES QUE SE HUB..."
 tags: [SII, 2017, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO VOLUNTARIO A UTILIZAR PARA DETERMINAR LA RENTA LÍQUIDA IMPONIBLE DEL IMPUESTO DE PRIMERA CATEGORÍA PARA LOS CONTRIBUYENTES QUE SE HUBIEREN ENCONTRADO ACOGIDOS AL RÉGIMEN DE RENTA PRESUNTA VIGENTE AL 31.12.2015 Y, QUE AL 31.12.2016, DEBAN ABANDONARLO OBLIGATORIAMENTE POR NO CUMPLIR CUALQUIERA DE LOS REQUISITOS ESTABLECIDOS EN EL ARTICULO 34 DE LA LEY DE IMPUESTO A LA RENTA Y NO PUEDAN CONSTITUIR SU CONTABILIDAD COMPLETA."
+fecha: "2017-03-28"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L. 830, de 1974", "en los artículos 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 34 y 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el numeral IV del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014, sobre Reforma Tributaria", "en la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016, sobre Simplificación de la Reforma Tributaria"]
 ---
-
-
 
 ESTABLECE PROCEDIMIENTO VOLUNTARIO A UTILIZAR PARA DETERMINAR LA RENTA LÍQUIDA IMPONIBLE DEL IMPUESTO DE PRIMERA CATEGORÍA PARA LOS CONTRIBUYENTES QUE SE HUBIEREN ENCONTRADO ACOGIDOS AL RÉGIMEN DE RENTA PRESUNTA VIGENTE AL 31.12.2015 Y, QUE AL 31.12.2016, DEBAN ABANDONARLO OBLIGATORIAMENTE POR NO CUMPLIR CUALQUIERA DE LOS REQUISITOS ESTABLECIDOS EN EL ARTICULO 34 DE LA LEY DE IMPUESTO A LA RENTA Y NO PUEDAN CONSTITUIR SU CONTABILIDAD COMPLETA.
 

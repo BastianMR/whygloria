@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2016-12-26"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 inciso noveno del Código Tributario, contenido en artículo 1° del D.L", "en los artículos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las modificaciones legales introducidas por la Leyes N°s 20.780 y 20.899, de 29 de septiembre de 2014, y 8 de febrero de 2016, respectivamente", "la Resolución Exenta SII N° 16 de 3 de marzo de 2015 modificada por la Resolución N°113 del 24 de diciembre de 2015"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

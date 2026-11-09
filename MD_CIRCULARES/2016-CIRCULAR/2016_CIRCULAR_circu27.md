@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 27 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 27.- |"
 tags: [SII, 2016, circular]
+materia: "MODIFICACIÓN INTRODUCIDA POR EL ARTÍCULO 3° DE LA LEY N° 20.899, DE 08 DE FEBRERO DE 2016, AL N° 6 DEL ARTÍCULO 97 DEL CÓDIGO TRIBUTARIO.."
+fecha: "2016-05-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 27.-** |
 | --- | --- |

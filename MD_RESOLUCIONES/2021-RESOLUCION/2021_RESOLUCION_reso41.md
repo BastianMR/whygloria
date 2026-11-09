@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2021)"
 description: "REGULA PROCEDIMIENTO SOBRE RECLAMO ADMINISTRATIVO POR BONO DE CLASE MEDIA CONTENIDO EN EL ARTÍCULO 18 DE LA LEY N° 21.323, QUE ESTABLECE UN NUEVO BONO DE CLA..."
 tags: [SII, 2021, resolucion]
+materia: "REGULA PROCEDIMIENTO SOBRE RECLAMO ADMINISTRATIVO POR BONO DE CLASE MEDIA CONTENIDO EN EL ARTÍCULO 18 DE LA LEY N° 21.323, QUE ESTABLECE UN NUEVO BONO DE CLASE MEDIA Y UN PRÉSTAMO SOLIDARIO PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA"
+fecha: "2021-04-16"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "y lo dispuesto en los artículos 17 y 18 de la Ley N°21.323, de fecha 06.04.2021, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media, y las Resoluciones Ex"]
 ---
-
-
 
 REGULA PROCEDIMIENTO SOBRE RECLAMO ADMINISTRATIVO POR BONO DE CLASE MEDIA CONTENIDO EN EL ARTÍCULO 18 DE LA LEY N° 21.323, QUE ESTABLECE UN NUEVO BONO DE CLASE MEDIA Y UN PRÉSTAMO SOLIDARIO PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA
 

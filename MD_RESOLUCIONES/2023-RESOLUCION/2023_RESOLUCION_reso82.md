@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2023)"
 description: "SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821"
 tags: [SII, 2023, resolucion]
+materia: "PRORROGA DEL PLAZO PARA PRESENTARLOSFORMULARIOSNUMEROS 29Y50HASTA31DEAGOSTODE 2023, CONFORMEALDECRETON°944DE2023."
+fecha: "2023-07-24"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lasfacultadesconferidasenlos articulos6°letraA)N°1,29,36del C6digoTributario,contenidoenarticulo1°delDecretoLeyN° 830,de1974", "loestablecidoenlosarticulos1°y7°delDecretoconFuerzadeLeyN°7,de1980, enelarticulo45delCodigoCivil", "lodispuestoenelDecretoSupremoN°172defecha24dejunio de2023,delMinisteriodelInteriorySeguridadPublicayenelDecretoSupremoN°944,defecha 30 dejuniode2023,del MinisteriodeHacienda", "loestablecidoen laResolucionEx.Sll N°80de 2023."]
 ---
-
-
 
 ## SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821
 

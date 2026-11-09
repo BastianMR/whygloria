@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL SERVICIO DE IMPUESTOS INTERNOS TESORERÍA GENERAL DE LA REPÚBLICA"
 tags: [SII, 2019, resolucion]
+materia: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL SERVICIO DE IMPUESTOS INTERNOS TESORERÍA GENERAL DE LA REPÚBLICA"
+fecha: "2019-04-01"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 Si
 

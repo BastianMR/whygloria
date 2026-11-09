@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 22 (2022)"
 description: "DEPARTAMENTOEMISOR: Subdirección de Avaluaciones Subdirección Normativa, Departamento de Técnica Tributaria | CIRCULARNº 22.- GE205117 |"
 tags: [SII, 2022, circular]
+materia: "Imparte instrucciones sobre modificaciones introducidas por las Leyes N° 21.210 y N° 21.420 en materia de 'viviendas económicas' y sobretasa. Modifica y complementa las Circulares N° 57 de 2010 y N° 28 de 2020."
+fecha: "2022-05-06"
+exenta: false
+impuestos: ["renta", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley N° 21.420, publicada en el Diario Oficial de 4 de febrero de 2022", "Decretocon Fuerza de Ley N° 2 de 1959, del Ministerio de Hacienda, sobre Plan Habitacional", "Ley N° 17.235, sobre Impuesto Territorial."]
 ---
-
-
 
 | **DEPARTAMENTOEMISOR: Subdirección de Avaluaciones Subdirección Normativa, Departamento de Técnica Tributaria** | **CIRCULARNº 22.- GE205117** |
 | --- | --- |

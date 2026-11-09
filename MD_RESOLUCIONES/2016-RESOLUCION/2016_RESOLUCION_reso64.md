@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2016, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
+fecha: "2016-07-06"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["las facultades de fiscalización otorgadas a este Servicio y que fueran incorporadas por Ley N° 20.780 de 2014", "la Ley N° 20.899 de 2016 que faculta al Servicio a establecer acuerdos u otras acciones orientadas a promover el cumplimiento tributario", "la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo preceptuado en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República", "lo dispuesto en la Resolución N° 349, de 1984", "N° 379, de 1991, y sus modificaciones, y lo establecido en la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN
 

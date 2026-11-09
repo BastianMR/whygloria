@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 62 (2014)"
 description: "Modificada por Circular N° 53, del 10 de agosto de 2020"
 tags: [SII, 2014, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. 6(12)00"
+fecha: "2014-12-02"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 20.780, de 29 de septiembre de 2014."]
 ---
-
-
 
 Modificada por Circular N° 53, del 10 de agosto de 2020
 

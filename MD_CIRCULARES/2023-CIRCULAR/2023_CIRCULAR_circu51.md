@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 51 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos | CIRCULAR N°51.- 263226.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "MATERIA Imparte instrucciones sobre el nuevo crédito transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, establecido en la Ley N° 21.631. Complementa Circular N° 87 de 2001."
+fecha: "2023-12-04"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: ["F22"]
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.631, publicada en el Diario Oficial de 31 de octubre de 2023."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos** | **CIRCULAR N°51.- 263226.2023 GE** |
 | --- | --- |

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2022)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN"
 tags: [SII, 2022, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN"
+fecha: "2022-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "la Ley Nº 21.323 de 2021, que estableció un bono y un préstamo solidario para la protección de los ingresos de la clase media", "la Ley Nº 21.420 de 2022, que reduce o elimina exenciones tributarias que indica", "las instrucciones impartidas en las Resoluciones Exentas SII Nº 4085 de 1990 y sus modificaciones posteriores, Nº 6836 de 1993 y sus modificaciones posteriores, Nº 4847 de 1995 y sus modificaciones posteriores, Nº 124 de 2016 y sus modificaciones posteriores, Nº 20 de 2015 y sus modificaciones poste"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN
 

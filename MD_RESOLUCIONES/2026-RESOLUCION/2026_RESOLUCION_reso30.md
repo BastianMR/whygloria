@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00364120"
 tags: [SII, 2026, resolucion]
+materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos."
+fecha: "2026-02-27"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7°, letra o) ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "la Resolución Ex", "el artículo 2 de la Ley N° 20.575", "el artículo 35 del Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00364120

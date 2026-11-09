@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "ESTABLECE DECLARACIÓN JURADA A PRESENTAR POR LAS INSTITUCIONES DE EDUCACIÓN PRE-ESCOLAR, BÁSICA, DIFERENCIAL Y MEDIA RECONOCIDAS POR EL ESTADO Y OBLIGACIÓN DE CERTIFICAR, RESPECTO DEL CUMPLIMIENTO DEL REQUISITO DE ASISTENCIA DE SUS ALUMNOS MATRICULADOS, PARA LA PROCEDENCIA DEL CRÉDITO POR GASTOS RELACIONADOS CON LA EDUCACIÓN ESTABLECIDO EN EL ARTÍCULO 55 TER DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2013-02-22"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "y en el inciso final del artículo 55 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS
 

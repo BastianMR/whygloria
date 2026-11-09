@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 278-SDF-2013 /63-DAAC-2013"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA A COMERCIALIZADORA TOMA TICKET LIMITADA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
+fecha: "2014-01-16"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "la Resolución N° 75, de 17 de Junio de 1985, del Director del Servicio", "y las atribuciones que se me confieren en el resolutivo N° 9 de la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 278-SDF-2013 /63-DAAC-2013
 

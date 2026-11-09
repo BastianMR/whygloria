@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357793"
 tags: [SII, 2026, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357793"
+fecha: "2026-01-05"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A), N° s 1 y 4, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "artículos 1°, 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "artículos 35 J a 35 Ñ de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974, la Ley N° 21.745", "las Resoluciones Ex", "el Reglamento, contenido en el Decreto N° 871 de 2025, de Hacienda", "la Circular N° 64 de 2025", "y, Resolución N°178, de 2025, que crea el Registro de Operadores de medios de pago electrónicos para Ferias Libres."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357793

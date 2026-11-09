@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 37 (2023)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N°37.- 248776.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.558 a las normas transitorias de la Ley N° 21.420, vinculadas a la eliminación del artículo 21 del Decreto Ley N° 910 de 1975. Deja sin efecto la Circular N° 43 de 2022."
+fecha: "2023-09-06"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 5, 6 N° 3, primero, quinto, sexto y sexto bis transitorios de la Ley N° 21.420, publicada en el Diario Oficial el 4 de febrero de 2022", "Artículos único y transitorio de la Ley N° 21.462, publicada en el Diario Oficial el 26 de julio de 2022", "Artículo 5 de la Ley N° 21.558, publicada en el Diario Oficial el 25 de abril de 2023", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "Decreto Ley N° 910 de 1975."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N°37.- 248776.2023 GE** |
 | --- | --- |

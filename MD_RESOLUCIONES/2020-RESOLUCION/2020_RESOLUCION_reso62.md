@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2020)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°143 DE 31 DE DICIEMBRE DE 2019, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2020, resolucion]
+materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°143 DE 31 DE DICIEMBRE DE 2019, EN LOS TÉRMINOS QUE INDICA."
+fecha: "2020-06-24"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración Pública", "los Arts. 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. 1° del D.F.L", "lo establecido en el Art. 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L", "y la Resolución Exenta SII N° 143, de fecha 31.12.2019."]
 ---
-
-
 
 COMPLEMENTA RESOLUCIÓN EXENTA SII N°143 DE 31 DE DICIEMBRE DE 2019, EN LOS TÉRMINOS QUE INDICA.
 

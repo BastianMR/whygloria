@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 3 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°3.- |"
 tags: [SII, 2020, circular]
+materia: "informa datos relacionados con la aplicación del sistema de corrección monetaria, reajustabilidad del saldo de utilidades tributables, del saldo total crédito y de los retiros en excesos no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2020."
+fecha: "2020-01-09"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta"]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N°3.-** |
 | --- | --- |

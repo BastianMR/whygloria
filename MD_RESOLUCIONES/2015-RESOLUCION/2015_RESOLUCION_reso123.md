@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+materia: "ESTABLECE MODO DE INFORMAR GASTOS INCURRIDOS EN SUPERMERCADOS Y COMERCIOS SIMILARES CONFORME A LA MODIFICACIÓN QUE LA LEY N° 20.780 INTRODUJO AL INCISO 1°, DEL ARTÍCULO 31 DE LA LEY SOBRE IMPUESTO A LA RENTA"
+fecha: "2015-12-31"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["1° Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A), N°1 y en los artículos 29, 30 inciso primero y segundo, y 32 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo previsto en la oración final del artículo 31° inciso primero, de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley 824, de 1974, reemplazado por la letra a) del número 15 del artículo 1° de la Ley N° 20.780 de 2014, sobre Reforma Tributaria"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

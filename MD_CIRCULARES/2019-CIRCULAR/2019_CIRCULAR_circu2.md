@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 2 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 2.- |"
 tags: [SII, 2019, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
+fecha: "2019-01-11"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y Art. 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 2.-** |
 | --- | --- |

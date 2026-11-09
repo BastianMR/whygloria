@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 89 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 89.- |"
 tags: [SII, 2015, circular]
+materia: "SUSTITUYE CAPITULO XIII DE LA CIRCULAR N° 21, DE 19.04.2013, EN MATERIA DE POLÍTICA DE TRANSPARENCIA, INCORPORADO EN EL REFERIDO CUERPO NORMATIVO POR LA CIRCULAR N°41 DE 05.09.2013."
+fecha: "2015-11-25"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 89.-** |
 | --- | --- |

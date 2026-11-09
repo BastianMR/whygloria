@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+materia: "## RECHAZA INSTITUCIÓN SIN FINES DE LUCRO, COMO RECEPTORA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE"
+fecha: "2014-12-05"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "sobre Código Tributario", "lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta", "contenida en el artículo 1° del D.L. 824, de 1974", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, contenida en el D.L", "y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y en la Resolución Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

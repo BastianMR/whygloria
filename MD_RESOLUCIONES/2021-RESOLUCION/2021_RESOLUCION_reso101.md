@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+fecha: "2021-08-31"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º, letra A, Nº 1, 30, 33 bis y 60, del Código Tributario, contenido en el artículo 1º del Decreto Ley Nº 830, de 1974", "en el artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del Decreto Ley Nº 824, de 1974", "en los artículos 14 y 18, de la Ley N° 21.258 de 2020, y las facultades contempladas en los artículos 1º y 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "y lo señalado en la Circular SII N°42 de 2021"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO
 

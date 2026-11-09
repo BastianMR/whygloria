@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2019, resolucion]
+materia: "Aprueba Convenio de Interoperabilidad y Prestación de Servicios de verificación de datos del Registro Civil y del Registro de Profesionales en línea en el marco de la Plataforma Integrada de Servicios Electrónicos del Estado entre el Servicio de Registro Civil e Identificación y el Servicio de Impue"
+fecha: "2019-10-16"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el D.F.L Nº1/19.653, que fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N°19.880, que Establece Bases de los Procedimientos Administrativos que Rigen Los Actos de los Órganos de la Administración del Estado", "en el artículo 7°, letra i) de la Ley Nº19.477, Orgánica del Servicio de Registro Civil e Identificación", "en el artículo 1°del Decreto con Fuerza de Ley N°7 del Ministerio de Hacienda, de fecha 30 de septiembre de 1980, que contempla la Ley Orgánica del Servicio de Impuestos Internos", "en el artículo 87 del Código Tributario", "en la Ley Nº19.628, sobre Protección a la Vida Privada", "en el Decreto Exento N°4.013 de fecha 23 de Octubre de 2013, que Aprueba Traspaso de Convenio de Cooperación Proyecto Plataforma Integrada de Servicios Electrónicos del Estado, Fase Masificación, suscrito entre el Ministerio Secretaría General de la Presidencia y Organismos Públicos que se indican, "]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

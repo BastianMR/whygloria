@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+materia: "AUTORIZA USO DEL CRÉDITO FISCAL IVA Y DEDUCCIÓN DEL GASTO DE VEHÍCULO QUE INDICA, CONFORME ART. 23 N° 4 DEL D.L. N° 825, DE 1974 Y ART. 31 INCISO 1° DEL D.L. N° 824, DE 1974."
+fecha: "2013-05-23"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D", "lo establecido en el artículo 6° letra A N° 1 y 3 del Código Tributario, el Art", "el artículo 23 N° 4 de la Ley sobre Impuesto a las Ventas y Servicios, de 1974."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS
 

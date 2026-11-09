@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2020)"
 description: "ESTABLECE FORMA DE DETERMINACIÓN DEL PROMEDIO DE INGRESOS BRUTOS A QUE SE REFIERE LA LETRA b) DEL N°1 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO..."
 tags: [SII, 2020, resolucion]
+materia: "ESTABLECE FORMA DE DETERMINACIÓN DEL PROMEDIO DE INGRESOS BRUTOS A QUE SE REFIERE LA LETRA b) DEL N°1 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2020-07-22"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6, letra A), Nº 1, del D.L", "lo dispuesto en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ESTABLECE FORMA DE DETERMINACIÓN DEL PROMEDIO DE INGRESOS BRUTOS A QUE SE REFIERE LA LETRA b) DEL N°1 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA.
 

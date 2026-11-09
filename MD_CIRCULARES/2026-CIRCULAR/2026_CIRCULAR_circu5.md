@@ -3,6 +3,13 @@ type: "SII Circular"
 title: "Circular N° 5 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa - SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                                          ..."
 tags: [SII, 2026, circular]
+materia: "Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de impuesto global complementario correspondientes al año tributario 2026."
+fecha: "2026-01-21"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa - SISTEMA DE PUBLICACIONES ADMINISTRATIVAS                                                                                                                                                                                              | CIRCULAR N°05.- 361019.2026 - FECHA: 21 DE ENERO DE 2026         |

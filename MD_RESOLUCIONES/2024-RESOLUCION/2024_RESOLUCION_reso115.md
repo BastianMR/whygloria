@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2024)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE00302875"
 tags: [SII, 2024, resolucion]
+materia: "DELEGA EN LOS JEFES DE DEPARTAMENTOS DE AVALUACIONES LA FACULTAD QUE INDICA"
+fecha: "2024-12-05"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la letra c), i) y j) del artículo 7 del D.F.L", "lo establecido en el artículo 41 de la Ley N° 18.575, sobre Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo previsto en el N° 3 de la letra A del artículo 6° y artículos 123 bis y 124 del Código Tributario", "lo dispuesto en la Ley N° 17.235", "lo señalado en el artículo 59 de la Ley N° 19.880 sobre bases de los procedimientos administrativos que rigen los actos de la Administración del Estado y, lo preceptuado en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República"]
 ---
-
-
 
 <unknown>
 

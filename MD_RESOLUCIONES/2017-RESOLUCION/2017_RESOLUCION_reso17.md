@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y TESORERÍA GENERAL DE LA REPÚBLICA"
+fecha: "2017-02-08"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 1600/2008 de la Contraloría General de la República."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

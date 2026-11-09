@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2020)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N° 42 |"
 tags: [SII, 2020, circular]
+materia: "Imparte instrucciones sobre la tributación y régimen de administración del Impuesto al Valor Agregado a servicios realizados por prestadores domiciliados o residentes en el extranjero."
+fecha: "2020-06-11"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N° 824 de 1974."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Impuestos Indirectos** | **CIRCULAR N° 42** |
 | --- | --- |

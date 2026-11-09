@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2018)"
 description: "COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017."
 tags: [SII, 2018, resolucion]
+materia: "## COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017."
+fecha: "2018-04-23"
+exenta: true
+impuestos: ["territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N° 1 de la Letra A) del artículo 6°, el artículo 149 y el artículo 150, del D.L"]
 ---
-
-
 
 ## COMPLEMENTA RESOLUCIÓN EX. SII N°46, DE 2017.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE LA FORMA EN QUE ESTE SERVICIO PONDRÁ A DISPOSICIÓN LA INFORMACIÓN QUE DEBE PROPORCIONAR A LOS CONTRIBUYENTES ACOGIDOS AL ARTÍCULO 14 LETRA D) N°3 Y N°8, DE LA LEY SOBRE IMPUESTO A LA RENTA."
+fecha: "2021-02-15"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) Nº 1, 21, 29 y 30 del D.L", "en la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta (en adelante, LIR), contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

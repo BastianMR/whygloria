@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 46 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 46 |"
 tags: [SII, 2018, circular]
+materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los comprendidos entre el 10 de septiembre del"
+fecha: "2018-09-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 46** |
 | --- | --- |

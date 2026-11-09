@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 136 (2023)"
 description: "MATERIA: ESTABLECE NUEVA DENOMINACIÓN DEL DEPARTAMENTO SUBDIRECCION DE INFORMÁTICA. REORGANIZA LAS UNIDADES QUE CONFORMARÁN EL DEPARTAMENTO SUBDIRECCIÓN DE T..."
 tags: [SII, 2023, resolucion]
+materia: "ESTABLECE NUEVA DENOMINACIÓN DEL DEPARTAMENTO SUBDIRECCION DE INFORMÁTICA. REORGANIZA LAS UNIDADES QUE CONFORMARÁN EL DEPARTAMENTO SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 101, DE 2019."
+fecha: "2023-12-12"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo establecido en el artículo 11 N° 1, de la Ley N ° 19.738", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N°6 de 2019, de la Contraloría General de la República", "y lo dispuesto en las Resoluciones N° 349, de 1984, N° 379 de diciembre de 1991, Ex"]
 ---
-
-
 
 MATERIA: ESTABLECE NUEVA DENOMINACIÓN DEL DEPARTAMENTO SUBDIRECCION DE INFORMÁTICA. REORGANIZA LAS UNIDADES QUE CONFORMARÁN EL DEPARTAMENTO SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 101, DE 2019.
 

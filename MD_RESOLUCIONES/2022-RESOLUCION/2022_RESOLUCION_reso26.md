@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2022)"
 description: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN AVALUACIONES, DE ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SI..."
 tags: [SII, 2022, resolucion]
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN AVALUACIONES, DE ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII N° 37, 2016."
+fecha: "2022-03-07"
+exenta: true
+impuestos: ["renta", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y en las letras a), c) y ñ), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "lo dispuesto en las Resoluciones Exentas SII N°379, de 1991 y sus modificaciones, N°7.590, de 1999, N° 37, de 2016, todas de la Dirección del SII", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y, lo dispuesto en la Resolución N°6, de 2016, de la Contraloría General de la República, sobre exención del trámite de toma de razón"]
 ---
-
-
 
 REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN AVALUACIONES, DE ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII N° 37, 2016.
 

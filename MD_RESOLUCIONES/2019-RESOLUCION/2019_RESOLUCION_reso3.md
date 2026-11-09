@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2019)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES"
 tags: [SII, 2019, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES"
+fecha: "2019-01-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º, letra A, del Código Tributario, contenido en el artículo 1º, del Decreto Ley Nº 830, de 1974, y el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES
 

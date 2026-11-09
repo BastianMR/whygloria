@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE336127"
 tags: [SII, 2025, resolucion]
+materia: "ESPECIFICA OPERACIONES FINANCIERAS QUE PUEDEN ACOGERSE AL PROCEDIMIENTO SIMPLIFICADO A QUE SE REFIERE EL ARTÍCULO 66 BIS DEL CODIGO TRIBUTARIO"
+fecha: "2025-08-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 6°, letra A), N° 1, y 66 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "en el N° 2 del artículo 7 de la Ley N° 21.641", "la Ley Orgánica Constitucional de Banco Central de Chile, contenida en el artículo 1° de la Ley N° 18.840", "la Circular N° 26 de 2025", "y, la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE336127

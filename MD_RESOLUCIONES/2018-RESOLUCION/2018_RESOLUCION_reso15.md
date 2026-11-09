@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+fecha: "2018-02-14"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "el artículo 4° de la Ley N° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artículo 25 de la Ley N° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableció incentivos para el desarrollo económico de las Provincias de Arica y Parinacota y por el", "el artículo 11 de la Ley N° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV Región de Arica y Parinacota y la Provincia del Tamarugal en la Región de Tarapacá", "y las instrucciones impartidas en la Resolución Exenta N° 46, del 10.05.2013, modificada por las Resolución Exenta N°s 12, del 10.03.2016 y 25.01.2017, respectivamente"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 29 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS FISCALIZACIÓN INTERNACIONAL 1875 | CIRCULAR N° 29 145-2012 ID 07-2013 SN |"
 tags: [SII, 2013, circular]
+materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencia contenidas en la Ley sobre Impuesto a la Renta. 6(12)00"
+fecha: "2013-06-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 38 y 41 E, de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del Decreto Ley N° 824, de 1974) y Ley 20.630, del 27 de septiembre de 2012."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS FISCALIZACIÓN INTERNACIONAL 1875** | **CIRCULAR N° 29 145-2012 ID 07-2013 SN** |
 | --- | --- |

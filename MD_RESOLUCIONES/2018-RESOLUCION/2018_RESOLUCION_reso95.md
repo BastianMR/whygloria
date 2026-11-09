@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2018)"
 description: "AUTORIZA A DIRECTOR REGIONAL DE LA XX DIRECCIÓN REGIONAL, CHILLÁN, PARA DELEGAR EN JEFE DE UNIDAD DE SAN CARLOS LAS FACULTADES QUE INDICA."
 tags: [SII, 2018, resolucion]
+materia: "AUTORIZA A DIRECTOR REGIONAL DE LA XX DIRECCIÓN REGIONAL, CHILLÁN, PARA DELEGAR EN JEFE DE UNIDAD DE SAN CARLOS LAS FACULTADES QUE INDICA."
+fecha: "2018-10-05"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra B Nos. 3 y 7 del Código Tributario", "contenido en el artículo 1° del D.L"]
 ---
-
-
 
 AUTORIZA A DIRECTOR REGIONAL DE LA XX DIRECCIÓN REGIONAL, CHILLÁN, PARA DELEGAR EN JEFE DE UNIDAD DE SAN CARLOS LAS FACULTADES QUE INDICA.
 

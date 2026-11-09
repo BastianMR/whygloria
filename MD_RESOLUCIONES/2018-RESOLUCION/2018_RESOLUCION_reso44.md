@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 508 - SDAC - 2017"
 tags: [SII, 2018, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 508 - SDAC - 2017"
+fecha: "2018-05-04"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "y la Resolución Exenta N° 5028, del 28.08.1998, modificada por la Resolución Exenta N° 115, del 28.11.2017, delegatoria"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 508 - SDAC - 2017
 

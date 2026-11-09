@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2019)"
 description: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA."
 tags: [SII, 2019, resolucion]
+materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA."
+fecha: "2019-10-15"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 13 del Decreto Ley N° 701, de 1974, sobre Fomento Forestal, el artículo 35 de la Ley N° 20.283, el Cuadro Anexo 'Nómina de exenciones al Impuesto Territorial', Párrafo I letra B) N° 13 de la Ley N° 17.235, sobre Impuesto Territorial", "lo indicado en el artículo 6°, la letra A, N° 1, del Código Tributario, lo establecido en las letras a) y b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
 ---
-
-
 
 DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA.
 

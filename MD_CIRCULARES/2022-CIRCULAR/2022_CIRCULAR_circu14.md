@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 14 (2022)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N°14.- 208607.2022 GE |"
 tags: [SII, 2022, circular]
+materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2022, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
+fecha: "2022-04-08"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Art. 72 de la Ley sobre Impuesto a la Renta."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N°14.- 208607.2022 GE** |
 | --- | --- |

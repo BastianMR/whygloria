@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2018, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Dirección General de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos."
+fecha: "2018-09-13"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública y el D.F.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y
 

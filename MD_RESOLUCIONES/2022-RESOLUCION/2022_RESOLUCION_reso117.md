@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00214764"
 tags: [SII, 2022, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE SERVICIO DE IMPUESTOS INTERNOS Y UNIVERSIDAD DE LA SERENA."
+fecha: "2022-12-02"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 1600, del 06.11.2008, de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00214764
 

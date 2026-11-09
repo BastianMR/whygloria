@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2014, resolucion]
+materia: "MODIFICA LA RESOLUCIÓN N° 379 DE 1991 EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA."
+fecha: "2014-02-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo establecido en el artículo 11 N° 1, de la Ley N ° 19.738 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991, N° 7590 de 15 de noviembre de 1999, N° 1376 y N° 1377, ambas de 27 de diciembre de 2004, Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2016)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2016, resolucion]
+materia: "CORRIGE ERROR DE TRANSCRIPCIÓN EN RESOLUCIÓN EX. SII N° 118, DE 29.12.2015."
+fecha: "2016-02-02"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 2° y 3° de la ley N° 17.235, sobre Impuesto Territorial", "y, 6° letra A número 1 del Código Tributario"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES
 

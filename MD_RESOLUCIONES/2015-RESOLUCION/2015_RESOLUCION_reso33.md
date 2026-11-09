@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2015, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
+fecha: "2015-03-31"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado, el Instructivo Presidencial para la P", "y en la Ley N° 20.780, Sobre Reforma Tributaria que Modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario"]
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA
 

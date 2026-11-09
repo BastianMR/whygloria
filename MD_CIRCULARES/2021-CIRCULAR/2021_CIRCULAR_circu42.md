@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 42 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°42.- 182839.2021 GE |"
 tags: [SII, 2021, circular]
+materia: "Imparte instrucciones sobre beneficio tributario para donaciones al Fondo Nacional del Cáncer establecido en la Ley N° 21.258."
+fecha: "2021-07-02"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["14A"]
+ref_legal: ["artículo 18 de la Ley N° 21.258, publicada en el Diario Oficial con fecha 2 de septiembre de 2020."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos** | **CIRCULAR N°42.- 182839.2021 GE** |
 | --- | --- |

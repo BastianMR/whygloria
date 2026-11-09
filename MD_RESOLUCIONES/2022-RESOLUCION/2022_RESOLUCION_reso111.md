@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00223948"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Seguridad Social y el Servicio de Impuestos Internos."
+fecha: "2022-11-25"
+exenta: true
+impuestos: ["renta", "iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública", "el articulo 2° del D.L"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00223948
 

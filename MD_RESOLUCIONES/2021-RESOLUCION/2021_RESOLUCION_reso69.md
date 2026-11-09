@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2021)"
 description: "Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de 19..."
 tags: [SII, 2021, resolucion]
+materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR DEVOLUCIÓN DE REMANENTES DE IVA, CONFORME LO DISPUESTO POR LA LEY N° 21.353 DE FECHA 17.06.2021."
+fecha: "2021-06-30"
+exenta: true
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, Decreto Ley N° 825, de 1974, del Ministerio de Hacienda", "artículo 2 de la Ley N° 21.353, que 'Establece nuevas medidas tributarias para apoyar a las micro, pequeñas y medianas empresas, por la crisis generada por la enfermedad Covid-19'", "Decreto Supremo Nº 107 de 2020, del Ministerio del Interior, que 'Declara como zonas afectadas por catástrofe a las comunas que indica'", "en el Decreto Supremo Nº 76 de 2021, del Ministerio del Interior y Seguridad Pública, que extiende vigencia del D.S", "en el Decreto Supremo Nº 420 de 2020, del Ministerio de Hacienda, que establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación de la enfermedad COVID-19 en Chile, modificado por "]
 ---
-
-
 
 ADMINISTRATIVO
 

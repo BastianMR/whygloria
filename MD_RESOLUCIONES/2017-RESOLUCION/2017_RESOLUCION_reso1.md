@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2017)"
 description: "DELEGA FACULTADES QUE INDICA."
 tags: [SII, 2017, resolucion]
+materia: "## DELEGA FACULTADES QUE INDICA."
+fecha: "2017-01-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "artículo 41° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, las necesidades del Servicio"]
 ---
-
-
 
 ## DELEGA FACULTADES QUE INDICA.
 

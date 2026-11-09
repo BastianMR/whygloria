@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2024)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2024, resolucion]
+materia: "DESIGNA SECRETARIA TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCION EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE LA SERENA"
+fecha: "2024-09-05"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 

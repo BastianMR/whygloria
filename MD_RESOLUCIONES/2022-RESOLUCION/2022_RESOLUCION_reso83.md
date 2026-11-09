@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 tags: [SII, 2022, resolucion]
+materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
+fecha: "2022-09-07"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, Hacienda", "las Resoluciones Exentas SII N°s 16 y 18, de 11 de julio de 2002 y 29 de agosto de 2002, respectivamente", "el artículo 12º, letra a), del Decreto Ley Nº 3.063, de 1979, sobre Rentas Municipales"]
 ---
-
-
 
 ## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022.
 

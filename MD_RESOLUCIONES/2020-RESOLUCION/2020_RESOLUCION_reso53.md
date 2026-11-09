@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2020)"
 description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926."
 tags: [SII, 2020, resolucion]
+materia: "AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926."
+fecha: "2020-05-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en el artículo 1° del D.L", "Resolución Exenta SII N°111 de 2019"]
 ---
-
-
 
 MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS 1847, 1913 Y 1926.
 

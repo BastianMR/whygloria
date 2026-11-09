@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 190 (2025)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN GE00267706"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN DE ADMINISTRACIÓN GE00267706"
+fecha: "2025-12-19"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y en las letras c), h), ñ) y o) del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resoluciones Exentas N° 7.590, de 1999", "y N° 146, de 2020, todas ellas del Servicio de Impuestos Internos, la Resolución N°36, de 2024 de la Contraloría General de la República"]
 ---
 
 Sii

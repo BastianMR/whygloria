@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA ÁREA ASESORÍA JURÍDICA N° 1 GE 293471"
 tags: [SII, 2025, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA ÁREA ASESORÍA JURÍDICA N° 1 GE 293471"
+fecha: "2025-03-06"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el N° 1, de la letra A, del artículo 6° del Código Tributario, en el artículo 54 del Párrafo IV del Título V del artículo vigésimo tercero de la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020, modificado por la L"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA ÁREA ASESORÍA JURÍDICA N° 1 GE 293471

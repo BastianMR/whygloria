@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2023)"
 description: "INSTRUYE OBLIGACIÓN DE PRESENTAR FORMULARIO N°1956 DECLARACIÓN JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIM..."
 tags: [SII, 2023, resolucion]
+materia: "INSTRUYE OBLIGACIÓN DE PRESENTAR FORMULARIO N°1956 DECLARACIÓN JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO, AL MINISTERIO DE HACIENDA Y A LA SECRETARIA TÉCNICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 118 DE 2014."
+fecha: "2023-08-31"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6° letra A N° 1, 33 bis, 60 y 87 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 5° y 8° de la Ley N° 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 21.440, que crea un régimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro", "en la Ley N° 20.444, que crea el Fondo de Reconstrucción y establece mecanismos de incentivo tributario a las donaciones efectuadas en caso de catástrofe y en la Ley N° 20.675, publicada en el Diario Oficial de fecha de 05.06.2013, que sustituye el artículo 8 de la Ley N°18.985, que aprueba la Ley s"]
 ---
-
-
 
 INSTRUYE OBLIGACIÓN DE PRESENTAR FORMULARIO N°1956 DECLARACIÓN JURADA ANUAL, SOBRE DONACIONES INFORMADAS AL MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO, AL MINISTERIO DE HACIENDA Y A LA SECRETARIA TÉCNICA. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 118 DE 2014.
 

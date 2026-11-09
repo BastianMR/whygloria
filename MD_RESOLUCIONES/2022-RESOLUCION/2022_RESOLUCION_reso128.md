@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2022)"
 description: "ESTABLECE FORMA DE DECLARACIÓN Y PAGO DE LOS IMPUESTOS ESTABLECIDOS EN EL DECRETO LEY Nº 3475 DE 1980 SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DEJA SIN EFECT..."
 tags: [SII, 2022, resolucion]
+materia: "ESTABLECE FORMA DE DECLARACIÓN Y PAGO DE LOS IMPUESTOS ESTABLECIDOS EN EL DECRETO LEY Nº 3475 DE 1980 SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DEJA SIN EFECTO RESOLUCIÓN EXENTA Nº 2824 DE 1994."
+fecha: "2022-12-29"
+exenta: true
+impuestos: ["timbres"]
+formularios: ["F24"]
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A Nº 1 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en los artículos 17 y 18 del Decreto Ley Nº 3475 de 1980 sobre Impuesto de Timbres y Estampillas", "las instrucciones impartidas en la Resolución Exenta SII Nº 2824 de 1994"]
 ---
-
-
 
 ESTABLECE FORMA DE DECLARACIÓN Y PAGO DE LOS IMPUESTOS ESTABLECIDOS EN EL DECRETO LEY Nº 3475 DE 1980 SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS. DEJA SIN EFECTO RESOLUCIÓN EXENTA Nº 2824 DE 1994.
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2021)"
 description: "MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos."
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos."
+fecha: "2021-07-09"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Decreto N°1118, de 1985 del Ministerio de Justicia que concede la personalidad jurídica a CIREN."]
 ---
-
-
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Centro de Información de Recursos Naturales y el Servicio de Impuestos Internos.
 

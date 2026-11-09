@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LA PROVINCIA DE LLANQUIHUE Y LA COMUNA DE PUERTO OCTAY."
+fecha: "2015-04-30"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 54 de la Ley Sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

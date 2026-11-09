@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Subsecretaría de Transportes y el Servicio de Impuestos Internos."
+fecha: "2020-08-05"
+exenta: true
+impuestos: []
+formularios: ["DJ1879", "DJ1887", "F29"]
+regimen: ["renta-presunta"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

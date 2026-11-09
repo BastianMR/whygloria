@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2013)"
 description: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL"
 tags: [SII, 2013, resolucion]
+materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL"
+fecha: "2013-12-27"
+exenta: true
+impuestos: ["territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en la Ley N°20.455, la Ley N°20.650, los Artículos 2°, 3° y 4° de la Ley N° 17.235, sobre Impuesto Territorial"]
 ---
-
-
 
 de 2014.
 

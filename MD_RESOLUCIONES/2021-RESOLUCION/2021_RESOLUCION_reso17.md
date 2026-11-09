@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+materia: "CORRIGE ERRORES DE TRANSCRIPCIÓN DE LA RESOLUCIÓN EXENTA SII N° 58 DE 2020"
+fecha: "2021-02-18"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6 letra A) N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de 1980", "en el inciso final del artículo 81 de la Ley N° 18.046", "en el artículo 179 de la Ley 18.045", "en el artículo 62 de la Ley N° 19.880 de 2003", "en la Ley N° 21.210", "en la Resolución Exenta SII N° 80 y 81 ambas de 2017", "y en la Resolución Exenta SII N° 58 de 2020."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO
 

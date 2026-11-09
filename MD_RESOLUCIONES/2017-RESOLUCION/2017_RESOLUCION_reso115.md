@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A EMPRESAS ORGANIZADORAS O PRODUCTORAS DE ESPECTACULOS PUBLICOS PARA EMITIR POR MEDIO DE MANDATARIOS, LAS BOLETAS DE SERVICIOS CORRESPONDIENTES A LAS VENTAS DE ENTRADAS PARA EL INGRESO A ESPECTÁCULOS PÚBLICOS Y REUNIONE"
+fecha: "2017-11-28"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 41 del D.F.L", "en las letras a), b) c) y j) del artículo 7º y 42, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A) Nº 3 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974", "y los artículos 55 y 56 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el Decreto Ley N° 825, de 1974", "y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "y las Resoluciones Exentas SII N° 5028, del 28.08.1998"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE
 

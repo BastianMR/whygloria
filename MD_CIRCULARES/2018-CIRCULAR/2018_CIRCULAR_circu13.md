@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 13 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 13 03-2018 SN 40-2018 ID |"
 tags: [SII, 2018, circular]
+materia: "Modifica parcialmente las instrucciones contenidas en la letra (B), del II.2.- del apartado II, de la Circular N°48 de 2016, relativas al plazo para la inscripción en el Registro de Inversiones en el Extranjero establecido en el N°2, de la letra D.- del artículo 41 A, de la Ley sobre Impuesto a la R"
+fecha: "2018-02-20"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Artículos 41 A, 41 C y 41 G de la Ley sobre Impuesto a la Renta (LIR)."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 13 03-2018 SN 40-2018 ID** |
 | --- | --- |

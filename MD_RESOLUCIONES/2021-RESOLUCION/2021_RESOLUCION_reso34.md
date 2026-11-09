@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+materia: "Aprueba Convenio Intercambio de Información y Colaboración entre el Contraloría General de la República y el Servicio de Impuestos Internos."
+fecha: "2021-03-31"
+exenta: true
+impuestos: ["iva", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "los artículos 9º y 151º la ley N° 10.336, de Organización y Atribuciones de la Contraloría General de la República", "el artículo 10º de la Ley N°20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses, y su reglamento aprobado mediante decreto N° 2, de 2016, del Ministerio Secretaría General de la Presidencia", "y el artículo 35 del Código Tributario contenido en el Decreto Ley Nº 830, del Ministerio de Hacienda."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

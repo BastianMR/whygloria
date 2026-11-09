@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "AUTORIZA EMISION EN PAPEL DE DOCUMENTOS TRIBUTARIOS QUE DEBAN SER EMITIDOS EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
+fecha: "2014-11-12"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial del 12 de abril de 2002", "el artículo 2° de la Ley N° 20.416, que fija Normas Especiales para las Empresas de Menor Tamaño", "las instrucciones impartidas mediante Resoluciones Ex"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+fecha: "2021-04-14"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) N° 3 letra (k), en el artículo 14 letra D N° 8 letra (a) número viii, en el artículo 42 N° 1 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 19.728", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "lo establecido en los artículos 1, 4 y 6 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media", "y, las instrucciones impartidas en la Resolución Ex"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL
 

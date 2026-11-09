@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+materia: "MODIFICA RESOLUCIÓN EX. SII N°45, DE 01.09.2003, QUE ESTABLECE NORMAS Y PROCEDIMIENTOS DE OPERACIÓN RESPECTO DE LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS, Y RESOLUCIÓN EX. SII N°93, DE 02.08.2006, QUE COMPLEMENTA RES. EX. SII N° 45, DE 2003."
+fecha: "2014-08-22"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "lo establecido en las Leyes N° 19.799 y N° 19.983", "en el Art. 4° bis del D.F.L", "Ley 20.727 de 2014, de Factura Electrónica", "en las Resoluciones Exentas SII N° 09, de 2001"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES
 

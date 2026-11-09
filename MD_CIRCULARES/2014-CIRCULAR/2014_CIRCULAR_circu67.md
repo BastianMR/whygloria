@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 67 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA | CIRCULAR N° 67.- |"
 tags: [SII, 2014, circular]
+materia: "Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 20 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974."
+fecha: "2014-12-24"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Código Tributario, Artículo 97 N°20", "Ley N°20.780, Artículo 10, N° 25, letra b)."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA** | **CIRCULAR N° 67.-** |
 | --- | --- |

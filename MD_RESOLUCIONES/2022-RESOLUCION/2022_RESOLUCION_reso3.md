@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2022, resolucion]
+materia: "Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y el Ministerio de Desarrollo Social y Familia."
+fecha: "2022-01-11"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada y la Ley N° 20.530, que crea el Ministerio de Desarrollo Social y Familia."]
 ---
-
-
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS
 

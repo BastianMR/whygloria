@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 31 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº31.- GE00312320 |"
 tags: [SII, 2025, circular]
+materia: "Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por las Leyes N° 21.713 y N° 21.716, en materia de medidas antielusión. Deja sin efecto la Circular N° 65 de 2015."
+fecha: "2025-04-17"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Ley N° 21.713, Artículos primero y Ley N° 21.716, Artículo único", "Código Tributario, artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 160 bis, del Código Tributario."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº31.- GE00312320** |
 | --- | --- |

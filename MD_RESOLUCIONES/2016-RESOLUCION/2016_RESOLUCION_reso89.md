@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2016, resolucion]
+materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y CENTRO DE CONOCIMIENTO TRIBUTARIO CCT CHILE SpA"
+fecha: "2016-08-31"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 1600/2008 de la Contraloría General de la República."]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS
 

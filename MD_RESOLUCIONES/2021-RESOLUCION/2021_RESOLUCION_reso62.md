@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2021)"
 description: "FIJA FORMATO, PROCEDIMIENTO Y FECHA PARA ENVÍO DE INFORMACIÓN PARA EFECTOS DEL BONO ALIVIO, QUE DEBEN ENTREGAR LAS MUNICIPALIDADES DEL PAÍS AL SERVICIO DE IM..."
 tags: [SII, 2021, resolucion]
+materia: "FIJA FORMATO, PROCEDIMIENTO Y FECHA PARA ENVÍO DE INFORMACIÓN PARA EFECTOS DEL BONO ALIVIO, QUE DEBEN ENTREGAR LAS MUNICIPALIDADES DEL PAÍS AL SERVICIO DE IMPUESTOS INTERNOS CONFORME A LA LEY N° 21.354, A TRAVÉS DE LA PLATAFORMA WEB DEL SII."
+fecha: "2021-06-22"
+exenta: true
+impuestos: ["patente-municipal"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1, y 80 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 8 y 11 de la Ley N°21.354, de fecha 17.06.2021, que 'Otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la enfermedad Covid-19'."]
 ---
-
-
 
 FIJA FORMATO, PROCEDIMIENTO Y FECHA PARA ENVÍO DE INFORMACIÓN PARA EFECTOS DEL BONO ALIVIO, QUE DEBEN ENTREGAR LAS MUNICIPALIDADES DEL PAÍS AL SERVICIO DE IMPUESTOS INTERNOS CONFORME A LA LEY N° 21.354, A TRAVÉS DE LA PLATAFORMA WEB DEL SII.
 

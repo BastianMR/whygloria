@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 54 (2023)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº54.- |"
 tags: [SII, 2023, circular]
+materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS ENERO 2024."
+fecha: "2023-12-20"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº54.-** |
 | --- | --- |

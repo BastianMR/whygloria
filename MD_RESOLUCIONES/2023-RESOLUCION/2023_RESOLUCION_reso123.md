@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2023, resolucion]
+materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
+fecha: "2023-10-18"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 ## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA
 

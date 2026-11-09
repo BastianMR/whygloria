@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2023)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO N° 1887 SOBRE RENTAS DEL ART. 42 Nº 1 (SUELDOS), OTROS COMPONENTES DE LA REMUNE..."
 tags: [SII, 2023, resolucion]
+materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO N° 1887 SOBRE RENTAS DEL ART. 42 Nº 1 (SUELDOS), OTROS COMPONENTES DE LA REMUNERACIÓN Y RETENCIONES DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA DE LA LEY DE LA RENTA.MODIFICA RESOLUCIÓN EXENTA N° 70 DEL 31.08.2022."
+fecha: "2023-08-31"
+exenta: true
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, 33 bis, 35 y 60 del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "la Ley N° 21.561, publicada en el Diario Oficial de fecha 26.04.2023", "el artículo 22 del Código del Trabajo", "lo establecido en la Ley N° 19.799", "el Decreto Supremo Nº 375 de 1969, del Ministerio del Trabajo y Previsión Social, y las instrucciones impartidas en la Resolución Exenta SII N°6836 de 1993 y sus posteriores modificaciones", "Resolución Exenta N° 70 del 31.08.2022"]
 ---
-
-
 
 REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO N° 1887 SOBRE RENTAS DEL ART. 42 Nº 1 (SUELDOS), OTROS COMPONENTES DE LA REMUNERACIÓN Y RETENCIONES DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA DE LA LEY DE LA RENTA.MODIFICA RESOLUCIÓN EXENTA N° 70 DEL 31.08.2022.
 

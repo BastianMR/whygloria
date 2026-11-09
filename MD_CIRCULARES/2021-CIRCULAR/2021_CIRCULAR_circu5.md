@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 5 (2021)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº5.- |"
 tags: [SII, 2021, circular]
+materia: "TABLADECÁLCULOS DEREAJUSTES, INTERESES YMULTAS FEBRERO 2021."
+fecha: "2021-01-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN** | **CIRCULAR Nº5.-** |
 | --- | --- | --- |

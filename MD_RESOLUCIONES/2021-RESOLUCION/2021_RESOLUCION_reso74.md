@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE00183263"
 tags: [SII, 2021, resolucion]
+materia: "## SUBDIRECCIÓN DE AVALUACIONES GE00183263"
+fecha: "2021-07-02"
+exenta: true
+impuestos: ["renta", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) número 1 y 68, del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "los artículos 7 bis, 16 y 28 de la Ley N°17.235, sobre Impuesto Territorial", "y en las Circulares N° 31, del 2007"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE00183263
 

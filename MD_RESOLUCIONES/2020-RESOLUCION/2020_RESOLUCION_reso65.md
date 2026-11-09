@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+materia: "EXIME TEMPORALMENTE DE TRÁMITE DE LEGALIZACIÓN Y APOSTILLAS EN LOS DOCUMENTOS EXIGIDOS EN LA INSCRIPCIÓN O ACTUALIZACIÓN DE REGISTRO VOLUNTARIO DE INSTITUCIONES FINANCIERAS EXTRANJERAS E INTERNACIONALES, PARA EFECTOS DE LO PREVISTO EN EL ARTÍCULO 59 N° 1, LETRA b), DE LA LEY SOBRE IMPUESTO A LA RENT"
+fecha: "2020-06-25"
+exenta: true
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N°1 del Código Tributario y, en el artículo 59 número 1 letra b) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL N° 824, de 1974", "el Decreto N° 104, de fecha 18 de marzo de 2020 que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile', complementado por el Decreto N° 107 de la misma repartición, de fecha 20 de marzo de 2020 que 'Declara como zonas afectadas por catástrofe", "y el Decreto Nº 269, de 12 de junio de 2020, del Ministerio del Interior y Seguridad Pública, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indica'"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 10 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°10.- 238104.2023 GE |"
 tags: [SII, 2023, circular]
+materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34, N° 2, letra c), de la Ley sobre Impuesto a la Renta."
+fecha: "2023-02-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: ["Artículos 23, 34 N° 2 letra c) y 74 N° 6 de la Ley sobre Impuesto a la Renta", "Decreto Exento N° 31, de 1 de febrero de 2023, del Ministerio de Hacienda, publicado en el Diario Oficial de 14 de febrero de 2023", "y Resolución Exenta N° 16, de 16 de febrero de 2023, del Servicio de Impuestos Internos, publicada en el Diario Oficial de 21 de febrero de 2023."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa** | **CIRCULAR N°10.- 238104.2023 GE** |
 | --- | --- |

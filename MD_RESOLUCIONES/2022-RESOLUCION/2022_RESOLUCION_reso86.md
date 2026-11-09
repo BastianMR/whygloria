@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 222418"
 tags: [SII, 2022, resolucion]
+materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 222418"
+fecha: "2022-09-12"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 3° y artículo 7°, letras c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución Exenta N°98/2014, que Crea el Departamento Subdirección de Asistencia al Contribuyente y Establece Funciones y Ámbito de Competencia de las Unidades que lo conforman y sus sucesivas modificaciones establecidas por la Resolución Ex", "la Resolución N°6, de 2019 de la Contraloría General de la República"]
 ---
-
-
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 222418
 

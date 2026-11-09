@@ -3,6 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2025)"
 description: "FIJA FORMA DE SOLICITAR EJERCICIO DE LA FACULTAD CONTENIDA EN EL INCISO QUINTO DEL ARTÍCULO 20 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 tags: [SII, 2025, resolucion]
+materia: "FIJA FORMA DE SOLICITAR EJERCICIO DE LA FACULTAD CONTENIDA EN EL INCISO QUINTO DEL ARTÍCULO 20 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
+fecha: "2025-03-27"
+exenta: true
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Lo dispuesto en el artículo 6, letra A), N°1 del Código Tributario, contenido en el artículo 1 del Decreto Ley N° 830, del Ministerio de Hacienda, de 1974", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "el artículo 20 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "la Ley N° 21.713", "y la Circular N° 12 de 2025"]
 ---
 
 FIJA FORMA DE SOLICITAR EJERCICIO DE LA FACULTAD CONTENIDA EN EL INCISO QUINTO DEL ARTÍCULO 20 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.

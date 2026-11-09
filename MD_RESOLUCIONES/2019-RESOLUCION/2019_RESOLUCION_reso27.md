@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA 004-2019 OGN"
 tags: [SII, 2019, resolucion]
+materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN."
+fecha: "2019-02-19"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["La facultad que me confiere el N° 1, de la letra A, del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el inciso tercero del artículo 23 y en el inciso cuarto, de la letra c), del N° 2 del artículo 34, ambos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
 ---
-
-
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA OFICINA DE GESTIÓN NORMATIVA 004-2019 OGN
 

@@ -3,9 +3,14 @@ type: "SII Circular"
 title: "Circular N° 62 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 62.- |"
 tags: [SII, 2016, circular]
+materia: "Imparte instrucciones sobre imputación o devolución de impuestos contenidos en los títulos II y III, del D.L. N° 825, establecida en el nuevo artículo 27 ter, del D.L. N° 825, incorporado a dicho texto legal por el artículo 393, de la Ley N° 20.720, y sobre las disposiciones de dicha Ley que inciden"
+fecha: "2016-10-18"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["Art. 27 ter, D.L", "Art. 2 y 31 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974, y Arts. 93, 255, 268 y 393, de la Ley N° 20.720."]
 ---
-
-
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 62.-** |
 | --- | --- |

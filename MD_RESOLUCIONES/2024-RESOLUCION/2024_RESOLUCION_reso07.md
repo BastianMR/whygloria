@@ -3,9 +3,14 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2024)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2024, resolucion]
+materia: "DESIGNA SECRETARIOS, TITULAR Y SUPLENTES, EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE VALPARAÍSO."
+fecha: "2024-01-10"
+exenta: true
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
 ---
-
-
 
 <unknown>
 
