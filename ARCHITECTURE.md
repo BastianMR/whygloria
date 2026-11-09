@@ -122,6 +122,22 @@ number twice in the same year), so today it is zero; the 215 unresolved targets
 are listed in the report and in `relaciones.json`, and they are the honest
 "repealed from outside the corpus" set.
 
+## Derived series
+
+The annual circulares also publish the numeric tables a tax corpus is actually
+asked about: UTM, UTA, IPC, the segunda categoría brackets and the daily UF.
+`scripts/series.py` extracts them into `series/*.csv`, one row per (series,
+period) with the document each value came from. UTM is complete for 2013-2026
+and matches the SII table value by value; IPC covers 2012-2025 and only its
+monthly variation is comparable across base changes. The segunda categoría
+brackets were attempted and discarded: the two legal tables share a header shape
+and fragments invent law changes.
+
+The artifact lives in this repository because it is generated from it, never
+hand-edited, and CI fails if it drifts: `python scripts/series.py` then
+`git diff --exit-code`. It is explicitly not authoritative — the circular is —
+and `series/README.md` carries the extraction rules and the remaining gaps.
+
 ## How to work with it
 
 ### Reading

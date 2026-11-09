@@ -1,0 +1,22 @@
+{
+  "artifact": "series/utm.csv, series/ipc.csv",
+  "authoritative": false,
+  "derived": true,
+  "documents_scanned": 2904,
+  "ipc": {
+    "first_period": "2012-12",
+    "last_period": "2025-11",
+    "rows": 156,
+    "rows_without_variation": 0
+  },
+  "note": "Regenerable from MD_* with scripts/series.py. The circular is the authority, not this file.",
+  "utm": {
+    "conflicting_reprints": 0,
+    "first_period": "2013-01",
+    "last_period": "2026-11",
+    "newest_source_year": 2026,
+    "rows": 167,
+    "rows_dropped_out_of_range": 33,
+    "uta_cell_mismatch": 85
+  }
+}

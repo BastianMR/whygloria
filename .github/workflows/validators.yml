@@ -19,5 +19,7 @@ jobs:
         run: python scripts/check_duplicates.py
       - name: Supersession graph is up to date
         run: python scripts/sii_pdfs.py --vigencia
+      - name: Derived series are up to date
+        run: python scripts/series.py
       - name: Nothing was left uncommitted by the rebuild
         run: git diff --exit-code
