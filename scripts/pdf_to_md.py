@@ -27,7 +27,7 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import check_okf
-from sii_pdfs import NUMBER_RE, PREFIX, PROCESSED, RAW, ROOT
+from sii_pdfs import MD, MIRROR, NUMBER_RE, PREFIX, RAW, ROOT
 
 SERVE = "http://127.0.0.1:5001"
 # The SII letterhead arrives as an empty image placeholder; the corpus has none.
@@ -115,27 +115,34 @@ def main() -> int:
         print(f"docling-serve not reachable at {SERVE}: {exc}", file=sys.stderr)
         return 2
 
-    raw_dirs = sorted(p for p in RAW.iterdir() if p.is_dir() and "-" in p.name)
+    sources: dict[str, list[Path]] = {}
+    for root in (RAW, *MIRROR.values()):
+        if not root.exists():
+            continue
+        for folder in root.iterdir():
+            if folder.is_dir() and "-" in folder.name:
+                sources.setdefault(folder.name, []).append(folder)
     if args.years:
-        raw_dirs = [p for p in raw_dirs if int(p.name.split("-")[0]) in args.years]
+        sources = {k: v for k, v in sources.items() if int(k.split("-")[0]) in args.years}
 
     converted = skipped = failed = 0
     touched: set[Path] = set()
     archives: set[str] = set()
 
-    for raw_dir in raw_dirs:
-        year, kind = raw_dir.name.split("-", 1)
-        if kind not in PROCESSED:
+    for name in sorted(sources, key=lambda n: (int(n.split("-")[0]), n)):
+        year, kind = name.split("-", 1)
+        if kind not in MD:
             continue
-        target_dir = ROOT / PROCESSED[kind] / raw_dir.name
+        target_dir = MD[kind] / name
         have = converted_numbers(target_dir)
+        folders = sources[name]
 
-        for pdf in sorted(raw_dir.glob("*.pdf")):
+        for pdf in sorted(p for folder in folders for p in folder.glob("*.pdf")):
             if args.limit and converted >= args.limit:
                 break
             match = NUMBER_RE.search(pdf.name)
             if not match:
-                print(f"no document number in {raw_dir.name}/{pdf.name}", file=sys.stderr)
+                print(f"no document number in {name}/{pdf.name}", file=sys.stderr)
                 failed += 1
                 continue
             number = int(match.group(1))
@@ -148,7 +155,7 @@ def main() -> int:
             try:
                 body = to_markdown(pdf)
             except Exception as exc:
-                print(f"FAILED {raw_dir.name}/{pdf.name}: {exc}", file=sys.stderr)
+                print(f"FAILED {name}/{pdf.name}: {exc}", file=sys.stderr)
                 failed += 1
                 continue
 
@@ -165,7 +172,7 @@ def main() -> int:
                 flush=True,
             )
 
-        for archive in sorted(raw_dir.glob("*.zip")):
+        for archive in sorted(p for folder in folders for p in folder.glob("*.zip")):
             match = NUMBER_RE.search(archive.stem)
             if match and int(match.group(1)) not in have:
                 archives.add(archive.name)
@@ -173,8 +180,8 @@ def main() -> int:
     if not args.no_reindex and touched:
         for folder in sorted(touched):
             reindex(folder)
-        reindex_parent(ROOT / "circulares", "Circulares SII")
-        reindex_parent(ROOT / "resoluciones", "Resoluciones SII")
+        reindex_parent(MD["CIRCULAR"], "Circulares SII")
+        reindex_parent(MD["RESOLUCION"], "Resoluciones SII")
 
     print(f"\nconverted={converted} skipped={skipped} failed={failed}")
     if archives:

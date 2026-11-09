@@ -1,8 +1,6 @@
 __pycache__/
 *.pyc
 
-# Raw PDFs downloaded by scripts/sii_pdfs.py; the repo ships the .md concepts.
-# The README stays tracked: it documents how to tell processed from pending.
-sin-procesar/*
-!sin-procesar/README.md
-
+# Local download inbox, worked on disk only. `--publish` moves the converted
+# files into the tracked PDF_* mirror.
+SIN_PROCESAR/

@@ -15,26 +15,31 @@ and document type for easy lookup and reuse.
 
 ## What's inside
 
-Each document lives in a folder named `<year>-<TYPE>` (e.g. `2013-CIRCULAR`,
-`2013-RESOLUCION`) and keeps its original filename:
+Two parallel trees, one for the converted markdown and one for the original
+sources, both split by document type and year:
 
 ```
 WhyGloria/
-├── circulares/
+├── MD_CIRCULARES/           markdown concepts
 │   ├── index.md
 │   ├── 2013-CIRCULAR/
 │   └── ...
-└── resoluciones/
-    ├── index.md
-    ├── 2013-RESOLUCION/
-    └── ...
+├── MD_RESOLUCIONES/
+│   ├── index.md
+│   ├── 2013-RESOLUCION/
+│   └── ...
+├── PDF_CIRCULARES/          source PDFs, as SII publishes them
+│   ├── index.md
+│   ├── 2013-CIRCULAR/
+│   └── ...
+├── PDF_RESOLUCIONES/
+│   └── 2013-RESOLUCION/
+└── SIN_PROCESAR/            local download inbox (not tracked)
 ```
 
-Concretely: `circulares/<year>-CIRCULAR/` and `resoluciones/<year>-RESOLUCION/`,
-each document keeping its original filename.
-
 Each document is an OKF markdown concept (`.md`) with frontmatter (`type`,
-`title`, `description`, `tags`), converted from the original SII `.docx`.
+`title`, `description`, `tags`), converted from the SII PDF of the same document
+number.
 
 ## Validate
 
@@ -44,21 +49,22 @@ python scripts/check_okf.py --fix   # repair in place
 python scripts/check_duplicates.py  # detect duplicate content
 ```
 
-## Download the source PDFs
+## Pipeline
 
-`scripts/sii_pdfs.py` reads the yearly SII indexes and mirrors the original PDFs
-into `sin-procesar/<year>-<TYPE>/` (gitignored), which is the staging area for
-converting new documents to `.md`.
+`scripts/sii_pdfs.py` reads the yearly SII indexes, downloads into the local
+`SIN_PROCESAR/` inbox, and publishes the converted files into the tracked
+`PDF_<TYPE>/` tree. `scripts/pdf_to_md.py` turns each PDF into a concept.
 
 ```bash
-python scripts/sii_pdfs.py --check                # verification table
-python scripts/sii_pdfs.py --check --list-missing # name every missing file
-python scripts/sii_pdfs.py --download             # fetch only what's missing
-python scripts/sii_pdfs.py --pending              # PDFs not yet converted to .md
+python scripts/sii_pdfs.py --check     # mirror integrity
+python scripts/sii_pdfs.py --download  # fetch only what is missing
+python scripts/sii_pdfs.py --pending   # sources with no concept
+python scripts/sii_pdfs.py --publish   # move converted sources into PDF_<TYPE>/
+python scripts/pdf_to_md.py            # convert pending sources
 ```
 
-See [`sin-procesar/README.md`](./sin-procesar/README.md) for how a source PDF maps
-to a concept file, what is still pending, and how the conversion to `.md` works.
+The ordered procedure, the source-to-concept matching rule and the known naming
+quirks live in [`CHECKLIST.md`](./CHECKLIST.md).
 
 ## Purpose
 

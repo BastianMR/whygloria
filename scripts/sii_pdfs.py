@@ -2,19 +2,25 @@
 """Mirror the PDFs linked from the SII yearly circulares / resoluciones indexes.
 
 Check mode (default) prints, per year and document type, how many documents SII
-publishes, how many are already downloaded into `sin-procesar/`, how many are
-already processed as `*.md`, and which files are missing. Exits 1 when anything
-is missing, so it doubles as the verification gate before and after a download.
+publishes, how many are already downloaded, how many are already converted to
+`.md`, and which files are missing. Exits 1 when anything is missing, so it
+doubles as the verification gate before and after a download.
 
 Download mode fetches only the missing files. Each one is written to a `.part`
 file and renamed only after the bytes look complete, so an interrupted run never
 leaves a truncated file that later looks done.
+
+Downloads land in the gitignored `SIN_PROCESAR/` inbox. `--publish` moves the
+already converted ones into the versioned `PDF_<TYPE>/` mirror.
 
 Usage:
     python scripts/sii_pdfs.py --check
     python scripts/sii_pdfs.py --check --list-missing
     python scripts/sii_pdfs.py --download
     python scripts/sii_pdfs.py --download --years 2024 2025
+    python scripts/sii_pdfs.py --pending
+    python scripts/sii_pdfs.py --unpack
+    python scripts/sii_pdfs.py --publish
 """
 
 from __future__ import annotations
@@ -32,13 +38,14 @@ from urllib.parse import unquote, urljoin, urlsplit
 import requests
 
 ROOT = Path(__file__).resolve().parents[1]
-RAW = ROOT / "sin-procesar"
+RAW = ROOT / "SIN_PROCESAR"
+MD = {"CIRCULAR": ROOT / "MD_CIRCULARES", "RESOLUCION": ROOT / "MD_RESOLUCIONES"}
+MIRROR = {"CIRCULAR": ROOT / "PDF_CIRCULARES", "RESOLUCION": ROOT / "PDF_RESOLUCIONES"}
 BASE = "https://www.sii.cl/normativa_legislacion"
 INDEX = {
     "CIRCULAR": BASE + "/circulares/{year}/indcir{year}.htm",
     "RESOLUCION": BASE + "/resoluciones/{year}/res_ind{year}.htm",
 }
-PROCESSED = {"CIRCULAR": "circulares", "RESOLUCION": "resoluciones"}
 PREFIX = {"CIRCULAR": "circu", "RESOLUCION": "reso"}
 CIRCULAR_MEMBER_RE = re.compile(r"^(?:circu|cir_|circular|reso)", re.IGNORECASE)
 FIRST_YEAR = 2013
@@ -63,8 +70,25 @@ def index_links(session: requests.Session, kind: str, year: int) -> dict[str, st
 
 
 def already_processed(kind: str, year: int) -> int:
-    folder = ROOT / PROCESSED[kind] / f"{year}-{kind}"
+    folder = MD[kind] / f"{year}-{kind}"
     return len([p for p in folder.glob("*.md") if p.name != "index.md"])
+
+
+def source_dirs(kind: str, year: int) -> list[Path]:
+    """A source can sit in the local inbox or in the published PDF mirror."""
+    return [root / f"{year}-{kind}" for root in (RAW, MIRROR[kind])]
+
+
+def source_numbers(kind: str, year: int) -> set[int]:
+    found: set[int] = set()
+    for folder in source_dirs(kind, year):
+        if folder.exists():
+            found |= numbers(p.name for p in folder.iterdir())
+    return found
+
+
+def has_source(kind: str, year: int, name: str) -> bool:
+    return any((folder / name).exists() for folder in source_dirs(kind, year))
 
 
 def numbers(names) -> set[int]:
@@ -142,12 +166,11 @@ def pending(years: list[int]) -> int:
     total = 0
     for year in years:
         for kind in INDEX:
-            raw_dir = RAW / f"{year}-{kind}"
-            if not raw_dir.exists():
-                continue
-            doc_dir = ROOT / PROCESSED[kind] / f"{year}-{kind}"
+            doc_dir = MD[kind] / f"{year}-{kind}"
             done = numbers(p.name for p in doc_dir.glob("*.md") if p.name != "index.md")
-            expected = numbers(p.name for p in raw_dir.iterdir())
+            expected = source_numbers(kind, year)
+            if not expected and not done:
+                continue
             absent = sorted(expected - done)
             extra = sorted(done - expected)
             total += len(absent)
@@ -158,6 +181,67 @@ def pending(years: list[int]) -> int:
                 print(f"  md without pdf: {summarize(extra)}")
     print(f"\npending conversion: {total}")
     return 1 if total else 0
+
+
+def number_key(path: Path) -> tuple[int, str]:
+    match = NUMBER_RE.search(path.name)
+    return (int(match.group(1)) if match else 10**6, path.name)
+
+
+def write_if_changed(path: Path, text: str) -> None:
+    if path.exists() and path.read_text(encoding="utf-8") == text:
+        return
+    path.write_text(text, encoding="utf-8", newline="\n")
+
+
+def reindex_files(folder: Path) -> None:
+    entries = sorted(
+        (p for p in folder.iterdir() if p.is_file() and p.name != "index.md"), key=number_key
+    )
+    lines = [f"# {folder.name}", ""] + [f"* [{p.name}](./{p.name})" for p in entries]
+    write_if_changed(folder / "index.md", "\n".join(lines) + "\n")
+
+
+def reindex_mirror(kind: str) -> None:
+    root = MIRROR[kind]
+    if not root.exists():
+        return
+    lines = [f"# {root.name}", ""]
+    for child in sorted(d for d in root.iterdir() if d.is_dir()):
+        year, label = child.name.split("-", 1)
+        noun = "Circulares" if label == "CIRCULAR" else "Resoluciones"
+        lines.append(f"* [{child.name}]({child.name}/) - {noun} SII {year}")
+    write_if_changed(root / "index.md", "\n".join(lines) + "\n")
+
+
+def publish(years: list[int]) -> int:
+    """Move converted sources from the local inbox into the versioned PDF mirror."""
+    moved = 0
+    for year in years:
+        for kind in INDEX:
+            inbox = RAW / f"{year}-{kind}"
+            if not inbox.exists():
+                continue
+            doc_dir = MD[kind] / f"{year}-{kind}"
+            done = numbers(p.name for p in doc_dir.glob("*.md") if p.name != "index.md")
+            target = MIRROR[kind] / f"{year}-{kind}"
+            for source in sorted(inbox.iterdir()):
+                if not source.is_file() or source.suffix == ".part":
+                    continue
+                match = NUMBER_RE.search(source.name)
+                if not match or int(match.group(1)) not in done:
+                    continue
+                target.mkdir(parents=True, exist_ok=True)
+                destination = target / source.name
+                destination.unlink(missing_ok=True)
+                shutil.move(str(source), str(destination))
+                moved += 1
+            if target.exists():
+                reindex_files(target)
+    for kind in INDEX:
+        reindex_mirror(kind)
+    print(f"\npublished {moved}")
+    return 0
 
 
 def download(session: requests.Session, url: str, dest: Path, attempts: int = 3) -> None:
@@ -208,6 +292,7 @@ def main() -> int:
     parser.add_argument("--check", action="store_true", help="report only (default)")
     parser.add_argument("--pending", action="store_true", help="list documents with a PDF but no .md")
     parser.add_argument("--unpack", action="store_true", help="extract the circular from .zip archives")
+    parser.add_argument("--publish", action="store_true", help="move converted sources to the PDF mirror")
     parser.add_argument("--list-missing", action="store_true", help="name every missing file")
     parser.add_argument("--years", type=int, nargs="+", help=f"default {FIRST_YEAR}..current")
     args = parser.parse_args()
@@ -217,6 +302,8 @@ def main() -> int:
         return pending(years)
     if args.unpack:
         return unpack(years)
+    if args.publish:
+        return publish(years)
 
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -238,7 +325,7 @@ def main() -> int:
 
             folder = RAW / f"{year}-{kind}"
             absent = {
-                name: url for name, url in links.items() if not (folder / name).exists()
+                name: url for name, url in links.items() if not has_source(kind, year, name)
             }
             missing[kind + str(year)] = absent
 
@@ -253,7 +340,7 @@ def main() -> int:
                         print(f"  FAILED {exc}", file=sys.stderr)
                     time.sleep(0.5)
 
-            still = [name for name in absent if not (folder / name).exists()]
+            still = [name for name in absent if not has_source(kind, year, name)]
             rows.append(
                 (
                     year,
