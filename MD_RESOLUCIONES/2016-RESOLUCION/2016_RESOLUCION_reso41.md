@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva", "contribuciones"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 3 de la Ley sobre Impuesto a las Ventas y Servicios", "contenida en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en las resoluciones indicadas en el cuadro del"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el artículo 3 de la Ley sobre Impuesto a las Ventas y Servicios", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en las resoluciones indicadas en el cuadro del"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

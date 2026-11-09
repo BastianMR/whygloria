@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 88 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 2°, 3°, 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "lo establecido en la Ley N° 20.727, que 'Introduce Modificaciones a la Legislación Tributaria en materia de Factura Electrónica y dispone otras medidas que indica'", "Resolución Exenta N° 39 de 27.03.2008, modificada por Resoluciones Exentas SII N° 102, de 04.11.2014 y N° 55, de fecha 17.06.2016"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1), 88 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 2°, 3°, 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

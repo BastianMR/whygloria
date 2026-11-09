@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337"
+materia: "EXIME A PROMOTORA CMR FALABELLA S.A. DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ART. 17 INCISO 2° DEL D.L. N° 3475 DE 1980 Y FIJA REQUISITOS EN SU REEMPLAZO."
 fecha: "2016-04-06"
 exenta: true
 impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "y los artículos 1°, N° 3, 17 inciso 2° y 18, del D.L"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980, de 1974", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y los artículos 1°, N° 3, 17 inciso 2° y 18, del D.L N° 3.475, de 1980, sobre Impuesto de Timbres y Estampillas."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337

@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2020)"
 description: "RECTIFICA LISTA ANEXA DE LA RESOLUCION EX. SII N° 3, DE 2020."
 tags: [SII, 2020, resolucion]
-materia: "## RECTIFICA LISTA ANEXA DE LA RESOLUCION EX. SII N° 3, DE 2020."
+materia: "RECTIFICA LISTA ANEXA DE LA RESOLUCION EX. SII N° 3, DE 2020."
 fecha: "2020-05-27"
 exenta: true
 impuestos: []

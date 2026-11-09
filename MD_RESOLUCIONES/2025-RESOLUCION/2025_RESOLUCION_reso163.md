@@ -5,7 +5,7 @@ description: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REE
 tags: [SII, 2025, resolucion]
 materia: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2025-11-19"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

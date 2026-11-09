@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 227547"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 227547"
+materia: "APRUEBA POLÍTICA INSTITUCIONAL DE IGUALDAD DE GÉNERO Y CONCILIACIÓN DE LA VIDA LABORAL, FAMILIAR Y PERSONAL DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2023-03-08"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7°, letras c) y i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "los Decretos Supremos N°789, de 1989, que promulgó la 'Convención sobre la eliminación de todas las formas de discriminación contra la mujer adoptada por la Asamblea General de las naciones Unidas el 18 de diciembre de 1979' y N°1640, de 1998, que 'Promulga la 'Convención Interamericana para preveni", "la Resolución N°6, de 2019 de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c) y i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, de Hacienda", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Resolución N°6, de 2019 de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 227547

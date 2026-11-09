@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Circular 54, de 2012"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 07.-** |

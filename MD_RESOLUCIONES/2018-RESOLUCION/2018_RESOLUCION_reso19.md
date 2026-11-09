@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 47 - SDAC - 2018"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 47 - SDAC - 2018"
+materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL SIGUIENTE ORGANISMO PÚBLICO:"
 fecha: "2018-02-22"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "las Resolución Exenta N° 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017", "y Resolución Exenta N° 72, del 21.08.2015 delegatoria"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el artículo 1° del D.L Nº 830, de 1974", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L Nº 825, de 1974", "las Resolución Exenta N° 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017", "y Resolución Exenta N° 72, del 21.08.2015 delegatoria"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 47 - SDAC - 2018

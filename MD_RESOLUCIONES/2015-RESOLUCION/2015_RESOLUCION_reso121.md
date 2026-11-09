@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y n) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
+ref_legal: ["lo dispuesto en el artículo 3° y en las letras c) y n) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL

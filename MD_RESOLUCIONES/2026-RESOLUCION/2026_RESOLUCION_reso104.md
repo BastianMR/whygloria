@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 fecha: "2026-08-19"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades conferidas en los artículos 6º letra B), N os 3 y 4, 53, 56 inciso final y 106, y lo dispuesto en los artículos 97 y 207 del Código Tributario, contenido en artículo 1º del D.L", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "el artículo 45 del Código Civil", "el Decreto 437 de 30.04. 2025, del Ministerio de Hacienda: Reglamento que establece la Política de Condonaciones de acuerdo a lo previsto en el artículo 207 del Código Tributario, publicado en el Diario Oficial el 18.06.2026", "Circular N° 27 de 2026", "y el Decreto Supremo N°133 de 2026."]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), N os 3 y 4, 53, 56 inciso final y 106, y lo dispuesto en los artículos 97 y 207 del Código Tributario, contenido en artículo 1º del D.L Nº 830, de 1974", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "el artículo 45 del Código Civil", "el Decreto 437 de 30.04. 2025, del Ministerio de Hacienda: Reglamento que establece la Política de Condonaciones de acuerdo a lo previsto en el artículo 207 del Código Tributario, publicado en el Diario Oficial el 18.06.2026", "y el Decreto Supremo N°133 de 2026."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+materia: "CREA REGISTRO DE ASOCIACIONES CULTURALES Y DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 6 DE 2024."
 fecha: "2024-10-10"
 exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]

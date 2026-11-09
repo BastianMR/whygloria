@@ -5,11 +5,11 @@ description: "MATERIA: DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; 
 tags: [SII, 2024, resolucion]
 materia: "DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; CIRCULAR N° 29, DE 10 DE JUNIO DE 1994; RES. EX. SII N° 1124, DE 04 DE MARZO DE 1994; y, RES. EX. SII N° 2509, DE 03 DE JUNIO DE 1994, QUE FIJAN NORMAS SOBRE ENAJENACIÓN DE VEHICULOS MOTORIZADOS DESTINADOS AL TRANSPORTE DE CARGA AJENA O PASAJER"
 fecha: "2024-04-11"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Las facultades que me confieren los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6, letra A), Nº 1, del Código Tributario, contenido en el D.L", "lo establecido en el artículo 34, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en las Circulares N°s 17 de 09.03.1994 y N° 29 de 10.06.1994", "y, en las Resoluciones EX"]
+ref_legal: ["Las facultades que me confieren los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en las Circulares N°s 17 de 09.03.1994 y N° 29 de 10.06.1994"]
 ---
 
 MATERIA: DEJA SIN EFECTO CIRCULAR N° 17, DE 09 DE MARZO DE 1994; CIRCULAR N° 29, DE 10 DE JUNIO DE 1994; RES. EX. SII N° 1124, DE 04 DE MARZO DE 1994; y, RES. EX. SII N° 2509, DE 03 DE JUNIO DE 1994, QUE FIJAN NORMAS SOBRE ENAJENACIÓN DE VEHICULOS MOTORIZADOS DESTINADOS AL TRANSPORTE DE CARGA AJENA O PASAJEROS.

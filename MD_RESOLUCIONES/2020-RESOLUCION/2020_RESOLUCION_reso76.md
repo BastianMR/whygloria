@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "PRORROGA APLICACIÓN DE MEDIDAS TRIBUTARIAS, EN RELACIÓN AL IMPUESTO A LA RENTA, A RAÍZ DE LA CATÁSTROFE GENERADA POR LA PROPAGACIÓN DEL COVID-19 EN CHILE, PARA LOS CONTRIBUYENTES QUE SE INDICAN."
 fecha: "2020-07-08"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 20, 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "artículo segundo de la Ley N° 20.416, que 'Fija Normas Especiales para las Empresas de Menor Tamaño'", "la Ley N° 16.282 que establece disposiciones para casos de catástrofes", "Decreto Supremo N° 104, de 18 de marzo de 2020, que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile', Decreto Supremo N° 269, de 16 de junio de 2020, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamid", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, modificado por Decreto Supremo N° 1.043, publicado en el Diario Oficial de 3 de julio de 2020, ambos del Ministerio de Hacienda, que 'Modifica Decreto Supremo Nº 420, de 30 de marzo de 2020, del Ministerio de Hacienda, estableciendo "]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 20, 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "la Ley N° 16.282 que establece disposiciones para casos de catástrofes", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, modificado por Decreto Supremo N° 1.043, publicado en el Diario Oficial de 3 de julio de 2020, ambos del Ministerio de Hacienda, que 'Modifica Decreto Supremo Nº 420, de 30 de marzo de 2020, del Ministerio de Hacienda, estableciendo "]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

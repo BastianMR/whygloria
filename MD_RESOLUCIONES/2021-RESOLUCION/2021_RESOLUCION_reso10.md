@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2021)"
 description: "ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE A LA OPCIÓN DE RECALCULAR LA TASA DE LOS PAGOS PROVISIONALES A QUE SE REFIERE LA LETRA a) DEL AR..."
 tags: [SII, 2021, resolucion]
-materia: "ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE A LA OPCIÓN DE RECALCULAR LA TASA DE LOS PAGOS PROVISIONALES A QUE SE REFIERE LA LETRA a) DEL ARTICULO 84 DE LA LEY SOBRE IMPUESTO A LA RENTA CONFORME A LA MODIFICACIÓN ESTABLECIDA EN EL N° 52 ARTÍCULO SEGUNDO DE LA LEY N° 21.210 SOBRE MODERNIZACIÓN DE LA LEGISLACIÓN TRIBUTARIA."
+materia: "ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE A LA OPCIÓN DE RECALCULAR LA TASA DE LOS PAGOS PROVISIONALES A QUE SE REFIERE LA LETRA a) DEL ARTICULO 84 DE LA LEY SOBRE IMPUESTO A LA RENTA CONFORME A LA MODIFICACIÓN ESTABLECIDA EN EL N° 52 ARTÍCULO SEGUNDO DE LA LEY N° 21.210 SOBRE MOD"
 fecha: "2021-01-29"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, 21 y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y en el artículo segundo de la Ley N° 21.210 sobre Modernización de la Legislación Tributaria, publicada en el Diario Oficial el 24 de febrero de 2020."]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, 21 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y en el artículo segundo de la Ley N° 21.210 sobre Modernización de la Legislación Tributaria, publicada en el Diario Oficial el 24 de febrero de 2020."]
 ---
 
 ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE A LA OPCIÓN DE RECALCULAR LA TASA DE LOS PAGOS PROVISIONALES A QUE SE REFIERE LA LETRA a) DEL ARTICULO 84 DE LA LEY SOBRE IMPUESTO A LA RENTA CONFORME A LA MODIFICACIÓN ESTABLECIDA EN EL N° 52 ARTÍCULO SEGUNDO DE LA LEY N° 21.210 SOBRE MODERNIZACIÓN DE LA LEGISLACIÓN TRIBUTARIA.

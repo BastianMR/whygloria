@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["1º Lo dispuesto en el artículo 6°, letra B) N°5 del Código Tributario", "el artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "Ley N° 19.880 de 2003", "el artículo 41 H de la Ley sobre Impuesto a la Renta, modificada en lo pertinente por el N° 27 del artículo 1° de la Ley N° 21.713, las Circulares N° 12, de 2015, N° 34, de 2016 y N°11 de 2025"]
+ref_legal: ["el artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 41 H de la Ley sobre Impuesto a la Renta, modificada en lo pertinente por el N° 27 del artículo 1° de la Ley N° 21.713, las Circulares N° 12, de 2015, N° 34, de 2016 y N°11 de 2025"]
 ---
 
 DETERMINA QUE LOS EMIRATOS ÁRABES UNIDOS NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN EL ARTÍCULO 41 H.

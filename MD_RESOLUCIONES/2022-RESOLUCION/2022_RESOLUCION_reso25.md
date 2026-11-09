@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE00201199"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE00201199"
+materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR AUTORIZACIÓN DE MÉTODO DE PRORRATEO O ASIGNACIÓN DE COSTOS, GASTOS Y/O DESEMBOLSOS DE UTILIZACIÓN COMÚN, DESTINADOS A PRODUCIR INGRESOS AFECTOS AL RÉGIMEN GENERAL DE PRIMERA CATEGORÍA, INGRESOS NO RENTA Y/O RENTAS EXENTAS DE LOS IMPUESTOS FINALES, CONFORME LO D"
 fecha: "2022-03-04"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1, 26 bis del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en los artículos 21, 31 y 33, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 21, 31 y 33, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE00201199

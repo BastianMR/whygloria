@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 20.322, artículo 2° transitorio"]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 45.-** |

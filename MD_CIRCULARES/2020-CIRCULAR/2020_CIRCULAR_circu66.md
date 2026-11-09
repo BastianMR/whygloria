@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 34 de la Ley de Impuesto a la Renta", "Arts 12, 17 y 41 del Decreto Ley N° 3063 de 1979, sobre Rentas Municipales"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 66** |

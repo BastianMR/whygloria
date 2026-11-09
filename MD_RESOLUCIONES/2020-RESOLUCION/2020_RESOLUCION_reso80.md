@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS Y UTILIDADES REINVERTIDAS QUE PERMANEZCAN EN EL FONDO DE UTILIDADES REINVERTIDAS (FUR), QUE ESTABLECE EL ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO DE LA LEY N° 21.210. MODIFICA RESOLUCIÓN EXENTA SII N°27 DEL 25 DE FEBRERO DEL 2009."
+materia: "ESTABLECE FORMULARIO PARA DECLARAR Y PAGAR EL IMPUESTO SUSTITUTIVO DE LOS IMPUESTOS FINALES, APLICABLE SOBRE UTILIDADES TRIBUTABLES ACUMULADAS Y UTILIDADES REINVERTIDAS QUE PERMANEZCAN EN EL FONDO DE UTILIDADES REINVERTIDAS (FUR), QUE ESTABLECE EL ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO DE LA LEY N° 21"
 fecha: "2020-07-14"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 14 letra A, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el numeral iii), letra b), N°1, del numeral I.- del artículo tercero de las disposiciones transitorias de la Ley N° 20.780", "en el artículo vigésimo quinto transitorio de la Ley N° 21.210, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de 24 de febrero de 2020", "y la Resolución Exenta SII N°27 del 25 de febrero del 2009."]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 14 letra A, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "en el numeral iii), letra b), N°1, del numeral I.- del artículo tercero de las disposiciones transitorias de la Ley N° 20.780", "en el artículo vigésimo quinto transitorio de la Ley N° 21.210, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de 24 de febrero de 2020", "y la Resolución Exenta SII N°27 del 25 de febrero del 2009."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE DECLARACIÓN JURADA N° 1913, DE CARACTERIZACIÓN TRIBUTARIA GLOBAL A LOS CONTRIBUYENTES QUE SEÑALA."
 fecha: "2015-12-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4 bis, y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6° letra A), N° 1, 30, 35 del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4 bis, y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A), N° 1, 30, 35 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

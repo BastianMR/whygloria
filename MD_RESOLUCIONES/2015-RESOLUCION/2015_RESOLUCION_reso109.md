@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "REEMPLAZA FORMATO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO NÚMERO 1861; MODIFICA LA OBLIGACIÓN DE PRESENTAR DICHA DECLARACIÓN Y DEROGA RESOLUCIÓN EX. N° 06 DE 21 DE ENERO DE 2004."
 fecha: "2015-12-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) N° 1) y 60 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 41 F de la Ley sobre Impuesto a la Renta, texto legal contenido en el artículo 1° del D.L", "la Resolución Ex", "la Circular N° 12, de 2015"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980", "lo dispuesto en el artículo 41 F de la Ley sobre Impuesto a la Renta, texto legal contenido en el artículo 1° del D.L N° 824, de 1974", "la Resolución Ex", "la Circular N° 12, de 2015"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

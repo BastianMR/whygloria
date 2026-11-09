@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77320979279 GE00185243"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77320979279 GE00185243"
+materia: "AUTORIZA A NATURA COSMÉTICOS S.A PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS EN LA FORMA QUE SE INDICA."
 fecha: "2021-07-01"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el Art. 1° del D.L"]
+ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77320979279 GE00185243

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2025)"
 description: "SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN"
+materia: "ACREDITA Y AUTORIZA AL CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: "2025-08-14"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "lo establecido en la Resolución Exenta N° 09, del 15 de febrero de 2001, complementada y modificada por la Resolución Exenta N° 69, del 07 de julio de 2005, en especial lo que establecen sus resolutivos 2° letras a), b) y c), 3°, 6° y 7°", "las reglas generales de validez de los documentos electrónicos establecidas por la Ley N° 19.799 y sus modificaciones."]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "las reglas generales de validez de los documentos electrónicos establecidas por la Ley N° 19.799 y sus modificaciones."]
 ---
 
 ## SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN

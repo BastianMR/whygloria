@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A), N° 1, y 66 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "la Circular N° 26 de 2025 y la Resolución Ex"]
+ref_legal: ["en los artículos 6°, letra A), N° 1, y 66 bis del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "la Circular N° 26 de 2025 y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

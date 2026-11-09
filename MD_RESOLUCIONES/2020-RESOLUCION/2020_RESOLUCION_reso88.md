@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR EL APORTE ESTABLECIDO EN EL ARTÍCULO 4° DEL ARTÍCULO PRIMERO DE LA LEY N° 21.252."
 fecha: "2020-08-03"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) N° 3 letra (k), en el artículo 14 letra D N° 8 letra (a) número viii, en el artículo 42 N° 1 y en el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 19.728", "en la Ley N° 21.242", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "lo establecido en el nuevo artículo cuarto transitorio de la Ley N° 21.242, introducida a dicha norma por el artículo segundo, N° 2, de la Ley N° 21.252", "y lo establecido en los artículos 1°, 4° y 6° del artículo primero de la Ley N° 21.252 , que establece un aporte fiscal para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19."]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) N° 3 letra (k), en el artículo 14 letra D N° 8 letra (a) número viii, en el artículo 42 N° 1 y en el artículo 84 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 19.728", "en la Ley N° 21.242", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "y lo establecido en los artículos 1°, 4° y 6° del artículo primero de la Ley N° 21.252 , que establece un aporte fiscal para la protección de los ingresos de la clase media con motivo de la propagación de la enfermedad denominada COVID-19."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

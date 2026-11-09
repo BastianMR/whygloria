@@ -5,11 +5,11 @@ description: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓ
 tags: [SII, 2021, resolucion]
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE DESARROLLO DE PERSONAS, ESTABLECE FUNCIONES, ÁMBITO DE COMPETENCIA Y DEJA SIN EFECTO RES. EX SII Nº 13, 2016 Y RES. EX. SII Nº 77, 2017."
 fecha: "2021-12-20"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en las Resoluciones N° 349, de 1984", "Resolución Ex", "Resoluciones Ex", "Resolución Ex SII N° 13, de 10.03.2016, Resolución Exenta SII N° 77, de 23.08.2017 todas ellas del Director del Servicio de Impuestos Internos", "y lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984", "y lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República"]
 ---
 
 REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE DESARROLLO DE PERSONAS, ESTABLECE FUNCIONES, ÁMBITO DE COMPETENCIA Y DEJA SIN EFECTO RES. EX SII Nº 13, 2016 Y RES. EX. SII Nº 77, 2017.

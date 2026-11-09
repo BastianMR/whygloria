@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DETERMINACIÓN DE LA RENTA LÍQUIDA IMPONIBLE, RENTA A ATRIBUIR Y RENTA ATRIBUIDA A LOS PROPIETARIOS, TITULARES, SOCIOS, ACCIONISTAS DE SpA O COMUNEROS, FORMULARIO N° 1923 E INFORMAR Y CERTIFICAR LO QUE SE INDICA."
 fecha: "2017-08-31"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35, 60 inciso penúltimo, 63 y 69 inciso primero del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Resolución Exenta SII N°130 del 30.12.2016"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "lo dispuesto en la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899 publicada en el Diario Oficial el 08.02", "la Resolución Exenta SII N°130 del 30.12.2016"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

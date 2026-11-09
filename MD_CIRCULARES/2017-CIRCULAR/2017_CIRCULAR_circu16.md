@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 42 ter de la Ley sobre Impuesto a la Renta y Circular N° 23, de 2002."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS** | **CIRCULAR N° 16 194-2016 ID 18-2016 SN** |

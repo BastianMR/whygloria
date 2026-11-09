@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, los artículos 3° y 8° de la Ley N° 17.235 sobre Impuesto Territorial, el Decreto N° 47, de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones, el"]
 ---
 
 ESTABLECE FORMA Y PLAZO PARA QUE LAS MUNICIPALIDADES INFORMEN AL SERVICIO DE IMPUESTOS INTERNOS LA NÓMINA DE BIENES RAÍCES NO AGRÍCOLAS, QUE CORRESPONDAN A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, A QUE SE REFIERE EL ARTÍCULO 8° DE LA LEY N° 17.235.

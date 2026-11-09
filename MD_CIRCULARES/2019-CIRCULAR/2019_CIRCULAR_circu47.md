@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art. 41 bis de la Ley sobre Impuesto a la Renta."]
+ref_legal: ["Acuerdo 05-07-900105 del Banco Central de Chile, D.O. 08.01.1990 y art 41 bis de la Ley sobre Impuesto a la Renta."]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 47.-** |

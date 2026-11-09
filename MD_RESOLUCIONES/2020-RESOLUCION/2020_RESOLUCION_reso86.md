@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo establecido en los artículos 6º, 7º, letras c),e), i) y j) y 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del Decreto con Fuerza de Ley Nº 7, de 1980, del Ministerio de Hacienda", "en el artículo 6º letra A, N° 3° del Código Tributario", "en los artículos 1°, inciso segundo y 41 de la Ley Nº 18.575, sobre Bases Generales de la Administración del Estado", "en el inciso sexto del artículo 3° de la Ley N° 19.913 de 2003, modificado por la Ley N° 20.818 de 2015", "el Oficio Circular del Ministerio de Hacienda N° 20 de fecha 15.05.2015, y la Resolución Exenta N° 71 de 2017, de esta Repartición"]
+ref_legal: ["en el artículo 6º letra A, N° 3° del Código Tributario", "en los artículos 1°, inciso segundo y 41 de la Ley Nº 18.575, sobre Bases Generales de la Administración del Estado", "en el inciso sexto del artículo 3° de la Ley N° 19.913 de 2003, modificado por la Ley N° 20.818 de 2015", "el Oficio Circular del Ministerio de Hacienda N° 20 de fecha 15.05.2015, y la Resolución Exenta N° 71 de 2017, de esta Repartición"]
 ---
 
 <unknown>

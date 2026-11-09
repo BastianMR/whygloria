@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades del artículo 6°, letra A, N° 1° y artículos 66 y 68, del Código Tributario, contenido en el artículo 1°, del Decreto Ley (DL) N°830, de 1974", "de los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del Decreto con Fuerza de Ley (DFL) N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 65 y 68 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1°, del DL N° 824, de 1974", "las modificaciones incorporadas por la Ley N° 21.210", "lo establecido en el artículo 10°, del DFL N°3, de 1969, del Ministerio de Hacienda, sobre Reglamento del Rol Único Tributario (RUT) y en Resolución Exenta SII N° 36, de 14 de marzo de 2011, publicada en extracto en el Diario Oficial de 17 de marzo de 2011."]
+ref_legal: ["Las facultades del artículo 6°, letra A, N° 1° y artículos 66 y 68, del Código Tributario, contenido en el artículo 1°, del Decreto Ley (DL) N°830, de 1974", "lo dispuesto en los artículos 65 y 68 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1°, del DL N° 824, de 1974", "las modificaciones incorporadas por la Ley N° 21.210"]
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN

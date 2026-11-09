@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77319782741 167 - SDAC - 2019"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77319782741 167 - SDAC - 2019"
+materia: "AUTORIZA A LA SOCIEDAD ALVI SUPERMERCADOS MAYORISTAS S.A. PARA CUMPLIR LA OBLIGACIÓN DE ENTREGAR BOLETAS EN PAPEL MEDIANTE EL ENVÍO DE BOLETAS ELECTRÓNICAS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2019-06-03"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículos 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N° s . 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, de 2017, modificada por Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículos 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2° N° s . 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de 1977, del Ministerio Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, de 2017, modificada por Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77319782741 167 - SDAC - 2019

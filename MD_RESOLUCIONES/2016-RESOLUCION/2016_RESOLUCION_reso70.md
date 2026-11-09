@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las Resoluciones Exentas N°s 5028, de 28.08.1998"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "y las Resoluciones Exentas N°s 5028, de 28.08.1998"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 141 - DAAC - 2016

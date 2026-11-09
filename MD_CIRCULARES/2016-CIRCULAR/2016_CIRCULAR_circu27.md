@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículo 97 N° 6"]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N° 27.-** |

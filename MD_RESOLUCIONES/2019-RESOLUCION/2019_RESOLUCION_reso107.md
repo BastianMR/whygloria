@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA RESOLUCIÓN EX. SII N°80 DEL 31.08.2017 QUE ESTABLECE DECLARACIÓN JURADA ANUAL N° 1941, SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS POR CONTRIBUYENTES SUJETOS AL RÉGIMEN DE LA LETRA B) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, Y SOBRE"
 fecha: "2019-09-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 34, 35 y 60, todos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en los artículos 13 y 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las disposiciones contenidas en la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016", "lo señalado en el artículo 23 de la Ley N° 18.046", "lo indicado en el artículo 764 del Código Civil y la Resolución Exenta SII N° 80, del 31.08.2017"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 13 y 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "las disposiciones contenidas en la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

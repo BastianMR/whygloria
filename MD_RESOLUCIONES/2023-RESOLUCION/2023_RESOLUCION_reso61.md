@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00140758"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00140758"
+materia: "ACTUALIZA REQUISITOS QUE DEBEN CUMPLIRSE PARA DAR AVISO DE PÉRDIDA O INUTILIZACIÓN DE LIBROS DE CONTABILIDAD O DOCUMENTOS QUE SIRVAN PARA ACREDITAR ANOTACIONES CONTABLES O QUE ESTÉN RELACIONADOS CON LAS ACTIVIDADES AFECTAS A CUALQUIER IMPUESTO, DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 97 N° 16 D"
 fecha: "2023-05-18"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades dispuestas en los artículos 6°, letra A), N° 1 y lo dispuesto en el artículo 97 N° 16, ambos del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1° y 7° del D.F.L", "y las instrucciones contenidas en las Resoluciones Exentas N° 109, del 04.02.1976, N° 19, del 12.02.2008 y Resolución Exenta N° 2301, de 07.10.1986"]
+ref_legal: ["Las facultades dispuestas en los artículos 6°, letra A), N° 1 y lo dispuesto en el artículo 97 N° 16, ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1° y 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y las instrucciones contenidas en las Resoluciones Exentas N° 109, del 04.02.1976, N° 19, del 12.02.2008 y Resolución Exenta N° 2301, de 07.10.1986"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00140758

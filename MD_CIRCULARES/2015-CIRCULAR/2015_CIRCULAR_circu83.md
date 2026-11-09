@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Art 2°, N° 2, D.L N° 825", "Art 20, N° 4, de la Ley sobre Impuesto a la Renta"]
 ---
 
 ## FERNANDO BARRAZA LUENGO DIRECTOR

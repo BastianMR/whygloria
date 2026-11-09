@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Arts. 42 N° 1, 43 al 47 y 52 de la Ley de la Renta."]
+ref_legal: ["Arts 42 N° 1, 43 al 47 y 52 de la Ley de la Renta."]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 54.-** |

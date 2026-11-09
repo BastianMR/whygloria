@@ -5,11 +5,11 @@ description: "MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA, DELEGA FACUL
 tags: [SII, 2018, resolucion]
 materia: "DESIGNA RESPONSABLES DE PROCESOS QUE INDICA, DELEGA FACULTADES Y DEROGA RESOLUCIÓN EX. SII N°2101 DE 12 DE MAYO DE 2017."
 fecha: "2018-03-16"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República y en la Resolución EX SII N° 1670, de 18.04.2017, además de lo dispuesto en la resolución EX SII N° 2101, de fecha 12 de mayo de 2017"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA, DELEGA FACULTADES Y DEROGA RESOLUCIÓN EX. SII N°2101 DE 12 DE MAYO DE 2017.

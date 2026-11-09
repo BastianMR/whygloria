@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los articulos 1° y 7° letras h) y o) de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo 1° del D.F.L", "Ley N° 18.575,Organica Constitucionai de Bases Generales de la Administracion del Estado,y en la Resolucion N° 1600, del 06.11.2008,de la Contraloria General de la Republica"]
+ref_legal: ["Las facultades que me confieren los articulos 1° y 7° letras h) y o) de la Ley Organica del Servicio de Impuestos Internos, contenida en el articulo 1° del D.F.L N°7 de Hacienda, de fecha 30.09.1980"]
 ---
 
 GE00225031

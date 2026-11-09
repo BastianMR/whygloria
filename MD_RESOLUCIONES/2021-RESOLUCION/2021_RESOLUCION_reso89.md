@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "INSTRUYE PROCEDIMIENTO PARA LA DECLARACIÓN DE PRECIOS DE PRODUCTOS DE TABACO, ESTABLECIDO EN EL DECRETO LEY N° 828 DE 1974, DEL MINISTERIO DE HACIENDA."
 fecha: "2021-07-30"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "artículo 17 del Decreto Ley N° 828 de 1974, que Establece normas para el Cultivo, Elaboración, Comercialización e Impuestos que afectan al Tabaco"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

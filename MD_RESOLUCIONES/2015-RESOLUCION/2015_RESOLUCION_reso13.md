@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6º letra A) Nº 1, 30 inciso segundo y 60, inciso octavo del Código Tributario, contenido en el artículo 1º del D.L", "lo dispuesto en los artículos 5° y 19 de la Ley N° 19.880, de 2003", "lo establecido en los artículos 1° y 7° de la Ley N° 18.156, de 1982", "lo dispuesto en el artículo 74 N°1 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "lo dispuesto en los artículos 1° y 2° de la Ley N° 18.225, de 1983", "la Resolución Exenta SII N° 08, del 10 de enero de 2007"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6º letra A) Nº 1, 30 inciso segundo y 60, inciso octavo del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974", "lo dispuesto en los artículos 5° y 19 de la Ley N° 19.880, de 2003", "lo dispuesto en el artículo 74 N°1 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "lo dispuesto en los artículos 1° y 2° de la Ley N° 18.225, de 1983", "la Resolución Exenta SII N° 08, del 10 de enero de 2007"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["ART. 72 LIR"]
+ref_legal: ["ART 72 LIR"]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 22.-** |

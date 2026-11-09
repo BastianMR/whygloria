@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 20.730, artículos 2°, 5°, 7°, 8° y 9°."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 87.-** |

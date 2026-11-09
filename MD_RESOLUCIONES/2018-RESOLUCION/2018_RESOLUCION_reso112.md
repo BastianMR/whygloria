@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "CREA MODELO DE CERTIFICADO N° 60, SOBRE DONACIONES A QUE SE REFIERE LA LETRA B) DEL ARTÍCULO 157 TER DEL CÓDIGO DEL TRABAJO Y SU REGLAMENTO, CONTENIDO EN EL DECRETO SUPREMO N° 64 DEL AÑO 2018, DEL MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL SOBRE INCLUSIÓN LABORAL DE PERSONAS CON DISCAPACIDAD."
 fecha: "2018-11-12"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "la 'Convención Interamericana para la Eliminación de todas las Formas de Discriminación en contra de las Personas con Discapacidad' de 1999, promulgada a través del Decreto N° 99, de 25.03.2002, del Ministerio de Relaciones Exteriores", "la 'Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad', de 2008, promulgada mediante Decreto N° 201, del Ministerio de Relaciones Exteriores", "artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5,6 y 8, de la Ley N° 20.422, de 2010, que Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'", "y artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'."]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "la 'Convención Interamericana para la Eliminación de todas las Formas de Discriminación en contra de las Personas con Discapacidad' de 1999, promulgada a través del Decreto N° 99, de 25.03.2002, del Ministerio de Relaciones Exteriores", "la 'Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad', de 2008, promulgada mediante Decreto N° 201, del Ministerio de Relaciones Exteriores", "y artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

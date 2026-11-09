@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2013)"
 description: "DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
 tags: [SII, 2013, resolucion]
-materia: "## DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
+materia: "DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
 fecha: "2013-03-27"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7°, letras c), e), i), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en el artículo 41 del D.F.L"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), e), i), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES.

@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "el Decreto Supremo N° 1.049 de 2010 del Ministerio de Hacienda, que crea la Comisión Asesora del Presidente de la República para el establecimiento de un Sistema Integrado de Comercio Exterior y el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda."]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "el Decreto Supremo N° 1.049 de 2010 del Ministerio de Hacienda, que crea la Comisión Asesora del Presidente de la República para el establecimiento de un Sistema Integrado de Comercio Exterior y el Decreto Supremo N° 1.068, de 10.08.2018, del Ministerio de Hacienda."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

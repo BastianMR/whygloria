@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 20.780 de 2014, sobre Reforma Tributaria", "la Ley N° 20.899 de 2016", "lo dispuesto en la Resolución N° 349, de 1984", "lo establecido en la Resolución Ex", "y lo instruido en la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 20.780 de 2014, sobre Reforma Tributaria", "la Ley N° 20.899 de 2016", "lo dispuesto en la Resolución N° 349, de 1984", "y lo instruido en la Resolución N° 1600, de 2008, de la Contraloría General de la República"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA

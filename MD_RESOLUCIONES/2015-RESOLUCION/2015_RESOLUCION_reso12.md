@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "MODIFICA RESOLUCIÓN EX. N° 19 DE 2005, QUE ESTABLECE OBLIGACIÓN A LOS ARRENDATARIOS Y A LOS CORREDORES DE PROPIEDADES O PERSONAS QUE ENTREGAN EN ARRIENDO PROPIEDADES POR CUENTA DE TERCEROS, DE PRESENTAR UNA DECLARACIÓN JURADA SOBRE LOS BIENES RAÍCES NO AGRÍCOLAS RECIBIDOS EN ARRIENDO EN EL CASO DE LOS ARRENDATARIOS; Y SOBRE LOS BIENES RAÍCES ENTREGADOS EN ARRIENDO, EN EL CASO DE LOS CORREDORES Y PERSONAS YA SEÑALADOS."
+materia: "MODIFICA RESOLUCIÓN EX. N° 19 DE 2005, QUE ESTABLECE OBLIGACIÓN A LOS ARRENDATARIOS Y A LOS CORREDORES DE PROPIEDADES O PERSONAS QUE ENTREGAN EN ARRIENDO PROPIEDADES POR CUENTA DE TERCEROS, DE PRESENTAR UNA DECLARACIÓN JURADA SOBRE LOS BIENES RAÍCES NO AGRÍCOLAS RECIBIDOS EN ARRIENDO EN EL CASO DE L"
 fecha: "2015-02-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L", "en el artículo 6º letra A) Nº 1, y en los artículos 30 y 60 inciso 8° del Código Tributario contenidos en el artículo 1° del D.L", "el N° 1, letras a), b), c) y d) del artículo 20 y el N°3 del artículo 39 de la Ley de la Renta, contenida en el artículo 1º del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "en el artículo 6º letra A) Nº 1, y en los artículos 30 y 60 inciso 8° del Código Tributario contenidos en el artículo 1° del D.L N° 830 de 1974", "el N° 1, letras a), b), c) y d) del artículo 20 y el N°3 del artículo 39 de la Ley de la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

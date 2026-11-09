@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo dispuesto en el N° 1, de la letra A), del artículo 6°, el artículo 17 y los incisos 3° y 4°, del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L", "y Resolución Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en el N° 1, de la letra A), del artículo 6°, el artículo 17 y los incisos 3° y 4°, del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y Resolución Ex"]
 ---
 
 MATERIA: AUTORIZA A CONTRIBUYENTE QUE INDICA PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS BAJO LAS CONDICIONES QUE SE INDICAN

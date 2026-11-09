@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE OBLIGACIÓN PARA DAR AVISO Y PRESENTAR ANTECEDENTES QUE SE INDICAN PARA LOS CONTRIBUYENTES ACOGIDOS AL RÉGIMEN DE RENTA PRESUNTA QUE DESEEN ACOGERSE A DICHO RÉGIMEN O DEBAN ABANDONARLO VOLUNTARIA U OBLIGATORIAMENTE. DEROGA RESOLUCIÓN EX. SII N° 126 DE 31.12.2015."
 fecha: "2016-12-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L. 830, de 1974", "en los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 34 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el numeral IV del artículo tercero de las disposiciones transitorias de la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014, sobre Reforma Tributaria", "en la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016 sobre Simplificación de la Reforma Tributaria", "y en las Circulares N°s 37, de 2015 y 39, de 2016 de este Servicio"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L 830, de 1974", "en los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 34 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en el numeral IV del artículo tercero de las disposiciones transitorias de la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014, sobre Reforma Tributaria", "en la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016 sobre Simplificación de la Reforma Tributaria", "y en las Circulares N°s 37, de 2015 y 39, de 2016 de este Servicio"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

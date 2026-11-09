@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2017)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 tags: [SII, 2017, resolucion]
-materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 fecha: "2017-01-13"
 exenta: true
 impuestos: ["iva"]

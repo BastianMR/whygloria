@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE340743"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE340743"
+materia: "REEMPLAZA ANEXOS I y II DE LA RESOLUCIÓN EX. SII N°77, DE 2025."
 fecha: "2025-09-10"
 exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]

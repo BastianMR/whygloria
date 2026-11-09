@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "timbres"]
 formularios: ["DJ1922"]
 regimen: ["14A"]
-ref_legal: ["Ley N° 20.712 de 2014 y artículos 107, 108 y 109 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L. 824, de 1974."]
+ref_legal: ["Ley N° 20.712 de 2014 y artículos 107, 108 y 109 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L 824, de 1974."]
 ---
 
 Complementada por Circular Nº 71, del 29 de diciembre de 2016

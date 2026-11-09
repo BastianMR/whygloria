@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 y en los incisos 3°al 6° del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L", "las Resoluciones Exentas del SII N° 1414, de 27.10.1978 y N° 83, de 30.08.2004, modificada por la Res"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1 y en los incisos 3°al 6° del artículo 88, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "las Resoluciones Exentas del SII N° 1414, de 27.10.1978 y N° 83, de 30.08.2004, modificada por la Res"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

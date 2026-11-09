@@ -5,11 +5,11 @@ description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERA
 tags: [SII, 2018, resolucion]
 materia: "MODIFICA RES. EX. SII N° 05, DE 2015, QUE ESTABLECE NORMAS EN RELACIÓN CON LA EMISIÓN DEL COMPROBANTE O 'RECIBO DE PAGO' GENERADO EN TRANSACCIONES PAGADAS A TRAVÉS DE MEDIOS ELECTRÓNICOS COMO SUSTITUTO DE LA BOLETA DE VENTAS Y SERVICIOS, DE ACUERDO A LO DISPUESTO POR EL ART. 54 DEL D.L. N°825, DE 19"
 fecha: "2018-02-01"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, letra A), N° 1", "el artículo 88 del Código Tributario, contenido en el artículo Primero del D.L", "artículo 1° de la Ley 20.727, de 2014, en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "9° letra a), 52, 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el Art 6°, letra A), N° 1", "el artículo 88 del Código Tributario, contenido en el artículo Primero del D.L N° 830, de 1974", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

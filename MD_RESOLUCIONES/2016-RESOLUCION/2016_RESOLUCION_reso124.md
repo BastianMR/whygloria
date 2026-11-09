@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL N°1933 POR LOS MANDATARIOS ENCARGADOS DE GESTIONAR EL MANDATO ESPECIAL DE ADMINISTRACIÓN DE CARTERA DE VALORES ESTABLECIDO EN LA LEY N° 20.880."
 fecha: "2016-12-26"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6°, letra A), N° 1, y 97 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 24, 25, 26, 28, 36 y 1° transitorio de la Ley N° 20.880 de 2016, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses", "en el Decreto N° 2, de 2016, del Ministerio Secretaria General de la Presidencia que contiene Reglamento de la Ley N°20.880"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1, y 97 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 24, 25, 26, 28, 36 y 1° transitorio de la Ley N° 20.880 de 2016, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses", "en el Decreto N° 2, de 2016, del Ministerio Secretaria General de la Presidencia que contiene Reglamento de la Ley N°20.880"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO

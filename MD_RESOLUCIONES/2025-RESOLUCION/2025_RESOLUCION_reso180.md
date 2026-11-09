@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 180 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA"
+materia: "SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES DE ENTERNET SOCIEDAD ANONIMA, RUT N° 76.407.930-2."
 fecha: "2025-12-11"
 exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y 8, del Código Tributario, contenido en el artículo 1°del D.L", "el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "la Ley N°21.713, que \"Dicta normas para asegurar el Cumplimiento de las Obligaciones Tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal\"", "la Circular N°38 del 30 de abril 2025, que instruye sobre el trámite de inicio de actividades", "la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y 8, del Código Tributario, contenido en el artículo 1°del D.L N° 830, de 1974", "el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "la Ley N°21.713, que \"Dicta normas para asegurar el Cumplimiento de las Obligaciones Tributarias dentro del Pacto por el Crecimiento Económico, el Progreso Social y la Responsabilidad Fiscal\"", "la Circular N°38 del 30 de abril 2025, que instruye sobre el trámite de inicio de actividades", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA

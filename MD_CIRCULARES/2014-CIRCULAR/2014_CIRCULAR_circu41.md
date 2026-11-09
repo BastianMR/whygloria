@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["LEY 20.732, DE 2014, PUBLICADA EN EL DIARIO OFICIAL DE 05.03.2014."]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 41.-** |

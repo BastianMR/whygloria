@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77317445545"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77317445545"
+materia: "EXIME A MARÍA AYUDA CORPORACIÓN DE BENEFICENCIA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2020-05-07"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.S"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980", "lo dispuesto en el artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, publicado en el Diario Oficial el 31.12.1974", "en el artículo 46 del D.S N°2.385, del Ministerio del Interior, publicado en el Diario Oficial el 20.11.1996, que fija texto refundido y sistematizado del D.L N° 3.063, de 1979, sobre Rentas Municipales, en el artículo 3° de la Ley N° 19.247, que aprueba la Ley de Donaciones con Fines Educacionales,"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77317445545

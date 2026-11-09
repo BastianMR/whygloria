@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
-materia: "ESTABLECE FORMA Y PLAZO EN QUE LAS EMPRESAS ACOGIDAS AL RÉGIMEN DE RENTA ATRIBUIDA DEBEN CERTIFICAR A SUS SOCIOS O ACCIONISTAS, EL SALDO FINAL DE RENTAS ATRIBUIDAS PROPIAS EXISTENTES EN EL REGISTRO ESTABLECIDO EN LA LETRA a), DEL N° 4.-, DE LA LETRA A), DEL ARTÍCULO 14 DE LA LIR, EN EL EJERCICIO INMEDIATAMENTE ANTERIOR A AQUÉL EN QUE SE EFECTUÓ LA ENAJENACIÓN O CESIÓN DE ACCIONES O DERECHOS SOCIALES."
+materia: "ESTABLECE FORMA Y PLAZO EN QUE LAS EMPRESAS ACOGIDAS AL RÉGIMEN DE RENTA ATRIBUIDA DEBEN CERTIFICAR A SUS SOCIOS O ACCIONISTAS, EL SALDO FINAL DE RENTAS ATRIBUIDAS PROPIAS EXISTENTES EN EL REGISTRO ESTABLECIDO EN LA LETRA a), DEL N° 4.-, DE LA LETRA A), DEL ARTÍCULO 14 DE LA LIR, EN EL EJERCICIO INM"
 fecha: "2019-01-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1, 35, 60 y 63 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 14 y 17 N° 8 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y las disposiciones contenidas en la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 14 y 17 N° 8 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y las disposiciones contenidas en la Ley N° 20.780, publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° y artículo 7°, letras a), c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y sus modificaciones posteriores", "la Ley N° 20.780, sobre Reforma Tributaria que modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario"]
+ref_legal: ["lo dispuesto en el artículo 3° y artículo 7°, letras a), c) y ñ) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y sus modificaciones posteriores", "la Ley N° 20.780, sobre Reforma Tributaria que modifica el Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario", "el D.F.L N° 1 de la Secretaría General de la Presidencia que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado que incorpora la modificaciones de las Leyes N°s 19.653 y 20.285"]
 ---
 
 DIRECCIÓN NACIONAL

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE PROCEDIMIENTO SOBRE DECLARACIÓN Y PAGO DEL IMPUESTO AL VALOR AGREGADO PARA CONTRIBUYENTES NO DOMICILIADOS NI RESIDENTES EN CHILE, CONFORME AL NUEVO PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2020-06-25"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 1°, 4° bis, 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6°, letra A), N° 1, y 18 N° 3, letra b), del Código Tributario, contenido en el artículo 1° del D.L", "el nuevo Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "Circular 42, de 11 de junio de 2020."]
+ref_legal: ["Los artículos 1°, 4° bis, 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1, y 18 N° 3, letra b), del Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974", "el nuevo Párrafo 7° bis del Título II de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974, incorporado por la Ley N° 21.210 que Moderniza la Legislación Tributaria y que establece un régimen de tributación simplificada para contribuyentes no domicil"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

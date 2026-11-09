@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L", "el inciso segundo del artículo 54 de la Ley Sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de Hacienda, de fecha 30 de Septiembre de 1980", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el inciso segundo del artículo 54 de la Ley Sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L N°825, de 1976"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

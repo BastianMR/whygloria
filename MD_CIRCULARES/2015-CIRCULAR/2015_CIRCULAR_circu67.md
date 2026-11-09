@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "territorial", "contribuciones"]
 formularios: ["F22"]
 regimen: ["14B", "renta-presunta"]
-ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3 y 5, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
+ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3 y 5, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "y la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014"]
 ---
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875

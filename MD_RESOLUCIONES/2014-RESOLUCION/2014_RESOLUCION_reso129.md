@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["El Artículo 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos", "artículo 6° Letra A N°1) del Código Tributario", "el Artículo 14° ter de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N°824", "y, lo dispuesto en el Artículo Segundo Transitorio de la Ley N° 20.780 publicada en el Diario Oficial de 29 de septiembre de 2014"]
+ref_legal: ["El Artículo 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos", "el Artículo 14° ter de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley N°824"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -5,11 +5,11 @@ description: "ESTABLECE OBLIGACIÓN DE COMUNICAR ELECTRÓNICAMENTE INFORMACIÓN 
 tags: [SII, 2020, resolucion]
 materia: "ESTABLECE OBLIGACIÓN DE COMUNICAR ELECTRÓNICAMENTE INFORMACIÓN SOBRE ENAJENACIONES DE INMUEBLES POR NOTARÍAS Y CONSERVADORES DE BIENES RAÍCES, AL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2020-01-17"
-exenta: true
+exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A) numero 1° y, 76 del Código Tributario, contenido en el artículo 1°, del Decreto Ley N°. 830, de 1974", "el artículo 2° de la Ley N° 17.990", "y el artículo 16 N°1, de la Ley N°17.235, sobre Impuesto Territorial", "y la Circular N° 7, de 2020"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) numero 1° y, 76 del Código Tributario, contenido en el artículo 1°, del Decreto Ley N° 830, de 1974", "el artículo 2° de la Ley N° 17.990", "y el artículo 16 N°1, de la Ley N°17.235, sobre Impuesto Territorial", "y la Circular N° 7, de 2020"]
 ---
 
 ESTABLECE OBLIGACIÓN DE COMUNICAR ELECTRÓNICAMENTE INFORMACIÓN SOBRE ENAJENACIONES DE INMUEBLES POR NOTARÍAS Y CONSERVADORES DE BIENES RAÍCES, AL SERVICIO DE IMPUESTOS INTERNOS

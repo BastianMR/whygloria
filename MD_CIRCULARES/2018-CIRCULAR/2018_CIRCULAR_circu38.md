@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo Económico. -Artículo 251 bis y 251 ter Código Penal. -Artículo 1, contenido en artículo primero, Ley 20.393. -Articulo 31 Ley d"]
 ---
 
 | **DEPARTAMENTO EMISOR:** | **CIRCULAR Nº 38 .-** |

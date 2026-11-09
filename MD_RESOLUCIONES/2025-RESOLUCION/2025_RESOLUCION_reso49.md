@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314"
+materia: "TRAMITACIÓN DE LAS AUTODENUNCIAS CONFORME AL ARTÍCULO 100 SEXIES DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-04-17"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

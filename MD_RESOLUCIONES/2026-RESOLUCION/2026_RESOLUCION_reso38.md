@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2026, resolucion]
-materia: "## DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 361847"
+materia: "INCORPORA NUEVOS CÓDIGOS AL FORMULARIO N°29 DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS PARA OPERACIONES DOCUMENTADAS MEDIANTE LIQUIDACIONES-FACTURAS."
 fecha: "2026-03-09"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

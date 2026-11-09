@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
-materia: "1017-679-1018-1046-1048-1019-614-797-SDF-2013 798-616-847- SDF-2013 375-264-376- 388- 389, 377-282-225-2013 307-226-308-227-326 -2013, 77313402611, 77313342267, 77313402620, 77313410212, 77313411200, 77313402627, 77313352819, 77313331922, 77313361255, 77313361247, 77313331930 y 77313367297"
+materia: "AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2013-12-30"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L", "y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980 del Ministerio de Hacienda", "y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

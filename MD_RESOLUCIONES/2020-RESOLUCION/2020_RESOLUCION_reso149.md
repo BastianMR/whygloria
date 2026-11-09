@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 149 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
-materia: "## AMPLIA PLAZO ESTABLECIDO POR RESOLUCIÓN EX. SII N° 123, DE 2019."
+materia: "AMPLIA PLAZO ESTABLECIDO POR RESOLUCIÓN EX. SII N° 123, DE 2019."
 fecha: "2020-11-30"
 exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 3° y 8° de la Ley N° 17.235 sobre Impuesto Territorial", "el Decreto N° 47, de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones el artículo 58 bis del D.L", "el artículo tercero de la Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano, y la Resolución Exenta N°123, de 04 de noviembre de 2019 de este Servicio"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 3° y 8° de la Ley N° 17.235 sobre Impuesto Territorial", "el Decreto N° 47, de 1992, que fija el nuevo texto de la Ordenanza General de Urbanismo y Construcciones el artículo 58 bis del D.L N° 3.063, de 1979, sobre Rentas Municipales", "el artículo tercero de la Ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano, y la Resolución Exenta N°123, de 04 de noviembre de 2019 de este Servicio"]
 ---
 
 ## Distribución

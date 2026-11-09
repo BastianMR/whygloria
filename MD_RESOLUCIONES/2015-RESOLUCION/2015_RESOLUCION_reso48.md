@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2015)"
 description: "SUBDIRECCION DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCION DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE CONTENIDO Y CONDICIONES DE LA DECLARACIÓN QUE DEBE SOLICITAR EL PAGADOR DE UNA RENTA O CANTIDAD AL BENEFICIARIO RESIDENTE EN UN PAÍS CON EL QUE EXISTA UN CONVENIO VIGENTE PARA EVITAR LA DOBLE TRIBUTACIÓN INTERNACIONAL, CON EL OBJETO DE ACREDITAR LAS CIRCUNSTANCIAS SEÑALADAS EN EL N° 4, DEL"
 fecha: "2015-05-25"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, norma esta última, modificada por el N° 32 del artículo 1 de la Ley N° 20.630 publicada en el Diario Oficial el 27.09.2012"]
 ---
 
 ## SUBDIRECCION DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 6º letra A N°1, 34, 35 y 60 del Código Tributario, contenido en el Decreto Ley Nº 830 de 1974", "en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, contenida en el Decreto Ley Nº 824 de 1974", "lo dispuesto en la Resolución Ex", "y lo establecido en la Resolución Ex"]
+ref_legal: ["en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley Nº 7 de 1980, del Ministerio de Hacienda", "en los artículos 42 Nº 1 y 74 Nº 1 de la Ley sobre Impuesto a la Renta, contenida en el Decreto Ley Nº 824 de 1974", "lo dispuesto en la Resolución Ex", "y lo establecido en la Resolución Ex"]
 ---
 
 ## SUBDIRECCION DE FISCALIZACION DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 236909

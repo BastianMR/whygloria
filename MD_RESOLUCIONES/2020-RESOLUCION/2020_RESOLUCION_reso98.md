@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS POR CONTRIBUYENTES SUJETOS AL RÉGIMEN DE LA LETRA A) Y N° 3 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, SOBRE SALDO DE RETIROS EN EXCESO PENDIENTES DE IMPUTACIÓN E INFORMAR Y CERTIFICAR LO QUE SE INDICA."
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE RETIROS, REMESAS Y/O DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES, EFECTUADOS POR CONTRIBUYENTES SUJETOS AL RÉGIMEN DE LA LETRA A) Y N° 3 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, SOBRE SALDO DE RE"
 fecha: "2020-08-28"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° y 7° de la la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 16, 17, 21, 33 bis, 35, 60 inciso 8°, 63 y 69 del Código Tributario, contenido en el artículo 1° del D.L", "la letra A) y N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "y las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° y 7° de la la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "la letra A) y N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "y las disposiciones contenidas en la Ley N° 21.210, que moderniza la Legislación Tributaria, publicada en el Diario Oficial con fecha 24 de febrero de 2020"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

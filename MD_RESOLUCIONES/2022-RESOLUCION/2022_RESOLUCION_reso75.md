@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "ESTABLECE DECLARACIÓN JURADA ANUAL SOBRE BIENES FÍSICOS DEL ACTIVO INMOVILIZADO E INGRESOS OPERACIONALES DE PROYECTOS DE INVERSIÓN (CONTRIBUCIÓN PARA EL DESARROLLO REGIONAL)."
 fecha: "2022-08-31"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 33 bis, 35, 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos trigésimo segundo, trigésimo octavo transitorio y trigésimo octavo transitorio bis, todos de la Ley N° 21.210, que moderniza la Legislación Tributaria", "y lo instruido en la Circular N° 55 de 2021"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "en los artículos trigésimo segundo, trigésimo octavo transitorio y trigésimo octavo transitorio bis, todos de la Ley N° 21.210, que moderniza la Legislación Tributaria", "y lo instruido en la Circular N° 55 de 2021"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

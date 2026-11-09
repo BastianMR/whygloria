@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 4 (2018)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 tags: [SII, 2018, resolucion]
-materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 fecha: "2018-01-15"
 exenta: true
 impuestos: ["iva"]

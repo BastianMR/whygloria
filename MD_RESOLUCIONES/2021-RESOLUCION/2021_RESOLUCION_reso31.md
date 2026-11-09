@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2021)"
 description: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
 tags: [SII, 2021, resolucion]
-materia: "## COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
+materia: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
 fecha: "2021-03-19"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6, letra A), Nº 1, 17 , 21 y 35 del D.L", "lo dispuesto en numeral iii) de la letra a) del N° 8 y N° 3 de la letra D) del artículo 14, y artículo 68 de la Ley sobre Impuesto a la Renta (LIR) contenida en el artículo 1° del D.L", "el artículo 59 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el D.L", "lo establecido en el artículo 52 de la Ley N° 19.880", "las disposiciones contenidas en la Ley N° 21.210", "y la Resolución Exenta SII N° 14 de fecha 12.02.2021."]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda", "lo dispuesto en numeral iii) de la letra a) del N° 8 y N° 3 de la letra D) del artículo 14, y artículo 68 de la Ley sobre Impuesto a la Renta (LIR) contenida en el artículo 1° del D.L N°824, de 1974", "el artículo 59 de la Ley sobre Impuestos a las Ventas y Servicios contenida en el D.L N°825, de 1974", "las disposiciones contenidas en la Ley N° 21.210", "y la Resolución Exenta SII N° 14 de fecha 12.02.2021."]
 ---
 
 ## COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021.

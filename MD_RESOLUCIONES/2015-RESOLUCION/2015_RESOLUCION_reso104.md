@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y Ley N° 19.628, sobre Protección de la Vida Privada."]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980"]
 ---
 
 MATERIA: Aprueba Convenio de Colaboración entre el Ministerio del Interior y Seguridad Pública y el Servicio de Impuestos Internos.

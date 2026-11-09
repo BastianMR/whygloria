@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 2°, 3°, 3° bis, las letras c) y ñ) del artículo 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de Hacienda, de 1980", "lo estatuido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República, que Fija normas sobre exención del trámite de toma de razón de las materias de personal que se indican, y lo instruido en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 2°, 3°, 3° bis, las letras c) y ñ) del artículo 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7, de Hacienda, de 1980"]
 ---
 
 MATERIA: REORGANIZA Y FIJA EL ÁMBITO DE COMPETENCIAS DE LAS UNIDADES QUE CONFORMAN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES. DEJA SIN EFECTO RESOLUCIONES EXENTAS SII N° 95 DE 2010 Y SUS MODIFICACIONES.

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y OPORTUNIDAD EN QUE LAS ADMINISTRADORAS DE FONDOS DE INVERSIÓN Y FONDOS MUTUOS Y LAS INSTITUCIONES INTERMEDIARIAS QUE SE SEÑALAN, DEBEN PRESENTAR LAS DECLARACIONES JURADAS A LAS QUE SE REFIERE EL ARTÍCULO 7° TRANSITORIO DE LA LEY N° 20.712, DE 2014, SOBRE 'ADMINISTRACIÓN DE FONDOS D"
 fecha: "2015-03-13"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6, letra A), N°. 1, 30, 34 y 60 inciso 8° del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "la Ley N° 20.712, publicada en el Diario Oficial de 07 de enero de 2014"]
+ref_legal: ["Lo dispuesto en los artículos 6, letra A), N° 1, 30, 34 y 60 inciso 8° del Código Tributario", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "la Ley N° 20.712, publicada en el Diario Oficial de 07 de enero de 2014"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

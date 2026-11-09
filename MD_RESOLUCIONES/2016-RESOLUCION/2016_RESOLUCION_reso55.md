@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "MODIFICA RESOLUCIÓN EX. SII N° 39, DE FECHA 27.03.2008, QUE EXCEPCIONA DE LAS RETENCIONES POR CAMBIO DE SUJETO DE DERECHO DEL IVA A LAS OPERACIONES RESPALDADAS CON DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EMITIDOS POR CONTRIBUYENTES EMISORES ELECTRÓNICOS, MODIFICADA POR RESOLUCION EX. SII N° 102, DE FECHA 04.11.2014."
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 39, DE FECHA 27.03.2008, QUE EXCEPCIONA DE LAS RETENCIONES POR CAMBIO DE SUJETO DE DERECHO DEL IVA A LAS OPERACIONES RESPALDADAS CON DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EMITIDOS POR CONTRIBUYENTES EMISORES ELECTRÓNICOS, MODIFICADA POR RESOLUCION EX. SII N° 102, DE FECH"
 fecha: "2016-06-17"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 2°, 3° y 54, de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "lo establecido en la Ley N° 20.727, publicada en el D.O. del 31.01.2014", "las Resoluciones Exentas SII N° 55, de 02.06.2005, N° 4095 de 25.08.2000 y N° 39 de 27.03.2008, esta última, modificada por Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L N° 7, del Ministerio de Hacienda, publicado en el D.O. del 15.10.1980, y en los artículos 6 letra A) N° 1, y 88 del Código Tributario, D.L N° 830, de 1974", "en los artículos 2°, 3° y 54, de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "las Resoluciones Exentas SII N° 55, de 02.06.2005, N° 4095 de 25.08.2000 y N° 39 de 27.03.2008, esta última, modificada por Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

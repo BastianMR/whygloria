@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículos 76 y 97 N° 1 del Código Tributario Artículo 2° de la Ley N° 17.990"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES** | **CIRCULAR Nº 7** |

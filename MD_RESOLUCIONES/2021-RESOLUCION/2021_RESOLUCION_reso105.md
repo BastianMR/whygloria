@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "de la Ley Nº 19.477, Orgánica del Servicio de Registro Civil e Identificación."]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada"]
 ---
 
 APRUEBA CONVENIO DE PRESTACIÓN DE SERVICIOS DE CONSULTA SOBRE ESTADO DE VIGENCIA DE DOCUMENTOS DE IDENTIDAD ENTRE EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN Y EL SERVICIO DE IMPUESTOS INTERNOS.

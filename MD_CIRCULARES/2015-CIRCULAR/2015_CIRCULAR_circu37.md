@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Artículos 20 N° 1 y 34 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del D.L. 824 de 1974) y Ley N° 20.780 de 29 de septiembre de 2014."]
+ref_legal: ["Artículos 20 N° 1 y 34 de la Ley sobre Impuesto a la Renta (contenida en el artículo 1°, del D.L 824 de 1974) y Ley N° 20.780 de 29 de septiembre de 2014."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 37.- 14.2015 SN 50.2015 ID** |

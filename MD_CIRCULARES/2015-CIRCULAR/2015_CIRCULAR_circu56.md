@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["que sean constitutivos de fuerza mayor o caso fortuito y que hayan incidido en los resultados de la revisión, entendiéndose estos conceptos en los términos definidos en el artículo 45 del Código Civil 6 , por aplicación de lo dispuesto en el artículo 2° del Código Tributario 7 ."]
+ref_legal: ["Código Tributario, artículo 60 quáter", "Ley N° 20.780, Artículo 10, N° 18."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 56.-** |

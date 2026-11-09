@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["ARTS PERTINENTES DE LA LIR, LEY N° 20.444 Y CIRCULARES N°S 44, de 2010, 13 Y 46, DE 2011 Y 31, DE 2012"]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 26** |

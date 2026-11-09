@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en el inciso final del artículo 68 del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el inciso final del artículo 68 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, y las facultades que me confieren los artículos 6º letra A Nº 1 del mencionado Código y 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

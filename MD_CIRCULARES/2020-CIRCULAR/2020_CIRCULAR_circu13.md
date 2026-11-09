@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Arts. 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 440 y 441, de 2020, de la Superintendencia de Pensiones."]
+ref_legal: ["Arts 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 440 y 441, de 2020, de la Superintendencia de Pensiones."]
 ---
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 13 04-2020 SN CIRC. 022-2020 OGN** |

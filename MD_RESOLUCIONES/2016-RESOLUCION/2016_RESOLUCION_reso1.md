@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA RESOLUCIÓN EXENTA N° 48, DEL 2015, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2016-01-06"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 74 N° 4 inciso 11° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Circular N° 54, del 25.11.2013 y la Resolución Exenta N° 48, de 25.05.2015"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 74 N° 4 inciso 11° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "la Circular N° 54, del 25.11.2013 y la Resolución Exenta N° 48, de 25.05.2015"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

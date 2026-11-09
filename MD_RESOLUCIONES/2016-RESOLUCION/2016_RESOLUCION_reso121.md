@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES RELATIVAS A DEBITOS Y ACREENCIAS CON PERSONAS SIN DOMICILIO NI RESIDENCIA EN EL PAIS POR MEDIO DE FORMULARIO N° 1930; Y DEROGA LAS RESOLUCIONES Ex. N°s 28 DE 2004 y 109 DE 2015 SOBRE OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADA"
 fecha: "2016-12-26"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo primero del D.F.L", "lo establecido en los artículos 6° letra A) N° 1), 30 inciso segundo, 34,35 inciso primero del Código Tributario, contenido en el artículo 1° del D.L", "la modificaciones introducidas al artículo 41 F de la Ley sobre Impuesto a la Renta por la Ley N° 20.899, de 2016", "y las Resoluciones Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo primero del D.F.L N° 7, de 1980 del Ministerio de Hacienda", "la modificaciones introducidas al artículo 41 F de la Ley sobre Impuesto a la Renta por la Ley N° 20.899, de 2016", "y las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "INFORMACIÓN QUE DEBE PROPORCIONAR EL GESTOR DE UN CONTRATO DE ASOCIACIÓN O CUENTAS EN PARTICIPACIÓN U OTRO ENCARGO FIDUCIARIO, EN EL FORMULARIO 22 SOBRE DECLARACIÓN DE IMPUESTOS ANUALES A LA RENTA."
 fecha: "2022-02-14"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
-ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 6, letra A), N° 1, 21, 28 y 30 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 13, 56 N° 3, 63 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 21.210", "y en las Circulares N° 29 de 1999 y N° 40 de 2021."]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 13, 56 N° 3, 63 y 65 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "en la Ley N° 21.210", "y en las Circulares N° 29 de 1999 y N° 40 de 2021."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

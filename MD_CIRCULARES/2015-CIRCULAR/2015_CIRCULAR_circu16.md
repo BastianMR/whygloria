@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Arts. 23, 34 Nº 1 y 74 Nº 6 LIR"]
+ref_legal: ["Arts 23, 34 Nº 1 y 74 Nº 6 LIR"]
 ---
 
 | **GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 16.-** |

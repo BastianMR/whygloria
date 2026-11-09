@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+materia: "FIJA PROCEDIMIENTO PARA OTORGAR BONO DE CLASE MEDIA A LOS PENSIONADOS INDICADOS EN EL INCISO TERCERO DEL ARTÍCULO 4 DE LA LEY N° 21.323 , QUE ESTABLECE UN NUEVO BONO CLASE MEDIA Y UN PRÉSTAMO SOLIDARIO PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA"
 fecha: "2021-04-14"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 4, 6, 10 y 17 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media", "la Resolución Ex", "y, lo establecido en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "lo dispuesto en los artículos 4, 6, 10 y 17 de la Ley N° 21.323, que establece un nuevo bono clase media y un préstamo solidario para la protección de los ingresos de la clase media", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

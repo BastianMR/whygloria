@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1, del Código Tributario, contenido en D.L", "los artículos 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las Leyes N° 21.210, de 2020, que Moderniza la Legislación Tributaria y N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica, publicada en el Diario Oficial el 2 de septiembre de 2020, y las Resoluciones Ex"]
+ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° letra b, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974, del Ministerio de Hacienda", "el D.S N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "las Leyes N° 21.210, de 2020, que Moderniza la Legislación Tributaria y N° 21.256 que Establece Medidas Tributarias para la Reactivación Económica, publicada en el Diario Oficial el 2 de septiembre de 2020, y las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

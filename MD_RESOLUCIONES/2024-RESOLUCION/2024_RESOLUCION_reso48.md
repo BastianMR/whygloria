@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN GE 268308"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN GE 268308"
+materia: "DETERMINA QUE LA REPÚBLICA DE SINGAPUR NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H."
 fecha: "2024-04-15"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["1° Lo dispuesto en el artículo 6°, letra B) N° 5 contenido en el artículo 1° del D.L", "el artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "Ley N° 19.880 de 2003", "el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "el N° 6 del artículo 1° de la Ley N° 20.899, las Circulares N° 12, de 2015 y N° 34, de 2016."]
+ref_legal: ["el artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, modificada en lo pertinente por el N° 27 del artículo 1° de la Ley N° 20.780", "el N° 6 del artículo 1° de la Ley N° 20.899, las Circulares N° 12, de 2015 y N° 34, de 2016."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN GE 268308

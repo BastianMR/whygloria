@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA LA RESOLUCIÓN Ex. N° 187 de 2010 EN CUANTO REEMPLAZA FORMATO FORMULARIO N° 1805 E INSTRUCCIONES DE LLENADO."
 fecha: "2016-12-26"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6°, letra A), N° 1, y 60 inciso noveno del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 104 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y la Resolución Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 104 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

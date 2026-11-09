@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 392395"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 392395"
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR LA DECLARACIÓN JURADA ANUAL N°1965 SOBRE MONTOS PERCIBIDOS Y/O DEVENGADOS POR CREADORES DE CONTENIDO DIGITAL Y EMPRESAS PROVEEDORAS DE CONTENIDO DIGITAL."
 fecha: "2026-08-31"
 exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A) N°1, 33 bis y 35 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7 de 1980, del Ministerio de Hacienda", "en los artículos 2°, 20, 29, 31, 42 N°2, 43, 50, 51, 52, 54, 68 bis, 74 N°2 y 84 de La Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N°824 de 1974", "lo dispuesto en los artículos 2°N°2, 12 letra E N°8, 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "lo instruido en las Circulares N°21 de 1991 y N°50 de 2022", "y en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A) N°1, 33 bis y 35 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7 de 1980, del Ministerio de Hacienda", "en los artículos 2°, 20, 29, 31, 42 N°2, 43, 50, 51, 52, 54, 68 bis, 74 N°2 y 84 de La Ley sobre Impuesto a la Renta, contenida en el Decreto Ley N°824 de 1974", "lo dispuesto en los artículos 2°N°2, 12 letra E N°8, 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N°825 de 1974", "y en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 392395

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["ARTS DL N° 825/74"]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N°21** |

@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2020)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2020, resolucion]
-materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 fecha: "2020-01-10"
 exenta: true
 impuestos: ["iva"]

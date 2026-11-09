@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00390001"
 tags: [SII, 2026, resolucion]
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N°160, DE 12 DE NOVIEMBRE DE 2025 Y CREA ÁREA QUE INDICA. MODIFICA RESOLUCIÓN EXENTA SII N°87, DE 17 DE JULIO DE 2025."
 fecha: "2026-10-22"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

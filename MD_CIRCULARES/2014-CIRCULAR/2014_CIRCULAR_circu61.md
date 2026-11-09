@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Art. 64, del D.L"]
+ref_legal: ["Art 64, del D.L N° 825, de 1974 y la Ley N° 20.780, de 29 de septiembre de 2014."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 61** |

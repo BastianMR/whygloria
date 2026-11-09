@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 45 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO"
+materia: "ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE A AL RÉGIMEN DE DEPRECIACIÓN INSTANTÁNEA ESTABLECIDA EN LOS ARTÍCULOS VIGÉSIMO PRIMERO TRANSITORIO Y VIGÉSIMO SEGUNDO TRANSITORIO DE LA LEY N° 21.210 QUE MODERNIZA LA LEGISLACIÓN TRIBUTARIA."
 fecha: "2020-04-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 21 y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que Moderniza la Legislación Tributaria", "y en el artículo 31 N° 5 y N° 5 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1, 21 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos vigésimo primero transitorio y vigésimo segundo transitorio de la Ley N° 21.210 que Moderniza la Legislación Tributaria", "y en el artículo 31 N° 5 y N° 5 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO

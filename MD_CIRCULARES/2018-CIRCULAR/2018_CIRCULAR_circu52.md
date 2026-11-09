@@ -3,7 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA"
 tags: [SII, 2018, circular]
-materia: "## OPERACIONES DE CRÉDITO DE DINERO"
+materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2018-11-12"
 exenta: false
 impuestos: ["renta"]

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA POR PARTE DE LOS CONTRIBUYENTES QUE PAGUEN RENTAS DEL ARTÍCULO 42 N°2 DE LA LEY SOBRE IMPUESTO A LA RENTA, POR SERVICIOS PRESTADOS EN LA ISLA DE PASCUA"
 fecha: "2016-12-26"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 42 N°2 de la Ley sobre Impuesto a la Renta y lo dispuesto en el artículo 2° de la Ley N° 20.809, instruido en Circular N° 15 de 2016 de este Servicio, que entre otros, otorga beneficios tributarios en el territorio de Isla de Pascua."]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 42 N°2 de la Ley sobre Impuesto a la Renta y lo dispuesto en el artículo 2° de la Ley N° 20.809, instruido en Circular N° 15 de 2016 de este Servicio, que entre otros, otorga beneficios tributarios en el territorio de Isla de Pascua."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

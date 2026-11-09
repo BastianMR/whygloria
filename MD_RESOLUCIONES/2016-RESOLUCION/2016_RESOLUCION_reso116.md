@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D", "en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en los artículos 73°, 74° N° 6, 75° y 101° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D", "en los artículos 1°, 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "y en los artículos 73°, 74° N° 6, 75° y 101° de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículos 161 y 162."]
 ---
 
 | **DEPARTAMENTO EMISOR DEPARTAMENTO DE DELITOS TRIBUTARIOS DEPARTAMENTO DE DEFENSA JUDICIAL PENAL** | **CIRCULAR N°58.- GE00125685** |

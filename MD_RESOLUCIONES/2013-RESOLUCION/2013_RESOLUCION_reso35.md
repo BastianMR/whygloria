@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las letras c) e i) del artículo 7° y letra c) del artículo 19 del D.F.L", "lo establecido en el artículo 41 de la Ley N° 18.575, sobre Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo preceptuado en la Resolución N° 1600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón"]
+ref_legal: ["Lo dispuesto en las letras c) e i) del artículo 7° y letra c) del artículo 19 del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos"]
 ---
 
 SUBDIRECCIÓN DE AVALUACIONES

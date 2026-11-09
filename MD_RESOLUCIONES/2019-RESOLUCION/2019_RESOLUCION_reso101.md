@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo establecido en el artículo 11 N° 1, de la Ley N ° 19.738", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 06, de 2019, de la Contraloría General de la República", "y lo dispuesto en las Resoluciones: N° 349, de 1984, N° 379 de 1991, N° 7590 de 1999, y todas sus modificaciones", "Resolución Exenta N° 110 de noviembre de 2017"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "y lo dispuesto en las Resoluciones: N° 349, de 1984, N° 379 de 1991, N° 7590 de 1999, y todas sus modificaciones"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA

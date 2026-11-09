@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2025, resolucion]
-materia: "## DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 307356"
+materia: "FIJA NÓMINA DE TERRITORIOS O JURISDICCIONES QUE TIENEN UN RÉGIMEN FISCAL PREFERENCIAL, CONFORME AL ARTÍCULO 41 H DE LA LEY SOBRE IMPUESTO A LA RENTA"
 fecha: "2025-03-06"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980", "en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "en el N° 5 del artículo 2° de la Ley N° 21.713", "y, en la Circular N° 11 de 2025:"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980", "en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "en el N° 5 del artículo 2° de la Ley N° 21.713"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

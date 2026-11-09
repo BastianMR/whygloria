@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública", "el articulo 2° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "el articulo 2° del D.L N°3.551, de 1980 sobre instituciones fiscalizadoras y la Ley N°16.395 que contiene el estatuto orgánico de la Superintendencia de Seguridad Social, modificada por la Ley N° 20.691."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00223948

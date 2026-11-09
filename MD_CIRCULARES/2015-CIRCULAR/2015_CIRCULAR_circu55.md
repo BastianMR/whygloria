@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículos 4° bis, 4° ter, 4° quáter, 4° quinquies, 100 bis, 119 y 160 bis del Código Tributario, y artículo 15° transitorio de la Ley N° 20.780."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA 1875** | **CIRCULAR Nº 55.-** |

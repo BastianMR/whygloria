@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en el Decreto Supremo N° 104 de 1977", "Ley N° 20.444", "artículo 31, inciso 4°, N° 3 de la Ley sobre Impuesto a la Renta", "artículo 79 de la Ley sobre Impuesto a las Ventas y Servicios", "artículo 97 N° 16 del Código Tributario", "y Decretos Supremos N° 83, N° 87 y N° 96, de 20, 22 y 23 de enero de 2017, respectivamente, y N° 128 y 141, ambos de 26 de enero de 2017, todos del Ministerio de Interior y Seguridad Pública."]
+ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en el Decreto Supremo N° 104 de 1977", "Ley N° 20.444", "artículo 31, inciso 4°, N° 3 de la Ley sobre Impuesto a la Renta", "artículo 79 de la Ley sobre Impuesto a las Ventas y Servicios", "artículo 97 N° 16 del Código Tributario"]
 ---
 
 ## DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS

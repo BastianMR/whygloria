@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["la Ley N° 20.780 de 2014, Reforma Tributaria que modifica Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario", "el DFL N° 1 de la Secretaría General de la Presidencia que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado que incorpora las modificaciones de las Leyes N°s 19.653 y 20.285", "lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal"]
+ref_legal: ["la Ley N° 20.780 de 2014, Reforma Tributaria que modifica Sistema de Tributación de la Renta e introduce diversos ajustes en el Sistema Tributario", "el DFL N° 1 de la Secretaría General de la Presidencia que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado que incorpora las modificaciones de las Leyes N°s 19.653 y 20.285", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

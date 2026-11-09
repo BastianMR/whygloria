@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2024)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE281212"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE AVALUACIONES GE281212"
+materia: "RESOLUCIÓN EXENTA SII N° 73."
 fecha: "2024-07-05"
 exenta: true
 impuestos: ["territorial", "contribuciones"]

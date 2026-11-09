@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2024)"
 description: "DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA."
 tags: [SII, 2024, resolucion]
-materia: "## DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA."
+materia: "DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA."
 fecha: "2024-06-28"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República y en la Resolución EX SII N° 1670, de 2017"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA.

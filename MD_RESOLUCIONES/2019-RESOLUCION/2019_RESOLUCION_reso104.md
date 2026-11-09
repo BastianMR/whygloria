@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7° letras c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "artículos 7° y 11° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el artículo 64° de la Ley N° 18.834, sobre Estatuto Administrativo, la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 64° de la Ley N° 18.834, sobre Estatuto Administrativo, la Resolución Ex"]
 ---
 
 Subdirección de Contraloría Interna Departamento de Auditoría Interna

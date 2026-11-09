@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["El Art. 6º, letra A) Nº 1, el Art. 8° ter del Código Tributario, contenido en el Art. 1º del D.L", "lo dispuesto en la letra b) del Art. 7º, el Art. 4° bis, ambos del D.F.L", "el Art. 54°, del D.L", "la Ley N° 19.983, de 2004", "la Ley N° 20.494, de 2011", "la Ley N° 20.659, de 2013", "la Circular N° 32, de 20.06.2005", "la Circular N° 23, de 03.05.2013"]
+ref_legal: ["El Art 6º, letra A) Nº 1, el Art 8° ter del Código Tributario, contenido en el Art 1º del D.L Nº 830, de 1974", "lo dispuesto en la letra b) del Art 7º, el Art 4° bis, ambos del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el Art 54°, del D.L Nº 825, de 1974", "la Ley N° 19.983, de 2004", "la Ley N° 20.494, de 2011", "la Ley N° 20.659, de 2013", "la Circular N° 32, de 20.06.2005", "la Circular N° 23, de 03.05.2013"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

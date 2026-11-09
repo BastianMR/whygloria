@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de Hacienda, de fecha 30 de Septiembre de 1980", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
 ---
 
 MATERIA: Amplía excepcionalmente el plazo de presentación de las Declaraciones Juradas que se indican, para los contribuyentes de las Regiones de Antofagasta, Atacama y Coquimbo.

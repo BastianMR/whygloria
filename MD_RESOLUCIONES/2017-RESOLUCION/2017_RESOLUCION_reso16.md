@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "en los artículos 6° letra A) Nº 1 y 75 del Código Tributario, Decreto Ley N° 830, de 1974", "artículos 2°, 8° y 73, todos de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "modificados por el artículo 2° de la Ley N° 20.780, que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario y por el artículo 2° de la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributa"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, de Hacienda", "en los artículos 6° letra A) Nº 1 y 75 del Código Tributario, Decreto Ley N° 830, de 1974"]
 ---
 
 ## VISTOS:

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN."
 fecha: "2018-10-02"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Artículo 6°, letra A), N° 3 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L", "y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
+ref_legal: ["Lo dispuesto en el Artículo 6°, letra A), N° 3 y artículo 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y en la Resolución Exenta N° 150, de 29.12.2005, en que se establecen normas y procedimientos de operación de la Contabilidad Electrónica, modificada por la Resolución Exenta N° 86, del 07.09.2017", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

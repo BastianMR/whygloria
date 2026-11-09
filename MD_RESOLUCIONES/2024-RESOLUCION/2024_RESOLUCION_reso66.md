@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la Resolución N° 7, DE 2019, de la Contraloría General de la República"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de Hacienda, de fecha 30.09.1980"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00266790

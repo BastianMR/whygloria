@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2013)"
 description: "las siguientes facultades:"
 tags: [SII, 2013, resolucion]
-materia: "## DELEGA FACULTADES QUE INDICA."
+materia: "DELEGA FACULTADES QUE INDICA."
 fecha: ""
-exenta: true
+exenta: false
 impuestos: ["contribuciones"]
 formularios: []
 regimen: ["no-aplica"]

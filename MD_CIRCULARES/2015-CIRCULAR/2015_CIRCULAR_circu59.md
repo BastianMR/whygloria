@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículo 60 bis", "Ley N° 20.780, Artículo 10, N°16."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 59.-** |

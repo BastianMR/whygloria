@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iec"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo establecido en el artículo 11 N° 1, de la Ley N ° 19.738 y lo dispuesto en las Resoluciones N° 379 de 4 de diciembre de 1991, Ex"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA

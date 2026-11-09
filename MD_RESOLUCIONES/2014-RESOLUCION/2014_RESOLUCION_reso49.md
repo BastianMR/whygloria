@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 2° de la Ley N° 20.715, sobre Protección a Deudores de Crédito de Dinero, publicada en el Diario Oficial el día 13 de diciembre de 2013", "las instrucciones contenidas en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "el artículo 2° de la Ley N° 20.715, sobre Protección a Deudores de Crédito de Dinero, publicada en el Diario Oficial el día 13 de diciembre de 2013", "las instrucciones contenidas en la Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES

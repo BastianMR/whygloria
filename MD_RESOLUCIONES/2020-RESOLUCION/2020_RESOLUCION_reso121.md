@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1 del Código Tributario, contenido en el artículo 1°, del Decreto Ley Nº 830, de 1974", "lo establecido en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "el artículo 31, inciso cuarto, número 4, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "modificada por la Ley N° 21.210", "y las instrucciones impartidas por el Servicio a través de la Circular 53 del 10 de agosto de 2020."]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1 del Código Tributario, contenido en el artículo 1°, del Decreto Ley Nº 830, de 1974", "el artículo 31, inciso cuarto, número 4, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "y las instrucciones impartidas por el Servicio a través de la Circular 53 del 10 de agosto de 2020."]
 ---
 
 ESTABLECE RANGOS DE PORCENTAJES APLICABLES A CRÉDITOS VENCIDOS Y PROCEDIMIENTO Y REGISTRO TRIBUTARIO DE CASTIGO DE DEUDAS INCOBRABLES, CONFORME A LO DISPUESTO EN EL ARTÍCULO 31 INCISO 4°, N° 4 DE LA LEY SOBRE IMPUESTO A LA RENTA.

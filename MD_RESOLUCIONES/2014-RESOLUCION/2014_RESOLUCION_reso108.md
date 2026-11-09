@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2014, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
+materia: "AUTORIZA A DIRECTORES REGIONALES DE LA XIII Y XIV DIRECCIÓN REGIONAL METROPOLITANA PARA DELEGAR EN LOS JEFES DE DEPARTAMENTOS DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS LAS FACULTADES QUE INDICA Y REVOCA AUTORIZACIONES DE DELEGACIÓN QUE SEÑALA."
 fecha: "2014-11-25"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7° letras c) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra B) Nos. 5 y 7 del Código Tributario", "contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra B) Nos. 5 y 7 del Código Tributario"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 74 N° 4, 79, 83, 107, 108 y 109 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "los artículos 81 y 82 de la Ley N° 20.712, Ley Única de Fondos", "las disposiciones contenidas en la Ley N° 21.420", "lo dispuesto en la Resolución Ex", "lo establecido en la Resolución Ex", "y lo dispuesto en la Circular N° 39 de 2022."]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 74 N° 4, 79, 83, 107, 108 y 109 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974", "los artículos 81 y 82 de la Ley N° 20.712, Ley Única de Fondos", "las disposiciones contenidas en la Ley N° 21.420", "lo dispuesto en la Resolución Ex", "y lo dispuesto en la Circular N° 39 de 2022."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

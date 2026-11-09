@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 185 (2025)"
 description: "SUBDIRECCION DE DESARROLLO DE PERSONAS GE 356915"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCION DE DESARROLLO DE PERSONAS GE 356915"
+materia: "DELEGA FACULTAD QUE INDICA."
 fecha: "2025-12-15"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 7, letras e), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "el artículo 6, letra A, N° 3, del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo establecido en el Decreto N° 44, de 2024, del Ministerio del Trabajo y Previsión Social, que Aprueba nuevo Reglamento sobre gestión preventiva de los riesgos laborales para un entorno de trabajo seguro y saludable"]
+ref_legal: ["Los artículos 7, letras e), i) y j) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "el artículo 6, letra A, N° 3, del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado"]
 ---
 
 ## SUBDIRECCION DE DESARROLLO DE PERSONAS GE 356915

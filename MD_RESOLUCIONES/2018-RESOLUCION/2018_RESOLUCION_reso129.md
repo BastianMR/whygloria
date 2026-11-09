@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2018-12-19"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "que contiene el Código Tributario, lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L", "lo establecido en la Ley N° 19.638, publicada en el Diario Oficial con fecha 14.10.1999", "lo establecido en la Ley N° 20.500, publicada en el Diario Oficial con fecha 16.02.2011", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980 del Ministerio de Hacienda", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323077574 GE261704"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323077574 GE261704"
+materia: "AUTORIZA A BETTERFLY CHILE SPA, RUT N° 76.837.328-0, PARA OPERAR UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2023-10-18"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Ex", "en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "en la Resolución Ex", "en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323077574 GE261704

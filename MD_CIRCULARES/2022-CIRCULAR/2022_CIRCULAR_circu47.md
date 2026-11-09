@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
-ref_legal: []
+ref_legal: ["Artículos 33 bis N° 2 y 85 bis del Código Tributario"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 47.- GE00219143** |

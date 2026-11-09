@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["República, se imparten las siguientes instrucciones de obligatorio para todas las Administradoras de Fondos de Pensiones."]
+ref_legal: []
 ---
 
 Sii

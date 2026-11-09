@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2025)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 tags: [SII, 2025, resolucion]
-materia: "## OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 fecha: "2025-05-05"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 Nº 2 y 106 del Código Tributario, contenido en artículo 1º del D.L", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 65 y 69 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L"]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 Nº 2 y 106 del Código Tributario, contenido en artículo 1º del D.L Nº 830, de 1974", "los artículos 65 y 69 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974"]
 ---
 
 ## OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN

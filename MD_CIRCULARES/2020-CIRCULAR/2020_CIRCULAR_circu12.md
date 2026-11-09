@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Arts 53 y 97 Nºs 2 y 11 D.L N° 830, de 1974, sobre Código Tributario"]
 ---
 
 | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION** | **CIRCULAR Nº 12** |

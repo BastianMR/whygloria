@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, letra A, N° 1", "Artículos 88 y 97 N°s 1 y 10 del Código Tributario, contenido en el Artículo Primero del D.L", "Artículo 1° de la Ley 20.727 de 2014, en los Artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el Art 6°, letra A, N° 1", "la Circular N° 134, de 1975", "las Resoluciones Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

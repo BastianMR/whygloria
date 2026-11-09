@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2023)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2023, resolucion]
-materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2023-10-16"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N°18.575", "lo dispuesto en el artículo 385 del Código de Procedimiento Civil", "Resolución N°6 de 26.03.2019, de la Contraloría General de la República"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N°7 de 1980, del Ministerio de Hacienda, el artículo 6 letra A N°3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N°18.575", "lo dispuesto en el artículo 385 del Código de Procedimiento Civil"]
 ---
 
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA

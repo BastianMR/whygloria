@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
+materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR BONO ADICIONAL VARIABLE Y BONO PARA EL PAGO DE COTIZACIONES, ESTABLECIDOS EN LA LEY N° 21.354 DE FECHA 17.06.2021."
 fecha: "2021-08-17"
 exenta: true
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824, de 1974", "en el artículo trigésimo sexto transitorio de la Ley N°21.210, que moderniza la legislación tributaria", "lo establecido en la Ley N°21.354, que otorga bonos de cargo fiscal para apoyar a las micro y pequeñas empresas, por la crisis generada por la enfermedad Covid-19, Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830, de 1974", "en los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N°824, de 1974", "en el artículo trigésimo sexto transitorio de la Ley N°21.210, que moderniza la legislación tributaria"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

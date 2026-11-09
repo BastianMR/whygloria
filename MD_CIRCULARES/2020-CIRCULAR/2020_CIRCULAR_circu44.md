@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["en el artículo 207 que se agrega al Código Tributario por la Ley."]
+ref_legal: ["Modifica: Circular N°65 de 2015 Deroga: Circular Nº71 de 2001"]
 ---
 
 | **DEPARTAMENTO EMISOR Departamento de Asesoría Jurídica** | **CIRCULAR N° 44** |

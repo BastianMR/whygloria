@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["ARTÍCULO 8° DE LA LEY N° 17.235"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 31.-** |

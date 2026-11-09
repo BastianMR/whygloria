@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["CUADRO ANEXO NÓMINA DE EXENCIONES AL IMPUESTO TERRITORIAL, PÁRRAFO I, LETRA B), N° 3, DE LA LEY N° 17.235, SOBRE IMPUESTO TERRITORIAL."]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 04.-** |

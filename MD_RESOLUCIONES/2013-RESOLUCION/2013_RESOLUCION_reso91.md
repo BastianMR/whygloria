@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1", "artículos 88 y 97 N° 10 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 2° N°s 1 y 3, 3° inciso tercero, 9° letra a) y 55 de la Ley sobre Impuesto a las Ventas y Servicios, D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 2° N°s 1 y 3, 3° inciso tercero, 9° letra a) y 55 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974, en los artículos 22°, 73° y 81° del Reglamento de IVA, contenido en el D.S N° 55, de 1977 y en las Circulares N°s 126, de 1977, y 60, de 2006."]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

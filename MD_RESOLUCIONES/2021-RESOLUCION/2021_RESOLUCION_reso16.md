@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2021)"
 description: "DESIGNA SECRETARIO GENERAL SUBROGANTE"
 tags: [SII, 2021, resolucion]
-materia: "## DESIGNA SECRETARIO GENERAL SUBROGANTE"
+materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET"
 fecha: "2021-02-15"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 20.659, publicada en el Diario Oficial del 08 de febrero de 2013"]
 ---
 
 | **DEPARTAMENTO EMISOR: DPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES** | **CIRCULAR N° 60** |

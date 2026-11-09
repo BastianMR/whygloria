@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 13 del Decreto Ley N° 701, de 1974, sobre Fomento Forestal, el artículo 35 de la Ley N° 20.283, el Cuadro Anexo 'Nómina de exenciones al Impuesto Territorial', Párrafo I letra B) N° 13 de la Ley N° 17.235, sobre Impuesto Territorial", "lo indicado en el artículo 6°, la letra A, N° 1, del Código Tributario, lo establecido en las letras a) y b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
+ref_legal: ["Lo dispuesto en el artículo 13 del Decreto Ley N° 701, de 1974, sobre Fomento Forestal, el artículo 35 de la Ley N° 20.283, el Cuadro Anexo 'Nómina de exenciones al Impuesto Territorial', Párrafo I letra B) N° 13 de la Ley N° 17.235, sobre Impuesto Territorial"]
 ---
 
 DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA.

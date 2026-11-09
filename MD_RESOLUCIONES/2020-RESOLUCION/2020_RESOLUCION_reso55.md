@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "REGULA INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA ESTABLECIDO EN EL ARTÍCULO 35 A DEL NUEVO PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2020-05-20"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en el nuevo Párrafo 7° bis, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "y el artículo trigésimo sexto transitorio de la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "y el artículo trigésimo sexto transitorio de la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

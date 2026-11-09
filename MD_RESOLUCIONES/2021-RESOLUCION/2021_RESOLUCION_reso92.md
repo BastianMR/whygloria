@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2021)"
 description: "SUBDIRECCIONDEFISCALIZACION OFICINADEAPOYOLEGALYADMINISTRATIVO GE00176483"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIONDEFISCALIZACION OFICINADEAPOYOLEGALYADMINISTRATIVO GE00176483"
+materia: "AUTORIZAAENEXS.A.,PARAOPERARDE ACUERDOALODISPUESTOENRESOLUCION EX.SIIN°172DE2010."
 fecha: "2021-07-30"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["1° Lo dispuesto en el articulo 6, letra A), N°1 del CodigoTributario,contenido enelarticulo1delD.L.N830,delMinisterio deHacienda,de 1974", "en los articulos 1y7,letra b),delaLeyOrganica del Servicio de Impuestos Internos,contenida en el articulo1del D.F.L.N°7,de1980,delMinisterio deHacienda", "lo dispuesto enla Ley sobre Impuesto alasVentasyServicios,contenida en el D.L.N°825de 1974", "loestablecido enResolucionEx.Sll N°172 de2010,que\"Autoriza sistema de despacho decombustibles de propiedad del Ministerio de Defensa Nacional,del EstadoMayor de la DefensaNacional,de las Fuerzas Armadas,de CarabinerosdeChileodelaPolicia deInvestigaciones,porpartedeempresasprestadorasde ServiciosdeDe"]
+ref_legal: ["lo dispuesto enla Ley sobre Impuesto alasVentasyServicios,contenida en el D.LN°825de 1974"]
 ---
 
 ## SUBDIRECCIONDEFISCALIZACION OFICINADEAPOYOLEGALYADMINISTRATIVO GE00176483

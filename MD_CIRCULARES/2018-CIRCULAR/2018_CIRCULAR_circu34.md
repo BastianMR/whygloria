@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, contenido en el artículo primero del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda, artículo 123 bis", "Ley N° 20.322, que fortalece y perfecciona la jurisdicción tributaria y aduanera", "artículo 2°, N° 5, de la Ley N° 21.039, que perfecciona la Justicia Tributaria y Aduanera."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA.** | **CIRCULAR Nº 34.-** |

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta", "Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Análisis Selectivo del Cumplimiento Tributario** | **CIRCULAR N°32.-** |

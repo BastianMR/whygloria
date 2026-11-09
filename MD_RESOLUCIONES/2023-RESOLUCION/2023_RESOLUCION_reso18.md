@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+materia: "DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO."
 fecha: "2023-02-22"
 exenta: true
 impuestos: []

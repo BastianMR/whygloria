@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iec"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículos 17, 60, 60 bis, 60 ter, 60 quáter, 60 quinquies y 69", "Ley N° 20.899, artículo 3°, N°s 2, 4, 5, 6, 7, 8 y 9."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 30** |

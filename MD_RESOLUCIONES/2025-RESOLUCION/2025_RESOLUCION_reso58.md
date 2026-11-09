@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
+materia: "ESTABLECE PARÁMETROS OBJETIVOS PARA DETERMINAR LA COOPERACIÓN EFICAZ, EN LOS TÉRMINOS DEL ARTÍCULO 100 TER DEL CÓDIGO TRIBUTARIO"
 fecha: "2025-05-06"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el N° 39 del artículo 1° de la Ley N° 21.713", "el artículo 100 ter del Código Tributario", "lo instruido s Circulares N° 58 de 2022 y la N° 36 de 2025"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el N° 39 del artículo 1° de la Ley N° 21.713", "el artículo 100 ter del Código Tributario"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

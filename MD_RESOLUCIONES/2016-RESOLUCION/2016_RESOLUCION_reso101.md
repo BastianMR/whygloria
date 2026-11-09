@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: ["DJ1887", "F22", "F29", "F50"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980, Ley N° 19.628, sobre Protección de la Vida Privada, Ley N° 20.575 establece el Principio de Finalidad en el Tratamiento de Datos Pe"]
 ---
 
 MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A.

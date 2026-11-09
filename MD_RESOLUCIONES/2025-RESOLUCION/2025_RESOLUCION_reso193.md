@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 193 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN GE354371"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN GE354371"
+materia: "CREA REGISTRO DE PEQUEÑOS CONTRIBUYENTES QUE DESARROLLEN ACTIVIDADES DE SUBSISTENCIA."
 fecha: "2025-12-22"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo señalado en el artículo 68 del Código Tributario", "lo establecido en los artículos 29 al 35 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "lo dispuesto en los artículos 49 al 53 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda", "en el N° 8 de la letra D) del artículo 14, artículo 22, y artículo 52 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° Decreto Ley N° 824 de 1974", "la Resolución Ex", "Resolución Ex"]
+ref_legal: ["lo dispuesto en los artículos 49 al 53 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda", "en el N° 8 de la letra D) del artículo 14, artículo 22, y artículo 52 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° Decreto Ley N° 824 de 1974", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN GE354371

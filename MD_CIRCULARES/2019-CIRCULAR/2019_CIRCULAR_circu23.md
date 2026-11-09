@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Art. 29, de la Ley N° 18.591."]
+ref_legal: ["Art 29, de la Ley N° 18.591."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N°23.-** |

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1", "36 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos (SII), contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64, de la Ley sobre Impuesto a las Ventas y Servicios contenida en el Decreto Ley 825, de 1974, modificado por el número 11 del artículo 2° de la Ley N° 20.780 de 2014, sobre Reforma Tributaria"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos (SII), contenida en el artículo 1° del D.F.L N° 7, de 1980"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

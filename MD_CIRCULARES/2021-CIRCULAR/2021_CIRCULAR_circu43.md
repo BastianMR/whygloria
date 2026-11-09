@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "herencias", "territorial", "segunda-categoria"]
 formularios: ["F22"]
 regimen: ["renta-presunta"]
-ref_legal: []
+ref_legal: ["Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020."]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos** | **CIRCULAR N°43.- 180906.2021 GE** |

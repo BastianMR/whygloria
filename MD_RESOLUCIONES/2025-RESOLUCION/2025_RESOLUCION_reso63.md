@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO"
+materia: "AUTORIZA A BANCO SANTANDER CHILE, RUT N° 97.036.000-K, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-05-22"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y el artículo 88° del Código Tributario, contenido en el Artículo 1° del D.L", "lo dispuesto en la letra b), del artículo 7° del D.F.L", "los artículos 2° N°2, 3° inciso tercero y 10 de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "el Título XIII del Decreto Supremo N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
+ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y el artículo 88° del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del artículo 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos", "los artículos 2° N°2, 3° inciso tercero y 10 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del Decreto Supremo N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
 ---
 
 Sii

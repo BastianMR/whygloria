@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 509 - SDAC - 2017 77317428320"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 509 - SDAC - 2017 77317428320"
+materia: "AUTORIZA A EMPRESA QWANTIQ CHILE SPA. PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2017-12-13"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "y la Resolución Exenta N° 5028, del 28.08.1998, modificada por la Resolución Exenta N° 115, del 28.11.2017, delegatoria"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "y la Resolución Exenta N° 5028, del 28.08.1998, modificada por la Resolución Exenta N° 115, del 28.11.2017, delegatoria"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 509 - SDAC - 2017 77317428320

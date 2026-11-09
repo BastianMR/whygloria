@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "lo establecido en las Leyes N° 19.799 y N° 19.983", "en el Art. 4° bis del D.F.L", "Ley 20.727 de 2014, de Factura Electrónica", "en las Resoluciones Exentas SII N° 09, de 2001"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56, inciso tercero, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974", "y las disposiciones pertinentes del D.S N° 55, de 1977, Reglamentario de dicha ley", "en el Art 4° bis del D.F.L N° 7, 1980, del Ministerio de Hacienda", "en las Resoluciones Exentas SII N° 09, de 2001"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

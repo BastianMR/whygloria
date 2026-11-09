@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
+materia: "DISPÓNESE CAMBIO TOTAL DEL SUJETO DEL IVA Y AUTORIZA A MERCADOLIBRE CHILE LTDA., RUT N° 77.398.220-1, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-10-08"
-exenta: true
+exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y el artículo 88° del Código Tributario, contenido en el Artículo 1° del D.L", "lo dispuesto en la letra b), del artículo 7° del D.F.L", "los artículos 2° N°2, 3° inciso tercero y 10 de la Ley sobre Impuesto a las Ventas y Servicios, D.L", "el Título XIII del Decreto Supremo N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "Resolución Ex"]
+ref_legal: ["Lo dispuesto en el N° 1, letra A), del artículo 6° y el artículo 88° del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del artículo 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos", "los artículos 2° N°2, 3° inciso tercero y 10 de la Ley sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del Decreto Supremo N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
 ---
 
 Sii

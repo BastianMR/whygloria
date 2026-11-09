@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["D.F.L N° 340 de 1960 sobre Concesiones Marítimas"]
 ---
 
 | **DEPARTAMENTO EMISOR: Técnica Tributaria** | **CIRCULAR N° 37.-** |

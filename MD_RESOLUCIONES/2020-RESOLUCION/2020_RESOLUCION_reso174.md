@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 174 (2020)"
 description: "RESOLUCIÓN EXENTA SII N°174.-"
 tags: [SII, 2020, resolucion]
-materia: "## RESOLUCIÓN EXENTA SII N°174."
+materia: "RESOLUCIÓN EXENTA SII N°174."
 fecha: "2020-12-30"
 exenta: true
 impuestos: ["renta"]

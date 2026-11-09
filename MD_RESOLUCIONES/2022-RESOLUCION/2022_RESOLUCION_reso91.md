@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00211053"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00211053"
+materia: "RESOLUCIÓN EX. SII N° 91."
 fecha: "2022-09-29"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "artículo 16 N° 6, de la Ley N° 20.848 y el artículo 35 del Código Tributario."]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado"]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00211053

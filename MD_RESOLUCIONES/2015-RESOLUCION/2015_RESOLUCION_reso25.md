@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "REEMPLAZA FORMATO E INSTRUCCIONES DE DECLARACIÓN JURADA SOBRE RETENCIONES DE IMPUESTOS A QUE SE REFIERE EL ARTÍCULO 74 N° 4 DE LA LEY SOBRE IMPUESTO A LA RENTA; ESTABLECE NUEVO FORMATO DE FORMULARIO N° 1912 Y MODELO DE CERTIFICADO N° 42; Y DEROGA RES. EX. N° 16 DE 30.01.2008"
 fecha: "2015-03-13"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 10, 11, 21, 58, 59, 60, 74 N° 4, 79, 82 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo señalado en los artículos 81, 82 y 86 de la Ley que regula la administración de fondos de terceros y carteras individuales, contenida en el artículo primero de la Ley N° 20.712, publicada en el Diario Oficial del 07 de Enero de 2014", "y lo señalado en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "los artículos 10, 11, 21, 58, 59, 60, 74 N° 4, 79, 82 y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, modificada por las Leyes N°s 20.630 y 20.780, publicadas en el Diario Oficial del 27 de septiembre de 2012 y del 29 de septiembre de 2014, respectivam", "y lo señalado en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

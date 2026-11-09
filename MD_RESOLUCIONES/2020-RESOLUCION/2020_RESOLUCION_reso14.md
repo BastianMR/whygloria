@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L"]
+ref_legal: ["y en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L N° 830 de 1974, sobre Código Tributario"]
 ---
 
 MATERIA: Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario N° 1879, en los casos que se señalan.

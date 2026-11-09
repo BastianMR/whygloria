@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA RESOLUCIÓN N° 16 DE 03 DE MARZO DE 2015, EN LO RELATIVO A LA OBLIGACIÓN DE DECLARAR Y REEMPLAZA EL FORMATO DE LAS DECLARACIONES JURADAS FORMULARIOS N°S 1851 y 1853 Y LAS INSTRUCCIONES PERTINENTES."
 fecha: "2015-12-24"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L", "las instrucciones contenidas en las Resoluciones Exentas N°6 de 21 de enero de 2003, y 109, de 10 de diciembre de 2004", "y sus modificaciones posteriores contenidas en Resoluciones Exentas SII N°103 de 16 de diciembre de 2013, N°106 de 24 de Diciembre de 2013 y 16 de 03 de marzo de 2015"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974, y las modificaciones legales introducidas por la Ley N°20.780 sobre reforma tributaria publicada en el Diario Oficial de 29 de septiembre de 2014", "las instrucciones contenidas en las Resoluciones Exentas N°6 de 21 de enero de 2003, y 109, de 10 de diciembre de 2004", "y sus modificaciones posteriores contenidas en Resoluciones Exentas SII N°103 de 16 de diciembre de 2013, N°106 de 24 de Diciembre de 2013 y 16 de 03 de marzo de 2015"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

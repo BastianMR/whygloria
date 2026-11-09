@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6º letra A) Nº 1 y 60° inciso octavo del Código Tributario, contenido en el artículo 1º del D.L", "en los artículos 42 bis, 42 ter, 42 quáter y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "en los artículos 20 y 20 L del D.L Nº 3.500, de 1980", "las Resoluciones Exentas SII N° 35, de 2002, y N° 30 de 2012"]
+ref_legal: ["Lo dispuesto en los artículos 1º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6º letra A) Nº 1 y 60° inciso octavo del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974", "en los artículos 42 bis, 42 ter, 42 quáter y 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "en los artículos 20 y 20 L del D.L Nº 3.500, de 1980", "las Resoluciones Exentas SII N° 35, de 2002, y N° 30 de 2012"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS

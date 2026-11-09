@@ -5,7 +5,7 @@ description: "MATERIA: Aprueba Convenio entre el Servicio de Impuestos Internos 
 tags: [SII, 2024, resolucion]
 materia: "Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59ª Asamblea General del CIAT."
 fecha: "2024-12-05"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2015)"
 description: "AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
 tags: [SII, 2015, resolucion]
-materia: "## AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
+materia: "AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
 fecha: "2015-07-20"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 18 ambos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el Artículo Vigesimocuarto de las Disposiciones Transitorias de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial del 29 de septiembre de 2014, el Ordinario N° 341 de fecha 16 de febrero de 2015 que contiene la resolución que dispone que las autorizaciones que confiera el S"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 18 ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el Artículo Vigesimocuarto de las Disposiciones Transitorias de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial del 29 de septiembre de 2014, el Ordinario N° 341 de fecha 16 de febrero de 2015 que contiene la resolución que dispone que las autorizaciones que confiera el S"]
 ---
 
 ## AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA.

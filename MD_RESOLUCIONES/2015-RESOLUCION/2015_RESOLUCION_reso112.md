@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL N° 1926 A LOS CONTRIBUYENTES QUE INDICA; DISPONE LA OBLIGACIÓN PARA LAS MEDIANAS EMPRESAS DE PRESENTAR LA DECLARACIÓN JURADA N° 1847; Y DEROGA RESOLUCIONES EXENTAS N°s 1, DEL 2012 Y 41, DEL 2014."
 fecha: "2015-12-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6°, letra A), N° 1, 34 y 35 del Código Tributario, contenido en el artículo 1° del D", "el artículo 14 ter de la Ley de Impuesto a la Renta, contenida en el artículo 1° del DL", "la Ley N° 20.416", "y las Resoluciones Exentas SII N°s 01 y 02 del 11.01.2012"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 6°, letra A), N° 1, 34 y 35 del Código Tributario, contenido en el artículo 1° del D", "el artículo 14 ter de la Ley de Impuesto a la Renta, contenida en el artículo 1° del DL", "la Ley N° 20.416", "y las Resoluciones Exentas SII N°s 01 y 02 del 11.01.2012"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

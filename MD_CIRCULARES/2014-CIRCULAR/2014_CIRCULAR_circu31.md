@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["CIRCULAR N°31 DEL 01 DE JUNIO DE 2007."]
 ---
 
 Complementada por Circular N° 38, del 30 de abril de 2025 Modificada por Circular N° 38, del 30 de abril de 2025 Complementada por Circular N° 26, del 03 de abril de 2025

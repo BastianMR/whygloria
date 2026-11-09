@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 87 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "ESTABLECE PROCEDIMIENTO PARA PAGO DEL IMPUESTO A LAS VENTAS Y SERVICIOS QUE SE HAYA POSTERGADO CONFORME LO DISPUESTO EN RES. EX SII N° 41 y N° 77 DE 2020, EN VIRTUD DE IMPORTACIONES ACEPTADAS A TRÁMITE EN LOS MESES QUE INDICA."
 fecha: "2020-07-30"
 exenta: true
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, Decreto Ley N° 825, de 1974, del Ministerio de Hacienda en relación con el inciso primero del artículo 104 de la Ordenanza de Aduanas, cuyo texto refundido, coordinado y sistematizado fue aprobado mediante D.F.L", "artículo segundo de la Ley N° 20.416, que 'Fija Normas Especiales para las Empresas de Menor Tamaño'", "Decreto Supremo Nº 107, de 20 de marzo de 2020, del Ministerio del Interior, que 'Declara como zonas afectadas por catástrofe a las comunas que indica'", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile' modificado por Decreto Sup", "Resolución Exenta SII N° 41, de 13 de abril de 2020", "Resolución Exenta SII Nº 77, de 08 de julio de 2020", "Resolución N° 1.559, de 17 de abril de 2020 y N° 2.308 de 13.07.2020, ambas del Servicio Nacional de Aduanas"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, Decreto Ley N° 825, de 1974, del Ministerio de Hacienda en relación con el inciso primero del artículo 104 de la Ordenanza de Aduanas, cuyo texto refundido, coordinado y sistematizado fue aprobado mediante D.F.L N° 30 ", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile' modificado por Decreto Sup"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

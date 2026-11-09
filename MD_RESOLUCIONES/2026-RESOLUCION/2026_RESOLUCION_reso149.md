@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 149 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS GE00369426 238-DTE-2025"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS GE00369426 238-DTE-2025"
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 143, DE FECHA 24.09.2009, QUE AUTORIZÓ LA OPERACIÓN DE UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2026-10-27"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Ex", "en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "en la Resolución Ex", "en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS GE00369426 238-DTE-2025

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2026)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2026, resolucion]
-materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2026-05-25"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo", "Resolución N° 36 de 2024, de la Contraloría General de la República, Decreto N° 293, de 25.02.2026, del Ministerio de Hacienda"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo"]
 ---
 
 ## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA

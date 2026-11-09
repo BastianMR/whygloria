@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2014, resolucion]
-materia: "681-653-1250-SDF-2011, 18-SDF-2012, 413-617-799-SDF-2013 y 446-490-SDF-2014 255-235-432-2011, 12-2012, 156-228-309-2013, 144-157-2014 77311091703, 77311088487, 77312002421 77313361251, 77313331933, 77313293911, 77314520078, 77314529861 y 77311146365"
+materia: "AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2014-07-18"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "sobre Código Tributario, lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L", "lo establecido en la Ley N° 19.638, publicada en el Diario Oficial con fecha 14.10.1999", "lo establecido en la Ley N° 20.500, publicada en el Diario Oficial con fecha 16.02.2011", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980 del Ministerio de Hacienda", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

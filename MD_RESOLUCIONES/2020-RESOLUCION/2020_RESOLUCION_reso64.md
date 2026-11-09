@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "EXIME DE LA OBLIGACION DE EMITIR FACTURAS NO AFECTAS O EXENTAS POR EL TRANSPORTE DE PASAJEROS Y DISTRIBUCIÓN DE INSUMOS MEDICOS Y CAJAS DE ALIMENTOS EFECTUADO MEDIANTE FURGONES DE TRANSPORTE ESCOLAR, EN EL MARCO DEL ESTADO DE EXCEPCIÒN CONSTITUCIONAL DE CATASTROFE NACIONAL POR CAUSA DEL COVID - 19."
 fecha: "2020-06-24"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 12 Letra E Nº 12 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, del Ministerio de Hacienda", "la Ley N° 16.282 que establece disposiciones permanentes para casos de sismos o catástrofes y cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "Decreto Supremo N° 104, de 18 de marzo de 2020, que 'Declara estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile' extendido por Decreto Supremo Nº 269 de 16.06.2020, y Decreto Supremo Nº 107, de 20 de marzo de 2020, que 'Declara como zonas afectadas por", "el Decreto Nº 269, de 12 de junio de 2020, del Ministerio del Interior y Seguridad Pública, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indica'", "Decreto Nº 28 de 19.05.2020 del Ministerio de Transportes", "y, la Resolución Exenta Nº 6080 de 10.09.1999"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en el artículo 12 Letra E Nº 12 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, del Ministerio de Hacienda", "la Ley N° 16.282 que establece disposiciones permanentes para casos de sismos o catástrofes y cuyo texto fue refundido, coordinado y sistematizado por el Decreto con Fuerza de Ley N° 104 de 1977", "el Decreto Nº 269, de 12 de junio de 2020, del Ministerio del Interior y Seguridad Pública, que 'Prorroga declaración de estado de excepción constitucional de catástrofe, por calamidad pública, en el territorio de Chile, por el lapso que indica'"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

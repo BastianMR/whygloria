@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE POR MEDIO DE FORMULARIO N° 1921; ESTABLECE REGLAS PARA CORRELACIONAR INVERSIONES Y PASIVOS SEGÚN LO DISPUESTO EN EL INCISO QUINTO DEL ARTÍCULO 10 DE LA LEY SOBRE IMPUES"
 fecha: "2020-09-28"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, letra A) N°1 y en los artículos 33 bis, 60 y 66, todos del Código Tributario contenido en el artículo 1° del D.L", "los artículos 1°, 4° bis y 7° del D.F.L", "los artículos 10 inciso tercero y siguientes y 58 Nº 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en Art. 1º D.L Nº 824, de 1974", "las modificaciones legales introducidas por la Ley N° 21.210, de 24 febrero de 2020, sobre Modernización Tributaria, y lo instruido en las Circulares N°14 de 2014, modificada por la Circular N°59 del mismo año, y en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el Art 6°, letra A) N°1 y en los artículos 33 bis, 60 y 66, todos del Código Tributario contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "los artículos 10 inciso tercero y siguientes y 58 Nº 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en Art 1º D.L Nº 824, de 1974", "las modificaciones legales introducidas por la Ley N° 21.210, de 24 febrero de 2020, sobre Modernización Tributaria, y lo instruido en las Circulares N°14 de 2014, modificada por la Circular N°59 del mismo año, y en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

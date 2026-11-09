@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS. DEROGA RESOLUCIÓN EX. SII N° 24, DEL 23 DE MARZO DE 2016."
 fecha: "2017-07-05"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L. 830, de 1974", "en los artículos 55, 56, inciso 3°, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenido en el artículo 1° de D.L", "el Anexo N° 1, del D.L", "en el artículo 4° bis del D.F.L", "lo establecido en las Leyes N° 19.799, N° 19.983 y N° 20.727, sobre Factura Electrónica", "y las instrucciones impartidas por este Servicio en las Resoluciones Exentas SII N° 09, de 2001", "y en la Circular N°32, de 2005"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el Artículo 1° del D.L 830, de 1974", "en los artículos 55, 56, inciso 3°, y 57, incisos 1° y 2°, de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenido en el artículo 1° de D.L N° 825, de 1974", "el Anexo N° 1, del D.L N° 825, que contiene el D.S N° 55, de Hacienda, de 1977, Reglamentario de dicha ley", "en el artículo 4° bis del D.F.L N° 7, 1980, del Ministerio de Hacienda", "y las instrucciones impartidas por este Servicio en las Resoluciones Exentas SII N° 09, de 2001", "y en la Circular N°32, de 2005"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

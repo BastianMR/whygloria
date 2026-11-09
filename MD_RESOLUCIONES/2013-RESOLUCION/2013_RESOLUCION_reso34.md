@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
-materia: "MODIFICA RESOLUCIÓN EX. SII N°67, DE 2009, QUE ESTABLECE NORMAS PARA LA DEVOLUCIÓN DEL IMPUESTO DEL TÍTULO II Y DEL ARTÍCULO 42 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS CONTENIDA EN EL D.L. N° 825, DE 1974, MODIFICANDO VALOR MÍNIMO DE COMPRAS DE MERCANCÍAS QUE DAN DERECHO A LA REFERIDA DEVOLUCIÓN."
+materia: "MODIFICA RESOLUCIÓN EX. SII N°67, DE 2009, QUE ESTABLECE NORMAS PARA LA DEVOLUCIÓN DEL IMPUESTO DEL TÍTULO II Y DEL ARTÍCULO 42 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS CONTENIDA EN EL D.L. N° 825, DE 1974, MODIFICANDO VALOR MÍNIMO DE COMPRAS DE MERCANCÍAS QUE DAN DERECHO A LA REFERIDA DEVO"
 fecha: "2013-03-22"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el Art. 1° del D.L", "el Art. 7 de la Ley Orgánica del Servicios de Impuestos Internos, contenida en el Art. 1 del D.F.L", "el Artículo 6° de la Ley N° 20.655, publicada en el Diario Oficial del 01.02.2013", "y las instrucciones impartidas mediante Resolución Ex"]
+ref_legal: ["Lo dispuesto en el Art 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "el Art 7 de la Ley Orgánica del Servicios de Impuestos Internos, contenida en el Art 1 del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980, el Art 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974, el Art 4° de la Ley N° 1", "el Artículo 6° de la Ley N° 20.655, publicada en el Diario Oficial del 01.02.2013", "y las instrucciones impartidas mediante Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

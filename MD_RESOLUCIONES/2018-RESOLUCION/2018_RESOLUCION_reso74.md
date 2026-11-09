@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2018)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
+materia: "INSTALA LA XX DIRECCIÓN REGIONAL, CHILLÁN, FIJANDO SU SEDE Y JURISDICCIÓN TERRITORIAL"
 fecha: "2018-09-04"
 exenta: true
 impuestos: ["renta", "iva", "herencias", "contribuciones"]

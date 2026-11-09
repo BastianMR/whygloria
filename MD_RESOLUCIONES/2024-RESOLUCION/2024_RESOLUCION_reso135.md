@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2024)"
 description: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024"
 tags: [SII, 2024, resolucion]
-materia: "## FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024"
+materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024"
 fecha: "2024-12-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 2°, 3° bis, 7°, 9° y 42° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N° 7 de 1980", "en los artículos 6° letra A, Nº 1, 59 ter, 65 bis, 65 ter del Código Tributario contenido en el Art. 1° del D.L", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Exenta N°75, de 28 de junio de 2023, del Servicio de Impuestos Internos"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 2°, 3° bis, 7°, 9° y 42° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N° 7 de 1980", "en los artículos 6° letra A, Nº 1, 59 ter, 65 bis, 65 ter del Código Tributario contenido en el Art 1° del D.L Nº 830, de 1974", "en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Exenta N°75, de 28 de junio de 2023, del Servicio de Impuestos Internos"]
 ---
 
 ## FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024

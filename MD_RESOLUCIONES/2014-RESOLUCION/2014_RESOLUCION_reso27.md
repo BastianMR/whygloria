@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
-materia: "## DELEGA FACULTADES EN EL DIRECTOR REGIONAL DE LA XIX DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO NORTE."
+materia: "DELEGA FACULTADES EN EL DIRECTOR REGIONAL DE LA XIX DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO NORTE."
 fecha: "2014-02-28"
 exenta: true
 impuestos: ["iva", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 7°, letras c), h), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "lo establecido en el N°3 de la letra A) del artículo 6° del Código Tributario", "en el artículo 41 del D.F.L", "en las Resoluciones Exenta N°328 de 1977, Exenta N°1834 de 1988, Exenta N°03338 de 1992, Exenta N°004870 de 1993, Exenta N°5517 de 1996, N° 343 de 2000, Exenta N°1341 de 2000, Exenta N°3311 de 2000, Exenta N°3721 de 2000, Exenta N°3722 de 2000, Exenta N°4095 de 2000, Exenta N°4916 de 2000, Exenta N°", "en la Resolución Conjunta Exenta N° 01, de 22 de Julio de 2013, del señor Tesorero General de la República y el Director de este Servicio", "la Resolución N°1600, de 2008, de la Contraloría General de la República"]
+ref_legal: ["lo dispuesto en el artículo 7°, letras c), h), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N°7, de 1980, del Ministerio de Hacienda", "en el artículo 41 del D.F.L N° 1-19653, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en las Resoluciones Exenta N°328 de 1977, Exenta N°1834 de 1988, Exenta N°03338 de 1992, Exenta N°004870 de 1993, Exenta N°5517 de 1996, N° 343 de 2000, Exenta N°1341 de 2000, Exenta N°3311 de 2000, Exenta N°3721 de 2000, Exenta N°3722 de 2000, Exenta N°4095 de 2000, Exenta N°4916 de 2000, Exenta N°", "en la Resolución Conjunta Exenta N° 01, de 22 de Julio de 2013, del señor Tesorero General de la República y el Director de este Servicio", "la Resolución N°1600, de 2008, de la Contraloría General de la República"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

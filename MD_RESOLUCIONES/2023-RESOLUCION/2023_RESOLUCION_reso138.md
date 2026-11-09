@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva", "territorial", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 que establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública", "El artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y el Decreto Ley N° 16.391, que crea el Ministerio de Vivienda y Urbanismo."]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de Hacienda, de 1980", "El artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y el Decreto Ley N° 16.391, que crea el Ministerio de Vivienda y Urbanismo."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE257643

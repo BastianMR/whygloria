@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del SII, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Exento (Por orden del Presidente de la República) RA N° 289/323/2024, de fecha 04/07/2024 del Ministerio de Hacienda, que nombra subrogante al cargo de Director del Servicio de Impuestos Internos a Carolina Saravia Morales", "lo instruido en la Resolución N°36 de 2024, de la Contraloría General de la República", "lo dispuesto en las Resoluciones N° 349 de 1984"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del SII, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras c) y ñ) del artículo 7° del mismo texto legal", "el Decreto Exento (Por orden del Presidente de la República) RA N° 289/323/2024, de fecha 04/07/2024 del Ministerio de Hacienda, que nombra subrogante al cargo de Director del Servicio de Impuestos Internos a Carolina Saravia Morales", "lo dispuesto en las Resoluciones N° 349 de 1984"]
 ---
 
 ## SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN GE00343305

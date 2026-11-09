@@ -5,11 +5,11 @@ description: "AMPLIA PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TE
 tags: [SII, 2014, resolucion]
 materia: "AMPLIA PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII, EN EL MARCO DE LA LEY N° 20.732, RESPECTO DE LAS CUOTAS 1 Y 2 DE 2014, PARA LAS REGIONES DE ARICA Y PARINACOTA Y TARAPACÁ."
 fecha: "2014-04-15"
-exenta: true
+exenta: false
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente", "lo indicado en el artículo 6°, letra A, N° 1, del Código Tributario", "lo establecido en el artículo 4° bis y las letras a) y c) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente"]
 ---
 
 AMPLIA PLAZO DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII, EN EL MARCO DE LA LEY N° 20.732, RESPECTO DE LAS CUOTAS 1 Y 2 DE 2014, PARA LAS REGIONES DE ARICA Y PARINACOTA Y TARAPACÁ.

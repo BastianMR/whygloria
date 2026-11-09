@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE 183729"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE 183729"
+materia: "AUTORIZA A RED APOYO SA., RUT 76.948.390K, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO, SEGÚN SE INDICA."
 fecha: "2022-02-28"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N° 1, de la letra A), del artículo 6° y el artículo 88°, ambos del D.L", "lo dispuesto en la letra b), del artículo 7° del D.F.L", "el inciso tercero del artículo 3° y el Título IV del D.L", "Resolución ex"]
+ref_legal: ["Lo dispuesto en el N° 1, de la letra A), del artículo 6° y el artículo 88°, ambos del D.L N° 830, de 1974, sobre Código Tributario", "lo dispuesto en la letra b), del artículo 7° del D.F.L N° 7,de 1980, del Ministerio de Hacienda, Ley Orgánica del Servicio de Impuestos Internos", "el inciso tercero del artículo 3° y el Título IV del D.L N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios", "el Título XIII del D.S N° 55, de 1977, del Ministerio de Hacienda, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS GE 183729

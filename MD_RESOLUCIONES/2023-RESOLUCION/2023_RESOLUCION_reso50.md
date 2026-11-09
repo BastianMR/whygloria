@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917"
+materia: "DELEGA FACULTADES QUE INDICA."
 fecha: "2023-04-26"
 exenta: true
 impuestos: []

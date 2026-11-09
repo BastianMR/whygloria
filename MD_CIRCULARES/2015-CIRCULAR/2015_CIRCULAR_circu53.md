@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 20.780, numeral 12º del artículo 10"]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 53.-** |

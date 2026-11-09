@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "AUTORIZA REEMPLAZO DE LA OBLIGACIÓN DE ENTREGA DE BOLETAS ELECTRÓNICAS POR EL ENVÍO POR CORREO ELECTRÓNICO A LA EMPRESA ENTEL PCS TELECOMUNICACIONES S.A. EN LA FORMA Y CONDICIONES QUE SE INDICAN."
 fecha: "2018-01-18"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 92 bis del Código Tributario, contenido en el artículo 1° del D.L. 830, de 1974", "los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenida en el artículo 1° de D.L", "y las instrucciones impartidas por este Servicio en la Resolución Exenta SII N° 18, del 2003, modificada por las Resoluciones Exentas N°s 84, del 2005, 157, del 2007 y 22, del 2016", "la Resolución Exenta N° 45, del 2003, modificada por las Resoluciones Exentas N°s 49, de 2011", "80 y 100, de 2014 y 61, de 2017 y la Resolución Exenta N° 19, del 2008", "modificada por la Resolución N° 160, de 2010"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 92 bis del Código Tributario, contenido en el artículo 1° del D.L 830, de 1974", "los artículos 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980", "los artículos 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenida en el artículo 1° de D.L N° 825, de 1974", "el D.S N° 55, del Ministerio de Hacienda, de 1977, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución Exenta SII N° 18, del 2003, modificada por las Resoluciones Exentas N°s 84, del 2005, 157, del 2007 y 22, del 2016", "la Resolución Exenta N° 45, del 2003, modificada por las Resoluciones Exentas N°s 49, de 2011"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

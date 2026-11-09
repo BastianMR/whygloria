@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 9 de la Ley N° 21.420, modificado por el artículo 5 de la Ley N° 21.713", "y, en la Circular N° 50 de fecha 28 de Noviembre 2024"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 9 de la Ley N° 21.420, modificado por el artículo 5 de la Ley N° 21.713"]
 ---
 
 ESTABLECE LA FORMA Y OPORTUNIDAD EN QUE LAS ENTIDADES QUE INDICA DEBEN INFORMAR SEGÚN LO DISPUESTO EN EL ARTÍCULO 9 DE LA LEY 21.420.

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1, y 21 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 14 letra A), 58, 60, 63 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las modificaciones legales introducidas por la Ley N°21.210 de 24 de febrero de 2020", "y las instrucciones contenidas en Resolución EX"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1, y 21 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 14 letra A), 58, 60, 63 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "las modificaciones legales introducidas por la Ley N°21.210 de 24 de febrero de 2020", "y las instrucciones contenidas en Resolución EX"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

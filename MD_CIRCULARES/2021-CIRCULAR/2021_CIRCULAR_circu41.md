@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["por la ley"]
+ref_legal: ["Modifica Circulares N°s 17 de 1995, 66 de 1998, 58 de 2000, 31 de 2007, 23 de 2013, 42 de 2013, 31 de 2014, 41 de 2015, 58 de 2015"]
 ---
 
 | **DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR N°41.-** |

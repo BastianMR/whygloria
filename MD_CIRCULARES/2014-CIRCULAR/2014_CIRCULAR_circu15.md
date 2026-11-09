@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Artículos 14 y 41 N° 9 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012."]
+ref_legal: ["Artículos 14 y 41 N° 9 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ.** |

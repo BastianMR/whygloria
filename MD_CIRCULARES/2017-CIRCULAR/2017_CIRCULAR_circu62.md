@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["ARTÍCULO 16° DE LA LEY N° 17.235."]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 62.-** |

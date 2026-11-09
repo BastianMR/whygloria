@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
-materia: "## REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA."
+materia: "REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA."
 fecha: "2014-02-14"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, Inciso N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "en el Art. 4° bis del D.F.L"]
+ref_legal: ["Lo dispuesto en el Art 6°, Inciso N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "en el Art 4° bis del D.F.L N° 7, 1980, del Ministerio de Hacienda, la Ley N° 20.727, de 2014"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

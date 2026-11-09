@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2019, resolucion]
-materia: "CONDONACIÓN EXCEPCIONAL DE INTERESES Y SANCIONES PECUNIARIAS QUE SE IMPONGAN POR INFRACCIONES A LAS OBLIGACIONES TRIBUTARIAS CONTEMPLADAS EN EL ARTÍCULO 97 N° 1 INCISO 1°, N° 2 Y N° 11 DEL CÓDIGO TRIBUTARIO Y CONDONACIÓN DE INTERESES EN EL CASO DE DEUDAS POR CONCEPTO DE IMPUESTO TERRITORIAL Y GIROS INFRACCIONALES QUE NO ACCEDAN AL PAGO DE IMPUESTOS."
+materia: "CONDONACIÓN EXCEPCIONAL DE INTERESES Y SANCIONES PECUNIARIAS QUE SE IMPONGAN POR INFRACCIONES A LAS OBLIGACIONES TRIBUTARIAS CONTEMPLADAS EN EL ARTÍCULO 97 N° 1 INCISO 1°, N° 2 Y N° 11 DEL CÓDIGO TRIBUTARIO Y CONDONACIÓN DE INTERESES EN EL CASO DE DEUDAS POR CONCEPTO DE IMPUESTO TERRITORIAL Y GIROS "
 fecha: "2019-09-30"
 exenta: true
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 8° de la Constitución Política de la República", "en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos y en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "Circular N° 50, de 20 de julio de 2016"]
+ref_legal: ["Lo dispuesto en el artículo 8° de la Constitución Política de la República", "en el artículo 5° de la Ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos y en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

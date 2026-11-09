@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 7°, letras c), e), i) y j) y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en los artículos 6° letra A N° 3° del Código Tributario y en el artículo 41 del D.F.L", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República", "lo establecido en las Resoluciones Ex"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en los artículos 7°, letras c), e), i) y j) y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980 del Ministerio de Hacienda", "en los artículos 6° letra A N° 3° del Código Tributario y en el artículo 41 del D.F.L N° 01 de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional De Bases Generales de la Administración del E"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2023)"
 description: "Diario oficial en extracto."
 tags: [SII, 2023, resolucion]
-materia: "## DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2023-02-15"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo", "Resolución N° 6 de 26.03.2019, de la Contraloría General de la República, Decreto Exento RA N° 289/6/2023, de fecha 18.01.2023, con trámite de registro en la Contraloría General de la República, en la que consta la calidad de Director Subrogante del Servicio de Impuestos Internos"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo 6 letra A N° 3 del Código Tributario", "los artículos 2°, 3°, 31, 36 y 41 de la Ley N° 18.575", "lo dispuesto en el artículo 454 N° 3, inciso 2° del Código del Trabajo"]
 ---
 
 <unknown>

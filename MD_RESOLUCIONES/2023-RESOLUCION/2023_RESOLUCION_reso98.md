@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14D8"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 14 D N° 8, 20, 39 N° 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del D.L", "en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y 33 bis N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974", "en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de 1980", "en los artículos 14 D N° 8, 20, 39 N° 3 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del D.L N° 824 de 1974", "en la Resolución Ex"]
 ---
 
 por:

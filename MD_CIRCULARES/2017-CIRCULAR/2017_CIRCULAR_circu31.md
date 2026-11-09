@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Párrafo 3° del Título V de la Ley de Impuesto a la Renta y artículos 53 y 97 N° 11 del Código Tributario"]
 ---
 
 | **Subdirección Emisora Subdirección de Fiscalización** | **Subdirección Emisora Subdirección de Fiscalización** | **CIRCULAR Nº 31.-** |

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Art. 27 ter, D.L", "Art. 2 y 31 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974, y Arts. 93, 255, 268 y 393, de la Ley N° 20.720."]
+ref_legal: ["Art 27 ter, D.L N° 825", "Art 2 y 31 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824, de 1974, y Arts 93, 255, 268 y 393, de la Ley N° 20.720."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS** | **CIRCULAR N° 62.-** |

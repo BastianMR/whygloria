@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE318919"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE318919"
+materia: "FIJA PROCEDIMIENTO SIMPLIFICADO PARA OTORGAR RUT A CONTRIBUYENTES NO DOMICILIADOS NI RESIDENTES EN CHILE"
 fecha: "2025-04-03"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N° 1° y 66, 66 bis y 68, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 65 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "el artículo 10 del Decreto con Fuerza de Ley N° 3 de 1969, del Ministerio de Hacienda, sobre Reglamento del Rol Único Tributario y la Ley N° 21.641", "y, la Circular N° 274498 de 2025"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A, N° 1° y 66, 66 bis y 68, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 65 y 68 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "el artículo 10 del Decreto con Fuerza de Ley N° 3 de 1969, del Ministerio de Hacienda, sobre Reglamento del Rol Único Tributario y la Ley N° 21.641"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE318919

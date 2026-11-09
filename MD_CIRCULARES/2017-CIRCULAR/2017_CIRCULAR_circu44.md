@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: ["F50"]
 regimen: ["no-aplica"]
-ref_legal: ["Ley N° 20.956 de 2016", "y 59, inciso 1° e inciso 4°, N° 2, párrafo segundo, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L"]
+ref_legal: ["Ley N° 20.956 de 2016", "y 59, inciso 1° e inciso 4°, N° 2, párrafo segundo, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1°, del D.L N°824, de 1974."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 44.- 38-2017 ID 2-2017 SN** |

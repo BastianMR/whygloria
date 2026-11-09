@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
-materia: "108-SDF-2014 24/2014-DAAC 407/2014-DAAC 77314445856"
+materia: "AUTORIZA IMPRESORA FISCAL MARCA SAM4S, MODELO ELLIX40S, PARA EMITIR VALES QUE REEMPLACEN A LAS BOLETAS DE VENTAS Y SERVICIOS."
 fecha: "2014-08-11"
 exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6°, letra A), N° 1 y Art. 92° BIS, contenido en el Art. 1° del D.L", "la letra b), del Art. 7° del D.F.L", "el Título XIII del D.S. de Hacienda N° 55, de 1977, reglamentario del D.L"]
+ref_legal: ["Lo dispuesto en el Art 6°, letra A), N° 1 y Art 92° BIS, contenido en el Art 1° del D.L N° 830, de 1974 sobre Código Tributario", "la letra b), del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, que contiene la Ley orgánica del Servicio de Impuestos Internos, el Título IV del D.L N° 825, de 1974, sobre Impuesto a las Ventas y Servicios", "el Título XIII del D.S de Hacienda N° 55, de 1977, reglamentario del D.L N° 825, de 1974"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

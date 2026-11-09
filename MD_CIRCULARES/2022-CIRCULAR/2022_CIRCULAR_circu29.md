@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 41 E, N° 6, de la Ley sobre Impuesto a la Renta."]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Diseño de Procedimientos** | **CIRCULAR N° 29.- GE00213256** |

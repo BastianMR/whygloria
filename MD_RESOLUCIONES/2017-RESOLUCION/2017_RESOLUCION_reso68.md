@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 59 y 63 del D.L", "lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo establecido en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

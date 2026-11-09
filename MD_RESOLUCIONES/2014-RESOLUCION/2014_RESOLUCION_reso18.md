@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2014, resolucion]
-materia: "IMPARTE INSTRUCCIONES SOBRE CUMPLIMIENTO DEL DEBER DE INFORMAR, AL SERVICIO DE IMPUESTOS INTERNOS, LA OPCIÓN QUE ESTABLECE EL ARTÍCULO TRANSITORIO DE LA LEY N° 20.570, DE 2012, QUE MODIFICÓ LA LEY N°20.241, DE 2008, QUE ESTABLECE UN INCENTIVO TRIBUTARIO A LA INVERSIÓN PRIVADA EN INVESTIGACIÓN Y DESARROLLO."
+materia: "IMPARTE INSTRUCCIONES SOBRE CUMPLIMIENTO DEL DEBER DE INFORMAR, AL SERVICIO DE IMPUESTOS INTERNOS, LA OPCIÓN QUE ESTABLECE EL ARTÍCULO TRANSITORIO DE LA LEY N° 20.570, DE 2012, QUE MODIFICÓ LA LEY N°20.241, DE 2008, QUE ESTABLECE UN INCENTIVO TRIBUTARIO A LA INVERSIÓN PRIVADA EN INVESTIGACIÓN Y DESA"
 fecha: "2014-02-07"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario contenido en el artículo 1° del D.L. 830, de 1974", "lo dispuesto en la Ley N° 20.241, de 2008, que establece un incentivo tributario a la inversión privada en investigación y desarrollo, modificada por la Ley N° 20.570, publicada en el Diario Oficial con fecha 06 de marzo de 2012"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de fecha 30 de Septiembre de 1980 del Ministerio de Hacienda", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario contenido en el artículo 1° del D.L 830, de 1974", "lo dispuesto en la Ley N° 20.241, de 2008, que establece un incentivo tributario a la inversión privada en investigación y desarrollo, modificada por la Ley N° 20.570, publicada en el Diario Oficial con fecha 06 de marzo de 2012"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: ["DJ1879", "DJ1887", "F22"]
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.285 sobre Acceso a la Información Pública y al decreto con fuerza de ley N° 88, de 1953, del Ministerio de Hacienda y el decreto 747, del Ministerio de Economía, de 1953 que aprueba el Reglamento Orgánico de la Subsecretaría de Comercio e Industrias del Ministerio de Economía, hoy Subsecre"]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y

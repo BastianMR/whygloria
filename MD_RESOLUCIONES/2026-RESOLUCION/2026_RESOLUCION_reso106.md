@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2026)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 389112"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE AVALUACIONES GE 389112"
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE AVALUACIONES, ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII N° 26 DE 2022."
 fecha: "2026-08-21"
 exenta: true
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en la Ley 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 3° y en las letras a), c) y ñ), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "en el Código Tributario contenido en el Decreto Ley N° 830 de 1974", "el artículo 7° de la Ley N° 19.646", "en lo dispuesto en las Resoluciones Exentas SII N°379, de 1991 y sus modificaciones, N°7.590, de 1999", "Resolución Ex SII N° 2.519, de 2016", "Resolución Ex SII N° 26, de 2022, y la Resolución Exenta N° 2.519, de 2016, todas de la Dirección del Servicio de Impuestos Internos", "y, lo dispuesto en la Resolución N° 36, de 2024, de la Contraloría General de la República, sobre exención del trámite de toma de razón"]
+ref_legal: ["Lo dispuesto en la Ley 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 17.235, sobre Impuesto Territorial", "en el artículo 3° y en las letras a), c) y ñ), del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Decreto con Fuerza de Ley N°7, de Hacienda, de 1980", "en el Código Tributario contenido en el Decreto Ley N° 830 de 1974", "el artículo 7° de la Ley N° 19.646", "en lo dispuesto en las Resoluciones Exentas SII N°379, de 1991 y sus modificaciones, N°7.590, de 1999"]
 ---
 
 ## SUBDIRECCIÓN DE AVALUACIONES GE 389112

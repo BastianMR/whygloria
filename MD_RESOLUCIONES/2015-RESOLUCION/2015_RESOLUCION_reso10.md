@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, lo dispuesto en los Artículos 42 N° 1, 43 N° 1, 74 N° 1 y 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "lo establecido en Resolución Exenta SII N° 6509, del 20 de diciembre de 1993, modificada por Resoluciones Exentas SII N°s 4571, 6172, 7211, 5224, 49, 130, 1, 17 y 106, de fechas 21 de octubre de 1994, 09 de diciembre de 1997, 02 de diciembre de 1998, 24 de noviembre de 2000, 07 de diciembre de 2001,"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, lo dispuesto en los Artículos 42 N° 1, 43 N° 1, 74 N° 1 y 101, todos de la Ley sobre Impuesto a Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

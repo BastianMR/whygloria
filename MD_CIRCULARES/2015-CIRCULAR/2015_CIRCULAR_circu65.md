@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["en la ley"]
+ref_legal: ["Código Tributario, Arts 4 bis, 4 ter, 4 quáter, 4 quinquies, 26 bis, 100 bis, 119 y 160 bis, del Código Tributario"]
 ---
 
 Modificada por Circular N° 41, del 11 de julio de 2016

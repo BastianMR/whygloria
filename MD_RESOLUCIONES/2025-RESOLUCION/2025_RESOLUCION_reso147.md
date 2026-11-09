@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 147 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 968-SDAC-2025 77325913817"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 968-SDAC-2025 77325913817"
+materia: "AUTORIZA A TICKETERA BMB SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2025-10-20"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "y la Resolución Exenta N° 60, del 14.06.2021"]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, del Ministerio de Hacienda de 1977", "y la Resolución Exenta N° 60, del 14.06.2021"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 968-SDAC-2025 77325913817

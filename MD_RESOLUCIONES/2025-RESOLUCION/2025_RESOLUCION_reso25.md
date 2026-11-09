@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2025)"
 description: "DEFINE ORGANIGRAMA DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2025, resolucion]
-materia: "RESOLUCIÓN EXENTA SII N°25."
+materia: "DEFINE ORGANIGRAMA DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2025-02-21"
 exenta: true
 impuestos: []

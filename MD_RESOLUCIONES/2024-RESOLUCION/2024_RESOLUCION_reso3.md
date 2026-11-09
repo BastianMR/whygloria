@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2024)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00268343"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00268343"
+materia: "MODIFICA ESTRUCTURA DE XX DIRECCIÓN REGIONAL DE CHILLÁN INCORPORANDO OFICINA DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS Y CREA GRUPO DE CUMPLIMIENTO TRIBUTARIO EN TERRENO."
 fecha: "2024-01-08"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 4° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980 de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en la Resolución N°74, de 2018 y Resolución Ex SII N°2.277, de 2021, ambas del Director del Servicio de Impuestos Internos", "y lo instruido en la Resolución N°6 de 2019, de la Contraloría General de la República"]
+ref_legal: ["lo dispuesto en el artículo 4° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980 de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en la Resolución N°74, de 2018 y Resolución Ex SII N°2.277, de 2021, ambas del Director del Servicio de Impuestos Internos", "y lo instruido en la Resolución N°6 de 2019, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00268343

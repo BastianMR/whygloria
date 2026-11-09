@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y OPORTUNIDAD EN QUE LOS INVERSIONISTAS QUE NO TENGAN LA CALIDAD DE CONTRIBUYENTES PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, PODRÁN PRESENTAR SOLICITUD DE DEVOLUCIÓN DEL 4% DE RETENCIÓN SOBRE LOS INTERESES DEVENGADOS POR LA TENENCIA DE INSTRUMENTOS DE DEUDA DE OFERTA PÚBLICA,"
 fecha: "2017-03-31"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1", "63 inciso primero, ambos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en el nuevo artículo 74 N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

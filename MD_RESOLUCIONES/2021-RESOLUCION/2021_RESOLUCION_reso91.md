@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
-materia: "## ENVÍO DE INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES PARA LOS FINES DE LA LEY N° 21.354."
+materia: "ENVÍO DE INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES PARA LOS FINES DE LA LEY N° 21.354."
 fecha: "2021-07-30"
 exenta: true
 impuestos: []

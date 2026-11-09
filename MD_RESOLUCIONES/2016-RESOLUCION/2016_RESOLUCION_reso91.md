@@ -5,11 +5,11 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA"
 tags: [SII, 2016, resolucion]
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN NORMATIVA Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2016-09-20"
-exenta: true
+exenta: false
 impuestos: ["renta", "iva", "timbres", "herencias", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del D.F.L", "lo establecido en la Resolución N° 349, de 1984 y Resolución N° 379, de 1991, modificada por la Resolución N° 1397, de 1992", "las Resoluciones Exentas N° 7.590, de 1999", "y en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en los artículos 3°, 7° y 9° del D.F.L N° 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos, la Ley N° 18.755, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las Resoluciones Exentas N° 7.590, de 1999", "y en la Resolución N° 1.600, de 2008, de la Contraloría General de la República"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA

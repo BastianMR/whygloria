@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva", "timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["el DFL N° 1 de la Secretaría General de la Presidencia que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado que incorpora las modificaciones de las Leyes N°s 19.653 y 20.285", "lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución N° 7.590, de 15 de noviembre de 1999, modificada por la Resolución Ex"]
+ref_legal: ["el DFL N° 1 de la Secretaría General de la Presidencia que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado que incorpora las modificaciones de las Leyes N°s 19.653 y 20.285", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución N° 7.590, de 15 de noviembre de 1999, modificada por la Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

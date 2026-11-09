@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 que establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública", "el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Ley N° 1.172, de 1975, que crea la Comisión Nacional de Riego", "la Ley N°18.450, que Aprueba normas para el Fomento de la Inversión Privada en Obras de Riego y Drenaje", "y la Resolución N° 7, del año 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón."]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de Hacienda, de 1980", "el artículo 5° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "el Decreto Ley N° 1.172, de 1975, que crea la Comisión Nacional de Riego", "la Ley N°18.450, que Aprueba normas para el Fomento de la Inversión Privada en Obras de Riego y Drenaje", "y la Resolución N° 7, del año 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547

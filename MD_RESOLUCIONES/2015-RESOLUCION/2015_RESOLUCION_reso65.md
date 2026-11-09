@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO."
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO."
+materia: "FIJA FORMATO E INSTRUCCIONES DE LLENADO DE LA DECLARACIÓN FORMULARIO N° 1921 SOBRE LAS ENAJENACIONES A LAS QUE SE REFIEREN LOS ARTICULOS 10 INCISO TERCERO Y 58 N° 3, DE LA LIR Y ESTABLECE REGLAS PARA CORRELACIONAR INVERSIONES Y PASIVOS SEGÚN LO SEÑALADO EN EL INCISO QUINTO DEL ARTÍCULO 10 DE LA LIR."
 fecha: "2015-07-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 34°, 35°, 60° inciso octavo y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "y en los artículos 10 y 58 N°3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "y en la Circular N° 14, de 2014"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y en los artículos 29°, 30°, 34°, 35°, 60° inciso octavo y 63° inciso primero, todos del Código Tributario, contenido en artículo 1°, del D.L Nº 830, de 1974", "en los artículos 1° y 7°, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "y en los artículos 10 y 58 N°3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "y en la Circular N° 14, de 2014"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO.

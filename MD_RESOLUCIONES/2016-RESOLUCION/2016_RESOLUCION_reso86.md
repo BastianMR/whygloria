@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO DEL IVA EN LAS VENTAS DE CHATARRA. DEROGA RESOLUCIÓN EX. SII N° 7, DE 2003."
 fecha: "2016-08-24"
 exenta: true
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1° del Código Tributario, y artículos 2°, 3°, 10 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, y artículo 69 del D.S"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1° del Código Tributario, y artículos 2°, 3°, 10 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974, y artículo 69 del D.S Nº 55, del Ministerio de Hacienda, de 1977, que contiene el Reglamento de la Ley sob"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

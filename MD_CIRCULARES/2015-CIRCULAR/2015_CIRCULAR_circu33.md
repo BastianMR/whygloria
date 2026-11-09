@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["por la ley y por los montos correspondientes"]
+ref_legal: ["Artículo 59, Código Tributario"]
 ---
 
 | **DEPARTAMENTOEMISOR: Departamento de Asesoría Jurídica 1875** | **CIRCULAR Nº 33** |

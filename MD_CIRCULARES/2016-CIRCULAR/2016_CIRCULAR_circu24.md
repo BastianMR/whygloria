@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980, artículo 9°", "Ley N° 20.899, artículo 6°, N° 2."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 24.-** |

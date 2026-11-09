@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["14B"]
-ref_legal: ["Artículos 20 y 84 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L. 824 de 1974) y la Ley N° 20.780, de 29 de septiembre de 2014."]
+ref_legal: ["Artículos 20 y 84 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L 824 de 1974) y la Ley N° 20.780, de 29 de septiembre de 2014."]
 ---
 
 1875

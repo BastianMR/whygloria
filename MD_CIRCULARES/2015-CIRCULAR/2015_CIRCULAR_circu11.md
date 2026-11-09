@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Artículo 57 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974, y N° 38), del artículo 1°, en concordancia con el inciso 1°, del artículo primero y el N° VI) del artículo tercero, ambos de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diar"]
+ref_legal: ["Artículo 57 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974, y N° 38), del artículo 1°, en concordancia con el inciso 1°, del artículo primero y el N° VI) del artículo tercero, ambos de las disposiciones transitorias de la Ley N° 20.780, publicada en el Diari"]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 11.- 01.2015 SN 05.2015 ID** |

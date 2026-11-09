@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Arts 8 N° 16, 8° bis N° 9, 26 bis, 30, 35, 60 bis, 62, 85, 85 bis, 101 N°5, 168, 195 y 206 del Código Tributario", "Art 7 Ley 19.628", "Art 40 letra c) de la ley Orgánica del Servicio de Impuestos Internos"]
 ---
 
 | **DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica** | **CIRCULAR Nº 35.- GE126944** |

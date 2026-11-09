@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 y 87 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en la Ley N° 19.728", "el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "lo establecido en los artículos 1, 4 y 7 inciso segundo de la Ley N° 21.323, que establece un nuevo bono clase media un préstamo solidario para la protección de los ingresos de la clase media."]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N° 1 y 87 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en la Ley N° 19.728", "el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria"]
 ---
 
 MATERIA: DETERMINA FORMA Y PLAZO EN QUE EL MINISTERIO DE DESARROLLO SOCIAL Y FAMILIA DEBE INFORMAR DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 7º DE LA LEY Nº 21.323.

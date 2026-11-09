@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades consagradas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 8º bis Nº 1 y 15, del Código Tributario, contenido en el D.L", "Artículo trigésimo sexto transitorio de la Ley N° 21.210", "que Moderniza la Legislación Tributaria, las Circulares N° 58 de 2004, N° 46 de 2019 y Nº 18 de 2020"]
+ref_legal: ["Las facultades consagradas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

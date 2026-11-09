@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en las letras a) y c) del artículo 7°de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6 letra A N° 1 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Resolución Ex", "complementada por Resolución Ex"]
+ref_legal: ["lo dispuesto en las letras a) y c) del artículo 7°de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6 letra A N° 1 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974", "en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

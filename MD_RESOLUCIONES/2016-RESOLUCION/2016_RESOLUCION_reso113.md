@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido coordinado y sistematizado de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011, sobre Asociaciones y Participación Ciudadana en la Gestión Pública", "en el Instructivo Presidencial para la Participación Ciudadana en la Gestión Pública N° 007, de 6 de Agosto de 2014"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 6° y 7° de la Constitución Política de la República de Chile", "en el Decreto con Fuerza de Ley N° 01, de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido coordinado y sistematizado de la Ley N° 18.575, de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la Ley N° 20.500, del Ministerio Secretaría General de Gobierno, de 2011, sobre Asociaciones y Participación Ciudadana en la Gestión Pública"]
 ---
 
 ## SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS

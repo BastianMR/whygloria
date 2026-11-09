@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los arts. 3°, 5°, 7°, 11° y 31° del el D.F.L N° 1, de 2001, que contiene el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y el art. 19 de la Resolución N° 7, del 26.03.2019, de la Contraloría General de la"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° letras h) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de Hacienda, de fecha 30.09.1980", "los arts 3°, 5°, 7°, 11° y 31° del el D.F.L N° 1, de 2001, que contiene el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y el art 19 de la Resolución N° 7, del 26.03.2019, de la Contraloría General de la R"]
 ---
 
 MAT: Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile.

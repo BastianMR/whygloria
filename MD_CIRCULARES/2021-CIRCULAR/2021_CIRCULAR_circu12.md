@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "timbres", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["en los artículos 40 y 41 de la Ley N° 19.880, respecto de actos de mera tramitación\"."]
+ref_legal: ["Modifica Circulares N° 54 de 2002, N° 47 de 2011, N° 23 de 2016, N° 34 de 2018, y Deroga Circulares N°26 de 2008 y N° 19 de 2011."]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº 12.-** |

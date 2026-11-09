@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2026)"
 description: "Lista que complementa valores de automóviles y otros vehículos motorizados usados 2025, en el sitio web sii.cl, Servicios online, Tasación fiscal de vehículos."
 tags: [SII, 2026, resolucion]
-materia: "## COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
+materia: "COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 fecha: "2026-06-24"
 exenta: true
 impuestos: []

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 2° y 6° letra A), N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 2° N° 2, 5°, 8° letra n) N° 2, y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "lo instruido en las Circulares N° 42 de 2020 y N° 12 de 2025", "y lo instruido en las Resoluciones Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 2° y 6° letra A), N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 2° N° 2, 5°, 8° letra n) N° 2, y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "y lo instruido en las Resoluciones Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

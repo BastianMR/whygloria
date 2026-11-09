@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2013, resolucion]
-materia: "## REORGANIZA ÁREAS JURÍDICAS DE DIRECCIONES REGIONALES QUE INDICA."
+materia: "REORGANIZA ÁREAS JURÍDICAS DE DIRECCIONES REGIONALES QUE INDICA."
 fecha: "2013-01-23"
 exenta: true
 impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["El artículo 6°, letra A) N° 3 y letra B) N°s. 5 y 7, y el artículo 117, ambos del Código Tributario", "el artículo 4°, inciso final, el artículo 7°, letras c), j) y ñ) y artículo 20, todos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos y los respectivos requisitos de ingreso y promoción", "el artículo 41 de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19.653, de 17 de noviembre de 2001, del Ministerio Secretaría General de la Presidencia", "la Resolución Ex. 379, de 4 de diciembre de 1991", "la Resolución Ex. 6288, de 27 de octubre de 1998, la Resolución Ex"]
+ref_legal: ["El artículo 6°, letra A) N° 3 y letra B) N°s 5 y 7, y el artículo 117, ambos del Código Tributario", "el artículo 4°, inciso final, el artículo 7°, letras c), j) y ñ) y artículo 20, todos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el artículo 1° del Decreto con Fuerza de Ley N° 1, de Hacienda, de 2004, que fija el texto refundido y actualizado de las plantas de personal del Servicio de Impuestos Internos y los respectivos requisitos de ingreso y promoción", "el artículo 41 de la Ley 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido coordinado y sistematizado se contiene en el Decreto con Fuerza de Ley N° 1-19.653, de 17 de noviembre de 2001, del Ministerio Secretaría General de la Presidencia", "la Resolución Ex. 379, de 4 de diciembre de 1991", "la Resolución Ex. 6288, de 27 de octubre de 1998, la Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA

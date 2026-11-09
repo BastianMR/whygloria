@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 294- SDAC - 2019 GE00126283"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 294- SDAC - 2019 GE00126283"
+materia: "AUTORIZA COMO RECEPTORES ELECTRÓNICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: "2019-08-22"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art. 1° del D.L", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), Nº 1, del Código Tributario, contenido en el Art 1° del D.L Nº 830, de 1974", "en los artículos 54 y 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L Nº 825, de 1974", "las Resoluciones Exentas N°s 63, de 15.07.2004 modificada por la Resolución Exenta N° 91 del 06.10.2017"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 294- SDAC - 2019 GE00126283

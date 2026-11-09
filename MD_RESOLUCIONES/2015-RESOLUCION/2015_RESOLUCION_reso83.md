@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2015)"
 description: "MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARA..."
 tags: [SII, 2015, resolucion]
-materia: "MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EL EXTRANJERO CONTENIDO EN EL ARTÍCULO VIGESIMOCUARTO TRANSITORIO DE LA LEY N° 20.780 PUBLICADA EN EL DIARIO OFICIAL DE 29 DE SEPTIEMBRE DE 2014."
+materia: "MODIFICA RESOLUCIÓN EX. SII N° 1, DE 2015, QUE ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA VOLUNTARIO Y EXTRAORDINARIO DE DECLARACIÓN DE BIENES O RENTAS QUE SE ENCUENTREN EN EL EXTRANJERO CONTENIDO EN EL ARTÍCULO VIGESIMOCUARTO TRANSITORIO DE LA LEY N° 20.780 PUBLICADA EN"
 fecha: "2015-09-29"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30, ambos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 y artículo 30, ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo Vigesimocuarto Transitorio de la Ley N° 20.780 de Reforma Tributaria, publicada en el Diario Oficial de 29 de septiembre de 2014", "la Resolución Ex"]
 ---
 
 contribuyente;

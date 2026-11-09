@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º, 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL Nº 7 de 1980, del Ministerio de Hacienda", "artículos 6° letra A) Nº 1, 36 y 62 ter del Código Tributario, contenido en el artículo 1º del DL Nº 830 de 1974", "Decreto Nº 418 de 3 de abril de 2017 del Ministerio de Hacienda, que «Aprueba reglamento que fija las obligaciones de identificación de cuentas financieras»", "Resolución Exenta SII Nº 48 de 2018 que «Establece obligación de presentar anualmente información sobre cuentas financieras, de conformidad al artículo 62 ter del Código Tributario»"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL Nº 7 de 1980, del Ministerio de Hacienda"]
 ---
 
 <unknown>

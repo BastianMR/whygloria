@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323991736"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323991736"
+materia: "EXIME DEL RÉGIMEN GENERAL DE OPERACIÓN DE VENTAS DE GAS LICUADO DE PETRÓLEO, ESTABLECIDO EN RESOLUCIÓN EX. SII N° 1087 DE 1978, A CONTRIBUYENTE QUE INDICA."
 fecha: "2023-09-14"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 88°, ambos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del Art. 7° de la Ley Orgánica del SII, contenida en el artículo primero del D.F.L", "el inciso cuarto del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, y 88°, ambos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del Art 7° de la Ley Orgánica del SII, contenida en el artículo primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el inciso cuarto del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55. de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323991736

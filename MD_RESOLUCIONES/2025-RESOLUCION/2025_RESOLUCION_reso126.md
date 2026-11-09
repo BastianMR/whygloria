@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "DETERMINA QUE LOS EMIRATOS ÁRABES UNIDOS NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 61 DE 2025."
 fecha: "2025-09-25"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980", "en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "las Circulares N° 12, de 2015, N° 34, de 2016 y N°11 de 2025", "Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980", "en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "las Circulares N° 12, de 2015, N° 34, de 2016 y N°11 de 2025"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

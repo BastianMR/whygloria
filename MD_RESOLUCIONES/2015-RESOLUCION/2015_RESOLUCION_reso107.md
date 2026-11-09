@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS DUEÑOS, SOCIOS , COMUNEROS O ACCIONISTAS, E INFORMAR Y CERTIFICAR LO QUE SE INDICA."
 fecha: "2015-12-24"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y lo dispuesto en el Artículo Segundo Transitorio de la Ley N°20.780 publicada en el Diario Oficial de 29 de Septiembre de 2014"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de Octubre de 1980 y en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en", "y lo dispuesto en el Artículo Segundo Transitorio de la Ley N°20.780 publicada en el Diario Oficial de 29 de Septiembre de 2014"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

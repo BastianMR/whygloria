@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2021)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2021, resolucion]
-materia: "## DELEGA FACULTAD EN LAS JEFATURAS QUE INDICA."
+materia: "DELEGA FACULTAD EN LAS JEFATURAS QUE INDICA."
 fecha: "2021-10-29"
 exenta: true
 impuestos: []

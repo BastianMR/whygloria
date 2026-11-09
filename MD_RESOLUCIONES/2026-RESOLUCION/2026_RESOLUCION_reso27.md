@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2026)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 tags: [SII, 2026, resolucion]
-materia: "## OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
+materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 fecha: "2026-02-20"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 N os 2 y 11 y 106 del Código Tributario, contenido en artículo 1º del D.L", "lo establecido en los artículos 1º, 9º y 19 letras c) y d), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "el artículo 45 del Código Civil"]
+ref_legal: ["Las facultades conferidas en los artículos 6º letra B), Nº 3 y 4, 53, 56 inciso final, 97 N os 2 y 11 y 106 del Código Tributario, contenido en artículo 1º del D.L Nº 830, de 1974", "el artículo 64 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L Nº 825, de 1974", "los artículos 74, 78, 79, 84 y 91 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974,y", "el artículo 45 del Código Civil"]
 ---
 
 ## OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN

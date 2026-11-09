@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
+materia: "'CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE INSTITUTO FORESTAL Y SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2021-07-27"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "el decreto N°1.416 de 1965 y sus modificaciones aprobadas por los decretos N°s 400, de 1989, y 217, de 2002, del Ministerio de Justicia."]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "el decreto N°1.416 de 1965 y sus modificaciones aprobadas por los decretos N°s 400, de 1989, y 217, de 2002, del Ministerio de Justicia."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

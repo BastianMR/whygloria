@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "AUTORIZA A LA SOCIEDAD CENCOSUD RETAIL S.A. PARA DAR CUMPLIMIENTO A LA OBLIGACIÓN DE ENTREGA DE BOLETAS ELECTRÓNICAS POR SU ENVÍO MEDIANTE CORREO ELECTRÓNICO EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2018-09-12"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 92 bis del Código Tributario, contenido en el Artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N°s. 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, modificada por Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A) N° 1 y 92 bis del Código Tributario, contenido en el Artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980", "los artículos 2° N°s 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, de 1974, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "y Resolución Exenta N° 61, modificada por Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

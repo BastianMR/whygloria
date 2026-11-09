@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
-materia: "ESTABLECE LA FORMA Y PLAZO EN QUE DEBEN PRESENTAR LA DECLARACIÓN JURADA PARA ACOGERSE AL BENEFICIO DE SUSPENSIÓN DE LOS PAGOS PROVISIONALES MENSUALES OBLIGATORIOS, ESTABLECIDO POR EL ARTÍCULO 1° BIS DE LA LEY N°19.420 DE 1995, Y POR EL ARTÍCULO 1° BIS DE LA LEY N° 19.606 DE 1999, LOS CONTRIBUYENTES QUE EFECTÚEN INVERSIONES AL AMPARO DE DICHAS LEYES."
+materia: "ESTABLECE LA FORMA Y PLAZO EN QUE DEBEN PRESENTAR LA DECLARACIÓN JURADA PARA ACOGERSE AL BENEFICIO DE SUSPENSIÓN DE LOS PAGOS PROVISIONALES MENSUALES OBLIGATORIOS, ESTABLECIDO POR EL ARTÍCULO 1° BIS DE LA LEY N°19.420 DE 1995, Y POR EL ARTÍCULO 1° BIS DE LA LEY N° 19.606 DE 1999, LOS CONTRIBUYENTES "
 fecha: "2013-05-29"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 1° bis de la Ley N° 19.420, de 1995, incorporado por el artículo 4° de la Ley N° 20.655, publicada en el Diario Oficial del 1 de febrero de 2013", "lo dispuesto en el artículo 1° bis de la Ley N° 19.606, de 1999, incorporado por el artículo 5° de la Ley N° 20.655, ya citada", "las instrucciones impartidas por este Servicio mediante Circulares N° 66 de 1999, N° 47 de 2004, y N° 6 de 2012, que instruyen sobre la aplicación de la Ley Austral N° 19.606, y, las Circulares N° 50 de 1995, N° 64 de 1996, N° 46 de 2000 y N° 45 de 2008, que instruyen sobre la aplicación de la Ley A"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de Hacienda, de fecha 30 de septiembre de 1980", "los artículos 6° Letra A) N° 1), 30 y 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en el artículo 1° bis de la Ley N° 19.420, de 1995, incorporado por el artículo 4° de la Ley N° 20.655, publicada en el Diario Oficial del 1 de febrero de 2013", "lo dispuesto en el artículo 1° bis de la Ley N° 19.606, de 1999, incorporado por el artículo 5° de la Ley N° 20.655, ya citada", "las instrucciones impartidas por este Servicio mediante Circulares N° 66 de 1999, N° 47 de 2004, y N° 6 de 2012, que instruyen sobre la aplicación de la Ley Austral N° 19.606, y, las Circulares N° 50 de 1995, N° 64 de 1996, N° 46 de 2000 y N° 45 de 2008, que instruyen sobre la aplicación de la Ley A"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS

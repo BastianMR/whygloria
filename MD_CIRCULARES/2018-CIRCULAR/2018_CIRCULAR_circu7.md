@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 20.711", "Decreto Supremo N° 81, de 2015, del Ministerio de Relaciones Exteriores, sobre Reglamento de la Ley N° 20.711."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 7** |

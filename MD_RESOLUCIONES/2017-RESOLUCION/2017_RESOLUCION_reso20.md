@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "DEROGA RESOLUCIONES N°92 Y N°116, AMBAS DEL AÑO 2004, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1830 y N°1831, RESPECTIVAMENTE"
 fecha: "2017-02-10"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos pertinentes de la Ley sobre Impuesto a la Renta", "y en la Ley Nº 20.900, que establece normas para el fortalecimiento y transparencia de la democracia"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 60 inciso penúltimo del Código Tributario", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en los artículos pertinentes de la Ley sobre Impuesto a la Renta", "y en la Ley Nº 20.900, que establece normas para el fortalecimiento y transparencia de la democracia"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

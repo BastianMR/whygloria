@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["sancionados en los numerales 8 y 9 del Código Tributario."]
+ref_legal: ["Código Tributario, artículo 97 N°s 8 y 9", "Ley N° 21.426."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR N°34.-** |

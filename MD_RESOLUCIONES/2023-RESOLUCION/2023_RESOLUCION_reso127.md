@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 36 y 39, todos del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 36 y 39, todos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS

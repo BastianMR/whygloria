@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "ESTABLECE PROCEDIMIENTO DE TASACIÓN DE IVA DEL ARTICULO 20 DEL D.L. N° 825 DE 1974, LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2021-11-15"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1 del D.L", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "el artículo 20 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las disposiciones contenidas en la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de 24 de febrero de 2020", "Circular 26, de 21 de abril de 2021"]
+ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1 del D.L Nº 830, del Ministerio de Hacienda, de 1974", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "el artículo 20 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825 de 1974", "las disposiciones contenidas en la Ley N° 21.210, de 2020, que Moderniza la Legislación Tributaria, publicada en el Diario Oficial de 24 de febrero de 2020"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

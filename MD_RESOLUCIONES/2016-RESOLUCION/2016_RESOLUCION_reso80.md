@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "en el artículo 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo 6°, letra A) Nº 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974"]
+ref_legal: ["Lo dispuesto en el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases de la Administración del Estado", "en el artículo 4° bis y en la letra b) del artículo 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "y en el artículo 6°, letra A) Nº 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley Nº 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

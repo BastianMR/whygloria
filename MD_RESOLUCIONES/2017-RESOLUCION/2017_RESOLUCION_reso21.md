@@ -5,11 +5,11 @@ description: "MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS D
 tags: [SII, 2017, resolucion]
 materia: "ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO."
 fecha: "2017-02-10"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, y lo dispuesto en el artículo 4 bis del D.F.L"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, y lo dispuesto en el artículo 4 bis del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos"]
 ---
 
 ## MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO.

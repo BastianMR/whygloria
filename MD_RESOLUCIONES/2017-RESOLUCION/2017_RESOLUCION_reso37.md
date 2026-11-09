@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2017)"
 description: "DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2017, resolucion]
-materia: "## DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
+materia: "DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2017-03-28"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 7°, letras e), i), j) y q), 42 y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "en el artículo 6°, letra A, N° 3°, del Código Tributario y en los artículos 2, 3, 31, 36 y 41 del D.F.L"]
+ref_legal: ["Lo dispuesto en los artículos 7°, letras e), i), j) y q), 42 y 46, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980 del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 3°, del Código Tributario y en los artículos 2, 3, 31, 36 y 41 del D.F.L N° 01 de 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Ad"]
 ---
 
 ## DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA

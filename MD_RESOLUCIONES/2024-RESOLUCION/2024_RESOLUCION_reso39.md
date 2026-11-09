@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 274641"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 274641"
+materia: "RESUELVE SOLICITUD DE PRÓRROGA PARA IMPLEMENTAR EL SISTEMA DE MARCACIÓN ESTABLECIDO EN LOS ARTÍCULOS 60 QUINQUIES DEL CÓDIGO TRIBUTARIO Y 13 BIS DEL D.L. N° 828 DE 1974."
 fecha: "2024-03-25"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A) N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 13 bis del D.L", "lo establecido en el Decreto Supremo N° 1027, de 4 de agosto de 2016, del Ministerio de Hacienda, publicado en el Diario Oficial de 27 de diciembre del mismo año, que aprueba el Nuevo Reglamento del Sistema de Trazabilidad Fiscal establecido en el artículo 13 bis del D.L", "lo dispuesto por la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A) N° 1 y en el artículo 60 quinquies del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974, del Ministerio de Hacienda", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "en el artículo 13 bis del D.L N° 828, de 1974, que Establece Normas para el Cultivo, Elaboración, Comercialización e Impuestos que afectan al Tabaco", "lo dispuesto por la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 274641

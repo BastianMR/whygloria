@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
-materia: "915-SDF-2014 233-279- 228-2014 77314612992"
+materia: "AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2014-11-10"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "sobre Código Tributario, lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824, de 1974", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L", "lo establecido en la Ley N° 19.638, publicada en el Diario Oficial con fecha 14.10.1999", "lo establecido en la Ley N° 20.500, publicada en el Diario Oficial con fecha 16.02.2011", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980 del Ministerio de Hacienda", "las instrucciones contenidas en la Resolución Ex", "las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "y Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

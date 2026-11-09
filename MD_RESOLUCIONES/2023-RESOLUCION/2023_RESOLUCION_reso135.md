@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053"
+materia: "ESTABLECE FORMA Y PLAZO EN QUE LAS ENTIDADES ACREEDORAS DEBEN CUMPLIR LA OBLIGACIÓN DE INFORMAR A ESTE SERVICIO LOS CRÉDITOS CON GARANTÍA HIPOTECARIA CONTRATADOS PARA LA ADQUISICIÓN DE VIVIENDAS NUEVAS QUE SE HAN ACOGIDO AL BENEFICIO TRIBUTARIO A QUE REFIERE LA LEY N° 21.631, Y DE CERTIFICAR EL MONT"
 fecha: "2023-12-04"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo único y artículo transitorio de la Ley N° 21.631, que establece un beneficio tributario transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, publicada en el Diario Oficial de fecha 31.10.2023"]
+ref_legal: ["en los artículos 6°, letra A, N° 1 y 33 bis del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el artículo único y artículo transitorio de la Ley N° 21.631, que establece un beneficio tributario transitorio y extraordinario a la compra de viviendas nuevas adquiridas con créditos con garantía hipotecaria, publicada en el Diario Oficial de fecha 31.10.2023"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00265053

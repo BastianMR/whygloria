@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1 del D.L", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "el artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 43 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55, de Hacienda, de 1977"]
+ref_legal: ["Lo dispuesto en el artículo 6, letra A), N° 1 del Código Tributario, contenido en el artículo 1 del D.L Nº 830, del Ministerio de Hacienda, de 1974", "en los artículos 1 y 7, letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "el artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825 de 1974", "el artículo 43 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55, de Hacienda, de 1977"]
 ---
 
 ESTABLECE SISTEMA PARA LA DETERMINACION DEL CREDITO FISCAL DEL ARTICULO 23 DEL D.L. N° 825 DE 1974, LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS EN LOS CASOS QUE INDICA.

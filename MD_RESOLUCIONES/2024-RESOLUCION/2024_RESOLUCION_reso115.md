@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en la letra c), i) y j) del artículo 7 del D.F.L", "lo establecido en el artículo 41 de la Ley N° 18.575, sobre Ley Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo previsto en el N° 3 de la letra A del artículo 6° y artículos 123 bis y 124 del Código Tributario", "lo dispuesto en la Ley N° 17.235", "lo señalado en el artículo 59 de la Ley N° 19.880 sobre bases de los procedimientos administrativos que rigen los actos de la Administración del Estado y, lo preceptuado en la Resolución N° 6, de 26.03.2019, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en la letra c), i) y j) del artículo 7 del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "lo dispuesto en la Ley N° 17.235"]
 ---
 
 <unknown>

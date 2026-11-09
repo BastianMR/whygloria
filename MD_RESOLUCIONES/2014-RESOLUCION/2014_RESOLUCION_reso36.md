@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTE
 tags: [SII, 2014, resolucion]
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N°95 DE 08 DE JUNIO DE 2010"
 fecha: "2014-04-15"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

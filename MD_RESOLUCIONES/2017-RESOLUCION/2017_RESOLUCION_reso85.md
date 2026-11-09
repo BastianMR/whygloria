@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
 tags: [SII, 2017, resolucion]
-materia: "## DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
+materia: "DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
 fecha: "2017-09-06"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración Pública", "los artículos 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art. 1° del D.F.L", "lo establecido en el artículo 6° letra A, Nº 1 del Código Tributario, contenido en el Art. 1° del D.L", "y la Resolución Exenta SII N° 128, de fecha 28.12.2016."]
+ref_legal: ["los artículos 2°, 3 bis, 7° letras a), b), c), ñ) y q) y 9° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980", "y la Resolución Exenta SII N° 128, de fecha 28.12.2016."]
 ---
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017

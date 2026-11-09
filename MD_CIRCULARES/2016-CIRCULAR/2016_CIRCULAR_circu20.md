@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "patente-municipal"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974, Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014 y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
+ref_legal: ["Artículo 14 ter de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974, Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014 y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
 ---
 
 ## IMPUESTOS DIRECTOS 1875

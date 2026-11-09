@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2026)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2026, resolucion]
-materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 fecha: "2026-01-14"
 exenta: true
 impuestos: ["iva"]

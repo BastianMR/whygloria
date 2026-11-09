@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2020)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
-materia: "ESTABLECE DECLARACIÓN JURADA ANUAL N° 1914, SOBRE RETIROS EN DEPÓSITOS A PLAZO, CUENTAS DE AHORRO, CUOTAS DE FONDOS MUTUOS Y OTROS INSTRUMENTOS FINANCIEROS AUTORIZADOS ACOGIDOS AL ARTÍCULO 54 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA, VIGENTE HASTA EL 31 DE DICIEMBRE DE 2019. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 130, DE 2014."
+materia: "ESTABLECE DECLARACIÓN JURADA ANUAL N° 1914, SOBRE RETIROS EN DEPÓSITOS A PLAZO, CUENTAS DE AHORRO, CUOTAS DE FONDOS MUTUOS Y OTROS INSTRUMENTOS FINANCIEROS AUTORIZADOS ACOGIDOS AL ARTÍCULO 54 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA, VIGENTE HASTA EL 31 DE DICIEMBRE DE 2019. DEJA SIN EFECTO LA RESOLU"
 fecha: "2020-09-29"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6 letra A), N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en el artículo 54 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L", "en la Resolución Exenta SII N° 130, de fecha 31 de diciembre de 2014", "en el N° 35 del artículo segundo de la Ley N° 21.210, que moderniza la legislación tributaria"]
+ref_legal: ["Lo dispuesto en los artículos 6 letra A), N° 1, 33 bis, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 54 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974, vigente hasta el 31 de diciembre de 2019", "en la Resolución Exenta SII N° 130, de fecha 31 de diciembre de 2014", "en el N° 35 del artículo segundo de la Ley N° 21.210, que moderniza la legislación tributaria"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

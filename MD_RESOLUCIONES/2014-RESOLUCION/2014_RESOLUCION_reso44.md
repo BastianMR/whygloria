@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURIDÍCA"
 tags: [SII, 2014, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURIDÍCA"
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN JURÍDICA."
 fecha: "2014-05-09"
 exenta: true
 impuestos: []

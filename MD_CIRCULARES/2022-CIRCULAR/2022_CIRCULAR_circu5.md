@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["arts. 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
+ref_legal: ["arts 41, 52 y 52 bis Ley sobre Impuesto a la Renta."]
 ---
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 5.- GE 202177** |

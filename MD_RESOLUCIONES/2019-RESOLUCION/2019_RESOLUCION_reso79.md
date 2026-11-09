@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 85893"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 85893"
+materia: "EXIME A INSTITUCIONES SIN FINES DE LUCRO QUE SEÑALA, QUE UTILICEN LA APLICACIÓN DISPUESTA POR LA SUBSECRETARÍA DE EVALUACIÓN SOCIAL, DE TIMBRAR CERTIFICADOS POR DONACIONES A QUE SE REFIERE LA LETRA B) DEL ARTÍCULO 157 TER DEL CÓDIGO DEL TRABAJO Y SU REGLAMENTO, CONTENIDO EN EL D.S. N° 64 DEL AÑO 201"
 fecha: "2019-06-28"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6°, letra A) del Código Tributario, contenido en el artículo 1° del D.L", "la Ley N° 19.885, de 2003 que Incentiva y Norma el buen uso de Donaciones que dan origen a Beneficios Tributarios", "artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad", "artículo 3 de la Ley N° 21.015, de 2017, que Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral", "y la Resolución Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 6°, letra A) del Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974", "la Ley N° 19.885, de 2003 que Incentiva y Norma el buen uso de Donaciones que dan origen a Beneficios Tributarios", "y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 85893

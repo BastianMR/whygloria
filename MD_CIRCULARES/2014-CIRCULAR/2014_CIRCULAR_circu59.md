@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L. 824 de 1974)."]
+ref_legal: ["Artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L 824 de 1974)."]
 ---
 
 1875

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N° 3 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L", "la letra 'j' del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en el numeral ii., de la letra b), del N° 13 del Artículo segundo de la Ley N° 21.210, que 'Moderniza la Legislación Tributaria'"]
+ref_legal: ["Lo dispuesto en el N° 3 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "la letra 'j' del artículo 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "el artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en el numeral ii., de la letra b), del N° 13 del Artículo segundo de la Ley N° 21.210, que 'Moderniza la Legislación Tributaria'"]
 ---
 
 REVOCA RES. EX. SII N° 34 DE 1981 Y DELEGA FACULTAD DE CALIFICAR COMO GASTOS, LOS DESEMBOLSOS POR CONCEPTO DE VEHÍCULOS, EN DIRECTORES REGIONALES Y EN EL DIRECTOR DE GRANDES CONTRIBUYENTES.

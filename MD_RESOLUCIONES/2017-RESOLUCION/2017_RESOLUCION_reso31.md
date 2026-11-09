@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2017)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII N° 107 DE FECHA 24 DE DICIEMBRE 2015, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACION JURADA DE CONTRIBUYENTES ACOGIDOS A LA..."
 tags: [SII, 2017, resolucion]
-materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 107 DE FECHA 24 DE DICIEMBRE 2015, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACION JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS TITULARES, SOCIOS, COMUNEROS O ACCIONISTAS, E INFORMAR Y CERTIFICAR LO QUE SE INDICA."
+materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 107 DE FECHA 24 DE DICIEMBRE 2015, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACION JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS TITULARES, SOCIOS, COMUNEROS O ACC"
 fecha: "2017-03-15"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el Artículo Segundo Transitorio de la Ley N° 20.780, publicada en el Diario Oficial de fecha 29 de Septiembre de 2014", "lo dispuesto en la Resolución Exenta SII N°107, del año 2015"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, y en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830 de 1974, en el art", "lo dispuesto en el Artículo Segundo Transitorio de la Ley N° 20.780, publicada en el Diario Oficial de fecha 29 de Septiembre de 2014", "lo dispuesto en la Resolución Exenta SII N°107, del año 2015"]
 ---
 
 MODIFICA RESOLUCIÓN EXENTA SII N° 107 DE FECHA 24 DE DICIEMBRE 2015, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACION JURADA DE CONTRIBUYENTES ACOGIDOS A LAS DISPOSICIONES DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LIR, POR RENTAS O CANTIDADES QUE CORRESPONDAN A SUS TITULARES, SOCIOS, COMUNEROS O ACCIONISTAS, E INFORMAR Y CERTIFICAR LO QUE SE INDICA.

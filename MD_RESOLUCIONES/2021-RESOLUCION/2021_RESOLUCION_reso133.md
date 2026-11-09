@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 6°, letra A), N° 1, 8 N° 8, 9, 11 inciso primero y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 3°, 4° y 103 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "la Ley N° 21.2120 sobre modernización tributaria que modifica el N° 8° del artículo 8° del Código Tributario", "y, las Circulares N° 40 y N° 63 de 2021."]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 6°, letra A), N° 1, 8 N° 8, 9, 11 inciso primero y 63 inciso primero del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 3°, 4° y 103 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "la Ley N° 21.2120 sobre modernización tributaria que modifica el N° 8° del artículo 8° del Código Tributario"]
 ---
 
 MATERIA: ESTABLECE PROCEDIMIENTO PARA EL AVISO DE PÉRDIDA DE DOMICILIO Y RESIDENCIA EN CHILE Y CUMPLIR CON LA OBLIGACIÓN ESTABLECIDA EN EL ARTÍCULO 103 DE LA LEY SOBRE IMPUESTO A LA RENTA.

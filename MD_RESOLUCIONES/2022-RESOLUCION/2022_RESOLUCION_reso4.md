@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 del Código Tributario", "en los artículos 3°, 27 ter, y 80 a 85 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "las modificaciones introducidas por la Ley N° 21.210"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 del Código Tributario", "en los artículos 3°, 27 ter, y 80 a 85 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "las modificaciones introducidas por la Ley N° 21.210"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

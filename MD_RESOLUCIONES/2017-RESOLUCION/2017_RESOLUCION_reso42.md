@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7° letras c), i), j) y k) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "artículo 41 de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "los artículos 66 y 69, del DFL", "lo establecido en la Ley N° 17.734 que creó el Instituto Nacional de Estadísticas", "Resolución 189, Exenta, de 31.01.2017, que Regula la Ejecución de Tareas Encomendadas a Funcionarios Públicos con ocasión del Censo 2017", "Ley N° 20.922, de 2017, que Regula Feriado por Censo y lo dispuesto en la Resolución N° 10, de 2017, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c), i), j) y k) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "los artículos 66 y 69, del DFL"]
 ---
 
 ## MATERIA: DELEGA FACULTAD QUE INDICA.

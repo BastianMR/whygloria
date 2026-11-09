@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 182 (2025)"
 description: "COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025"
 tags: [SII, 2025, resolucion]
-materia: "## COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025"
+materia: "COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025"
 fecha: "2025-12-15"
 exenta: true
 impuestos: []

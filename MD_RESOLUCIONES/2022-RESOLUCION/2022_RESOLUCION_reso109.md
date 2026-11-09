@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE204472"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE204472"
+materia: "RESOLUCIÓN EX. SII N° 109."
 fecha: "2022-11-21"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "Ley N° 20.730, que Regula el Lobby y las Gestiones que Representen Intereses Particulares ante las Autoridades y Funcionarios", "y el artículo 35 del Código Tributario."]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "y el artículo 35 del Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE204472

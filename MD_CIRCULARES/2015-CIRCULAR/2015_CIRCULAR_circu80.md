@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Art. 2°, N° 2, del D.L"]
+ref_legal: ["Art 2°, N° 2, del D.L N° 825"]
 ---
 
 043-2014 II (008-2014 Circ-SN)

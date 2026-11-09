@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
+materia: "MODIFICA RES. EX. SII N°18 DE 22.04.2003, EN LA FORMA DE LA EMISIÓN DE REPRESENTACIONES IMPRESAS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EN UN ANCHO MÍNIMO DE 5,7 CENTÍMETROS"
 fecha: "2016-03-23"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["El Art. 6°, letra A) N° 1, del Código Tributario, contenido en el Art. 1° del DL", "lo dispuesto en la letra b) del Art. 7° del D.F.L", "los artículos 54 y 56, del DL", "la Ley N°19.983, de 2004", "la Circular N° 64, de 14.09.2001", "la Circular N° 32, de 20.06.2005"]
+ref_legal: ["El Art 6°, letra A) N° 1, del Código Tributario, contenido en el Art 1° del DL", "lo dispuesto en la letra b) del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 54 y 56, del DL", "la Ley N°19.983, de 2004", "la Circular N° 64, de 14.09.2001", "la Circular N° 32, de 20.06.2005"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

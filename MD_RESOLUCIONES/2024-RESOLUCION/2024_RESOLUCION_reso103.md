@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 6°, letra A), N° 1, y 21 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, y en el artículo undécimo transitorio de la Ley N° 21.713 sobre Cumplimiento de Obligaciones Tributarias, publicada en el Diario Oficial del 24 de octubre de 20"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda"]
 ---
 
 FIJA FORMATO E INSTRUCCIONES DE FORMULARIO N° 1920 Y ESTABLECE LA FORMA EN QUE LOS CONTRIBUYENTES PODRÁN ACOGERSE AL SISTEMA DE DECLARACIÓN VOLUNTARIA Y EXTRAORDINARIA DE BIENES O RENTAS, DISPUESTO EN EL ARTÍCULO UNDÉCIMO TRANSITORIO DE LA LEY N° 21.713.

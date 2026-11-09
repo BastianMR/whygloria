@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en el N°1 de la letra A) del artículo 6° del Código Tributario, contenido en el Decreto Ley N° 830 de 1974", "lo establecido en el N°3 del artículo 31 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "lo dispuesto en los artículos 8, letra d), 54 y 79 de la Ley sobre Impuesto a la Ventas y Servicios", "lo establecido en la Ley N° 21.210", "lo instruido en las Circulares N° 3 de 1992 y N° 53 de 2020 y Resolución Ex", "lo establecido en el artículo 5° del Decreto Supremo N° 239 de 2003 y en el Decreto Supremo N° 3 de 2011, ambos del Ministerio de Salud"]
+ref_legal: ["Las facultades que me confieren los artículos 1 y 7 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en los artículos 8, letra d), 54 y 79 de la Ley sobre Impuesto a la Ventas y Servicios"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE194763

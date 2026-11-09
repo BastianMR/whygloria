@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR EL BENEFICIO PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA CON MOTIVO DE LA PROPAGACIÓN DE LA ENFERMEDAD DENOMINADA COVID-19, DEL ARTÍCULO 5° DEL ARTÍCULO PRIMERO DE LA LEY N° 21.252."
 fecha: "2020-08-21"
-exenta: true
+exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 6° letra A N° 1 del Código Tributario, contenido en el Art. 1° del D", "en los Arts. 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art.1° del D.F.L", "en el Art. 14 letra D) N° 3 letra (k), en el Art. 14 letra D N° 8 letra (a) número viii, en el Art. 42 N° 1 y en el Art. 84 de la Ley sobre Impuesto a la Renta, contenido en el Art. 1° del D.L", "en la Ley N° 19.728", "en la Ley N° 21.230", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "lo establecido en el nuevo artículo cuarto transitorio de la Ley N° 21.242, introducido a dicha norma por el artículo segundo, N° 2, de la Ley N° 21.252", "lo establecido en los Arts. 1°, 2°, 5°, 6, 7° y 9° del Artículo primero de la Ley N° 21.252, que establece un financiamiento para la protección de los ingresos de la clase media en los casos que indica", "y lo dispuesto en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el Art 6° letra A N° 1 del Código Tributario, contenido en el Art 1° del D", "en los Arts 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el Art 14 letra D) N° 3 letra (k), en el Art 14 letra D N° 8 letra (a) número viii, en el Art 42 N° 1 y en el Art 84 de la Ley sobre Impuesto a la Renta, contenido en el Art 1° del D.L N° 824, de 1974", "en la Ley N° 19.728", "en la Ley N° 21.230", "en el artículo trigésimo sexto transitorio de la Ley N° 21.210, que moderniza la legislación tributaria", "y lo dispuesto en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en el Artículo 52° del D.F.L"]
+ref_legal: ["Lo dispuesto en los Artículos 3°, 4° y 8° de la Ley N° 17.235, sobre Impuesto Territorial, en el Artículo 52° del D.F.L N° 458 de 1976, sobre Ley General de Urbanismo y Construcciones y, en la Resolución Exenta SII N° 145 de 2019, que fija valores de terrenos y construcciones para el reavalúo de los"]
 ---
 
 MODIFICA RESOLUCIÓN EX. SII N° 145, DE 31 DE DICIEMBRE DE 2019, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS UBICADOS EN LAS ÁREAS URBANAS.

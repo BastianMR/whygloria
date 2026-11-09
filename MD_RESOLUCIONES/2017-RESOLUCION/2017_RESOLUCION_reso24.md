@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["La facultad que me confiere el artículo 6º, Letra A, Nº 1, del Código Tributario, contenido en el artículo 1º del D.L"]
+ref_legal: ["La facultad que me confiere el artículo 6º, Letra A, Nº 1, del Código Tributario, contenido en el artículo 1º del D.L Nº 830, de 1974, lo dispuesto en el inciso tercero del artículo 23º y en el inciso cuarto de la letra c) del N°2, del artículo 34º de la Ley de la Renta, y teniendo presente el Ofici"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA

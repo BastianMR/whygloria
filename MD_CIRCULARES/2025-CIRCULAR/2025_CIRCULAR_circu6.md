@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículo 1 de la Ley N° 21.713, publicada en el Diario Oficial de fecha 24 de octubre de 2024", "artículos 8 N° 14 y N° 18, y 59 ter del Código Tributario."]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica** | **CIRCULAR Nº06.- GE00304048** |

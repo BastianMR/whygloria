@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Arts. pertinentes de la Ley de la Renta"]
+ref_legal: ["Arts pertinentes de la Ley de la Renta"]
 ---
 
 | DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIRCULAR N° 21.-                                                                                                                                                                                                                                                                   |

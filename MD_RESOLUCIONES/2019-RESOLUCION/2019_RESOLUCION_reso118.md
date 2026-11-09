@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2019)"
 description: "Subdirección de Administración Depto. de Adquisiciones"
 tags: [SII, 2019, resolucion]
-materia: "## COMPLEMENTA RESOLUCIÓN N° 37, DE 2013, EN LOS TÉRMINOS QUE INDICA."
+materia: "COMPLEMENTA RESOLUCIÓN N° 37, DE 2013, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2019-10-25"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del DFL N°7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el Artículo 3° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "La Ley N° 21.125, sobre Presupuesto para el Sector Público para el año 2019", "la Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento", "los Decretos N°s N° 472, 473, 474, del 19 de octubre de 2019, 475, 476, 477, 478, 479, 482, 483, 484, 485, del 20 de octubre de 2019, 487, 488 y 490, del 21 de octubre de 2019, todos del Ministerio del Interior y Seguridad Pública", "la Resolución Exenta N° 1055, de 2010, sobre procedimientos para adquisiciones, la Resolución Exenta N° 96, de 2013, que la modifica, y la Resolución Nº 37 de 2013, todas de la Dirección Nacional del Servicio de Impuestos Internos", "y la Resolución N° 7, de 2019, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en el Art 7° letra o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del DFL N°7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el Artículo 3° de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "La Ley N° 21.125, sobre Presupuesto para el Sector Público para el año 2019", "la Ley N°19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento", "la Resolución Exenta N° 1055, de 2010, sobre procedimientos para adquisiciones, la Resolución Exenta N° 96, de 2013, que la modifica, y la Resolución Nº 37 de 2013, todas de la Dirección Nacional del Servicio de Impuestos Internos", "y la Resolución N° 7, de 2019, de la Contraloría General de la República"]
 ---
 
 ## Subdirección de Administración Depto. de Adquisiciones

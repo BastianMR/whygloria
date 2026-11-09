@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 141 - SDAC - 2016 77316994136"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 141 - SDAC - 2016 77316994136"
+materia: "AUTORIZA A EMPRESA NALS ASESORÍAS Y SERVICIOS INFORMÁTICOS SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2016-05-27"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "la Resolución N° 75, de 17 de Junio de 1985, del Director del Servicio", "y las atribuciones que se me confieren en el resolutivo N° 9 de la Resolución Ex"]
+ref_legal: ["Los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "la Resolución N° 75, de 17 de Junio de 1985, del Director del Servicio", "y las atribuciones que se me confieren en el resolutivo N° 9 de la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 141 - SDAC - 2016 77316994136

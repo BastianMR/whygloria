@@ -5,11 +5,11 @@ description: "FIJA CRITERIOS GENERALES PARA LA CONCESIÓN DE CONDONACIONES EN LO
 tags: [SII, 2026, resolucion]
 materia: "FIJA CRITERIOS GENERALES PARA LA CONCESIÓN DE CONDONACIONES EN LOS TRÁMITES DE CONCILIACIÓN O AVENIMIENTO EXTRAJUDICIAL, REGULADOS EN LOS ARTÍCULOS 132 BIS y 132 TER, AMBOS DEL CÓDIGO TRIBUTARIO."
 fecha: "2026-10-23"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letras A N° 1 y B N°s. 3 y 4", "53, 56, 106, 132, 132 bis y 132 ter y 207 todos del Código Tributario", "en la letra a) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en el Decreto N° 437, de 2025, del Ministerio de Hacienda, respecto de la cual se impartieron instrucciones en la Circular 27, de 2026", "en la Resolución Ex SII 106, de 2022, de este Servicio, que Fija criterios generales para aceptar las bases de acuerdo para Conciliar y Avenir conforme con lo dispuesto en los artículos 132, 132 bis y 132 ter del Código Tributario", "y la Resolución N° 36, de 2024, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón, y sus modificaciones."]
+ref_legal: ["Lo dispuesto en los artículos 6°, letras A N° 1 y B N°s 3 y 4", "en la letra a) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en el Decreto N° 437, de 2025, del Ministerio de Hacienda, respecto de la cual se impartieron instrucciones en la Circular 27, de 2026", "en la Resolución Ex SII 106, de 2022, de este Servicio, que Fija criterios generales para aceptar las bases de acuerdo para Conciliar y Avenir conforme con lo dispuesto en los artículos 132, 132 bis y 132 ter del Código Tributario", "y la Resolución N° 36, de 2024, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón, y sus modificaciones."]
 ---
 
 GE 395988.2026

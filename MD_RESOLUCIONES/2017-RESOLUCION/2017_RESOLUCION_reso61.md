@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "CREA REGISTRO DE COMPRAS Y VENTAS; EXIME A CONTRIBUYENTES QUE SE INDICAN DE LA OBLIGACIÓN DE LLEVAR LIBRO DE COMPRAS Y VENTAS, O SOLAMENTE DE COMPRAS; Y DEROGA RESOLUCIONES QUE SE INDICAN."
 fecha: "2017-07-12"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 59 y 63 de la Ley sobre Impuesto a las Ventas y Servicios", "contenida en el artículo 1° del D.L N°825, de 1974", "lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo establecido en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L", "la Ley N° 20.727 que 'Introduce modificaciones a la legislación tributaria en materia de factura electrónica y dispone otras medidas que indica'"]
+ref_legal: ["lo dispuesto en el artículo 74 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "la Ley N° 20.727 que 'Introduce modificaciones a la legislación tributaria en materia de factura electrónica y dispone otras medidas que indica'"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

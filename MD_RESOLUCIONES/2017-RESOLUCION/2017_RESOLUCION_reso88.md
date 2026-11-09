@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras a), c) y q), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, Resolución Exenta N° 480, de 26.04.2016, del Servicio Civil", "Resolución EX"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras a), c) y q), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL"]
 ---
 
 MATERIA: APRUEBA PROTOCOLO DE COLABORACIÓN 'RED DE ACADEMIAS, ESCUELAS Y PROGRAMAS DE SERVICIOS PUBLICOS', ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y EL SERVICIO CIVIL.

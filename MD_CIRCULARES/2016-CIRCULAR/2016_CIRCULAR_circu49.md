@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "territorial", "contribuciones"]
 formularios: ["F22"]
 regimen: ["14A", "14B", "renta-presunta"]
-ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3, 5 y 5 bis, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65, 69 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
+ref_legal: ["Artículos 2, 14, 17 N° 7, 21, 31 inciso 4° N°s 3, 5 y 5 bis, 33 N°s 2 y 5, 38 bis, 39, 54, 56, 58, 60, 62, 63, 65, 69 y 74 N° 4 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014, y Ley 20.899 publicada en el Diario Oficial de 8 de febrero de 2016."]
 ---
 
 1875

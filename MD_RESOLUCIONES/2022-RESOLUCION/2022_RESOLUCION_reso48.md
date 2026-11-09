@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "ESTABLECE FORMA DE ANOTAR LAS RENTAS QUE SE ENCUENTREN PENDIENTES DE DISTRIBUCIÓN A LOS RESPECTIVOS ACCIONISTAS DE LAS SOCIEDADES PLATAFORMA DE INVERSIONES, AL 31 DE DICIEMBRE DE 2021 O AL 31 DE DICIEMBRE DEL AÑO ANTERIOR AL QUE SE HAYAN INCORPORADO AL RÉGIMEN GENERAL."
 fecha: "2022-05-20"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1del Código Tributario, contenido en el artículo 1° del D.L", "1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en la Ley N° 21.047", "en la Circular N° 15 de 2022"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en la Ley N° 21.047", "en la Circular N° 15 de 2022"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

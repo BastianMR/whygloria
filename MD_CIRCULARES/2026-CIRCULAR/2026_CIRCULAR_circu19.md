@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Nuevo N° 7 de la letra A del artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios."]
 ---
 
 | DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos                                                                                                                                                                                                                                                                                           | CIRCULAR N° 19 366674.2026 GE                                                                           |

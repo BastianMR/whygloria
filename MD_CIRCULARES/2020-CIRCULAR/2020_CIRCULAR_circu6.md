@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["arts. 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 10 y 11, de 2020, de la Superintendencia de Pensiones."]
+ref_legal: ["arts 31 N° 6, 42 N° 1, 42 bis, 50 y 55 de la Ley sobre Impuesto a la Renta y Resoluciones Exentas N° 10 y 11, de 2020, de la Superintendencia de Pensiones."]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 6.- 01-2020 SN CIRC. 004-2020 OGN** |

@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículos 68 y 69", "Ley N° 20.780, artículo 10, N°s 20 y 21."]
 ---
 
 Complementada por Circular N° 30, del 10 de mayo de 2016

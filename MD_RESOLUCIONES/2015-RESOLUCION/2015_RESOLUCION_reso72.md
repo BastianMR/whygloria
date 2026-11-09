@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Art. 41, de la Ley 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la letra j) del Art. 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "en el Art. 6°, letra A) Nº 3 del Código Tributario, contenido en Art. 1° del Decreto Ley Nº 830, de 1974", "en el Art. 56 inciso 3° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art. 1° del D.L. 825, de 1974"]
+ref_legal: ["Lo dispuesto en el Art 41, de la Ley 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "en la letra j) del Art 7º, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art 1° del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en el Art 6°, letra A) Nº 3 del Código Tributario, contenido en Art 1° del Decreto Ley Nº 830, de 1974", "en el Art 56 inciso 3° de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Art 1° del D.L 825, de 1974"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE

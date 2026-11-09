@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA QUE LOS CONTRIBUYENTES QUE TRIBUTEN CONFORME A LAS NORMAS DEL ARTÍCULO 14 LETRA C) N° 1 (CONTABILIDAD SIMPLIFICADA, PLANILLAS Y CONTRATOS), Y N° 2 Y 34 (RENTA PRESUNTA), DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR) ENTREGUEN Y CERTIFIQUEN LA INFORMACIÓN QUE SE DETALLA."
 fecha: "2017-10-13"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N°1, 34, 35 y 63 del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra C) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "lo dispuesto en la letra C) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 y las disposiciones contenidas en la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, modificada por la Ley N° 20.899 publicada en el Diario Oficial el 08.02"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

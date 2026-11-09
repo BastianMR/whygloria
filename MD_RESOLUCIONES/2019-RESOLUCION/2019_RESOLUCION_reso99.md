@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00121360"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00121360"
+materia: "MODIFICA RES. EX. SII N° 18 DE 22.04.2003 Y RES. EX. SII N° 45 DE 01.09.2003, ELIMINANDO LA OBLIGACIÓN DE ENTREGAR UN EJEMPLAR IMPRESO DEL DTE Y DEJA SIN EFECTO RES. EX. N° 11 DE 14.02.2003"
 fecha: "2019-09-02"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N°s. 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "la Circular N° 103, de 1979", "la Circular N° 62, de 1980, la Circular N° 32, de 2005"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2° N°s 1 y 2, 9° letra a), 54, 55 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en la Resolución Ex", "la Resolución Ex", "la Circular N° 103, de 1979", "la Circular N° 62, de 1980, la Circular N° 32, de 2005"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00121360

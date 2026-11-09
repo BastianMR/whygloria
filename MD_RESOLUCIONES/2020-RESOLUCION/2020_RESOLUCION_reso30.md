@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en el artículo 1° del D.L", "Resolución Exenta SII N°111 de 2019"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4 bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1), 34 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
 ---
 
 MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RENTAS DEL ART. 42 Nº 1 (SUELDOS), OTROS COMPONENTES DE LA REMUNERACIÓN Y RETENCIONES DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA DE LA LEY DE LA RENTA, FORMULARIO N°1887

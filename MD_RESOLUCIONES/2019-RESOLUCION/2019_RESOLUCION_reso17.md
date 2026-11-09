@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395"
+materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 149.- DE 28 DE DICIEMBRE DE 2018, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2019-02-06"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración Pública", "en el N° 1, letra A), del artículo 6° y 88°, del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del Art. 7° del D.F.L", "el inciso tercero del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "Resolución Exenta SII N° 45 de fecha 01 de septiembre de 2003", "Resolución Exenta SII, N° 39, de 27 de marzo del 2008", "y la Resolución EX"]
+ref_legal: ["en el N° 1, letra A), del artículo 6° y 88°, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el inciso tercero del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "y la Resolución EX"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395

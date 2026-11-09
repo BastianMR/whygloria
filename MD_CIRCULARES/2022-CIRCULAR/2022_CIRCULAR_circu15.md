@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Artículos 1° N° 3 y artículo segundo transitorio Ley N° 21.047"]
 ---
 
 | **DEPARTAMENTO EMISOR Impuestos Directos** | **CIRCULAR N°15.- 199043.2021 GE** |

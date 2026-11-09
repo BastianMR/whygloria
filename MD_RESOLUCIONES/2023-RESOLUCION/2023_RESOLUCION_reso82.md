@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lasfacultadesconferidasenlos articulos6°letraA)N°1,29,36del C6digoTributario,contenidoenarticulo1°delDecretoLeyN° 830,de1974", "loestablecidoenlosarticulos1°y7°delDecretoconFuerzadeLeyN°7,de1980, enelarticulo45delCodigoCivil", "lodispuestoenelDecretoSupremoN°172defecha24dejunio de2023,delMinisteriodelInteriorySeguridadPublicayenelDecretoSupremoN°944,defecha 30 dejuniode2023,del MinisteriodeHacienda", "loestablecidoen laResolucionEx.Sll N°80de 2023."]
+ref_legal: []
 ---
 
 ## SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821

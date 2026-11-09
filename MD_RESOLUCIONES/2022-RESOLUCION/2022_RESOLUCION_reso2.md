@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los articulos 1°"]
+ref_legal: []
 ---
 
 ## SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE

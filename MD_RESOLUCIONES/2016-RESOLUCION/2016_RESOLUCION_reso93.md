@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L", "la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014", "la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016 sobre Simplificación de la Reforma Tributaria", "y las instrucciones impartidas en la Circular N° 49, del 14.07.2016"]
+ref_legal: ["Lo dispuesto en el artículo 6º letra A, N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 14 de la Ley sobre Impuesto a la Renta (en adelante LIR), contenida en el artículo 1° del D.L N° 824, de 1974", "la Ley N°20.780, publicada en el Diario Oficial el 29.09.2014", "la Ley N°20.899, publicada en el Diario Oficial el 08.02.2016 sobre Simplificación de la Reforma Tributaria", "y las instrucciones impartidas en la Circular N° 49, del 14.07.2016"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 350 -SDAC -1016

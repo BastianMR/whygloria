@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo establecido en los artículos 29 al 35 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "lo dispuesto en los artículos 49 al 53 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "LA Resolución Ex"]
+ref_legal: ["lo dispuesto en los artículos 49 al 53 del Decreto Supremo N° 55 del año 1977, del Ministerio de Hacienda, que aprueba el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "LA Resolución Ex"]
 ---
 
 Sii

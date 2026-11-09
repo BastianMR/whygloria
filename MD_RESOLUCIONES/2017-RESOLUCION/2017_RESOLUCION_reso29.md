@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77316183567"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77316183567"
+materia: "AUTORIZA A EMPRESA ONE TICKET SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2017-03-10"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "las Resoluciones Exentas N°s 5028, del 28.08.1998."]
+ref_legal: ["Lo dispuesto en los artículos 55, 56 y 63 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y su Reglamento contenido en el Decreto Supremo N° 55, de Hacienda de 1977", "las Resoluciones Exentas N°s 5028, del 28.08.1998."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77316183567

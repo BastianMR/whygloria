@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L", "en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L"]
+ref_legal: ["Las necesidades del Servicio y las facultades contempladas en los artículos 1°, 4° bis y 7° del D.F.L N° 7 de 1980, del Ministerio de Hacienda, que contiene la Ley Orgánica del Servicio de Impuestos Internos", "en letra A), N°1, del artículo 6°, los artículos 34, 35 y 60, del D.L N° 830 de 1974, sobre Código Tributario."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

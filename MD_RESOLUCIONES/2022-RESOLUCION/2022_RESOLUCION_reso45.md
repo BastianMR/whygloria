@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente", "lo indicado en el artículo 6°, letra A, N° 1, del Código Tributario y lo establecido en el artículo 7°, letras b) y c) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley N° 20.732, que rebaja el Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente"]
 ---
 
 ACTUALIZA VALORES DE AVALÚO FISCAL CONTEMPLADOS EN LA LEY N°20.732, QUE REBAJA EL IMPUESTO TERRITORIAL CORRESPONDIENTE A PROPIEDADES DE ADULTOS MAYORES VULNERABLES ECONÓMICAMENTE.

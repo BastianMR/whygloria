@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2019)"
 description: "DELEGA FACULTAD QUE INDICA, RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2019, resolucion]
-materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL."
+materia: "DELEGA FACULTAD QUE INDICA, RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2019-11-12"
 exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 18.045, de Mercado de Valores", "el D.L", "las Resolución N° 7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón"]
+ref_legal: ["Lo dispuesto en el artículo 7°, letras c), h), i), j), y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 18.045, de Mercado de Valores", "el D.L N° 1.056 de 1975, que Determina Normas Complementarias Relativas a la Reducción del Gasto Público y al Mejor Ordenamiento y Control de Personal", "las Resolución N° 7 de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón"]
 ---
 
 ## DELEGA FACULTAD QUE INDICA, RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS.

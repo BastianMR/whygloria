@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 200604"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE AVALUACIONES GE 200604"
+materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2021-12-30"
-exenta: true
+exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

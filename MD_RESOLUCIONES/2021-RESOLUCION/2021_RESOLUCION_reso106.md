@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2021)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
-materia: "## REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
+materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
 fecha: "2021-09-02"
-exenta: true
+exenta: false
 impuestos: ["iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo preceptuado en los artículos 3°, No 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución Nº 349, de 31 de diciembre de 1984, Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución Ex", "Resolución Ex", "y lo dispuesto en la Resolución N° 6, de 2019, de la Contraloría General de la República, sobre exención del trámite de toma de razón."]
+ref_legal: ["Lo dispuesto en la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución Nº 349, de 31 de diciembre de 1984, Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución Ex", "y lo dispuesto en la Resolución N° 6, de 2019, de la Contraloría General de la República, sobre exención del trámite de toma de razón."]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

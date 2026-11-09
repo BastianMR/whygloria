@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Orgánica"]
+ref_legal: []
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
+materia: "DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO."
 fecha: "2022-05-06"
 exenta: true
 impuestos: []

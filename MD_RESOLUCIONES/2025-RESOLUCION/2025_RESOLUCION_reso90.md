@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77325616236 412-DCV-2025"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77325616236 412-DCV-2025"
+materia: "AUTORIZA A CONECTADOS SPA, RUT N° 76.832.409-3, PARA OPERAR UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2025-07-24"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Ex", "en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "en la Resolución Ex", "en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77325616236 412-DCV-2025

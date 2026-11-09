@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2025)"
 description: "RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 tags: [SII, 2025, resolucion]
-materia: "## RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
+materia: "RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 fecha: "2025-10-06"
 exenta: true
 impuestos: []

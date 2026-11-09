@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículo 60 quinquies", "Ley N° 20.780, Artículo 10, N° 19."]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 47.-** |

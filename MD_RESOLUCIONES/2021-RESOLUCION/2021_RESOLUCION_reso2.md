@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, en los artículos 42 N°2 y 48 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "la Ley N° 21.242, publicada en el Diario Oficial el 24.06.2020", "el artículo 52 de la Ley N°19.880, Bases de Procedimientos Administrativos", "la Resolución Ex", "Resolución Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, en los artículos 42 N°2 y 48 de la Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1° del Decreto Ley N° 824, de 1974", "la Ley N° 21.242, publicada en el Diario Oficial el 24.06.2020", "el artículo 52 de la Ley N°19.880, Bases de Procedimientos Administrativos", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

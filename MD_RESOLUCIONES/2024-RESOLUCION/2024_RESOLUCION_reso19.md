@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, y siguientes del Código Tributario, contenido en artículo 1º del D.L", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en la Ley N° 21.440, publicada en el Diario Oficial de fecha 12.04.2022, que incorporó un nuevo Título VIII Bis al D.L N° 3.063 de 1979, y en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A Nº 1, y siguientes del Código Tributario, contenido en artículo 1º del D.L Nº 830 de 1974", "en los artículos 1º, 4º bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7 de 1980, del Ministerio de Hacienda", "en la Ley N° 21.440, publicada en el Diario Oficial de fecha 12.04.2022, que incorporó un nuevo Título VIII Bis al D.L N° 3.063 de 1979, y en la Resolución Ex"]
 ---
 
 INSTRUYE SOBRE EL CUMPLIMIENTO DE LA OBLIGACIÓN DISPUESTA EN EL N° 5 DEL ARTÍCULO 46 H), DEL TÍTULO VIII BIS DEL D.L N° 3063 DE 1979, SOBRE RENTAS MUNICIPALES.

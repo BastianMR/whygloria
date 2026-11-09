@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2022)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2022, resolucion]
-materia: "## DELEGA FACULTAD EN LA JEFATURA QUE INDICA."
+materia: "DELEGA FACULTAD EN LA JEFATURA QUE INDICA."
 fecha: "2022-04-12"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los Artículos 1° y 7° letra a), c), h) e i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7, de 1980, del Ministerio de Hacienda", "los arts. 1° y siguientes de la Ley N° 21.180, de 2019, sobre Transformación Digital del Estado, que modifica diversos textos legales, entre ellos, la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, la Ley N", "el Decreto Supremo N° 577 de 1978 del entonces Ministerio de Tierras y Colonización, que aprueba el Reglamento sobre Bienes Fiscales", "la Resolución Exenta SII N° 650 de fecha 2 de marzo de 2022, que establece Política de Gestión Documental del Servicio de Impuestos Internos", "las Resoluciones N° 7 de 2019, y N° 16 de 2020, ambas, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en los Artículos 1° y 7° letra a), c), h) e i) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N°7, de 1980, del Ministerio de Hacienda", "el D.F.L N° 1 de 2001, que contiene el texto refundido, coordinado y sistematizado de la Ley N° 18.575, de Bases Generales de la Administración del Estado", "los arts 1° y siguientes de la Ley N° 21.180, de 2019, sobre Transformación Digital del Estado, que modifica diversos textos legales, entre ellos, la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, la Ley Nº", "el Decreto Supremo N° 577 de 1978 del entonces Ministerio de Tierras y Colonización, que aprueba el Reglamento sobre Bienes Fiscales", "la Resolución Exenta SII N° 650 de fecha 2 de marzo de 2022, que establece Política de Gestión Documental del Servicio de Impuestos Internos", "las Resoluciones N° 7 de 2019, y N° 16 de 2020, ambas, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN DE ADMINISTRACIÓN

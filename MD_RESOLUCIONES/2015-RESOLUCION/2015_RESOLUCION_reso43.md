@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 43 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "FIJA FORMATO Y CONDICIONES DE LA SOLICITUD QUE DEBEN PRESENTAR LOS CONTRIBUYENTES DE IMPUESTO ADICIONAL QUE REALICEN LAS OPERACIONES A QUE SE REFIEREN LAS LETRAS a), c), d), e), h) y j), DEL N° 8 DEL ARTÍCULO 17 DE LA LEY SOBRE IMPUESTO A LA RENTA, Y SOLICITEN A ESTE SERVICIO QUE DETERMINE PREVIAMEN"
 fecha: "2015-05-08"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el N° 4 del artículo 74 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el N° 4 del artículo 74 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, norma esta última, modificada por el N° 32 del artículo 1 de la Ley N° 20.630 publicada en el Diario Oficial el 27.09.2012"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

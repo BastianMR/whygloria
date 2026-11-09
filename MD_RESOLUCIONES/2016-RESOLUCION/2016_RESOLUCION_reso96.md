@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, en adelante 'Servicio', contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A N° 1, 34, 35 y 60, en su inciso penúltimo, todos del Código Tributario, contenido en el artículo 1° del D.L", "las disposiciones contenidas en la Ley N° 20.365, publicada en el Diario Oficial de 19.08.2009", "en la Ley N° 20.897, publicada en el Diario Oficial de 05.02.2016", "en el Decreto Supremo N° 331, de los Ministerios de Hacienda y de Economía Fomento y Reconstrucción, publicado en el Diario Oficial de 26.05.2010", "en el Decreto Supremo N° 33, del Ministerio de Energía, publicado en el Diario Oficial 17.06.2016", "Circular N° 55, de 19 de agosto de 2016"]
+ref_legal: ["las disposiciones contenidas en la Ley N° 20.365, publicada en el Diario Oficial de 19.08.2009", "en la Ley N° 20.897, publicada en el Diario Oficial de 05.02.2016", "en el Decreto Supremo N° 331, de los Ministerios de Hacienda y de Economía Fomento y Reconstrucción, publicado en el Diario Oficial de 26.05.2010", "en el Decreto Supremo N° 33, del Ministerio de Energía, publicado en el Diario Oficial 17.06.2016"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

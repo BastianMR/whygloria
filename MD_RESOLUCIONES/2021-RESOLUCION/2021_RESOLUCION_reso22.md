@@ -5,11 +5,11 @@ description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2021-02-25"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A), N° 1, 16, 17, 21, 33 bis y 35 del Código Tributario, contenido en el artículo 1° del D.L", "la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las disposiciones contenidas en la Ley Nº 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020, y la Resolución Exenta SII N° 123 de 2020"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en los artículos 6°, letra A), N° 1, 16, 17, 21, 33 bis y 35 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "la letra A) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "las disposiciones contenidas en la Ley Nº 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020, y la Resolución Exenta SII N° 123 de 2020"]
 ---
 
 SUBDIRECCIÓN DE FISCALIZACIÓN

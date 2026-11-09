@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2022)"
 description: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 tags: [SII, 2022, resolucion]
-materia: "## FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
+materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 fecha: "2022-01-31"
 exenta: true
 impuestos: ["iva"]

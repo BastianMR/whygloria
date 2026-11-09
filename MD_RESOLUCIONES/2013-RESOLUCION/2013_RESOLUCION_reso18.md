@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contenidas en el Artículo 6°, letra A) N° 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N° 7, de Hacienda de 1980", "lo dispuesto en el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y en el Decreto Supremo de Hacienda N° 55, de 1977, reglamentario del D.L"]
+ref_legal: ["Las facultades contenidas en el Artículo 6°, letra A) N° 1 del Código Tributario, y en los Artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del DFL N° 7, de Hacienda de 1980", "lo dispuesto en el Decreto Ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios y en el Decreto Supremo de Hacienda N° 55, de 1977, reglamentario del D.L N° 825, de 1974."]
 ---
 
 SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

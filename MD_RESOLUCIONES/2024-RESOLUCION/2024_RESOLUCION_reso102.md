@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 3° de la Ley N° 17.235, sobre Impuesto Territorial", "artículo 12 de la Ley N°18.450, en el artículo 6°, letra A, N° 1, del Código Tributario, contenido en el DL N° 830, de 1974, y en las letras a) y b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 3° de la Ley N° 17.235, sobre Impuesto Territorial"]
 ---
 
 SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE290455

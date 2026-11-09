@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
+materia: "ESTABLECE PROCEDIMIENTO DE REGISTRO DE EMPRESAS CERTIFICADORAS INDEPENDIENTES DE ACUERDO CON EL Nº 18 DEL ARTICULO 8° DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-06-19"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las letras a) y b), del artículo 7, de la Ley Orgánica del Servicio, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980 del Ministerio de Hacienda", "N° 1 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974 y los párrafos segundo, tercero y cuarto del N° 18° del artículo 8° del Código Tributario, incorporado por la letra c) del N° 8 del artículo 1° de la Ley N° 21.713."]
+ref_legal: ["Lo dispuesto en las letras a) y b), del artículo 7, de la Ley Orgánica del Servicio, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980 del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

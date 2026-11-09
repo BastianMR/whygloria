@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEP
 tags: [SII, 2013, resolucion]
 materia: "MODIFICA PLAZO DE PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO 3325, ESTABLECIDA POR RESOLUCIÓN EX. SII N° 57, DE 2011."
 fecha: "2013-03-12"
-exenta: true
+exenta: false
 impuestos: ["iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]

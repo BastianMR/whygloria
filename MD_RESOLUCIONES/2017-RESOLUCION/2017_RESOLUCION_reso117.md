@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "CREA MODELO DE CERTIFICADO N° 59, SOBRE DONACIONES EFECTUADAS A LA CONFERENCIA EPISCOPAL DE CHILE CON MOTIVO DE LA VISITA DEL PAPA AL PAÍS"
 fecha: "2017-12-06"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y 60 inciso 9° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el artículo 3 de la Ley N° 21.047, publicada en el Diario Oficial de 23.11.2017, que incorpora diversas medidas de índole tributaria"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y 60 inciso 9° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el artículo 3 de la Ley N° 21.047, publicada en el Diario Oficial de 23.11.2017, que incorpora diversas medidas de índole tributaria"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

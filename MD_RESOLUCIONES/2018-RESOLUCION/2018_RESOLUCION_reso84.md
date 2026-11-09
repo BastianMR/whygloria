@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "EXCLUYE DE NÓMINA DE CONTRIBUYENTES SUJETOS A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 54, DE 29 DE JUNIO DE 2018."
 fecha: "2018-09-25"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'", "la Resolución Ex", "en las cuales solicitan ser excluidos de la Nómina de Contribuyentes sujetos a Retención establecida en la Resolución Ex"]
+ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "el artículo 52 de la Ley Nº 19.880 que 'Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado'", "la Resolución Ex", "en las cuales solicitan ser excluidos de la Nómina de Contribuyentes sujetos a Retención establecida en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

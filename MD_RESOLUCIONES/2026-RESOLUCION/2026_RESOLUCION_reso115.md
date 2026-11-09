@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR LA DECLARACIÓN JURADA ANUAL Nº 1966 SOBRE PERSONAS O ENTIDADES QUE DECLARARON QUE SU ACTIVIDAD NO ESTÁ SUJETA A LA OBLIGACIÓN DE INICIO DE ACTIVIDADES, CONFORME AL INCISO DECIMOSEGUNDO DEL ARTÍCULO 68 DEL CÓDIGO TRIBUTARIO. DEJA SIN EFECTO RESOLUTIVOS 5° Y 4° DE LAS"
 fecha: "2026-08-31"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) Nº1, 33 bis, 35 y 68 del Código Tributario, contenidos en el Decreto Ley N° 830 de 1974", "lo instruido en la Circular N° 38 de 2025", "en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) Nº1, 33 bis, 35 y 68 del Código Tributario, contenidos en el Decreto Ley N° 830 de 1974", "en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

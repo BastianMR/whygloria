@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "herencias", "territorial", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Ley N° 21.210, publicada en el Diario Oficial el 24 de febrero de 2020", "Ley N° 20.732 publicada en el Diario Oficial el 05 de marzo de 2014"]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Avaluaciones** | **CIRCULAR N° 24** |

@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República", "lo dispuesto en las Resoluciones N° 349, de 1984"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N° 349, de 1984"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE CONTRALORÍA INTERNA

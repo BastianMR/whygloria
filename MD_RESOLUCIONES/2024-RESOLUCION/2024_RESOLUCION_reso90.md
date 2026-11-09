@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras a), c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N° 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado", "en el Código Tributario, contenido en el Artículo 1° del Decreto Ley N°830 del Ministerio de Hacienda, de 1974", "lo dispuesto en el Decreto N° 369, del Ministerio del Interior y Seguridad Pública, de 2022, que Aprueba Política Nacional Contra el Crimen Organizado", "y la Resolución N° 6, de 2019, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980 y en las letras a), c) y ñ) del artículo 7° del mismo texto legal", "en el Código Tributario, contenido en el Artículo 1° del Decreto Ley N°830 del Ministerio de Hacienda, de 1974", "lo dispuesto en el Decreto N° 369, del Ministerio del Interior y Seguridad Pública, de 2022, que Aprueba Política Nacional Contra el Crimen Organizado", "y la Resolución N° 6, de 2019, de la Contraloría General de la República"]
 ---
 
 CREA LA OFICINA DE CRIMEN ORGANIZADO Y DEFINE SUS FUNCIONES

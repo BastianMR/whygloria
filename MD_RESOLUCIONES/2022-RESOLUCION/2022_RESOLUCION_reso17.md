@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el Art. 1° del D.L", "y Resolución Ex"]
+ref_legal: ["Lo dispuesto en el N°1, de la letra A), del Artículo 6°, y los incisos 3° y 4°, del Artículo 88, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "y Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00185621

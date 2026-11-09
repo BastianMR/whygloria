@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2024)"
 description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249"
+materia: "MODIFICA RESOLUCIÓN EX. SII N°20, DE 2016, EN LO REFERIDO A LA OFICINA DE ADMINISTRACIÓN DE RIESGOS INSTITUCIONALES, DEL DEPARTAMENTO SUBDIRECCIÓN DE CONTRALORÍA INTERNA QUE PASA A DENOMINARSE OFICINA DE GESTIÓN DE CONTINUIDAD, RIESGOS INSTITUCIONALES Y SEGURIDAD DE LA INFORMACIÓN, E INCORPORA NUEVA"
 fecha: "2024-01-24"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo estatuido en la Ley N°18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en las Resoluciones N°349 de 1984", "lo establecido en la Resolución Ex", "la Política General de Seguridad de la Información del SII contenida en la Resolución N°1536, de 2018", "la Resolución Exenta SII N° 354, de 4 de febrero de 2022, que 'Aprueba Política de Continuidad de Negocios del Servicio de Impuestos Internos y establece procesos críticos'", "el Decreto N°7, Norma Técnica de Seguridad de la Información y Ciberseguridad publicado el 17 de agosto de 2023"]
+ref_legal: ["lo dispuesto en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N°7 de 1980, de Hacienda y en las letras c) y ñ) del artículo 7° del mismo texto legal", "lo dispuesto en las Resoluciones N°349 de 1984", "la Política General de Seguridad de la Información del SII contenida en la Resolución N°1536, de 2018", "la Resolución Exenta SII N° 354, de 4 de febrero de 2022, que 'Aprueba Política de Continuidad de Negocios del Servicio de Impuestos Internos y establece procesos críticos'", "el Decreto N°7, Norma Técnica de Seguridad de la Información y Ciberseguridad publicado el 17 de agosto de 2023"]
 ---
 
 ## SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00254249

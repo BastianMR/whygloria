@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "IMPARTE INSTRUCCIONES SOBRE LA OBLIGACIÓN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LA OPCIÓN DE TRIBUTACIÓN SOBRE EL SALDO DE UTILIDADES ACUMULADAS PARA LOS CONTRIBUYENTES QUE SE INCORPORARON AL RÉGIMEN SIMPLIFICADO DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LEY SOBRE IMPUESTO A LA RENTA A PARTIR DEL 1° DE ENERO DE 2015 O DEL 1° DE ENERO DE 2016, SEGÚN CORRESPONDA."
+materia: "IMPARTE INSTRUCCIONES SOBRE LA OBLIGACIÓN DE INFORMAR AL SERVICIO DE IMPUESTOS INTERNOS, LA OPCIÓN DE TRIBUTACIÓN SOBRE EL SALDO DE UTILIDADES ACUMULADAS PARA LOS CONTRIBUYENTES QUE SE INCORPORARON AL RÉGIMEN SIMPLIFICADO DE LA LETRA A) DEL ARTÍCULO 14 TER DE LA LEY SOBRE IMPUESTO A LA RENTA A PARTI"
 fecha: "2016-04-06"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en los artículos 6° letra A) N° 1 y 21 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 14 ter letra A) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo dispuesto en los artículos segundo y tercero transitorios de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "lo dispuesto en el artículo 8° de la Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016", "la Resolución Exenta N° 128, de 31 de diciembre de 2014"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 14 ter letra A) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974", "lo dispuesto en los artículos segundo y tercero transitorios de la Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "lo dispuesto en el artículo 8° de la Ley N° 20.899, publicada en el Diario Oficial de 8 de febrero de 2016", "la Resolución Exenta N° 128, de 31 de diciembre de 2014"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "lo establecido en la Ley N°18.575", "lo estatuido en la Resolución Exenta N°10, de 2009, Resolución Exenta N° 153, de 2011 y Resolución Exenta N° 75, de 2013, de la Dirección Nacional del Servicio de Impuestos Internos", "lo instruido en la Resolución N°1.600, de 2008, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en los artículos 3° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de Hacienda, de 1980"]
 ---
 
 bajo su dependencia las siguientes oficinas:

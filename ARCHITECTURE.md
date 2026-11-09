@@ -92,6 +92,11 @@ calls a model. Where the source has no MATERIA line or lost its date,
 `check_okf.py` reports a *metadata gap* instead of an error, because inventing a
 value would be worse than leaving it empty.
 
+`exenta` is only set when the document's own signature line (`RESOLUCIÓN EXENTA
+SII N…`) survived the conversion. 213 resolutions lost that header line, so they
+read `false` even though their PDF says otherwise; recomputing them needs a
+re-conversion, not a rule change.
+
 ## How to work with it
 
 ### Reading

@@ -3,7 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°37 318512.2025 GE |"
 tags: [SII, 2025, circular]
-materia: "## 1. SUSTITÚYESE EL CAPÍTULO I 'INTRODUCCIÓN', POR EL SIGUIENTE:"
+materia: "1. SUSTITÚYESE EL CAPÍTULO I 'INTRODUCCIÓN', POR EL SIGUIENTE:"
 fecha: "2025-04-30"
 exenta: false
 impuestos: []

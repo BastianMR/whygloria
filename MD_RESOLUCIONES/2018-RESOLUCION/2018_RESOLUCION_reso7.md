@@ -5,7 +5,7 @@ description: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EX. SII N° 128, DE 29 DE DICIE
 tags: [SII, 2018, resolucion]
 materia: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EX. SII N° 128, DE 29 DE DICIEMBRE DE 2017, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2018-01-18"
-exenta: true
+exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

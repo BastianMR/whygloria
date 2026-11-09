@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330801"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330801"
+materia: "FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA."
 fecha: "2025-06-26"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "en los artículos 2°, 3° y 8° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "Resolución Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y letra b) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "en los artículos 2°, 3° y 8° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825 de 1974, del Ministerio de Hacienda", "las normas contenidas en el Título XIII del D.S N° 55 de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, también del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330801

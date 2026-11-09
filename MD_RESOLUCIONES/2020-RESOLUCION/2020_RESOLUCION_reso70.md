@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 6º letra A, Nºs 1 y 3 y 88 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 23 N° 5", "Nº 54 y Nº 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el artículo 1° del D.L", "y el artículo Nº 70 del Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "y las Resoluciones Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 6º letra A, Nºs 1 y 3 y 88 del Código Tributario, contenido en el artículo 1° del D.L Nº 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 23 N° 5", "y el artículo Nº 70 del Decreto Supremo N° 55, del Ministerio de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "lo dispuesto en Ley N° 19.983, de 2004, que otorga mérito ejecutivo a la copia de la factura", "y las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE OPERACIONES

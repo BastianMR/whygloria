@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Artículos 31, 41, 59 y 91 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L. 824 de 1974)", "artículo 13 de la Ley N° 18.768, publicada en el Diario Oficial de 29 de diciembre de 1988", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
+ref_legal: ["Artículos 31, 41, 59 y 91 de la Ley sobre Impuesto a la Renta, (contenida en el artículo 1° del D.L 824 de 1974)", "artículo 13 de la Ley N° 18.768, publicada en el Diario Oficial de 29 de diciembre de 1988", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014."]
 ---
 
 1875

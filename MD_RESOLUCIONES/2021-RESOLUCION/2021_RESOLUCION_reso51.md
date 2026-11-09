@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º, 4º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "lo establecido en los artículos 6º letra A Nº 1, 16, 17, 21, 33 bis, 35 y 60 inciso 8º del Código Tributario, contenido en el artículo 1º del D.L", "el artículo 14, 42 Nº 2, 84, 91 y 94 Nº3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "el Decreto N°671, del 29 de abril de 2021, del Ministerio de Hacienda, y las Resoluciones Exentas SII Nº4 de 2008 y Nº128 de 2020"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4º y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7 del Ministerio de Hacienda, de 1980", "el artículo 14, 42 Nº 2, 84, 91 y 94 Nº3 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del D.L Nº 824, de 1974", "el Decreto N°671, del 29 de abril de 2021, del Ministerio de Hacienda, y las Resoluciones Exentas SII Nº4 de 2008 y Nº128 de 2020"]
 ---
 
 <unknown>

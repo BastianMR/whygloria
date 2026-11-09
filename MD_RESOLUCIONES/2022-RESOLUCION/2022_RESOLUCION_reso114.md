@@ -5,11 +5,11 @@ description: "ESTABLECE FORMA DE PRESENTAR SOLICITUD DE ACUERDO ANTICIPADO DE PR
 tags: [SII, 2022, resolucion]
 materia: "ESTABLECE FORMA DE PRESENTAR SOLICITUD DE ACUERDO ANTICIPADO DE PRECIOS DE TRANSFERENCIA, ARTÍCULO 41 E N°7 DE LA LEY SOBRE IMPUESTO A LA RENTA Y MODIFICA RESOLUCIÓN SII EX. N° 68 DE 2013."
 fecha: "2022-11-28"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº830, de 1974", "lo establecido en los artículos 1°, 4° bis y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "lo establecido en el artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº830, de 1974"]
 ---
 
 ESTABLECE FORMA DE PRESENTAR SOLICITUD DE ACUERDO ANTICIPADO DE PRECIOS DE TRANSFERENCIA, ARTÍCULO 41 E N°7 DE LA LEY SOBRE IMPUESTO A LA RENTA Y MODIFICA RESOLUCIÓN SII EX. N° 68 DE 2013.

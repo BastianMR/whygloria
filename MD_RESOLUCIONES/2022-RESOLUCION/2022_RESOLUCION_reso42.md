@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra a) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "lo establecido en la Resolución Exenta N° 09, del 15 de febrero del 2001, publicada en el Diario Oficial del 21 de febrero del 2001, en especial lo que establecen sus resolutivos 2° letras a), b) y c), 3°, 6° y 7°", "y las reglas generales de validez de documentos electrónicos establecidas por la Ley N° 19.799 del año 2002."]
+ref_legal: ["Lo dispuesto en el artículo 6° letra a) N°1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N°830 de 1974", "y las reglas generales de validez de documentos electrónicos establecidas por la Ley N° 19.799 del año 2002."]
 ---
 
 ## SUBDIRECCIÓN DE INFORMÁTICA GE 208653

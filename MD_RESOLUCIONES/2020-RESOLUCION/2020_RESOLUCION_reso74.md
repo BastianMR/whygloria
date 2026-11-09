@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades consagradas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6° letra A) N° 1, del Código Tributario, contenido en el D.L", "los artículos 54° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el de D.L", "la Ley N° 21.210 de 2020, que Moderniza la Legislación Tributaria", "la Resolución Ex", "Resolución Ex", "y, la Resolución Ex"]
+ref_legal: ["Las facultades consagradas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "los artículos 54° y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el de D.L N° 825, de 1974", "el D.S N° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "la Ley N° 21.210 de 2020, que Moderniza la Legislación Tributaria", "la Resolución Ex"]
 ---
 
 MATERIA: INSTRUYE SOBRE PROCEDIMIENTO PARA EMITIR BOLETAS ELECTRÓNICAS Y BOLETAS NO AFECTAS O EXENTAS ELECTRÓNICAS DE VENTAS Y SERVICIOS. DEJA SIN EFECTO RESOLUCIONES QUE INDICA.

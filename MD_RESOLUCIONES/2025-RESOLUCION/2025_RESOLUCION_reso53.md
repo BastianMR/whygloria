@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 323262.2025 GE"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 323262.2025 GE"
+materia: "INSTRUYE SOBRE LA OBLIGACIÓN DE ENTREGAR LA REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y/O COMPROBANTE DE PAGO ELECTRÓNICO. DEJA SIN EFECTO RESOLUCIÓN EX. N° 12 DE 2025."
 fecha: "2025-04-29"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo establecido en el N° 1 de la letra A) del artículo 6°, del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "los artículos 53, 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974, del Ministerio de Hacienda", "el artículo 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda", "las Leyes N° 21.210 y N° 21.256", "y, las Resoluciones Exentas SII N° 45 de 2003, N° 99 de 2019, N° 74 y N° 176 de 2020, N° 76 de 2021 y N° 12 de 2025"]
+ref_legal: ["Las facultades que confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "los artículos 53, 54, 56 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974, del Ministerio de Hacienda", "el artículo 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de 1977, del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 323262.2025 GE

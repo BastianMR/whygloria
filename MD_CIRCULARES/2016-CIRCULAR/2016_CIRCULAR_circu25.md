@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Código Tributario, artículos 75, 84 bis y 88"]
 ---
 
 25

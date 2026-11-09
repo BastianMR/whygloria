@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE RENTAS OBTENIDAS POR TERCEROS, FORMULARIO N° 1932."
 fecha: "2016-12-26"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L", "en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1º, 4° bis, y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A) N° 1), 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

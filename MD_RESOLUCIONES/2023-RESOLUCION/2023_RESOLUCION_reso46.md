@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "OTORGA LA CALIDAD DE AGENTE RETENEDOR DE IVA, DE ACUERDO CON RES. EX N° 1087, DE 28.08.1978, A GAS DE CHILE S.A., RUT N° 96.694.400-5. DEROGA RESOLUCIÓN EX. SII N°58, de 28.06.2022."
 fecha: "2023-04-12"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, y 88°, del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra b), del Art. 7° del D.F.L", "el inciso cuarto del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "las Resoluciones SII N°s 1087 y 1110, de 1978", "la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1, y 88°, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "lo dispuesto en la letra b), del Art 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el inciso cuarto del artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "las Resoluciones SII N°s 1087 y 1110, de 1978", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

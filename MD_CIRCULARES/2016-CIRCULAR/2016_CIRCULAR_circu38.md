@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["CIRCULAR N° 52, DE 09.09.1999"]
 ---
 
 | **DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES** | **CIRCULAR Nº 38.-** |

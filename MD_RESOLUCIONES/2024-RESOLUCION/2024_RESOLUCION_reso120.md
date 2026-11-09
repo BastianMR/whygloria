@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749"
+materia: "ESTABLECE CRITERIOS PARA DEFINIR UN CASO COMO RELEVANTE O DE INTERÉS INSTITUCIONAL CONFORME AL NUMERAL 5° DE LA LETRA C DEL INCISO SEGUNDO DEL ARTÍCULO 6° DEL CÓDIGO TRIBUTARIO."
 fecha: "2024-12-18"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1°, 3° quáter y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en la letra A y N° 5 de la letra C ambas del inciso segundo del artículo 6°, N° 1, 10, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en la letra c) del N° 6 del artículo 1, el artículo octavo transitorio y artículo transitorio final de la Ley N° 21.713"]
+ref_legal: ["en la letra A y N° 5 de la letra C ambas del inciso segundo del artículo 6°, N° 1, 10, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "en la letra c) del N° 6 del artículo 1, el artículo octavo transitorio y artículo transitorio final de la Ley N° 21.713"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
+materia: "EXIME DEL TIMBRAJE DE PAGARÉS A CONTRIBUYENTE QUE INDICA."
 fecha: "2016-03-23"
 exenta: true
 impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "y en los artículos 1°, N° 3, 17 inciso 2° y 18°, del D.L"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y en los artículos 1°, N° 3, 17 inciso 2° y 18°, del D.L N° 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

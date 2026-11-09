@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["contribuciones"]
 formularios: []
 regimen: ["14A"]
-ref_legal: ["en el Código Tributario, materia sobre la cual se impartieron instrucciones por Circular N° 34, de 2015."]
+ref_legal: ["Código Tributario, artículo 11"]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 23.-** |

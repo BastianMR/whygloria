@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2015, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
+materia: "AUTORIZA A LOS DIRECTORES REGIONALES QUE INDICA PARA DELEGAR EN LOS JEFES DE UNIDADES DE SUS JURISDICCIONES LAS FACULTADES DE APLICAR SANCIONES, POR INFRACCIONES TRIBUTARIAS PREVISTAS Y TIPIFICADAS EN LOS ARTÍCULOS 97 N° 15, 16 Y 109 DEL CÓDIGO TRIBUTARIO, CUYAS DENUNCIAS RESPECTIVAS NO HAYAN SIDO R"
 fecha: "2015-06-04"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7° letras c), i) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "los Nos. 3, 5 y 7 de la letra B) del artículo 6° del Código Tributario", "contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en el artículo 7° letras c), i) y ñ) y artículo 20, ambos de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "los Nos. 3, 5 y 7 de la letra B) del artículo 6° del Código Tributario"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA

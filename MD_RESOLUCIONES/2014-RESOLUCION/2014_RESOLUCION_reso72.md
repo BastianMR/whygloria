@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial del 12 de abril de 2002", "el artículo 2° de la Ley N° 20.416, que fija Normas Especiales para las Empresas de Menor Tamaño", "las instrucciones impartidas mediante Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N° 1, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 54 y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D", "los artículos 1° y siguientes de la Ley N° 19.799, sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma, publicada en el Diario Oficial del 12 de abril de 2002", "el artículo 2° de la Ley N° 20.416, que fija Normas Especiales para las Empresas de Menor Tamaño", "las instrucciones impartidas mediante Resoluciones Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

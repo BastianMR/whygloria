@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva", "segunda-categoria"]
 formularios: ["F29"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado", "artículo 11º de la ley Nº 20.423 del Sistema Institucional para el Desarrollo del Turismo y el artículo 1º del decreto ley N° 1.224 de 1975, del entonces Ministerio de Economía, Fomento y Reconstrucción."]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N° 19.628, sobre Protección de la Vida Privada", "la Ley N° 20.285, sobre Acceso a la Información Pública", "el artículo 1°, numeral 6, último párrafo de la Ley 21.180 sobre Transformación Digital del Estado"]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE 227667

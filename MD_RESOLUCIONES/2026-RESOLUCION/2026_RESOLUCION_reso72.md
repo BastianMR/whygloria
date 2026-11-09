@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2026)"
 description: "FIJA FUNCIONES DEL GABINETE DEL DIRECTOR SANTIAGO, 05 DE JUNIO DE 2026"
 tags: [SII, 2026, resolucion]
-materia: "## FIJA FUNCIONES DEL GABINETE DEL DIRECTOR SANTIAGO, 05 DE JUNIO DE 2026"
+materia: "FIJA FUNCIONES DEL GABINETE DEL DIRECTOR SANTIAGO, 05 DE JUNIO DE 2026"
 fecha: "2026-06-05"
 exenta: true
 impuestos: []

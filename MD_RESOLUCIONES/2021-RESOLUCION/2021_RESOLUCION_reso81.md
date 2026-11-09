@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N° 21.080, que crea la Subsecretaría de Relaciones Económicas Internacionales."]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N° 21.080, que crea la Subsecretaría de Relaciones Económicas Internacionales."]
 ---
 
 MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos.

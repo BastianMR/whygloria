@@ -28,12 +28,12 @@ MONTHS = {
 MONTHS["setiembre"] = 9
 MONTH_ALT = "|".join(sorted(MONTHS, key=len, reverse=True))
 
-MATERIA_RE = re.compile(r"MATERIA\.?\s*:\s*(.+?)(?:\s*\|\s*|\s*$)", re.I | re.M)
-MAT_SHORT_RE = re.compile(r"^[#*\s]*MAT\.?\s*:\s*(.+?)\s*$", re.I | re.M)
+MATERIA_RE = re.compile(r"MATERIA\.?[ \t]*:[ \t]*(.+?)(?:[ \t]*\|[ \t]*|$)", re.I | re.M)
+MAT_SHORT_RE = re.compile(r"^[#*\t ]*MAT\.?[ \t]*:[ \t]*(.+?)[ \t]*$", re.I | re.M)
 BARE_MATERIA_RE = re.compile(r"^[#*\s]*MATERIA\.?\s*:?\s*$", re.I)
 REF_LABEL_RE = re.compile(r"REF\.?\s*LEGAL|REFERENCIA", re.I)
 FECHA_RE = re.compile(
-    rf"(?:^|\|)\s*FECHA\s*[:,_]?\s*((?:\d{{1,2}}|{MONTH_ALT})[^\n]*)", re.I | re.M
+    rf"(?:^|\|)[ \t]*FECHA[ \t]*[:,_]?[ \t]*((?:\d{{1,2}}|{MONTH_ALT})[^\n]*)", re.I | re.M
 )
 SANTIAGO_RE = re.compile(rf"SANTIAGO,?\s*((?:\d{{1,2}}|{MONTH_ALT})[^\n]{{0,60}})", re.I)
 SANTIAGO_NEXT_RE = re.compile(rf"SANTIAGO,?\s*\n[ \t]*((?:\d{{1,2}}|{MONTH_ALT})[^\n]{{0,60}})", re.I)
@@ -49,13 +49,19 @@ LOWERCASE_WORD_RE = re.compile(r"\s+[A-ZÁÉÍÓÚ][a-záéíóúñ]{3,}")
 SENTENCE_END_RE = re.compile(r"\.\s+(?=[A-ZÁÉÍÓÚ])")
 MEDIANTE_RE = re.compile(r",\s+(?:mediante|en virtud|por la cual|por las cuales)\b", re.I)
 DATE_NUMERIC_RE = re.compile(r"(\d{1,2})[/.\-](\d{1,2})[/.\-](\d{4})")
-EXENTA_RE = re.compile(r"RESOLUCI[OÓ]N\s+(?:EXENTA|EX\.)", re.I)
+EXENTA_RE = re.compile(r"^\s*(?:#+\s*)?RESOLUCI[OÓ]N\s+(?:EXENTA|EX\.)\s+SII\b", re.I)
 F_RE = re.compile(r"\bF\s?[-]?\s?(\d{2,3})\b")
 DJ_RE = re.compile(r"\bD\.?\s?J\.?\s?[-]?\s?(\d{3,4})\b", re.I)
-REF_LEGAL_RE = re.compile(r"REF\.?\s*LEGAL\s*:\s*(.+?)(?:\s*\|\s*|\s*$)", re.I | re.M)
+REF_LEGAL_RE = re.compile(r"REF\.?[ \t]*LEGAL\.?[ \t]*:[ \t]*(.+?)(?:[ \t]*\|[ \t]*|$)", re.I | re.M)
+REFERENCIA_RE = re.compile(r"(?:^|\|)[ \t]*REFERENCIA[ \t]*:[ \t]*([^|\n]*)", re.I | re.M)
+VOLUME_PREFIX_RE = re.compile(
+    r"^(?:N[°º]?\s*Y?\s*NOMBRE\s*DEL\s*VOLUMEN|N[°º]Y?NOMBREDELVOLUMEN)\s*:?\s*", re.I
+)
 VISTOS_RE = re.compile(
     r"VISTOS\s*:?\s*(.+?)(?:\n\s*\n|\bCONSIDERANDO\b|\bRESUELVO\b)", re.I | re.S
 )
+VISTOS_OPENER_RE = re.compile(r"^(?:lo dispuesto|la |el |las |los |en |y )", re.I)
+ABBREV_RE = re.compile(r"\b((?:d\.\s?f\.\s?l|d\.\s?l|d\.\s?s|arts?|artículos?|n[°º]s?|sr|sra|s\.\s?a|ltda))\.", re.I)
 CITATION_RE = re.compile(VOCAB["ref_legal"]["pattern"], re.I)
 
 IMPUESTOS = [
@@ -116,8 +122,10 @@ def _iso(day: int, month: int, year: int) -> str:
 def _subject_line(body: str) -> str:
     """Older documents carry the subject as an unlabelled uppercase line."""
     for raw in body.splitlines()[:40]:
-        value = _clean(raw)
+        value = _clean(raw).lstrip("#* ").strip()
         if len(value) < 25 or value.startswith("|"):
+            continue
+        if sum(char.isalpha() for char in value) / len(value) < 0.5:
             continue
         upper = value.upper()
         if upper.startswith(
@@ -133,10 +141,11 @@ def _subject_line(body: str) -> str:
                 "GABINETE",
                 "SERVICIO DE IMPUESTOS",
                 "OFICINA",
+                "GE0",
             )
         ):
             continue
-        if raw.lstrip().startswith("#") and "IMPUESTOS INTERNOS" in upper:
+        if raw.lstrip().startswith("#") and upper.startswith("SERVICIO DE IMPUESTOS INTERNOS"):
             continue
         if ":" in value[:20]:
             continue
@@ -154,8 +163,11 @@ def _trim_subject(value: str) -> str:
     """Drop prose that docling glued after an uppercase subject line.
 
     Some documents read 'Dejada sin efecto MATERIA: MODIFICA ... PECUNIARIAS
-    Esta Dirección, en virtud ...'. The subject is the uppercase part.
+    Esta Dirección, en virtud ...'. The subject is the uppercase part. Others
+    merge the distribution footer into the subject: 'AVB/CPE/MFO
+    Distribución: - Internet OTÓRGUESE ACCESO ...'.
     """
+    value = re.sub(r"^.*?Distribuci[oó]n:[^\n]*?Internet\s+", "", value, flags=re.I)
     letters = [char for char in value[:120] if char.isalpha()]
     if not letters or sum(char.isupper() for char in letters) / len(letters) < 0.85:
         return value[:300]
@@ -187,7 +199,7 @@ def extract_materia(body: str) -> str:
     for index, line in enumerate(lines[:40]):
         if BARE_MATERIA_RE.match(line):
             for following in lines[index + 1 : index + 4]:
-                value = _clean(following)
+                value = _clean(following).lstrip("#* ").strip()
                 if value and not value.startswith("|"):
                     return _trim_subject(value)
     for line in lines[:40]:
@@ -196,7 +208,7 @@ def extract_materia(body: str) -> str:
                 value = _clean(cell)
                 if len(value) >= 15 and not REF_LABEL_RE.search(value):
                     return _trim_subject(value)
-    return _subject_line(body)
+    return _trim_subject(_subject_line(body))
 
 
 def extract_fecha(body: str, year: str = "") -> str:
@@ -223,20 +235,31 @@ def extract_fecha(body: str, year: str = "") -> str:
 
 
 def extract_ref_legal(body: str) -> list[str]:
+    from_vistos = False
     match = REF_LEGAL_RE.search(body)
-    if match:
-        items = re.split(r";", match.group(1))
+    ref_value = _clean(match.group(1)) if match else ""
+    if ref_value:
+        items = re.split(r";", ref_value)
     else:
-        match = VISTOS_RE.search(body)
-        if not match:
-            return []
-        items = re.split(r";", match.group(1))
+        match = REFERENCIA_RE.search(body)
+        chunk = VOLUME_PREFIX_RE.sub("", match.group(1)).strip() if match else ""
+        if chunk:
+            items = re.split(r";", chunk)
+        else:
+            match = VISTOS_RE.search(body)
+            if not match:
+                return []
+            items = re.split(r";", match.group(1))
+            from_vistos = True
     citations = []
     for item in items:
         value = _clean(re.sub(r"^(?:y|e)\s+", "", item, flags=re.I)).strip(" ;,")
         value = re.sub(r"\s+(?:y|e)$", "", value, flags=re.I)
+        value = ABBREV_RE.sub(r"\1", value)
         value = SENTENCE_END_RE.split(value)[0]
         value = MEDIANTE_RE.split(value)[0].strip(" ;,")
+        if from_vistos and not VISTOS_OPENER_RE.match(value):
+            continue
         if len(value) < 6 or not CITATION_RE.search(value):
             continue
         value = value[:300]
@@ -260,6 +283,11 @@ def extract_formularios(body: str) -> list[str]:
     return sorted(forms)
 
 
+def extract_exenta(body: str) -> bool:
+    """Only the document's own signature line counts, not a citation of another one."""
+    return any(EXENTA_RE.match(line) for line in body.splitlines()[:25])
+
+
 def extract_metadata(body: str, kind: str, year: str = "") -> dict:
     return {
         "materia": extract_materia(body),
@@ -267,6 +295,6 @@ def extract_metadata(body: str, kind: str, year: str = "") -> dict:
         "impuestos": extract_impuestos(body),
         "formularios": extract_formularios(body),
         "regimen": extract_regimen(body),
-        "exenta": kind == "RESOLUCION" and bool(EXENTA_RE.search(body)),
+        "exenta": kind == "RESOLUCION" and extract_exenta(body),
         "fecha": extract_fecha(body, year),
     }

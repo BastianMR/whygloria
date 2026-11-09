@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo preceptuado en los artículos 3°, las letras c) y ñ) del artículo 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "lo dispuesto en la Resolución Nº 349, de 31 de diciembre de 1984", "Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones", "lo dispuesto en la Resolución Exenta SII Nº106, de 02 de septiembre de 2021 de esta Dirección Nacional", "y lo dispuesto en la Resolución N°6, de 2019, de la Contraloría General de la República, sobre exención del trámite de toma de razón."]
+ref_legal: ["Lo dispuesto en la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo dispuesto en la Resolución Nº 349, de 31 de diciembre de 1984", "lo dispuesto en la Resolución Exenta SII Nº106, de 02 de septiembre de 2021 de esta Dirección Nacional", "y lo dispuesto en la Resolución N°6, de 2019, de la Contraloría General de la República, sobre exención del trámite de toma de razón."]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE267349

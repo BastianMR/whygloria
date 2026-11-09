@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en el artículo 6°, letra A), Nº 1, del D.L", "lo establecido en el artículo 31° Nº 3, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "lo señalado en los artículos 8°, letra d) y 79° de la Ley sobre Impuesto a la Ventas y Servicios, D.L", "y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009", "Resolución Ex"]
+ref_legal: ["Las facultades que me confieren los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L Nº 7, de 1980 del Ministerio de Hacienda", "y las instrucciones contenidas en las Circulares Nº 3, de 1992 y N° 54, de 2009"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS

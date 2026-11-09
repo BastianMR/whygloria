@@ -3,9 +3,9 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2023)"
 description: "DESIGNA SECRETARIO GENERAL SUBROGANTE"
 tags: [SII, 2023, resolucion]
-materia: "## DESIGNA SECRETARIO GENERAL SUBROGANTE"
+materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET"
 fecha: "2023-02-10"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

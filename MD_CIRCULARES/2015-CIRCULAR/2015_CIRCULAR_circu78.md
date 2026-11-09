@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en D.F.L"]
+ref_legal: ["Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado, consta en D.F.L N° 104 de 1977, Ley N° 20.444, artículo 31, inciso 3°, N° 3 de la Ley sobre Impuesto a la Renta (LIR), artículo 79, de la Ley sobre Impuesto a las Ventas y Servicios y artículo 97 N° 16 del Código Tributario, Decreto Su"]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 78.- 19-2015 SN Circ. 106-2015 ID** |

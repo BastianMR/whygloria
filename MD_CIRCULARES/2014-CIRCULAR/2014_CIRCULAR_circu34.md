@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva", "herencias", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L. 824, de 1974, Ley N° 20.675 y artículo 8° de la Ley N° 18.985."]
+ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L 824, de 1974, Ley N° 20.675 y artículo 8° de la Ley N° 18.985."]
 ---
 
 1875

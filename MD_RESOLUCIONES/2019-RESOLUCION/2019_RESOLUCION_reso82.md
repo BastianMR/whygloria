@@ -5,11 +5,11 @@ description: "SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES"
 tags: [SII, 2019, resolucion]
 materia: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N°48, DE 31 DE MAYO DE 2018."
 fecha: "2019-07-02"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 6° letra A), Nº 1, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L", "en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'", "en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A), Nº 1, y 62 ter del Código Tributario, contenido en el artículo 1° del D.L Nº 830, de 1974", "en el Decreto N°418 del Ministerio de Hacienda, publicado en el Diario Oficial el 5 de julio de 2017, que 'Aprueba Reglamento que Fija las Obligaciones de Identificación de Cuentas Financieras'", "en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el Artículo único de la Ley N° 20.675, publicada en el Diario Oficial el 05 de junio de 2013, que sustituye el artículo 8° de la Ley N° 18.985, que contiene la Ley sobre donaciones con fines culturales"]
+ref_legal: ["Las facultades contempladas en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de octubre de 1980", "en el artículo 6°, letra A, N° 1 y siguientes del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en el Artículo único de la Ley N° 20.675, publicada en el Diario Oficial el 05 de junio de 2013, que sustituye el artículo 8° de la Ley N° 18.985, que contiene la Ley sobre donaciones con fines culturales"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

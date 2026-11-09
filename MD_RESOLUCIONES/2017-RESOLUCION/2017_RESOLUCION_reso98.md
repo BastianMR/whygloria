@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO"
+materia: "INCORPÓRASE EN DECLARACIÓN JURADA ANUAL N° 1832 ESTABLECIDA MEDIANTE RESOLUCIÓN EX. N° 110, DE FECHA 15 DE DICIEMBRE DE 2004, LA INFORMACIÓN DE LA DONACIÓN Y PAGO DE IMPUESTO A LAS DONACIONES CONTENIDO EN LA LEY N° 16.271, SEGÚN LO DISPUESTO EN RESOLUCIÓN EXENTA SII N° 21, DE FECHA 10 DE FEBRERO DE "
 fecha: "2017-10-13"
 exenta: true
 impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6°, letra A), N° 1", "Ley N° 16.271 de Impuesto a las Herencias, Asignaciones y Donaciones", "Ley N° 16.282, cuyo texto refundido, coordinado y sistematizado de su Título primero, está contenido en el Decreto Ley N° 104, de 1977, del Ministerio del Interior", "Resolución Exenta SII N° 21 de 10 de febrero de 2017", "artículo 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO

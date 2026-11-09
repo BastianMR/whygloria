@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018"
+materia: "AUTORIZA LA EMISION EXCEPCIONAL DE FACTURAS POR OPERACIONES DE LEASING AUTOMOTRIZ A CONTRIBUYENTE QUE INDICA."
 fecha: "2019-02-08"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo dispuesto en el N° 1, de la letra A), del Art. 6°, del Código Tributario, contenido en el Art. 1° del D.L", "los Arts. 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "la Resolución Ex", "la Circular N° 129, de 1977", "la Circular N° 39, de 2000", "la presentación ingresada con fecha 28 de noviembre 2018, en la Oficina de Partes de la Dirección Nacional de este Servicio, por don Héctor Mauricio Hernández González, RUT N° 8.374.104-K, en representación del contribuyente BANCO DE CHILE, RUT N° 97.004.000-5, con domicilio en Ahumada 251, Santiago"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el N° 1, de la letra A), del Art 6°, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los Arts 52 al 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de Hacienda, de 1977, que contiene el Reglamento de la Ley del Impuesto a las Ventas y Servicios", "la Resolución Ex", "la Circular N° 129, de 1977", "la Circular N° 39, de 2000"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018

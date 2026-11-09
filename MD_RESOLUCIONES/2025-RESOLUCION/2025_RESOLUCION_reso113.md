@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L", "en los artículos 6° letra A), Nº 1, 33 bis, 35, y 97 N°1 del Código Tributario, el artículo 6 de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria"]
+ref_legal: ["Lo dispuesto en el artículo 4 bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del D.F.L Nº 7, de 1980, del Ministerio de Hacienda", "en los artículos 6° letra A), Nº 1, 33 bis, 35, y 97 N°1 del Código Tributario, el artículo 6 de la Convención sobre Asistencia Administrativa Mutua en Materia Tributaria"]
 ---
 
 GE 335514

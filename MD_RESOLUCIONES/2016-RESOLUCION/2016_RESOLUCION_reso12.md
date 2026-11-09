@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
+materia: "MODIFICA RES. EX. SII N° 67 DEL 11 DE MAYO DE 2009, INCORPORANDO NUEVOS PUNTOS FRONTERIZOS PARA LA DEVOLUCIÓN DE IVA TURISTA Y SIMPLIFICA EL PROCEDIMIENTO EN LOS TÉRMINOS QUE SE INDICAN."
 fecha: "2016-03-10"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "el artículo 4° de la Ley N° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artículo 25 de la Ley N° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableció incentivos para el desarrollo económico de las Provincias de Arica y Parinacota y por el", "el artículo 11 de la Ley N° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV Región de Arica y Parinacota y la Provincia del Tamarugal en la Región de Tarapacá", "y las instrucciones impartidas mediante la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A), N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15.10.1980", "el artículo 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L N° 825, de 1974", "el artículo 4° de la Ley N° 18.841, publicada en el Diario Oficial del 20.10.1989, modificado por el artículo 25 de la Ley N° 19.420, publicada en el Diario Oficial del 11.09.2001, que al mismo tiempo estableció incentivos para el desarrollo económico de las Provincias de Arica y Parinacota y por el", "el artículo 11 de la Ley N° 20.175, publicada en el Diario Oficial del 11.04.2007, que crea la XV Región de Arica y Parinacota y la Provincia del Tamarugal en la Región de Tarapacá", "y las instrucciones impartidas mediante la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES

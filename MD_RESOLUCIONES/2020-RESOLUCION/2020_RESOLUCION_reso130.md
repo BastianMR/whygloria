@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 33 bis y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 21 inciso tercero de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L", "la Ley Nº 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "en las Resoluciones Exentas Nº 111 de 28 de enero de 2014 y 106 de 14 de noviembre de 2014."]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 33 bis y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 21 inciso tercero de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L N°824, de 1974 (en adelante, 'LIR')", "la Ley Nº 21.210, publicada en el Diario Oficial de fecha 24 de febrero de 2020", "en las Resoluciones Exentas Nº 111 de 28 de enero de 2014 y 106 de 14 de noviembre de 2014."]
 ---
 
 MODIFICA RESOLUCIÓN EXENTA Nº 11 DE 28 DE ENERO DE 2014, QUE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIÓN JURADA ANUAL Nº 1909, SOBRE DESEMBOLSOS Y OTRAS PARTIDAS O CANTIDADES A QUE SE REFIERE EL INCISO TERCERO DEL ARTÍCULO 21 DE LA LEY SOBRE IMPUESTO A LA RENTA.

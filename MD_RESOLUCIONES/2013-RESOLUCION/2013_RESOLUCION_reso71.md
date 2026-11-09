@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva", "timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo preceptuado en el artículo 3° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de Hacienda, de 1980", "las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución Ex"]
+ref_legal: ["las facultades que se me confieren en las letras c) y ñ) del artículo 7° de este mismo cuerpo legal", "lo dispuesto en la Resolución N° 379, de 04 de diciembre de 1991, y sus modificaciones, y lo establecido en la Resolución Ex"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

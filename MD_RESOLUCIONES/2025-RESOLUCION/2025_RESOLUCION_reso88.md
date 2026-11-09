@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00332334"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00332334"
+materia: "DELEGA EN LOS (LAS) SUBDIRECTORES (AS) LAS FACULTADES QUE INDICA Y REVOCA RESOLUCIONES EX.SII N° 58, DE 24 DE ABRIL DE 2009 Y EX SII N° 23, DE 21 DE FEBRERO DE 2025."
 fecha: "2025-07-17"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario", "en las letras c), i), j) y r) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "la Ley N° 20.285, Sobre acceso a la información pública, en el artículo 41 de la Ley N°18.575, que establece las Bases Generales de la Administración del Estado, y en la Resolución N° 36, de 2024, de la Contraloría General de la República"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A N°3, del Código Tributario", "en las letras c), i), j) y r) del artículo 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N°7, de Hacienda, de 1980", "la Ley N° 20.285, Sobre acceso a la información pública, en el artículo 41 de la Ley N°18.575, que establece las Bases Generales de la Administración del Estado, y en la Resolución N° 36, de 2024, de la Contraloría General de la República"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00332334

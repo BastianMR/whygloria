@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 2, 3 bis y 7° letras b), c) y ñ de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L", "lo establecido en el artículo 6° letra A, Nº 1 y 65 bis del Código Tributario, contenido en el Artículo 1° del D.L", "en de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en los artículos 2, 3 bis y 7° letras b), c) y ñ de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1° del D.F.L Nº 7, de Hacienda, de 1980", "en de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, en la Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "y en la Resolución Ex"]
 ---
 
 ## DIRECCIÓN DE GRANDES CONTRIBUYENTES

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1° del D.L", "el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "el artículo 50 de la Ley Nº 16.271 de 1965, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8° del D.F.L", "el artículo cuarto de Ley N° 21.210, que Moderniza la Legislación Tributaria e introduce modificaciones a la Ley N° 16.271", "y la Resolución Exenta SII Nº 138 de 2021, que instruyó sobre la forma de declaración y pago de los impuestos establecidos en la Ley N° 16.271, a través del Formulario Electrónico Nº 4412."]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N° 1° del D.L N° 830, de 1974, sobre Código Tributario", "el artículo 42 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7 de 1980", "el artículo 50 de la Ley Nº 16.271 de 1965, Ley sobre Impuesto a las Herencias, Asignaciones y Donaciones, cuyo texto refundido, coordinado y sistematizado se fijó por el artículo 8° del D.F.L N° 1 de 2000, del Ministerio de Justicia", "el artículo cuarto de Ley N° 21.210, que Moderniza la Legislación Tributaria e introduce modificaciones a la Ley N° 16.271", "y la Resolución Exenta SII Nº 138 de 2021, que instruyó sobre la forma de declaración y pago de los impuestos establecidos en la Ley N° 16.271, a través del Formulario Electrónico Nº 4412."]
 ---
 
 ## Subdirección de Fiscalización

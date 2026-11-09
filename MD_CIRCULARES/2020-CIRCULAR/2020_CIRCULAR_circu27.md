@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Art. 72 de la Ley sobre Impuesto a la Renta."]
+ref_legal: ["Art 72 de la Ley sobre Impuesto a la Renta."]
 ---
 
 | **DEPARTAMENTO EMISOR: Oficina de Gestión Normativa** | **CIRCULAR N° 27 043-2020 OGN** |

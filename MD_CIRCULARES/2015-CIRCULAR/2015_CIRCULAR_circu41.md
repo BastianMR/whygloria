@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "territorial"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: []
+ref_legal: ["Arts 6° letra B, 59 inciso final, y 59 bis del Código Tributario"]
 ---
 
 Modificada por Circular Nº 24, del 3 de mayo de 2016

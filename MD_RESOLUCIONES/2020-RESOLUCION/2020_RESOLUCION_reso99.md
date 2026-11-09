@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4º bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "lo establecido en los artículos 6° letra A N°1, 33 bis, 60 inciso penúltimo, 63 todos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en la letra A) y D) N° 3 del artículo 14 y artículo 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4º bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "lo dispuesto en la letra A) y D) N° 3 del artículo 14 y artículo 101 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974, y las disposiciones contenidas en la Ley N° 21.210 publicada en el Diario Oficial el 24.02.2020"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN

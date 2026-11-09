@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TIBUTARIO"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TIBUTARIO"
+materia: "REEMPLAZA FORMATO E INSTRUCCIONES DE DECLARACIÓN JURADA FORMULARIO NÚMERO 1806, MODIFICA RESOLUCIÓN EXENTA SII N° 187 DEL 23.12.2010 Y ELIMINA DECLARACIÓN JURADA DE FORMULARIO 1849."
 fecha: "2017-10-12"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades conferidas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) N° 1) y 60, ambos del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto en el artículo 74 N° 7 y 8, y artículo 104 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "en el Artículo 1 y primero transitorio de la Ley N° 20.956", "y la Resolución Ex"]
+ref_legal: ["Las facultades conferidas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto en el artículo 74 N° 7 y 8, y artículo 104 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "en el Artículo 1 y primero transitorio de la Ley N° 20.956", "y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TIBUTARIO

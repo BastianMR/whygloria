@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 87 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "COMPLEMENTA LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; Y MODIFICA LA RESOLUCIÓN EX. SII N° 120 DE 2016."
 fecha: "2018-09-28"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L", "en los artículos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "las modificaciones legales introducidas por la Leyes N°s 20.780 y 20.899, de 29 de septiembre de 2014, y 8 de febrero de 2016, respectivamente", "la Resolución Exenta SII N° 120 de 26 de diciembre de 2016"]
+ref_legal: ["Lo dispuesto en los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial del 15 de octubre de 1980", "en los artículos 6°, letra A, N° 1, 34, 35 y 60 del Código Tributario, contenido en artículo 1° del D.L N° 830, de 1974", "en los artículos 3, 12, 14, 38, 41 A, 41 B, 41 C y 41 G de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974", "la Resolución Exenta SII N° 120 de 26 de diciembre de 2016"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00269784/77323550624"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00269784/77323550624"
+materia: "AUTORIZA A BANCO DE CHILE A EXIMIRSE DE LA OBLIGACIÓN DE LA EMISIÓN DE LIQUIDACIÓN A QUE HACE REFRENCIA EL RESOLUTIVO 3° DE LA RES. EX. N° 328, DE 1977, CUMPLIENDO REQUISITOS QUE SE INDICAN."
 fecha: "2024-08-01"
 exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art. 1° del D.L", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en la Resolución Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, Letra A, N° 1, del Código Tributario, contenido en el Art 1° del D.L N° 830, de 1974", "los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 56, de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "en la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00269784/77323550624

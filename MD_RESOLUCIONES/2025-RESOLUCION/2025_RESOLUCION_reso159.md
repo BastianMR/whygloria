@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 159 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 1271-SDAC 2025 GE00348142"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 1271-SDAC 2025 GE00348142"
+materia: "AUTORIZA A LA ENTIDAD QUE INDICA PARA SU HABILITACIÓN EN LA PLATAFORMA DE ACCESO UNICO A LA CLAVE TRIBUTARIA"
 fecha: "2025-11-11"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y 8, del Código Tributario, contenido en el artículo 1°del D.L", "el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "los artículos 4°, 6° y siguientes de la Ley N°19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación", "el Decreto Supremo N°9, de 2023, de la Secretaría General de la Presidencia", "la Resolución Ex", "la Resolución N° 102, del 14 de agosto de 2025, que: \"Establece condiciones y términos de uso para que los Órganos de la Administración del Estado que se indica, pueda solicitar e Integrar La Clave Tributaria Sii en su Sitio Web\""]
+ref_legal: ["Lo dispuesto en el artículos 1° y 6° letras A) N° 3 y 8, del Código Tributario, contenido en el artículo 1°del D.L N° 830, de 1974", "el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N°7, de 1980 del Ministerio de Hacienda", "los artículos 4°, 6° y siguientes de la Ley N°19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación", "el Decreto Supremo N°9, de 2023, de la Secretaría General de la Presidencia", "la Resolución Ex", "la Resolución N° 102, del 14 de agosto de 2025, que: \"Establece condiciones y términos de uso para que los Órganos de la Administración del Estado que se indica, pueda solicitar e Integrar La Clave Tributaria Sii en su Sitio Web\""]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 1271-SDAC 2025 GE00348142

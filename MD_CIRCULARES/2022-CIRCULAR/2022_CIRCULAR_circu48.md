@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A"]
-ref_legal: []
+ref_legal: ["Artículo 33 bis, N° 2, letra A, artículo 97 N°1, artículo 107 y 109, todos del Código Tributario y artículos 41 A, N° 6, y 41 G, letra F), de la Ley sobre Impuesto a la Renta", "Ley N° 21.453, publicada en el Diario Oficial el 30 de junio de 2022"]
 ---
 
 | **DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Procedimientos Administrativos** | **CIRCULAR N°48.-** |

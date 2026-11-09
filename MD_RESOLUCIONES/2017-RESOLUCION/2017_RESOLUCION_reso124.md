@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2017)"
 description: "Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos."
 tags: [SII, 2017, resolucion]
-materia: "Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos."
+materia: ""
 fecha: "2017-12-19"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículos 6°, letra A) N° 1° contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N° 21.047 publicada en el Diario Oficial el 23.11.2017", "lo señalado en las Circulares SII N°s 12, de 2015 y 34, de 2016", "lo señalado en la Resolución Exenta SII N° 87, de 25.08.2016"]
+ref_legal: ["Lo dispuesto en el artículos 6°, letra A) N° 1° contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y en el artículo 41 H de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824 de 1974, norma esta última, agregada a dicho texto legal por el N° 27 del artículo 1° de la Ley N° 20.780 publicada en el Diario Oficial el 29.09.2014, y posteriormente modificada por el N° 6 del ar", "la Ley N° 21.047 publicada en el Diario Oficial el 23.11.2017"]
 ---
 
 MAT.:

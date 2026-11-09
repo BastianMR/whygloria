@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN"
+materia: "ESTABLECE NORMAS Y PROCEDIMIENTOS DE OPERACIÓN DE LOS LIBROS ADICIONALES O AUXILIARES ELECTRÓNICOS."
 fecha: "2021-02-09"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1 y 17 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L", "en la Circular Nº 54 de 2015 sobre reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos"]
+ref_legal: ["Lo dispuesto en los artículos 6°, Letra A), N° 1 y 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 4° bis y 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos contenida en el D.F.L N° 7, de 1980 del Ministerio de Hacienda, lo establecido en la Ley N° 19.799 sobre documentos electrónicos, firma electrónica y servicios de certificación de dicha firma y su Reglamento co", "en la Circular Nº 54 de 2015 sobre reemplazo de libros de contabilidad y libros adicionales o auxiliares por sistemas tecnológicos"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN

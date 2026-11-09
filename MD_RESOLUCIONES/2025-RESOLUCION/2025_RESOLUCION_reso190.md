@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 190 (2025)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN GE00267706"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE ADMINISTRACIÓN GE00267706"
+materia: "MODIFICA RESOLUCIÓN EXENTA N° 66 DE 2016 EN LOS TÉRMINOS QUE INDICA."
 fecha: "2025-12-19"
 exenta: true
 impuestos: []

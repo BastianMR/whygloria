@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "territorial"]
 formularios: ["DJ1879", "DJ1887"]
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N° 20.530, que crea el Ministerio de Desarrollo Social y Familia."]
+ref_legal: ["Lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "la Ley N°19.628, sobre Protección de la Vida Privada", "la Ley N° 20.530, que crea el Ministerio de Desarrollo Social y Familia."]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2017)"
 description: "ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE."
 tags: [SII, 2017, resolucion]
-materia: "## ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE."
+materia: "ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE."
 fecha: "2017-10-13"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14B"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A), N° 1, 34 y 35, ambos del Código Tributario, contenido en el artículo 1° del D", "en los Artículos 81, 82 y 86 de la Ley N° 20.712", "en el artículo 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL", "y en la Resolución Exenta SII N°20, del 10.03.2015."]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "en el artículo 6°, letra A), N° 1, 34 y 35, ambos del Código Tributario, contenido en el artículo 1° del D", "en los Artículos 81, 82 y 86 de la Ley N° 20.712", "en el artículo 14 letra B) de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del DL", "y en la Resolución Exenta SII N°20, del 10.03.2015."]
 ---
 
 ## ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE.

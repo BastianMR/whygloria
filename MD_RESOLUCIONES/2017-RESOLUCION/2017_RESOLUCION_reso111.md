@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 443 - SDAC - 2017 77317365220"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 443 - SDAC - 2017 77317365220"
+materia: "EXIME A MARUBENI AUTO FINANCE LTDA., DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO. SANTIAGO, 15 DE NOVIEMBRE 2017"
 fecha: "2017-11-15"
 exenta: true
 impuestos: ["timbres"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L", "y los artículos 1°, N°3, 17 inciso 2° y artículo 18°, del Decreto Ley N° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas."]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N°7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15 de Octubre de 1980", "en el artículo 6° letra A) N°s 1 y 3 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y los artículos 1°, N°3, 17 inciso 2° y artículo 18°, del Decreto Ley N° 3.475, de 1980, sobre Ley de Impuesto de Timbres y Estampillas."]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 443 - SDAC - 2017 77317365220

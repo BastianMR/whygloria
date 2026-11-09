@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A), N°s 1 y 4, 15, 97 N°s 10, 17, y 165 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda", "artículo 1°, 4° bis, 7° letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "artículos 54, 55, y 56 de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el artículo 1° del Decreto Ley N° 825de 1974, del Ministerio de Hacienda", "artículos 70 y 71 bis del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en del Decreto N° 55 de 1977, del Ministerio de Hacienda", "Circulares N° 103 de 1979, N° 62 de 1980, N° 64 de 2001", "Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A), N°s 1 y 4, 15, 97 N°s 10, 17, y 165 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974, del Ministerio de Hacienda"]
 ---
 
 Sii

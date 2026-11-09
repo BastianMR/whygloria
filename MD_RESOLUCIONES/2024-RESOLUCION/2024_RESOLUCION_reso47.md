@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2024, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "AJUSTA NÓMINA 'CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO' QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2024."
 fecha: "2024-04-15"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículo 6°, letra A), N° 1 y N° 3 y letra B), N° 5 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 3° inciso séptimo, 8° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "lo establecido en la Circular N° 42 de 2020", "y en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 4° bis y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículo 6°, letra A), N° 1 y N° 3 y letra B), N° 5 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 3° inciso séptimo, 8° letra n) y 35 A y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "y en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

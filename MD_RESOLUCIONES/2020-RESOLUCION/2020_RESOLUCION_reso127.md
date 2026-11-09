@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "ESTABLECE FORMA Y PLAZO PARA QUE LOS CONTRIBUYENTES QUE TRIBUTEN CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 14 LETRA B) N° 1; 14 LETRA B) N° 2 Y N°34 DE LA LEY SOBRE IMPUESTO A LA RENTA, ENTREGUEN Y CERTIFIQUEN LA INFORMACIÓN QUE SE DETALLA. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 102 DE 2017."
 fecha: "2020-09-30"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A N°1, 33 bis, 34, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en la letra B) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Ley N° 21.210 de 2020, y la Resolución Exenta SII N° 102, de 13.10.2017"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N°1, 33 bis, 34, 35 y 60 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 del Ministerio de Hacienda, de 1980", "en la letra B) del artículo 14 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N°824, de 1974 (en adelante, 'LIR')", "la Ley N° 21.210 de 2020, y la Resolución Exenta SII N° 102, de 13.10.2017"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

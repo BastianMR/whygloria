@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077"
+materia: "EMISIÓN DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EN OPERACIONES DE COMPRA Y VENTA DE MONEDA EXTRANJERA."
 fecha: "2022-08-02"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° Letra A) N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 52, 53, 54 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en los artículos 68 y 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de Hacienda, de 1977", "lo instruido en la Resoluciones Ex", "N° 98 y N° 117 de 2004, y lo señalado en las Circulares N° 25 de 1990 y N° 25 de 1996"]
+ref_legal: ["Lo dispuesto en el artículo 6° Letra A) N° 1 y 88 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "en los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N° 7, de 1980, del Ministerio de Hacienda", "en los artículos 52, 53, 54 y 55 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974", "en los artículos 68 y 69 del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, contenido en el Decreto Supremo N° 55 de Hacienda, de 1977"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: ["F22", "F29"]
 regimen: ["renta-presunta"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "Ley N° 19.628, sobre Protección de la Vida Privada", "Ley N° 20.575 establece el Principio de Finalidad en el Tratamiento de Datos Personales", "Ley N° 20.285 sobre Acceso a la Información Pública y la Ley N° 10.336, de Organización y Atribuciones de la Contraloría General de la República."]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y o) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y

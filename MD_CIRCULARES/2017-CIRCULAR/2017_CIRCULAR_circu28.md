@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Leyes N°s. 20.780 y 20.899."]
+ref_legal: []
 ---
 
 | **SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE** | **CIRCULAR N° 28.-** |

@@ -5,7 +5,7 @@ description: "AMPLIA PLAZO PARA EL ENVÍO DE LA INFORMACIÓN QUE DEBEN ENTREGAR 
 tags: [SII, 2021, resolucion]
 materia: "AMPLIA PLAZO PARA EL ENVÍO DE LA INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES, DE ACUERDO A LAS RESOLUCIONES EX. SII N°s 62, 65 y 75 de 2021."
 fecha: "2021-07-08"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

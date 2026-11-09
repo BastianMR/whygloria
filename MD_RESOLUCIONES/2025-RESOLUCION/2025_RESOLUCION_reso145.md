@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 145 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE344455"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE344455"
+materia: "REGULA LA DECLARACIÓN Y PAGO DEL IVA POR PARTE DE OPERADORES CON DOMICILIO O RESIDENCIA EN CHILE DE PLATAFORMAS DIGITALES DE INTERMEDIACIÓN DE VENTAS CONFORME AL ARTÍCULO 3° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2025-10-16"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1, 8° bis, 36, 36 bis, 53, 68 inciso 12°, 97 N°11, 126 y 128 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 1 del Decreto Ley N°1006 de 2006 del Ministerio de Hacienda", "en los artículos 2° N°s 1 y 3, 3° bis, 4° inciso final, 8° letra a), 12 letra B) N°18, 14, 15, 16 letra a) y 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en el artículo 3° de la Ley N°21.713", "lo instruido en la Circular N°39 de 2025", "y en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N°1, 8° bis, 36, 36 bis, 53, 68 inciso 12°, 97 N°11, 126 y 128 del Código Tributario, contenido en el Decreto Ley N°830 de 1974", "en los artículos 1°, 4° bis y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Decreto con Fuerza de Ley N°7, del Ministerio de Hacienda, de 1980", "en el artículo 1 del Decreto Ley N°1006 de 2006 del Ministerio de Hacienda", "en los artículos 2° N°s 1 y 3, 3° bis, 4° inciso final, 8° letra a), 12 letra B) N°18, 14, 15, 16 letra a) y 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "en el artículo 3° de la Ley N°21.713", "y en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE344455

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "FIJA REQUISITOS DE LLENADO PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO UTILIZADAS EN LA VENTA DE CIGARRILLOS, EMITIDAS POR CONTRIBUYENTES OBLIGADOS AL CAMBIO DE SUJETO A PRODUCTOS DE TABACO."
 fecha: "2022-08-02"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L", "en el artículo 6°, letra A, N° 1, 88, 97 N°10 y 109 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "en las Resoluciones Exentas SII N° 22, de 2007, que 'Establece Normas sobre cambio de sujeto del Impuesto al Valor Agregado en la Venta de Cigarros, Cigarrillos y Tabacos Manufacturados, Delega Facultades y Deroga Resoluciones que indica'", "N° 80, de 2014, que modifica las Resoluciones Ex", "y en la N° 100 de 2014, que 'Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la Resolución Ex"]
+ref_legal: ["Las facultades contempladas en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo Primero del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 15.10.1980", "en el artículo 6°, letra A, N° 1, 88, 97 N°10 y 109 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974 y en el D.S N° 55, de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "en las Resoluciones Exentas SII N° 22, de 2007, que 'Establece Normas sobre cambio de sujeto del Impuesto al Valor Agregado en la Venta de Cigarros, Cigarrillos y Tabacos Manufacturados, Delega Facultades y Deroga Resoluciones que indica'", "y en la N° 100 de 2014, que 'Complementa y actualiza normas y procedimientos de operación de los documentos tributarios electrónicos, reemplazando resolutivo duodécimo de la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

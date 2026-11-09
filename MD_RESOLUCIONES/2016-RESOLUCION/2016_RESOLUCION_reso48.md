@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1", "artículos 88 y 97 N°s 1 y 10 del Código Tributario, contenido en el artículo 1° del D.L", "artículo 1° de la Ley N° 20.727, de 2014, en los artículos 1° y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "9° letra a), 54, 55, 56 y 58 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el artículo 1° del D.L", "las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A, N° 1", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 77314500711 C- 902-2016 SD. 282-SDAC-2016

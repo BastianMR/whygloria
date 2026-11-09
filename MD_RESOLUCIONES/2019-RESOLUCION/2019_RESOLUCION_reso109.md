@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES"
+materia: "MODIFICA RESOLUCIÓN EX. SII N°103 DE 13.10.2017 QUE ESTABLECE DECLARACIÓN JURADA ANUAL N° 1945 SOBRE INGRESOS, DESEMBOLSOS Y OTROS ANTECEDENTES DE LAS ORGANIZACIONES SIN FINES DE LUCRO."
 fecha: "2019-09-30"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6°, letra A), N° 1, y 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1°, 3° bis, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "el artículo 6°, letra A), N° 1, y 34, 35 y 60 inciso penúltimo del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974 y Resolución Exenta SII N° 103, de 13 de octubre de 2017."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ACCIONES DE CUMPLIMIENTO TRIBUTARIO ÁREA DE FISCALIZACIONES ESPECIALES

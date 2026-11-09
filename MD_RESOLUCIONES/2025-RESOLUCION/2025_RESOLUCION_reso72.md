@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
+materia: "ESTABLECE CONTENIDO Y PROCEDIMIENTO DE SUSCRIPCIÓN Y EJECUCIÓN DE ACUERDOS DE COOPERACIÓN CON GRUPOS EMPRESARIALES, CONFORME CON LOS INCISOS TERCERO Y CUARTO DEL N° 18 DEL ARTÍCULO 8° DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-06-19"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A, N° 1, 8° N° 14 y N° 18, 8 bis, 10, 21, 33, 35, 59, 59 bis y 59 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las instrucciones contenidas en la Circular N° 06 de 2025"]
+ref_legal: ["en los artículos 6°, letra A, N° 1, 8° N° 14 y N° 18, 8 bis, 10, 21, 33, 35, 59, 59 bis y 59 ter del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "las instrucciones contenidas en la Circular N° 06 de 2025"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

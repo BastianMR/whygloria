@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 tags: [SII, 2022, resolucion]
-materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
+materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 fecha: "2022-09-07"
 exenta: true
 impuestos: []

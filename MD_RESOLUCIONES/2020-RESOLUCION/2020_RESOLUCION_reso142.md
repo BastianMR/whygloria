@@ -5,7 +5,7 @@ description: "MZR Distribución Internet"
 tags: [SII, 2020, resolucion]
 materia: ""
 fecha: "2020-11-20"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

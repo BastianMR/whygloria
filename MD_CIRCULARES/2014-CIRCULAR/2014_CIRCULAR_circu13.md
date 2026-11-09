@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Artículos 15", "17 N° 8, letras a), b), e i), 31 N° 9 y 41, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012, y Ley N° 20.727, de 31 de enero de 2014."]
+ref_legal: ["Artículos 15", "17 N° 8, letras a), b), e i), 31 N° 9 y 41, todos de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.630, de 27 de Septiembre de 2012, y Ley N° 20.727, de 31 de enero de 2014."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 13 146-2012 ID 11-2013 SN Circ.** |

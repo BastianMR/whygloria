@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 tags: [SII, 2022, resolucion]
-materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
+materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 fecha: "2022-01-31"
 exenta: true
 impuestos: ["renta"]

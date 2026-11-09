@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "REGULA FORMA DE IMPETRAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 21.207, SOBRE ANTICIPO DE DEVOLUCIÓN DEL IMPUESTO A LA RENTA CORRESPONDIENTE AL AÑO TRIBUTARIO 2020"
 fecha: "2020-01-22"
-exenta: true
+exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "artículo segundo de la Ley N° 20.416, que 'Fija Normas Especiales para las Empresas de Menor Tamaño'", "artículo primero de la Ley N° 21.207"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en los artículos 65 y siguientes, y 84 y siguientes, de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

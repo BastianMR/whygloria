@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2026)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 tags: [SII, 2026, resolucion]
-materia: "## DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
+materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 fecha: "2026-07-31"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el articulo primero del D.F.L", "el artículo 6 letra A N° 3 del Código Tributario", "los articulos 2°, 3°, 31, 36 y Resolución N° 36 de 2024, de la Contraloría General de la República, Decreto N° 293, de 25.03.2026, del Ministerio de Hacienda"]
+ref_legal: ["Los artículos 7, letras e), i) y j), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el articulo primero del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "el artículo 6 letra A N° 3 del Código Tributario", "los articulos 2°, 3°, 31, 36 y Resolución N° 36 de 2024, de la Contraloría General de la República, Decreto N° 293, de 25.03.2026, del Ministerio de Hacienda"]
 ---
 
 ## DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA

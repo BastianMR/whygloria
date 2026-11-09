@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº 830, de 1974", "lo establecido en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1°, del D.F.L", "y lo establecido en el artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N° 1, y 60° del Código Tributario, contenido en artículo 1°, del Decreto Ley Nº 830, de 1974", "y lo establecido en el artículo 41 E de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L N° 824, de 1974, agregado por el N° 16, letra e), del art 1° de la Ley N° 20.630, publicada en el Diario Oficial de 27 de septiembre de 2012"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL

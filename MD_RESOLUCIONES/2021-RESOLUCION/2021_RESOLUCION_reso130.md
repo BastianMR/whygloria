@@ -5,11 +5,11 @@ description: "MATERIA: Aprueba Convenio de Colaboración entre Secretaría y Adm
 tags: [SII, 2021, resolucion]
 materia: "Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos."
 fecha: "2021-11-15"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
+ref_legal: ["Lo dispuesto en el artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "la Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado"]
 ---
 
 MATERIA: Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos.

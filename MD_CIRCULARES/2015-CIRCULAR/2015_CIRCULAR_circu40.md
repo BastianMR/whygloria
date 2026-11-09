@@ -9,7 +9,7 @@ exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["en la Ley 19.880, armonizan con la incorporación de tecnologías de la información y comunicación en la función de los organismos públicos, en la medida que se dé cumplimiento a las disposiciones que regulan los procedimientos respectivos. (Dictámenes N° 4941 de 2004"]
+ref_legal: ["Código Tributario, Art 21"]
 ---
 
 | **DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA** | **CIRCULAR Nº 40.-** |

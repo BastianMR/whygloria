@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["1° Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6° letra A), N°1 y en los artículos 29, 30 inciso primero y segundo, y 32 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo previsto en la oración final del artículo 31° inciso primero, de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del Decreto Ley 824, de 1974, reemplazado por la letra a) del número 15 del artículo 1° de la Ley N° 20.780 de 2014, sobre Reforma Tributaria"]
+ref_legal: ["en el artículo 6° letra A), N°1 y en los artículos 29, 30 inciso primero y segundo, y 32 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

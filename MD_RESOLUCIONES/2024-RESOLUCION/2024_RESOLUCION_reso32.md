@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva", "segunda-categoria", "contribuciones"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 8 N°16 y 15 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "artículos 4°bis y 7º letra b), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7, del Ministerio de Hacienda, de 1980", "la Ley N°16.441 de 1966 el Departamento de Isla de Pascua (actualmente denominado Territorio Especial de Isla de Pascua)", "la Ley N°19.253 de 1993, modificada por la Ley N°19.587 de 1998", "la Ley N°20.809 de 2015", "la Ley N°21.070 de 2018", "el Decreto Ley N°1.244 de 1975", "y, la Circular N°15 de 2016"]
+ref_legal: ["Lo dispuesto en los artículos 6º letra A), Nºs 1 y 4, 8 N°16 y 15 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "la Ley N°16.441 de 1966 el Departamento de Isla de Pascua (actualmente denominado Territorio Especial de Isla de Pascua)", "la Ley N°19.253 de 1993, modificada por la Ley N°19.587 de 1998", "la Ley N°20.809 de 2015", "la Ley N°21.070 de 2018", "el Decreto Ley N°1.244 de 1975"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00265607

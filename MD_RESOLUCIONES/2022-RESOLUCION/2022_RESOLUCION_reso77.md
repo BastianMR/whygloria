@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
+materia: "CREA MODELO DE CERTIFICADO N° 73 SOBRE DONACIONES ACOGIDAS AL TÍTULO VIII BIS DEL DECRETO LEY N° 3.063, DE 1979, SOBRE RENTAS MUNICIPALES, CUYO TEXTO REFUNDIDO Y SISTEMATIZADO FUE FIJADO POR EL DECRETO N° 2.385, DE 1996, DEL MINISTERIO DEL INTERIOR."
 fecha: "2022-08-31"
 exenta: true
 impuestos: ["renta", "herencias"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 del Ministerio de Hacienda, de 1980", "en los artículos 4° bis, 6° letra A N° 1, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y en la Ley N° 21.440, publicada en el Diario Oficial del 12 de abril de 2022, que crea un régimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro, incorporando un nuevo Título VIII bis al Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales, cuyo texto refund"]
+ref_legal: ["en los artículos 4° bis, 6° letra A N° 1, 21 y 35 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y en la Ley N° 21.440, publicada en el Diario Oficial del 12 de abril de 2022, que crea un régimen de donaciones con beneficios tributarios en apoyo a las entidades sin fines de lucro, incorporando un nuevo Título VIII bis al Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales, cuyo texto refund"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS

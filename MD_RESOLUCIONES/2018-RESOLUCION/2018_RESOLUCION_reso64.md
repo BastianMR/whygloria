@@ -5,11 +5,11 @@ description: "ESTABLECE NUEVO PROCEDIMIENTO PARA LA DECLARACIÓN QUE DEBEN EFECT
 tags: [SII, 2018, resolucion]
 materia: "ESTABLECE NUEVO PROCEDIMIENTO PARA LA DECLARACIÓN QUE DEBEN EFECTUAR LAS EMPRESAS IMPORTADORAS, DISTRIBUIDORAS Y COMERCIALIZADORAS DE VEHÍCULOS MOTORIZADOS NUEVOS, CONFORME LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 12 DEL DECRETO LEY N° 3.063, DE 1979, SOBRE RENTAS MUNICIPALES."
 fecha: "2018-08-13"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el número 1 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y, en el artículo 12 del Decreto Ley N° 3.063, de 1979, sobre Rentas Municipales."]
+ref_legal: ["Lo dispuesto en el número 1 de la letra A del artículo 6° del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974"]
 ---
 
 ESTABLECE NUEVO PROCEDIMIENTO PARA LA DECLARACIÓN QUE DEBEN EFECTUAR LAS EMPRESAS IMPORTADORAS, DISTRIBUIDORAS Y COMERCIALIZADORAS DE VEHÍCULOS MOTORIZADOS NUEVOS, CONFORME LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 12 DEL DECRETO LEY N° 3.063, DE 1979, SOBRE RENTAS MUNICIPALES.

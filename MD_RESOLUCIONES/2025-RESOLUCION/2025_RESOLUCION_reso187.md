@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 187 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00357450"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00357450"
+materia: "ESTABLECE RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DE IVA PARA LOS PEQUEÑOS CONTRIBUYENTES DEL ARTÍCULO 29 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS. DEJA SIN EFECTO LAS RESOLUCIONES EX. N° 36 Y N° 1784, AMBAS DE 1977 Y N° 1798 DE 1979."
 fecha: "2025-12-17"
-exenta: true
+exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con Fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "en los artículos 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 29 al 35, 56 y 66 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "las Resoluciones Ex"]
+ref_legal: ["en los artículos 6°, letra A, N° 1 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830 de 1974", "los artículos 29 al 35, 56 y 66 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974", "las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00357450

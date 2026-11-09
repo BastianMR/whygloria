@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2024)"
 description: "RESOLUCIÓN EXENTA SII N° 52.RESOLUCIÓN EXENTA TGR N° 01.-"
 tags: [SII, 2024, resolucion]
-materia: "## RESOLUCIÓN EXENTA SII N° 52.RESOLUCIÓN EXENTA TGR N° 01."
+materia: "RESOLUCIÓN EXENTA SII N° 52.RESOLUCIÓN EXENTA TGR N° 01."
 fecha: "2024-04-24"
 exenta: true
 impuestos: ["territorial"]

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "SUSPENDE CALIDAD DE AGENTE RETENEDOR A EVERCRISP SNACK PRODUCTOS DE CHILE S.A, RUT N° 94.528.000-K, CONFORME A RESOLUCIÓN EX. SII N° 42 DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA; Y RESOLUCIÓN EX. SII N° 150 DE 28 DE DICIEMBRE DE 2018, QUE FIJÓ NÓMINA DE AGEN"
 fecha: "2019-02-19"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L", "la Resolución Ex"]
+ref_legal: ["lo dispuesto en el artículo 9° y siguientes del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "el artículo 3° y el Título IV de la Ley Sobre Impuesto a las Ventas y Servicios, D.L N° 825, de 1974", "el Título XIII del D.S N° 55 de Hacienda, de 1977, que contiene el Reglamento del D.L N° 825, de 1974", "la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

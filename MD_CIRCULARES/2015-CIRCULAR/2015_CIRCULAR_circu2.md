@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["ARTS. 38 BIS, 54 N°1, 56 N°3, 62 Y 63 LIR"]
+ref_legal: ["ARTS 38 BIS, 54 N°1, 56 N°3, 62 Y 63 LIR"]
 ---
 
 | **DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA** | **CIRCULAR N° 02.-** |

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2022)"
 description: "DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2022, resolucion]
-materia: "## DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA."
+materia: "DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA."
 fecha: "2022-01-28"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda", "lo establecido en la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "lo instruido en la Resolución N° 6, de 2019, de la Contraloría General de la República y en la Resolución EX SII N° 1670, de 2017, además de lo dispuesto en las Resoluciones EX SII N° 29 y 148, de 2018, y N° 108, de 2021"]
+ref_legal: ["Las necesidades del Servicio, lo dispuesto en el artículo 7°, letras c) e i), de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el DFL N° 7, de 1980, del Ministerio de Hacienda"]
 ---
 
 ## DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA.

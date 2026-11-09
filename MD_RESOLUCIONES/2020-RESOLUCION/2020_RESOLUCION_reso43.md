@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 43 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
+materia: "EJERCICIO DE OPCIÓN DE CONTRIBUYENTES QUE TRIBUTAN EN RENTA PRESUNTA PARA TRIBUTAR EN BASE A RENTA EFECTIVA POR LAS RENTAS OBTENIDAS EN EL EJERCICIO COMERCIAL 2019 CONFORME AL DECRETO SUPREMO N° 553, DEL MINISTERIO DE HACIENDA, PUBLICADO EN EL DIARIO OFICIAL EL DIA 18 DE ABRIL DE 2020 QUE MODIFICA E"
 fecha: "2020-04-20"
-exenta: true
+exenta: false
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "14B", "renta-presunta"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "Decreto Supremo Nº 107, de 20 de marzo de 2020, del Ministerio del Interior, que 'Declara como zonas afectadas por catástrofe a las comunas que indica'", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, del Ministerio de Hacienda, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7 de 1980, del Ministerio de Hacienda", "en el artículo 6°, letra A, N° 1 y artículo 36 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974, del Ministerio de Hacienda", "lo dispuesto en la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824, de 1974, del Ministerio de Hacienda", "lo dispuesto en el Decreto Supremo N° 420, de 30 de marzo de 2020, del Ministerio de Hacienda, que 'Establece medidas de índole tributaria, para apoyar a las familias, los trabajadores y a las micro, pequeñas y medianas empresas, en las dificultades generadas por la propagación del Covid-19 en Chile"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN

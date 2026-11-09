@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 349 de 1984", "Resoluciones Exentas N° 5660 de 2000", "y lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República:"]
+ref_legal: ["Lo dispuesto en el Artículo Primero del D.F.L N° 7 de Hacienda, de 1980, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos", "en el Código Tributario contenido en el Artículo 1° del D.L N° 830 de 1974", "en la Ley N° 18.575 Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "y en las Resoluciones N° 349 de 1984", "y lo instruido en la Resolución N° 1.600, de 2008, de la Contraloría General de la República:"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA

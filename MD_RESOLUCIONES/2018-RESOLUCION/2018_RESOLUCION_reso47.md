@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2018)"
 description: "RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
 tags: [SII, 2018, resolucion]
-materia: "## RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
+materia: "RECTIFICA LISTA ANEXA DE LA RESOLUCION N° 04 EXENTA, DE 2018."
 fecha: "2018-05-25"
 exenta: true
 impuestos: []

@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2025)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
 tags: [SII, 2025, resolucion]
-materia: "## COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
+materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
 fecha: "2025-06-25"
 exenta: true
 impuestos: []

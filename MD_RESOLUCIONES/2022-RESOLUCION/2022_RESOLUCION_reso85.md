@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
+materia: "AUTORIZA A EMPRESAS CLIENTES DE GASMAR A EMITIR FACTURA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA QUE INDICA. IMPONE OBLIGACIÓN DE MANTENER UN REGISTRO DE OPERACIONES A GASMAR S.A., RUT N°96.636.520-K."
 fecha: "2022-09-08"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N° 1, 18, 54, 55, 56, 69 y 70 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2° N° 1, 18, 54, 55, 56, 69 y 70 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de 1977, del Ministerio Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA

@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1 del Código Tributario, contenido en el artículo 1° del D.L", "lo establecido en el N° 35 del artículo 1° de la Ley N° 20.780, de 2014 sobre Reforma Tributaria que modifica el sistema de tributación de la renta e introduce diversos ajustes en el sistema tributario", "y en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L"]
+ref_legal: ["Lo dispuesto en el artículo 6°, letra A), N°1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenido en el artículo 1° del D.F.L N° 7, de 1980"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO

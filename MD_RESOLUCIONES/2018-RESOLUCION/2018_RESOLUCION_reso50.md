@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA INSTRUCCIÓN CONTENIDA EN EL ANEXO 3 DE LA RESOLUCIÓN EX. SII Nº 40, DE FECHA 31 DE MARZO DE 2017."
 fecha: "2018-06-11"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 60, 63 inciso primero, del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1°, 3°, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo establecido en el nuevo artículo 74 N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L", "la Resolución EX", "y la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado."]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1, 60, 63 inciso primero, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1°, 3°, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "la Resolución EX", "y la Ley N° 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado."]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

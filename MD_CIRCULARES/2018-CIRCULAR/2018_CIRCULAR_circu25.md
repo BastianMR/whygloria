@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L. 824, de 1974"]
+ref_legal: ["Ley sobre Impuesto a la Renta (LIR), contenida en el artículo 1°, del D.L 824, de 1974"]
 ---
 
 1875

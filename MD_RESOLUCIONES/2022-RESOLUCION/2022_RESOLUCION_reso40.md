@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 36 del Código Tributario, contenido en el artículo 1° del D.L", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo previsto en el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "el artículo 1° del D.S"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A), N° 1 y 36 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980", "el artículo 1° del D.S N° 1.001 de 2006, del Ministerio de Hacienda, que Amplía el Plazo de Declaración y Fecha de Pago de los Impuestos que Indica"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS

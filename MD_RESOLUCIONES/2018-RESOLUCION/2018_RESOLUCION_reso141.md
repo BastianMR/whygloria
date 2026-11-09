@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L", "Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado", "y en la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016, sobre Simplificación de la Reforma Tributaria."]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° letras a), c) y q) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo Primero del D.F.L N° 7 de 1980", "y en la Ley N° 20.899, publicada en el Diario Oficial el 08.02.2016, sobre Simplificación de la Reforma Tributaria."]
 ---
 
 MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación Nacional de la Industria del Reciclaje A.G.

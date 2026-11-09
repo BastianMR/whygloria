@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34, todos del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 54 de la Ley sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L"]
+ref_legal: ["Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L Nº 7 de Hacienda, de fecha 30 de Septiembre de 1980", "el artículo 6° Letra A) Nº 1), el artículo 30 y el artículo 34, todos del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "el artículo 54 de la Ley sobre Impuestos a las Ventas y Servicios, contenido en el artículo 1° del D.L N°825, de 1976, modificado por los artículos 1° y 1° transitorio de la Ley N° 20.727, de 2014"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS

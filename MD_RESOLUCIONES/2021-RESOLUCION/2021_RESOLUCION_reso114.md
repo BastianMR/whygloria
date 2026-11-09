@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2021 77318691947"
 tags: [SII, 2021, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2021 77318691947"
+materia: "INCORPÓRASE A INGE SOCIEDAD ANÓNIMA DE GARANTÍA RECÍPROCA, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L", "y la Resolución N° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 3, del Código Tributario, contenido en el artículo 1°, del D.L N° 830, de 1974", "y la Resolución N° 21, del 24.02.2021, que establece los requisitos y procedimiento que deben cumplir las entidades que requieran ser inscritas para ser receptoras de la 'Carpeta Tributaria por Mandato' y delega facultades"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2021 77318691947

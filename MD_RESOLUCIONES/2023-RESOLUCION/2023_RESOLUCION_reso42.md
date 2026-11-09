@@ -9,7 +9,7 @@ exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y del Código Tributario, en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L", "la letra h) del artículo 20 de la Ley N° 19.995, que establece las Bases Generales para la Autorización, Funcionamiento y Fiscalización de Casinos de Juego, modificada por la Ley N° 20.856", "decreto supremo N° 1722, de 2016, del Ministerio de Hacienda, que aprueba el Reglamento para la tramitación y otorgamiento de permisos de operación de casinos de juego y deroga el decreto supremo N° 211, de 2005, del Ministerio de Hacienda, y la Circular N° 38 de 14.07.2005, de este Servicio"]
+ref_legal: ["Lo dispuesto en los artículos 6° letra A N° 1 y del Código Tributario, en los artículos 1°, 4° bis y 7º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del D.F.L N° 7 de 1980", "la letra h) del artículo 20 de la Ley N° 19.995, que establece las Bases Generales para la Autorización, Funcionamiento y Fiscalización de Casinos de Juego, modificada por la Ley N° 20.856"]
 ---
 
 ESTABLECE PROCEDIMIENTOS DE SOLICITUD Y EMISIÓN DE CERTIFICADOS DE CUMPLIMIENTO DE OBLIGACIONES TRIBUTARIAS, EN LOS CASOS DE CAMBIOS DE DIRECTORES, GERENTE GENERAL, ACCIONISTAS Y DETERMINADOS CAMBIOS SOCIETARIOS DE CASINOS DE JUEGO.

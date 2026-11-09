@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2014)"
 description: "SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
-materia: "FIJA PROCEDIMIENTO DE PAGO, EXENCIÓN Y DEVOLUCIÓN DEL IMPUESTO ADICIONAL A LOS VEHÍCULOS MOTORIZADOS NUEVOS, LIVIANOS Y MEDIANOS, EN LA FORMA QUE INDICA."
+materia: "SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 fecha: "2014-12-22"
 exenta: false
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["1.- Los artículos 1° y siguientes de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Artículo 1°, del Decreto con Fuerza de Ley N°7, de 1980", "artículo 6° Letra A N°1) del Código Tributario, contenido en el Artículo 1°, del Decreto Ley N°830, de 1974", "los artículos 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974 y los artículos 68, 69 y 71 bis del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios contenido en el Decreto Supremo N°55 del 02 de Febrero de 1977", "Ley N° 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado", "Ley N° 19.880, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado", "y, lo dispuesto en el artículo 3° de la Ley N° 20.780 publicada en el Diario Oficial el 29 de septiembre de 2014"]
+ref_legal: ["los artículos 52 y 53 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825, de 1974 y los artículos 68, 69 y 71 bis del Reglamento de la Ley sobre Impuesto a las Ventas y Servicios contenido en el Decreto Supremo N°55 del 02 de Febrero de 1977"]
 ---
 
 ## SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN

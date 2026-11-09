@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
 tags: [SII, 2026, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
+materia: "AUTORIZA A EMITIR DIARIAMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2026-08-31"
 exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "los artículos 2° N°s. 1 y 2, 9° letra a), 54, 55, 56, 69 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L", "y las instrucciones impartidas por este Servicio en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el artículo 6° letra A) N° 1 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "los artículos 1°, y 7° letra b) de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, de 1980", "los artículos 2° N°s 1 y 2, 9° letra a), 54, 55, 56, 69 y siguientes de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el D.L N° 825, de 1974", "el D.S N° 55, de 1977, del Ministerio de Hacienda, que contiene el Reglamento de la Ley sobre Impuesto a las Ventas y Servicios", "y las instrucciones impartidas por este Servicio en las Resoluciones Ex"]
 ---
 
 Sii

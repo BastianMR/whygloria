@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
+materia: "FIJA PROCEDIMIENTO ESPECIAL Y PREVIO PARA RESTITUIR EL APORTE FISCAL DEL ARTÍCULO 4° DEL ARTÍCULO PRIMERO DE LA LEY N° 21.252 PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA CON MOTIVO DE LA PROPAGACIÓN DE LA ENFERMEDAD DENOMINADA COVID-19, PARA LOS CASOS EN QUE SE HAYA OBTENIDO SIN CUMPLIR CON"
 fecha: "2020-10-02"
-exenta: true
+exenta: false
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el 6° letra A N°1 y 33 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo establecido en los artículos 2°, 4°, 6°, 12 y 13 del artículo primero de la Ley N° 21.252, que establece un financiamiento para la protección de los ingresos de la clase media en los casos que indica", "lo establecido en el nuevo artículo cuarto transitorio de la Ley N° 21.242, introducido a dicha norma por el N° 2 del artículo segundo de la Ley N° 21.252", "y lo dispuesto en las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en el 6° letra A N°1 y 33 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "y lo dispuesto en las Resoluciones Ex"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL

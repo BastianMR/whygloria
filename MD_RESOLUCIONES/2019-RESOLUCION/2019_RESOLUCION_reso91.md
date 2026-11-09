@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905"
+materia: "EXIME A FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS 'PAR', DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2019-07-25"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.L", "la Ley N° 19.885, publicada en el Diario Oficial el 06.08.2003, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos", "artículos 153, 154 N° 7, 157 bis y 157 ter del Código del Trabajo", "artículos 5, 6 y 8, de la Ley N° 20.422, de 2010, que Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad'", "y artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "y la Resolución Ex"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L N° 830, publicado en el Diario Oficial el 31.12.1974", "en el artículo 46 del D.L N° 3.063, de 1979, sobre Rentas Municipales, la Ley N° 19.247, de 1993", "la Ley N° 19.885, publicada en el Diario Oficial el 06.08.2003, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos", "y artículo 3 de la Ley N° 21.015, de 2017, que 'Incentiva la Inclusión Laboral de Personas con Discapacidad al Mundo Laboral'", "y la Resolución Ex"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905

@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 45 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
+materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A CONTRIBUYENTES QUE SEÑALAN."
 fecha: "2017-05-10"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L", "y la Resolución Exenta N° 150, de 29.12.2005, en que este Servicio estableció las normas y procedimientos de operación de la Contabilidad Electrónica", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
+ref_legal: ["Lo dispuesto en el artículo 17 del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "y la Resolución Exenta N° 150, de 29.12.2005, en que este Servicio estableció las normas y procedimientos de operación de la Contabilidad Electrónica", "y la Resolución Exenta N° 126, de 30.12.2014 delegatoria"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES

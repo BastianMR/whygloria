@@ -9,7 +9,7 @@ exenta: false
 impuestos: ["renta", "territorial", "contribuciones"]
 formularios: []
 regimen: ["renta-presunta"]
-ref_legal: ["Artículos 20 N° 1", "34 y 38 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L. 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "y Ley N° 20.899, Diario Oficial de 8 de Febrero de 2016."]
+ref_legal: ["Artículos 20 N° 1", "34 y 38 bis de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del D.L 824 de 1974", "Ley N° 20.780, publicada en el Diario Oficial de 29 de septiembre de 2014", "y Ley N° 20.899, Diario Oficial de 8 de Febrero de 2016."]
 ---
 
 | **DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875** | **CIRCULAR N° 39.- 21.2016 ID 11.2016 SN** |

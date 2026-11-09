@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
+materia: "FIJA PROCEDIMIENTO PARA LA SUSCRIPCIÓN DE ACUERDOS ANTICIPADOS DE PRECIOS DE TRANSFERENCIA, CONFORME AL N° 7 DEL ARTÍCULO 41 E DE LA LEY SOBRE IMPUESTO A LA RENTA. DEJA SIN EFECTO RESOLUCIONES EX. N° 68 DE 2013 Y N° 114 DE 2022."
 fecha: "2025-03-06"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830 de 1974", "lo establecido en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del Decreto con fuerza de Ley N° 7 de 1980, del Ministerio de Hacienda", "lo establecido en el artículo 41 E N° 7 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974", "y el N° 3 del artículo 2° de la Ley N° 21.713", "y, las Resoluciones Ex"]
+ref_legal: ["Lo dispuesto en los artículos 6°, letra A) N°1, y 60 del Código Tributario, contenido en artículo 1° del Decreto Ley N° 830 de 1974", "y el N° 3 del artículo 2° de la Ley N° 21.713"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES

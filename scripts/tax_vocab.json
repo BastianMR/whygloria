@@ -96,6 +96,6 @@
   },
   "ref_legal": {
     "_comment": "A citation is kept as the document writes it. This pattern only rejects prose that slipped in.",
-    "pattern": "(art|ley|d\\.\\s?l|dfl|decreto|c[oó]digo|resoluci[oó]n|res\\.?\\s*ex|circular)"
+    "pattern": "\\b(?:arts?|artículos?|ley|d\\.\\s?f\\.\\s?l|d\\.\\s?l|dfl|decreto|c[oó]digo|resoluci[oó]n(?:es)?|res\\.?\\s*ex|circular(?:es)?)\\b"
   }
 }

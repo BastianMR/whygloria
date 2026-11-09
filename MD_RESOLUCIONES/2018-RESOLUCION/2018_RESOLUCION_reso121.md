@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318619184"
 tags: [SII, 2018, resolucion]
-materia: "## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318619184"
+materia: "EXIME A CORPORACIÓN CULTIVA DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2018-12-06"
 exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L", "en el artículo 46 del D.L"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, del Ministerio de Hacienda, publicado en el Diario Oficial el 15.10.1980", "lo dispuesto en el artículo 6°, del Código Tributario, contenido en el artículo 1° del D.L N° 830, de 1974", "en el artículo 46 del D.L N° 3.063, de 1979, sobre Rentas Municipales, la Ley N° 19.247, de 1993, y la Ley N° 19.885, publicada en el Diario Oficial el 06.08.2003, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos"]
 ---
 
 ## SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318619184

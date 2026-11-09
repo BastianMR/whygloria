@@ -9,7 +9,7 @@ exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "en los artículos. 2°, 3° bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art. 1° del D.F.L", "lo establecido en los artículos 6° letra A, Nº 1 y 65 bis del Código Tributario, contenido en el Art. 1° del D.L"]
+ref_legal: ["Lo dispuesto en las leyes Nº 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y N° 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de la Administración del Estado", "en los artículos 2°, 3° bis, 7° y 9° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el Art 1° del D.F.L Nº 7, de Hacienda, de 1980"]
 ---
 
 ## SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES

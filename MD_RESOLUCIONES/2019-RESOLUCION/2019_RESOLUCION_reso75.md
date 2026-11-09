@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2019, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
+materia: "CREA MODELO DE CERTIFICADO N° 63, SOBRE DONACIONES EFECTUADAS A LA FUNDACIÓN IMAGEN DE CHILE PARA LLEVAR A CABO LA ORGANIZACIÓN Y EJECUCIÓN DE LA CONFERENCIA DE LAS PARTES DE LA CONVENCIÓN MARCO DE LAS NACIONES UNIDAS SOBRE CAMBIO CLIMÁTICO \"COP 25\"."
 fecha: "2019-06-12"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L", "en el artículo 60 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley N° 21.157, publicada en el Diario Oficial de 24.04.2018, que establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la conferencia internacional para el cambio climático denominada COP 25"]
+ref_legal: ["Las facultades contempladas en los artículos 1° y 7°, de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "en el artículo 60 del Código Tributario, contenido en el artículo 1° del Decreto Ley N° 830, de 1974", "lo dispuesto en la Ley N° 21.157, publicada en el Diario Oficial de 24.04.2018, que establece el financiamiento, regula la ejecución y dicta otras normas para la implementación de la conferencia internacional para el cambio climático denominada COP 25"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO

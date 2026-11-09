@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
-materia: "## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
+materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 50 DE 2012 REEMPLAZANDO EL FORMULARIO 1848 E INSTRUCCIONES DE LLENADO."
 fecha: "2016-12-26"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L", "lo establecido en los artículos 6° letra A) N° 1) y 60 inciso noveno del Código Tributario, contenido en el artículo 1° del D.L", "lo dispuesto por el ex artículo 106 de la Ley sobre Impuesto a la Renta, la Resolución Exenta SII N° 36, publicada en Diario Oficial de 17.03.2011", "la Resolución Exenta SII N° 50 de 04.04.2012", "la Ley N° 20.712 del 2014 que deroga el artículo 106 de la Ley sobre Impuesto a la Renta, sin perjuicio de lo dispuesto en sus artículos 5º y 9º, transitorios"]
+ref_legal: ["Las facultades que me confieren los artículos 1°, 4° bis y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L N° 7, de 1980, del Ministerio de Hacienda", "lo dispuesto por el ex artículo 106 de la Ley sobre Impuesto a la Renta, la Resolución Exenta SII N° 36, publicada en Diario Oficial de 17.03.2011", "la Resolución Exenta SII N° 50 de 04.04.2012", "la Ley N° 20.712 del 2014 que deroga el artículo 106 de la Ley sobre Impuesto a la Renta, sin perjuicio de lo dispuesto en sus artículos 5º y 9º, transitorios"]
 ---
 
 ## SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO

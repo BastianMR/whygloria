@@ -3,13 +3,13 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2022)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755"
 tags: [SII, 2022, resolucion]
-materia: "## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755"
+materia: "RESOLUCIÓN EX. SII N° 27."
 fecha: "2022-03-09"
 exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]
-ref_legal: ["Las facultades dispuestas en los artículos 6°, letra A), N° 1 y lo preceptuado en el artículo 68, del Código Tributario, contenido en el artículo 1° del D.L", "el artículo 2° número 5 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L", "los artículos 1° y 7° del D.F.L", "y la Ley N° 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial del 24 de febrero de 2020"]
+ref_legal: ["Las facultades dispuestas en los artículos 6°, letra A), N° 1 y lo preceptuado en el artículo 68, del Código Tributario, contenido en el artículo 1° del D.L N°830, de 1974", "el artículo 2° número 5 de la Ley sobre Impuesto a la Renta, contenido en el artículo 1° del D.L N°824, de 1974", "los artículos 1° y 7° del D.F.L N° 7, de 1980, del Ministerio de Hacienda", "y la Ley N° 21.210 que Moderniza la Legislación Tributaria, publicada en el Diario Oficial del 24 de febrero de 2020"]
 ---
 
 ## SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755
