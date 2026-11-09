@@ -5,7 +5,7 @@ description: "AUTORIZA ACCESO A LOS SERVICIOS DE INTEROPERABILIDAD CARTOGRAFÍA 
 tags: [SII, 2026, resolucion]
 materia: "AUTORIZA ACCESO A LOS SERVICIOS DE INTEROPERABILIDAD CARTOGRAFÍA DIGITAL \"SII-MAPAS\" A LA ILUSTRE MUNICIPALIDAD DE CHONCHI."
 fecha: "2026-07-10"
-exenta: false
+exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

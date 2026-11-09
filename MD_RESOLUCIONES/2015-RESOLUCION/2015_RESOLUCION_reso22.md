@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEP
 tags: [SII, 2015, resolucion]
 materia: "AUTORIZA A SUPER TICKET S.A. PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2015-03-13"
-exenta: false
+exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

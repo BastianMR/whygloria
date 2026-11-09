@@ -5,7 +5,7 @@ description: "CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
 tags: [SII, 2017, resolucion]
 materia: "CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
 fecha: "2017-08-23"
-exenta: false
+exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]

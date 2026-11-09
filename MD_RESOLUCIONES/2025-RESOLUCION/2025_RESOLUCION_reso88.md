@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00332334"
 tags: [SII, 2025, resolucion]
 materia: "DELEGA EN LOS (LAS) SUBDIRECTORES (AS) LAS FACULTADES QUE INDICA Y REVOCA RESOLUCIONES EX.SII N° 58, DE 24 DE ABRIL DE 2009 Y EX SII N° 23, DE 21 DE FEBRERO DE 2025."
 fecha: "2025-07-17"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

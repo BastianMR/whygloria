@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2017, resolucion]
-materia: ""
+materia: "FIJA"
 fecha: "2017-12-29"
 exenta: true
 impuestos: []

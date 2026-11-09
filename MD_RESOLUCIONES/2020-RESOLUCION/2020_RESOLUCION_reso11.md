@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCAL
 tags: [SII, 2020, resolucion]
 materia: "REGULA FORMA DE IMPETRAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 21.207, SOBRE ANTICIPO DE DEVOLUCIÓN DEL IMPUESTO A LA RENTA CORRESPONDIENTE AL AÑO TRIBUTARIO 2020"
 fecha: "2020-01-22"
-exenta: false
+exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]

@@ -5,7 +5,7 @@ description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cart
 tags: [SII, 2024, resolucion]
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Santa Cruz."
 fecha: "2024-01-31"
-exenta: false
+exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

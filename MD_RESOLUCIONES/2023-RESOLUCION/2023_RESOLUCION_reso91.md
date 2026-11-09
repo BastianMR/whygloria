@@ -5,7 +5,7 @@ description: "MATERIA Crea el Archivo Histórico Institucional del Servicio de I
 tags: [SII, 2023, resolucion]
 materia: "TITULO DEL FONDO | RANGO DE AÑOS | CÓDIGO DE CLASIFICACIÓN"
 fecha: "2023-08-23"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

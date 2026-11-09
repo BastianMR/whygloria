@@ -5,7 +5,7 @@ description: "FIJA PROCEDIMIENTO DE INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN 
 tags: [SII, 2025, resolucion]
 materia: "FIJA PROCEDIMIENTO DE INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2025-07-10"
-exenta: false
+exenta: true
 impuestos: ["renta", "iva"]
 formularios: ["F129"]
 regimen: ["no-aplica"]

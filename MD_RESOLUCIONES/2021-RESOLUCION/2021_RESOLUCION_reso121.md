@@ -5,7 +5,7 @@ description: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 1
 tags: [SII, 2021, resolucion]
 materia: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
 fecha: "2021-10-26"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

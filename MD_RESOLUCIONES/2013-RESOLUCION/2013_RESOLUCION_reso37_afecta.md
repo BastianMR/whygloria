@@ -1,6 +1,6 @@
 ---
 type: "SII Resolución"
-title: "Resolución N° 37 (2013)"
+title: "Resolución N° 37 (2013) (afecta)"
 description: "las siguientes facultades:"
 tags: [SII, 2013, resolucion]
 materia: "DELEGA FACULTADES QUE INDICA."

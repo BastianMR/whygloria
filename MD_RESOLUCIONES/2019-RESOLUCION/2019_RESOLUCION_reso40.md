@@ -5,7 +5,7 @@ description: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 240 SER
 tags: [SII, 2019, resolucion]
 materia: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 240 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX. SII N° 40"
 fecha: "2019-03-29"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

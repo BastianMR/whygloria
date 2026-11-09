@@ -5,7 +5,7 @@ description: "SANTIAGO, 04 DE MARZO DE 2015 HOY SE HA RESUELTO LO QUE SIGUE: RES
 tags: [SII, 2015, resolucion]
 materia: "ANÓTESE COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2015-03-04"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

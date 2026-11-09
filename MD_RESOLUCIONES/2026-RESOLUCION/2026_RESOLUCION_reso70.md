@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
 materia: "OTÓRGUESE ACCESO A LA SIGUIENTE INSTITUCIÓN A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) INICIO DE ACTIVIDADES"
 fecha: "2026-06-03"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

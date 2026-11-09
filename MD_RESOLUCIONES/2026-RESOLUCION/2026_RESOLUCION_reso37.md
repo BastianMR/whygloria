@@ -5,7 +5,7 @@ description: "MATERIA: APLICACIÓN DEL N° 5 DEL ARTÍCULO 23 DE LA LEY DE IMPUE
 tags: [SII, 2026, resolucion]
 materia: "APLICACIÓN DEL N° 5 DEL ARTÍCULO 23 DE LA LEY DE IMPUESTO A LAS VENTAS Y SERVICIOS A LOS CONTRIBUYENTES DEL RUBRO AGRÍCOLA EN EL CONTEXTO DE SOLICITUDES DE DEVOLUCIÓN DE IVA."
 fecha: "2026-03-06"
-exenta: false
+exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

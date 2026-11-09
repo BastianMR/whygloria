@@ -5,7 +5,7 @@ description: "MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS D
 tags: [SII, 2017, resolucion]
 materia: "ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO."
 fecha: "2017-02-10"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

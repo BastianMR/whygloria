@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONE
 tags: [SII, 2026, resolucion]
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
 fecha: "2026-07-10"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

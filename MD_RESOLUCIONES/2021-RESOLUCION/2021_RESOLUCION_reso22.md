@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2021-02-25"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

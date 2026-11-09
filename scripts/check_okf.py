@@ -47,17 +47,27 @@ def clean_description(text: str) -> str:
     return "SII public tax document."
 
 
-def extract_title(body: str, doc_type: str, year: str, fallback: str) -> str:
+def extract_title(body: str, doc_type: str, year: str, path: Path) -> str:
     label = "Circular" if "Circular" in doc_type else "Resolución"
+    stem = path.stem
     # The filename suffix carries the document number; prefer it over body text,
     # which often cites other resolutions before its own number.
-    from_name = re.search(r"(?:circu|reso)(\d+)", fallback, re.IGNORECASE)
+    from_name = re.search(r"(?:circu|reso)(\d+)", stem, re.IGNORECASE)
     if from_name:
-        return f"{label} N° {int(from_name.group(1))} ({year})"
+        raw = from_name.group(1)
+        number = str(int(raw))
+        # Two files can carry the same number: one canonical stem, one padded or
+        # amended. Keep the title unique instead of renaming a concept.
+        prefix = "circu" if "Circular" in doc_type else "reso"
+        canonical = path.parent / f"{year}_{path.parent.name.split('-')[1]}_{prefix}{number}.md"
+        if raw != number and canonical.exists():
+            number = raw
+        suffix = " (afecta)" if "_afecta" in stem.lower() else ""
+        return f"{label} N° {number} ({year}){suffix}"
     match = TITLE_RE.search(body)
     if match:
         return f"{label} N° {int(match.group(1))} ({year})"
-    return fallback
+    return stem
 
 
 def read_md(path: Path) -> str:
@@ -80,7 +90,7 @@ def split_frontmatter(text: str) -> tuple[dict | None, str, str | None]:
     return data, body, None
 
 
-def concept_meta(path: Path, body: str) -> dict:
+def concept_meta(path: Path, body: str, from_pdf: bool = False) -> dict:
     folder = path.parent.name
     match = FOLDER_RE.match(folder)
     if not match:
@@ -88,14 +98,23 @@ def concept_meta(path: Path, body: str) -> dict:
     year, kind = match.groups()
     doc_type = "SII Circular" if kind == "CIRCULAR" else "SII Resolución"
     tag = "circular" if kind == "CIRCULAR" else "resolucion"
-    fallback = path.name[:-3]
     meta = {
         "type": doc_type,
-        "title": extract_title(body, doc_type, year, fallback),
+        "title": extract_title(body, doc_type, year, path),
         "description": clean_description(body),
         "tags": ["SII", year, tag],
     }
     meta.update(metadata.extract_metadata(body, kind, year))
+    if from_pdf and (not meta["materia"] or not meta["fecha"] or not meta["exenta"]):
+        pdf = metadata.mirror_pdf(path, ROOT)
+        if pdf:
+            number = re.search(r"(\d+)", path.stem.split("_")[-1])
+            fallback = metadata.extract_from_pdf(
+                pdf, year, int(number.group(1)) if number else None
+            )
+            for key, value in fallback.items():
+                if value and not meta[key]:
+                    meta[key] = value
     meta.setdefault("status_vigencia", "desconocido")
     meta.setdefault("replaced_by", [])
     return meta
@@ -154,6 +173,12 @@ def fix_file(path: Path) -> None:
     for key in ("status_vigencia", "replaced_by"):
         if key in data:
             meta[key] = data[key]
+    # Values recovered from the source PDF must survive a body-only repair.
+    for key in ("materia", "fecha"):
+        if not meta[key] and data.get(key):
+            meta[key] = data[key]
+    if not meta["exenta"] and data.get("exenta") is True and not metadata.extract_exenta(body):
+        meta["exenta"] = True
     if not meta:
         # Root-level concept (e.g. README.md): preserve existing keys.
         if data is None:

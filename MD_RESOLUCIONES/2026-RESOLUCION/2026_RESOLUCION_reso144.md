@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONT
 tags: [SII, 2026, resolucion]
 materia: "FÍJASE EXIGENCIAS SOBRE LAS FACTURAS Y GUÍAS DE DESPACHO QUE AMPARAN EL TRASLADO DE BIENES CORPORALES MUEBLES Y DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 154, DE 2025."
 fecha: "2026-10-23"
-exenta: false
+exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

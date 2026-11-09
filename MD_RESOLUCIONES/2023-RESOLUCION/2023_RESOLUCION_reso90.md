@@ -5,7 +5,7 @@ description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cart
 tags: [SII, 2023, resolucion]
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de La Granja"
 fecha: "2023-08-23"
-exenta: false
+exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

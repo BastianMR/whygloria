@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATI
 tags: [SII, 2021, resolucion]
 materia: "HABILITA PLATAFORMA Y REGULA EL PROCEDIMIENTO DE SOLICITUD DEL PRÉSTAMO SOLIDARIO ESTABLECIDO EN EL ART. 9° DE LA LEY N°21.323."
 fecha: "2021-05-07"
-exenta: false
+exenta: true
 impuestos: ["renta", "segunda-categoria"]
 formularios: []
 regimen: ["no-aplica"]

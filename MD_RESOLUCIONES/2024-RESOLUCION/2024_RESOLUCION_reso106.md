@@ -5,7 +5,7 @@ description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 tags: [SII, 2024, resolucion]
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 fecha: "2024-11-07"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

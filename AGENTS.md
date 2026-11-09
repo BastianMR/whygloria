@@ -19,7 +19,7 @@ python scripts/sii_pdfs.py --publish    # move converted sources into PDF_<TYPE>
 python scripts/check_okf.py             # expect 0 problems (reports metadata gaps separately)
 python scripts/check_duplicates.py      # expect 0 exact duplicate groups
 python scripts/sii_pdfs.py --vigencia   # rebuild status_vigencia + relaciones.json
-python scripts/backfill_metadata.py     # one-shot: rebuild frontmatter from the body
+python scripts/backfill_metadata.py     # one-shot: rebuild frontmatter (body, PDF header fallback)
 ```
 
 ## Rules

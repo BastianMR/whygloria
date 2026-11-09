@@ -291,6 +291,53 @@ def extract_exenta(body: str) -> bool:
     return any(EXENTA_RE.match(line) for line in body.splitlines()[:25])
 
 
+def extract_from_pdf(pdf: Path, year: str = "", number: int | None = None) -> dict:
+    """Header fields the conversion dropped, read from page 1 of the source PDF.
+
+    Deterministic and only used as a fallback: the PDF is versioned in the repo,
+    so the same file always yields the same values. `exenta` counts only the
+    signature that carries this document's own number, never a citation.
+    """
+    try:
+        import pymupdf
+    except ImportError:
+        return {}
+    try:
+        with pymupdf.open(pdf) as document:
+            text = document[0].get_text()
+    except Exception:
+        return {}
+    flat = re.sub(r"[ \t]+", " ", text)
+    exenta = False
+    if number is not None:
+        signature = re.compile(
+            rf"RESOLUCI[OÓ]N\s+(?:EXENTA|EX\.)\s+SII[^0-9\n]{{0,15}}(\d+)", re.I
+        )
+        exenta = any(int(found) == int(number) for found in signature.findall(flat))
+    return {
+        "materia": extract_materia(flat),
+        "fecha": extract_fecha(flat, year),
+        "exenta": exenta,
+    }
+
+
+def mirror_pdf(path: Path, root: Path) -> Path | None:
+    """The tracked source PDF that belongs to a concept, if it exists."""
+    folder = path.parent.name
+    kind = "CIRCULARES" if folder.endswith("CIRCULAR") else "RESOLUCIONES"
+    base = root / f"PDF_{kind}" / folder
+    suffix = path.stem.split("_")[-1]
+    for candidate in (base / f"{suffix}.pdf", base / f"{suffix}_afecta.pdf"):
+        if candidate.exists():
+            return candidate
+    match = re.search(r"(\d+)", suffix)
+    if match:
+        found = sorted(base.glob(f"*{match.group(1)}.pdf"))
+        if len(found) == 1:
+            return found[0]
+    return None
+
+
 def extract_metadata(body: str, kind: str, year: str = "") -> dict:
     return {
         "materia": extract_materia(body),

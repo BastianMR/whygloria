@@ -5,7 +5,7 @@ description: "MATERIA: Resolución conjunta entre el Servicio de Impuestos Inter
 tags: [SII, 2016, resolucion]
 materia: "Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de"
 fecha: "2016-06-17"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

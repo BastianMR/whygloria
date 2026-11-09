@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO ANÁLISIS DE RIESGOS D
 tags: [SII, 2025, resolucion]
 materia: "DISPÓNESE CAMBIO TOTAL DEL SUJETO DEL IVA Y AUTORIZA A MERCADOLIBRE CHILE LTDA., RUT N° 77.398.220-1, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-10-08"
-exenta: false
+exenta: true
 impuestos: ["renta", "iva"]
 formularios: []
 regimen: ["no-aplica"]

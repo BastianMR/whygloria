@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE AVALUACIONES GE 200604"
 tags: [SII, 2021, resolucion]
 materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2021-12-30"
-exenta: false
+exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

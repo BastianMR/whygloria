@@ -5,7 +5,7 @@ description: "MATERIA: Aprueba Prórroga y Modificación de Convenio Interadmini
 tags: [SII, 2024, resolucion]
 materia: "Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos."
 fecha: "2024-04-18"
-exenta: false
+exenta: true
 impuestos: ["contribuciones"]
 formularios: []
 regimen: ["no-aplica"]

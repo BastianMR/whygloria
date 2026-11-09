@@ -5,7 +5,7 @@ description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cart
 tags: [SII, 2025, resolucion]
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Iquique."
 fecha: "2025-10-01"
-exenta: false
+exenta: true
 impuestos: ["territorial"]
 formularios: []
 regimen: ["no-aplica"]

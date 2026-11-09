@@ -5,7 +5,7 @@ description: "MODIFICA RESOLUCIÓN EXENTA SII N° 146, DE 2020, SOBRE DELEGACIÓ
 tags: [SII, 2025, resolucion]
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 146, DE 2020, SOBRE DELEGACIÓN DE FACULTADES Y ASIGNACIÓN DE FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA."
 fecha: "2025-08-07"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

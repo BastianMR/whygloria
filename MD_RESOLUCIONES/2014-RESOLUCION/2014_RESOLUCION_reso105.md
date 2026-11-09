@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONT
 tags: [SII, 2014, resolucion]
 materia: "AUTORIZA EMISION EN PAPEL DE DOCUMENTOS TRIBUTARIOS QUE DEBAN SER EMITIDOS EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
 fecha: "2014-11-12"
-exenta: false
+exenta: true
 impuestos: ["iva"]
 formularios: []
 regimen: ["no-aplica"]

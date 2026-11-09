@@ -5,7 +5,7 @@ description: "MATERIA: Aprueba Convenio de Colaboración entre Secretaría y Adm
 tags: [SII, 2021, resolucion]
 materia: "Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos."
 fecha: "2021-11-15"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["no-aplica"]

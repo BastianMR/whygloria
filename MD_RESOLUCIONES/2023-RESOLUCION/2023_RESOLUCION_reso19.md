@@ -5,7 +5,7 @@ description: "RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, D
 tags: [SII, 2023, resolucion]
 materia: "RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023."
 fecha: "2023-02-22"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

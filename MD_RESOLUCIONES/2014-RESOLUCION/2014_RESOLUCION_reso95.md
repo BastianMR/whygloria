@@ -3,7 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2014)"
 description: "Modifica Resoluciones Ex. SII N° 7590, de 1999 y 75, de 2013."
 tags: [SII, 2014, resolucion]
-materia: ""
+materia: "RESOLUCIÓN SII EX. SII N° ___95.-_______/ VISTOS: lo"
 fecha: "2014-10-06"
 exenta: false
 impuestos: []

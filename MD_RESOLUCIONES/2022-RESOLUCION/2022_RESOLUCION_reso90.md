@@ -5,7 +5,7 @@ description: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL
 tags: [SII, 2022, resolucion]
 materia: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2022-09-22"
-exenta: false
+exenta: true
 impuestos: ["renta"]
 formularios: []
 regimen: ["14A", "renta-presunta"]

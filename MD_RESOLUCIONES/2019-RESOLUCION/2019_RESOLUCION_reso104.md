@@ -4,7 +4,7 @@ title: "Resolución N° 104 (2019)"
 description: "Subdirección de Contraloría Interna Departamento de Auditoría Interna"
 tags: [SII, 2019, resolucion]
 materia: "APRUEBA PARTICIPACIÓN COMO SERVICIO PILOTO EN EL PROYECTO DE CALIDAD DE LA AUDITORÍA INTERNA DEL SECTOR PÚBLICO."
-fecha: ""
+fecha: "2019-09-27"
 exenta: true
 impuestos: []
 formularios: []

@@ -5,7 +5,7 @@ description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 227547"
 tags: [SII, 2023, resolucion]
 materia: "APRUEBA POLÍTICA INSTITUCIONAL DE IGUALDAD DE GÉNERO Y CONCILIACIÓN DE LA VIDA LABORAL, FAMILIAR Y PERSONAL DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2023-03-08"
-exenta: false
+exenta: true
 impuestos: []
 formularios: []
 regimen: ["no-aplica"]

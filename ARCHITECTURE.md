@@ -92,10 +92,12 @@ calls a model. Where the source has no MATERIA line or lost its date,
 `check_okf.py` reports a *metadata gap* instead of an error, because inventing a
 value would be worse than leaving it empty.
 
-`exenta` is only set when the document's own signature line (`RESOLUCIÓN EXENTA
-SII N…`) survived the conversion. 213 resolutions lost that header line, so they
-read `false` even though their PDF says otherwise; recomputing them needs a
-re-conversion, not a rule change.
+`exenta`, `fecha` and `materia` are read from the body first. When the
+conversion lost the header, `backfill_metadata.py` falls back to page 1 of the
+tracked source PDF (pymupdf) and accepts a signature only if it carries the
+document's own number, so citing another exenta resolution never counts. That
+recovered 71 resolutions; the rest lack the line in the PDF too. `--no-pdf`
+restores the body-only behaviour.
 
 ## Supersession map
 
@@ -179,6 +181,5 @@ are listed in the report and in `relaciones.json`, and they are the honest
   publication without a circular number, and the bundle has no convention for
   them yet.
 - The two title collisions above predate the pipeline.
-- 213 resolutions lost their signature line in conversion, so `exenta` reads
-  `false`; 65 documents lost their date and 9 their subject. These need a
-  re-conversion of that subset, not a rule change.
+- 58 documents have no date and 7 no subject in the converted header or on page
+  one of their PDF; that residue needs a human, not another rule.

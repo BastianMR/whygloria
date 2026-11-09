@@ -4,7 +4,7 @@ title: "Circular N° 38 (2018)"
 description: "DEPARTAMENTO EMISOR: | CIRCULAR Nº 38 .- |"
 tags: [SII, 2018, circular]
 materia: "Imparte instrucciones relativas artículo 8 de la Convención Combatir el Cohecho de Públicos Extranjeros Transacciones Internacionales de la para la Cooperación y el Económico. Deroga Circular N° 56 de 08.11.2007 su modificación efectuada Circular 28 de 25.04.2014."
-fecha: ""
+fecha: "2018-07-09"
 exenta: false
 impuestos: ["renta"]
 formularios: []

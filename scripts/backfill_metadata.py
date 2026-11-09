@@ -30,7 +30,7 @@ import vigencia
 FOLDERS = {"CIRCULAR": "MD_CIRCULARES", "RESOLUCION": "MD_RESOLUCIONES"}
 
 
-def rebuild(dry_run: bool = False) -> int:
+def rebuild(dry_run: bool = False, from_pdf: bool = True) -> int:
     extracted: dict[Path, tuple[str, dict]] = {}
     coverage = Counter()
     impuestos = Counter()
@@ -45,7 +45,7 @@ def rebuild(dry_run: bool = False) -> int:
             if error:
                 print(f"SKIP {path.relative_to(check_okf.ROOT)}: {error}")
                 continue
-            meta = check_okf.concept_meta(path, body)
+            meta = check_okf.concept_meta(path, body, from_pdf=from_pdf)
             extracted[path] = (body, meta)
             for key in ("materia", "fecha", "ref_legal"):
                 if meta[key]:
@@ -99,7 +99,13 @@ def rebuild(dry_run: bool = False) -> int:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--dry-run", action="store_true", help="report, do not write")
-    return rebuild(parser.parse_args().dry_run)
+    parser.add_argument(
+        "--no-pdf",
+        action="store_true",
+        help="body only, without the source-PDF fallback for lost header fields",
+    )
+    args = parser.parse_args()
+    return rebuild(args.dry_run, from_pdf=not args.no_pdf)
 
 
 if __name__ == "__main__":

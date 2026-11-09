@@ -5,7 +5,7 @@ description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
 fecha: "2021-09-02"
-exenta: false
+exenta: true
 impuestos: ["iva", "iec"]
 formularios: []
 regimen: ["no-aplica"]
