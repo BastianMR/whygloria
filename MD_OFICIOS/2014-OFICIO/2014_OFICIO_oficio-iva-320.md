@@ -1,0 +1,71 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 320 (2014)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42° – D.F.L. N° 2, ART. 10°, ART. 21°, ART. 23°. (ORD. N° 320, DE 19.02.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja320.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja320.doc"
+materia: "iva"
+fecha: "2014-02-19"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42° – D.F.L. N° 2, ART. 10°, ART. 21°, ART. 23°. (ORD. N° 320, DE 19.02.2014)
+
+APLICACIÓN DE LA EXENCIÓN CONTENIDA EN EL ART. 23°, DEL D.F.L. N° 2, DE 2001, EN LA VENTA DE LICORES EFECTUADA POR UN USUARIO DE ZONA FRANCA.
+
+I.- ANTECEDENTES:
+
+XXXX, en representación de TTT Ltda., esta última usuaria de Zona Franca, consultó mediante presentación efectuada en esa Dirección Regional si los usuarios de Zona Franca se encuentran exentos del Impuesto a los alcoholes, por las ventas que efectúen desde Zona Franca a Zona de Extensión, de la misma manera que lo están del Impuesto al Valor Agregado.
+
+Señala que su representada venderá licores desde Zona Franca a Zona de Extensión, Régimen General, Traspasos y exportaciones.
+
+Al respecto, su asesor el Sr. YYY le informó que las ventas de licores en Zona Franca están exentas de Impuesto a los alcoholes (sic) y que el usuario de Zona Franca tiene la obligación de recargar y pagar dicho impuesto únicamente por las ventas a Régimen General, debiendo operar respecto del referido impuesto igual como lo hacen respecto del I.V.A.
+
+Lo anterior, en atención a que el Art. 23°, D.F.L. N° 341, que rige la zona franca, deja exento, a los usuarios del sistema, de los impuestos contenidos en el D.L. N° 825, encontrándose el impuesto a las bebidas alcohólicas, analcohólicas y productos similares, contenido en el Art. 42°, del citado decreto ley.
+
+II.- ANÁLISIS:
+
+El Art. 23° del D.F.L. N° 2, de 2001, que aprueba el texto refundido, coordinado y sistematizado del Decreto con Fuerza de Ley Nº 341, de 1977, del Ministerio de Hacienda sobre Zonas Francas, dispone que “Las sociedades administradoras y los usuarios que se instalen dentro de las Zonas Francas estarán exentas de los impuestos a las ventas y servicios del decreto ley 825, de 1974, por las operaciones que realicen dentro de dichos recintos y zonas”.
+
+Al respecto, mediante Ord. N° 3360, de 2/12/1996, este Servicio aclaró el alcance de dicha exención, señalando que las operaciones favorecidas con la franquicia en comento son todas las ventas y servicios gravados con los impuestos del D.L. N° 825, de 1974, comprendiéndose dentro de éstos, el Impuesto al Valor Agregado, el Impuesto Adicional a ciertos Productos, contenido en el Art. 37° y 40°, y el Impuesto Adicional a las Bebidas Alcohólicas y Analcohólicas, contenido en el Art. 42°, del citado decreto ley, siempre que dichas operaciones se efectúen en las condiciones establecidas por ley, dentro del recinto de extraterritorialidad aduanera.
+
+En este último punto, la norma es clara al condicionar la aplicación de la exención a las operaciones realizadas dentro del recinto de Zona Franca, el cual se encuentra expresamente definido en el Art. 2°, letra a), del D.F.L. N° 2, como “El área o porción unitaria de territorio perfectamente deslindada”. De lo anterior se colige en lo que dice relación con la consulta, que sólo las ventas efectuadas en dicha zona se encontrarán liberadas de todos los tributos del D.L. N° 825.
+
+Consecuente con lo anterior, este Servicio ha señalado, mediante diversa jurisprudencia administrativa , que en el caso de las ventas, éstas se entienden favorecidas con la liberación en comento cuando se perfeccionan dentro del recinto de zona franca, lo que implica obviamente que la entrega de los bienes vendidos por el usuario de zona franca, debe efectuarse también dentro de dicho recinto y por lo tanto la documentación que respalda dicha operación debe ser emitida, conforme al Art. 55 del D.L. N° 825, en el mismo momento en que se realice la entrega de dichos bienes dentro de la zona franca.
+
+Por otra parte, el Art. 21°, inciso tercero del D.F.L. N° 2, refiriéndose a la adquisición de mercancías de zona franca para ser usadas o consumidas en zona franca de extensión, dispone que ésta “se efectuará en conformidad a las disposiciones generales que rijan a las importaciones o mediante compra directa en moneda corriente nacional, libres de los derechos, tasas y demás gravámenes percibidos por intermedio de las Aduanas y del Impuesto al Valor Agregado a que se refiere el decreto ley 825, de 1974”.
+
+De lo anterior se desprende claramente que toda adquisición efectuada en zona franca para ser introducida a zona franca de extensión se encuentra exenta solamente del Impuesto al Valor Agregado.
+
+En atención a ello y ejerciendo la facultad otorgada a la Dirección Nacional de este Servicio, en el Art. 3°, del D.L. N° 825, es que se dictó la Res. Ex. N° 2191, de 14/5/1996, para imponer a los usuarios de zona franca la obligación de retener, declarar y pagar los tributos del Art. 37° y 42°, del D.L. N° 825, cuando las mercancías adquiridas en Zona Franca fueran importadas a Zona Franca de Extensión, para su uso, consumo o comercialización.
+
+Como puede apreciarse del análisis precedente, no existe contradicción entre las disposiciones contenidas en el Art. 23°, del D.F.L. N° 2 y las instrucciones impartidas en Resolución Ex. N° 2191 de 1996, toda vez que se trata de la aplicación de normas legales distintas. Por una parte y considerando el carácter territorial de la franquicia contenida en el Art. N° 23°, del D.F.L. N° 2, las ventas efectuadas por usuarios instalados en Zona Franca, se encontrarán liberadas de todos los tributos del D.L. N° 825, en la medida que ellas se perfeccionen dentro de dicho recinto, cumpliendo además las formalidades señaladas en el párrafo cuarto de este Título. Sin embargo, cuando esas mercancías sean ingresadas por su adquirente a Zona Franca de Extensión, le resulta plenamente aplicable el Art. 21°, del mencionado decreto con fuerza de ley, encontrándose su importación liberada sólo del Impuesto al Valor Agregado, en lo que dice relación con los tributos del D.L. N° 825, debiendo pagar su adquirente los impuestos del Art. 37° y 42°, del mencionado decreto ley, que afectaren la importación de dichas mercaderías.
+
+Por lo tanto, cuando se verifica en Zona Franca una venta de mercaderías afectas con el Impuesto Adicional del Art. 37° o 42°, del D.L. N° 825, cuyo destino es la Zona Franca de Extensión, el usuario de Zona Franca deberá retener, declarar y pagar los impuestos que afecten a dicha importación, en virtud de lo instruido por este Servicio en Res. Ex. N° 2191, de 1996, ya que ésta sólo se encuentra liberada de IVA, conforme a lo señalado en el Art. 21°, inciso tercero, del D.F.L. N° 2. Ello, sin perjuicio del impuesto contenido en el Art. 11, de la Ley N° 18.211, que afecte la importación de dichas mercaderías, el cual deberá ser retenido igualmente por el usuario de zona franca, según lo dispuesto por el inciso tercero del mencionado Art. 11°.
+
+Finalmente, en lo que dice relación con el tratamiento tributario de las exportaciones efectuadas desde zona franca al exterior y de las mercaderías vendidas por usuarios de zona franca que serán ingresadas al resto del territorio nacional, el Art. 10 del D.F.L. N° 2, dispone: “Las mercancías podrán salir de las zonas francas para ser reexpedidas o exportadas sin restricción al extranjero de acuerdo con lo que señale el reglamento. Podrán también ser ingresadas al país sujetándose en todo a la legislación general o especial que corresponda”.
+
+III.- CONCLUSIÓN:
+
+De las normas legales precedentemente analizadas se concluye que los denominados Traspasos, entendiendo por éstos, las ventas efectuadas entre usuarios de zona franca, en la medida que se perfeccionen dentro de dicho recinto, cumpliendo además las formalidades señaladas en el párrafo cuarto del Título II de este oficio, se encuentran exentas de todos los impuestos del D.L. N° 825, por encontrarse beneficiadas por la franquicia contenida en el Art. 23°, del D.F.L. N° 2, de 2001.
+
+En cuanto a las ventas efectuadas por su representada de mercaderías cuyo destino es la zona franca de extensión, opera de pleno derecho el Art. 21°, del mencionado D.F.L. N° 2, en concordancia con la Res. Ex. N° 2191, de 1996, encontrándose el vendedor y usuario de zona franca, obligado a retener , declarar y pagar el impuesto a las bebidas alcohólicas, analcohólicas y productos similares, contenido en el Art. 42°, del D.L. N° 825, toda vez que dicha importación se encuentra exenta sólo de IVA, conforme a lo dispuesto en el referido Art. 21°.
+
+Finalmente, las mercaderías vendidas por usuarios de Zona Franca e ingresadas al resto del país, se encuentran sujetas en todo a la legislación general o especial que corresponda, según lo dispuesto en el Art. 10°, del D.F.L. N° 2. En atención a ello el ingreso de dichas mercaderías constituye una importación que en el caso bajo análisis se encuentra gravado con IVA e impuesto adicional del Art. 42°, del D.L. N° 825, que deberá ser pagado por quien ingrese dichas mercancías al resto del territorio nacional.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N°320, de 19.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

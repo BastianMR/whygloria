@@ -1,0 +1,53 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 494 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°9 – LEY N° 16.282, ART. 7° – DECRETO LEY N° 45, DE 1973, ART. 1°, ART. 2°. (ORD. N° 494, DE 13.02.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja494.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja494.doc"
+materia: "renta"
+fecha: "2015-02-13"
+exenta: false
+impuestos: ["renta", "timbres", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°9 – LEY N° 16.282, ART. 7° – DECRETO LEY N° 45, DE 1973, ART. 1°, ART. 2°. (ORD. N° 494, DE 13.02.2015)
+
+TRATAMIENTO TRIBUTARIO QUE AFECTA A LA ENTREGA DE SUMAS DE DINERO EFECTUADAS POR EL MINISTERIO DEL INTERIOR A DAMNIFICADOS POR CATÁSTROFES NATURALES, EN LA SITUACIÓN QUE INDICA.
+
+Se ha solicitado un pronunciamiento a este Servicio, respecto al tratamiento tributario que afecta a la entrega de sumas de dinero efectuadas por el Ministerio del Interior directamente a los damnificados, en ayuda por las catástrofes ocurridas en las Regiones de Arica-Parinacota, Tarapacá y Valparaíso, en la situación particular que indica.
+
+I.- ANTECEDENTES.
+Señala que el Ministerio del Interior y Seguridad Pública, determinó ayudar a las personas damnificadas a través de pagos por concepto de subsidios de ropa, arriendo, apoyo a la acogida y enseres. Estos recursos se encuentran autorizadas por la Ley de Presupuestos del Sector Público para el año 2014, bajo la partida 05.10.01.24.03.002 “Para atender situaciones de emergencia”, y amparados en la Ley N°16.282 que fija disposiciones permanentes para casos de sismos o catástrofes.
+II.- ANÁLISIS.
+
+La Ley N°16.282, que establece disposiciones permanentes para casos de sismos y catástrofes, cuyo texto refundido, coordinado y sistematizado, fue fijado por Decreto con Fuerza de Ley N°104, de 1977, señala en su artículo 1° que el Presidente de la República, en el caso de producirse en el país sismos o catástrofes que provoquen daños de consideración en las personas o en los bienes, dictará un decreto supremo fundado, señalando las comunas, localidades, o sectores geográficos determinados de las mismas, que hayan sido afectados - genéricamente denominadas “zonas afectadas”. El inciso final del citado artículo, dispone que sólo a contar de la fecha del referido decreto podrán hacerse efectivas las disposiciones de esa ley, en cuanto fueren compatibles.
+
+El artículo 7° de la misma ley, establece que las donaciones que se efectúen con ocasión de la catástrofe o calamidad pública, al Estado, a personas naturales o jurídicas de derecho público o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado, o que Chile haga a un país extranjero, se eximen de todo pago o gravamen que las afecten en las mismas condiciones señaladas en el D.L. N°45, de 1973.
+
+Conforme a lo anterior, las donaciones que se efectúen al amparo de la ley antes señalada, se encuentran exentas del impuesto a las donaciones de la Ley N°16.271 y del impuesto de Timbres y Estampillas del D.L. N° 3.475. Además, conforme a lo dispuesto en el artículo 1° del D.L. N° 45, se eximen también del trámite de insinuación contemplado en los artículos 1401 y siguientes del Código Civil y 889 y siguientes del Código de Procedimiento Civil, según lo establecido en el artículo 2° del referido decreto ley.
+
+Del tenor de lo dispuesto en el artículo 7° de la Ley N° 16.282, se observa que no existe restricción en cuanto a la persona del donante, pudiendo ser éste, una persona natural o una persona jurídica de derecho público o privado, por lo tanto, es perfectamente posible que el Estado, actuando bajo la personalidad jurídica del Fisco, tenga el carácter de donante para los efectos de esta ley, sin perjuicio del cumplimiento de las disposiciones legales que autoricen al Estado para disponer de los bienes que se entregan en donación. En este sentido, tal requisito se cumpliría, según señala en su presentación, toda vez que las donaciones en dinero que efectuará el Ministerio del Interior a través de la Subsecretaría respectiva, están autorizadas por la Ley N° 20.713 de Presupuestos del Sector Público, bajo la partida presupuestaria que indica, que corresponde a transferencias corrientes clasificada bajo el rubro “GASTOS” de la Subsecretaría del Interior, cuya glosa señala: “Para financiar situaciones de emergencia o gastos no previstos, los que deberán ser definidos por el Ministro o Subsecretario del Interior, pudiendo incluir aportes o donaciones de bienes a países afectados por catástrofes naturales.”.
+
+Por otra parte, también se cumpliría lo dispuesto en el artículo 1° de la Ley N° 16.282, por cuanto los beneficiarios de las referidas donaciones serían personas afectadas por las catástrofes ocurridas el mes de abril del presente año, en los lugares declarados como “zona afectada” según Decreto N° 918 del Ministerio del Interior y Seguridad Pública, publicado en el Diario Oficial con fecha 03.04.2014, que declara como zona afectada por un sismo de gran magnitud a las Regiones de Arica-Parinacota y Tarapacá, y el Decreto N° 947 del mismo Ministerio, publicado en el Diario Oficial el 16.04.2014, que señaló como zonas afectadas por la catástrofe derivada del incendio ocurrido en Valparaíso, a esta comuna y a la comuna de Viña del Mar.
+
+Finalmente, en cuanto al tratamiento tributario para el beneficiario de la donación, la Ley sobre Impuesto a la Renta establece en el N° 9, del artículo 17 que no constituye renta la adquisición de bienes producto de una donación, disposición que resulta plenamente aplicable a la situación planteada en su consulta.
+
+III.- CONCLUSIÓN.
+
+Las sumas de dinero entregadas directamente por el Ministerio del Interior a los damnificados de las catástrofes ocurridas en las Regiones de Arica-Parinacota, Tarapacá y Valparaíso, con cargo a la partida presupuestaria 05.10.01.24.03.002 “para atender situaciones de emergencia”, y que tienen el carácter de donación para los efectos de la Ley N°16.282 y de la Ley sobre Impuesto a la Renta, corresponden a ingresos no constitutivos de renta para el beneficiario de la donación, según lo dispuesto en el N° 9 del artículo 17 de la LIR, y se encuentran exentas del impuesto a las herencias, asignaciones y donaciones, del impuesto de timbres y estampillas y del trámite judicial de insinuación, conforme a lo dispuesto en el artículo 7° de la Ley N°16.282 y los artículos 1° y 2° del D.L. N°45, de 1973.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 494, de 13.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

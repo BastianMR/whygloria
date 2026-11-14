@@ -1,0 +1,78 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2156 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4 – CÓDIGO TRIBUTARIO, ART. 64°, INCISO 5 – OFICIOS N°408, DE 2010, N° 2435, DE 2010, 1433, DE 2008 Y N°..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2156.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2156.doc"
+materia: "renta"
+fecha: "2013-10-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4 – CÓDIGO TRIBUTARIO, ART. 64°, INCISO 5 – OFICIOS N°408, DE 2010, N° 2435, DE 2010, 1433, DE 2008 Y N° 4848, DE 2005. (ORD. N° 2156, DE 03.10.2013)
+
+FACULTAD DE TASAR DEL SERVICIO DE IMPUESTOS INTERNOS. SOLICITA PRONUNCIAMIENTO SOBRE EL EJERCICIO DE LA FACULTAD DE TASACIÓN CONTEMPLADA EN EL ARTÍCULO 64° DEL CÓDIGO TRIBUTARIO, EN LA REESTRUCTURACIÓN QUE SE INDICA Y LA PROCEDENCIA DE PRACTICAR LA RETENCIÓN ESTABLECIDA EN EL ARTÍCULO 74 N° 4 DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+I.- ANTECEDENTES.
+
+Señala que en un proceso de fiscalización, una entidad japonesa, AAA, planea trasladar las acciones que posee en la sociedad chilena BBB, a la sociedad brasileña CCC, con la finalidad que ésta última recoja la información contable y financiera del área Sudamérica y consolide sus estados financieros, incluyendo en ellos a la filial chilena del grupo, para su reporte a Japón. Cabe señalar que AAA detenta la propiedad de un 99,99% de las acciones de BBB
+
+En opinión de los asesores del contribuyente, la operación podría ser vista como una enajenación no habitual de acciones, afectándose el mayor valor con Impuesto de Primera Categoría aplicado en carácter de único. Sin embargo, dado que la reorganización no provocaría remesas al exterior, desde Chile u otro país, ni tampoco cambios en el patrimonio de la sociedad chilena BBB, dicha operación no quedaría afecta a la tributación de los artículos 17 N° 8 y 60 de la Ley sobre Impuesto a la Renta al considerarse como una reestructuración de activos financieros en el exterior sin efectos tributarios en Chile.
+
+Luego de exponer sus consideraciones legales respecto del artículo 64 del Código Tributario y de las instrucciones impartidas a su respecto por este Servicio, indica que en su opinión la reorganización que describe cumpliría con todos los supuestos básicos exigidos por el inciso 5° de dicha disposición, que inhiben a este Servicio de practicar la tasación que se establece en dicho precepto legal. Además, solicita que se confirme que es posible ejecutar la reestructuración financiera indicada utilizando el valor tributario de adquisición de las acciones.
+
+Ahora bien, la Dirección de Grandes Contribuyentes, que eleva la consulta ante esta Dirección Nacional, por su parte señala que a través de varios pronunciamientos este Servicio ha indicado que el inciso 5°, del artículo 64 del Código Tributario se aplica sólo en aquellos casos en que los efectos tributarios de la reorganización en cuestión se producen y agotan íntegramente en Chile, como sería el caso del aporte de derechos sociales o acciones de socios o accionistas de una sociedad chilena que se efectúa a otra sociedad también chilena, pero no resultaría aplicable para aportes en sociedades constituidas en el extranjero.
+
+De acuerdo a ello, solicita que se confirmen los criterios expuestos a continuación:
+
+a) Este Servicio, en la operación descrita, puede ejercer la facultad de tasación contemplada en el inciso 3°, del artículo 64 del Código Tributario y de determinarse un mayor valor afecto a impuestos fruto de la reasignación de las acciones de la sociedad chilena BBB, aun cuando la operación se efectúe dando cumplimiento a los requisitos contenidos en el inciso 5° de la misma disposición legal, toda vez que los efectos tributarios de dicha reorganización no se producirían ni agotarían íntegramente en Chile.
+
+b) En la medida que la restructuración descrita implique sólo el traslado del activo mencionado desde la empresa matriz situada en Japón, a una empresa brasileña perteneciente al mismo grupo, no se vislumbra la generación de flujos efectivos de dinero desde Chile o la ocurrencia de otras circunstancias que, de acuerdo con la Ley sobre Impuesto a la Renta, pudieran gatillar la obligación de efectuar alguna de las retenciones establecidas en el artículo 74 N°4.
+
+II.- ANÁLISIS.
+
+1.- Respecto de lo dispuesto por el inciso 3° y 5°, del artículo 64 del Código Tributario, este Servicio impartió instrucciones mediante la Circular N°45, del 2001, expresándose a través de dicho instructivo que no se aplicarán las facultades de tasación que contempla el referido inciso 3°, cuando se trate del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta individual, societaria o contribuyente del N°1 del artículo 58 de la Ley sobre Impuesto a la Renta, y siempre que dichos procesos de reorganización cumplan los siguientes requisitos:
+
+- Que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad.
+- Que no se originen flujos efectivos de dinero para el aportante.
+- Que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante.
+- Que los valores se asignen en la respectiva junta de accionistas o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas.
+
+Ahora bien, este Servicio ha señalado en forma reiterada que para que tenga aplicación lo dispuesto en el inciso 5°, del artículo 64 del Código Tributario, es necesario que los efectos tributarios de la reorganización se produzcan y agoten íntegramente en el país , circunstancia que no ocurre cuando, tanto la empresa aportante de los derechos o acciones de una sociedad chilena como la que recibe el aporte, son entidades constituidas en el exterior y sometidas a jurisdicciones tributarias extranjeras.
+
+Por tanto, atendiendo que el ámbito de aplicación del inciso 5°, del artículo 64 del Código Tributario queda limitado a reorganizaciones cuyos efectos tributarios se producen y agotan íntegramente en el país, el aporte de las referidas acciones podría ser objeto de tasación por parte de este Servicio, cuando el valor asignado a la operación respectiva, resulte ser notoriamente inferior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación.
+
+2.- Por su parte, el artículo 74 N°4 de la Ley sobre Impuesto a la Renta , establece la obligación de practicar la retención de impuesto respectiva, a los contribuyentes que remesen al exterior, retiren, distribuyan, abonen en cuenta, pongan a disposición o paguen rentas o cantidades afectas a Impuesto Adicional. Tal obligación, no distingue si las operaciones se han efectuado entre personas no residentes en el país, por tanto, cumplidos los supuestos que establece, deberá efectuarse la retención que ella prescribe.
+
+De acuerdo al tenor del artículo 74 N°4, uno de sus presupuestos básicos es que exista una remesa al exterior, retiro, distribución, abono en cuenta, puesta a disposición del interesado o pago de una renta o cantidad, comprendiéndose dentro del concepto de "pago" de una renta también aquellos casos en que la obligación se cumple por alguna de las formas alternativas al pago efectivo contempladas en el Código Civil, tales como la compensación, novación, confusión, etc., generado por una operación sometida a la tributación ya señalada, cuestión que ocurriría en la especie.
+
+Ahora bien, la tasa con la cual corresponde practicar la retención de impuesto, depende de si la operación de enajenación queda sujeta al régimen de Impuesto de Primera Categoría en carácter de impuesto único a la renta, o al régimen general de tributación, esto es, Impuesto de Primera Categoría e Impuesto Adicional, y si puede o no determinarse el mayor valor.
+
+En el primer caso, tratándose de operaciones afectas al Impuesto de Primera Categoría en carácter de impuesto único a la renta, la retención se efectuará con una tasa provisional de 5% sobre el total de la cantidad a remesar, sin deducción alguna, salvo que pueda determinarse el mayor valor afecto a impuesto, en cuyo caso la retención se practicará con la tasa del Impuesto de Primera Categoría sobre dicho mayor valor.
+
+Tratándose de operaciones sujetas al régimen general, Impuesto de Primera Categoría e Impuesto Adicional, la retención se efectuará con una tasa provisional igual a la diferencia entre las tasas de Impuesto Adicional y del Impuesto de Primera Categoría vigentes a la fecha de enajenación, sobre las cantidades a remesar al exterior, salvo que pueda determinarse el mayor valor afecto a impuesto, en cuyo caso la retención se practicará con una tasa de 35%.
+
+Lo anterior, es sin perjuicio de que el contribuyente opte por solicitar previamente a este Servicio que se determine el mayor valor en la operación referida, conforme a lo dispuesto en el inciso 8°, del N°4, del artículo 74 de la Ley sobre Impuesto a la Renta, o bien, el adquirente de las acciones opte por no efectuar la retención, cuando se acredite en la forma que establezca este Servicio mediante resolución, que en la operación respectiva no hubo un mayor valor o hubo una pérdida para el contribuyente, conforme a lo establecido en el inciso 10°, del N°4, del artículo 74 de la misma Ley.
+
+III.- CONCLUSIONES.
+
+El aporte de acciones de una sociedad anónima chilena, efectuada por una sociedad extranjera a otra entidad constituida en el exterior, no cumple los supuestos básicos exigidos por el inciso 5°, del artículo 64 del Código Tributario comentado anteriormente, pudiendo este Servicio ejercer la facultad de tasación establecida en el inciso 3° de la referida norma, cuando el valor asignado en la operación respectiva resulte notoriamente inferior al corriente en plaza o al que normalmente se cobre en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación.
+
+Por otra parte, de acuerdo a los antecedentes descritos en su presentación, el adquirente de las acciones deberá practicar la retención de impuestos establecida en el artículo 74 N°4, en los casos que corresponda efectuarla, conforme a lo dispuesto en el N°2, del Título II anterior.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 2156, de 03.10.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos.

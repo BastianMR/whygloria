@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2386 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, ART. 24 TRANSITORIO, NUMERAL 1° – OFICIO N° 1934, DE 2015. (ORD. N° 2386, DE 21.09.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja2386.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja2386.doc"
+materia: "renta"
+fecha: "2015-09-21"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, ART. 24 TRANSITORIO, NUMERAL 1° – OFICIO N° 1934, DE 2015. (ORD. N° 2386, DE 21.09.2015)
+
+CONSULTA SOBRE ANTECEDENTES Y DOCUMENTACIÓN DE RESPALDO PARA EFECTOS DE ACOGERSE AL ARTÍCULO 24° TRANSITORIO DE LA LEY N° 20.780.
+
+Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando se aclaren algunas materias relacionadas con los antecedentes y documentos de respaldo necesarios para los efectos de acogerse al sistema voluntario de declaración establecido en el artículo 24° transitorio de la Ley N° 20.780.
+
+I ANTECEDENTES
+
+Tras citar la parte pertinente del artículo 24 transitorio, número 1, de la Ley N° 20.780, así como las instrucciones impartidas por este Servicio mediante la Circular N° 8 de 2015, Capítulo II, número 1, párrafo final y número 5 de la “Introducción”, párrafo tercero, el peticionario solicita confirmar, corregir o complementar lo siguiente:
+
+1) Que la exigencia relativa a los antecedentes y documentación de respaldo sobre bienes o rentas declarados no tienen un fin recaudatorio o tributario en sí mismo, sino que sólo tienen por objeto evitar el lavado de activos y financiamiento del terrorismo y crimen organizado, así como evitar que se declaren bienes o rentas de terceros mediante la interposición de testaferros u otros intermediarios.
+
+2) Que el hecho que tales bienes o rentas hayan sido custodiadas, depositadas o invertidas en o a través de bancos internacionales de conocido prestigio, por sí sólo, es un antecedente muy importante para presumir que tales rentas no tienen relación con el lavado de activos ni con el terrorismo, ya que tales bancos tienen procedimientos y regulaciones detalladas al respecto, por lo que en estos casos, salvo que existan antecedentes para presumir que se trata de bienes o rentas de terceros, los requisitos de origen y trazabilidad se entenderían cumplidos.
+
+3) Que en caso que, por cualquier razón, los antecedentes y documentación de respaldo no permitan acreditar fehacientemente el origen y trazabilidad, tales insuficiencias documentarias no generarán automáticamente el quedar excluidos del sistema, sino que tal exclusión por motivos de origen y/o trazabilidad sólo ocurrirá (i) cuando existan antecedentes para presumir que tienen relación con el lavado de activos o con el terrorismo; y, (ii) cuando existan antecedentes que permitan presumir que el contribuyente está intentando declarar bienes o rentas de terceros actuando como testaferro o intermediario.
+
+II ANÁLISIS
+
+Como cuestión previa, y antes de analizar las consultas formuladas en su presentación, cabe señalar que varias de ellas han sido precisadas en el Oficio Ordinario N° 1934, de fecha 27.07.2015, publicado en la página web de este Servicio, en el portal especial sobre la reforma tributaria https://www.sii.cl/portales/reforma_tributaria/index.html#&panel1-1.
+Luego, a la luz del texto legal, las instrucciones contenidas en la Circular N° 8 y el citado Oficio Ordinario N° 1934, este Servicio puede informar lo siguiente:
+
+1) Respecto de su primera consulta, atendido que reproduce en lo esencial lo instruido en la Circular N° 8, no es necesario ahondar en ella, salvo para precisar que los resguardos contemplados en la ley no son “sólo para” ciertos fines sino “en especial” para a) proteger la aplicación de las normas relativas a la prevención y combate de los delitos de lavado de activos, financiamiento del terrorismo y del crimen organizado, y b) evitar que a través de este sistema se declaren bienes o rentas de terceros mediante la interposición de testaferros u otros intermediarios.
+
+2) En cuanto al segundo criterio, y tal como se precisa en el Oficio Ordinario N° 1934 de 2015, a propósito de los cambios de propiedad, fusiones o ventas de cartera de bancos extranjeros, si tales instituciones se encuentran en jurisdicciones que cumplen los estándares que el propio artículo 24 transitorio fija para prevenir el uso de este sistema como mecanismo destinado al lavado de activos, esa circunstancia “también constituye un elemento relevante que junto a la declaración y los documentos respectivos, debe ser ponderado a los efectos de determinar la razonable trazabilidad señalada.”
+
+Luego, y respecto de su consulta, no basta que los bienes o rentas hayan sido custodiados, depositados o invertidos en o a través de bancos internacionales de “conocido prestigio”, sino además que cumplan ciertos estándares fijados por ley.
+Por otra parte, admitido que se trata de un antecedente importante para inferir que las rentas no tienen relación con el lavado de activos ni con el terrorismo, no es posible confirmar anticipadamente que el sólo hecho de estar los bienes o rentas custodiados, depositados o invertidos en o a través de los bancos internacionales antes indicados permita dar por cumplidos los requisitos de origen y trazabilidad. Lo anterior constituye un juicio que necesariamente debe adoptarse caso a caso, dependiendo de las circunstancias y antecedentes expuestos en la declaración.
+
+3) Respecto de la tercera consulta, cabe precisar que si no es posible acreditar el origen y trazabilidad de los bienes o rentas, no es posible – por definición – acogerse al sistema por incumplirse un requisito de fondo. Otra cosa, en cambio, es que “existan antecedentes” para presumir que los bienes o rentas tienen relación con el lavado de activos o con el terrorismo; o que el contribuyente está intentando declarar bienes o rentas de terceros actuando como testaferro o intermediario.
+
+Ahora bien, en cuanto al estándar exigido para acreditar el origen y trazabilidad de los bienes o rentas, el oficio ordinario ya citado precisa que la documentación por acompañar debe considerar un tiempo suficiente para formar una convicción respecto de los hechos que se pretenden probar por su medio. En otras palabras, y dado el concepto de “trazabilidad razonable”, no existen reglas rígidas sobre los antecedentes que se deben acompañar ni el plazo que deben comprender, siendo el primer y más relevante elemento de trazabilidad la propia declaración del contribuyente, respaldada con antecedentes de distinta naturaleza, generalmente de carácter documentario, que otorguen verosimilitud a su relato.
+
+III CONCLUSIÓN
+
+En base a lo dispuesto en el artículo 24 transitorio de la Ley N° 20.780, las instrucciones contenidas en la Circular N° 8, el Oficio Ordinario N° 1934, de fecha 27.07.2015, y lo expuesto en el análisis precedente, ténganse por absueltas las consultas formuladas en su presentación.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2386, de 21.09.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

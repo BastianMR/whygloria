@@ -1,0 +1,5 @@
+source: oficio-iva-1973.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1973.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja1973.doc
+materia: iva
+retrieved: 2026-11-11

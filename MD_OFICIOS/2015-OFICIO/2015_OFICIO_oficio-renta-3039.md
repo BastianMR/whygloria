@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 3039 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA– ART. 42 TER – DECRETO LEY N° 3.500, ART. 71 – LEY N° 19.768, ART 2°, N°9, ART. 6° TRANSITORIO. (ORD. N° 3039, DE 27.1..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3039.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3039.doc"
+materia: "renta"
+fecha: "2015-11-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA– ART. 42 TER – DECRETO LEY N° 3.500, ART. 71 – LEY N° 19.768, ART 2°, N°9, ART. 6° TRANSITORIO. (ORD. N° 3039, DE 27.11.2015)
+
+TRIBUTACIÓN DE LOS RETIROS DE EXCEDENTES DE LIBRE DISPOSICIÓN EN LA SITUACIÓN QUE SE INDICA.
+
+I.- ANTECEDENTES.
+
+Una asesora previsional y corredora de seguros requirió a esa Superintendencia un pronunciamiento relativo al régimen tributario que afecta a un afiliado que retiró excedentes de libre disposición (ELD), cuando producto de su primer retiro agotó el total del saldo de sus cotizaciones voluntarias enteradas con anterioridad al 7 de noviembre de 2001, por lo que sólo dispone de saldo en sus cuentas de capitalización individual con cargo a cotizaciones obligatorias y en la de depósitos convenidos, éstos últimos enterados también con anterioridad al 7 de noviembre de 2001. El referido primer retiro de ELD se acogió al beneficio establecido en el artículo 6° transitorio de la Ley N°19.768, esto es, al régimen tributario del ex artículo 71 del D.L. N°3.500, de 1980.
+
+Manifiesta que el artículo 6° transitorio de la Ley N°19.768, dispone que cuando se ha optado por acoger los recursos originados en cotizaciones voluntarias enteradas antes del 7 de noviembre de 2001, al régimen indicado en el ex artículo 71 del D.L. N°3.500, los recursos originados en depósitos convenidos enterados con anterioridad a dicha fecha no pueden ser retirados como ELD, por lo que sólo pueden ser retirados como pensión.
+
+En este caso, señala, en circunstancias que un afiliado pensionado que hasta el 7 de noviembre de 2001 no había realizado retiros de ELD, los que efectuó a contar del 1° de marzo de 2002, con cargo a cotizaciones obligatorias -enteradas antes o después del 7 de noviembre de 2001- el tratamiento tributario aplicable es el establecido en el artículo 42 ter de la LIR, sin que le resulte aplicable el requisito de antigüedad establecido en el inciso 2° de esta última disposición.
+
+En opinión de esa entidad, a los retiros de ELD efectuados a contar del 1° de marzo de 2002, con cargo a recursos originados en cotizaciones obligatorias enteradas antes del 7 de noviembre de 2001, no les resulta aplicable lo dispuesto en el inciso 2° del artículo 6° transitorio de la Ley N°19.768, ya que la opción de acoger los retiros de ELD al régimen establecido en el ex-artículo 71 del D.L. N°3.500 sería exclusiva para las cotizaciones voluntarias efectuadas antes del 7 de noviembre de 2001.
+
+De este modo, al no mencionar las cotizaciones obligatorias dentro del artículo 6° transitorio de la Ley N°19.768, hace posible concluir que la parte del excedente que se financie con este tipo de cotizaciones se rige por el artículo 42 ter de la LIR, con la exención allí señalada. Indica que tal conclusión que se ve ratificada por el hecho que este Servicio, en la letra e) del N° 4, del Capítulo III, de la Circular N°23 del año 2002, dispuso que los recursos que no pueden acogerse a las modalidades libres de impuesto de los retiros que establece el 42 ter, son aquellos correspondientes a los depósitos convenidos. En el mismo sentido concluye el Oficio N°4.177, de 2003, de este Servicio, al afirmar que los retiros que efectúe el afiliado con cargo a cotizaciones obligatorias como voluntarias efectuados a contar de la fecha de vigencia de la Ley N° 19.768, esto es, 1° de marzo de 2002 se rigen por el artículo 42 ter de la LIR.
+
+Por lo anterior, teniendo en consideración que la materia analizada es de índole tributaria, requiere un pronunciamiento de este Servicio.
+
+II.- ANÁLISIS.
+
+Sobre el particular, analizados los antecedentes aportados, se desprende que la tributación que interesa determinar es la de los retiros de ELD financiados con cargo a cotizaciones obligatorias y depósitos convenidos enteradas antes del 7 de noviembre de 2001, cuando un primer retiro de ELD efectuado después del 1° de marzo de 2002 agotó el total del saldo de cotizaciones voluntarias enteradas antes de la fecha señalada, y por el cual el contribuyente se acogió al régimen establecido en el ex artículo 71 del D. L. N° 3.500, por aplicación del artículo 6 transitorio de la Ley N° 19.768.
+Al respecto, cabe recordar que el N° 9, del artículo 2° de la Ley N°19.768, reemplazó el artículo 71 del D.L. N°3.500, disponiendo que los retiros de excedente de libre disposición que se generen por opción de los afiliados que se pensionen, estarán afectos a un impuesto que se calculará y se pagará según lo dispuesto en el artículo 42 ter de la LIR. Como regla general, dicho tratamiento tributario resulta aplicable a todos los retiros de ELD que se efectúen a partir del 1 de marzo de 2002, fecha en que entró en vigencia el referido artículo, con la sola excepción de aquella parte que corresponda a recursos originados en depósitos convenidos que tributará de acuerdo con el artículo 42 quáter del mismo texto legal.
+Por su parte, el artículo 6° transitorio de la Ley N°19.768, preceptúa que los contribuyentes que con anterioridad al 7 de noviembre de 2001 (fecha de publicación de la referida Ley), mantengan recursos en sus cuentas de capitalización individual por concepto de cotizaciones voluntarias, podrán optar por mantener el régimen del artículo 71 del D.L. N°3.500, de acuerdo a su texto vigente con anterioridad a las modificaciones de la Ley N°19.768, para los efectos de determinar el impuesto a la renta aplicable al retiro del excedente de libre disposición que se realice con cargo a esos recursos.
+De acuerdo con lo expuesto, tratándose de contribuyentes pensionados que efectúen retiros de ELD financiados con cargo a cotizaciones obligatorias enteradas antes del 7 de noviembre de 2001, no pueden gozar del beneficio establecido en el artículo 6° transitorio de la Ley N° 19.768, sino que les resulta aplicable lo dispuesto en el artículo 42 ter de la LIR. En consecuencia, se comparte la conclusión a que arriba esa Superintendencia, en el sentido que un afiliado que hasta la fecha de publicación de la Ley N°19.768, no había efectuado retiros de ELD, retiros que sólo realiza a contar del 1° de marzo de 2002, con cargo a cotizaciones obligatorias, enteradas antes o después del 7 de noviembre de 2001, su tributación ante las obligaciones establecidas en la LIR se rige por el artículo 42 ter de ese texto legal.
+En otro orden de ideas, respecto a los retiros de ELD originados en depósitos convenidos con el empleador, enterados antes del 7 de noviembre de 2001, cabe recordar que el artículo 6° transitorio de la Ley N°19.768 preceptúa que si se opta por mantener el régimen del artículo 71 del D.L. N°3.500 –respecto de las cotizaciones voluntarias- los recursos originados en depósitos convenidos realizados con anterioridad a la publicación de la Ley N° 19.768 no podrán ser retirados como ELD, circunstancia que esa Superintendencia ratificó en su Oficio N°019494 de 2004 y mediante la presente consulta, disponiendo que sólo pueden retirarse vía pensión .
+
+III.- CONCLUSIÓN.
+
+De acuerdo con lo señalado precedentemente, tratándose de contribuyentes pensionados que efectúan retiros de ELD a contar del 1° de marzo de 2002, financiados con cargo a cotizaciones obligatorias enteradas antes del 7 de noviembre de 2001, no pueden gozar del beneficio establecido en el artículo 6° transitorio de la Ley N° 19.768, sino que les resulta aplicable lo dispuesto en el artículo 42 ter de la LIR, salvo el requisito de antigüedad establecido en el inciso 2° de esta última disposición. Respecto a los retiros de ELD originados en depósitos convenidos con el empleador enterados antes del 7 de noviembre de 2001, cabe tener presente que el artículo 6° transitorio de la Ley N°19.768 preceptúa que si se opta por mantener el régimen del artículo 71 del D.L. N°3.500, los recursos originados en depósitos convenidos realizados con anterioridad a la publicación de la Ley N° 19.768 no podrán ser retirados como ELD, sino que sólo pueden retirarse vía pensión.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 3039, de 27.11.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

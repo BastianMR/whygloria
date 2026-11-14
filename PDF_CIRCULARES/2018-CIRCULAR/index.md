@@ -58,6 +58,6 @@
 * [circu56.pdf](./circu56.pdf)
 * [circu57.pdf](./circu57.pdf)
 * [circu58.pdf](./circu58.pdf)
-* [circu58.zip](./circu58.zip)
+* [circu58.source.txt](./circu58.source.txt)
 * [circu59.pdf](./circu59.pdf)
 * [circu60.pdf](./circu60.pdf)

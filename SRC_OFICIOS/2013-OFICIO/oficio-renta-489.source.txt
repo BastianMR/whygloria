@@ -1,0 +1,5 @@
+source: oficio-renta-489.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja489.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja489.doc
+materia: renta
+retrieved: 2026-11-11

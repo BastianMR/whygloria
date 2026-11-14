@@ -1,0 +1,62 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1209 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21 – LEY N° 20.780, DE 2014, ART. 5 – DECRETO LEY N° 2..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1209.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1209.doc"
+materia: "iva"
+fecha: "2016-05-03"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21 – LEY N° 20.780, DE 2014, ART. 5 – DECRETO LEY N° 2552, DE 1979, ART. 3 – OFICIOS N° 2074 Y N°2552, DE 2012. (ORD. N° 1209, DE 03.05.2016)
+
+APLICACIÓN DEL ARTÍCULO 21 DEL DL N° 910 DE 1975, EN LA INSTALACIÓN DE COLECTORES SOLARES.
+
+I ANTECEDENTES
+
+De acuerdo a los antecedentes, esa Dirección Regional recibió una presentación de la empresa XXXXX E.I.R.L, donde expone que se trata de un contratista del SERVIU de la TTTT y ejecuta subsidios de mejoramiento de vivienda Título II, que se pueden acoger al beneficio del artículo 21 del DL N° 90 (sic), de 1975.
+
+Agrega que, hace poco está ejecutando la instalación de colectores solares, los cuales también son subsidios entregados en el Título II. Por esos trabajos no se les ha informado por parte del SERVIU la aplicación del beneficio del 65%, habiendo emitido a la fecha dos facturas y pagado el impuesto de 19% completamente.
+
+Por lo expuesto, el peticionario solicita se le indique los requisitos para acceder a ese beneficio.
+
+Al respecto, esa Dirección Regional confirma que el contribuyente presta servicios como contratista al Servicio de la Vivienda y Urbanismo de la II Región y está ejecutando subsidios de mejoramiento de viviendas Título II, acogido al beneficio tributario contenido en el artículo 21 del DL N° 910 de 1975.
+
+Tras referir la legislación aplicable y las instrucciones impartidas por este Servicio en la Circular N° 50 de 2010, para la aplicación del crédito establecido a favor de las empresas constructoras que instalen sistemas solares térmicos en las viviendas que construyan, esa Dirección Regional concluye que en la especie no sería aplicable lo dispuesto en el artículo 21 del DL N° 910 de 1975, por cuanto no establece beneficios tributarios relativos a la incorporación de sistemas solares térmicos. Estima que tampoco serían aplicables las normas contenidas en la Ley N° 20.365 por cuanto no contempla la aplicación del beneficio del 65% en la instalación de colectores solares.
+
+Dado que no existen instrucciones sobre la materia, remite los antecedentes de conformidad a lo establecido en la Circular N° 71 de 2001.
+
+II ANÁLISIS
+
+El artículo 21, inciso primero, del DL N° 910 de 1975 y tras las modificaciones introducidas por el artículo 5° de la Ley N° 20.780, establece que “las empresas constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo valor no exceda de 2.000 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco) unidades de fomento por vivienda, y en los contratos generales de construcción de dichos inmuebles que no sean por administración, con igual tope por vivienda, de acuerdo con las disposiciones del DL N° 825, de 1974.”
+
+Por su parte, el inciso cuarto del referido artículo establece que, “excepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se refiere el artículo 3° del DL N° 2.552, de 1979, del Ministerio de la Vivienda y Urbanismo, el beneficio dispuesto en el inciso primero no será aplicable a los contratos de ampliación, modificación, reparación o mantenimiento, ni aún en los casos que pudieran implicar la variación de la superficie originalmente construida, como tampoco a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos.”
+A partir del texto legal transcrito, y en la parte que interesa, este Servicio ha señalado que el beneficio establecido en el artículo 21 del DL N° 910 de 1975 es aplicable, por excepción, a los contratos de ampliación, modificación, reparación o mantenimiento y a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos, siempre que esos contratos recaigan exclusivamente en viviendas sociales a que se refiere el artículo 3°, del DL N° 2.552, de 1979, del Ministerio de la Vivienda y Urbanismo.
+
+Luego, en el entendido que las denominadas “viviendas Título II” a que alude la presentación sean de aquellas viviendas sociales a que se refiere el artículo 3°, del DL N° 2.552, de 1979, del Ministerio de la Vivienda y Urbanismo, resta todavía determinar si los contratos para la instalación de sistemas solares térmicos o colectores solares, como los denomina la empresa recurrente, pueden calificarse como contratos de ampliación, modificación, reparación o mantenimiento de viviendas sociales para los efectos del beneficio en cuestión.
+
+Al respecto, se informa que el concepto de “contratos de ampliación, modificación, reparación o mantenimiento” cubre un campo diverso de especialidades en la construcción. Así, por ejemplo, se ha estimado que cumple ese requisito un contrato para la confección e instalación de rejas, además de pintura de fachadas de viviendas .
+
+De este modo, en el contexto indicado, la instalación de sistemas solares térmicos o de colectores solares puede considerarse como una entre varias especialidades de la construcción, que implican una modificación de la vivienda primitiva y, por tanto, los contratos que se celebren para su instalación se encuentran beneficiados de la franquicia.
+
+III CONCLUSIÓN
+
+De lo expuesto anteriormente, y en la medida que las “viviendas Título II” a que alude la presentación sean de aquellas viviendas sociales a que se refiere el artículo 3°, del DL N° 2.552, de 1979, del Ministerio de la Vivienda y Urbanismo, los contratos para la instalación de colectores solares en dichas viviendas pueden acogerse a los beneficios tributarios contemplados en el artículo 21 del DL N° 910 de 1975.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1209, de 03.05.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

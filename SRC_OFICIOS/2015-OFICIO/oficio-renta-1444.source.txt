@@ -1,0 +1,5 @@
+source: oficio-renta-1444.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1444.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1444.doc
+materia: renta
+retrieved: 2026-11-11

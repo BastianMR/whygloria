@@ -1,0 +1,96 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 3195 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, DE 2014, ART. 24 TRANSITORIO. (ORD. N° 3195, DE 17.12.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3195.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3195.doc"
+materia: "renta"
+fecha: "2015-12-17"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.780, DE 2014, ART. 24 TRANSITORIO. (ORD. N° 3195, DE 17.12.2015)
+
+CONSULTA CRITERIOS SOBRE APLICACIÓN DEL ARTÍCULO 24° TRANSITORIO DE LA LEY N° 20.780.
+
+Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando se aclaren algunos criterios sobre el sistema voluntario de declaración establecido en el artículo 24° transitorio de la Ley N° 20.780.
+
+I ANTECEDENTES
+
+Tras citar las partes pertinentes del artículo 24° transitorio (en adelante, “artículo 24° transitorio”) y de las instrucciones administrativas impartidas por este Servicio mediante la Circular N° 8 y Oficio N° 1934, ambos de 2015, su presentación expone:
+
+a) Una persona natural (“contribuyente”), con domicilio y residencia tributaria en Chile al 31.12.2013, tiene una cuenta personal y dos cuentas a nombre de una sociedad en las Islas Vírgenes Británicas ("Sociedad BVI") desde hace más de 8 años, las cuales no ha incorporado en sus declaraciones en Chile. Todas estas cuentas se encuentran en un banco en la ciudad de Nueva York (“Banco NY”), Estados Unidos de Norteamérica.
+
+b) Adicionalmente, el contribuyente es socio en una sociedad de responsabilidad limitada operativa chilena (“Sociedad Chilena”).
+
+c) En el mes de septiembre de 2015 las cuentas de la Sociedad BVI tenían aproximadamente USD 13.000.000, de los cuales gran parte fue transferido a su cuenta personal en el Banco NY.
+
+d) Posteriormente, en el mes de octubre del 2015, el contribuyente hizo una devolución parcial de los fondos a la Sociedad BVI, transfiriendo aproximadamente USD 10.600.000 desde su cuenta personal en el Banco NY a las dos cuentas bancarias extranjeras de la Sociedad BVI.
+
+e) En el mismo mes de octubre de 2015, y con posterioridad a la recepción de los USD 10.600.000 referidos en la letra anterior, la Sociedad BVI pagó una deuda por aproximadamente USD 1.000.000.- que la Sociedad Chilena tenía con una institución bancaria extranjera, deuda que estaba debidamente contabilizada como pasivo por la Sociedad Chilena.
+Con el objeto de regularizar su situación tributaria, el contribuyente desea confirmar los siguientes criterios:
+
+1) Que, a pesar de haber efectuado las transferencias antes descritas, la situación del contribuyente cumple con la calificación de “bien adquirido con anterioridad al 31 de diciembre de 2013” respecto del cual puede acogerse a la declaración del artículo 24° transitorio.
+
+2) Que, para efectos del cálculo de la base imponible del impuesto único del artículo 24° transitorio, debe considerarse los cerca de USD 13.000.000 referidos en la letra (c) del acápite B anterior, más los consumos efectuados dentro de los últimos años, de acuerdo a lo indicado en el Acápite I N°3 letra (c) de la Circular N°8 de 2015.
+
+3) Que, debido a que el impuesto de 8% del artículo 24° transitorio es un impuesto que se aplica en carácter de único, en caso que el contribuyente presente la Declaración Extraordinaria a que se refiere el Formulario 1920, y tal declaración sea aceptada en definitiva, el contribuyente deberá pagar el Impuesto Global Complementario respecto del AT 2016 sobre todas sus otras rentas, locales o extranjeras generadas durante el año calendario 2015, con exclusión de las correspondientes a la base imponible del artículo 24° transitorio referidos en el número 2 anterior.
+
+4) Que, en consecuencia, ni las cantidades transferidas desde la Sociedad BVI a su cuenta personal en el Banco NY (que parcialmente fueron devueltas a la Sociedad BVI), ni los otros fondos que tuvieron un destino distinto a tal devolución, deben afectarse con el Impuesto Global Complementario a nivel del contribuyente.
+
+A continuación, y en el mismo orden de presentación, se absuelven las consultas formuladas
+
+II ANÁLISIS
+
+1) Bienes que se pueden declarar: adquiridos con anterioridad al 31.12.2013.
+Sin perjuicio que el artículo 24° transitorio consulta un sistema de declaración voluntaria de ciertos bienes y rentas a su valor comercial o de mercado a la fecha de la declaración, de acuerdo al numeral 7.- del precepto legal citado, se debe tener presente que:
+
+a) Sólo pueden acogerse “los bienes o derechos que el contribuyente acredite fehacientemente haber adquirido con anterioridad al 1 de enero del 2014 y las rentas que provengan de tales bienes, ello sin perjuicio de la obligación de cumplir en el futuro con los impuestos y demás obligaciones que pudieran afectar a tales bienes o rentas conforme a las normas legales que les sean aplicables, para efectos de índole aduanera, cambiaria, societaria, de mercado de valores, entre otras.” (artículo 24° transitorio, numeral 3.2., sobre fecha de adquisición de los bienes).
+
+b) Pueden declararse “bienes incorporales muebles nominativos, tales como acciones o derechos en sociedades constituidas en el extranjero, o el derecho a los beneficios de un trust o fideicomiso. Se incluye también, dentro de esta categoría, toda clase de instrumentos financieros o valores, tales como bonos, cuotas de fondos, depósitos, y otros similares, que sean pagaderos en moneda extranjera.” (artículo 24° transitorio, numeral 3.1. letra a).
+
+c) El contribuyente puede ser titular de los bienes o rentas que se encuentren en el exterior directamente o ejercer sus derechos indirectamente o a través de entidades como trusts, encargos fiduciarios, fundaciones o mandatarios, etc. De este modo, en el caso analizado y tratándose de fondos mantenidos o depositados en cuentas en bancos o entidades financieras extranjeras, el contribuyente puede declarar tanto los fondos que tiene en una cuenta personal, como también aquellos respecto de los cuales es beneficiario final, por intermedio de una sociedad constituidita en BVI.
+
+En consecuencia, y respecto de la primera consulta, se confirma que el contribuyente debe acreditar que era titular de los fondos declarados, a lo menos, con anterioridad al 01.01.2014.
+Asimismo, en principio son irrelevantes los movimientos de cuentas verificados con posterioridad al 31.12.2013, especialmente si se trata de meros desplazamientos de fondos o movimientos contables desde una cuenta a otra, todas pertenecientes o a disposición del mismo titular (contribuyente).
+
+2) Cálculo de la base imponible del impuesto único.
+Conforme lo expuesto en el punto anterior, es posible considerar como formando parte de la base de cálculo del impuesto los cerca de USD 13.000.000, en la medida que ese monto incluya lo que tenía al 31.12.2013, más los rendimientos a la fecha que se indica, excluyendo las rentas adquiridas a partir 01.01.2015.
+
+Refuerza lo anterior lo dispuesto en el artículo 24° transitorio, numero 3.1.-, letra c), y lo instruido en la Circular N° 8 de 2015, número 5, párrafo final, en el sentido que si los fondos depositados al 31.12.2013 produjeron intereses, podrá incluir en su declaración los intereses respecto de los cuales el contribuyente haya estado o esté obligado a declarar y/o pagar impuestos en Chile, “en el año tributario 2015”.
+Luego, no corresponde incluir como si fuesen “bienes” los intereses provenientes de los depósitos y obtenidos entre el 01.01.2015 y septiembre de 2015, por corresponder a rentas que el contribuyente está obligado a declarar y/o pagar impuestos en Chile en el AT 2016.
+Las mismas reglas anteriores se aplican a las rentas consumidas. En consecuencia, como instruye la Circular N° 8 de 2015, si las rentas han sido destinadas al consumo por el contribuyente, de forma tal que ya no se encuentran formando parte de los activos que conforman su patrimonio, se confirma poder declararlas separadamente de los bienes de que se trate e incorporarlas en el inventario.
+
+3) Rentas afectas al Impuesto Global Complementario (AT 2016).
+Consistente con lo señalado en la respuesta anterior y su propia consulta, se confirma que el contribuyente deberá pagar el Impuesto Global Complementario respecto del AT 2016 sobre todas sus rentas, locales o extranjeras generadas durante el año calendario 2015, con exclusión de las correspondientes a la base imponible del artículo 24° transitorio en los términos indicados precedentemente.
+
+4) Cantidades transferidas o devueltas que no se afectan con el Impuesto Global Complementario a nivel del contribuyente
+Como se informó a propósito de su primera pregunta, en principio son irrelevantes los movimientos de cuentas verificados con posterioridad al 31.12.2013, especialmente si se trata de meros desplazamientos de fondos, devoluciones o movimientos contables desde una cuenta a otra, todas pertenecientes o a disposición del mismo titular (contribuyente), de suerte que no pueden considerarse como nuevas rentas afectas con el Impuesto Global Complementario a nivel del contribuyente, sino más bien meros cambios en la composición de sus activos.
+
+Con todo, sí deben afectarse con el referido impuesto las cantidades que provengan de rentas obtenidas durante el año comercial 2015, no porque correspondan a “transferencias” o devoluciones, sino porque se encuentran fuera del ámbito de aplicación del artículo 24° transitorio.
+
+III CONCLUSIÓN
+
+Conforme lo expuesto precedentemente, se informa que:
+a) El contribuyente debe acreditar que era titular de los fondos declarados, a lo menos, con anterioridad al 01.01.2014.
+b) Es posible considerar como formando parte de la base de cálculo del impuesto los cerca de USD 13.000.000, en la medida que ese monto incluya lo que tenía al 31.12.2013, más los rendimientos a la fecha que se indica, excluyendo las rentas adquiridas a partir 01.01.2015.
+c) El contribuyente deberá pagar el Impuesto Global Complementario respecto del AT 2016 sobre todas sus rentas, locales o extranjeras generadas durante el año calendario 2015, con exclusión de las correspondientes a la base imponible del artículo 24° transitorio en los términos indicados precedentemente.
+
+d) De acuerdo a la situación de hecho descrita en la consulta y por las razones indicadas en el análisis, en principio son irrelevantes los movimientos de cuentas verificados con posterioridad al 31.12.2013.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 3195, de 17.12.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

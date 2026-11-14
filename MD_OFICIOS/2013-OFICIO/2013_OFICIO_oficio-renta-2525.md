@@ -1,0 +1,55 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2525 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, N°2, ART. 39°, N°4. (ORD. N° 2525, DE 05.12.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2525.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2525.doc"
+materia: "renta"
+fecha: "2013-12-05"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20°, N°2, ART. 39°, N°4. (ORD. N° 2525, DE 05.12.2013)
+
+CLASIFICACIÓN Y TRIBUTACIÓN DE RENTAS OBTENIDAS POR SOCIEDAD INMOBILIARIA.
+
+I.- ANTECEDENTES.
+Por presentación indicada en el antecedente, plantea la situación de las sociedades inmobiliarias no agrícolas (reguladas en el artículo 20 N°1 letra d) de la Ley sobre Impuesto a la Renta (LIR), que tienen por único objeto la inversión en capitales inmobiliarios, pero que tangencial y esporádicamente, atendidas las características propias del negocio, tienen capitales mobiliarios que generan intereses.
+Expone que a su entender, la obtención de rentas por tenencia esporádica y marginal de instrumentos financieros no altera la tributación de dichas sociedades, pues su objeto exclusivo es la obtención de rentas de capitales inmobiliarios, es decir, se trata de aquellas sociedades reguladas en el artículo 20 numeral primero de la LIR, que estarían contempladas en la exención del numeral 4 del artículo 39 de la misma ley, pues la contraexcepción del inciso final solo afecta a las sociedades del artículo 20 números 3, 4 y 5.
+Agrega que existe la idea que dichas sociedades, para los efectos del pago de impuesto, se clasifican dentro de lo que se denomina “sociedades de inversión o capitalización” (artículo 20 N°3 LIR), por lo que de acuerdo con el inciso final del artículo 39 no se encontrarían dentro de las exenciones que contempla la norma, y por tanto, sujetas a pagar Impuesto de Primera Categoría.
+Sin embargo, argumenta, el artículo 20 N°3 señala que están sujetos al pago del Impuesto de Primera Categoría las “sociedades de inversión o capitalización”, sociedades cuyo objeto exclusivo es obtener rentas por capitales mobiliarios derivadas del dominio, posesión o tenencia a título precario de activos netamente financieros. Se trata, entonces, de objetos absolutamente opuestos, a saber, las rentas provenientes de la inversión en capitales inmobiliarios y por otra parte, las rentas provenientes de capitales mobiliarios financieros.
+Por lo demás, señala, la redacción del artículo 20 N°3 utiliza la conjunción “o” (sociedades de inversión o capitalización) haciendo sinónimos para todos los efectos legales la sociedad de inversión y la sociedad de capitalización, y dichas sociedades de inversión o capitalización también estarían dentro de la exención del artículo 39 de la LIR, ya que tal categoría de sociedades se encuentra extinta por derogación expresa de la Ley de Sociedades Anónimas, la que en su artículo décimo transitorio señala: "las sociedades de capitalización actualmente existentes, distintas de las sociedades administradoras de fondos mutuos, deberán adecuar sus estatutos y reglamentos internos a las disposiciones legales y reglamentarias que rigen a las sociedades administradoras de fondos mutuos dentro del plazo de un año contado desde la fecha de vigencia de la presente ley. Si así no lo hicieren, se entenderán disueltas por el solo ministerio de la Ley. En tal caso, la liquidación de la sociedad y del o de los fondos que administre se sujetará a las normas establecidas para las sociedades administradoras de fondos mutuos."
+Por tanto, concluye, las sociedades de capitalización, que la redacción de la LIR hace sinónimas con las de inversión, respecto de rentas provenientes de capitales mobiliarios, en virtud de la Ley de Sociedades Anónimas, se encontrarían derogadas y, consecuentemente, tampoco obligadas al pago del Impuesto de Primera Categoría.
+
+II.- ANÁLISIS.
+Cabe señalar en primer lugar, que el N° 1 del artículo 20 de la LIR establece que se clasifican en dicho número las rentas de bienes raíces, ya sean éstos agrícolas o no agrícolas.
+Por su parte, el N° 2 del citado artículo preceptúa que se clasifican en el referido número las rentas provenientes de capitales mobiliarios consistentes en intereses, pensiones o cualesquiera otros productos derivados del dominio, posesión o tenencia a título precario de cualquiera clase de capitales mobiliarios, sea cual fuere su denominación, y que no estén expresamente exceptuados, enumerando dicha norma una serie de rentas que se comprenden en el mencionado numeral.
+El N° 3 de este mismo artículo establece que se clasifican en dicho número las rentas de la industria, del comercio, de la minería y de la explotación de riquezas del mar y demás actividades extractivas, compañías aéreas, de seguros, de los bancos, asociaciones de ahorro y préstamos, sociedades administradoras de fondos mutuos, sociedades de inversión o capitalización, de empresas financieras y otras de actividad análoga, constructora, periodísticas, publicitarias, de radiodifusión, televisión, procesamiento automático de datos y telecomunicaciones.
+Ahora bien, el inciso final del N° 2 del artículo 20, prescribe que no obstante las rentas clasificadas en dicho número, percibidas o devengadas por contribuyentes que desarrollen actividades de los números 1°, 3°, 4 y 5° del artículo 20, que demuestren sus rentas efectivas mediante un balance general, y siempre que la inversión generadora de dichas rentas forme parte del patrimonio de la empresa, se comprenderán en estos últimos números, respectivamente.
+Por otro lado, el Nº 4 del artículo 39 de la ley del ramo, expresa que estarán exentos del Impuesto de Primera Categoría, los intereses o rentas que provengan, entre otros, de depósitos a plazo en moneda nacional o extranjera y los depósitos de cualquier naturaleza efectuados en empresas bancarias de cualquier naturaleza y en sociedades financieras, agregando dicho artículo, en su inciso final, que la citada liberación tributaria no regirá cuando las rentas provenientes de tales operaciones sean obtenidas por empresas que desarrollen actividades clasificadas en los N°s. 3, 4 y 5 del artículo 20 de la LIR y declaren la renta efectiva.
+Ahora bien, en relación con su planteamiento acerca de la derogación del N°3 del artículo 20 de la LIR, en lo que se refiere a las sociedades de inversión o capitalización, con motivo de la entrada en vigencia de la Ley de Sociedades Anónimas, cuyo artículo 10 transitorio estableció la disolución de las sociedades de capitalización existentes a esa fecha que no adecuasen sus estatutos en la forma que indica, se informa a Ud. que este Servicio no comparte su conclusión.
+La Ley N°18.046 que menciona, no dice relación con lo dispuesto en la norma tributaria citada, y no efectúa derogación expresa ni tácita alguna sobre esta materia. En el mismo sentido, cabe señalar que el N°3 del artículo 20, al mencionar a las sociedades de inversión o capitalización, se está refiriendo a toda sociedad, cualesquiera sea el estatuto jurídico que la regule, cuyo objeto sea precisamente la capitalización o las inversiones, sin restringirse a un tipo de sociedad en específico.
+
+III.- CONCLUSIÓN.
+Aquellas sociedades cuyo objeto sea, o entre los cuales se encuentre la inversión, se clasifican para efectos de su tributación en el número 3 del artículo 20 de la LIR. De esta manera, las rentas del número 2 del artículo 20 que obtengan dichas empresas que demuestren sus rentas efectivas mediante un balance general, y siempre que la inversión generadora de dichas rentas forme parte del patrimonio de la empresa, se comprenderán también en el número 3 del artículo 20.
+No obstante lo anterior, y en relación con su consulta, cabe señalar que en el caso de una sociedad inmobiliaria cuyo único objeto es el desarrollo de actividades clasificadas en el número 1 del artículo 20, pero que tangencial y esporádicamente, atendidas las características propias del negocio, tiene capitales mobiliarios que generan intereses; ese solo hecho aislado no la convierte en una sociedad de inversión, en la medida que la sociedad no destine su capital de trabajo a la inversión y se trate únicamente de la adquisición de estos capitales mobiliarios en forma transitoria, para los efectos de evitar que los flujos de caja de la empresa pierdan valor. En otras palabras, deberá resultar claro y evidente para este Servicio que los montos invertidos en tales valores mobiliarios corresponden indubitablemente a activos disponibles según principio contable y financiero y sus ingresos corresponder a Ingresos No Operacionales, cuestión que deberá ser verificada en las instancias de fiscalización correspondientes.
+En tales condiciones, tratándose de un contribuyente que demuestra sus rentas efectivas mediante un balance general en que la inversión generadora de los intereses a los que se refiere la consulta forma parte de su patrimonio, la sociedad mantiene su identidad como sociedad inmobiliaria de aquellas clasificadas en el N° 1 del artículo 20 de la LIR. Consecuentemente con ello, las rentas por concepto de intereses a que se refiere el párrafo anterior se deben entender comprendidas también como rentas clasificadas en dicho numeral. De acuerdo con ello y en la medida que tales intereses correspondan a aquellas rentas especificadas en el número 4 del artículo 39 de la LIR, se verán beneficiadas por la exención del Impuesto de Primera Categoría que contempla dicha disposición.
+
+Sin perjuicio de lo señalado precedentemente, en el caso en que la sociedad inmobiliaria a que se refiere su consulta no demuestre sus rentas efectivas mediante un balance general -vale decir en los casos en que ésta determine sus rentas en base a un sistema de presunción de rentas (Art. 20 N° 1 letra d)), o se encuentre autorizada a determinarlas de acuerdo con contabilidad simplificada (Art. 68)-, o la inversión generadora de los intereses que señala no forme parte del patrimonio de la misma sociedad inmobiliaria, no resulta aplicable lo dispuesto en el inciso final del N° 2 del artículo 20 de la LIR, por lo que en tales casos las rentas respectivas seguirán entendiéndose para los efectos de dicha Ley como clasificadas en el analizado N° 2 del artículo 20.
+
+ALEJANDRO BURR ORTÚZAR
+DIRECTOR (S)
+
+Oficio N° 2525, de 05.12.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos.

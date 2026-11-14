@@ -1,0 +1,62 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 2064 (2014)"
+description: "DECRETO N° 2940, DE 1965 – OFICIOS N° 2404 DE 2011 Y 1385 DE 2012. (ORD. N° 2064, DE 10.11.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja2064.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja2064.doc"
+materia: "otros"
+fecha: "2014-11-10"
+exenta: false
+impuestos: ["iva", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+DECRETO N° 2940, DE 1965 – OFICIOS N° 2404 DE 2011 Y 1385 DE 2012. (ORD. N° 2064, DE 10.11.2014)
+
+EXENCIONES TRIBUTARIAS PARA PROYECTO ASTRONÓMICO.
+
+I ANTECEDENTES
+De acuerdo a los antecedentes acompañados, mediante Decreto N° 74, de fecha 26.03.2014, del Ministerio de Relaciones Exteriores, se dispuso que “TTTT, con residencia en el Estado de Delaware, Estados Unidos de América, y los científicos, astrónomos, ingenieros técnicos y empleados que ingresen al país en funciones relacionadas con el proyecto denominado “Telescopio YYY”, según el Convenio de Colaboración Científica en Investigaciones Astronómicas suscrito entre TTTT y AAA, estarán sujetos al mismo régimen y gozarán de iguales prerrogativas y facilidades que las establecidas en el Convenio vigente de fecha 6 de noviembre de 1963, celebrado entre el Gobierno de Chile y la Organización Europea para la Investigación Astronómica del Hemisferio Austral (ESO).”
+El Decreto señalado se dictó de acuerdo a las disposiciones legales que rigen el establecimiento en Chile de observatorios extranjeros, contenida en artículo único, inciso tercero, de la ley N° 15.172, cuyo texto vigente se encuentra fijado por el artículo 48 de la ley N° 17.318 y el DFL N° 161 de 1978, del Ministerio de Relaciones Exteriores.
+II ANÁLISIS
+Como primera cuestión es importante señalar que las normas legales referidas son de carácter permanente y se aplican respecto de cualquier organismo, entidad o persona jurídica extranjera que desee construir y operar un observatorio astronómico, a condición de suscribir un convenio con AAA. En el presente caso, dicha condición se cumple, según se indica en la parte considerativa del Decreto N° 74, de fecha 26.03.2014, del Ministerio de Relaciones Exteriores, ya mencionado.
+Por tanto, puede concluirse que TTTT está sujeta al mismo régimen y goza de iguales prerrogativas y facilidades que aquellas establecidas en el convenio vigente entre el Gobierno de Chile y la ESO, las cuales se encuentran contenidas en el Decreto de Hacienda Nº 2.940, de 1965, modificado por los Decretos de Hacienda números 455 de 1984, 25 de 1985 y 351 de 1989, y cuyo texto vigente, de acuerdo a la versión publicada en la página web de la Biblioteca Nacional, es del siguiente tenor:
+“1.o- Declárase que la Organización Europea para la Investigación Astronómica del Hemisferio Austral está exenta de impuestos a la renta y que los bienes raíces de su propiedad están exentos de contribuciones territoriales.
+2) Declárase asimismo que la referida Organización estar exenta del Impuesto establecido en el Título II del Decreto ley N° 825, de 1974, por las adquisiciones de bienes o utilización de servicios destinados a la construcción, equipamiento y alhajamiento de sus oficinas y dependencias en general, como también por las adquisiciones de bienes o utilización de servicios necesarios para la operación de sus observatorios. De igual beneficio gozará la Organización respecto del Impuesto establecido por la letra b) del artículo 6°, c) de la Ley N° 18.502, que grava a las compras de petróleo diesel y que destine a la operación de sus observatorios.
+
+Con todo, la Organización podrá solicitar la devolución de los impuestos referidos en aquellos casos en que no haga valer la exención concedida en este número.
+El gasto fiscal que represente la devolución señalada precedentemente se imputará al ítem 50-01-01-03-93.002 "Devolución de otros impuestos", de la Ley de Presupuesto Vigentes.
+3° Declárase que la referida Organización estará exenta de los impuestos y derechos municipales que afectan a las construcciones que realice para desarrollar su actividad en el país.”
+Dicho lo anterior, cabe señalar que la presentación formulada por TTTT Corporation además solicita reconocer a su respecto una serie de otras prerrogativas, facilidades y beneficios, los cuales no se encuentran mencionados en el texto vigente del Decreto N° 2.940, de 1965, del Ministerio de Hacienda, arriba transcrito. En efecto, la presentación solicita se le reconozcan, además, las siguientes prerrogativas:
+a) Los impuestos a la renta (sic);
+b) Contribuciones territoriales por sus bienes raíces;
+c) Derechos de aduana y de prohibiciones y restricciones a la importación respecto a los artículos importados o exportados por la organización para su uso oficial, entendiéndose, sin embargo, que los artículos importados con tal exención no serán vendidos en el país, sino conforme a las condiciones que se convendrán posteriormente entre el Gobierno y la organización;
+d) Derechos de aduana y prohibiciones y restricciones respecto a la importación y exportación de sus publicaciones.
+e) Tasa de almacenamiento que corresponda recaudar al Servicio Nacional de Aduanas.
+f) Tasa de despacho de la ley Nº 16.464, por aplicación del artículo 190 letra c) de dicho cuerpo legal; y
+g) Tasa de admisión temporal.
+Asimismo, solicita se declare que los científicos, astrónomos, profesores, ingenieros, técnicos y empleados de la organización que ingresen al país en funciones relacionadas con la construcción, instalación, mantenimiento y operación en Chile del Observatorio Astronómico Telescopio YYY gocen de las siguientes exenciones:
+a) Exención de derechos de aduana y de IVA por la internación de efectos personales y de un automóvil;
+b) En cuanto a sus bienes, fondos y haberes, aplicar a estos funcionarios las mismas disposiciones que rigen para los expertos y funcionarios de la Comisión Económica para América Latina (Cepal). Decreto supremo Nº 433, del Ministerio de Relaciones Exteriores, de 1954.
+Al respecto, cabe tener presente que algunas de las prerrogativas y franquicias adicionales, citadas en la presentación han sido reconocidas en otros proyectos tales como los observatorios astronómicos “MMA” (hoy ALMA) y “Cerro Chajnantor Atacama Telescope” .
+Considerando que existen diferencias entre los distintos decretos, es conveniente tener presente la experiencia suscitada a propósito del observatorio astronómico “Cerro Chajnantor Atacama Telescope” . En su oportunidad, el Sr. Subsecretario de Hacienda de la época solicitó a este Servicio informar la presentación formulada por BBB respecto del observatorio astronómico referido.
+La presentación de BBB se fundamentaba en que el Decreto dictado al efecto se limitaba a reconocer las mismas facilidades y prerrogativas establecidas en el convenio entre el Gobierno de Chile y la ESO, pero sin enumerarlas. Luego, en concepto de BBB, esa omisión podría ocasionarle dificultades prácticas frente a terceros que contratasen con ella, así como frente a los funcionarios del Servicio u otras reparticiones que debían intervenir en la aplicación de la franquicia. Por tales motivos, BBB solicitaba extender al referido observatorio los mismos beneficios otorgados a un proyecto anterior, denominado observatorio astronómico MMA (hoy ALMA), y que fueran enumerados en el Decreto Supremo N° 1.746 de 1999 (modificado por el Decreto Supremo N° 1.056 de 2004, ambos de Hacienda).
+Al respecto, y a fin de evitar remisiones normativas o dudas sobre el alcance de los beneficios y prerrogativas de que gozaba el referido proyecto astronómico “Cerro Chajnantor Atacama Telescope”, este Servicio estimó conveniente explicitarlas nominativamente, cuestión que en definitiva se concretó en el Decreto N° 505, de 2012, de Hacienda.
+III CONCLUSIÓN
+De acuerdo a los antecedentes de la presentación y lo dispuesto en el Decreto N° 74, de fecha 26.03.2014, del Ministerio de Relaciones Exteriores, corresponde reconocer a TTTT Corporation, las mismas prerrogativas y facilidades establecidas en el Convenio vigente celebrado entre el Gobierno de Chile y la ESO.
+Con todo, por las consideraciones prácticas y de certeza jurídica expuestas en el cuerpo del presente Oficio, se estima conveniente que ese Ministerio dicte un Decreto enumerado las prerrogativas, facilidades y beneficios de que gozaría el proyecto “Telescopio YYY” o “Telescopio YYY”.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 2064, de 10.11.2014
+Subdirección Normativa
+Dpto. de Técnica Tributaria

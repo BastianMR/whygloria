@@ -1,0 +1,5 @@
+source: oficio-otros-1761.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja1761.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja1761.doc
+materia: otros
+retrieved: 2026-11-11

@@ -1,0 +1,91 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 3234 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°9, ART. 41, N°7 – LEY N° 20.780, DE 2014, ARTÍCULO 3, NUMERAL XIX – CIRCULARES N° 13, DE 2014 Y N° 1, DE ..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3234.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3234.doc"
+materia: "renta"
+fecha: "2015-12-23"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°9, ART. 41, N°7 – LEY N° 20.780, DE 2014, ARTÍCULO 3, NUMERAL XIX – CIRCULARES N° 13, DE 2014 Y N° 1, DE 2015. (ORD. N° 3234, DE 23.12.2015)
+
+TRATAMIENTO TRIBUTARIO QUE SE DEBE DAR A UN GOODWILL GENERADO POR UNA FUSIÓN DE SOCIEDADES CONSIDERANDO LAS CIRCUNSTANCIAS QUE INDICA.
+
+I.- ANTECEDENTES.
+Señala que se proyecta efectuar dos fusiones propias consecutivas, de sociedades de su grupo empresarial, siendo la primera sociedad absorbida una empresa titular del derecho de explotación de los servicios públicos sanitarios de producción y distribución de agua potable y de recolección y disposición de aguas servidas.
+Agrega que como consecuencia de las fusiones señaladas, se generará una diferencia entre el costo de adquisición de las acciones de la sociedad absorbida y el patrimonio tributario de la misma, en adelante "goodwill”.
+Indica a continuación que dicha diferencia debe tratarse de conformidad a lo establecido en el artículo 31 N° 9 de la Ley sobre lmpuesto a la Renta (en adelante LIR), al numeral XIX del artículo tercero de las disposiciones transitorias de la Ley N° 20.780 y a lo señalado en la Resolución Exenta N°111, de 4 de diciembre de 2014 del Servicio de Impuestos Internos, permitiendo estas dos últimas a los contribuyentes que hayan iniciado un proceso de fusión en el año 2014, aplicar las normas del artículo 31 N° 9 de la LIR, según su texto vigente al 31 de diciembre de 2014, esto es, sin considerar la modificación efectuada por la Ley N° 20.780. Al respecto, declara haber cumplido con las referidas normas para acreditar la fecha de inicio del proceso de fusión.
+Señala que el principal activo de la sociedad absorbida lo constituye el Contrato de Transferencia del Derecho de Explotación de las Concesiones Sanitarias (en adelante CDT), de Empresa Concesionaria de Servicios Sanitarios S.A., contrato que le permite la explotación de los servicios públicos sanitarios de producción y distribución de agua potable y de recolección y disposición de aguas servidas en una Región del país, todo ello conforme a la regulación sanitaria aplicable en la materia (Ley General de Servicios Sanitarios, DFL 382 de 21 de junio de 1989). El CDT tiene un plazo de vigencia de 30 años contados desde el día 29 de diciembre de 2003.
+Afirma que el valor de lo pagado por las acciones de la sociedad absorbida lo conforman, en gran medida, los flujos futuros del derecho de explotación, proyectados hasta el término del contrato al año 2033. De esta forma, el principal activo de la sociedad absorbida es el derecho de explotación de la concesión sanitaria ya referida.
+Sin embargo, indica que este derecho sólo forma parte de los activos de la sociedad absorbida para efectos financieros. Agrega que por aplicación de la legislación tributaria vigente a la fecha del CDT, el derecho de explotación no constituye, en la actualidad, un activo tributario de la sociedad absorbida. La misma situación se verifica respecto de otros activos financieros de la sociedad absorbida que son de propiedad de la empresa Concesionaria, la cual los entrega en comodato a la sociedad absorbida, titular del derecho de explotación. Estos activos, según se desprende del CDT son accesorios o dependientes del derecho de explotación.
+De conformidad con los antecedentes expuestos, solicita confirmar que:
+1) El goodwill que eventualmente se genere como consecuencia de las fusiones descritas precedentemente debe, en primer lugar, distribuirse entre los activos no monetarios de la sociedad absorbida que sean recibidos por las sociedades absorbentes en los términos del artículo 31 N° 9 de la LIR;
+
+2) El derecho de explotación, y sus activos accesorios y dependientes, constituyen un activo no monetario al que debe asignarse valor como consecuencia de las fusiones señaladas;
+3) Considerando que el derecho de explotación constituye el activo que justifica, desde la perspectiva del análisis financiero y económico de la operación, la diferencia entre el precio de adquisición de las acciones de la sociedad absorbida y el capital propio tributario de la misma, la totalidad del goodwill no asignado a "otros activos no monetarios recibidos como consecuencia de la fusión", debería ser asignado al derecho de explotación referido.
+4) El derecho de explotación se amortiza, para efectos tributarios, de conformidad a su vida útil establecida en el contrato, esto es, en los años que restan de duración del contrato (18 años).
+
+II.- ANÁLISIS.
+
+El inciso 3°, del N° 9, del artículo 31 de la LIR, en su redacción vigente hasta el 31 de diciembre de 2014, dispone que cuando con motivo de la fusión de sociedades, comprendiéndose dentro de este concepto la reunión del total de los derechos o acciones de una sociedad en manos de una misma persona, el valor de la inversión total realizada en los derechos o acciones de la sociedad fusionada, resulte mayor al valor total o proporcional que tenga el capital propio de la sociedad absorbida, determinado de acuerdo al artículo 41 de la misma ley, la diferencia que se produzca, llamada goodwill, deberá:
+
+a) En primer término, distribuirse entre todos los activos no monetarios que se reciben con motivo de la fusión desde la sociedad absorbida cuyo valor tributario sea inferior al corriente en plaza. La distribución se debe efectuar en la proporción que represente el valor corriente en plaza de cada uno de dichos bienes sobre el total de ellos, aumentándose el valor tributario de éstos hasta concurrencia de su valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza.
+
+b) Si subsiste una diferencia, ya sea porque no existen activos no monetarios, o existiendo éstos, su valor tributario era coincidente con el valor corriente en plaza, o se distribuyó el valor hasta alcanzar el valor corriente en plaza y aún así quedó un remanente, éste se considerará un gasto diferido que deberá deducirse en partes iguales por el contribuyente en un lapso de diez ejercicios comerciales consecutivos, contados desde aquel en que se generó la diferencia.
+
+Cabe hacer presente, que la Ley N° 20.780 modificó la norma legal que se examina a partir del 1° de enero de 2015, disponiendo que si luego de efectuada la distribución de la diferencia de valor entre todos los activos no monetarios que se reciben con motivo de la fusión, en los términos señalados, subsiste una diferencia, ésta se considerará un activo intangible, y sólo podrá ser castigado o amortizado a la disolución de la empresa o sociedad, o bien, al término de giro de la misma.
+
+Sin perjuicio de lo anterior, el numeral XIX del artículo 3° de las disposiciones transitorias de la Ley N° 20.780, estableció que los procesos de fusión que se hayan iniciado con anterioridad al 1° de enero de 2015, podrán concluirse hasta el 1° de enero de 2016, norma que fue interpretada por este Servicio en la Circular N° 1 de 2015, en el sentido de que dichas fusiones podrán seguir acogidas a lo dispuesto en el artículo 31 N° 9 de la LIR vigente hasta el 31 de diciembre de 2014. Para acreditar el inicio de la fusión, los contribuyentes debían presentar una declaración jurada ante el Servicio hasta el 31 de diciembre de 2014, acompañando los antecedentes que el Servicio requiera para tales fines. Dichos antecedentes fueron establecidos mediante la Resolución Exenta N°111, de 4 de diciembre de 2014.
+
+Considerando los antecedentes expuestos por el contribuyente, se responden a continuación cada una de sus consultas, en el mismo orden en que estas fueron efectuadas:
+
+1) En caso de que la fusión por incorporación produzca un goodwill, se confirma que éste deberá distribuirse proporcionalmente entre todos los activos no monetarios que provienen desde la sociedad absorbida cuyo valor tributario sea inferior al corriente en plaza –de existir–hasta la concurrencia de dicho valor, o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza.
+
+2) Para estos efectos, se considera que un activo no monetario es aquel que se autoprotege de la inflación, ya sea, que por su naturaleza se impide que la desvalorización monetaria ocasione un menoscabo en su valor real o se encuentran protegidos de la inflación por existir cláusulas de reajustabilidad establecidas por una ley o pactadas en forma contractual.
+
+En principio, el derecho de explotación es un activo intangible que no es susceptible de ser castigado o amortizado y por tanto, no puede afectar los resultados tributarios del contribuyente, así como tampoco forma parte del capital propio tributario de la empresa conforme al N° 1, del artículo 41 de la LIR. De acuerdo a ello, como regla general, un activo intangible no se considera dentro de los activos no monetarios recibidos desde la empresa absorbida, así como tampoco forma parte del capital propio tributario de la misma, razón por la cual, en principio no debe considerarse en la asignación del goodwill determinado, sino que, justamente de acuerdo a los términos del N° 9, del artículo 31 de la LIR, dada la existencia de este tipo de bienes intangibles en las empresas, es que aquella parte del goodwill no distribuida entre los activos no monetarios recibidos desde la sociedad absorbida, se configura un gasto diferido que se amortiza en 10 años, o bien, constituirá un activo intangible no amortizable de acuerdo a las modificaciones introducidas por la Ley N° 20.780.
+
+Lo anterior, salvo que tal derecho de explotación tenga el carácter de una inversión efectiva que se mantenga en la empresa absorbida y que lo reciba la absorbente con motivo de la fusión, puesto que en este último caso, la LIR contempla una norma de reajustabilidad para este tipo de bienes, en la segunda parte del N° 7 del artículo 41, y además, debe considerarse formando parte del capital propio tributario de la sociedad disuelta a la fecha de la fusión, y luego, en consecuencia, como parte de éste en la sociedad absorbente. De esta manera, cuando tal derecho de explotación representa una inversión efectiva en la empresa y tiene una norma legal de reajustabilidad que lo protege, puede ser calificado como un activo no monetario. Si dicho activo no monetario proviene desde la sociedad absorbida, corresponde considerarlo dentro de aquellos activos entre los cuales debe distribuirse el goodwill.
+
+Una vez distribuido el goodwill entre todos los activos no monetarios recibidos desde la empresa absorbida cuyo valor tributario sea inferior al corriente en plaza, o al valor que se pagaría en convenciones de similar naturaleza, en los términos señalados, el valor del goodwill seguirá la suerte del activo al que haya sido asignado.
+
+Ahora bien, se hace presente que el propio consultante señala en su presentación que el derecho de explotación referido no tiene el carácter de un activo para efectos tributarios en la sociedad absorbida, es decir, no representaba una inversión efectiva en ésta y no formaba parte del capital propio tributario de la misma. En tal caso, de acuerdo a lo señalado precedentemente, no puede considerarse este derecho de explotación para efectos de distribuir el valor del goodwill, toda vez que el artículo 31 N° 9 de la LIR es una norma enmarcada en el ámbito tributario, y en consecuencia, sólo puede entenderse que se refiere a los activos no monetarios de carácter tributario provenientes de la sociedad absorbida, que formaban parte del patrimonio tributario de la misma.
+
+Lo mismo sucede con los otros activos accesorios y dependientes del derecho de explotación, que serían en principio un activo intangible, ya que lo que se adquirió por la empresa absorbida es un derecho de uso por un comodato, conservando la empresa concesionaria el dominio de los referidos bienes, por lo que en principio si no tenían la calidad de un activo no monetario tributario en la empresa absorbida, no pueden estos activos accesorios ser considerados para efectos de la distribución de goodwill.
+
+3) Si luego de la asignación del goodwill, efectuada en forma proporcional entre todos los activos tributarios no monetarios que provienen de la sociedad absorbida, hasta completar su valor corriente en plaza o el valor que se cobre en convenciones de similar naturaleza, subsiste una diferencia, no es posible asignar dicho saldo a un activo en particular, pues la LIR no contempla tal opción, sino que expresamente señala, en su texto vigente hasta el 31 de diciembre de 2014, que en tal caso, este saldo deberá considerarse un gasto diferido y amortizarse en 10 años; y tras la reforma introducida por la Ley N° 20.780, se establece que el referido saldo deberá considerarse como un activo intangible que sólo puede ser castigado o amortizado a la disolución de la empresa o sociedad, o la fecha del término de giro de la misma.
+
+La determinación de si procede o no aplicar en este caso particular la norma del numeral XIX del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, que permite aplicar la norma vigente al 31 de diciembre de 2014 a aquellas fusiones iniciadas antes del 1° de enero de 2015, es una cuestión de hecho que debe ser determinada en la instancia de fiscalización correspondiente, atendido que si bien el consultante adjunta una serie de antecedentes que cumplen con los requerimientos formales establecidos en la Resolución Exenta N° 111 de 2014 para acreditar la fecha de inicio del proceso de fusión, la operación en su conjunto debe ser analizada por la Dirección Regional correspondiente, en uso de las facultades de fiscalización, haciéndose presente que es también requisito de la norma acreditar que la fusión se concluya en definitiva, teniendo como fecha tope para ello el 1° de enero de 2016, no habiéndose acompañado ningún antecedente al respecto.
+
+4) El valor del derecho de explotación, no puede ser depreciado ni amortizado, ya que tiene la naturaleza de un activo intangible, y respecto de tales activos, no existe norma legal que permita tributariamente su depreciación u amortización. En caso que se haya efectuado una inversión efectiva en los mismos, su recuperación sólo podrá ocurrir mediante su enajenación o cualquier otro hecho o circunstancia que lo haga perder la calidad de activo intangible para la empresa, cuestión que no se aplica al caso concreto que se analiza, toda vez que lo adquirido no es un derecho de explotación, sino que una sociedad, y el tratamiento tributario específico de dicha operación está contenido en la norma ya citada del artículo 31 N° 9 de la LIR.
+
+III.- CONCLUSIÓN.
+
+De producirse una diferencia entre el valor efectivamente invertido en las acciones de una sociedad y el valor total o proporcional del capital propio tributario de la sociedad absorbida, según corresponda, esta diferencia llamada goodwill, deberá distribuirse proporcionalmente entre todos los activos no monetarios provenientes de la sociedad absorbida que hayan formado parte del capital propio tributario de la misma, cuyo valor tributario sea inferior al corriente en plaza o de los que normalmente se cobren en convenciones de similar naturaleza.
+
+El derecho de explotación que a la fecha de la fusión no represente una inversión efectiva en la sociedad absorbida, es por su naturaleza un activo intangible que no forma parte del capital propio tributario de la sociedad absorbida, y por tanto, no forma parte de los activos no monetarios a considerar en la distribución del goodwill.
+
+En cuanto a la diferencia que aún subsista luego de distribuir el goodwill en los activos no monetarios recibidos desde la empresa absorbida con motivo de la fusión, cabe tener presente que la consulta planteada supone dos fusiones consecutivas. En la primera de ellas, se generaría un goodwill no distribuido que deberá ser amortizado en 10 años o considerarse como un activo intangible que sólo puede ser castigado o amortizado a la disolución de la empresa o sociedad absorbente o al término de giro de la misma, dependiendo de la fecha en que se haya iniciado y concluido la fusión. Al producirse la segunda fusión, en que una tercera empresa absorbe a aquella que mantiene el goodwill pendiente de amortización o el activo intangible referido, se producirá el término de giro de esta última (la absorbida), momento en el cual:
+
+a) Si la primera fusión se rigiera por las normas vigentes hasta el 31 de diciembre de 2014, el saldo del goodwill no distribuido, considerado como un gasto diferido amortizable en 10 años, deberá deducirse completamente en la sociedad absorbida por su valor residual a la fecha de término de giro, tal como lo señala el artículo 31 N° 9 de la LIR, ya que no existe norma que permita traspasar un gasto de esta naturaleza a la empresa absorbente.
+
+b) Si la primera fusión se rigiera por las normas vigentes a partir del 1° de enero de 2015, el saldo del goodwill no distribuido, considerado como un activo intangible no susceptible de ser amortizado, deberá castigarse completamente en la sociedad absorbida a la fecha de término de giro, tal como lo señala el artículo 31 N° 9 de la LIR, ya que no existe norma que permita traspasar un gasto de esta naturaleza a la empresa absorbente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 3234, de 23.12.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,5 @@
+source: oficio-otros-607.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja607.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja607.doc
+materia: otros
+retrieved: 2026-11-11

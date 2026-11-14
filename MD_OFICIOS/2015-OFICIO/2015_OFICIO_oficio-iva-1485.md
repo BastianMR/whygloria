@@ -1,0 +1,94 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1485 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 5° – RES. EXENTA N° 119, DE 2012. (ORD. N° 1485, DE 02.06.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1485.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1485.doc"
+materia: "iva"
+fecha: "2015-06-02"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 8°, ART. 5° – RES. EXENTA N° 119, DE 2012. (ORD. N° 1485, DE 02.06.2015)
+
+SITUACIÓN FRENTE AL IMPUESTO AL VALOR AGREGADO DEL SERVICIO DE RECARGA DE CELULARES INTERNACIONALES.
+
+Se ha solicitado a este Servicio, un pronunciamiento respecto de la situación tributaria frente al Impuesto al Valor Agregado, de los servicios prestados por la empresa XXXX, consistentes en la recarga de celulares desde Chile al extranjero y viceversa, además de la documentación tributaria a emitir en las operaciones que indica, mediante la confirmación de los criterios que expone.
+
+I.- ANTECEDENTES
+
+La sociedad XXXX Prestará el servicio de recarga de celulares internacionales desde el extranjero a Chile y viceversa.
+
+- Desde el extranjero a Chile: las recargas se efectúan a redes celulares chilenas desde el extranjero.
+
+- Desde Chile al extranjero: las recargas se efectúan a redes celulares extranjeras desde Chile.
+
+Dichos servicios se encontrarían orientados a la recarga de celulares de familiares de inmigrantes, que se encuentren en el respectivo país de procedencia.
+
+El usuario tendría, dos canales o alternativas para recargar:
+
+i) Desde una página web, donde registrará el teléfono del extranjero, la compañía celular del otro país, seleccionará el monto a cargar y recibirá el comprobante de la transacción después de realizar el pago.
+
+ii) El usuario además, podrá recargar el celular de otro país a través de un punto de venta (canales de distribución como tiendas, farmacias y supermercados), los cuales recaudarán en nombre de XXXX, y XXXX en nombre del operador del otro país el monto de la recarga celular. El cliente recibirá un comprobante de igual forma que una recarga celular doméstica dentro de Chile.
+
+Sobre estas operaciones, el contribuyente habría consultado a esa Dirección Regional lo siguiente:
+
+a) ¿Qué documento debiera emitir la Sociedad XXXX para enviar los dólares al procesador de recargas en Estados Unidos, y qué documento deberá emitir para cobrar la comisión del 7,5% que margina?
+b) Como en Chile las recargas electrónicas tributan con cambio de sujeto, según la Resolución Ex. N° 109, de 25/10/05, respecto de las recargas a redes celulares de otro país ¿El agente retenedor es el operador telefónico en el extranjero?
+
+En relación a lo anterior, el recurrente solicita la confirmación de los siguientes criterios:
+
+1.- Respecto de las recargas desde el extranjero a Chile.- En este caso, rige el régimen general, establecido en la Resolución Ex. N° 109, de 25/10/05, en cuanto es la empresa en Chile emisora de tarjetas o recargas telefónicas pre-pagadas, quien debe retener el Impuesto al Valor Agregado respecto del IVA que deban recargar por dichas ventas los adquirentes vendedores de dichos productos.
+
+2.- Respecto de las recargas desde Chile al extranjero.- En este caso no aplica la Resolución Ex. N° 109, de 25/10/05. Al efecto, y por tratarse de servicios prestados en Chile, éstos están gravados con el Impuesto al Valor Agregado debiendo emitirse al efecto una factura afecta. Sin perjuicio de lo señalado anteriormente, las empresas chilenas que prestan servicios afectos a IVA a personas sin residencia ni domicilio en Chile, podrán acogerse a lo establecido en el artículo 12° letra E, N° 16 del D.L. N° 825, de 1974, que declara exentos de IVA los ingresos percibidos por la prestación de servicios que sean calificados de exportación, a juicio exclusivo del Servicio Nacional de Aduanas.
+
+II.- ÁNALISIS:
+
+Sobre el particular, es posible señalar que en la especie se distinguen dos servicios perfectamente diferenciados. Por una parte el de telecomunicación que prestarán los operadores telefónicos, ya sean nacionales o internacionales según sea el caso, mediante las recargas telefónicas realizadas a celulares, y por otra, el servicio de intermediación que realizará el contribuyente por el cual la empresa extranjera pagará una comisión.
+
+Al respecto, cabe tener presente que la normativa aplicable desde el punto de vista del Impuesto al Valor Agregado al servicio de telecomunicación, está constituida por los artículos 8° del D.L. N° 825, de 1974, que grava con IVA las ventas y servicios, en relación con el artículo 2° N° 2 del mismo Decreto Ley, que define servicio como “La acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquiera otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N° s 3 y 4 del artículo 20° de la Ley sobre Impuesto a la Renta”. Lo anterior, en relación al artículo 20° N° 3 de la Ley de la Renta, que comprende dentro de las actividades descritas a las telecomunicaciones.
+
+Por su parte, la labor de intermediación que realiza XXXX, se enmarca dentro de lo que la ley entiende por comisionista. Para efectos del tratamiento tributario frente al Impuesto al Valor Agregado, dado que la actividad se subordina a lo dispuesto en el artículo 20° N° 4, de la Ley de la Renta, ésta se encontrará gravada con IVA, en virtud de lo dispuesto en el artículo 2° N° 2 del D.L. N° 825, de 1974 en relación al propio artículo 20° N° 4 de la Ley sobre Impuesto a la Renta.
+
+En cuanto a la aplicación de la normativa territorial a los servicios de telecomunicación, el artículo 5° del D.L. N° 825, de 1974 dispone que “El impuesto establecido en esta Ley gravará los servicios prestados o utilizados en el territorio nacional, sea que la remuneración correspondiente se pague o perciba en Chile o en el extranjero.
+
+Se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independiente del lugar donde éste se utilice.”
+
+Sobre la base de las consideraciones expuestas, procederemos a analizar las dos situaciones descritas:
+
+- Respecto de las recargas del extranjero hacia Chile, esto es desde el extranjero a redes celulares chilenas para llamadas a realizarse desde Chile.
+
+En este caso, se trata de un servicio que estaría siendo prestado en Chile por cuanto la empresa emisora de las recargas se encuentra en Chile, siendo éste el lugar donde se desarrolla la actividad que genera el servicio, y además se entiende que dicho servicio estaría siendo utilizado en Chile por cuanto se trata de la habilitación de llamadas que serán realizadas en Chile, constituyendo un supuesto de incidencia tributaria a la luz de la legislación nacional.
+
+En este sentido, en virtud de la facultad establecida en el artículo 3° inciso cuarto de la Ley sobre Impuesto a las Ventas y Servicios, se dictó la Resolución Ex. SII N° 119, de 2012, que establecen el cambio de sujeto de derecho del IVA a las Ventas de medios de prepago de telefonía e internet que en ella se indica, entre los cuales se encuentra la recarga electrónica, siendo de cargo del emisor de los medios de prepago, la retención total y su entero en arcas fiscales, del impuesto que afecta los márgenes de comercialización, determinados en base al precio al consumidor final del producto o servicio, además del pago del impuesto correspondiente a la venta neta efectuada por él.
+
+- Tratándose del servicio de recarga desde Chile hacia el extranjero, esto es a redes celulares extranjeras, para llamadas a realizarse en el respectivo país, desde el punto de vista de la territorialidad frente al IVA, se trata de un servicio prestado en el extranjero por cuanto, el emisor de la recarga se encuentra domiciliado en el exterior, y además es utilizado en territorio foráneo, ya que las llamadas serán realizadas en el respectivo país extranjero, donde se encuentra el beneficiario o usuario de la recarga.
+
+En este escenario, dichos servicios de telefonía se encuentran fuera del ámbito de aplicación de la norma impositiva, por cuanto no se cumple ninguno de los dos requisitos de incidencia tributaria, toda vez que son “prestados” y “utilizados” en el exterior. Consecuentemente, la operación no se afecta a Impuesto al Valor Agregado, por lo tanto, a efectos de respaldar dichas operaciones que implican remitir el dinero recaudado al exterior, no procede la emisión de facturas, siendo suficiente la emisión de cualquier otro documento de carácter interno que acredite fehacientemente la operación de que se trata.
+
+Ahora bien, en lo que respecta a la remuneración por concepto de comisiones que cobrará al procesador de las recargas, en el extranjero, tratándose de un servicio afecto a Impuesto al Valor Agregado, de acuerdo a lo señalado previamente, la sociedad XXXX, deberá emitir la respectiva factura de ventas y servicios afectos a Impuesto al Valor Agregado, por las sumas percibidas bajo este concepto.
+
+III.- CONCLUSIÓN:
+
+En relación a lo consultado, es posible señalar que desde la perspectiva del Impuesto al Valor Agregado, respecto de las recargas a celulares realizadas desde el exterior a redes celulares chilenas en las condiciones señaladas, resulta plenamente aplicable lo dispuesto Resolución Ex. SII N° 119, de 2012, que establece el cambio de sujeto de derecho del Impuesto al Valor Agregado, confirmándose de esta manera el criterio expuesto sobre este punto.
+
+En cuanto a las recargas, realizadas desde Chile a redes celulares extranjeras, tratándose en este caso de la habilitación de llamadas a realizarse dentro del país donde tiene su domicilio el respectivo emisor de la recarga, al no cumplirse alguno de requisitos de territorialidad que establece el artículo 5° de la Ley sobre Impuesto a las Ventas y Servicios, estas operaciones no se afectan a Impuesto al Valor Agregado, por lo tanto, no procede la emisión de documentos tributarios, sin embargo, la operación podrá formalizarse a través de cualquier documento que dé cuenta fehaciente de la operación realizada.
+
+Por último, por el servicio de comisionista prestado por el contribuyente Sociedad XXXX, al procesador de recargas extranjero, al tratarse de una actividad afecta a IVA, deberá emitirse la respectiva factura de ventas y servicios afectos a IVA.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N°1485, de 02.06.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

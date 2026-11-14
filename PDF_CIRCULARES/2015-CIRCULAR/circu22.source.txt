@@ -1,0 +1,5 @@
+archive: circu22.zip
+published_to: PDF_CIRCULARES/2015-CIRCULAR/circu22.pdf
+members:
+  circu22.pdf  kept=PDF_CIRCULARES/2015-CIRCULAR  (byte-identical to the published circular)
+  SUPLEMENTO_AT2015.pdf  sha256=fcefdb03f0b67b23b5d7779b7fb42703ac4daa3734c3d7dc8da147c7ea2a1338  kept=SIN_PROCESAR/SUPLEMENTOS/2015-CIRCULAR/SUPLEMENTO_AT2015.pdf

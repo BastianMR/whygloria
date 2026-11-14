@@ -1,0 +1,87 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1915 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 38° BIS, N°1, ART. 56, N°3, ART. 97° – LEY N°20.780, DE 2014 – CIRCULAR N° 46, DE 1990. (ORD. N° 1915, DE 27.07..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1915.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1915.doc"
+materia: "renta"
+fecha: "2015-07-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 38° BIS, N°1, ART. 56, N°3, ART. 97° – LEY N°20.780, DE 2014 – CIRCULAR N° 46, DE 1990. (ORD. N° 1915, DE 27.07.2015)
+
+ABSUELVE CONSULTAS SOBRE LA TRIBUTACIÓN QUE AFECTA A LAS RENTAS ACUMULADAS AL TÉRMINO DE GIRO DEL CONTRIBUYENTE, EN CONFORMIDAD AL ARTÍCULO 38 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+I.- ANTECEDENTES.
+
+Manifiesta que con motivo del término de giro que ha debido realizar a alguno de sus clientes durante el año comercial 2013, le han surgido dudas respecto de la aplicación de las normas contenidas en el artículo 38 bis de la Ley sobre Impuesto a la Renta, solicitando un pronunciamiento de este Servicio ante la ausencia de una interpretación oficial sobre la materia.
+
+Las consultas que formula son las siguientes:
+
+a) En relación con la norma contenida en el N°1, del citado artículo 38 bis, se hace preciso determinar si para los efectos del cálculo de la tasa promedio, en caso que en alguno de los 3 años anteriores al término de giro, el contribuyente hubiere estado exento del Impuesto Global Complementario, es correcto que la declaración de tal período se compute con tasa 0?
+
+b) Respecto a la norma contenida en el N°2, de la citada disposición, desea confirmar la procedencia de la devolución del excedente, cuando el crédito de 35% que establece la norma, supere el impuesto que resulta de la aplicación de la tasa promedio determinada en la forma que indica en el N° 1 del artículo 38 bis.
+
+c) Solicita se confirme si es correcto imputar al impuesto determinado con tasa de 35%, que señala el inciso 2° del artículo 38 bis, los créditos por Impuesto de Primera Categoría que da cuenta el registro FUT, de acuerdo al que afectó a las utilidades acumuladas al término de giro.
+
+II- ANÁLISIS.
+
+El artículo 38 bis de la Ley sobre Impuesto a la Renta, según su texto vigente hasta el 31 de diciembre de 2014 , establece que los contribuyentes obligados a declarar su renta efectiva según contabilidad completa, que pongan término a su giro, deberán considerar retiradas o distribuidas las rentas o cantidades determinadas a esa fecha, en la forma prevista en la letra c), del N° 3, de la letra A), del artículo 14 de la LIR, o en el inciso 2°, del artículo 14 bis de la misma ley, según corresponda, incluyendo las del ejercicio.
+
+Tales contribuyentes, tributarán por esas rentas o cantidades con un impuesto de 35%, el cual tiene el carácter de único respecto de la empresa, empresario, socio o accionista, no siendo aplicable a ellas lo dispuesto en el número 3° del artículo 54.
+
+El inciso 3° del referido artículo dispone que, el empresario, socio o accionista, podrá optar por declarar las rentas o cantidades referidas, como afectas al Impuesto Global Complementario del año del término de giro, de acuerdo a las reglas que indica.
+
+Ahora bien, analizados los términos de su presentación, cabe señalar en primer término que no es efectiva su afirmación en cuanto a que no existiría una interpretación oficial sobre las consultas que plantea, ya que ellas están resueltas en las instrucciones impartidas por este Servicio, contenidas en la Circular N° 46, de 1990, disponible en su página web www.sii.cl.
+
+De acuerdo a lo anterior, a continuación se analiza cada una de las consultas formuladas:
+
+a) El N°1, del inciso 3°, del artículo 38 bis de la LIR, dispone que para efectos de declarar el Impuesto Global Complementario, se aplicará una tasa del referido tributo, equivalente al promedio de las tasas más altas de dicho impuesto que hayan afectado al contribuyente en los 3 ejercicios anteriores al término del ejercicio.
+
+La Circular N°46, de 1990, sostiene al respecto que si la empresa a la que se pone término de giro tuviera una existencia inferior a tres ejercicios comerciales consecutivos, la tasa promedio se calculará considerando los ejercicios de existencia efectiva de la empresa.
+
+Ahora bien, expresa el instructivo, si la empresa hubiere existido sólo en el ejercicio en el que se le pone término de giro, entonces las rentas o cantidades que correspondan al empresario individual socio o accionista se afectarán con el Impuesto Global Complementario como ingresos de ese ejercicio, de acuerdo con las normas generales que regulan dicho tributo, es decir deberá efectuarse una sola declaración, incluyendo las rentas de cualquier origen que haya obtenido. El referido instructivo agrega que igual procedimiento se aplicará cuando no sea posible determinar la tasa promedio indicada, no obstante que la empresa tenga una existencia igual o superior a un año, ya sea porque el empresario individual, socio o accionista en esos períodos no estuvo obligado a declarar el Impuesto Global Complementario o quedó exento del citado tributo personal.
+
+De esta forma, si en uno de los tres ejercicios comerciales referidos, un contribuyente quedó exento del Impuesto Global Complementario, deberá afectar las cantidades a que se refiere el N°1, del artículo 38 bis de la LIR, con una tasa equivalente al promedio de las tasas más altas de dicho tributo que hayan afectado al contribuyente en los dos ejercicios comerciales en que sí quedó gravado con el referido impuesto, sin considerar para el cálculo de dicho promedio, el ejercicio en que quedó exento .
+
+b) En cuanto a la devolución del crédito que establece el N°2, del inciso 3°, del artículo 38 bis de la LIR, cabe señalar que dicha norma establece que las rentas o cantidades a que se refiere el N°1, del inciso 3° de la referida disposición legal, que se afectarán con el Impuesto Global Complementario, gozarán del crédito que establece el N°3, del artículo 56 de la LIR, el cual se aplicará con una tasa del 35%.
+
+Al respecto, la Circular N°46 de 1990, dispone que dicho crédito se imputará al total del Impuesto Global Complementario que resulte de la aplicación del mecanismo de cálculo que dispone el N°1, del inciso 3°, del artículo 38 bis de la LIR, el cual se otorgará con tasa de 35%. Para este efecto, las rentas o cantidades que le dan derecho deben estar incluidas en la renta bruta del Impuesto Global Complementario que se declara y deben haber sido afectadas a nivel de la empresa que pone término de giro con el impuesto único con tasa de 35% referido.
+
+Según se ha señalado, el mencionado crédito equivale a un 35% de las rentas o cantidades provenientes del término de giro, afectas al Impuesto Global Complementario, incrementadas éstas previamente en un monto equivalente al crédito que se invoca, suma que se considerará como afectada con el impuesto de 35% a nivel de la empresa.
+
+El citado crédito se imputará al total del Impuesto Global Complementario que declare el contribuyente por el mismo año tributario en que ocurre el término de giro, una vez rebajados todos aquellos créditos a que tengan derecho y cuyos excedentes no procede imputarlos en los períodos siguientes como tampoco devolverlos. Si de la imputación efectuada quedare un remanente, éste podrá ser rebajado de otros impuestos que el contribuyente declare en el mismo ejercicio, y sí aún permaneciera un excedente, podrá solicitarse su devolución de acuerdo a la modalidad prevista en el artículo 97 de la LIR.
+
+En todo caso, se hace presente que la devolución del referido excedente de crédito por Impuesto de Primera Categoría que establece el N° 3, del artículo 56 de la LIR, otorgado con una tasa del 35%, procede siempre que las rentas o cantidades señaladas hayan sido efectivamente gravadas con el Impuesto de Primera Categoría que sirve de crédito conforme a lo señalado en la letra c) siguiente; y/o, según corresponda, con el propio impuesto de 35% establecido en el artículo 38 bis de la LIR, y siempre que no exista una norma legal que impida la devolución del citado tributo.
+
+De esta manera, por ejemplo, no podrá ser objeto de devolución el referido excedente de crédito del N° 3, del artículo 56 de la LIR, en aquella parte que haya sido solucionado con el crédito por Impuesto de Primera Categoría, en la proporción que a su vez haya sido cubierto con el crédito por impuestos pagados en el exterior, en conformidad a la modificación establecida en el N° 7, de la letra D.-, del artículo 41 A de la LIR, en concordancia con el 41 C de la misma ley.
+
+c) Atendido el carácter de impuesto único que tiene el tributo establecido en el inciso 2°, del artículo 38 bis de la LIR, la Circular N°46, de 1990, dispone que para los fines de su declaración y pago, se podrá rebajar de éste, el crédito por concepto del Impuesto de Primera Categoría por aquellas rentas que se afectaron con este tributo, incluso en el mismo ejercicio del término de giro.
+
+III.- CONCLUSIÓN.
+
+a) Para efectos del cálculo de la tasa promedio del Impuesto Global Complementario a que se refiere el N° 1, del inciso 3°, del artículo 38 bis de la LIR, si en uno de los tres ejercicios comerciales referidos, un contribuyente quedó exento del Impuesto Global Complementario, deberá afectar las cantidades a que se refiere dicha norma legal, con una tasa equivalente al promedio de las tasas más altas de dicho tributo que hayan afectado al contribuyente en los dos ejercicios comerciales en que sí quedó gravado con el referido impuesto, sin considerar para el cálculo de dicho promedio, el ejercicio en que quedó exento.
+
+b) Si luego de efectuada la imputación del crédito establecido en el N°3, del artículo 56 de la LIR, en conformidad al N°2, del artículo 38 bis de la misma ley, quedare un remanente del mismo, éste podrá ser rebajado de otros impuestos que el contribuyente declare en el mismo ejercicio, y sí aún permaneciera un excedente, podrá solicitarse su devolución de acuerdo a la modalidad prevista en el artículo 97 de la LIR.
+
+En todo caso la devolución del referido excedente de crédito por Impuesto de Primera Categoría que establece el N°3, del artículo 56 de la LIR, otorgado con una tasa del 35%, procede siempre que las rentas o cantidades señaladas hayan sido efectivamente gravadas con el Impuesto de Primera Categoría que sirve de crédito; y/o, según corresponda, con el propio impuesto de 35% establecido en el artículo 38 bis de la LIR, y siempre que no exista una norma legal que impida la devolución del citado tributo, de acuerdo a lo explicado en la letra b), del análisis precedente.
+
+c) Para los fines de la declaración y pago del impuesto establecido en el inciso 2°, del artículo 38 bis de la LIR, se podrá rebajar de éste, el crédito por concepto del Impuesto de Primera Categoría por aquellas rentas que se afectaron con este tributo, incluso en el mismo ejercicio del término de giro.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1915, de 27.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

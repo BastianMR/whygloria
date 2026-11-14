@@ -1,0 +1,5 @@
+source: oficio-renta-1977.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1977.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1977.doc
+materia: renta
+retrieved: 2026-11-11

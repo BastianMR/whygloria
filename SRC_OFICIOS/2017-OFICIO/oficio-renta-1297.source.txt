@@ -1,0 +1,5 @@
+source: oficio-renta-1297.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1297.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1297.doc
+materia: renta
+retrieved: 2026-11-11

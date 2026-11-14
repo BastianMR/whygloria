@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1308 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 15°, ART. 17°, ART. 29°. (ORD. N° 1308, DE 14.06.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1308.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1308.doc"
+materia: "renta"
+fecha: "2013-06-14"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 15°, ART. 17°, ART. 29°. (ORD. N° 1308, DE 14.06.2013)
+
+OPORTUNIDAD EN QUE DEBE COMPUTARSE COMO INGRESO PARA EFECTOS TRIBUTARIOS, LA REMUNERACIÓN PACTADA EN UN CONTRATO DE SUMINISTRO Y LICENCIA.
+
+I.- ANTECEDENTES.
+
+La Dirección Regional Metropolitana Santiago XXX, en el proceso de fiscalización de la declaración anual de impuesto a la renta correspondiente al año tributario 2012 presentada por Inmobiliaria AAA, detectó una diferencia en los ingresos declarados como base imponible del Impuesto de Primera Categoría.
+
+La diferencia aludida deriva, en su opinión, de la subdeclaración en el año comercial 2011, de una parte de la suma estipulada como remuneración en la cláusula cuarta del contrato denominado “Contrato de Suministro de Vestuario Deportivo y Licencia Exclusiva”, suscrito entre BBB e Inmobiliaria AAA el xx de agosto del 2011.
+
+La cláusula cuarta del contrato referido dispone que la suma correspondiente al año 2012 será pagadera en una sola cuota ascendiente a xxx UF más IVA, 10 días hábiles después de recibida la factura por parte de BBB, la cual deberá ser entregada a partir del día xx de diciembre del 2011.
+
+La referida Dirección Regional aduce que el devengo de la renta se produjo el día xx de diciembre del 2011, esto es, 10 días hábiles contados a partir del xx de diciembre del 2011. En consecuencia, la suma de xxx UF más IVA, debió haber formado parte de la renta bruta del año comercial 2011, año tributario 2012.
+
+De acuerdo con los antecedentes acompañados, la suma de xxx UF más IVA, correspondiente al año 2012, fue facturada el 27 de diciembre del 2011 a través de la factura N°xxx, y según se indica, fue pagada el xx de enero del 2012.
+
+Por su parte, AAA en respuesta a la citación practicada por la Dirección Regional, señaló que el contrato es claro al indicar, en su cláusula tercera, que entra en vigencia el 1° de enero del 2012 y rige hasta el 31 de diciembre del 2015.
+
+Agrega, que la cláusula cuarta del contrato sólo tiene consecuencias en materia de IVA al devengarse dicho tributo, en el caso de las prestaciones de servicios, en la fecha de emisión de la factura o boleta, no así respecto del Impuesto de Primera Categoría pues éste se aplica sobre rentas que se encuentren percibidas o devengadas.
+
+Argumenta que si el contrato no se encontraba vigente, no existía título o derecho emanado del mismo y mal podría entonces sostenerse que la renta pactada en éste se habría devengado. El hecho de haber pactado que AAA podía emitir la factura a partir del día 16 de diciembre del 2011 nada cambia lo anterior, no existiendo derecho devengado por parte de la empresa ni correlativa obligación por parte de BBB. Señala, que cuando AAA emitió la factura el xx de diciembre del 2011, fue efectuado con la intención de percibir su pago 10 días a contar de dicha fecha, durante el año 2012, momento en el cual ya habría entrado a regir el contrato y se habría devengado el derecho para la sociedad.
+
+Interpretar que el sólo hecho de pactarse una posible facturación con antelación a la fecha de vigencia del contrato, devenga la renta correspondiente a ese eventual pago, es incurrir en una interpretación errada del concepto de renta devengada, el cual se refiere al momento en el cual se tiene derecho a la renta, lo cual no ocurre para este contribuyente sino hasta el día xx de enero del 2012, momento en que el contrato comienza a generar derechos y obligaciones.
+
+II.- ANÁLISIS.
+
+El N°2 del artículo 2°, de la Ley sobre Impuesto a la Renta (“LIR”), define renta devengada como aquélla sobre la cual se tiene un título o derecho, independientemente de su actual exigibilidad y que constituye un crédito para su titular. A su vez, el N° 3 del mismo artículo dispone que renta percibida es aquella que ha ingresado materialmente al patrimonio de una persona. Una renta devengada se percibe desde que la obligación se cumple por algún modo de extinguir distinto al pago.
+
+Por su parte, el artículo 15 inciso 1° de la LIR, indica que para determinar los impuestos establecidos en la LIR, los ingresos se imputarán al ejercicio en que hayan sido devengados o percibidos, de acuerdo con las normas pertinentes de la LIR y del Código Tributario, salvo las excepciones contenidas en el mismo artículo.
+
+Finalmente, el artículo 29 de LIR, preceptúa que los ingresos brutos considerados en la determinación de la base imponible del Impuesto de Primera Categoría (dentro de la cual se clasifica la remuneración estipulada en el contrato suscrito entre AAA y BBB), comprenden todos los ingresos derivados de la explotación de bienes y actividades incluidas en dicha categoría, con la excepción de aquellos a que se refiere el artículo 17 de la LIR, incluyéndose en el año en que ellos sean devengados o, en su defecto, en el año en que sean percibidos por el contribuyente.
+
+Ahora bien, el Contrato de Suministro de Vestuario Deportivo y Licencia Exclusiva, suscrito entre BBB e Inmobiliaria AAA el xx de agosto del 2011 y acompañado a la presentación, dispone en su cláusula tercera que el contrato entrará en vigencia el 1° de enero de 2012 y regirá hasta el 31 de diciembre de 2015, manteniéndose vigente hasta antes de esa fecha, un contrato celebrado con anterioridad por las partes.
+
+Por su parte, la cláusula cuarta indica que como remuneración por los derechos establecidos a favor de BBB con motivo del contrato indicado, ésta pagará a AAA en dinero efectivo la suma de xxx UF anuales más IVA, por cada uno de los años 2012, 2013, 2014 y 2015. Con excepción de la suma correspondiente al año 2012, que será pagada en una sola cuota ascendente a xxx UF más IVA, los montos comprometidos por los años 2013, 2014 y 2015 se pagarán en dos cuotas conforme al esquema de pagos que se indica.
+
+En lo que respecta específicamente a la remuneración por el año 2012, el contrato dispone que la suma de xxx UF más IVA, será pagadero 10 días hábiles después de recibida la factura por parte de BBB, la cual deberá ser entregada a partir del xx de diciembre 2011.
+
+Del análisis de las cláusulas del contrato acompañado, se observa la existencia de derechos y obligaciones para las partes, que consisten en prestaciones mutuas, continuas y sucesivas durante el período de vigencia del contrato. Las prestaciones que debe efectuar AAA y por las cuales recibe la remuneración de BBB, se generan y nacen sucesiva y periódicamente, durante los años 2012, 2013, 2014 y 2015, de tal forma que nacida y cumplida una obligación y un derecho, nace otra de la misma naturaleza y extinguida ésta, la próxima y así sucesivamente. En razón de ello, la remuneración señalada se devenga conforme transcurre el período de tiempo, respecto del cual ésta se ha pactado.
+
+Por lo anterior, en la especie no se aprecia que el devengo del ingreso correspondiente de la suma xxx UF más IVA se haya producido el día xx de diciembre de 2011, esto es 10 días hábiles después del xx de diciembre del año 2011, puesto que la clausula en cuestión, sólo dispone una fórmula de pago para la prestación correspondiente al año 2012 y no el devengo de la renta. El ingreso se devenga durante el año comercial 2012, período por el cual se ha pactado la referida remuneración.
+
+III.- CONCLUSIÓN.
+
+De acuerdo al tenor del contrato acompañado, la suma de xxx UF más IVA derivada del Contrato de Suministro de Vestuario Deportivo y Licencia Exclusiva se devengó y percibió el año 2012, debiendo en dicho ejercicio computarse la renta para efectos de la determinación y pago del Impuesto de Primera Categoría.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N°1308, de 14.06.2013
+Subdirección Normativa
+Dpto., de Impuestos Directos

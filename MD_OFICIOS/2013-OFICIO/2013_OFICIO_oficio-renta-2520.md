@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2520 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°3 – LEY N° 20.552, DE 2011 –D.F.L. N° 251, DE 1931. (ORD. N° 2520, DE 05.12.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2520.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2520.doc"
+materia: "renta"
+fecha: "2013-12-05"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, N°3 – LEY N° 20.552, DE 2011 –D.F.L. N° 251, DE 1931. (ORD. N° 2520, DE 05.12.2013)
+
+APLICACIÓN DE LA EXENCIÓN DEL IMPUESTO ADICIONAL QUE ESTABLECE EL INCISO 3°, DEL N°3, DEL ARTÍCULO 59 DE LA LEY SOBRE IMPUESTO A LA RENTA, A LAS PRIMAS DE SEGUROS DE SATÉLITES Y LA CARGA QUE ESTOS TRANSPORTEN.
+
+I.- ANTECEDENTES.
+
+Señala, que por varias décadas las primas de seguro relacionadas con la navegación y el transporte internacional de mercaderías han estado exentas del pago del Impuesto Adicional, de conformidad con el N° 3, del artículo 59 de la LIR.
+
+Agrega, que la Ley N°20.552 de 2011, modificó el artículo 4° del Decreto con Fuerza de Ley N°251, de 1931, sobre Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, con el objeto de incorporar entre los seguros que pueden ser comercializados en Chile por aseguradoras o intermediarios extranjeros, los seguros que amparan satélites y la carga que estos transporten, junto con los demás seguros relacionados con el transporte marítimo internacional, de la aviación comercial internacional y las mercancías en tránsito internacional, cuyo aseguramiento se encuentra exento de Impuesto Adicional.
+
+Indica que el N° 3, del artículo 59 de la LIR, declara exentos de Impuesto Adicional a las primas de seguros contratados con compañías extranjeras, correspondientes a los seguros de aeronaves y otros propios de la actividad de aeronavegación. Añade que además, esta exención se aplica a la mercaderías en tránsito internacional, pues se trata de bienes que no están situados permanentemente en el país, en los términos del inciso 1°, del mencionado artículo 59, N° 3.
+
+Al respecto, consulta si dicha exención también es aplicable a las primas por concepto de seguros sobre satélites y la carga que estos transporten.
+
+II.- ANÁLISIS.
+
+Según lo dispuesto en el inciso 2°, del N°3, del inciso 4°, del artículo 59 de la LIR , las primas de seguros o reaseguros, según corresponda, que se remesen al exterior a compañías sin domicilio ni residencia en el país, y que digan relación con los conceptos a que ella se refiere, están afectos al Impuesto Adicional, ya sea, con tasa de 22% o 2%, según se trate de seguros o reaseguros, en calidad de Impuesto Único a la renta. A continuación, el inciso 3° de esta disposición legal, establece que están exentos del Impuesto Adicional que contempla, las primas provenientes de seguros de aeronaves, fletes y otros, propios de la actividad de aeronavegación.
+
+Por otra parte, tal como se indica en su consulta, la Ley N°20.552 , reemplazó el inciso 2°, del artículo 4°, del Decreto con Fuerza de Ley N°251, de 1931, con el objeto de permitir a las entidades aseguradoras extranjeras establecidas en el exterior la comercialización en Chile de los seguros de transporte marítimo internacional, aviación comercial internacional, mercancías en tránsito internacional y de satélites, y la carga que éstos transportan.
+
+Previo al análisis de la situación particular en consulta, debe señalarse que las normas de excepción, es decir las que están en contradicción con el derecho general no corresponde que sean aplicadas a los casos no previstos expresamente en la letra ni el espíritu de la norma que las establece . En relación a las normas que establecen exenciones de carácter tributario, que están taxativamente descritas por el legislador como en el caso de la disposición en referencia, naturalmente son de derecho estricto al apartarse de la regla general aplicable en materia tributaria. Al respecto, los tribunales de justicia han señalado que las normas que establecen casos de excepción en el ámbito tributario deben interpretarse restrictivamente, por lo que no resultan aceptables interpretaciones de carácter extensivo o por analogía .
+
+Enseguida, de acuerdo con las reglas de interpretación de las leyes contenidas en el Código Civil, y particularmente lo dispuesto en su artículo 20, las palabras que utiliza la Ley se entenderán en su sentido natural y obvio, según el uso general de las mismas; pero cuando el legislador las haya definido expresamente para ciertas materias, se les dará en éstas su significado legal. Por consiguiente, para efectos de determinar si las sumas a remesar al exterior por el concepto indicado, se encuentran afectas o no al Impuesto Adicional, es necesario precisar si respecto de tales cantidades se cumple con el requisito que exige la norma legal en referencia, esto es, que las sumas a remesar se traten de primas provenientes de seguros de aeronaves u otros propios de la actividad de aeronavegación.
+
+En este sentido, en atención a que la legislación tributaria no define el término “aeronaves” y “aeronavegación” que utiliza la norma legal en referencia, debe recurrirse como criterio interpretativo a las normas de derecho común contenidas en leyes generales o especiales, como se desprende de lo establecido en el artículo 2, del Código Tributario.
+
+En este contexto, el artículo 27 del Código Aeronáutico, define el término “aeronave” como todo vehículo apto para el traslado de personas o cosas, y destinado a desplazarse en el espacio aéreo, en el que se sustenta por reacción del aire con independencia del suelo. Por su parte, el artículo 31 del mismo Código dispone que son aeronaves civiles las que no estén comprendidas en el artículo precedente (aeronaves del estado), aunque pertenezcan a organismos, servicios o empresas del Estado, a las Municipalidades o al Fisco. Agrega esta disposición legal que las aeronaves civiles se dividen en aeronaves de uso comercial y aeronaves de uso no comercial o privado. El artículo 95 establece que la actividad “aeronáutica comercial” es la que tiene por objeto prestar servicios de transporte aéreo y de trabajos aéreos, con fines de lucro; agregando que “servicio de transporte aéreo” es toda actividad destinada a trasladar, en aeronaves, a pasajeros o cosas de un lugar a otro. Por su parte, no existe una definición legal de “satélite”, sin embargo, de acuerdo al Convenio sobre el registro de objetos lanzados al espacio ultraterrestre, aprobado por la Asamblea General de Naciones Unidas, en su Resolución 3235 (XXIX), de 12 de noviembre de 1974, se trataría de objetos espaciales que orbitan la Tierra a partir del espacio ultraterrestre.
+
+De esta forma, basado en las normas y consideraciones antes señaladas, se puede concluir que la exención en comento tiene por objeto otorgar un tratamiento tributario de favor a los seguros contratados por las empresas de aeronavegación chilenas con entidades extranjeras, vale decir, aquellas cuya actividad es el traslado, en aeronaves, de pasajeros o cosas de un lugar a otro, no correspondiendo hacerla extensiva por analogía a otros bienes que no sean “aeronaves” en los términos antes definidos, como serían los satélites, lo que no se comprende ni en el texto ni en el espíritu de la disposición legal.
+
+Lo anterior, se ve confirmado en la historia fidedigna del establecimiento del DL N°3.057, de 1980, que incorporó entre otras materias relacionadas con el comercio de seguros, el N°3 del artículo 59, de la LIR, modificaciones que se aprobaron en el contexto de las normas contempladas en las leyes de fomento de las actividades de las marina mercante y a las empresas de aeronavegación chilenas .
+
+III.- CONCLUSIÓN.
+
+La exención que establece el inciso 3°, del N°3, del inciso 4°, del artículo 59 de la LIR, en relación con la materia consultada, tiene por objeto exclusivo otorgar un tratamiento tributario de favor a las primas sobre seguros contratados con entidades no domiciliadas ni residentes en el país, conforme estas últimas se encuentran reguladas en la legislación sobre la materia. Por consiguiente, en atención a su carácter de norma excepcional, es decir, de derecho estricto, la exención que contempla la norma legal sólo es aplicable a las primas provenientes de seguros de aeronaves, fletes y otros, propios de la actividad de aeronavegación; no aplicándose a los satélites; al no estar contemplados estos bienes en el texto de la norma, ni en la finalidad que se tuvo al establecer la exención.
+
+ALEJANDRO BURR ORTUZAR
+DIRECTOR (S)
+
+Oficio N° 2.520, de 05.12.2013.
+Subdirección Normativa
+Dpto. de Impuestos Directos

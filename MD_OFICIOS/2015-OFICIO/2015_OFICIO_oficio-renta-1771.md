@@ -1,0 +1,67 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1771 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2°, N° 1, ART. 3° – D.F.L. N° 1, DE 2006, ART. 202. (ORD. N° 1771, DE 08.07.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1771.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1771.doc"
+materia: "renta"
+fecha: "2015-07-08"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 2°, N° 1, ART. 3° – D.F.L. N° 1, DE 2006, ART. 202. (ORD. N° 1771, DE 08.07.2015)
+
+SITUACIÓN TRIBUTARIA DE LA DEVOLUCIÓN DE EXCESOS DE COTIZACIÓN DE SALUD.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la situación tributaria de la devolución de excesos de cotización de salud, enteradas por cargas legales o beneficiarios, en relación al titular del Contrato de Salud y al mismo beneficiario o carga legal.
+
+I.- ANTECEDENTES.
+
+Señala, que la Superintendencia de Salud (Superintendencia) efectuó una fiscalización a las Instituciones de Salud Previsional (ISAPRE), con motivo de cotizaciones percibidas en exceso originadas en pagos de cotizaciones de personas que eran carga legal o beneficiarios cotizantes. Cuando una persona, que es carga legal o beneficiario, entera las cotizaciones obligatorias para salud a la ISAPRE, por recibir una remuneración, podría hacer generar excesos de cotización al titular de la cuenta, por estar incluido en un Contrato de Salud que tiene suscrito este último con la ISAPRE. Esta entidad no habría imputado oportunamente dichas sumas a título de cotizaciones en exceso, adquiriendo dicho carácter sólo contra una solicitud de devolución realizada por las personas afiliadas.
+
+Conforme a lo anterior, la Superintendencia instruyó que las cotizaciones que se originaron del recálculo de las obligaciones a efectuar por la ISAPRE, deberían ser devueltas al afiliado o a sus beneficiarios como excesos de cotizaciones.
+
+Agrega que las cotizaciones en exceso en cuestión , corresponden a las percibidas por la ISAPRE en el respectivo mes, que sobrepasa el monto de la cotización mínima legal para salud (7%); o de la cotización pactada si esta última es mayor a la mínima legal. Dichos excesos, a diferencia de los excedentes de cotizaciones, deben ser devueltos en forma de dinero y no en forma de prestaciones médicas ni otros beneficios, a través de una solicitud de revisión del sobrepago.
+
+El legislador ha definido con precisión quienes detentan la calidad de afiliado o cotizante y la de beneficiario. Sin embargo, no existe la misma precisión a la hora de referirse a los "Beneficiarios cotizantes". Si bien este concepto ha sido reconocido por el legislador, ha sido la Superintendencia de Salud, quien ha precisado su definición, limitándola a los casos de beneficiarios de un Contrato de Salud que, paralelamente, detentan la calidad de cotizantes en la medida que generan cotización legal para salud como trabajador activo o pensionado.
+
+Añade, que la normativa existente no regula la situación tributaria de las “sobre cotizaciones” que realizan las cargas o beneficiarios cotizantes, por lo que ha surgido la inquietud de determinar los efectos tributarios respecto del titular del contrato, así como de su carga legal, que podrían producirse al efectuar las devoluciones indicadas. Señala que a su entender, se producirían las siguientes consecuencias:
+
+1.- Si se efectúa la devolución de la cotización mínima obligatoria (7%) enterada por la carga legal o beneficiario, al titular del Contrato de Salud, éste estaría recibiendo la devolución de cotizaciones que no enteró; es decir, se estaría devolviendo a un tercero, cotizaciones legales, obligatorias y exentas de impuesto a la renta. Indica que a su juicio, para el titular del Contrato de Salud, la cotización recibida en calidad de exceso, en aquella parte que corresponda hasta el límite máximo imponible (4,921 UF a contar de enero 2013), constituiría un ingreso tributable.
+
+2.- Por su parte, la carga legal o beneficiario que enteró cotizaciones, estaría frente a una rebaja excesiva de su base de impuestos personales por concepto de cotizaciones de salud que enteró, que en definitiva no se destinarían a financiar sus prestaciones de salud, ya que serían devueltas al titular del contrato, y por tanto debería reliquidar sus impuestos personales, pagando la eventual diferencia que se produzca.
+
+II.- ANÁLISIS.
+
+Conforme a lo establecido en el artículo 3° de la Ley sobre Impuesto a la Renta (LIR), las personas domiciliadas o residentes en Chile están sujetas a impuestos sobre sus rentas de cualquier origen, sea que la fuente de entrada esté situada dentro del país o fuera de él. Por su parte, el artículo 2°, N°1, del mismo texto legal, señala que por “renta” se entenderá los ingresos que constituyan utilidades o beneficios que rinda una cosa o actividad y todos los beneficios, utilidades e incrementos de patrimonio que se perciban o devenguen, cualquiera que sea su naturaleza, origen o denominación. El N°2 de este artículo agrega que por “renta devengada”, se entenderá aquélla sobre la cual se tiene un título o derecho, independientemente de su actual exigibilidad y que constituye un crédito para su titular; y el N°3 por "renta percibida", aquella que ha ingresado materialmente al patrimonio de una persona.
+
+Por otro lado, cabe considerar que la afiliación al sistema de salud previsional que regula la ley, se materializa mediante la celebración de un Contrato de Salud ; el que puede ser definido, como lo indica en su requerimiento, como una convención creadora de derechos y obligaciones, de carácter formal, celebrado entre una ISAPRE y una persona que desea afiliarse a ella, por el cual se establecen los derechos, obligaciones y beneficios que se otorgarán al cotizante y sus respectivos beneficiarios, contra el pago de la cotización de salud pactada. Conforme lo disponen los artículos N°s. 1545 y 1546 del Código Civil, este contrato es una ley para los contratantes, y no puede ser invalidado sino por su consentimiento mutuo o por causas legales; debiendo además ejecutarse de buena fe. Por consiguiente obliga no sólo a lo que en él se expresa, sino a todas las cosas que emanan precisamente de la naturaleza de la obligación, o que por la ley o la costumbre pertenecen a ella.
+
+Por su parte, el inciso 3°, del artículo 202, del DFL N°1, de 2006, del Ministerio de Salud, dispone que las ISAPRES podrán aceptar que el cotizante, además de sus familiares beneficiarios señalados en el inciso primero de ese artículo, incluya en el Contrato de Salud como beneficiarios a otras personas; las que enterarán cuando proceda sus cotizaciones de salud y dejarán de ser beneficiarios del Libro II de esta Ley cuando corresponda.
+
+Ahora bien, el DFL N°1, distingue entre los excedentes de cotizaciones y los excesos de cotizaciones, pero no define estos últimos. Por su parte, la Superintendencia de Salud ha señalado que el exceso de cotizaciones corresponde a las cotizaciones percibidas por la ISAPRE que superan el monto de la cotización mínima legal para salud o de la cotización según el plan contratado, si ésta es mayor que la cotización mínima señalada ; lo que se produce en términos generales cuando se efectúan aportes de cotizaciones extraordinarias, por sobre el mínimo legal, ya sea por el propio afiliado o por beneficiarios cotizantes. En atención a que dicho exceso no forma parte de la cotización mínima legal o es superior al precio del plan contratado, a diferencia de los excedentes de cotizaciones, deben ser devueltos en dinero, mediante solicitud efectuada al efecto. Asimismo, se debe resaltar que al ser el Contrato de Salud, un solo contrato y un solo plan de salud, los excesos o excedentes que se produzcan también son únicos, aunque financiada mediante dos aportes, que configuran la cotización total .
+
+De las consideraciones anteriores y normas legales citadas, a juicio de este Servicio, se puede concluir que las cotizaciones en exceso enteradas por los beneficiarios adscritos a un Contrato de Salud, al momento de su devolución al titular del mismo, por disposición de la Superintendencia de Salud, tienen el carácter de ingreso percibido por éste, en su calidad de afiliado al régimen que establece la Ley, y suscriptor de un Contrato de Salud, acuerdo que es obligatorio para las partes, y en virtud del cual es el titular de los derechos y obligaciones que emanan del mismo.
+
+III.- CONCLUSIONES.
+Basado estrictamente en los antecedentes que indica en su requerimiento, si se efectúa la devolución de la cotización mínima obligatoria (7%) enterada por la carga legal o beneficiario, al titular del Contrato de Salud, la cotización recibida en calidad de exceso, constituye un incremento patrimonial para dicho titular, ya que recibe una cantidad que no le ha significado un gasto o desembolso, el que estará afecto a las reglas generales, debiendo reconocerse en el período en el cual se perciben para efectos de determinar el Impuesto Global Complementario en el año tributario correspondiente.
+Por su parte, el beneficiario cotizante no deberá efectuar una reliquidación del Impuesto Único que le hubiere correspondido declarar en su oportunidad, ya que habría cumplido, de acuerdo a lo que indica la ley, en tiempo y forma con sus obligaciones tributarias, al momento de efectuar el aporte, al descontarse dichas cantidades de sus rentas afectas al Impuesto Único de Segunda Categoría.
+
+Lo anterior, es sin perjuicio de las atribuciones de la Superintendencia de Salud para fijar los procedimientos que procedan para concretar la devolución del exceso de cotizaciones enteradas por la carga legal o beneficiario.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1771, de 08.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,74 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1438 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42 – LEY N° 20780, DE 2014 – CIRCULAR N° 6, DE 1986 – OFICIO N° 1294, DE 2005. (ORD..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1438.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1438.doc"
+materia: "iva"
+fecha: "2016-05-24"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42 – LEY N° 20780, DE 2014 – CIRCULAR N° 6, DE 1986 – OFICIO N° 1294, DE 2005. (ORD. N° 1438, DE 24.05.2016)
+
+IMPUESTO ADICIONAL A LAS BEBIDAS ANALCOHÓLICAS, ESTABLECIDO EN EL ARTÍCULO 42, LETRA A) DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
+
+I ANTECEDENTES
+
+En la presentación se expone que la reforma tributaria estableció un impuesto de 10% a las bebidas analcohólicas con bajo contenido de azúcar, lo que sería un error técnico debido a que las bebidas se clasificarían en bebidas con o sin azúcar.
+
+Señala que los grandes fabricantes de jugos comienzan la elaboración a partir de pulpa de frutas y están obligados a agregar agua y, por tanto, tienen que agregar azúcar para mejorar el sabor.
+
+En cambio, los pequeños fabricantes de jugo (artesanos y pymes) muelen la fruta y luego la prensan o exprimen sin agregar azúcar para fabricar jugos, de modo que la bebida solo tendría el azúcar natural de la fruta.
+Por lo expuesto estima que el impuesto de 10% estaría mal aplicado y sugiere que las bebidas declaradas sin edulcorante y azúcar queden sólo afectas al Impuesto al Valor Agregado.
+
+II ANÁLISIS
+
+Antes de resolver el fondo de su consulta, se hace presente que la misma no informa cuál sea la normativa específica que genera los problemas advertidos en la presentación.
+
+Sin embargo, este Servicio entiende que su presentación alude a las modificaciones introducidas por la Ley N° 20.780, sobre reforma tributaria, al artículo 42 de la Ley sobre Impuesto a las Ventas y Servicios contenida en el decreto ley N° 825, de 1974 (Ley de IVA), el cual establece un impuesto adicional a las bebidas analcohólicas y cuyo texto – en lo pertinente – quedó como sigue:
+
+“Artículo 42°: Sin perjuicio del impuesto establecido en el Título II de esta ley, las ventas o importaciones, sean estas últimas habituales o no, de las especies que se señalan en este artículo, pagarán un impuesto adicional con la tasa que en cada caso se indica, que se aplicará sobre la misma base imponible que la del impuesto al valor agregado:
+
+a) Bebidas analcohólicas naturales o artificiales, energizantes o hipertónicas, jarabes y en general cualquier otro producto que las sustituya o que sirva para preparar bebidas similares, y aguas minerales o termales a las cuales se las haya adicionado, colorante, sabor o edulcorantes, tasa del 10%.
+
+En el caso que las especies señaladas en esta letra presenten la composición nutricional de elevado contenido de azúcares a que se refiere el artículo 5° de la Ley N° 20.606, la que para estos efectos se considerará existente cuando tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente, la tasa será de 18%...”
+
+Este nuevo texto presenta tres modificaciones significativas respecto del anterior:
+
+1) Se reduce la tasa de impuesto desde un 13% a un 10% para el caso de las bebidas analcohólicas;
+2) Se incluyen las bebidas energizantes o hipertónicas dentro de aquellas bebidas cuya adquisición o importación se encuentra afecta a este impuesto adicional; y,
+3) Se incorpora un nuevo párrafo en la actual letra a), del artículo 42, que condiciona la tasa a aplicar a la composición nutricional de elevado contenido de azúcares, presente en las bebidas señaladas en dicha letra.
+
+Dicho lo anterior, y en lo que respecta a las objeciones planteadas en su presentación, es necesario aclarar que:
+
+1) Tras las modificaciones introducidas por la Ley N° 20.780 al artículo 42 de la Ley de IVA, no se ha incorporado un “nuevo” impuesto de 10% a las bebidas analcohólicas con bajo contenido de azúcar. En rigor, esas bebidas ya se encontraban afectas al impuesto adicional, con tasa de 13% (que se redujo a 10%), con anterioridad a la reforma tributaria introducida por la Ley N° 20.780.
+
+2) Por otra parte, sobre la situación específica de los jugos de frutas artesanales que indica en su presentación, cabe reiterar la jurisprudencia administrativa de este Servicio en el sentido que el impuesto adicional en comento grava las bebidas analcohólicas preparadas con jugos de frutas y otros vegetales y/o sus extractos, cuando se adicione agua o gas, esencias, colorantes u otros aditivos permitidos, que modifiquen el estado puro del jugo de fruta.
+
+Por consiguiente, no quedan gravados con el impuesto adicional los jugos de frutas, en estado puro, incluyendo el que se reconstituya para mantener su condición líquida sin adicción artificial de ninguna especie, salvo los agentes de preservación necesarios para mantener el buen estado de consumo por un determinado número de días.
+
+Luego, considerando que las modificaciones introducidas por la reforma tributaria al artículo 42 de la Ley de IVA no han alterado la naturaleza de las bebidas analcohólicas gravadas con impuesto adicional, la referida jurisprudencia administrativa sigue siendo plenamente aplicable.
+
+III CONCLUSIÓN
+
+La Ley N° 20.780, sobre reforma tributaria, no estableció un nuevo impuesto a las bebidas analcohólicas con bajo contenido de azúcar, ya que esas bebidas se encontraban afectas según el anterior texto del artículo 42 de la Ley de IVA.
+
+Respecto de las bebidas analcohólicas preparadas con jugo de fruta, quedan gravadas cuando en el proceso se agrega agua o gas, esencias, colorantes u otros aditivos que modifiquen el estado puro del jugo de fruta. En cambio, si en el proceso no se pierde el estado puro del jugo de frutas, no se aplica el impuesto adicional.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1438, de 24.05.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

@@ -1,0 +1,5 @@
+source: oficio-otros-2027.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja2027.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2018/ja2027.doc
+materia: otros
+retrieved: 2026-11-11

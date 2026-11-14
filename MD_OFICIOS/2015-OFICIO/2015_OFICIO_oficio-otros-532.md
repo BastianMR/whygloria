@@ -1,0 +1,58 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 532 (2015)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 126° – DECRETO SUPREMO N° 794, DE 1948. (ORD. N° 532, DE 19.02.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja532.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja532.doc"
+materia: "otros"
+fecha: "2015-02-19"
+exenta: false
+impuestos: ["contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 126° – DECRETO SUPREMO N° 794, DE 1948. (ORD. N° 532, DE 19.02.2015)
+
+APLICACIÓN DE LA EXENCIÓN CONTENIDA EN EL CONVENIO SOBRE PRERROGATIVAS E INMUNIDADES DE LAS NACIONES UNIDAS.
+
+Se solicita un pronunciamiento respecto de la aplicación de la exención contenida en la Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas, a las rentas percibidas por la Caja Común de Pensiones del Personal de las Naciones Unidas. (en adelante la Caja).
+
+I. ANTECEDENTES
+
+En la presentación se expone que la Caja es un fondo establecido por la Asamblea General de las Naciones Unidas, que tiene por finalidad proporcionar prestaciones de jubilación, fallecimiento e incapacidad y otras prestaciones conexas al personal de las Naciones Unidas y de las demás organizaciones admitidas como afiliadas al Fondo.
+
+Se agrega que los fondos de la Caja son invertidos en más de 44 países, incluyendo Chile, en valores mobiliarios, tales como acciones con presencia bursátil, bonos, cuotas de fondos de inversión y otros. Las rentas que se originen serían remesadas al exterior y respecto de ellas pide que se confirme el criterio que expone, en el sentido que se encuentra exentas de impuesto en virtud de lo dispuesto en la sección 7 del artículo II de la Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas.
+
+II. ANÁLISIS
+
+La Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas, suscrita por Chile y aprobada por el Decreto Supremo N° 794, del Ministerio de Relaciones Exteriores, publicado en el D.O. del 14 de diciembre de 1948, en el artículo II, Bienes, Fondos y Haberes, Sección 7, letra a), establece lo siguiente:
+
+“Las Naciones Unidas, así como sus bienes, ingresos y otros haberes, estarán:
+“a) exentas de toda contribución directa, entendiéndose, sin embargo, que las Naciones Unidas no podrán reclamar exención alguna por concepto de contribuciones que, de hecho, constituyan una remuneración por servicios públicos. “
+
+En relación a esta convención, el Servicio ha sostenido en diversos pronunciamientos que por tener el carácter de un tratado internacional, se incorpora al orden jurídico interno con el valor de una ley, primando sobre las leyes vigentes que pudieren ser incompatibles con lo acordado en su texto. En consecuencia, las Naciones Unidas se encuentra exenta del pago de impuesto por las rentas que perciba o devengue en Chile, por aplicación de la norma reproducida en el párrafo anterior.
+
+En el caso específico de la consulta que se formula, cabe señalar que el número 2 del artículo 7 de la Carta de las Naciones Unidas, faculta a dicha organización para establecer los órganos subsidiarios que se estimen convenientes. En uso de esa facultad, la Asamblea General de las Naciones Unidas aprobó los Estatutos de la Caja mediante la Resolución N° 248 (III), que entró en vigor el 23 de enero de 1949.
+
+Por lo expuesto, y dado que la Caja es un órgano subsidiario de las Naciones Unidas y por lo mismo, parte de la citada organización, puede invocar las disposiciones de la Convención sobre Prerrogativas e Inmunidades de las Naciones Unidas mencionadas en los párrafos anteriores, para los efectos de liberarse del pago de impuesto por las rentas que perciba o devengue en Chile. En el caso que se le retenga indebidamente sumas o cantidades por concepto de impuesto adicional, puede pedir la devolución de esas cantidades de acuerdo a lo previsto en el artículo 126 del Código Tributario, teniendo la Caja un plazo de tres años para solicitar la restitución de tales sumas o cantidades.
+
+III. CONCLUSIÓN
+
+Conforme a lo señalado se confirma que la Caja, en su calidad de órgano subsidiario de las Naciones Unidas, pueden invocar las exenciones previstas en el Convenio sobre Prerrogativas e Inmunidades de esa organización.
+
+En el evento de que se le hubieren retenido indebidamente sumas o cantidades por concepto de impuesto adicional, la Caja puede solicitar directamente la devolución de dichas sumas o cantidades, conforme a lo dispuesto en el artículo 126 del Código Tributario.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 532, de 19.02.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

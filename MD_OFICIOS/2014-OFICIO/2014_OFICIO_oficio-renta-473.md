@@ -1,0 +1,89 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 473 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 104°, N°4, ART. 74°, N°7 – CÓDIGO TRIBUTARIO, ART. 66° – RES. EX. N° 36, DE 2011 – CIRCULAR N° 31, DE 2007. (OR..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja473.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja473.doc"
+materia: "renta"
+fecha: "2014-03-21"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 104°, N°4, ART. 74°, N°7 – CÓDIGO TRIBUTARIO, ART. 66° – RES. EX. N° 36, DE 2011 – CIRCULAR N° 31, DE 2007. (ORD. N° 473, DE 21.03.2014)
+
+APLICACIÓN DE LO DISPUESTO EN EL ARTÍCULO 104 DE LA LEY SOBRE IMPUESTO A LA RENTA, A PARTIR DE LA VIGENCIA DE LA LEY N° 20.712 DE 2014, A LOS INSTRUMENTOS DE DEUDA DE OFERTA PÚBLICA EMITIDOS POR EL BANCO CENTRAL DE CHILE NO SUJETOS ACTUALMENTE AL RÉGIMEN TRIBUTARIO CONTENIDO EN DICHA NORMA.
+
+Se ha solicitado un pronunciamiento a este Servicio, respecto de los efectos tributarios del eventual cambio de régimen que afecta a los instrumentos de deuda de oferta pública emitidos por el Banco Central de Chile, que actualmente no se encuentran amparados en las normas del artículo 104 de la Ley sobre Impuesto a la Renta (en adelante indistintamente LIR), y que conforme al texto del nuevo N°4, del citado artículo, que regirá a contar de la vigencia de la Ley N° 20.712, podrán acogerse a dicho régimen.
+
+I.- ANTECEDENTES.
+
+Señala que el numeral 7, del artículo tercero de la Ley N° 20.712, sustituye el artículo 104 de la LIR. Asimismo, de acuerdo con lo establecido en el numeral 3, de la citada ley, se reemplaza el inciso tercero del N° 2, del artículo 20 de la LIR.
+
+De acuerdo con estas modificaciones, el N° 4 del nuevo artículo 104 de la LIR, dispone que, tratándose de instrumentos de deuda emitidos por el Banco Central de Chile, podrán acogerse a lo dispuesto en dicha norma legal aunque no cumplan con uno o más de los requisitos señalados en sus numerales 1 y 2, siempre que los respectivos títulos, a solicitud del Banco, se encuentren incluidos en la nómina de instrumentos elegibles, que para tales efectos, establecerá el Ministerio de Hacienda mediante decreto supremo expedido bajo la fórmula “Por Orden del Presidente de la República”, debiendo cumplir con las características y condiciones que en el mismo decreto se definan, incluyendo la tasa de interés fiscal.
+
+Por su parte, el nuevo inciso tercero, del N° 2, del artículo 20 de la LIR, establece la forma en que se determina la base imponible para efectos de la aplicación del impuesto que grava los intereses que devengan los instrumentos de oferta pública de que trata el artículo 104.
+
+Indica que estas modificaciones, conforme a lo dispuesto en el artículo 7° transitorio, de la Ley N° 20.712, rigen a contar de la fecha de vigencia general establecida en el artículo 1° transitorio de la misma ley, esto es, a contar del primer día del mes subsiguiente al de la dictación del decreto supremo del Ministerio de Hacienda que reemplace a los actuales Decretos Supremos N° 1.179 de 2010 y N° 864 de 1989, ambos del Ministerio de Hacienda.
+
+Agrega que, de acuerdo al análisis efectuado en reuniones sostenidas por funcionarios del Banco Central de Chile con personeros del Ministerio de Hacienda y de este Servicio, se ha entendido que podrían acogerse a este régimen tributario -a contar de la vigencia de éstas modificaciones- los instrumentos emitidos por el Banco Central de Chile, en los términos y condiciones que se indican, sea que tales títulos se encuentren actualmente acogidos al artículo 104 de la LIR; como también, aquellos que no cuenten actualmente con dicho beneficio tributario por haber sido emitidos con anterioridad al año 2010.
+
+Es respecto del último grupo de instrumentos, que considera que podrían existir problemas, en la medida que el Banco solicite al Ministerio de Hacienda que se incluyan en la nómina respectiva para los efectos del nuevo artículo 104, ya que se podría estimar que se habrían modificado unilateralmente las condiciones de emisión; y por lo tanto, eventualmente generarse controversias con los tenedores de dichos títulos siempre que se considere que se les han establecido nuevos gravámenes o que se les inferirían perjuicios de índole patrimonial.
+
+En razón de lo anterior, y respecto de los bonos emitidos con anterioridad al año 2010, solicita un pronunciamiento de este Servicio sobre los siguientes puntos:
+
+i) Que las obligaciones tributarias y el tratamiento impositivo consignado en el nuevo artículo 104 de la LIR, no ocasionarán perjuicios de índole patrimonial para el inversionista en su carácter de tenedor actual de estos títulos emitidos con anterioridad al año 2010.
+
+ii) Que la obligación de establecer un agente retenedor u otras que se consignan en ese régimen tributario, no introducen variaciones que puedan causar detrimento a las actuales condiciones tributarias aplicables a los inversionistas extranjeros establecidas por la legislación o por la normativa dictada por el Servicio de Impuestos Internos en uso de sus atribuciones; y, por ende, que no se les generarían nuevos gravámenes u obligaciones de esta naturaleza; considerado especialmente lo previsto en la Resolución Exenta N° 36 de 2011.
+
+II.- ANÁLISIS.
+
+La Ley N° 20.712, sobre administración de fondos de terceros y carteras individuales, publicada en el diario oficial con fecha 7 de enero de 2014, introduce varias modificaciones a la LIR, una de las cuales dice relación con el reemplazo del texto del actual artículo 104 por uno nuevo, con el objeto de perfeccionar el régimen establecido en dicha norma.
+
+Conjuntamente con lo anterior, se modifican las normas sobre determinación del interés devengado en instrumentos de deuda de oferta pública a que se refiere el artículo 104 de la LIR, contenidas en el inciso 3°, del N °2, del artículo 20 de la LIR, y las normas de retención de impuesto sobre dichos intereses, contenidas en el N° 7, del artículo 74 de la LIR.
+
+Todas estas modificaciones, tal como indica en su presentación, entrarán en vigencia a contar del primer día del mes subsiguiente al de la dictación del decreto supremo del Ministerio de Hacienda a que se refiere el artículo 1° transitorio de la Ley N° 20.712, plazo que debe contarse desde el mes en que sea publicado en el diario oficial el referido decreto supremo.
+
+De acuerdo con lo establecido en el nuevo N° 4, del artículo 104 de la LIR, que entrará en vigencia en la fecha antes indicada, los instrumentos emitidos por el Banco Central de Chile podrán acogerse a lo dispuesto en este artículo aunque no cumplan con uno o más de los requisitos señalados en los números 1 y 2, del citado precepto legal, siempre que se encuentren incluidos en la nómina de instrumentos elegibles que, para estos efectos, establecerá el Ministerio de Hacienda mediante decreto supremo expedido bajo la fórmula “Por orden del Presidente de la República”, y que cumplan con las características y condiciones que en el mismo se definan, incluyendo la tasa de interés fiscal. La inclusión de dichos instrumentos en la nómina de instrumentos elegibles, deberá ser solicitada previamente por el Banco Central de Chile.
+
+Como puede apreciarse, la aplicación del régimen tributario establecido en el artículo 104 de la LIR, respecto de los instrumentos emitidos por el Banco Central de Chile, está condicionada a su inclusión en la nómina de instrumentos elegibles establecida por Decreto Supremo del Ministerio de Hacienda, siendo en tal caso, el Banco Central de Chile quien debe decidir qué instrumentos serán considerados en la solicitud que debe efectuar al Ministerio de Hacienda para ser incluidos en dicha nómina; sea que se trate de instrumentos cuya emisión y colocación ocurra con posterioridad a su inclusión en la nómina, o bien, de instrumentos emitidos y colocados con anterioridad a este hecho.
+
+Al respecto, se hace presente que los instrumentos emitidos y colocados con posterioridad a su inclusión en la nómina de instrumentos elegibles, desde su inicio tendrían el carácter de instrumentos de deuda de oferta pública a que se refiere el artículo 104 de la LIR.
+
+Ahora bien, en relación a los instrumentos emitidos y colocados con anterioridad a su inclusión en la nómina indicada en el nuevo N° 4, del artículo 104 de la LIR, se debe distinguir entre aquellos que ya se encuentran amparados en el artículo 104 actualmente vigente, y los que no se encuentran acogidos a esta norma.
+
+Los primeros, por aplicación de lo dispuesto en el artículo 8° transitorio de la Ley N° 20.712, podrán gozar de la liberación tributaria del nuevo artículo 104, en los términos que señala la norma transitoria y cumpliendo los requisitos que dicha norma establece, sin perjuicio que, para mayor beneficio y certeza de los inversionistas, el Banco Central de Chile pueda solicitar su inclusión en la nómina de instrumentos elegibles, en virtud de lo dispuesto en el nuevo N° 4, del artículo 104 de la LIR, que entrará en vigencia con la Ley N° 20.712, gozando de los beneficios del nuevo artículo 104 de la LIR, en los términos allí establecidos.
+
+En cuanto a los instrumentos no acogidos actualmente al artículo 104 de la LIR, y que se incorporen posteriormente a la nómina de instrumentos elegibles, se produciría un cambio en el régimen tributario que les resulta aplicable, en lo que respecta a las ganancias de capital obtenidas en la enajenación de dichos instrumentos, toda vez que, a partir de su inclusión en la nómina señalada, el mayor valor obtenido en la enajenación de estos instrumentos, no constituirá renta para los efectos de la LIR, conforme a lo dispuesto por el inciso 1°, del citado artículo 104; situación que no ocurre actualmente, puesto que estas rentas se afectan con el Impuesto de Primera Categoría y Global Complementario o Adicional, según corresponda; o bien, con el Impuesto de Primera Categoría en carácter de único, dependiendo de si existe o no relación entre enajenante y adquirente, en los términos del inciso 4°, del N° 8, del artículo 17 de la LIR; o de si la operación es el resultado de actividades realizadas habitualmente por el contribuyente, según dispone el artículo 18 de la misma ley.
+
+Tratándose de los intereses generados por estos instrumentos, tanto antes y después de su incorporación a la nómina de instrumentos elegibles, constituyen rentas clasificadas en el N° 2, del artículo 20 de la LIR, afectas a los Impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda, siendo aplicable la exención del Impuesto de Primera Categoría, cuando dichas rentas sean obtenidas por contribuyentes que no sean empresas que desarrollan actividades clasificadas en los N°s 3, 4 y 5 del artículo 20 de la LIR, que determinen renta efectiva, según lo dispuesto en el N° 4 e inciso final, del artículo 39 de la LIR; y la exención del Impuesto Global Complementario, cuando el total de rentas del artículo 20 N° 2, no exceda en su conjunto, de 20 unidades tributarias mensuales vigentes en el mes de diciembre de cada año, siempre que sean percibidas por contribuyentes cuyas otras rentas consistan únicamente en aquellas sometidas a la tributación de los artículos 22 y/o 42 N°1 de la LIR. Según se ha señalado, respecto de este tipo de renta no se modifica el régimen tributario, pero sí cambiaría la modalidad de determinación de la misma, puesto que antes de su incorporación en la nómina, los impuestos que afectan a dichos intereses se determinan, por regla general, sobre base percibida, conforme lo establece el inciso segundo del artículo 29 de la LIR, salvo que se trate de contribuyentes que desarrollen actividades de los N°s 1, 3, 4 y 5, del artículo 20 de dicha ley, quienes deben tributar sobre la base de los intereses percibidos o devengados. A partir de su inclusión en la nómina, todos los contribuyentes deberán tributar sobre la base de los intereses devengados por dichos instrumentos, según lo dispuesto en la letra g), del N° 2, del artículo 20 de la LIR, determinados conforme a lo establecido en el inciso 3° del mismo artículo.
+
+Acorde con lo anterior, también se modifica la forma y oportunidad en que debe efectuarse la retención de Impuesto Adicional, conforme a las reglas del artículo 74 de la LIR, respecto de los intereses correspondientes a contribuyentes sin domicilio ni residencia en Chile. Antes de la vigencia de la Ley N° 20.712 y su inclusión en la nómina que establece el N° 4, del artículo 104 de la LIR, la retención se aplica sobre las sumas remesadas al exterior por estos conceptos, con una tasa del 4%, según lo dispuesto en el N° 1, del inciso 4°, del artículo 59 y N° 4 del artículo 74, ambos de la LIR, obligación que debe ser cumplida por quien efectúa el pago, remesa, abono en cuenta o puesta disposición de la referida renta. Posterior a la vigencia de la Ley N° 20.712, y su inclusión en la nómina referida, la retención se efectuará sobre el total del interés devengado por el titular del instrumento en el ejercicio, de acuerdo a las reglas que establece la LIR, también con una tasa del 4%. Sin embargo, en este caso, el sujeto obligado a efectuar la retención y a enterarla en arcas fiscales, será el representantes, custodio, intermediario, depósito de valores u otra persona que haya sido designada o contratada por el contribuyente sin domicilio ni residencia en Chile, para efectos de cumplir con las obligaciones tributarias provenientes de la tenencia o enajenación de estos instrumentos, todo ello según lo dispuesto en el nuevo texto del N° 7, del artículo 74 de la LIR, que entrará en vigencia con la Ley N° 20.712.
+
+En relación a la obligación que tendría el contribuyente sin domicilio ni residencia en Chile, de designar o contratar una persona responsable del cumplimiento de las obligaciones tributarias provenientes de las operaciones antes señaladas, para efectos de lo establecido en el nuevo N° 7, del artículo 74 de la LIR, cabe indicar, que esta norma no ha modificado la obligación legal que actualmente rige respecto de cualquier contribuyente sin domicilio ni residencia en Chile que realice inversiones en el país, ya que conforme a lo dispuesto en el artículo 66 del Código Tributario, toda persona natural o jurídica y las entidades o agrupaciones sin personalidad jurídica, susceptibles de ser sujetos de impuestos, deben estar inscritas en el Rol Único Tributario, obligación que en el caso de contribuyentes sin domicilio ni residencia en Chile necesariamente debe ser cumplida a través de representante o mandatario, según lo instruido por este Servicio en la Circular N° 31 de 2007, siendo dicho representante o mandatario el responsable de cumplir con las obligaciones tributarias de su representado o mandante. En caso que la inscripción en el Rol Único Tributario se realice a través del procedimiento simplificado regulado en la Resolución Exenta N°36 de 2011, de todas formas el contribuyente sin domicilio ni residencia en Chile deberá celebrar un contrato con un “agente” constituido o domiciliado en Chile en los términos indicados en dicha resolución, el que se hará responsable de las obligaciones tributarias del contribuyente. Por lo tanto, la modificación legal, solo dice relación con establecer expresamente la obligación de retener y enterar el impuesto que afecte al contribuyente sin domicilio ni residencia en Chile, por los intereses devengados en este tipo de instrumentos, al representante o agente designado o contratado por el contribuyente para efectos tributarios.
+
+III.- CONCLUSIÓN.
+
+De acuerdo al análisis anterior, se responden las consultas efectuadas en su presentación:
+
+i) No corresponde a este Servicio referirse a los eventuales perjuicios de índole patrimonial que pueda experimentar un inversionista, en su carácter de tenedor actual de títulos emitidos por el Banco Central de Chile con anterioridad al año 2010, que puedan derivarse de la inclusión de dichos títulos en la nómina de instrumentos elegibles establecida por decreto supremo del Ministerio de Hacienda, según lo dispuesto en el nuevo N° 4, del artículo 104 de la LIR, que rige a contar de la vigencia general de la Ley N°20.712. En todo caso, se ha descrito de manera somera en el análisis, los cambios en el régimen de tributación que implicaría para un inversionista no residente ni domiciliado en Chile; en caso que los referidos instrumentos pasen a regirse por las nuevas normas contenidas en el artículo 104 de la LIR.
+
+ii) La obligación que tienen los inversionistas sin domicilio ni residencia en Chile que inviertan en instrumentos de deuda de oferta pública a que se refiere el artículo 104 de la LIR, de designar o contratar una persona responsable de las obligaciones tributarias provenientes de la enajenación o tenencia de dichos instrumentos, emana de lo dispuesto en el artículo 66 del Código Tributario, cuyas instrucciones se encuentran contenidas en la Circular N°31 de 2007, y en la Resolución Exenta N° 36 de 2011 de este Servicio.
+
+Por lo tanto, el nuevo N° 7, del artículo 74 de la LIR, solo viene a establecer la obligación de retener y pagar el impuesto que grava al interés devengado en los instrumentos de deuda antes señalados, y que deberá ser cumplida por la persona que, conforme a las normas e instrucciones antes indicadas, haya sido designada o contratada por el inversionista sin domicilio ni residencia en Chile.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR
+
+Oficio N° 473, de 21.03.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

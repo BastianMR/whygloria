@@ -1,0 +1,5 @@
+source: oficio-iva-2309.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2309.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2309.doc
+materia: iva
+retrieved: 2026-11-11

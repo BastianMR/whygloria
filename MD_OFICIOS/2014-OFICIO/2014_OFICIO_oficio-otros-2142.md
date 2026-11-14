@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 2142 (2014)"
+description: "TIMBRE Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE –ART. 3°, N°1, ART. 9°, N°3, ART. 23°, N°1. (ORD. N° 2142, DE 21.11.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja2142.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja2142.doc"
+materia: "otros"
+fecha: "2014-11-21"
+exenta: false
+impuestos: ["timbres", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+TIMBRE Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE –ART. 3°, N°1, ART. 9°, N°3, ART. 23°, N°1. (ORD. N° 2142, DE 21.11.2014)
+
+SOLICITA CONFIRMAR EXENCIÓN DE IMPUESTO DE TIMBRES Y ESTAMPILLAS EN CASO QUE INDICA.
+
+Se ha solicitado a este Servicio confirmar que los préstamos de auxilio otorgados por una Caja de Previsión a sus imponentes y montepiadas se encuentran exentos del Impuesto de Timbres y Estampillas
+I ANTECEDENTES
+Conforme lo expuesto en su presentación, la Contraloría General de la República realizó una fiscalización a XXXX en relación a los préstamos de auxilio social que dicha institución realiza a sus imponentes y montepiados.
+En su Informe Final N° xxx de fecha xx.xx.xxxx, el organismo contralor observó que XXXX otorga préstamos de auxilio a sus beneficiarios con distintos plazos. En el caso de créditos a 36 meses plazo, se emite un pagaré y se paga el Impuesto de Timbre y Estampillas respectivo. En los créditos a 10 meses plazo no se emite dicho documento y no se paga el impuesto aludido.
+Según consigna el referido informe, XXXX hizo presente que le favorecía la exención contemplada en el artículo 32 de su Ley Orgánica , exención que mantendría hasta que no se reúna el capital suficiente para cubrir la totalidad de las pensiones y demás cargas que debe pagar, situación que se extiende hasta la fecha.
+Asimismo, se indica que se trata de una exención de carácter personal, de suerte que, siendo acreedora en los préstamos auditados, tiene la calidad de sujeto pasivo del Impuesto de Timbres y Estampillas, aplicándose a su respecto la referida exención.
+En vista de lo anterior, el informe del organismo contralor concluye que correspondía formular la consulta y remitir la respuesta a la Contraloría General de la República, atendido que este Servicio está encargado de pronunciarse sobre la pertinencia de las observaciones formuladas por XXXX.
+En consideración a lo señalado, el consultante solicita confirmar que los préstamos de auxilio otorgados por XXXX a sus imponentes y montepiadas se encuentran exentos del Impuesto de timbres y Estampillas establecido en el artículo 1° numeral 3°del D.L. N° 3.475 de 1980.
+II ANÁLISIS
+De acuerdo a los antecedentes, XXXX funda la exención de Impuesto de Timbres y Estampillas en el artículo 32 de su Ley Orgánica. Dicho precepto dispone que ‘XXXX estará exenta del pago de impuesto y contribuciones fiscales y municipales, hasta que reúna el capital suficiente para cubrir la totalidad de las pensiones y demás cargas.’
+Como primera cuestión, si bien la palabra ‘impuesto’ puede entenderse en un sentido amplio que cubra al Impuesto de Timbres y Estampillas, es pertinente determinar si la exención contenida en el artículo 32 antes citado se encuentra vigente para los efectos de este impuesto.
+Al respecto, el artículo 23, inciso primero, de la Ley sobre Impuesto de Timbres y Estampillas, dispone que ‘sólo estarán exentas de los impuestos que establece el presente decreto ley’ las personas e instituciones que señala a continuación. Luego, y como este Servicio instruyó en su oportunidad , ‘todas las exenciones personales y reales contenidas en otros textos legales que no sean el Decreto Ley N° 619, texto derogado a contar del 1° de Noviembre de 1980, por el artículo 32 del Decreto Ley N° 3.475, continúan vigentes luego de dicha fecha, si se dictaron con posterioridad al 22 de Septiembre de 1974, fecha de vigencia del Decreto Ley N° 619’.
+De este modo, aun interpretando que el artículo 32 de la Ley Orgánica de XXXX cubre al Impuesto de Timbres y Estampillas, por tratarse de una exención otorgada con anterioridad al 22.11.1974, debe entenderse derogada en lo que respecta a dicho impuesto.
+Sin perjuicio de lo anterior, XXXX puede gozar de la exención personal establecida a favor del Fisco y contenida en el artículo 23 N° 1 de la Ley sobre Impuesto de Timbres y Estampillas.
+A propósito de dicha exención y en base a lo informado en su oportunidad por la Contraloría General de la República , este Servicio resolvió que el concepto Fisco comprende a todos aquellos entes u organismos de la administración del Estado, centralizados o descentralizados .
+Luego, en la medida que XXXX, de acuerdo a su Ley Orgánica , forma parte integrante de la Administración del Estado, se informa que está amparada por la exención personal de Impuesto de Timbres y Estampillas contenida en el artículo 23 N° 1 de la ley en comento.
+Esclarecido lo anterior, resta determinar el alcance de la exención personal respecto de las operaciones descritas en la presentación. Sobre el particular, este Servicio ha señalado que la exención de carácter personal contenida en el artículo 23 N° 1 sólo puede ser impetrada por las instituciones o servicios que forman parte de la Administración del Estado y sólo respecto de aquellas operaciones en que intervengan con el carácter de sujeto pasivo de derecho; esto es, de sujetos que por ley deban cumplir con la obligación tributaria . Lo anterior, ha sido reiterado por este Servicio en sucesivos pronunciamientos emitidos sobre la materia, señalando además que no es suficiente para que opere dicha liberalidad que la entidad favorecida sea parte de un determinado acto o contrato o tenga un interés actual en él, sino que es requisito de validez y existencia que revista tal calidad, elemento sin el cual la liberación del tributo resulta inaplicable .
+En el caso analizado, y de acuerdo a los antecedentes, XXXX otorga créditos con o sin pagaré de respaldo; créditos que se encuentran gravados conforme al artículo 1° N° 3 de la Ley sobre Impuesto de Timbres y Estampillas y respecto de los cuales el sujeto pasivo del impuesto es el beneficiario o acreedor por aplicación de lo dispuesto en el artículo 9 N° 3 del mismo cuerpo legal .
+En el caso analizado, el sujeto pasivo del impuesto, y por consiguiente sujeto exento por aplicación del artículo 23 N° 1 de la Ley sobre Impuesto de Timbres y Estampillas, es XXXX.
+
+III CONCLUSION
+
+De conformidad a lo expuesto, no es posible confirmar el criterio expuesto por XXXX, atendido que la exención personal de impuestos contemplada en el artículo 32 de su Ley Orgánica debe entenderse derogada para los efectos del Impuesto de Timbres y Estampillas.
+Sin perjuicio de lo anterior, en la medida que XXXX forma parte integrante de la Administración del Estado, comparece a su respecto la exención personal de Impuesto de Timbres y Estampillas a favor del Fisco, contenida en el artículo 23 N° 1 de la ley del ramo.
+Finalmente, en la medida que XXXX tiene la calidad de sujeto pasivo del impuesto respecto de los créditos descritos en su presentación, aplica a su respecto la exención personal antes referida.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 2142, de 21.11.2014
+Subdirección Normativa
+Dpto. de Técnica Tributaria

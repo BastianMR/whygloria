@@ -1,0 +1,87 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1589 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°5, N°11, ART. 38° BIS – CÓDIGO TRIBUTARIO, ART. 69° – CIRCULAR N° 29 DE 1999 – OFICIO N° 2923, DE 1998. ..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1589.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1589.doc"
+materia: "renta"
+fecha: "2014-09-05"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N°5, N°11, ART. 38° BIS – CÓDIGO TRIBUTARIO, ART. 69° – CIRCULAR N° 29 DE 1999 – OFICIO N° 2923, DE 1998. (ORD. N° 1589, DE 05.09.2014)
+
+IMPROCEDENCIA DE APLICAR EL IMPUESTO ÚNICO ESTABLECIDO EN EL ARTÍCULO 38 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA A ESTABLECIMIENTO EDUCACIONAL PERTENECIENTE A ORDEN RELIGIOSA QUE REALIZA TERMINO DE GIRO.
+
+Se ha requerido un pronunciamiento de este Servicio acerca de la tributación que afecta al término de giro del establecimiento educacional Colegio TTTT, el cual tributa en base a renta efectiva, determinada en base a contabilidad completa.
+
+I.- ANTECEDENTES.
+
+Manifiesta que su representada, XXXX, en adelante, XXXX, sólo para para los efectos de la explotación del Colegio TTTT de Santiago, obtuvo RUT de parte de este Servicio, en una fecha que no ha podido precisar, pero en todo caso, anterior a 1975, figurando en su base de datos como Colegio TTTT, siendo su razón social una especie de nombre de fantasía, que por sí mismo no constituye una persona jurídica independiente.
+
+Bajo el referido RUT, XXXX ha impartido la actividad educacional, utilizando la razón social Colegio TTTT de Santiago, habiendo declarado y pagado todos los impuestos que gravan a dicha actividad educacional, en conformidad con las normas legales y reglamentarias vigentes.
+
+Con fecha 21 de septiembre de 2006, XXXX, en el marco de un proceso de reorganización de sus actividades, decidió constituir la Fundación TTTT, institución sin fines de lucro a la cual traspasó toda la actividad educacional que realizaba el Colegio TTTT. Posteriormente, a través de la Resolución xxx de 2008, el Ministerio de Educación otorgó la calidad de sostenedor del Colegio a la Fundación, oportunidad en la cual XXXX inició el traspaso paulatino de todos los activos y pasivos propios de la actividad de educación, como asimismo, su personal, alumnos y demás obligaciones y autorizaciones necesarias para el funcionamiento del Colegio.
+
+De este modo, y para efectos de mantener una continuidad de la actividad de la educación, teniendo presente que el traspaso de activos y pasivos y demás intangibles necesarios para desarrollar dicha actividad no es instantáneo, y, considerando que la fecha en que se otorgó la calidad de sostenedora a la Fundación fue intermedia, el traspaso se realizó en forma paulatina y conjunta desde el Colegio a la Fundación, suscribiéndose para tal efecto un Contrato de Explotación Conjunta, con fecha 24 de marzo de 2011, el cual establecía liquidaciones parciales y una liquidación final y definitiva, la que se pretende efectuar con fecha 31 de diciembre de 2013.
+
+Durante el lapso que duró esta explotación conjunta y el traspaso definitivo desde el Colegio a la Fundación, fue el primero de ellos quien actuó como gestor del contrato fiduciario, aplicándose las normas del artículo 28 del Código Tributario, y las instrucciones de la Circular 29 de 1999 de este Servicio, y cada cierto tiempo se efectuaba una liquidación parcial para traspasar los ingresos y gastos a la Fundación, período en el cual ambos contribuyentes declararon sus impuestos según las actividades desarrolladas, todas ellas registradas en la contabilidad de cada uno, recordando que el Colegio no es una persona jurídica distinta de la fundación, sino que una parte de ella.
+
+Por lo anterior, considerando que el Colegio no forma una persona jurídica diversa de XXXX, quien actuaba bajo un RUT instrumental otorgado por este Servicio, explotando el forma directa el establecimiento educacional TTTT, al otorgarse la calidad de sostenedora a la Fundación dependiente y constituida de ella, esa Orden entiende que ello no implica una enajenación de activos, como tampoco una fusión u otra actividad comercial u económica, sino un proceso de reorganización de XXXX, no existiendo utilidades, mayores valores ni aportes, sino un traspaso paulatino de la actividad educacional generado a partir de esta explotación conjunta.
+
+El traspaso del Colegio desde XXXX a la Fundación no implica la disolución de la primera, sino sólo un cierre de su actividad que funcionó por autorización de este Servicio como contribuyente independiente, razón por la cual entiende que la liquidación final de este Contrato de Explotación Conjunta, que se pretende efectuar al 31 de diciembre de 2013, implicará el traspaso de utilidades generadas durante la explotación conjunta del Colegio TTTT, las que deben ser traspasadas a la Fundación, debiendo asimilarse al tratamiento tributario de una reinversión de utilidades.
+
+Asimismo, considerando que XXXX es dueña del Colegio TTTT, deberá dar término de giro a dicha actividad de conformidad con las normas del artículo 69 del Código Tributario, no resulta aplicable el impuesto único de 35% establecido en el artículo 38 bis de la Ley sobre Impuesto a la Renta, dado que el Colegio es la misma Compañía, institución sin fines de lucro, no afecta a los impuestos Global Complementario ni Adicional, como tampoco sometida a las normas sobre retiros y distribuciones del artículo 14 de ese mismo texto, puesto que dicho tributo es aplicable a los contribuyentes cuyos propietarios, socios o accionistas estén afectos a dichos impuestos personales, criterio que se encuentra ratificado mediante Oficio N° 2.923 de 1998, de este Servicio.
+
+Por lo anterior, solicita se ratifique que el término de las actividades de educación del Colegio TTTT, perteneciente a XXXX, no genera para ésta la aplicación del impuesto establecido en el artículo 38 bis de la Ley sobre Impuesto a la Renta, pues la entidad que presenta el término de giro no desaparece, no es un contribuyente clasificado en el artículo 14 de la Ley sobre Impuesto a la Renta, y tampoco es una empresa individual, sociedad de personas, sociedad en comandita por acciones, sociedad anónima, sociedad por acciones, ni contribuyente del Impuesto Adicional, y dichas utilidades deben ser traspasadas a la Fundación como una especie de reinversión desde el Colegio a la Fundación a través de la liquidación final del Contrato de Explotación Conjunta suscrito entre ambas entidades.
+
+II.- ANÁLISIS.
+
+De acuerdo a lo expuesto en su presentación, la orden religiosa de XXXX posee el establecimiento educacional Colegio TTTT, que opera como contribuyente desde hace más de 30 años, tributando en base a renta efectiva determinada sobre la base de contabilidad completa, sin que constituya una persona jurídica independiente de XXXX.
+
+Ahora bien, por razones que escapan al ámbito tributario, XXXX, en el año 2006 decidió constituir una fundación educacional al amparo del Título XXXIII del Libro I del Código Civil, denominada Fundación TTTT, a la cual traspasó la actividad educacional del Colegio TTTT. En este punto interesa destacar que si bien el Colegio no cuenta con personalidad jurídica, actuando al alero de XXXX, es innegable que posee una autonomía tributaria, contando con un patrimonio delimitado, tributando como cualquier contribuyente ante las obligaciones establecidas en la Ley sobre Impuesto a la Renta, declarando renta efectiva determinada en base a contabilidad completa por las rentas provenientes de su actividad, clasificada en el N° 4 del artículo 20 de ese texto.
+
+En relación con la materia en análisis, procede señalar que la situación planteada es coincidente con otra expuesta a este Servicio por esa orden religiosa, oportunidad en la cual se consultó por la situación del traspaso de bienes muebles y valores desde el establecimiento educacional Colegio TTTT El Bosque, que también opera con RUT Independiente, a la Fundación Educacional TTTT El Bosque, donde se concluyó que si dicho traspaso se verificaba al momento en que se constituyera la fundación, este no queda gravado con los impuestos establecidos en la Ley sobre Impuesto a la Renta (LIR), por tratarse de un acto inicial de dotación a la nueva persona jurídica, que debe asimilarse a lo que acontece con los aportes de capital, exceptuados de tributación según el N° 5 del artículo 17 de la LIR, sin quedar tampoco gravados con el impuesto a las donaciones establecido en la Ley N°16.271, por tratarse de una acto de destinación que no implica un desplazamiento de bienes entre sujetos de derecho preexistentes.
+
+Por el contrario, si el aporte de bienes se verifica una vez constituida la fundación, ésta tampoco resulta gravada con los impuestos establecidos en esa ley, no obstante experimentar un incremento patrimonial, por cuanto dicho aporte debe ser asimilado a una cuota erogada por un asociado, liberada de tributación en virtud del N°11, del artículo 17 de la LIR, teniendo en especial consideración que tanto el colegio como la fundación reconocen su génesis en una misma orden religiosa, sin que se trate en propiedad del aporte de bienes entre empresas, hecho que determinaría otro tipo de consecuencias jurídicas.
+
+Pues bien, el análisis indicado resulta plenamente aplicable al traspaso de bienes desde el Colegio TTTT a la Fundación TTTT, entidad continuadora de su actividad educacional.
+
+En lo que respecta a la tributación de las rentas obtenidas en virtud del Contrato de Explotación Conjunta, suscrito entre el Colegio TTTT como Gestor, con fecha 24 de marzo de 2011, esto es, 5 años después de creada la fundación , que no fue acompañado, tiene coincidencias con el contrato de asociación o cuentas en participación regulado en el artículo 507 del Código de Comercio, dado que se utiliza la expresión “gestor”, propia de ese contrato, respecto al cual este Servicio ha declarado en múltiples pronunciamientos que este contrato debe ser convenido exclusivamente por quienes sean calificados como comerciantes, y debe tener como objetivo la realización de actos que se tipifiquen como operaciones mercantiles, conforme con las normas del artículo 3 del Código de Comercio, lo que al parecer no ocurriría en el caso en análisis pues la actividad educacional no es una actividad de comercio tipificada en el artículo 3° del Código del ramo.
+
+En relación con dicha materia, el artículo 28 del Código Tributario, preceptúa que el gestor de una asociación o cuentas en participación y de cualquier encargo fiduciario, será responsable exclusivo del cumplimiento de las obligaciones tributarias referentes a las operaciones que constituyan el giro de la asociación u objeto del encargo, prescribiendo que las rentas que correspondan a los partícipes se considerarán para el cálculo del impuesto Global Complementario o Adicional de estos, sólo en el caso que se pruebe la efectividad, condiciones y monto de la respectiva participación .
+
+En tales circunstancias, el tratamiento tributario descrito anteriormente resulta aplicable no sólo cuando se está en presencia de una asociación o cuentas en participación, sino también ante cualquier encargo fiduciario, como el que existiría en el caso en análisis, resultando conforme a derecho que cada integrante del contrato declare sus rentas por separado, lo cual debe acreditarse en la contabilidad de cada uno.
+
+En otro orden de consideraciones, no resulta procedente admitir que el traspaso de utilidades del Colegio TTTT a la Fundación TTTT constituya una reinversión de utilidades acogida a las normas de la letra c), del N° 1, de la letra A), del artículo 14 de la LIR, por dos órdenes de consideraciones que nacen del texto legal:
+
+a) En lo referido a los sujetos que realizan la operación, deben ser empresarios individuales, socios de sociedades de personas, socios gestores de sociedades en comandita por acciones y contribuyentes del impuesto Adicional del artículo 58 N° 1 de la LIR, lo cual no ocurre en el presente caso, pues se trata de un colegio perteneciente a una orden religiosa que carece de dueño, y la receptora, una fundación que también carece de dueños.
+
+b) La ley exige que las inversiones se hagan mediante aumentos efectivos de capital en empresas individuales, aportes a una sociedad de personas que determine su renta efectiva mediante contabilidad completa o bien que se adquieran acciones de pago de sociedades anónimas, todo ello dentro de los veinte días siguientes a aquél en que se efectuó el retiro, lo cual tampoco se verifica en la situación analizada.
+
+No obstante lo anterior, en lo que concierne a la aplicación del impuesto único establecido en el artículo 38 bis de las LIR, debe recordarse que dicho tributo sustituye los impuestos Global Complementario o Adicional que, por las rentas provenientes del término de giro les corresponde pagar al empresario, socio o accionista de la empresa que cesa sus actividades, y en el presente caso, al igual con la situación analizada por el Oficio N° 2923 de 1998, de este Servicio, la entidad que se disuelve no es contribuyente del artículo 14 de la LIR, pues no se trata de una empresa individual, contribuyente del artículo 58 N° 1, del mismo texto legal, sociedad de personas, sociedad en comandita por acciones o sociedad anónima, siendo improcedente la aplicación del referido impuesto.
+
+III.- CONCLUSIÓN.
+
+Atendido a que el establecimiento educacional Colegio TTTT, pertenece a la orden religiosa ZZZ, si bien posee RUT, no tiene una existencia jurídica independiente de XXXX, al dar aviso de término de giro en conformidad al artículo 69 del Código Tributario por cesar su actividad educacional, no quedará afecto al impuesto único establecido en el artículo 38 bis de la LIR.
+
+Por su parte, si el traspaso de bienes desde el Colegio a la fundación verifica en el acto de constitución de la fundación, no resultará gravado con la tributación establecida en la LIR, por tratarse del aporte inicial de la fundación, no constitutivo de renta, al igual como acontece con los aportes recibos por las sociedades, liberados de tributación en el N° 5 del artículo 17 de ese texto.
+
+Si el traspaso de bienes se verifica una vez que la fundación cuente con existencia jurídica, adoptará la calidad de una cuota enterada por un asociado, no constitutiva de renta para la fundación según lo previsto en el N° 11, del artículo 17 de la LIR.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1589, de 05.09.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

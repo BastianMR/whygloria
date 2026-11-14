@@ -1,0 +1,5 @@
+source: oficio-iva-1788.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1788.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja1788.doc
+materia: iva
+retrieved: 2026-11-11

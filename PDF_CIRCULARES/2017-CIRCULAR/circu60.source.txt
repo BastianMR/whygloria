@@ -1,0 +1,5 @@
+archive: circu60.zip
+published_to: PDF_CIRCULARES/2017-CIRCULAR/circu60.pdf
+members:
+  SUPLEMENTO TRIBUTARIO RENTA AÑO 2018.pdf  sha256=428a3f88423efd79c3ada6df77846d8fd3643cd8072a46842942af012eb6a1a5  kept=SIN_PROCESAR/SUPLEMENTOS/2017-CIRCULAR/SUPLEMENTO TRIBUTARIO RENTA AÑO 2018.pdf
+  Circular_Nro_60_Suplemento_Tributario_AT_2018.pdf  kept=PDF_CIRCULARES/2017-CIRCULAR  (byte-identical to the published circular)

@@ -1,0 +1,49 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 85 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS –RESOLUCIÓN EXENTA N° 51, DE 2015 – RESOLUCIÓN EXENTA N° 117, DE 2015. (ORD. N° 085, DE 13..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja85.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja85.doc"
+materia: "iva"
+fecha: "2015-01-13"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS –RESOLUCIÓN EXENTA N° 51, DE 2015 – RESOLUCIÓN EXENTA N° 117, DE 2015. (ORD. N° 085, DE 13.01.2015)
+
+SOLICITA ACLARAR APLICACIÓN DE RESOLUCIÓN EXENTA SII N° 51 DE 2015.
+
+Se ha solicitado a esta Dirección Nacional pronunciamiento respecto de la interpretación y aplicación de normas del D.L. N° 825 en relación al siguiente caso.
+
+I.- ANTECEDENTES
+
+Se recibió consulta en la Dirección Regional XXX de TTTTT, mediante la cual solicita un pronunciamiento acerca de la forma de cumplir con lo requerido por la Resolución Exenta SII N° 51 de 10 de junio de 2015.
+
+El consultante hace presente que la referida Resolución en su parte medular agrega a los requisitos generales que deben cumplir las facturas, facturas de compra y guías de despacho, electrónicas o no electrónicas, emitidas por contribuyentes vendedores o prestadores de servicio, la mención especial de la patente del vehículo destinado al transporte de carga en el que se realizará el traslado de los bienes corporales muebles, sea que la operación constituya venta o no.
+
+Agrega que la misma Resolución señala que cuando no se dispone de la información al momento de confeccionar el documento electrónico o no electrónico, estará permitido incorporar la patente del vehículo de manera manual, mecanográfica o impresa, en la factura, factura de compra o guía de despacho, según corresponda, siempre y cuando el registro sea legible y permanente antes de iniciar el traslado de los bienes corporales muebles.
+
+El contribuyente consultante efectúa fletes por traslado de bienes corporales muebles por parte de un tercero por lo que, para llegar la carga a destino, puede pasar por más de un camión dependiendo del punto del país al cual vaya dirigido.
+
+II.- ANÁLISIS Y CONCLUSIÓN.
+
+En relación a la consulta planteada informo a Ud. que previendo futuras contingencias de prestadores de servicios de transporte de carga en sus distintas modalidades logísticas de operación y la utilización de distintos vehículos de carga en la cadena del transporte de inicio, distribución y destino final, y atendidas las consultas de diversos contribuyentes que manifiestan dificultades operacionales en la implementación de la citada resolución, la Resolución Ex. SII N° 51, de 2015, ha sido dejada sin efecto por Resolución EX. SII Nº 117, de 29 de diciembre de 2015.
+
+Por otra parte, se hace presente que tanto la Resolución que se analiza como las consultas que ella originó dicen relación con temas operativos que no requieren de una interpretación de carácter normativo para su solución.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 085, de 13.01.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

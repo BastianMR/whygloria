@@ -1,0 +1,88 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 723 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 74°, N°4 – LEY N° 20.630 –CIRCULAR 53, DE 1990 – OFICIO N° 74, DE 2013. (ORD. N° 723, DE 15.04.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja723.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja723.doc"
+materia: "renta"
+fecha: "2013-04-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el artículo 100, de la Ley 18.045 sobre Mercado de Valores, que no tenga como beneficiario final al propietario socio o accionista de la empresa o sociedad respectiva, no cumple con la hipótesis de aplicación del inciso 3° y final del artículo 21 de la LIR."]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 74°, N°4 – LEY N° 20.630 –CIRCULAR 53, DE 1990 – OFICIO N° 74, DE 2013. (ORD. N° 723, DE 15.04.2013)
+
+CONSULTA SOBRE LA APLICACIÓN DE LO DISPUESTO EN LOS ARTÍCULOS 21 Y 74 N° 4 DE LA LEY SOBRE IMPUESTO A LA RENTA A LAS SITUACIONES QUE INDICA, CON MOTIVO DE LAS MODIFICACIONES EFECTUADAS POR LA LEY 20.630 A DICHAS NORMAS.
+
+I.- ANTECEDENTES.
+
+Señala que con el objeto de obtener certeza jurídica para los contribuyentes que asesora, en relación con las modificaciones efectuadas por la Ley 20.630 a la LIR, ha estimado necesario efectuar las siguientes consultas:
+
+1) Vigencia del nuevo texto del artículo 21 de la LIR.
+Al respecto, solicita confirmar que el nuevo texto del artículo 21, sólo puede aplicarse respecto de hechos que además de estar comprendidos dentro de las hipótesis que señala, hayan ocurrido o acaecido a partir del 1° de enero de 2013, manteniéndose la aplicación del mencionado artículo 21 de acuerdo a su texto vigente con anterioridad a la modificación señalada, respecto de hechos ocurridos hasta el 31 de diciembre de 2012, y, en tal sentido, aquellos préstamos otorgados por una sociedad domiciliada en Chile, que determina su renta efectiva mediante contabilidad completa, a partes relacionadas en el exterior, en los términos del artículo 100 de la Ley 18.045 sobre Mercado de Valores, se regirán por el nuevo texto del artículo en la medida que sean otorgados a partir del 1 de enero de 2013, y, que aquellos otorgados por este mismo tipo de sociedad con anterioridad a tal fecha, se regirán por el antiguo texto de tal precepto.
+
+2) Concepto de “préstamo” contenido en el artículo 21 de la LIR, introducido por la Ley 20.630.
+En tal sentido, solicita se ratifique que cuando el artículo 21 de la LIR utiliza la expresión “préstamo”, se entiende que no incluye a los “depósitos a plazo en dinero”, efectuados en entidades bancarias nacionales o extranjeras y pactados en condiciones normales de mercado, los que deben ser tratados como actos jurídicos distintos, ajenos a tal norma de control.
+
+3) Alcance de la norma establecida en el inciso final, del nuevo artículo 21 de la LIR.
+Atendidas las expresiones “beneficiario” y “beneficiario final” incluidas en dicha norma, solicita se confirme que un préstamo efectuado a una entidad empresarial, perteneciente a un mismo grupo empresarial, que no tuviere el carácter de propietario, socio o accionista de la misma, sin tener como beneficiario final del referido préstamo al propietario, socio o accionista de la sociedad, no cumple con la hipótesis de relación indicada en el inciso final del artículo 21 de la LIR, más aún, si éste se ha efectuado en condiciones normales de mercado.
+
+4) Finalmente, solicita se ratifique que las modificaciones introducidas por la Ley 20.630, al N° 4, del artículo 74 de la LIR, no han modificado las normas sobre determinación de las retenciones de Impuesto Adicional que deben practicarse en Chile, en caso de remesas de dividendos efectuadas por sociedades anónimas domiciliadas en Chile a contribuyentes sin domicilio ni residencia en el país, las cuales seguirán afectándose por las nomas establecidas en la Circular 53 de 1990, de este Servicio, de modo que la situación tributaria de tales distribuciones quedarán determinadas a la fecha en que éstas se efectúen, a menos que la utilidad tributaria acumulada por este tipo de sociedades al término del ejercicio inmediatamente anterior, no sea suficiente para cubrir en todo o parte el dividendo que se distribuya, esto último sólo respecto del monto del dividendo no cubierto con la citada utilidad.
+
+II.- ANÁLISIS.
+
+1) En relación con la primera consulta, cabe señalar que este Servicio ya se pronunció sobre la materia, mediante oficio N° 74, de 2013 .
+
+En dicho pronunciamiento se indica que el texto del nuevo artículo 21 de la LIR rige a contar del 1° de enero de 2013, respecto de los préstamos que se efectúen a contar de esa fecha. En todo caso, debe tenerse presente, que en caso que los préstamos otorgados con anterioridad a la vigencia de la norma señalada, experimenten con posterioridad a ella, alguna modificación de sus elementos esenciales de tal magnitud, que permitan calificarlos como nuevos préstamos, les resultarán aplicables las disposiciones del nuevo texto del artículo 21 de la LIR, aún cuando el préstamo original haya sido otorgado con anterioridad a la vigencia de dicha norma.
+
+En consecuencia, los préstamos que se efectúen hasta el día 31 de diciembre de 2012, se regirán por las disposiciones del artículo 21 de la LIR, de acuerdo a su texto vigente con anterioridad a la modificación efectuada por la Ley 20.630.
+
+2) En relación con la segunda consulta, es preciso indicar que la expresión “préstamo” utilizada en el artículo 21 de la LIR, no fue incorporada por las disposiciones de la Ley 20.630, sino que ella existe en el precepto a partir de la Ley 19.398 de 1995, siendo efectivo que no ha sido definida por el legislador ni por este Servicio, sin perjuicio de que en anteriores pronunciamientos se ha comprendido bajo esta expresión a los mutuos de dinero.
+
+Atendido el sentido de lo dispuesto en el artículo 21 de la LIR, cuál es evitar que por esta vía se efectúen retiros encubiertos de utilidades afectas a los impuestos de la referida Ley, se entiende genéricamente por préstamo, aquel contrato o convención en que una de las partes entrega a la otra una cosa, a título gratuito u oneroso, para su uso o consumo, con cargo de restituirla en una época distinta.
+
+Por tanto, se comprenden bajo este concepto las operaciones de crédito de dinero, entendidas como “aquellas por las cuales una de las partes entrega o se obliga a entregar una cantidad de dinero y la otra a pagarla en un momento distinto de aquel en que se celebra la convención”.
+
+En tal sentido, un depósito a plazo efectuado en un banco nacional o extranjero, constituye una operación de operación de crédito de dinero que se comprende dentro del concepto genérico de préstamo a que se refiere el artículo 21 de la LIR.
+
+En todo caso, se precisa que el hecho de que una determinada operación pueda ser catalogada como préstamo, no implica necesariamente que se aplique lo dispuesto en el artículo 21 respecto de ella, sino que para tal efecto, se requiere la concurrencia de los demás requisitos que establece la referida disposición legal para calificar dichas sumas como un retiro encubierto de cantidades afectas a los impuestos Global Complementario o Adicional.
+
+3) Para absolver esta tercera consulta, es imprescindible considerar que el inciso final del artículo 21 de la LIR, de acuerdo a las modificaciones introducidas por la Ley 20.630, dispone que para la aplicación de la tributación establecida en su inciso tercero, se considerará también que el préstamo se ha efectuado al propietario socio o accionista, cuando dichas cantidades tengan como deudor a sus respectivos cónyuges, hijos no emancipados legalmente, o bien, a cualquiera persona relacionada con aquellos en los términos del artículo 100, de la Ley 18.045 sobre Mercado de Valores, y se determine que el beneficiario final de los préstamos es el propietario, socio o accionista respectivo.
+
+De acuerdo a lo anterior, para la aplicación de dicha disposición se requiere el cumplimiento de dos requisitos copulativos:
+a) Que el préstamo se haya efectuado al propietario, socio o accionista de la empresa o sociedad respectiva, o bien, tenga como deudor a sus respectivos cónyuges, hijos no emancipados o a cualquier persona relacionada con aquellos en los términos del artículo 100, de la Ley 18.045 sobre Mercado de Valores, y
+b) Se determine que el beneficiario final de tales préstamos es el propietario, socio o accionista de la empresa o sociedad respectiva.
+
+Conforme a lo anterior, debe concluirse que una empresa o sociedad que otorga un préstamo a una entidad perteneciente a un mismo grupo empresarial que no tenga el carácter de propietario, socio o accionista de la misma y sin que tenga como beneficiario final del referido préstamo, al propietario, socio o accionista de la empresa o sociedad respectiva, no cumple con la hipótesis indicada en el inciso 3°, literal ii) del artículo 21 de la LIR, en concordancia con lo establecido en el inciso final de esta disposición, más aún, si dicho éste préstamo se ha efectuado en condiciones normales de mercado.
+
+4) El artículo 1°, N° 32) de la Ley 20.630, sustituyó el N°4 del artículo 74 de la LIR, introduciendo importantes modificaciones a la forma y oportunidad en que deben practicarse las retenciones de Impuesto Adicional, materia respecto de la cual este Servicio prontamente impartirá instrucciones de carácter general. No obstante lo anterior, la forma y oportunidad en que debe efectuarse la retención de Impuesto Adicional en caso de remesa de dividendos efectuada por una sociedad anónima constituida en Chile, a contribuyentes sin domicilio ni residencia en el país, no se modificó de manera sustantiva, razón por la cual, deben continuar aplicándose las instrucciones vigentes sobre la materia, las que se encuentran contenidas principalmente en la Circular 53 de 1990.
+
+La situación tributaria de tales distribuciones, quedará determinada a la fecha en que éstas se efectúen, a menos que la utilidad tributaria acumulada por este tipo de sociedades al término del ejercicio inmediatamente anterior, no sea suficiente para cubrir en todo o parte el dividendo que se distribuya, esto último sólo respecto del monto del dividendo no cubierto con la citada utilidad.
+
+III.- CONCLUSIÓN.
+
+1) En relación con la primera consulta, cabe señalar que este Servicio ya se pronunció sobre la materia, mediante oficio N° 74, de 2013.
+
+2) Atendido el sentido de las normas de control contenidas en el artículo 21 de la LIR, y el concepto genérico de préstamo contenida en dicha disposición, cual es evitar que por esta vía se efectúen retiros encubiertos de utilidades afectas a los impuestos de la referida Ley, este Servicio estima que se comprenden bajo dicho concepto los depósitos a plazo efectuado en un banco nacional o extranjero. No obstante lo anterior, se precisa que el hecho de que una determinada operación pueda ser catalogada como préstamo, no implica necesariamente que se aplique lo dispuesto en el artículo 21 respecto de ella, sino que para tal efecto, se requiere la concurrencia de los demás requisitos que establece la referida disposición legal para calificar dichas sumas como un retiro encubierto de cantidades afectas a los impuestos Global Complementario o Adicional.
+De esta manera, si el referido depósito tiene por objeto constituir una inversión a plazo, en una entidad bancaria nacional o extranjera, cuya rentabilidad se encuentre pactada en condiciones normales de mercado, no resulta aplicable lo dispuesto en el artículo 21 de la LIR.
+
+3) Un préstamo efectuado por una empresa o sociedad a una entidad perteneciente al mismo grupo empresarial, relacionada en los términos previstos en el artículo 100, de la Ley 18.045 sobre Mercado de Valores, que no tenga como beneficiario final al propietario socio o accionista de la empresa o sociedad respectiva, no cumple con la hipótesis de aplicación del inciso 3° y final del artículo 21 de la LIR.
+
+4) Sin perjuicio de que la Ley 20.630, sustituyó el N°4 del artículo 74 de la LIR, las normas sobre la forma y oportunidad en que deben practicarse las retenciones de Impuesto Adicional, en el caso de la remesa de dividendos efectuada por una sociedad anónima constituida en el país, a accionistas sin domicilio ni residencia en Chile, no fueron modificadas de manera sustantiva, razón por la cual, mientras no se dicten nuevas instrucciones, deben continuar aplicándose aquellas vigentes sobre la materia, las que se encuentran contenidas principalmente en la Circular 53 de 1990.
+
+De acuerdo a ello, la situación tributaria de tales distribuciones quedarán determinadas a la fecha en que éstas se efectúen, a menos que la utilidad tributaria acumulada por este tipo de sociedades al término del ejercicio inmediatamente anterior, no sea suficiente para cubrir en todo o parte el dividendo que se distribuya, esto último sólo respecto del monto del dividendo no cubierto con la citada utilidad.
+
+JULIO PEREIRA GANDARILLAS DIRECTOR
+
+Oficio N° 723, de 15.04.2013
+Subdirección Normativa
+Dpto., de Impuestos Directos

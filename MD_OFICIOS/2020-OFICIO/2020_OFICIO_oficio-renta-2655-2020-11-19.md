@@ -1,0 +1,53 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2655 (2020-11-19)"
+description: "Suspensión de pagos provisionales mensuales conforme al artículo 90 de la Ley sobre Impuesto a la Renta en relación con el pago del impuesto de primera categ..."
+tags: [SII, 2020, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2020/ley_impuesto_renta_jadm2020.htm"
+materia: "Renta – Actual Ley sobre Impuesto a la – Art. 14 letra A) N° 6, art. 84 y art. 90"
+fecha: "2020-11-19"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+Suspensión de pagos provisionales mensuales conforme al artículo 90 de la Ley sobre Impuesto a la Renta en relación con el pago del impuesto de primera categoría sobre retiros, contenida en el artículo 14. Se ha solicitado a este Servicio confirmar que, en la determinación de la pérdida según el estado de pérdidas y ganancias que exige el artículo 90 de la Ley sobre Impuesto a la Renta para suspender los pagos provisionales mensuales obligatorios se debe considerar la rebaja correspondiente a la base imponible sobre la cual se efectuó el pago voluntario a título de impuesto de primera categoría, que
+
+establece el artículo 14 del mismo texto legal.
+
+## I ANTECEDENTES
+
+De acuerdo con su presentación, su representada, sociedad concesionaria de una obra pública, en la declaración anual de impuestos a la renta presentada el año tributario 2020, ejerció la opción de pagar voluntariamente a título de impuesto de primera categoría sobre retiros el monto que indica, según disponía el artículo 14 de la Ley sobre Impuesto a la Renta (LIR) vigente al 31 de diciembre de 2019. Agrega que la tasa de pagos provisionales mensuales obligatorios (PPMO) de la sociedad, recalculada para el periodo comprendido entre abril de 2020 y marzo de 2021 es 11,8%. Señala que, al 31 de mayo de 2020, la sociedad presenta una renta líquida imponible positiva, resultado positivo que se mantiene en las proyecciones de la renta líquida imponible calculada al 30 de junio y al 31 de diciembre, ambos de 2020. Sin embargo, dichas determinaciones no contemplan la rebaja de la base imponible sobre la cual se determinó y pagó el impuesto voluntario de primera categoría en el año tributario 2020 y, si se efectuara dicha rebaja, si bien no se determinaría una pérdida tributaria por expresa disposición del artículo 14, produce efectos equivalentes a una pérdida tributaria en lo que respecta a la suspensión de los pagos provisionales mensuales obligatorios, ya que no habría impuesto que pagar, situación que se presentaría para todos los trimestres hasta el 31 de diciembre del año 2020, quedando incluso un saldo de deducción para los años siguientes, según la proyección del resultado tributario que realiza hasta el 31 de diciembre de 2021. Por lo anterior, luego de exponer las normas tributarias aplicables, solicita:
+
+- 1) Confirmar que, en la determinación del estado de pérdidas y ganancias (RLI) a que hace referencia el artículo 90 de la LIR se debe considerar la rebaja correspondiente a la base imponible respecto de la cual se pagó el impuesto voluntario de primera categoría conforme al párrafo octavo del N° 5 de la letra A), o lo establecido en el inciso décimo del N° 3 de la letra B), ambos del artículo 14 de la LIR, vigente al 31 de diciembre de 2019, o bien el párrafo segundo del N° 6 de la A) del artículo 14, de la LIR vigente a contar del 1 de enero de 2020.
+- 2) Que, cuando la RLI determinada en alguno de los trimestres del ejercicio comercial - esto es, al 31 de marzo, 30 de junio, 30 de septiembre e incluso 31 de diciembre - sea $0 y su origen corresponda a la deducción por el pago de impuesto voluntario de primera categoría señalado en el punto anterior, se entienda como una pérdida para los efectos de la suspensión de PPMO que establece el artículo 90 de la LIR, teniendo la facultad el contribuyente de suspender los PPMO.
+- 3) Eximir o, en su defecto, establecer la tasa mínima de PPMO por el periodo junio 2020 a marzo 2021, a la sociedad, debido a que, con base a los antecedentes presentados, es evidente que la RLI proyectada al 31 de diciembre de 2020 y 2021 será $0, es decir, sin impuesto a pagar, atendido la rebaja en la RLI por el pago del impuesto voluntario de primera categoría.
+- 4) Eximir a la sociedad del PPMO por el periodo de abril 2021 a marzo 2022, previa confirmación del saldo de rebaja en la RLI correspondiente a la base del impuesto voluntario, que resulte después de la imputación de la RLI al 31 de diciembre de 2020. Lo anterior en concordancia con la RLI proyectada al 31 de diciembre de 2021 (AT 2022).
+
+## II ANÁLISIS
+
+El artículo 84 de la LIR establece, para los contribuyentes obligados por la LIR a presentar declaraciones anuales de primera y/o segunda categoría, el deber de efectuar mensualmente PPM a cuenta de los impuestos anuales que les corresponda pagar. La letra a) del citado artículo 84, aplicable a la sociedad por la cual se consulta, dispone que el PPMO se determinará aplicando un porcentaje sobre el monto de los ingresos brutos mensuales 1 . A su vez, este porcentaje corresponde a una tasa variable que se ajusta anualmente en función al impuesto de primera categoría que en definitiva resulte a pagar. Sobre el particular, la Circular N° 16 de 1991, que refunde y actualiza las instrucciones sobre los PPM, instruye que el propósito de las normas que incorporaron la obligación de efectuar PPM fue cubrir con la mayor exactitud posible los impuestos anuales a la renta que afecten al contribuyente. Por la misma razón, el artículo 90 de la LIR permite suspender el pago de PPM durante el primer trimestre del año comercial cuando en el año comercial anterior se obtengan pérdidas. Así también, si la situación de pérdida se mantiene en el primer, segundo y tercer trimestre del dicho ejercicio comercial, o se verifica en alguno de los citados trimestres siguientes a aquél en que la pérdida se produjo, podrán suspender los PPM correspondientes a los ingresos brutos del trimestre siguiente a aquel en que la pérdida se produjo. Para acreditar la situación de suspender los PPM los contribuyentes deberán mantener un estado de pérdidas y ganancias acumuladas hasta el trimestre respectivo. Este estado de pérdidas y ganancias deberá ajustarse de acuerdo a las reglas que la misma LIR establece para el cálculo de la RLI. Por otra parte, según establece el párrafo octavo del N° 5 de la letra A) y el inciso décimo del N° 3 de la letra B), ambos del artículo 14 de la LIR, vigente al 31 de diciembre de 2019; y el párrafo segundo del N° 6 de la A) del artículo 14, de la LIR vigente a contar del 1 de enero de 2020, la empresa podrá optar voluntariamente por pagar a título de impuesto de primera categoría el monto necesario para anticipar el crédito por IDPC a los propietarios por los retiros, remesas o distribuciones. Efectuado el pago del impuesto señalado, la empresa podrá deducir en la determinación de la RLI correspondiente al año comercial en que se haya pagado el impuesto, y hasta el monto positivo que resulte de ésta, una suma equivalente a la cantidad sobre la cual se aplicó y pagó efectivamente la tasa del IDPC. Una interpretación armónica de las normas citadas, considerando el propósito del PPMO, permite concluir que, en el estado de pérdidas y ganancias que dispone el artículo 90 de la LIR, procede efectuar un ajuste para rebajar de la RLI la base imponible respecto de la cual se pagó el impuesto voluntario de primera categoría que establecía el párrafo octavo del N° 5 de la letra A) y el párrafo décimo del N° 3 de la letra B), ambos del artículo 14 de la LIR, vigente al 31 de diciembre de 2019; y que actualmente establece el párrafo segundo del N° 6 de la A) del artículo 14, de la LIR, vigente a contar del 1 de enero de 2020. De esta manera no se generan excedentes de PPM para el contribuyente, sin perjuicio que, de producirse, corresponda su restitución. Cabe hacer presente, que el mecanismo de cálculo de la tasa variable de PPM que contempla la letra a) del artículo 84 de la LIR, como también la posibilidad de suspender el pago de PPM que dispone el artículo 90, ambos de la LIR, tienen por objeto proyectar el pago de un monto de PPM que permita cubrir el IDPC que en definitiva resultará a pagar por el ejercicio en curso. Dicha proyección se efectúa a partir de datos históricos, como la tasa de PPM del ejercicio anterior, el monto del IDPC en definitiva pagado, el resultado al término del ejercicio y/o el resultado trimestral de la empresa. Por tanto, dentro de este marco, procede el ajuste o suspensión del pago de PPM, sin que la norma permita efectuar un ajuste de la tasa o permitir la suspensión de los PPM basándose en resultados
+
+proyectados del ejercicio.
+
+## III CONCLUSION
+
+Conforme a lo expuesto precedentemente, y respecto de lo consultado, se informa que:
+
+1 La letra a) del artículo 84 de la LIR es aplicable a los contribuyentes que desarrollen actividades en los Nos 1°, 2°, 3°, 4° y 5° del artículo 20.
+
+- 1) En la determinación del estado de pérdidas y ganancias a que hace referencia el artículo 90 de la LIR corresponde rebajar la base imponible respecto de la cual se pagó el impuesto voluntario de primera categoría que establecía el párrafo octavo del N° 5 de la letra A) y el párrafo décimo del N° 3 de la letra B), ambos del artículo 14 de la LIR, vigente al 31 de diciembre de 2019; y el párrafo segundo del N° 6 de la A) del artículo 14, de la LIR, vigente a contar del 1 de enero de 2020.
+- 2) Cuando la RLI determinada en alguno de los trimestres del ejercicio comercial - esto es, al 31 de marzo, 30 de junio, 30 de septiembre e incluso 31 de diciembre - sea $0, producto de la deducción por el pago de impuesto voluntario de primera categoría señalado en el punto anterior, se entiende dicho resultado como una pérdida para los efectos de la suspensión de PPMO que establece el artículo 90 de la LIR, pudiendo el contribuyente suspender los PPMO, conforme lo dispone esta última norma.
+- 3) No es posible eximir a la sociedad o establecer la tasa mínima de PPMO por el periodo junio 2020 a marzo 2021, basándose en una RLI proyectada al 31 de diciembre de 2020 y 2021, por cuanto la LIR no contempla dicha situación.
+- 4) No es posible eximir a la sociedad del PPMO por el periodo de abril 2021 a marzo 2022, basándose en una RLI proyectada al 31 de diciembre de 2021.
+
+Saluda a usted,
+
+## FERNANDO BARRAZA LUENGO DIRECTOR
+
+Oficio N° 2655 del 19-11-2020 Subdirección Normativa Depto. de Impuesto Directos

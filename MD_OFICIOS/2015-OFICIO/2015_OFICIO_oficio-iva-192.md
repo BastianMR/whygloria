@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 192 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ARTÍCULO 12°, LETRA B), N°1, ART. 64° – OFICIO N° 2119, DE 2010. (ORD. N° 192, DE 22.01...."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja192.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja192.doc"
+materia: "iva"
+fecha: "2015-01-22"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ARTÍCULO 12°, LETRA B), N°1, ART. 64° – OFICIO N° 2119, DE 2010. (ORD. N° 192, DE 22.01.2015)
+
+SOLICITUD DE REBAJA DE IMPUESTOS EN LA IMPORTACIÓN DE EQUIPOS PARA RADIOAFICIONADOS.
+
+I. ANTECEDENTES
+
+Mediante la presentación que usted hiciera a S.E. el Presidente de la República, se formulan una serie de consideraciones que harían recomendable, a su juicio, rebajar los impuestos cobrados en la importación de equipos para las estaciones de los radioaficionados, los cuales estarían muy atrasados tecnológicamente y cuya renovación es muy cara.
+
+A continuación, y por especial encargo del Sr. Subsecretario de Hacienda, se da respuesta a su consulta.
+
+II. ANÁLISIS
+
+Como cuestión preliminar, cabe hacer presente que este Servicio anteriormente fue consultado por una rebaja o exención similar, según da cuenta el Oficio N° 2119 de 2010, publicado en el sitio web.
+
+Considerando que en el presente caso – al igual que en el Oficio antes referido – el peticionario no específica a qué impuesto a la importación se refiere, este Servicio entiende que la consulta se refiere al Impuesto al Valor Agregado que afecta, en general, a la importación de bienes.
+
+Al respecto, se reitera que, revisada nuestra legislación, no existen beneficios tributarios que favorezcan la importación de equipos de radioaficionados por parte de personas naturales o instituciones dedicadas a dicha actividad, salvo las importaciones de equipos y sistemas de comunicación que, conforme al artículo 12, Letra B, N° 1, del DL N° 825, de 1974, sean efectuadas por el Ministerio de Defensa Nacional, el Estado Mayor de la Defensa Nacional, las Fuerzas Armadas, Carabineros de Chile y Policía de Investigaciones de Chile, así como también las demás instituciones y empresas dependientes de ellas o que se relacionen con el Presidente de la República por su intermedio, y que desarrollen funciones relativas a la defensa nacional, resguardo del orden y seguridad pública; todas circunstancias que, de los antecedentes aportados, no cumpliría el peticionario.
+
+Por tanto, atendido que este Servicio sólo se encuentra facultado para interpretar, aplicar y fiscalizar administrativamente las disposiciones tributarias internas vigentes ; se informa que este Servicio no tiene competencia para conceder rebajas tributarias y otorgar exenciones de impuestos fuera de aquellas expresamente establecidas por ley.
+
+Sin perjuicio de lo expuesto precedentemente, este Servicio se permite señalar que, por efecto de la política fiscal seguida prácticamente desde la implantación del Impuesto al Valor Agregado, este tributo cuenta con un número muy reducido de exenciones por los negativos efectos que producen en su administración y control y por las distorsiones que generan en el proceso de producción y comercialización de bienes y de servicios.
+
+Por lo expuesto, se estima que una exención o rebaja del impuesto a las importaciones que efectúen los radioaficionados iría en contra de la política que se ha seguido hasta la fecha y además, sería discriminatoria para otras personas o entidades de bien público, como las instituciones de beneficencia y otras, que no tendrían el mismo beneficio.
+
+Finalmente, resta informar que el artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios permite, a las personas que respecto de su giro no sean contribuyentes del impuesto de esta ley, pagar el impuesto a las importaciones en las fechas y cuotas que fije la Dirección Nacional de Impuestos Internos , pudiendo exigirse las garantías personales o reales que se estimen convenientes para el debido resguardo de los intereses fiscales. En esta modalidad, el monto a pagar por cada cuota se calcula sobre la base que determina y calcula este Servicio, considerando los recargos y tipos de cambio vigentes a la fecha que se realice el pago. Las cuotas devengan el mismo interés que se fija para el pago diferido de los derechos aduaneros de los bienes de capital que se importen.
+
+III. CONCLUSIÓN
+
+Tal como fuera expuesto por este Servicio a propósito de una presentación similar a la presente , la importación de equipos para los radioaficionados a que se refiere la solicitud, se encuentra afecta al régimen general de Impuesto al Valor Agregado en la importación, sin que corresponda a este Servicio rebajar o eliminar la aplicación del mismo.
+
+La medida consultada requiere de texto legal expreso, basado en criterios técnicos y otras consideraciones que exceden la competencia de este Servicio.
+
+Sin perjuicio de lo anterior, la experiencia práctica y estudios teóricos coinciden en que el impuesto al valor agregado se estructura eficientemente y sin distorsiones cuando existe tasa única y con reducidas exenciones.
+
+El artículo 64 de la Ley sobre Impuesto a las Ventas y Servicios permite a las personas que respecto de su giro no sean contribuyentes del impuesto, pagar el Impuesto al Valor Agregado a las importaciones en las fechas y cuotas que fije este Servicio.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 192, de 22.01.2015
+Subdirector Normativo
+Dpto. de Técnica Tributaria

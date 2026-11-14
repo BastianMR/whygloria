@@ -1,0 +1,5 @@
+source: oficio-renta-2604.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2604.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja2604.doc
+materia: renta
+retrieved: 2026-11-11

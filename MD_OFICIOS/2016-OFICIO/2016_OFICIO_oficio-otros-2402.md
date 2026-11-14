@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 2402 (2016)"
+description: "TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°11 – RESOLUCIÓN EXENTA N° 140, DE 2006. (ORD. N° 2402, DE 26.08.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2402.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2402.doc"
+materia: "otros"
+fecha: "2016-08-26"
+exenta: false
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°11 – RESOLUCIÓN EXENTA N° 140, DE 2006. (ORD. N° 2402, DE 26.08.2016)
+
+SOLICITA PRONUNCIAMIENTO SOBRE CRÉDITOS PARA FINANCIAR EXPORTACIONES.
+
+Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando confirmar si el procedimiento que describe constituye documentación suficiente para dar cumplimiento a lo exigido en el artículo 24, N° 11, de la Ley sobre Impuesto de Timbres y Estampillas.
+
+I ANTECEDENTES
+
+En su presentación expone que el Banco XXX otorga créditos para financiar exportaciones (PAE), los que gozan de la exención del artículo 24, N° 11, de la Ley sobre Impuesto de Timbres y Estampillas, contenida en el DL N° 3.475 de 1980.
+
+Señala que, conforme lo instruido mediante la Circular N° 31 de 1992, para acogerse a dicha exención, el exportador debe demostrar que el PAE se paga con los retornos de la exportación respectiva.
+
+Agrega que, mediante jurisprudencia administrativa, este Servicio ha dispuesto que la exención se mantiene cuando se acredita que la exportación se realizó por un monto igual o superior al crédito obtenido para tal efecto y que es realizada durante el período que media entre la obtención del crédito hasta su extinción, resultando irrelevante el origen y flujo de las divisas respectivas.
+
+En consecuencia, para acceder a la exención señalada, bastaría acreditar que la exportación se realizó efectivamente. Al respecto, señala que el único documento que acredita fehacientemente que la exportación ha sido realizada es el Documento Único de Salida (DUS), emitido por el Servicio Nacional de Aduanas.
+
+Conforme lo anterior, expone que los exportadores han propuesto a los bancos reemplazar el DUS por una declaración jurada en la cual se indique la fecha, el monto de la exportación y el número del DUS, sin acompañar copia física de este documento, por cuanto existe un gran volumen de operaciones cursadas. Paralelamente, el exportador se comprometería a proveer y mantener un registro electrónico histórico de las copias de los DUS, que quedaría a disposición del Servicio y de quien lo requiriera, mediante un servicio prestado por una empresa externa.
+
+Finalmente, solicita confirmar que el procedimiento descrito constituye documentación fehaciente para dar cumplimiento a lo exigido en el artículo 24, N° 11, de la Ley sobre Impuesto de Timbres y Estampillas o si, por el contrario, para gozar de la citada exención, es indispensable que el exportador adjunte copia física del DUS en cada pago del crédito PAE correspondiente.
+
+II ANÁLISIS
+
+El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas establece que sólo estarán exentos de los impuestos que establece ese decreto ley, los documentos que den cuenta de los actos, contratos o convenciones que señala, entre los cuales, el N° 11 contempla los documentos necesarios para efectuar operaciones de crédito de dinero destinadas al financiamiento de exportaciones. La Superintendencia de Bancos e Instituciones Financieras está facultada para determinar qué documentos tienen este carácter.
+
+Como lo ha sostenido este Servicio en reiterados pronunciamientos, la exención en comento tiene aplicación siempre que se cumpla la exportación que motiva el otorgamiento del crédito. En caso que al vencimiento del crédito la exportación no se hubiere materializado, debe entenderse que el hecho gravado no se benefició de la exención, devengándose el impuesto al momento de la emisión, suscripción u otorgamiento del respectivo documento. Por lo tanto, para gozar de la exención, debe acreditarse que la exportación se realizó efectivamente.
+
+Al respecto, y de acuerdo a la Ordenanza de Aduanas, cabe tener presente que:
+
+a) La destinación aduanera es la manifestación de voluntad del dueño, consignante o consignatario que indica el régimen aduanero que debe darse a las mercancías que ingresan o salen del territorio nacional (artículo 71).
+b) La formalización de las destinaciones aduaneras se hace mediante el documento denominado "declaración", el que indica la clase o modalidad de la destinación de que se trate (artículo 72).
+c) Finalmente, esas declaraciones se entienden legalizadas (DUS-legalización) una vez que el Administrador de Aduanas o los funcionarios a los que se les ha delegado esta facultad, constatan que el respectivo documento ha cumplido todos los trámites legales y reglamentarios, otorgándole aprobación y verificando, además, la conformidad de la garantía rendida en aquellas declaraciones en que sea exigible (artículo 92).
+
+Luego, conforme las normas anteriores, este Servicio entiende que la exportación se acredita mediante las destinaciones aduaneras, formalizadas éstas a través del documento denominado “declaración” (DUS), y que han sido debidamente legalizadas.
+
+Sin perjuicio de lo anterior, el Director Nacional de Aduanas puede autorizar que la formalización de las destinaciones aduaneras se efectúe a través de la utilización de un sistema de transmisión electrónica de datos (artículo 72).
+
+En ese caso, cuando se autorice el uso de sistemas de transmisión electrónica de datos, tendrá la calidad de matriz el registro final incorporado al archivo del Servicio Nacional de Aduanas, una vez cumplidas las operaciones de presentación, recepción, verificación, aceptación y legalización de la correspondiente declaración; teniéndose por auténticas las copias obtenidas a partir del referido registro final del Servicio Nacional de Aduanas y las copias obtenidas de los registros legalizados por el Servicio Nacional de Aduanas transmitidos a los Agentes de Aduana. En el primer caso, tales copias tendrán, además, la calidad de instrumento público (artículo 73).
+
+Consecuentemente con lo expuesto, cumpliendo los demás requisitos de procedencia de la exención dispuesta en el artículo 24, N° 11, de la Ley sobre Impuesto de Timbres y Estampillas, y sin perjuicio de las facultades del Servicio Nacional de Aduanas, este Servicio no advierte impedimento para acreditar una exportación mediante el envío al banco, por parte del exportador, de una declaración jurada en la cual se indique la fecha, el monto de la exportación y el número del DUS-legalización, sin perjuicio de acompañar o enviar, conjuntamente, copias digitales de los DUS-legalización, obtenidas conforme al artículo 73 de la Ordenanza de Aduanas.
+En los mismos términos se deberá informar cada vez que los DUS-legalización sean dejados sin efecto o anulados por devolución de mercadería o cualquier otro motivo.
+
+Finalmente, se hace presente que, conforme al resolutivo N° 2 de la Resolución Ex. N° 140 de 2006, de este Servicio, los sujetos pasivos afectos a las obligaciones de llevar el Auxiliar de Registro de Impuesto de Timbres y Estampillas y de remitir la información en él contenida a este Servicio, deben informar en el período de vencimiento del crédito los casos en que la exportación no se verificó, respecto de operaciones acogidas inicialmente a la exención del artículo 24, N° 11, citado.
+Lo anterior, sin perjuicio de las facultades de fiscalización con que cuenta este Servicio para comprobar en todo momento si la exportación y los demás requisitos de procedencia de la exención se han cumplido.
+
+III CONCLUSIÓN
+
+Conforme lo expuesto, cumpliendo los demás requisitos de procedencia de la exención establecida en el artículo 24, N°11, de la Ley sobre Impuesto de Timbres y Estampillas, y sin perjuicio de las facultades del Servicio Nacional de Aduanas, no se aprecia inconveniente en que los exportadores reemplacen el envío de la copia física del DUS-legalización por el procedimiento indicado en el cuerpo del presente oficio, consistente en una declaración jurada del exportador, en la cual se indique la fecha, el monto de la exportación y el número del DUS-legalización, acompañando conjuntamente copias digitales de éstos, obtenidas de conformidad con el artículo 73 de la Ordenanza de Aduanas.
+
+VICTOR VILLALON MENDEZ
+DIRECTOR (S)
+
+Oficio N° 2402, de 26.08.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

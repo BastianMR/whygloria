@@ -1,0 +1,109 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 2341 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2 – LEY GENERAL DE BANCOS, ART. 69, N°1 – OFICIO N° 191, DE 2015. (ORD. N° 234..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2341.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2341.doc"
+materia: "iva"
+fecha: "2016-08-23"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2 – LEY GENERAL DE BANCOS, ART. 69, N°1 – OFICIO N° 191, DE 2015. (ORD. N° 2341, DE 23.08.2016)
+
+CONSULTA SOBRE LA PROCEDENCIA DE GRAVAR CON IMPUESTO AL VALOR AGREGADO UNA SERIE DE SERVICIOS PRESTADOS POR UN BANCO.
+
+I.- ANTECEDENTES:
+
+El contribuyente señala que su cliente, una entidad bancaria local (el Banco), con la finalidad de optimizar recursos operativos se encuentra evaluando la posibilidad de centralizar una serie de servicios en el Banco, de manera que, una vez centralizados, éstos serían prestados por el Banco a sus sociedades filiales: una administradora general de fondos (la Administradora) y una corredora de bolsa (la Corredora).
+
+Los servicios en cuestión se prestarían sólo a sociedades miembros del grupo empresarial y en ningún caso a terceros.
+
+Los servicios que prestaría el Banco a la Administradora serían los siguientes:
+
+1. Control de operaciones de Aportes y Rescates de Fondos Mutuos y Fondos de Inversión: este servicio consistiría en la confección de un registro por parte del Banco, que contendrá toda la información relacionada a los aportes y rescates de los clientes, incluyendo flujos y saldos de los fondos. El mencionado registro se llevaría mediante un sistema informático propio de la Administradora, a cargo del área de operaciones de la misma. El Banco entregaría reportes a los clientes sobre sus inversiones a través de una cartola, y mantendría en los sistemas internos de la Administradora y en la página web de esta última la información accesible para que pueda ser revisada por los clientes.
+
+2. Autorización de pagos de operaciones de rescates de Fondos Mutuos: el Banco se encargaría del procesamiento y validación de las solicitudes de rescate, siendo éste quien finalmente ejecute las referidas órdenes de pago a los clientes de la Administradora. Sin perjuicio de lo anterior, será la Administradora quien pague directamente los rescates a los clientes. De esta forma, sería el Banco el encargado de procesar y validar las solicitudes de rescate. Lo anterior, mediante el ingreso de una solicitud al sistema, que sistemática y lógicamente validará y generará los archivos para proceder al pago mediante la transferencia electrónica de fondos, emisión de cheques o vales vistas desde las cuentas corrientes de la Administradora. Eventualmente, para la prestación de este servicio se incluirá un mandato de la Administradora al Banco para operar las cuentas corrientes bancarias de la primera.
+
+3. Control de posiciones en DCV y custodia extranjera de los Fondos Mutuos: este servicio consistiría en llevar un sistema de control de inventario, en el cual se registrarán ingresos, egresos, las autorizaciones de traspaso de instrumentos en las custodias y cuadraturas de las mismas. De acuerdo a lo anterior, el Banco procesaría la información y ejecutaría las respectivas órdenes correspondientes relativas al traspaso y liquidación de instrumentos financieros en custodia. A su vez, efectuaría reportes de informaciones recibidas y procesadas. También se incluiría un mandato en esta operación.
+
+4. Autorización de operaciones en custodios nacionales y extranjeros: el servicio a prestar por el Banco consistiría en la conciliación de informes periódicos, prestando servicios de entrega de reportes de la información recibida y procesada del custodio.
+
+5. Control de informes de gestión y financieros de la administradora, Fondos Mutuos y Fondos de Inversión: el Banco prepararía y emitiría informes al Gerente General de la Administradora con información financiera, de gestión y contable. Comprende además el servicio, el llevar la contabilidad de la Administradora y los fondos. No incluye el servicio de asesoría financiera.
+
+6. Servicios de gestión de recursos humanos: el Banco realizaría, entre otros, el control del sistema de Payroll de la Administradora, control de asistencia, control de vacaciones, incluyendo además la selección de personal.
+
+7. Control de contabilidad de la Administradora General de Fondos: consistiría en los servicios de contabilidad que el Banco prestaría a la Administradora, los que incluirían, entre otros, la determinación y control de los impuestos de la misma y el cálculo y determinación de la valorización de los fondos.
+
+8. Conciliaciones bancarias de cuentas: el servicio consistiría en llevar estos registros contables.
+
+9. Control de gastos financieros: el Banco llevaría registros como parte del control de gestión, elaborando informes periódicos. Tales registros comprenderían líneas de créditos, costo de transacciones, sobregiros, transferencias, comisión por líneas de sobregiro, visualizando todos los costos financieros del banco, por lo que el servicio incluye el control tanto de gastos financieros, como operacionales. Las operaciones se registrarían, procesarían, ejecutarían y se autorizarían los respectivos pagos.
+
+10. Autorización de cobros y pagos de operaciones de mesa de dinero: el servicio consistiría en que el Banco se encargaría de procesar las operaciones con clientes nacionales y extranjeros, debiendo por tanto recepcionar, procesar, ejecutar y autorizar los respectivos pagos las operaciones con dichos clientes.
+
+11. Control de líneas de crédito con Bancos: el Banco prestaría servicios de administración y gestión del uso de líneas de crédito. Comprendería el análisis de cuándo se ha usado una determinada línea de crédito, cuándo conviene usarla, que línea de crédito elegir, etc. No incluye negociar líneas de crédito, negociar tasas, como tampoco buscar las líneas de negocios.
+
+12. Mantención de partícipes de los Fondos Mutuos y Fondos de Inversiones: el Banco llevaría un registro de las fichas de los clientes con el respectivo contrato marco de cada uno. En dicho registro se incluiría la actualización de datos personales, historial comercial y en general todos los antecedentes necesarios para mantener actualizada la información de los clientes.
+
+13. Control de certificados tributarios y declaraciones juradas: el Banco recopilaría la información con la cual emitiría y generaría los certificados y declaraciones juradas que correspondan a la Administradora o los Fondos. La información, una vez incorporada en la respectiva declaración jurada o certificado, las cargaría en la plataforma virtual habilitada por el Servicio de Impuestos Internos y en la página web de la Administradora para la consulta de clientes.
+
+14. Definición de requerimientos operacionales a sus sistemas de información: el Banco prestaría servicios de evaluación y especificación de requerimientos de los sistemas informáticos, tratándose de una asesoría y reporte de las necesidades relativas al sistema de software para mejorarlo o actualizarlo, corregir posibles errores o la definición de nuevos requerimientos.
+
+15. Mantención de manuales de operaciones y funciones: el banco se encargaría de la confección y desarrollo del manual de operaciones y funciones de la Administradora.
+
+16. Control de listas de relacionados y personas con acceso a información privilegiada: el Banco confeccionaría un listado de las operaciones entre partes relacionadas, como también de sujetos con acceso a información privilegiada. Dicho listado se debería mantener actualizado. Se deja constancia que el Banco no tendría acceso a la información sino que sólo a la nómina de personas que tendrían acceso a esa información.
+
+17. Manejo de relación con reguladores y fiscalizadores (Servicio de Impuestos Internos, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, otros): el Banco enviaría reportes periódicos a la Superintendencia de Valores y Seguros. Lo anterior, actuando como meros mandatarios de acuerdo a las facultades e instrucciones que reciban de la Administradora.
+
+18. Administrar servicios de correspondencia electrónica con la Superintendencia de Valores y Seguros: el Banco prestaría el servicio de administración de la correspondencia electrónica, particularmente las comunicaciones con la SVS.
+
+19. Control de límites de inversión normativos de los fondos: el Banco prestaría el servicio de control respecto de los límites normativos para efectos de las inversiones a realizar.
+
+Finaliza señalando que los servicios a prestar a la Corredora serían básicamente los mismos ya descritos, pero en el ámbito de las actividades desarrolladas por esta última.
+
+II.- ANÁLISIS:
+
+El Art. 8°, de D.L. N° 825, de 1975, grava con Impuesto al Valor Agregado las ventas y los servicios, éstos últimos, siempre que su remuneración provenga del ejercicio de alguna de las actividades clasificadas en el Art. 20°, N°s 3 ó 4, de la Ley sobre Impuesto a la Renta.
+
+A su vez, en el Art. 20°, N° 3, de la mencionada Ley sobre Impuesto a la Renta, se clasifican las rentas obtenidas por los bancos.
+
+Conjugando las normas legales antes señaladas, este Servicio se pronunció sobre la materia señalando que la expresión “rentas de los bancos”, a que alude el Art. 20°, N° 3 de la norma legal antes señalada dice relación con todos los ingresos y remuneraciones obtenidos por un banco, derivados o provenientes del ejercicio de su actividad bancaria, definidos en los términos legales establecidos en la Ley General de Bancos, contenida actualmente en el D.F.L. N° 3, de 19/12/1997, particularmente en sus Art. 40° y 69°.
+
+De este modo, todos aquellos servicios prestados por un banco e incluidos dentro de aquellas operaciones que se encuentran facultados a realizar estas entidades conforme a la normativa legal que los regula, se encuentran siempre gravados con IVA.
+
+Sin embargo, teniendo presente que para pronunciarse respecto de la afectación con Impuesto al valor Agregado de las actividades detalladas por el contribuyente, es necesario determinar si ellas corresponden a actividades propias del giro bancario conforme a lo establecido en la Ley antes referida, es que se solicitó a la Superintendencia de Bancos e Instituciones Financieras, un pronunciamiento sobre la materia.
+
+Mediante Ord. N° 242, de 17/2/2015, esa Superintendencia manifestó que las operaciones que los bancos están autorizados para realizar de conformidad con la ley se encuentran enumeradas en el Art. 69 de la Ley General de Bancos.
+
+Agrega que de acuerdo a lo permitido en virtud del artículo 69 N° 15 antes citado, los bancos pueden constituir sociedades filiales de conformidad con lo establecido en los artículos 70 y siguientes de la misma ley, entre las que se comprenden los corredores de bolsa y las administradoras generales de fondos mutuos. Las instrucciones impartidas por esa Superintendencia en relación con estas entidades, están contenidas en el Capítulo 11-6 de la Recopilación Actualizada de Normas, disponible en http://www.sbif.cl/sbifweb3/internet/archivos/norma 44 1.pdf, el que en su numeral 9 establece la posibilidad de que los bancos compartan con sus filiales en los términos en este establecidos ciertos elementos, tales como gerente y personal y locales y equipamientos.
+
+Lo señalado, sin perjuicio de las restricciones que en la materia existen por disposición de la Superintendencia de Valores y Seguros, entidad fiscalizadora del tipo de filiales mencionadas en la consulta.
+
+En atención a ello, esa Superintendencia manifiesta que desde la perspectiva de la regulación bancaria, la actividad de los bancos se encuentra limitada por ley respecto de terceros distintos del banco mismo y de sus sociedades filiales, por lo que los bancos están facultados para prestar servicios bajo las condiciones que se indican en el Capítulo antes mencionado a sus empresas filiales aun cuando no se trate de operaciones comprendidas dentro de las enumeradas en el Art. 69 de la Ley.
+
+Finalmente, concluye respecto de las operaciones enumeradas en el presente oficio que en la medida que éstas se encuentren vinculadas o formen parte de algunas de las operaciones que los bancos están facultados para realizar de acuerdo a lo dispuesto en el artículo 69 de la Ley General de Bancos, podrían ser calificadas como operaciones bancarias como resultan ser las relacionadas a operaciones de administración de fondos de terceros y carteras individuales, actividad incluida en las operaciones propias del giro bancario, de conformidad a lo dispuesto en el Art. 69 N° 16 en relación con los artículos 86, 87 y 88 de la misma ley que, bajo la denominación de “comisiones de confianza”, permite a los bancos aceptar mandatos generales o especiales para administrar bienes de terceros o las relativas a las cuentas corrientes bancarias en virtud de lo establecido en el artículo 69 N° 1, de la Ley.
+
+III.- CONCLUSIÓN:
+
+Considerando que este Servicio de Impuestos Internos, carece de competencias para determinar si las actividades mencionadas en la consulta se encuentran vinculadas o forman parte de alguna de las operaciones expresamente señaladas en el Art. 69, de la Ley General de Bancos, se estima que éstas se afectarán con IVA, en la medida que de acuerdo a las normas que regulan la actividad son consideradas derivadas o provenientes del ejercicio de su actividad bancaria, en los términos que la Ley General de Bancos, en su Art. 69°, señala.
+
+De concluir en base a las normas antes mencionadas que todas o algunas de dichas actividades, son operaciones de banco en los términos señalados en el antes mencionado Art. 69, deberá recargarse el Impuesto al Valor Agregado en dichas prestaciones, conforme a lo dispuesto en el Art. 8°, en concordancia con el Art. 2°, N° 2, del D.L. N° 825.
+
+Lo anterior, sin perjuicio del ejercicio de las facultades generales de fiscalización que competen a este Servicio, según lo previsto en el Art. 1° del D.F.L. 7, de 1980.
+
+VÍCTOR VILLALÓN MÉNDEZ
+DIRECTOR (S)
+
+Oficio N° 2341, de 23.08.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

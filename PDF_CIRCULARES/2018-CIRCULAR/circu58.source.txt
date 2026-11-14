@@ -1,0 +1,5 @@
+archive: circu58.zip
+published_to: PDF_CIRCULARES/2018-CIRCULAR/circu58.pdf
+members:
+  Circular_Nro_58_Suplemento_Tributario_AT_2019.pdf  kept=PDF_CIRCULARES/2018-CIRCULAR  (byte-identical to the published circular)
+  SUPLEMENTO TRIBUTARIO RENTA AÑO 2019.pdf  sha256=8f0791047f2a0ab43382719b48e2736be5acbdd4e74dbb1f7a3e47ab16f41343  kept=SIN_PROCESAR/SUPLEMENTOS/2018-CIRCULAR/SUPLEMENTO TRIBUTARIO RENTA AÑO 2019.pdf

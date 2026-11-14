@@ -1,0 +1,150 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1839 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°8, ART. 18 – LEY N° 20780, ART. 1, N°8,, LETRA E) – LEY N° 20.899, ART. 8, N°5, LETRA F) – CIRCULAR N° 13..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1839.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1839.doc"
+materia: "renta"
+fecha: "2016-06-23"
+exenta: false
+impuestos: ["renta", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°8, ART. 18 – LEY N° 20780, ART. 1, N°8,, LETRA E) – LEY N° 20.899, ART. 8, N°5, LETRA F) – CIRCULAR N° 13, DE 2014. (ORD. N° 1839, DE 23.06.2016)
+
+ENAJENACIÓN DEL DERECHO REAL DE USUFRUCTO Y DE LA NUDA PROPIEDAD DE UN INMUEBLE, ATENDIDO LO DISPUESTO EN LA LEY N° 20.780, MODIFICADA POR LA LEY N° 20.899.
+
+Se ha solicitado un pronunciamiento a este Servicio, respecto a una serie de consultas formuladas por doña XXXXX, relacionadas con el impuesto que afectará la ganancia de capital que se obtenga en la enajenación del derecho real de usufructo y de la nuda propiedad, que recaen sobre un mismo bien raíz, atendido lo establecido en la Ley N° 20.780.
+
+I.- ANTECEDENTES.
+
+Doña XXXXX señala que en 1995 compró un bien raíz, el que hasta la fecha de su presentación, esto es, hasta el 28 de abril de 2015, ha utilizado como su casa habitación.
+
+Indica, además, que en el año 2013 traspasó a su hijo la nuda propiedad del bien raíz en referencia, conservado ella el usufructo, y que, en un futuro cercano, es probable que sea necesario vender dicho bien raíz a un tercero.
+
+Agrega, por último, que desde que adquirió el bien raíz en cuestión, éste ha aumentado su plusvalía en 9.000 Unidades de Fomento (UF), aproximadamente.
+
+Por todo lo anterior, y atendidas las modificaciones introducidas por la Ley N° 20.780, formula las siguientes consultas:
+
+1.- Si la venta del bien raíz que habita, que ha aumentado su plusvalía en UF 9.000, ¿se gravará con el impuesto que afecta a las ganancias de capital en caso que se enajene?
+
+2.- ¿Si debe considerar como costo tributario, para efectos de determinar el mayor valor afecto a impuesto, el precio al que ella adquirió el bien raíz en 1995 o el precio al que transfirió la nuda propiedad a su hijo?
+
+3.- ¿Cómo se valoriza el usufructo para efectos de determinar el mayor valor afecto a impuesto?
+
+4.- ¿Cómo funciona el procedimiento para tasar un bien raíz y considerar el valor de dicha tasación como costo tributario?
+
+5.- ¿Con qué fecha debe llevarse a cabo la referida tasación?
+
+6.- ¿Qué profesional debe llevar a cabo la referida tasación y si existe una nómina de tasadores autorizados por este Servicio?
+
+7.- ¿En qué Departamento de este Servicio se debe ingresar la referida tasación para que el valor de aquella quede formalizado como costo tributario del bien raíz tasado?
+
+8.- ¿Hasta qué fecha se puede entregar la referida tasación en las oficinas de este Servicio?
+
+9.- ¿Si las contribuciones de bienes raíces seguirán siendo calculadas de acuerdo a la tasación fiscal?
+
+10. ¿Qué otro tributo afectará la venta del bien raíz en referencia, habiéndose entregado dentro de plazo la referida tasación a este Servicio?
+
+II.- ANÁLISIS.
+
+1.- El N° 8 del artículo 17 y en el artículo 18, ambos de la Ley sobre Impuesto a la Renta (LIR), vigentes hasta el 31 de diciembre de 2016, prescriben en lo pertinente a la situación planteada, que no constituye renta, y en consecuencia, no se encuentra afecto con impuesto alguno de la LIR, el mayor valor obtenido por personas naturales en la enajenación no habitual de bienes raíces situados en Chile, excepto aquellos que formen parte del activo de empresas que declaren cualquier clase de rentas efectivas de la primera categoría sobre la base de un balance general con contabilidad completa, y siempre que la enajenación no se efectúe a una parte relacionada .
+
+Si no se cumplen los requisitos recién indicados, el total del mayor valor obtenido en la enajenación respectiva, queda gravado de acuerdo al régimen general, esto es, con el Impuesto de Primera Categoría (IDPC) e Impuesto Global Complementario (IGC) o Impuesto Adicional (IA), según corresponda. Para determinar el mayor valor afecto a impuesto se debe deducir del precio o valor asignado a la enajenación, el costo tributario de los referidos bienes, el que corresponde, a su vez, al valor de adquisición de los mismos debidamente reajustado.
+
+Las instrucciones de este Servicio sobre esta norma, se encuentran contenidas en la Circular N° 13 de 2014, la que se encuentra publicada en su página web www.sii.cl.
+
+A partir del 1° de enero de 2017, la referida norma se sustituye íntegramente de acuerdo a lo dispuesto en la letra e), del numeral 8), del artículo 1°, en concordancia con el artículo primero de las disposiciones transitorias, ambos de la Ley N° 20.780 , numeral que fue modificado a su vez por el numeral iv., de la letra d., del numeral 1., del artículo 8° de la Ley N° 20.899 , lo que trae consigo, a contar de la fecha señalada, la introducción de una serie de modificaciones a la determinación del mayor valor obtenido en la enajenación de bienes raíces y a su tratamiento tributario.
+
+No obstante lo anterior, conforme a lo dispuesto en el numeral XVI, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8° de la Ley N° 20.899, el mayor valor obtenido en las enajenaciones de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes poseídos en comunidad, efectuadas por personas naturales que no sean contribuyentes del IDPC que declaren su renta efectiva, cuando hayan sido adquiridos antes del 1° de enero de 2004, se sujetará a las disposiciones de la LIR, según su texto vigente hasta el 31 de diciembre de 2014.
+
+Ahora bien, conforme al nuevo N° 8, del artículo 17 de la LIR, a partir del 1° de enero de 2017, no constituye renta, el mayor valor, incluido el reajuste del saldo del precio, obtenido en la enajenación de bienes raíces situados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, efectuada por personas naturales que no sean contribuyentes del IDPC que declaren su renta efectiva, sólo por la parte del mayor valor que no exceda de la suma única y total de 8.000 UF, considerando al efecto los mayores valores determinados en la totalidad de las enajenaciones que de los referidos bienes efectúen a partir de la fecha de entrada en vigencia de tal norma.
+
+De esta manera, en términos generales, el nuevo N° 8, del artículo 17 de la LIR establece los siguientes requisitos copulativos para que el mayor valor obtenido en la enajenación de los señalados bienes sea un ingreso no constitutivo de renta, hasta agotar el límite único y total de 8.000 UF:
+- Que se trate de bienes raíces situados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad;
+- Que el enajenante sea una persona natural;
+- Que dicha persona no determine el IDPC sobre rentas efectivas;
+- Que la enajenación de tales bienes no se efectúe a una parte relacionada ;
+- Que transcurra un determinado plazo entre la adquisición o construcción del inmueble y su enajenación .
+
+Conforme a lo anterior, tratándose de personas naturales que no determinen el IDPC sobre rentas efectivas, el mayor valor obtenido en la enajenación de bienes raíces situados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, adquiridos a contar del 1° de enero de 2004 y enajenados a partir del 1° de enero de 2017, puede quedar sometido a los siguientes tratamientos tributarios:
+
+a) Cuando se cumplen todos los requisitos para que el mayor valor sea considerado como un ingreso no constitutivo de renta, dicho mayor valor, no se afecta con impuesto alguno de la LIR hasta alcanzar el señalado límite único y total de 8.000 UF.
+
+b) Cuando se cumplen todos los requisitos para que el mayor valor sea considerado como un ingreso no constitutivo de renta, pero se encuentra agotado el límite de 8.000 UF, el mayor valor se afectará con el IGC o IA, sobre la base de la renta percibida o devengada, a elección del contribuyente, con la posibilidad de reliquidar el primero de los impuestos indicados, considerando al efecto los años en que estuvo el bien bajo su dominio, siempre que se declare sobre la base de la renta devengada. Cabe agregar, que las personas naturales domiciliadas o residentes en Chile podrán optar por afectar el mayor valor con el Impuesto Único y Sustitutivo (IUS) con tasa de 10%, siempre que declaren sobre la base de la renta percibida. En estos casos, como se dijo, el impuesto correspondiente se aplicará sólo sobre aquella parte del mayor valor que exceda el límite de 8.000 UF referido.
+
+c) Cuando la enajenación se efectúe a parte relacionada (sin importar el plazo transcurrido entre la enajenación y la adquisición del bien respectivo), el mayor valor obtenido se afectará con IGC o IA, según corresponda, sobre base de la renta percibida o devengada, lo que ocurra primero, sin posibilidad de reliquidar el IGC.
+
+d) Cuando la enajenación se efectúe sin haber transcurrido los plazos correspondientes entre la enajenación y la adquisición del bien respectivo (siempre que no se enajene a parte relacionada), el mayor valor obtenido se afectará con ICG o IA, según corresponda, sobre la base de la renta percibida o devengada, a elección del contribuyente, con posibilidad de reliquidar el IGC.
+
+Por otra parte, cuando la enajenación de bienes raíces situados en Chile o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, sea efectuada por contribuyentes que no cumplen los requisitos establecidos en el N° 8, del artículo 17 de la LIR, por tratarse, por ejemplo, de personas jurídicas, o de contribuyentes que determinan IDPC sobre rentas efectivas, el mayor obtenido se afectará de acuerdo al régimen general, esto es, con el IDPC e IGC o IA, según corresponda, por tratarse de rentas clasificadas en el N° 5, del artículo 20 de la LIR.
+
+2.- Para determinar el mayor valor obtenido en la enajenación de bienes raíces situados en Chile, o de derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, enajenados a partir del 1° de enero de 2017, por personas naturales que no determinen el IDPC sobre rentas efectivas, se debe deducir del precio o valor asignado a la enajenación, el costo tributario de dichos bienes, esto es, su valor de adquisición debidamente reajustado de acuerdo al porcentaje de variación del Índice de Precios al Consumidor (IPC) entre el mes anterior al de la adquisición y el mes anterior al de la enajenación.
+
+A mayor abundamiento, de acuerdo a lo dispuesto en el inciso 2°, de la letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR y en el numeral XVI, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, ambos modificados por la ley N° 20.899, como se dijo, la determinación del costo tributario de los referidos bienes supone efectuar las siguientes distinciones:
+
+a) Bienes raíces situados en Chile, o derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, adquiridos hasta el 31 de diciembre de 2003, cualquiera sea la fecha de su enajenación: dado que la determinación del mayor valor se sujeta a las disposiciones de la LIR vigentes al 31 de diciembre de 2014, el costo tributario de dichos bienes va estar conformado por el valor inicial de adquisición reajustado de acuerdo a la variación del IPC entre el mes anterior al de la adquisición y el mes anterior al de la enajenación.
+
+b) Bienes raíces situados en Chile, o derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, adquiridos a partir del 1° de enero de 2004 y hasta el 28 de septiembre de 2014, siempre que su enajenación se efectúe a contar del 1° de enero de 2017: el contribuyente puede utilizar alternativamente como costo tributario:
+
+b.1) El valor inicial de adquisición más los desembolsos incurridos en mejoras que hayan aumentado el valor venal del inmueble, reajustados de acuerdo a la variación del IPC entre el mes anterior al de la adquisición o a aquel en que la obra se encuentre en condiciones de ser usada, respectivamente, y el mes anterior al de la enajenación. Las mejoras pueden haber sido efectuadas por el mismo enajenante o por un tercero, siempre que en este último caso hayan pasado a formar parte de la propiedad del enajenante. Además, estas mejoras deben haber sido declaradas en la oportunidad que corresponda ante este Servicio, para ser incorporadas en la determinación del avalúo fiscal respectivo para los fines del impuesto territorial, con anterioridad a la enajenación, en la forma señalada en la Resolución Exenta N° 80 de 2015.
+
+b.2) El avalúo fiscal vigente al 1° de enero de 2017, reajustado según la variación del IPC entre el mes de diciembre de 2016 y el mes anterior al de la enajenación.
+
+b.3) El valor de mercado determinado al 29 de septiembre de 2014, reajustado de acuerdo a la variación del IPC entre el mes de agosto de 2014 y el mes anterior al de la enajenación, acreditado fehacientemente e informado a este Servicio hasta el 30 de junio de .20165, en la forma establecida en las Resoluciones Exentas N° 127 de 2014 y 29 de 2016. Se hace presente que el Servicio ha habilitado una aplicación en su página web para que los contribuyentes puedan efectuar esta declaración, en el Menú “Bienes Raíces”, “Declaraciones Juradas y solicitudes”, “Comunicación de tasación a valor de mercado de bienes raíces, Ley 20.780 de 2014”.
+
+c) Bienes raíces situados en Chile, o derechos o cuotas respecto de tales bienes raíces poseídos en comunidad, adquiridos a partir del 29 de septiembre de 2014, que se enajenen a partir del 1° de enero de 2017: el costo tributario corresponderá al valor inicial de adquisición del bien raíz, más los desembolsos incurridos en mejoras que hayan aumentado el valor venal del inmueble, reajustados de acuerdo a la variación del IPC entre el mes anterior al de la adquisición o a aquel en que la obra se encuentre en condiciones de ser usada, respectivamente, y el mes anterior al de la enajenación. Las mejoras pueden haber sido efectuadas por el mismo enajenante o por un tercero, siempre que en este último caso hayan pasado a formar parte de la propiedad del enajenante. Además, estas mejoras deben haber sido declaradas en la oportunidad que corresponda ante este Servicio, para ser incorporadas en la determinación del avalúo fiscal respectivo para los fines del impuesto territorial, con anterioridad a la enajenación, en la forma señalada en la Resolución Exenta N° 80 de 2015.
+
+3.- En cuanto al bien que se pretende enajenar, según los términos expuestos en su consulta, cabe indicar que se trata de dos bienes distintos: por una parte, la nuda propiedad de un bien raíz y por otra, el usufructo sobre el mismo.
+
+El derecho de usufructo, de acuerdo al artículo 764 del Código Civil, “es un derecho real que consiste en la facultad de gozar de una cosa con cargo de conservar su forma y substancia, y de restituirla a su dueño, si la cosa no es fungible; o con cargo de volver igual cantidad y calidad del mismo género, o de pagar su valor, si la cosa es fungible”, que supone necesariamente, atendido lo dispuesto en el inciso 1°, del artículo 765 del referido cuerpo legal, la coexistencia de dos derechos, el del nudo propietario y el del usufructuario.
+
+Respecto a la nuda propiedad, que es aquella provista sólo de la facultad de disposición jurídica del bien en la que recae, este Servicio ha señalado que no es un derecho real distinto del de dominio –también denominado propiedad–, de modo que su enajenación no implica la enajenación de un derecho, sino que la del bien mismo en que recae .
+
+La regla de la letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, debe entenderse referida a la generalidad de los bienes raíces, toda vez que la expresión “bienes raíces” de que se sirve dicha norma, y que el inciso 1°, del artículo 568 del Código Civil hace análoga a inmueble, se emplea sin otra calificación que determine que su alcance deba circunscribirse a bienes inmuebles corporales . Por consiguiente, considerando que la norma de que se trata no exige que la enajenación deba referirse a bienes inmuebles corporales, y que por disposición del artículo 580 del Código Civil, el usufructo que se ejerce sobre un inmueble es un derecho real inmueble , cabe concluir que la cesión del derecho de usufructo constituye, para los efectos de lo dispuesto en la letra b), del inciso 1°, del N° 8, del artículo 17 de la LIR, la enajenación de bien raíz .
+
+En el caso en análisis, resulta aplicable entonces la norma de la letra b), del N°8 del artículo 17 de la LIR, tanto a la enajenación de la nuda propiedad como a la enajenación del derecho de usufructo.
+
+Sin perjuicio de lo anterior, dado que la consultante gozaría del carácter de constituyente del derecho de usufructo –el que habría constituido por retención, esto es, reservándose el usufructo y cediendo la nuda propiedad–, sólo podrá considerar como costo tributario de aquel los desembolsos directamente incurridos en la constitución misma de tal derecho . Lo anterior, por cuanto es la enajenación de la nuda propiedad, que implica la enajenación del bien en si mismo, la que lleva asociada el valor de adquisición de dicho bien como costo tributario. De este modo, el derecho de usufructo respecto de su constituyente, en caso de no existir los desembolsos aludidos, no tiene valor de costo para efectos tributarios.
+
+III.- CONCLUSIÓN.
+
+En base a las normas e instrucciones referidas y al análisis efectuado, a continuación se responden las consultas en el mismo orden en que se formulan:
+
+- Respecto a la consulta N° 1. No es posible determinar en esta instancia si la enajenación del bien raíz, entendiendo por tal la enajenación de la nuda propiedad, quedará o no gravada con los impuestos de la LIR, por cuanto se desconoce la fecha en que se efectuará aquella, cuestión que determina la norma vigente a dicha época y, consecuencialmente, los requisitos que han de concurrir para efectos de gravarla o no con los referidos impuestos. Por lo demás, no se expone en la consulta información alguna que dé cuenta de la concurrencia o no de los requisitos señalados en el apartado precedente, atendidas las vigencias referidas, así por ejemplo, no se indica si el enajenante es habitual o si enajena a parte relacionada o si determina el IDPC sobre rentas efectivas, etc.
+
+Cabe recalcar que, dado que en el año 2013 doña XXXXX transfirió la nuda propiedad del bien raíz, reservándose el derecho de usufructo, la enajenación de estos dos derechos debe analizarse en forma independiente para efectos de determinar la existencia o no de un mayor valor y su afectación con los impuestos a la renta.
+
+- Respecto a las consultas N°s 2 y 3. Por las mismas razones indicadas en la respuesta precedente, no es posible determinar en esta instancia el costo tributario de la nuda propiedad en caso que ésta se enajene.
+
+En cuanto al derecho de usufructo, por otra parte, atendido que la consultante habría sido la constituyente del mismo, sólo podrá considerar como costo tributario de tal derecho, ya sea que lo enajene antes del 1° de enero de 2017 o partir de dicha fecha, los desembolsos directamente incurridos en la constitución de aquel. De no existir dichos desembolsos, no tendrá costo para efectos tributarios, debiendo considerar como mayor valor, de proceder, el monto total del precio o valor asignado en la enajenación del derecho de usufructo.
+
+- Respecto a la consulta N° 4. El procedimiento que deben seguir los contribuyentes que opten por comunicar a este Servicio las tasaciones de los bienes raíces a valor de mercado, con el objeto de dar cumplimiento a lo establecido en el numeral iii), del numeral XVI.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8°.- de la Ley N° 20.899, se instruyó mediante las Resoluciones Exentas N° 127 de 2014 y 29 de 2016, las que se encuentran disponibles en la página web de este Servicio www.sii.cl.
+
+- Respecto a la consulta N° 5. De acuerdo a lo dispuesto en el numeral iii), del numeral XVI.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8°.- de la Ley N° 20.899, el valor de mercado del bien raíz de que se trate deberá determinarse al 29 de septiembre de 2014.
+
+- Respecto a la consulta N° 6. El numeral iii), del numeral XVI.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8°.- de la Ley N° 20.899, no ha establecido que la tasación en comento deba ser realizada por algún profesional en particular. Este Servicio tampoco ha fijado una nómina de tasadores autorizados. Lo instruido por la Resolución Exenta N° 127 de 2014, a este respecto, dice relación con la acreditación del valor de mercado informado a este Servicio y la forma de efectuar dicha acreditación es meramente ejemplar, como explícitamente se señala en su resolutivo N° 4).
+
+- Respecto a las consultas N°s 7 y 8. La tasación del valor de mercado deberá presentarse en la Dirección Regional correspondiente a su domicilio, mediante el Formulario N° 2897, denominado “Formulario de comunicación de tasación a valor de mercado de bienes raíces, Ley N° 20.780, de 2014”, y su anexo Formulario N° 2897.1, este último para nominar a los propietarios en aquellos casos en que el bien raíz que se comunica se posea en comunidad. Además, este Servicio implementó una aplicación en su página web que permite efectuar el trámite en línea, en el Menú de Bienes Raíces, sección “Declaraciones Juradas y Solicitudes”.
+
+El plazo para efectuar este trámite vence el 30 de junio de 2016.
+
+- Respecto a la consulta N° 9. La base imponible sobre la cual se aplicará el Impuesto Territorial, no se modifica en caso de efectuarse una tasación comercial del inmueble para los efectos de lo dispuesto en el numeral iii), del numeral XVI.-, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, modificado por la letra f), del N° 5., del artículo 8°.- de la Ley N° 20.899, la que continuará siendo el avalúo determinado conforme a la Ley N° 17.235, de 1969. Lo anterior, ya ha sido ratificado por este Servicio mediante el Oficio N° 603 de 2015.
+
+- Respecto a la consulta N° 10. Si el contribuyente efectúa la tasación del bien raíz a valor de mercado, y la comunica dentro de plazo a este Servicio, aquella podrá ser considerada valor de adquisición y, en consecuencia, como parte del costo tributario para determinar el mayor valor en una futura enajenación del inmueble, sin perjuicio de las facultades fiscalizadoras del Servicio en cuanto a determinar si dicha tasación se encuentra efectivamente acreditada o respaldada con antecedentes fidedignos. El impuesto a la renta que corresponda pagar en dicha operación, dependerá de una serie de factores según lo indicado en la respuesta a su primera consulta.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1839, de 23.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

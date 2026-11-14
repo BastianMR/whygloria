@@ -1,0 +1,70 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 340 (2014)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, DECRETO N° 319, DE 2007, ART. 17°. (ORD. N° 340, DE 21.02.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja340.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja340.doc"
+materia: "iva"
+fecha: "2014-02-21"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, DECRETO N° 319, DE 2007, ART. 17°. (ORD. N° 340, DE 21.02.2014)
+
+APLICACIÓN DE IVA A LA ACTIVIDAD DE CERTIFICACIÓN DEL CUMPLIMIENTO DE OBLIGACIONES LABORALES Y PREVISIONALES.
+
+I.- ANTECEDENTES:
+
+Se ha recibido la presentación del antecedente mediante la cual la empresa XXX S.A. consulta si la actividad de certificar el cumplimiento de obligaciones laborales y previsionales por empresas contratistas y subcontratistas, se encuentra afecta a IVA.
+
+En opinión del consultante, dichos servicios no cumplen con los requisitos legales para calificar como un hecho gravado ‘servicio’, al tenor del Decreto Ley N°825, de 1974. Tampoco estima que se puedan encuadrar en ninguno de los hechos gravados especiales contenidos en el Art. 8° del mismo cuerpo normativo.
+
+Adicionalmente, solicita la creación de un código que distinga en forma específica la actividad en cuestión dentro del clasificador de actividades económicas y sus respectivos códigos.
+
+II.- ANÁLISIS:
+
+1) El Decreto N°319 del Ministerio del Trabajo y Previsión Social y Subsecretaría del Trabajo, del año 2007, que aprueba el Reglamento del Art. 183-C inciso segundo del Código del Trabajo, sobre Acreditación de Cumplimiento de Obligaciones Laborales y Previsionales, dispone en su Art. 17°, que el procedimiento de revisión, debe abarcar la totalidad de la cadena de subcontratación y cumplir con el siguiente protocolo:
+
+1. Recepcionar la solicitud de certificado y, a lo menos, los siguientes documentos: comprobantes de remuneraciones, libro auxiliar de remuneraciones y planillas de cotizaciones previsionales, así como los avisos de término de contrato o finiquitos.
+2. El período revisado corresponderá al que se indique en la solicitud de certificado.
+3. Revisar, procesar y contrastar la información proporcionada a fin de verificar el monto y estado de cumplimiento de las obligaciones laborales y previsionales.
+4. Elaborar certificados por cada empresa contratista, incluyendo subcontratistas, cuando corresponda, que den cuenta del monto y estado de cumplimiento de las obligaciones laborales y previsionales.
+5. Una copia de los certificados emitidos por la entidad de verificación, deberá estar disponible de manera permanente para el Instituto Nacional de Normalización, Inspección del Trabajo, trabajadores que laboren en régimen de subcontratación y que estén involucrados en los certificados e informes, organizaciones sindicales que representen a los trabajadores sujetos de la certificación y para las entidades de previsión.
+6. Mantener respaldos de la información y registros del proceso de revisión a fin de demostrar el cumplimiento con el protocolo, durante al menos tres años.
+
+De lo anterior se desprende que, en esencia, las labores ejecutadas por las entidades certificadoras para acreditar el cumplimiento de obligaciones laborales y previsionales, consisten fundamentalmente en examinar y comparar la documentación recibida de la empresa, comprobar que se han efectuado los pagos derivados de la relación laboral, incluidas las indemnizaciones legales que le otorga la Ley al trabajador por término del contrato de trabajo, y de las cotizaciones previsionales, extender certificados y copias de éstos y mantener bajo custodia un respaldo de los certificados, información recibida y protocolo de revisión para cuando los usuarios así lo requieran.
+
+2) Conforme al criterio reiteradamente sustentado por este Servicio , los servicios consistentes en otorgamiento de certificaciones constituyen prestaciones que no se encuentran incluidas dentro de las actividades comprendidas en los números 3° y 4°, del Art. 20° de la Ley sobre Impuesto a la Renta.
+
+En consecuencia, al no concurrir uno de los presupuestos legales esenciales establecidos en el Art. 2° número 2°, del Decreto Ley N°825, de 1974, para su afectación con el tributo, se informa que dicha actividad no configura un hecho gravado con IVA.
+
+Finalmente, respecto a la posibilidad de crear un código que distinga en forma específica la actividad de certificación analizada dentro del clasificador de actividades económicas, cabe manifestar que los referidos códigos de actividades económicas surgen del trabajo que ha realizado el Comité Técnico Interinstitucional de Nomenclaturas, presidido por el Instituto Nacional de Estadísticas y constituido por el Banco Central, el Servicio Nacional de Aduanas y el Servicio de Impuestos Internos, quienes han elaborado consensuadamente una norma chilena de clasificación de actividades económicas (CIIU.cl), para el Sistema Estadístico Nacional.
+
+El INE en su rol rector en la producción de estadísticas oficiales tiene la responsabilidad y la facultad de definir, adaptar y difundir los clasificadores para actividades, productos, ocupación, entre otros, y que son generados por Organismos Internacionales como por ejemplo la Organización de Naciones Unidas (ONU), la Organización Internacional del Trabajo (OIT), la Organización Mundial de Aduanas (OMA), además de generar los lineamientos a las instancias públicas y privadas en estas materias.
+
+La integración de Chile en el mercado internacional a través de diferentes tratados comerciales, ha conducido el acuerdo de establecer un lenguaje en común en el tema de “clasificadores”, que permita la comparación de las diferentes estadísticas nacionales respecto de las internacionales.
+
+En virtud de lo anterior, no corresponde a este Servicio en forma arbitraria o a petición de los contribuyentes implementar nuevos códigos de actividad.
+
+Finalmente, el código de actividad económica que corresponde a la actividad desarrollada por la sociedad, es el N° 749912, el cual tiene definido actualmente. Dicho código es el más correcto, pudiendo utilizarlo para realizar tanto actividades afectas como actividades exentas de Impuesto al Valor Agregado.
+
+III.- CONCLUSIÓN:
+
+Los servicios consistentes en la acreditación del cumplimiento de obligaciones laborales y previsionales, ejecutados en conformidad con lo dispuesto en el Decreto N°319, del Ministerio del Trabajo y Previsión Social y Subsecretaría de Trabajo, del año 2007, no configuran un servicio gravado con IVA.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 340, de 21.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

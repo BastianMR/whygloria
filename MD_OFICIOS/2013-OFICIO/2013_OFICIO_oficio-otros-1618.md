@@ -1,0 +1,59 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1618 (2013)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 88°, N° 3 – RES. EX. N°6 DE 2001 – OFICIO N° 2381, DE 2001. (ORD. N° 1618, DE 26.07.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1618.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1618.doc"
+materia: "otros"
+fecha: "2013-07-26"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 88°, N° 3 – RES. EX. N°6 DE 2001 – OFICIO N° 2381, DE 2001. (ORD. N° 1618, DE 26.07.2013)
+
+DOCUMENTOS QUE SE EMITEN PARA EL PAGO DE LAS PRESTACIONES DE SALUD – BONOS, ORDEN DE ATENCIÓN MÉDICA, BONO ELECTRÓNICO – NO CORRESPONDEN A DOCUMENTOS DE CARÁCTER TRIBUTARIO.
+
+Se ha recibido en este Servicio la presentación del antecedente, mediante la cual consulta ciertos aspectos relacionados con la “orden de atención médica”, “bono” o “bono electrónico” para el pago de prestaciones de salud.
+
+I. ANTECEDENTES
+
+Según señala en su presentación, XXXX, acordó consultar a este Servicio respecto a la naturaleza tributaria de la “orden de atención médica”, “bono” o bono electrónico” utilizado para el pago de prestaciones de salud.
+
+En particular, se solicita un pronunciamiento sobre la naturaleza tributaria del referido instrumento y su formalidad como medio de pago, dado que en la actualidad la gran mayoría de los servicios de salud se pagan a través de estos instrumentos, emitidos por el Fondo Nacional de Salud o por las Instituciones de Salud Previsional, sin que se conozca por parte de dicha entidad gremial, su validez legal y los controles tributarios a que está sujeto.
+
+No se acompañan antecedentes adicionales a la presentación.
+
+II. ANALISIS
+
+Al respecto, cabe señalar en primer lugar que las ordenes de atenciones médicas o bonos a que se refiere la consulta, no son documentos de orden tributario y, por consiguiente, no pertenecen al ámbito de competencia legal de este Servicio. En efecto, se trata de documentos en los que consta un crédito en favor del prestador de servicios de salud, equivalente a la remuneración, total o parcial, de la atención profesional otorgada, el cual debe ser pagado por Fonasa o la Institución de Salud Previsional respectiva , todo ello de acuerdo a convenios suscritos por las partes intervinientes, en conformidad a las leyes del ramo .
+
+Por otra parte, la utilización de los referidos bonos como medio de pago de prestaciones médicas, no tiene ninguna regulación tributaria especial, que no sean los controles generales inherentes a las facultades de fiscalización de este Servicio, establecidas en el Código Tributario, la Ley de Impuesto a la Renta y demás normas tributarias.
+
+Sin perjuicio de lo anterior, relacionado con dichos documentos, se debe tener presente que este Servicio, en consideración a que los ingresos de los profesionales y sociedades de profesionales que presten servicios exclusivamente por intermedio de sus socios o asociados, por las prestaciones de salud efectuadas de acuerdo a la ley N° 18.469, son respaldados por los ‘bonos de atención de salud’, y que el pagador efectúa la retención de los impuestos por los honorarios cobrados, mediante la Resolución Ex. N° 5856 de1998, eliminó, en esos casos, la exigencia de emitir boletas de honorarios por parte de dichos contribuyentes.
+
+De la misma forma, esta Dirección Nacional mediante la Resolución Ex. N°06 de 2001, haciendo uso de la facultad exclusiva conferida en el inciso 3º del artículo 88º del Código Tributario, autorizó que los Bonos de Atención de Salud puedan ser emitidos por los prestadores de salud inscritos en el Rol de la Modalidad Libre Elección, en el mismo lugar donde se recibe la atención de salud. Asimismo, autorizó la no emisión de una boleta por parte del prestador, por los co-pagos recibidos en forma directa bajo el esquema antes descrito, y dispuso que Fonasa emitirá cada tres meses (Abril, Julio, Octubre y Enero) una cartola que contendrá en detalle los pagos realizados al prestador y emitidos bajo esta forma de venta en el trimestre inmediatamente anterior.
+
+En la misma Resolución N° 06 citada, se dispuso que los profesionales y Sociedades de Profesionales de la 2ª categoría de la Ley sobre Impuesto a la Renta, acogidos a dicho sistema, deberán emitir mensualmente una boleta de honorarios por el total de los co-pagos recibidos en base a los bonos cobrados, la que extenderán a nombre de Fonasa, debiendo estos profesionales declarar y pagar por su cuenta como PPM el 10% sobre el valor de estos co-pagos.
+
+Asimismo se instruyó que las Sociedades de Profesionales o empresas que tributan en la 1ª categoría de la L.I.R. deberán emitir mensualmente a Fonasa una boleta o factura indicando en el detalle el monto total correspondiente a los bonos cobrados, representando en el mismo documento los bonos recibidos (co-pagos) directamente por el prestador, resultando la diferencia el valor FAM cobrado a Fonasa, es decir, (Monto total prestaciones cobradas) – (Copago percibido de los pacientes) = (Monto a pagar por Fonasa); y que el "Monto total prestaciones cobradas" deberá ser usado por el prestador para calcular la base imponible de PPM.
+
+III. CONCLUSIÓN
+
+De acuerdo a lo expuesto se informa que las denominadas ‘ordenes de atención médica’, ‘bonos’ y ‘bonos electrónicos’ para el pago de prestaciones de salud, a que se refiere la presentación, no son documentos de orden tributario y su justificación se encuentra en leyes sobre materias de sanidad, respecto de las cuales este Servicio no tiene competencia para pronunciarse, sin perjuicio de la regulación existente sobre aspectos tributarios, indicada precedentemente.
+
+ALEJANDRO BURR ORTÚZAR
+DIRECTOR (S)
+
+Oficio N° 1618, de 26.07.2013
+Subdirección Normativa
+Dpto. de Técnica Tributaria

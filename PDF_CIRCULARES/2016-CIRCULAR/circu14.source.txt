@@ -1,0 +1,5 @@
+archive: circu14.zip
+published_to: PDF_CIRCULARES/2016-CIRCULAR/circu14.pdf
+members:
+  circu14.pdf  kept=PDF_CIRCULARES/2016-CIRCULAR  (byte-identical to the published circular)
+  SUPLEMENTO_AT2016.doc  sha256=6b89b8f4f94981a62959fe4de41773f18db1b7315719caeb071a69e484b954ac  kept=SIN_PROCESAR/SUPLEMENTOS/2016-CIRCULAR/SUPLEMENTO_AT2016.doc

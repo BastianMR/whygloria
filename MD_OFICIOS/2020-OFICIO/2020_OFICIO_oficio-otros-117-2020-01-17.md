@@ -1,0 +1,39 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 117 (2020-01-17)"
+description: "Solicita se complemente y/o aclare opinión sobre la procedencia de aplicar impuesto específico de la Ley N° 18.502, a la importación de petróleo diésel efect..."
+tags: [SII, 2020, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2020/otras_normas_jadm2020.htm"
+materia: "Ley N° 18.502 –  Ord. 2248, de 30-08-2019"
+fecha: "2020-01-17"
+exenta: false
+impuestos: ["iva", "iec"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+Solicita se complemente y/o aclare opinión sobre la procedencia de aplicar impuesto específico de la Ley N° 18.502, a la importación de petróleo diésel efectuada por la Armada de Chile, en relación a lo ya manifestado en Ord. N° 2248, de 30/8/2019, de este Servicio.
+
+Se ha recibido en esta Dirección Nacional, su Oficio del antecedente, mediante el cual solicita se complemente y/o aclare opinión sobre la procedencia de aplicar impuesto específico de la Ley N° 18.502, a la importación de petróleo diésel efectuada por la Armada de Chile, en relación a lo ya manifestado en Ord. N° 2248, de 30/8/2019, de este Servicio.
+
+- I.- ANTECEDENTES:
+
+Mediante Ord. N° 2248, de 30/8/2019, este Servicio dio respuesta a consulta presentada por ese Servicio Nacional de Aduanas, quien requería la opinión sobre la procedencia de aplicar impuesto específico a los combustibles contenido en la Ley N° 18.502, a la importación de petróleo diésel efectuada por la Armada de Chile, al amparo de la partida 00.01, de la Sección 0, del Arancel Aduanero, y del Decreto Ley N° 480, de 1974. Expresa el Sr. Director Nacional de Aduanas que, en relación a Oficio señalado en el párrafo precedente, según el artículo 7°, de la Ley N° 18.502, enlazado con el artículo 2°, del Decreto N° 311, de 1986, del Ministerio de Hacienda, sólo las empresas afectas al Impuesto al Valor transiten por las calles, caminos y vías públicas en general, podrán recuperar el impuesto de esa ley soportado en la adquisición de dicho producto, como crédito fiscal del IVA determinado por el período tributario correspondiente, o mediante su devolución. Tal mecanismo, según manifiesta en Ord. 2248, de 2019, sólo se aplica a las empresas, calidad de la que carecen las Fuerzas Armadas, lo que, en lo que se refiere al impuesto específico que nos ocupa, permitiría sostener la existencia de un tratamiento tributario diferenciado para los Servicios Públicos, entre ellos, las ramas de las Fuerzas Armadas. En otras palabras, no resulta del todo claro que la Armada de Chile no esté exenta del pago del impuesto específico de que se trata, atendido a que no puede recuperar el IVA, visualizándose un trato diferenciado para los distintos entes que forman parte del Fisco de Chile, aun cuando se trata de la importación de una misma mercancía. Agrega, en relación con lo anterior, y entendiendo que las Fuerzas Armadas estarían fuera del alcance dado por el artículo 7° antedicho, sería preciso aclarar el ámbito dado por el artículo 12°, letra B), N° 1, del D.L. N° 825, de 1974, sobre exención del impuesto a las importaciones, sea que tengan o no el carácter de habituales, a la importación de las especies efectuadas por las entidades que allí se indican, en las circunstancias que se detallan. Por otro lado, y respecto a la importación de petróleo diésel afecto a impuesto específico, se consulta -adicionalmente- sobre la factibilidad de que esta mercancía se pueda considerar dentro del Fondo Rotativo de Abastecimiento de la Armada, atendido a lo recién expuesto concerniente al crédito fiscal, a una interpretación armónica de las normas y al evidente trato desigual que se observa para un mismo sujeto y respecto de una misma mercancía. En atención a lo expuesto, solicita complementar y/o aclarar Ord. 2248, de 26/6/2019, emitido por este Servicio.
+
+- II.- ANÁLISIS:
+
+Sobre el particular, cabe reiterar, que tal como se señaló en Ord. N° 2248, de 30/8/2019, por disposición expresa del Art. 6°, de la Ley N° 18.502, el Impuesto Específico al Petróleo Diésel, grava siempre la primera venta o importación del combustible, sin excepción alguna, afectando dicho tributo, al productor o importador, según sea el caso.
+
+Concordante con ello y en lo que dice relación con la consulta toda importación de petróleo Diésel, debe pagar el tributo en comento, de no mediar expresamente una exención establecida por ley que libere al importador de su pago. En el caso de la Armada no existe a su favor una exención que la libere del gravamen en forma expresa. Tampoco le resulta aplicable a dicha institución, el mecanismo de recuperación del Impuesto Específico, establecido en el Art. 7°, de la Ley N° 18.502 y reglamentado en el Decreto de Hacienda N° 311, de 1986, ya que tal como se manifestó en Ord. N° 2248, para impetrar dicha recuperación es requisito indispensable ser contribuyente del Impuesto al Valor Agregado, toda vez que el mecanismo de recuperación, establecido en el Decreto de Hacienda N° 311, de 1986, se basa en la imputación del referido impuesto, que asume el carácter de crédito fiscal, contra el débito fiscal generado en el período. Ahora bien, en cuanto a aclarar el ámbito de aplicación de la exención contenida en el Art. 12°, letra B), N° 1, del D.L. N° 825, cabe manifestar que la exención allí contenida, libera solamente de Impuesto al Valor Agregado, la importación de las especies allí detalladas, cuando son efectuadas por las instituciones indicadas. Como se aprecia, dicha exención no tiene incidencia en el caso en consulta, ya que no dice relación con el impuesto específico a los combustibles. Finalmente, respecto de la factibilidad que la adquisición de petróleo diésel efectuado por la Armada de Chile se pueda considerar dentro del Fondo Rotativo de Abastecimiento de la Armada, cabe manifestar que no es competencia de este Servicio, determinar qué bienes pueden ser adquiridos con dichos Fondos, materia que se encuentra regulada en el D.L. N° 1.277, de 17/12/1975 y cuya interpretación no es resorte de este Director. No obstante, si la Armada de Chile realizó la importación con cargo a los "Fondos Rotativos de Abastecimiento", dicha importación se encontrará libre de todo gravamen, en virtud de lo dispuesto en el Art. 101, de la Ley N° 18.948, que libera de todo impuesto, tributo o derecho, ya sean fiscales, aduaneros o municipales, a los actos, contratos o convenciones relativos a la adquisición, administración y enajenación de los bienes o servicios correspondientes a los Fondos Rotativos de Abastecimiento de las Fuerzas Armadas. En tal caso, la Armada debe acreditar que la importación se efectuó con cargo al citado Fondo, mediante orden de compra, de pedido o el documento oficial que haga sus veces, en que se detalle la operación y se deje constancia de que se hace con los fondos rotativos de abastecimiento. Esta documentación debe ser firmada por la autoridad competente designada al efecto por la institución.
+
+- III.- CONCLUSIÓN:
+
+Del análisis precedente es posible manifestar que no resulta aplicable en lo que dice relación con el impuesto específico a los combustibles la exención contenida en el Art. 12°, letra B), N° 1, del D.L. N° 825, cuya aplicación dice relación únicamente con el Impuesto al Valor Agregado. Respecto de la factibilidad que la adquisición de petróleo diésel efectuado por la Armada de Chile se pueda considerar dentro del Fondo Rotativo de Abastecimiento de la Armada, se reitera que no es competencia de este Servicio, determinar qué bienes pueden ser adquiridos con dichos Fondos, materia que se encuentra regulada en el D.L. N° 1.277, de 17/12/1975 y cuya interpretación no es resorte de este Director.
+
+## FERNANDO BARRAZA LUENGO DIRECTOR
+
+Oficio N° 0117, de 17-01-2020 Subdirección Normativa Depto. de Impuestos Indirectos

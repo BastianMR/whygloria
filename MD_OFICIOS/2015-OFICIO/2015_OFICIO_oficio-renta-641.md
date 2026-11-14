@@ -1,0 +1,77 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 641 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 27°, N°9, ART. 99° – LEY N° 19.606, ART. 4° – CIRCULARES NOS. 48 Y 52 DE 1985, 66 DE 1999, ..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja641.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja641.doc"
+materia: "renta"
+fecha: "2015-02-26"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 27°, N°9, ART. 99° – LEY N° 19.606, ART. 4° – CIRCULARES NOS. 48 Y 52 DE 1985, 66 DE 1999, 47 DE 2004 Y 06 DE 2012. (ORD. N° 641, DE 26.02.2015)
+
+EFECTOS DE LA QUIEBRA EN LOS BENEFICIOS TRIBUTARIOS DE LAS LEYES NAVARINO Y AUSTRAL.
+
+Se ha recibido en esta Dirección Nacional su oficio del antecedente, mediante el cual solicita un pronunciamiento respecto de si una empresa en quiebra puede acogerse a los beneficios tributarios y aduaneros que otorgan las Leyes Navarino y Austral y, si la empresa que goza actualmente de esos beneficios, puede perderlos por su declaratoria de quiebra.
+
+I.- ANTECEDENTES
+
+La consulta fue realizada por XXX a la Superintendencia de Quiebras, organismo que la remite a este Servicio debido a que, según se indica, la legislación concursal no contiene normas al respecto y se trata de una materia de naturaleza tributaria. En el oficio se solicita un pronunciamiento respecto a la procedencia de los beneficios tributarios y aduaneros que otorgan las Leyes Navarino y Austral, en una empresa en quiebra, y si puede perderlos, en el caso que antes de la declaratoria de quiebra gozara de ellos.
+
+II.- ANÁLISIS
+
+En relación a lo consultado, es preciso referirse previamente a los efectos generales de la quiebra, a fin de poder determinar luego las consecuencias tributarias, específicamente en cuanto a la aplicación de los beneficios impositivos de la ley N° 19.606, que establece incentivos para el desarrollo económico de las regiones de Aysén y de Magallanes y de la provincia de Palena (Ley Austral), y ley N°18.392, que establece un régimen preferencial aduanero y tributario para el territorio de la XII Región de Magallanes y de la Antártica Chilena (Ley Navarino), a que se refiere la consulta.
+
+Al respecto, cabe señalar que la quiebra tiene por objeto realizar en un solo procedimiento los bienes de una persona natural o jurídica, a fin de proveer el pago de sus deudas, en los casos y formas determinados por la ley .
+
+Producida la declaración de quiebra, el fallido queda inhibido de pleno derecho de la administración de todos sus bienes presentes, salvo aquellos que sean inembargables, quedando en manos del síndico .
+
+Los efectos de la quiebra, se encuentran señalados en Código de Comercio y se dividen en inmediatos y retroactivos.
+
+Dentro de los efectos inmediatos, se encuentra: (1) el derecho a pedir alimentos, (2) el desasimiento, (3) la fijación irrevocable y definitiva de los derechos de los acreedores, (4) la exigibilidad anticipada de todas las obligaciones del fallido, (4) la suspensión del derecho a ejecutar individualmente al quebrado y, (5) la acumulación de juicios.
+
+Dentro de los efectos retroactivos de la quiebra se encuentran: (1) los que se originan respecto de los actos celebrados a título gratuito, (2) los que se originan respecto de los actos celebrados a título oneroso y, (3) las acciones revocatorias.
+
+Por otra parte, no hay disposición legal expresa que establezca los efectos de la declaratoria de quiebra sobre los beneficios tributarios que tuviere el fallido.
+
+Con respecto a las franquicias tributarias que establecen las leyes citadas, los contribuyentes deben cumplir los requisitos específicos que esas leyes disponen y que han sido comentados y analizados por este Servicio en las instrucciones de las Circulares Nos. 48, de 1985 y 52 de 1985, entre otras, respecto de la ‘Ley Navarino’, y las Circulares Nos. 66 de 1999, 47 de 2004 y 06 de 2012, respecto de la ‘Ley Austral’, todas publicadas en la página Web institucional.
+
+Sobre el particular, de los requisitos que dichas leyes establecen para el otorgamiento de los beneficios tributarios correspondientes, se desprende que para la permanencia de la franquicia, los contribuyentes deben, en el caso de la ley 19.606, mantener los bienes incorporados al proyecto de inversión autorizado y, tratándose de la ley 18.392, desarrollar el giro o actividad empresarial considerado en la resolución aprobatoria del Intendente Regional, de manera tal que si los bienes se destinan a otro fin distinto o se enajenan, o si la actividad no se sigue desarrollando como se previó en el proyecto aprobado, entonces no procede seguir gozando de la franquicia.
+
+Sobre este punto, es importante tener presente que el artículo 4° de la Ley 19.606, establece que, el beneficiario no podrá destinar ninguno de los bienes incorporados a su proyecto de inversión a un fin distinto de aquel correspondiente al señalado en el artículo 1º ni tampoco enajenarlos, salvo, en ambos casos, con autorización del Servicio de Impuestos Internos, previa devolución del impuesto no enterado en arcas fiscales por la aplicación del crédito tributario en la forma dispuesta en el inciso segundo del artículo 5°. La misma disposición establece como excepción a esta obligación que, previo informe de la autoridad sectorial que corresponda, conforme a lo dispuesto en el artículo 3°, el Director Regional del Servicio de Impuestos Internos puede autorizar el cambio de destino o la enajenación de los bienes comprendidos en el proyecto de inversión, en los casos en que el beneficiario acredite fehacientemente, a lo menos después de un año de iniciada la actividad de que trate el proyecto, su inviabilidad económica.
+
+Ahora bien, como ya se ha señalado, el objetivo de la quiebra es realizar los bienes del fallido para pagar sus deudas, por lo mismo se le priva de la administración de sus bienes y se le entrega a un síndico, quien lo representa y tiene como función cumplir el objetivo final de este procedimiento. En el ejercicio de sus facultades, el síndico puede optar por dar aviso de término de giro o actividad de su representada y pagar los impuestos hasta el momento del balance final según lo establece el Código Tributario en el artículo 69 o, puede continuar provisional o efectivamente el giro.
+
+En el caso que termine el giro, el fallido no continuará con sus actividades comerciales y, deberá pagar los impuestos correspondientes. En esta situación, no puede acogerse ni a “Ley Navarino” ni a la “Ley Austral”, ya que habrá comunicado su cese de actividades comerciales, lo cual es incompatible con los beneficios tributarios que otorgan las citadas leyes, que suponen actividad.
+
+En el otro supuesto, esto es, que el síndico decida continuar el giro provisional o la continuación efectiva, se debe tener presente que en ambos casos, lo que se busca es preparar la realización de los bienes, según se desprende de los artículos 27 N°9 y 99 del Código del Comercio, del libro IV “de las quiebras”.
+
+Al respecto se ha señalado, en concordancia con lo que establece la ley, que la continuación provisoria, “no es verdaderamente una continuación del giro de las actividades del deudor declarado en quiebra, sino más bien un procedimiento destinado a preparar la realización de los bienes y la liquidación progresiva”. . No obstante debe también considerarse que el principio de conservación de la empresa tiene notable acogida en la legislación concursal vigente, y que se ha entendido que se consagra en las propias normas sobre continuación provisoria del giro del fallido y las reglas sobre continuación efectiva del giro de la quiebra, entre otras .
+
+En cuanto a la continuación efectiva del giro, ésta se puede llevar a cabo por el síndico o por la autorización de la junta de acreedores en casos calificados, y tiene plazos definidos establecidos en la ley, de un año, prorrogable por dos .
+
+De esta manera, se estima que, si en el caso concreto de que se trate, la continuidad del giro, sea de manera provisoria o efectiva, implica la continuación de la actividad empresarial aprobada en conformidad a las disposiciones de la ley N° 18.392, o la conservación del destino de los bienes comprendidos en el proyecto de inversión con derecho al crédito, conforme a la ley 19.606, entonces puede seguirse gozando de los beneficios tributarios conferidos, sólo en tanto se mantengan estos supuestos.
+
+III.- CONCLUSIÓN
+
+De acuerdo a lo expuesto se informa que, la declaratoria de quiebra no tiene por si misma el efecto de extinguir los beneficios tributarios establecidos en las leyes Nos. 18.392 y 19.606, pero ello se producirá indefectiblemente con el cese de la actividad empresarial autorizada por la resolución del Intendente Regional, o el cambio de destino o enajenación de los bienes incorporados al proyecto de inversión con derecho a crédito, según sea el caso, en los términos expuesto en este oficio.
+
+En cuanto a si una empresa en quiebra puede acogerse a los beneficios tributarios de las leyes citadas, se estima que debe analizarse caso a caso si en esa situación se cumplen o no las exigencias legales, teniendo presente que, tratándose de la ley N° 18.392, la autoridad competente para su aprobación es el Intendente Regional.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 641, de 26.02.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

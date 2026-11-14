@@ -1,0 +1,55 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 701 (2013)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 66°, ART. 68° – CÓDIGO DE COMERCIO, ART. 922°, ART. 923° – DECRETO LEY N°2222, DE 1978, ART. 24°. (ORD. N° 701, DE 10...."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja701.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja701.doc"
+materia: "otros"
+fecha: "2013-04-10"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en los artículos 66 y 68 del Código Tributario, obligaciones que sólo deberán cumplir, directamente o representados por el agente de naves respectivo, en la medida que efectivamente en razón de su actividad o condición, causen o puedan causar impuestos."]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 66°, ART. 68° – CÓDIGO DE COMERCIO, ART. 922°, ART. 923° – DECRETO LEY N°2222, DE 1978, ART. 24°. (ORD. N° 701, DE 10.04.2013)
+
+OBLIGACIÓN DE OBTENER RUT Y DAR AVISO DE INICIO DE ACTIVIDADES EN SITUACIÓN QUE SE INDICA.
+
+El Ministerio de Economía, Fomento y Turismo ha solicitado un pronunciamiento de este Servicio, acerca de la obligación de obtener RUT y dar aviso de inicio de actividades, que afectaría a empresas extranjeras de turismo internacional que operen cruceros en nuestro país.
+
+I.- ANTECEDENTES.
+
+El Sr. Gerente de Operaciones de XXX manifiesta, en una presentación realizada ante esa Subsecretaría, la necesidad de aclarar la tributación que afecta la operación de cruceros internacionales de turismo en naves de pasajeros en nuestro país, indicando, frente a la probable generación de impuestos provenientes de la actividad de armadores extranjeros, que dichas empresas cumplen sus obligaciones a través de sus agentes generales o agentes portuarios, quienes en su representación, recuperan impuestos cuando ello procede, sin que sus mandantes obtengan RUT ni den aviso de inicio de actividades en nuestro país.
+
+Agrega que la Dirección Regional TTT, a través del Ordinario N° 37, del 4 de junio de 2012, estableció que las empresas extranjeras de cruceros internacionales no pueden desarrollar actividades comerciales, como el turismo en aguas interiores y territorio chileno, con el sólo permiso de la Dirección General del Territorio Marítimo y Marina Mercante Nacional, puesto que previamente deben efectuar su inscripción en el RUT y presentar declaración de inicio de actividades.
+
+II.- ANÁLISIS.
+
+Conforme a lo dispuesto en el artículo 8, N° 5 del Código Tributario, este Servicio ha declarado que todas las personas, sean naturales o jurídicas, revisten la calidad de “contribuyentes” en la medida que puedan estar sujetas a alguno de los tributos que se establecen en las leyes, lo cual ocurre en el caso que tales personas posean bienes, realicen actividades u operaciones susceptibles de generar hechos gravados con impuestos. La ley tributaria, en general, no atiende a la naturaleza jurídica o finalidad que persiguen las personas para gravarlas o no con impuesto, sino que considera las actividades que realizan, los actos y contratos que ejecutan y los beneficios económicos que puedan obtener, salvo exenciones expresas de impuestos de que puedan gozar, otorgadas por las autoridades competentes mediante los respectivos textos legales dictados para tales efectos.
+
+Por otra parte, es preciso considerar que el artículo 24 de la Ley de Navegación, contenida en el Decreto Ley N° 2.222 de 1978, permite que toda nave pueda entrar en cualquier puerto habilitado de la República, debiendo ser recibida por la autoridad marítima, con la asistencia de los demás servicios del Estado, relacionados con las faenas que requieran realizar, de acuerdo al reglamento.
+
+Bajo tales términos, el hecho que la autoridad marítima conceda autorización a una empresa extranjera que opere cruceros internacionales, para que una nave recale en puertos nacionales y navegue por aguas interiores del Estado o sus pasajeros visiten lugares de interés turístico, no implica necesariamente que estas compañías desarrollen alguna actividad gravada con impuestos.
+
+En consecuencia, sólo si en razón de su actividad o condición, causan o pueden causar impuestos, como por ejemplo, tomar pasajeros en nuestro país y/o realizar tours, percibiendo ingresos a cambio de ello, estarán obligadas a obtener RUT y dar aviso de inicio de actividades, conforme a lo dispuesto en los artículos 66 y 68 del Código Tributario , trámites que pueden ser realizados directamente por la empresa extranjera operadora de de la nave, o bien por el agente de naves , en su calidad de representante del dueño, armador o capitán.
+
+III.- CONCLUSIONES.
+
+Tratándose de empresas extranjeras, que operen naves que realicen cruceros internacionales que recalen en puertos chilenos y naveguen por aguas interiores del Estado, debidamente autorizados por la autoridad marítima, no se encuentran obligadas a realizar los trámites de obtención de RUT ni de dar aviso de inicio de actividades, previstos en los artículos 66 y 68 del Código Tributario, obligaciones que sólo deberán cumplir, directamente o representados por el agente de naves respectivo, en la medida que efectivamente en razón de su actividad o condición, causen o puedan causar impuestos.
+
+En el evento de que se realicen actividades en Chile, que causen o puedan causar impuestos, y en caso de estimarse necesario, las facultades y acciones de fiscalización de este Servicio sobre los cruceros internacionales, pueden dirigirse contra el agente de naves que se haya designado para la atención de la nave, atendida que éste actúa en representación del armador, dueño o capitán de la misma, todo ello en conformidad a lo dispuesto en el artículo 45 de la Ley de Navegación, D.L. 2.222, en los artículos 917, 922 y 923 del Código de Comercio y en la jurisprudencia de este Servicio .
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 701, de 10.04.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos

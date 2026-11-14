@@ -1,0 +1,77 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2175 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.544, ART. 13°. (ORD. N° 2175, DE 02.08.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2175.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2175.doc"
+materia: "renta"
+fecha: "2016-08-02"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 20.544, ART. 13°. (ORD. N° 2175, DE 02.08.2016)
+
+APLICACIÓN DE SANCIÓN DEL ARTÍCULO 13 DE LA LEY N° 20.544, AL CASO QUE INDICA.
+
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual solicita se confirme la improcedencia de aplicar la sanción establecida en el artículo 13 de la Ley N° 20.544 de 2011, en el caso que indica:
+
+1. ANTECEDENTES.
+
+El contribuyente de giro inversiones y rentista de capitales mobiliarios, es matriz en Chile de distintas sociedades del mismo Grupo, cuyos accionistas son personas jurídicas residentes en España, siendo su accionista mayoritario una entidad de giro bancario residente en dicho país.
+
+Producto de funciones propias del giro inversiones y frente a un escenario de alta depreciación del peso chileno y la volatilidad de las divisas, el 22 de abril del año 2014, la Sociedad tomó dos forwards a valores nacionales de xx.xxx.xxx euros cada uno, a un tipo de cambio pactado de $801,6 y $803,5 respectivamente, ambos con fecha de vencimiento el 24.04.2015. Las operaciones de forwards según contrato entre la Sociedad y la entidad bancaria residente en España fueron celebradas bajo la modalidad por compensación (Non-Delivery Forward).
+
+Al 31 de diciembre de 2014, las operaciones forwards se valorizaron a mercado (MTM) generando una pérdida a esa fecha, resultado que fue rebajado en la determinación del resultado tributario de primera categoría, generándose una absorción de utilidades tributables que fue objeto de revisión por parte de este Servicio. En dicha fiscalización la Sociedad aportó diversos antecedentes, tanto de balance como de la operación de derivados, contrato, confirmación de operaciones, informe técnico de valorización a precio de mercado elaborado conforme a la Resolución Ex. N°115 del 20 de octubre de 2012, y otros antecedentes.
+
+Dentro del proceso de fiscalización, se objetó la pérdida de la operación de derivados basado en que las declaraciones juradas habían sido presentadas fuera de plazo. En efecto, la Declaración Jurada N°1820, vence el último día hábil de cada mes, respecto de contratos celebrados, modificados, cedidos o liquidados en el mes anterior, debiendo haberse presentado hasta el último día hábil del mes de mayo de 2014; sin embargo, fue presentada el 3 de febrero de 2015. Indica que el retraso en enviar la información al Servicio no fue por otra causa que por una omisión involuntaria que fue subsanada en cuanto la Sociedad se percató de dicho error. Por otra parte, la Declaración Jurada N°1829 declaración anual sobre contratos de derivados fue presentada el 27 de marzo de 2015, considerando que la Resolución Ex. N°114 del 29.10.2012 establecía como fecha de vencimiento el 31 de marzo de cada año, sin embargo, la Resolución Ex. N°112 del 04.12.2014, modificó dicha fecha para la Declaración Jurada N°1829 para el día 26 de marzo, quedando en definitiva la declaración jurada anual presentada con un día de retraso.
+
+Pese a que el retraso en la presentación de las declaraciones juradas fue involuntario y fueron enviadas al Servicio antes de que se iniciara algún proceso de fiscalización, el artículo 13 de la Ley N°20.544 de 2011, sobre Tributación de Operaciones Derivados, en relación a las normas de fiscalización para este tipo de operaciones, no contiene ninguna diferencia objetiva en relación a la sanción, dando semejante tratamiento al incumplimiento en la presentación, el retraso, la presentación con información errónea o falsa. Dicha norma establece como sanción la no deducibilidad de la pérdida e incluso bajo ciertas circunstancias la afecta con la tributación prescrita en el artículo 21 de la Ley sobre Impuesto a la Renta, esto es, con tasa del 35% sobre las pérdidas declaradas. La fiscalización concluyó con notificación de una Citación para que la Sociedad aclarare, confirme o rectifique la pérdida declarada por la operación de derivados.
+
+Pese a que se trata de una operación efectiva, real, a valores de mercado y efectuada en el marco de la Ley N°20.544, solamente por haber presentado las declaraciones juradas fuera de plazo la Sociedad optó por rectificar la declaración de impuesto del año tributario 2015. Para dichos efectos la Sociedad agregó la pérdida de las operaciones de derivados obtenida en el año comercial 2014, rebajando la pérdida declarada y consecuentemente con ello, el Pago Provisional por Utilidades Absorbidas.
+
+Ahora bien, debido a que los Forwards tienen fecha de vencimiento el 24.04.2015, una parte de los resultados de dichas operaciones se reconocen al momento de la liquidación y considerando que dicha operación queda sujeta nuevamente a la obligación de informar al Servicio mediante las declaraciones juradas N°s.1820 (mensual) y 1829 (anual), surge la necesidad de confirmar que la Sociedad no se verá sujeta a las limitaciones por las pérdidas que se obtengan en la liquidación de los forwards cuyos resultados se declaran en el año tributario 2016, por las razones que a continuación se exponen.
+
+Conforme al artículo 5° de la Ley N°20.544, se entienden como utilidades o pérdidas de operaciones de derivados, todas las utilidades o pérdidas que se originen como consecuencia de la celebración, contratación, cesión de la oposición contractual, liquidación o compensación de los respectivos derivados. Dicha norma además señala que los contribuyentes que lleven contabilidad deberán registrar los resultados provenientes de las operaciones de derivados a su valor justo o razonable, al momento de la celebración del contrato. Asimismo, indica que los resultados que se produzcan en la cesión o liquidación del contrato que procedan de un derivado valorado a su valor justo, a la fecha de la cesión o liquidación, deberán considerarse como utilidad o pérdida en el ejercicio correspondiente en que se efectúo dicha cesión o liquidación.
+
+La Sociedad declara sus rentas efectivas según contabilidad completa, aplicando en consecuencia las normas de determinación de la renta líquida imponible, indicadas en los artículos 29 al 33 de la Ley sobre Impuesto a la Renta.
+
+Teniendo en cuenta que los resultados, tanto utilidades como pérdidas, se determinan en forma anual conforme las normas señaladas en el artículo 5° de la Ley N°20.544, y que las normas referidas a la obligación de informar las operaciones de derivados recaen también con periodicidad anual o mensual, ya sea en la celebración, modificación, cesión y liquidación, se solicita confirmar que para el caso en consulta, cumplidas las obligaciones de informar en el año de la liquidación de las operaciones de forward (año comercial 2015), mediante presentación oportuna de las Declaraciones Juradas N°1820 mensual y 1829 anual, no resultaría aplicable la sanción del artículo 13 de la Ley N°20.544.
+
+II.- ANÁLISIS.
+
+Las normas de fiscalización contenidas en el artículo 13 de la Ley N° 20.544, establecen la obligación, por parte de los contribuyentes que celebren contratos de derivados, de presentar una o más declaraciones juradas al Servicio de Impuestos Internos. Esta obligación tiene por objeto la entrega de información y antecedentes necesarios relativos a este tipo de instrumentos para efectos de la fiscalización de los impuestos que correspondan.
+
+El artículo en comento, prescribe que en el caso que no se presenten oportunamente dichas declaraciones, así como cuando las presentadas contengan información o antecedentes erróneos, incompletos o falsos, los contribuyentes no podrán deducir las pérdidas o gastos provenientes de tales instrumentos.
+
+Por su parte, en uso de la referida facultad legal, este Servicio estableció la Declaración Jurada Mensual sobre contrato de Derivados N°1820, en la que se debe informar los contratos de derivados celebrados, modificados, cedidos o liquidados en el mes inmediatamente anterior, y la Declaración Jurada N°1829, que debe presentarse hasta el 31 de marzo de cada año respecto de los contratos de derivados celebrados, modificados, cedidos o liquidados en el ejercicio comercial anterior.
+
+En el caso particular de la consulta, el contribuyente indica que en el año comercial 2014, suscribió dos contratos de forwards obteniendo como resultado de tales operaciones pérdidas tributarias en el mismo año comercial, las que no fueron informadas a este Servicio oportunamente como lo exige el artículo 13 de la Ley N°20.544. Lo anterior, trajo como consecuencia que este órgano fiscalizador quedó impedido de contar con dicha información para ejercer su función fiscalizadora a contar de la oportunidad que exige la ley. Por lo tanto, de acuerdo a norma legal en referencia el contribuyente quedó impedido de reconocer en su renta líquida imponible los gastos y pérdidas provenientes de sus operaciones de forwards no declaradas oportunamente.
+
+Por otra parte, el contribuyente indica que presentó oportunamente las declaraciones juradas N°s.1820 y 1829, del año tributario 2016, informando el resultado de los forwards suscritos durante del año comercial 2014 y que fueron liquidados durante el año comercial 2015, ocasión donde obtuvo nuevamente una pérdida tributaria que debe reconocer en el año tributario 2016.
+
+Cabe señalar en este caso, que aun cuando el contribuyente proporcionó oportunamente la información exigida por la ley respecto de la liquidación de los instrumentos derivados, tal presentación no ha permitido a esta entidad contar con la información y antecedentes necesarios relativos a este tipo de instrumentos para efectos de la fiscalización de los impuestos que correspondan, debido a que tomó conocimiento de la suscripción del contrato de derivados sólo dos meses antes de su vencimiento y no en la oportunidad establecida por este Servicio. Por lo tanto, se concluye que resulta aplicable al contribuyente el impedimento de deducir los gastos y pérdidas generados y determinados por el año comercial 2015, provenientes de los derivados materia de la consulta, según lo prescrito el artículo 13 de la Ley en referencia.
+
+Además de lo anterior, se hace presente que el artículo 13 de la Ley N°20.544, tampoco permite la deducción de gastos y pérdidas de los derivados, cuando la información proporcionada por el contribuyente es errónea, incompleta o falsa, circunstancia que se verificará en los procesos de auditoría que desarrolla este Servicio.
+
+III.- CONCLUSIÓN.
+
+De conformidad al artículo 13 de la Ley N°20.544, los contribuyentes que no presenten oportunamente las declaraciones juradas que exige este Servicio (N°s.1820 y 1829), relacionadas con los contratos de derivados, o cuando las presentadas contengan información o antecedentes erróneos, incompletos o falsos, no podrán deducir las pérdidas o gastos provenientes de tales derivados, por cuanto este Servicio no ha contado con información oportuna y fidedigna para efectos de la fiscalización de los impuestos que correspondan.
+
+La referida restricción no sólo afecta al período no informado, o al período en que la información proporcionada es errónea, incompleta o falsa, sino que también a los resultados de los ejercicios siguientes cuando provengan de contrato que se extienden más allá de un año, cuando su celebración no fue informada oportunamente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2175, de 02.08.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,79 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1978 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14°, ART. 17°, N°8, ART. 41° – LEY N° 20.630, ART. 1°, N°5, LETRA D) – LEY N° 20.727, DE 2014, ART. 5°, N°1. (O..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1978.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1978.doc"
+materia: "renta"
+fecha: "2015-07-31"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14°, ART. 17°, N°8, ART. 41° – LEY N° 20.630, ART. 1°, N°5, LETRA D) – LEY N° 20.727, DE 2014, ART. 5°, N°1. (ORD. N° 1978, DE 31.07.2015)
+
+DETERMINACIÓN DEL COSTO TRIBUTARIO EN LA ENAJENACIÓN DE DERECHOS SOCIALES.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la forma de determinar el costo tributario en la enajenación de derechos sociales efectuada por un contribuyente no residente en Chile, a una persona no relacionada en los términos del inciso cuarto, del N°8, del artículo 17 de la Ley sobre Impuesto a la Renta (LIR).
+
+I.- ANTECEDENTES.
+
+Señala que su cliente, una persona jurídica sin domicilio ni residencia en Chile ("YY Inc"), está evaluando la posibilidad de enajenar el 99,99% de los derechos sociales que posee en la sociedad de responsabilidad limitada chilena ("SRL XX"). Esta sociedad fue objeto de un aumento de capital, el que fue financiado con reinversiones efectuadas durante el año 2012 y el año 2013.
+
+Agrega que, la reforma tributaria contenida en la Ley N°20.630, introdujo una serie de modificaciones a la LIR, y en particular al artículo 17 N° 8, letra a) de dicho cuerpo legal, con el fin de asimilar el tratamiento tributario del mayor valor obtenido en la enajenación de derechos sociales en sociedades de personas y de acciones en sociedades en comandita por acciones, al tratamiento tributario del mayor valor en la enajenación de acciones de sociedades anónimas.
+
+En virtud de lo anterior, indica, a partir del 1 de enero del 2013, dicho mayor valor se determina deduciendo del precio o valor de enajenación el costo tributario de los derechos sociales, costo que se determinará considerando el valor de adquisición de los derechos sociales, reajustado por la variación del Índice de Precios al Consumidor (IPC); más los aumentos o disminuciones efectuadas con posterioridad por el enajenante, también actualizados por la variación del IPC.
+
+Finalmente, sostiene que a su juicio, el párrafo final incorporado al inciso segundo, del N°8, del artículo 17 de la LIR, contendría un error de redacción al haberse omitido una frase del mismo, lo que hace inentendible su lectura, generando dudas respecto de cuáles son los casos que quedan comprendidos en esta norma.
+
+Por lo anterior, solicita confirmar que para efectos de calcular el mayor valor en la enajenación de derechos sociales efectuada a una persona no relacionada, se debe considerar como parte integrante del costo tributario aquellos montos que han sido financiados a través de reinversiones de utilidades conforme a las normas de la LIR contenidas en su artículo 14.
+
+II.- ANÁLISIS.
+
+Sobre el particular, es preciso señalar que entre las diversas modificaciones introducidas por la Ley N°20.630 a la LIR, la letra a), del N° 5), del artículo 1° del referido texto legal, sustituyó la letra a), del número 8°, del artículo 17 de la LIR, incorporando la enajenación o cesión de acciones de sociedades en comandita por acciones y la enajenación o cesión de derechos sociales en sociedades de personas, al tratamiento tributario contenido en dicha norma, que antes de la modificación sólo se aplicaba al mayor valor obtenido en la enajenación de acciones de sociedades anónimas.
+
+Acorde con esta modificación, la letra d), del N° 5), del artículo 1° de la Ley N°20.630, agregó en la parte final del inciso segundo, del número 8°, del artículo 17 de la LIR, nuevas disposiciones referidas a la deducción que debe realizarse al costo de los derechos sociales cuando éstos se enajenan, correspondiente al valor de adquisición y/o aporte, o de aumentos de capital que tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de la LIR, y siempre que se trate de las situaciones contempladas en dicha norma.
+
+Asimismo, el N° 15), del artículo 1° de la Ley N°20.630, mediante su letra a) sustituyó el número 9°, del inciso primero, del artículo 41 de la LIR, y a través de su letra b), derogó los tres últimos incisos de este artículo, normas que regulaban la forma de determinar el costo tributario en la enajenación de derechos sociales en sociedades de personas.
+
+En virtud de lo anterior, a partir del 1 de enero del año 2013, fecha de vigencia de las nuevas disposiciones, tratándose de contribuyentes no obligados a determinar su renta efectiva mediante un balance general, según contabilidad completa, e independiente del régimen tributario con el que en definitiva se afecte el mayor valor obtenido en la enajenación de los derechos sociales , el costo tributario corresponderá al valor de adquisición y/o aporte de los citados derechos, debidamente actualizado por el porcentaje de variación experimentada por el IPC entre el último día del mes anterior al de la adquisición y el último día del mes anterior al de la enajenación. Este valor, deberá incrementarse con los aumentos de capital posteriores, debidamente actualizados por la variación del IPC entre el mes anterior al de aumento de capital y el mes anterior al de la enajenación. A su vez, se deberán deducir del referido costo de adquisición, las disminuciones de capital posteriores efectuadas por el enajenante, actualizadas por la variación del IPC entre el mes anterior al de disminución de capital y el mes anterior a la enajenación.
+
+Los referidos valores de adquisición y/o aporte, así como los aumentos de capital, deben corresponder a inversiones efectivas realizadas por el enajenante, incluyéndose aquellas que tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de la LIR, como por ejemplo ocurre con los aportes financiados mediante el retiro de utilidades tributables, reinvertidas en conformidad a lo dispuesto en la letra c), del N° 1, de la letra A), del artículo 14 de la LIR. Debe tenerse presente además, que la LIR sólo considera los aumentos de capital efectivamente realizados por el enajenante, es decir, aquellas cantidades que éste aporta a la sociedad respectiva y que implican un sacrificio económico para él. Así por ejemplo, tratándose de los aportes financiados con reinversiones, el socio previamente debe efectuar un retiro de utilidades tributables desde otra sociedad en la que participa, cumpliendo los requisitos legales para tal efecto. De acuerdo a ello, y atendido que la capitalización de utilidades de balance o financieras, de reservas u otras cantidades acumuladas en la empresa no constituyen un aporte efectuado por el socio a la sociedad respectiva, dicha capitalización no constituye un aumento de capital que deba formar parte del costo tributario de los derechos sociales.
+
+De esta manera, el inciso segundo, del número 8°, del artículo 17 de la LIR, dispone que tratándose de la enajenación de derechos en una sociedad de personas o de acciones emitidas con ocasión de la transformación de una sociedad de personas en una sociedad anónima, en las situaciones que se indica y para los efectos de determinar el mayor valor proveniente de dicha operación, deberá deducirse del valor de aporte y/o adquisición de los citados derechos o acciones, según corresponda, aquellos valores de aporte, adquisición o aumentos de capital que tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de la LIR.
+
+Ahora bien, tal como señala en su presentación, se produjo un error de transcripción en el texto finalmente aprobado durante la tramitación de la Ley N°20.630, específicamente no se estableció de manera correcta las situaciones en que debe deducirse del costo tributario en la enajenación de los derechos o acciones, según corresponda, los valores que tengan su origen en rentas que no hayan pagado los impuestos de la LIR.
+
+Sin embargo, la Ley N°20.727, publicada en el Diario Oficial con fecha 31.01.2014, a través del N° 1), de su artículo 5°, corrigió el error, intercalando en el inciso 2°, del N°8, del artículo 17 de la LIR, entre las frases “Tratándose de la enajenación de derechos en sociedad de personas o de acciones emitidas con ocasión de la transformación de una sociedad de personas en sociedad anónima,” y “10% o más de las acciones, a la empresa o sociedad respectiva o en las que tengan intereses, para los efectos de determinar el mayor valor proveniente de dicha operación,”, la siguiente expresión: “que hagan los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del”.
+
+De esta forma, el texto que sigue a continuación del penúltimo punto seguido del inciso 2°, del N°8, del artículo 17 de la LIR, es el que se transcribe a continuación: “Tratándose de la enajenación de derechos en sociedad de personas o de acciones emitidas con ocasión de la transformación de una sociedad de personas en sociedad anónima, que hagan los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, a la empresa o sociedad respectiva o en las que tengan intereses, para los efectos de determinar el mayor valor proveniente de dicha operación, deberán deducir del valor de aporte o adquisición de los citados derecho o acciones, según corresponda, aquellos valores de aporte, adquisición o aumentos de capital que tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de esta ley. Para estos efectos, los valores indicados deberán reajustarse de acuerdo a la variación del índice de precios al consumidor entre el último día del mes anterior a la adquisición o aporte, aumento o disminución de capital, y el último día del mes anterior a la enajenación.”
+
+De acuerdo a lo establecido en el artículo segundo de las disposiciones transitorias de la Ley N°20.727, la modificación señalada rige a contar del 1 de enero de 2013, en los mismos términos en que rigen las modificaciones introducidas por el artículo 1°, Nº 5), letra d); Nº 7), letra b), literal iii) y Nº 8 de la Ley Nº20.630, que perfecciona la legislación tributaria y financia la reforma educacional.
+
+Por otra parte, cabe señalar que el artículo 14 de la LIR , permite que las rentas que retiren los contribuyentes del Impuesto Global Complementario o Impuesto Adicional para invertirlas en otras empresas obligadas a determinar su renta efectiva por medio de contabilidad completa con arreglo a las disposiciones del Título II de la LIR, no se graven con los referidos impuestos, mientras no sean retiradas de la sociedad que recibe la inversión o distribuidas por ésta, expresando que una de las formas en que puede hacerse efectiva dicha inversión, es mediante aportes a una sociedad de personas, mecanismo denominado como reinversión.
+
+Con anterioridad a las modificaciones introducidas por la Ley N°20.630, este Servicio había expresado que para que procediera la reinversión, no era necesario que dichos aportes se realizaran mediante escritura pública o se establecieran en el contrato social, sin perjuicio del cumplimiento de los demás requisitos legales. Lo anterior, obedecía a que el inciso 2°, del N°9, del artículo 41 de la LIR, vigente hasta el 31 de diciembre de 2012, establecía que se consideraban como aportes de capital todos los haberes entregados por los socios, a cualquier título, a la sociedad de personas respectiva. Es decir, el aporte efectuado mediante el mecanismo de la reinversión de utilidades tributables, operaba hasta esa fecha, independientemente de si dicho aporte se estipulaba o no mediante escritura pública.
+
+Ahora bien, atendido que la Ley N°20.630 ha sustituido el N°9, del artículo 41 de la LIR a contar del 1° de enero de 2013, eliminando la regla que consideraba como aportes de capital todos los haberes entregados por los socios, para que éstos puedan considerarse efectivamente como parte del costo tributario en la enajenación de los derechos sociales, deben cumplir con las formalidades propias de la constitución o modificación del contrato social, según corresponda, de acuerdo al tipo social de que se trate, sin perjuicio del ajuste que proceda realizar en conformidad a lo señalado en el inciso 2°, del N° 8), del artículo 17 de la LIR .
+
+III.- CONCLUSIÓN.
+
+Tratándose de la enajenación de derechos en una sociedad de personas o de acciones emitidas con ocasión de la transformación de una sociedad de personas en una sociedad anónima, que efectúen los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, a la empresa o sociedad respectiva o en las que tengan intereses, deberá deducirse del valor de aporte o adquisición de los citados derechos o acciones, según corresponda, aquellos valores de aporte, adquisición o aumentos de capital que tengan su origen en rentas que no hayan pagado total o parcialmente los impuestos de la LIR.
+
+De acuerdo a ello, para efectos de calcular el mayor valor en la enajenación de derechos sociales efectuada a una persona no relacionada en los términos indicados, se debe considerar como parte integrante del costo tributario aquellos montos de aportes o aumentos de capital que han sido financiados mediante el retiro de utilidades tributables reinvertidas conforme a las normas contenidas en la letra c), del N° 1, de la letra A), del artículo 14 de la LIR, en tanto dichos aportes hayan cumplido con las formalidades propias de la constitución o modificación del contrato social, según corresponda, de acuerdo al tipo social de que se trate.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1978, de 31.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,5 @@
+source: oficio-renta-1201.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1201.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja1201.doc
+materia: renta
+retrieved: 2026-11-11

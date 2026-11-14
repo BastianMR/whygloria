@@ -1,0 +1,59 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2336 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE AGUAS, ART. 6, ART. 114, ART. 120 BIS 20 – CIRCULAR N° 63, DE 2009. (ORD. N° 2336, DE 23.08.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2336.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2336.doc"
+materia: "renta"
+fecha: "2016-08-23"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE AGUAS, ART. 6, ART. 114, ART. 120 BIS 20 – CIRCULAR N° 63, DE 2009. (ORD. N° 2336, DE 23.08.2016)
+
+TITULAR DEL CRÉDITO DERIVADO DEL PAGO DE PATENTES POR LA NO UTILIZACIÓN DE LAS AGUAS, EN EL CASO EN QUE SOBRE EL DERECHO DE APROVECHAMIENTO DE LAS AGUAS, SE HUBIERE CONSTITUIDO UN USUFRUCTO.
+
+Se ha recibido en esta Dirección Nacional su presentación, mediante la cual solicita un pronunciamiento sobre el crédito derivado del pago de patentes por la no utilización de las aguas, establecidas en el Código de Aguas contenido en el Decreto con Fuerza de Ley N°1.122 de 1981, y específicamente, si éste corresponde al nudo propietario o el usufructuario del derecho de aprovechamiento de aguas en caso de que se hubiere constituido un usufructo sobre éste.
+
+I.- ANTECEDENTES.
+
+Indica en su presentación, que en base a lo dispuesto en el Código de Aguas y en la Circular N°63, del 23 de noviembre de 2009 de este Servicio, a partir del período tributario siguiente al mes en que la Dirección General de Aguas (DGA) verifique y reconozca la utilización de las aguas, se podrá hacer uso del crédito derivado de las patentes pagadas por el no uso del derecho de aprovechamiento de aguas, siempre y cuando se cumplan con los siguientes requisitos:
+
+(i) Haber construido las obras que permitan la utilización efectiva del agua, lo cual debe ser verificado por la DGA;
+
+(ii) Haber pagado la patente a través del Formulario N°10 de la Tesorería General de la República;
+
+(iii) Estar incluido en la nómina de la DGA.
+
+Señala que los contribuyentes beneficiados son aquellos que sean o hayan sido titulares de derechos de aprovechamiento de aguas respectivos al momento de generarse el derecho al crédito.
+
+De acuerdo a lo anteriormente señalado, solicita un pronunciamiento acerca de si el crédito derivado del pago de patentes por la no utilización de las aguas y su recuperación a través de su imputación en contra de determinadas obligaciones tributarias, en el caso en que se hubiera constituido un usufructo sobre el derecho de aprovechamiento de aguas, correspondería al nudo propietario o al usufructuario de los derechos de aprovechamiento de aguas.
+
+II.- ANÁLISIS.
+
+De acuerdo con las instrucciones impartidas por este Servicio sobre la materia en consulta y la jurisprudencia emitida sobre el particular , el crédito derivado de patentes pagadas por la no utilización de las aguas nace una vez que se ha iniciado la utilización de las mismas, para lo cual se requiere haber construido las obras de captación - y de restitución si ello fuese procedente de acuerdo a la clase de derecho de aprovechamiento que se trate - que habilitan el uso de las aguas, correspondiendo dicho crédito exclusivamente al contribuyente que detente la titularidad de los derechos de aprovechamiento sujetos al pago de la patente, y siempre y cuando ésta efectivamente se haya pagado.
+
+En base a la definición de derecho de aprovechamiento que entrega el artículo 6° del Código de Aguas, el titular del derecho de aprovechamiento que se beneficia de la imputación del crédito corresponde a quien detenta dominio sobre tal derecho encontrándose inscrito como dueño en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces respectivo .
+
+Específicamente en el caso de la consulta planteada, habiéndose constituido un usufructo sobre el derecho de aprovechamiento de aguas, el crédito solo podrá ser imputado por el nudo propietario atendido que es éste quien detenta la calidad de titular o dueño del derecho de aprovechamiento, y no así por el usufructuario de dicho derecho quien solo tiene la calidad de mero tenedor del derecho de aprovechamiento.
+
+III.- CONCLUSIÓN.
+
+La imputación del crédito del artículo 129 bis 20 del Código de Aguas derivado del pago de patentes por la no utilización de las aguas corresponde al nudo propietario de los derechos de aprovechamiento en caso que se haya constituido un usufructo sobre éstos.
+
+VÍCTOR VILLALÓN MÉNDEZ
+DIRECTOR (S)
+
+Oficio N° 2336, de 23.08.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

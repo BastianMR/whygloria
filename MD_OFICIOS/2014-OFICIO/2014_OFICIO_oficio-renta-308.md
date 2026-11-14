@@ -1,0 +1,58 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 308 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 58°, N°1 – CÓDIGO TRIBUTARIO, ART. 64°, ART. 200° – CIRCULAR N° 45, DE 2001. (ORD. N° 308, DE 19.02.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja308.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja308.doc"
+materia: "renta"
+fecha: "2014-02-19"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 58°, N°1 – CÓDIGO TRIBUTARIO, ART. 64°, ART. 200° – CIRCULAR N° 45, DE 2001. (ORD. N° 308, DE 19.02.2014)
+
+APLICACIÓN DE LA FACULTAD DE TASACIÓN EN CASO DE REORGANIZACIÓN DE EMPRESAS.
+
+I.- ANTECEDENTES.
+
+Señala que se ha consultado sobre la situación tributaria de personas naturales propietarias, en forma directa o indirecta, a través de diversas sociedades y Empresas Individuales de Responsabilidad Limitada, del 52,98 % de las acciones de la sociedad XXX S.A. Añade que dada la compleja estructura de esa organización, se busca, mediante una reestructuración de las indicadas sociedades, simplificar su composición para efectos de facilitar el acceso a financiamiento. En definitiva, las personas naturales terminarán siendo socios de una sociedad, de propiedad de cada uno de ellos, por medio de las cuales serán propietarios indirectos del mismo número de acciones que tenían antes de dichas modificaciones. Agrega que los cónyuges de estas personas serán los socios minoritarios de las respectivas sociedades resultantes, mediante aportes de capital.
+
+Al respecto se consulta si es aplicable lo establecido en los incisos 4° y 5°, del artículo 64 del Código Tributario, considerando que se trata de un proceso de reorganización de un grupo empresarial, en la cual se realizarán fusiones de sociedades, aportes de capital en compañías preexistentes y aportes de capital a la constitución de nuevas sociedades, cuya legítima razón de negocios es simplificar la estructura de las empresas, que permitirá un más fácil acceso al crédito, sin que medien flujos efectivos de dinero.
+
+II.- ANÁLISIS.
+
+Los incisos 4° y 5°, del artículo 64 del Código Tributario, respectivamente, disponen que no se aplicará la facultad de tasación que establece el inciso 3° de esta norma legal, cuando se cumplan las condiciones que tales normas establecen. Las instrucciones sobre la materia, fueron impartidas por este Servicio mediante la Circular N° 45 del año 2001.
+
+Ahora bien, para efectos de determinar si la situación que describe se enmarca dentro de lo establecido en los incisos 4° o 5° del artículo 64 del Código Tributario, se debe analizar cada una de estos actos en forma separada.
+
+En relación a las fusiones de sociedades, el inciso 4°, del artículo 64 del Código Tributario, exige para que no resulte aplicable la facultad de tasación referida, que la nueva sociedad o la subsistente mantenga registrado en sus libros contables el valor tributario que tenían los activos en la sociedad absorbida.
+Respecto del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta individual, societaria o contribuyente del N° 1 del artículo 58 de la Ley sobre Impuesto a la Renta, no resulta aplicable la facultad de tasación referida, siempre que dichos procesos de reorganización cumplan los siguientes requisitos:
+1) Que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad;
+2) Que no se originen flujos efectivos de dinero para el aportante;
+3) Que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante; y
+4) Que los valores se asignen en la respectiva junta de accionistas o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas.”
+Como se puede apreciar, para que no resulte aplicable la facultad de tasación del inciso 3°, del artículo 64 del Código Tributario en este último caso, se requiere junto al cumplimiento de los requisitos señalados que exista una empresa aportante, que subsista con posterioridad a dicho aporte, pudiendo ésta ser una empresa individual, societaria o contribuyente del artículo 58 N° 1 de la LIR.
+En cuanto a la existencia de una legítima razón de negocios, cabe señalar que ésta es una condición que sólo puede ser calificada con ocasión del ejercicio de las facultades fiscalizadoras de este Servicio, no correspondiendo que esta Dirección emita un pronunciamiento específico, por cuanto esta última es una cuestión de hecho que debe ser apreciada en su debida oportunidad, dentro de los plazos que al efecto consagra el artículo 200 del Código Tributario.
+
+III.- CONCLUSIONES.
+
+La fusión de sociedades se enmarca en lo dispuesto en el inciso 4°, del artículo 64 del Código Tributario, en la medida que se cumplan las condiciones señaladas en el análisis.
+
+En cuanto a la aplicación de lo dispuesto en el inciso 5° de la misma norma legal, en relación a los aportes que se efectuarían, cabe señalar que no se aplicará la facultad de tasación referida, siempre que se acredite la concurrencia de los presupuestos establecidos en la norma legal citada, particularmente la existencia de una “legítima razón de negocios” como lo exige la norma que se invoca, no correspondiendo que esta Dirección emita un pronunciamiento a priori, ya que ello debe ser calificado por la respectiva unidad fiscalizadora, a la vista de los correspondientes antecedentes de hecho.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 308, de 19.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1719 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO CON FUERZA DE LEY N° 2, DE 1998, ART. 5° – OFICIOS N° 4608, DE 2000 Y N° 1537, DE 2002. (ORD. N° 1719, DE 26..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1719.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1719.doc"
+materia: "renta"
+fecha: "2014-09-26"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO CON FUERZA DE LEY N° 2, DE 1998, ART. 5° – OFICIOS N° 4608, DE 2000 Y N° 1537, DE 2002. (ORD. N° 1719, DE 26.09.2014)
+
+TRIBUTACIÓN DE EXCEDENTES DE SUBVENCIONES DE ESCOLARIDAD A LOS QUE SE REFIERE EL ARTÍCULO 5°, DEL D.F.L N° 2, DE 1998, DEL MINISTERIO DE EDUCACIÓN.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre el tratamiento tributario de los excedentes de subvenciones de los establecimientos educacionales, esto es, del saldo que se produce en el caso en que los ingresos obtenidos por subvención y demás conceptos a que se refiere el artículo 5°, del D.F.L. N°2 de 1998, no sean utilizados en su totalidad en un ejercicio comercial, consultando además respecto a qué debe entenderse por "excedente", en particular, si las cuentas de ahorro, depósitos a plazo, fondos mutuos u otras inversiones similares efectuadas por los contribuyentes con dichos fondos podrían o no considerarse como excedentes.
+
+I.- ANTECEDENTES.
+Señala que el artículo 5°, del D.F.L. N°2 de 1998, del Ministerio de Educación, establece que la subvención, derechos de matrículas, derechos de escolaridad y donaciones a que se refiere el artículo 18 del mismo texto legal, en la parte que se utilicen o inviertan en el pago de remuneraciones del personal, en la administración, reparación, mantención o ampliación de las instalaciones de los establecimientos beneficiados o de cualquier otra inversión destinada al servicio de la función docente, no estarán afectos a ningún tributo de la Ley sobre Impuesto a la Renta.
+Ahora bien, respecto del tratamiento tributario de tales excedentes indica que la jurisprudencia administrativa de este Servicio ha expresado que tales excedentes mantienen su calidad de ingresos no afectos a impuestos mientras no se destinen a los objetivos que indica la ley; y que en el ejercicio en que dichos excedentes se destinen o utilicen en los fines que dispone la norma legal que los regula, en ese período deberán deducirse como un ingreso no afecto a impuesto en la determinación de la Renta Líquida Imponible de Primera Categoría, en la medida obviamente que los referidos ingresos o fondos hubieren sido contabilizados con abono a resultado.
+Al respecto, esa Dirección Regional estima que no se ha precisado el procedimiento a seguir en relación con la aplicación del Impuesto de Primera Categoría a dichos excedentes, pues de ellos se desprenden las siguientes dos alternativas o procedimientos a seguir, por lo que solicita un pronunciamiento sobre el particular:
+1) No gravar los excedentes con dicho impuesto (siempre y cuando se acredite su existencia y su correcta contabilización) sino hasta que pueda verificarse cuál fue el destino final de ellos, de manera de agregarlos a la renta líquida imponible sólo una vez que se pueda determinar que fueron gastados en fines distintos a los que la norma señala para la obtención del beneficio tributario en comento; o
+2) Los excedentes deben ser gravados con este impuesto en el ejercicio en que se producen, para posteriormente rebajarlos de la Renta Líquida Imponible en el ejercicio en que efectivamente se destinen al servicio de la función docente.
+Por otra parte, señala, de estimarse que los excedentes no quedan afectos a impuesto sino hasta que se determine su destino final, se solicita un pronunciamiento respecto a qué debe entenderse por "excedente", en particular, si las cuentas de ahorro, depósitos a plazo, fondos mutuos u otras inversiones similares efectuadas por los contribuyentes con dichos fondos podrían o no considerarse excedentes.
+
+II.- ANÁLISIS.
+
+Conforme a lo establecido por el artículo 5°, del D.F.L. N°2, del Ministerio de Educación sobre subvención del Estado a los Establecimientos Educacionales, la subvención, derechos de matrícula, derechos de escolaridad y donaciones a que se refiere el artículo 18 de dicho texto legal, en la parte que se utilicen o inviertan en el pago de remuneraciones del personal, en la administración, reparación, mantención o ampliación de las instalaciones de los establecimientos beneficiados o en cualquier otra inversión destinada al servicio de la función docente, no estarán afectos a ningún tributo de la Ley sobre Impuesto a la Renta (LIR).
+
+De acuerdo con los dictámenes que indica en su presentación, los excedentes de tales subvenciones, derechos y donaciones, que se producen en un ejercicio comercial por no haber sido utilizados en su totalidad estos recursos en dicho período, mantienen su calidad de ingresos no afectos a impuestos mientras no se destinen a los objetivos que indica la ley.
+
+Conforme a ello, cabe expresar que la única oportunidad en que los ingresos por subvenciones, derechos y donaciones a los que se refiere la norma en análisis, se encuentran afectos a los impuestos de la LIR, se produce cuando tales recursos son efectivamente utilizados o invertidos en fines distintos a los que la norma expresamente permite para los efectos de poder mantener su liberación tributaria. En consecuencia, antes de la utilización o inversión de tales recursos resulta del todo improcedente afectarlos con los tributos de la LIR.
+
+En relación con su segunda consulta, esto es, si las cuentas de ahorro, depósitos a plazo, fondos mutuos u otras inversiones similares efectuadas por los contribuyentes con dichos fondos podrían o no considerarse excedentes, cabe aclarar primeramente, que el concepto “cualquier otra inversión” que estableció la norma en estudio y en los que pueden ser invertidos los recursos en cuestión, manteniendo respecto de ellos la liberación tributaria, está sujeta al cumplimiento de la condición de que tales inversiones se encuentren destinadas al servicio de la función docente.
+
+En este sentido, y atendido que si bien es claro que ninguna de las inversiones que indica cumplen con tal condición, pues su propósito es sólo la rentabilización de los fondos, no es menos cierto que por ejemplo, las cuentas de ahorro y los depósitos a plazo, en tanto mantienen inalterable su condición de recursos disponibles para ser destinados al servicio de la función docente que expresamente indica el artículo 5°, del D.F.L. N°2, si pueden ser considerados como excedentes de aquellos a los que se refiere la jurisprudencia de este Servicio, hasta que, una vez utilizados, se pueda establecer en forma definitiva su situación tributaria. Lo anterior, sin perjuicio de que la rentabilidad que generen o puedan generar dichas inversiones se afecte con impuesto conforme a las reglas generales de la Ley sobre Impuesto a la Renta, y no goce en ningún caso, de la liberación tributaria que establece el referido artículo 5°.
+
+De lo dicho se sigue que si los recursos correspondientes a las subvenciones, derechos de matrícula, derechos de escolaridad y donaciones a los que se refiere el artículo 5° del D.F.L. N°2, son invertidos en instrumentos o inversiones que alteran su condición de recursos disponibles para ser destinados al servicio de la función docente, no se benefician con la liberación tributaria en comento, debiendo por tanto tributar con los impuesto de la LIR. Esta circunstancia obedece a una cuestión de hecho que debe ser analizada en la instancia de fiscalización respectiva.
+
+III.- CONCLUSIÓN.
+
+Los ingresos por subvenciones, derechos y donaciones, a los que se refiere el artículo 5° del D.F.L. N° 2, del Ministerio de Educación, sobre subvención del Estado a los Establecimientos Educacionales, sólo se encuentran afectos a los impuestos de la LIR, cuando tales recursos son efectivamente utilizados o invertidos en fines distintos a los que la norma expresamente permite para los efectos de poder mantener su liberación tributaria. En consecuencia, resulta improcedente afectarlos con los tributos de la LIR, antes de la utilización o inversión de tales recursos en fines distintos a los que permite la ley.
+
+Los recursos correspondientes a las subvenciones, derechos de matrícula, derechos de escolaridad y donaciones a los que se refiere el artículo 5° del D.F.L. N°2, en principio no pueden ser destinados a otras inversiones distintas de aquellas que la ley establece de manera determinada. No obstante lo anterior, si tales recursos son invertidos en instrumentos o inversiones que permitan mantener inalterable su condición de recursos disponibles para ser destinados al servicio de la función docente que expresamente indica el artículo 5° del D.F.L. N°2, si pueden ser considerados como excedentes de aquellos a los que se refiere la jurisprudencia de este Servicio, hasta que, una vez utilizados, se pueda establecer en forma definitiva su situación tributaria. Debe tenerse presente en todo caso que, la rentabilidad que generen o puedan generar dichas inversiones se afecta con impuesto conforme a las reglas generales de la Ley sobre Impuesto a la Renta, y no gozan de la liberación tributaria que establece el referido artículo 5°. Finalmente, cabe agregar que la concurrencia de las circunstancias señaladas, corresponden a una cuestión de hecho que debe ser verificada en la instancia de fiscalización respectiva.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR
+
+Oficio N° 1719, de 26.09.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

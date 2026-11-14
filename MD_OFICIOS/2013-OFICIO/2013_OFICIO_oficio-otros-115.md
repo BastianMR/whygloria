@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 115 (2013)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 64°, INCISO 5° – CIRCULAR N° 45, DE 2001 – OFICIOS N°’S 4677, DE 2003 Y 838, DE 2008. (ORD. N° 115, DE 22.01.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja115.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja115.doc"
+materia: "otros"
+fecha: "2013-01-22"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 64°, INCISO 5° – CIRCULAR N° 45, DE 2001 – OFICIOS N°’S 4677, DE 2003 Y 838, DE 2008. (ORD. N° 115, DE 22.01.2013)
+
+FACULTAD DE TASACIÓN PREVISTA EN EL ARTÍCULO 64 DEL CÓDIGO TRIBUTARIO, EN EL CASO DE APORTE DE ACCIONES – CUANDO EL APORTANTE SEA UNA PERSONA NATURAL, QUE NO SEA UN EMPRESARIO INDIVIDUAL OBLIGADO A LLEVAR CONTABILIDAD, NO TIENE APLICACIÓN LA NORMA DE EXCEPCIÓN DEL INCISO 5°, DEL ARTÍCULO 64 DEL CÓDIGO TRIBUTARIO.
+
+I.- ANTECEDENTES.
+
+Señala que “XXX” es una sociedad anónima cerrada que actúa como holding de cuatro sociedades operativas y que los 21 accionistas de XXX, son miembros de 4 familias distintas.
+
+Para el correcto funcionamiento del holding y de las sociedades operativas, se ha considerado necesario que la estructura social sea reorganizada de manera que cada familia pueda participar en la sociedad holding a través de una sociedad de inversiones, dando mayor flexibilidad a cada familia para que organice su inversión de acuerdo a sus propios intereses.
+
+La reorganización permitiría además, que los accionistas concentren su participación social a través de las respectivas sociedades familiares.
+
+Para lograr este objetivo, se ha propuesto a los miembros de cada una de las familias, que aporten a una nueva sociedad, las acciones en XXX, haciendo el aporte a valor de costo tributario.
+
+Señala que al tratarse de una reorganización social, que atiende a una legítima razón de negocios, no procede aplicar la facultad de tasación del artículo 64 del Código Tributario, a los aportes mencionados, a valor de costo tributario, aún tratándose de contribuyentes sin contabilidad como es el caso de los accionistas de XXX, aplicándose, indica, el criterio sostenido por este Servicio en los Oficios N°s. 4.848 y 4.849, ambos de 2005.
+
+II.- ANÁLISIS.
+
+El inciso 5°, del artículo 64, del Código Tributario, establece que no se aplicarán las facultades de tasación que contempla la misma disposición legal, cuando se trate del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta, individual, societaria, o contribuyente del N° 1 del artículo 58 de la Ley sobre Impuesto a la Renta, que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad y que no originen flujos efectivos de dinero para el aportante, siempre que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante. Dichos valores deberán asignarse en la respectiva junta de accionistas, o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas .
+
+La disposición legal citada en el párrafo precedente, es una norma que excepciona o limita la facultad de tasación que tiene este Servicio, otorgada en virtud de las normas generales del indicado artículo 64, en los casos que señala, por lo que, conforme a los principios generales de interpretación de la Ley, esta norma de excepción no puede ser interpretada o aplicada por analogía a situaciones no contempladas en ella.
+
+De acuerdo con la jurisprudencia de este Servicio , no se favorecen con lo dispuesto por el inciso 5°, del artículo 64, del Código Tributario, las personas naturales contribuyentes del Impuesto Global Complementario que aportan sus acciones a una sociedad, toda vez que dicha norma tiene aplicación sólo cuando se trate del aporte que efectúe una empresa individual, una sociedad o un contribuyente del N°1, del artículo 58 de la Ley sobre Impuesto a la Renta.
+
+En cuanto a los Oficios N°s. 4.848 y 4.849, ambos de 2005, que cita en su presentación, éstos no hacen sino concluir que la norma de excepción del inciso 5°, del artículo 64 del Código Tributario, es aplicable también a las sociedades extranjeras cuando los efectos de la reorganización se producen y agotan en Chile, al tratarse del aporte de derechos sociales de una sociedad chilena a otra sociedad en Chile, razón por lo cual, lo expresado en ellos no puede aplicarse al caso en análisis, así como tampoco puede concluirse que los aportes para los efectos de esta disposición legal, puedan ser efectuados por una persona natural contribuyente del Impuesto Global Complementario que no sea una empresa individual obligado a llevar contabilidad.
+
+III.- CONCLUSIÓN.
+
+Por las razones señaladas anteriormente, cuando el aportante sea una persona natural, que no sea un empresario individual obligado a llevar contabilidad, no tiene aplicación la norma de excepción del inciso 5°, del artículo 64 del Código Tributario, lo que implica que este Servicio se encuentra facultado para aplicar la facultad de tasación cuando así corresponda, en las circunstancias a las que se refiere dicho artículo.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 115, de 22.01.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos

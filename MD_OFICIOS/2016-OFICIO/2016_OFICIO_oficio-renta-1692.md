@@ -1,0 +1,56 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1692 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59, N°2 – OFICIOS N° 1197, DE 1993 Y N° 2281, DE 1996. (ORD. N° 1692, DE 15.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1692.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1692.doc"
+materia: "renta"
+fecha: "2016-06-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59, N°2 – OFICIOS N° 1197, DE 1993 Y N° 2281, DE 1996. (ORD. N° 1692, DE 15.06.2016)
+
+TRIBUTACIÓN DE REMESAS EFECTUADAS EN PAGO DE SERVICIO PRESTADO EN EL EXTRANJERO, CONSISTENTE EN LA EMISIÓN DE SEÑAL DE SATÉLITE PARA SER RECEPCIONADA Y DIFUNDIDA EN EL PAÍS.
+
+Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente mediante la cual consulta sobre el Impuesto Adicional (en adelante “IA”) que grava las remesas al extranjero efectuadas en conformidad a lo establecido en “Carta Oferta de Derechos de Difusión, Distribución y Comercialización de Material Televisivo”.
+
+I.- ANTECEDENTES
+
+A propósito de la emisión de una liquidación, consulta sobre la procedencia de aplicar la tasa rebajada de 20% de IA, establecida en el inciso segundo del artículo 59 de la Ley sobre Impuesto a la Renta (en adelante “LIR”), respecto de remesas al extranjero efectuadas por AAAA a BBBB, domiciliada en los Estados Unidos de Norteamérica por los derechos de difusión, distribución y comercialización de señal de TV transmitida vía satélite a Chile.
+
+En opinión de esa Dirección Regional, los pagos no se enmarcarían en el hecho gravado contenido en el inciso segundo del artículo 59 de la LIR, debiendo aplicarse en vez de ella la tributación contenida en el inciso primero de este mismo artículo, atendido que los derechos de difusión, distribución y comercialización de la señal de TV de BBBB, serían a su vez transferidos por AAAA a terceros quienes efectuarían la difusión de dicho material por televisión. Indica que la labor de AAAA, al no realizar directamente la exhibición del material televisivo, corresponde a la de un intermediario, distribuyendo y comercializando los derechos sobre dicho contenido televisivo.
+Por su parte, según se relata en la presentación, el contribuyente habría argumentado, en su respuesta a la citación, que si bien el hecho gravado contenido en el artículo 59 inciso segundo de la LIR no utiliza la expresión "regalías" o "derechos de autor", la naturaleza de este tipo de pagos indiscutiblemente obedece a una regalía por cuanto la exhibición de materiales cinematográficos y televisivos corresponde por esencia a prestaciones de propiedad intelectual, lo cual resulta concordante con la jurisprudencia administrativa contenida en los Oficios N° 4.214 y N° 294, ambos de 1992.
+Luego agrega que el Servicio de Impuestos Internos ha esgrimido en su práctica fiscalizadora habitual como asimismo en la defensa judicial, lo expresado en el Oficio N° 1.197 de 1993, en el que se estableció que los pagos por concepto de servicios de emisión de satélite en que el proveedor suministra programas de televisión se encuentra gravada en virtud del artículo 59 N° 2 de la LIR (remuneraciones en general); y en el que además se especifica que no se trataría del pago por servicio de telecomunicaciones, exento del IA; ni de un pago subsumible en el inciso segundo del mismo artículo.
+II.- ANÁLISIS.
+
+Conforme a lo dispuesto por el N° 2 de este mismo artículo 59 de la LIR, el IA se aplicará, con tasa 35%, respecto de las rentas que se paguen o abonen en cuenta, a personas sin domicilio ni residencia en Chile, por concepto de remuneraciones por servicios prestados en el extranjero, ello sin perjuicio de las exenciones que expresamente se señalan en esta misma disposición.
+
+Por su parte, y de acuerdo a lo dispuesto en el inciso segundo del artículo 59 de la LIR, las cantidades que se paguen al exterior a productores y/o distribuidores extranjeros sin domicilio ni residencia en Chile por materiales para ser exhibidos a través de proyecciones de cine y televisión, que no queden afectas a impuestos en virtud del artículo 58 Nº 1, tributan con el IA con la tasa señalada en el inciso segundo del artículo 60 (20%) sobre el total de dichas cantidades, sin deducción alguna.
+
+Ahora bien, a través de su jurisprudencia , el Servicio definió que los pagos que se efectúan en cumplimiento del tipo de contratos a los que se refiere su consulta, corresponden a sumas pagadas por un servicio prestado por una entidad extranjera, consistente en la emisión de una señal de satélite efectuada en el extranjero para ser recepcionada y difundida en el país.
+
+De igual forma estableció, que la tasa especial de 20% contenida en el inciso segundo del artículo 59 de la LIR, afecta a las cantidades pagadas al exterior a productores y/o distribuidores extranjeros por materiales para ser exhibidos a través de proyecciones de cine y televisión, entendido esto como un material físico consistente en rollos de películas o cintas de videos, y no a señales o mensajes transmitidos vía satélite.
+
+De acuerdo con lo señalado, los pagos a los que se refiere su consulta corresponden a la remuneración por servicios prestados en el extranjero, los cuales se encuentran gravados con el IA del artículo 59 N° 2 de la LIR, tributo que se aplica en calidad de único a la renta, sobre el total de las cantidades a remesar al exterior, sin deducción de ninguna especie, y debe ser retenido, declarado y enterado en arcas fiscales por la empresa pagadora.
+
+III.- CONCLUSIÓN.
+
+Las remesas al exterior efectuadas por AAAA a BBBB, en virtud del documento denominado “Carta Oferta de Derechos de Difusión, Distribución y Comercialización de Materiales Televisivos”, se encuentran gravadas con el IA de 35% del artículo 59 N°2 de la LIR, tributo que se aplica en calidad de único a la renta, sobre el total de las cantidades a remesar al exterior, sin deducción de ninguna especie, y debe ser retenido, declarado y enterado en arcas fiscales por la empresa pagadora AAAA.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1692, de 15.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

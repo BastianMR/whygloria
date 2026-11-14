@@ -1,0 +1,81 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1951 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, N°2, ART. 43, N°1, N°2, ART. 74, N°2 – CÓDIGO DEL TRABAJO, ART. 145-L –CIRCULAR N° 60, DE 2007 – OFICI..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1951.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1951.doc"
+materia: "renta"
+fecha: "2016-07-06"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, N°2, ART. 43, N°1, N°2, ART. 74, N°2 – CÓDIGO DEL TRABAJO, ART. 145-L –CIRCULAR N° 60, DE 2007 – OFICIO N° 288, DE 2008. (ORD. N° 1951, DE 06.07.2016)
+
+SOLICITA INFORME SOBRE ARTÍCULO 145-L DEL CÓDIGO DEL TRABAJO.
+
+I ANTECEDENTES
+
+Mediante el Oficio indicado en el antecedente, y luego de transcribir el artículo 145-L del Código del Trabajo, esa Subsecretaría informa que el estudio de la norma tendría como fundamento la existencia de presentaciones y exposiciones realizadas por las organizaciones que representan a los trabajadores de las artes y espectáculos, en el sentido que la norma obliga a los referidos trabajadores a emitir boleta de honorarios por el valor bruto de las remuneraciones percibidas, sin deducción de las cotizaciones previsionales, las cuales siguen siendo de cargo del empleador.
+
+En los hechos, esto encarece la contratación en el sector, desincentivando la generación de empleo, toda vez que las productoras tendrían una doble carga: las cotizaciones de salud y previsión, más la retención del 10% por concepto del impuesto a la renta de segunda categoría. Lo anterior se tornaría más grave, al parecer de esas organizaciones, al constatar que son los únicos empleadores sometidos a este régimen.
+
+Se agrega que este diagnóstico seria compartido por las organizaciones gremiales o sindicales que agrupan a estos trabajadores, existiendo dudas respecto del alcance de la nueva norma, en particular si por el hecho de emitir una boleta de honorarios se podría desconocer el vínculo laboral entre el trabajador y la productora.
+
+Informa que estas dudas se habrían aclarado en un pronunciamiento de la Dirección del Trabajo , donde se resuelve que, sin perjuicio de la boleta, la relación contractual de tipo laboral no se ve afectada en caso alguno, porque lo dispuesto en el artículo 145-L del Código del Trabajo es solo para fines tributarios, parafraseando el Oficio N° 288 y Circular N° 60, ambos emitidos por este Servicio el año 2008.
+
+Habiendo recogido lo manifestado por los actores del sector y sometido a estudio, considera relevante conocer la opinión de este Servicio, atendido que la norma eventualmente se modificaría.
+
+II ANÁLISIS
+
+Como primera cuestión, cabe señalar que el Ordinario de esa Subsecretaría no explica en qué consiste precisamente la modificación que se estudia introducir a la norma.
+
+Por otra parte, es conveniente reiterar que, de acuerdo al artículo 1° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo primero del DFL N° 7, de 1980, del Ministerio de Hacienda, y al artículo 6° del Código Tributario, corresponde a este Servicio interpretar, aplicar y fiscalizar las normas tributarias cuyo control no esté encomendado por ley a una autoridad diferente; de suerte que no compete este Servicio pronunciarse sobre la deducción de las cotizaciones previsionales o si quien debe soportarlas económicamente sea el empleador o el trabajador.
+
+Aclarado lo anterior y en lo que respecta al artículo 145-L del Código del Trabajo, es pertinente una breve relación del tratamiento tributario aplicable a las remuneraciones percibidas por los trabajadores de artes y espectáculos, tras las modificaciones introducidas al Código del Trabajo por la Ley N° 19.889, que regula las condiciones de trabajo y contratación de los trabajadores de artes y espectáculos, y la Ley N° 20.219, que destina recursos para el fondo de desarrollo de la Región de Magallanes y de la Antártica chilena y modifica otros cuerpos legales.
+
+La Ley N° 19.889 introdujo en el Código del Trabajo el Capítulo IV, relativo al contrato de los trabajadores de artes y espectáculos, cuyo texto primitivo no contenía normas tributarias, de suerte que estos trabajadores quedaron sujetos a las normas generales contempladas en la Ley sobre Impuesto a la Renta, según se tratara de trabajadores contratados bajo un vínculo de subordinación o dependencia o, en cambio, de trabajadores independientes.
+
+A propósito de esa modificación, mediante el Oficio N° 5.060 de 2004, y dando respuesta a una consulta formulada por un sindicato, este Servicio informó que los trabajadores dependientes con contrato de trabajo quedaban afectos al pago de Impuesto de Segunda Categoría de acuerdo a lo dispuesto en los artículo 42, N° 1, y 43, N° 1, de la Ley sobre Impuesto a la Renta, tributo que debía ser determinado, retenido, declarado y pagado al Fisco por el respectivo empleador o empresa que contratara a los trabajadores.
+En el caso de trabajadores independientes, conforme lo dispuesto en los artículos 42, N° 2, y 43, N° 2, de la citada ley, quedaban afectos al Impuesto Global Complementario, sobre las rentas que percibieran de las empresas que los contrataran, tributo que debía ser declarado anualmente por el propio trabajador independiente. Asimismo, se hizo presente que estos trabajadores se encontraban afectos a una retención de 10% sobre los ingresos pagados, conforme a lo dispuesto en el artículo 74, N° 2, de la Ley sobre Impuesto a la Renta, en los casos en que el pagador de la renta fuera una institución fiscal, semifiscal de administración autónoma, una municipalidad, personas jurídicas en general, y personas que obtuvieran rentas de la Primera Categoría, obligadas según la ley a llevar contabilidad.
+
+Con posterioridad, la Ley N° 20.219 incorporó en el Capítulo IV del Código del Trabajo el artículo 145-L, abordado por este Servicio en la Circular N° 60 de 2007, sobre el tratamiento tributario de las remuneraciones percibidas por los trabajadores de artes y espectáculos, y en el Oficio N° 288 de 2008, ambos de conocimiento de esa Subsecretaría.
+
+En lo fundamental, el artículo 145-L citado, dispone que las remuneraciones percibidas por los trabajadores de artes y espectáculos con motivo de la celebración de los contratos laborales que regula el Capítulo IV, quedan sujetas a la tributación aplicable a las rentas señaladas en el artículo 42, N° 2, de la Ley sobre Impuesto a la Renta; es decir, los sustrae de la aplicación del Impuesto Único de Segunda Categoría, en los casos en que tienen un contrato de trabajo con vínculos de subordinación y dependencia, y los deja sujetos para efectos tributarios al régimen que afecta a las rentas que perciben los trabajadores independientes, gravados con los impuestos Global Complementario o Adicional, según sea el domicilio o residencia en el país o en el exterior del beneficiario de la renta.
+
+Tributar en régimen de Impuesto Único de Segunda Categoría o Impuesto Global Complementario no presenta mayores diferencias desde el punto de vista de los tramos de renta y tasas marginales aplicables, porque son las mismas, diferenciándose en que el Impuesto Único de Segunda Categoría, por ser un tributo de determinación y retención mensual, considera tramos de renta expresados en unidades tributarias mensuales; en cambio, el Impuesto Global Comentario, por tratarse de un impuesto que se determina y paga anualmente, emplea unidades tributarias anuales.
+
+La diferencia básica que existe, y que explica el régimen tributario dispuesto por el artículo 145-L, es que en la determinación de la renta anual afecta al Impuesto Global Complementario se permite la deducción de los gastos efectivos incurridos en cada período y que hayan sido necesarios para producir la renta, o bien rebajar en reemplazo de los gastos efectivos, una presunción de gasto anual equivalente al 30% de las rentas anuales percibidas actualizadas, con un tope de 15 unidades tributarias anuales; rebaja que no asiste a los trabajadores dependientes.
+En cuanto al efecto de encarecer la contratación en el sector, toda vez que las productoras tendrían una doble carga – las cotizaciones de salud y previsión, por una parte; más el 10% por concepto de la retención que establece el artículo 74, N° 2, de la Ley sobre Impuesto a la Renta, por otra – no compete a este Servicio pronunciarse sobre las cotizaciones de salud y previsión, por tratarse de materias ajenas a su competencia.
+
+En lo que respecta a la retención del impuesto de 10%, por aplicación de lo dispuesto en el artículo 74, N° 2, de la Ley sobre Impuesto a la Renta, la Circular N° 60 de 2007 instruye que los trabajadores de artes y espectáculos deben emitir una boleta de honorarios por el valor bruto de la remuneración percibida, sin deducción alguna por concepto de cotizaciones previsionales, las cuales deben ser retenidas y declaradas por los respectivos empleadores.
+
+Como se observa, y de acuerdo a las instrucciones de la Circular en base a la ley, la retención del 10% del impuesto que establece artículo 74, N° 2, de la Ley sobre Impuesto a la Renta se deduce del monto bruto de la remuneración y, en consecuencia, no es de cargo del pagador de la renta. La referida retención constituye un anticipo del impuesto que deba pagar el contribuyente y, en caso que se produzca un exceso a favor del contribuyente, este se le devuelve.
+
+Finalmente, si el estudio de la norma pasa porque las rentas obtenidas por los trabajadores de las artes y espectáculos se liberen de la retención del impuesto de 10% y de cualquier otro impuesto a la renta, implicaría tratar esas rentas exentas, podría infringir lo dispuesto en el artículo 19 N° 20, de la Constitución Política de la República, que ampara la igual repartición de los tributos en proporción a las rentas o en la progresión o forma que fije la ley, en la medida que dos contribuyentes con el mismo ingreso, por el hecho de provenir de fuentes y actividades distintas, estarían sujetas a distinta carga tributaria.
+
+III CONCLUSIÓN
+
+1. Conforme lo expuesto y al artículo 145-L del Código del Trabajo, los trabajadores de artes y espectáculos básicamente quedaron sujetos a la tributación señalada en el artículo 42, N° 2, de la Ley sobre Impuesto a la Renta.
+
+2. En cuanto a un eventual encarecimiento de la actividad producto de la doble carga que significa para las productoras soportar tanto las cotizaciones de salud y previsión, como el 10% por concepto de la retención que establece el artículo 74, N° 2, de la Ley sobre Impuesto a la Renta, cabe señalar que no le corresponde a este Servicio emitir un informe respecto de las cotizaciones de salud y previsión.
+
+3. En lo que respecta a la retención del impuesto de 10% que establece el artículo 74, N° 2, de la Ley sobre Impuesto a la Renta, se informa que estrictamente no es de cargo del pagador de la renta, sino del perceptor de la misma, a quien se le descuenta y retiene el importe del impuesto.
+
+4. Una eventual modificación legal destinada a liberar de impuesto a las rentas obtenidas por los trabajadores de las artes y espectáculos podría infringir lo dispuesto en el artículo 19 N° 20, de la Constitución Política de la República.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N°1951, de 06.07.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

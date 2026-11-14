@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1826 (2016)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 8, N°8 – CÓDIGO CIVIL, ART. 59 – LEY SOBRE IMPUESTO A LA RENTA, ART. 103 – OFICIO N° 1383, DE 2015. (ORD. N° 1826, DE ..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1826.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1826.doc"
+materia: "otros"
+fecha: "2016-06-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 8, N°8 – CÓDIGO CIVIL, ART. 59 – LEY SOBRE IMPUESTO A LA RENTA, ART. 103 – OFICIO N° 1383, DE 2015. (ORD. N° 1826, DE 23.06.2016)
+
+CONSULTA SOBRE PÉRDIDA DE DOMICILIO EN CHILE Y APLICACIÓN DE IMPUESTO ADICIONAL EN CASO QUE INDICA.
+
+Se ha recibido en este Servicio la presentación indicada en el antecedente, solicitando se indique desde qué momento un contribuyente pasa a tributar con Impuesto Adicional, por haber perdido su domicilio en Chile para efectos tributarios, conforme se expone a continuación
+
+I ANTECEDENTES
+
+Señala el consultante que uno de sus clientes dejó el país durante el mes de abril del año 2015, con intención de radicarse definitivamente en el extranjero. Indica que actualmente el referido contribuyente se encuentra liquidando sus participaciones sociales y vendiendo la totalidad de sus activos, tales como vehículos y propiedades. Agrega que algunas ventas no se han concretado del todo debido a dificultades del mercado inmobiliario.
+Asimismo, señala que su cliente se mantendrá como accionista de una sociedad por acciones, la cual, a su vez, tiene una participación minoritaria en empresas cuya venta de derechos es de difícil realización, saliendo absolutamente de la administración de todas las sociedades.
+
+En relación a lo anterior, indica que el Código Tributario en su artículo 8 N°8 define lo que se entiende por ‘residente’ y que, por su parte, el concepto de domicilio no ha sido definido en el ordenamiento tributario, debiendo entonces recurrirse a la definición que proporciona el artículo 59 del Código Civil.
+
+Así entonces, sostiene que los elementos que deben distinguirse para que una persona se entienda domiciliada en un lugar son la residencia y el ánimo de permanecer en éste, y por tanto, una persona que carece, ya sea de uno o bien de ambos requisitos no tendría domicilio en Chile.
+
+Luego indica que de acuerdo a las normas de la Ley de la Renta, los ingresos de los contribuyentes se afectan con Impuesto Global Complementario o bien con el Impuesto Adicional, dependiendo de la calidad de residentes o domiciliados en Chile o en el exterior.
+
+Conforme a los antecedentes planteados, solicita se aclare para el caso en particular cuándo o desde qué momento específico el contribuyente debe tributar con impuesto adicional por las rentas que le quedan por percibir, y si, para el año 2015, debe o no declarar Impuesto Adicional. Lo anterior considerando que, en opinión del consultante, al momento de salir el contribuyente del país de manera definitiva, se pierde el elemento subjetivo y por ende se produce la pérdida definitiva del domicilio.
+
+II ANÁLISIS
+
+En relación con los conceptos de “domicilio” y “residencia” para efectos tributarios, este Servicio se ha pronunciado en reiteradas ocasiones , señalando recientemente que, respecto del “domicilio”, uno de los factores decisivos es el lugar donde la persona ejerce la actividad de la cual obtiene la mayor parte de sus ingresos y donde se encuentran radicados sus principales intereses, elemento consustancial en cuanto a la Ley sobre Impuesto a la Renta atendido el carácter económico que le sirve de fundamento al establecer que la sola ausencia o falta de residencia en el país no es causal que determine la pérdida del domicilio en Chile respecto de las personas que se ausenten del país conservando la fuente principal de sus negocios en Chile.
+
+Por consiguiente, si un contribuyente, que ha estado domiciliado en Chile, ya no tiene residencia en el país de acuerdo a lo dispuesto en el Nº 8 del artículo 8º del Código Tributario y tampoco conserva en Chile el asiento principal de sus negocios, ha perdido su domicilio en Chile .
+
+Dicho lo anterior, en la medida que el contribuyente – de acuerdo a lo expresado en la propia consulta – aún registra activos en Chile (tales como vehículos o propiedades) y se mantiene como accionista de una sociedad por acciones (sin especificar en qué proporción o medida dichas acciones ayudan a conforman sus rentas), no es posible determinar dónde obtiene la mayor parte de sus ingresos y dónde se encuentran radicados sus principales intereses, materia que, en todo caso, es una cuestión de hecho cuya verificación compete a la instancia de fiscalización correspondiente.
+Sin perjuicio de lo anterior, y en el entendido que el contribuyente efectivamente haya perdido su domicilio y residencia en Chile, antes de abandonar el país deberá declarar y pagar la parte del Impuesto Global Complementario devengado correspondiente al año calendario de que se trate, conforme lo dispuesto en el artículo 103 de la Ley sobre Impuesto a la Renta. Luego de separar sus resultados y pagar el Impuesto Global Complementario por sus rentas de cualquier origen sobre el período que corresponda, deberá tributar únicamente por sus rentas de fuente chilena, con Impuesto Adicional, conforme las reglas generales.
+
+III CONCLUSIÓN
+
+Para efectos de calificar la pérdida del “domicilio” en materia tributaria, uno de los factores decisivos es el lugar donde la persona ejerce la actividad de la cual obtiene la mayor parte de sus ingresos y donde se encuentran radicados sus principales intereses.
+
+En caso que el contribuyente efectivamente haya perdido su domicilio y residencia en Chile, deberá declarar y pagar la parte del Impuesto Global Complementario devengado correspondiente al año calendario de que se trate, conforme lo dispuesto en el artículo 103 de la Ley sobre Impuesto a la Renta, antes de abandonar el país. Luego de ello deberá tributar únicamente por sus rentas de fuente chilena, con Impuesto Adicional, conforme las reglas generales.
+
+Sin perjuicio de lo señalado en términos abstractos en los párrafos anteriores, no es posible determinar en la especie dónde obtiene el contribuyente la mayor parte de sus ingresos y dónde se encuentran radicados sus principales intereses, materia que, en todo caso, es una cuestión de hecho cuya verificación compete a la instancia de fiscalización correspondiente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1826, de 23.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

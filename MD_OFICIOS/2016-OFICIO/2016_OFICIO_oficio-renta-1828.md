@@ -1,0 +1,81 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1828 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°7 – LEY N° 20.780, DE 2014, ART. 24, N°1 Y N°14 – CIRCULAR N° 8, DE 2015. (ORD. N° 1828, DE 23.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1828.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1828.doc"
+materia: "renta"
+fecha: "2016-06-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N°7 – LEY N° 20.780, DE 2014, ART. 24, N°1 Y N°14 – CIRCULAR N° 8, DE 2015. (ORD. N° 1828, DE 23.06.2016)
+
+SOLICITA CONFIRMAR CRITERIOS EN RELACIÓN CON APLICACIÓN DEL ARTÍCULO 24° TRANSITORIO DE LA LEY N° 20.780, AL CASO QUE INDICA.
+
+Mediante presentación del antecedente se solicita confirmar distintos criterios en relación con la radicación de activos de un trust en un contribuyente que se acogió al mecanismo establecido en el artículo 24° transitorio de la Ley N° 20.780.
+
+I ANTECEDENTES
+
+De acuerdo con su presentación, uno de sus clientes se acogió al sistema voluntario del artículo 24° transitorio de la Ley N° 20.780, declarando su participación en un trust constituido en las Islas Vírgenes Británicas (en adelante, “XX Trust”) y ahora pretende radicar los activos declarados en su patrimonio, como lo permite el numeral 14 de la norma citada.
+
+Informa que “XX Trust” es un trust familiar que se constituyó luego del fallecimiento del padre del contribuyente, del cual son beneficiarios él y sus cinco hermanos, y a través del cual se mantiene el patrimonio que el padre tenía en el extranjero. El trust, a su turno, es administrado por “XX Investment Ltd.”
+
+Durante la vida del padre, los activos que tenía en el extranjero fueron administrados por “AB Investment Inc.”, sociedad que mantuvo sus acciones al portador. A su fallecimiento, estas acciones fueron aportadas a “XX Trust”.
+
+El “XX Trust” y su sociedad administradora “XX Investment Ltd.” no mantienen cuentas de inversión. Su activo son las acciones de “AB Investment Inc.”, la que tiene una cuenta de inversión extranjera. La cuenta tiene US$ 15.000.000 en caja y US$ 20.000.000 en activos que han sufrido pérdidas significativas en el último tiempo, lo que hace inconveniente su liquidación inmediata. La liquidación de la estructura significaría dividir los activos en seis partes, entre el contribuyente y sus cinco hermanos.
+
+El contribuyente pretende disolver la estructura del “XX Trust” y su sociedad administradora “XX Investment Ltd.”, asignando las acciones de “AB Investment Inc.” a los beneficiarios del trust, en sus respectivos porcentajes. Luego, será disminuido el capital de esta sociedad en US$ 15.000.000 (monto que tiene en caja) para luego disminuir el capital gradualmente a medida que genere caja. La finalidad es disolver por completo la estructura offshore sin perjuicio financiero de los propietarios. En todo caso, está contemplado determinar anualmente las utilidades o pérdidas de “AB Investment Inc.” para pagar los impuestos correspondientes de acuerdo con el artículo 41 G de la Ley sobre Impuesto a la Renta.
+
+Luego de citar los numerales 1 y 14 del artículo 24° transitorio de la Ley N° 20.780, el Oficio N° 3197 de 2015 de esta Dirección, la Circular N° 8 de 2015 y el N° 7 del artículo 17 de la Ley sobre Impuesto a la Renta, entre otras normas legales, solicita confirmar los siguientes criterios:
+
+a) Que, una vez liquidado el trust y su sociedad administradora, deberán asignarse las acciones de “AB Investment Inc.” al valor declarado de acuerdo con el mecanismo establecido en el artículo 24° transitorio de la Ley N° 20.780, aun cuando la reorganización patrimonial se realice para distribuir los activos y luego liquidar el trust. También se solicita confirmar que cualquier diferencia que se produzca, por ejemplo, por la variación de tipo de cambio o del valor de los activos, estará afecta al Impuesto Global Complementario.
+
+b) Que la disminución de capital de “AB Investment Inc.” que se pretende hacer estará cubierta por el valor que se declaró a través del mecanismo del artículo 24° transitorio de la Ley N° 20.780, hasta ese monto.
+
+c) Que en una posible liquidación final de “AB Investment Inc.” los activos se valorizarán a su valor corriente en plaza, conforme al valor que se encuentran en las cartolas de las entidades financieras correspondientes.
+
+II ANÁLISIS
+
+En lo fundamental, el numeral 14 del artículo 24° transitorio de la Ley N° 20.780 dispone que, cumpliéndose los demás requisitos legales, los contribuyentes puedan radicar directamente en su patrimonio en Chile los activos que, a su turno, se encuentran radicados en – o se tengan “a través de” – sociedades, entidades o propietarios fiduciarios.
+
+Sin perjuicio del carácter voluntario de la declaración, quedando al arbitrio del contribuyente determinar qué bienes y rentas acoge a su declaración, los bienes y rentas que declare deben ser informados a su valor comercial o de mercado a la fecha de la declaración, determinado de acuerdo a las reglas de precedencia y especialidad establecidas en las letras a), b) y c), numeral 7, del artículo 24° transitorio de la Ley N° 20.780.
+
+En el presente caso, y de acuerdo a los escasos antecedentes aportados, debe entenderse que si lo declarado fue un trust en el extranjero y este, a su turno, sólo tenía acciones en la sociedad “AB Investment Inc.”, al momento de fijarse el valor comercial o de mercado del trust debió considerarse el valor que los bienes o rentas subyacentes radicados en la sociedad “AB Investment Inc.” representaban en el trust. En otras palabras, asumiendo que el trust y, por su intermedio, la sociedad “AB Investment Inc.” carezcan de otros activos, el valor comercial o de mercado del trust declarado debiera ascender en definitiva a la suma de US$ 35.000.000 (US$ 15.000.000 en caja más US$ 20.000.000, activos subyacentes de la sociedad “AB Investment Inc.”).
+
+De este modo, atendido que el numeral 14 del artículo 24° transitorio de la Ley N° 20.780 no establece qué entidades, sociedades o encargos fiduciarios deban ser disueltos, el valor inicialmente declarado del trust – en el ejemplo – deberá ir asignándose a los activos subyacentes en proporción al valor que representen en el valor total de la respectiva sociedad, entidad o propiedad fiduciaria en la cual se encontraban radicados, a medida que se vayan disolviendo las sociedades, entidades o propiedades fiduciarias.
+
+Conforme lo anterior, si el valor declarado del trust asciende a US$ 35.000.000, en caso de disolverse, y no existiendo otros activos en el trust, ese valor deberá asignarse completamente para registrar las acciones de la sociedad “AB Investment Inc.”. Si luego se disuelve la sociedad “AB Investment Inc.”, el valor por el cual deben registrarse los otros activos subyacentes en la sociedad – distintos de la caja – ascenderá a US$ 20.000.000.
+En consecuencia, si el contrib
+uyente, sea mediante una disminución de capital de la sociedad “AB Investment Inc.”, o cualquier otra figura, radica directamente en su patrimonio en Chile todo o parte de los activos subyacentes de la sociedad “AB Investment Inc.” sin disolverla previamente, deberá descontar esa disminución de capital del valor por el cual tenía registradas las acciones de la sociedad “AB Investment Inc.”
+
+De lo contrario, se produciría la absurda consecuencia que, una vez retirada la caja a título de devolución de capital, o a cualquier otro título, el contribuyente siga considerando como valor registrado de las acciones de “AB Investment Inc.” el total del valor declarado por el trust (US$ 35.000.000) o, incluso peor, que disuelto el trust y la sociedad “AB Investment Inc.” se registren los activos subyacentes de la sociedad disuelta (distintos de la caja, ya retirada) por el total del valor declarado por el trust (US$ 35.000.000).
+
+III CONCLUSIÓN
+
+Conforme lo expuesto, y en relación con los criterios solicitados, se informa lo siguiente:
+
+a) Efectivamente, una vez liquidado el trust y su sociedad administradora, deberán registrarse las acciones de “AB Investment Inc.” al valor declarado del trust conforme al artículo 24° transitorio de la Ley N° 20.780.
+
+b) Asimismo, cualquier asignación de los activos subyacentes de la sociedad “AB Investment Inc.” en el patrimonio del contribuyente en Chile estará cubierta por el valor declarado del trust, hasta el monto que le corresponda a cada activo y según la participación del contribuyente.
+
+c) Como contrapartida de lo anterior, el valor de los activos subyacentes asignados en la disminución de capital de “AB Investment Inc.” deberá rebajarse del valor por el cual se registraron previamente las acciones de “AB Investment Inc.” Si junto con disolver el trust se disuelve la sociedad “AB Investment Inc.”, el valor de los activos subyacentes asignados en la disminución de capital de “AB Investment Inc.” deberá rebajarse al momento de registrar los restantes activos subyacentes quedados en la sociedad disuelta, distintos de la caja.
+
+d) Cualquier diferencia que se produzca respecto del valor declarado del trust, de las acciones de “AB Investment Inc.” o de los activos subyacentes de esta última, de acuerdo a lo señalado en las letras precedentes, estará afecta a impuestos conforme las reglas generales, que establece la Ley sobre Impuesto a la Renta.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1828, de 23.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

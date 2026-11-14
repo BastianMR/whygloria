@@ -1,0 +1,65 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 313 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14° QUÁTER, ART. 40°, N°7 – D.F.L. N° 5, DE 1968. (ORD. N° 313, DE 19.02.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja313.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja313.doc"
+materia: "renta"
+fecha: "2014-02-19"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14° QUÁTER, ART. 40°, N°7 – D.F.L. N° 5, DE 1968. (ORD. N° 313, DE 19.02.2014)
+
+EXENCIÓN DEL IMPUESTO DE PRIMERA CATEGORÍA QUE ESTABLECE EL ARTÍCULO 14 QUÁTER, EN RELACIÓN AL N° 7, DEL ARTÍCULO 40, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CASO DE CONTRIBUYENTES QUE TENGAN PARTICIPACIÓN EN COMUNIDADES.
+
+Se ha solicitado un pronunciamiento a este Servicio, acerca de si es aplicable la exención del Impuesto de Primera Categoría que establece el artículo 14 quáter, en relación con el N° 7, del artículo 40, ambos de la Ley sobre Impuesto a la Renta (LIR), en caso de contribuyentes que tengan participación en comunidades.
+
+I.- ANTECEDENTES.
+
+Señala, que en las zonas rurales de una Región las comunidades, sean agrícolas o de otra especie, constituyen la forma más recurrente de organización. Al respecto, se solicita aclarar si dichas organizaciones se encuentran dentro de aquellas a que se refiere la letra b), del artículo 14 quáter, de la LIR.
+
+Según el requirente, las comunidades agrícolas y las comunidades civiles, por las razones que indica, no quedan comprendidas en la norma referida; y por consiguiente, el comunero puede sujetarse a la exención del Impuesto de Primera Categoría que establecen las normas legales citadas.
+
+II.- ANÁLISIS.
+
+El N° 7, del artículo 40 de la LIR, dispone que estarán exentos del Impuesto de Primera Categoría, los contribuyentes que cumplan los requisitos del artículo 14 quáter del mismo texto legal; esto es, los contribuyentes obligados a declarar su renta efectiva según contabilidad completa y que cumplan lo demás requisitos que establece dicha disposición .
+
+La letra b) del citado artículo 14 quáter, excluye del régimen tributario señalado, a los contribuyentes que posean o exploten, a cualquier título, derechos sociales o acciones de sociedades, o en caso que formen parte de contratos de asociación o cuentas en participación.
+
+Ahora bien, respecto de la materia específica en consulta, esto es, si un contribuyente que determina renta efectiva según contabilidad completa que a su vez forma parte de una comunidad quedaría por este hecho excluido del régimen de exención referido, cabe señalar que una comunidad se forma cuando una misma cosa pertenece a varias personas, que pueden ejercer simultáneamente derechos de igual naturaleza jurídica sobre ésta.
+
+La normas legales comunes o generales, relativas a la comunidad están contenidas en el Título XXXIV, del Libro Cuarto, del Código Civil (“De los cuasicontratos”), cuyo artículo 2304 establece que la comunidad de una cosa universal o singular, entre dos o más personas, sin que ninguna de ellas haya contratado sociedad o celebrado otra convención relativa a la misma cosa, es una especie de cuasicontrato.
+
+Por su parte, el artículo 1°, del Decreto con Fuerza de Ley N°5, de 1968, que modificó, complementó y fijó el texto refundido del D.F.L. sobre Comunidades Agrícolas estableció que, para los efectos previstos en el mismo cuerpo legal, se entenderá por Comunidad Agrícola la agrupación de propietarios de un terreno rural común que lo ocupen, exploten o cultiven y que se organicen en conformidad al mismo texto legal. Agrega que estas Comunidades gozarán de personalidad jurídica desde la inscripción del predio en el Conservador de Bienes Raíces respectivo. Los artículo 1° bis b) y 1° bis c), añaden que los comuneros son propietarios de un derecho o cuota sobre el predio común, el cual les permitirá el acceso al uso y goce de los bienes de la comunidad; sin perjuicio del goce singular de una porción determinada de terreno de propiedad de la comunidad, que se asigna al comunero y su familia con carácter permanente y exclusivo .
+
+Ahora bien, este Servicio señaló mediante sus instrucciones sobre la materia que para poder acogerse a la exención del Impuesto de Primera Categoría que establece el N° 7, del artículo 40 de la LIR, los contribuyentes no deben poseer ni explotar a cualquier título acciones o derechos sociales, ni realizar actividades tales como invertir en la tenencia o enajenación de derechos sociales en sociedades de personas, ni en acciones de sociedades anónimas, sociedades por acciones, sociedades en comandita por acciones o sociedades legales o contractuales mineras, ya sea que estas sociedades estén constituidas en Chile o en el extranjero. Asimismo, tampoco deben tener participación en contratos de asociación o cuentas en participación, de aquellos a que se refiere el artículo 507 y siguientes del Código de Comercio.
+
+Conforme a la naturaleza de la comunidad, según se desprende del Código Civil, cada comunero tiene derechos de igual especie sobre la cosa en su totalidad, vale decir, el copropietario es titular de una cuota ideal o abstracta sobre la totalidad del objeto común. Consecuente con esto, la participación en una comunidad no se encuentra en ninguna de las hipótesis que contempla la letra b), del artículo 14 quáter de la LIR, al no tratarse de derechos sociales ni acciones, ni tampoco de una participación en un contrato de asociación o cuentas en participación.
+
+Lo señalado no se entiende modificado por el hecho que, conforme al artículo 1° del D.F.L. N°5 de 1968, las comunidades agrícolas adquieran personalidad jurídica por la inscripción del predio en el Conservador de Bienes Raíces, ya que, conforme a su artículo 1 bis c), los derechos o cuotas de los comuneros se ejercen sobre el predio común.
+
+No obstante lo anterior, se hace presente que conforme a lo dispuesto en la letra a), del artículo 14 quáter de la LIR, para acogerse a la exención referida, los ingresos totales del giro del contribuyente no deben superar, en cada año calendario, el equivalente a 28.000 Unidades Tributarias Mensuales, y que para calcular este monto, el contribuyente deberá sumar a sus ingresos los obtenidos por sus relacionados en los términos establecidos por el artículo 20, N°1, letra b), de la LIR, y el artículo 100 letras a), b) y d) de la Ley N°18.045, que en el ejercicio respectivo se encuentren acogidos a este artículo. De esta manera, para el cómputo del límite antes referido, deberán considerarse los ingresos de la comunidad con la cual se encuentra relacionado, cuando ésta se encuentre acogida al régimen del artículo 14 quáter de la LIR en el ejercicio respectivo.
+
+III.- CONCLUSIONES.
+
+Se comparte el criterio que indica en su requerimiento, en cuanto a que un contribuyente que esté obligado a declarar su renta efectiva según contabilidad completa por rentas del artículo 20 de la LIR, que cumpla los requisitos para acogerse al artículo 14 quáter del mismo texto legal, no se entenderá excluido del régimen que establece, por el hecho que tenga derechos como comunero, en una comunidad regulada por las normas generales del Código Civil, o en una comunidad sujeta a las normas especiales del DFL N° 5 de 1968.
+
+No obstante lo anterior, se hace presente que el contribuyente deberá cumplir los demás requisitos legales establecidos al efecto, debiendo verificarse particularmente el cumplimiento del requisito establecido en la letra a), del artículo 14 quáter de la LIR, en los términos ya señalados.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 313, de 19.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

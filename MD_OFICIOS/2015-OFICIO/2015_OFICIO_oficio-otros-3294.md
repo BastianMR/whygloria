@@ -1,0 +1,72 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 3294 (2015)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 66°, ART. 68°, INCISOS 4° Y 5° – CIRCULARES N° 31, DE 2007 Y N° 7, DE 2008 – OFICIOS N° 1822, DE 2009 Y 1136, DE 2012...."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja3294.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja3294.doc"
+materia: "otros"
+fecha: "2015-12-29"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 66°, ART. 68°, INCISOS 4° Y 5° – CIRCULARES N° 31, DE 2007 Y N° 7, DE 2008 – OFICIOS N° 1822, DE 2009 Y 1136, DE 2012. (ORD. N° 3294, DE 29.12.2015)
+
+USO DE “OFICINAS VIRTUALES” COMO DOMICILIO DE CONTRIBUYENTES PARA FINES TRIBUTARIOS.
+
+Se ha solicitado a este Servicio un pronunciamiento sobre la posibilidad de usar oficinas con características de servicio temporal, comercialmente denominadas “oficinas virtuales” como domicilio para obtener RUT e Inicio de actividades.
+
+I ANTECEDENTES
+
+En su presentación informa que tiene un emprendimiento en virtud del cual ofrece a sus clientes el arrendamiento de oficinas amobladas por mes, días u horas, de acuerdo a las necesidades de los clientes, incluyendo los servicios de una recepcionista, telefonía, fotocopiadora, internet, estacionamientos, recepción de correspondencia y domicilio. Para tal efecto tiene un edificio que cuenta con seis oficinas amobladas, una sala de reuniones amoblada, un área de recepción, cafetería y estacionamientos.
+
+La base del negocio, según indica, es ofrecer un servicio integral de bajo costo para los clientes de suerte que puedan acceder a un domicilio real y físico como domicilio legal y comercial en ese lugar, pudiendo utilizarlo como dirección tributaria. Para ese efecto, se confecciona un contrato de arriendo legalizado ante notario, indicando los días o las horas a que tiene derecho el usuario para utilizar las instalaciones, según el plan escogido.
+Al respecto, indica que la unidad competente de este Servicio habría denegado la posibilidad que sus clientes utilicen como domicilio tributario las oficinas que arriendan para los efectos de timbrar documentos, basándose en la Circular N° 31 de 2007 y en los Oficios N° 1822 de 2009 y N° 1136 de 2012.
+
+En su opinión, no corresponde extrapolar las conclusiones de un caso particular y generalizarlas para todos los casos, declarando la improcedencia del uso de las “oficinas virtuales” para efectos de inscribirse en el RUT, efectuar la declaración de inicio de actividades y timbrar facturas.
+
+Asimismo indica que en otros pronunciamientos este Servicio habría aceptado el uso de “oficinas virtuales”, como por ejemplo cuando los servicios que constituyen la actividad principal del contribuyente, por su naturaleza intangible, puedan ser realizados desde dicha oficina sin necesidad de contar con mayores instalaciones.
+
+Finalmente solicita que se aclare si existen restricciones para la oficina en la dirección que indica y si existiesen, qué actividades pueden utilizar esa oficina para fines tributarios.
+
+II ANÁLISIS
+
+Sobre el particular cabe tener presente que, mediante la Circular N° 31 de 2007 , este Servicio impartió instrucciones sobre la forma de cumplir con las obligaciones de solicitar la Inscripción en el Registro del Rol Único Tributario y dar Aviso de Inicio de Actividades.
+
+Al respecto, y después de analizar la norma contenida en el artículo 13 del Código Tributario – relativo a las notificaciones – y los artículos 66 y 68, incisos 4° y 5°, del mismo cuerpo legal – referidos a la inscripción en el Rol Único Tributario y a la declaración de Inicio de Actividades – la circular instruye en el punto 1.5.2. “que el domicilio que debe registrar el contribuyente para obtener RUT y/o para presentar una declaración de Inicio de Actividades, debe coincidir con el lugar donde se realice la actividad principal del negocio o giro.” Agrega que lo anterior no exime al contribuyente de entregar información al Servicio respecto del domicilio en que se ubican otros recintos o establecimientos en los que también desarrolle sus actividades.
+
+La exigencia de registrar como domicilio el lugar donde se realice la actividad principal del negocio o giro del contribuyente tiene por objeto identificar los aspectos relevantes del negocio que se realiza, facilitar la fiscalización en terreno de las actividades, de los libros de contabilidad y documentación sustentatoria, así como la verificación de inventarios y, en general, la fiscalización de todas las normas tributarias aplicables. Ninguna de estas facultades de fiscalización podrían ejecutarse de aceptar como domicilio una oficina virtual donde, en la práctica, no se realiza la actividad principal del negocio o giro.
+
+Sin perjuicio de lo anterior, el punto 1.5.6., de la circular contempla la situación excepcional del “domicilio postal” y del “domicilio urbano para notificaciones”. En el primer caso se encuentran los contribuyentes que tengan dificultades para recibir correspondencia, quienes pueden fijar un domicilio postal para recibir oportunamente los avisos y notificaciones que el Servicio les remita. En la segunda situación se encuentran los contribuyentes con domicilio rural que no dispongan de un “domicilio postal”, en cuyo caso se les permite indicar un “domicilio urbano” que consiste en un “domicilio físico” que no corresponda al lugar en donde desarrolla sus actividades, pero idóneo para practicarle notificaciones.
+
+Como se puede apreciar, para obtener RUT y/o para presentar una declaración de Inicio de Actividades, el contribuyente debe registrar como domicilio aquél que coincida con el lugar donde realice la actividad principal del negocio o giro.
+
+El mismo principio fluye de los oficios citados por el propio contribuyente en su presentación. En efecto, el Oficio N° 1822 de 2009, tras resolver que una dirección tributaria derivada del servicio de “oficina virtual” – por regla general – no puede aceptarse como domicilio hábil para los efectos de inscripción en el RUT y la declaración de inicio de actividades, acepta dicha posibilidad en el limitado caso que, por la naturaleza de los servicios del contribuyente, la oficina virtual “sea efectivamente el lugar donde realice su actividad principal.”
+
+Así también fue resuelto en el Oficio N° 1136 de 2012, donde se informa que la denominada dirección tributaria derivada del servicio de “oficina virtual” no constituye un domicilio hábil para los efectos de inscripción en el Rol Único Tributario y Declaración de Inicio de Actividades del contribuyente, así como tampoco para la emisión de facturas y otros documentos tributarios; sin perjuicio que pueda constituirse como domicilio válido para efectos de las notificaciones, según lo establecido en el artículo 13 del Código Tributario.
+
+Como puede apreciarse entonces, e independientemente de los términos contractuales fijados entre las partes, este Servicio sólo ha admitido la posibilidad que el arrendatario utilice como domicilio para fines tributarios la dirección de una “oficina virtual” si en esa oficina desarrolla efectivamente la actividad principal del negocio o giro que declara, como cuando los servicios que constituyen la actividad principal del contribuyente, por su naturaleza intangible, “puedan ser realizados desde dicha oficina” sin necesidad de contar con mayores instalaciones.
+
+Finalmente, por tratarse de una cuestión de hecho que debe ser analizada caso a caso, corresponde a la unidad del Servicio donde se presente la petición de obtención de RUT y la declaración de Inicio de Actividades, analizar y resolver el cumplimiento de tales requisitos, determinando qué actividades pueden utilizar esa oficina para fines tributarios.
+
+III CONCLUSIÓN
+
+De acuerdo a lo señalado, se reiteran las instrucciones emitidas por este Servicio mediante la Circular N° 31 de 2007 y los Oficios N° 1822 de 2009 y N° 1136 de 2012, en el sentido que el único domicilio válido para obtener RUT y/o para presentar una declaración de Inicio de Actividades es aquel lugar donde el contribuyente efectivamente realice la actividad principal del negocio o giro.
+
+Lo anterior es sin perjuicio que este Servicio deba verificar si la actividad de que se trate cumple las exigencias señaladas en la Circular N° 31 antes citada.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 3294, de 29.12.2015
+Subdirección Normativa
+Dpto. Técnica Tributaria

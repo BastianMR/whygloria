@@ -1,0 +1,83 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 881 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°7 – LEY N° 18.681, ART. 69 – LEY N° 20.241, ART. 5 – LEY N° 20.570, ART. 30, N° 15 – CIRCULAR N° 19, DE 2..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja881.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja881.doc"
+materia: "renta"
+fecha: "2016-04-05"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°7 – LEY N° 18.681, ART. 69 – LEY N° 20.241, ART. 5 – LEY N° 20.570, ART. 30, N° 15 – CIRCULAR N° 19, DE 2013. (ORD. N° 881, DE 05.04.2016)
+
+CREACIÓN DE INCENTIVOS TRIBUTARIOS PARA LA INVESTIGACIÓN, CONSERVACIÓN Y ADMINISTRACIÓN DE ADN BOVINO.
+
+Se ha remitido a este Servicio el Proyecto de Resolución de la H. Cámara de Diputados, para elaborar una propuesta de respuesta al tenor de lo solicitado.
+
+I ANTECEDENTES
+
+El Proyecto de Resolución referido en el antecedente expone que la actividad ganadera es de una relevancia indiscutible para nuestro país y que, por lo mismo, existen distintas herramientas para apoyar esta actividad, desde planes especiales de subsidios, hasta sistemas alternativos de tributación.
+
+Agrega que el apoyo del Estado es clave para que los particulares puedan desarrollar de la mejor manera posible el rubro ganadero, el que enfrenta problemas por la existencia de robos o hurtos de ganado, lo que ha llevado a contemplar iniciativas legales en orden a reforzar la protección del ganado, citando al efecto la Ley N° 20.596.
+
+Para apoyar esa protección, indica que se han desarrollado tecnologías que permiten comenzar a investigar temas relacionados con el ADN bovino, lo que significa un paso adelante en investigación e innovación científica que permitiría contar con evidencia técnica incorporada en un banco de ADN bovino que serviría para identificar y rastrear animales sustraídos y de este modo fiscalizar y sancionar el delito de abigeato, citando al efecto experiencias desarrolladas en otros países.
+
+Por lo expuesto, se solicita la implementación de diversas medidas, entre las cuales se solicita al Ministro de Hacienda el envío de un proyecto de ley que cree incentivos tributarios, consistentes en descuentos, créditos o rebajas en los impuestos a la renta u otros, junto con beneficios por la contratación de jóvenes, mujeres y adultos mayores, para el desarrollo de estas actividades, para que contribuyentes particulares puedan desarrollar la investigación, conservación y administración de ADN bovino.
+
+II ANÁLISIS
+
+Atendida la redacción del Proyecto de Resolución, este Servicio entiende que lo solicitado son, por una parte, beneficios consistentes en descuentos, créditos o rebajas en los impuestos a la renta u otros, para el desarrollo de estas actividades y que contribuyentes particulares puedan desarrollar la investigación, conservación y administración de ADN bovino; y, por otra (junto con) beneficios por la contratación de jóvenes, mujeres y adultos mayores.
+
+En ese sentido, respecto de las materias tributarias, puede informarse que ya existen en nuestra legislación mecanismos para incentivar la inversión privada en investigación y desarrollo, en general, los cuales podrían ser utilizados en el presente caso.
+
+Por de pronto, puede mencionarse lo dispuesto en el artículo 69 de la Ley N° 18.681 (donaciones a universidades e institutos profesionales estatales y particulares reconocidos por el Estado).
+
+La norma establece un beneficio tributario consistente en un crédito fiscal imputable a los impuestos anuales a la renta, en favor de quienes efectúen donaciones a universidades e institutos profesionales estatales y particulares reconocidos por el Estado; regulando además el tratamiento tributario de tales donaciones, tanto desde el punto de vista del donante, como del donatario.
+
+La parte de la donación, dentro del límite legal absoluto, que no puede ser utilizada como crédito, se sujeta a lo dispuesto por el artículo 31 N° 7 de la Ley sobre Impuesto a la Renta. Es decir se acepta como gasto tributario sólo hasta el monto que no exceda al 2% de la renta líquida imponible del impuesto de primera categoría del donante o del 1,6%0 de su capital propio.
+
+Entre los requisitos generales que deben cumplir, las donaciones deben consistir sólo en dinero y estar destinadas a financiar, entre otras cuestiones, proyectos de investigación emprendidos por las instituciones donatarias.
+
+Asimismo, como mecanismo alternativo de incentivos tributarios relacionados con la investigación, cabe señalar la Ley N° 20.241, modificada por la Ley N° 20.570, que creó un incentivo tributario para la inversión privada en investigación y desarrollo realizada en centros de investigación acreditados para este fin.
+
+En términos generales, se establecen beneficios tributarios respecto de los pagos en dinero efectuados en virtud de contratos de investigación y desarrollo debidamente certificados por XXXX, celebrados con centros de investigación registrados, consistente en que parte de los referidos pagos puedan ser imputados como un crédito contra el impuesto de primera categoría y el saldo deducido como gasto necesario para producir la renta, cumpliendo los límites y requisitos que establecen la citadas disposiciones (artículos 2° al 8°).
+
+De acuerdo al artículo 5° de la Ley N° 20.241, los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que declaren su renta efectiva determinada según contabilidad completa, tienen derecho a un crédito contra el impuesto de primera categoría del ejercicio, equivalente al 35% del total de los pagos en dinero efectuados conforme a los contratos de investigación y desarrollo debidamente certificados, celebrados con centros de investigación y desarrollo registrados.
+
+Los contribuyentes pueden imputar los beneficios tributarios que establece la ley, respecto de las inversiones en investigación y desarrollo efectuadas en alguna de las siguientes formas:
+
+a) Los pagos que efectúen a un centro de investigación en el marco de un contrato celebrado al efecto, debidamente certificado por XXXX; o
+
+b) Los desembolsos realizados en virtud de un proyecto de investigación y desarrollo, que los propios contribuyentes realicen de acuerdo a sus propias capacidades internas o las de terceros, debidamente certificados por XXXX.
+
+Sin perjuicio de lo anterior, se hace presente que, para evaluar si las normas de excepción establecidas por la Ley N° 20.241, efectivamente cumplen las finalidades que se perseguían con su dictación, el artículo 2° transitorio de la ley, reemplazado por el artículo 30 N° 15 de la Ley N° 20.570, establece que:
+
+“Durante el primer semestre del año 2016, el Ministerio de Economía, Fomento y Turismo encargará la realización de un estudio y evaluación de la presente ley en cuanto instrumento de fomento para la realización, por parte del sector privado, de actividades de investigación y desarrollo, y en cuanto instrumento de incentivo para potenciar el vínculo entre los centros de investigación y el referido sector privado.
+
+En el antedicho estudio deberá realizarse, a lo menos, un análisis acerca del efecto o impacto que la presente ley hubiere tenido en la creación de nuevos centros de investigación, y la calidad de los mismos, así como la mejora de los centros de investigación ya existentes a la fecha de entrada en vigencia de esta ley, principalmente, en términos de infraestructura y de personal calificado para llevar a cabo las labores de investigación y desarrollo; su impacto en las empresas o contribuyentes involucrados, en términos de la incorporación de los resultados de la investigación y desarrollo a sus procesos, del gasto comprometido en investigación y desarrollo, del aumento en la competitividad de dichas empresas, de los incrementos de valor experimentado por ellas con ocasión de la investigación y desarrollo. El mencionado estudio deberá incluir además, de manera general y en términos agregados, la misma información a que se refiere el artículo 27 de la presente ley. El estudio y evaluación antes referidos será de público conocimiento, debiendo ser publicado en forma electrónica o digital, por el referido ministerio, en el primer semestre del año 2017. Lo anterior es sin perjuicio de la evaluación que el Ministerio de Economía, Fomento y Turismo realizará el segundo semestre del año 2015 acerca del uso de la presente ley por el sector privado. Dicha evaluación será de público conocimiento, debiendo ser publicada en forma electrónica, digital e impresa por el referido ministerio, en el mes de junio de 2016.”
+
+Por lo expuesto, se estima que, en todo caso, debiera esperarse el término de las evaluaciones que debe efectuar el Ministerio de Economía, Fomento y Turismo al régimen de incentivos de la Ley N° 20.241 y, una vez terminada esa evaluación, determinar si es necesario establecer normas adicionales.
+Más instrucciones sobre la materia se encuentran en la Circular N° 19 del año 2013, de este Servicio.
+
+III CONCLUSIÓN
+
+Como se aprecia, ya existen mecanismos legales de carácter general, destinados a incentivar la investigación y desarrollo así como para financiar proyectos de investigación, los cuales perfectamente pueden ser utilizados para efectuar las investigaciones a que se refiere el proyecto de resolución de la H. Cámara de Diputados.
+Por otra parte, la Ley N° 20.241 estableció un periodo para evaluar su eficacia, la cual debe efectuar el Ministerio de Economía, Fomento y Turismo, de suerte que se recomienda esperar esa evaluación para determinar si es necesario establecer normas adicionales.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 881, de 05.04.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

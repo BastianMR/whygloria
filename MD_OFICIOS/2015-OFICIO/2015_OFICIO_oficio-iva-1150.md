@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1150 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42° – LEY N° 20.780, DE 2014, ART. 2°, N° 10. (ORD. N° 1150, DE 27.04.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1150.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1150.doc"
+materia: "iva"
+fecha: "2015-04-27"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 42° – LEY N° 20.780, DE 2014, ART. 2°, N° 10. (ORD. N° 1150, DE 27.04.2015)
+
+APLICACIÓN DEL IMPUESTO ESPECÍFICO CONTENIDO EN EL ART. 42°, A LA IMPORTACIÓN DE UNA BEBIDA ENERGÉTICA.
+
+I.- ANTECEDENTES:
+
+Con motivo de la modificación efectuada por el Art. 2°, N° 10, de la Ley N° 20.780, al Art. 42°, del D.L. N° 825, la Agencia de Aduanas XXXXX, solicitó a esa Dirección Regional un pronunciamiento respecto de la aplicación del impuesto específico contenido en dicha norma a la importación, efectuada por uno de sus mandantes, del producto denominado “TTT”, cuyos catálogos se acompañan.
+
+Señala que según el Subdepartamento de Control Sanitario de los Alimentos dependiente del Ministerio de Salud, el producto antes señalado es catalogado como “Alimento para Deportistas”. Para ratificar lo anterior, adjunta Res. Ex. N°xxx, de xx/xx/xxxx, emitida por dicho Departamento.
+
+Por otra parte, agrega que conforme a la Res. Ex. N° 7111, del 9/7/2013, de la Subdirección Técnica del Servicio Nacional de Aduanas, se excluye de la aplicación del impuesto adicional a los productos calificados como alimentos para deportistas.
+
+Sin embargo, con la entrada en vigencia de la Ley N° 20.780, es preocupación de esa Agencia de Aduanas, dar correcto cumplimiento a la normativa legal como a las instrucciones emanadas del Servicio Nacional de Aduanas, en resguardo del interés fiscal, razón por la cual solicitó a este último organismo, les instruyera el procedimiento a seguir respecto de los impuestos que afectan a la importación del producto denominado “TTT”. Dicha repartición pública contestó mediante Oficio Ord. N° 12611, de 21/10/2014, señalándole que debe dirigir la consulta a este Servicio de Impuestos Internos.
+
+II.- ANÁLISIS:
+
+El Art. 2°, N° 10, de la Ley N° 20.780, publicada en el D.O. el 29/9/2014, reemplazó en su totalidad el inciso primero del Art. 42°, del D.L. N° 825, incorporando en éste básicamente tres cambios consistentes en: la modificación de las tasas del impuesto; la inclusión de las bebidas energizantes o hipertónicas, dentro de aquellas cuya venta o importación se encuentra afecta al impuesto adicional y; la incorporación de un nuevo inciso en la letra a), del mencionado Art. 42°°, que condiciona la tasa a aplicar a la composición nutricional de elevado contenido de azúcares, presente en las bebidas señaladas en dicha letra.
+
+De este modo, el actual Art. 42°, del D.L. N° 825 quedó, en lo pertinente, de la siguiente manera: “Sin perjuicio del impuesto establecido en el Título II de esta ley, las ventas o importaciones, sean éstas últimas habituales o no, de las especies que se señalan en este artículo, pagarán un impuesto adicional con la tasa que en cada caso se indica, que se aplicará sobre la misma base imponible que la del impuesto al valor agregado:
+
+a) Bebidas analcohólicas naturales o artificiales, energizantes o hipertónicas, jarabes y en general cualquier otro producto que las sustituya o que sirva para preparar bebidas similares, y aguas minerales o termales a las cuales se les haya adicionado colorante, sabor o edulcorantes, tasa del 10%.
+
+En el caso que las especies señaladas en esta letra presenten la composición nutricional de elevado contenido de azúcares a que se refiere el artículo 5° de la Ley N° 20.606, la que para estos efectos se considerará existente cuando tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente, la tasa será del 18%.”
+
+En el caso bajo análisis, al contribuyente le surgen dudas respecto de la tributación que afecta la venta o importación de la bebida denominada “TTT 1”, ya que según señala en su presentación dicha bebida se encuentra calificada por el Subdepartamento de Control Sanitario del Ministerio de Salud, como “Alimento para deportistas”.
+
+Sobre el particular, cabe señalar que con anterioridad a la modificación legal efectuada al Art. 42°°, del D.L. N° 825, aquellos productos que tuvieran la calidad de alimentos para deportistas conforme a la normativa sanitaria y que además excedieran los parámetros establecidos en el artículo 481 del D.S. 977, de 1996 , se excluían de la aplicación del Impuesto Adicional contenido en el artículo 42 letra d) del D.L. N° 825, vigente a esa fecha, por no constituir una bebida analcohólica en el sentido técnico que la normativa sanitaria confiere a tal expresión.
+
+Sin embargo, con la entrada en vigencia, el 1 de Octubre de 2014, del nuevo Art. 42°, inciso primero, las bebidas energizantes quedaron incorporadas por imperio de la ley, dentro de aquellas bebidas cuya venta o importación se encuentra gravada con el Impuesto Adicional contenido en la letra a), del referido artículo 42°, en general con una tasa del 10%, salvo que su composición nutricional presente un elevado contenido de azúcares, en cuyo caso la tasa a aplicar corresponderá a un 18%.
+
+En este sentido, la Circular 51, de 3/10/2014, instruye lo siguiente: “Con esta modificación se incorporan al hecho gravado por este impuesto, las bebidas energizantes o hipertónicas, las cuales, según el uso técnico que le dan algunas organizaciones médico alimentarias a dicho término son aquellas bebidas, de cualquier clase o naturaleza, elaboradas en base a agua y que contienen sustancias sin valor nutritivo destinadas a actuar como estimulantes, tales como, cafeína, guaraná, taurina, ginseng, l-carnitina, creatina, glucuronolactona; con el objeto de realzar la potencia o el rendimiento físico o mental.
+
+Considerando que las bebidas hipertónicas corresponden a una categoría distinta de las energizantes, quedarán gravadas con el impuesto aquellas bebidas hipertónicas que contengan sustancias estimulantes en dosis suficientes como para producir el mismo efecto que las energizantes.
+
+Respecto del nuevo inciso incorporado a la actual letra a), del Artículo 42°, del D.L. N° 825, cabe tener presente que sin perjuicio que la tasa general que grava la importación o adquisición de los productos señalados en dicha letra es de un 10%, ésta puede elevarse a un 18%, cuando dentro de la composición nutricional de éstos se encuentre un elevado contenido de azúcares, el que para estos efectos se considerará existente cuando tengan más de 15 gramos (g) por cada 240 mililitros (ml) o porción equivalente”.
+
+Por lo tanto, y sin perjuicio que las bebidas energizantes se encuentren clasificadas por el Servicio de Salud Metropolitano del Ambiente, como alimentos para deportistas, para efectos tributarios, su venta o importación se grava, desde el 1 de octubre de 2014, con el Impuesto Adicional en comento.
+
+En el caso bajo análisis y según catálogos adjuntos que dan cuenta de la composición nutricional de la bebida energética denominada “TTT”, cabe señalar que de las tres variedades consultadas, dos de ellas (TTT 1 y TTT 2 + Jugo) presentan un contenido de azúcares por cada 240 ml, muy superior a los 15 gramos establecidos en la norma legal, por lo que su venta o importación se afectará con el Impuesto Adicional contenido en el Art. 42°, letra a), con una tasa de 18%.
+
+En el caso de la variedad TTT 3, cuyo contenido de azúcares no supera los señalados 15 gramos por cada 240 ml, procede gravar su venta o importación con la tasa general del impuesto adicional contenido en el Art. 42°, letra a), equivalente al 10%.
+
+III.- CONCLUSIÓN:
+
+De las normas legales precedentemente analizadas se concluye que la bebida denominada “TTT”, en las tres variedades consultadas, es de aquellos productos cuya venta o importación, con la modificación legal incorporada por el Art. 2°, N° 10, de la Ley N° 20.780, quedó expresamente gravada con el Impuesto Adicional contenido en la letra a), del referido Art. 42°, por tratarse dichos productos de bebidas energizantes.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1150, de 27.04.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

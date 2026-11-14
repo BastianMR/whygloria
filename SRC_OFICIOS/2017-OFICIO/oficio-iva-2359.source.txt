@@ -1,0 +1,5 @@
+source: oficio-iva-2359.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2359.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2017/ja2359.doc
+materia: iva
+retrieved: 2026-11-11

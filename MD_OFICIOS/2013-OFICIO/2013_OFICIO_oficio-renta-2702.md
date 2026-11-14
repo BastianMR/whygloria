@@ -1,0 +1,114 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2702 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 18.815, ART. 15°, ART. 32° – LEY 18.046, ART. ART. 109°, ART. 111°. (ORD. N° 2702, DE 30.12.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2702.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja2702.doc"
+materia: "renta"
+fecha: "2013-12-30"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 18.815, ART. 15°, ART. 32° – LEY 18.046, ART. ART. 109°, ART. 111°. (ORD. N° 2702, DE 30.12.2013)
+
+ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY N°20.190, QUE ORDENA LIQUIDACIÓN DE LOS FONDOS DE INVERSIÓN PRIVADOS.
+
+Solicita se aclare tratamiento tributario que afectará a Fondos de inversión privados de la Ley N° 18.815, que entren en liquidación a partir del 01.01.2012 por aplicación de lo dispuesto en el artículo séptimo transitorio de la Ley N° 20.190.
+
+I. ANTECEDENTES
+
+De acuerdo a la presentación y debido a la entrada en vigencia de lo dispuesto en el artículo séptimo transitorio de la Ley N° 20.190, sus clientes, entre los cuales se cuentan varias administradoras de Fondos de inversión, le han consultado sobre los efectos tributarios que tendrá la liquidación de los Fondos de inversión constituidos con posterioridad al 27.11.2006 y que no logren enajenar sus inversiones inmobiliarias al día 31.12.2012.
+
+En su opinión, existen dos circunstancias en que un Fondo de inversión se liquida, las cuales no tienen diferencias relevantes respecto de la naturaleza jurídica del Fondo.
+
+La primera es la liquidación voluntaria acordada por los aportantes y regulada en los artículos 22 y 29, inciso primero, de la Ley N°18.815. La segunda es la liquidación obligatoria regulada en los artículos 29, inciso segundo, y séptimo transitorio, inciso tercero, de la Ley N° 20.190.
+
+En su opinión, para determinar la tributación aplicable al Fondo en liquidación es necesario establecer qué ocurre en el periodo que media entre la decisión de liquidar el Fondo o la designación del liquidador, según corresponda, y el momento del rescate de las cuotas de los aportantes.
+
+Tras citar el artículo 4°, inciso tercero, letra ñ) y artículo 15, inciso segundo, de la Ley N°18.815, concluye que, por una parte, en la etapa de liquidación no existe un Fondo ‘vigente’ pero la ley no establece que se transforme en otro tipo de patrimonio o que se convierta en una comunidad; y, por la otra, que sólo se producen diferencias en el patrimonio de los aportantes al momento del rescate de sus cuotas, lo que ocurre al terminar la liquidación. Todo lo cual indicaría, en su opinión, que las cosas se mantienen jurídicamente iguales desde el momento del aporte hasta el del rescate, lo cual sería consistente con la determinación del mayor valor de la cuota a la que se refiere el artículo 32 inciso segundo de la citada ley.
+
+Estima revelador que la Ley N°18.815 utilizara la palabra ‘liquidación’ y no ‘partición’ porque, en su concepto, ambas instituciones tienen diferencias esenciales, siendo una de las principales, precisamente, el hecho de la persistencia de la entidad en liquidación, de suerte que al subsistir la entidad liquidada ésta sigue siendo dueña de los bienes, por lo que el liquidador los enajena en su calidad de representante de ella, sin necesidad de autorización alguna. Lo anterior, sin perjuicio que una de las características particulares de la liquidación sería, según la doctrina, favorecer a los acreedores.
+
+Concluye que en ausencia de normas especiales sobre la liquidación en las leyes N°18.815 y N°20.190, deben aplicarse las reglas sobre liquidación de sociedades colectivas de los artículos 408 a 418 del Código de Comercio.
+
+De este modo, si un proyecto inmobiliario de un Fondo de inversión se encuentra en plena ejecución, el liquidador designado deberá concluir las construcciones y, una vez hecho, enajenarlas conforme al artículo 413 N°6 del Código de Comercio, actuando el liquidador como representante del Fondo.
+
+Indica que no se produce una comunidad al momento de la liquidación del Fondo porque mantiene su estatuto jurídico, estando obligado el liquidador a concluir las operaciones del Fondo, vender sus activos para pagar las deudas del Fondo y finalmente permitir el rescate de las cuotas.
+
+Visto lo anterior solicita confirmar que durante el periodo de liquidación de los Fondos, éstos mantienen el estatuto tributario.
+
+II. ANALISIS
+
+Antes de analizar la consulta, es necesario referirse a algunos aspectos de derecho común relacionados con el asunto planteado, como son la partición y la liquidación, y la subsistencia de la personalidad jurídica durante la liquidación de sociedades.
+
+Al respecto, las voces ‘liquidación’ y ‘partición’ a veces se emplean indistinta o conjuntamente . Sin embargo, se ha entendido que la partición de bienes es un conjunto complejo de actos tendientes a poner fin al estado de indivisión y que la liquidación forma parte del procedimiento de partición, consistiendo en el conjunto de operaciones destinadas a determinar el acervo de bienes a distribuir entre distintos partícipes, con el objeto último de poner término a un estado de cosas .
+
+El Código Civil trata de la partición de bienes en los artículos 1317 y siguientes, reglas que son de aplicación general, en el sentido que ellas rigen no sólo tratándose de liquidar y partir la indivisión hereditaria, sino que también se aplican en la partición de cualquiera indivisión o comunidad. Así, por ejemplo, el artículo 2313 del Código Civil, ordena aplicar dichas reglas a la división de las cosas comunes en el caso del cuasicontrato de comunidad.
+
+En cuanto a la subsistencia o no de la personalidad jurídica de una entidad que se liquida, se trata más bien de un efecto otorgado por la ley a casos particulares y no de una característica propia de la liquidación.
+
+Así, por ejemplo, el artículo 109 de la Ley N°18.046, Ley sobre Sociedades Anónimas, dispone expresamente que la sociedad anónima subsiste como persona jurídica ‘para los efectos de su liquidación’. En cambio, lo mismo no se dispone expresamente por la ley para las restantes sociedades comerciales, sin perjuicio que la doctrina y la jurisprudencia han entendido que subsiste la personalidad jurídica de la sociedad durante su liquidación, fundándose en una interpretación de los artículos 410 y 413 N° 4 y 6 del Código de Comercio .
+
+No existe el mismo acuerdo respecto de las sociedades civiles, pues mientras cierta corriente estima que la persistencia de la personalidad jurídica durante la liquidación es un efecto de carácter general, extensivo tanto a sociedades civiles y comerciales , algunos Tribunales Superiores de Justicia han resuelto que, en base al artículo 2115 del Código Civil , disuelta la sociedad civil ella se transforma en una comunidad de intereses en la cual los socios son propietarios indivisos, extinguiéndose la personalidad civil y su razón social o – lo que sería igual – la sociedad civil ‘muere jurídicamente’, a diferencia de lo que ocurre en materia mercantil .
+
+Finalmente, puede citarse el caso de la sociedad conyugal. Disuelta ésta, se produce un estado de indivisión donde cada cónyuge (o sus herederos) es dueño de una cuota abstracta del haber social que debe ‘liquidarse’ para singularizar los bienes que corresponden a cada uno ; liquidación de bienes que se sujeta a las reglas de la ‘partición’ de bienes hereditarios y en que no ‘persiste’ entidad alguna.
+
+Desde luego, lo expuesto sobre la subsistencia de la personalidad jurídica durante la liquidación dice relación con entidades con personalidad jurídica. Extender por analogía dicho efecto a los fondos de inversión, que no tienen dicha personalidad, carecería de sustento legal. En efecto, una interpretación semejante, tendría al menos dos obstáculos. El primero dice relación con la extensión que se debe dar a la analogía jurídica para llegar a la conclusión, pues como los Fondos de Inversión no son personas jurídicas, la analogía planteada tendría que referirse no sólo al beneficiario de la norma (Sociedades Anónimas por Fondos de Inversión) sino que también a la disposición de fondo que la norma contiene y suponer que tratándose de Fondos de Inversión, el legislador entiende que la expresión “subsiste como personalidad jurídica”, quiere decir “subsiste como Fondo de Inversión”. Tal conclusión no parece posible.
+
+Por otra parte, tanto el artículo 109 de la Ley N° 18.046, como la que crea y regula los Fondos de Inversión son normas de excepción y como tal no podrían ser interpretadas por analogía.
+
+Al efecto es importante considerar que el artículo 34 del Reglamento sobre Fondos de Inversión , expresamente distingue entre la liquidación de la sociedad administradora del Fondo, la cual se rige, una vez disuelta, por las reglas aplicables a las sociedades anónimas; en tanto que la liquidación del Fondo se sujeta a las reglas dispuestas en la Ley N°18.815. Luego, de haberse regido la liquidación del Fondo conforme a las reglas de las sociedades colectivas, o cualquier otra forma societaria, lo habría dispuesto expresamente la ley o su reglamento.
+
+Sobre el punto de que puedan aplicarse por defecto o en carácter supletorio los artículos 408 a 418 del Código de Comercio, cabe precisar que estas normas relativas a disolución y liquidación de sociedades, en principio se aplican a las sociedades colectivas y, por extensión a las restantes sociedades comerciales. Sin embargo, en parte alguna se dispone en la ley, ni puede deducirse de ella, que tengan el carácter de normas generales o supletorias en ausencia de regulación especial en la liquidación de patrimonios sin personalidad jurídica, como afirma su consulta.
+
+De todo lo expuesto se sigue que, disuelto un fondo de inversión, legalmente no se justifica la diferencia trazada en su presentación entre ‘liquidación’ y ‘partición’; que la subsistencia de la personalidad jurídica de la sociedad comercial obedece a un efecto establecido por la ley; que, aún extendiéndola a sociedades civiles, está limitada exclusivamente a efectos de liquidar la sociedad y no necesariamente para otros efectos legales y, finalmente, que la persistencia de la entidad, en los casos que se ha establecido, favorece la liquidación de aquellas con personalidad jurídica y no a patrimonios sin personalidad jurídica, no pudiendo aplicarse por defecto o en carácter supletorio los artículos 408 a 418 del Código de Comercio.
+
+Lo expuesto precedentemente es consistente con lo informado a este Servicio por la Superintendencia de Valores y Seguros (SVS) que, si bien no tiene competencia respecto de todos los fondos de inversión, ha señalado lo siguiente :
+
+a. Conforme al artículo séptimo transitorio de la Ley N°20.190, la expresión ‘se deberá proceder sin más trámite a la liquidación del fondo de inversión respectivo’ equivale a una causal de disolución del fondo por contravenir la norma legal, que opera por el sólo ministerio de la ley, tanto respecto de fondos de inversión públicos como privados.
+b. Disuelto el fondo, por tratarse de un patrimonio de afectación, no se mantiene como tal. Con todo, la SVS expone que igualmente ‘se conoce por el público general’ que se trata de un ‘fondo en liquidación’ y, por lo tanto, subsistente ‘para efectos del pago de todos los pasivos y deudas’ que el fondo pueda tener a favor de terceros y, en el caso de los aportantes, a recibir pagos por devolución de capital.
+c. Tratándose del procedimiento mismo de liquidación, y respecto de los fondos de inversión públicos, éste se rige por el reglamento interno del respectivo fondo y las reglas acordadas en la asamblea de aportantes. Si nada se dijere al respecto, se aplican supletoriamente las normas del Título X de la Ley N°18.046.
+d. El liquidador tiene el plazo que le acuerde la asamblea de aportantes, que no puede exceder de 3 años, sin perjuicio de su reelección por una vez en sus funciones . El incumplimiento de sus funciones o la comisión de irregularidades en el ejercicio de las mismas puede dar lugar a las sanciones .
+
+e. El Servicio de Impuestos Internos tiene la calidad de ‘parte interesada’ para solicitar, en consecuencia, la designación de un liquidador, respecto de los fondos de inversión públicos .
+
+Dicho lo anterior, corresponde ahora abordar el tema de su consulta. Al respecto, la Ley N°18.815 trata de la liquidación en diversas normas, siendo característica común que la ‘disolución’ del Fondo de inversión antecede a su liquidación; o, en otras palabras, que la liquidación del Fondo de inversión es una consecuencia o efecto propio de su disolución , el cual pierde ‘vigencia’ – en cuanto Fondo – durante su liquidación. Categórico al respecto resulta lo dispuesto en el artículo 4, letra ñ), de dicha ley, en cuanto distingue el periodo de vigencia del fondo respectivo del de su liquidación , de lo que se sigue que durante la liquidación el Fondo no tiene vigencia, es decir, no subsiste como Fondo de inversión.
+
+A mayor abundamiento, según lo dispuesto en el artículo 1°, en relación a los artículos 15 y 32 de la Ley N°18.815, los aportes, expresados en cuotas de participación, no son rescatables, y sólo pueden rescatarse en la liquidación, es decir, no pueden rescatarse durante la vigencia del Fondo, lo que confirma que durante la liquidación el Fondo no subsiste como tal.
+
+Asimismo, la liquidación ‘sin más trámite’ ordenada por el artículo séptimo transitorio de la Ley N°20.190, presupone necesariamente la disolución del Fondo de inversión. En este caso, la liquidación que dispone la ley, supone la contravención de una norma imperativa (ajustar dentro de plazo el activo y cartera de inversiones del Fondo a lo que permite la ley modificada), que es sancionada, precisamente, con la liquidación por el sólo ministerio de la ley.
+
+De esta manera, de no ajustar en el plazo legal el activo y cartera de inversiones del Fondo a lo que permite la ley 18.815, modificada, el Fondo se disuelve y debe liquidarse sin más trámite.
+
+En cuanto al tratamiento tributario del Fondo de inversión, luego de su disolución y pendiente su liquidación total, cabe señalar que, conforme al artículo primero de la Ley N°18.815, los Fondos de inversión constituyen patrimonios de afectación , integrados por aportes de personas naturales y jurídicas para su inversión en los valores y bienes que esta ley permita, que administra una sociedad anónima por cuenta y riesgo de los aportantes. Por tanto, disuelto el Fondo de inversión y por el sólo ministerio de la ley, se extingue la afectación y los bienes que componen el Fondo pasan a formar una comunidad sujeta a liquidación conforme la Ley N°18.815.
+
+En cuanto a los impuestos aplicables, disuelto el Fondo y extinguida la afectación de los bienes que lo integran, la comunidad que se forma no mantiene el régimen contenido en el Título V de la Ley N°18.815, debido a que ese régimen de excepción se establece precisamente a favor del Fondo de inversión. Así, disuelto el Fondo, la comunidad que se forma pasa a regirse por las normas tributarias de carácter general.
+
+Lo anterior es sin perjuicio del tratamiento dispuesto en el artículo 32 de la Ley N° 18.815, para el mayor valor que se obtenga en el rescate de las cuotas de participación cuando el Fondo se liquide.
+
+III. CONCLUSION
+
+1. La subsistencia de la personalidad jurídica de una entidad que se disuelve es un efecto que la ley ha establecido en ciertos casos particulares y, en todo caso, limitada exclusivamente a efectos de liquidarla, no necesariamente para otros efectos legales.
+
+2. No hay regla expresa que permita aplicar, en carácter supletorio y general, las reglas sobre liquidación de sociedades colectivas dispuestas en los artículos 408 a 418 del Código de Comercio, al caso de liquidación de patrimonios sin personalidad jurídica.
+
+3. La liquidación sin más trámite ordenada por el artículo séptimo transitorio de la Ley N°20.190, presupone necesariamente la disolución o pérdida de vigencia del Fondo de inversión. Aún cuando estos fondos no están sometidos a su fiscalización, esta conclusión es consistente con lo informado al respecto por la Superintendencia de Valores y Seguros.
+
+4. Disuelto el Fondo y pendiente su liquidación total, se forma una comunidad de bienes que no mantiene el régimen contenido en el Título V de la Ley N°18.815, porque éste tiene carácter excepcional y sólo rige para los Fondos vigentes.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 2702, de 30.12.2013
+Subdirección Normativa
+Dpto. de Técnica Tributaria

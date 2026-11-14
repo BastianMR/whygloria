@@ -1,0 +1,70 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1143 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21° – LEY N° 18.045, ART. 100° – CIRCULAR N° 45, DE 2013. (ORD. N° 1143, DE 27.04.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1143.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1143.doc"
+materia: "renta"
+fecha: "2015-04-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21° – LEY N° 18.045, ART. 100° – CIRCULAR N° 45, DE 2013. (ORD. N° 1143, DE 27.04.2015)
+
+APLICACIÓN DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 21 DE LA LEY SOBRE IMPUESTO A LA RENTA, RESPECTO DE UN PRÉSTAMO OTORGADO A UNA COMPAÑÍA RELACIONADA DOMICILIADA EN EL EXTRANJERO.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la aplicación de la tributación establecida en el inciso 3°, del artículo 21 de la Ley sobre Impuesto a la Renta (LIR), conforme a los criterios expuestos en la Circular N°45, y el Oficio N°723, ambos de 2013; respecto de un préstamo otorgado por una sociedad constituida en Chile, a una compañía relacionada domiciliada en el extranjero.
+
+I.- ANTECEDENTES.
+
+Indica que, una de las circunstancias determinantes para concluir si un préstamo efectuado por una sociedad constituida en Chile que determina su renta efectiva mediante contabilidad completa, está sujeto a la tributación que ordena el inciso 3°, del artículo 21 de la LIR, la constituye el análisis sobre el sujeto deudor y beneficiario final del préstamo, por cuanto para la procedencia de la recalificación que dispone esa norma legal es necesario, de acuerdo a su inciso final, el cumplimiento "copulativo" de los siguientes requisitos, sin perjuicio del cumplimiento de las demás circunstancias que frente a cada caso facultan a recalificar para los efectos de ese artículo las operaciones de un contribuyente:
+
+a) Que el deudor sea cualquier persona relacionada con la sociedad acreedora, en los términos del artículo 100, de la Ley N°18.045, sobre Mercado de Valores y,
+
+b) Se determine que el beneficiario final de los préstamos y garantías es el propietario, socio o accionista respectivo.
+
+Agrega que, más allá de los demás elementos de juicio que permitan concluir a la autoridad que un determinado préstamo constituye o ha constituido un retiro encubierto de utilidades, con la tributación sancionatoria correspondiente, es determinante que el sujeto deudor del préstamo no sólo se encuentre bajo las hipótesis de relación del artículo 100 de la Ley N°18.045, sino que además como requisito adicional copulativo, se exige que indistintamente del sujeto deudor se determine que el beneficiario final de los préstamos y garantías es el propietario, socio o accionista respectivo de la sociedad que en Chile efectúa el préstamo al exterior. Agrega que lo anterior estaría corroborado en la Circular N°45, de 2013, al pronunciarse sobre las modificaciones introducidas por la Ley N° 20.630 al citado artículo 21, y en el Oficio N°723, del mismo año.
+
+Señala que, YYY Ltda., es una sociedad de responsabilidad limitada constituida en Chile dedicada al rubro minero, cuyos socios son cuatro compañías, que pertenecen al mismo grupo empresarial, y su propietario final es en último término TTT, que es una sociedad anónima abierta constituida en Canadá cuyas acciones son transadas públicamente en las bolsas de Toronto y Nueva York. La mencionada empresa se dedica fundamentalmente a la minería y refinería, y directamente o a través de sus filiales, posee diversas propiedades mineras, e instalaciones para la refinería de metales y químicos. Los intereses de TTT en Chile se canalizan principalmente a través de YYY Ltda., e incluyen minas de cobre, un proyecto minero y diversas actividades de exploración minera.
+
+Añade que, desde el año 2010, se han efectuado inversiones en la exploración y desarrollo de un nuevo proyecto minero de gran escala y de larga duración, cuyas operaciones en un escenario de precios de minerales desfavorables y obtención de autorizaciones, podría retrasarse para el 2018, 2019 o 2020. En este contexto, YYY Ltda., proyecta rentabilizar los recursos de los que dispone hoy en día, a la espera de su desembolso en el proyecto de inversión antes indicado, mediante su préstamo a condiciones de mercado a TTT o a otra sociedad del grupo, sin que las empresas socias de YYY Ltda., tengan el carácter de deudoras o beneficiarias finales del préstamo.
+
+Al respecto, solicita confirmar que en la situación consultada el o los préstamos que proyecta efectuar la sociedad YYY Ltda., a una sociedad relacionada en el exterior, en condiciones de mercado y en los términos que indica, no son susceptibles de la hipótesis de recalificación jurídica que ordena el artículo 21 de la LIR; en la medida que el beneficiario final del préstamo no es el socio o accionista de la sociedad chilena que efectúa el préstamo.
+
+II.- ANÁLISIS.
+
+El numeral ii), del inciso 3°, del artículo 21 de la LIR, dispone en lo pertinente que los préstamos que las empresas obligadas a declarar sus impuestos sobre la base de su renta efectiva determinada según contabilidad completa y balance general, o bien, acogidos a las disposiciones del artículo 14 bis de la LIR, efectúen a sus propietarios, socios o accionistas contribuyentes del Impuesto Global Complementario o Impuesto Adicional, se gravarán con los referidos tributos más su tasa adicional equivalente al 10% de las citadas cantidades, cuando este Servicio determine de manera fundada que corresponden a un retiro encubierto de cantidades afectas a dichos impuestos.
+
+El inciso final, del citado artículo 21, establece en lo que resulta relevante para el análisis de la consulta que, para la aplicación de la tributación señalada, se considerará que el préstamo se ha efectuado al propietario, socio o accionista, según sea el caso, cuando dichas cantidades tengan como deudor del préstamo a sus respectivos cónyuges, hijos no emancipados legalmente, o bien, a cualquier persona relacionada con aquellos, en los términos del artículo 100, de la Ley N°18.045, sobre Mercado de Valores, y se determine que el beneficiario final de los préstamos es el propietario, socio o accionista respectivo.
+
+Al respecto, la Circular N°45, de 2013 de este Servicio, instruye en el sentido que la citada norma legal, busca evitar que por la vía del otorgamiento de un préstamo desde la sociedad o empresa a sus propietarios, socios o accionistas, éstos eviten el pago del Impuesto Global Complementario o Impuesto Adicional sobre dichas cantidades, que atendidas las condiciones de dicho préstamo encubren un retiro o una distribución de rentas afectas a dichos tributos. Agrega este instructivo que, para efectos de determinar si existe un retiro encubierto de utilidades, ello debe concordarse con el inciso final del artículo 21 de la LIR, en cuanto establece que se considerará también que el préstamo se ha efectuado al propietario, socio o accionista respectivo, cuando el deudor sea su cónyuge, sus hijos no emancipados legalmente, o bien, cualquier otra persona relacionada con los primeros, en los términos del artículo 100 de la Ley N°18.045, sobre Mercado de Valores, y siempre que además, se determine que el beneficiario final del préstamo es el propietario, socio o accionista respectivo.
+En consecuencia, agrega esta Circular, si el préstamo se otorga directamente al propietario, socio o accionista, evidentemente es éste el beneficiario del mismo. Ahora bien, cuando se otorgue a una de las personas relacionadas con aquellos, deberá determinarse si finalmente ello redunda en un beneficio para el propietario, socio o accionista respectivo, ya sea en forma directa o indirecta, como ocurriría en caso que la utilización de los recursos de dicho préstamo, se destinen al uso o consumo de estos últimos, a bienes de su propiedad, o actividades realizadas por ellos.
+
+Por consiguiente, sólo cabe ratificar lo ya expresado en el instructivo antes citado y confirmado en el Oficio N°723, de 2013, que cita en su requerimiento, en el sentido que el inciso final del artículo 21 de la LIR, de acuerdo a las modificaciones introducidas por la Ley N°20.630, dispone que para la aplicación de la tributación establecida en su inciso 3°, se considerará también que el préstamo se ha efectuado al propietario socio o accionista, cuando dichas cantidades tengan como deudor a cualquiera persona relacionada con aquellos en los términos del artículo 100, de la Ley N°18.045, sobre Mercado de Valores, y siempre que se determine que el beneficiario final de los préstamos es el propietario, socio o accionista respectivo. Por lo anterior, para la aplicación de dicha disposición se requiere el cumplimiento de dos requisitos copulativos:
+
+a) Que el préstamo se haya efectuado al propietario, socio o accionista de la empresa o sociedad respectiva, o bien, tenga como deudor a sus respectivos cónyuges, hijos no emancipados legalmente, o bien, a cualquier persona relacionada con aquellos en los términos del artículo 100, de la Ley N°18.045, sobre Mercado de Valores, y
+
+b) Se determine que el beneficiario final de tales préstamos es el propietario, socio o accionista de la empresa o sociedad respectiva.
+
+III.- CONCLUSIÓN.
+
+Conforme a lo antes señalado, un préstamo efectuado por una empresa a una entidad perteneciente a un mismo grupo empresarial, relacionada en los términos del artículo 100, de la Ley N°18.045, sin que tenga como beneficiario final del referido préstamo, al propietario, socio o accionista de la empresa o sociedad respectiva, no cumple con la hipótesis indicada en los incisos 3° y final, del artículo 21 de la LIR.
+
+Sin perjuicio de lo antes indicado, no corresponde que este Servicio confirme a priori, como lo solicita en su presentación, que en la situación consultada efectivamente se cumplen los criterios contenidos en la Circular N°45 y en el Oficio N°723, de 2013, ya que ello depende de las circunstancias particulares del caso y específicamente si la utilización de los recursos de dicho préstamo, redunda en un beneficio para el propietario, socio o accionista respectivo, ya sea en forma directa o indirecta, como ocurriría en caso que la utilización de los recursos de dicho préstamo, se destinen al uso o consumo de estos últimos, a bienes de su propiedad, o actividades realizadas por ellos; lo que sólo puede verificarse con motivo del ejercicio de sus funciones normales de fiscalización; a la vista de los respectivos antecedentes, y dentro de los correspondientes plazos de prescripción.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1143, de 27.04.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

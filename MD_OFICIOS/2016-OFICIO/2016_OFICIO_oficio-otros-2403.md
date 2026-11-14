@@ -1,0 +1,80 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 2403 (2016)"
+description: "TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – RES. EXENTA N° 137, DE 1975 – OFICIOS N° 1599, DE 2014 Y N° 2633, DE 2015. (ORD...."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2403.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja2403.doc"
+materia: "otros"
+fecha: "2016-08-26"
+exenta: false
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – RES. EXENTA N° 137, DE 1975 – OFICIOS N° 1599, DE 2014 Y N° 2633, DE 2015. (ORD. N° 2403, DE 26.08.2016)
+
+SOLICITA CONFIRMAR CRITERIOS RELATIVOS A EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 24 N° 6 DE LA LEY SOBRE IMPUESTO DE TIMBRES Y ESTAMPILLAS.
+
+Se ha solicitado a este Servicio confirmar los criterios que señala relativos a la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas.
+
+I ANTECEDENTES
+
+De acuerdo a la presentación y los antecedentes acompañados, su representada, sociedad XXXX, es una sociedad anónima orientada a satisfacer las necesidades de financiamiento de capital de trabajo de la pequeña y mediana empresa en Chile, ofreciendo operaciones de factoring, confirming y otorgamiento de créditos con garantía.
+
+Tras indicar el objeto de la sociedad establecido en el artículo cuarto de sus estatutos, señala que el financiamiento actual para el desarrollo de su giro financiero proviene principalmente de créditos bancarios (mutuos documentados principalmente en pagarés), no descartándose que en el futuro se efectúen emisiones de efectos de comercio y/o bonos de conformidad con la regulación vigente.
+
+Tras citar el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas, la Resolución Exenta N° 137 de 1975 – modificada por la Resolución Exenta N° 8 de 1990 –, los Oficios N° 1949 de 2012 y N° 1599 de 2014 sobre el concepto de institución financiera, solicita se confirme que:
+
+a) XXXX es una institución financiera para los efectos de la exención contemplada en el artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas
+
+b) Los documentos que XXXX suscribe para obtener financiamiento bancario (mutuos documentados principalmente en pagarés) corresponden a documentos determinados actualmente en la Resolución Exenta N° 137 de 1975 de este Servicio.
+
+c) Los documentos que XXXX suscribe para obtener financiamiento bancario inciden en operaciones de depósito o captación de capitales de ahorrantes e inversionistas locales, toda vez que los bancos mutuantes respecto del financiamiento que conceden se entienden inversionistas.
+
+d) Se encuentran exentos de Impuesto de Timbres y Estampillas los documentos suscritos por XXXX con ocasión del financiamiento que obtiene de los bancos inversionistas locales tales como mutuos documentados y pagarés, por lo que no corresponde la retención ni exigencia de pago de dicho tributo.
+
+II ANÁLISIS
+
+El artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas dispone que sólo estarán exentos del impuesto los documentos que den cuenta de los actos, contratos o convenciones que a continuación señala, dentro de los cuales, el N° 6 contempla los documentos otorgados por bancos o instituciones financieras en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones. La norma agrega que la lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.
+
+En cumplimiento de la citada disposición, la Resolución N° 137 de 1975, estableció los documentos exentos de impuesto, instruyendo que respecto de ellos debían concurrir los siguientes requisitos copulativos:
+
+a) Que el emisor del documento sea una institución financiera.
+b) Que el o los documentos incidan en operaciones de captación de capitales de ahorrantes o inversionistas.
+c) Que el o los documentos den cuenta de operaciones de crédito de dinero.
+d) Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
+Dicho lo anterior y en lo que respecta específicamente a los criterios que solicita confirmar en su presentación, se informa lo siguiente.
+
+En primer lugar, y sobre el concepto de “institución financiera” la Superintendencia de Bancos e Instituciones Financieras, mediante Carta Circular N° 46 de 1979, ha señalado que es una expresión genérica que comprende a toda empresa que habitualmente se dedica a prestar dinero o a conceder créditos, sea que lo haga con sus propios fondos o con fondos recibidos de terceros, esto último cuando expresamente está facultada por la ley para ello.
+
+Atendido el concepto genérico de “institución financiera” empleado por la Superintendencia del ramo, este Servicio ha reconocido tal calidad a diferentes contribuyentes, siempre que se acredite cumplir los elementos del concepto de “institución financiera” ya citado, cuestión de hecho entregada a las instancias de fiscalización correspondientes .
+
+En el presente caso, si bien este Servicio no puede calificar a priori y en forma indefinida la calidad de “institución financiera”, la exención contenida en el N° 6 del artículo 24 de la Ley sobre Impuesto de Timbres y Estampillas, será procedente en la medida que – junto con las demás exigencias legales – la peticionaria efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con sus propios fondos; cuestión de hecho que debe ser verificada en la instancia de fiscalización correspondiente.
+
+En cuanto al segundo criterio que solicita confirmar, se informa que entre los documentos otorgados con ocasión de la captación de fondos de inversionistas locales expresamente señalados en la Resolución N° 137 de 1975, efectivamente se enumeran el contrato de mutuo y los pagarés (resolutivo 1°, letras b y d).
+
+Respecto del tercer criterio sometido a consideración, cabe señalar que, de acuerdo al texto de la ley, no basta que los documentos “incidan” en operaciones de depósito o captación sino que, como se dispone expresamente, “den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones”. Al respecto, se entienden excluidos de la exención los documentos que den cuenta de operaciones de crédito que no reúnen el carácter de indispensables para la institución financiera porque no se relacionan con la finalidad de captar ahorros y efectuar intermediación financiera, como es la obtención de créditos para efectos de su financiamiento.
+
+Por otra parte, puede concluirse que los bancos mutuantes, respecto del financiamiento que conceden, pueden calificar como “inversionistas locales” atendido que, como se pronunció la Circular N° 58 de 1978, “inversionista” es genéricamente una persona o institución que hace una inversión de caudales con el objeto de obtener o redituar un interés o beneficio pecuniario.
+
+En cuanto al cuarto y último criterio que solicita confirmar, en la medida que se cumplan los requisitos establecidos en la ley, los documentos se encontrarán exentos de Impuesto de Timbres y Estampillas, no correspondiendo su retención ni exigencia de pago.
+
+III CONCLUSIÓN
+
+En razón de lo expuesto, si bien no es posible confirmar ni reconocer a priori la calidad de “institución financiera” respecto del peticionario, será procedente la exención solicitada en la medida que efectivamente cumpla el requisito de dedicarse habitualmente a prestar dinero o a conceder créditos con sus propios fondos; cuestión de hecho que debe ser verificada en la instancia de fiscalización correspondiente
+En la misma fiscalización se deberá verificar el cumplimiento de las demás exigencias legales de procedencia de la exención.
+
+VICTOR VILLALON MENDEZ
+DIRECTOR (S)
+
+Oficio N° 2403, de 26.08.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

@@ -1,0 +1,94 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1455 (2013)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 8°, N°6 – ART. 66° – LEY SOBRE IMPUESTO A LA RENTA, ART. 10°, ART. 17°, N°8, ART. 18° – CIRCULAR N° 31, DE 2007. (ORD...."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1455.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2013/ja1455.doc"
+materia: "otros"
+fecha: "2013-07-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 8°, N°6 – ART. 66° – LEY SOBRE IMPUESTO A LA RENTA, ART. 10°, ART. 17°, N°8, ART. 18° – CIRCULAR N° 31, DE 2007. (ORD. N° 1455, DE 03.07.2013)
+
+NOTIFICACIÓN DE ACTOS ADMINISTRATIVOS A CONTRIBUYENTES SIN DOMICILIO NI RESIDENCIA EN CHILE Y ESTABLECIMIENTOS PERMANENTES.
+
+Se consultan a esta Dirección dos casos diferentes sobre la situación de extranjeros no residentes ni domiciliados en Chile y la forma en que eventualmente deberían ser notificados por el Servicio.
+
+I.- ANTECEDENTES
+
+A) Contribuyente Extranjero sin Domicilio ni Residencia en Chile que Enajena Inmueble
+
+Según expone se encuentra asesorando a un ciudadano mexicano, domiciliado en los Estados Unidos de Norteamérica, que no posee RUT ni cédula de identidad para extranjeros en Chile y que es propietario desde hace varios años de un inmueble ubicado en el país.
+
+La circunstancia de que el contribuyente no tenga RUT obedece al hecho de que al momento de la adquisición del inmueble no se encontraba vigente disposición legal o administrativa que lo obligara.
+
+El ciudadano mexicano venderá el inmueble en Chile, suscribiéndose el contrato en una notaría de Santiago identificándose con su pasaporte mexicano. El precio se pagará al contado, en dinero efectivo que se entregará a una institución financiera para su remesa a la cuenta corriente del vendedor en Estados Unidos. Si bien se estima que de esta operación no surgirá obligación tributaria alguna, toda vez que el mayor valor obtenido en tal enajenación cumpliría los requisitos para no ser considerado renta, consulta de qué forma la autoridad chilena debiera notificarle la existencia de cualquier procedimiento de fiscalización, habida consideración que no tiene domicilio, residencia o incluso dirección postal dentro del país.
+
+En particular le interesa confirmar que en este caso resultan plenamente aplicables las disposiciones de los artículos 9° a 15 del Código Civil y, más precisamente, que la notificación de un proceso de revisión, citación y liquidación se puede válidamente practicar mediante carta certificada despachada al domicilio que Servicio de Impuestos Internos pueda conocer del vendedor, que en el caso particular, si en las bases de datos del Servicio no se dispone de información, debiera ser el domicilio declarado en la propia escritura de compraventa.
+
+De manera adicional consulta si en este caso deberá también practicarse una notificación por medio de avisos conforme a lo dispuesto por el artículo 15 del Código Tributario.
+
+B.- Contribuyente Extranjero sin Domicilio ni Residencia en Chile que Constituye un Establecimiento Permanente en Chile
+
+Consulta también por el caso de una sociedad alemana, dedicada al desarrollo de software, que pretende participar en diversos procesos de licitación en Chile para lo que enviará delegaciones de profesionales a promocionar sus productos y servicios por periodos de algunos días, designará un mandatario con facultades restringidas para la promoción de sus productos y en caso que se adjudique contratos enviará técnicos de su dependencia a Chile por periodos inferiores a 183 días.
+
+Al ser informada la firma Alemana de los impuestos que les afectarán en Chile por la venta de software y los pagos realizados al exterior por las asesorías técnicas prestadas en Chile por los técnicos de su dependencia, ésta ha solicitado información acerca de la posibilidad que dicha prestación de servicios pudiese configurar un establecimiento permanente, y cuál sería el procedimiento para que dicha calificación le sea notificada y en consecuencia le resulte oponible.
+
+Atendido lo anterior solicita confirmar los siguientes criterios:
+
+a) Que cualquier requerimiento, citación, liquidación o giro del Servicio, relacionado con obligaciones tributarias con el Estado de Chile, le debe ser notificada a la sociedad alemana, a menos que haya designado en Chile mandatarios con poder suficientes para ser emplazados por el Servicio de Impuestos Internos, siendo aplicables en este último caso la presunción del artículo 9° inciso tercero del Código Tributario.
+
+b) Que en caso de estimarse por parte del Servicio que existe un Establecimiento permanente de la sociedad alemana, lo preceptuado en la letra anterior será igualmente aplicable, debiendo en todo caso ser la sociedad alemana la que deberá ser notificada, quien estará obligada a designar un representante en Chile del mencionado Establecimiento.
+
+c) Que en caso de estimarse que cualquier notificación al Establecimiento permanente puede realizarse válidamente en Chile a su representante legal (sociedades de cualquier clase por ejemplo) o a la misma persona del agente ( por ejemplo en el caso de un mandatario de la sociedad extranjera con facultades suficientes para contraer derechos y obligaciones y cerrar contratos) y considerando que en este caso puede darse la circunstancia que el citado representante o mandatario sea un contribuyente de impuestos en Chile distinto del Establecimiento permanente propiamente tal, interesa saber qué requisitos debe cumplir la carta certificada o la cédula de notificación para los efectos de distinguir si se está notificando al representante o al mandatario por si, o bien en su calidad de establecimiento permanente de una sociedad extranjera.
+
+II.- ANÁLISIS
+
+A.- En cuanto al primero de los casos expuestos cabe destacar que, de acuerdo al artículo 66 de Código Tributario, todas las personas naturales y jurídicas y las entidades o agrupaciones sin personalidad jurídica, pero susceptibles de ser sujetos de impuestos, que en razón de su actividad o condición causen o puedan causar impuestos, deben estar inscritas en el Rol Único Tributario de acuerdo con las normas del Reglamento respectivo (en vigencia desde 1969).
+
+Esta disposición no atiende a la nacionalidad, residencia o domicilio del contribuyente, sino solo al hecho que cause o pueda causar impuestos. Por esta razón, la circular 31 de 2007, que regula la forma de cumplir con las obligaciones de solicitar la inscripción en el Registro de Rol Único Tributario y de dar Aviso de Inicio de Actividades, instruye en su punto 1.3.1. letra f) que deben solicitar su inscripción en el RUT (sin encontrarse obligados a dar el aviso de inicio de actividades) los extranjeros sin residencia en el país y que perciben rentas de fuente chilena, agregando que en este caso los extranjeros deberán designar un mandatario con domicilio o residencia en Chile.
+
+Por otra parte, de acuerdo al artículo 10° de la Ley de Impuesto a la Renta, se considerarán rentas de fuente chilena, las que provengan de bienes situados en el país cualquiera que sea el domicilio o residencia del contribuyente. Por ende, la regla general que rige para la venta de bienes raíces ubicados en el país, es que el mayor valor obtenido en su enajenación es renta, sin perjuicio que, cumpliéndose los requisitos establecidos en los artículos 17 N°8 y 18, este ingreso puede llegar a considerase como No Renta.
+
+Por tanto la adquisición de un bien raíz situado en Chile es un hecho que, no obstante calificaciones posteriores, puede causar impuestos y por ello sin importar el domicilio o residencia del contribuyente, éste debe identificarse en el Rol Único Tributario de acuerdo a las instrucciones impartidas por este Servicio, antes de su venta.
+
+Sobre el tema, cabe mencionar además que, en relación con la obligación de los señores Notarios y Conservadores de Bienes Raíces de informar la transferencia de inmuebles, el Servicio implementó el Formulario 2890, en cuyas instrucciones de llenado, contenidas en la circular N° 10 de 2004, establece que toda persona natural o jurídica que enajene o compre bienes raíces en Chile, debe poseer RUT, por lo que el Notario debe exigir el documento al momento de autorizar la escritura, sea el enajenante chileno con o sin domicilio o residencia en el país, o extranjero con o sin domicilio o residencia en Chile. Si el enajenante, chileno o extranjero, no posee RUT, y actúa por medio de un mandatario o representante, éste último deberá solicitarlo previamente al SII. Por estas razones, añade la circular, no se deben indicar en estos campos números de pasaporte o documentos nacionales de identidad de países extranjeros.
+
+B.- Respecto de la segunda consulta, la determinación de si la sociedad alemana que menciona constituye o no un establecimiento permanente (EP) en Chile, es un asunto que solo podrá ser resuelto en concreto a la luz de los antecedentes con los que se cuente, teniendo además en consideración que no existe convenio para evitar la doble tributación con Alemania que contemple definiciones sobre la materia.
+
+Si el contribuyente extranjero actúa en Chile mediante un mandatario, corresponderá analizar los contratos respectivos y, según lo resuelto mediante oficios 1646 de 2009 y 303 de 1998, verificar la extensión del mandato para determinar si se incluye la posibilidad de concluir o cerrar negocios. En principio, el mandato restringido a la promoción de productos y sin la mencionada facultad, por sí solo, no generaría un establecimiento permanente; no obstante, no es el único elemento a considerar para estimar que una firma extranjera posee en Chile una extensión de sus negocios. En efecto, como ha sido expuesto en un oficio anterior, se puede considerar que un agente posee el poder efectivo para concluir contratos cuando solicita y recibe los pedidos (sin formalizarlos) que son enviados directamente a un almacén en el que se efectúa la entrega de mercancías y cuando la empresa extranjera aprueba las operaciones de forma rutinaria.’ Por esta razón, en el caso analizado en esa oportunidad, se estimó que se configuraba una hipótesis de establecimiento permanente si una empresa chilena gestiona parte de un negocio por cuenta y encargo de una empresa extranjera, incluso cuando la facturación y/o contratación formal a los clientes la realice la empresa chilena .
+
+Ahora bien, considerando los términos del artículo 8° número 6° del Código Tributario , se estima que el establecimiento permanente representa a la matriz para efectos tributarios en Chile. En consecuencia, si de acuerdo a los antecedentes se concluye que la sociedad alemana tiene un EP en el país, ésta entidad será el contribuyente en Chile que corresponda emplazar directamente. En el caso que plantea la consulta, si el establecimiento permanente se configura respecto de un contribuyente que, además, obtiene rentas provenientes de otra actividad, distinta a la de dicho establecimiento, la forma en cómo se debe proceder para su notificación, cualquiera que esta sea, no presenta ninguna particularidad, debiéndose por tanto obrar de acuerdo a las reglas generales, establecidos en el párrafo 1° del Título I del Código Tributario, esto es practicarse por funcionario competente en lugar, día y hora hábil, individualizando a la persona que se notifica y cumpliendo con los requisitos y exigencias relativas a la notificación de que se trate.
+
+En caso que la empresa extranjera no tenga establecimiento permanente en el país y el Servicio deba notificarle algún acto, son siempre aplicables las reglas de los artículos 11 y siguientes del Código Tributario, así como también la notificación por avisos que contempla el artículo 6°, letra B, número 10°, del mismo código.
+Por otra parte, cabe señalar que, de acuerdo a lo expuesto en la consulta, las remesas efectuadas a la sociedad alemana por sus productos y servicios se encontrarían afectas al Impuesto Adicional establecido en el artículo 59 de la Ley sobre Impuesto a la Renta, tributo que es de retención de conformidad al artículo 74 N°4 de la misma Ley. Por consiguiente, la responsabilidad del pago de dichos impuestos, de acuerdo al artículo 83 de la misma ley, recaerá sobre las personas obligadas a efectuar la retención, debiéndose dirigir en primer lugar a éstos las pretensiones o diferencias que el Servicio determine. No obstante, según la misma disposición, el Servicio también puede girar el impuesto al beneficiario de la renta afecta si la retención no se hubiere efectuado.
+
+III.- CONCLUSIÓN
+
+De acuerdo a lo expuesto se concluye lo siguiente:
+
+A.- El contribuyente no domiciliado ni residente en Chile que enajena un bien raíz situado en el país debe previamente registrarse en el Rol Único Tributario, designando un mandatario con domicilio o residencia en Chile, de la forma en que lo ha dispuesto la circular 31 de 2007, siendo el domicilio de éste el válido para ser notificado de cualquier procedimiento de fiscalización y no el domicilio que designe el ciudadano extranjero en la escritura de compraventa del bien vendido. La notificación puede hacerse por cualquiera de las formas que establece el Código Tributario, incluida la notificación por avisos que contempla el artículo 6°, letra B, número 10° de dicho Código.
+
+B.- En cuanto a la consulta relativa a la sociedad alemana se concluye que, de no configurar su actividad en el país un establecimiento permanente, la responsabilidad por el pago de los impuestos sujetos a retención recae en las personas que debieron efectuar la retención, siendo éstos los que respondan de las diferencias de impuestos que se determinen. Si no se hicieron las retenciones el Servicio puede también girar el impuesto al beneficiario de la renta afecta, notificándole mediante algunas de las formas que establece el Código Tributario.
+
+En caso que, no obstante la opinión de la firma alemana, de acuerdo a los antecedentes este Servicio concluya que tiene un establecimiento permanente en el país, la acción fiscalizadora deberá dirigirse directamente a dicho establecimiento, por cualquier diferencia de impuestos que determine, de acuerdo a los procedimientos generales de revisión, notificándole, por ejemplo, al gerente o administrador de la sociedad que configura el EP.
+
+Por último, en cuanto a la situación que se expone en la presentación complementaria, se informa que, si el agente o representante obtiene, además de las rentas que se atribuyan al establecimiento permanente, otras rentas en una calidad distinta, la o las notificaciones que se le practiquen relativas al EP, pueden dirigirse válidamente a la persona del agente o representante (si se trata de una sociedad, a su gerente o administrador), cumpliendo los requisitos y formalidades generales para toda notificación y particulares para la notificación de que se trate. La resolución o actuación que se notifica, permitirá al notificado saber si se le requiere por el establecimiento permanente o por otras actividades distintas que desarrolle.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 1455, de 03.07.2013
+Subdirección Normativa
+Dpto. de Técnica Tributaria

@@ -1,0 +1,5 @@
+source: oficio-iva-2599.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja2599.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja2599.doc
+materia: iva
+retrieved: 2026-11-11

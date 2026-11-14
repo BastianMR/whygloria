@@ -1,0 +1,74 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1775 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –ART. 40, N°1 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 2, N°1 – LEY N° 18.712, ART. 2, ART. 9. (ORD. N° 177..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1775.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1775.doc"
+materia: "renta"
+fecha: "2016-06-22"
+exenta: false
+impuestos: ["renta", "iva", "timbres", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA –ART. 40, N°1 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 2, N°1 – LEY N° 18.712, ART. 2, ART. 9. (ORD. N° 1775, DE 22.06.2016)
+
+INTERPRETACIÓN DE LA EXENCIÓN CONTENIDA EN EL ARTÍCULO 9° LA LEY N° 18.712, FRENTE A LA LEY SOBRE IMPUESTO A LA RENTA Y LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS.
+
+Se han remitido a esta Dirección Nacional las presentaciones efectuadas por los Departamentos de Bienestar de Talcahuano e Iquique, solicitando interpretar la exención contenida en el artículo 9° de la Ley N° 18.712, que aprueba el nuevo Estatuto de los Servicios de Bienestar de las Fuerzas Armadas, frente a la Ley sobre Impuesto a la Renta y la Ley sobre Impuesto a las Ventas y Servicios.
+
+I ANTECEDENTES
+
+En términos generales, los respectivos Departamentos de Bienestar informan en sus presentaciones que los Servicios de Bienestar Social de las Fuerzas Armadas (Fuerzas Armadas) constituyen un patrimonio de afectación que, según el artículo 1° de la Ley N° 18.712, tienen por finalidad proporcionar al personal las prestaciones que tiendan a promover una adecuada calidad de vida que contribuya a su bienestar y al de sus familias.
+
+Sin perjuicio de las menores diferencias formales y de argumentación entre las presentaciones, en lo sustantivo y tras señalar lo dispuesto en los artículos 2° y 9° de la Ley N° 18.712 y citar jurisprudencia de este Servicio donde se concluye que las prestaciones hoteleras y las ventas asociadas a dichas prestaciones están exentas del Impuesto al Valor Agregado (IVA) cuando van destinadas al personal de las Fuerzas Armadas, se solicita aclarar lo siguiente:
+
+a) Que la exención de IVA emanada del artículo 9° de la Ley N° 18.712 procede no solo respecto de los servicios sino que también respecto de las ventas efectuadas por los Servicios de Bienestar al personal de las Fuerzas Armadas y sus familias;
+
+b) Que, la citada exención, en cuanto al Impuesto a la Renta se refiere, no sólo alcanza a los ingresos y/o utilidades que digan relación con las actividades que incidan en las prestaciones otorgadas al personal de las Fuerzas Armadas en servicio activo y en retiro, y sus familias, sino también tratándose de las prestaciones efectuadas a terceros porque se trata de rentas que entran a su patrimonio de afectación, cuyo propósito es proporcionar al personal las prestaciones que tiendan a promover una adecuada calidad de vida que contribuya a su bienestar y al de sus familias.
+
+Por tratarse de consultas que están dirigidas a resolver básicamente las mismas cuestiones, a continuación se da respuesta conjunta a las presentaciones formuladas por los Departamentos de Bienestar de Talcahuano e Iquique.
+
+II ANÁLISIS
+
+De acuerdo al artículo 9° de la Ley N° 18.712, que aprueba el Estatuto de los Servicios de Bienestar Social de las Fuerzas Armadas, “las prestaciones que se otorguen por los Servicios de Bienestar Social de las Fuerzas Armadas estarán liberadas de los impuestos al valor agregado, a la renta, de timbres y estampillas y demás que establezcan las leyes.
+Los bienes raíces del patrimonio de afectación fiscal estarán exentos del pago del impuesto territorial.”
+
+De la norma transcrita, y a partir de su interpretación sistemática en relación con lo dispuesto en el artículo 2° N° 2 de la Ley sobre Impuesto a las Ventas y Servicios, que define “servicio” como “la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o remuneración”, este Servicio ha resuelto reiteradamente que la exención opera:
+
+a) Respecto de las “prestaciones” otorgadas por los Servicios de Bienestar Social, entendidas las “prestaciones” sólo como “servicios” proporcionados por los Servicios de Bienestar Social de las Fuerzas Armadas, excluyendo por tanto las “ventas” de productos que realicen en forma directa tanto a sus afiliados, sus familias como a terceros; y,
+
+b) Respecto de los “servicios”, sólo aquellos otorgados por los Servicios de Bienestar Social de las Fuerzas Armadas al personal de esas instituciones y a sus familias, excluyendo los servicios prestados a terceros.
+
+Dicho lo anterior y en lo que dice relación al alcance de la exención contenida en el artículo 9° de la Ley N° 18.712 frente a la Ley sobre Impuesto a la Renta, cabe señalar lo siguiente.
+Conforme una reiterada jurisprudencia de este Servicio , todas las personas, sean naturales o jurídicas, revisten la calidad de “contribuyentes” en la medida que puedan estar sujetas a algunos de los tributos establecidos en la Ley sobre Impuesto a la Renta, lo cual ocurre en el caso que tales personas posean bienes o realicen actividades susceptibles de generar rentas que, por ejemplo, se clasifiquen en la Primera Categoría de la ley precitada. Asimismo, la Ley sobre Impuesto a la Renta, salvo excepciones taxativas, no atiende a la naturaleza o finalidad de las personas para gravarlas con impuestos, sino que considera las actividades que realizan, los actos y contratos que ejecutan y los beneficios económicos que puedan obtener. Por esa razón, que la entidad “no persiga fines de lucro” no impide aplicar los gravámenes que corresponda si, de acuerdo a la legislación tributaria, la entidad puede considerarse como contribuyente.
+
+Luego, el hecho que, conforme al artículo 2° de la Ley N° 18.712, los Servicios de Bienestar Social de las Fuerzas Armadas tengan un patrimonio de afectación fiscal para el cumplimiento de sus fines, en nada altera que puedan realizar actividades gravadas con Impuesto a la Renta y considerarse contribuyentes para dichos efectos.
+
+Por otra parte, la Contraloría General de la República ha interpretado que “los Servicios de Bienestar de las instituciones de la Defensa Nacional, forman parte integrante de ellas, y por ende, están incluidos en la persona jurídica del Fisco, sin perjuicio que tengan un patrimonio de afectación fiscal integrado por los bienes y recursos que señala la ley respectiva, los que continúan integrando, en términos amplios, el patrimonio estatal.”
+
+En consecuencia, y formando parte de la persona jurídica Fisco, a estos Servicios de Bienestar les son aplicables las disposiciones contenidas en el artículo 40 N° 1 de la Ley sobre Impuesto a la Renta, en el sentido que están exentas del Impuesto a la Primera Categoría las rentas percibidas por el “Fisco, las instituciones fiscales y semifiscales, las instituciones fiscales y semifiscales de administración autónoma, las instituciones y organismos autónomos del Estado y las Municipalidades.”
+Sin embargo, el inciso final de esta norma limita la exención del Impuesto a la Primera Categoría disponiendo que “las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20.”
+
+III CONCLUSIÓN
+
+1) De acuerdo al artículo 9° de la Ley N° 18.712, debe entenderse que la exención de IVA sólo alcanza a las “prestaciones” efectuadas por los Servicios de Bienestar Social de las Fuerzas Armadas, entendiendo como “prestaciones” sólo a los servicios que otorgue al personal de esas instituciones y a sus familias.
+
+2) Luego, no se encuentran exentas de IVA en virtud de la norma citada las “ventas” de bienes, tanto al personal de las Fuerzas Armadas, sus familias, como a terceros, ni tampoco los servicios prestados a terceros ajenos a las Fuerzas Armadas, todas operaciones respecto de las cuales procede aplicar IVA conforme las reglas generales.
+
+3) En lo que respecta al alcance de la exención contenida en el artículo 9° de la Ley N° 18.712 frente a la Ley sobre Impuesto a la Renta, cabe señalar que, por aplicación armónica con lo dispuesto en el artículo 40° N° 1 de la Ley sobre Impuesto a la Renta y teniendo los Servicios de Bienestar la calidad de Fisco, se encuentran exentas del Impuesto a la Primera Categoría por las rentas percibidas por dichos Servicios.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1775, de 22.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

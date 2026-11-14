@@ -1,0 +1,96 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1483 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, ART. 60°, ART. 74°, ART. 79° – CIRCULAR N°54, DE 2013 – OFICIO N° 2363, DE 02.08.2007. (ORD. N° 1483, DE 2..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1483.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja1483.doc"
+materia: "renta"
+fecha: "2014-08-22"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 59°, ART. 60°, ART. 74°, ART. 79° – CIRCULAR N°54, DE 2013 – OFICIO N° 2363, DE 02.08.2007. (ORD. N° 1483, DE 22.08.2014)
+
+OBLIGACIONES TRIBUTARIAS FRENTE AL IMPUESTO ADICIONAL DE LA LEY SOBRE IMPUESTO A LA RENTA, RESPECTO DE REMUNERACIONES PAGADAS A ARTISTAS EXTRANJEROS Y OTROS SERVICIOS RELACIONADOS A ESPECTÁCULOS REALIZADOS EN CHILE.
+
+Se ha solicitado un pronunciamiento a este Servicio, que busca ratificar los criterios expuestos en su oficio ordinario indicado en el antecedente, para efectos de dar respuesta, en relación a la tributación con el Impuesto Adicional de la Ley sobre Impuesto a la Renta (en adelante LIR), que afecta a las remuneraciones que se pagan a artistas extranjeros y otros servicios prestados para la realización de espectáculos en Chile.
+
+I.- ANTECEDENTES.
+Señala que en el marco de un programa de fiscalización de este Servicio, cuyo alcance está referido al control del pago del Impuesto Adicional (en adelante IA) aplicable a personas sin domicilio ni residencia en Chile, por actividades artísticas o deportivas efectuadas en el país, conforme a lo dispuesto en el artículo 60 de la LIR, se ha notificado a contribuyentes que forman parte de XXXX, asociación que en representación de su gremio ha expuesto a dicha Dirección Regional algunas dudas que han surgido en el desarrollo de las actividades de sus asociados, respecto de la aplicación de las normas del IA por los pagos de remuneraciones a artistas extranjeros.
+Indica que la referida asociación gremial sostiene que en las recientes fiscalizaciones se estarían aplicando criterios que difieren de la forma en que el mercado ha operado, dando origen a diversos cuestionamientos por parte de este Servicio, materializados a través de citaciones y liquidaciones por diferencias de impuestos, lo que al parecer de XXXX, evidenciaría falta de una posición clara de parte del organismo fiscalizador, en especial, respecto de los siguientes criterios que somete a consulta del Director Regional:
+1.- Confirmar que la remuneración que perciben los artistas se encontraría gravada con el IA que establece el inciso 2°, del artículo 60 de la LIR, con una tasa de 20%.
+2.- Confirmar que los contratos que celebren las productoras con personas jurídicas extranjeras (empresas representantes del artista), incluso suscritos por estas personas jurídicas extranjeras, que actúan en representación de los artistas, quedarían igualmente gravados con la referida tasa del 20%, establecida en el inciso 2°, del artículo 60 de la LIR, pues en nada se altera la tributación de la(s) persona(s) natural(es), que desarrollan la actividad cultural en Chile, quienes resultan ser los sujetos del gravamen.
+En relación con este punto, el contribuyente cita lo dispuesto en el artículo 2116 del Código Civil, que contiene la definición legal del contrato de mandato, argumentando que el efecto propio de dicho contrato, consiste en radicar los efectos económicos y jurídicos en el patrimonio del mandante, en este caso, del artista extranjero.
+3.- Confirmar el hecho de que la retención debe hacerse en el momento en que se concrete la actuación del artista en territorio nacional, de conformidad a lo que dispone el inciso 2°, del artículo 60 de la LIR, constituyendo una norma especial de retención o de excepción a la norma general establecida en el N° 4, del artículo 74 de la LIR.
+Al respecto, la referida asociación gremial sostiene que en virtud de esta norma especial de retención, las productoras chilenas que traen artistas extranjeros, entienden que deben efectuar la retención del impuesto sólo una vez que el artista actúa y/o desarrolla sus actividades en Chile, aunque por exigencia contractual o condiciones de mercado, se remese en forma anticipada al artista o a su representante, el total o una parte importante de la remuneración acordada en garantía de su actuación en el país.
+4.- Confirmar que la base imponible del IA de estas actividades culturales o artísticas está compuesta sólo por la remuneración del artista, excluyendo los pagos que se efectúen por los gastos necesarios para movilizar la carga de equipos y el traslado del elenco.
+Sobre este punto, XXXX sostiene que no formarían parte de la base imponible del IA, los costos o gastos asociados a la producción del espectáculo y que son de cargo de las productoras chilenas. Añade que, los pagos efectuados por estos conceptos, constituirían un reembolso de gastos incurridos en el extranjero, efectuados por cuenta de las productoras chilenas, que tienen directa relación con su giro, que es la producción de eventos, por lo que no deben formar parte de la base imponible del IA, ya que no existiría una contraprestación por parte de quien efectúa el gasto en el extranjero.
+5.- Finalmente, solicita confirmar que respecto del IA establecido en el inciso 2°, del artículo 60 de la LIR, el impuesto final se determina aplicando la tasa de 20% directamente sobre la remuneración pactada, sin incremento alguno. Además, solicita confirmar que con la modificación de lo dispuesto en el N° 4, del artículo 74 de la LIR, a contar del 01.01.2013, la retención que se efectúe sobre esta clase de rentas, no tiene el carácter de retención provisional.
+II.- ANÁLISIS.
+
+1.- En relación al primer criterio que se solicita confirmar, cabe señalar que el inciso 1°, del artículo 60 de la LIR, dispone que las personas naturales que no tengan residencia ni domicilio en Chile y las sociedades o personas jurídicas constituidas fuera del país, incluso las que se constituyan con arreglo a las leyes chilenas, que perciban o devenguen rentas de fuentes chilenas que no se encuentren afectas a impuesto de acuerdo con las normas de los artículos 58 y 59 de la LIR, pagarán respecto de ellas un IA de 35%
+
+Por su parte, el inciso 2° del mismo artículo, dispone que no obstante lo anterior, el IA se aplicará con una tasa de 20% cuando se trate de remuneraciones provenientes exclusivamente del trabajo o habilidad de personas, percibidas por las personas naturales extranjeras, sólo cuando éstas hubieren desarrollado en Chile actividades científicas, culturales o deportivas. Agrega esta norma, que el impuesto deberá ser retenido y pagado antes de que dichas personas se ausenten del país, por quien o quienes contrataron sus servicios, de acuerdo con las normas de los artículos 74 y 79 de la LIR.
+
+Ahora bien, de acuerdo a lo dispuesto en el inciso 3°, del artículo 60 de la LIR, el impuesto de 20% que establece el referido inciso 2°, tiene el carácter de impuesto único a la renta, y se aplica sobre las cantidades que se paguen, abonen en cuenta o se pongan a disposición de las personas señaladas, sin deducción alguna.
+
+Según lo señalado, para que la renta de fuente chilena se encuentre gravada con la tasa de IA de 20% que establece el inciso 2°, del artículo 60 de la LIR, se deben cumplir los siguientes requisitos copulativos:
+
+a) Las rentas deben corresponder a remuneraciones que provengan exclusivamente del trabajo o habilidad de personas;
+b) Ser percibidas por personas naturales extranjeras sin domicilio ni residencia en Chile; y
+c) Sólo cuando dichas personas naturales hubieren desarrollado en Chile, actividades científicas, culturales o deportivas.
+
+Por lo tanto, en la medida que se dé cumplimiento a los requisitos indicados, las rentas obtenidas por estos conceptos se afectarán con el IA con la tasa de 20%, de modo que en este punto, se confirma lo expresado por esa Dirección Regional.
+
+2.- Respecto del segundo criterio en consulta, relativo a la procedencia de aplicar el IA del inciso 2°, del artículo 60 de la LIR, cuando la actuación en Chile de un artista extranjero se realice en cumplimiento de un contrato celebrado con un tercero y no directamente con el artista extranjero, cabe expresar que es una cuestión que deberá ser analizada caso a caso por las instancias de fiscalización pertinentes, para efectos de determinar si la persona con quien se ha contratado, actúa en calidad de representante del artista extranjero, o bien, por cuenta propia obligándose ella personalmente, esto es, asumiendo ella la responsabilidad legal y patrimonial del cumplimiento de las obligaciones contraídas.
+
+De esta forma, si el tercero actúa como representante del artista extranjero, y como tal celebra el contrato para la actuación de su representado en Chile, aun cuando el representante sea una persona jurídica, las rentas que se paguen en virtud de este contrato se afectarán con el IA establecido en el inciso 2°, del artículo 60 de la LIR. Lo anterior, atendido lo dispuesto en el artículo 1448 del Código Civil, norma que establece que el acto celebrado por el representante produce respecto del representado iguales efectos que si hubiese contratado él mismo.
+
+Distinto es el caso en que un tercero sin domicilio ni residencia en Chile, por cuenta propia contrate a un artista extranjero para que se presente en el país, en cumplimiento de un contrato previo celebrado entre dicho tercero y una empresa productora chilena, en cuyo caso, deberá estarse a las condiciones contractuales para determinar el tipo de servicio prestado por el tercero a la empresa chilena, y en consecuencia, el IA que resulte aplicable. De esta manera, corresponderá analizar si la referida prestación implica la obtención de rentas gravadas conforme a lo dispuesto en el artículo 59 de la LIR, o bien, en el inciso 1°, del artículo 60 de la misma ley, según corresponda, pero en caso alguno resultaría aplicable el inciso 2° de la última disposición citada.
+
+3.- En cuanto a la oportunidad en que debe efectuarse la retención de IA, tal como indica esa Dirección Regional, conforme a lo dispuesto en el N° 4, del artículos 74 de la LIR, y en el artículo 79 de la misma ley, dicha obligación nace al momento de efectuarse la remesa, retiro, distribución, abono en cuenta, puesta a disposición o pago de las cantidades afectas a IA, según corresponda, debiendo ser declarada y pagada por el retenedor, hasta el día 12 del mes siguiente a aquel en que la renta fue pagada, distribuida, retirada, remesada, abonada en cuenta o puesta a disposición del interesado. Por lo tanto, no es correcto sostener que el inciso 2°, del artículo 60 de la LIR, establece una norma especial de retención, como lo indica en su presentación el contribuyente, puesto que la retención de impuestos no depende necesariamente, según señala, de que se efectúe la presentación del artista, siendo la misma disposición legal la que se remite a los artículos 74 y 79 de la LIR, para efectos de la retención de impuestos.
+
+Sin embargo, para determinar si procede efectuar retención de IA sobre cantidades remesadas en forma anticipada a la persona natural extranjera, tal situación deberá ser analizada a la luz de los términos contractuales, puesto que si dichas cantidades abonadas tienen el carácter de pagos de anticipos a cuenta de la remuneración definitiva, constituye una renta percibida que debe afectarse con la retención de impuesto respectiva.
+
+Ahora bien, en caso que las cantidades remesadas al exterior constituyan una garantía de ejecución de éstos, y siempre que se encuentren sujetas a alguna condición suspensiva que impida la percepción de dichas cantidades por parte de la persona extranjera, no existiría la obligación de practicar la retención de IA, en tanto no se verifique el cumplimiento de la condición que permita entender que la renta ha sido percibida. Se estima perfectamente factible que las partes puedan pactar que tal condición suspensiva consista en la prestación efectiva del servicio, cuestión que habrá que verificar caso a caso, examinando los términos de cada contrato.
+
+4.- Sobre el criterio que el contribuyente solicita confirmar relativo a que la base imponible del IA establecido en el inciso 2°, del artículo 60 de la LIR, debe estar conformada solamente por la remuneración del artista, sin incluir otros gastos incurridos para la realización del espectáculo en Chile, cabe señalar que el mencionado impuesto sólo grava las remuneraciones provenientes del desarrollo de las actividades que dicha norma establece de manera expresa. Sin embargo, se deberán analizar los términos contractuales para determinar, en primer término, si la empresa productora local se hace cargo o no del pago de servicios que deban contratarse en el extranjero, necesarios y accesorios para la actuación del artista en Chile y, en segundo término, si existen otras prestaciones pactadas y remuneradas por conceptos distintos al desarrollo de la actividad artística, y si se ha establecido expresamente qué parte del precio correspondería a dichas prestaciones, en cuyo caso, deberá aplicar respecto de éstas el IA que grave el tipo de servicio de que se trate, y por tanto, sólo la parte del precio correspondiente a la remuneración por la actividad artística se afectará con el IA con tasa 20% sin deducción alguna, según lo establecido en los incisos 2° y 3°, del citado artículo 60 de la LIR. De esta manera, las cantidades pagadas por prestaciones distintas a las señaladas en el inciso 2° del artículo 60 de la LIR, se gravarán conforme a lo dispuesto en el artículo 59 de la LIR, o en el inciso 1° del artículo 60 de la misma ley, según corresponda, cuando se cumplan los supuestos que establecen cada una de dichas disposiciones. Si por el contrario, de los términos contractuales se deduce que la totalidad del precio o remuneración corresponde al desarrollo de la actividad artística, toda la remuneración pactada se afectará sólo con el mencionado IA con tasa de 20%.
+
+Ahora bien, queda por aclarar en este punto, lo sostenido por el contribuyente en cuanto a que los demás conceptos comprendidos en la remuneración pactada –distintos a la actividad artística-, corresponderían al reembolso de gastos efectuados por cuenta de la empresa productora chilena, y en consecuencia no estarían afectos al IA.
+
+Al respecto, este Servicio ha señalado que el sólo reembolso de los gastos razonables incurridos por el prestador de servicio no está gravado con el IA, siempre que se acredite por una parte, lo señalado en el primer párrafo de este numeral, esto es, que de acuerdo al contrato la empresa productora local asume ella la contratación y pago de los servicios que sea necesario utilizar en el extranjero para hacer efectiva la actuación en Chile del artista, y por otra, la existencia de un mandato por parte del que encarga el servicio para los efectos de proceder a la contratación de servicios de terceros por cuenta suya; que los terceros contratados no integren el personal dependiente del mandatario; que los gastos que se reembolsan se encuentren debidamente individualizados y acreditados con documentación fidedigna de acuerdo con las reglas de acreditación de gastos de la LIR; y que en el documento a través del cual el prestador de servicios y a su vez mandatario, quién no tiene domicilio ni residencia en Chile, efectúa el cobro al contribuyente domiciliado o residente en el país, del total de las sumas que se le adeuden ya sea por la prestación de servicios o por el mandato, se deje constancia clara y precisa de las partidas que corresponden a gastos reembolsables.
+
+En consecuencia, para que el reembolso de gastos no esté gravado con IA, deberán cumplirse todos los requisitos señalados en el párrafo precedente.
+
+Con todo lo anterior, no obsta a la aplicación del IA que corresponda en el caso que algunos de los servicios cuyo pago se reembolsa al exterior, esté gravado de acuerdo al artículo 59 de la LIR .
+
+5.- En relación a la forma de determinar la base imponible afecta al IA del inciso 2°, del artículo 60 de la LIR, tal como señala la Dirección Regional, por tratarse éste de un impuesto que tiene el carácter de único a la renta, deberá atenderse a lo estipulado en cada contrato para definir si la remuneración pactada es libre de todo impuesto, o bien, si el monto a remesar corresponde a la suma líquida, después de aplicar los impuestos que procedan.
+
+En la primera situación, esto es, cuando se haya pactado que el IA es de cargo del pagador de la renta, deberá incrementarse la renta líquida a remesar al exterior en el monto del impuesto respectivo, conforme a lo instruido en el N° 2, de la letra A, del Título II, de la Circular N°54 de 2013, y sobre esta cantidad se aplicará la tasa de IA correspondiente. A falta de estipulación expresa, se entenderá que el impuesto es de cargo del pagador de la renta, cuando éste haya aceptado tácitamente efectuar la remesa por el monto total pactado en el contrato.
+
+En el segundo caso, el IA se aplicará directamente sobre la remuneración total pactada, por lo tanto, la remesa corresponderá a la renta líquida una vez descontado el IA.
+
+6.- Finalmente, cabe referirse a si la retención de IA aplicable a las rentas establecidas en el inciso 2°, del artículo 60 de la LIR, con la modificación introducida por la Ley N° 20.630 al N°4, del artículo 74 de la LIR, tendría el carácter de provisional o no.
+
+Sobre este punto, se confirma lo señalado por esa Dirección Regional, en cuanto a que la retención de IA sobre dichas rentas, tiene el carácter de definitiva, pues satisface la tributación con dicho carácter y en consecuencia, la obligación tributaria que afecta a la persona natural extranjera sin domicilio ni residencia en Chile se cumple totalmente con la retención y pago del impuesto, conforme a lo dispuesto en el propio inciso 2°, del artículo 60 de la LIR, en concordancia con lo establecido en los artículos 65, 74 N°4 y 79 de la misma ley. Lo anterior, atendido que el referido impuesto tiene el carácter de impuesto único a la renta y que no existe la obligación, para la persona natural referida, de presentar una declaración anual de impuestos a la renta sobre dichas cantidades. Se hace presente en todo caso que, las modificaciones incorporadas al N° 4, del artículo 74 de la LIR, por la Ley N° 20.630 de 2012, en nada han alterado el carácter definitivo de la retención que se comenta, así como el carácter de impuesto único a la renta de dicho tributo.
+
+III.- CONCLUSIÓN.
+
+En razón de lo expuesto anteriormente, se confirman los criterios expresados por esa Dirección Regional en su Oficio Ord. N° 302, de 30 de octubre de 2013, con las precisiones que se indican respecto de cada una de las situaciones analizadas.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR
+
+Oficio N° 1483, de 22.08.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

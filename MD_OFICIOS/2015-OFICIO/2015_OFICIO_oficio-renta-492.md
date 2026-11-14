@@ -1,0 +1,119 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 492 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10°, ART. 15°, ART. 31°, N°9, ART. 41°, ART. 41° D, ART. 58° – CÓDIGO TRIBUTARIO, ART. 69° – CIRCULARES N° 13 Y..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja492.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja492.doc"
+materia: "renta"
+fecha: "2015-02-13"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10°, ART. 15°, ART. 31°, N°9, ART. 41°, ART. 41° D, ART. 58° – CÓDIGO TRIBUTARIO, ART. 69° – CIRCULARES N° 13 Y 14, DE 2014. (ORD. N° 492, DE 13.02.2015)
+
+EFECTOS TRIBUTARIOS DE LA ADQUISICIÓN DEL TOTAL DE DERECHOS O ACCIONES DE UNA SOCIEDAD CONSTITUIDA EN EL EXTRANJERO, EN MANOS DE UNA SOCIEDAD ANÓNIMA CHILENA.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre una serie de criterios que manifiesta en su presentación, relativos a la adquisición del total de derechos o acciones de una sociedad constituida en el extranjero, en manos de una sociedad anónima chilena.
+
+I.- ANTECEDENTES.
+Expone el caso de un grupo de sociedades constituidas en el extranjero con participaciones sucesivas una respecto de otra, y que dos de ellas se encuentran domiciliadas en el Reino Unido. La primera, denominada “TT”, tiene una participación del 99,9% sobre la propiedad de otra identificada como “XX”, quien a su vez posee una agencia en Chile a la que ha asignado como único activo el 99,9% de las acciones de una sociedad anónima cerrada constituida en Chile denominada “AAAA S.A”, la que es una sociedad matriz de una serie de sociedades de distintos giros.
+La sociedad TT pretende aportar a la constitución de una nueva sociedad chilena, que se denominará “YYYY S.A.”, toda la participación que posee en la sociedad XX, aporte que se efectuaría a valor de mercado generando un mayor valor en la operación. Luego, la sociedad YYYY S.A. adquiriría el 0,1% restante de la sociedad XX, lo que según le han informado desde Reino Unido, implicaría -al igual que en Chile- la disolución de la sociedad XX, por reunirse toda la participación en manos de un único dueño, quedando el patrimonio de la sociedad disuelta radicado en la sociedad chilena YYYY S.A.
+Como consecuencia de la disolución de la sociedad XX, también se disuelve la agencia que esta sociedad tiene en Chile, y por lo tanto, la sociedad chilena YYYY S.A. se haría dueña de las acciones de la sociedad AAAA S.A., las que, al constituir el único activo no monetario recibido como consecuencia de la absorción, se incrementaría el costo de dichas acciones, dado que la sociedad YYYY S.A. tendrá como costo tributario de éstas, el valor en que fueron aportados los derechos o acciones en XX por TT y el valor invertido en el 0,1% adquirido posteriormente.
+De acuerdo a lo planteado solicita la confirmación de los siguientes criterios:
+
+1) El aporte a valor de mercado que TT haga del 99,9% de los derechos de la sociedad XX, a la sociedad YYYY S.A., tributaría con el Impuesto Adicional, si se produjera un mayor valor para el aportante, esto es, para la sociedad TT, según los artículos 10 y 58 N° 3 de la Ley sobre Impuesto a la Renta (LIR). Lo mismo ocurriría con la compra del 0,1% restante a su propietario, si éste no tiene domicilio ni residencia en el país.
+
+2) La adquisición por parte de la sociedad YYYY S.A., del 100% de los derechos de la sociedad XX y su consecuente disolución, produciría la absorción de esta última y de su agencia por parte de la sociedad YYYY S.A.
+
+3) La disolución de la agencia en Chile de la sociedad XX, producto de la absorción de esta última por la sociedad YYYY S.A., no tendría impacto tributario alguno.
+
+Dado que la agencia de XX en Chile no tiene registradas utilidades tributarias pendientes de distribución, su disolución tampoco provocaría un evento tributario.
+
+4) Como consecuencia de la fusión impropia referida, el valor de la inversión en las acciones de AAAA S.A. para la sociedad YYYY S.A., correspondería al costo tributario que tenía para esta última la inversión en el 100% de derechos de la sociedad disuelta XX.
+
+II.- ANÁLISIS.
+
+1.- Mediante Circular N°14, de 2014, se impartieron instrucciones sobre la aplicación del Impuesto Adicional a contribuyentes sin domicilio ni residencia en Chile, por las rentas que obtengan en la enajenación de los instrumentos, entre ellos las acciones de sociedades constituidas en el extranjero, a que se refieren los artículos 10, inciso 3° y siguientes, y 58 N°3 de la LIR.
+
+Según lo dispuesto en el inciso 3° del artículo 10 referido, y lo instruido en la citada Circular, se distinguen tres hechos gravados en esta norma. De éstos, cabe destacar el establecido en la letra a) del referido precepto legal, puesto que se verificaría en la situación planteada en su consulta.
+
+Para que se configure tal hecho gravado deben cumplirse copulativamente las dos siguientes condiciones:
+
+i) Que el 20% o más del valor de mercado del total de los instrumentos, en este caso de las acciones, que el enajenante posea directa o indirectamente en la sociedad o entidad extranjera, provenga de uno o más de los activos subyacentes situados en Chile, indicados en los numerales (i), (ii) o (iii) de la letra a) del inciso 3° del citado artículo 10 de la LIR. Para estos efectos se considerará:
+
+- El valor de mercado de las respectivas acciones, pudiendo el Servicio ejercer las facultades de fiscalización contenidas en el artículo 41 E de la LIR, para determinar dicho valor de mercado.
+
+- El valor corriente en plaza de los activos subyacentes situados en Chile o el que normalmente se cobre por ellos en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación y en la proporción que corresponda a la participación indirecta que en ellos posee el contribuyente enajenante no domiciliado ni residente en Chile. Para tal efecto, el Servicio podrá aplicar la facultad de tasación establecida en el artículo 64 del Código Tributario.
+
+- El cumplimiento de esta condición, se apreciará al momento de la enajenación de las referidas acciones, o bien, dentro del plazo de 12 meses anteriores a dicha enajenación, bastando para ello que la condición se cumpla en cualquier momento dentro de dicho plazo.
+
+ii) Que el contribuyente no domiciliado ni residente en el país, enajene el 10% o más del total de las acciones de la sociedad extranjera.
+
+- En este caso se considerarán todas las enajenaciones efectuadas directa o indirectamente por el contribuyente enajenante y por otros miembros de su grupo empresarial, conformado por aquellas entidades que establece el artículo 96 de la Ley N° 18.045, que no tengan domicilio ni residencia en Chile, realizadas a la fecha de enajenación o dentro del período de 12 meses anteriores a la última de ellas. En este contexto, se entenderá por enajenación el cambio de titular en el derecho de propiedad sobre los títulos respectivos, computándose el plazo de 12 meses señalado, desde cualquiera de las enajenaciones que se efectúen.
+
+En cuanto a los activos subyacentes que la ley considera para los efectos señalados, el numeral (i), de la letra a), del inciso 3° del artículo 10 de la LIR, menciona las acciones o derechos en sociedades constituidas en Chile, mientras que el numeral (ii) menciona a la agencia u otro tipo de establecimiento permanente en Chile de un contribuyente sin domicilio ni residencia en el país, considerándose para efectos tributarios que dicho establecimiento permanente es una empresa independiente de su matriz u oficina principal.
+
+Mediante el aporte efectuado en el exterior de las acciones o derechos de la sociedad XX, se transfiere indirectamente en primer lugar como activo subyacente la agencia que dicha empresa posee en Chile, debiendo en consecuencia, analizarse la situación tributaria en relación con dicho activo.
+
+Según dispone el inciso 6°, del artículo 10 de la LIR, el Impuesto Adicional que grava a las rentas antes indicadas, se determinará, declarará y pagará conforme a lo dispuesto en el artículo 58 N° 3, de la misma ley. De esta manera, en caso de que el mayor valor en la operación se determine conforme a lo dispuesto en la letra b), del número 3, del artículo 58 de la LIR, deberán considerarse las reglas especiales que contempla tal norma, para efectos de determinar el costo tributario en la transferencia indirecta de la referida agencia en Chile.
+
+2.- En relación a los efectos tributarios que se originan en una fusión de sociedades, este Servicio a través de la Circular N° 13 de 2014, ha señalado que para que se produzca la diferencia de valor a que se refieren el inciso 2° del artículo 15, y el inciso 3°, del N° 9 del artículo 31, ambos de la LIR, deben cumplirse los siguientes requisitos copulativos:
+
+a) Que se trate de un proceso de fusión de sociedades en los términos del artículo 99 de la Ley N°18.046 sobre Sociedades Anónimas, comprendiéndose además dentro de este concepto y para los efectos allí indicados, la reunión del total de los derechos o acciones de una sociedad en manos de una misma persona, y
+
+b) Que exista una inversión realizada en derechos sociales o acciones por parte de la sociedad absorbente en la sociedad fusionada, y que el valor total de ésta, sea distinto al valor total o proporcional, según sea el caso, del capital propio tributario de la sociedad absorbida.
+
+En relación al primer requisito, tratándose de la reunión del total de derechos o acciones de una sociedad en manos de un solo titular, será necesario que dicha operación produzca la disolución de la referida sociedad, de acuerdo con el estatuto jurídico que la rija, de tal forma que, de acuerdo a lo señalado por este Servicio en la Circular N° 2 de 1998, por el sólo ministerio de la ley los bienes que formaban parte del patrimonio de la sociedad disuelta pasan al dominio del adquirente del total de los derechos o acciones, siendo la ley el modo de adquirir dichos bienes.
+
+En consecuencia, no se aplican estas normas a las sociedades que, de acuerdo a las disposiciones legales que las regulan, mantienen su personalidad jurídica, aun cuando una sola persona sea la dueña de los derechos o acciones de la sociedad, como ocurre por ejemplo con las sociedades por acciones.
+
+Es preciso señalar además, que la ley no distingue en cuanto al lugar donde debe encontrarse constituida o domiciliada la sociedad que resulta disuelta producto de la reunión del total de derechos o acciones en manos de una misma persona, por lo que es perfectamente posible que se produzca este tipo de fusión respecto de una sociedad domiciliada en el extranjero, siempre que, de acuerdo a la legislación que le sea aplicable, se trate de una sociedad y que la operación descrita provoque los mismos efectos y consecuencias jurídicas indicadas anteriormente.
+
+Respecto del requisito indicado en la letra b) anterior, el capital propio de la sociedad absorbida a considerar para la determinación de la diferencia, según lo dispuesto en el inciso 2°, del artículo 15 y en el inciso 3°, del N° 9 del artículo 31, ambos de la LIR, debe determinarse de acuerdo a lo establecido en el artículo 41 de la misma ley. Esto no implica que la sociedad absorbida tenga que ser necesariamente un contribuyente de la primera categoría que declare sus rentas efectivas mediante contabilidad completa, dado que las referidas normas no lo establecen como un requisito para su aplicación, sino que la determinación del capital propio a comparar con el valor de la inversión, debe efectuarse de acuerdo a las reglas contenidas en el citado artículo 41.
+
+III.- CONCLUSIÓN.
+
+En virtud de las normas legales analizadas y las instrucciones impartidas por este Servicio mediante las Circulares N°s. 13 y 14, ambas de 2014, a continuación se analizan cada uno de los criterios que somete a consideración:
+
+1.- El aporte del 99,9% de los derechos en la sociedad extranjera XX, efectuado por la sociedad británica TT a la sociedad YYYY S.A., constituirá un hecho gravado conforme a lo establecido en el inciso 3°, del artículo 10 de la LIR, que se afecta con el Impuesto Adicional establecido en el N° 3, del artículo 58 de la misma ley, en la medida que se encuentre en alguno de los supuestos que considera dicha norma legal, en sus letras a), b) o c). De los antecedentes aportados, se desprende que la operación descrita se comprendería en la hipótesis de la letra a), del inciso 3°, del artículo 10 de la LIR, no resultando aplicable la hipótesis considerada en la letra c) de dicha norma, toda vez que, de acuerdo con los antecedentes del caso, la sociedad objeto de la enajenación no se encuentra domiciliada o constituida en uno de los países o jurisdicciones que figuran en la lista a que se refiere el N°2, del artículo 41 D de la LIR.
+
+En relación al valor del aporte, cabe señalar que puede efectuarse al valor que acuerden asignarles libremente las partes contratantes en la respectiva escritura o contrato de aporte, sin perjuicio de las facultades que puede ejercer este Servicio en virtud de lo dispuesto en el artículo 64 del Código Tributario, o en el artículo 41 E de la LIR, según corresponda.
+
+Respecto de la adquisición que posteriormente realice la sociedad YYYY S.A., del 0,1% de los derechos de la sociedad XX, dicha operación se afectará también con el Impuesto Adicional de acuerdo a las disposiciones legales señaladas, si se encuentra en alguno de los supuestos de las letras a) o b) de dicha norma, considerando todas las enajenaciones, directas o indirectas, de dichas acciones, cuotas, títulos o derechos, efectuadas por el enajenante y otros miembros no residentes o domiciliados en Chile de su grupo empresarial, en un período de doce meses anteriores a la última de ellas.
+
+En los casos señalados, la renta gravada con Impuesto Adicional se determina conforme a lo dispuesto en el N° 3, del artículo 58 de la LIR, debiendo tenerse presente que en caso que el mayor valor en la operación se calcule de acuerdo a lo dispuesto en la letra b), de dicho artículo, deberán considerarse las reglas especiales que contempla tal norma, para efectos de determinar el costo tributario en la transferencia indirecta de una agencia en Chile.
+
+2.- La adquisición por parte de la sociedad constituida en Chile “YYYY S.A.”, del total de derechos de la sociedad británica XX y su consecuente disolución, implica necesariamente la disolución de su agencia en Chile, ya que ésta no constituye una persona jurídica distinta de su matriz, representando solo el medio por el cual la sociedad extranjera prolonga sus actividades en Chile, de modo que extinta y absorbida la sociedad extranjera, también se extingue y se absorbe la agencia de ésta en el país.
+
+3.- La disolución de la agencia en Chile, conlleva la obligación de dar aviso de término de giro, conforme a lo establecido en el artículo 69 del Código Tributario, debiendo acompañar el balance final y la determinación a esa fecha de los impuestos correspondientes, los que deberán ser pagados dentro de los dos meses siguientes al término del giro de sus actividades.
+
+Respecto de las utilidades tributables acumuladas y las que determine la agencia a la fecha de término de giro, será aplicable lo dispuesto en la letra c), del N°1, de la letra A) del artículo 14 de la LIR. De acuerdo con esta norma, en el caso de fusión de sociedades, entendiéndose dentro de este concepto la reunión del total de los derechos o acciones de una sociedad en manos de una misma persona, las utilidades que se traspasan a la sociedad absorbente no se afectan con los impuestos Global Complementario o Adicional, mientras no sean retiradas o distribuidas desde esta última.
+
+En este sentido, cabe tener presente lo señalado por este Servicio en Oficio N° 3.532 de 1996, en cuanto a que, al participar de las características y naturaleza de la sociedad extranjera y compartir la misma personalidad jurídica, la fusión en la que esté involucrada la sociedad afectará también a su agencia en Chile, razón por la cual, serían aplicables en este caso las normas sobre reinversión de utilidades.
+
+4.- Como se indicó en el N°2, del Análisis, es posible que, conforme a lo dispuesto en el inciso 2°, del artículo 15, y en el inciso 3°, del N° 9 del artículo 31, ambos de la LIR, se produzca una fusión por la reunión del total de derechos o acciones representativas de una sociedad extranjera, en manos de una sociedad constituida en Chile, aplicándose en tal caso, las reglas contenidas en estas normas para el tratamiento tributario del mayor o menor valor, según corresponda, que se origine al comparar la inversión total realizada en derechos o acciones de la sociedad absorbida y el capital propio de la misma, a la fecha de fusión.
+
+Para tal efecto, la sociedad YYYY S.A., deberá determinar el costo tributario de las acciones o derechos en la sociedad extranjera XX, conforme a lo establecido en el N°4, del artículo 41 B de la LIR.
+
+Por su parte, la determinación del capital propio de la sociedad extranjera XX a la fecha de fusión, se efectuará conforme a las reglas del artículo 41 de la LIR.
+
+Si el valor de la inversión en derechos o acciones referido es superior al capital propio tributario de la sociedad absorbida, la diferencia o “menor valor” que se determine entre ambos, debe ser distribuida entre todos los activos no monetarios que se reciben con motivo de la fusión cuyo valor tributario sea inferior al valor corriente en plaza o de los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, debiendo aumentarse el valor tributario de los activos no monetarios, en la parte que le corresponda de la mencionada diferencia o menor valor, según la proporción que represente el valor corriente en plaza de cada uno de dichos bienes sobre el total de ellos. El aumento se efectuará solo hasta concurrencia del valor corriente en plaza de dicho activo. De subsistir la diferencia o una parte de ella, ésta se considerará como un gasto diferido que deberá deducirse en partes iguales en un lapso de 10 ejercicios comerciales consecutivos.
+
+Conforme a lo anterior, si el único activo no monetario recibido por la sociedad YYYY S.A. en la fusión, corresponde a la inversión en acciones de la sociedad AAAA S.A., y si el valor tributario de éstas es inferior a su valor corriente en plaza, deberá ajustarse el valor tributario de dicha inversión, de acuerdo con lo indicado anteriormente, pero solo hasta concurrencia de su valor corriente en plaza. La diferencia no asignada, constituye un gasto diferido que deberá ser amortizado en la forma y plazo que establece el inciso 3°, del N° 9, del artículo 31 de la LIR.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 492, de 13.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

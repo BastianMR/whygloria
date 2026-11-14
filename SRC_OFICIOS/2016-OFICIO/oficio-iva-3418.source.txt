@@ -1,0 +1,5 @@
+source: oficio-iva-3418.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3418.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3418.doc
+materia: iva
+retrieved: 2026-11-11

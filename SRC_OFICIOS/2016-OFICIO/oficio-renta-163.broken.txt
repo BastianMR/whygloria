@@ -1,0 +1,8 @@
+source: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja163.htm
+doc_twin: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja163.doc
+http_status: 404
+observed: 2026-11-11
+reason: SII's own 2016 renta index links ja163.htm, but neither the page nor
+  its .doc twin is served: both answer 404. Neighbouring numbers are not in the
+  index, so this is a single broken link in the publisher's listing, not a gap
+  in this mirror. No document is missing.

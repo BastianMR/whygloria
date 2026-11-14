@@ -1,0 +1,5 @@
+archive: circu15.zip
+published_to: PDF_CIRCULARES/2013-CIRCULAR/circu15.pdf
+members:
+  circu15.pdf  kept=PDF_CIRCULARES/2013-CIRCULAR  (byte-identical to the published circular)
+  SUPLEMENTO TRIBUTARIO RENTA AÑO 2013.pdf  sha256=f760c63e1b9034c4aab6295a02cd4548ec98b0b883fce63f1c202ee21d5c0485  kept=SIN_PROCESAR/SUPLEMENTOS/2013-CIRCULAR/SUPLEMENTO TRIBUTARIO RENTA AÑO 2013.pdf

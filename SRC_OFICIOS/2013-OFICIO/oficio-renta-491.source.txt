@@ -1,0 +1,5 @@
+source: oficio-renta-491.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja491.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja491.doc
+materia: renta
+retrieved: 2026-11-11

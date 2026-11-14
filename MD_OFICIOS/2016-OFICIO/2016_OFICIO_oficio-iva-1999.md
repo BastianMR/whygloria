@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1999 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2, ART. 8, ART. 12, LETRA E), N°1, LETRA A) – LEY SOBRE IMPUESTO A LA RENTA, A..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1999.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1999.doc"
+materia: "iva"
+fecha: "2016-07-12"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2, ART. 8, ART. 12, LETRA E), N°1, LETRA A) – LEY SOBRE IMPUESTO A LA RENTA, ART. 20, N°4. (ORD. N° 1999, DE 12.07.2016)
+
+IMPUESTO AL VALOR AGREGADO QUE AFECTA A LOS SERVICIOS DE GESTIÓN, PRODUCCIÓN Y DIFUSIÓN DE EVENTOS CULTURALES.
+
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta a los servicios de gestión, producción y difusión de eventos culturales que realizará la Fundación XXXX, para las Municipalidades y sus respectivas Corporaciones Culturales.
+
+I.- ANTECEDENTES:
+
+La Fundación XXXX es una entidad sin fines de lucro, cuyo fin es promover el desarrollo y la difusión de la cultura y el arte en los ámbitos del teatro, la danza, la música y las artes estéticas y que conforme a lo que señalan sus estatutos y a lo que ocurre en la práctica, los servicios que presta son la organización, promoción, gestión, producción y puesta en escena de eventos, obras y espectáculos de carácter cultural, tales como obras y producciones de teatro, conciertos de música clásica, danza y otros espectáculos afines.
+
+En tal calidad, XXXX celebrará convenios con algunas Municipalidades para la realización de eventos culturales. En virtud de dichos convenios, se encargará de la presentación, logística y producción de la puesta en escena de diferentes espectáculos de carácter cultural, los que en muchos casos serán exhibidos gratuitamente a la comunidad.
+
+Entre las actividades que desarrollará la Fundación, como parte de la prestación de estos servicios a las Municipalidades, se encuentra la difusión del evento, en términos de instalar pendones y en general, piezas impresas en lugares visibles, donde se mencionen las obras que estarán presentes en la comuna respectiva, incorporando y destacando en dichas piezas, la presencia del municipio en el desarrollo de estas actividades culturales.
+
+II.- ANÁLISIS:
+
+Analizado el contrato adjunto, se advierte de la cláusula cuarta, relativa a las obligaciones de XXXX, que es ésta quien se obliga a realizar por su cuenta, las funciones de cada obra conforme al calendario establecido en la cláusula segunda del mismo contrato.
+
+Prueba de ello son la serie de obligaciones detalladas en dicha cláusula, en que XXXX es la responsable de: Pagar todos los traslados aéreos internacionales y terrestres de los integrantes de las compañías internacionales, productores y técnicos; Pagar todos los traslados de la carga técnica de la compañía, en camiones cerrados y las personas para efectuar faenas de carga y descarga; Financiar a su cargo los gastos de logística internacional y local de las compañías; Proporcionar la ficha técnica necesaria de iluminación y sonido, camarines que requiere cada obra para la realización del espectáculo al aire libre; Disponer de un productor (a) de terreno, cuya determinación es de su exclusiva competencia; Realizar las labores administrativas y de producción propias vinculadas con la ejecución de las presentaciones; pagar los gastos correspondientes a la producción y realización de las funciones y aquellas de carácter legal, tributario, las que corresponden al derecho de autor y permisos de trabajo para artistas internacionales.
+
+Por otra parte, en la cláusula sexta se deja expresa constancia que el Municipio no tendrá vínculo laboral de ninguna especie con el personal del XXXX o personal que XXXX contrate para realizar la actividad.
+
+De lo anterior se desprende que el convenio adjunto da cuenta en la práctica de la contratación por parte de la Municipalidad de un espectáculo consistente en la exhibición de una serie de obras de teatro, que serán presentadas en forma gratuita al público que asista y cuya puesta en escena es de exclusiva responsabilidad de XXXX, comprometiéndose la Municipalidad solamente a facilitar la realización del espectáculo, proveyendo cierto apoyo logístico para su ejecución, como: facilitar las locaciones para el desarrollo de las funciones; facilitar estacionamientos libres de restricciones y en espacios acordados para transportes del equipo de marketing y de producción del Festival; participar como autoridad comunal en las conferencias de prensa que al efecto se realicen; ofrecer catering a los artistas y técnicos que participen en las funciones, entre otros.
+
+La conclusión precedente se ve reforzada en la cláusula séptima, con la sanción establecida para XXXX en caso de no presentar las funciones en los días y horas acordados, en cuyo caso ésta se obliga a indemnizar a la Municipalidad con el pago de la suma allí señalada.
+
+Así las cosas, el servicio prestado por XXXX, consistente en el montaje y exhibición de obras de teatro, independientemente del contenido cultural de éstas, es una actividad clasificada para efectos tributarios en el Art. 20°, N° 4, de la Ley sobre Impuesto a la Renta, como aquellas propias de una empresa de diversión y esparcimiento.
+
+III.- CONCLUSIÓN:
+
+De lo señalado precedentemente se concluye que las sumas pagadas por las Municipalidades a la Fundación XXXX, remuneran en la práctica, la exhibición de un espectáculo cultural, consistente en la exposición de una serie de obras de teatro, actividad gravada con Impuesto al Valor Agregado, conforme al Art. 8°, en concordancia con el Art. 2°, N° 2, del D.L. N° 825, de 1974, por clasificarse dicha actividad para efectos tributarios en el Art. 20°, N° 4, de la Ley sobre Impuesto a la Renta, como una actividad de diversión y esparcimiento.
+
+Finalmente, cabe señalar que en este caso no procede aplicar la exención contenida en el Art. 12°, letra E), N° 1, letra a), del D.L. N° 825, que libera del Impuesto al Valor Agregado exclusivamente el ingreso percibido por concepto de entradas a espectáculos culturales, situación que no se da en el caso bajo análisis toda vez que el espectáculo producido por la Fundación XXXX, es presentado gratuitamente al público espectador.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1999, de 12.07.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

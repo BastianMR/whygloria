@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1307 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10°, INCISO 3, ART. 58°, N°2. (ORD. N° 1307, DE 14.06.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1307.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja1307.doc"
+materia: "renta"
+fecha: "2013-06-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10°, INCISO 3, ART. 58°, N°2. (ORD. N° 1307, DE 14.06.2013)
+
+TRATAMIENTO TRIBUTARIO DEL MAYOR VALOR OBTENIDO EN LA ENAJENACIÓN DE ADRS, EFECTUADA EN EL EXTERIOR POR UN CONTRIBUYENTE SIN DOMICILIO NI RESIDENCIA EN EL PAÍS.
+
+I.- ANTECEDENTES.
+
+Manifiesta que el Banco AAA, matriz española del grupo BBB; (en adelante BBB S.A.), posee, entre otras inversiones ADRs convertibles en acciones, adquiridas entre los años 1999 a 2001, de la sociedad chilena CCC S.A. y que representan aproximadamente un 12, 6% de dicha sociedad.
+
+Indica que ha recibido ofertas de terceros interesados en adquirir la propiedad que posee en la CCC, lo cual implicará la venta de los ADRs antes mencionados, por lo que surge la necesidad de confirmar su tratamiento tributario.
+
+Así, luego de describir en qué consisten los ADRs e indicar los pronunciamientos que ha dictado este Servicio sobre ellos, afirma que estos títulos representan bienes situados en el exterior, por lo que la renta proveniente de la comercialización de esta clase de valores corresponde a rentas de fuente extranjera.
+
+Agrega que el nuevo texto del artículo 10 de la Ley sobre Impuesto a la Renta (LIR), modificado por la Ley 20.630, señala que se encontrarán afectas a tributación en nuestro país, las rentas obtenidas por un enajenante no residente ni domiciliado en el país que provengan de la enajenación de derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, o de la enajenación de otros derechos representativos del capital de una persona jurídica constituida o residente en el extranjero, o de títulos de propiedad respecto de cualquier entidad o patrimonio constituido, formado o residente en el extranjero.
+
+En su opinión, de ello se desprende que la norma califica como renta tributable en Chile, la ganancia de capital obtenida por contribuyentes no domiciliados o residentes en el país producto de la enajenación indirecta de subyacentes chilenos. De esta manera, el texto antes indicado exige para su aplicación que el objeto enajenado consista en un derecho social, acciones, cuotas, bonos, títulos convertibles en acciones o derechos sociales o bien, cualquier otra clase de derecho que represente parte del capital de una persona jurídica o patrimonio extranjero. En ese sentido la enajenación de un ADR por un extranjero, sólo sería alcanzado por la norma en comento en la medida que éste represente un título convertible en acciones de una entidad extranjera que a su vez, de manera directa o indirecta, posea un subyacente en Chile cuyo valor de mercado represente los valores de materialidad que exige la norma.
+
+En mérito a ello, señala, en caso que un extranjero enajene ADRs convertibles en acciones de sociedades chilenas, no resultará aplicable la norma de tributación establecida en el artículo 10 de la LIR, por cuanto no se trata de la venta de la venta de un derecho o cuota de dominio en una entidad o patrimonio extranjero, sino que de un título que directamente representa un porcentaje de participación en una sociedad anónima constituida en el país.
+
+Por lo expuesto, en caso que BBB enajene los ADRs representativos de acciones de la CCC, no se estará en presencia de un hecho gravado especial contenido en el artículo 10 de la LIR, siendo aplicables las normas generales que regulan la tributación de extranjeros en Chile. Asimismo, al considerarse al ADR como un valor extranjero, la ganancia de capital obtenida en su enajenación constituirá una renta de fuente extranjera, la cual al ser obtenida por un inversionista sin domicilio ni residencia en Chile no se encontrará afecto a tributación en el país.
+
+Por lo tanto, en base a lo señalado, solicita a este Servicio se confirme el criterio contenido en los Oficios N°s 324 de 1990; 3.985 de 1994; 1.969 de 1995; 3.708 de 1999, 3.807 de 2000 y 2.013 de 2012, en el sentido que la enajenación de ADRs convertibles en acciones de sociedades chilenas corresponde a la enajenación de un activo en el extranjero, cuya ganancia de capital, en caso de ser obtenida por un contribuyente sin domicilio ni residencia en Chile, no se encuentra afecta a tributación en el país, sin que en sea aplicable la norma especial contenida en el artículo 10 de la LIR, modificada por la Ley 20.630.
+
+II.- ANÁLISIS.
+
+En conformidad a lo establecido en la Circular N° 1.375 de 1998, de la Superintendencia de Valores y Seguros, los American Depositary Receipts o ADRs, son certificados negociables emitidos por un banco de los Estados Unidos de Norteamérica, que representan propiedad del tenedor de dichos certificados, sobre acciones emitidas por sociedades emisoras inscritas en el Registro de Valores que lleva la Superintendencia.
+
+Precisado lo anterior, analizada su presentación, se advierte que contiene dos criterios que solicita confirmar:
+
+a) Si la enajenación de ADRs de sociedades anónimas chilenas resulta gravada con el Impuesto Adicional, en carácter de único establecido en el inciso 3° del artículo 10 y 58 N° 3 de la LIR; y
+
+b) Si la referida enajenación resulta gravada en nuestro país, considerando que ésta es efectuada por inversionistas sin domicilio ni residencia en Chile.
+
+En relación con la materia, cabe señalar que el artículo 10 de la LIR dispone que se considerarán rentas de fuente chilena las que provengan de bienes situados en el país o de actividades desarrolladas en él, cualquiera que sea el domicilio o residencia del contribuyente, siendo de acuerdo a su inciso 2° rentas de fuente chilena, entre otras, las regalías, los derechos por el uso de marcas, y prestaciones similares derivadas de la explotación en Chile de la propiedad industrial o intelectual.
+
+La Ley 20.630, publicada en el diario oficial el 27.09.2012, modificó a partir de esa fecha el referido artículo 10°. El inciso 3° de esa norma legal, dispone que se encontrarán afectas al Impuesto Adicional en carácter de único establecido en el artículo 58 N° 3 de la LIR, las rentas obtenidas por un enajenante no residente ni domiciliado en el país, que provengan de enajenación de derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, o de la enajenación de otros derechos representativos del capital de una persona jurídica constituida o residente en el extranjero, o de títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, formado o residente en el extranjero, en los casos que indica.
+
+De acuerdo a ello, la enajenación de ADRs de una empresa nacional no resulta gravada con el tributo señalado, puesto que no se comprende dentro de los títulos o derechos susceptibles de ser gravados bajo la norma señalada, atendido que no son representativos del capital de una persona jurídica constituida o residente en el extranjero, o de títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero, siendo el ADR un título representativo de acciones de compañías nacionales que se transan en el exterior.
+
+En relación con la segunda materia consulta, los pronunciamientos anteriores de este Servicio han sostenido que si el banco depositario de los ADRs está domiciliado en el exterior, y los inversionistas que enajenan dichos certificados carecen de domicilio o residencia en nuestro país, la renta obtenida en la enajenación de dichos valores corresponde a una renta de fuente extranjera, la cual en consecuencia, no queda gravada con impuestos en nuestro país.
+
+III.- CONCLUSIÓN.
+
+Atendido el análisis anterior y en relación con los criterios que solicita confirmar, es posible informar lo siguiente:
+
+a) El mayor valor obtenido en la enajenación de ADRs de compañías nacionales, efectuada en el exterior por inversionistas extranjeros sin domicilio ni residencia en nuestro país, no se encuentra gravado con el Impuesto Adicional en carácter de único establecido en el inciso 3° del artículo 10 y 58 N° 3 de la LIR.
+
+b) Se confirma el tratamiento tributario que debe darse al mayor valor obtenido en la enajenación de los ADRs señalados, cuando ésta es efectuada por un contribuyente sin domicilio o residencia en el país, contenido en los pronunciamientos anteriores de este Servicio, en el sentido que los ADRs se consideran bienes situados en el exterior y por tanto, la renta proveniente de ellos tiene su fuente en el exterior y no en Chile.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N°1307, de 14.06.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos

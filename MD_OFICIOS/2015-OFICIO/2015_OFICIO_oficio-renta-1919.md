@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1919 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, LETRA A) – LEY N° 20.630, DE 2012 – LEY N° 18.293, DE 1984, ART. 3°. (ORD. N° 1919, DE 27.07.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1919.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1919.doc"
+materia: "renta"
+fecha: "2015-07-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17°, N° 8, LETRA A) – LEY N° 20.630, DE 2012 – LEY N° 18.293, DE 1984, ART. 3°. (ORD. N° 1919, DE 27.07.2015)
+
+CONSULTA SI A RAÍZ DE LA MODIFICACIÓN A LA LETRA A), DEL N° 8, DEL ARTÍCULO 17 DE LA LEY SOBRE IMPUESTO A LA RENTA, EFECTUADA POR LA LEY N°20.630 DE 2012, SE DEBE ENTENDER QUE LA EXENCIÓN TRIBUTARIA ESTABLECIDA EN EL ARTÍCULO 3° DE LEY N°18.293, ES TAMBIÉN APLICABLE A LA ENAJENACIÓN DE ACCIONES DE UNA SOCIEDAD EN COMANDITA POR ACCIONES.
+
+Se ha solicitado un pronunciamiento a este Servicio, que aclare si a raíz de la modificación a la letra a), del N°8, del artículo 17 de la Ley sobre Impuesto a la Renta (LIR), efectuada por la Ley N°20.630 de 2012, se debe interpretar que la exención tributaria a que se refiere el artículo 3° de la Ley N°18.293 de 1984, es también aplicable a la enajenación de acciones de sociedades en comandita por acciones adquiridas el año 1976.
+
+I.- ANTECEDENTES.
+Señala, que se ha planteado la posibilidad de vender acciones de una sociedad en comandita por acciones adquiridas con fecha 27 de diciembre de 1976, lo que generaría un mayor valor en caso de ser enajenadas.
+Agrega, que con la modificación efectuada a la LIR por la Ley N°20.630 , la letra a), del N°8, del artículo 17 del citado texto legal, establece que no constituye renta el mayor valor obtenido en la enajenación o cesión de acciones de sociedades anónimas, en comandita por acciones o de derechos sociales en sociedades de personas, siempre que entre la fecha de adquisición y enajenación haya transcurrido a lo menos un año. Agrega, que con esta modificación legal, es claro que la legislación tributaria ha otorgado el mismo tratamiento tributario a la enajenación de acciones tanto de sociedades anónimas, como de sociedades en comanditas por acciones, ya que antes de la modificación legal este numerando sólo contemplaba a las sociedades anónimas.
+
+A su juicio, en virtud de lo señalado, si actualmente se aplican los mismos impuestos tanto a la enajenación de acciones de sociedades anónimas, como de sociedades en comanditas por acciones, deben aplicarse las mismas franquicias y exenciones tributarias aplicables a dichos instrumentos; por lo que en su caso, sería plenamente aplicable la franquicia tributaria establecida en el artículo 3° de la Ley N°18.293, en el sentido que el mayor valor en la venta de las acciones de la sociedad en comandita por acciones que indica, constituye un ingreso no renta.
+
+Añade, que no podría aplicarse el mismo régimen de tributación a las referidas operaciones, sin que operen las mismas franquicias o beneficios tributarios en favor de ellas, ya que razonar en contrario, sería establecer diferencias arbitrarias a una situación idéntica establecida por la Ley.
+
+Por lo anterior, solicita se ratifique que al tenor de la citada modificación legal, el mayor valor que se genere en la enajenación de acciones de sociedades en comanditas por acciones, constituye un ingreso no renta para quien recibe dicho mayor valor, ya que le aprovecha el beneficio o franquicia tributaria establecida en el artículo 3° de la Ley N°18.293.
+
+II.- ANÁLISIS.
+
+De acuerdo a los términos de su presentación, solicita se ratifique que al mayor valor obtenido en la enajenación de acciones de una sociedad en comandita por acciones, le resulta aplicable lo dispuesto en el artículo 3° permanente de la Ley N°18.293, de 1984, que establece que no quedará afecto a los tributos de la LIR, el mayor valor, incluido el reajuste de saldo de precio, obtenido en la enajenación o cesión de acciones de sociedades anónimas, que se hayan adquirido antes de la publicación de dicha ley , cuando de acuerdo con lo dispuesto en los artículos 17 N°8 letra a) y 18 de la citada Ley, vigente al 31 de diciembre de 1983, dicho mayor valor no quedaba afecto a impuesto, en virtud de la modificación efectuada a la letra a), del N°8, del artículo 17 de la LIR, por la Ley N°20.630 de 2012 .
+
+Previo a responder su consulta, debe considerarse en primer lugar que, en virtud del principio de legalidad en materia tributaria , sólo a través de una ley se pueden establecer tributos, la que debe contemplar los elementos esenciales de la respectiva obligación tributaria, así como las exenciones a los mismos; en términos tales que el contribuyente sepa a través de la ley qué hechos serán gravados, no gravados o estarán exentos, y cuáles serán los requisitos y elementos esenciales del mismo tributo.
+
+En cuanto a la liberaciones de impuestos que establece la ley, este Servicio ha sostenido en anteriores pronunciamientos , que en su calidad de normas de derecho estricto, al apartarse de la regla general aplicable en materia de tributación, deben ser interpretadas restrictivamente; no pudiendo aplicarse por analogía a otras situaciones o actos no expresamente contemplados en la norma legal que la establece; por lo que no corresponde que se dé a dichas exenciones una amplitud mayor que la que se desprenda del texto legal correspondiente.
+
+Ahora bien, a juicio de este Servicio, el artículo 3° de la Ley N°18.293, al establecer una excepción a las normas sobre tributación de la LIR, es de derecho estricto, por lo cual debe ser interpretada en esa misma forma. En tal sentido, cabe señalar que dicha disposición sólo libera de tributación al mayor valor obtenido en la enajenación de acciones de sociedad anónimas adquiridas antes del 31 de enero de 1984, siempre que se cumplan con las condiciones que la propia norma señala, y por tanto, el mayor valor que se obtenga en la enajenación de acciones en sociedades en comandita por acciones no goza de la comentada liberación de impuestos, independientemente de la fecha de adquisición de las mismas.
+
+Por otro lado, cabe consignar que la Ley N°20.630, introdujo una serie de modificaciones y adecuaciones a la LIR, con el objeto de perfeccionar la legislación tributaria; avanzando en este sentido hacia un tratamiento tributario simétrico respecto de algunas materias en que no se justifica tener un trato diferenciado. En este orden, particularmente en relación a la modificación a la letra a), del N°8, del artículo 17 de la LIR, la ley modificatoria sólo ha venido a homologar el tratamiento tributario que afecta al mayor valor obtenido tanto en la enajenación de los derechos sociales y acciones de una sociedad en comandita por acciones, con el de las acciones de una sociedad anónima, adoptando el régimen que aplica a estas últimas; unificando por consiguiente el tratamiento tributario a las llamadas ganancias de capital .
+
+Al respecto, y en relación a su consulta, en ningún caso esta última disposición legal puede entenderse que ha modificado la norma de excepción contenida en el artículo 3° permanente de la Ley N°18.293, lo cual lógicamente, y en virtud del principio de legalidad antes señalado, sólo puede realizarse por ley expresa.
+
+III.- CONCLUSIONES.
+
+En relación al requerimiento específico, y por las razones expresadas en el análisis, la liberación de impuestos que establece el artículo 3° permanente de la Ley N°18.293 de 1984, en su calidad de norma de carácter excepcional, esto es, de derecho estricto, debe aplicarse conforme a su texto expreso, sólo respecto del mayor valor, incluido el reajuste de saldo de precio, obtenido en la enajenación o cesión de acciones de sociedades anónimas que se hubieran adquirido antes de la publicación de dicha Ley, esto es, antes del 31 de enero de 1984, y siempre que se cumplan con los requisitos que dicha norma establece. En ningún caso, corresponde hacer extensiva por analogía dicha exención, a otras situaciones o actos no contemplados explícitamente en su texto, como sería al mayor valor obtenido en la enajenación de acciones en sociedades en comandita por acciones.
+
+Por consiguiente, la tributación aplicable al mayor valor que se obtenga en la enajenación de las acciones de una sociedad en comandita por acciones, será aquella que establecen las reglas generales de la LIR, contenidas en el artículo 17 N°8, letra a), en relación con el artículo 18 de este mismo texto legal.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1919, de 27.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

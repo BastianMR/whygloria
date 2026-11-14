@@ -1,0 +1,56 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 330 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 13°, N°3 – LEY N° 18.502, ART. 7° – LEY N° 20.765, ART. 1°. (ORD. N° 330, DE 06.02...."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja330.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja330.doc"
+materia: "iva"
+fecha: "2015-02-06"
+exenta: false
+impuestos: ["renta", "iva", "iec"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 13°, N°3 – LEY N° 18.502, ART. 7° – LEY N° 20.765, ART. 1°. (ORD. N° 330, DE 06.02.2015)
+
+SOLICITA INFORMAR BENEFICIOS TRIBUTARIOS APLICABLES A EMPRESAS DE TRANSPORTE MARÍTIMO Y AÉREO DE CABOTAJE.
+
+Se ha solicitado a este Servicio informar si las empresas de transporte marítimo y aéreo, tanto de carga como de pasajeros, pueden acceder al crédito fiscal por concepto de impuesto específico a los combustibles, en qué condiciones y si existen otros beneficios tributarios aplicables a dichas entidades.
+I ANTECEDENTES
+De acuerdo a lo expuesto en el Oficio de la referencia, el Ministerio de Transportes y Telecomunicaciones, con los fondos provistos a través de la Ley de Presupuestos del Sector Público y de la Ley N° 20.378, que crea un subsidio nacional para el transporte público remunerado de pasajeros, subsidia, entre otros, la operación de servicios de transporte de carga y pasajeros, en la modalidad marítima y aérea, para atender necesidades de transporte de habitantes que residen en zonas aisladas del país.
+Para el otorgamiento de dichos subsidios, la Subsecretaría debe considerar los flujos de costos e ingresos estimados del negocio de transporte, para lo cual requiere identificar la posibilidad de recuperación de impuestos por los operadores privados, tales como el impuesto específico a los combustibles.
+En dicho contexto, solicita a este Servicio informar si las empresas de transporte de carga y pasajeros, particularmente, transporte marítimo y aéreo de cabotaje, pueden acceder al crédito fiscal por concepto de impuesto específico a los combustibles, y en qué condiciones, y si existen otros beneficios tributarios que permitan a dichas entidades recuperar otro tipo de impuestos.
+II ANÁLISIS
+En primer término, cabe señalar que el artículo 7° de la Ley N° 18.502 sobre Impuestos a los combustibles, reglamentado por el D.F.L. N° 311 de 1986, del Ministerio de Hacienda, establece que los contribuyentes del IVA y los exportadores podrán recuperar el impuesto específico al ‘petróleo diesel’ soportado en la adquisición de dicho combustible, como crédito fiscal contra el Impuesto al Valor Agregado (en adelante, IVA) determinado por el periodo tributario correspondiente, o mediante su devolución. Lo anterior, siempre que el respectivo combustible no se destine al uso de vehículos que por su naturaleza sirvan para transitar por calles, caminos y vías púbicas en general.
+Por su parte, el artículo 1° de la Ley N° 20.765, que crea un mecanismo para la estabilización de precios de los combustibles, dispone que los contribuyentes del IVA que tengan derecho a la recuperación de los impuestos específicos a los combustibles establecidos en la ley Nº 18.502, deben calcular el monto de dicha recuperación sobre la base de los impuestos determinados conforme a la Ley N° 20.765.
+Con todo, agrega el artículo 1° de la Ley N° 20.765, los contribuyentes de IVA que tengan derecho a recuperar el impuesto específico a los combustibles por el petróleo diésel utilizado, y cuyos ingresos anuales del año calendario anterior, por ventas, servicios u otras actividades de su giro hayan sido inferiores a 15.000 Unidades Tributarias Mensuales (UTM) , deberán efectuar dicha recuperación sólo por el monto del impuesto específico equivalente al componente base, sin considerar el componente variable que incorpora la ley en comento.
+Conforme lo expuesto precedentemente, y para efectos de poder recuperar el impuesto específico, es necesario – al menos – tener la calidad de ‘contribuyente de IVA’ y haber soportado el impuesto específico en la adquisición de ‘petróleo diesel’.
+En cuanto al primer requisito, son contribuyentes de IVA todas aquellas personas naturales o jurídicas, incluyendo las comunidades y sociedades de hecho, que realicen ventas o presten servicios o efectúen cualquier otra operación gravada con los impuestos establecidos en el DL N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios .
+Al respecto, si bien el servicio de transporte se encuentra gravado con IVA, el artículo 13 N° 3 del DL N° 825 de 1974, establece una exención que favorece a las empresas navieras, aéreas, ferroviarias y de movilización urbana, interurbana, interprovincial y rural solo respecto de los ingresos provenientes del ‘transporte de pasajeros’.
+Luego, en la medida que las empresas de transporte marítimo o aéreo, obtengan ingresos provenientes del servicio de transporte de pasajeros, exentos de IVA, no tendrán derecho a la recuperación del impuesto específico al petróleo diésel utilizado en la realización de la referida actividad, en tanto, dicha recuperación se efectúa imputando el impuesto específico como crédito fiscal en contra del débito fiscal generado en operaciones gravadas con IVA.
+Lo anterior, se desprende de lo dispuesto en el D.F.L. N° 311 de 1986 del Ministerio de Hacienda, que reglamenta el artículo 7° de la Ley N° 18.502, que en el mismo sentido establece que si una empresa realiza tanto operaciones gravadas como exentas de IVA, podrá recuperar el impuesto por adquisición de petróleo diésel que se acredite como imputable sólo a operaciones gravadas con IVA.
+En este mismo orden de ideas, el referido Reglamento, dispuso que si el petróleo diésel es de utilización común, es decir, si no es posible determinar qué parte se destina a operaciones gravadas y cual a operaciones exentas, entonces sólo se recuperará el impuesto específico en la proporción que representan las ventas y servicios netos gravados con IVA en el total de ventas y servicios netos efectuados por el contribuyente en el respectivo período.
+Por otra parte, sólo procede la recuperación del impuesto específico soportado en la adquisición de ‘petróleo diésel’, pero no de otro tipo de combustible. Por esta razón, en el caso de las empresas de transporte aéreo o marítimo, que no utilicen petróleo diésel, no procede recuperar el impuesto específico.
+Finalmente, sobre la existencia de otros beneficios tributarios aplicables a dichas entidades, se informa que los Decretos Leyes números 2.564 y 3.059 de 1979, establecen, respectivamente y cumpliendo ciertos requisitos, una exención de Impuesto Adicional que favorece a las empresas aéreas comerciales y a las empresas navieras y de lanchaje, entre otras, por los pagos y abonos a personas sin domicilio ni residencia en Chile, realizados en virtud de asesorías técnicas, servicios prestados, intereses o cualquier otro concepto o rubro que diga relación con su giro ordinario o principal.
+Cabe puntualizar que, el DL N° 3.059 de 1979, referido a las empresas navieras, establece como excepción a la referida franquicia, los pagos contemplados en el artículo 59 N° 5 de la Ley sobre Impuesto a la Renta, relativo al Impuesto Adicional por los pagos en virtud de arrendamiento, subarrendamiento, fletamento, o cualquier forma de cesión de uso de goce temporal de naves extranjeras que se destinen al cabotaje.
+III CONCLUSION
+De conformidad a lo expuesto, pueden recuperar el impuesto específico a los combustibles las empresas de transporte de carga por vía marítima o aérea, en la medida que utilicen como combustible para sus embarcaciones el petróleo diésel, a través de su imputación como crédito en contra del IVA, según el mecanismo que regulan las Leyes números 18.502 y 20.765.
+Las empresas de transporte de pasajeros (tanto marítimo como aéreo) por encontrarse exentas de IVA, en virtud de lo dispuesto en el artículo 13 N° 3 del DL N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, no pueden recuperar el impuesto específico que grava el petróleo diésel.
+Tampoco pueden recuperar el impuesto específico las empresas de transporte aéreo o marítimo que utilicen combustibles distintos al ‘petróleo diésel’.
+Fuera de las disposiciones citadas, nuestra legislación no contempla beneficios o tratamientos preferenciales en materia de impuesto específico a los combustibles para atender necesidades de transporte de habitantes en zonas aisladas del país.
+Finalmente, en cuanto a la existencia de otros beneficios, se informa que es aplicable la exención de Impuesto Adicional por los pagos que efectúen las empresas de transporte marítimo y aéreo a personas no domiciliadas o residentes en Chile en virtud servicios o bienes que digan relación con su giro o rubro principal, cumpliendo las condiciones señaladas en el análisis.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 330, de 06.02.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

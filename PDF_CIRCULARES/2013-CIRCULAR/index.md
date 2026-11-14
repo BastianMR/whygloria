@@ -15,7 +15,7 @@
 * [circu13.pdf](./circu13.pdf)
 * [circu14.pdf](./circu14.pdf)
 * [circu15.pdf](./circu15.pdf)
-* [circu15.zip](./circu15.zip)
+* [circu15.source.txt](./circu15.source.txt)
 * [circu16.pdf](./circu16.pdf)
 * [circu17.pdf](./circu17.pdf)
 * [circu18.pdf](./circu18.pdf)

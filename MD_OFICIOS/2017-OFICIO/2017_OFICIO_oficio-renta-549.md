@@ -1,0 +1,100 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 549 (2017)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 A, LETRA D, N°1, ART. 41B, ART. 41, N°4, ART. 41G - CÓDIGO TRIBUTARIO, ART. 18, ART. 64 – CIRCULAR N° 71, DE..."
+tags: [SII, 2017, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja549.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja549.doc"
+materia: "renta"
+fecha: "2017-03-15"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 A, LETRA D, N°1, ART. 41B, ART. 41, N°4, ART. 41G - CÓDIGO TRIBUTARIO, ART. 18, ART. 64 – CIRCULAR N° 71, DE 2001. (Ord. Nº 549, de 15-03-2017)
+
+DETERMINACIÓN DEL COSTO TRIBUTARIO DEL APORTE DE ACCIONES EMITIDAS POR UNA SOCIEDAD CONSTITUIDA EN EL EXTRANJERO E IMPROCEDENCIA DE OTORGAR AUTORIZACIÓN PARA LLEVAR CONTABILIDAD EN MONEDA EXTRANJERA, CONFORME AL ARTÍCULO 18 DEL CÓDIGO TRIBUTARIO, A LA SOCIEDAD A LA QUE SE APORTAN TALES ACCIONES.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la determinación del costo tributario del aporte de acciones emitidas por una sociedad constituida en el extranjero, a la formación de una nueva sociedad chilena, para efectos de lo dispuesto en el inciso 5°, del artículo 64 del Código Tributario; y sobre la procedencia de otorgar autorización para llevar contabilidad en moneda extranjera, conforme al artículo 18 del mismo Código, a la sociedad a la que se aportan tales acciones.
+
+I.- ANTECEDENTES.
+
+Indica que se ha consultado a esa Dirección Regional, en el marco de un proceso de reorganización empresarial que se proyecta realizar, acerca del valor del aporte de acciones de una sociedad constituida en el extranjero a una sociedad chilena que se formará a estos efectos, aporte que será efectuado por parte de una empresa chilena que de tal forma se incorporará como socia o accionista, ello con el fin de acogerse a lo dispuesto en el artículo 64 del Código Tributario.
+
+De acuerdo al requirente, en este caso correspondería aplicar lo establecido en el N° 4, del artículo 41 B de la Ley sobre Impuesto a la Renta (LIR), relativo al tratamiento tributario de las inversiones en el extranjero, en relación al N° 4, del artículo 41 de la misma Ley, por lo que el costo del aporte correspondería al valor en pesos de la inversión al 1° de enero de 2012 (sic). En opinión de la Dirección Regional, si en el respectivo contrato se considera que el valor de aporte corresponderá al valor tributario del bien, con la finalidad de acogerse a lo dispuesto en el inciso 5°, del artículo 64 del Código Tributario y supuesto el cumplimiento de los demás requisitos establecidos en esta norma legal, el valor tributario de tales acciones adquiridas y expresadas en moneda extranjera, deberá determinarse conforme la norma de corrección monetaria contenida en el N° 4, del artículo 41 de la LIR; no siendo aplicable la regla contenida en el N° 4, del artículo 41 B de la misma Ley, ya que ésta dice relación con la determinación del crédito por impuestos pagados en el exterior, materia ajena a aquella sobre la que versa el requerimiento.
+
+En segundo lugar, indica que también se ha consultado sobre la procedencia de otorgar autorización para llevar contabilidad en moneda extranjera, conforme el artículo 18 del Código Tributario, a la sociedad a la cual se aportarán esas acciones y cuyo capital se expresará en dólares.
+
+A juicio del requirente, es factible aplicar esta autorización, al cumplir con la causal señalada en la letra a), del N° 2, del artículo 18 del Código Tributario, ya que aquellas acciones son los únicos activos en el patrimonio de la nueva compañía, su giro será el de inversiones y el total de sus ingresos será en moneda extranjera derivados de esa inversión. Al respecto, la Dirección Regional expresa que, de lo dispuesto en el artículo 18 del Código Tributario sólo por excepción, este Servicio puede autorizar a ciertos contribuyentes para llevar su contabilidad en moneda extranjera; por lo que a su juicio, en atención a que de los antecedentes referidos en la consulta no se desprende con claridad que se verifique alguno de los supuestos que establece esa norma legal, no sería procedente esta autorización. Agrega que no resulta suficiente para dar cumplimiento a alguno de los requisitos legales contenidos en el referido artículo 18, que el aporte de bienes efectuado a una sociedad que se constituye se exprese en moneda extranjera, pues en particular la letra b), del N° 2, del artículo 18 del Código Tributario exige que el aporte se efectúe desde el exterior, circunstancia que al tenor de la presentación no se verifica.
+
+II.- ANÁLISIS.
+
+1.- Conforme a lo señalado, se consulta en primer lugar sobre el valor de costo tributario que se debe considerar para la aplicación de lo dispuesto en el inciso 5°, del artículo 64 del Código Tributario, que contempla una norma que excepciona o limita las facultades de tasación de este Servicio en el caso de reorganizaciones empresariales, en la situación particular del aporte de acciones de una sociedad constituida en el extranjero a una sociedad que se constituirá al efecto en Chile y cuyo capital será expresado en dólares; aporte que sería efectuado por una empresa que determina sus rentas efectivas en Primera Categoría según contabilidad completa.
+
+Al respecto, cabe señalar que el inciso 5°, del artículo 64 del Código Tributario, establece que no se aplicarán las facultades de tasación que contempla la misma norma legal, cuando se trate del aporte, total o parcial, de activos de cualquier clase, corporales o incorporales, que resulte de otros procesos de reorganización de grupos empresariales, que obedezcan a una legítima razón de negocios, en que subsista la empresa aportante, sea ésta, individual, societaria, o contribuyente del N° 1 del artículo 58 de la LIR, que impliquen un aumento de capital en una sociedad preexistente o la constitución de una nueva sociedad y que no originen flujos efectivos de dinero para el aportante, siempre que los aportes se efectúen y registren al valor contable o tributario en que los activos estaban registrados en la aportante. Dichos valores deberán asignarse en la respectiva junta de accionistas, o escritura pública de constitución o modificación de la sociedad tratándose de sociedades de personas[1].
+
+Por consiguiente, para efectos de la aplicación de esta disposición legal, que hace excepción a las facultades de tasación que tiene este Servicio, es requisito esencial que los aportes de activos se efectúen y registren al valor contable o tributario que tenían en la sociedad aportante. A juicio de esta Dirección, este último valor, en el caso particular en consulta, es aquel que resulta de la aplicación de la norma contemplada actualmente en el N° 4, del inciso 2°, del artículo 41 B de la LIR, que establece que las empresas constituidas en Chile que declaren su renta efectiva según contabilidad deberán aplicar las disposiciones de la LIR con las siguientes modificaciones: N° 4.- Las inversiones efectuadas en el exterior en acciones, derechos sociales y en agencias o establecimientos permanentes, se considerarán como activos en moneda extranjera para los efectos de la corrección monetaria, aplicándose al respecto el N° 4 del artículo 41 de la misma Ley.
+
+En relación al referido N° 4, del artículo 41 B, cabe considerar que está contenida en el Párrafo 6°, del Título II, de la LIR, cuyo encabezado es “De las Normas Relativas a la Tributación Internacional”, de lo que se deduce que al contemplar una regla expresa para los efectos de la corrección monetaria de las inversiones que tengan en el exterior las empresas que declaren renta efectiva según contabilidad, dichas normas resultan plenamente aplicables al caso particular, para efectos de determinar el valor tributario de estas inversiones.
+
+Por consiguiente, y tal como lo dispone el citado N° 4, del artículo 41 B de la LIR, en relación al N°4, del artículo 41 de la misma Ley, para determinar el costo tributario de las acciones emitidas por una empresa extranjera que se aportarán a la constitución de una nueva sociedad que se creará en Chile, se deberá considerar el valor en que se encuentren registrados dichos activos al comienzo del ejercicio en que se efectúe el aporte, incrementándolo o disminuyéndolo con las nuevas inversiones o retiros de capital realizados en el ejercicio en que se efectúe el aporte a la sociedad que se constituye. Para determinar el valor en que se encuentran registrados dichos activos al comienzo del ejercicio, deberá aplicarse el N° 4, del artículo 41 de la LIR, que dispone que el valor de los derechos en moneda extranjera, existentes a la fecha del balance, se ajustará de acuerdo con el valor de cotización de la respectiva moneda, el que de acuerdo a lo dispuesto en el N° 1, de la letra D.-, del artículo 41 A de la LIR, corresponde a la paridad cambiaria entre la moneda nacional y la moneda extranjera respectiva, conforme a la información que al efecto publique el Banco Central de Chile, atendido lo establecido en el N° 6, del Capítulo I del Compendio de Normas de Cambios Internacionales.
+
+Sin perjuicio de lo anterior, cabe hacer presente que a partir del 1° de enero de 2017, la Ley N° 20.780, sobre reforma tributaria, publicada en el Diario Oficial de fecha 29 de septiembre de 2014, modificada a su vez por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada en el Diario Oficial de fecha 8 de febrero de 2016, sustituye el artículo 41 B de la LIR[2].
+
+Dicha sustitución se traduce, en lo pertinente, en que a partir de la referida fecha el actual N° 4 pasa a ser N° 3, y en que también formarán parte del costo de dichas acciones, determinado en la forma precedentemente indicada, las utilidades o cantidades que se hayan afectado con las normas del artículo 41 G de la LIR[3] que se encuentren acumuladas en la entidad controlada a la fecha de enajenación, siempre que previamente se hayan gravado con el Impuesto de Primera Categoría y con el Impuesto Global Complementario o el Impuesto Adicional, según corresponda[4]. Para estos efectos, las citadas utilidades o cantidades se considerarán por el monto a que se refiere el artículo 41 G del señalado cuerpo legal, esto es, por su monto neto, lo que en términos generales implica que de aquellas deberán deducir los costos y gastos directos incurridos en su generación, así como también la proporción de los gastos de utilización común que corresponda, conforme a lo dispuesto en los artículos 29 a 33 de la LIR. Las instrucciones relativas a la sustitución del artículo 41 B de la LIR se impartieron mediante la Circular N° 48 de 2016.
+
+2.- En relación con la segunda consulta, el N° 1, del inciso 1°, del artículo 18 del Código Tributario, establece como regla general que los contribuyentes deberán llevar su contabilidad, presentarán sus declaraciones y pagarán los impuestos que correspondan, en moneda nacional. No obstante lo anterior, agrega el N° 2 de dicha disposición legal, que este Servicio podrá autorizar, por resolución fundada, que determinados contribuyentes o grupos de contribuyentes lleven su contabilidad en moneda extranjera, en los siguientes casos:
+
+a) Cuando la naturaleza, volumen, habitualidad u otras características de sus operaciones de comercio exterior en moneda extranjera lo justifique.
+
+b) Cuando su capital se haya aportado desde el extranjero o sus deudas se hayan contraído con el exterior mayoritariamente en moneda extranjera.
+
+c) Cuando una determinada moneda extranjera influya de manera fundamental en los precios de los bienes o servicios propios del giro del contribuyente.
+
+d) Cuando el contribuyente sea una sociedad filial o establecimiento permanente de otra sociedad o empresa que determine sus resultados para fines tributarios en moneda extranjera, siempre que sus actividades se lleven a cabo sin un grado significativo de autonomía o como una extensión de las actividades de la matriz o empresa[5].
+
+Por consiguiente, el N° 2, del inciso 1°, del artículo 18 del Código Tributario, establece una regla que hace excepción a la norma general que dispone que los contribuyentes deben llevar su contabilidad en pesos, permitiendo a este Servicio autorizar a llevarla en moneda extranjera, sólo en los casos que establece; circunstancias de hecho que por consiguiente deben ser interpretadas en los términos expresos que contempla, no pudiendo hacerlas extensivas a otras hipótesis no contenidas explícitamente en ella. Mediante la Resolución Ex. N° 62 de 2008 se impartieron las instrucciones relativas a dicha autorización.
+
+De acuerdo a lo anterior, a juicio de esta Dirección, y basado sólo en los antecedentes que indica en la presentación, no resultaría aplicable en el caso particular en análisis, la letra b), del N° 2 del citado artículo 18, ya que esta exige que el aporte de capital se efectúe desde el exterior, circunstancia que del tenor de la presentación no se verifica, no resultando suficiente al efecto que el aporte de bienes se exprese en moneda extranjera.
+
+Tampoco sería aplicable la causal indicada en la letra a) del N° 2 de ese artículo, como lo solicita el requirente, ya que se refiere a determinadas circunstancias vinculadas con operaciones de comercio exterior, es decir, con la exportación o importación de bienes o mercaderías, cuestión que no dice relación con el giro de la sociedad que se constituirá. Por su parte, la causal indicada en la letra c) tampoco sería aplicable, ya que de acuerdo a lo expresado en la referida Resolución Ex. N° 62 de 2008, para que pueda ser considerada esta causal, la respectiva moneda extranjera debe ser aquella en la que normalmente se denominen y/o liquiden los precios de venta de los bienes y servicios del contribuyente, o aquella en que se expresen los precios relevantes de los mismos, lo que no se verifica en la situación en análisis. Por último, tampoco sería aplicable la causal de la letra d), ya que de acuerdo a lo expuesto en la presentación, la entidad que se constituirá no será filial o establecimiento permanente de una empresa que determine sus resultados en moneda extranjera.
+
+Por consiguiente, se comparte la opinión de la Dirección Regional, en el sentido que en la situación en consulta, no se configurarían los requisitos legales dispuestos en el N° 2, del artículo 18 del Código Tributario, no siendo suficiente al efecto que el aporte de bienes efectuado a una sociedad que se constituye se exprese en moneda extranjera y que el único activo de aquella sea una inversión en el exterior.
+
+III.- CONCLUSIONES.
+
+En relación a la primera consulta, a juicio de esta Dirección, para determinar el valor tributario del aporte de las acciones emitidas por una sociedad constituida en el exterior, a una sociedad que se constituirá en Chile por parte de una empresa que declara sus rentas efectivas según contabilidad completa, para efectos de lo establecido en el inciso 5°, del artículo 64 del Código Tributario, se deberá actualmente considerar el valor en que se encuentren registrados dichos activos al comienzo del ejercicio en que se efectúe el aporte, incrementándolo o disminuyéndolo con las nuevas inversiones o retiros de capital realizados en el ejercicio en que se lleve a cabo el aporte a la sociedad que se constituye. Para determinar el valor en que se encuentran registrados dichos activos al comienzo del ejercicio, deberá aplicarse el N° 4, del artículo 41 de la LIR, que dispone que el valor de los derechos en moneda extranjera, existentes a la fecha del balance, se ajustará de acuerdo con el valor de cotización de la respectiva moneda, el que de acuerdo a lo dispuesto en el N° 1, de la letra D.-, del artículo 41 A de la LIR, corresponde a la paridad cambiaria entre la moneda nacional y la moneda extranjera respectiva, conforme a la información que al efecto publique el Banco Central de Chile atendido lo establecido en el N° 6, del Capítulo I, del Compendio de Normas de Cambios Internacionales.
+
+Sin perjuicio de lo anterior, a partir del 1° de enero de 2017, fecha en que entra en vigencia el nuevo artículo 41 B de la LIR, también formarán parte de costo de dichas acciones, determinado en la forma precedentemente indicada, las utilidades o cantidades que se hayan afectado con las normas del artículo 41 G de la LIR que se encuentren acumuladas en la entidad controlada a la fecha de enajenación, siempre que previamente se hayan gravado con el Impuesto de Primera Categoría y con el Impuesto Global Complementario o el Impuesto Adicional, según corresponda.
+
+Con todo, se hace presente que las circunstancias que permiten la aplicación de la norma de excepción del inciso 5°, del artículo 64 del Código Tributario, y particularmente la “legítima razón de negocios” que establece, es una materia que deberá dilucidarse caso a caso por lo que no compete calificarlas a priori, no correspondiendo por consiguiente en la especie emitir un pronunciamiento sobre el particular, lo que sólo podrá efectuarse como resultado del ejercicio de las facultades normales de fiscalización de este Servicio.
+
+En relación a la segunda consulta, se comparte el criterio de esa Dirección Regional, en cuanto a que las circunstancias referidas por el consultante –que el capital de la sociedad que se constituirá se expresará en dólares y que sus únicos ingresos provendrán de la inversión en acciones de una empresa constituida en Argentina–, no son causales suficientes para autorizar a dicha sociedad a llevar contabilidad en moneda extranjera, conforme a los términos del N° 2, del inciso 1°, del artículo 18 del Código Tributario. Lo anterior, sin perjuicio que con posterioridad a la constitución de la sociedad se puedan presentar las circunstancias específicas que contempla la citada norma legal para efectos de solicitar la autorización para llevar su contabilidad en moneda extranjera, lo que deberá ser analizado a solicitud del interesado en su oportunidad por la unidad fiscalizadora, conforme al mérito de los antecedentes del caso.
+
+FERNANDO BARRAZA LUENGO
+
+DIRECTOR
+
+Oficio N° 549, de 15.03.2017
+
+Subdirección Normativa
+
+Dpto. de Impuestos Directos
+
+[1] Este Servicio impartió las instrucciones tributarias pertinentes mediante la Circular N°45 de 2001.
+
+[2] De acuerdo a lo dispuesto en el numeral 26), del artículo 1°, en concordancia con el artículo primero de las disposiciones transitorias, ambos de la Ley N° 20.780, numeral modificado a su vez por el numeral v., de la letra k., del numeral 1., del artículo 8°.- de la Ley N° 20.899.
+
+[3] Dicho artículo entró en vigencia a partir del 1° de enero de 2016, de acuerdo a lo dispuesto en el numeral 27), del artículo 1°, en concordancia con el artículo primero de las disposiciones transitorias, ambos de la Ley N° 20.780, numeral modificado a su vez por el numeral 5., del artículo 1°.- de la Ley N° 20.899. Las instrucciones relativas al artículo en comento se impartieron mediante la Circular N° 40 de 2016.
+
+[4] Aquello implica que los contribuyentes sujetos a las disposiciones de la letra B), del artículo 14 de la LIR, vigente a contar del 1° de enero de 2017, cuyos dueños, socios o accionistas tributan sobre las cantidades que retiren, les remesen o distribuyan, no puedan considerar dentro del costo de la inversión referida, las rentas pasivas computadas en el país conforme al artículo 41 G de la LIR.
+
+[5] Las instrucciones relativas a la aplicación de esta norma legal, están contenidas en la Resolución N° 62 de 2008, que instruye sobre el ejercicio por los Directores Regionales y Director de Grandes Contribuyentes de la facultad para autorizar a los contribuyentes a llevar su contabilidad en moneda extranjera.

@@ -1,0 +1,5 @@
+source: oficio-iva-3401.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3401.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja3401.doc
+materia: iva
+retrieved: 2026-11-11

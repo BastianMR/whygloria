@@ -1,0 +1,96 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1381 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 31°, N°7 – LEY N° 20.757, DE 2014, ART. 5°, N°3, LETRA B) – LEY N° 20.780, DE 2014 – OFICIOS N° 1373,..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1381.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1381.doc"
+materia: "renta"
+fecha: "2015-05-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 31°, N°7 – LEY N° 20.757, DE 2014, ART. 5°, N°3, LETRA B) – LEY N° 20.780, DE 2014 – OFICIOS N° 1373, DE 2009 Y N° 336, DE 2010. (ORD. N° 1381, DE 27.05.2015)
+
+TRATAMIENTO TRIBUTARIO DE DESEMBOLSOS EFECTUADOS EN CUMPLIMIENTO DE OBLIGACIONES IMPUESTAS EN RESOLUCIONES DE CALIFICACIÓN AMBIENTAL.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre el tratamiento tributario, desde el punto de vista de la Ley sobre Impuesto a la Renta (LIR), considerando las instrucciones y jurisprudencia de este Servicio , respecto de los desembolsos efectuados en virtud de contratos de mitigación en general, y si el criterio establecido en ellos es pertinente para la aplicación de los parámetros establecidos en el numeral v), del inciso 2°, del artículo 21 de la LIR. Consulta además, respecto del tratamiento tributario también desde el punto de vista de la LIR, de los desembolsos efectuados en virtud de una Resolución de Calificación Ambiental (RCA).
+
+I.- ANTECEDENTES.
+
+Señala en su presentación, que TTT es una empresa dedicada a la generación de energía eléctrica en Chile, enfocada en la operación y mantenimiento de activos, así como en el desarrollo de proyectos de generación eléctrica tanto en Chile como en el extranjero.
+
+Expresa a continuación, que en el contexto del desarrollo de sus negocios y debido a la magnitud y la existencia de terceros que participan en la ejecución de los proyectos en desarrollo, TTT ha materializado la ejecución de los mismos a través de diversos vehículos de inversión que denomina Entidades de Inversión Directa (EID) y que en cumplimiento de la normativa vigente, la ejecución de los proyectos en desarrollo ha sido previamente aprobada por una resolución dictada por la autoridad ambiental competente.
+
+En el contexto de la normativa ambiental vigente, y con motivo de la aprobación y ejecución de los proyectos en desarrollo, las EID han debido efectuar diversos desembolsos en cumplimiento de obligaciones:
+
+(i) impuestas en resoluciones de calificación ambiental ("RCA") que aprueban la ejecución de los proyectos en desarrollo, y
+(ii) asumidas en diversos contratos suscritos con autoridades administrativas, organizaciones dotadas de personalidad jurídica y otras organizaciones comunitarias, a efectos de mitigar las externalidades negativas derivadas de la ejecución de los proyectos en desarrollo ("Contratos de Mitigación").
+
+Indica que el 31 de enero del 2014 se publicó en el Diario Oficial la Ley N°20.727 que modificó el inciso 2° del artículo 21 de la LIR, relativo al tratamiento tributario de ciertos pagos o desembolsos que se efectúen con motivo de la aprobación o ejecución de un proyecto que cuente o deba contar con una aprobación otorgada mediante resolución dictada por la autoridad ambiental.
+
+Luego del análisis de dicha disposición, respecto de la cual señala que ha quedado derogada, con vigencia diferida al 1° de enero de 2017, solicita la confirmación de los siguientes criterios:
+
+i. En relación a los desembolsos efectuados en virtud de los Contratos de Mitigación, solicita confirmar que resulta aplicable el criterio consagrado en la Circular 59 de 2003, y en los Oficios N°s. 419 de 2004 y 491 de 2013. Particularmente, se solicita confirmar que en caso de presentar renta líquida imponible y capital propio tributario negativos, las EID deben necesariamente considerar el parámetro contemplado en el nuevo numeral v), del inciso 2°, del artículo 21 de la LlR, esto es, el 5% de la inversión total anual que se efectúe en la ejecución del proyecto, a efectos de determinar la potencial aplicación de la tributación señalada en el artículo 21 de la LlR a los desembolsos efectuados en virtud de los Contratos de Mitigación que resulten excesivos.
+
+ii. En relación a los desembolsos efectuados en virtud de una RCA, se solicita confirmar que se mantiene vigente y resulta plenamente aplicable el criterio consagrado en los Oficios N°s 1.373 de 2009 y 336 de 2010 y que en consecuencia, la deducibilidad de los desembolsos fundados en una RCA, no se rige por las modificaciones introducidas al artículo 21 por la Ley N°20.727, sino que por las reglas generales contenidas en el artículo 31 de la LlR.
+
+II.- ANÁLISIS.
+
+1) En relación con las materias consultadas, cabe señalar en primer lugar que la letra b), del N° 3, del artículo 5, de la Ley N° 20.727, publicada en el Diario Oficial con fecha 31 de enero de 2014, incorporó un numeral v), al inciso 2°, del artículo 21 de la LIR, el que establece lo siguiente:
+
+“(v) los pagos o desembolsos que se efectúen con motivo de la aprobación o ejecución de un proyecto o de actividades empresariales que cuenten o deban contar, de acuerdo a la legislación sobre medio ambiente, con una resolución dictada por la autoridad competente que apruebe dicho proyecto o actividades y que consten en un contrato o convenio suscrito con una autoridad pública, una organización dotada de personalidad jurídica de acuerdo al Título XXXIII del Libro I del Código Civil, una organización comunitaria constituida en conformidad a la ley Nº19.418, sobre juntas de vecinos y demás organizaciones comunitarias, o en conformidad a la Ley Nº19.253, sobre comunidades indígenas, que guarden relación con grupos, sectores o intereses de la localidad respectiva, siempre que no se efectúen directa o indirectamente en beneficio de empresas del mismo grupo empresarial o de personas o entidades relacionadas en los términos del artículo 100 de la Ley Nº18.045, sobre mercado de valores. Las empresas deberán informar al Servicio de Impuestos Internos, en la forma y oportunidad que éste determine mediante resolución, el monto total de la inversión destinada a la ejecución del proyecto o actividad, los pagos efectuados en cumplimiento de las obligaciones señaladas, la identificación de los beneficiarios de los mismos, así como cualquier otro antecedente relacionado. Con todo, igualmente se afectarán con el impuesto establecido en el inciso primero de este artículo, en la parte correspondiente al exceso, cuando los pagos o desembolsos excedan de la cantidad menor a la suma equivalente al 2% de la renta líquida imponible del ejercicio respectivo, del 1,6 por mil del capital propio tributario de la empresa, según el valor de éste al término del ejercicio respectivo, o del 5% de la inversión total anual que se efectúe en la ejecución del proyecto.".
+
+Dicha modificación, según establece el inciso 2°, del artículo segundo de las disposiciones transitorias de la misma Ley N°20.727, se encuentra vigente desde el 1° de enero del 2014, respecto de los pagos, gastos o desembolsos señalados en la nueva disposición y que se efectúen a contar de dicha fecha. Ahora bien, la Ley N° 20.780, publicada en el Diario Oficial con fecha 29 de septiembre de 2014, a través del N° 11, de su artículo 1°, sustituye el artículo 21 de la LIR, por un nuevo texto que no considera la disposición transcrita en el párrafo anterior. Dicha sustitución, entrará en vigencia a contar del 1° de enero de 2017, conforme dispone el artículo primero de las disposiciones transitorias de dicha ley, y por tanto, la norma analizada se deroga a partir de esa fecha.
+
+2) Aclarada la vigencia de la norma en análisis, y en relación con su primera consulta, relativa al procedimiento que debe utilizarse para determinar el exceso afecto a tributación al que se refiere la parte final del numeral v), del inciso 2°, del artículo 21 de la LIR, en el caso en que la empresa que incurre en los desembolsos a los que se refiere la disposición, se encuentre en situación de pérdida tributaria y presente un capital propio tributario negativo, situación respecto de la cual sostiene que para los efectos de determinar la potencial aplicación de la tributación señalada en el artículo 21 de la LlR a los desembolsos efectuados en virtud de los Contratos de Mitigación que resulten excesivos, se debe necesariamente considerar el 5% de la inversión total anual que se efectúe en la ejecución del proyecto, cabe expresar lo siguiente:
+
+a) La jurisprudencia que cita en su presentación se refiere a una materia totalmente diferente a la analizada, y por tanto, no se puede hacer extensiva su aplicación por analogía. En efecto, dichas instrucciones y pronunciamientos se refieren a la aplicación del límite global absoluto a las donaciones de acuerdo a la Ley N° 19.885, y de los límites particulares que establece la LIR en su artículo 31 N° 7, y el artículo 69 de la Ley N° 18.681 sobre donaciones a Universidades e Institutos Profesionales;
+
+b) El texto del numeral v), del inciso 2°, del artículo 21 de la LIR, al que se refiere en su presentación, establece que se afectarán con el impuesto establecido en el inciso 1° del referido artículo, los pagos o desembolsos que menciona, en la parte que excedan de la cantidad menor a la suma equivalente a:
+
+i) El 2% de la renta líquida imponible del ejercicio respectivo;
+ii) El 1,6 por mil del capital propio tributario de la empresa, según el valor de éste al término del ejercicio respectivo; o
+iii) El 5% de la inversión total anual que se efectúe en la ejecución del proyecto.
+
+c) Atendido el texto de la norma analizada, cabe expresar que su redacción claramente dispone que se afectará con el impuesto establecido en dicho artículo, la parte de los pagos o desembolsos que menciona, que excedan de la cantidad menor entre las tres sumas alternativas que la propia norma contempla.
+
+En el caso particular, en que el contribuyente presenta una pérdida tributaria, esto es, una renta líquida imponible negativa, y un capital propio tributario negativo, la aplicación de los parámetros de 2% y de 1,6 por mil, respectivamente, dan como resultado también sumas negativas, que aplicadas a la situación analizada resultan igual a cero, y en cualquier caso, dichas cantidades son menores a aquella que resultaría al aplicar el parámetro de 5% sobre el monto de la inversión total anual a que se refiere la norma.
+
+d) En consecuencia, en los casos en que en un determinado ejercicio un contribuyente determine una pérdida tributaria o bien su capital propio tributario sea negativo, como ocurriría en el caso de su presentación, no tiene aplicación la liberación que dispone el numeral v), del inciso 2°, del artículo 21 de la LIR, puesto que en tal caso, la cantidad menor de las tres sumas alternativas establecidas como límites por esta disposición, para que proceda la referida liberación (2% de la renta líquida imponible del ejercicio respectivo; y 1,6 por mil del capital propio tributario de la empresa) es negativa, y para estos efectos, equivalente en ambos casos a cero.
+
+3) En relación con su segunda consulta, relativa al alcance de la disposición analizada, y a la vigencia del criterio expresado por este Servicio en los Oficios N°s.1.373 de 2009 y 336 de 2010 sobre el tratamiento tributario de los desembolsos efectuados por los contribuyentes en virtud de lo dispuesto en resoluciones de la Comisión Regional del Medio Ambiente, cabe señalar que, de acuerdo al tenor del numeral v), del inciso 2°, del artículo 21 de la LIR, la liberación de impuestos que la norma establece, alcanza a los pagos o desembolsos que se efectúen con motivo de la aprobación o ejecución de un proyecto o de actividades empresariales que cuenten o deban contar, de acuerdo a la legislación sobre medio ambiente, con una resolución dictada por la autoridad competente que apruebe dicho proyecto o actividades y que consten en un contrato o convenio suscrito con una autoridad pública, o las demás entidades que indica.
+
+Al respecto, cabe señalar que la modificación introducida por la Ley N°20.727 al artículo 21 de la LIR, tuvo por objeto regular el tratamiento tributario de este tipo de desembolsos en general, permitiendo que las empresas financien programas conocidos como de responsabilidad social empresarial, sin que se afecten con el impuesto establecido en el inciso 1° de dicha norma, siempre que se cumplan los requisitos que la misma contempla, y hasta los límites que considera.
+
+Como se puede apreciar entonces, tal norma aplica, sin perjuicio de las demás restricciones que establece, sobre aquellos pagos o desembolsos que consten en un contrato o convenio suscrito con una autoridad pública, o con las demás entidades que la norma señala, exigiendo que se trate de proyectos o actividades empresariales que cuenten o deban contar, con una resolución dictada por la autoridad competente que apruebe dicho proyecto o actividades de acuerdo a la legislación medioambiental respectiva.
+
+Por el contrario, dicha norma no resulta aplicable a aquellos pagos o desembolsos obligatorios, que se efectúen como parte de las exigencias o compromisos estipulados en la resolución de calificación ambiental que apruebe dicho proyecto o actividades, emitida por una Comisión Regional del Medio Ambiente.
+
+De esta manera, sobre la materia, resultan aplicables los criterios sostenidos por este Servicio en los Oficios N°s.1.373 de 2009 y 336 de 2010.
+
+III.- CONCLUSIÓN.
+
+De acuerdo a los antecedentes expuestos, y lo indicado en el análisis precedente, se puede informar Ud. que:
+
+(i) En los casos en que en un determinado ejercicio un contribuyente determine una pérdida tributaria o bien su capital propio tributario sea negativo, como ocurriría en el caso de su presentación, no tiene aplicación la liberación que dispone el numeral v), del inciso 2°, del artículo 21 de la LIR, puesto que en tal caso, la cantidad menor de las tres sumas alternativas establecidas como límites por esta disposición, para que proceda la referida liberación (2% de la renta líquida imponible del ejercicio respectivo; y 1,6 por mil del capital propio tributario de la empresa) es negativa, y para estos efectos, equivalente en ambos casos a cero.
+
+(ii) Lo dispuesto en el numeral v), del inciso 2°, del artículo 21 de la LIR, no resulta aplicable a aquellos pagos o desembolsos obligatorios, que se efectúen como parte de las exigencias o compromisos estipulados en la resolución de calificación ambiental que apruebe dicho proyecto o actividades, emitida por una Comisión Regional del Medio Ambiente.
+
+De esta manera, sobre la materia, resultan aplicables los criterios sostenidos por este Servicio en los Oficios N°s.1.373 de 2009 y 336 de 2010.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1381, de 27.05.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 2852 (2015)"
+description: "LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271, ART. 63° – LEY SOBRE IMPUESTO A LA RENTA, ART. 10° – OFICIOS N° 3412, DE 1988 Y..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja2852.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja2852.doc"
+materia: "otros"
+fecha: "2015-11-11"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271, ART. 63° – LEY SOBRE IMPUESTO A LA RENTA, ART. 10° – OFICIOS N° 3412, DE 1988 Y N° 1761, DE 2014. (ORD. N° 2852, DE 11.11.2015)
+
+SOLICITA CONFIRMAR CRITERIO SOBRE TRATAMIENTO TRIBUTARIO DE FONDOS DESTINADOS A CONSTITUIR UNA FUNDACIÓN DE INTERÉS PRIVADO PANAMEÑA.
+
+Se solicita a este Servicio un pronunciamiento sobre el tratamiento que, frente al Impuesto a las Herencias, Asignaciones y Donaciones, tienen los fondos destinados a constituir una fundación de interés privado panameña.
+
+I ANTECEDENTES
+En su presentación del 22 de abril de 2015 expone que, mediante el Oficio Ordinario N° 3412 de 1988, este Servicio resolvió que las erogaciones efectuadas por empresas fundadoras para constituir el patrimonio inicial de una fundación no revisten el carácter de donaciones, toda vez que este acto de dotación tiene su causa en el acto fundacional y no constituye un desplazamiento de bienes entre dos sujetos de derecho existentes de antemano. Tratase simplemente de un acto de destinación de bienes para constituir una nueva persona jurídica: el fundador o los fundadores dedican al servicio de un fin ciertos bienes, que quedarán sustraídos de su esfera de propiedad.
+Respecto del criterio sostenido en ese oficio solicita confirmar que éste no se aplica a una fundación de interés privado panameña, de aquellas que se usan en dicho país para planificar patrimonios familiares; en particular, para evitar el pago del impuesto de herencias y para no respetar las leyes sucesorias forzosas en el domicilio del fundador o beneficiario.
+Este tema sería de especial importancia, según indica, respecto de la situación de personas que están afectas al Impuesto de Herencias, Asignaciones y Donaciones en Chile establecido en la Ley N° 16.271, y que quieren usar como vehículo este tipo de personas jurídicas para evadir el citado impuesto.
+Por las razones que expone solicita que se ratifique que el hecho que se traspasen a la fundación de interés privado panameña, en su constitución, activos ubicados en Chile o en el extranjero, por personas que estuvieran afectas a los impuestos contemplados en el cuerpo legal antes citado, en ningún caso trae consigo que estos traspasos no queden gravados con el impuesto de donaciones.
+En la presentación del 27 de abril de 2015 solicita que se dé respuesta a una petición anterior, de fecha 24 de julio de 2012.
+
+II ANÁLISIS
+En relación a la cuestión planteada cabe señalar que, efectivamente, mediante el Oficio N° 3412 de 1988 este Servicio sostuvo que las erogaciones realizadas por los fundadores con el objeto de constituir el patrimonio inicial de una fundación no revisten la naturaleza jurídica de donaciones, toda vez que este “acto de dotación” tiene su causa en el acto fundacional y no constituye un desplazamiento de bienes entre dos sujetos de derecho preexistentes de antemano. Se trata, por tanto, de un “acto de destinación” de bienes para constituir una nueva persona jurídica, de suerte que el fundador o fundadores dedican al servicio de un fin ciertos bienes que quedan sustraídos de su esfera .
+Ahora bien, dicho lo anterior y en relación con el criterio que solicita confirmar, es menester considerar lo siguiente.
+En primer lugar, lo resuelto por este Servicio en el oficio indicado responde exclusivamente a la situación allí descrita, de suerte que su doctrina no necesariamente se extiende a otros casos.
+Por de pronto, el oficio dice relación con “actos de dotación” entre intervinientes domiciliados o residentes en Chile, y respecto de bienes que se encuentran situados y actos jurídicos o contratos celebrados también en nuestro país. En cambio, no necesariamente puede extenderse la doctrina anterior a casos donde existe un elemento de extraterritorialidad relacionado con el lugar donde se celebran los actos jurídicos o contratos, se encuentren domiciliadas o residentes algunos de los intervinientes o los bienes envueltos. En estos casos, las erogaciones podrían no calificar como “actos de dotación” conforme a la legislación chilena, en cuyo caso tampoco quedan amparados por la doctrina sustentada en el Oficio N° 3412 de 1988.
+En segundo lugar, y como consecuencia de lo anterior, del hecho que las erogaciones no constituyan “actos de dotación” pueden seguirse, al menos, dos escenarios alternativos.
+a) Que las erogaciones califiquen como “donaciones” gravadas en conformidad con la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. En estos casos, si del conjunto de actos realizados por las partes y sus circunstancias puede concluirse la existencia de maniobras destinadas a encubrir una donación o anticipo a cuenta de herencia, el Servicio puede liquidar y girar el impuesto que corresponda conforme al artículo 63 de la Ley N° 16.271.
+
+La norma indicada permite al Servicio investigar administrativamente si las obligaciones impuestas a las partes por cualquier contrato son efectivas, si dichas obligaciones se han cumplido o si lo que una parte da en virtud de un contrato oneroso guarda proporción con el precio corriente en plaza, a la fecha del contrato, de lo que recibe en cambio. Si el Servicio comprueba que dichas obligaciones no son efectivas o no se han cumplido realmente y concluye por el conjunto de actos y circunstancias que el contrato tiene por objeto encubrir una donación o anticipo a cuenta de herencia, puede liquidar y girar el impuesto que corresponda de acuerdo a la facultad que le entrega el artículo 63 antes citado.
+
+b) Que las erogaciones no constituyan “donaciones” sino otro tipo de acto jurídico o contrato que sirva para transferir a título oneroso el dominio, como una permuta, en cuyo caso aplican las reglas generales de la Ley de la Renta respecto del enajenante. En particular, tratándose de ciertos bienes situados en el extranjero, en los casos y condiciones que establece el actual artículo 10 de la Ley sobre Impuesto a la Renta.
+De este modo, y sin perjuicio de los antecedentes acompañados, no es posible determinar a priori si acaso el hecho de traspasar a una fundación de interés privado panameña, en su constitución, activos ubicados en Chile o en el extranjero, en ningún caso trae consigo que estos traspasos no queden gravados con el impuesto de donaciones.
+Corresponde a las instancias de fiscalización pertinentes, en base a los antecedentes de hecho y de derecho que sean recabados, determinar si existen personas afectas a los impuestos contemplados en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones; o en cambio, si en rigor se ha eludido el pago del Impuesto a la Renta.
+
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente se informa que la doctrina sustentada en el Oficio N° 3412 responde exclusivamente a la situación allí descrita y no necesariamente se extiende a casos donde existe un elemento de extraterritorialidad relacionado con el lugar donde se celebran los actos jurídicos o contratos, se encuentren domiciliadas o residentes algunas de las partes intervinientes o los bienes envueltos.
+Por otra parte, del hecho que las erogaciones no constituyan “actos de dotación” pueden seguirse, al menos, dos escenarios alternativos:
+a) Que las erogaciones califiquen como “donaciones” gravadas en conformidad con la Ley N° 16.271. En estos casos, el Servicio puede liquidar y girar el impuesto que corresponda por aplicación del artículo 63 de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones.
+
+b) Que las erogaciones no constituyan “donaciones” sino otro acto jurídico o contrato que sirva para transferir a título oneroso el dominio, como una permuta, en cuyo caso aplican las reglas generales de la Ley de la Renta respecto del enajenante.
+
+Finalmente, en lo que se refiere a la presentación de fecha 27 de abril de 2015, se hace presente que dicha presentación fue resuelta mediante el Oficio Ord, N° 3426, de 2012, de modo que no existen nuevos planteamientos que corresponda responder.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2852, de 11.11.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

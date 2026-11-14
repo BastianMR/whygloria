@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1773 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 G, LETRA D) – LEY N° 20.780, DE 2014, ART. 24, TRANSITORIO, N° 24. (ORD. N° 1773, DE 22.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1773.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1773.doc"
+materia: "renta"
+fecha: "2016-06-22"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 G, LETRA D) – LEY N° 20.780, DE 2014, ART. 24, TRANSITORIO, N° 24. (ORD. N° 1773, DE 22.06.2016)
+
+APLICACIÓN DEL ARTÍCULO 41 G DE LA LEY SOBRE IMPUESTO A LA RENTA, EN EL CASO DE ACTIVOS ACOGIDOS AL SISTEMA VOLUNTARIO DEL ARTÍCULO 24° TRANSITORIO DE LA LEY N° 20.780.
+
+Se ha solicitado a este Servicio pronunciarse sobre la aplicación del artículo 41 G de la Ley sobre Impuesto a la Renta para el caso de activos acogidos al sistema voluntario del artículo 24° transitorio de la Ley N° 20.780.
+
+I ANTECEDENTES
+
+De acuerdo a su presentación, está asesorando a un contribuyente acogido al sistema voluntario del artículo 24° transitorio de la Ley N° 20.780 que pretende radicar los activos declarados en su patrimonio, tal como lo permite el numeral 14 de dicha norma.
+
+De acuerdo a los antecedentes, el contribuyente declaró acciones en una sociedad uruguaya que representan el 100% del capital de esa sociedad, la que mantiene activos dentro de su patrimonio, que se contabilizan de acuerdo a las normas existentes en Uruguay.
+
+Por aplicación de esas normas, cada entidad en Uruguay debe identificar su “moneda funcional”, que en el caso de su representada es el dólar, y luego debe proceder a su conversión a pesos uruguayos.
+
+De esta manera, quedaría claro – en su opinión – que si bien los estados financieros de la sociedad quedan finalmente expresados en pesos uruguayos, éstos reflejarían sin lugar a dudas valores atribuibles en la “moneda funcional”, en este caso el dólar americano.
+
+La consulta especifica que formula dice relación con la aplicación de la norma contenida en el artículo 41 G de la Ley sobre Impuesto a la Renta, al disponer en su letra D número 4 que: “el resultado de las rentas pasivas extranjeras se determinará en la moneda del país en que se encuentre radicada la entidad respectiva y se convertirá, cuando corresponda, a moneda nacional de acuerdo al tipo de cambio establecido en el número 1, de la letra D, del artículo 41 A, vigente al término del ejercicio en Chile.”
+
+La aplicación de esa norma contravendría, según indica, la forma en que la sociedad que alude está obligada a llevar contabilidad según las normas uruguayas que obligan a contabilizar los elementos patrimoniales en dólares americanos.
+
+II ANÁLISIS
+
+Como cuestión previa, es importante señalar que, en la parte que interesa y conforme al tenor literal del numeral 14 del artículo 24° transitorio de la Ley N° 20.780, los contribuyentes que tengan los bienes y rentas declarados “a través de” sociedades u otras entidades o encargos fiduciarios, pueden solicitar ante las autoridades respectivas que “los activos” que se encuentran “radicados en tales” sociedades, entidades o propietarios fiduciarios, se entiendan, para todos los efectos legales, radicados directamente en el patrimonio del contribuyente en Chile, ello “siempre que disuelvan” tales sociedades o entidades o dejen sin efecto los encargos fiduciarios.
+
+En consecuencia, es evidente que, para operar la radicación de bienes o rentas (activos) es menester, al menos, que:
+
+a) Los activos se encuentren “radicados” o se tengan “a través de” sociedades u otras entidades o encargos fiduciarios.
+
+b) Que la radicación directamente en el patrimonio del contribuyente en Chile sea, precisamente de los activos que se trate y no de las acciones o derechos en las sociedades o entidades a través de las cuales se tienen; y que, por lo mismo,
+
+c) Necesariamente se debe verificar la “disolución” de las sociedades, entidades o propietarios fiduciarios en donde se encontraban radicados los activos.
+
+Al respecto, y de acuerdo a los antecedentes de su propia consulta, el contribuyente declaró acciones en una sociedad uruguaya que representan el 100% del capital de esa sociedad, “la que mantiene activos dentro de su patrimonio”, y respecto de la cual no se pretende su disolución, de suerte que tampoco se puede verificar la radicación directa en el patrimonio del contribuyente en Chile de los “activos” que se encuentran radicados en la sociedad uruguaya.
+
+En consecuencia, faltando un elemento operativo esencial para que proceda la radicación de activos dispuesta en el numeral 14 del artículo 24° transitorio de la Ley N° 20.780 (esto es, la disolución previa de la sociedad uruguaya en donde se encuentran radicados los activos), es impertinente pronunciarse sobre la consulta de fondo.
+
+En cualquier caso, en la medida que el artículo 41 G, letra D, de la Ley sobre Impuesto a la Renta, trata de la “forma de reconocer en Chile” las rentas percibidas o devengadas de conformidad a ese artículo, y no sobre cómo se deba llevar la contabilidad o los estados financieros de las sociedades o entidades sin domicilio ni residencia en Chile, es completamente irrelevante lo que disponga la legislación uruguaya respecto de las sociedades o entidades constituidas en ese país, de suerte que afirmar la aparente contravención de la ley extranjera constituye un error.
+
+Lo anterior, sin considerar además que el artículo 41 G, antes citado, no constituye una regla sobre “radicación” de activos sino que, como se acaba de señalar, sobre la forma de reconocer en Chile “rentas” percibidas o devengadas que generan activos radicados en el exterior, razón por la cual tampoco es aplicable la norma en la especie.
+
+III CONCLUSIÓN
+
+Conforme lo expuesto precedentemente y la descripción expuesta en la consulta se informa que:
+
+a) No es procedente, en la especie, la radicación de activos que dispone el numeral 14 del artículo 24° transitorio de la Ley N° 20.780, por faltar un elemento operativo esencial (disolución de la sociedad uruguaya).
+
+b) Sin perjuicio que sea impertinente pronunciarse sobre el fondo de su consulta, se informa que, en todo caso, el artículo 41 G, letra D, de la Ley sobre Impuesto a la Renta, trata de la “forma de reconocer en Chile” las rentas percibidas o devengadas de conformidad a ese artículo, siendo irrelevante lo que disponga la legislación uruguaya respecto de cómo han de llevar su contabilidad o estados financieros las sociedades o entidades constituidas en ese país.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1773, de 22.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

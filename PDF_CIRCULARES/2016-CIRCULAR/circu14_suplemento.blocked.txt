@@ -1,0 +1,22 @@
+source: SUPLEMENTO_AT2016.doc
+archive: circu14.zip
+archive_manifest: PDF_CIRCULARES/2016-CIRCULAR/circu14.source.txt
+sha256: 6b89b8f4f94981a62959fe4de41773f18db1b7315719caeb071a69e484b954ac
+kept: SIN_PROCESAR/SUPLEMENTOS/2016-CIRCULAR/SUPLEMENTO_AT2016.doc
+expected_concept: MD_CIRCULARES/2016-CIRCULAR/2016_CIRCULAR_circu14_suplemento.md
+expected_type: Suplemento Tributario
+docling_serve: 1.35.0 (docling 2.132.0) at http://127.0.0.1:5001
+observed: 2026-11-11
+reason: this member is a Word 97 `.doc` (23,863,296 bytes) and this toolchain
+  cannot produce markdown from it. The upload is accepted, the task ends with
+  task_status "success" in 4.3 seconds, and the result then comes back with
+  status "failure", `md_content: null` and the error "An unexpected error occurred
+  while opening the document SUPLEMENTO_AT2016.doc". The converter's own log names
+  the cause: "RuntimeError: LibreOffice is required to convert a .doc file to
+  .docx. Install LibreOffice and make sure it is on PATH." LibreOffice is not
+  installed on this machine, so the file cannot be rewritten to `.docx` either.
+  The binary is kept - the corpus is append-only and a source is never deleted -
+  and the sha256 above matches the member entry in the archive manifest, verified
+  when `circu14.zip` was unpacked. The concept is deliberately not created:
+  inventing the text of a 900-page tax supplement would be worse than recording
+  that it is blocked.

@@ -1,0 +1,5 @@
+source: oficio-iva-1422.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1422.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1422.doc
+materia: iva
+retrieved: 2026-11-11

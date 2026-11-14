@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1825 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°12, ART. 41 E, ART. 59 – OFICIO N° 2890, DE 2005. (ORD. N° 1825, DE 23.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1825.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1825.doc"
+materia: "renta"
+fecha: "2016-06-23"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°12, ART. 41 E, ART. 59 – OFICIO N° 2890, DE 2005. (ORD. N° 1825, DE 23.06.2016)
+
+SITUACIÓN TRIBUTARIA DE REMUNERACIONES PAGADAS POR LOS SERVICIOS QUE INDICA, CONTRATADOS POR UNA EMPRESA DOMICILIADA EN CHILE CON EMPRESAS DOMICILIADAS EN EL EXTRANJERO.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la situación tributaria de remuneraciones pagadas por los servicios que indica, contratados por una empresa domiciliada en Chile con empresas domiciliadas en el extranjero.
+
+I.- ANTECEDENTES.
+
+La Dirección Regional indica que el requirente es una sociedad domiciliada en Chile (XXXX), cuyo giro es el arrendamiento de bienes corporales muebles o equipos bajo la modalidad de leasing, afecta a las normas de la Primera Categoría.
+
+La organización de esta empresa consta de un ejecutivo comercial y un profesional de soporte de las funciones del ejecutivo. Para el adecuado desarrollo del giro en Chile, requiere contratar servicios prestados por dos sociedades, una domiciliada en Colombia (XXXA) y otra en Perú (XXXB), los que son realizados por sus ejecutivos directamente desde sus países de origen. Dichos servicios consisten básicamente, en el caso de la sociedad colombiana en “Controller Regional”, Gerencia de Créditos y Análisis de Operaciones Regionales y en el caso de la empresa peruana, en servicios de Gerencia General Regional y Gerencia Comercial Regional.
+
+Las indicadas sociedades constituidas en Colombia, Perú y Chile, tienen como propietarios a los mismos accionistas, los que tienen domicilio en Estados Unidos de América.
+
+El requirente solicita, por los argumentos que señala, que se ratifique que los pagos por los servicios contratados con las sociedades extranjeras son necesarios para producir las rentas de la empresa en Chile, no aplicándose el límite que establece el N° 12, del artículo 31 de la LIR, al tratarse de servicios a que se refiere el N° 2, del inciso 4° del artículo 59 de la misma Ley y no de aquellos indicados en el inciso 1° del mismo artículo 59. En cuanto a la situación de los beneficiarios de los pagos señalados, domiciliados en el extranjero, solicita se confirme que corresponden a beneficios empresariales, aplicándose lo dispuesto en el artículo 7 de los CDTI celebrados con Colombia y Perú, y en tal carácter no quedarían afectos a los impuestos establecidos en la LIR.
+
+En atención a que la consulta dice relación con contratos que no se han celebrado, y por lo tanto, no existiría un interés actualmente comprometido, a su juicio no se podría confirmar a priori el tratamiento tributario que indica el requirente.
+
+Sin perjuicio de lo anterior, y con el objeto de dar respuesta a la solicitud, hace presente que los servicios referidos, en tanto sean prestados por residentes en Colombia y Perú, podrían ser calificados, conforme a los CDTI referidos, como beneficios empresariales y por lo tanto gravados sólo en dichos países, a menos que sean atribuibles a un establecimiento permanente en Chile. En cuanto a la situación de los citados gastos respecto de la empresa domiciliada en Chile, indica que en caso que cumplan los requisitos generales para su deducción, no se aplicaría en la especie el límite establecido en el N° 12, del artículo 31 de la LIR ya que esta norma se refiere a los servicios indicados en el inciso 1° del artículo 59 de la misma Ley, cuyo no es el caso de la referencia.
+
+II.- ANÁLISIS.
+
+1.- En primer lugar, tal como lo expresa en su requerimiento, la Circular N° 71 de 2001, establece que en principio, deberán responderse sólo las consultas que se refieran a casos concretos y en los que exista un interés actualmente comprometido. No obstante lo anterior, la misma Circular previene a continuación que deberá tenerse especial cuidado en darse respuesta a las consultas que, sin cumplir con los requisitos que contempla, impliquen satisfacer la necesidad del consultante en orden a tener certeza sobre la tributación que afectaría a un determinado proyecto de inversión o a la realización de un negocio específico. Por consiguiente, en el contexto de lo instruido en esta Circular, corresponde analizar en base a las normas legales vigentes, la situación a la cual se vería sujeto el señalado proyecto; no obstante lo cual, la determinación del cumplimiento de los requisitos legales en la situación específica que se plantea, obedece a una cuestión de hecho que deberá ser verificada en la instancia de fiscalización respectiva, no correspondiendo que este Servicio confirme a priori el tratamiento tributario que indica el contribuyente.
+
+2.- Teniendo en consideración lo anterior, cabe señalar que de acuerdo a lo dispuesto por el inciso 1°, del artículo 31 de la LIR, la renta líquida del Impuesto de Primera Categoría se debe determinar deduciendo de la renta bruta todos los gastos necesarios para producirla, que no hayan sido rebajados en virtud del artículo 30, pagados o adeudados durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante este Servicio.
+
+A juicio de esta Dirección, los gastos en los que incurriría la sociedad XXXX, por servicios que se pretende suministrar por una sociedad domiciliada en Colombia y otra en Perú a través de contratos de prestación de servicios que suscribiría al efecto, se podrán deducir en la determinación de la renta líquida imponible de la misma empresa, en la medida que sean absolutamente necesarios e inevitables para el desarrollo de su giro en Chile, y se cumplan los demás requisitos legales ; circunstancias todas cuya concurrencia, como ya se señaló, sólo podrán ser verificadas en la instancia de fiscalización respectiva.
+
+Por otro lado, en cuanto a la aplicación a dichas remuneraciones de lo establecido en el N° 12, del artículo 31 de la LIR, que contempla un límite aceptado tributariamente respecto de los pagos que se efectúen al exterior que indica , en tanto se cumplan con todos los requisitos legales del artículo 31 señalados precedentemente, se coincide con lo señalado en su consulta, en cuanto que, basado sólo en los antecedentes que expresa, no resultaría aplicable dicho límite al caso en referencia, al tratarse de gastos comprendidos en el inciso 1°, del N° 2, del artículo 59 de la Ley del ramo, esto es, de remuneraciones por servicios prestados en el extranjero, y no de aquellas comprendidas en el inciso 1° del referido artículo 59.
+
+Sin perjuicio de lo anterior, en su caso serán aplicables a estas operaciones las normas contenidas en el nuevo artículo 41 E de la LIR , la que otorga facultades a este Servicio para impugnar los precios, valores o rentabilidades fijados, o establecerlos en caso de no haberse fijado alguno, cuando se trate de operaciones transfronterizas que se lleven a cabo con partes relacionadas en el extranjero y no se hayan efectuado a precios, valores o rentabilidades normales de mercado. En efecto, la letra b), del N° 1 de la citada disposición legal, establece que se encontrarán relacionadas y por lo tanto será aplicable dicha facultad, en tanto concurran los demás requisitos legales, cuando una misma persona o personas participen directa o indirectamente en la dirección, control, capital, utilidades o ingresos de ambas partes, entendiéndose todas ellas relacionadas entre sí; circunstancias estas últimas que concurren en la especie según los antecedentes tenidos a la vista.
+
+3.- En cuanto a la aplicación de los CDTI celebrados con las Repúblicas de Colombia y Perú, a las rentas en referencia pagadas a las respectivas sociedades, a juicio de esta Dirección no es posible, con los antecedentes proporcionados por la recurrente, determinar con exactitud el tratamiento tributario que correspondería aplicar en el marco de dichos convenios.
+
+Sin perjuicio de lo anterior, se hace presente que si las empresas que prestan los servicios cumplen con los requisitos de ser residentes en Perú o Colombia, de acuerdo a lo que disponga el respectivo convenio, pueden quedar afectas al pago de impuestos en Chile si se configura un establecimiento permanente en nuestro país de acuerdo con las disposiciones del artículo 5 de esos convenios. Generalmente no se configura un establecimiento permanente sin una presencia en el país fuente (en este caso Chile), sin embargo hay excepciones de esa regla general que podrían ser aplicados por la actividad comercial desarrollado en Chile por las empresas de Perú y Colombia. Este Servicio ha interpretado las normas al respecto en detalle, justamente refriéndose al Convenio entre Chile y Perú (Oficio N° 2890, de 2005)
+
+Los servicios que se prestarían han sido explicados en forma general y sin tener mayor detalle de los contratos y los servicios que efectivamente las empresas prestarían. Es por ello que se puede informar que respecto muchos de los servicios descritos se trata de los llamado contratos mixtos donde una parte del servicio puede ser calificado como una regalía en conformidad con el artículo 12 de los Convenios suscrito con Perú y Colombia. Para mayor detalle ver el Oficio N° 2887, de 2012. Los pagos por regalía se gravan con un impuesto fijado por el Convenio respectivo y sobre el monto bruto del pago sin que las empresas en Colombia y Perú tengan en Chile un establecimiento permanente. A lo anterior habría que agregar que en el Convenio suscrito con Colombia se incluye dentro del concepto de regalías a los pagos por servicios prestados por asistencia técnica, servicios técnicos y servicios de consultoría, teniendo como única limitación que el impuesto exigido en Chile no puede exceder de 10%. En general se puede concluir que el concepto “asistencia técnica, servicios técnicos y servicios de consultoría” incluye todo lo que se menciona como servicios prestados por la empresa residente en Colombia.
+
+III.- CONCLUSIONES.
+
+Los gastos en los que incurriría la sociedad XXXX, por pagos correspondientes a servicios que se pretende suministrar por una sociedad domiciliada en Colombia y otra en Perú, en virtud de contratos de prestación de servicios que suscribirían al efecto, se podrán deducir en la determinación de la renta líquida imponible de la misma empresa siempre que se cumpla con todos los requisitos legales establecidos para ello, entre los cuales está su debida acreditación conforme lo establece el inciso 2° del artículo 31 de la LIR; no aplicándose el límite que establece el N° 12 del mismo artículo, ya que no se trataría de pagos al exterior por conceptos indicados en el inciso primero del artículo 59 de la LIR; y sin perjuicio del ejercicio de la facultad de impugnación o tasación que puede ejercer este Servicio en los casos que corresponda, de acuerdo al artículo 41 E de la misma ley.
+
+Las rentas percibidas por las empresas domiciliadas en Perú o Colombia por servicios prestados a la sociedad residente en Chile quedarán sujetas al tratamiento previsto en los convenios vigentes con esos países según los criterios mencionados anteriormente.
+
+Las conclusiones indicadas, están sujetas al efectivo cumplimiento en los hechos, de los requisitos legales que establecen las normas analizadas, los que sólo podrán ser verificados, a la luz de los antecedentes específicos y concretos del caso, en la instancia de fiscalización correspondiente, conforme a las atribuciones que la Ley otorga a este Servicio.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1825, de 23.06.2016
+Subdirección Normativa
+Dpto. de Normas Internacionales

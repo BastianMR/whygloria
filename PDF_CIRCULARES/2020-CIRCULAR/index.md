@@ -8,7 +8,7 @@
 * [circu6.pdf](./circu6.pdf)
 * [circu7.pdf](./circu7.pdf)
 * [circu8.pdf](./circu8.pdf)
-* [circu8.zip](./circu8.zip)
+* [circu8.source.txt](./circu8.source.txt)
 * [circu9.pdf](./circu9.pdf)
 * [circu10.pdf](./circu10.pdf)
 * [circu11.pdf](./circu11.pdf)

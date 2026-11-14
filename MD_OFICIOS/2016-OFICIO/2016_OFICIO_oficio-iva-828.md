@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 828 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2, ART. 8 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20, N°3 Y 4 – DECRETO N° 107, ..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja828.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja828.doc"
+materia: "iva"
+fecha: "2016-04-01"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°2, ART. 8 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20, N°3 Y 4 – DECRETO N° 107, DE 1970. (ORD. N° 828, DE 01.04.2016)
+
+SOLICITA PRONUNCIAMIENTO SOBRE TRIBUTACIÓN DE IVA EN SERVICIOS PRESTADOS EN DEPÓSITO FRANCO Y ZONA FRANCA PARAGUAYA UBICADA EN ANTOFAGASTA.
+
+Se ha solicitado a esta Dirección Nacional emitir un pronunciamiento respecto de la interpretación y aplicación de normas del D.L. N° 825 en relación a los servicios prestados en Depósito Franco y Zona Franca Paraguaya ubicada en Antofagasta.
+
+I.- ANTECEDENTES
+
+Se recibió en la XV Dirección Regional Metropolitana Santiago Oriente, consulta de Don TTTT, en representación de Sociedad Marítima YYYY., por medio de la cual expone que su representada asumiría la operación del Depósito y Zona Franca Paraguayo ubicado en los recintos primarios de la Empresa Portuaria de Antofagasta, para la movilización y otros servicios a las mercaderías en tránsito hacia y desde terceros países, exportadas o importadas por la República de Paraguay.
+
+Indica que el establecimiento de dicho Depósito Franco y Zona Franca en Antofagasta, se creó en virtud al Convenio vigente entre la República del Paraguay y la República de Chile, fechado el 19 de agosto de 1968, cuyo Reglamento se aprobó con fecha 4 de mayo de 2004.
+
+Señala que el establecimiento de este Depósito Franco y Zona Franca, significaría un movimiento relevante de mercaderías en tránsito a través de territorio chileno, ya sea destinado o procedente de Paraguay. Dicho tránsito de mercaderías en territorio chileno requeriría diversos servicios, tales como, bodegaje, movilización, revisión e inspección de mercaderías, reembalaje u otros que eventualmente se necesitarían, por los cuales se solicita precisar si son servicios exentos o afectos a IVA conforme a la legislación tributaria de Chile.
+
+II.- ANÁLISIS Y CONCLUSIÓN.
+
+Sobre el particular, con fecha 26 de enero de 1970 se suscribió el Decreto N° 107, por medio del cual se promulgó el Convenio celebrado por Chile con la República del Paraguay, suscrito con fecha 19 de agosto de 1968, para el establecimiento en Antofagasta de un depósito franco y zona franca para las mercaderías exportadas o importadas por Paraguay.
+
+En dicho Convenio, Chile se comprometió con Paraguay a conceder un depósito franco y zona franca en el puerto de Antofagasta para el recibo, almacenaje y distribución de las mercaderías de procedencia paraguaya, así como para el recibo, almacenaje y expedición de las mercaderías destinadas al Paraguay. Para los efectos aduaneros se estableció que las mercaderías en depósito franco serán consideradas en régimen de libre tránsito.
+
+Se indica además en el señalado Convenio que en ningún caso las mercaderías que ingresen al depósito o zona franca estarán afectas a gravámenes o derechos aduaneros y a las demás normas de las importaciones que aplica el Gobierno chileno en su régimen general, salvo los casos en que ellas deban, con posterioridad, nacionalizarse en territorio chileno.
+
+Por otra parte, cabe manifestar a Ud. que el artículo 8° del Decreto Ley N° 825, de 1974, grava con el IVA las ventas y servicios.
+
+A su vez, el artículo 2° N°2, del mismo texto legal, define el hecho gravado “servicio” como "la acción o prestación que una persona realiza para otra y por la cual percibe un interés, prima, comisión o cualquier otra forma de remuneración, siempre que provenga del ejercicio de las actividades comprendidas en los N°s 3 y 4 del artículo 20° de la Ley sobre Impuesto a la Renta".
+
+Del Convenio en cuestión no se visualiza ninguna norma que prevea alguna exención en el ámbito del IVA que beneficie a los servicios prestados o utilizados en el depósito franco ya mencionado, limitándose los beneficios tributarios y aduaneros que dicha normativa contiene sólo a las mercaderías propiamente tales, pero no a los servicios prestados a dicha mercancía.
+
+De lo expuesto, aparece que los servicios mencionados en su presentación deben regirse, en cuanto a su tributación, por la normativa interna contenida en el D.L. 825, de 1974, y su Reglamento.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 828, de 01.04.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

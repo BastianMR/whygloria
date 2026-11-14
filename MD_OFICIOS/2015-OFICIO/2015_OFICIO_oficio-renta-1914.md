@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1914 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4, ART. 41° B), ART. 59° – OFICIO N° 2047, DE 2011. (ORD. N° 1914, DE 27.07.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1914.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1914.doc"
+materia: "renta"
+fecha: "2015-07-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 74°, N°4, ART. 41° B), ART. 59° – OFICIO N° 2047, DE 2011. (ORD. N° 1914, DE 27.07.2015)
+
+SITUACIÓN TRIBUTARIA DE INTERESES OBTENIDOS POR UNA SUCURSAL EN EL EXTERIOR PROVENIENTES DE DEPÓSITOS EFECTUADOS EN SU CASA MATRIZ CONSTITUIDA EN CHILE.
+
+Se ha solicitado un pronunciamiento sobre la situación tributaria de los intereses obtenidos por una sucursal en el exterior, provenientes de depósitos efectuados en su casa matriz constituida en Chile, para efectos de lo previsto en el N° 1, del artículo 41 B de la Ley sobre Impuesto a la Renta (LIR).
+
+I.- ANTECEDENTES.
+
+Señala, que un banco domiciliado en Chile mantiene una sucursal en los Estados Unidos de América, y que dentro de sus operaciones habituales realiza operaciones de time deposit en el banco chileno, por las cuales este último remesa los intereses al extranjero y retiene el Impuesto Adicional con la tasa de 4%, que establece el N° 4, del artículo 74 de la LIR.
+
+Indica, que la sucursal no paga en el exterior impuestos por estos intereses, ya que conforme a la legislación del mismo país, se califican como ingresos no conectados; razón por la cual, el impuesto retenido en Chile no puede ser utilizado como crédito contra el impuesto a la renta que grava a la sucursal en el extranjero.
+
+Agrega, que el banco incorpora anualmente a su resultado tributario de primera categoría, la renta líquida imponible determinada por la sucursal, de acuerdo a lo dispuesto en el artículo 41 B de la LIR, produciéndose según estima, una doble tributación respecto de un mismo ingreso.
+
+Al respecto, solicita se confirme que los intereses obtenidos por la sucursal, producto de la inversión efectuada en Chile, deberían deducirse en la determinación de la renta líquida imponible de la sucursal en el extranjero, pues se trataría de rentas que completaron su tributación con el Impuesto Adicional, que se aplica en calidad de único.
+
+II.- ANÁLISIS.
+
+Conforme a lo dispuesto en el N°1, del artículo 41 B de la LIR, los ingresos y gastos incurridos por una sucursal en el exterior de empresas constituidas en Chile, sólo deben ser registrados por la entidad que los genera en el exterior, esto es, la respectiva sucursal. En tanto, la casa principal o matriz, debe registrar en Chile el resultado de ganancia o pérdida tributaria obtenida en el ejercicio respectivo por la referida sucursal, sobre base percibida o devengada, determinado éste de acuerdo con las normas contenidas en el N°1, del artículo 41 B de la LlR, lo que en términos generales implica que dicho resultado se calcula aplicando las normas de la LIR, sobre la determinación de la base imponible de primera categoría, lo cual implica que la sucursal debe reconocer como ingreso tales intereses percibidos o devengados.
+
+Por su parte, el inciso 4°, del artículo 59 de la LIR, establece que el Impuesto Adicional que contempla, se aplicará, con una tasa de 35%, respecto de las rentas que se paguen o abonen en cuenta a personas sin residencia ni domicilio en Chile, por concepto de intereses. Sin embargo, estarán afectos a este impuesto, pero con una tasa del 4%, los intereses provenientes de las operaciones que indica el N° 1 de la misma norma legal.
+
+En relación con la aplicación de esta última norma, mediante el Oficio N° 2.047 de 2011, este Servicio expresó con anterioridad que en atención a que dicha norma legal no contempla excepción alguna respecto del Impuesto Adicional de 35% o 4% que establece, según corresponda, respecto de las sumas que se paguen o abonen en cuenta a personas sin domicilio ni residencia en el país por concepto de intereses, también es aplicable a los intereses pagados o remesados por una casa matriz a su agencia o establecimiento permanente domiciliada en el extranjero, provenientes de depósitos efectuados en aquélla.
+
+Ahora bien, en relación con su consulta específica, en cuanto a no considerar en el resultado de ganancia o pérdida que obtenga la sucursal en el exterior, los intereses por depósitos efectuados en el país en la casa matriz, cabe señalar que una medida de tal naturaleza requeriría de una disposición legal expresa, puesto que las normas legales señaladas no contemplan una excepción en tal sentido.
+
+En efecto, las rentas de agencias, sucursales o establecimientos permanentes en el exterior, de empresas que declaren su renta efectiva según contabilidad, constituyen rentas clasificadas en la primera categoría de la LIR, conforme a las normas generales del mismo texto legal, debiendo para ello agregarse a la renta líquida imponible de la empresa, casa matriz o principal, al término del ejercicio, la que debe incluir los ingresos por intereses percibidos o devengados provenientes de los depósitos efectuados en Chile.
+
+Finalmente, cabe señalar que no se comparte el juicio que expone en su presentación, en orden a señalar que tales sumas se afectarían con una doble tributación, puesto que si bien los intereses se gravan con el Impuesto Adicional en su remesa al exterior, y deben ser reconocidos como ingresos por la sucursal y por esa vía formar parte de los resultados que deben reconocerse en Chile, debe tenerse presente que al mismo tiempo, el banco local deduce como gasto los intereses pagados o devengados por tales depósitos, de acuerdo a lo establecido en el N° 1, del artículo 31 de la LIR.
+
+III.- CONCLUSIÓN.
+
+En atención a que la LIR no establece una norma que permita deducir del resultado obtenido por la sucursal en el exterior, las rentas a que se refiere su requerimiento, no es factible acceder a su solicitud, por lo cual, solo cabe concluir que en la situación planteada, se deberá considerar dentro del resultado de la sucursal que corresponda determinar conforme lo establece el N° 1, del artículo 41 B de la LIR, los intereses percibidos o devengados por depósitos realizados en su casa principal o matriz en Chile.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1914, de 27.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

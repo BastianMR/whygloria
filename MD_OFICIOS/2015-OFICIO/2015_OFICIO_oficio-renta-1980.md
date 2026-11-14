@@ -1,0 +1,81 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1980 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, INCISO TERCERO, N°4 – CIRCULAR N° 24, DE 2008. (ORD. N° 1980, DE 31.07.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1980.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1980.doc"
+materia: "renta"
+fecha: "2015-07-31"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, INCISO TERCERO, N°4 – CIRCULAR N° 24, DE 2008. (ORD. N° 1980, DE 31.07.2015)
+
+CASTIGO DE CRÉDITOS VENCIDOS E IMPAGOS, CONFORME A LAS INSTRUCCIONES CONTENIDAS EN LA CIRCULAR N°24 DE 2008.
+
+I.- ANTECEDENTES.
+
+Señala, que si bien uno de los requisitos que establece la Circular N°24, de 2008, para el castigo de créditos vencidos, es que se hayan agotado prudencialmente los medios de cobro, subsiste la duda respecto de los plazos de prescripción dentro de los cuales se deben ejercer las acciones o medios conducentes a obtener el cumplimiento de la obligación, esto es, dentro del plazo de un año que establece la Ley N°19.983, en el caso de las facturas que tienen mérito ejecutivo; dentro de cinco años que establece el artículo 2.515 del Código Civil, o se pueden realizar independientemente del plazo de prescripción establecido por la Ley.
+
+Indica, que la Circular citada dispone que para proceder al castigo de un crédito, se deberá acreditar entre otras circunstancias que se trate de créditos morosos sobre los cuales se hayan ejercido dentro de los plazos de prescripción en forma diligente y uniforme las acciones o medios necesarios conducentes a obtener el cumplimiento de la obligación.
+
+Agrega, que en algunos casos las partes establecen una cláusula arbitral, por lo que en tales situaciones los medios de cobro no se canalizan a través de los tribunales ordinarios de justicia; añadiendo que otros deudores han sido declarados en quiebra por lo que no es posible cobrar lo adeudado; circunstancias que retardan el ejercicio de las respectivas acciones de cobro. Agrega adicionalmente que existen créditos impagos desde el año 2008 y anteriores.
+
+También indica, que el costo de demandar judicialmente el cobro de una deuda en el caso de una PYME es considerable, por lo que en el caso de éstas, se trata de agotar las instancias extrajudiciales lo que puede tomar un prolongado período.
+
+Por lo anterior, solicita un pronunciamiento a fin de establecer el procedimiento adecuado, para el castigo de créditos vencidos, conforme a la Circular N°24 de 2008.
+
+II.- ANÁLISIS.
+
+1.- El inciso 1°, del artículo 31 de la LIR, establece que la renta líquida de las personas que exploten bienes o desarrollen actividades afectas al impuesto de Primera Categoría, se determinará deduciendo de la renta bruta todos los gastos necesarios para producirla que no hayan sido rebajados como costos directos, pagados o adeudados, durante el ejercicio comercial correspondiente, siempre que se acrediten o justifiquen en forma fehaciente ante el Servicio.
+
+El inciso 3° de la citada norma legal, señala que especialmente procederá la deducción de ciertos gastos, en cuanto se relacionen con el giro del negocio, estableciendo en su N°4, que podrán rebajarse como tales, los créditos incobrables castigados durante el año, siempre que hayan sido contabilizados oportunamente y se hayan agotado prudencialmente los medios de cobro.
+
+2.- Sobre la materia, este Servicio instruyó mediante la Circular N°24 de 2008, en consideración a la realidad de las prácticas comerciales, sistemas de control e información y administración de cartera de los deudores; reconociendo en este sentido la existencia de márgenes razonables de incobrabilidad; debiendo acreditarse esta circunstancia, proporcionando evidencia suficiente de que las acciones de cobranza han sido prudentemente ejercidas.
+
+En este contexto, en el señalado instructivo se estableció como una de las condiciones para estimar que se han agotado prudencialmente los medios de cobro para el castigo de los créditos morosos, que se haya ejercido dentro de los plazos de prescripción en forma uniforme y diligente las acciones o medios necesarios conducentes a obtener su cumplimiento, teniendo presente que el castigo es un mecanismo excepcional que establece la LIR, para la deducción de un gasto por concepto de créditos del giro, impagos y morosos; y por consiguiente, se debe entender que se han agotado prudencialmente los medios de cobro, cuando no obstante la actividad desplegada por el acreedor, las deudas son incobrables por causas debidamente fundamentadas, esto es, cuando dentro de los plazos de prescripción los medios de cobro realizados no han sido suficientes para obtener el cumplimiento, habiendo sido demostrado dicho interés en efectuar el cobro, mediante las acciones o medio que indica la Circular. En efecto, lógicamente no podrá cumplirse dicho requisito si los medios de cobro se ejercen sólo una vez prescrita la obligación, ya que conforme se desprende del N°2, del artículo 1.470 del Código Civil, la prescripción produce como efecto la extinción de las acciones destinadas a obtener el cumplimiento.
+
+Para estos efectos, debe considerarse los plazos aplicables según las normas de prescripción extintiva ordinaria, destinadas a obtener el cumplimiento de la obligación, conforme a las reglas generales contenidas en los Códigos Civil o de Comercio, según corresponda, sin perjuicio de los plazos de prescripción especiales que establezca la Ley.
+
+En cuanto a que en el caso de una pequeña y mediana empresa se ha tratado de agotar las instancias extrajudiciales lo que podría tomar un tiempo considerable, ya que el costo de demandar judicialmente al deudor es alto, cabe señalar que, dadas las prácticas comerciales habituales, en la referida Circular N°24, se estableció este requisito sólo respecto de aquellos créditos que al término del ejercicio excedan por cliente de 50 UF; sin embargo, y considerando las circunstancias especiales que se pueden presentar en ciertos casos, el mismo instructivo contempla la posibilidad que el contribuyente acredite que las acciones judiciales, la prosecución del juicio o la ejecución o liquidación de las garantías no son razonables de acuerdo a la cuantía de la deuda, la relación comercial que se tenga con el deudor o la situación patrimonial del deudor, en cuyo caso, podrá castigarse la deuda cumplidos los respectivos requisitos señalados en la Circular; condiciones, que se deberán acreditar en la instancia de fiscalización respectiva.
+
+3.- En relación a las situaciones especiales que menciona, y teniendo en consideración lo antes expresado, se puede indicar lo siguiente:
+
+a) Contrato de compromiso o cláusula compromisoria. Lo señalado en el N°2.- anterior, también es aplicable respecto del castigo de créditos emanados de contratos de compraventa respecto de los cuales el acreedor ha celebrado o acordado con los deudores una cláusula compromisoria o contrato de compromiso. Sin embargo, si el establecimiento de esta cláusula implica el mantenimiento de las relaciones comerciales con los deudores, no procederá en caso alguno la deducción para efectos tributarios del crédito correspondiente, por así disponerlo expresamente la Circular N°24 en comento, la que establece que para estos efectos se debe haber cesado con el deudor todo tipo de relaciones comerciales, salvo aquellas que supongan pago al contado.
+
+Si se cumple este requisito, es decir, que el acreedor ha cesado con el deudor todo tipo de relaciones comerciales, y en la medida que se dé cumplimiento a los respectivos requisitos a que se refiere la Circular N°24, procederá la deducción del gasto; requisitos que deberán ser apreciados considerando las características del contrato de compromiso que se hubiere celebrado entre las partes
+
+De esta forma, si los correspondientes créditos no exceden de 50 UF, los respectivos medios de cobro deberán ejercerse igualmente, para los efectos de las instrucciones contenidas en la Circular N°24, dentro de los plazos de prescripción, desde que la obligación se hubiere hecho exigible, en atención a que el contrato de compromiso en principio no limita las facultades del acreedor para requerir el cumplimiento de la obligación por los medios indicados en la Circular en comento. Si dichos créditos exceden de 50 UF, para proceder al castigo, se entenderá cumplido el requisito de haber requerido judicialmente al deudor que establece la citada Circular, con el ejercicio de los recursos correspondientes ante el tribunal arbitral conforme a la naturaleza de este procedimiento, y según lo acordado por las propias partes.
+
+b) Quiebra del deudor. Para la deducción de los créditos morosos de un deudor que hubiera sido declarado en quiebra, el acreedor deberá proceder a su castigo conforme a las siguientes reglas :
+
+b.1) Respecto de los dos primeros tramos de créditos contemplados en la Circular N°24, esto es, aquellos que no excedan de 10 UF y los que superen esta suma y no excedan de 50 UF, y que no hubieren sido castigados en forma previa a la declaratoria de quiebra conforme a ese instructivo, debe cumplirse con los requisitos establecidos en dicha Circular, siendo la declaratoria de quiebra el antecedente que define la oportunidad para su castigo, ya que tal pronunciamiento deja de manifiesto a juicio de este Servicio, el estado de insolvencia del deudor en forma evidente y fehaciente.
+
+b.2) Respecto de los créditos morosos que al término del ejercicio excedan de 50 UF, el cumplimiento del requisito de haber requerido judicialmente al acreedor, a que se refiere la Circular en comento, se entenderá cumplido con la verificación de los créditos y preferencias, ya que es el acto por el cual se recurre ante el juez de la quiebra haciendo valer el crédito y las preferencias que se crean tener contra el fallido, con el fin de ser pagado en el procedimiento concursal, lo que importa el ejercicio de la acción de cumplimiento; lo que se debe entender sin perjuicio de los demás requisitos señalados en la Circular N°24.
+
+b.3) Conforme a las reglas generales, si dentro del proceso concursal se recuperan la totalidad o parte de los créditos castigados, se deberán efectuar los ajustes que correspondan a las rentas afectas del contribuyente.
+
+III.- CONCLUSIONES.
+
+La Circular N°24 de 2008, reguló la forma de acreditar el cumplimiento de los requisitos que establece el N° 4, del inciso 3°, del artículo 31 de la LIR, para aceptar como gasto el castigo de los créditos incobrables, oportunamente contabilizados, siempre que se hubieran agotado prudencialmente los medios de cobro; estableciendo que dichos medios de cobro, deben ejercerse dentro de los plazos legales de prescripción.
+
+En la medida que se dé cumplimiento a este requisito, y los demás indicados en la citada Circular N°24, los créditos incobrables constituirán un gasto necesario para producir la renta, pudiendo rebajarse por lo tanto, de la Renta Líquida Imponible.
+
+En atención a que las instrucciones dictadas al efecto, a través de la Circular N°24, son de tipo general, fijan las pautas que se deben considerar para precisar si en un caso concreto un crédito puede ser castigado para efectos tributarios, las situaciones particulares en consulta deberán ser evaluadas caso a caso por el contribuyente dentro del contexto de las instrucciones dictadas y de lo indicado en el presente Oficio, sin perjuicio de las facultades de fiscalización que competen a este Servicio.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1980, de 31.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

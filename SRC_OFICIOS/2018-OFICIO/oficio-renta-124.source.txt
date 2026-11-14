@@ -1,0 +1,5 @@
+source: oficio-renta-124.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja124.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2018/ja124.doc
+materia: renta
+retrieved: 2026-11-11

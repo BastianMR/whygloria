@@ -1,0 +1,137 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1774 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 17° – LEY N° 17.235, ART. 10°, ART. 12°. (ORD. N° 1774, DE 08.07.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1774.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1774.doc"
+materia: "iva"
+fecha: "2015-07-08"
+exenta: false
+impuestos: ["iva", "territorial", "contribuciones"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 17° – LEY N° 17.235, ART. 10°, ART. 12°. (ORD. N° 1774, DE 08.07.2015)
+
+REBAJA DEL 11% DEL AVALUÓ EN BASE IMPONIBLE DEL ARRENDAMIENTO DE INMUEBLES.
+
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre la rebaja del 11% del avaluó en base imponible del arrendamiento de inmuebles.
+
+I.- ANTECEDENTES:
+
+XXX, cuya matriz es TTTT, está formado por un conjunto de sociedades, la mayoría de las cuales construyen, explotan y administran centros comerciales, siendo propio del giro de éstas prestar el servicio de arriendo de inmuebles.
+
+El consultante hace presente que parte de los centros comerciales que opera el XXX se encuentran emplazados en dos o más predios, en una misma o en distintas comunas, cada uno con su propio rol de avalúo fiscal.
+
+En la determinación de la base imponible del impuesto en el arriendo de inmuebles gravados con IVA, el artículo 17° inciso 1 del D.L. 825, de 1974, establece que puede deducirse de la renta de arrendamiento, en los casos y con los requisitos señalados en dicha norma, un 11% anual del avalúo fiscal del inmueble, o la proporción correspondiente si el arrendamiento es parcial o por períodos distintos de un año.
+
+Hace mención también al Oficio N° 1.716 del año 2010, el cual se refiere a la aplicación de la rebaja señalada en el caso de centros comerciales, señalando que para determinar el monto del avalúo fiscal a rebajar respecto de los arriendos afectos a IVA, “...la aplicación del beneficio en comento procede mediante la determinación de un avalúo parcial del inmueble propiamente tal, esto es, del local comercial arrendado…”.
+
+Esta interpretación se refiere a centros comerciales emplazados sobre un predio (un rol). Luego, considerando que no existen pronunciamientos en relación con centros comerciales emplazados en más de un predio, proponen determinar la forma en que se podría calcular el valor del avalúo fiscal de los locales comerciales situados en estos centros comerciales, para lo cual, tomando como base la fórmula señalada en dicho oficio, exponen una alternativa de aplicación de la Rebaja de 11% de Avalúo Fiscal.
+
+Dicha alternativa consiste en determinar el avalúo fiscal del local comercial considerando:
+
+i) los avalúos fiscales de todos los predios (roles) en que se emplaza el Centro Comercial que son de propiedad de la empresa arrendadora
+ii) la totalidad de las construcciones que forman el centro comercial, y
+iii) la superficie del local arrendado.
+
+Bajo esta alternativa, en primer lugar, se calcula el avaluó fiscal por metro cuadrado construido del centro comercial, para lo cual se suman los avalúos fiscales de los distintos roles sobre los cuales se emplaza el centro comercial, dividiéndolos por los metros cuadrados del mismo, incluidos los espacios comunes.
+
+En segundo lugar, se determina el avalúo fiscal parcial de cada local comercial, el que resulta de multiplicar los metros cuadrados de cada local por el avalúo previamente determinado por metro cuadrado.
+
+Por último, sobre el avalúo parcial de cada local, se aplica el 11%, obteniéndose el monto a rebajar de la renta de arrendamiento y determinándose la base imponible del IVA.
+
+Se presenta el siguiente ejemplo:
+
+M2 local Rol 1 30
+Renta anual 7.000.000
+
+Rol 1
+Superficie(m2) Avalúo($)
+Terreno: 10.000 30.450.000
+Construcción 95.700 95.800.000.000
+Total 105.700 95.830.450.000
+
+Rol 2
+
+Superficie(m2) Avalúo($)
+Terreno: 20.000.000 61.509.000
+Construcción 191.400 193.516.000.000
+Total 20.191.400 193.577.509.000
+
+Rol 3
+Superficie (m2) Avalúo ($)
+
+Terreno: 7.500 23.294.250
+Construcción 71.775 73.287.000.000
+Total 79.275 73.310.294.250
+
+Avalúo parcial local= 362.718.253.250 x 30
+---------------------
+358.875
+
+Avalúo parcial local = 30.321.275
+Deducción (11%) = 3.335.340
+Renta de arrendamiento = 7.000.000
+Rebaja 11% avalúo = -3.335.340
+Base imponible = 3.664.660
+
+Señala que con el mecanismo indicado se obtiene la determinación del avalúo fiscal parcial de cada inmueble arrendado en el centro comercial de manera uniforme, sin que se produzcan diferencias o distorsiones entre los diferentes locales comerciales, y se salvarían situaciones cuya resolución presentaría una gran complejidad, como la de aquellas tiendas que por su tamaño o ubicación se encuentran ubicadas sobre dos o más predios en los que se emplaza el establecimiento.
+
+Agrega que desde el punto de vista del interés fiscal, este mecanismo es neutro, por cuanto considera los mismos avalúos y los mismos metros cuadrados de construcción que se utilizarían en una determinación individual del predio del avalúo fiscal parcial de los locales comerciales.
+
+Por otra parte, hace presente que de acuerdo a los artículos 10° y 12° de la Ley de Impuesto Territorial, el Servicio de Impuestos Internos (“SII”) se encuentra habilitado para modificar el avalúo de los bienes raíces no agrícolas por las causales específicamente establecidas en estas normas. Consecuencia de esto, el artículo 19 de la Ley de Impuesto Territorial faculta al SII para establecer roles suplementarios de este impuesto, en los que se establecen “… diferencias de contribuciones, provenientes de modificaciones que implican una mayor contribución que la que figura en los roles semestrales”. Estas contribuciones suplementarias pueden ser cobradas de manera retroactiva, dentro de los plazos establecidos por la Ley.
+
+Producto de la evolución propia de los centros comerciales, cada cierto tiempo se van generando hechos, como por ejemplo construcciones y mejoras a los mismos, conforme a la Ley de Impuesto Territorial han derivado en un aumento de su avalúo fiscal por parte del SII, y en el cobro de las referidas contribuciones suplementarias, cobro que en diversas oportunidades se realiza de manera retroactiva. Esta situación ha generado una cierta incertidumbre en XXX derivada de si esta modificación de avalúo fiscal podría tener incidencia en la determinación de la base imponible del IVA, de acuerdo al artículo 17° inciso 1 del D.L. 825, de 1974, de períodos tributarios ya pasados.
+
+Sobre el particular, se argumenta que respecto de los servicios, el artículo 9° letra a) de la Ley del IVA establece que el impuesto se devenga en la fecha de emisión de la boleta o factura, o en la fecha en que la remuneración se perciba o se ponga a disposición del prestador del servicio.
+
+A su vez, en términos generales, y conforme lo establece el artículo 15° del D.L. 825, de 1974, la base imponible de este impuesto está constituida, salvo disposición de la misma Ley en contrario, por el valor de las operaciones respectivas. En el mismo sentido, el artículo 26° del Reglamento de dicha Ley, contenido en el Decreto Supremo N° 55 de 1977 del Ministerio de Hacienda, se refiere a la base imponible del impuesto como “…la suma sobre la cual se debe aplicar la tasa respecto de cada operación gravada...”.
+
+Por su parte, el artículo 17° inciso 1 del D.L. 825, de 1974, complementa las normas señaladas, estableciendo que, para determinar la base imponible en el arriendo de inmuebles afectos a IVA, de la renta de arrendamiento se debe deducir el 11% del avalúo fiscal del inmueble, o la porción correspondiente si el arriendo fuera parcial o por períodos distintos de un año.
+
+Para efectos de la aplicación del artículo 17° inciso 1 del D.L. 825, de 1974, el artículo 33° del Reglamento establece que se debe considerar el avalúo fiscal vigente en la fecha en que debe pagarse la renta, remuneración o precios, conforme a lo estipulado en el respectivo contrato.
+
+Del análisis de las normas legales y reglamentarias indicadas, se concluye que, en el arrendamiento de inmuebles afecto a IVA, el hecho gravado y la base imponible del impuesto se encuentran propiamente determinados en la fecha establecida en el respectivo contrato para el pago de la renta, remuneración o precio, devengándose el impuesto con la emisión de la factura, boleta o el pago del precio respectivo, lo que generalmente coincidirá con la fecha indicada. Luego, con posterioridad a estos hechos no procede una modificación del impuesto y sus elementos, dentro de los cuales está la base imponible, dado que éste, en cuanto obligación tributaria, ya se encuentra cabalmente configurado, sin que la posibilidad de una alteración del mismo o sus elementos se encuentre contemplada en del D.L. 825, de 1974.
+
+De acuerdo a lo indicado, y en relación con la Ley de Impuesto Territorial, se puede establecer que los roles suplementarios que se emitan respecto de un determinado inmueble dado en arriendo no afectan las rebajas ya realizadas, en período anteriores, en la determinación de la base imponible del IVA de conformidad al artículo 17° inciso 1 del D.L. 825, de 1974. Esto, por cuanto según se ha explicado, la base imponible del IVA aplicado al arriendo de inmuebles se determina en la fecha en que debe pagarse la renta, remuneración o precio, conforme al contrato respectivo, devengándose generalmente el impuesto en la misma fecha, al emitirse la facturación pertinente, sin que sea procedente una modificación de la misma.
+
+Expresa finalmente que una interpretación contraria, además de alterar la base imponible de un tributo ya determinado y generalmente devengado, también afectaría la necesidad de certeza jurídica, económica y comercial en la aplicación establecidos por el D.L. 825, de 1974 para su configuración, los que, en muchos casos, pueden incluso ser posteriores al término de la relación contractual que dio origen al hecho gravado con el impuesto.
+
+Conforme a lo señalado, somete a consideración los siguientes criterios en relación a la aplicación del artículo 17 inciso 1° de la Ley del IVA:
+
+a) En el arrendamiento de inmuebles ubicados en centros comerciales construidos en uno o más predios, cada uno con su propio rol de avalúo fiscal, es necesario determinar un avalúo fiscal parcial para cada local arrendado, tomando en consideración el monto total de los avalúos fiscales de los predios en que se ubica el centro comercial, según la metodología que explicamos a continuación.
+
+b) El avalúo fiscal cuyo 11% se deduce de la base imponible del IVA es aquel existente al momento de la configuración del hecho gravado, del devengo del impuesto y de la determinación de su base imponible, sin que incida en esta determinación una modificación posterior del avalúo fiscal del inmueble conforme a la Ley de Impuesto Territorial.
+
+II.- ANÁLISIS:
+
+Sobre el particular, y consultada la Subdirección de Avaluaciones sobre la materia, este Servicio estima que para determinar el avalúo de los locales comerciales en el caso que se indica, procede replicar la fórmula siguiente para cada uno de los roles involucrados:
+
+Avalúo Local= Avalúo total * Superficie construida local
+Superficie construida Total
+
+Lo que quedaría de la siguiente forma:
+
+Esta fórmula sería consistente con lo planteado por el contribuyente, por lo que se valida la determinación del avalúo propuesta por éste.
+
+III.- CONCLUSIÓN:
+
+En el caso de arriendo de locales ubicados en centros comerciales, parte de los cuales se encuentran emplazados en dos o más predios, en una misma o en distintas comunas, cada uno con su propio rol de avalúo fiscal, la determinación de la base imponible del Impuesto al Valor Agregado debe realizarse calculando el avaluó fiscal por metro cuadrado construido del centro comercial, para lo cual deben sumarse los avalúos fiscales de los distintos roles sobre los cuales se emplaza el centro comercial, dividiéndolos por los metros cuadrados del mismo, incluidos los espacios comunes, hecho lo cual, se determina el avalúo fiscal parcial de cada local comercial, el que resulta de multiplicar los metros cuadrados de cada local por el avalúo previamente determinado por metro cuadrado.
+
+Por último, sobre el avalúo parcial de cada local, debe aplicarse el 11%, obteniéndose el monto a rebajar de la renta de arrendamiento, determinándose de esta forma la base imponible del IVA.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1774, de 08.07.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

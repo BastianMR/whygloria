@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1119 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21° – DECRETO LEY N° 2552, DE 1979, ART. 3° – OFICIO N..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1119.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1119.doc"
+materia: "iva"
+fecha: "2015-04-24"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21° – DECRETO LEY N° 2552, DE 1979, ART. 3° – OFICIO N° 2002, DE 2013. (ORD. N° 1119, DE 24.04.2015)
+
+CONSULTA SOBRE LOS ANTECEDENTES A PRESENTAR PARA ACREDITAR QUE LOS CONTRATOS DE CONSTRUCCIÓN QUE ACCEDEN A LA CONSTRUCCIÓN DE CONDOMINIOS DE VIVIENDAS SOCIALES Y A VIVIENDAS SOCIALES EN GENERAL CUMPLEN CON LOS REQUISITOS PARA UTILIZAR EL BENEFICIO CONTENIDO EN EL ART. 21°, DEL D.L. N° 910.
+
+I.- ANTECEDENTES:
+
+En atención a pronunciamiento contenido en oficio Ord. N° 2002, de 12/9/2013, emitido por este Servicio a ese Ministerio, mediante el cual se analiza la aplicación del beneficio contenido en el Art. 21, del D.L. N° 910, a los proyectos financiados con subsidios del Programa YYY , destinados al mejoramiento y/o ampliación de viviendas sociales, que no requieran de un permiso de edificación, ese Ministerio ha solicitado a las empresas constructoras que el beneficio tributario sea considerado en la confección de los presupuestos para los proyectos en Condominios de Viviendas Sociales y en viviendas sociales en general.
+
+Dado lo anterior señala que se hace necesario dar claridad a las constructoras sobre cuáles son los antecedentes específicos que deben poner a disposición de este Servicio de Impuestos Internos para justificar la aplicación de este beneficio tributario y además cuál es el documento utilizado por el Servicio para acreditar la condición de vivienda social en los Condominios de Viviendas Sociales y en el caso de viviendas sociales en general.
+
+Lo anterior se solicita debido a que las empresas constructoras indican que se les ha solicitado documentos distintos por las distintas oficinas de Impuestos Internos Regionales, haciéndose necesario uniformar el tipo de antecedentes a presentar y tener claridad en la interpretación de la certificación de la condición de vivienda social.
+
+II.- ANÁLISIS:
+
+En Ord. N° 2002, de 12/9/2013, este Servicio se pronunció, a raíz de una consulta efectuada por ese Ministerio de Vivienda y Urbanismo, sobre la procedencia de aplicar el beneficio contenido en el Art. 21°, del D.L. N° 910, a los contratos de ampliación o mejoramiento de viviendas sociales, que no requerían para su ejecución de un permiso de edificación. Todo ello en el marco del “TTTT”
+
+Sobre la procedencia de aplicar la franquicia a los mencionados contratos, el inciso cuarto del Art. 21, del D.L. N| 910 dispone que: “Excepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se refiere el artículo 3° del decreto ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo, el beneficio dispuesto en el inciso primero no será aplicable a los contratos de ampliación, modificación, reparación o mantenimiento, ni aun en los casos que pudieran implicar la variación de la superficie originalmente construida, como tampoco a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos.”
+
+De allí se concluyó que el beneficio en comento resulta aplicable por excepción a los contratos allí mencionados, siempre que ellos recaigan exclusivamente en las viviendas a que se refiere el Art. 3°, del Decreto Ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
+
+Al respecto, el Art. 3°, del mencionado decreto ley, dispone que: “Para todos los efectos legales, se entenderá por vivienda social la vivienda económica de carácter definitivo, destinada a resolver los problemas de la marginalidad habitacional, financiada con recursos públicos o privados, cualesquiera que sean sus modalidades de construcción o adquisición, y cuyo valor de tasación no sea superior a 400 Unidades de Fomento”.
+
+La norma agrega que “la tasación la hará la Dirección de Obras Municipales respectiva al solicitarse el permiso de edificación”, debiendo considerarse el valor del terreno y el valor de construcción de la vivienda, según los parámetros allí indicados.
+
+De lo anterior se desprende que es la Dirección de Obras Municipales, quien debe verificar el cumplimiento del requisito establecido en el Art. 3°, del D.L. N° 2.552, en términos de que el valor de tasación no sea superior a 400 Unidades de Fomento para que una vivienda sea considerada “vivienda social” conforme a dicha normativa.
+
+III.- CONCLUSIÓN:
+
+Conforme a lo señalado por este Servicio, en diversos pronunciamientos, incluido el citado en su presentación, la aplicación de la franquicia contenida en el Art. 21°, del D.L. N° 910, en su inciso cuarto, que favorece a los contratos allí mencionados, depende del cumplimiento de un requisito fundamental, a saber, que dichos contratos recaigan exclusivamente en las viviendas a que se refiere el Art. 3°, del Decreto Ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
+
+En este sentido y en lo que dice relación con su consulta, cuando se trate de los contratos antes señalados, los antecedentes que el contribuyente debe poner a disposición de este Servicio para justificar la aplicación de la franquicia, son todos aquellos que sirvan para probar el cumplimiento de dicho requisito, a saber, que el inmueble sobre el cual recaen dichos contratos, se trate de una vivienda social en los términos del mencionado Art. 3°, del D.L. N° 2.552.
+
+Al respecto y considerando que la tasación a que hace referencia la norma legal del Art. 3, del D.L. N° 2.552, para calificar las viviendas como viviendas sociales debe ser efectuada por la Dirección de Obras Municipales, se estima que el certificado emitido por ésta, dando cuenta de ello, resulta suficiente para acreditar la calidad de vivienda social del inmueble y por ende el cumplimiento del requisito dispuesto por la norma legal, contenida en el Art. 21, inciso cuarto, del D.L. N° 910, para hacer uso de la franquicia, sin perjuicio de las facultades de este Servicio, en orden a verificar que se mantengan las condiciones, características y requisitos en virtud de las cuales se emitió el referido certificado.
+
+Lo anterior es válido aun cuando por aplicación de la normativa legal contenida en la Ley General de Urbanismo y Construcciones o de su Reglamento, la Ordenanza General de Urbanismo y Construcciones, algunos proyectos no requieran para su ejecución de un permiso municipal de edificación.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1119, de 24.04.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

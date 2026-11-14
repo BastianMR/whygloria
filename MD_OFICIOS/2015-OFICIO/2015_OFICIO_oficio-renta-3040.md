@@ -1,0 +1,69 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 3040 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA– ART. 5 – LEY N° 20.780, DE 2014, ART. 3° TRANSITORIO, NUMERAL I, N°11, NÚMERO 3. (ORD. N° 3040, DE 27.11.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3040.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3040.doc"
+materia: "renta"
+fecha: "2015-11-27"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA– ART. 5 – LEY N° 20.780, DE 2014, ART. 3° TRANSITORIO, NUMERAL I, N°11, NÚMERO 3. (ORD. N° 3040, DE 27.11.2015)
+
+TASA VARIABLE DEL IMPUESTO SUSTITUTIVO A APLICAR SOBRE SALDO DEL FUT DETERMINADO AL 31.12.2014, EN EL CASO DE EMPRESARIO UNIPERSONAL, FALLECIDO CON ANTERIORIDAD AL 31.12.2014, RESPECTO DEL CUAL OPERA LA FICCIÓN LEGAL DEL ARTÍCULO 5° DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR).
+
+Se ha recibido en esta Dirección Nacional, su presentación indicada en el antecedente mediante la cual consulta sobre la forma en que se debe determinar la tasa variable que deben considerar los herederos de un empresario unipersonal, que falleció con anterioridad al 31 de diciembre de 2014, respecto del cual se encuentra operando la ficción legal del artículo 5° de la Ley sobre Impuesto a la Renta, y que desean acogerse al pago del impuesto único y sustitutivo al FUT establecido en el N°11, del numeral I.-, del artículo tercero de las disposiciones transitorias de la Ley N°20.780,
+
+I.- ANTECEDENTES.
+Señala en su presentación, que la Ley N° 20.780 sobre reforma tributaria publicada en el Diario Oficial el 29 de septiembre de 2014, estableció un régimen opcional y transitorio al cual pueden optar las empresas que sean contribuyentes del Impuesto de Primera Categoría, para la liberación de las rentas acumuladas en el Registro Fondo de Utilidades Tributables (FUT).
+De este modo, indica, de acuerdo con lo dispuesto en el texto legal mencionado, los contribuyentes sujetos al Impuesto de Primera Categoría sobre la base de un balance general, según contabilidad completa, que cumplan los requisitos que señala la ley, podrán optar durante el año comercial 2015, por aplicar un impuesto sustitutivo, con una tasa general del 32% o con una tasa variable, dependiendo del caso, sobre el saldo FUT que se determine al 31 de diciembre de 2014.
+Luego de un análisis de la normativa legal, señala que como al regular el régimen tributario aplicable a las rentas obtenidas por una comunidad hereditaria, el artículo 5 de la LlR considera al patrimonio hereditario indiviso como la continuación de la persona del causante, y por lo tanto, goza y le afectan, sin solución de continuidad todos los derechos y obligaciones que aquél le hubieren correspondido de acuerdo con la ley indicada, podría entenderse, en principio, que para la aplicación el impuesto único y sustitutivo al FUT, se debiera considerar el promedio simple de las tasas marginales más altas del IGC que le hayan afectado al empresario unipersonal (causante) en los años tributarios 2012, 2013 o 2014.
+No obstante lo anterior, y sin perjuicio que el inciso segundo del artículo 5 de la LlR establece esta ficción contable y tributaria, para la debida continuidad de las actividades empresariales desarrolladas por la persona fallecida, expresa que en los hechos y en el derecho, se está en presencia de una comunidad hereditaria, comunidad que nació con motivo del fallecimiento del empresario unipersonal, y que seguirá subsistiendo como tal hasta que se produzca la correspondiente partición de bienes hereditarios. En razón de esta indiscutible realidad jurídica, y teniendo además en consideración la redacción literal de la Ley N°20.780, en relación al impuesto único y sustitutivo del FUT, en su opinión surge la duda razonable, si en conformidad del artículo 19 del Código Civil y por criterio de especialidad de interpretación de la ley, debiera aplicarse estricta y rigurosamente lo dispuesto en el N° 11, del numeral I.- del artículo tercero de las disposiciones transitorias de la reforma tributaria, en el sentido que, para calcular la tasa variable aplicable al FUT de esta comunidad hereditaria (que actúa fictamente a través del RUT del empresario unipersonal fallecido), debe emplearse la tasa promedio ponderada, de acuerdo a la participación que cada comunero -en este caso también heredero- tiene en la comunidad, de las tasas marginales más altas del IGC que les haya afectado a dichos comuneros en los años tributarios 2012, 2013 o 2014.
+Teniendo presente que a la fecha no existen pronunciamientos por parte del Servicio de Impuestos Internos sobre esta materia, solicita un pronunciamiento, en el sentido de señalar si en el caso expuesto, la tasa variable se debe determinar:
+a) Tomando el promedio simple de las tasas marginales más altas del IGC que le hayan afectado al empresario unipersonal en los años tributarios 2012, 2013 o 2014; o
+b) Tomando el promedio ponderado, de acuerdo a la participación que cada comunero - heredero persona natural - tiene en la comunidad, de las tasas marginales más altas del IGC que les hayan afectado a dichos comuneros en los años tributarios 2012,2013 o 2014.
+II.- ANÁLISIS.
+
+Sobre el particular, cabe señalar que el artículo 5° de la LIR, expresa que las rentas efectivas o presuntas de una comunidad hereditaria corresponderán a los comuneros en proporción a sus cuotas en el patrimonio común. Por otra parte, establece dicha norma que mientras las cuotas no se determinen, el patrimonio hereditario indiviso se considerará como la continuación de la persona del causante y gozará y le afectarán, sin solución de continuidad, todos los derechos y obligaciones que a aquél le hubieren correspondido de acuerdo con dicha ley. Sin embargo, una vez determinadas las cuotas de los comuneros en el patrimonio común, la totalidad de las rentas que correspondan al año calendario en que ello ocurra, deberán ser declaradas por los comuneros de acuerdo con las normas del inciso 1° del referido artículo 5°.
+
+En todo caso, finaliza dicha disposición señalando que, transcurrido el plazo de tres años desde la apertura de la sucesión, las rentas respectivas deberán ser declaradas por los comuneros de acuerdo con lo dispuesto en el inciso primero. Si las cuotas no se hubieren determinado en otra forma, se estará a las proporciones contenidas en la liquidación del impuesto de herencia. El plazo de tres años se contará computando por un año completo la porción de año transcurrido desde la fecha de la apertura de la sucesión hasta el 31 de diciembre del mismo año.
+
+Por su parte, el N° 11, del numeral I, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, estableció un régimen opcional de tributación sobre rentas acumuladas y retiros en exceso. Conforme a lo que establece el número 3 de esta disposición, las empresas, comunidades y sociedades que, desde el 1° de enero de 2014 se encuentren conformadas exclusivamente por personas naturales contribuyentes del Impuesto Global Complementario, que hayan iniciado actividades con anterioridad al 1° de enero de 2013, y que al término del año comercial 2014 mantengan un saldo de utilidades no retiradas o distribuidas pendientes de tributación con el impuesto referido, podrán optar por pagar a título de impuesto de esa ley, un tributo sustitutivo de los impuestos finales, sobre una parte de dichos saldos de utilidades, aplicando al efecto las reglas que establece dicha norma, salvo lo dispuesto en la letra b), del N° 1, de dicho numeral.
+
+El impuesto, en este caso, señala a continuación esta disposición, se aplicará con una tasa equivalente al promedio ponderado, de acuerdo a la participación que cada socio, comunero o accionista mantenga en la empresa, de las tasas más altas del Impuesto Global Complementario que les haya afectado en los años tributarios 2012, 2013 y 2014.
+
+En conformidad a la jurisprudencia emitida por el Servicio en torno a la disposición contenida en el artículo 5° de la LIR, cabe señalar en primer lugar, que una comunidad se forma cuando una misma cosa pertenece a varias personas que pueden ejercer simultáneamente derechos de igual naturaleza jurídica sobre ésta. Del mismo modo, en el caso de una comunidad hereditaria, ésta se forma cuando con motivo del fallecimiento de una persona, sus bienes pasan a pertenecer a varias personas (herederos) que pueden ejercer simultáneamente, como ya se expresó, derechos de igual naturaleza jurídica sobre los bienes de propiedad de la persona que fallece.
+
+Ahora bien, respecto de la tributación que afecta a las rentas originadas por una comunidad hereditaria, cabe expresar que el artículo 5 de la LIR, en su inciso primero establece la regla general sobre la materia, cual es que, las rentas efectivas o presuntas de una comunidad hereditaria corresponderán a los comuneros en proporción a sus cuotas en el patrimonio común.
+
+Solo por excepción, y únicamente mientras las cuotas de los comuneros en el patrimonio común no se determinen y, en todo caso, hasta por el plazo máximo de tres años, contados desde la apertura de la sucesión, el patrimonio hereditario indiviso se considerara como la continuación de la persona del causante y gozará y le afectarán sin solución de continuidad, todos los derechos y obligaciones que a aquel le hubieren correspondido de acuerdo a la LIR.
+
+De esta forma, transcurrido el lapso de tres años, desde la apertura de la sucesión, termina la ficción legal, por lo que si los comuneros hereditarios continuaran con la explotación del giro del causante más allá de ese periodo, las rentas correspondientes deben ser declaradas en proporción a la participación de cada comunero en el patrimonio común.
+
+De acuerdo a lo expuesto precedentemente, cabe en esta oportunidad expresar, que la ficción que hace el artículo 5° de la LIR, de reconocer fictamente al causante como contribuyente para los efectos de la declaración de los impuestos de la LIR que afectan a la comunidad hereditaria, es un imperativo de la ley que debe ser aplicada mientras no se divida el patrimonio o no transcurra el plazo de tres años desde la apertura de la sucesión.
+
+Conforme a lo anterior y debido a que la normativa del inciso segundo del artículo 5° de la LIR es imperativa, y, conforme con la jurisprudencia ya señalada, de aplicación general y supletoria, solo cabe concluir, que mientras no ocurra aquello, esto es, mientras no se divida el patrimonio o no transcurra el plazo de tres años desde la apertura de la sucesión, para los fines de la LIR la comunidad hereditaria no tiene reconocimiento como tal, pues conforme con lo que dispone el artículo 5° y bajo las circunstancias señaladas se debe imperativamente reconocer fictamente al causante como contribuyente para los efectos de la declaración de los impuestos que afectan a la comunidad hereditaria.
+
+De lo dicho se sigue, que no obstante que las disposiciones contenidas en el número 3, del N° 11, del numeral I, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, se refieren expresamente, entre otras, a las comunidades, indicando que en tal caso el régimen opcional de tributación sobre rentas acumuladas se aplicará con una tasa equivalente al promedio ponderado, de acuerdo a la participación que cada comunero mantenga en la empresa, de las tasas más altas del Impuesto Global Complementario que les haya afectado en los años tributarios 2012, 2013 y 2014, no es posible la aplicación de dicha norma en el caso de su consulta, pues, como ya se señaló, mientras no se divida el patrimonio o no transcurra el plazo de tres años desde la apertura de la sucesión, para los fines tributarios de la LIR la comunidad hereditaria no tiene reconocimiento como tal.
+
+III.- CONCLUSIÓN.
+
+Para el cálculo de la tasa variable del régimen opcional de tributación sobre rentas acumuladas establecido en el N° 3, del N° 11, del numeral I, del artículo tercero de las disposiciones transitorias de la Ley N° 20.780, en el caso de una comunidad hereditaria, que actúa fictamente a través del empresario unipersonal fallecido mientras no se divida el patrimonio o no transcurra el plazo de tres años desde la apertura de la sucesión, debe tomarse el promedio simple de las tasas marginales más altas del IGC que hayan afectado al empresario unipersonal fallecido o causante de la comunidad hereditaria, en los años tributarios 2012, 2013 o 2014. No procede en tal caso aplicar el promedio ponderado de las tasas marginales más altas de IGC que hayan afectado a los comuneros respectivos.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N°3040, de 27.11.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

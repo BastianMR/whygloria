@@ -1,0 +1,67 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 608 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, ART. DE 1986, ART. 6° – LEY N° 19.764, DE 2001, ART. 2°. (ORD. N° 608, DE..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja608.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja608.doc"
+materia: "iva"
+fecha: "2015-02-26"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 18.502, ART. DE 1986, ART. 6° – LEY N° 19.764, DE 2001, ART. 2°. (ORD. N° 608, DE 26.02.2015)
+
+PROCEDENCIA DEL BENEFICIO ESTABLECIDO EN EL ARTÍCULO 7° DE LA LEY 18.502, RESPECTO DE LOS CONTRIBUYENTES QUE ENTRE SUS GIROS DESARROLLAN EL DE TRANSPORTE TERRESTRE.
+
+I.- ANTECEDENTES:
+
+En cumplimiento de su labor fiscalizadora, esa Dirección Regional detectó que un contribuyente ha estado utilizando dos códigos del formulario 29 para realizar la rebaja del crédito por el Impuesto Específico al Petróleo Diesel, en adelante IEPD, esto es los códigos 127 y 544, relativos a la recuperación en virtud de lo establecido en artículo 7° de la Ley N° 18.502 y recuperación del IEPD soportado por transportistas de carga conforme a lo preceptuado en el artículo 2° de la Ley N° 19.764 respectivamente.
+
+En este contexto se habría informado al contribuyente las diferencias de impuesto detectadas por cuanto, de acuerdo a lo sostenido invariablemente por este Servicio, al desarrollar el contribuyente el giro de de transporte de carga, se restringe la recuperación del IEPD al combustible utilizado en los vehículos destinados a ese giro que cumplan con los requisitos del artículo 2° de la Ley 19.764, y no puede recuperar el IEPD a la luz de la Ley N° 18.502, por el hecho de ejercer entre sus actividades el transporte de carga terrestre.
+
+El contribuyente, solicita un cambio de criterio por parte de este Servicio, argumentando que en su opinión si la empresa desarrolla varios giros entre ellos el de transporte de carga tendría derecho al crédito por IEPD por las maquinarias, es decir por todo lo que no se utilice en vehículos motorizados que transiten por carreteras o vías públicas, amparado en el real sentido y alcance de la norma del artículo 7° de la Ley N° 18.502, en atención a que cumple con todos los requisitos estipulados en dicha Ley y puntualmente lo normado en el artículo 23° de este último cuerpo legal. Sustenta su postura en un fallo de la Corte Suprema de 31 de marzo de 2009, causa rol Corte xxxx-xxxx
+
+II.- ANÁLISIS:
+
+El artículo 6° de la Ley N°18.502 de 1986, establece un impuesto especifico a las gasolinas automotrices y al petróleo diesel.
+
+El artículo 7° del mismo cuerpo normativo, faculta al Presidente de la República para establecer, mediante decretos expedidos a través del Ministerio de Hacienda, a favor de las empresas afectas a Impuesto al Valor Agregado, la recuperación del Impuesto Específico soportado en la adquisición del petróleo diesel, como crédito fiscal del Impuesto al Valor Agregado, siempre que el combustible no esté destinado a vehículos motorizados que transiten por calles, caminos y vías públicas en general.
+
+Acto seguido, el referido artículo 7° señala que no podrán acogerse a esta franquicia, las empresas de transporte terrestre.
+
+La referida facultad otorgada al Presidente de la República, se materializó en el Decreto Supremo N° 311 de 1986, el que dispone que “En caso alguno podrán acogerse a lo dispuesto en el presente decreto las empresas de transporte terrestre”.
+
+Por su parte, este Servicio mediante Circular 32 de 1986, impartió instrucciones para la recuperación de dicho impuesto soportado por las empresas afectas a IVA, mencionando en el N° 2 de la parte II, a las personas que por expresa disposición no pueden recuperar, entre las cuales se encuentran las empresas de transporte terrestre, cualquiera sea el destino que le den al petróleo diesel.
+
+En forma posterior, se dictó la Ley 19.764 de 2001 que en su artículo 2° permite la recuperación parcial del Impuesto Específico al Petróleo Diesel establecido en el artículo 6° de la Ley 18.502, para las empresas de transporte de carga que sean propietarias o arrendatarias con opción de compra, de camiones de un peso bruto vehicular igual o superior a 3.860 kilogramos.
+
+Ahora bien, teniendo como base la normativa previamente señalada, este Servicio efectivamente ha señalado en reiteradas oportunidades que respecto de las empresas que cumpliendo los demás requisitos, desarrollen entre sus giros el transporte de carga terrestre, no procede la recuperación del Impuesto Especifico al Petróleo Diésel a la luz de lo dispuesto en la Ley 18.502, pudiendo recuperar sólo conforme a lo dispuesto en la Ley 19.764.
+
+En este sentido, se ha señalado que procede determinar si la empresa detenta la calidad de empresa de transporte a la luz de lo dispuesto en el artículo 166 del Código de Comercio el cual dispone: “El transporte es un contrato en virtud del cual uno se obliga por cierto precio a conducir de un lugar a otro, por tierra, canales, lagos o ríos navegables, pasajeros o mercaderías ajenas, y a entregar éstas a la persona a quien vayan dirigida”.
+
+En consecuencia, si se cumple el presupuesto contenido en la definición se estará en presencia de un contrato de transporte y cumpliéndose los demás requisitos de la ley 19.764, se aplicará sólo la recuperación conforme a lo dispuesto en la señalada ley. Por lo tanto, para perder el derecho a crédito, se requiere no sólo tener el giro de transporte de carga terrestre, sino que, además, éste se haya ejercido.
+
+III.- CONCLUSIÓN:
+
+En relación a la solicitud de cambio de criterio en esta materia, cabe manifestar que no habiendo nuevos antecedentes que permitan modificar lo sostenido invariablemente por este Servicio, no es posible acceder a su petición.
+
+Consecuentemente y en virtud de la normativa anteriormente señalada se mantiene vigente lo expresado por este Servicio en cuanto a que las empresas que desarrollen entre sus giros el de transporte de carga terrestre sólo podrán recuperar el impuesto soportado en la adquisición de dicho combustible, cuando éste sea utilizado en camiones que cumplen con los requisitos del artículo 2° de la Ley 19.764, quedando vedada la recuperación en virtud de lo dispuesto en la Ley 18.502.
+
+Se hace presente que a la luz de lo dispuesto en el inciso segundo del artículo 3° del Código Civil, las sentencias judiciales sólo tienen fuerza obligatoria respecto de las causas en que actualmente se pronunciaren. Luego, no procede hacer extensiva la interpretación judicial a casos no sometidos al conocimiento de los Tribunales de Justicia.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR SUBROGANTE
+
+Oficio N°608, de 26.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

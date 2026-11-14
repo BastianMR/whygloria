@@ -1,0 +1,5 @@
+source: oficio-otros-884.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja884.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja884.doc
+materia: otros
+retrieved: 2026-11-11

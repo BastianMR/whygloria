@@ -1,0 +1,81 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1700 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 – DECRETO LEY 3063, DE 1979, ART. 24. (ORD. N° 1700, DE 15.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1700.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1700.doc"
+materia: "renta"
+fecha: "2016-06-15"
+exenta: false
+impuestos: ["renta", "patente-municipal"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41 – DECRETO LEY 3063, DE 1979, ART. 24. (ORD. N° 1700, DE 15.06.2016)
+
+DETERMINACIÓN DEL CAPITAL PROPIO AFECTO AL PAGO DE PATENTE MUNICIPAL.
+
+La Contraloría General de la República ha remitido a esta Dirección Nacional, su presentación indicada en el antecedente, mediante la cual solicita se someta a revisión de dicha repartición el capital propio afecto al pago de Patente Municipal de la empresa que representa, conforme a las disposiciones de Decreto Ley N°3.063 de 1979, sobre Rentas Municipales.
+
+I.- ANTECEDENTES.
+
+Mediante presentación indicada en el antecedente, indica que existirían diferencias sustanciales en la determinación del capital propio afecto al pago de patente municipal, con el establecido por los funcionarios del respectivo Departamento de Rentas Municipales de la I. Municipalidad de BBBB, solicitando se someta a revisión de la Contraloría General de la República el cálculo del capital propio de su representada, para efectos del pago de la patente municipal, correspondiente a los años 2013, 2014 y 2015.
+
+Al respecto, requiere se oficie a dicho Departamento Municipal a objeto que remita Ia determinación del capital propio de la sociedad que representa, para proceder a revisar el referido cálculo, ajustándolo al que corresponde de acuerdo a los balances y declaraciones de impuestos de la compañía.
+
+Al respecto, la Contraloría General de la República señala que la revisión del capital propio, es una materia cuyo análisis se encuentra comprendido entre las facultades de este Servicio, remitiendo los antecedentes a esta Dirección para los fines que sean pertinentes.
+
+II.- ANÁLISIS.
+
+1.- Sobre el particular, cabe señalar en primer lugar, que el artículo 24 del Decreto Ley N°3.063 de 1979, sobre Rentas Municipales, establece en su inciso tercero que para los efectos de dicho artículo se entenderá por capital propio el inicial declarado por el contribuyente si se tratare de actividades nuevas, o el registrado en el balance terminado el 31 de diciembre inmediatamente anterior a la fecha en que deba presentarse la declaración, considerándose los reajustes, aumentos y disminuciones que deben practicarse de acuerdo con las normas del artículo 41 y siguientes de la Ley sobre Impuesto a la Renta (LIR).
+
+El inciso final del citado artículo 24, dispone que en la determinación del capital propio, los contribuyentes podrán deducir aquella parte de dicho capital que se encuentre invertida en otros negocios o empresas afectos al pago de Patente Municipal, lo que deberá acreditarse mediante certificados extendidos por la o las Municipalidades correspondientes a las comunas en que dichos negocios o empresas se encuentren ubicados.
+
+Para estos efectos, los contribuyentes deberán entregar en la Municipalidad respectiva una declaración de su capital propio y copia del balance de la empresa al 31 de diciembre del año inmediatamente anterior a la fecha de la declaración, elaborado para los efectos de la declaración de impuesto a la renta, salvo que no estuviere obligado a confeccionar un balance
+
+2.- Al respecto, cabe precisar que a este Servicio le corresponde la aplicación y fiscalización de todos los impuestos internos actualmente establecidos o que se establecieren, fiscales o de otro carácter en que tenga interés el Fisco y cuyo control no esté especialmente encomendado por la Ley a una autoridad diferente, según preceptúa el artículo 1° del Decreto con Fuerza de Ley N°7, de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos.
+
+Teniendo en consideración lo anterior, este Servicio ha sostenido invariablemente que no tiene competencia para pronunciarse sobre la determinación del capital propio para los efectos del pago de la patente municipal, de acuerdo al artículo 24 del Decreto Ley N°3.063, ya que tal precepto legal no constituye una norma de tributación fiscal interna, y tampoco dicha disposición otorga a este Servicio facultades para su interpretación, ya que se refiere a la determinación del capital propio que los contribuyentes deben declarar para efectos municipales.
+
+Sin perjuicio de lo antes señalado, y como se indicó previamente, el inciso tercero del citado artículo 24, del Decreto Ley N°3.063, establece que el capital propio constituye la base de cálculo del valor de la patente municipal que deben pagar los contribuyentes que desarrollan actividades gravadas con ella.
+
+De acuerdo a lo anterior, y teniendo en vista lo dispuesto en los artículos 1° de la Ley Orgánica del Servicio de Impuestos Internos y 6° inciso 1°, del Código Tributario, este Servicio sólo es competente para pronunciarse sobre las partidas que sirven de base para la cuantificación del capital propio declarado en la declaración de impuestos anuales a la renta, mediante el Formulario N°22 respectivo, a la luz de lo establecido en la Ley del ramo, particularmente en su artículo 41.
+
+A estos efectos, debe tenerse presente que el artículo 41 de la LIR– disposición que contempla las normas relativas a la corrección monetaria de los activos y pasivos-, establece en su N° 1, que para los efectos de esta norma se entenderá por capital propio la diferencia entre el activo y el pasivo exigible a la fecha de iniciación del ejercicio comercial, debiendo rebajarse previamente los valores intangibles, nominales, transitorios y de orden y otros que determine la Dirección Nacional, que no representen inversiones efectivas; agregando que formarán parte del capital propio los valores del empresario que hayan estado incorporados al giro de la empresa.
+
+En el Recuadro N°3, del Formulario N°22 antes citado, y en relación con esta materia, anualmente los contribuyentes deben informar a este Servicio :
+
+Código 645: Se anota Capital Propio Tributario Positivo determinado al 01.01 del año comercial siguiente a aquel que se declara, equivalente a la diferencia entre el total del activo y el pasivo exigible a la fecha antes indicada, rebajándose previamente los valores intangibles, nominales, transitorios y de orden y otros que hubiere determinado la Dirección Nacional de este Servicio, que no representen inversiones efectivas; todo ello de acuerdo a lo establecido por el Nº 1 del artículo 41 de la Ley sobre Impuesto a la Renta.
+
+Código 893: Se anotan los aumentos de capital efectuados durante el año comercial que se declara, debidamente reajustados por los factores de actualización respectivos, considerando para ello el mes en que se realizó el aumento de capital.
+
+Código 894: Se anotan las disminuciones de capital efectuadas durante el año comercial que se declara, debidamente reajustadas por los factores de actualización respectivos, considerando para tales efectos el mes en que se realizó la disminución de capital.
+
+Código 646: Si de la determinación efectuada del Código 645 anterior, resulta un Capital Propio Tributario Negativo, dicho valor debe registrarse en este Código.
+
+Ahora bien, en atención a que esta Dirección no cuenta con los antecedentes suficientes para pronunciarse sobre las partidas que componen dicha determinación en la situación particular consultada, se remitirán los antecedentes a la Dirección Regional correspondiente a su domicilio, para que en el ejercicio de las facultades de fiscalización de las disposiciones de tributación fiscal interna de competencia de este Servicio, proceda a la revisión de la determinación del capital propio tributario de la empresa para efectos tributarios, en caso que ello corresponda, verificando que los antecedentes declarados en el Formulario N°22, sean aquellos que corresponden conforme a las normas e instrucciones de este Servicio.
+
+En caso que sea necesaria la rectificación o modificación del capital propio informado en la declaración de impuestos anuales a la renta, mediante el Formulario N°22 respectivo, presentado durante el mes de abril de cada año, el contribuyente deberá efectuar una declaración rectificatoria ante la Dirección Regional correspondiente a su domicilio, la que se efectuará en mérito a los antecedentes proporcionados por el contribuyente, de acuerdo a lo dispuesto por las citadas normas legales de la LIR.
+
+III.- CONCLUSIONES.
+
+Este Servicio no tiene competencia para pronunciarse sobre la determinación del capital propio para los efectos del pago de la patente municipal, toda vez que si bien el artículo 24 del Decreto Ley N°3.063, hace referencia a una disposición tributaria contenida en la LIR, tal precepto legal no constituye una norma de tributación fiscal interna de competencia de este Servicio, y tampoco dicha disposición otorga a este Servicio facultades para su interpretación, ya que se refiere al cálculo del capital propio que los contribuyentes deben declarar para efectos de la determinación del monto a pagar por concepto de patente municipal.
+
+No obstante, cabe hacer presente que este Servicio tiene competencia para pronunciarse, a la luz de las normas establecidas en el artículo 41 de la LIR -en relación con las instrucciones impartidas a través de la Circular N°100, de 1975 y sus modificaciones-, sobre las partidas que sirven de base para la determinación del capital propio tributario para efectos tributarios, que constituye por regla general, la base sobre la cual se determina el pago de la patente municipal del contribuyente.
+
+A efectos de verificar la correcta determinación del capital propio tributario informado en las declaraciones de impuestos anuales a la renta del contribuyente, se remitirán los antecedentes a la Dirección Regional competente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1700, de 15.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos.

@@ -1,0 +1,10 @@
+source: circu21_suplemento.docx
+sha256: 4057efea9afc2dc30a99201fbab2b1dc24672c3d137665eeb1b23da40cc75f77
+bytes: 9360225
+observed: 2026-11-12
+conversion: blocked
+reason: docling finishes after 764 s and then fails its own validation: 'Document hierarchy is inconsistent'
+attempts: ghcr.io/docling-project/docling-serve-cu128:main (task lost, container restarted);
+  ghcr.io/docling-project/docling-serve:latest on CPU (no crash, exceeded the 90 min bound)
+kept: the binary is tracked in this folder as provenance. No concept was written,
+  because the corpus never fabricates a document body it could not convert.

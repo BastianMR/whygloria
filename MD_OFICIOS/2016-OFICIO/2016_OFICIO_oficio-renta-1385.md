@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1385 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10, ART. 58, N°3, ART. 59, ART. 41 D, ART. 41 E, ART. 41 F, ART. 41 G, ART. 41 H. (ORD. N° 1385, DE 17.05.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1385.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1385.doc"
+materia: "renta"
+fecha: "2016-05-17"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 10, ART. 58, N°3, ART. 59, ART. 41 D, ART. 41 E, ART. 41 F, ART. 41 G, ART. 41 H. (ORD. N° 1385, DE 17.05.2016)
+
+SOLICITA SE CONFIRMEN LOS CRITERIOS QUE INDICA, RELACIONADOS CON LOS EFECTOS TRIBUTARIOS EN CHILE DEL CAMBIO DE DOMICILIO EN EL EXTERIOR DE UNA SOCIEDAD EXTRANJERA CON ACTIVOS SUBYACENTES EN NUESTRO PAÍS.
+
+Se ha recibido en esta Dirección Nacional su presentación indicada en el antecedente, mediante la cual solicita confirmar que, de acuerdo a la normativa chilena, el cambio de domicilio de una sociedad extranjera de TTTT a XXXX no afecta la continuidad de la personalidad jurídica de la sociedad, ni implica un acto de enajenación de los activos subyacentes ubicados en Chile, ni genera un acto sujeto a tributación en nuestro país.
+
+I.- ANTECEDENTES.
+
+Señala que su cliente, el AAAA, tiene como principal sociedad matriz un banco ubicado en XXXX, que cotiza en varios mercados de valores, banco a través del cual se canalizan en forma directa e indirecta diversas inversiones a nivel global.
+
+Indica, asimismo, que algunas sociedades chilenas pertenecientes al Grupo en referencia, son de propiedad "directa" de BBBB, sociedad válidamente constituida de conformidad con las leyes de TTTT y con domicilio social en dicho país, la que se encuentra evaluando la posibilidad de trasladar su domicilio social a XXXX, dentro del contexto de la reorganización del grupo empresarial al cual pertenece. Agrega, además, que BBBB es filial indirecta del referido banco al 100%.
+
+Explica, en relación a la referida modificación, que las sociedades constituidas de conformidad a la legislación de TTTT pueden trasladar su domicilio a otra jurisdicción y continuar operando como si se hubieren constituido de conformidad con las leyes de esta última, dejando de considerarse como constituidas en TTTT. Lo anterior, en la medida que las leyes del país del nuevo domicilio permitan la continuidad de la persona jurídica y la sociedad haya cumplido con los requisitos que dicha legislación contemple al efecto. Añade, al respecto, que la legislación XXXX contempla expresamente la posibilidad que sociedades constituidas en el extranjero trasladen su domicilio social a XXXX, siempre que den cumplimiento a los requisitos exigidos en dicho país para la constitución de las mismas, atendido el tipo social de que se trate, las que mantendrán su personalidad jurídica, sin solución de continuidad, y quedarán sujetas, desde el momento de su redomiciliación, a la normativa XXXX, debiendo tributar en XXXX por la totalidad de sus rentas, con independencia de su fuente y de la residencia del pagador.
+
+Conforme a las legislaciones aludidas, señala que el referido cambio de domicilio no implica un acto de enajenación respecto de los activos subyacentes de propiedad de la sociedad que muda su domicilio, la que mantiene en todo momento su patrimonio.
+
+Atendiendo a la legislación chilena, por otra parte, indica que no existe ninguna disposición legal que pudiere alterar la conclusión referida en el párrafo precedente y al efecto hace presente que el concepto de enajenación para fines tributarios debe entenderse en un sentido jurídico amplio, esto es, como el acto en virtud del cual un bien sale de un patrimonio para pasar a formar parte de un patrimonio diverso, según reiterados pronunciamientos de este Servicio (Oficios N° 2889, de 2012; N° 1935, de 2010, entre otros) y que el domicilio social es un atributo de la personalidad de una sociedad, cuya modificación no afecta la existencia del mismo, ni la continuidad de la sociedad como sujeto de derechos y obligaciones, ni constituye una causal de disolución o de terminación de una sociedad.
+
+Por todo lo anterior, afirma que el cambio de domicilio social de BBBB, desde TTTT a XXXX, no importa desde la perspectiva chilena un acto que afecte la continuidad de la personalidad jurídica de dicha sociedad, la que se mantiene inalterada, como tampoco un acto de enajenación de los activos que le subyacen, de modo que las acciones y/o derechos en sociedades chilenas de que es titular no deben entenderse enajenadas con motivo de su redomiciliación.
+
+Concluye solicitando a este Servicio confirmar que el cambio de domicilio de una sociedad de TTTT a XXXX, de acuerdo a la normativa chilena, no afecta la continuidad de la personalidad jurídica de la sociedad, ni implica un acto de enajenación de los activos subyacentes ubicados en Chile, ni genera un acto sujeto a tributación en nuestro país.
+
+II.- ANÁLISIS.
+
+No existe en nuestro ordenamiento jurídico tributario norma que ponga término a la personalidad jurídica de una sociedad constituida en el extranjero, por el solo hecho que la misma modifique su domicilio, a otro ubicado también en el extranjero, ya sea que cuente o no con activos subyacentes en Chile.
+
+A este último respecto, disponen los artículos 10 y 11 de la Ley sobre Impuesto a la Renta, que se considerarán rentas de fuente chilena, las que provengan de bienes situados en Chile y que, precisamente, se consideran bienes situados en nuestro país las acciones de una sociedad anónima y los derechos de una sociedad de personas, siempre que dichas sociedades se hayan constituido en Chile.
+
+Por otra parte, cabe señalar, que no existiendo en el ordenamiento jurídico un concepto específico de enajenación para efectos tributarios, dicha expresión debe entenderse en el sentido que le confiere el derecho común. En base a lo anterior se puede afirmar, en un sentido amplio, que la enajenación es el acto de disposición en virtud del cual un bien pasa a formar parte de un patrimonio diverso, de modo que dicho concepto puede ser comprensivo tanto de la transferencia (acto entre vivos), como de la transmisión (acto por causa de muerte) de bienes.
+
+Teniendo presente todo lo anterior, y en el supuesto que la referida modificación pudiere tener lugar conforme a las legislaciones extranjeras en los términos expuestos en el apartado precedente, no se produciría en los hechos la enajenación de los activos subyacentes ubicados en Chile, entre ellos, las acciones y/o derechos en sociedades chilenas, por cuanto dichos bienes, que pertenecen al patrimonio de la sociedad que modifica su domicilio, no pasan a formar parte de otro patrimonio distinto, ya que se trataría de una misma persona jurídica.
+
+Asimismo, y dado que la modificación del domicilio en análisis no implica un acto de enajenación, no tendría aplicación lo dispuesto en el referido artículo 10, en lo que dice relación con afectar con el Impuesto Adicional establecido en el N° 3, del artículo 58 de la Ley sobre Impuesto a la Renta, las rentas obtenidas por contribuyentes no domiciliados ni residentes en el país, en la enajenación de ciertos títulos o instrumentos, cuando la totalidad o una parte del valor de éstos se encuentre representado por uno o más de los activos subyacentes situados en Chile que la norma legal indica, entre ellos las acciones y los derechos sociales.
+
+Sin perjuicio de todo lo anterior, es necesario tener presente que el principio del domicilio o residencia informa la aplicación de la Ley sobre Impuesto a la Renta y, en particular, la de los artículos 41 D, sobre sociedades plataforma de inversiones; 41 E, sobre precios de transferencia; 41 F, sobre exceso de endeudamiento, 41 G, sobre rentas pasivas; 41 H, sobre regímenes fiscales preferenciales; 59, sobre aumento de la tasa del Impuesto Adicional en caso de regalías o remuneraciones. Asimismo, dicho principio tiene especial injerencia frente a los Convenios para Evitar la Doble Imposición.
+
+III.- CONCLUSIÓN.
+
+En base a los antecedentes acompañados, el análisis efectuado y a las normas referidas, es posible concluir lo siguiente:
+
+1. Que el cambio de domicilio de BBBB, desde TTTT a XXXX, de acuerdo a nuestro ordenamiento jurídico tributario, no afecta la continuidad de la personalidad jurídica de aquella.
+
+2. Que los activos subyacentes de BBBB ubicados en Chile, sociedad que mantendría su personalidad jurídica a pesar del cambio de domicilio –sin solución de continuidad–, no se entienden enajenados producto de la referida modificación.
+
+3. Que la modificación del domicilio social de BBBB no constituye en sí mismo un acto sujeto a tributación en Chile, sin perjuicio de posibles efectos tributarios que pudiera tener en el futuro la aplicación de las normas de la Ley sobre Impuesto a la Renta citadas en el análisis, u otras normas cuyo presupuesto o requisito se refiera al domicilio.
+
+Cabe señalar que las conclusiones precedentes se basan exclusivamente en las circunstancias vertidas en la presentación indicada en el antecedente, de modo que la efectividad de los hechos y la calificación legal de las operaciones que describe, son materias que deben ser resueltas en las instancias de fiscalización pertinentes.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1385, de 17.05.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

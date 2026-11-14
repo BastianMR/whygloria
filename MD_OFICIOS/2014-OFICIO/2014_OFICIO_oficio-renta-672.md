@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 672 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 16.282, ART. 7° – CÓDIGO TRIBUTARIO, ART. 21°, CÓDIGO CIVIL, ART. 1709° – DECRETO SUPREMO N° 104, DE 1977 – D..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja672.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja672.doc"
+materia: "renta"
+fecha: "2014-04-24"
+exenta: false
+impuestos: ["herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el artículo 7° de la Ley N° 16.282, la emisión del correspondiente certificado permite precisamente distinguir las donaciones recibidas para cumplir esos otros fines de aquellas donaciones en dinero recibidas para satisfacer necesidades básicas de alimentación, abrigo, habitación, salud, aseo, or"]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 16.282, ART. 7° – CÓDIGO TRIBUTARIO, ART. 21°, CÓDIGO CIVIL, ART. 1709° – DECRETO SUPREMO N° 104, DE 1977 – DECRETO SUPREMO N° 947, DE 2014 – OFICIO N° 3650, DE 2008. (ORD. N° 672, DE 24.04.2014)
+
+SOLICITA CONFIRMAR QUE FUNDACIÓN SE ENCUENTRA HABILITADA PARA RECIBIR DONACIONES DESTINADAS A PRESTAR AYUDA A VÍCTIMAS DEL INCENDIO DE VALPARAÍSO.
+
+I. ANTECEDENTES
+
+Conforme lo expuesto en el correo electrónico, la idea de la fundación es recibir donaciones en dinero, certificarlas, y comprar los diferentes materiales, objetos y enseres para ayudar a los damnificados del incendio de Valparaíso, tal como se realizó para el Terremoto del año 2010.
+
+Expone que, según su entendimiento, en dicho caso deberán emitir un certificado haciendo mención al Decreto Supremo N° 947 de fecha 16.04.2014, y, posteriormente, deberán hacer entrega de un listado completo con la indicación de los donantes al Servicio de Impuestos Internos, al igual que como fue realizado el año 2010.
+
+Adicionalmente, solicita confirmar que los gastos asociados, que serán ayudas directas a damnificados y gastos de envío de la misma, serán gastos rechazados.
+
+Finalmente, requiere corroborar que tanto las donaciones recibidas como los gastos asociados deberán ser tratados en forma completamente independiente a la operación normal, debiendo quedar la cuenta en saldo cero.
+
+II. ANÁLISIS
+
+Como primera cuestión, cabe señalar que la peticionaria no expresa bajo qué cuerpo legal recibirá las donaciones atendido que el referido Decreto Supremo N° 947, del Ministerio del Interior y Seguridad Pública, Subsecretaria del Interior, publicado en el Diario oficial con fecha 16.04.2014, se limita a señalar las comunas de Valparaíso y Viña del Mar como zonas afectadas por catástrofe.
+
+Sin perjuicio de lo anterior, considerando la finalidad de las donaciones recibidas y que el citado Decreto Supremo N° 947 se remite al Decreto Supremo N° 104 de 1977, del Ministerio del Interior, que fijó el texto refundido, coordinado y sistematizado del Título I de la Ley N° 16.282 sobre disposiciones permanentes para casos de sismo o catástrofe , para los efectos del presente análisis se entiende que la peticionaria recibirá las donaciones al amparo de ese cuerpo legal (en adelante, Ley N° 16.282)
+
+Sobre esta materia, el inciso primero del artículo 7° de la Ley N° 16.282 establece que “Las donaciones que se efectúen con ocasión de la catástrofe o calamidad pública, al Estado, a personas naturales o jurídicas de derecho público o fundaciones o corporaciones de derecho privado, a las Universidades reconocidas por el Estado, o que Chile haga a un país extranjero, que permitan satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas, estarán exentas de todo pago o gravamen que las afecten, en las mismas condiciones que las señaladas en el decreto ley N° 45, de 1973, y no se considerarán para el cálculo de los límites contemplados en el artículo 10 de la ley N° 19.885.”
+
+A su turno, el artículo 1° del referido D.L. N° 45 de 1973, establece que las donaciones efectuadas por personas naturales o jurídicas al Estado con el objeto de cooperar a la recuperación económica del país, sea que se efectúen en especies, valores o dinero, estarán exentas del impuesto a las donaciones de la Ley N° 16.271, y, el artículo 2° del mismo decreto ley, exime a estas donaciones del trámite de insinuación contemplado en el Código Civil .
+
+Conforme lo anterior, las donaciones efectuadas al amparo del artículo 7° de la Ley N° 16.282 están exentas de todo pago o gravamen que las afecten “en las mismas condiciones que las señaladas en el decreto ley N° 45, de 1973”, y de ello se sigue que la entidad donataria debe emitir el correspondiente certificado de donación.
+
+Al respecto, y considerando que la entidad donataria es una fundación de derecho privado constituida para cumplir fines diversos a los previstos en el artículo 7° de la Ley N° 16.282, la emisión del correspondiente certificado permite precisamente distinguir las donaciones recibidas para cumplir esos otros fines de aquellas donaciones en dinero recibidas para satisfacer necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas.
+
+Sin perjuicio de lo anterior, según se ha señalado por este Servicio , en el caso que las donaciones sean realizadas a personas naturales o jurídicas de derecho público o a corporaciones o fundaciones de derecho privado, entre otras, no existen normas que regulen expresamente la materia, debiendo por tanto seguirse las reglas generales de acreditación del artículo 21 del Código Tributario.
+
+Asimismo, aunque esta clase de donaciones no se encuentra afecta al trámite de insinuación, deben observarse las demás formalidades o solemnidades que establece el ordenamiento jurídico, como sería la que establece el artículo 1709 del Código Civil, que dispone que los actos o contratos que contengan la entrega o promesa de entrega de una cosa que valga más de 2 UTM debe constar por escrito, excluyéndose, en tal caso, la admisibilidad de la prueba testimonial para acreditarla.
+
+Adicionalmente, de acuerdo a las Resoluciones Exentas números 110 de 2004, y 103 y 106 de 2013 de este Servicio, aplicables a las donaciones efectuadas al amparo del decreto ley N° 45, de 1973 y, por extensión, a las donaciones efectuadas al amparo de la Ley N° 16.282, los contribuyentes que reciban donaciones en comento deberán presentar en el mes de marzo de cada año la Declaración Jurada N° 1832 con la información allí requerida.
+
+Respecto al tratamiento tributario de los gastos consistentes en ayudas directas a damnificados, dichos gastos no constituirán gasto no aceptado para la peticionaria en la medida que se imputen íntegramente a las donaciones en dinero recibidas de terceros con motivo de la catástrofe y se destinen a satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas. Lo mismo aplica para los gastos directamente asociados al envío de la referida ayuda.
+
+Finalmente, y sin perjuicio que las donaciones recibidas deban registrarse en la contabilidad de la peticionaria conforme las reglas generales, por tratarse de una fundación constituida para cumplir diversas finalidades, deberá llevar una cuenta separada donde se registren las donaciones recibidas al amparo de la Ley N° 16.282, las cuales deberán aplicarse íntegramente al cumplimiento de los fines previstos por el artículo 7° de la misma ley, hasta agotarse completamente.
+
+III. CONCLUSIONES
+
+En relación a lo consultado, se informa que, Fundación XXXX, se encuentra habilitada para recibir donaciones al amparo de la Ley N° 16.282 y destinarlas a los damnificados de las zonas afectadas por catástrofe conforme al Decreto Supremo N° 947, del Ministerio del Interior y Seguridad Pública, Subsecretaria del Interior, publicado en el Diario oficial con fecha 16.04.2014.
+
+Las donaciones recibidas deberán ser aplicadas exclusivamente para satisfacer las necesidades básicas de alimentación, abrigo, habitación, salud, aseo, ornato, remoción de escombros, educación, comunicación y transporte de los habitantes de las zonas afectadas. Lo mismo aplica para los gastos directamente asociados al envío de la referida ayuda
+
+Para acreditar el cumplimiento de los requisitos legales, la entidad donataria deberá emitir los certificados de donación correspondientes, cumplir las formalidades o solemnidades para acreditar la donación y presentar en el mes de marzo de cada año la Declaración Jurada N° 1832.
+
+Los gastos consistentes en ayudas directas a damnificados y gastos de envío directamente asociados a dichas ayudas no constituyen gasto no aceptado para la peticionaria en la medida que se imputen íntegramente a las donaciones en dinero recibidas de terceros al amparo de la Ley N° 16.282 y se destinen íntegramente a satisfacer los fines previstos por la misma, sin perjuicio de llevar un registro separado de donaciones y gastos asociados para distinguirlas de las operaciones normales de la fundación.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR
+
+Oficio N° 672, de 24.04.2014
+Subdirección Normativa
+Dpto. de Técnica Tributaria

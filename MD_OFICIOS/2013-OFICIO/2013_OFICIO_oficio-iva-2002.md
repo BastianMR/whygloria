@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 2002 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21° – D.L. N° 2.552, DE 1979, ART. 3°. (ORD. N° 2002, ..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja2002.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja2002.doc"
+materia: "iva"
+fecha: "2013-09-12"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – DECRETO LEY N° 910, DE 1975, ART. 21° – D.L. N° 2.552, DE 1979, ART. 3°. (ORD. N° 2002, DE 12.09.2013)
+
+APLICACIÓN DEL BENEFICIO CONTENIDO EN EL ART. 21°, DE D.L. N° 910, A PROYECTOS DE AMPLIACIÓN O MEJORAMIENTO DE VIVIENDAS SOCIALES, QUE NO REQUIEREN PARA SU EJECUCIÓN DE UN PERMISO DE EDIFICACIÓN.
+
+I.- ANTECEDENTES:
+
+El “Programa de Protección del Patrimonio Familiar” actualmente, y a futuro el “Programa de Mejoramiento de Vivienda y Entorno”, entregan subsidios habitacionales a proyectos para la ampliación o mejoramiento de viviendas existentes, en su mayoría de carácter social, según lo establecido en el D.L. N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo. De estos proyectos, los relacionados con el mejoramiento de dichos inmuebles, por lo general no requieren para su ejecución de un permiso de edificación, según lo dispuesto en el Art. 5.1.2 de la Ordenanza General de Urbanismo y Construcción.
+
+En atención a ello, se solicita un pronunciamiento oficial sobre la aplicación del crédito especial contenido en el Art. 21°, del D.L. N° 910, de 1975, en el caso de los contratos antes señalados.
+
+II.- ANÁLISIS:
+
+El inciso primero del Art. 21°, del D.L. N° 910, de 1975, dispone que: “Las empresas constructoras tendrán derecho a deducir del monto de sus pagos provisionales obligatorios de la Ley sobre Impuesto a la Renta el 0,65 del débito del Impuesto al Valor Agregado que deban determinar en la venta de bienes corporales inmuebles para habitación por ellas construidos cuyo valor no exceda de 4.500 unidades de fomento, con un tope de hasta 225 (doscientas veinticinco) unidades de fomento por vivienda, y en los contratos generales de construcción de dichos inmuebles que no sean por administración, con igual tope por vivienda, de acuerdo con las disposiciones del decreto ley N° 825, de 1974.”
+
+A su vez, la parte final del inciso tercero de la referida norma legal, establece que “para acceder al beneficio la empresa constructora deberá contar con el respectivo permiso municipal de edificación”.
+
+Por otra parte, el inciso cuarto del mencionado Art. 21°, dispone que: “Excepto para el caso de aquellos contratos que recaigan exclusivamente en las viviendas a que se refiere el artículo 3° del decreto ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo, el beneficio dispuesto en el inciso primero no será aplicable a los contratos de ampliación, modificación, reparación o mantenimiento, ni aun en los casos que pudieran implicar la variación de la superficie originalmente construida, como tampoco a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos.
+
+De la norma legal antes transcrita, se desprende que el beneficio en comento, es aplicable por excepción a los contratos de ampliación, modificación, reparación o mantención y a los contratos generales de construcción, que no sean por administración, referidos a la urbanización de terrenos, siempre que ellos recaigan exclusivamente en las viviendas a que se refiere el artículo 3°, del Decreto Ley N° 2.552, de 1979, del Ministerio de Vivienda y Urbanismo.
+
+III.- CONCLUSIÓN:
+
+Respecto de los contratos de ampliación referidos a viviendas sociales, resulta claro que procede la franquicia bajo análisis, pues por excepción el inciso cuarto, del Art. 21°, del D.L. N° 910, la hizo extensiva a este tipo de contratos.
+
+Ahora bien, respecto de proyectos de mejoramiento de dichas viviendas, cabe manifestar que en la medida que dichos proyectos se traduzcan en obras de modificación, reparación o mantenimiento de viviendas sociales, les resultaría igualmente aplicable el beneficio en comento por la misma razón señalada en el párrafo precedente.
+
+Sin embargo, en el caso particular de estos proyectos de mejoramiento de inmuebles, por aplicación de la normativa contenida en la Ordenanza General de Urbanismo y Construcciones, no requieren para su ejecución de la obtención de un permiso municipal de edificación, exigencia que sí contempla la norma tributaria contenida en el Art. 21°, del D.L. N° 910, para acceder al beneficio allí otorgado. Ello provocaría la pérdida de dicho beneficio ante la imposibilidad de dar cumplimiento al requisito de contar con el referido permiso municipal de edificación.
+
+Al respecto y teniendo en consideración que el ordenamiento jurídico debe ser interpretado en forma armónica, de manera tal que las distintas normas legales se apliquen en forma concordante, se estima que para efectos de determinar la procedencia del beneficio contenido en el Art. 21°, del D.L. N° 910, en los contratos para la ejecución de proyectos de mejoramiento de inmuebles, que recaen exclusivamente en viviendas sociales, de aquellas referidas en el Art. 3°, del D.L. N° 2.552, de 1979 y en la medida que dichos proyectos se traduzcan en algunos de los contratos señalados en el inciso cuarto del Art. 21°, del D.L. N° 910, no resulta exigible el requisito de contar con el permiso municipal de edificación cuando por expresa disposición de la Ley General de Urbanismo y Construcciones o de su Reglamento, la Ordenanza General de Urbanismo y Construcciones, no se necesita de éste para la realización de los referidos proyectos.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 2002, de 12.09.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

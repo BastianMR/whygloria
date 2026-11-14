@@ -1,0 +1,106 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 362 (2014)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 16.271, ART. 18°, N°2 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°5, ART. 17°, N..."
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja362.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2014/ja362.doc"
+materia: "iva"
+fecha: "2014-02-25"
+exenta: false
+impuestos: ["renta", "iva", "herencias"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 16.271, ART. 18°, N°2 – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°5, ART. 17°, N°9. (ORD. N° 362, DE 25.02.2014)
+
+DIVERSAS CONSULTAS DEL SERVICIO ELECTORAL RELACIONADAS CON LAS IMPLICANCIAS TRIBUTARIAS DERIVADAS DE
+LA RECOLECCIÓN DE FONDOS EFECTUADA POR ALGUNOS CANDIDATOS.
+
+I.- ANTECEDENTES
+
+Con motivo de las elecciones realizadas en nuestro país y dentro del proceso de campaña política, se habrían suscitado las siguientes situaciones que requerirían de una clarificación en materia tributaria:
+
+“1.- En las redes sociales varios candidatos han comenzado a realizar propaganda a través de Facebook, y pagan por click realizado a su propaganda. ¿La empresa Facebook está autorizada a operar en nuestro país? ¿Las facturas que emite son comunes y corrientes o tienen un trato especial?
+
+2.- Según informa un ciudadano, el candidato XXX está recolectando fondos para su campaña política a través de su Empresa Individual de Responsabilidad Limitada (EIRL). La ley N° 19.884, no prohíbe tal hecho, pero ¿estos ingresos generan consecuencias u obligaciones tributarias para esta EIRL?
+
+3.- Algunas empresas no están entregando facturas a los candidatos, ya que no existiría el giro candidato ¿Hay algún impedimento legal para otorgar facturas a los candidatos?”.
+
+II.- ANALISIS
+
+En relación a su primera consulta es posible informar que la empresa Facebook no se encuentra registrada, para efectos tributarios, en el país, sin embargo este Servicio ha tomado conocimiento que en ciertas ocasiones existen pagos realizados desde Chile a la sociedad Facebook INC, la cual tendría su residencia en Irlanda, con motivo de servicios de publicidad prestados por esta última a través de su plataforma digital en el extranjero.
+
+Teniendo presente lo anterior, es posible señalar, que en la especie, la actividad realizada por Facebook consistente en proveer de espacios publicitarios en Internet, constituye un hecho gravado con Impuesto al Valor Agregado, en virtud del Art. 8° en concordancia con el Art. 2°, N° 2, del D.L. N° 825, por cuanto este tipo de servicios se encuentra clasificado en el N° 3 del Artículo 20° de la Ley sobre Impuesto a la Renta (LIR).
+
+Por su parte, el artículo 5° del D.L. N° 825 de 1974, señala: “El impuesto establecido en esta ley gravará los servicios prestados o utilizados en el territorio nacional, sea que la remuneración correspondiente se pague o perciba en Chile o en el extranjero.
+
+Se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independiente del lugar donde éste se utilice”.
+En el presente caso se trata de un servicio que si bien es prestado en el extranjero, es utilizado en territorio nacional, ya que es en Chile donde se encuentra domiciliado el receptor o beneficiario del servicio, y donde desarrolla la actividad que se beneficia de la prestación, por lo tanto, conforme a lo dispuesto en el artículo 5° antes mencionado, dicha prestación debería gravarse con el Impuesto al Valor Agregado.
+Sin perjuicio de lo anterior, de acuerdo al artículo 12°, letra E, N° 7 del D.L. N° 825, de 1974, se encuentran exentos del Impuesto al Valor Agregado, “Los ingresos que no constituyen renta según el artículo 17° de la Ley de la Renta y los afectos al Impuesto Adicional establecido en el artículo 59 de la misma Ley…”.
+A su vez, la remuneración que se pagará por los servicios en cuestión, corresponde a ingresos afectos al Impuesto Adicional del artículo 59° antes citado, con tasa de 35% por concepto de: “2) Remuneraciones por servicios prestados en el extranjero”.
+De esta forma, las remuneraciones pagadas a Facebook, que presta los servicios publicitarios desde el exterior, se encontrarán exentas de IVA, en la medida que dichas rentas cumplan con los requisitos legales para ser considerados como hecho gravado con el Impuesto Adicional del citado artículo 59° N° 2 de la Ley sobre Impuesto a la Renta.
+Por su parte, el articulo 11°, letra b) del D.L. N° 825, establece que será considerado sujeto del impuesto el comprador o adquirente, cuando el vendedor o tradente no tenga residencia en Chile.
+Dicho lo anterior, debemos concluir que respecto del Impuesto al Valor Agregado no existen obligaciones tributarias a cumplir por parte de las entidades involucradas en las operaciones descritas en su consulta, al no haber un impuesto a enterar, evidentemente, tampoco podría operar la figura del cambio de sujeto que contempla el artículo 11°, antes señalado, a la cual accedería la aplicación de las demás normas relativas a la emisión de documentos establecidas para los contribuyentes nacionales.
+En este escenario dichas operaciones sólo tendrán un efecto a nivel de la determinación del Impuesto a la Renta, a efectos de acreditar el respectivo gasto.
+Sobre esta materia, y de conformidad con lo dispuesto en el inciso segundo del artículo 31° de la LIR, ello deberá efectuarse con los correspondientes documentos emitidos en el exterior de conformidad a las disposiciones legales del país respectivo, siempre que conste en ellos, a lo menos, la individualización y domicilio del prestador del servicio o del vendedor de los bienes adquiridos según corresponda, la naturaleza u objeto de la operación y la fecha y monto de la misma. No obstante, aun en el caso de no existir tales documentos, la respectiva Dirección Regional podrá aceptar el gasto si a su juicio es razonable y necesario, atendiendo a los factores que para tales efectos señala la ley, cuestión de hecho que deberá analizar a la luz de los antecedentes del caso particular.
+Consecuentemente, tratándose de una empresa que no tiene domicilio ni residencia en Chile, la documentación a emitir por las operaciones que realice, en principio se rige por las normas del país donde ésta se encuentre domiciliada.
+
+Sobre la consulta formulada, respecto a las consecuencias y obligaciones tributarias de los fondos recaudados por el candidato XXX a través de su empresa individual de responsabilidad limitada (EIRL) en primer término, se debe señalar que este Servicio tiene facultades para interpretar administrativamente aquellas normas que incidan en materias propias de tributación fiscal interna, por lo cual no constituye una instancia competente para establecer si la EIRL de un candidato presidencial, en vez de éste último, puede recibir aportes para el financiamiento de gastos electorales en período de elecciones. Así, al ser la recolección de fondos efectuada a través de la EIRL del candidato una cuestión no tributaria, para efectos de este análisis se asumirá su procedencia legal.
+
+Precisado lo anterior, la Ley N° 19.884 sobre Transparencia, Límite y Control del Gasto Electoral, en su artículo 11°, señala que las donaciones que se efectúen con arreglo al Párrafo I, del Título II, referido al financiamiento privado de las campañas electorales, están liberadas del trámite de insinuación y exentas del pago del Impuesto a las Herencias, Asignaciones y Donaciones de la Ley N° 16.271. Por su parte, los aportes que reciban los candidatos en virtud de las disposiciones de la Ley N° 19.884, no constituirán renta para todos los efectos legales.
+
+Por su parte, la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos, en su artículo 8° N° 3 e inciso final, dispone que las donaciones destinadas a partidos políticos inscritos en el Servicio Electoral, a los institutos de formación política, y, directamente a candidatos a ocupar cargos de elección popular que se encuentren debidamente inscritos siempre que las donaciones se efectúen en el período que corre desde el día en que venza el plazo para declarar las candidaturas y el día de la elección respectiva, quedan liberadas del trámite de la insinuación y están exentas del pago del impuesto de la Ley N° 16.271.
+
+La Circular N° 55 del 2003, de este Servicio, que instruye sobre el tratamiento tributario de las donaciones efectuadas con fines sociales y públicos, al respecto precisa que las donaciones que se efectúen con fines políticos al amparo del artículo 8° de la Ley N° 19.885, no constituirán renta conforme a lo dispuesto por el N° 9, del artículo 17 de la Ley sobre Impuesto a la Renta (LIR).
+
+Ahora bien, se observa de las normas e instrucciones citadas, que las donaciones efectuadas al candidato mismo como a partidos políticos inscritos en el Servicio Electoral y los institutos de formación política, quedan liberadas de la tributación establecida en la LIR y en la Ley N° 16.271.
+
+Por tanto, para efectos de los beneficios tributarios establecidos en la Leyes N° 19.884 y 19.885, el término candidato debe entenderse referido a la persona natural que compite con una candidatura en actos eleccionarios contemplados en la Ley N° 18.700 Orgánica Constitucional sobre Votaciones Populares y Escrutinios y en la Ley N° 18.695, Orgánica Constitucional de Municipalidades, sin extenderse dicha calidad a personas jurídicas, tales como serían las EIRL , u otro tipo de asociaciones u organizaciones que pudiesen haber constituido el candidato persona natural.
+
+Por ende, no existiendo normas legales que establezcan beneficios tributarios respecto de aportes efectuados a personas jurídicas que el candidato haya constituido, la EIRL perteneciente al candidato queda sujeta a las disposiciones y obligaciones generales que afectan a los contribuyentes en general.
+
+Así, de haberse efectuado los aportes a la EIRL a través de donaciones, tales fondos constituirán un ingreso no renta para la EIRL, en virtud de lo dispuesto en el artículo 17° N° 9 de la LIR. Dicha norma dispone que no constituye renta, y por ende, no sería tributable, los bienes adquiridos de acuerdo con los párrafos 2° y 4° del Título V del libro II del Código Civil, o por prescripción, sucesión por causa de muerte o donación. Lo anterior implica que desde la perspectiva de la LIR, la EIRL no tributa sobre los aportes efectuados a través de donaciones, sin perjuicio de la aplicación de la tributación establecida en la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones o Donaciones.
+La Ley N° 16.271 que grava en su artículo 1° a las donaciones, establece en su artículo 52 que la declaración y pago del impuesto a las donaciones debe efectuarla el donatario, por lo cual la EIRL en principio debiera tributar por las donaciones recibidas.
+Sin embargo, el N° 2 del artículo 18° de la Ley N° 16.271, exime del impuesto que establece dicha ley, a las donaciones de poca monta establecidas por la costumbre, en beneficio de personas que no se encuentren amparadas por una exención establecida en el artículo 2°. De acuerdo a dicha disposición legal, para la procedencia del beneficio tributario las donaciones deben cumplir con los siguientes tres requisitos:
+a) Que sean de poca monta. Al no encontrarse definida esta expresión en la Ley N° 16.271, dichas palabras deben entenderse en su sentido natural y obvio según el uso general de las mismas, de acuerdo a lo dispuesto en el artículo 20° del Código Civil. Al respecto, conforme a las definiciones que provee el Diccionario de la Real Academia Española, para que una donación pueda ser beneficiada con la franquicia en análisis, debe ser de un monto y/o valor de poca importancia.
+b) Las donaciones deben estar establecidas por la costumbre, esto es, el hábito, modo habitual de obrar o proceder establecido por tradición o por la repetición de los mismos actos y que puede llegar a adquirir fuerza de precepto.
+c) Las donaciones deben ser efectuadas a personas que respecto del donante, no sean, el cónyuge, ascendiente o adoptante, hijo o adoptado o a la descendencia de ellos. Asimismo, se excluyen a los donatarios que tengan con el causante un parentesco colateral de segundo, tercero o cuarto grado.
+
+Así, las donaciones que cumplan con las condiciones o requisitos indicados anteriormente, no sólo no tributarían con ninguno de los impuestos establecidos en la LIR al constituir un ingreso no renta del artículo 17° N° 9 de la LIR, sino que también se encontrarían exentas del Impuesto a las Herencias, Asignaciones y Donaciones de la Ley N° 16.271 .
+
+Finalmente, de resultar aplicable el impuesto establecido en la Ley N° 16.271 , la base imponible corresponde al valor monetario del bien donado, siendo el donatario el obligado al pago del impuesto. En el caso de las donaciones en que corresponde hacer el trámite de la insinuación, antes de resolver el juez, el donatario deberá hacer la declaración y pago del impuesto que corresponda. De no requerirse el trámite de la insinuación, el plazo es dentro del mes siguiente a aquél en que se perfeccione el contrato .
+Por el contrario, la recaudación efectuada por la EIRL del candidato que obedezca a un título distinto de la donación, o bien haya sido obtenida fruto de remuneraciones por la prestación de servicios, el aporte se enmarcaría dentro del concepto de renta definido en el artículo 2° N° 1 de la LIR como ingresos que constituyan utilidades o beneficios que rinda una cosa o actividad y todos los beneficios, utilidades o incrementos de patrimonio que se perciban o se devenguen, cualquiera sea su naturaleza, origen o denominación.
+En el caso específico de la EIRL, los aportes recibidos por la EIRL constituyen ingresos tributables al incidir en un aumento del patrimonio de ésta, los que en atención de su naturaleza correspondería clasificar bajo el N° 5, del artículo 20° de la LIR.
+Específicamente, la Circular N° 27 de 2003 de este Servicio, que impartió instrucciones sobre tributación que afecta a las EIRL creadas por la Ley N° 19.857, dispone que las EIRL frente a las normas de la Ley sobre Impuesto a la Renta (LIR), se someten a las mismas disposiciones que en este aspecto rigen para las sociedades comerciales de responsabilidad limitada, de acuerdo al artículo 18° de la Ley N° 19.857. Así, la referida Circular indica que las EIRL pueden en razón de las actividades que realicen dentro de su objeto social verse afectadas por impuestos, y en el evento que esto ocurra, tales entidades deben ceñirse por las reglas aplicables a la generalidad de los contribuyentes, destacando entre ellas la obligación de inscribirse en el Rol Único Tributario (RUT) y hacer una declaración jurada de inicio de actividades, de acuerdo a lo preceptuado por el artículo 68 del Código Tributario (CT), la cual debe presentarse ante el Servicio dentro de los dos meses siguientes a aquel en que comiencen sus actividades.
+Lo anterior se traduce en que en la medida que este tipo de entidades desarrollen negocios o labores cuyas rentas se encuentran gravadas en la Primera Categoría, conforme a los N°s 1, letras a) y b), 3, 4 y 5 del artículo 20 de la LIR, las EIRL quedarán sometidas al Impuesto de Primera Categoría, de una tasa de 20%, aplicado sobre las rentas efectivas determinadas de acuerdo al mecanismo establecido en los artículos 29 al 33 de la LIR, ya sea que dichas rentas se acrediten mediante contabilidad completa o simplificada, o bien sobre las rentas presuntas cuando dicho régimen sea aplicable.
+Así cuando la EIRL determine rentas mediante una contabilidad completa, su titular con domicilio o residencia en Chile, quedará sujeto al sistema de tributación en base a retiros establecido en la letra A) del artículo 14 de la LIR, gravándole el Impuesto Global Complementario por los retiros de las utilidades tributables que efectúe de su empresa individual. En caso que la EIRL se encuentre afecta a Impuesto de Primera Categoría sobre rentas no determinadas sobre la base de un balance general, tributará con Impuesto Global Complementario el titular con domicilio o residencia en Chile, sobre todas las rentas percibidas o devengadas por la EIRL, incluyendo aquellas participaciones percibidas o devengadas que provengan de sociedades que determine de igual forma su renta imponible, en el mismo ejercicio en que tales rentas se perciban o devenguen. Finalmente, en caso de encontrarse acogida la EIRL a un régimen de renta presunta, su titular con domicilio o residencia en Chile tributará con Impuesto Global Complementario en el mismo ejercicio en que se determinen dichas rentas. En todos los casos anteriores, el titular afecto a Impuesto Global Complementario podrá deducir contra dicho gravamen el crédito por Impuesto de Primera Categoría pagado por la EIRL con la tasa de dicho tributo aplicada a la renta devengada o retirada desde la EIRL, en los términos del artículo 56 N° 3 de la LIR.
+Adicionalmente, en forma anexa al régimen tributario antes descrito, la EIRL deberá presentar una declaración jurada anual de impuesto a la renta y demás declaraciones juradas que requiera el SII; llevar el Registro del Fondo de Utilidades Tributables (FUT), de acuerdo con las normas del artículo 14° de la LIR cuando determine renta efectiva mediante contabilidad completa; efectuar pagos provisionales mensuales a cuenta del Impuesto de Primera Categoría que le afecte y practicar las retenciones de impuesto que procedan, según sea la naturaleza de la renta pagada, de acuerdo a lo dispuesto por los artículos 74 N°s 1, 2 y 4 de la LIR.
+En lo que respecta a la consulta relativa a la emisión de documentos tributarios, cabe señalar que de acuerdo con los artículo 52° y 53° del Decreto Ley N° 825, de 1974, los contribuyentes del Impuesto al Valor Agregado por las operaciones que efectúen, deben emitir boletas cuando celebren operaciones comprendidas en los Títulos II y III del mencionado cuerpo legal, efectuadas con personas que no tengan calidad de contribuyentes del Impuesto al Valor Agregado y, facturas, respecto de operaciones que realicen con otros vendedores, importadores o prestadores de servicios. Lo anterior, por cuanto, esta última en su carácter de documento tributario es el único que permite al contribuyente receptor utilizar el crédito fiscal equivalente al impuesto en ella recargado.
+De acuerdo a la normativa referida, la documentación tributaria que debe emitirse dependerá de si el beneficiario de la prestación, es o no un contribuyente de dicho tributo.
+Así las cosas, si el comprador o beneficiario de los servicios es un contribuyente de IVA y tiene por tanto el derecho a utilizar el crédito fiscal contenido en la factura, procederá la emisión de este tipo de documento.
+En caso contrario, como ocurre en la especie, siendo el beneficiario un candidato presidencial, que en su carácter de tal no es contribuyente de IVA, tributariamente procederá la emisión de una boleta y no de una factura.
+
+III.- CONCLUSION
+De lo expuesto y en respuesta a sus consultas es posible señalar que la empresa Facebook, no se encuentra registrada, para efectos tributarios, en nuestro país, consecuentemente no les son aplicables las normas relativas a la emisión de documentos establecidas para los contribuyentes nacionales.
+En cuanto a las obligaciones tributarias respecto de la recolección de fondos mediante aportes a través de donaciones a la EIRL, es posible señalar que la EIRL formada por el candidato no queda acogida a los beneficios tributarios de la Leyes N° 19.884 y N° 19.885, ciñéndose en materia impositiva por las disposiciones y obligaciones comunes que afectan a los contribuyentes en general.
+
+Por lo anterior, los aportes efectuados a la EIRL a través de una donación, constituirán un ingreso no renta para la EIRL, atendido lo dispuesto en el artículo 17 N° 9 de la LIR, sin perjuicio de la aplicación del Impuesto a las Herencias, Asignaciones y Donaciones de la Ley N° 16.271 cuando no concurran los requisitos dispuestos en la exención del N° 2 del artículo 18 de la Ley N° 16.271.
+
+Si la recolección de fondos efectuada por la EIRL obedece a un título distinto de la donación, los ingresos obtenidos se enmarcan dentro del concepto de renta definido en el artículo 2° N° 1 de la LIR, constituyendo ingresos tributables clasificados bajo el N° 5, del artículo 20° de la LIR, quedando la EIRL sometida al Impuesto de Primera Categoría, de una tasa de 20%.
+
+Respecto del documento tributario que las empresas deben emitir a los candidatos presidenciales, se informa que no siendo el beneficiario de las ventas o servicios un contribuyente de IVA, procede a su respecto la emisión de boletas de ventas y servicios.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N°362, de 25.02.2014
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

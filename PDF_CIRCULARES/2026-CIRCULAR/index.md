@@ -41,3 +41,5 @@
 * [circu39.pdf](./circu39.pdf)
 * [circu40.pdf](./circu40.pdf)
 * [circu41.pdf](./circu41.pdf)
+* [circu42.pdf](./circu42.pdf)
+* [circu43.pdf](./circu43.pdf)

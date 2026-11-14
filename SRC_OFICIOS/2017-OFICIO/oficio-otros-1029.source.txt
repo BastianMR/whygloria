@@ -1,0 +1,5 @@
+source: oficio-otros-1029.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1029.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2017/ja1029.doc
+materia: otros
+retrieved: 2026-11-11

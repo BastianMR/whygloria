@@ -1,0 +1,100 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1702 (2016)"
+description: "LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271 – ART. 1 – LEY SOBRE IMPUESTO A LA RENTA, ART. 17, N°8, LETRA I), ART. 17, N°9 –..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1702.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1702.doc"
+materia: "otros"
+fecha: "2016-06-15"
+exenta: false
+impuestos: ["renta", "herencias"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+LEY SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES – LEY N°16.271 – ART. 1 – LEY SOBRE IMPUESTO A LA RENTA, ART. 17, N°8, LETRA I), ART. 17, N°9 – OFICIO N° 1950, DE 2011. (ORD. N° 1702, DE 15.06.2016)
+
+TRATAMIENTO TRIBUTARIO DE HERENCIA ADQUIRIDA POR CONTRIBUYENTE CHILENA POR PARTE DE CAUSANTE NO RESIDENTE NI DOMICILIADO EN CHILE.
+
+I ANTECEDENTES
+
+De acuerdo a la presentación, doña XXXX – residente en Chile – expone que su padre, ciudadano inglés, falleció en febrero de 2014, dejándole a ella y a su hermana, residente en el Reino Unido, la totalidad de su patrimonio integrado principalmente por un bien raíz ubicado en ese país, a través de un testamento cuya copia se acompaña.
+
+Agrega que en los meses de agosto y septiembre de ese año los ejecutores testamentarios, en representación del causante, vendieron el referido inmueble y, con los fondos obtenidos de dicha venta, los ejecutores pagarán las deudas que había dejado el causante y el impuesto a la herencia en el Reino Unido. El saldo que resulte del pago de estas obligaciones, se distribuirá entre las herederas.
+
+Si bien el párrafo anterior señala que los ejecutores testamentarios “vendieron” el inmueble, a renglón seguido informa que en la escritura de compraventa sólo “comparecerán” los ejecutores testamentarios en su calidad de representantes del causante, de suerte que la consultante sólo recibirá una cantidad determinada de dinero proveniente de la venta del inmueble. Precisa que en ningún caso recibirá el inmueble ya que este nunca se va a inscribir a su nombre ni figurará como dueña en registro alguno.
+
+En ese contexto, solicita se confirme que no corresponde pagar Impuesto a la Herencia en Chile por los bienes que adquiera, en consideración a que están situados en el Reino Unido y no fueron adquiridos con recursos obtenidos en Chile.
+
+En cuanto al mayor valor obtenido en la venta del bien raíz, señala que tampoco debiera gravarse con el Impuesto a la Renta, por los siguientes argumentos:
+
+a) La interesada nunca adquirió el inmueble, de modo que de existir una ganancia, esta no le sería atribuible por no ser dueña del inmueble y,
+
+b) En el caso que se considere que al ser beneficiaria de la herencia del causante, es la titular de esa ganancia de capital, de todos modos no se generaría el referido impuesto a la renta, puesto que el artículo 17 N° 8 letra i) de la Ley sobre Impuesto a la Renta establece que no constituye renta la ganancia obtenida en la venta de derechos o cuotas de bienes raíces poseídos en comunidad.
+
+Agrega que, según lo establecido en los artículos 688 y 722 del Código Civil, la posesión de la herencia se confiere desde el momento en que la herencia es deferida, produciéndose entre los herederos del causante una comunidad sobre los bienes del mismo.
+
+En este caso, desde la perspectiva del derecho chileno, al fallecer el causante se forma una comunidad entre los herederos, pasando a ser dueños en conjunto de todos los bienes de la herencia, incluyéndose el bien raíz. Por lo anterior, cada una de las herederas será dueña de una cuota sobre el inmueble, equivalente, en el caso particular, al 50%. Por esa razón, si se decide vender el inmueble, la contribuyente concluye que la ganancia obtenida por la venta no estará afecta a impuesto a la renta en Chile.
+Por último, advierte que todo lo relacionado habría sido confirmado por este Servicio a través del Oficio N° 4.242, de 2006, y el Oficio N° 1.619, de 2013.
+
+Al respecto esa Dirección Regional estima que si en la sucesión de un extranjero, no domiciliado ni residente en el país, no hay bienes situados en Chile y los bienes situados en el exterior no fueron adquiridos con recursos provenientes del país, no procede la aplicación del Impuesto a las Herencias. En cuanto al Impuesto a la Renta hace presente que, de acuerdo al artículo 17 N° 9 de la Ley sobre Impuesto a la Renta, no constituye renta la adquisición de bienes por sucesión por causa de muerte, sin perjuicio del impuesto a la renta que afectará a la eventual ganancia de capital que se obtenga por la venta del inmueble heredado. Para determinar la utilidad o pérdida en la enajenación del inmueble situado fuera del país, afecta a impuesto en Chile, debiese compararse el precio asignado en la operación, con el valor de costo para efectos tributarios (valor que tenía al momento de deferirse la herencia, determinada de conformidad con la ley indicada).
+
+Finalmente, considera inaplicable el Oficio N° 1619, de 2013 a la ganancia de capital que se obtendría en la venta del inmueble heredado, toda vez que la “comunidad” es una institución propia del derecho continental.
+
+II ANÁLISIS
+
+Sin perjuicio de lo expuesto más adelante, en principio no es posible determinar en qué calidad la peticionaria recibe los fondos obtenidos en la venta del inmueble, atendidos los términos en que se formula la presentación.
+
+Por de pronto, y de acuerdo al testamento, los señores AAA y BBB fueron designados “ejecutores y trustees testamentarios”, sin perjuicio que a las señoras BBB y XXXX, hijas del causante, les fuera legado y entregado (devise and bequeath) en partes iguales todo el patrimonio o masa hereditaria (the whole of my estate both real and personal) sobre todo y cualquier remanente que quede después de pagadas las deudas y expensas funerarias y testamentarias.
+
+Al respecto, descontando que la figura de los “trustees” no existe en nuestro ordenamiento, la presentación se cuida en aclarar que a la compraventa del inmueble sólo “comparecerán” los ejecutores testamentarios y que “en ningún caso” la peticionaria recibirá el inmueble, ya que este nunca se va a inscribir a su nombre ni figurará como dueña en registro alguno. No obstante lo anterior, más adelante (y a propósito de los efectos frente al Impuesto a la Renta) señala que “en el caso de ser considerada beneficiaria de la herencia”, la posesión de la herencia produce entre los herederos del causante “una comunidad sobre los bienes del mismo” (citando los artículos 688 y 722 del Código Civil). Sin embargo, no es posible ser comunero respecto de los bienes del causante si, como plantea la presentación, la peticionaria jamás habría sido dueña del inmueble vendido por los ejecutores testamentarios (y que pertenecía al causante).
+
+Por otra parte, al menos conforme a nuestro ordenamiento jurídico, en la sucesión por causa de muerte se sucede a una persona difunta a título universal en todos sus bienes, derechos y obligaciones, o en una cuota de ellos (artículo 951 del Código Civil), siendo los asignatarios a título universal herederos que “representan a la persona del testador para sucederle en todos sus derechos y obligaciones transmisibles” (artículo 1097).
+
+Sin embargo, al menos de los escasos antecedentes proporcionados por la peticionaria y el testamento acompañado, no es claro si – existiendo un ejecutor y trustee testamentario de por medio – la peticionaria “suceda” al causante en todos sus derechos y obligaciones transmisibles, “representando” a la persona del testador.
+Considerando lo expuesto, a continuación se expondrán criterios generales, quedando a las instancias de fiscalización verificar el cumplimiento de los supuestos legales.
+
+Respecto del Impuesto a la Herencia, se comparte que, de verificarse el modo de adquirir sucesión por causa de muerte, no procedería aplicar el impuesto respecto de bienes quedados en el extranjero a la fecha de fallecer el causante y adquiridos con recursos provenientes fuera de Chile, de acuerdo al artículo 1°, incisos segundo y tercero, de la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones.
+En cuanto al Impuesto a la Renta, este Servicio ha fijado como criterio que el mayor valor obtenido en la enajenación de bienes raíces queda afecta al tratamiento tributario que dispone la legislación chilena, sea que tales inmuebles se encuentren situados en Chile o en el extranjero . Asimismo, ha sostenido que la sucesión de un extranjero, no domiciliado ni residente en el país cuyos bienes situados en el exterior no fueron adquiridos con recursos provenientes del país, constituye ingreso no renta según lo dispuesto en artículo 17, números 8° y 9° de la Ley sobre Impuesto a la Renta .
+
+Con todo, en el caso específico del mayor valor obtenido en la enajenación de derechos o cuotas respecto de bienes raíces “poseídos en comunidad”, de acuerdo al artículo 17 N° 8 letra i) de la Ley sobre Impuesto a la Renta, es menester que el enajenante sea “comunero” de los bienes raíces, cuestión que – según la clara exposición de la peticionaria – no se daría en la especie.
+
+En efecto, conforme nuestro sistema jurídico, a la muerte del causante se verifica una comunidad hereditaria, en la cual los herederos participan como “comuneros”. Sin embargo, si los “ejecutores y trustees testamentarios” señalados en su presentación comparecen como representantes del causante, de suerte que la peticionaria “nunca” habría sido dueña del inmueble vendido por los ejecutores testamentarios (y que pertenecía al causante), la peticionaria jamás pudo – ni siquiera por un momento – considerarse comunera en los bienes quedados por el causante.
+De lo expuesto anteriormente se puede concluir que la venta del inmueble, al menos conforme a nuestro ordenamiento jurídico, no habría sido efectuada por la heredera domiciliada en Chile ni tampoco habría enajenado derechos o cuotas de bienes raíces “poseídos en comunidad”, de modo que no sería aplicable lo dispuesto en la letra i), del número 8, del artículo 17 de la Ley sobre Impuesto a la Renta.
+
+No obstante lo anterior, si la peticionaria puede acreditar en las instancias de fiscalización que el título por el cual recibe bienes – o su valor en dinero – de parte del ejecutor o trustee testamentario, es el documento fundacional que la instituye como beneficiaria en calidad de “heredera” de acuerdo al derecho comparado, dichos bienes podrían calificar como ingresos no renta de acuerdo al artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
+
+Con todo, ese tratamiento sólo alcanza a los bienes – o su valor representativo en dinero – quedados y determinados a la fecha de fallecer el causante, y no a las rentas, réditos o mayor valor producidos u obtenidos con posterioridad.
+
+En este caso, en la medida que el Impuesto a las Herencias sea inaplicable respecto de bienes quedados en el extranjero y adquiridos con recursos provenientes fuera de Chile, para determinar el mayor valor obtenido por el heredero en la enajenación de los bienes del causante, el costo de adquisición no resulta de aplicar las normas de valoración dispuestas en los artículos 46 y siguientes de la Ley sobre Impuesto a las Herencias, sino de aplicar las reglas generales de la Ley sobre Impuesto a la Renta.
+
+III CONCLUSIÓN
+
+Atendidos los términos en que se formula la consulta y por abarcar instituciones de derecho comparado, en principio no es posible determinar en qué calidad la peticionaria recibe los fondos obtenidos en la venta del inmueble.
+
+Sin perjuicio de lo anterior, en términos generales se puede afirmar que:
+a) No es aplicable el Impuesto a la Herencia respecto de bienes quedados en el extranjero a la fecha de fallecer el causante y adquiridos con recursos provenientes fuera de Chile.
+
+b) En cuanto al Impuesto a la Renta, el mayor valor obtenido en la enajenación de bienes raíces queda afecta al tratamiento tributario que dispone la legislación chilena, sea que tales inmuebles se encuentren situados en Chile o en el extranjero.
+
+c) Con todo, en el caso específico no es aplicable el artículo 17 N° 8 letra i) de la Ley sobre Impuesto a la Renta, que beneficia al mayor valor obtenido en la enajenación de derechos o cuotas respecto de bienes raíces “poseídos en comunidad”.
+
+No obstante lo anterior, si puede acreditar que el título por el cual la peticionaria recibe bienes – o su valor en dinero – es el de “heredera”, de acuerdo al derecho comparado, dichos bienes podrían calificar como ingresos no renta de acuerdo al artículo 17 N° 9 de la Ley sobre Impuesto a la Renta.
+
+Ese tratamiento sólo alcanza a los bienes – o su valor representativo en dinero – quedado y determinado a la fecha de fallecer el causante, y no a las rentas, réditos o mayor valor producidos u obtenidos con posterioridad.
+
+En estos casos, para determinar el mayor valor obtenido en la enajenación de bienes quedados en el extranjero y adquiridos con recursos provenientes fuera de Chile se deben aplicar las reglas generales de la Ley sobre Impuesto a la Renta.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1702, de 15.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

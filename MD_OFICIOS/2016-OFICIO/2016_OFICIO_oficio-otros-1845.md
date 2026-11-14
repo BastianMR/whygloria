@@ -1,0 +1,93 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1845 (2016)"
+description: "TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – CIRCULAR N° 58, DE 1978 – RESOLUCIÓN EXENTA N° 137, DE 1975 – OFICIO N° 1559, DE..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1845.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2016/ja1845.doc"
+materia: "otros"
+fecha: "2016-06-24"
+exenta: false
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+TIMBRES Y ESTAMPILLAS – NUEVO TEXTO – LEY SOBRE IMPUESTO DE – ART. 24, N°6 – CIRCULAR N° 58, DE 1978 – RESOLUCIÓN EXENTA N° 137, DE 1975 – OFICIO N° 1559, DE 2014. (ORD. N° 1845, DE 24.06.2016)
+
+APLICACIÓN DE EXENCIÓN CONTENIDA EN EL ARTÍCULO 24 N° 6 DE LA LEY DE TIMBRES Y ESTAMPILLAS A DOCUMENTO QUE INDICA.
+
+Se ha recibido en este Servicio la presentación del antecedente, mediante la cual solicita aclarar si resulta aplicable la exención contenida en el artículo 24 N° 6 de la Ley de Timbres y Estampillas al documento que daría cuenta de un crédito otorgado por una institución bancaria a una Caja de Compensación y Asignación Familiar, para efectos de su financiamiento.
+
+I ANTECEDENTES
+
+De acuerdo a la consulta, una institución bancaria local ha recibido una solicitud de crédito por parte de una Caja de Compensación y Asignación Familiar (en adelante, la “Caja”), para su financiamiento.
+
+Tras una serie de consideraciones que serán analizadas más adelante, la presentación señala que el documento a emitir por la institución bancaria no sería de aquellos que dan cuenta de una captación de capital de otra institución congénere y tampoco se trataría de documentos que una Caja emitirá para la captación de fondos, surgiendo la duda de si el documento en cuestión, que da cuenta de una operación de crédito de dinero, se encontraría exento del Impuesto de Timbres y Estampillas, conforme al N° 6 del artículo 24, de la Ley del ramo.
+
+Al respecto, tras citar la parte pertinente de la Circular N° 58 de 1978 y lo resuelto en el Oficio 1271 de 2013, el peticionario manifiesta dudas respecto de si la exención contenida en el artículo 24 N° 6, antes citado, es extensiva a los documentos que se emitan con motivo del crédito que se otorgue a una Caja para efectos de su financiamiento, pues no se darían los supuestos explicados en la Circular N° 58, en especial porque la operación no calificaría como una operación de captación de capital de otras instituciones congéneres.
+
+Pendiente la respuesta a su consulta, el peticionario ha presentado un escrito para reiterar y complementar la petición anterior en vista del Oficio N° 1559 de 2014, en el sentido de aclarar a quién corresponde determinar el destino de los fondos del crédito y, si para efectos de aplicar la exención, basta la declaración que formule al banco la respectiva Caja en cuanto a dicho destino, limitándose la responsabilidad de la entidad bancaria, sin perjuicio de las facultades de fiscalización de este Servicio respecto de la Caja de Compensación.
+
+II ANALISIS
+
+Conforme al artículo 24 N° 6 de la Ley de Timbres y Estampillas, se encuentran exentos de dicho impuesto los documentos que dan cuenta de los siguientes actos, contratos o convenciones:
+
+“Documentos otorgados por instituciones financieras, en las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, cuando éstos den cuenta de operaciones de crédito de dinero y sean necesarios para la realización de estas operaciones (…).
+
+La lista de tales documentos será determinada por resolución del Director del Servicio de Impuestos Internos, previo informe favorable del Banco Central de Chile.”
+
+En cumplimiento de la norma citada, la Resolución N° 137 de 1975, determina que los documentos exentos de Impuesto de Timbres y Estampillas son los siguientes:
+
+a) Letras de cambio y libranzas aceptadas por instituciones financieras con ocasión de captación de ahorros, con provisión de fondos por el inversionista;
+
+b) Reconocimientos de deudas, pagarés y recibos de dinero en que las instituciones financieras se reconozcan deudoras de una captación de ahorros;
+
+c) Documentos que den cuenta de la captación de fondos a inversionistas, que se efectúe mediante la constitución de depósitos de ahorro u otorgando derechos sobre la cartera de valores de propiedad de la institución financiera, reconociéndose ésta en ambos casos como deudora de los fondos captados;
+
+d) Contratos de mutuo en que el deudor sea una institución financiera;
+
+e) Letras hipotecarias, bonos en sus diversas especies y debentures de sociedades anónimas;
+
+f) Contratos de compraventa de títulos de crédito en que el vendedor sea una institución financiera, y
+
+g) Contratos de compraventa de títulos de créditos con pacto de recompra, en que el vendedor es una institución financiera.
+Sin perjuicio de lo anterior, la referida resolución dispone además que la exención sólo procederá cuando concurran “copulativamente” los requisitos que, para los efectos del presente análisis, se resumen a continuación:
+
+a) Que el emisor del documento sea una institución financiera
+b) Que los documentos incidan en operaciones de captación de capitales de ahorrantes e inversionistas
+c) Que el o los documentos den cuenta de operaciones de crédito de dinero; y
+d) Que el o los documentos sean necesarios para la realización de dichas operaciones de crédito de dinero.
+Considerando que las Cajas de Compensación tienen la calidad de “instituciones financieras” para los efectos de la exención , de su presentación se desprende que la consulta se limita a determinar si un documento emitido con motivo de un crédito otorgado a una Caja, para efectos de su financiamiento, califica o no como una “operación de captación” .
+Sobre el particular, y a propósito de materias relacionadas, este Servicio ha señalado que el concepto de “captación” tiene una acepción amplia , de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma.
+
+Por su parte, y en lo que interesa, los documentos deben ser “necesarios para la realización de estas operaciones” (se entiende, de las operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales). Luego, que los documentos sean necesarios (indispensables, inevitables o forzosos) para el cumplimiento de las referidas operaciones, excluye aquellos documentos que incidan en otro tipo de operaciones, como serían las operaciones destinadas a obtener créditos para el financiamiento de la propia Caja de Compensación, la adquisición de un inmueble o el pago de deudas .
+
+Sobre esta materia cabe tener presente que, según reiterada jurisprudencia administrativa, por tratarse de normas excepcionales, las exenciones se interpretan restringidamente y deben cumplirse estrictamente todos sus requisitos de aplicación . Por tanto, no todo documento se encuentra exento conforme al artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas, sino sólo aquellos que, fuera de incluirse en la lista establecida por la Resolución N° 137 de 1975, se encuentren destinados directa e inmediatamente a documentar operaciones de depósito o de captación de capitales de ahorrantes e inversionistas locales.
+
+Finalmente, y en cuanto a los criterios que solicita aclarar en su presentación complementaria de fecha 07.08.2015, se informa lo siguiente:
+
+a) Por tratarse de un requisito que incide en el destino otorgado a los créditos por parte de la Caja de Compensación, no corresponde a la entidad bancaria – en el ejemplo - determinar el destino efectivo de los fondos.
+
+Con todo, la entidad bancaria debe adoptar las medidas de control a su alcance, como exigir una declaración de la propia Caja respecto del destino que dará a los fondos.
+
+b) Conforme lo anterior, velar por el correcto uso de la exención corresponde a las instancias de fiscalización de este Servicio, sin perjuicio de las responsabilidades que correspondan a la Caja por la aplicación indebida de la exención.
+
+III CONCLUSION
+
+Conforme los hechos descritos en su presentación, puede concluirse que no cumplen la finalidad específica prevista por la ley para que proceda la exención del artículo 24 N° 6 de la Ley sobre Impuesto de Timbres y Estampillas, los documentos que no sean necesarios para la realización de operaciones de depósito o de captación de capitales, de ahorrantes e inversionistas locales, sino que incidan en operaciones destinadas al financiamiento de la propia Caja.
+
+Respecto de las aclaraciones solicitadas en su presentación complementaria, estése a lo indicado en el cuerpo del Análisis precedente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1845, de 24.06.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

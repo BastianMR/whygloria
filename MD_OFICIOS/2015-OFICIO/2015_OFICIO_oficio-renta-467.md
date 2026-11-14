@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 467 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 604°, ART. 607° – OFICIO N° 987, DE 2014. (ORD. N° 467, DE 12.02.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja467.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja467.doc"
+materia: "renta"
+fecha: "2015-02-12"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – CÓDIGO DE COMERCIO, ART. 604°, ART. 607° – OFICIO N° 987, DE 2014. (ORD. N° 467, DE 12.02.2015)
+
+CONTRATO DE CUENTA CORRIENTE MERCANTIL. SOLICITA PRECISAR ALGUNOS PÁRRAFOS DEL OFICIO N° 987 DE 2014.
+
+Se ha recibido en esta Dirección Nacional la presentación del Sr. XXXX, quien solicita precisar algunos párrafos del Oficio N° 987 de 2014, relativo a un contrato de cuenta corriente mercantil.
+I ANTECEDENTES
+Mediante presentación del antecedente, el peticionario cita algunos párrafos del Oficio N° 987 de 2014, para luego solicitar se aclaren o precisen a la luz de los antecedentes de derecho que expone en la misma presentación.
+En términos simples, solicita precisar lo siguiente:
+a) Que la admisión de un crédito en la cuenta corriente mercantil implica la extinción de la obligación en virtud del modo de extinguir “novación”, de acuerdo a lo dispuesto en el artículo 607 del Código de Comercio.
+b) Que la obligación resultante de la compensación efectuada al término del contrato de cuenta corriente mercantil y tras liquidarse la misma emana del propio contrato de cuenta corriente mercantil y no supone que la obligación primitiva “reviva”.
+c) Que no es necesario, para que exista contrato de cuenta corriente mercantil, que ambas partes sean comerciantes.
+d) Que el requisito de no afectarse los fondos anotados en la cuenta corriente mercantil a un fin determinado o preciso no se confunde – ni es óbice para la existencia del contrato – con que los créditos o valores anotados tengan un objeto o prestación determinada.
+II ANÁLISIS
+A fin de dar una respuesta sistemática a las consultas, y como primera cuestión, es importante notar que el Oficio N° 987 de 2014 sólo absuelve una consulta específica (si los dividendos acordados distribuir por una sociedad filial a su matriz, se entienden pagados al haber sido incorporados a la cuenta corriente mercantil), a partir de un análisis general de la legislación aplicable, sin examinar las circunstancias materiales o de hecho envueltas.
+Por esta razón, en el párrafo final del Análisis del Oficio citado se señala que la percepción del dividendo acreditado dependerá de la concurrencia en el caso expuesto de la verificación de todos los supuestos que exige la cuenta corriente mercantil (supuestos cuya concurrencia el Oficio no califica), de suerte que, como previene la Conclusión del mismo Oficio, su concurrencia corresponde a una cuestión de hecho que debe verificarse en la instancia de fiscalización respectiva.
+Dicho lo anterior, y en lo que respecta a las consultas formuladas en su presentación, puede señalarse lo siguiente:
+a) Respecto del efecto novatorio que tendría la admisión del crédito en la cuenta corriente mercantil, cabe señalar que existe cierta discusión en la doctrina nacional y comparada en el sentido que se trate “propiamente” de una novación (o en cambio, de una “especie” de novación o novación “sui generis”) así como de sus efectos y momento en el cual se configuraría la misma .
+
+En cualquier caso, y a partir del artículo 607 del Código de Comercio puede sostenerse con base legal que en nuestro sistema:
+
+i. En realidad, una obligación no es sustituida por otra sino por un asiento contable.
+ii. Que dicha sustitución en todo caso tiene efecto novatorio porque produce la extinción de la obligación primitiva.
+iii. Que el efecto novatorio (extinción de la obligación primitiva) se verifica al momento de registrarse el respectivo crédito en la cuenta corriente y no en un momento posterior (como sería al liquidarse la cuenta).
+
+b) Conforme lo expuesto precedentemente, la obligación por el saldo no compensado que nace al liquidarse parcial o totalmente la cuenta, esto último al término del contrato de cuenta corriente mercantil y tras liquidarse la misma, es una nueva obligación que emana del propio contrato de cuenta corriente mercantil y no supone que la obligación primitiva “reviva”.
+
+c) Respecto de las consultas signadas en las letras c) y d) del Antecedente, es menester una aclaración previa.
+
+De acuerdo al Oficio N° 987 de 2014 “es consustancial a este tipo de contrato, de acuerdo al artículo 609 del Código de Comercio, que las acreencias y débitos registrados en la cuenta se efectúen en función de las relaciones comerciales permanentes mantenidas entre comerciantes para extinguir obligaciones derivadas de ellas, sin contraprestación recíproca y sin aplicación a un empleo determinado. Si se condiciona a un empleo determinado o se le afecta a una finalidad preestablecida, deja de ser cuenta corriente pasando a ser otro tipo de convención o contrato. Este principio ha sido recogido por la jurisprudencia en una sentencia de la Corte de Apelaciones de Valdivia...”
+
+Ahora bien, según fuera expuesto, el Oficio ha sido redactado en términos genéricos, sin calificar la concurrencia de los requisitos de existencia del contrato de cuenta corriente mercantil para el caso concreto.
+
+Luego, a fin de resolver las consultas c) y d) es necesario situar correctamente el contexto en el cual se contiene el párrafo en discusión.
+
+Al respecto, la “consustancialidad” de que trata el Oficio está destinada a delimitar el ámbito del artículo 609 en relación con el artículo 604, ambos del Código de Comercio, el cual exige que las cuentas corrientes mercantiles se celebren en el marco de relaciones habituales entre las partes. No cumpliría la exigencia anterior, por ejemplo, un contrato de cuenta corriente que sólo registre una única operación de crédito de dinero o en la cual una sola parte remesa dineros, de suerte que no sea necesario liquidar la cuenta para determinar cuál de las partes resulta acreedora o deudora.
+
+Considerando que, de acuerdo a la doctrina, el Código de Comercio ha seguido un criterio “objetivo” para calificar las operaciones como mercantiles (esto es, en atención al acto en sí mismo y no a los sujetos que intervienen), entonces lo propio de la cuenta corriente mercantil será dar cuerpo a relaciones habituales (no necesariamente celebradas “entre” comerciantes) consistentes en la acreditación de cantidades de dinero u otros valores sin aplicación a un empleo determinado ni la obligación de tener a la orden del acreditante una cantidad o valor equivalente .
+
+Por tanto, conforme lo expuesto, se concluye que:
+
+i. En base al artículo 604 del Código Comercio y la doctrina, se comparte que el contrato de cuenta corriente mercantil no requiere que ambas partes sean comerciantes; sin perjuicio que las operaciones registradas en la cuenta corriente sean el resultado de una relación habitual entre las partes en el marco de ese contrato.
+ii. Que, por último, también se concuerda con el consultante en cuanto a que no debe confundirse la exigencia que los fondos, créditos o valores anotados en la cuenta corriente mercantil sean afectados a un fin determinado o preciso, con que los créditos o valores anotados en la cuenta corriente tengan un objeto o prestación determinada. En consecuencia, la circunstancia que un crédito consistente en el derecho a cierto dividendo tenga, desde luego, un objeto determinado, no implica que ese crédito o valor esté afectado a un fin determinado, pudiendo por tanto acreditarse en una cuenta corriente mercantil sin que ello sea óbice para la existencia de ese contrato.
+
+III CONCLUSIÓN
+Precisado que el Oficio N° 987 de 2014 realiza un análisis genérico de la materia, sin calificar la concurrencia de los requisitos que determinan la existencia de una cuenta corriente mercantil para el caso en cuestión, se comparten los planteamientos efectuados en su consulta en los términos referidos
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 467, de 12.02.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

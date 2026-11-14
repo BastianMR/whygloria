@@ -1,0 +1,58 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 1596 (2014)"
+description: "CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 126°, ART. 128° – CIRCULAR N° 27, DE 2007 – OFICIO N° 1589, DE 2001 (ORD. N° 1596, DE 05.09.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja1596.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2014/ja1596.doc"
+materia: "otros"
+fecha: "2014-09-05"
+exenta: false
+impuestos: ["timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CÓDIGO TRIBUTARIO – NUEVO TEXTO – ART. 126°, ART. 128° – CIRCULAR N° 27, DE 2007 – OFICIO N° 1589, DE 2001 (ORD. N° 1596, DE 05.09.2014)
+
+SOLICITA CONFIRMAR PROCEDIMIENTO A SEGUIR PARA REQUERIR DEVOLUCIÓN DE IMPUESTO DE TIMBRES Y ESTAMPILLAS EN SITUACIÓN QUE DESCRIBE.
+
+Se ha solicitado a este Servicio confirmar el procedimiento que debe seguirse para requerir la devolución de sumas pagadas a título de Impuesto de Timbres y Estampillas, mal trasladadas o
+I ANTECEDENTES
+
+Señala la recurrente que mediante la Circular N° 27 de 2007, que complementa la Circular 39 de 1991, se estableció un procedimiento especial para solicitar la devolución de sumas ingresadas en arcas fiscales a título de Impuesto de Timbres y Estampillas, mal trasladadas o recargadas, que hubieren gravado la documentación relacionada con operaciones de importación.
+
+De acuerdo a la referida Circular, el procedimiento consiste, en síntesis, en que aquel contribuyente a quien se le hubiere recargado el impuesto en forma indebida, deberá efectuar una presentación en la Dirección Regional de su domicilio a fin de que ésta proceda a declarar que se ha efectuado un pago indebido del impuesto, oficiando en dicho caso al banco o institución que trasladó o recargó el impuesto en forma indebida, a efectos que proceda a restituir las sumas mal trasladadas o recargadas al contribuyente de hecho y a rectificar la correspondiente declaración. De manera que, una vez realizado dicho trámite, la Dirección Regional dispondrá la devolución de las sumas mal ingresadas en arcas fiscales al contribuyente de derecho.
+
+A continuación, la recurrente señala que mediante el Oficio N° 1589 de 2011, el Servicio de Impuestos Internos, refiriéndose al caso de Impuesto de Timbres y Estampillas recargado erróneamente por notarios en operaciones de compraventa de viviendas sociales a que se refiere el DL N° 2552 de 1979, celebrados con mutuos hipotecarios otorgados por bancos, y, en operaciones de compraventa y mutuo de propiedades DFL N° 2, sostuvo que el contribuyente que efectuó el pago erróneo podía pedir su devolución dentro el procedimiento administrativo establecido para los artículos 126 y 128 del Código Tributario, y agregó que: “Sin perjuicio de lo anterior, las personas a las cuales se les trasladó o recargó el impuesto, que consideren que el banco o el Notario le trasladó o recargo el tributo en forma indebida o en exceso, pueden solicitar que se declare esta circunstancia por la Dirección Regional correspondiente, aplicándose al efecto el procedimiento contemplado en la Circular 27 de 2007.”
+
+Conforme lo anterior, la recurrente señala que el Servicio de Impuestos Internos no ha mencionado expresamente cuál sería el procedimiento aplicable en otros casos de aplicación indebida del Impuesto de Timbres y Estampillas por parte del agente retenedor, por lo que resultaría razonable concluir que igual criterio debiese aplicarse para el caso en que una institución financiera aplica indebidamente el citado impuesto a otra institución financiera, correspondiendo aplicar la exención establecida en el artículo 24 N° 6 de la Ley de Timbres y Estampillas.
+
+De esta forma, solicita confirmar que el procedimiento establecido en la Circular N° 27 de 2007 resulta aplicable de manera general en aquellos casos en que el Impuesto de Timbres y Estampillas sea mal trasladado o recargado por el agente retenedor y, particularmente, en lo relativo a la obligación de Servicio de Impuestos Internos de oficiar directamente al banco o institución financiera que trasladó o recargó el Impuesto de Timbres y Estampillas en forma indebida, en los términos referidos por la Circular N° 27 de 2007.
+
+II ANÁLISIS
+De conformidad a lo dispuesto por el artículo 126 del Código Tributario no constituye reclamo la petición de restitución de sumas pagadas doblemente, en exceso o indebidamente a título de impuestos, reajustes, intereses y multas, debiendo la respectiva solicitud presentarse dentro de los tres años contados desde el acto o hecho que le sirva de fundamento.
+Por su parte, el artículo 128 del mismo cuerpo legal, dispone que en los casos de impuestos de traslación o recargo sólo procede disponer la devolución cuando se acredite fehacientemente, a juicio exclusivo del Director Regional respectivo, haberse restituido las sumas a las personas que efectivamente soportaron el gravamen indebido.
+Así entonces, el procedimiento general para recuperar el Impuesto de Timbres y Estampillas erróneamente recargado es el señalado en el artículo 128 del Código Tributario, siendo el agente retenedor quien debe realizar la solicitud, acreditando la respectiva restitución del gravamen a quien lo soportó.
+Ahora bien, mediante Circular N° 27 de 2007 se autorizó un procedimiento especial para la solicitud de devolución de sumas pagadas a título de Impuesto de Timbres y Estampillas mal trasladadas o recargadas que gravaron documentación relacionada a operaciones de importación.
+Dicho procedimiento fue establecido, conforme se indica expresamente en la Circular de referencia, teniendo en consideración las particulares características que reviste el Impuesto de Timbres y Estampillas en las operaciones de importación. Así, la referida Circular funda el procedimiento especial señalando que: “en muchos casos el retenedor no podrá determinar con certeza la existencia de los documentos que estén o no amparados por la exención”, y agrega que: “las entidades retenedoras normalmente no cuentan con la información sobre la existencia o no de documentos gravados que pudieran haberse emitido o suscrito directamente entre el importador y su proveedor extranjero.”
+De acuerdo a lo señalado, queda de manifiesto que el procedimiento dispuesto en la Circular N° 27 de 2007 para pedir la devolución de Impuesto de Timbres y Estampillas mal recargado o retenido es de carácter especial, y fue creado para ser utilizado en casos en que proceda la restitución del referido impuesto en operaciones de importación.
+Por su parte, mediante Oficio N° 1589 de 2011, se extendió la posibilidad de uso del procedimiento especial creado mediante la Circular N° 27 de 2007, únicamente a aquellos casos de Impuesto de Timbres y Estampillas mal recargado o trasladado por bancos o notarías en la compraventa de viviendas sociales celebradas con mutuos hipotecarias o de viviendas DFL N° 2 en los mismos términos.
+De esta forma, como se expresa en el oficio antes citado , la regla general para la recuperación de Impuesto de Timbres y Estampillas mal trasladado o recargado es la utilización del procedimiento contenido en el artículo 128 del Código Tributario, autorizándose de manera particular, para los casos planteados en el referido pronunciamiento, la aplicación del procedimiento instruido en la Circular N° 27 de 2007.
+
+III CONCLUSIONES
+En relación a lo consultado, se informa que, la solicitud de devolución de Impuesto de Timbres y Estampillas mal recargado o trasladado por una institución financiera a otra, debe ser realizada conforme a las reglas generales, esto es, por aquella institución financiera que efectuó la retención correspondiente, dentro del plazo de tres años contados desde el hecho o acto que sirva de fundamento a la petición, debiendo acreditarse la restitución de lo pagado a quien soportó el impuesto.
+Sin perjuicio de lo anterior, y en la medida que existan plazos de prescripción en curso, la Dirección Regional respectiva deberá comunicar al banco o institución que se ha determinado un traslado o recargo de impuesto en forma indebida o en exceso.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1596, de 05.09.2014
+Subdirección Normativa
+Dpto. de Técnica Tributaria.

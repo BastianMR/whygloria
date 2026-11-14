@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 489 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 3°, ART. 10°, ART. 60°, ART. 74°, N°4, ART. 79° – LEY N° 18.045 – OFICIO N° 3.814, DE 2012. (ORD. N° 489, DE 12..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja489.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja489.doc"
+materia: "renta"
+fecha: "2013-03-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 3°, ART. 10°, ART. 60°, ART. 74°, N°4, ART. 79° – LEY N° 18.045 – OFICIO N° 3.814, DE 2012. (ORD. N° 489, DE 12.03.2013)
+
+TRATAMIENTO TRIBUTARIO DE INTERESES CORRESPONDIENTES A BONOS EMITIDOS EN CHILE, POR UNA EMPRESA SIN DOMICILIO NI RESIDENCIA EN EL PAÍS, QUE SON REMESADOS A CONTRIBUYENTES RESIDENTES EN EL EXTRANJERO POR UN MANDATARIO DOMICILIADO EN CHILE, DESIGNADO POR EL EMISOR DE LOS BONOS.
+
+I.- ANTECEDENTES.
+
+Indica que una empresa domiciliada en el exterior, está analizando emitir bonos en pesos en Chile, conforme a la Norma de Carácter General (NCG) N°304, de la Superintendencia de Valores y Seguros (SVS). Indica que una vez inscritos los bonos en la SVS, serían colocados en el mercado secundario, recaudando el emisor los fondos correspondientes a la colocación. Antes del vencimiento de cada cupón, el emisor remesará desde su país de origen, los fondos para su pago a un banco designado en Chile, para que éste a su vez, distribuya tales recursos entre los tenedores de los títulos .
+
+A su juicio, si entre los adquirentes de los bonos hay inversionistas no residentes ni domiciliados en Chile, los intereses remesados al extranjero no estarían afectos al Impuesto Adicional previsto en el artículo 59, inciso 4°, N° 1, de la Ley sobre Impuesto a la Renta (LIR), ya que, por aplicación del inciso 2°, del artículo 11, del mismo texto legal, la fuente de los intereses estaría situada en el exterior y la residencia del tenedor del bono se encontraría también fuera del país.
+
+Por tanto, solicita se confirme que la remesa de intereses efectuada por el banco designado en Chile a personas no domiciliadas ni residentes en el país, no está sujeta al Impuesto Adicional establecido en el artículo 59, inciso 4°, N° 1 de la LIR, ni a la retención del artículo 74 N° 4 de la misma ley.
+
+II.- ANÁLISIS.
+
+Mediante Oficio N° 3.814, de 2012, la SVS sostuvo que los bonos emitidos conforme a la NCG N° 304, es decir, aquellos que se emiten en Chile y se inscriben en el Registro de Valores a cargo de esa Superintendencia, se sujetan a las disposiciones del Título XVI, de la Ley de Mercado de Valores, relativo a la emisión de títulos de deuda a largo plazo, y que la distinción respecto de los demás bonos emitidos en el país, se refiere únicamente a la calidad de extranjero del emisor de los valores sujetos a la legislación interna, resultando obligado al pago de los mismos bonos.
+
+Ahora bien, conforme a lo dispuesto en el artículo 3°, en relación con el artículo 10, ambos de la LIR, para determinar si están afectos a impuesto los intereses que indica, esto es, aquellos correspondientes a bonos emitidos en Chile por empresas extranjeras, de acuerdo a la NCG N° 304, de la SVS, y que son pagados a tenedores no domiciliados ni residentes en el país, se debe precisar si dichas cantidades son de fuente chilena o extranjera, quedando afectos a impuesto en el país sólo en caso que correspondan a rentas de fuente chilena.
+
+Al respecto, cabe señalar en primer lugar que la LIR no resuelve expresamente cual es la ubicación o fuente de las rentas en la situación específica en consulta, por lo que a juicio de este Servicio, deben aplicarse las reglas generales de dicha ley, en especial lo dispuesto en el inciso 1°, del artículo 10, que dispone que se considerarán rentas de fuente chilena las que provengan de bienes situados en el país o de actividades desarrolladas en él. En tal sentido, las rentas correspondientes a los bonos que indica en su presentación, particularmente los intereses provenientes de los mismos tienen su fuente en el extranjero, ya que el instrumento productor de ellas es emitido por una empresa domiciliada y residente fuera del país, siendo emitidos y registrados en Chile sólo para efectos de observar las reglas establecidas por la Ley N° 18.045, relativas a su oferta pública, ello independientemente que para cumplir con la NCG citada, se deba designar en Chile un mandatario que efectúe el pago de los intereses por cuenta y a nombre de la empresa emisora mandante. En este sentido, si bien materialmente el pago de los intereses se llevará a cabo desde Chile por el banco mandatario, jurídicamente quien efectúa el pago y, por lo tanto, quien extingue la obligación respectiva, es el deudor sin domicilio ni residencia en el país.
+
+En el mismo orden de ideas, en la situación específica en consulta y conforme a lo expresado, el sólo hecho del registro e inscripción de los instrumentos en la SVS, conforme al Título XVI de la Ley de Mercado de Valores, no es un elemento determinante para considerar situados en Chile los bonos emitidos conforme a la NCG N° 304, ya que se trata de requisitos de orden administrativo que no tienen incidencia, en esta situación particular, para establecer el origen o fuente de las rentas respectivas, en atención a que el emisor de los bonos, y obligado al pago de los intereses, es una empresa que no tiene domicilio ni residencia en Chile.
+
+Por otra parte, debe tenerse presente que cuando producto de la variación del tipo de cambio de la moneda respectiva, del reajuste pactado, u otro motivo, se produzca un incremento de patrimonio conforme al concepto amplio contenido el artículo 2, N° 1, de la LIR, en beneficio del tenedor de los bonos en el exterior, correspondiente a la diferencia de valor que se produzca entre el monto correspondiente a la provisión de fondos que efectúa el emisor de los bonos al banco designado para el pago de los intereses de éste y el monto de la remesa que dicho mandatario realiza efectivamente al exterior a un contribuyente sin domicilio ni residencia en el país, dicha cantidad, se encuentra afecta al Impuesto Adicional, previsto en el artículo 60, inciso 1° de la LIR, atendido que corresponde a una renta de fuente chilena, y en consecuencia el impuesto sobre dichas cantidades deberá ser retenido y pagado en arcas fiscales, de acuerdo a lo dispuesto en los artículos 74 N° 4 y 79, del mismo texto legal, por el mandatario designado al efecto.
+
+III.- CONCLUSIÓN.
+
+Los intereses correspondientes a bonos emitidos en pesos en Chile, conforme a la NCG N° 304, por una empresa constituida en el extranjero, que se paguen, abonen en cuenta o se pongan a disposición de los titulares de dichos instrumentos, que sean inversionistas sin domicilio ni residencia en el país, no se encuentran afectos a Impuesto Adicional, en consideración a que se trata de rentas de fuente extranjera, pagadas, abonadas en cuenta o puestas a disposición de contribuyentes sin domicilio o residencia en Chile, aún cuando el pago se efectúe a través de un mandatario domiciliado o residente en el país, y por tal motivo tampoco corresponde que se practique una retención de impuestos en conformidad al artículo 74, N° 4 de la LIR, sobre dichas cantidades.
+
+Con todo, en el evento que se produzca para el inversionista no domiciliado ni residente en el país, una renta distinta a los intereses, cuya fuente se encuentre situada en Chile, como por ejemplo, producto de la variación del tipo de cambio de la moneda respectiva o del reajuste pactado entre la fecha de provisión de los fondos al banco designado y la fecha en que éste efectúa la remesa al exterior, ésta se encontrará afecta al Impuesto Adicional y en consecuencia, el impuesto sobre dichas cantidades deberá ser retenido y pagado en arcas fiscales, de acuerdo a lo dispuesto en los artículos 74 N° 4 y 79, de la LIR, por el mandatario designado al efecto.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 489, de 12.03.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos

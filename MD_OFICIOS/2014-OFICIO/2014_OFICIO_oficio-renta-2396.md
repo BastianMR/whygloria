@@ -1,0 +1,64 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2396 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° E, ART. 21° – CIRCULAR N°’S 29 Y 45, DE 2013. (ORD. N° 2396, DE 22.12.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2396.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2396.doc"
+materia: "renta"
+fecha: "2014-12-22"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41° E, ART. 21° – CIRCULAR N°’S 29 Y 45, DE 2013. (ORD. N° 2396, DE 22.12.2014)
+
+VIGENCIA DE LAS NORMAS QUE REGULAN EL TRATAMIENTO TRIBUTARIO DE LAS DIFERENCIAS DETERMINADAS POR APLICACIÓN DE LAS DISPOSICIONES DEL ARTÍCULO 41 E DE LA LEY SOBRE IMPUESTO A LA RENTA, DE ACUERDO A LAS MODIFICACIONES EFECTUADAS POR LA LEY N°20.630, DE 2012.
+
+I.- ANTECEDENTES.
+
+Señala que la Ley N°20.630 , incorporó nuevas disposiciones a la LIR, entre las cuales está el artículo 41 E que establece las normas aplicables en materia de precios de transferencia. Conforme a dicha norma, las diferencias que se determinen en los ajustes por precios de transferencia se gravarán con el impuesto único del inciso 1°, del artículo 21 de la LIR .
+
+Agrega que el artículo 41 E de la LIR, entró en vigencia el 27 de septiembre de 2012 , respecto de las operaciones que se desarrollen a partir de esa fecha; quedando a contar de ese momento derogado el anterior texto sobre la materia, contenido en el artículo 38 de la LIR.
+
+Por su parte, la Ley N°20.630 también reemplazó el artículo 21 de la LIR, modificando el régimen de tributación que dicha disposición establece sobre ciertas partidas, entre las que se cuenta, las diferencias que se determinen por la aplicación del nuevo artículo 41 E de la LIR. Dicha modificación rige a partir del 1° de enero de 2013, respecto de los hechos acaecidos a contar de dicha fecha, según lo dispuesto por los artículos 1° N°8 y 3° de la Ley N°20.630.
+
+Conforme a lo señalado, solicita se aclare e informe sobre la aplicación de las normas legales referidas a los procesos de auditoría que lleva a cabo esa Dirección.
+
+II.- ANÁLISIS.
+
+1.- Mediante la dictación de la Ley N°20.630, de 2012, se incorporó a la LIR, una serie de normas tendientes a perfeccionar algunas de sus disposiciones. Entre otras modificaciones, se agregó el nuevo artículo 41 E, que establece nuevas normas en materia de precios de transferencia, sustituyendo las anteriores contenidas en el artículo 38 de la LIR, incorporando las mejores prácticas internacionales actualmente vigentes y facultando a este Servicio para ejercer un mayor control respecto de transacciones realizadas por los contribuyentes con partes relacionadas en el exterior. Por consiguiente, la incorporación del nuevo artículo 41 E de la LIR, ha tenido por objeto perfeccionar las normas aplicables en materia de fiscalización de precios de transferencia por operaciones con partes relacionadas en el exterior.
+
+La Ley N°20.630, también sustituyó el artículo 21 de la LIR, estableciendo un nuevo ordenamiento en dicho artículo y precisando la tributación que afecta a ciertas partidas, como por ejemplo, el impuesto único de tasa 35% que afecta a las diferencias determinadas por aplicación de las disposiciones del artículo 41 E de la LIR, entre otras.
+
+2.- En relación con la vigencia de las normas referidas, este Servicio señaló mediante la Circular N°29, de 2013, que las nuevas reglas sobre precios de transferencia contenidas en el artículo 41 E de la LIR, rigen a contar del 27 de septiembre de 2012, aún cuando las normas sobre la misma materia contenidas en el artículo 38 de la misma Ley se derogan de manera expresa a partir del 1° de enero de 2013, pero tácitamente, a partir de la vigencia del nuevo artículo 41 E de la LIR. Por consiguiente, las operaciones celebradas entre partes relacionadas en los términos regulados en el nuevo artículo 41 E de la LIR, se rigen por las nuevas normas legales comentadas en la Circular N°29, a partir del 27 de septiembre de 2012.
+
+Por su parte, la Circular N°45, de 2013, instruyó que el nuevo texto del artículo 21 de la LIR, rige a contar del 1° de enero de 2013, respecto de los hechos que se produzcan a partir de esa fecha.
+
+3.- Ahora bien, luego de efectuado el análisis de las normas legales aplicables e instrucciones pertinentes, cabe señalar que el artículo 41 E de la LIR, sólo vino a precisar y ampliar las facultades de fiscalización contenidas en el anterior texto del artículo 38 de la misma ley. Por tanto, al tratarse de una adecuación de las facultades de fiscalización con que cuenta este Servicio sobre la materia, y al no ser aplicable aún el impuesto único establecido en el inciso 1°, del artículo 21 de la LIR, puesto que dicho texto legal sólo rige a partir del 1 de enero de 2013, resulta aplicable a la situación en consulta, el tratamiento tributario consagrado en los incisos 2° o 3°, según corresponda, del mismo artículo 21 de la LIR, según su texto vigente hasta el 31 de diciembre de 2012.
+
+En efecto, los incisos 2° y 3° del artículo 21 de la LIR, según su texto vigente hasta el 31 de diciembre de 2012, establecen que se considerarán retiradas o se afectarán con un impuesto único de tasa 35%, según sea el caso, las rentas provenientes de la aplicación de lo dispuesto en el artículo 38 de la LIR, precepto que contenía hasta al 27 de septiembre de 2012, las normas sobre precios de transferencia, y por tanto, la referencia a dicho artículo, debe necesariamente entenderse efectuada al artículo 41 E de la LIR a contar del 27 de septiembre de 2012, ya que esta última disposición pasó a reemplazar las normas sobre precios de transferencia contenidas en el referido artículo 38.
+
+A partir del 1° de enero de 2013, la referencia efectuada por el artículo 41 E de la LIR al impuesto único del inciso 1°, del artículo 21 de la LIR, resulta plenamente aplicable, ya que las modificaciones a esta última disposición rigen a contar de esa fecha.
+
+III.- CONCLUSIONES.
+
+De acuerdo a las normas legales e instrucciones citadas, se puede concluir lo siguiente:
+a) La Ley N°20.630, junto con modificar el artículo 38 de la LIR, incorporó un nuevo artículo 41 E a dicha ley, el cual regula en términos más amplios y detallados las normas aplicables en materia de precios de transferencia, contenidas anteriormente en términos más restringidos en el citado artículo 38. Estas nuevas facultades rigen respecto de las operaciones celebradas a partir del 27 de septiembre de 2012.
+b) Las referencias que efectuaban los incisos 2° y 3° del artículo 21 de la LIR, según su texto vigente hasta el 31 de diciembre de 2012, al artículo 38 de la misma ley, deben entenderse efectuadas al nuevo artículo 41 E de la LIR, aplicándose por consiguiente esas normas hasta el 31 de diciembre de 2012, para efectos de establecer las consecuencias de orden tributario sobre las diferencias determinadas respecto de las operaciones entre partes relacionadas conforme al citado artículo 41 E.
+A partir del 1° de enero de 2013, la referencia efectuada por el artículo 41 E de la LIR al impuesto único del inciso 1°, del artículo 21 de la LIR, resulta plenamente aplicable, ya que las modificaciones a esta última disposición rigen a contar de esa fecha.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T Y P)
+
+Oficio N° 2396, de 22.12.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

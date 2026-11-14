@@ -1,0 +1,5 @@
+archive: circu21.zip
+published_to: PDF_CIRCULARES/2017-CIRCULAR/circu21.pdf
+members:
+  Circular_N°21_28032017.pdf  kept=PDF_CIRCULARES/2017-CIRCULAR  (byte-identical to the published circular)
+  SUPLEMENTO TRIBUTARIO RENTA AÑO 2017.docx  sha256=4057efea9afc2dc30a99201fbab2b1dc24672c3d137665eeb1b23da40cc75f77  kept=SIN_PROCESAR/SUPLEMENTOS/2017-CIRCULAR/SUPLEMENTO TRIBUTARIO RENTA AÑO 2017.docx

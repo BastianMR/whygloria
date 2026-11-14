@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1062 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8° – CÓDIGO TRIBUTARIO, ART. 88° – RESOLUCIÓN EXENTA N° 6080, DE 1999. (ORD. N° 106..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1062.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1062.doc"
+materia: "iva"
+fecha: "2015-04-17"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8° – CÓDIGO TRIBUTARIO, ART. 88° – RESOLUCIÓN EXENTA N° 6080, DE 1999. (ORD. N° 1062, DE 17.04.2015)
+
+IMPUESTO AL VALOR AGREGADO QUE AFECTA AL PAGO POR DERECHO DE ANDÉN.
+
+Se ha solicitado a esta Dirección Nacional pronunciarse sobre el Impuesto al Valor Agregado que afecta al cobro por concepto de derecho de andén.
+
+I.- ANTECEDENTES:
+
+XXXX es una sociedad que en su calidad de administradora del Terminal Internacional de Pasajeros de TTT, cobra a los usuarios de dicho terminal un pago bajo el concepto de “derecho a andén” o “ticket de andén”, el cual exige a todos los pasajeros que hacen uso de vehículos de arriendo (buses, colectivos o taxis) y a los conductores de tales vehículos. Al recibir el pago, el contribuyente emite un comprobante que entrega al usuario y al final del día, la empresa emite una boleta de servicios afecta al Impuesto al Valor Agregado. Dicho pago otorga a los pasajeros un servicio consistente en el uso de las instalaciones del terminal, los andenes para tomar vehículos, la seguridad del recinto, una sala de espera, acceso a los locales del recinto, techo, etc., en tanto que a los conductores, se les otorga un servicio consistente en el uso de las losas, de los estacionamientos para tomar y dejar pasajeros, estacionamientos de espera, etc.
+
+Al respecto, le surgen dudas sobre la tributación con IVA que grava la operación, particularmente cuando estas sumas son cobradas a los pasajeros usuarios del terminal, ya que a su juicio no existen pronunciamientos que se refieran particularmente a esta situación.
+
+Finalmente, solicita se le aclare si es correcta la emisión de una boleta al día por todas las operaciones realizadas en cada jornada.
+
+II.- ANÁLISIS:
+
+El Art. 8 °, del D.L. N° 825, grava con Impuesto al Valor Agregado, las ventas y los servicios, estos últimos siempre que su remuneración provenga del ejercicio de alguna de las actividades clasificadas en el Art. 20°, N° 3 ó 4, de la Ley sobre Impuesto a la Renta.
+
+Sobre el particular, este Servicio se ha pronunciado reiteradamente sobre el Impuesto al Valor Agregado que afecta al cobro por concepto de “derechos de andén y uso de losas” , señalando que las sumas cobradas por los administradores de terminales de recorridos interprovinciales, a las empresas de transporte usuarias de los mismos, no se encuentran afectas a IVA, por no provenir dichas remuneraciones del ejercicio de ninguna de las actividades clasificadas en el Art. 20°, N° 3 ó 4, de la Ley sobre Impuesto a la Renta
+
+Si bien es cierto, en la mayoría de los pronunciamientos dichas sumas eran cobradas sólo a las empresas de transporte usuarias de las dependencias del terminal y no a los pasajeros usuarios del mismo, el servicio respecto del cual se emitieron los referidos dictámenes es exactamente el mismo al consultado por esa Dirección Regional, a saber, derechos de andén y uso de losas. Por lo tanto, e independientemente de quien pague dichas sumas, ellas no se encuentran afectas con el tributo en comento, conforme a los pronunciamientos emitidos por esta Superioridad. Así se desprende de lo resuelto en Ord. N° 6311, de 17/11/77, en que dichas sumas eran cobradas tanto a las empresas de buses Interprovinciales usuarias del Terminal, así como también al público usuario del mismo.
+
+Respecto de la documentación a emitir, cabe manifestar que por el cobro de dichas sumas el contribuyente debe emitir boletas de ventas y servicios no afectos o exentos de IVA, de aquellas reguladas por la Res. Ex. N° 6080, de 10/9/1999, cuando el beneficiario del servicio sea un pasajero usuario de las dependencias del terminal. En estos casos, si la tarifa cobrada por derecho de andén y uso de losas es inferior al monto fijado por esta Dirección Nacional, en virtud de la facultad contenida en el Art. 88°, inciso cuarto, del Código Tributario , se deberá emitir diariamente una boleta con la última numeración del día, por el valor total de los servicios realizados por montos inferiores a dicho mínimo, ello en atención a lo dispuesto en el Art. 53°, inciso segundo, del D.L. N° 825 y en concordancia con lo dispuesto en el Resolutivo N° 5, de la Resolución antes señalada.
+
+Si el beneficiario de dicho servicio es una empresa afecta a IVA, aunque exenta por realizar transporte de pasajeros, la documentación a emitir es una factura de venta y/o servicios no afectos o exentos de IVA, de aquellas dispuestas en la Res. Ex. N° 6080, mencionada en el párrafo anterior.
+
+III.- CONCLUSIÓN:
+
+Las sumas cobradas por concepto de “derecho de andén” y “uso de losas”, no se encuentran gravadas con Impuesto al Valor Agregado, independientemente de quien efectúe su pago, debiendo emitirse por dichas operaciones, boletas o facturas de ventas y/o servicios no afectos o exentos de IVA, de aquellas dispuestas en Res. Ex. N° 6080, de 1999, según corresponda. No obstante, en el caso de las boletas, si el monto de cada operación es inferior al monto mínimo por el cual deben emitirse estos documentos, el contribuyente deberá emitir diariamente una boleta con la última numeración del día, por el valor total de los servicios realizados por montos inferiores a dicho mínimo.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1062, de 17.04.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

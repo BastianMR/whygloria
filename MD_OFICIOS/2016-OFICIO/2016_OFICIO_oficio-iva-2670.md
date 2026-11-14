@@ -1,0 +1,51 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 2670 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3 – LEY N° 20.780, DE 2014, ART. 6 TRANSITORIO. (ORD. N° 2670, DE 26.09...."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2670.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2670.doc"
+materia: "iva"
+fecha: "2016-09-26"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3 – LEY N° 20.780, DE 2014, ART. 6 TRANSITORIO. (ORD. N° 2670, DE 26.09.2016)
+
+IMPUESTO AL VALOR AGREGADO EN COMPRA DE VIVIENDA.
+
+Se ha remitido a esta Dirección Nacional mediante Oficios de la Subsecretaría de Hacienda, su consulta sobre la aplicación del Impuesto a las Ventas y Servicios, en la compra de una vivienda.
+
+I.- ANTECEDENTES:
+
+Señala en su presentación, que según información publicada en el sitio Web del Ministerio de Hacienda, no pagarían IVA las viviendas que hayan firmado promesa de compra antes del 01 de enero del 2016, independiente del año en que se firme la compra.
+
+Agrega que firmó una promesa en diciembre del 2015 para no pagar el impuesto. No obstante, según lo informado ayer, “se fijó que el IVA se pagará en el momento en que se concrete la venta”. En este contexto solicita que le aclaren si debe o no pagar IVA, dado que la compra se concretará a inicios del 2017, dado que compró en verde.
+
+II.- ANÁLISIS:
+
+La Ley N° 20.780 de 2014, modificó entre otros, el D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, en especial los N° 1 y 3 del artículo 2° de la Ley, incorporando al hecho gravado de venta, a contar del 1° de enero del 2016, las transferencias de inmuebles, con excepción de los terrenos, realizadas por personas naturales, jurídicas, comunidades y sociedades de hecho, que se dediquen en forma habitual a la venta de inmuebles, nuevos o usados, sean ellos de su propia producción o adquiridos de terceros.
+
+Cabe señalar, que con anterioridad a la modificación del D.L. N° 825, de 1974, se encontraba gravada con el Impuesto al Valor Agregado sólo la venta de inmuebles realizada por una empresa constructora, construidos totalmente por ella o en parte por un tercero para ella.
+
+Ahora bien y sin perjuicio de lo señalado precedentemente, el artículo 6° transitorio de la Ley N° 20.780, establece que las modificaciones introducidas al D.L. N° 825, de 1974, no se aplicarán a las ventas y otras transferencias de dominio de inmuebles, que se efectúen como consecuencia de un acto o contrato cuya celebración se haya prometido válidamente con anterioridad al 1° de enero del 2016, fecha de entrada en vigencia de la modificación legal, en un contrato celebrado por escritura pública o por instrumento privado protocolizado.
+
+III.- CONCLUSIÓN:
+
+En consideración a lo señalado precedentemente, en la medida que la promesa de compra de la vivienda que señala en su presentación se haya válidamente celebrado con anterioridad al 1° de enero del 2016, a través de un contrato celebrado por escritura pública o por instrumento privado protocolizado, al momento de materializarse su adquisición no se encontrará gravada con el Impuesto al Valor Agregado.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2670, de 26.09.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

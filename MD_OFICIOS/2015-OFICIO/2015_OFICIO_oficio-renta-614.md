@@ -1,0 +1,51 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 614 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES TÍTULO I, CAPÍTULO I, N°6 – RESOLUCIÓN EXENTA N° 27, DE 2009. (ORD. N..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja614.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja614.doc"
+materia: "renta"
+fecha: "2015-02-26"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – COMPENDIO DE NORMAS DE CAMBIOS INTERNACIONALES TÍTULO I, CAPÍTULO I, N°6 – RESOLUCIÓN EXENTA N° 27, DE 2009. (ORD. N° 614, DE 26.02.2015)
+
+FORMA DE IMPUTAR LOS PAGOS PROVISIONALES MENSUALES (PPM) PAGADOS EN PESOS, POR UN CONTRIBUYENTE AUTORIZADO A LLEVAR SU CONTABILIDAD EN MONEDA EXTRANJERA, Y QUE DURANTE EL EJERCICIO ES AUTORIZADO A DECLARAR Y PAGAR SUS IMPUESTOS EN LA MISMA MONEDA EN LA QUE LLEVA SU CONTABILIDAD.
+
+I.- ANTECEDENTES.
+
+Señala, que una empresa fue autorizada en febrero de 2009 a llevar su contabilidad en dólares de los Estados Unidos de América, con excepción de los libros de compras y ventas, de remuneraciones y retenciones. Con posterioridad, se autorizó a la misma sociedad a pagar sus impuestos en dólares, entre ellos sus PPM, siempre que los impuestos a los que se imputan fueran declarados en la misma moneda. La autorización rige a contar del Año Tributario 2010, para la presentación del formulario N° 22, y del mes de septiembre de 2009, para el formulario 50. A juicio de esa Dirección, para los fines de la imputación de los PPM pagados en pesos en los meses anteriores a la referida autorización, éstos se deben actualizar al cierre del ejercicio según la variación del IPC entre la fecha de su pago y el 31 de diciembre, de acuerdo a los artículos 41 N° 4 y 95, de la Ley sobre Impuesto a la Renta (LIR), y el monto resultante convertirlo a dólares según el tipo de cambio observado al término del ejercicio.
+
+El N°1), del artículo 18, del Código Tributario, dispone como regla general que, para todos los efectos tributarios, los contribuyentes llevarán contabilidad, presentarán sus declaraciones de impuestos y efectuarán el pago de los mismos en moneda nacional. De acuerdo con el N° 2 del mismo artículo, este Servicio puede autorizar en ciertos casos, por resolución fundada, que determinados contribuyentes o grupos de contribuyentes lleven su contabilidad en moneda extranjera. Conforme a lo establecido por la letra a), del N° 3), del citado artículo, este Servicio está facultado también para autorizar a los contribuyentes que lleven su contabilidad en moneda extranjera, para que declaren todos o algunos de los impuestos que les afecten en la moneda extranjera en que llevan su contabilidad. Finalmente, el inciso 5°, del referido N° 3), agrega que las resoluciones que se dicten en conformidad al mismo, determinarán el período tributario a contar del cual el contribuyente quedará obligado a declarar y, o pagar sus impuestos y recargos respectivos en moneda extranjera.
+
+II.- ANÁLISIS.
+
+En conformidad a las instrucciones de este Servicio contenidas en la Resolución Exenta N° 27, de 2009, los contribuyentes autorizados a llevar su contabilidad en moneda extranjera, pero no para declarar y pagar sus impuestos en moneda extranjera, están obligados a realizar dicha declaración y pago en moneda nacional. Con el fin de realizar las conversiones necesarias para efectuar sus declaraciones de impuestos en moneda nacional, estos contribuyentes deben utilizar el tipo de cambio vigente a la fecha de determinación del impuesto, sea éste mensual o anual, el que corresponderá al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo. Al procedimiento descrito debió sujetarse en principio la empresa recurrente para los fines de la determinación y pago de sus PPM en pesos, toda vez que se trataba de un contribuyente autorizado a llevar su contabilidad en moneda extranjera, pero no a declarar y pagar sus impuestos en moneda extranjera. En consecuencia, en su contabilidad tenía registrado el monto de PPM en moneda extranjera, pero para efectos de declarar y pagar en moneda nacional, debió considerar las reglas señaladas precedentemente.
+
+Dado que con posterioridad y a partir de los períodos que señala, el contribuyente fue autorizado a declarar y pagar los impuestos respectivos en la misma moneda extranjera en que lleva su contabilidad, corresponde dilucidar ahora si resulta procedente aplicar respecto de los PPM enterados en moneda nacional, alguna norma de reajuste para los efectos de su imputación a un impuesto anual que con motivo de una autorización posterior de este Servicio, deba declararse y pagarse en moneda extranjera.
+
+Desde luego, lo dispuesto en el artículo 95, de la LIR, no puede entenderse aplicable, porque dicha disposición legal regla la forma de reajuste de los PPM declarados y pagados en moneda nacional para los fines de su posterior imputación a los impuestos anuales que deban aplicarse en la misma moneda.
+
+Ahora bien, ante la ausencia de una disposición legal que regle la situación particular que describe en su presentación, y considerando que los PPM deben expresarse según el valor de la respectiva moneda extranjera desde que fueron pagados al Fisco, evitando de esta manera que se generen distorsiones producto de las variaciones del tipo de cambio que puedan haber ocurrido, cabe señalar que los PPM declarados y pagados en moneda nacional deben, en el caso en estudio, reconvertirse a la respectiva moneda extranjera utilizando al efecto el mismo procedimiento señalado en la Res. Ex. N° 27, esto es, debe considerarse el tipo de cambio vigente a la fecha de determinación del impuesto mensual, correspondiente al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo. Con ello, se reconvierte el monto de los PPM que debió declararse en pesos conforme a esta modalidad de determinación, a su valor en la respectiva moneda extranjera, cantidad que podrá imputarse en la declaración anual de impuestos.
+
+III.- CONCLUSIÓN.
+
+Para efectos de convertir en dólares de los Estados Unidos de América, los PPM declarados y pagados en moneda nacional e imputarlos a los impuestos anuales que deban declararse y pagarse en dicha moneda extranjera, debe considerarse el tipo de cambio vigente a la fecha de determinación del impuesto mensual, correspondiente al vigente al último día del período a declarar, según publicación efectuada por el Banco Central de Chile de conformidad al N°6, del Capítulo I, del Título I, del Compendio de Normas de Cambios Internacionales o el que establezca dicho Banco en su reemplazo.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 614, de 26.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

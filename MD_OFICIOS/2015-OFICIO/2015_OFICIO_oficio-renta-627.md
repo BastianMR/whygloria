@@ -1,0 +1,93 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 627 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 33°, N°1 – CIRCULAR N° 68, DE 2010 – RES. EXENTA N° 66, DE 2013 (ORD. N° 627, DE 26.02.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja627.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja627.doc"
+materia: "renta"
+fecha: "2015-02-26"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 33°, N°1 – CIRCULAR N° 68, DE 2010 – RES. EXENTA N° 66, DE 2013 (ORD. N° 627, DE 26.02.2015)
+
+TRATAMIENTO TRIBUTARIO DE LOS INGRESOS Y GASTOS RELACIONADOS CON SERVICIOS DE TRANSPORTE DE CARGA Y FLETES MARÍTIMOS PRESTADOS POR MATRIZ EN ALEMANIA Y GESTIONADOS POR AGENCIA EN CHILE.
+
+Se ha solicitado un pronunciamiento a este Servicio, acerca del tratamiento tributario de diversos ingresos y gastos relacionados con servicios de transporte marítimo, otros servicios y gastos de utilización común.
+
+I.- ANTECEDENTES.
+
+Señala que XXX, (en adelante la agencia), es una agencia del armador extranjero TTT, sociedad que tiene su oficina principal en la República Federal de Alemania y presta servicios de transporte marítimo de mercaderías en contenedores (en adelante, la matriz).
+La matriz, presta servicios de transporte marítimo a diversos clientes en Chile. Estos servicios son gestionados y coordinados en Chile a través de la agencia.
+El precio por los servicios de transporte marítimo prestados por la matriz es cobrado en Chile por la agencia. Sin embargo, por tratarse de ingresos ajenos, pues pertenecen a la matriz, éstos son registrados contablemente por la agencia como una cuenta por pagar.
+Según lo dispuesto en el artículo III del "Tratado de Comercio entre el Gobierno de la República de Chile y el Gobierno de la República Federal de Alemania", contenido en el Decreto N° 203, del Ministerio de Relaciones Exteriores, de fecha 26 de junio de 1953, los impuestos que afecten a las utilidades obtenidas por compañías de navegación de ambos países "... serán cobrados solamente en el país en el que se encuentra la sede de la dirección de la empresa".
+Además de lo anterior, la agencia obtiene otros ingresos por la prestación en Chile de ciertos servicios como: manipulación de contenedores, servicios administrativos, mantención, limpieza y reparación de contenedores usados, entre otros.
+La agencia incurre en gastos de diversa naturaleza, algunos vinculados directamente con las actividades del transporte marítimo, otros que se vinculan directamente con los otros servicios prestados por la agencia, y finalmente otros gastos de utilización común.
+En base a lo anterior, efectúa las siguientes consultas:
+1.- Tratamiento tributario de los ingresos y gastos relacionados con servicios de transporte de carga y fletes marítimos prestados por la matriz.
+2.- Tratamiento tributario de los ingresos y gastos vinculados con otros servicios que presta la agencia en Chile.
+3.- Tratamiento tributario de los gastos de utilización común.
+
+II.- ANÁLISIS.
+
+Se responde a sus consultas en el mismo orden en que éstas fueron efectuadas:
+
+1.- De acuerdo a lo dispuesto por el artículo III del Tratado de Comercio suscrito entre Chile y Alemania, que se encuentra vigente, los impuestos que afecten a las utilidades de las compañías de navegación de ambos países serán cobrados en aquél en el cual se encuentre la sede de la dirección de la empresa, impidiendo de este modo que en Chile se afecte con impuestos las utilidades de empresas navieras cuya sede se encuentra ubicada en Alemania.
+
+Por lo anterior, si los ingresos efectivamente corresponden a un servicio prestado por una compañía de navegación cuya sede se encuentra en Alemania, no corresponde gravar en Chile las utilidades obtenidas por tal empresa. Los gastos asociados con esta operación, deben deducirse de los mismos ingresos con los que se relacionan.
+En cuanto a la posible aplicación de la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta a los gastos asociados a la actividad de transporte marítimo efectuada por la empresa con sede en Alemania, cabe señalar que en principio, dichos desembolsos no podrían verse afectados con dicha tributación, puesto que corresponde su deducción de los ingresos que generan.
+No obstante lo anterior, debe tenerse presente que, como se estableció en la Circular N° 68 de 2010, los contribuyentes deben determinar, separadamente, el resultado anual de sus operaciones vinculadas a Ingresos No Renta o Rentas Exentas. Para los efectos anteriores, de los ingresos de estas operaciones deberán rebajarse los costos, gastos y desembolsos imputables a cada uno de ellos, de conformidad a lo establecido en los artículos 29 al 33 de la Ley sobre Impuesto a la Renta.
+Por su parte, el artículo 21 de dicha Ley, grava, entre otras partidas, a las del N° 1 del artículo 33, que corresponden a retiros de especies o a cantidades representativas de desembolsos de dinero que no deban imputarse al valor o costo de los bienes del activo. Del examen de estas partidas, se puede indicar lo siguiente:
+La letra a) de la referida norma se encuentra derogada.
+La letra b), se refiere a las remuneraciones pagadas al cónyuge del contribuyente o a los hijos de éste, solteros, menores de 18 años. Esta partida resultará gravada entonces con la tributación dispuesta en el artículo 21, según texto expreso de la Ley.
+La letra c), se refiere a los retiros particulares en dinero o especies efectuados por el contribuyente. Sin embargo, estos retiros no se verán afectados con la tributación del artículo 21 de la Ley sobre Impuesto a la Renta, ya que tributarán siguiendo las reglas generales de los retiros, establecida en el artículo 14 de la misma Ley.
+La letra d), se refiere a las sumas pagadas por bienes del activo inmovilizado o mejoras permanentes que aumenten el valor de dichos bienes y los desembolsos que deban imputarse al costo de los bienes citados. Esta partida no resulta gravada con la tributación del artículo 21, pues el texto de este último excluye expresamente a los desembolsos que deban imputarse al valor o costo de los bienes del activo.
+La letra e), se refiere a los costos, gastos y desembolsos que sean imputables a ingresos no reputados renta o rentas exentas. Esta partida no resulta gravada con la tributación dispuesta en el artículo 21 referido, según lo ha interpretado este Servicio en la Circular N°68 de 2010. No obstante lo anterior, debe encontrarse acreditado que se trata de un desembolso que pueda clasificarse en esta letra, lo que no ocurrirá por ejemplo si se trata de un desembolso no documentado, pues en tal caso, al no encontrarse acreditado, se clasificará en la letra g), del artículo 33 N°1 que se examina, y en consecuencia, se afectará con la tributación dispuesta en el referido artículo 21. Tampoco podrá incluirse bajo esta letra e), aquellos desembolsos que estén expresamente mencionados en otra letra de esta norma, como por ejemplo, las remuneraciones pagadas al cónyuge del contribuyente, que seguirán la suerte de la letra b) ya mencionada.
+La letra f), se refiere a desembolsos por una serie de beneficios otorgados a personas o entidades relacionadas con el contribuyente. Esta partida sí resulta gravada con la tributación del artículo 21.
+Por último, la letra g) se refiere a las cantidades cuya deducción no autoriza el artículo 31 o que se rebajen en exceso de los márgenes permitidos por la ley o la Dirección Regional en su caso. Esto implica que los desembolsos asociados a ingresos no renta o rentas exentas, deben cumplir con todos los requisitos generales y especiales establecidos en el artículo 31, y si se incumple con ellos, procederá agregarlos para el cálculo del resultado de sus operaciones vinculadas a ingresos no renta, siguiendo lo dispuesto por el artículo 33 N° 1 letra g), para luego desagregarlos y afectarlos con la tributación del artículo 21.
+2.- Respecto de los servicios prestados por la agencia en Chile a diversas empresas nacionales, ellos quedan sometidos a las reglas generales de tributación, esto es, deberá determinar su renta líquida imponible de acuerdo a lo dispuesto por los artículos 29 y siguientes de la Ley sobre Impuesto a la Renta, y sus operaciones podrían quedar afectas a la tributación establecida en el artículo 21 de la misma Ley, en la medida que se cumpla con los supuestos que la referida norma establece.
+
+Se hace presente que se vislumbra en esta operación, según lo descrito por el consultante, la existencia de una comisión mercantil efectuada por la agencia en Chile, toda vez que ella gestiona y coordina el servicio prestado por la matriz en Alemania. Según lo prescrito por el artículo 239 del Código de Comercio, la comisión mercantil es por su naturaleza asalariada, de manera que la agencia debe reconocer un ingreso tributable en Chile conforme a las reglas generales por dicha comisión.
+
+3.- En cuanto a los gastos de utilización común, esto es, aquellos que se vinculan con ingresos provenientes del comercio marítimo y al mismo tiempo con ingresos derivados de otros servicios prestados por la agencia en Chile, tales como remuneraciones de empleados, gastos de administración, pagos de insumos y cuentas de suministro, cabe señalar que las instrucciones sobre la materia fueron entregadas por este Servicio en la Circular N°68 de 2010. En lo pertinente, en ella se prescribe que de acuerdo a lo dispuesto en el artículo 21 del Código Tributario, y en el artículo 31 de la Ley sobre Impuesto a la Renta, corresponde a los contribuyentes probar el monto, o la proporción, en su caso, de los gastos en que han incurrido y que han sido necesarios para producir la renta líquida afecta al régimen general del Impuesto de Primera Categoría.
+
+Ahora bien, el artículo 27, del Código Tributario, en su inciso 2°, establece que cuando para efectos tributarios sea necesario separar o prorratear diversos tipos de ingresos o gastos, y el contribuyente no esté obligado a llevar una contabilidad separada, este Servicio pedirá los antecedentes que correspondan, haciendo uso del procedimiento contemplado en el artículo 63, del citado Código. Dicha norma legal, agrega en su parte final que a falta de antecedentes o si ellos fueren incompletos, este Servicio hará directamente la separación o prorrateo pertinente.
+
+La misma Circular establece, para los efectos de determinar qué parte de los costos, gastos y desembolsos de utilización común se destinan a producir ingresos afectos al régimen general de la Primera Categoría, al régimen de dicho tributo en carácter de único o a producir Rentas exentas o Ingresos No Renta, respectivamente, se deberá aplicar al total de los gastos de utilización común, pagados o adeudados en el ejercicio, la proporción que represente cada uno de dichos ingresos brutos, esto es, previo a la deducción de los costos, gastos y desembolsos necesarios para producirlas, en el total de los ingresos que el contribuyente obtenga durante el mismo ejercicio. Conforme a lo señalado, el total de los gastos de utilización común se distribuirá de acuerdo a los porcentajes que resulten del cálculo anterior, imputándose la parte que corresponda a los ingresos afectos al régimen general, a Rentas exentas, Ingresos No Renta o a Rentas afectas al Impuesto de Primera Categoría en carácter de Único.
+
+No obstante lo anterior, el contribuyente podrá igualmente acreditar y justificar fehacientemente ante este Servicio, el monto o porcentaje de los gastos indicados, utilizando algún otro método o procedimiento de prorrateo o asignación de los mismos, el cual deberá ser previamente autorizado por la Dirección Regional o la Dirección Grandes Contribuyentes, según corresponda, mediante resolución emitida al efecto y previa validación de tal método por parte de las Subdirecciones de Fiscalización y Jurídica de este Servicio.
+
+La autorización señalada, debe ser solicitada a través del procedimiento que fue fijado en la Resolución Exenta N°66 de 2013, la que se encuentra publicada en la página web de este Servicio.
+
+Por otra parte, de acuerdo a lo previsto por el artículo 33 N°1 letra e) de la misma norma, los costos, gastos y desembolsos que sean imputables a ingresos no renta o rentas exentas, se deben agregar a la Renta Líquida Imponible del Impuesto de Primera Categoría, siempre que hayan disminuido la renta líquida declarada, rebajándose de los ingresos o resultados de la misma naturaleza.
+
+Dichos desembolsos podrían afectarse con la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, como ya se señaló en el N° 1.- anterior.
+
+Finalmente, aquella parte de los gastos de utilización común que se impute a ingresos afectos al régimen general del Impuesto de Primera Categoría, puede rebajarse para el cálculo de la renta líquida imponible, siempre que cumpla todos los requisitos establecidos en el artículo 31 de la Ley sobre Impuesto a la Renta, y si no se cumplen tales requisitos, el desembolso podría quedar sujeto a la tributación establecida en el artículo 21 ya referido, según lo dispuesto en su inciso 1° o 3°, según corresponda.
+
+III.- CONCLUSIÓN.
+
+Los ingresos por servicios de transporte y flete marítimo prestados por una compañía de navegación cuya sede se encuentra en Alemania, quedan acogidos al artículo III del Tratado de Comercio suscrito entre Chile y Alemania, y en consecuencia, se excluyen de tributación en Chile. Los costos y gastos asociados a estos ingresos, deben ser rebajados de los mismos.
+
+Por su parte, los ingresos, costos y gastos por servicios prestados por una agencia en Chile, quedan sometidos a las reglas generales de tributación, de acuerdo a las normas de los artículos 29 y siguientes de la Ley de Impuesto a la Renta, esto es, quedan sometidos a Impuesto de Primera Categoría e Impuesto Global Complementario o Adicional según corresponda, cuando sean retirados, remesados o distribuidos.
+
+En cuanto a los gastos de utilización común, asociados al mismo tiempo a ingresos que se excluyen de tributación en Chile y a ingresos tributables, debe determinarse qué parte de dichos gastos puede atribuirse a cada tipo de ingresos, mediante el procedimiento establecido en la Circular 68 de 2010 u otro procedimiento propuesto por el contribuyente y aprobado por el Servicio de acuerdo a lo establecido en la Resolución Exenta N°66 de 2013.
+
+Respecto de la aplicación del artículo 21 de la Ley sobre Impuesto a la Renta, se afectarán los desembolsos que cumplan las condiciones establecidas en dicha norma y en las letras b), f) y g) del artículo 33 N°1 de la misma Ley.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 627, de 26.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

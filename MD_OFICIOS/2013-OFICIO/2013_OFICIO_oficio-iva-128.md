@@ -1,0 +1,53 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 128 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CÓDIGO TRIBUTARIO, ART. 15° – OFICIOS N°’S 1918 DE 2009, 1419, DE 2010 Y 2930 DE 2012. (..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja128.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja128.doc"
+materia: "iva"
+fecha: "2013-01-22"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – CÓDIGO TRIBUTARIO, ART. 15° – OFICIOS N°’S 1918 DE 2009, 1419, DE 2010 Y 2930 DE 2012. (ORD. N° 128, DE 22.01.2013)
+
+SITUACIÓN DE LOS SERVICIOS DE ASESORÍA, CONSULTORÍA E INGENIERÍA PRESTADOS POR CONSTRUCTORAS FRENTE AL IMPUESTO AL VALOR AGREGADO.
+
+Se ha solicitado a esta Dirección Nacional confirmar si el criterio establecido en Oficio 1419 de 2010 modifica la interpretación plasmada en los oficios N° 4383 de 1987, N°2975 de 2004, N° 3468 de 2005, N° 634 de 2006 en orden a establecer que los servicios de asesorías, consultorías e ingenierías cuando son realizados por empresas constructoras que no participan en la ejecución de las obras, no se encuentran gravados con Impuesto al Valor Agregado.
+
+I.- ANTECEDENTES
+
+Ante solicitud de devolución de Impuesto al Valor Agregado del contribuyente XXXX S.A., en virtud de lo dispuesto en el artículo 126 del Código Tributario, el recurrente manifiesta tener dudas respecto de la situación frente al IVA de los servicios de asesoría, consultoría e ingeniería realizados por empresas constructoras que no participan en la ejecución del proyecto del que da cuenta el respectivo informe.
+
+Lo anterior, por cuanto de acuerdo a lo señalado por este Servicio en pronunciamientos anteriores dichos servicios se encuentran afectos a Impuesto al Valor Agregado (en base a los cuales aparentemente el contribuyente habría recargado el IVA), en circunstancias que de acuerdo a lo expresado por este Servicio en Oficio 1419 de 2010 las referidas prestaciones no se encontrarían gravadas con el tributo en comento, entendiendo que este pronunciamiento constituye un cambio interpretativo sobre la materia.
+
+II.- ÁNALISIS:
+
+Sobre el particular, cabe precisar que tal como se ha señalado en el Oficio 2930 de 2012, el criterio contenido en el Oficio 1419 de 2010, al que hace referencia en su Memorándum, fue establecido por este Servicio en pronunciamientos anteriores, consecuentemente dicho oficio, sólo vino a hacer aplicación de un criterio previamente establecido.
+
+En efecto, el Oficio 1918 de 2009, señaló que los servicios de asesoría, consultoría e ingeniería que se materializan a través de informes, por regla general no constituyen hechos gravados, por no provenir del ejercicio de las actividades comprendidas en los N° 3 y 4, del artículo 20° de la Ley sobre Impuesto a la Renta, constituyendo una excepción a dicha regla aquellos casos en que, siendo el prestador una empresa constructora, dicho informe integre parte de las obligaciones que se derivan u originan en un contrato de construcción, de aquellos que por su propia naturaleza se encuentran sujetos a Impuesto al Valor Agregado, siendo éste el criterio vigente sobre la materia.
+
+Para los efectos que estime pertinente se hace presente que, si bien no es requisito que los documentos en que se manifieste un cambio interpretativo sean publicados de acuerdo con el artículo 15 del Código Tributario, este acto de publicidad constituye una presunción de pérdida de la buena fe, entendiéndose conocidas dichas modificaciones desde que han sido publicadas.
+
+En la especie, el Oficio 1918 de 2009, que contiene la modificación interpretativa sobre esta materia, no fue publicado, como tampoco otros oficios posteriores, que contienen el mismo criterio interpretativo , razón por la cual sólo puede afectar al contribuyente desde que ha tomado conocimiento de lo establecido en él, quedando a firme las actuaciones anteriores ajustadas al criterio primitivo.
+
+II.- CONCLUSIÓN:
+
+En respuesta a su consulta, cabe señalar que sobre la materia, efectivamente hubo un cambio de criterio, toda vez que la línea interpretativa anterior daba cuenta que los mismos servicios de asesoría, consultoría e ingenierías cuando eran realizados por constructoras siempre se afectaban a Impuesto al Valor Agregado, sin embargo, dicho cambio de criterio se produjo a partir de la dictación del oficio 1918 de 2009 y no del oficio 1419 de 2010 respecto del cual usted consulta.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 128, de 22.01.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

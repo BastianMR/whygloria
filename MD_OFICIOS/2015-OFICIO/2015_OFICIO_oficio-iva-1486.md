@@ -1,0 +1,116 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1486 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 27° BIS – LEY N° 19.657, ART. 5°, ART. 14°. (ORD. N° 1486, DE 02.06.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1486.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1486.doc"
+materia: "iva"
+fecha: "2015-06-02"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 27° BIS – LEY N° 19.657, ART. 5°, ART. 14°. (ORD. N° 1486, DE 02.06.2015)
+
+SOLICITA CONFIRMACIÓN DE CRITERIOS RELATIVOS A LA APLICACIÓN DE LA FRANQUICIA CONTENIDA EN EL ART. 27° BIS, DEL D.L. N° 825, EN PROYECTOS DE EXPLORACIÓN Y EXPLOTACIÓN DE ENERGÍA GEOTÉRMICA PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA.
+
+I.- ANTECEDENTES:
+
+XXXX es un comité dependiente orgánicamente de la Corporación de Fomento de la Producción (CORFO), que busca consolidar los esfuerzos del Estado de Chile para desarrollar las energías renovables no convencionales (ERNC) en el país.
+
+La generación de energía geotérmica está reconocida dentro de la Ley N° 20.257, como un medio de generación renovable no convencional, por tanto le es pertinente al XXXX promover y fomentar el desarrollo de esta tecnología.
+
+Por su parte, el Consejo Geotérmico Chileno AG (en adelante “El Consejo”), es una entidad gremial que reúne a las principales entidades dedicadas en la actualidad a la exploración privada de energía geotérmica, con fines de explotación lucrativa, mediante la generación de energía eléctrica. Esta entidad ha manifestado el interés de sus empresas asociadas en orden a despejar dudas de interpretación legal relacionada con el momento y estado de los proyectos para optar, respecto de su activo fijo, a la devolución de IVA, en virtud del Art. 27° bis del D.L. 825, de 1974.
+
+En atención a ello, hace una lata exposición sobre las características de la industria de exploración y explotación de la energía geotérmica para la generación de energía eléctrica, detallando la normativa legal que la rige y las actividades asociadas, tanto a la concesión de exploración, como a la concesión de explotación.
+
+Al respecto, señala que las actividades de exploración y explotación geotérmica en Chile se encuentran reguladas por la Ley N° 19.657, sobre Concesiones de Energía Geotérmica y su Reglamento el Decreto N° 114, de 8/3/2013, del Ministerio de Energía.
+
+Ahora bien, la Concesión de Exploración, se inicia con la presentación al Ministerio de Energía de una solicitud de otorgamiento de una Concesión de Exploración de Energía Geotérmica.
+
+El otorgamiento de un área de Exploración de Energía Geotérmica, se hace mediante decreto del Ministerio de Energía, el cual establece principalmente: la ubicación geográfica del área de explotación geotérmica; Definición de la extensión física del rectángulo y su área perimetral; Identificación de las actividades a realizar y montos de inversión comprometidos por cada actividad y Carta Gantt de las actividades y plazos.
+
+Una vez otorgada la Concesión de Exploración, la empresa efectúa la planificación de las actividades.
+
+Durante el desarrollo de esta Concesión es posible distinguir las siguientes etapas con sus actividades correlativas:
+
+i.- Etapa de exploración superficial y;
+
+ii.- Etapa de perforación geotérmica.
+
+La etapa de exploración superficial contempla el desarrollo de estudios de carácter geológico, geoquímico y geofísico, todos los cuales implican la colección de datos a nivel de la superficie del terreno, sin intervención significativa del entorno medioambiental. Estos estudios permiten crear un Modelo Geotérmico Integrado inicial, que entregará contenidos clave para las futuras etapas. Algunas de las actividades en esta etapa son: Geología, Geofísica, Geoquímica, Hidrogeología, Ingeniería de Reservorio, Relación con Comunidades; Permisos y Servidumbres; Creación de un modelo Geotérmico.
+
+En esta etapa se producen remanentes de crédito fiscal de IVA, por la adquisición de bienes muebles, tales como instrumentos de medición, herramientas, equipamiento técnico, vehículos de trabajo, etc., que desde su adquisición son tratados, financiera y tributariamente como un activo fijo.
+
+Una vez que se ha completado la información técnica necesaria para generar el Modelo Geotérmico Integrado de un área, comienza la etapa de perforación geotérmica. Para validar la continuación de la inversión en cada proyecto pasando a la etapa de perforación, es que se han obtenido las evidencias técnicas necesarias acerca de la existencia de un reservorio geotérmico y que deberá ser probado mediante la técnica de la perforación de pozos.
+
+Algunas de las actividades en esta etapa son: Desarrollo de la ingeniería del Pozo de Perforación; Adquisición de materiales para el pozo (barras de perforación, trépanos, cabezales, válvulas, motores, motor de fondo, casing, cemento, diferentes tipos de lodos, etc.); Ejecución de las obras civiles para perforación, principalmente caminos, plataforma de perforación y piscinas de lodos de perforación; Habilitación de campamento de perforación y; perforación de Pozos Someros y Profundos, mediante la contratación de una empresa especializada.
+Esta última actividad consiste principalmente en la perforación de pozos a profundidad variable, dependiendo de las condiciones locales del posible reservorio de energía geotérmica y su objetivo principal es probar la existencia de condiciones adecuadas de un fluido geotérmico para su explotación y consiguiente generación eléctrica.
+
+En esta etapa de perforación, que habitualmente es anterior a la tramitación de una concesión de explotación, pero que puede ser también paralela a dicho trámite, existen una serie de desembolsos asociados a construcciones e instalaciones imprescindibles para el giro de la generación y suministro eléctrico, tales como obras civiles de toda clase, entre ellas caminos, puentes, obras de arte y sistemas de evacuación de aguas lluvia, oficinas, estaciones meteorológicas, campamento de faena y la perforación profunda de pozos propiamente tal.
+
+En cuanto a la Concesión de Explotación, ésta se solicita, si de acuerdo a los resultados técnicos obtenidos en las etapas anteriores, se puede alcanzar la evidencia técnica acerca del potencial y/o existencia de un reservorio geotérmico, que permita inferir el comportamiento futuro del recurso y respaldar la solicitud de otorgamiento de la Concesión, la cual se otorga a perpetuidad por el Ministerio de Energía.
+
+Algunas de las actividades asociadas a la Concesión de Explotación son: Ingeniería de Pozo Geotérmico (entre 1.000 y 3.000 mts. de profundidad); Obras civiles para la perforación de pozos (caminos, campamentos, planta, etc.); Habilitación del campamento de perforación; Inicio de la campaña de perforación de los Pozos Geotérmicos; Instalación de elementos para pruebas de producción.
+
+De lo anterior se desprende que el proceso desde la obtención de la concesión de exploración geotérmica hasta la puesta en marcha de la planta de generación de energía geotérmica, puede demorar al menos ocho años, involucrando altos niveles de inversión.
+
+Con el objeto de disminuir el riesgo asociado a este tipo de inversiones, las empresas habitualmente tienen más de una concesión o proyecto, correspondiendo en general, a empresas creadas únicamente para la explotación geotérmica con fines de generación eléctrica, por lo que no tienen en el período de la puesta en marcha del proyecto geotérmico, ingresos operacionales propios afectos a IVA que provengan de otras actividades que les permita imputar el crédito fiscal derivado de las adquisiciones de bienes y contrataciones de servicios que puedan afectarse con dicho impuesto, con el consiguiente costo financiero que ello involucra para el inversionista o titular del proyecto de exploración y explotación.
+
+Desde el punto de vista del inversionista, es relevante en términos de flujos, tener la posibilidad de acceder a una recuperación anticipada de IVA, según lo dispuesto en el Art. 27° bis, del D.L. N° 825.
+
+Al respecto, las empresas asociadas al Consejo Geotérmico Chileno AG, son de opinión que los estudios, actividades, inversiones en obras, perforaciones de exploración no sólo forman parte de los servicios necesarios para integrar el valor de un activo futuro, sino que se trata de servicios y bienes que acceden de inmediato a un bien inmueble accesorio a un bien del activo fijo ya existente, que es la concesión de energía geotérmica, según lo dispuesto en el Art. 5°, de la Ley N° 19.657.
+
+En virtud de ello concluye que, entre los activos fijos de las sociedades concesionarias, existirán, por una parte, el inmueble “Concesión”, y por otro lado un sinnúmero de construcciones e instalaciones que tendrán también el carácter de bienes inmuebles individualmente considerados. De modo que la procedencia del beneficio no se encuentra supeditada al hecho que el activo fijo se encuentre en fase de operación de la concesión, sino que debiera poder ser solicitada a partir del momento en que le haya sido otorgada la Concesión de Explotación.
+
+Finalmente, en atención a los antecedentes expuestos en su presentación, solicita se confirmen los siguientes criterios:
+
+1) Que los bienes, instalaciones o construcciones y demás objetos que se encuentren destinados permanentemente por las concesionarias a la investigación, exploración o explotación de la energía geotérmica y que sean necesarios para la realización de las actividades inherentes a la concesión, entendida tanto durante la concesión de exploración como la de explotación, forman parte del activo fijo de las respectivas empresas y habilitan a tales contribuyentes para efectos de obtener la devolución del remanente de crédito fiscal de IVA, conforme al Art. 27° bis, del D.L. N° 825.
+
+2) Que la oportunidad para solicitar la devolución de remanente de crédito fiscal de IVA, en virtud del mencionado Art. 27° bis, no se encuentra condicionada a que las plantas de energía eléctrica, generada mediante el aprovechamiento de la energía geotérmica se encuentren en operación o fase de producción.
+
+En otras palabras, que el remanente acumulado, entre otros, por la construcción y/o adquisición de bienes del activo fijo que forman parte de los pozos profundos y de la unidad económica consistente en la planta geotérmica y obras civiles e instalaciones, es factible de ser recuperado a través del mecanismo del Art. 27° bis citado, aun cuando la concesionaria no haya dado inicio a la explotación o fase de producción de la planta, cumplidos los demás requisitos legales.
+
+II.- ANÁLISIS:
+
+La Ley N° 19.657, sobre Concesiones de Energía Geotérmica, dispone en su Art. 6°, que las concesiones de energía geotérmica pueden ser Concesiones de Exploración o Concesiones de Explotación. Para estos efectos, en su inciso segundo establece que “La exploración consiste en el conjunto de operaciones que tienen el objetivo de determinar la potencialidad de la energía geotérmica, considerando entre ellas la perforación y medición de pozos de gradiente y los pozos exploratorios profundos. En consecuencia, la concesión de exploración confiere el derecho a realizar los estudios, mediciones y demás investigaciones tendientes a determinar la existencia de fuentes de recursos geotérmicos, sus características físicas y químicas, su extensión geográfica y sus aptitudes y condiciones para su aprovechamiento”.
+
+En el inciso siguiente dispone respecto de la explotación que ésta “consiste en el conjunto de actividades de perforación, construcción, puesta en marcha y operación de un sistema de extracción, producción y transformación de fluidos geotérmicos en energía térmica o eléctrica. En consecuencia, la concesión de explotación confiere el derecho a utilizar y aprovechar la energía geotérmica que exista dentro de sus límites”.
+
+Por su parte, el Art. 14° de la mencionada ley, señala que “El titular de una concesión de exploración tendrá derecho exclusivo a que el Estado le otorgue la concesión de explotación sobre la respectiva área de exploración. Este derecho podrá ejercerse durante la vigencia de la concesión de exploración y hasta dos años después de vencida”.
+
+Por otra parte y en lo que dice relación con la normativa tributaria, el Art. 27° bis, del D.L. N° 825, de 1974, dispone en su inciso primero que los contribuyentes del Impuesto al Valor Agregado y los exportadores que tengan remanentes de crédito fiscal determinados de acuerdo con las normas del artículo 23°, durante seis o más períodos tributarios consecutivos, como mínimo, originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su activo fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado, debidamente reajustado de acuerdo a las normas del Art. 27°, a cualquier clase de impuestos fiscales, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República.
+
+En el inciso siguiente la norma establece la obligación para dichos contribuyentes de restituir dichas sumas mediante pagos efectivos que realicen en Tesorería por concepto de Impuesto al Valor Agregado, generado en las operaciones normales que efectúen a contar del mes siguiente del periodo al cual esas sumas correspondan, así como también a restituir adicionalmente las sumas que resulten de aplicar el cálculo señalado en el referido inciso, en caso de que en cualquiera de los períodos tributarios siguientes existan operaciones exentas o no gravadas.
+
+La franquicia contenida en el Art. 27° bis, es un beneficio que busca aliviar la carga financiera que conlleva la adquisición de activo fijo, adelantando al contribuyente que hace uso de ella, la recuperación del Impuesto al Valor Agregado soportado en la adquisición de los mismos. Sin embargo, el contribuyente tiene la obligación de devolver dichas sumas, mediante los pagos efectivos de Impuesto al Valor Agregado que realice en Tesorería, producto de sus operaciones normales.
+
+De lo anterior se colige una de las exigencias explícitas en la norma legal bajo análisis, a saber, que quien solicita dicho beneficio debe ser contribuyente de IVA, de manera que pueda en un futuro cumplir con la exigencia de la devolución impuesta por la norma legal.
+
+En el caso bajo análisis, dicho requisito se cumple cuando el Ministerio de Energía le ha otorgado a la empresa, la respectiva Concesión de Explotación, ya que si bien es cierto la finalidad de las entidades dedicadas en la actualidad a la exploración privada de energía geotérmica, es la generación y comercialización de energía eléctrica, actividad gravada con IVA que confiere a quien la efectúa la calidad de contribuyente del impuesto, la etapa en que efectivamente ello se lleva a cabo es en la etapa de explotación, ya que de acuerdo a lo dispuesto en el Art. 6°, de la Ley N° 19.657, es la concesión de explotación la que confiere el derecho a utilizar y aprovechar la energía geotérmica que exista dentro de los límites fijados, a diferencia de la Concesión de Exploración que sólo confiere el derecho a realizar los estudios, mediciones y demás investigaciones tendientes a determinar la existencia de fuentes de recursos geotérmicos. De modo que, considerando la particularidad de este negocio, en que para explotar los recursos con la finalidad de generar energía eléctrica se debe contar con la Concesión de Explotación, se estima que sólo en la medida que la empresa cuente con ésta, podrá solicitar la devolución de IVA, en virtud del Art. 27° bis, por el remanente acumulado de activo fijo generado durante todo el proceso, incluyendo la etapa de exploración. Sin embargo, de no obtenerse dicha concesión no resulta procedente la referida solicitud.
+
+En cuanto a la calidad de activo fijo de los bienes respecto de los cuales se debe mantener remanente acumulado por seis o más períodos tributarios, este Servicio ha señalado reiteradamente que se comprenden en dicho concepto, todos aquellos bienes que han sido adquiridos o construidos con el ánimo de usarlos en forma permanente en la explotación del giro del contribuyente, sin el propósito de negociarlos, revenderlos o ponerlos en circulación.
+
+Teniendo presente el tipo y singularidad del negocio, dicha calidad no puede reconocerse a priori, sin conocer los bienes por los cuales las empresas impetrarán el beneficio, el que debe solicitarse en la Dirección Regional de este Servicio, correspondiente al domicilio del solicitante.
+
+III.- CONCLUSIÓN:
+
+Del análisis precedente, se concluye respecto de su consulta signada con el N° 1 en el numeral I anterior, que no es posible determinar a priori y en forma genérica la calidad de activo fijo de los bienes, respecto de los cuales el contribuyente solicitará la devolución de IVA, en virtud del Art. 27° bis. Sin embargo, en la medida que dichos bienes cumplan los requisitos para ser considerados bienes del activo fijo, conforme al concepto entregado precedentemente, no existirá inconveniente, para que la empresa que cuente con la Concesión de Explotación, otorgada por el Ministerio de Energía, efectúe la solicitud de devolución sin importar si los referidos bienes fueron adquiridos durante la concesión de exploración o de explotación.
+
+En cuanto a su consulta signada con el N° 2 del numeral I) anterior, sin pronunciarse sobre la calidad de los bienes del activo fijo, respecto de los cuales se solicitará devolución, se confirma que no es necesario para impetrar el beneficio, que las plantas de energía eléctrica se encuentren en operación o fase de producción, siempre que el solicitante cumpla con los requisitos dispuestos en la norma legal y siempre que la solicitud sea efectuada en la etapa de explotación, una vez que le haya sido otorgada por parte del Ministerio de Energía la respectiva Concesión de Explotación, según se analizó en el cuerpo de este oficio.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1486, de 02.06.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

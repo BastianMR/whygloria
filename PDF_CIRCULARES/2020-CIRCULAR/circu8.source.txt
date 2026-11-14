@@ -1,0 +1,5 @@
+archive: circu8.zip
+published_to: PDF_CIRCULARES/2020-CIRCULAR/circu8.pdf
+members:
+  circu8.pdf  kept=PDF_CIRCULARES/2020-CIRCULAR  (byte-identical to the published circular)
+  SuplementoTributario AT 2020.pdf  sha256=eee1be99937ed663b7fcfd917e570e65262feca88559a58c5b80093683d5aa76  kept=SIN_PROCESAR/SUPLEMENTOS/2020-CIRCULAR/SuplementoTributario AT 2020.pdf

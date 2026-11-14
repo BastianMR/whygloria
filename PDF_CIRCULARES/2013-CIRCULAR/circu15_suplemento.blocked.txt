@@ -1,0 +1,10 @@
+source: circu15_suplemento.pdf
+sha256: f760c63e1b9034c4aab6295a02cd4548ec98b0b883fce63f1c202ee21d5c0485
+bytes: 34880628
+observed: 2026-11-12
+conversion: blocked
+reason: docling-serve loses the task on the CUDA image and does not finish within 90 minutes on the CPU image
+attempts: ghcr.io/docling-project/docling-serve-cu128:main (task lost, container restarted);
+  ghcr.io/docling-project/docling-serve:latest on CPU (no crash, exceeded the 90 min bound)
+kept: the binary is tracked in this folder as provenance. No concept was written,
+  because the corpus never fabricates a document body it could not convert.

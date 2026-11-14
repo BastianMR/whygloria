@@ -1,0 +1,111 @@
+---
+type: "SII Oficio"
+title: "Oficio Otros N° 606 (2015)"
+description: "CONVENIO ENTRE EL REINO DE ESPAÑA Y LA REPÚBLICA DE CHILE PARA EVITAR LA DOBLE IMPOSICIÓN Y PREVENIR LA EVASIÓN FISCAL EN MATERIA DE IMPUESTOS SOBRE LA RENTA..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja606.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/otras_normas/2015/ja606.doc"
+materia: "otros"
+fecha: "2015-02-26"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+CONVENIO ENTRE EL REINO DE ESPAÑA Y LA REPÚBLICA DE CHILE PARA EVITAR LA DOBLE IMPOSICIÓN Y PREVENIR LA EVASIÓN FISCAL EN MATERIA DE IMPUESTOS SOBRE LA RENTA Y SOBRE EL PATRIMONIO – LEY SOBRE IMPUESTO A LA RENTA, ART. 59° – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 12°, LETRA E), N°7 – LEY N° 20.630, DE 2012 – LEY N° 17.336, ART. 17°. (ORD. N° 606, DE 26.02.2015)
+
+CONSULTA SOBRE TRIBUTACIÓN DE SUMAS PAGADAS A UN PROVEEDOR ESPAÑOL, POR EL USO DE UN PROGRAMA COMPUTACIONAL.
+
+Se pide un pronunciamiento respecto de la tributación de sumas pagadas por el uso de un programa computacional efectuado en virtud de un contrato de licencia, en el contexto del Convenio vigente entre Chile y España.
+
+I. ANTECEDENTES
+
+En el oficio se expone que el contribuyente XXXXXX, consulta lo siguiente:
+
+a) El porcentaje que se debe pagar de impuestos en relación con la internación de un programa computacional desde una empresa que reside en España, bajo el Convenio para evitar la doble imposición;
+b) Aclaración sobre la modificación al artículo 59 de la Ley sobre Impuesto a la Renta (LIR), por la Ley N° 20.630.
+Esa Regional teniendo presente lo dispuesto en la norma legal citada de la LIR, concluye lo siguiente respecto de la consulta que formula el contribuyente:
+a) Si el pago o abono en cuenta está gravado con Impuesto Adicional del 15% o con la tasa del 10% que impone el Convenio entre España y Chile (en el caso del uso, goce y explotación de programas computacionales estándar o no estándar), entonces rige la exención del Impuesto al Valor Agregado (IVA);
+b) Si el pago o abono en cuenta está exento del Impuesto Adicional por tratarse del uso de un programa computacional estándar y el servicio es prestado en el extranjero, entonces rige la exención del IVA y,
+c) Si el pago o abono en cuenta está exento del Impuesto Adicional por tratarse del uso de un programa computacional estándar y el servicio es prestado en Chile, entonces no rige la exención del IVA, por ende, debe pagarse dicho impuesto.
+Respecto de los servicios que Xpertis SPA preste en Chile a la empresa española Espiral, que consisten en la presentación del software a clientes en Chile, señala que éstos están afectos al régimen general de tributación, esto es, con Impuesto de Primera Categoría e Impuesto Global Complementario.
+En materia de IVA, señala, que las remuneraciones están afectas a este impuesto por tratarse de comisiones que percibe un comisionista con oficina establecida.
+II. ANÁLISIS
+En relación a las consultas que formula el contribuyente y a lo informado por esa Dirección Regional, se analiza en los párrafos que siguen la situación tributaria de los pagos efectuados a una empresa española por el uso de programas computacionales.
+1. Impuesto a la Renta.
+Al respecto, el inciso primero del artículo 59 de la LIR grava con una tasa de 15% a “las cantidades correspondientes al uso, goce o explotación de programas computacionales,...”, señalando además que, no obstante, la tasa de impuesto aplicable será de 30% en determinados casos.
+
+La ley N° 20.630, publicada en el D.O. del 27 de septiembre de 2012, modificó, con vigencia a contar del 1 de enero de 2013, la tributación de los programas computacionales agregando en el inciso primero del artículo 59, al término de la oración que se refiere a la tributación de los programas computacionales lo siguiente: “salvo que las cantidades se paguen o abonen en cuenta por el uso de programas computacionales estándar, entendiéndose por tales aquellos en que los derechos que se transfieren se limitan a los necesarios para permitir el uso del mismo, y no su explotación comercial, ni su reproducción o modificación con cualquier otro fin que no sea habilitarlo para su uso, en cuyo caso estarán exentas de este impuesto”.
+
+De acuerdo a la disposición legal analizada, para calificar un programa computacional como estándar y en consecuencia goce de la exención de Impuesto Adicional, éste debe cumplir con los siguientes requisitos:
+
+a) Requisito de carácter general en relación con el concepto de programas computacionales que establece la LIR, conforme a las definiciones y especificaciones técnicas de la Ley N° 17.336, sobre Propiedad Intelectual .
+
+b) Requisito relacionado con el carácter de estándar de los programas computacionales y el alcance de la transferencia o cesión de derechos respecto de los referidos programas.
+
+Como se puede observar, la LIR establece que la exención se aplica solo respecto de las cantidades pagadas o abonadas en cuenta por la cesión de los derechos necesarios para el uso de los programas computacionales y no para su explotación comercial, reproducción o modificación con cualquier otro fin que no sea habilitarlo para el uso; en consecuencia, los pagos por una licencia que permite la distribución de programas computacionales estándar, quedan sujetos al impuesto adicional de retención con tasa de 15% o 30% según corresponda.
+
+2. Convenio entre Chile y España
+
+En lo que se refiere al tratamiento tributario de los pagos al exterior por una licencia que permite la distribución de programas computacionales, en el marco del Convenio entre Chile y España, cabe analizar en primer término, si esos pagos quedan comprendidos en la definición de regalías contenida en el párrafo 3 del artículo 12 del Convenio.
+De acuerdo a la norma legal indicada, “Los términos “cánones” o “regalías” empleados en este artículo significan las cantidades de cualquier clase pagadas por el uso, o el derecho al uso, de derechos de autor sobre obras literarias, artísticas o científicas, incluidas las películas cinematográficas o películas, cintas y otros medios de reproducción de la imagen y el sonido, de patentes, marcas de fábrica o de comercio, dibujos o modelos, planos, fórmulas o procedimientos secretos u otra propiedad intangible, por informaciones relativas a experiencias industriales, comerciales o científicas o por el uso o derecho al uso, de equipos industriales, comerciales o científicos.”
+
+Dado que el Convenio no define lo que se entiende por “obras literarias, artísticas o científicas, incluidas las películas cinematográficas o películas, cintas y otros medios de reproducción de imagen y el sonido, las patentes, marcas, diseños o modelos, planos, fórmulas o procedimientos secretos u otra propiedad intangible”, se debe recurrir a lo dispuesto en la legislación interna del Estado que aplica el Convenio, por disposición del artículo 3 párrafo 2 del mismo.
+
+Al respecto, la Ley 17.336, de 1970, que contiene el texto de la Ley de Propiedad Intelectual, considera a los programas computacionales como “obras literarias, artísticas o científicas” (artículo 1). El cuerpo legal indicado protege el derecho de autor sobre los programas computacionales, cualquiera que sea el modo o forma de expresión, como programa fuente o programa objeto, e incluso la documentación preparatoria, su descripción técnica y manuales de uso (artículo 3 N° 16). Además la ley establece que el derecho patrimonial confiere al titular del derecho de autor las facultades de utilizar directa y personalmente la obra, de transferir, total o parcialmente, sus derechos sobre ella y de autorizar su reproducción por terceros (artículo 17). Asimismo señala, que solo el titular del derecho de autor o quienes estuvieren expresamente autorizados por él, tienen el derecho de utilizar la obra en las formas que la ley señala, como publicarla o distribuirla al público. Por lo tanto, la distribución de programas computacionales por una persona distinta al titular del derecho sobre esos programas, requiere necesariamente del pago de una licencia, en caso contrario se produce una violación de esa legislación.
+
+En resumen, de acuerdo a las normas del Convenio, que se remite a la legislación interna, se requiere una licencia para poder distribuir un programa computacional y el pago por esa licencia constituye una regalía, en conformidad con el artículo 12 del Convenio. De acuerdo a la letra b) del artículo 12 del Convenio, la tasa aplicable es del 10% del importe bruto de los cánones o regalías.
+
+En el caso de cantidades correspondientes al uso, goce o explotación de programas computacionales estándar, entendiéndose por tales aquellos en que los derechos que se transfieren se limitan a los necesarios para permitir el uso de los mismos, y no su explotación comercial, ni su reproducción o modificación con cualquier otro fin que no sea habilitarlo para su uso, el convenio autoriza gravarlos, pero en la medida que cumplan con los requisitos que exige el inciso primero del artículo 59 de la LIR, y que se describieron en el numeral anterior, se liberan del pago del impuesto Adicional de 15% o 30% que contempla la norma legal antes indicada.
+
+3. Impuesto al Valor Agregado
+
+Sobre el particular, cabe manifestar que el Art. 8°, letra h), del D.L. N° 825, grava con el Impuesto al Valor Agregado “El arrendamiento, subarrendamiento o cualquier otra forma de cesión del uso o goce temporal de marcas, patentes de invención, procedimientos o fórmulas industriales y otras prestaciones similares”.
+
+Para estos efectos, las licencias de programas computacionales se estiman similares a las marcas y otras menciones allí referidas, ya que ellas igualmente importan la protección intelectual de ellos, por lo que cualquier cesión del uso o goce temporal de las mismas, se encontrará gravada con el referido tributo.
+
+Por su parte, el Art. 12°, letra E), N° 7, del D.L. N° 825, libera del Impuesto al Valor Agregado, entre otros, a los ingresos afectos al Impuesto Adicional establecido en el artículo 59°, de la Ley sobre Impuesto a la Renta, salvo que “se trate de servicios prestados en Chile y gocen de una exención de dicho impuesto por aplicación de las leyes o de los convenios para evitar la doble imposición en Chile”.
+
+De lo anterior se concluye que si las sumas remesadas al exterior por el uso de programas computacionales, se encuentran afectas al impuesto establecido en el Art. 59°, de la Ley sobre Impuesto a la Renta, no operando en su favor liberación alguna del referido tributo, éstas se favorecerán con la liberación de Impuesto al Valor Agregado, contenida en el Art. 12°, letra E), N° 7, del D.L. N° 825.
+
+Si por el contrario, dichas sumas se encuentran gravadas con Impuesto Adicional, pero exentas en virtud de alguna norma legal o de algún convenio para evitar la doble tributación en Chile, la aplicación de la exención de IVA, contenida en el Art. 12°, letra E), N° 7, queda supeditada al lugar donde se entienden prestados los servicios remunerados por las referidas remesas al exterior.
+
+Así las cosas, si los servicios son prestados en Chile, dichas sumas se encuentran gravadas con Impuesto al Valor Agregado, en virtud de la modificación incorporada al Art. 12°, letra E), N° 7. Por el contrario, si los servicios son prestados en el extranjero y tan sólo utilizados en Chile, las remesas pagadas al exterior quedarán liberadas del pago de IVA, por aplicación de la franquicia en comento.
+
+En el caso en consulta, resulta claro que la operación se encuentra afecta a IVA en virtud del Art. 8°, letra h), del D.L. N° 825, pues las licencias de uso de programas computacionales, otorgadas por empresas en el extranjero, serán utilizadas por el contribuyente en Chile, cumpliéndose el requisito de territorialidad exigido por la ley para que se produzca el hecho gravado.
+
+Sin embargo, para efectos de aplicar a dichos servicios, la exención contenida en el Art. 12°, letra E), N° 7, del D.L. N° 825, debe determinarse si éstos son prestados en Chile o en el extranjero.
+
+Para ello, cabe tener presente que el Art. 5°, inciso segundo, del mencionado texto legal señala que: “Se entenderá que el servicio es prestado en el territorio nacional cuando la actividad que genera el servicio es desarrollada en Chile, independientemente del lugar donde éste se utilice”.
+
+En el caso bajo análisis el servicio consiste en ceder el uso de programas computacionales que serán utilizados en Chile, lo cual sólo puede ser efectuado por el titular del derecho de autor, según lo dispuesto por el Art. 17°, de la Ley N° 17.336.
+
+Ahora bien, considerando que el derecho de autor nace por el sólo hecho de la creación de la obra según dispone el Art. 1°, de la Ley N° 17.336, resulta obligatorio concluir que la actividad que genera el servicio y por tanto la prestación, se produce en el lugar donde se encuentra domiciliado el titular del derecho ya que es allí donde éste, como único facultado para ceder el uso de su obra efectúa mediante el licenciamiento de los programas computacionales la cesión del uso de los mismos.
+
+En virtud de lo anterior, en el caso de programas computacionales cuya licencia de uso es otorgada en el extranjero, por encontrarse allí el domicilio del titular de dichas licencias, se entiende que el servicio es prestado en el exterior.
+
+Finalmente, en caso que la operación se encuentre afecta a IVA por aplicación de las normas precedentemente señaladas, el tributo en cuestión deberá ser declarado y pagado por el beneficiario de la licencia, en quien recae dicha obligación, conforme al cambio de sujeto dispuesto en el Art. 11°, letra c), del D.L. N° 825, el cual dispone que será considerado sujeto del impuesto “El beneficiario del servicio, si la persona que efectúa la prestación residiere en el extranjero”.
+
+III. CONCLUSIÓN
+
+En mérito a las consideraciones anteriores, se puede concluir lo siguiente respecto de las preguntas formuladas:
+
+a) El porcentaje que se debe pagar por concepto de impuesto adicional por el uso de un programa computacional de acuerdo a lo dispuesto en el Convenio vigente entre Chile y España es de 10%;
+
+b) Respecto de los programas computacionales estándar, la LIR establece que la exención se aplica solo respecto de las cantidades pagadas o abonadas en cuenta por la cesión de los derechos necesarios para el uso de los programas computacionales y no para su explotación comercial, reproducción o modificación con cualquier otro fin que no sea habilitarlo para el uso;
+
+c) En materia de IVA, si las cantidades pagadas por el uso, goce o explotación de un programa computacional no estándar están gravadas con el Impuesto Adicional del artículo 59 de la LIR, rige la exención del IVA. Tratándose de un programa computacional que reúna los requisitos de estándar, que exige la LIR, si bien está exento de Impuesto Adicional, no se les aplica el IVA por cuanto de acuerdo a lo expuesto en el numeral 3 del Análisis, el servicio se presta en el extranjero y no en Chile.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 606, de 26.02.2015
+Subdirección Normativa
+Dpto. de Normas Internacionales

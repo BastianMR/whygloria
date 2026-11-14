@@ -1,0 +1,82 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1440 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3 – LEY N° 20.780, DE 2014 – LEY N° 20.899, DE 2016 – CÓDIGO DE MINERÍA,..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1440.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1440.doc"
+materia: "iva"
+fecha: "2016-05-24"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3 – LEY N° 20.780, DE 2014 – LEY N° 20.899, DE 2016 – CÓDIGO DE MINERÍA, ART. 1, ART. 2. (ORD. N° 1440, DE 24.05.2016)
+
+SOLICITA PRONUNCIAMIENTO SOBRE APLICACIÓN DEL IMPUESTO A LAS VENTAS Y SERVICIOS, A LA VENTA DE UNA CONCESIÓN MINERA.
+
+Se ha recibido en esta Dirección Nacional su presentación de 04 de diciembre de 2015, en la que solicita un pronunciamiento sobre la aplicación e interpretación de la modificación introducida por la Ley N° 20.780 de 29 de septiembre del 2014, al Decreto Ley N° 825, de 1974, en lo que se refiere a la Venta de las Concesiones Mineras.
+
+I.- ANTECEDENTES:
+
+De acuerdo a su presentación, requiere un pronunciamiento de este Servicio respecto a la aplicación e interpretación de la ley sobre el Impuesto a las Ventas y Servicios, producto de la modificación introducida por la Ley N° 20.780 del 2014, en lo que se refiere a la venta de concesiones mineras.
+
+Señala que con la modificación introducida al N° 1 del artículo 2°, del D.L. N° 825, de 1974, se entiende por “Venta, toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluido los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta”.
+
+Agrega, que el Código de Minería creado por la Ley N° 18.248, dice en su artículo 2° textualmente lo siguiente:
+
+“La concesión Minera es un derecho real e inmueble; distinto e independiente del dominio del predio superficial, aunque tengan el mismo dueño; oponible al Estado y a cualquier persona; transferible y trasmisible; susceptible de hipoteca y otros derechos reales y, en general, de todo acto o contrato; y que se rige por las mismas leyes civiles que los demás inmuebles, salvo en lo que contraríen disposiciones de la ley orgánica constitucional o del presente código.
+
+La concesión minera puede ser de exploración o de explotación; esta última se denomina también pertenencia. Cada vez que este código se refiera a la o a las concesiones, se entienda que comprende ambas especies de concesiones mineras”.
+
+Finalmente señala que las modificaciones efectuadas por la Ley N° 20.780, al Decreto Ley N° 825, de 1974, se aplicarían a todo lo que concierne a la venta de bienes corporales muebles e inmuebles, incluso derechos reales constituidos en ellos, pero no quedaría claramente establecido si las concesiones mineras, por ser un derecho real, podrían quedar afectas a este impuesto, como también podría quedar afecta la venta de naves mercantes de un tonelaje superior a 50 toneladas, ya que en algunas circunstancias son tratados como inmuebles susceptibles de hipoteca.
+
+II.- ANALISIS
+El artículo 1° del Código de Minería consagra el derecho de las personas a constituir concesiones de exploración y explotación de las sustancias de los yacimientos mineros, los cuales declara de dominio absoluto del Estado.
+
+Por otra parte, en conformidad con lo dispuesto en el artículo 2° de dicho Código, una concesión minera – que es un derecho real e inmueble que, como se ha dicho, puede ser de exploración o explotación – es susceptible, en general, de todo acto o contrato, y se rige por las mismas leyes civiles que los demás inmuebles, salvo en lo que contraríe disposiciones de la ley orgánica constitucional sobre la materia (Ley N° 18.097) o del propio Código de Minería. El inciso segundo de ese mismo artículo, se encarga de precisar que “pertenencia”, es otra denominación de la concesión minera de explotación.
+
+Como se señala en la presentación, las concesiones mineras son un derecho real sobre un bien inmueble, por lo que se hace necesario determinar si las modificaciones introducidas por la Ley N° 20.780 sobre Reforma Tributaria y N° 20.899 de Simplificación, a los conceptos de venta y vendedor, afectan las transferencias de este tipo de inmuebles.
+
+Sobre el particular, con las señaladas modificaciones, el texto de los N° 1 y 3 del artículo 2°, del Decreto Ley N° 825, de 1974, ha quedado del siguiente tenor:
+
+Artículo 2° Para los efectos de esta ley, salvo que la naturaleza del texto implique otro significado, se entenderá:
+
+“1°) Por “venta”, toda convención independiente de la designación que le den las partes, que sirva para transferir a título oneroso el dominio de bienes corporales muebles, bienes corporales inmuebles, excluidos los terrenos, de una cuota de dominio sobre dichos bienes o de derechos reales constituidos sobre ellos, como, asimismo, todo acto o contrato que conduzca al mismo fin o que la presente ley equipare a venta.
+
+3°) Por “vendedor” cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles e inmuebles. Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad. Para efectos de la venta de inmuebles, se presumirá que existe habitualidad cuando entre la adquisición o construcción del bien raíz y su enajenación transcurra un plazo igual o inferior a un año. Con todo no se considerará habitual la enajenación de inmuebles que se efectúe como consecuencia de la ejecución de garantías hipotecarias así como la enajenación posterior de inmuebles adjudicados o recibidos en pago de deudas y siempre que exista una obligación legal de vender dichos inmuebles dentro de un plazo determinado; y los demás casos de ventas forzadas en pública subasta autorizadas por resolución judicial. La transferencia de inmuebles efectuada por contribuyentes con giro inmobiliario efectivo, podrá ser considerada habitual.
+
+Se considerará también “vendedor” al productor, fabricante o vendedor habitual de bienes corporales inmuebles que venda materias primas o insumos que, por cualquier causa, no utilice en sus procesos productivos”.
+
+Cabe señalar, que mediante la Ley N° 18.630 de 1987, con vigencia a contar del 1° de octubre de 1987, se había modificado el Decreto Ley N° 825, de 1974, incorporando la actividad de la construcción al hecho gravado venta, pero restringido exclusivamente a la transferencia de inmuebles de propiedad de una empresa constructora, construidos totalmente por ella o en parte por un tercero para ella, de una cuota de dominio sobre dichos bienes o derechos reales constituidos sobre ellos, siempre y cuando la empresa constructora tuviera la calidad de vendedor, entendiendo por tal a aquella que se dedique en forma habitual a la venta de bienes corporales inmuebles de su propiedad, construidos totalmente por ella o que en parte hayan sido construidos por un tercero para ella.
+
+Ahora bien, en el Mensaje Presidencial del Proyecto de Ley, sobre reforma tributaria, respecto a esta modificación, en la letra a) IVA en los inmuebles, del N° 5 del Título III, se establece: “En primer lugar, como lo anunciamos en nuestro programa, terminaremos con la elusión del pago de IVA en la venta de bienes inmuebles nuevos.
+
+Para eso, se gravarán con IVA la venta de inmuebles, cualquiera que sea el vendedor, introduciendo una serie de modificaciones a la ley del IVA que están contenidas en el artículo 2° del proyecto (numerales 1, 3, 4, 5 y 6). Al respecto, es importante recalcar que para que opere este gravamen debe existir habitualidad, es decir, se excluyen las operaciones no habituales. Para venta de inmuebles usados, realizadas por un vendedor (habitual), la base imponible será la diferencia entre los precios de venta y compra”.
+
+Consecuentemente con lo señalado en el mensaje presidencial, la Ley N° 20.780, del 2014, complementada por la Ley N° 20.899, del 2016, modificaron los N° 1 y 3 del artículo 2°, del Decreto Ley N° 825, de 1974, sobre los conceptos de “Venta” y “Vendedor”, específicamente en lo referido a los inmuebles. De su análisis se puede apreciar que se amplía el universo de sujetos del impuesto, incorporando las transferencias que hacen otros vendedores habituales de inmuebles nuevos, que no estaban considerados en la norma anterior, la cual estaba restringida sólo a aquellos inmuebles de propiedad de una empresa constructora, construidos totalmente por ella, o en parte por un tercero para ella. Se incorpora también y por consiguiente se grava con IVA, la venta de inmuebles usados, realizada por un vendedor habitual de ellos.
+
+Luego, en opinión de este Servicio, las modificaciones que hacen las leyes N° 20.780 y 20.899, a los N° 1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974, consisten en incorporar al hecho gravado venta, en general, la venta de inmuebles nuevos o usados, no importando si éstos fueron construidos por el propio vendedor o si dichos bienes fueron construidos por un tercero y adquiridos para la venta, por quien tiene la calidad de vendedor habitual de dichos bienes.
+
+En otros términos, lo que se incorpora por las Leyes N° 20.780 y 20.899, a las transferencias de inmuebles, nuevos o usados, es el gravamen con IVA de la parte construida del bien -ya que la norma excluye expresamente del hecho gravado a los terrenos incluidos en la operación-, en las distintas etapas de comercialización de los bienes hasta el usuario final, siempre que dichas trasferencias sean realizadas por un vendedor habitual de ellos. Así las cosas, para que se configure el hecho gravado con el Impuesto a las Ventas y servicios, tratándose de venta de inmuebles, la respetiva operación debe recaer sobre un inmueble construido.
+
+Ahora bien, si respecto de los inmuebles señalados precedentemente, se constituyen derechos reales, su constitución no se encontrará gravada con el Impuesto al Valor Agregado, pero la transferencia del derecho real que exista sobre sobre dichos bienes, a raíz de la modificación de la ley, se encontrará gravada con el impuesto, en la medida que la venta sea hecha por un vendedor habitual de bienes inmuebles.
+
+III.- CONCLUSIÓN:
+
+En respuesta a su consulta, la transferencia de una concesión minera, que es un derecho real constituido sobre un bien inmueble, no se encuentra gravada con IVA, en consideración a que el bien sobre el que está constituido dicho derecho, no corresponde a aquellos inmuebles construidos, nuevos o usados, cuya transferencia por vendedores habituales, se encuentra gravada con el impuesto.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1440, de 24.05.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

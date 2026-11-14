@@ -1,0 +1,66 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2402 (2014)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 20.780, DE 2014, ART 3°. (ORD. N° 2402, DE 22.12.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2402.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2402.doc"
+materia: "renta"
+fecha: "2014-12-22"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 20.780, DE 2014, ART 3°. (ORD. N° 2402, DE 22.12.2014)
+
+APLICACIÓN DEL INCISO CUARTO DEL ARTÍCULO 3° DE LA LEY N° 20.780 EN EL CASO DE CAMIONETAS NUEVAS DE HASTA 2.000 KILOS DE CAPACIDAD DE CARGA ÚTIL COMERCIALIZADAS BAJO MODALIDAD DE LEASING.
+
+I ANTECEDENTES
+Señala que esa Subsecretaría ha recibido diversas consultas sobre la aplicación del nuevo impuesto a los vehículos motorizados, establecido en el artículo 3° de la Ley N° 20.780, sobre reforma tributaria.
+Específicamente consulta sobre la aplicación del inciso cuarto del referido precepto legal en el caso de contribuyentes afectos al Impuesto al Valor Agregado, respecto de la adquisición de camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil, siempre que pasen a formar parte del activo inmovilizado de contribuyentes y que comercializan las camionetas bajo la modalidad de contratos de leasing.
+En general, prosigue la consulta, las dudas dicen relación con la procedencia del hecho no gravado en la modalidad de contratos de leasing, la forma de solicitar la no aplicación del impuesto en estos casos, y otras cuestiones que se deban tomar en consideración.
+Dada la inminencia de su entrada en vigencia, solicita se responda la consulta a la brevedad.
+
+II ANÁLISIS
+El artículo 3°, de la Ley N° 20.780, dispone que sin perjuicio del impuesto establecido en el Título II del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, los vehículos motorizados nuevos, livianos y medianos, con las excepciones establecidas en el mismo artículo, pagarán, por una única vez, un impuesto adicional expresado en unidades tributarias mensuales conforme a la fórmula que se establece al efecto.
+Por su parte, el inciso cuarto – cuya aplicación se solicita aclarar – dispone lo siguiente: “El impuesto establecido en este artículo no se aplicará tratándose de vehículos motorizados destinados al transporte de pasajeros, con capacidad de más de 9 asientos, incluido el del conductor, y vehículos que estén destinados a prestar servicios de taxi en cualquiera de sus modalidades; ni respecto de camiones, camionetas y furgones de 2.000 o más kilos de capacidad de carga útil, ni a furgones cerrados de menor capacidad. Tampoco se aplicará, tratándose de contribuyentes afectos al impuesto al valor agregado, respecto de la adquisición de camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil, siempre que pasen a formar parte del activo inmovilizado del contribuyente. En el caso que el contribuyente enajene estas camionetas, dentro del plazo de veinticuatro meses contados desde su adquisición, deberá pagar el monto correspondiente al impuesto que debería haber enterado en caso de no favorecerle la exención.”
+Como puede apreciarse, entre los diversos casos liberados de aplicar el impuesto adicional en comento se establece la siguiente hipótesis, cuyos requisitos de procedencia son:
+a) Que se trate de camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil,
+b) Adquiridas por contribuyentes afectos al impuesto al valor agregado, y
+c) Siempre que las camionetas pasen a formar parte del activo inmovilizado del contribuyente.
+De lo anterior y en relación a su consulta, corresponde analizar los requisitos señalados en las letras b) y c) anteriores.
+Respecto de la palabra “adquisición”, y tal como este Servicio ha resuelto en otras oportunidades, debe entenderse que el “adquirente” de las camionetas es la persona titular de las mismas o en cuyo patrimonio se radican . En otras palabras, las camionetas se adquieren en la medida que el contribuyente esgrima un título traslaticio de dominio, seguida de la tradición o entrega en dominio del bien, de suerte que se incorporan a su patrimonio. En este caso, las camionetas son adquiridas por las empresas de leasing o empresas que las adquieren para entregarlas en arriendo.
+En lo que respecta al requisito señalado en la letra c), cabe señalar que, de acuerdo a un criterio reiteradamente sostenido por este Servicio, los bienes corporales muebles o inmuebles adquiridos con ánimo de ser arrendados deben ser clasificados como bienes del activo inmovilizado de la empresa que los cede en arrendamiento, independientemente que, en forma eventual, dichos bienes sean posteriormente vendidos ya sea por el ejercicio de una opción de compra, o bien porque ya no son susceptibles de ser arrendados debido a su deterioro u obsolescencia.
+
+Conforme lo expuesto, y en el caso de las empresas de leasing o de empresas que adquieren camionetas para entregarlas en arriendo, puede concluirse que, en principio, no se les aplicará el impuesto en la medida que cumplan los siguientes requisitos:
+
+a) Que las camionetas sean adquiridas por empresas de leasing o empresas que adquieran camionetas para entregarlas en arriendo,
+b) Se incorporen en el activo inmovilizado de las referidas empresas, esto es, que sean utilizadas para generar ingresos del giro de su negocio,
+c) En la medida que se dedican a entregar en arriendo bienes corporales muebles, incurriendo en un hecho gravado especial de la Ley sobre Impuesto a las Ventas y Servicios, las referidas empresas de leasing o de empresas que adquieren camionetas para entregarlas en arriendo cumplen el requisito de ser contribuyentes afectos a dicho impuesto.
+Ahora bien, y sin perjuicio de lo anterior, del conjunto de hipótesis señaladas por el artículo 3°, inciso cuarto, de la Ley N° 20.780, fluye que el beneficio está dirigido exclusivamente a la adquisición de vehículos de trabajo destinados a desarrollar actividades productivas gravadas con impuestos y, en el caso particular de las camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil, a ser empleadas por contribuyentes afectos al impuesto al valor agregado.
+Conforme lo anterior, se concluye que para que se entiendan cumplidos los requisitos de procedencia y finalidades del beneficio en comento, las camionetas adquiridas nuevas por empresas de leasing deben ser entregadas en arriendo a contribuyentes afectos al impuesto al valor agregado. Luego, si el arrendatario no tiene la calidad de contribuyente de IVA, la empresa de leasing deberá declarar y pagar el impuesto adicional, conforme las reglas generales.
+Para los efectos de controlar el requisito anterior, este Servicio determinará, mediante resolución, la forma de hacer efectivo el beneficio, sin perjuicio de fiscalizar el cumplimiento de los requisitos señalados y su correcta aplicación.
+Finalmente, se hace presente que, como lo dispone la norma en comento, en caso que la empresa de leasing enajene las camionetas dentro del plazo de veinticuatro meses contados desde su adquisición, la propia empresa de leasing será responsable de pagar el monto correspondiente al impuesto que debería haber enterado en caso de no favorecerle la exención.
+
+III CONCLUSIÓN
+Conforme lo expuesto precedentemente, y respecto de la situación específica consultada, se aclara que no procede aplicar el impuesto adicional establecido en el artículo 3° de la Ley N° 20.780 en caso que:
+a) Se trate de camionetas nuevas de hasta 2.000 kilos de capacidad de carga útil,
+b) Adquiridas por empresas de leasing o empresas que las adquieran para entregarlas en arriendo, y que sean contribuyentes afectas al impuesto al valor agregado,
+c) Siempre que las camionetas pasen a formar parte del activo inmovilizado de las referidas empresas; y
+d) Las camionetas sean entregadas en arriendo a contribuyentes afectos al impuesto al valor agregado.
+Respecto de la forma en que se hará efectivo el beneficio así como los demás requisitos de control y fiscalización serán establecidos oportunamente mediante resolución dictada al efecto por este Servicio.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 2402, de 22.12.2014
+Subdirección Normativa
+Dpto. de Técnica Tributaria

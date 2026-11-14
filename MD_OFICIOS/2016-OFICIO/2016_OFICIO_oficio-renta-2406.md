@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2406 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, ART. 43 – DECRETO LEY N° 3.500, DE 1980, ART. 16, ART. 18, ART. 84. (ORD. N° 2406, DE 26.08.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2406.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2406.doc"
+materia: "renta"
+fecha: "2016-08-26"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42, N°1, ART. 43 – DECRETO LEY N° 3.500, DE 1980, ART. 16, ART. 18, ART. 84. (ORD. N° 2406, DE 26.08.2016)
+
+TRATAMIENTO TRIBUTARIO, EN RELACIÓN A LA APLICACIÓN DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA, DE LA COTIZACIÓN ADICIONAL DE SALUD, SUPERIOR A LA MÍNIMA LEGAL DE 7%.
+
+Se ha requerido a este Servicio un pronunciamiento sobre el tratamiento tributario, en relación a la aplicación del Impuesto Único de Segunda Categoría, de la cotización adicional de salud, superior a la legal de 7%.
+
+I.- ANTECEDENTES.
+
+Mediante presentación efectuada a través del procedimiento de acceso a la información pública, previsto en la Ley N°20.285 se ha requerido a este Servicio, a propósito de un certificado emitido por su AFP, resolver si la cotización adicional de salud (superior al 7%) aplicada a una pensión o renta INFERIOR a 74,3 Unidades de Fomento, es tributable, o si sólo aplica el límite de 5,201 UF.
+
+A su entender, así se desprendería del Oficio N° 2.988, de 16.08.2005.
+En atención a que la materia consultada queda fuera del ámbito de aplicación de la Ley N° 20.285, como se expresó en la Resolución Ex. indicada en el antecedente, se declaró inadmisible la solicitud para ser resuelta según los plazos y procedimiento establecidos en la referida Ley. Sin perjuicio de lo anterior, a continuación se responde su consulta en virtud de la facultad contenida en el artículo 6°, letra A, N° 1, del Código Tributario.
+
+II.- ANÁLISIS.
+
+1.- Cabe señalar en primer término que, conforme al artículo 42 N°1 de la Ley sobre Impuesto a la Renta (LIR), se encuentran gravados con Impuesto Único de Segunda Categoría (establecido en el artículo 43 del mismo texto legal), los sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y pensiones, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cantidades percibidas por concepto de gastos de representación.
+Por su parte, el artículo 18 del DL N° 3.500 de 1980, dispone que aquella parte de la remuneración y renta imponible destinada al pago de las cotizaciones para salud que los trabajadores efectúen de conformidad con el artículo 84 de dicho texto legal debe entenderse comprendida dentro de las excepciones que contempla el N°1 del artículo 42 de la LIR.
+
+El inciso 3°, del artículo 84 del D.L. N° 3.500, añade que los trabajadores afiliados al régimen de previsión del citado texto legal, podrán aportar la cotización del siete por ciento de sus remuneraciones imponibles, o una superior, a alguna institución o entidad que otorgue al trabajador las prestaciones y beneficios de salud. Cuando el trabajador opte por efectuar una cotización mensual superior al siete por ciento, deberá comunicarlo por escrito al empleador, quien deberá descontarla de las remuneraciones. Esta cotización gozará de la exención establecida en el artículo 18, hasta un valor máximo equivalente al siete por ciento del límite imponible que resulte de aplicar el artículo 16, considerando el valor de la unidad de fomento al último día del mes anterior al pago de la cotización correspondiente.
+
+Finalmente, el precitado artículo 16 establece que la remuneración y renta mensual tendrán un límite máximo imponible de sesenta unidades de fomento la que se reajustará en la forma que contempla esa norma legal. Agrega la misma disposición legal que el tope imponible así reajustado, comenzará a regir el primer día de cada año y será determinado mediante resolución de la Superintendencia de Pensiones.
+
+2.- En consecuencia, de acuerdo a lo dispuesto por el inciso 3°, del artículo 84, del D.L. N° 3.500, citado en el N° 1 anterior, cuando un trabajador opte por efectuar una cotización mensual superior al siete por ciento de sus remuneraciones imponibles, también se comprenderá dentro de las excepciones que establece el artículo 18 del mismo texto legal, hasta un valor máximo equivalente al siete por ciento del límite imponible que resulte de aplicar el artículo 16, considerando el valor de la Unidad de Fomento al último día del mes anterior al pago de la cotización correspondiente.
+
+En otras palabras, dicho tope, esto es, el siete por ciento del límite imponible, comprende tanto la cotización legal obligatoria, como la adicional que el trabajador haya optado por efectuar; beneficiándose ambas cotizaciones, hasta el tope indicado, de la excepción que contempla el Nº 1 del artículo 42º de la LIR; en el sentido que dichos valores deberán descontarse de las remuneraciones para los efectos del cálculo del Impuesto Único de Segunda Categoría establecida en el artículo 42, N° 1, en relación al artículo 43, N° 1, del mismo texto legal.
+
+De esta forma, toda cotización efectuada por sobre el límite mencionado, no se puede descontar de las rentas afectas a dicho impuesto; y por lo tanto deben considerarse para los efectos del cálculo del Impuesto Único a los trabajadores.
+
+III.- CONCLUSIÓN.
+
+Por consiguiente, si un afiliado efectúa una cotización voluntaria de salud sobre el siete por ciento obligatorio de las remuneraciones imponibles, ambas se podrán descontar de las rentas afectas al Impuesto Único de Segunda Categoría, solo respecto de la suma que no exceda del siete por ciento del límite imponible, vigente de acuerdo a Resolución de la Superintendencia de Pensiones; considerando el valor de la Unidad de Fomento al último día del mes anterior al pago de la cotización correspondiente.
+
+Toda cotización efectuada por sobre el límite mencionado, no se puede descontar de las rentas afectas a dicho impuesto; y por lo tanto deben considerarse para los efectos del cálculo del Impuesto Único a los trabajadores.
+
+VÍCTOR VILLALÓN MÉNDEZ
+DIRECTOR (S)
+
+Oficio N° 2406, de 26.08.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

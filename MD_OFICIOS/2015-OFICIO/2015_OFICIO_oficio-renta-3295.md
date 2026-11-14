@@ -1,0 +1,87 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 3295 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°5 – DECRETO LEY N° 1089, DE 1975 – RESOLUCIÓN EXENTA N° 43, DE 2002 – OFICIO N° 188, DE 2014. (ORD. N° 3..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3295.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja3295.doc"
+materia: "renta"
+fecha: "2015-12-29"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el N° 5, del artículo 31 de la Ley sobre Impuesto a la Renta"]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31°, N°5 – DECRETO LEY N° 1089, DE 1975 – RESOLUCIÓN EXENTA N° 43, DE 2002 – OFICIO N° 188, DE 2014. (ORD. N° 3295, DE 29.12.2015)
+
+SOLICITA CONFIRMAR CRITERIOS APLICABLES A UN ACUERDO DE OPERACIÓN CONJUNTA SUSCRITO PARA LA EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS.
+
+Se ha remitido a esta Dirección Nacional la presentación efectuada por YYYY, que solicita confirmar la aplicación de una serie de criterios al acuerdo de operación conjunta que acompaña, suscrito para la exploración y explotación de hidrocarburos.
+I ANTECEDENTES
+Por medio de los Ordinarios indicados en el antecedente, se ha remitido a esta Dirección Nacional la presentación del contribuyente YYYY, en virtud de la cual, y tras citar distintos pronunciamientos de este Servicio sobre la materia, solicita se confirme que son aplicables al contrato de operación conjunta que acompaña los criterios referidos más adelante.
+En su presentación el peticionario señala que mediante escritura pública de fecha 04.04.2012, TTT e YYYY (conjuntamente denominadas el “Contratista”) celebraron con el Estado de Chile un Contrato Especial de Operación para la Exploración y Explotación de Yacimientos de Hidrocarburos (en adelante “CEOP”), en virtud del cual se facultó al Contratista a desarrollar operaciones petroleras en el área denominada “AAAA” ubicado en la XII Región, en conformidad con lo establecido en el DL N° 1.089 de 1975 y de acuerdo a los requisitos y condiciones establecidos mediante el DS N° 125 del Ministerio de Energía, de fecha 06.12.2011 y publicado en el Diario Oficial de fecha 07.03.2012.
+Por su parte, a fin de regular la relación entre los partícipes del CEOP, sus integrantes (TTT e YYYY) celebraron con fecha xx.xx.xxx un acuerdo de actuación conjunta denominado “Joint Operating Agreement Covering: AAAA” (en adelante “JOA”), cuya copia traducida se adjuntó a la presentación (denominado como “convenio de Operación Conjunta”). En lo que interesa, las cláusulas más relevantes del acuerdo JOA disponen lo siguiente.
+La cláusula 3.2 establece que TTT participa en un 50% e YYYY en el 50% restante.
+La cláusula 3.3 letra D) dispone que exclusivamente y en la medida que TTT (o cualquier afiliada de TTT) continúe siendo parte del CEOP, YYYY se hará cargo de todos los costos, gastos, obligaciones y responsabilidades que surjan del convenio y/o el CEOP, adjudicados a TTT, incluidos los costos, gastos, obligaciones y responsabilidades que superen las obligaciones mínimas de trabajo y/o cualquier otro gasto en ocasión del cumplimiento de las obligaciones y los términos contenidos en el contrato que se relacionen exclusivamente con el Primer Período de Exploración.
+En la cláusula 4.1 del referido contrato, se establece que YYYY actuará como operador del JOA y, en tal calidad, conducirá todas las operaciones conjuntas en conformidad al convenio.
+En la cláusula 14.1 señala que las partes no tienen la intención de crear, ni se considera ni interpreta que el convenio crea una asociación minera o de otro tipo, ni un joint venture o asociación (salvo que se disponga expresamente en el convenio) ni un fideicomiso.
+La cláusula 14.2 establece que cada parte será responsable de declarar y pagar sus propios impuestos, determinados por las ganancias o ingresos de la misma, y el cumplimiento de las obligaciones contractuales de dicha parte en virtud del contrato y del convenio.
+Agrega este mismo artículo, que las partes tienen la intención de que todas las ganancias y los beneficios fiscales (incluyendo las deducciones, depreciación, créditos y capitalización) con respecto a los gastos efectuados por las partes conforme al convenio, sean asignados por las autoridades fiscales del Gobierno a las partes sobre la base de la porción de cada concepto impositivo efectivamente recibida o soportada por cada parte.
+II ANÁLISIS
+
+Tras exponer diversos pronunciamientos de este Servicio relativos a la figura del joint venture en contratos de similar naturaleza celebrados por el Estado de Chile para la exploración y explotación de yacimientos de hidrocarburos, conforme las disposiciones contenidas en el DL N° 1.089 de 1975, a continuación se confirman los criterios tributarios en el mismo orden y numeración expuestos en la presentación del contribuyente, en cuanto corresponda:
+a) La asociación entre YYYY y TTT no constituye en sí misma una entidad o contribuyente de impuestos independiente a los partícipes, de modo que cada partícipe mantiene su calidad de contribuyente individual.
+b) El operador deberá llevar la contabilidad por el total de los costos y/o gastos incurridos en las etapas u operaciones de exploración y explotación que se desarrollen conjuntamente. Esta contabilidad deberá registrar además todos los traspasos de dichos gastos y/o costos que se hagan a los partícipes del Contrato.
+Los libros de contabilidad de la asociación o joint venture, deberán llevarse y ser mantenidos en el domicilio del operador.
+c) Respecto de los bienes del activo inmovilizado adquiridos para el desarrollo de la operación, se entiende que siendo copropietarios los partícipes del acuerdo, la depreciación deberán hacerla efectiva de acuerdo a la cuota de dominio que cada asociado tenga sobre los bienes; cuota de depreciación que en todo caso deberá ser consistente con el porcentaje de los ingresos que se estén reconociendo en el mismo período.
+En cuanto a la posibilidad de aplicar el mecanismo de depreciación acelerada, este Servicio ya ha señalado que cada parte en el joint venture deberá ser considerada como copropietaria y cada una determinará el monto de su depreciación según el artículo 31 N° 5, de la LIR, separadamente y conforme a la proporción de dicha parte en la propiedad de tales bienes.
+Cualquier activo inmovilizado adquirido en relación con Operaciones Petroleras será depreciado conforme al método de línea recta sin valor residual y a elección de cada partícipe del contratista podrá usar depreciación acelerada.
+Podrán aplicar la depreciación acelerada siempre que se cumplan los requisitos previstos en el N° 5, del artículo 31 de la Ley sobre Impuesto a la Renta.
+Con la autorización previa del Director Regional, cada partícipe del contratista puede elegir el sistema especial de depreciación especificado en el artículo 31 N° 5, de la LIR.
+Los años de vida útil de los bienes tanto para los fines de la depreciación normal como acelerada, son los establecidos en la Resolución Exenta N° 43 de 2002 de este Servicio.
+En todo caso, cabe entender que los bienes son adquiridos nuevos por los partícipes cuando efectivamente hayan sido adquiridos en tal calidad por el mandatario u operador.
+d) Sin perjuicio que el Director Regional de la Dirección Regional Santiago Norte dicte el acto administrativo correspondiente, se precisa que – en rigor – el Director Regional no “establece” las normas que deben ser aplicadas al régimen impositivo o de gravámenes que ha de regir al Contratista, pues éstas se encuentran establecidas por ley.
+Al respecto, se informa que el Contratista goza de los derechos y está sujeto a las obligaciones contempladas en el DL N° 1.089, de 1975, y sus modificaciones posteriores, así como al DS N° 125 del Ministerio de Energía, de fecha 06.12.2011, publicado en el Diario Oficial de fecha 07.03.2012.
+e) En cuanto a los criterios que se solicita confirmar en la letra e) de la presentación del contribuyente, a continuación se precisa lo siguiente:
+1. En lo que respecta al procedimiento que el operador deba seguir para la emisión de las correspondientes liquidaciones mensuales, se aplicarán las siguientes reglas.
+El operador deberá confeccionar por separado y remitir a cada partícipe una liquidación mensual sobre los gastos incurridos, dentro del plazo de los ocho primeros días del mes siguiente al de aquél que los motiva. La citada liquidación deberá efectuarse en dos formularios distintos detallando en uno de ellos todos aquellos gastos en que se soportó el Impuesto al Valor Agregado y además los que traten de adquisiciones de especies o utilización de servicios exentos o no afectos a dicho gravamen, y en el otro formulario los gastos restantes o costos de la operación que por su naturaleza no se encuentren afectados por el Impuesto al Valor Agregado. Tratándose de los gastos originados en el pago de remuneraciones, bastará con que se anote en la citada cuenta la suma global de dichos gastos extrayendo la cantidad en forma proporcional según la convención, del total registrado en el correspondiente libro de remuneraciones.
+Las Liquidaciones deberán cumplir con los siguientes requisitos:
+i. Indicar en forma impresa el nombre, RUT, domicilio del operador señalando su actuación por sí y por cuenta del mandante.
+ii. Indicar en forma impresa el nombre, RUT, y domicilio del partícipe del joint venture a quien se le rinde la cuenta.
+iii. En el caso de adquisiciones de especies o de utilización de servicios realizados a través de la asociación, deberá indicarse el nombre y RUT del proveedor o del prestador del servicio, N° y fecha de la factura, valores netos, gravados o exentos, e impuesto, si procediere, en columnas separadas.
+iv. Tratándose de otro tipo de gastos, deberá indicarse el detalle de la operación que los motiva con el máximo de especificaciones.
+v. Tanto en el caso del numeral iii) como iv), deberá acompañarse a la liquidación, fotocopia de la documentación correspondiente, siendo insuficiente, para tales efectos, que el sustento documental de tales gastos corresponda sólo a una imagen en archivo electrónico.
+vi. Señalar la proporción del gasto que corresponda al asociado en particular, con indicación del valor respectivo.
+vii. Deberá indicarse que dicha liquidación no da cuenta de una transferencia sino que es emitida en cumplimiento del contrato de mandato celebrado entre las partes.
+viii. Los documentos que contienen la liquidación a que se refieren las letras anteriores, deberán estar numerados correlativamente y estar timbrados por el Servicio de Impuestos Internos. Además, en cada una de las liquidaciones deberá dejarse constancia del número y fecha del presente oficio que autoriza su emisión.
+2. En lo que respecta al uso del crédito fiscal del Impuesto al Valor Agregado, cada partícipe podrá imputar a su débito fiscal el Impuesto al Valor Agregado registrado en la liquidación-factura a que se refiere el número anterior, dentro de los plazos legales y en la proporción que le corresponda.
+3. En cuanto a la posibilidad que tendría cada partícipe de optar por imputar a su débito fiscal el crédito fiscal IVA registrado en las liquidaciones-factura en la proporción indicada precedentemente o, en cambio, solicitar la devolución de la totalidad del crédito fiscal que le corresponde ante la Tesorería General de la República, cabe señalar lo siguiente.
+En la presentación del contribuyente se indica que el procedimiento se encontraría contenido en el Oficio N° 162 de 2010, sin precisar que dicho Oficio emana de la Dirección Regional de Punta Arenas (no de esta Dirección Nacional) y resuelve una solicitud presentada por otro contribuyente.
+Por otra parte, respecto de la Circular N° 20 de 2011, de la Tesorería General de la República, referida en la presentación del contribuyente– que regula la devolución de IVA a empresas que tienen con el estado contratos de exploración y explotación de yacimientos de hidrocarburos, DFL N° 2 del Ministerio de Minería, de 1986, y sus modificaciones posteriores – enumera nominativamente a las empresas “destinatarias” del referido procedimiento de devolución, entre las cuales no menciona a YYYY, por lo que corresponde a la Tesorería General de la República dictar el acto administrativo correspondiente e incluir nominativamente a YYYY en la nómina de empresas destinatarias.
+Sin perjuicio de lo anterior, se hace presente que el artículo 19 del decreto N° 125 del Ministerio de Energía, de 06.12.2011, publicado en el Diario Oficial de fecha 07.03.2012, establece expresamente que el contratista tiene derecho a recuperar el Impuesto al Valor Agregado regulado en el decreto ley N° 825, de 1974, y sus modificaciones posteriores, que soporte o pague al adquirir o importar bienes o utilizar servicios destinados a la actividad que constituye el objeto del Contrato, con sujeción a lo previsto en el artículo 23, con excepción de lo prescrito en sus números 2 y 3, del mencionado precepto legal.
+La recuperación señalada en el párrafo anterior se sujeta al procedimiento y requisitos que el mismo decreto describe, mandatando a la Tesorería General de la República, por intermedio de la oficina respectiva, girar el cheque correspondiente, a la orden del Contratista y entregarlo dentro de cierto plazo.
+El mismo decreto referido dispone que el Contratista debe cumplir todas y cada una de las disposiciones del decreto ley N° 825, de 1974, y sus modificaciones posteriores, salvo las excepciones que el mismo decreto menciona, y, en todo caso, deberá conservar en su poder las facturas, informes de importaciones y/o comprobantes de utilización de servicios. Asimismo, deberá registrar en el libro de compras y ventas todas las adquisiciones, importaciones y servicios utilizados por su monto neto y, separadamente, el impuesto al valor agregado respectivo.
+Conforme lo expuesto y lo informado por la Subdirección de Fiscalización , en consecuencia, no se advierte impedimento legal ni de control para que cada partícipe pueda optar por imputar a su débito fiscal el crédito fiscal IVA registrado en las liquidaciones-factura en la proporción indicada precedentemente o, en cambio, solicitar la devolución de la totalidad del crédito fiscal que le corresponda ante la Tesorería General de la República.
+4. Respecto de las consultas referidas en los numerales iv) y v), letra e), de la presentación del contribuyente, relativas a los requisitos de las liquidaciones-factura y su registro respectivamente, remítase a lo señalado en el número 1, letra e), anterior.
+f) En lo que respecta a la forma de llevar la contabilidad en silencio del CEOP, del JOA, la Ley sobre Impuesto a la Renta, Código Tributario u otros textos legales, el operador y partícipe deberán adecuarse, según este Servicio ya ha instruido , a los principios contables generalmente aceptados.
+g) En lo referente a la solicitud de autorización para declarar en forma separada los resultados tributarios determinados por las operaciones sujetas al régimen general afectas a una tasa de Impuesto de Primera Categoría de 21% y mediante otra declaración presentada en Formulario 22 en formato papel, los resultados tributarios generados por operaciones sujetas al régimen especial del CEOP con tasa de 17%, se informa que no procede efectuar dos declaraciones de impuestos para el mismo contribuyente, por el mismo año tributario y que ambas queden vigentes.
+Por lo anterior, y sin perjuicio de las instrucciones entregadas para el año tributario 2015, se efectuarán las modificaciones necesarias para que en los años siguientes el Formulario 22 contemple la posibilidad de declarar la situación que se plantea.
+Respecto del año tributario 2015 (y sólo para ese año), la Subdirección de Fiscalización instruyó que en el Formulario 22, formato papel, código 18 sobre “base imponible”, el contribuyente debió registrar el monto total de los ingresos, el que debe coincidir con el código 643 del reverso del mismo formulario. Luego, en el código 19 del formulario, bajo el título “rebajas al impuesto” debió registrarse el monto de la rebaja del impuesto que permita hacer coincidir el resultado final que se despliega automáticamente en el código 20, con el impuesto que le corresponde pagar. En forma posterior a la presentación de la declaración de rentas, el contribuyente debe enviar a la Dirección Regional una hoja de trabajo con la correcta determinación de las rebajas legales correspondientes.
+
+III CONCLUSIÓN
+
+Establecido que el contrato acompañado reproduce el contenido de otros contratos de similar naturaleza celebrados por el Estado de Chile para la exploración y explotación de yacimientos de hidrocarburos conforme las disposiciones contenidas en el DL N° 1.089 de 1975, respecto de los cuales este Servicio ya ha tenido oportunidad de pronunciarse, se confirma la aplicación de los criterios tributarios indicados en la presentación y expuestos precedentemente, sin perjuicio de complementarlos con las instrucciones últimamente señaladas en el Oficio N° 188 de 2014, en lo pertinente.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 3295, de 29.12.2015
+Subdirección Normativa
+Dpto. de Técnica Tributaria

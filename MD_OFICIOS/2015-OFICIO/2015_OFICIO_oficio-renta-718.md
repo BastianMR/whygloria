@@ -1,0 +1,57 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 718 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N°1, ART. 43°, N°1, ART. 54° BIS – D.L. N° 3.500 DE 1980, ART. 18°, ART. 21°, ART. 22°. (ORD. N° 718, DE 0..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja718.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja718.doc"
+materia: "renta"
+fecha: "2015-03-09"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42°, N°1, ART. 43°, N°1, ART. 54° BIS – D.L. N° 3.500 DE 1980, ART. 18°, ART. 21°, ART. 22°. (ORD. N° 718, DE 09.03.2015)
+
+SITUACIÓN TRIBUTARIA DE LAS PENSIONES, EN CASO QUE UNA PARTE DE ELLAS SE ORIGINEN EN FONDOS TRASPASADOS DESDE LAS CUENTAS DE AHORRO VOLUNTARIO, QUE HUBIERAN ESTADO ACOGIDAS AL ARTÍCULO 54 BIS DE LA LEY SOBRE IMPUESTO A LA RENTA.
+
+I.- ANTECEDENTES.
+
+Señala que de acuerdo al inciso final, del artículo 22, del Decreto Ley N° 3.500 de 1980, todo depósito efectuado en una CAV acogida a un régimen de tributación distinto al establecido en la letra A.-, del artículo 57 bis de la LIR, se debe rebajar del total de la pensión para el cálculo del Impuesto Único de Segunda Categoría, debido a que dicho depósito ya tributó.
+
+Agrega que la Ley N° 20.780 incorporó a la LIR, a contar del 1° de octubre de 2014, el artículo 54 bis , creando un nuevo régimen tributario aplicable a los instrumentos que señala dicha disposición, así como a los demás instrumentos que determine el Ministerio de Hacienda; organismo que estableció que pueden acogerse al régimen que contempla esa norma legal, entre otros, las inversiones en una CAV establecida en el artículo 21, del D. L. N° 3.500, sobre Sistema de Pensiones.
+
+Por consiguiente, a su juicio, a los depósitos en una CAV, acogidos al nuevo régimen tributario contemplado en el artículo 54 bis de la LIR, les sería aplicable lo establecido en el inciso final del artículo 22, del Decreto Ley N° 3.500, esto es, el capital correspondiente a esos depósitos, debería rebajarse de la base afecta al Impuesto Único de Segunda Categoría, cuando se destinen a mejorar o anticipar la pensión, toda vez que ya cumplieron con dicha tributación, sin perjuicio del impuesto aplicable a la rentabilidad que provenga de dichos depósitos.
+
+II.- ANÁLISIS.
+
+El tratamiento tributario de las CAV que los trabajadores mantienen abiertas en las Administradoras de Fondos de Pensiones (AFP), está establecida en los artículos 21 y 22 del D.L. N° 3.500 de 1980, en relación con el inciso 2°, del N° 1, del artículo 42 de la LIR.
+
+El artículo 21 del D.L. N°3.500, establece al respecto que los trabajadores pueden voluntariamente efectuar depósitos en las cuenta de ahorro que abran en las AFP, las que no tendrán el carácter de cotizaciones previsionales para los efectos de la LIR. Por su parte, el inciso 1°, del artículo 22 del mismo texto legal, establece que los afiliados podrán optar por traspasar todo o parte de los fondos de su CAV a la de capitalización individual, con el objeto de cumplir con los requisitos para pensionarse según las disposiciones de dicha ley. Agrega el referido precepto que, asimismo, los pensionados podrán utilizar todo o parte del saldo de la CAV para incrementar el monto de su pensión, sin que tales traspasos se consideren giro para los fines del artículo 21.
+
+Por su parte, la Ley N° 20.552, agregó un nuevo inciso final, al artículo 22 del D.L. N°3.500 de 1980, e incorporó un nuevo inciso 2°, al N° 1, del artículo 42 de la LIR; los que tienen por objeto solucionar la doble tributación que se producía al destinarse los depósitos efectuados en una CAV a anticipar o mejorar la pensión, cuando los mismos no se habían acogido a lo dispuesto en el artículo 57 bis de la LIR; al establecer que, para los efectos de aplicar el impuesto contemplado en el artículo 43 N°1, de la citada Ley, se rebajará de la base imponible de dicho tributo, el monto que resulte de aplicar a dicha pensión el porcentaje que, en el total del fondo destinada a aquélla, representen tales depósitos. El saldo respectivo será determinado por la AFP registrando separadamente el capital invertido, expresado en unidades tributarias mensuales, el que corresponderá a la diferencia entre los depósitos y los retiros netos, convertidos cada uno de ellos al valor que tenga dicha unidad en el mes que se efectúen estas operaciones.
+
+Por su parte, el nuevo artículo 54 bis de la LIR , establece un incentivo tributario al ahorro e inversión en determinados instrumentos financieros, en tanto se cumplan los requisitos establecidos al efecto; consistente en que los intereses, dividendos y demás rendimientos provenientes de los instrumentos que indica no se considerarán percibidos para los efectos de gravarlos con el Impuesto Global Complementario, en tanto no sean retirados por el contribuyente y permanezcan ahorrados en instrumentos del mismo tipo emitidos por las instituciones señaladas. Vale decir, esta norma legal permite que los contribuyentes posterguen el pago del referido impuesto respecto de los intereses y demás rentabilidades derivados de los instrumentos de ahorro e inversión que contempla esta norma legal, hasta que estos sean efectivamente retirados de la respectiva institución. Tal como lo indica en su presentación, mediante Decreto Supremo N° 1.539 de 2014, el Ministerio de Hacienda determinó que dentro de los instrumentos elegibles para acogerse a esta norma legal, están las CAV establecidas en el artículo 21 del D.L. N° 3.500.
+
+Por lo tanto, de la interpretación armónica de las disposiciones legales citadas se puede concluir que en el caso de los depósitos efectuados en una CAV que se hubieran acogido a lo dispuesto en el nuevo artículo 54 bis de la LIR, y que se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, y para evitar el efecto de una doble tributación, cuando dichos fondos se retiren, se debe deducir de la base imponible afecta a este impuesto el monto del capital correspondiente a dichos depósitos, siendo plenamente aplicable lo dispuesto en el inciso final, del artículo 22 de D.L. N° 3.500 y en el inciso 2°, del N° 1, del artículo 42 de la LIR. Lo anterior, sin perjuicio de la tributación que afecta a los intereses o rentabilidades correspondientes a los respectivos depósitos efectuados en una CAV, acogidos a las normas del artículo 54 bis de la LlR, los que al ser percibidos como parte de la pensión, se gravan con los impuestos que a ésta le afectan.
+
+III.- CONCLUSIONES.
+
+De acuerdo a lo señalado, sólo cabe confirmar el criterio que indica en su presentación, en cuanto a que los depósitos efectuados en una CAV, que se hubieran acogido al régimen tributario establecido en el nuevo artículo 54 bis de la LIR, y que se hubieran destinado a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43 de la LIR, se deberán rebajar el capital correspondiente a tales depósitos de la base de dicho tributo, en el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a ella representen tales depósitos.
+
+Lo anterior, es sin perjuicio de que los intereses o rentabilidades correspondientes a los respectivos depósitos efectuados en una CAV, acogidos a las normas del artículo 54 bis de la LlR y que se hubiera incorporado a la cuenta de capitalización individual, queden sujetos a las normas tributarias generales de la LIR cuando éstos recursos sean retirados, en este caso al momento de percibirse el pago de la pensión respectiva; quedando gravados por consiguiente con el Impuesto Único de Segunda Categoría, según lo dispuesto por el inciso final del artículo 18, del D.L. N° 3.500, en concordancia con lo establecido en el N° 1, del artículo 42 y en el N° 1, del artículo 43, ambos de la LlR.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T Y P)
+
+Oficio N° 718, de 09.03.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos.

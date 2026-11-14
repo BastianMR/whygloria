@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 191 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 30°, ART. 31° – OFICIO N° 3747, DE 1999. (ORD. N° 191, DE 31.01.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja191.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja191.doc"
+materia: "renta"
+fecha: "2014-01-31"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 30°, ART. 31° – OFICIO N° 3747, DE 1999. (ORD. N° 191, DE 31.01.2014)
+
+TRATAMIENTO TRIBUTARIO, PARA LOS EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, DE LAS CUOTAS PAGADAS POR UNA EMPRESA INMOBILIARIA, POR CONTRATOS DE LEASING SOBRE BIENES RAÍCES.
+
+I.- ANTECEDENTES.
+
+Indica que una empresa inmobiliaria celebró los años 2007, 2008 y 2009, contratos de arrendamiento con opción de compra sobre tres bienes raíces. El contribuyente ha rebajado las cuotas de arriendo como un gasto para efectos de determinar su renta líquida. Agrega que el giro de la sociedad inmobiliaria, es la venta de viviendas cuya construcción es encargada a terceros.
+
+Añade, que se desconoce el objetivo que la arrendataria tuvo al celebrar estos contratos, así como el destino que se le otorgará a los bienes raíces, esto es, si los va a entregar en arriendo o va a construir en ellos; sin que existan a la fecha ingresos asociados a tales gastos.
+
+Señala que basado en pronunciamientos anteriores de este Servicio, a su juicio, dado que no es posible asociar los pagos indicados a ingresos determinados, las cuotas por concepto de pago de arriendos no podrían ser deducidas como gasto, debiendo ser activados hasta la fecha en que los inmuebles produzcan rentas gravadas en la Primera Categoría.
+
+II.- ANÁLISIS.
+
+1.- El contribuyente es una empresa de giro inmobiliario cuya principal actividad es la venta de viviendas cuya construcción, total o parcialmente, es encargada a terceros; que ha suscrito contratos de leasing sobre bienes raíces sobre los cuales construiría las viviendas respectivas para su posterior venta, sin que actualmente existan ingresos provenientes de dicha actividad, o que se puedan asociar a las cuotas de arriendo pagadas que pretende deducir como gasto.
+
+Al respecto, cabe señalar que una empresa inmobiliaria que desarrolle como actividad principal la venta de inmuebles, se encuentra gravada conforme a lo dispuesto por el N° 3, del artículo 20 de la LIR, debiendo tributar sobre sus rentas efectivas determinadas mediante balance general y contabilidad completa, aplicando al efecto lo dispuesto por los artículos 29 al 33 de la misma Ley.
+
+Conforme a lo establecido en el artículo 30 de la LIR, el contribuyente podrá deducir de los ingresos brutos, el costo directo de los bienes y servicios que se requieran para la obtención de dicha renta, el que en el caso particular de la venta de viviendas corresponde al costo directo de su adquisición o construcción, conformado por el valor de los materiales necesarios para la construcción del inmueble (incluyendo el valor del terreno, y otros), el valor de la mano de obra utilizada directamente en dicha construcción, y el valor de los servicios proporcionados por terceros que guarden directa relación con los inmuebles construidos.
+
+El contribuyente también podrá rebajar de la renta bruta, los gastos necesarios para producir la renta, en cuanto se relacionen de modo directo con su actividad, es decir, aquellas cantidades que estén encaminadas a cumplir con el objetivo de ésta, cual es, la compra y venta de inmuebles, debiendo cumplir además con todos los requisitos de carácter general que establece el inciso primero, del artículo 31 de la LIR.
+
+Tanto los costos como gastos referidos, deben guardar una debida correlación con los ingresos que generan, con el fin de poder imputar en cada período tributario la utilidad real y efectiva sobre la cual corresponde cumplir las obligaciones tributarias que establece la Ley, sin la posibilidad de postergar el pago de los impuestos a los ejercicios siguientes, situación que no se ajustaría con el ordenamiento jurídico que reglamenta el sistema tributario de la LlR.
+
+2.- En relación con el contrato de leasing, este Servicio ha señalado con anterioridad , que es jurídicamente un contrato de arrendamiento de bienes, pues concurren en él las condiciones estipuladas en el artículo 1.915 del Código Civil; vale decir, la obligación de una de las partes a conceder el goce de una cosa y la consiguiente obligación de la otra de pagar por dicho goce un precio determinado. Por otra parte, el artículo 1.916 del mismo cuerpo legal establece que son susceptibles de arrendamiento todas las cosas corporales o incorporales que puedan usarse sin consumirse, excepto aquellas que la Ley prohíbe arrendar. Al respecto, cabe señalar que los criterios expuestos por este Servicio a través de los Oficios que citados, se encuentran vigentes, no obstante que para la aplicación de los mismos debe considerarse los términos del contrato respectivo.
+
+3.- De esta forma, en cuanto al tratamiento tributario de las cuotas correspondientes a un contrato de leasing, en la medida que las mismas incidan en la generación de los ingresos de la respectiva empresa, y cumplan con los requisitos generales para la deducción de todo gasto, establecidos en el artículo 31 de la LIR, podrán deducirse en la determinación de la base imponible del Impuesto de Primera Categoría que le afecte.
+
+Sin embargo, conforme a las normas generales aplicables en materia de Impuesto a la Renta, en caso que las cuotas pagadas formen parte del costo directo de los bienes producidos o construidos por el contribuyente, no podrán ser deducidos como gasto del ejercicio respectivo, sino que deberán deducirse como costo del bien que se enajena y en la oportunidad que corresponda. Así por ejemplo, este Servicio señaló mediante el Oficio N° 3.747 de 1999, que las cuotas de un contrato de leasing financiero celebrado por un contribuyente para financiar la adquisición de un terreno en el que construiría una nueva planta industrial, forman parte del costo directo de lo que se construya y no un gasto del respectivo ejercicio, en atención a que en tal caso el valor del señalado bien que se pretende adquirir bajo dicho sistema, se incorporaría al del inmueble que se construya en él.
+
+III.- CONCLUSIONES.
+
+Conforme a las normas legales y pronunciamientos precitados, las cuotas de leasing sobre tales bienes raíces, pagadas o adeudadas por la empresa inmobiliaria en la situación específica a que se refiere su consulta, corresponden a cantidades que deben formar parte del costo directo de la construcción de tales inmuebles. De acuerdo a ello, se estima aplicable el criterio contenido en el Oficio N° 3.747 de 1999, por lo que a dichas cuotas corresponderá darles el tratamiento tributario señalado en el artículo 30 de la LIR. Vale decir, deberán ser consideradas como parte del costo directo de los respectivos bienes, el que podrá ser deducido conforme a la norma legal referida, en la oportunidad que legalmente proceda, esto es, al momento de la enajenación o venta de las respectivas viviendas, razón por la cual en ningún caso podrán ser considerados como gasto del ejercicio conforme a lo dispuesto en el artículo 31 de la LIR.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 191, 31.01.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

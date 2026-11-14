@@ -1,0 +1,71 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1502 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14°, LETRA A) – CÓDIGO TRIBUTARIO, ART. 16° – RES. EXENTA N° 129, DE 2014 – CIRCULAR N° 69, DE 2014. (ORD. N° 1..."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1502.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1502.doc"
+materia: "renta"
+fecha: "2015-06-03"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 14°, LETRA A) – CÓDIGO TRIBUTARIO, ART. 16° – RES. EXENTA N° 129, DE 2014 – CIRCULAR N° 69, DE 2014. (ORD. N° 1502, DE 03.06.2015)
+
+OBLIGACIÓN DE LOS CONTRIBUYENTES QUE SE ACOJAN A LAS DISPOSICIONES DE LA LETRA A), DEL ARTÍCULO 14 TER DE LA LEY SOBRE IMPUESTO A LA RENTA, DE LLEVAR LOS LIBROS DE CAJA Y DE INGRESOS Y EGRESOS ESTABLECIDOS EN LA RES. EX. N° 129 DE 2014, DE ESTE SERVICIO; Y SI LIBROS CAJA Y BANCOS DE LA CONTABILIDAD GENERAL QUE EN FORMA OPTATIVA PUEDEN LLEVAR ESTOS CONTRIBUYENTES, SUPLEN LA REFERIDA OBLIGACIÓN.
+
+Se ha solicitado un pronunciamiento a este Servicio, respecto a si los libros mayores de Caja y Bancos de la contabilidad general que optativamente pueden llevar los contribuyentes de la Primera Categoría sujetos al régimen de tributación de la letra A), del artículo 14 ter de la Ley sobre Impuesto a la Renta (LIR), sin perjuicio de la determinación de su resultado tributario conforme al régimen especial establecido en esta disposición, cumplen con la obligación establecida para estos mismos contribuyentes, de llevar los registros de Caja y de Ingresos y Egresos, cuyos requisitos y formatos se detallan en la Res. Ex. N° 129 de 2014, de este Servicio.
+
+I.- ANTECEDENTES.
+
+A través del Oficio indicado en el antecedente, esa Secretaría requiere una aclaración respecto al alcance y sentido de lo dispuesto en la letra A), del artículo 14 ter de la LIR, sustituido por el artículo segundo transitorio de la Ley N° 20.780, que entró en vigencia a contar del 1° de enero del año 2015, particularmente, en lo relativo a las obligaciones expresadas a través de la Resolución Exenta N° 129 de 31.12.2014 de este Servicio, que establece los requisitos que deben cumplir el libro de Ingresos y Egresos y el libro de Caja, que se exige llevar a los contribuyentes que se acojan al régimen simplificado de tributación establecido en la norma legal señalada. Lo anterior, en atención a que del tenor de la referida Resolución N°129, no queda absolutamente claro si los libros mayores de caja y banco, se entiende que cumplan con el requisito establecido en la letra A), del artículo 14 ter de la LIR, cuando el contribuyente opta por este régimen simplificado, decidiendo además llevar contabilidad completa por estimarlo más conveniente.
+
+II- ANÁLISIS.
+
+Conforme con las disposiciones del artículo 14 ter de la LIR, y las instrucciones impartidas sobre la materia por este Servicio a través de la Circular N° 69 de 2014, los contribuyentes que se acojan al régimen de tributación de la letra A), de este artículo, se encuentran obligados a llevar los siguientes registros y controles:
+
+a) Libro de compras y ventas, establecidos en el artículo 74 del Decreto Supremo N°55, sobre Reglamento de la Ley sobre Impuesto a las Ventas y Servicios, sólo en el caso de los contribuyentes vendedores y prestadores de servicios, afectos al impuesto al valor agregado conforme a lo dispuesto en el artículo 59 del Decreto Ley N° 825 de 1974, sobre Impuesto a las Ventas y Servicios.
+
+b) Libro de ingresos y egresos: La obligación de llevar este libro o registro, sólo alcanza a aquellos contribuyentes acogidos a las disposiciones de la letra A), del artículo 14 ter de la LIR, que no se encuentren obligados a llevar el libro de compras y ventas referido. En dicho libro, los contribuyentes deberán registrar tanto los ingresos percibidos como los devengados que obtengan, y por otra parte, los egresos pagados y las cantidades adeudadas.
+
+c) Libro de caja: La obligación de llevar este libro, alcanza a todos los contribuyentes sujetos a las disposiciones de la letra A), del artículo 14 ter de la LIR, sea que lleven el libro de compras y ventas o el libro de ingresos y egresos, según corresponda. En este libro, los contribuyentes deberán registrar de manera cronológica el flujo de sus ingresos y egresos en las operaciones que realicen, incluyendo también los aportes, préstamos y cualquier otra cantidad que se reciba en la empresa y afecte la caja de la misma, así como también los pagos o devoluciones de esas sumas, los retiros o distribuciones de utilidades que se efectúen a favor de los dueños, comuneros, socios o accionistas de la empresa, y cualquier otro desembolso que se efectúe desde la empresa y afecte también la caja de la misma.
+
+Conforme con las mismas instrucciones, los contribuyentes que se acojan al régimen de tributación de la letra A), del artículo 14 ter de la LIR, están a su vez, liberados de una serie de obligaciones tributarias y de llevar ciertos registros, entre las que se cuenta la de llevar contabilidad completa, sin perjuicio de que pueda voluntariamente decidir llevar contabilidad completa cuando lo estime más conveniente.
+
+En consecuencia, un contribuyente acogido al régimen de tributación de la letra A), del artículo 14 ter de la LIR, como regla general, se encuentra liberado de la obligación de llevar contabilidad completa, y por tanto, se encuentra obligado a llevar los registros señalados expresamente por la norma analizada, cuando corresponda en cada caso, y en la forma indicada en la Resolución Exenta N°129, de 31.12.2014 de este Servicio.
+
+No obstante lo anterior, el N° 4, de la letra A), del artículo 14 ter de la LIR, contempla la posibilidad de que los contribuyentes acogidos a sus disposiciones decidan alternativamente llevar contabilidad completa por años comerciales completos, si así lo estiman más conveniente, caso en el cual, deberán manifestarlo de manera expresa en la declaración anual de impuestos a la renta correspondiente a cada año comercial por el cual tomaron dicha decisión, pudiendo cambiarla cuando lo estimen adecuado, pero en tal caso, se encontrarán obligados a llevar los registros de ingresos y egresos y de caja según corresponda, por el año comercial respectivo completo.
+
+Así las cosas, cuando el contribuyente decida alternativamente llevar una contabilidad completa conforme a las normas contenidas en los artículos 16 y siguientes del Código Tributario, se libera de la obligación de llevar los registros de ingresos y egresos, y de caja, según corresponda, sin perjuicio de que el resultado tributario afecto a impuestos deba igualmente determinarse conforme a las reglas establecidas en la letra A), del artículo 14 ter de la LIR, todo lo cual se encuentra instruido en la letra E), del N° 1, del Capítulo 1°, del numeral II, de la Circular N° 69 de 2014. En los procesos de fiscalización que efectúe este Servicio, el contribuyente deberá acompañar, cuando se requiera, los registros respectivos, o bien, la contabilidad completa cuando hubiere decidido llevarla de manera alternativa.
+
+Al respecto, cabe hacer notar que la alternativa que reconoce la LIR en cuanto a los registros que debe llevar el contribuyente, nace del hecho que la información contenida en los registros referidos (de ingresos y egresos y de caja), se incluye de manera íntegra en la contabilidad completa de un contribuyente, cuando éste decide llevarla de manera alternativa. En dicha contabilidad se incluyen los libros mayores de caja y banco, como parte de un sistema integral de la información económica y financiera de la empresa aún más completo, junto con todos los demás antecedentes que contienen los restantes libros mayores que debe considerar una contabilidad completa.
+
+Ahora bien, en caso que los contribuyentes acogidos a las disposiciones de la letra A), del artículo 14 ter de la LIR, no decidan llevar alternativamente contabilidad completa, deberán llevar los registros de ingresos y egresos, y de caja, según corresponda, en la forma establecida en la Resolución Exenta N°129, de 31.12.2014 de este Servicio, en la que se estableció los requisitos e información que deben cumplir tales registros. A mayor abundamiento, cabe precisar que los registros de ingresos y egresos, y de caja, no se llevan en la misma forma que el libro mayor de caja o de banco que contempla una contabilidad completa, sino que de acuerdo a la Resolución referida, pues la información que deben contener tales registros es mayor a aquella que contemplan los libros mayores mencionados.
+
+III.- CONCLUSION.
+
+1.- Los contribuyentes que se acojan al régimen de tributación de la letra A), del artículo 14 ter de la LIR, deben llevar los registros de ingresos y egresos y de caja, cuando corresponda, de acuerdo a las instrucciones de la Circular N° 69 de 2014.
+
+2.- Dichos contribuyentes, pueden decidir llevar como alternativa una contabilidad completa conforme a los artículos 16 y siguientes del Código Tributario, decisión que los libera de la obligación de llevar los registros de ingresos y egresos y de caja, según corresponda.
+
+Dicha circunstancia debe manifestarse en la declaración anual de impuestos a la renta correspondiente a cada año comercial por el cual tomaron dicha decisión.
+
+3.- En los procesos de fiscalización que efectúe este Servicio, el contribuyente deberá acompañar, cuando sea requerido, los registros respectivos, o bien, la contabilidad completa cuando hubiere decidido llevarla de manera alternativa.
+
+4.- En caso que los contribuyentes acogidos a las disposiciones de la letra A), del artículo 14 ter de la LIR, no decidan llevar alternativamente una contabilidad completa, deberán llevar los registros de ingresos y egresos, y de caja, según corresponda, en la forma establecida en la Resolución Exenta N°129 de 2014.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1502, de 03.06.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

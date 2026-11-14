@@ -1,0 +1,81 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 826 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N° 1, LETRA B, INCISO 8° – LEY N° 20.780, DE 2014 – OFICIO N° 2755, DE 03.09.2009. (ORD. N° 826, DE 01.04.2..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja826.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja826.doc"
+materia: "renta"
+fecha: "2016-04-01"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 20, N° 1, LETRA B, INCISO 8° – LEY N° 20.780, DE 2014 – OFICIO N° 2755, DE 03.09.2009. (ORD. N° 826, DE 01.04.2016)
+
+TRIBUTACIÓN DE LOS INGRESOS OBTENIDOS POR SOCIEDAD ANÓNIMA POR EL ARRIENDO DE BIENES RAÍCES AGRÍCOLAS Y NO AGRÍCOLAS; APLICACIÓN DEL INCISO 8° DE LA LETRA B), DEL N° 1, DEL ART. 20 DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR).
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la tributación que afecta a una sociedad anónima arrendadora de predios agrícolas y no agrícolas, que nunca ha explotado sus predios agrícolas; y sobre la situación tributaria de los arrendatarios de dichos predios agrícolas, especialmente en lo que dice relación con la norma establecida en el inciso 8° de la letra b), del N° 1, del artículo 20 de la LIR.
+
+I.- ANTECEDENTES.
+
+Señala que una sociedad anónima de giro inmobiliario, es dueña de predios agrícolas y no agrícolas, los cuales arrienda a diversas personas naturales. Como arrendador, indica, la sociedad anónima debe tributar los ingresos que obtenga por el arrendamiento de los predios agrícolas en virtud de lo dispuesto en la letra c) del artículo 20 N° 1 de la LIR; respecto del arrendamiento de los predios no agrícolas, la sociedad debe tributar en conformidad con lo dispuesto en la letra d) del mismo número.
+En consecuencia, agrega, las rentas efectivas que la sociedad anónima obtenga por ceder en arrendamiento a personas naturales los predios agrícolas, deberán ser acreditadas con los respectivos contratos y la sociedad no podrá realizar ninguna deducción respecto de dichas rentas.
+
+Por su parte, de las rentas que la sociedad anónima obtenga por el arrendamiento de los predios no agrícolas, se podrán rebajar los gastos necesarios para producir dichas rentas conforme a las reglas generales.
+Respecto de los arrendatarios personas naturales, que explotan los bienes raíces agrícolas, pagarán el impuesto de primera categoría sobre la base de la renta de dichos predios agrícolas, la que se presume de derecho es igual al 4% del avalúo fiscal de dichos predios, conforme a lo dispuesto en la letra b), del N° 1, del artículo 20 de la LIR, siempre que se cumpla con los requisitos ahí establecidos. En relación con la tributación de estos contribuyentes, manifiesta que el solo hecho que el arrendador sea una sociedad anónima obligada a tributar en conformidad con las letras c) y d) del artículo 20 N°1 de la LIR, esto es, renta efectiva determinada según contrato por el arrendamiento de predios agrícolas y con contabilidad completa por el arrendamiento de predios no agrícolas, no tiene como consecuencia que las personas naturales arrendatarias de los predios agrícolas deban tributar obligatoriamente bajo el régimen de renta efectiva determinada según contabilidad completa.
+
+Al respecto señala, que el inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR, no se refiere al caso en el cual el arrendador tributa conforme a lo dispuesto en las letras c) y d), porque de ser así jamás un arrendatario de un predio agrícola podría tributar bajo el régimen de renta presunta, porque siempre su arrendador tributará bajo el régimen de renta efectiva determinada según contrato, y no conforme a lo dispuesto en la letra a), del artículo 20 N° 1 de la LIR.
+
+Conforme a ello, solicita la confirmación de los siguientes criterios:
+
+a) Una sociedad anónima arrendadora de predios agrícolas y no agrícolas, que nunca ha explotado sus predios agrícolas, debe tributar las rentas provenientes de los arrendamientos de bienes raíces agrícolas en conformidad con lo dispuesto en la letra c), del artículo 20 N° 1 de la LIR, esto es, la renta efectiva determinada según contrato, sin que pueda efectuar deducción alguna a dichas rentas. Respecto de las rentas provenientes del arrendamiento de los predios no agrícolas, debe tributar conforme a lo dispuesto en la letra d), del N° 1, del artículo 20 de la LIR, pudiendo rebajar respecto de estos últimos ingresos los gastos necesarios, según las reglas generales.
+
+b) Bajo ninguna circunstancia el arrendador de predios agrícolas o no agrícolas puede tributar conforme a lo dispuesto en la letra a), del N° 1 del artículo 20 de la LIR, debido a que dicha letra solamente comprende a quienes explotan los predios y no a quienes ceden el uso a un tercero, que es quien los explota.
+
+c) El inciso 8°, de la letra b), del artículo 20 N°1 de la LIR no se refiere al caso en que el arrendador tributa conforme a lo dispuesto en las letras c) y d) del mismo número, sino al caso en que el explotador de un predio agrícola, por aplicación de las normas de relación de aquel artículo, queda obligado a declarar bajo el régimen de renta efectiva determinada según contabilidad completa y, tras eso, cede el uso a un tercero que lo explota a cualquier título.
+
+d) En el caso de las personas naturales arrendatarias de predios agrícolas de propiedad de una sociedad anónima inmobiliaria, si ellos cumplen con los requisitos establecidos en el artículo 20 N°1 letra b), deberán pagar el impuesto de primera categoría sobre la base de la renta presunta de dichos predios agrícolas, la que se presume de derecho para ese tipo de explotador es igual al 4% del avalúo fiscal de dichos predios, debido a que la presunción del 10% del avalúo fiscal que contempla dicha letra, solamente es aplicable a quienes exploten los predios agrícolas en virtud del título de propietario o usufructuario.
+
+II.- ANÁLISIS.
+
+En primer término, se hace presente que la consulta que se analiza, se refiere a las disposiciones del N° 1, del artículo 20 de la LIR, según su texto vigente con anterioridad a la modificación efectuada por la Ley N° 20.780.
+
+De acuerdo con lo establecido en la letra c), del N° 1, del artículo 20 de la LIR y conforme con lo expresado sobre tal disposición por este Servicio , los contribuyentes en general, y dentro de éstos las sociedades anónimas, cuyos ingresos provengan del arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal de bienes raíces agrícolas, para los fines de su tributación, deben acreditar sus rentas mediante el respectivo contrato de arriendo, sin que la norma legal referida permita efectuar rebaja alguna por concepto de gastos.
+
+La norma legal señalada tiene el carácter de especial, pues determina de manera específica y para el caso concreto, el hecho gravado con impuesto, cual es la renta efectiva de dichos bienes y la forma en que ha de acreditarse dicha renta. En consecuencia, la letra c), del N° 1, del artículo 20 de la LIR debe aplicarse con primacía respecto de la norma establecida en el artículo 68 de la LIR, que se refiere en general a la acreditación con contabilidad de las rentas afectas a los impuestos de la LIR, pues ésta última constituye una norma de carácter general sobre la forma de acreditar la renta efectiva afecta a impuestos.
+
+Por otra parte, el inciso 3°, de la letra d), del N° 1, del artículo 20 de la LIR, establece que tratándose de sociedades anónimas que posean o exploten a cualquier título bienes raíces no agrícolas, se gravará la renta efectiva de dichos bienes. En este caso, la disposición en comento no establece la forma en que ha de acreditarse la renta, resultando por tanto plenamente aplicables las disposiciones del artículo 68 de la LIR. En consecuencia, de acuerdo con lo que dispone el inciso final de este artículo, las sociedades anónimas deben acreditar la renta proveniente de la posesión o explotación a cualquier título de bienes raíces no agrícolas, en base a contabilidad completa.
+
+Ahora bien, conforme a lo dispuesto por el inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR, las personas que tomen en arrendamiento, o que a otro título de mera tenencia exploten el todo o parte de predios agrícolas, de contribuyentes arrendadores que deban tributar en conformidad con lo dispuesto en la letra a) -vale decir de contribuyentes que posean o exploten a cualquier título bienes raíces agrícolas y que deban tributar sobre la renta efectiva de dichos bienes en base a lo dispuesto en esta misma letra- quedarán sujetas a ese mismo régimen. En la situación analizada, si bien se trata de un propietario de bienes raíces agrícolas que los explota a través de su arriendo, no se trata de un contribuyente que por dicha posesión o explotación deba tributar en base a lo dispuesto en la letra a), del N° 1, del artículo 20 de la LIR, sino, tal como ya se indicó, atendido el carácter específico de la norma, su obligación es tributar en base a lo dispuesto en la letra c) de esta misma disposición, circunstancia en la cual no resulta aplicable el inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR.
+
+Al respecto, cabe señalar que para los efectos de establecer la aplicación o no de la disposición del inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR, la circunstancia de si el arrendador se trata de un contribuyente que debe tributar en base a la letra a), del N° 1, del artículo 20 de la LIR, debe observarse con independencia de la tributación a que se sujetan las rentas provenientes del referido contrato de arriendo. Esto es, si independientemente de la suscripción del contrato de arriendo, el arrendador es un contribuyente obligado a tributar en conformidad con la letra a), del N° 1, del artículo 20 de la LIR, por poseer o explotar bienes raíces agrícolas en una forma distinta al de su mero arrendamiento, en tal caso si resulta plenamente aplicable la disposición del inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR, quedando en consecuencia el arrendatario sujeto también al régimen de la referida letra a).
+
+Desde luego que las circunstancias señaladas, en ningún caso resultan aplicables a los arrendatarios de bienes raíces no agrícolas, puesto que en tales casos no resulta aplicable lo dispuesto en la letra a), del N° 1, del artículo 20 de la LIR, sino que lo establecido en las letras d) y e), del mismo número y artículo.
+
+III.- CONCLUSIÓN.
+
+En consecuencia, respecto de los criterios cuya confirmación solicita, cabe expresar que:
+
+a) Una sociedad anónima arrendadora de predios agrícolas y no agrícolas que nunca ha explotado sus predios agrícolas, debe tributar respecto de los ingresos provenientes del arrendamiento de predios agrícolas en conformidad con lo dispuesto en la letra c), del N° 1, del artículo 20 de la LIR, vale decir, en base a la renta efectiva determinada según contrato, sin que pueda efectuar deducción alguna a dichas rentas; y respecto de la renta proveniente del arrendamiento de los predios no agrícolas debe tributar conforme a lo dispuesto en la letra d), del N° 1, del artículo 20 de la LIR, vale decir sobre la renta efectiva determinada en base a contabilidad completa, pudiendo rebajar los gastos necesarios, según las reglas generales de dicho texto legal.
+
+b) En concordancia con lo anterior, el arrendador de predios agrícolas o no agrícolas que nunca ha explotado sus predios agrícolas, bajo ninguna circunstancia tributa conforme a la letra a), del N° 1, del artículo 20 de la LIR.
+
+c) El inciso 8°, de la letra b), del N° 1, del artículo 20 de la LIR, se aplica en la situación analizada sólo en el caso en que el arrendador tribute conforme a lo dispuesto en la letra a), de esta misma disposición, sea por aplicación de las normas de relación u otra causa.
+
+d) Las personas naturales arrendatarias de predios agrícolas de propiedad de una sociedad anónima, si cumplen con los requisitos establecidos en la letra b), del N° 1, del artículo 20 de la LIR, deberán tributar con el impuesto de primera categoría sobre la base de la renta presunta de dichos predios agrícolas, la que se presume de derecho para ese tipo de explotador es igual al 4% del avalúo fiscal de dichos predios, debido a que la presunción del 10% del avalúo fiscal que contempla dicha letra, solamente es aplicable a quienes exploten los predios agrícolas en virtud del título de propietario o usufructuario.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 826, de 01.04.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

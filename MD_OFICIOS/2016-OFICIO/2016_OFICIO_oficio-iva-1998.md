@@ -1,0 +1,75 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1998 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA G), LETRA I), ART. 12, LETRA E), N°11 – OFICIO N° 1814, DE 2015. (ORD. N° ..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1998.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1998.doc"
+materia: "iva"
+fecha: "2016-07-12"
+exenta: false
+impuestos: ["iva", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA G), LETRA I), ART. 12, LETRA E), N°11 – OFICIO N° 1814, DE 2015. (ORD. N° 1998, DE 12.07.2016)
+
+SOLICITA CONFIRMACIÓN DE CRITERIOS INTERPRETATIVOS APLICABLES A LA EXPLOTACIÓN DE BOXES DE ESTACIONAMIENTOS MEDIANTE SU ARRENDAMIENTO POR SEMANAS Y/O MESES.
+
+Se ha solicitado a esta Dirección Nacional pronunciamiento respecto de la interpretación y aplicación de normas del D.L. N° 825 en relación al siguiente caso.
+
+I.- ANTECEDENTES
+
+El consultante indica en su presentación que su representada es una sociedad de inversiones que, entre otros, se dedica a la explotación por cuenta propia o ajena de toda clase de inmuebles. Al efecto, es propietaria o tenedora debidamente facultada para gozar de los frutos civiles de una serie de inmuebles, los cuales son entregados en arriendo a terceros, con instalaciones que permiten el desarrollo de una actividad comercial o industrial, razón por la cual los grava con IVA.
+
+Sin embargo, respecto de un proyecto en particular que motiva la presente consulta, su representada explotaría inmuebles sin ninguna clase de instalaciones ni bienes muebles, pues se encuentra evaluando comercialmente la posibilidad de comprar alrededor de 300 boxes de estacionamientos a un único vendedor, los cuales explotaría entregándolos en arriendo.
+
+Los estacionamientos se encuentran ubicados en un edificio en la comuna de XXXX, que fue construido a principios de los años ochenta, al amparo del Decreto Alcaldicio N° 1116 de 29.08.1979 de la Municipalidad de XXXX que puso fin a partir del 1° de septiembre de 1981 a la existencia de todas las “playas de estacionamiento” en una amplísima área que rodea el Centro de XXXX; y también considerando el Decreto N° 48 del Ministerio de la Vivienda de 29.09.1979, que estableció “un área de prohibición de construcción de estacionamientos dentro de Centro de XXXX” limitada al norte por la calle Santo Domingo, al sur por la Alameda Bernardo O´Higgins, al oriente por la calle Miraflores y al poniente por la Avda. Norte Sur, que obligaba a los edificios allí construidos a adquirir sus estacionamientos fuera de esta área ya que dicha prohibición no liberaba a los edificios que se construían dentro de ella al cumplimiento de los estándares de estacionamientos exigidos por el artículo 480 de la Ordenanza General de Construcciones y Urbanización de 1° de agosto de 1981.
+
+Afirma que todas estas medidas, orientadas a la descongestión del área más céntrica de la comuna de XXXX fueron las que motivaron la construcción del edificio, de lo cual da cuenta que aquél se construyó de manera de que sirviera a proporcionar los estacionamientos requeridos para que los edificios construidos en el área de prohibición pudieran cumplir con los estándares señalados en dicho artículo 480 y de esta manera obtener sus recepciones finales. Dicho de otra forma, el edificio se construyó para la venta a particulares o a empresas constructoras para cumplir con los requerimientos urbanísticos ya señalados.
+
+Indica que el edificio fue construido para enajenar todas y cada una de sus unidades a distintos adquirentes, atendido el cambio de la institucionalidad inmobiliaria en la comuna. Cada uno de los estacionamientos tiene un rol de avalúo fiscal distinto, por lo cual se paga el respectivo impuesto territorial por cada unidad, y se pagan gastos comunes habida consideración que existe un reglamento de copropiedad.
+
+Afirma que el edificio se acogió a la Ley de Copropiedad Inmobiliaria conforme a lo señalado en el Certificado N° 855 de 12 de julio de 1982 correspondiente a su “División por Pisos o Departamentos” otorgado por la I. Municipalidad de XXXX; encontrándose dividido el Edificio en 1.679 estacionamientos, 10 oficinas. 9 locales comerciales, 3 bodegas y una estación de servicios, constituyendo cada una de estas propiedades un inmueble independiente.
+
+Sostiene que los inmuebles que se pretende adquirir son 300 estacionamientos de una superficie de alrededor de 12.5 metros cuadrados por unidad, que se adquirirían sin instalaciones de ninguna clase ni bienes muebles que los alhajen o guarnezca, adquiriéndose también los derechos en los bienes comunes, en la proporción que corresponda sobre los bienes comunes en unión con los demás adquirentes.
+
+En razón de lo anterior solicita confirmar los siguientes criterios:
+
+a) Que el arriendo a largo plazo que pretende celebrar su representada en calidad de arrendadora de los 300 estacionamientos a una tercera persona, persona jurídica, la que sólo los podrá explotar mediante el arriendo por días completos, semanas o meses, constituye un hecho exento de IVA de conformidad con lo dispuesto en el artículo 12°, letra E, número 11 de la Ley de IVA, contenido en el artículo 1° del D.L. N° 825, de 1974.
+
+b) Que igual tratamiento de exención, operaría en el caso de que su representada ofrezca en arrendamiento al público los estacionamientos bajo la modalidad de arriendo por semanas o meses a empresas, organismos públicos y personas naturales.
+
+II.- ANÁLISIS
+
+El artículo 8°, letra g) del Decreto Ley N° 825, de 1974, grava con Impuesto al Valor Agregado el arrendamiento, subarrendamiento, usufructo o cualquier otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de alguna actividad comercial o industrial y de todo tipo de establecimiento de comercio, hecho gravado que pende de una situación objetiva, cual es, que el inmueble objeto del contrato de arrendamiento cuente con muebles o bien con instalaciones que permitan o posibiliten el ejercicio de una actividad comercial o industrial, aun cuando en el hecho ésta no se ejerza. Así, el elemento determinante para configurar este hecho gravado especial, está dado por la existencia de muebles o instalaciones en el inmueble arrendado, y no por la destinación que el arrendatario pretenda darle a dicho inmueble.
+
+Por otra parte, el artículo 8°, letra i), del mismo cuerpo legal aludido, grava con Impuesto al Valor Agregado el estacionamiento de automóviles, y otros vehículos en playas de estacionamiento u otros lugares destinados al mismo fin.
+
+Ahora bien, en relación a las consultas referidas cabe hacer las siguientes distinciones:
+
+a) Respecto de la posibilidad de arriendo de inmuebles consistentes en 300 estacionamientos a una tercera persona por parte de la consultante, la que sólo podrá explotar mediante el arriendo de días completos, semanas o meses, atendidos los antecedentes presentados, los estacionamientos ofrecidos se encuentran desprovistos de instalaciones que posibiliten el desarrollo de una actividad comercial o industrial, y por otra, no se configura en la especie el servicio de estacionamiento desarrollado en playas de estacionamiento, motivo por el cual no se verificaría en ninguno de los casos consultados ni el hecho gravado de la letra g) del artículo 8 del Decreto Ley N° 825 de 1974, como tampoco aquel descrito en la letra i) del artículo 8° del citado Decreto Ley en conformidad a pronunciamiento emitido por este Servicio al respecto .
+
+b) En relación a la segunda situación planteada, esto es, en el caso que la Sociedad ofrezca en arrendamiento al público los estacionamientos bajo la modalidad de arriendo por semanas o meses a empresas, organismos públicos y personas naturales, se hace presente lo señalado en el Oficio N° 1814 de 2015, en el cual este Servicio se pronunció ante la consulta de un contribuyente por el arriendo de estacionamientos a trabajadores de la misma empresa, señalando que: “Ahora bien, respecto del arrendamiento de los restantes boxes de estacionamientos, no asociados a la celebración de un contrato de arriendo de un inmueble del mismo edificio entre las mismas partes, se estima que no se verificaría el hecho gravado descrito en la letra i) del artículo 8° del citado Decreto Ley, ello por cuanto en la especie no se configura el servicio de estacionamiento desarrollado en playas de estacionamiento que describe la norma, toda vez que éstos no se encuentran abiertos al público, sino que, como se ha indicado, serán arrendado por los propios trabajadores de las empresas arrendatarias de las oficinas del mismo edificio.” A contrario sensu, en el caso bajo análisis se daría la condición contenida en el oficio, de acuerdo a lo manifestado por el propio contribuyente en su consulta, ya que el arrendamiento será ofrecido al público en general, configurándose de esta manera el hecho gravado especial estipulado en la letra i) del artículo 8° del Decreto Ley N° 825 de 1974.
+
+En ese sentido queda claro que la finalidad de la norma establecida en la letra i) del artículo 8° del D.L. N° 825 fue gravar el estacionamiento no siendo determinante para tal efecto el medio que se use para dicho fin, de manera tal que la existencia del contrato de arrendamiento que celebraría el contribuyente con los particulares o empresas, no altera la verdadera naturaleza de la operación, esto es, ofrecer estacionamiento a particulares, en este caso, bajo las modalidades de día, mes, o año.
+
+III.- CONCLUSIÓN
+
+El arrendamiento de inmuebles consistente en 300 estacionamientos ubicados en un mismo edificio ofrecido a un tercero para su explotación desprovistos de instalaciones que posibiliten el desarrollo de una actividad comercial o industrial, no está gravado con IVA al tenor de lo establecido en la letra g), del artículo 8° del Decreto Ley N° 825.
+
+Por otra parte, el estacionamiento ofrecido directamente por la consultante al público en general, aún bajo la modalidad de día, mes o año, se encuentra gravado con IVA al tenor de lo dispuesto en la letra i), del artículo 8° del Decreto Ley N° 825.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1998, de 12.07.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

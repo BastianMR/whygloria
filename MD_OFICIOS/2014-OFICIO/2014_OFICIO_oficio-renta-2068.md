@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2068 (2014)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41°, A, LETRA D), N°2, ART. 12° – CIRCULAR N° 25, DE 2008. (ORD. N° 2068, DE 12.11.2014)"
+tags: [SII, 2014, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2068.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2014/ja2068.doc"
+materia: "renta"
+fecha: "2014-11-12"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 41°, A, LETRA D), N°2, ART. 12° – CIRCULAR N° 25, DE 2008. (ORD. N° 2068, DE 12.11.2014)
+
+CRÉDITO POR IMPUESTOS PAGADOS EN EL EXTERIOR, EN CASO QUE LA INVERSIÓN RESPECTIVA SE ENCUENTRE INSCRITA EN EL REGISTRO DE INVERSIONES EN EL EXTRANJERO, PERO NO SE HA REGULARIZADO LA TITULARIDAD DE LA MISMA.
+
+Solicita se confirme que resulta procedente el uso del crédito por impuestos pagados en el exterior, por una sociedad que nace de una división y que registra entre los activos que le fueron asignados la inversión en el extranjero, haciendo presente que la información relativa a la actualización de la inversión en el Registro de Inversiones en el Extranjero (RIE) que lleva este Servicio, se llevó a cabo en un año comercial posterior al de la percepción de las rentas de fuente extranjera.
+
+I.- ANTECEDENTES.
+
+Indica, que la “Sociedad AAA”, se constituyó durante el año comercial 2010, producto de la división de la “Sociedad BBB”, y que en tal acto se le asignó una inversión en Perú.
+
+Señala, que en el mismo año percibió dividendos de la sociedad extranjera, los que fueron reconocidos en sus resultados tributarios, y que al término del año comercial 2010, la inversión aún figuraba en el RIE que lleva este Servicio, a nombre de la “Sociedad BBB”, situación que se regularizó y actualizó durante el año comercial 2011.
+
+Por tanto, solicita se confirme que la “Sociedad AAA”, tiene derecho a utilizar el crédito por impuestos pagados en el exterior en el Año Tributario 2011, ya que a la sociedad le corresponden los mismos derechos y obligaciones que la sociedad dividida y, por ende, ella solo tiene que actualizar la información en el ya mencionado registro y no inscribirse nuevamente en el RIE, toda vez que en la figura jurídica de la división no hay enajenación.
+
+II.- ANÁLISIS.
+
+1.- El artículo 41 A, letra D), N° 2, de la Ley sobre Impuesto a la Renta (LIR), dispone que los contribuyentes domiciliados o residentes en Chile que perciban dividendos o efectúen retiros de utilidades de sociedades constituidas en el extranjero en conformidad al artículo 12, de la misma Ley, para hacer uso del crédito establecido en la letras A.- y B.- del mismo artículo, deberán inscribirse previamente en el RIE que lleva este Servicio.
+
+2.- Las instrucciones sobre la materia se contienen en la Circular N° 25, de 2008, la cual se encuentra publicada en la página web de este Servicio, www.sii.cl, y señala en su punto III, N° 2, letra c), que los contribuyentes que deseen hacer uso del beneficio tributario en análisis, deberán presentar en la Dirección Regional que corresponda a su domicilio o en la Dirección Grandes Contribuyentes, según sea el caso, una Declaración Jurada Simple, proporcionando toda la información relativa a la inversión que se contempla en el modelo de formulario de solicitud de inscripción en el RIE .
+
+La misma Circular establece que la no presentación de esta solicitud, acarrea como sanción que los contribuyentes sólo podrán hacer uso del crédito por los impuestos soportados en el extranjero por aquellas rentas percibidas o devengadas, según corresponda, a partir del año comercial en que se solicite la inscripción de las inversiones de las cuales provienen dichas rentas, indicándose además que si se hacen modificaciones posteriores, ellas deberán también informarse del mismo modo, lo cual permitirá mantener actualizado el RIE y, por consiguiente, habilitado al contribuyente para que pueda hacer uso del crédito por los impuestos pagados, retenidos o adeudados en el exterior, según corresponda.
+
+Finalmente se indica que, en el caso en que como consecuencia de la enajenación de la inversión, fusión, absorción o “por otra causa”, se produzca el cambio del titular de una inversión ya inscrita en el RIE, el nuevo titular no tendrá derecho al crédito mientras no regularice la titularidad de dicha inversión. Una vez regularizado el registro, el nuevo titular de la inversión podrá invocar el crédito respecto de los impuestos soportados en el extranjero que correspondan a las rentas percibidas o devengadas a partir del año comercial en que se solicitó la regularización señalada, siempre que se cumplan los demás requisitos legales.
+
+3.- Por otra parte, conforme a lo dispuesto por el artículo 94, de la Ley N° 18.046, la división de una sociedad anónima consiste en la distribución de su patrimonio entre sí y una o más sociedades anónimas que se constituyan al efecto, correspondiéndole a los accionistas de la sociedad dividida, la misma proporción en el capital de cada una de las nuevas sociedades que aquella que poseían en la sociedad que se divide.
+
+En relación con la figura jurídica señalada, este Servicio ha expresado que la distribución que se hace del patrimonio de la sociedad que se divide, corresponde a la asignación de cuotas de una universalidad jurídica y, consecuencialmente, no existe propiamente una transferencia o transmisión de bienes, sino que una especificación de derechos preexistentes, los cuales en virtud de la decisión societaria adoptada, quedan radicados en una entidad jurídica independiente, de modo que la asignación de bienes que se hace a la nueva sociedad resultante de la división no constituye una enajenación, así como tampoco se produce en ese evento un cambio en el titular de la inversión, sino que sólo se especifican los derechos preexistentes sobre la inversión referida.
+Por tanto, como se puede apreciar, la situación descrita en su presentación no se refiere a una nueva inversión que se efectúe en el exterior, a la enajenación de ésta, o al cambio del titular de la misma, motivo por el cual, no le resultan aplicables las instrucciones y sanciones contenidas en la Circular N° 25, de 2008.
+III.- CONCLUSIÓN.
+
+Según se ha señalado, en la situación descrita en su presentación, sólo se produce una especificación de derechos preexistentes sobre una inversión ya inscrita en el RIE que lleva este Servicio, razón por la cual no existe la obligación de volver a cumplir con la inscripción que establece el N° 2, de la letra D), del artículo 41 A, de la LIR, así como tampoco existe obligación de actualizar la información que consta en el referido registro, sin perjuicio de la conveniencia para el contribuyente de efectuar tal trámite en conformidad a Res. Ex. N° 50, de 2011.
+
+En cuanto al aprovechamiento del crédito por impuestos pagados en el extranjero, cabe expresar que al no corresponder a una nueva inversión y al no producirse el cambio de titular de la misma, la sociedad en la cual queda radicada la inversión en el extranjero, “Sociedad AAA”, tendrá derecho a usar el referido crédito en su declaración anual de impuestos a la renta correspondiente al año tributario 2011, respecto de los impuestos soportados en el extranjero que correspondan a los dividendos percibidos durante el año comercial 2010, en conformidad al artículo 12 de la LIR y en concordancia con el artículo 41 A, de la misma Ley, siempre que se cumplan los demás requisitos legales.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 2068, de 12.11.2014
+Subdirección Normativa
+Dpto. de Impuestos Directos

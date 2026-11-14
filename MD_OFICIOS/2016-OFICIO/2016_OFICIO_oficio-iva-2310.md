@@ -1,0 +1,79 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 2310 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3, ART. 17, ART. 8, LETRA M) – LEY N° 20.780, DE 2014 – LEY N° 20.899, D..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2310.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja2310.doc"
+materia: "iva"
+fecha: "2016-08-19"
+exenta: false
+impuestos: ["renta", "iva", "territorial"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2, N°1 Y N°3, ART. 17, ART. 8, LETRA M) – LEY N° 20.780, DE 2014 – LEY N° 20.899, DE 2016 – OFICIO N° 605, DE 2010. (ORD. N° 2310, DE 19.08.2016)
+
+SOLICITA CONFIRMAR QUE EL ARTÍCULO 8°, LETRA M), DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, GRAVARÍA CON IVA SÓLO LAS CONSTRUCCIONES.
+
+Se ha solicitado a esta Dirección Nacional confirmar el criterio expuesto en su presentación, en cuanto a que el artículo 8°, letra m), de la Ley de Impuesto a las Ventas y Servicios, en el caso de los inmuebles, gravaría con IVA solamente la construcción.
+
+I.- ANTECEDENTES:
+
+Señala en su presentación que la Ley N° 20.780 modificó la letra m), del artículo 8° de la Ley sobre Impuesto a las Ventas y Servicios (en lo que sigue LSIVS), gravando con Impuesto al Valor Agregado los inmuebles del activo fijo de las empresas que, al ser adquiridos por ellas, tuvieron derecho al crédito fiscal.
+
+Teniendo en consideración que la Ley no grava con IVA a los terrenos, lo que fue expresamente ratificado por el legislador al ser ellos excluidos de la definición de venta contenida en el N° 1, del artículo 2° de la LSIVS, la cual buscaba dejar en claro que en la enajenación de terrenos “se mantiene la no afectación con IVA” , entiende que, en el caso de los inmuebles, lo que deja afecto con IVA la letra m), del artículo 8° de la LSIVS sería la construcción y no el terreno.
+
+Hace presente que la administración fiscal, aplicando el principio de legalidad, ha interpretado que cuando un contrato contiene prestaciones que se encuentran gravadas con un tributo y otras que no lo están, las partes en él deben acreditar lo valores de las diversas prestaciones, siempre manteniéndose la facultad de tasar esos valores.
+
+Señala que el Servicio de Impuestos Internos, interpretó en el Oficio N° 3.003, de 1996, que la deducción contemplada en el artículo 17°, inciso 2° de la LSIVS, que rebaja del valor de arrendamiento la parte que corresponde al terreno, debe ser efectuada para determinar la base imponible del IVA, es decir, la deducción del valor que representa el terreno no es opcional, a pesar que la norma está redactada de tal forma que sugiere que la deducción es facultativa.
+
+Siguiendo el mismo criterio de aplicar los tributos conforme al principio de legalidad, sostiene que la administración fiscal ha interpretado que cuando un contrato contiene prestaciones gravadas con un tributo junto con prestaciones no gravadas o exentas de él, el contribuyente debe acreditar el valor de las prestaciones gravadas, para efectos de calcular correctamente la base imponible del respectivo tributo.
+
+Lo anterior habría sido afirmado respecto de servicios afectos a diversos impuestos, como ocurrió en el caso del IVA en los Oficios N° 2.930, de 2012 y N° 1.153, de 2012; respecto del Impuesto Adicional en el caso de los Oficios N° 2.058, de 2013 y N° 2.887, de 2012; también para el Impuesto a la Renta, precisamente en el caso de ventas de terrenos que incluían derechos de aguas, como ocurrió en el Oficio N° 605, de 2010.
+
+Por lo antes indicado, solicita confirmar que el artículo 8°, letra m) de la ley grava solamente la construcción con el IVA, debido a que el legislador no ha gravado los terrenos con dicho tributo, en consecuencia, es obligación del contribuyente acreditar qué parte del valor del contrato que sirve para transferir el dominio del inmueble corresponde al terreno, y qué parte de ese valor corresponde a la construcción, de manera de poder aplicar el IVA solamente a esta última.
+
+Ello, sin perjuicio de la facultad de tasar el valor de los bienes afectos al IVA, lo que en este caso tendría por efecto determinar qué parte del valor de la transacción corresponde al valor de mercado de los bienes cuya enajenación estaba afecta a IVA.
+
+II.- ANÁLISIS:
+
+Las leyes N° 20.780 y 20.899, efectuaron algunas modificaciones, a los N° 1 y 3 del artículo 2° del Decreto Ley N° 825, de 1974 consistentes, básicamente, en incorporar al hecho gravado venta, en general, la venta de inmuebles nuevos o usados, no importando si éstos fueron construidos por el propio vendedor o si dichos bienes fueron construidos por un tercero y adquiridos para la venta, por quien tiene la calidad de vendedor habitual de dichos bienes.
+
+En otros términos, lo que se incorpora por las Leyes N° 20.780 y 20.899, a las transferencias de inmuebles, nuevos o usados, es el gravamen con IVA de la parte construida del bien –ya que la norma excluye expresamente del hecho gravado a los terrenos incluidos en la operación- en las distintas etapas de comercialización de los bienes hasta el usuario final, siempre que dichas trasferencias sean realizadas por un vendedor habitual de ellos. Así las cosas, para que se configure el hecho gravado con el Impuesto a las Ventas y Servicios, tratándose de venta de inmuebles, la respectiva operación debe recaer sobre un inmueble construido.
+
+Por otra parte, la Ley N° 20.780 modificó la letra m) del artículo 8°, D.L. N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, estableciendo, en su inciso primero, que se encontrarán gravadas con IVA, la venta de bienes corporales muebles e inmuebles que formen parte del activo inmovilizado de la empresa, en cuya adquisición, importación, fabricación o construcción, se haya tenido derecho a crédito fiscal.
+
+Sobre el particular, conviene tener presente que el Artículo 8° del DL 825 establece que el impuesto regulado en el Título II afecta a las ventas y servicios, disponiendo a continuación que “para estos efectos serán consideradas también como ventas y servicios, según corresponda” procediendo luego a la enumeración de los distintos hechos gravados especiales. Así, el hecho gravado especial establecido en la letra m) de la señalada disposición debe ser asimilado a una venta.
+
+Ahora bien, el inciso 2°, del artículo 17° de la ley, establece: “Tratándose de la venta de inmuebles gravados por esta ley, podrá deducirse del precio estipulado en el contrato el monto total o la proporción que corresponda, del valor de adquisición del terreno que se encuentre incluido en la operación. En el caso de los contratos de arriendo con opción de compra de bienes corporales inmuebles, podrá deducirse del monto de cada cuota, incluyendo la opción de compra, la proporción correspondiente al valor de adquisición del terreno que se encuentre incluido en la operación, la que resultará de calcular la proporción que representa el valor de adquisición del terreno en el valor total del contrato. Para estos efectos, deberá reajustarse el valor de adquisición del terreno de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior al de la adquisición y el mes anterior al de la fecha del contrato. La deducción que en definitiva se efectúe por concepto del terreno, no podrá ser superior al doble del valor de su avalúo fiscal determinado para los efectos de la ley N° 17.235, salvo que la fecha de adquisición del mismo haya precedido en no menos de tres años a la fecha en que se celebre el contrato de venta o de promesa de venta, en cuyo caso se deducirá el valor efectivo de adquisición reajustado en la forma indicada precedentemente.”
+
+A su vez, el inciso tercero señala que no obstante lo anterior, en reemplazo del valor de adquisición del terreno podrá rebajarse su avalúo fiscal, o la proporción correspondiente, cuando el terreno se encuentre incluido en la operación.
+
+Luego, tratándose de la enajenación de inmuebles que forman parte del activo inmovilizado del contribuyente, por los cuales se tuvo derecho a crédito fiscal en su adquisición o construcción, para fines de determinar la base imponible afecta a IVA, de conformidad con las normas señaladas precedentemente, se deberá considerar la rebaja del valor de adquisición del terreno incluido en la operación, gravándose por consiguiente la parte que corresponde a la construcción.
+
+Para estos efectos, tratándose de inmuebles adquiridos por el contribuyente, el valor del terreno a considerar para fines de la rebaja de la base imponible afecta a impuesto, debe corresponder al monto total o la proporción correspondiente consignado por este concepto en la factura que acredita su adquisición. Si se trata de inmuebles que han sido construidos por el propio contribuyente, se debe considerar el valor de adquisición del terreno que conste en el contrato respectivo. En ambos casos, el valor de adquisición del terreno deberá reajustarse de acuerdo a lo dispuesto en el transcrito inciso segundo del artículo 17 y la rebaja que en definitiva se determine no podrá exceder el doble de su avalúo fiscal, salvo que entre la fecha de adquisición y la venta del inmueble haya transcurrido un plazo igual o mayor a tres años.
+
+Para los fines indicados precedentemente, y según el nuevo inciso 4°, del artículo 17° de la ley, el contribuyente podrá solicitar una nueva tasación, excluyéndose las construcciones que den derecho a crédito fiscal. Este Servicio, mediante Resolución Ex. N° 49, de 26 de mayo de 2016, estableció el procedimiento para solicitar la nueva tasación.
+
+III.- CONCLUSIÓN:
+
+En respuesta a su consulta, en el caso de los inmuebles que forman parte del activo inmovilizado de la empresa, por los cuales el contribuyente tuvo derecho a crédito fiscal en su adquisición o construcción, su enajenación se encontrará gravada con IVA de conformidad a la letra m), del artículo 8°, del D.L. N° 825, de 1974.
+
+Para determinar la base imponible afecta a IVA, en la enajenación de un inmueble del activo inmovilizado de la empresa, el contribuyente deberá deducir el valor del terreno incluido en la operación, según el procedimiento del inciso segundo del artículo 17° de la ley.
+
+Para fines de la rebaja del valor de adquisición del terreno, el contribuyente deberá considerar el valor de adquisición del terreno consignado en la factura que acredita la adquisición del inmueble que forma parte de su activo inmovilizado, o en su defecto, en el caso de inmuebles construidos por el contribuyente, el valor de adquisición del terreno consignado en el contrato respectivo.
+
+VÍCTOR VILLALÓN MÉNDEZ
+DIRECTOR (S)
+
+Oficio N° 2310 de 19.08.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

@@ -1,0 +1,58 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1822 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA A), ART.37, LETRA A) – OFICIOS N° 299, DE 2012 Y N°1333, DE 2013. (ORD. N°..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1822.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1822.doc"
+materia: "iva"
+fecha: "2016-06-23"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8, LETRA A), ART.37, LETRA A) – OFICIOS N° 299, DE 2012 Y N°1333, DE 2013. (ORD. N° 1822, DE 23.06.2016)
+
+SOLICITA PRONUNCIAMIENTO DE NO APLICACIÓN DE IVA E IMPUESTO ADICIONAL DEL D.L. 825 DE 1974, A LAS TRANSFERENCIAS O TRANSACCIONES DE PRODUCTO QUE INDICA.
+
+Se ha solicitado a esta Dirección Nacional, pronunciarse sobre la aplicación de IVA e Impuesto Adicional del D.L. N° 825 de 1974, a las transferencias o transacciones de barras pequeñas de “oro puro” al 999.9 (Good Delivery), teniendo presente lo dispuesto en el Art. 39° de la Ley Orgánica del Banco Central y del numeral 2 del Capítulo I del Compendio de Normas de Cambios Internacionales.
+
+Acompaña a su presentación Oficio N° 15536 de 8 de septiembre de 2009 del Banco Central de Chile y Oficio Ordinario N° 1333, de 18 de junio de 2013, del Servicio de Impuestos Internos.
+
+I.- ANTECEDENTES:
+
+De acuerdo a su presentación, el producto está constituido por “pequeñas barras de Oro Puro” cuya procedencia es Suiza, específicamente de una refinería perteneciente a XXXX, ubicada en la ciudad de TTT, compañía líder mundial en la refinación del metal Oro y en su transformación a barras, las que están amparadas con las debidas certificaciones y que a efecto de referencia son conocidas y denominadas en la Comunidad Económica Europea como “Oro de Inversión”.
+Agrega que por regla general, este producto está destinado principalmente a inversionistas, quienes los adquieren para efectos de protegerse contra las fluctuaciones de inversiones alternativas o de divisas, tal como hoy día ocurre en Europa, específicamente en España y Portugal, favoreciendo en definitiva el metal Oro como un instrumento financiero de curso legal.
+Plantea que el producto se comercializa bajo diferentes formatos que presenta a través de imágenes, indicando que las características principales del producto son las siguientes:
+a) Todas las barras pequeñas de oro están “serializadas” a través de un código que las individualiza.
+b) Todas las barras pequeñas de oro se entregan con un certificado adjunto que respalda la calidad de refinación del oro.
+c) Todas las barras pequeñas de oro poseen un holograma exclusivo de XXXX que impide su falsificación denominado “Kinebars”, siendo ésta única empresa que tiene la capacidad técnica de hacer el sello “Kine”, el que también es usado en la fabricación de los billetes euros.
+Dicho producto está internacionalmente aceptado como Good Delivery producer and Referee, lo que se ha acreditado por LBMA (London Bullion Market Association), empresa cuyo dueño es el Banco Central de Inglaterra, principal entidad fiscalizadora de oro del mundo.
+Mediante Oficio N° 15536, de 08/09/2009 del Banco Central, que acompaña, y en respuesta a su consulta sobre la materia, dicho organismo concluye que en cuanto se atienda al cumplimiento de determinadas condiciones referentes a su producción seriada, en formatos estandarizados, certificados y dotados de mecanismos de seguridad que permitan su fácil comercialización y amplía transacción en mercados internacionales y que sean aceptados en el mismo carácter como medio de pago de obligaciones en dichos mercados, las transferencias o transacciones que se efectúen sobre estas barras de oro o sobre títulos representativos de éstas, constituirían operaciones de cambios internacionales en los términos del artículo 39° de la Ley Orgánica Constitucional (LOC) y del numeral 2 del Capítulo I del Compendio de Normas de Cambios Internacionales.
+
+II.- ANALISIS
+
+Mediante Oficio N° 299, de 2012, este Servicio señaló que en virtud de lo dispuesto en los números 1 y 3 del artículo 2°, artículo 8° letra a) y artículo 37° letra a), del Decreto Ley N° 825, de 1974, la importación del producto “pequeñas barras de oro puro”, se encuentra afecta a los impuestos que en general gravan este tipo de operaciones, esto es, Impuesto al Valor Agregado e Impuesto Adicional a los productos de oro. Por su parte, las posteriores ventas internas, en la medida que se dé cumplimiento a los requisitos que el Banco Central establece para que las barras de oro sean consideradas especies de oro que por su naturaleza se presten para servir como medio de pago, constituyendo de esta manera operaciones de cambios internacionales en los términos del artículo 39° de la LOC del Banco Central, no se encontrarán afectas a Impuesto al Valor Agregado ni al Impuesto Adicional antes señalado.
+
+Sin embargo, mediante Oficio N° 1333, de 2013, y teniendo presente el Tratado de Libre Comercio suscrito entre Chile y la Asociación Europea de Libre Comercio, en vista que las referidas barras de oro serán importadas desde Suiza, país que al igual que Chile es miembro de la Asociación Europea de Libre Comercio, en adelante AELC; este Servicio determinó que dicha importación no se afectará con el Impuesto al Valor Agregado ni con el Impuesto Adicional del artículo 37°, letra a) del D.L. N° 825, de 1974, por aplicación de las disposiciones del mencionado tratado de Libre Comercio, en la medida que se cumpla con los requisitos que establece el Banco Central para que dicho producto sea considerado por su naturaleza para servir como medio de pago, en los términos del artículo 39° de LOC del Banco Central y que se verifiquen los requisitos de procedencia del arancel 0 de dicho tratado.
+
+III.- CONCLUSIÓN:
+
+En respuesta a su consulta, se confirma lo manifestado anteriormente por este Servicio, en cuanto a que, en la medida que se dé cumplimiento a los requisitos que establece el Banco Central, para que el producto barras pequeñas de oro puro, sean considerada especies de oro que por su naturaleza se presten para servir como medio de pago, constituyendo de esta manera operaciones de cambios internacionales en los términos del artículo 39° de la Ley Orgánica Constitucional del Banco Central, las Ventas Internas no se encontrarán afectas a Impuesto al Valor Agregado (IVA) ni al Impuesto Adicional, del D.L. N° 825, de 1974.
+
+Por su parte, y por aplicación del Tratado de Libre Comercio suscrito entre Chile y la Asociación Europea de Libre Comercio, tampoco se aplicarán dichos impuestos a la importación de los señalados productos.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1822, de 23.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

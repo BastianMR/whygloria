@@ -1,0 +1,59 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1563 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N° 8 – OFICIOS N°2386, DE 2007, N° 1818, DE 2009 Y N° 492, DE 2011. (ORD. N° 1563, DE 03.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1563.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1563.doc"
+materia: "renta"
+fecha: "2016-06-03"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 17, N° 8 – OFICIOS N°2386, DE 2007, N° 1818, DE 2009 Y N° 492, DE 2011. (ORD. N° 1563, DE 03.06.2016)
+
+APLICACIÓN DE NORMAS DE RELACIÓN EN LA VENTA DE ACCIONES DE SOCIEDADES CONSTITUIDAS EN CHILE.
+
+Se ha solicitado un pronunciamiento a este Servicio, respecto a si existiría relación en los términos del inciso 4°, del N° 8, del artículo 17 de la Ley sobre Impuesto a la Renta (LIR), en la venta de acciones que realizará una sociedad con domicilio o residencia en Chile a otra sociedad domiciliada en el extranjero, ambas vinculadas de forma indirecta a través de un propietario común.
+
+I.- ANTECEDENTES.
+
+Señala que la sociedad AAA, es una sociedad por acciones sujeta al régimen del Impuesto de Primera Categoría sobre la base de un balance general determinado según contabilidad completa, y proyecta realizar una operación en el año comercial 2015 consistente en la venta de las acciones que posee en la sociedad “XXX", domiciliada también en Chile, correspondientes al 50% de la propiedad de esta última.
+
+Hace presente que, la potencial vendedora AAA pertenece en un 100% a una sociedad extranjera denominada "BBB S.A.S", que a su vez es controlada en un 100% por la sociedad extranjera "CCC".
+
+Por su parte, la potencial compradora de las acciones sería una cualquiera de las sociedades domiciliadas en el extranjero que componen el Grupo estadounidense TTT, a saber: la sociedad TTT 1 LLC, que pertenece en un 100% a la sociedad TTT 2 LLC, que a su turno pertenece en un 100% a la sociedad TTT 3.
+
+A su turno, el dueño del 60% de TTT 3 es la compañía "YYYY, SAS", que pertenece en un 100% a la sociedad "BBB S.A.S.", la que a su vez es propiedad en un 100% de la sociedad "ZZZ S.A.", cuyas acciones en un 100% son de propiedad de la antes referida sociedad "CCC".
+
+De esta forma, la sociedad "CCC" posee indirectamente el 100% de las acciones de Nuevas Energías, y asimismo es dueña indirectamente - por intermedio de tres sociedades- del 60% de la acciones de la sociedad matriz del grupo TTT, la cual a su vez es dueña directa e indirecta del 100% de las sociedades extranjeras que podrían adquirir las acciones de la sociedad chilena “XXX".
+
+En atención a lo expuesto, solicita se confirme que la venta de acciones emitidas por "XXX” efectuada por AAA SpA a una sociedad domiciliada en el extranjero, que es indirectamente controlada por la misma entidad que controla indirectamente a la sociedad vendedora ("AAA") no calificaría como una venta entre partes relacionadas, para los efectos de la aplicación del artículo 17 N° 8 LIR, de acuerdo al texto vigente a la fecha de esta presentación.
+
+II.- ANÁLISIS.
+
+Sobre el particular, cabe señalar que la norma de relación establecida en el inciso 4°, del N° 8, del artículo 17 de la LIR, según su texto vigente hasta el 31 de diciembre de 2016, dispone que tratándose del mayor valor obtenido en las enajenaciones de acciones, que hagan los socios de sociedades de personas o accionistas de sociedades anónimas cerradas, o accionistas de sociedades anónimas abiertas dueños del 10% o más de las acciones, con la empresa o sociedad respectiva o en las que tengan intereses se afectarán con los impuestos de Primera Categoría y Global Complementario o Adicional, según corresponda, sobre el mayor valor que exceda del valor de adquisición, reajustado en los términos que establece tal norma.
+
+En relación a la materia en consulta, mediante Oficios N° 2.386 de 2007; N° 1.818 de 2009 y N° 492 de 2011, de conocimiento del consultante, este Servicio expresó que de lo dispuesto por la norma legal contenida en el inciso 4°, del N° 8, del artículo 17 de la LIR y del alcance que se le ha dado al referido precepto, se desprende que para que tenga aplicación dicha normativa, debe estarse ante una situación en la cual quién enajena es socio o accionista de la empresa bajo las condiciones que establece la norma, y por la otra, quién adquiere es la respectiva sociedad, o bien, el adquirente es una sociedad en la cual el socio o accionista tiene un interés patrimonial o económico, ya sea en forma directa o indirecta; pero dicha norma no tiene aplicación cuando es la sociedad respectiva la que vende o enajena, y el socio o accionista actúa como comprador, de la misma forma la norma no tiene aplicación cuando es la filial quien enajena a su matriz.
+
+III.- CONCLUSIÓN.
+
+De conformidad a lo anterior y respondiendo a la consulta formulada, de acuerdo a las normas legales y pronunciamientos de este Servicio antes citados, sólo cabe confirmar que no existiría relación en los términos descritos en el inciso 4°, del N° 8, del artículo 17 de la LIR, puesto que la sociedad por acciones domiciliada en Chile que enajena las acciones de otra sociedad constituida en el país, a una sociedad domiciliada en el extranjero, no tiene la calidad de socio o accionista de esta última, y no se verificaron en esta instancia otros antecedentes que permitieran establecer la existencia de un interés patrimonial o económico, ya sea en forma directa o indirecta de acuerdo a lo señalado, del enajenante en la sociedad adquirente.
+
+Sin perjuicio de lo anterior, cabe señalar que la apreciación y verificación de las circunstancias de hecho que indica en su presentación, y por tanto, la aplicación del indicado criterio en la situación específica que consulta, así como la verificación de los demás elementos que determinan la tributación aplicable al mayor valor obtenido en la enajenación de las acciones que señala, es una materia que debe ser establecida en las instancias de fiscalización que correspondan.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1563, de 03.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

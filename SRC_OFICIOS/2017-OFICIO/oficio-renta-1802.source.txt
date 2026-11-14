@@ -1,0 +1,5 @@
+source: oficio-renta-1802.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1802.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2017/ja1802.doc
+materia: renta
+retrieved: 2026-11-11

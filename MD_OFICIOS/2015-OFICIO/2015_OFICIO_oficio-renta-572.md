@@ -1,0 +1,93 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 572 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 33°, N°1, ART. 54°, ART. 62° – CÓDIGO TRIBUTARIO, ART. 126°. (ORD. N° 572, DE 24.02.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja572.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja572.doc"
+materia: "renta"
+fecha: "2015-02-24"
+exenta: false
+impuestos: ["renta", "timbres"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 21°, ART. 33°, N°1, ART. 54°, ART. 62° – CÓDIGO TRIBUTARIO, ART. 126°. (ORD. N° 572, DE 24.02.2015)
+
+EFECTOS DE LA DETERMINACIÓN POR PARTE DEL SERVICIO, DE INGRESOS OMITIDOS POR CONCEPTO DE INTERESES DEVENGADOS, EN CASO QUE EL MONTO DEL CRÉDITO QUE POSTERIORMENTE SE SOLUCIONA MEDIANTE LA CAPITALIZACIÓN Y SUSCRIPCIÓN DE ACCIONES DE LA SOCIEDAD DEUDORA, NO CONSIDERE EL MONTO DE DICHOS INTERESES.
+
+Se ha solicitado un pronunciamiento a este Servicio, en relación a los efectos tributarios que se derivan del reconocimiento de ingresos omitidos, determinados mediante liquidación practicada por una Dirección Regional, originados en intereses devengados a favor del contribuyente y no registrados en su contabilidad.
+
+I.- ANTECEDENTES.
+Expone la situación de la sociedad XXX Ltda. que fue objeto de un proceso de fiscalización iniciado por este Servicio, en virtud del cual se determinaron diferencias de impuestos por la omisión de ingresos brutos, provenientes de intereses devengados en créditos otorgados a una sociedad que opera un negocio regulado (en adelante la compañía).
+De acuerdo a lo resuelto por la Dirección Regional de este Servicio, XXX no habría reconocido en su contabilidad los intereses devengados durante el año comercial 2009, por lo que procedió a liquidar las diferencias de impuestos correspondientes.
+Posteriormente, frente al recurso de reclamación interpuesto por el contribuyente, el tribunal tributario falló confirmando las liquidaciones de impuesto emitidas por el Servicio, por lo que, la sociedad procedió a pagar los tributos determinados.
+Los intereses devengados a que se refieren las liquidaciones de impuesto, se originan en contratos de líneas de créditos celebrados por las partes a partir del año 2008, en los que se estipuló el pago de intereses. Conjuntamente con los referidos contratos, se suscribieron pagarés con el objeto de garantizar los fondos proporcionados que pasarían a ser capital social tan pronto se autorizara el ingreso de XXX a la propiedad de la compañía.
+Agrega que, al ser autorizada la incorporación de XXX a la propiedad de la compañía, y por aplicación de la cláusula de convertibilidad del crédito en acciones, estipulada en el contrato de línea de crédito, se llevó a cabo la capitalización de la deuda, sin embargo, ésta se efectuó solamente hasta el monto del crédito registrado en la contabilidad de la sociedad aportante, sin considerar los intereses devengados que fueron objeto de la liquidación de impuesto.
+Finalmente, sostiene que la liquidación de impuestos tiene efectos al aumentar los ingresos registrados en el Fondo de Utilidades Tributables (FUT), que no corresponderían a flujos reales, como lo demostraría el hecho que las deudas respaldadas con los pagarés fueron capitalizadas por un monto inferior, que no consideró los intereses que se habrían devengado durante el año comercial 2009, de acuerdo a lo resuelto por la Dirección Regional, por lo que el crédito pasó a ser un activo de un valor mayor al registrado contablemente.
+En razón de lo anterior, solicita se confirme lo siguiente:
+1. Como efecto de la liquidación de impuestos, se produce una pérdida equivalente a la diferencia entre el interés que se resolvió se había devengado y el monto inferior correspondiente al capital de la sociedad.
+
+2. Al volverse indebido el impuesto que la empresa pagó, porque se compensa el ingreso con la pérdida en el aporte de las acciones, procedería solicitar su devolución durante los siguientes 3 años contados desde el pago, conforme a lo dispuesto en el artículo 126 del Código Tributario.
+
+II.- ANÁLISIS.
+
+De acuerdo a los antecedentes que se acompañan, con fecha 26 de noviembre de 2008, XXX y la compañía celebraron un contrato de línea de crédito, en virtud del cual la primera otorgó una línea de financiamiento para que con cargo a ella la compañía realizara desembolsos hasta por un monto total y máximo por concepto de capital de: Tramo A: xxxxx unidades de fomento; y Tramo B: xxxxxx unidades de fomento (cláusula primera del contrato). Dicha línea tendría el carácter de no rotativa, de manera que los abonos que efectuara el deudor a los créditos que se cursaran con cargo a ella no le darían el derecho a nuevas disponibilidades.
+
+En el contrato se establece además que respecto de los créditos, se devengarían a contar de la fecha de su respectivo desembolso y hasta la fecha de su pago íntegro y efectivo, intereses a una tasa de interés anual aplicable a cada período de intereses, igual a la tasa TAB reajustable a 90 días más un margen de 1,5% anual.
+
+En cuanto a la convertibilidad del crédito en acciones, se establece (cláusula décimo cuarta del contrato) que habrá lugar a la conversión del capital adeudado bajo los créditos en las fechas de vencimiento previstas en el contrato, a razón de una acción Serie A de la compañía por cada una unidad de fomento de capital pendiente de pago, excluido cualquier monto por concepto de intereses o impuesto de timbres, capitalizados o no.
+
+Con fecha 31.12.2009 se celebra entre las partes, un contrato de suscripción y pago de acciones de la compañía, luego que la Superintendencia respectiva autorizara con fecha 30.12.2009 la incorporación de XXX a la propiedad de la primera. En virtud de este contrato, XXX suscribe 2.141.000 acciones serie A, en el precio de $xxxxx pesos por acción. El pago del precio total de las acciones, se efectuó en el mismo acto mediante el endoso de cheque extendido por la compañía a favor de XXX en pago de los créditos que adeudaba a esta última, por la suma de xxxxxx unidades de fomento, equivalente al capital otorgado según el contrato de línea de crédito antes referido.
+
+Como puede observarse, la convertibilidad de la deuda en acciones de la compañía solo se produjo hasta por el monto del capital originalmente pactado, sin considerar los intereses adeudados producto del contrato de línea de crédito. Más aún, de los antecedentes contables de XXX (según anexo 11 adjunto a su presentación), se puede apreciar que los intereses se registraron en forma separada del capital, en una cuenta de activo denominada “INT. X COBRAR PAGARÉ”, cuyos saldos según balances al 31.12.2008 y 31.12.2009, ascendían a las sumas de $xxxxxx y $xxxxxx, respectivamente.
+
+Ahora bien, en relación a los efectos que se derivan del reconocimiento de ingresos omitidos provenientes de los intereses devengados durante el año 2009 por XXX, cabe tener presente que, en virtud de lo dispuesto en el N° 1, del artículo 2° de la LIR, los ingresos que se perciban o devenguen representan incrementos de patrimonio, que se materializan a través del aumento de activos o la disminución de pasivos que conforman dicho patrimonio, lo que es corroborado por el N° 2 del mismo artículo, que señala que la renta devengada representa un crédito o derecho para su titular.
+
+Respecto del momento en que debe reconocerse el ingreso y el activo correspondiente, según lo establecido en el artículo 29, en concordancia con el inciso 4°, del artículo 20, ambos de la LIR, tratándose de intereses y demás rentas señaladas en el N° 2 de este último artículo, obtenidas por contribuyentes de la primera categoría que desarrollan actividades de los N° 1°, 3°, 4° y 5° de la misma norma, que demuestren sus rentas efectivas mediante un balance general, tales rentas deben incluirse en los ingresos brutos del año en que sean devengadas o, en su defecto, del año en que sean percibidas, siempre que la inversión generadora de dichas rentas forme parte del patrimonio de la empresa, no siendo aplicable en estos casos, la excepción establecida en la parte final del referido inciso 2° del artículo 29 de la LIR.
+
+Considerando lo anterior, el reconocimiento de ingresos omitidos, provenientes de intereses devengados por XXX, necesariamente trae como consecuencia el correspondiente aumento del crédito que dio origen a dichas rentas, en un monto equivalente al interés devengado. Por lo tanto, el hecho que la sociedad no haya registrado en su contabilidad los intereses devengados durante el año 2009, no es argumento suficiente para sostener la inexistencia del crédito equivalente, más aún, si la sociedad reconoció tales ingresos y pagó los impuestos correspondientes.
+
+De esta forma, según dan cuenta los contratos de línea de crédito y de suscripción y pago de acciones, con motivo de la cláusula de convertibilidad del crédito en acciones de la compañía, las partes acordaron que la deuda se extinguiera hasta el monto del capital adeudado sin considerar intereses, manteniéndose un saldo insoluto del crédito, que corresponde a los intereses adeudados, de los cuales una parte han sido reconocidos en la contabilidad de XXX, según consta en los balances de la empresa, y la otra parte tendría su origen en el reconocimiento de los ingresos omitidos por los intereses devengados durante el año 2009.
+
+En consecuencia, el saldo insoluto de dicha deuda solo podrá extinguirse a través del pago u otro modo de extinguir las obligaciones, conforme a lo establecido en el artículo 1.567 del Código Civil.
+
+Al respecto, cabe referirse especialmente a la remisión o condonación, modo de extinguir obligaciones establecido en el N° 4, del inciso 2°, del citado artículo 1.567, que consiste en la renuncia voluntaria y gratuita que efectúa el acreedor de su crédito, consintiéndolo así el deudor .
+
+Sobre el particular, este Servicio ha señalado que los efectos tributarios de la condonación o remisión del crédito serían los siguientes:
+
+a) Respecto del deudor: la renuncia del acreedor a su derecho de exigir el pago del crédito implica que el monto de la deuda remitida constituye un incremento de patrimonio para el deudor, conforme a lo establecido en el N°1 del artículo 2 de la LIR, es decir, constituye una renta que deberá afectarse con los tributos que correspondan de acuerdo a las reglas generales.
+
+Para determinar el monto de la renta producto de la remisión, se estará al saldo insoluto de la deuda, considerando el monto de capital, reajustes e intereses adeudados conforme a los respectivos títulos de deuda o contratos.
+
+b) Respecto del acreedor: la pérdida que éste sufre, en razón de la renuncia voluntaria al derecho indicado anteriormente, adopta la calidad de una partida de aquellas señaladas en el N° 1, del artículo 33 de la LIR.
+
+En efecto, como consecuencia de esta renuncia el crédito condonado deja de formar parte del patrimonio tributario de la empresa, constituyendo esta disminución patrimonial una cantidad representativa de desembolsos de dinero, que no debe imputarse al valor o costo de los bienes del activo de la empresa, por lo que se encuentra gravada con la tributación dispuesta por el artículo 21 de la LIR.
+
+III.- CONCLUSIÓN.
+
+Considerando lo anteriormente expuesto, en relación a los criterios que solicita confirmar, se concluye lo siguiente:
+
+1.- Con motivo de la cláusula de convertibilidad del crédito en acciones de la compañía, las partes acordaron que la deuda se extinguiera hasta el monto del capital adeudado sin considerar intereses, manteniéndose un saldo insoluto del crédito, que corresponde a los intereses adeudados, razón por la cual no puede producirse la pérdida que indica en su presentación.
+
+Dicha diferencia sólo se produciría si XXX hubiere renunciado voluntaria y gratuitamente a su derecho de exigir el pago de la parte del crédito correspondiente a los intereses devengados durante el año 2009, y el deudor ha consentido en ello.
+
+Ahora bien, atendida la fecha en que podría haber ocurrido aquello, la referida pérdida constituye un gasto rechazado que debe agregarse a la renta líquida imponible del impuesto de primera categoría para la aplicación y cálculo de dicho tributo, siempre que la haya disminuido, debiendo considerarse como retiradas por los socios de XXX, al término del ejercicio respectivo, para afectarse con los impuestos global complementario o adicional, según corresponda, en virtud de lo dispuesto en los artículos 21, 33 N°1, 54 y 62, de la LIR, según su texto vigente a la fecha en que habrían ocurrido la operación.
+
+2.- En la especie no resulta aplicable lo dispuesto en el N° 2, del artículo 126 del Código Tributario, por cuanto, la cláusula de convertibilidad del crédito en acciones no extinguió el total de la deuda, sino que sólo el capital, manteniéndose insoluto la parte correspondiente a los intereses.
+
+En todo caso, si se hubiere efectuado la condonación de dicha deuda, el efecto en resultado que la pérdida sufrida por XXX pudiera generar por dicho motivo, se revierte con el ajuste que ordena el N° 1 del artículo 33 de la LIR, sin que ello altere de modo alguno la base imponible de primera categoría declarada por el contribuyente, por lo tanto, no se verifica el requisito que exige el referido artículo 126, esto es, que exista un pago indebido de impuestos.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 572, de 24.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

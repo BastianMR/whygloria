@@ -1,0 +1,67 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1147 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 20.780, DE 2014, ARTÍCULOS 6° Y 7° TRANSITORIOS. (ORD. N° 1147, DE 27.04.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1147.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1147.doc"
+materia: "iva"
+fecha: "2015-04-27"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – LEY N° 20.780, DE 2014, ARTÍCULOS 6° Y 7° TRANSITORIOS. (ORD. N° 1147, DE 27.04.2015)
+
+APLICACIÓN DE LOS ARTÍCULOS 6° Y 7° TRANSITORIOS DE LA LEY N° 20.780.
+
+I.- ANTECEDENTES:
+
+En su presentación el contribuyente señala que son una sociedad inmobiliaria que pretende iniciar a la brevedad un proyecto consistente en la construcción de un edificio de 23 pisos en la ciudad de Santiago. Indica que la condición más importante para decidir el inicio de la construcción es saber con certeza el período de tiempo en que las ventas de las unidades estarán exentas del nuevo Impuesto al Valor Agregado que afecta a las ventas inmobiliarias.
+
+Afirma que en la modificación introducida al D.L. N° 825, de 1974, por la Ley N° 20.780, específicamente en su artículo 7° transitorio se indica que las ventas de bienes corporales inmuebles estarán exentas de IVA cuando éstas se efectúen “dentro del plazo de un año contado desde la fecha a que se refiere el numeral quinto transitorio”. En dicho numeral se indica que “entrarán en vigencia a contar del 1° de enero de 2016. De esta manera entendemos que la venta de bienes corporales inmuebles estará exenta de IVA hasta el 1 de enero de 2017.
+
+Además, indica que es importante saber cuáles debieran ser los contenidos y condiciones de las promesas de compraventa (firmadas con anterioridad al plazo de término de la exención del pago de IVA) para que una vez materializada la venta sean consideradas ventas exentas de IVA.
+
+II.- ANÁLISIS.
+
+El artículo 6° transitorio de la Ley N° 20.780 señala que: “Las modificaciones introducidas por el artículo 2° en el decreto ley N° 825, de 1974, sobre Impuesto a las Ventas y Servicios, no se aplicarán a las ventas y otras transferencias de dominio de inmuebles, que se efectúen en virtud de un acto o contrato cuya celebración se hubiere válidamente prometido con anterioridad a la fecha de entrada en vigencia de la presente ley a que se refiere el número 1 del artículo precedente, en un contrato celebrado por escritura pública o por instrumento privado protocolizado. Del mismo modo, no se aplicarán dichas disposiciones a las transferencias de inmuebles que se efectúen en virtud de un contrato de arrendamiento con opción de compra celebrado con anterioridad a la fecha de entrada en vigencia señalada, siempre que dicho contrato se haya celebrado por escritura pública o instrumento privado protocolizado”.
+
+Asimismo, el artículo 7° transitorio de la Ley N° 20.780 señala que: “Estarán exentas del impuesto al valor agregado las ventas de bienes corporales inmuebles que se graven como consecuencia de la modificación que se introduce en el artículo 2 del decreto ley N° 825, de 1974, a través de la letra a) del numeral 1 del artículo 2° de la presente ley, siempre que dichos bienes cuenten, al 1 de enero de 2016, con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcciones, y las ventas respectivas se efectúen dentro del plazo de un año contado desde la fecha a que se refiere el numeral 1 del artículo quinto transitorio”.
+
+Respecto del artículo 6° éste indica que las ventas y otras transferencias de dominio de bienes corporales inmuebles que se efectúen a partir del 1° de enero de 2016 no quedarán afectas a IVA, exigiendo como requisito que previo a la fecha mencionada se haya suscrito un contrato de promesa mediante escritura pública o instrumento privado protocolizado. Misma situación será aplicable a otras transferencias de inmuebles que se realicen como consecuencia de la suscripción de un contrato de arrendamiento con opción de compra por escritura pública o instrumento privado protocolizado con anterioridad al 1° de enero de 2016.
+
+Ahora bien, en relación al artículo 7° transitorio de la Ley N° 20.780, debemos indicar que para que una venta de un bien corporal inmueble esté exento de IVA, por una parte dicha operación deberá contar con el permiso de edificación que alude la Ley General de Urbanismo y Construcciones, y además, realizarse dentro del plazo de un año contado desde el numeral 1 del artículo quinto transitorio de la Ley 20.780. Dicho numeral indica que:
+
+“Artículo quinto.- Las disposiciones del artículo 2° entrarán en vigencia conforme a las siguientes reglas:
+
+1.- Lo dispuesto en los números 1, 3, 4, 5, letra b), 6, 7, 8 y 9, letra b), entrará en vigencia a contar del 1 de enero de 2016”.
+
+De acuerdo a lo expresado, y contestando la primera interrogante planteada por el contribuyente, el plazo a que hace mención la última parte del artículo 7° transitorio de la Ley N° 20.780 se cuenta desde el 1° de enero del año 2016, y, de acuerdo a las normas de cómputo de plazo establecidas en el Código Civil, vence el día 1 de enero de 2017.
+
+En relación a la segunda interrogante del contribuyente es necesario hacer presente que en el caso del artículo 7° transitorio de la Ley N° 20.780, los únicos requisitos que exige la norma para efectos de que las ventas de bienes corporales inmuebles queden exentas de IVA son que dichos bienes cuenten al 1° de enero de 2016 con el permiso de edificación a que se refiere la Ley General de Urbanismo y Construcciones, y que las ventas respectivas se efectúen dentro del plazo de un año contado desde el 1° de enero de 2016, no siendo necesario que tales ventas requieran de un contrato de promesa previo para verse beneficiada con la exención, situación que sí se exige en lo referido al artículo 6° transitorio de la Ley N° 20.780, indicando al efecto que la promesa celebrada con anterioridad a la vigencia de la ley, debe constar en escritura pública o en instrumento privado protocolizado.
+
+Sin perjuicio de lo señalado precedentemente, el contrato de promesa aludido debe cumplir a lo menos con todos los requisitos establecidos en el artículo 1.554 del Código Civil que lo distingue de otros tipos de contratos.
+
+III.- CONCLUSIÓN:
+Respecto del plazo establecido en la última parte de la norma del artículo 7° transitorio de la Ley N° 20.780, éste se cuenta desde el día 1 de enero de 2016, venciendo el día 1 de enero de 2017.
+Con relación a la segunda interrogante, cabe hacer presente que tratándose de la aplicación del artículo 7° transitorio de la Ley N° 20.780, para que las ventas de bienes corporales inmuebles queden exentas de IVA no es requisito previo la suscripción de un contrato de promesa, hecho que sí es exigido en caso de aplicar lo dispuesto en el artículo 6° transitorio de la misma ley, el cual exige que la promesa celebrada conste en escritura pública o en instrumento privado protocolizado, debiendo además constar en dicho contrato, a lo menos, el cumplimiento de los requisitos establecidos en el artículo 1.554 del Código Civil.
+
+Se hace presente que para que opere la exención contenida en el artículo séptimo transitorio de la Ley 20.780 es necesario que le venta se efectúe dentro del plazo de un año contado desde el 1° de Enero del 2016, por lo que si dentro de este plazo sólo se efectúa un contrato de promesa, la venta posterior no se encontrará exenta de impuesto.
+
+La única posibilidad de que una venta no se grave con IVA cuando tenga como antecedente un contrato de promesa es que éste haya sido celebrado con anterioridad al 1° de Enero de2016, por aplicación de lo dispuesto en el artículo 6° transitorio, y en dicho caso, no existe plazo para la celebración del contrato de venta posterior.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1147, de 27.04.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

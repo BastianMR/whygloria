@@ -1,0 +1,63 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 844 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 12°, LETRA E), N° 4° – DECRETO N° 956, DE 1999, ART. 36. (ORD. N° 844..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja844.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja844.doc"
+materia: "iva"
+fecha: "2013-04-25"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 2°, N°2, ART. 12°, LETRA E), N° 4° – DECRETO N° 956, DE 1999, ART. 36. (ORD. N° 844, DE 25.04.2013)
+
+SEGURO CONTRA CATÁSTROFE CON OCASIÓN DE UN CONTRATO DE CONCESIÓN DE OBRA PÚBLICA.
+
+Se ha recibido en este Servicio el Oficio del antecedente, mediante el cual se remite la presentación efectuada XXXX, quien consulta sobre la afectación con IVA de la prima y monto de la indemnización pagada en virtud de un seguro contra catástrofe que debe contratar el adjudicatario de la concesión de una obra pública fiscal.
+
+I.- ANTECEDENTES:
+
+Expresa en la presentación que las bases de licitación de los contratos de concesión de una obra pública fiscal imponen al adjudicatario de la concesión la obligación de contratar una póliza de seguro que cubra la responsabilidad civil por daños a terceros y los riesgos catastróficos, durante la etapa de construcción y explotación de la obra.
+
+Específicamente con respecto al seguro contra catástrofe, existe incertidumbre sobre si la prima de seguro se encuentra afecta a IVA como asimismo si las indemnizaciones entregadas por las empresas aseguradoras contratadas por los adjudicatarios deben incluir el IVA soportado en la reconstrucción de la obra. Adicionalmente, requiere que se indique quién debe asumir el IVA soportado en dicha reconstrucción, en caso que la indemnización sólo alcanzase el valor neto incurrido en ella.
+
+II.- ANÁLISIS:
+
+1.- El Decreto N° 956, de 1999, del Ministerio de Obras Públicas, que contiene el Reglamento del Decreto con Fuerza de Ley N°164, dispone en su Art. 36° que la sociedad concesionaria deberá tomar pólizas de seguro que cubran la responsabilidad civil por daños a terceros y los riesgos catastróficos que puedan ocurrir durante el período de concesión. Las sumas percibidas producto de los seguros por catástrofes serán destinadas a la reconstrucción de la obra, salvo que las partes acuerden destinarlas a otros fines u obras propias del contrato de concesión.
+
+La referida norma agrega que las bases de licitación determinarán los plazos, forma, condiciones, modalidades y las demás cláusulas que deberán contener dichas pólizas, así como el procedimiento de aprobación de éstas.
+
+2.- En primera instancia se puede indicar que el Art. 2°N°2, del Decreto Ley N°825, de 1974, grava con IVA los servicios, definidos como la acción o prestación remunerada que una persona realiza para otra, siempre que provenga del ejercicio de actividades comprendidas en los numerales 3) ó 4), del Art. 20° de la Ley sobre Impuesto la Renta. Por su parte, el N°3 del Art. 20° de la Ley sobre Impuesto a la Renta comprende, entre otras actividades, la desarrollada por los seguros.
+
+De esta forma, por regla general, las primas pagadas por la contratación de un seguro se gravan con Impuesto al Valor Agregado, salvo que queden liberaras por la aplicación de alguna de las exenciones contenidas en el Art. 12° letra E) del Decreto Ley N°825, de 1974.
+
+Por otra parte, el Art. 12 letra E) N°4 del Decreto Ley N°825, de 1974, exime de IVA las primas de seguros que cubran riesgos de daños causados por terremotos o por incendios que tengan su origen en un terremoto. La exención rige sea que el riesgo haya sido cubierto mediante póliza específica contra terremoto o mediante una póliza contra incendio que cubra el terremoto como riesgo adicional, aplicándose en éste último caso la exención sólo respecto de la prima convenida para cubrir dicho riesgo adicional.
+
+3.- De acuerdo al Art. 6°, letra A), N° 1, del Código Tributario, al Director de este Servicio le corresponde interpretar administrativamente las disposiciones de carácter tributario, careciendo de facultad este Servicio para determinar si la indemnización pactada por el adjudicatario de una concesión con la aseguradora debe comprender solamente el valor neto incurrido en la reconstrucción, o por el contrario, debe incluirse en ella el IVA incurrido y soportado por la concesionaria en la restauración, ello considerando que las condiciones de la póliza son temas regulados en las bases de licitación de acuerdo al Art. 36 citado.
+
+Adicionalmente, cabe señalar que quien debe asumir la carga financiera del IVA soportado y pagado en la reconstrucción de la obra no cubierto por el monto de la indemnización, también es un tema atingente a las bases de la licitación y demás acuerdos asumidos por las partes que han suscrito el contrato de obra pública, sin que este Servicio pueda pronunciarse sobre ello.
+
+Sin perjuicio de lo anterior, si las partes han acordado que el Fisco asuma financieramente el IVA soportado y no cubierto por la indemnización pagada por la compañía de seguros a la sociedad concesionaria, conforme a lo dispuesto en la Circular N°44, del 02.08.1996, dicho monto constituiría parte del precio de la convención y base imponible del IVA aplicable.
+
+III.- CONCLUSIÓN:
+
+En la medida que el seguro contratado para cubrir riesgos catastróficos tenga por objeto exclusivo cubrir perjuicios derivados de un terremoto o de un incendio originado en un terremoto, la prima cobrada por la compañía de seguros está exenta de IVA. Por el contrario, de asegurarse otro tipo de daños conectados con las obra, la primas quedarían afectas a IVA.
+
+La determinación del monto de la indemnización pagada por la compañía de seguro como asimismo quien deberá soportar el monto del IVA no cubierto por la indemnización, constituye temas ajenos a la competencia de este Servicio.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR SUBROGANTE
+
+Oficio N° 844, de 25.04.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

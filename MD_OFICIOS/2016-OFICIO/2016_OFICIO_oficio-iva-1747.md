@@ -1,0 +1,138 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1747 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 18, ART. 2, N°3, ART. 23, N°3, ART. 52 – D.S. N° 55, DE 1977, DE HACIENDA, ART. 43 ..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1747.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1747.doc"
+materia: "iva"
+fecha: "2016-05-17"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 18, ART. 2, N°3, ART. 23, N°3, ART. 52 – D.S. N° 55, DE 1977, DE HACIENDA, ART. 43 – RESOLUCIÓN EXENTA N° 6080, DE 1999. (ORD. N° 1747, DE 17.05.2016)
+
+OPERACIONES DE MUTUO O PRÉSTAMO DE CONSUMO ENTRE USUARIOS DE UNA TERMINAL DE GNL EN CONFORMIDAD A UN CONTRATO FIRMADO ENTRE AQUÉLLOS. APLICACIÓN DEL ARTÍCULO 18° DEL D.L. N° 825, DE 1974.
+
+I. ANTECEDENTES:
+
+La empresa TTTT, es una de las principales generadoras eléctricas del norte de Chile, con aproximadamente el 49% de participación en el Sistema Interconectado del Norte Grande, dedicándose principalmente a la producción, distribución y suministro de energía eléctrica a empresas mineras y clientes industriales establecidos en el norte del país.
+
+A objeto de cumplir con los servicios mencionados, los consultantes indican que TTTT necesita de gas natural licuado o “GNL”, como combustible para la generación eléctrica, el cual representa una alternativa potencialmente más económica y ambientalmente más amigable que otros combustibles fósiles.
+
+Señalan que dado que en Chile no existen reservas de gas natural utilizable en el norte grande, éste debe ser importado de otros países en naves metaneras, para lo cual el gas se somete a un proceso de licuefacción y a temperaturas de menos de 162 grados Celsius, reduciéndose en aproximadamente 600 veces su volumen para transportarlo.
+
+Indican que sin perjuicio de que el proceso de licuefacción permite transportar GNL en naves metaneras de una manera mucho más eficiente, para poder utilizarlo como combustible es necesario volver a convertir el GNL en gas, proceso que se denomina regasificación y se realiza en plantas especialmente habilitadas para esos efectos.
+
+Para los efectos anteriores, los consultantes indican que la sociedad XXXX S.A., prestará los servicios de almacenaje y regasificación de GNL en Mejillones, los cuales consisten en proveer la infraestructura portuaria para el atraque de naves metaneras; descarga, recepción, medición y almacenamiento de GNL; regasificación de GNL; transporte de gas hasta el punto de entrega, y medición y entrega del mismo.
+
+El GNL es mantenido por XXXX a nombre y por cuenta de cada cliente. Para estos efectos cada cliente celebró con XXXX un contrato denominado “Condiciones Generales de Acuerdo de Uso del Terminal de GNL”.
+
+Sostiene que para prestar el servicio de almacenamiento y regasificación que actualmente proporciona, XXXX cuenta con una terminal en Mejillones (en adelante, el “Terminal”), que incluye un muelle para recibir las naves metaneras, un estanque en tierra para almacenar el GNL proveniente de las naves, las instalaciones de regasificación y la conexión a los gaseoductos existentes para transportar y entregar el gas a los clientes.
+
+Los servicios de XXXX, y en consecuencia del Terminal, cuentan con varios usuarios o clientes, entre los cuales se encuentra TTTT.
+
+Indican los consultantes que todos los clientes del Terminal, necesitan contar con un flujo constante de gas natural para su operación. Para estos efectos, cada usuario comprará en el extranjero e importará en naves metaneras su propio GNL que entregará a XXXX para que sea almacenado y regasificado, y de esta manera satisfacer su necesidad de un flujo constante de gas natural.
+Dado los procesos comentados, los consultantes señalan que en razón de la capacidad limitada del estanque del Terminal, resulta físicamente imposible que los clientes descarguen su GNL de manera simultánea, siendo necesario esperar que se regasifique el GNL almacenado en el estanque por parte de un cliente, para luego poder recibir una nueva carga de GNL por parte de otro cliente.
+
+Sin embargo, por la necesidad que tendrán los usuarios del Terminal de recibir un flujo constante de gas natural para sus operaciones, no es viable que algunos usuarios esperen sin recibir gas natural, mientras otro consuma la totalidad del GNL que importe. Lo anterior es particularmente relevante, en atención que se prevé que la mayor parte del GNL regasificado será utilizado para generación de energía y uso industrial, proceso que idealmente requiere de continuidad operativa.
+
+Bajo este contexto, los clientes del Terminal junto a GNL, acordaron un sistema de turnos para la importación y almacenamiento de GNL, en virtud del cual el cliente a quien le corresponda importar su carga de GNL de conformidad a un orden preestablecido, debe prestar a los otros clientes una cierta cantidad de dicho GNL, con cargo a que los otros clientes le restituyan la misma cantidad prestada una vez que importen su propio GNL. Así, el cliente que reciba GNL en préstamo de parte del cliente que importe, deberá restituir la misma cantidad de GNL que le fue prestada una vez que efectúe su propia importación.
+
+A partir de lo anterior, todos los clientes del Terminal contarán con una parte o proporción del GNL en cada importación (denominada “Asignación de Carga”), que les permitirá mantener un inventario de GNL en XXXX, a su propio nombre, contra el cual efectuar retiros de gas en forma ininterrumpida a medida que éste sea regasificado.
+Para estos efectos, todos los usuarios del Terminal celebraron el denominado “Acuerdo de Coordinación de Operaciones”, que es el Anexo L del contrato “Condiciones Generales de Acuerdo de Uso del Terminal de GNL” que cada usuario suscribió con XXXX.
+
+Mediante el instrumento aludido, cada cliente asume la obligación recíproca a favor de cada uno de los otros clientes de entregar y transferir a los otros clientes las cantidades de GNL que correspondan según la Asignación de Carga para cada cliente. El GNL será recibido por XXXX, quien lo registrará como “Inventario” a nombre de cada cliente según la referida Asignación de Carga. Así se logrará que cada usuario o cliente tenga de manera permanente una cierta cantidad de GNL disponible, la que podrá regasificar en el Terminal, satisfaciendo de esta forma su necesidad de un flujo constante de gas natural.
+
+Los consultantes indican que las transferencias de GNL que efectuará el cliente importador a los demás clientes del Terminal, se materializarán mediante mutuos o préstamos de consumo sin que se cobre remuneración, utilidad o interés alguno por dicho préstamo. Sostienen que el artículo 2196 del Código Civil, define mutuo o préstamo de consumo como un contrato en que una de las partes entrega a otra cierta cantidad de cosas fungibles con cargo de restituir otras tantas del mismo género y calidad.
+
+También indican que, desde el punto de vista tributario, el artículo 18° de la Ley de IVA, aplica a los préstamos de consumo el mismo tratamiento que a las permutas.
+
+A su vez, sostiene que en las ventas de bienes corporales muebles, situación que se asimilaría un mutuo, el IVA se devenga al momento de la emisión de la correspondiente factura o boleta, o de la entrega real o simbólica de la cosa, lo que ocurra primero.
+
+En razón de lo anterior, y teniendo en consideración que los préstamos de GNL se realizarán entre contribuyentes de IVA, corresponderá documentar el mutuo con una factura, la cual deberá emitirse al momento de la entrega real o simbólica del GNL, hecho que ocurrirá, de conformidad al “Acuerdo de Coordinación de Operaciones”, al momento en que el GNL pase por el “Punto de Recepción” de las instalaciones de XXXX (según se define en el contrato “Condiciones Generales de Acuerdo de Uso de Terminal de GNL”), momento en que esta compañía pasará a registrarlo como Inventario de cada cliente, en proporción a la respectiva Asignación de Carga.
+
+Con relación a la base imponible del préstamo para efectos de IVA, y en consecuencia, el precio que se deberá reflejar en la factura, el artículo 18 de la Ley de IVA, establece que se debe considerar el valor de los bienes comprendidos en el mutuo.
+
+Dicho lo anterior los consultantes proponen que para establecer el valor a considerar para los préstamos de GNL y las restituciones de los mismos se tome como base el precio neto de importación para el mutuante para cada operación de préstamo, sin importar el precio que al mutuario le cueste importar su GNL. Lo anterior, a efectos de no provocar distorsiones en los resultados tributarios y financieros de las empresas usuarias del GNL.
+
+En su presentación los consultantes exponen que en conformidad al llamado principio de la autonomía de la voluntad, consagrado en normas de derecho común, las partes se encuentran perfectamente facultadas para acordar operar de acuerdo a lo dicho en el párrafo precedente, sin perjuicio de lo señalado en el artículo 64 del Código Tributario.
+
+Teniendo presente lo anterior, los consultantes relatan que en consideración a que los préstamos y restituciones de GNL se harán según el precio de importación del mutuante en cada operación, muy probablemente éste puede ser distinto al precio de importación de GNL para el obligado a restituir. En consecuencia se podría dar la situación que un importador estará efectuando su importación de GNL a un precio determinado y al mismo tiempo estará restituyendo cantidades de GNL que le fueron prestadas, para lo cual utilizará un precio distinto. Una revisión aislada por parte del SII sobre estas operaciones, podría llevar a que dicho Servicio considere a primera vista, que el valor utilizado pueda diferir del corriente en plaza, o de los que normalmente se cobren en convenciones de similar naturaleza.
+
+Indica que teniendo en cuenta las particularidades y características de las operaciones señaladas, se podría justificar que el precio de importación de GNL para un cliente pueda no ser coincidente con el que se utilice para la restitución de cantidades de GNL que le fueron prestadas, lo cual no significa que se den los presupuestos establecidos en el artículo 64 del Código Tributario para que el SII ejerza su facultad de tasación. Al respecto hace presente que:
+
+a) Las operaciones de préstamo con sus respectivas restituciones, se realizarán entre las mismas partes, y el objeto de estas será la misma cantidad de bienes de igual género y calidad, por lo que resulta evidente la similitud entre ambas operaciones.
+En ese sentido, al ser la operación de préstamo realizada al mismo precio de la de restitución, teniendo en consideración la naturaleza similar o idéntica entre ambas, es claro que ninguna de las operaciones se realizará a un valor notoriamente inferior a operaciones similares.
+
+b) El valor al cual el mutuario restituye el GNL que le fue prestado, representará el valor del mismo para dicho mutuario a la época en que se le efectúe el préstamo.
+
+c) Como lo establece el artículo 64 del Código Tributario, hay que tener en consideración las circunstancias en que se realizan las operaciones.
+
+Por último, reiteran que la única forma de que los préstamos de GNL resulten neutros para mutuantes y mutuarios, es que las operaciones se realicen al mismo valor. En ese sentido resultaría del todo razonable y lógico valorizar dichas operaciones según el costo de importación para el mutuante. De esta forma se logra que los clientes reflejen en sus estados financieros su costo real, equivalente al costo de importación de GNL, sin que se produzcan pérdidas o utilidades artificiales para los clientes y sin que se produzca perjuicio fiscal alguno.
+
+En resumen, los consultantes solicitan confirmar los siguientes criterios:
+
+a) Que el mutuo o préstamo de consumo de GNL es un hecho gravado con IVA.
+
+b) Que corresponde que el mutuante emita una factura de venta al momento de la entrega del GNL en préstamo, y que el mutuario emita una nueva factura de venta al momento de la restitución de dicho GNL.
+
+c) Que de acuerdo a nuestra legislación tributaria, no es posible emitir facturas en que se detalle exclusivamente la cantidad y calidad del producto, sin asignarle un valor al mismo, no teniendo atribuciones el SII para autorizar la emisión de este tipo de documentos.
+
+d) Que los usuarios del Terminal pueden realizar las operaciones de préstamo de GNL al valor que estimen conveniente, en virtud del principio de autonomía de la voluntad.
+
+e) Que el proceder propuesto en esta presentación, específicamente en relación a la utilización del precio de importación de GNL para el mutuante, tanto de precio de referencia para las operaciones de préstamo como de restitución de GNL, en el contexto de un mutuo o préstamo de consumo, se ajusta a la normativa legal y tributaria vigente, no produciendo perjuicio alguno.
+
+f) Que sin perjuicio de la facultad de tasación establecida en el artículo 64 del Código Tributario, de proceder a ejercer dicha facultad en los préstamos y restituciones de GNL en la forma relatada por los consultantes, el SII debería considerar dentro de las circunstancias en que se realiza la operación, el conjunto de los préstamos y restituciones de GNL y la finalidad que han tenido los usuarios en dichos préstamos, no debiendo dichas operaciones ser analizadas en forma aislada para ese efecto.
+
+II. ANÁLISIS:
+
+Sobre el particular, cabe señalar que de conformidad al artículo 8° del D.L. N° 825, el IVA afecta a las ventas y servicios.
+
+Asimismo, el artículo 18° del mismo decreto Ley, en su inciso primero, establece que: “En los casos de permutas o de otras convenciones por las cuales las partes se obligan a transferirse recíprocamente el dominio de bienes corporales muebles, se considerará que cada parte que tenga el carácter de vendedor, realiza una venta gravada con el impuesto de este Título, teniéndose como base imponible de cada prestación, si procediere, el valor de los bienes comprendidos en ella. Lo dispuesto en este inciso será igualmente aplicable a las ventas en que parte del precio consiste en un bien corporal mueble, y a los préstamos de consumo.”
+
+En relación a lo anterior el número 3 del artículo 2° del D.L. 825 define al “vendedor” como cualquiera persona natural o jurídica, incluyendo las comunidades y las sociedades de hecho, que se dedique en forma habitual a la venta de bienes corporales muebles, sean ellos de su propia producción o adquiridos de terceros. La misma norma indica que “Corresponderá al Servicio de Impuestos Internos calificar, a su juicio exclusivo, la habitualidad”.
+En el mismo sentido, el artículo 4° del D.S. N° 55, de Hacienda, de 1977, Reglamento de la Ley sobre Impuesto a las Ventas y Servicio (en adelante “Reglamento de IVA”), dispone que “Para calificar la habitualidad a que se refiere el N° 3 del artículo 2° de la ley, el Servicio considerará la naturaleza, cantidad y frecuencia con que el vendedor realice las ventas de los bienes corporales muebles de que se trate, y con estos antecedentes determinará si el ánimo que guió al contribuyente fue adquirirlos para su uso, consumo o para la reventa.”
+
+Con relación a las consultas planteadas por los recurrentes, esta Dirección ha llegado a la conclusión que del examen de los antecedentes expuestos en su presentación y del análisis de las normas aludidas en forma precedente, los préstamos de consumo de GNL entre los clientes de la Terminal no constituyen hechos gravados con IVA.
+
+Al respecto, el artículo 18° del D.L 825 en su parte final de su inciso primero señala que lo dispuesto en dicha norma es aplicable a las ventas en que parte del precio consiste en un bien corporal mueble, y a los préstamos de consumo. En la primera parte de la norma se dispone expresamente que para las operaciones que allí se señalan (permutas, préstamos de consumo, entre otros) se considerará que cada parte que tenga el carácter de vendedor, realizará una venta gravada con IVA, lo que a juicio de esta Dirección no se da en la especie como se explicará a continuación.
+
+En el caso particular de la operación consultada, lo primero que se debe considerar es si ella cumple con el requisito exigido por el propio artículo 18° ya mencionado anteriormente, esto es, si las partes involucradas en la operación tienen el carácter de vendedor, al tenor del D.L. 825, respecto del bien objeto del contrato de préstamo de consumo , para lo cual es necesario revisar las normas sobre habitualidad contenidas en el Reglamento de IVA.
+En este sentido, el artículo 4º del Reglamento de IVA, dispone la calificación de habitualidad -que debe ser realizada por este Servicio, en forma exclusiva-, disponiendo que se ha de considerar la naturaleza, cantidad y frecuencia de las operaciones del caso y, con esos antecedentes, determinar si el ánimo que guió al presunto vendedor para adquirir los bienes fue el de su uso o consumo, o el de su venta.
+En la descripción de la actividad comercial que realiza en el contenido de su presentación, el contribuyente indica que se trata de una de las principales generadoras eléctricas del norte de Chile, dedicándose principalmente a la producción, distribución y suministro de energía eléctrica a distintas empresas, incluso, en la misma consulta se señala que la empresa tiene el giro de “generación de electricidad”.
+
+Del contenido de la presentación aparece de manifiesto que la empresa consultante requiere el mencionado gas GNL como combustible para la prestación de sus servicios. Así las cosas, el ánimo que guía al contribuyente al adquirir el gas no es su posterior reventa, sino su uso en la generación de energía eléctrica, siendo la venta del gas sólo una consecuencia de la estructura de su negocio, razón por la cual, para efectos de la aplicación del artículo 18° del D.L. 825, y considerando lo establecido en el artículo 4° del Reglamento de IVA, no puede ser considerado como vendedor del mencionado combustible, al no configurarse la habitualidad requerida y de esta manera gravar con IVA el préstamo de consumo que se pacte con los demás clientes del Terminal.
+
+Consecuencia de lo anterior, el contribuyente debe aplicar las normas establecidas en los artículos 23 N° 3 del D.L. N° 825 y 43 del Reglamento de IVA, en atención a las operaciones que lleva a efecto y, que al tenor de los antecedentes entregados y análisis realizado son consideradas como no gravadas, siendo necesario por ende que en el caso de importación o adquisición de bienes o de utilización de servicios que se afecten o destinen a operaciones gravadas, exentas o no gravadas con IVA, el crédito fiscal respectivo se calculará en forma proporcional en conformidad a las normas mencionadas.
+Por otra parte, y teniendo presente el análisis precedente, en concordancia con las normas del artículo 52 y siguientes del mismo cuerpo normativo y lo indicado en la Resolución N° 6080 del año 1999, emitida por esta Institución, corresponde que el mutuante emita una factura no afecta a IVA al momento de la entrega del GNL en préstamo, y que el mutuario emita una nueva factura no afecta a IVA al momento de la restitución de dicho GNL.
+
+Asimismo, esta Dirección comparte lo expuesto por los consultantes en el sentido que no es posible emitir facturas en que se detalle exclusivamente la cantidad y calidad del producto, sin asignarle un valor al mismo, y, por otra parte, los contribuyentes podrán realizar las operaciones de préstamo de GNL al valor que estimen convenientes, en virtud del principio de autonomía de la voluntad, sea éste el precio de importación de GNL para el mutuante o el precio de referencia para las operaciones de préstamo, u otro que las partes determinen, sin perjuicio de las facultades fiscalizadoras que el ordenamiento jurídico vigente le entrega a este Servicio, por lo que las situaciones de hecho planteadas por los consultantes deben verificarse y analizarse en el proceso de fiscalización respectivo.
+
+III. CONCLUSIÓN:
+
+De todo lo expuesto es posible concluir que la operación consistente en la celebración de préstamos de consumo por medio de los cuales se transfiere el dominio de GNL entre los clientes de la llamada Terminal, no está afecta a IVA, ya que no se cumple con el requisito previo establecido en el artículo 18 del D.L. 825, de 1974, esto es, que las partes contratantes tengan la calidad de vendedores de los bienes que serán objeto de los respectivos préstamos de consumo.
+
+Ahora bien, producto de las operaciones mencionadas anteriormente el contribuyente deberá aplicar las normas de los artículos 23 N° 3 del D.L. N° 825 y 43 del Reglamento de IVA, con respecto al cálculo de crédito fiscal proporcional del período respectivo.
+
+Sobre lo consultado en relación a la obligatoriedad de emitir factura por las operaciones examinadas, efectivamente se debe emitir factura no afecta a IVA de acuerdo a lo establecido en el artículo 52 y siguientes del D.L. 825, en complemento a lo indicado en la Resolución N° 6080 de 1999 emitida por este Servicio.
+
+Con respecto a lo expuesto por los consultantes en el sentido que no es posible emitir facturas en que se detalle exclusivamente la cantidad y calidad del producto, sin asignarle un valor al mismo, es efectivo que esta Institución no tiene atribución para autorizar la emisión de ese tipo de documentos.
+
+Por último, en cuanto las situaciones de hecho planteadas por el contribuyente, ellas deben verificarse y analizarse en el proceso de fiscalización respectivo.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1747, de 17.05.2016
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

@@ -1,0 +1,86 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1355 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 21°, ART. 57°, ART. 70° – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°4, ART. 31°. (..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja1355.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja1355.doc"
+materia: "iva"
+fecha: "2013-06-20"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el Art 21 N°2 del citado Decreto Ley."]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 21°, ART. 57°, ART. 70° – LEY SOBRE IMPUESTO A LA RENTA, ART. 20°, N°4, ART. 31°. (ORD. N° 1355, DE 20.06.2013)
+
+TRATAMIENTO TRIBUTARIO, DESDE EL PUNTO DE VISTA DE LA LEY SOBRE IMPUESTO A LA RENTA (LIR) Y DEL IMPUESTO AL VALOR AGREGADO (IVA), DE LOS PREMIOS PAGADOS Y DE LAS DEVOLUCIONES DE FICHAS VENDIDAS Y NO USADAS, EN LA EXPLOTACIÓN DE MÁQUINAS ELECTRÓNICAS TRAGAMONEDAS, DE DESTREZA, FUERA DE UN CASINO AUTORIZADO.
+
+I.- ANTECEDENTES:
+
+A través de su jurisprudencia , este Servicio analizó la situación tributaria de los contribuyentes que explotan esta clase de máquinas, tanto frente a las normas de IVA como de la LIR.
+
+Expresa en su presentación que no obstante dicho dictamen, persisten las siguientes interrogantes sobre la materia:
+
+• Cuál debe ser el modo de registrar los premios y las devoluciones de fichas vendidas por los establecimientos de máquinas de juegos electrónicas denominadas tragamonedas, para efectos de deducirlos como pérdidas en la determinación de la base imponible del Impuesto de Primera Categoría.
+
+• Si procede rebajar del débito fiscal el Impuesto al Valor Agregado correspondiente a los premios otorgados por las máquinas tragamonedas, bajo el concepto de una bonificación contemplada en el Art. 21 N°1 del Decreto Ley N°825 por un lado, y por otro, si las devoluciones de fichas vendidas y no usadas quedan comprendidas dentro de los casos previstos en el Art. 21 N°2 del citado Decreto Ley.
+
+• En caso de ser procedentes las rebajas al débito fiscal en las situaciones indicadas en el numeral anterior, qué documento correspondería emitir por dichos conceptos.
+
+En opinión de esa Dirección Regional, para determinar la base imponible del IVA, en el caso de la explotación de máquinas de destreza fuera de un casino autorizado, se debe aplicar la regla general contenida en el Art. 15 del Decreto Ley N°825, lo cual implica que todo el dinero introducido por los clientes en las máquinas o la cantidad total pagada por adquirir las fichas conforma la base imponible sin que sea procedente descontar de ella el Impuesto al Valor Agregado correspondiente a los premios entregados.
+
+En tanto que para efectos de la LIR, sostiene que, para que los premios y devoluciones de fichas, puedan ser rebajados de la renta líquida imponible como pérdidas, debe acreditarse fehacientemente ante el Servicio de Impuestos Internos dicho tratamiento, probando la naturaleza, necesidad, efectividad y monto necesario del gasto.
+
+II.- ANÁLISIS:
+Sobre el particular, cabe mencionar que los Art. 2259 y siguientes del Código Civil regulan el juego a propósito de los contratos aleatorios. Si bien la Ley no define el juego y la apuesta, se ha caracterizado al juego como un contrato en que dos o más jugadores estipulan que el que pierde dará cierta cantidad o especie al que gane, y a la apuesta como un contrato en que se estipula que una de las partes pagará a la otra, o recíprocamente ésta a aquella, cierta cantidad o especie, si se verifica o se ha verificado o no un hecho particular designado que ambas partes ignoran .
+Las leyes civiles se ocupan del juego en cuanto a su calidad de constituir motivo de ganancias o pérdidas, o sea, fuente de lucro, regulando los derechos y deberes de los contratantes embarcados en el juego. Así, conforme al Art. 2260 del Código Civil, el juego y la apuesta otorgan al vencedor el derecho a retener lo que ha sido pagado voluntariamente por el deudor en razón de ellas, aun cuando no dan derecho al vencedor a exigir al deudor el premio acordado. No obstante lo anterior, el Art. 2263 del Código Civil dispone que los juegos de fuerza o destreza corporal, producen acción para exigir el pago del premio ganado, con tal que en ellos no se contravengan las leyes o los reglamentos de policía.
+De lo anterior se desprende que es inherente al contrato de juego la existencia de un acontecimiento objetivamente inseguro, conforme al cual ganará una u otra parte según el resultado del juego, dando nacimiento a una ganancia o lucro para la parte vencedora.
+De acuerdo con lo expresado, a continuación se analizan los distintos temas que se consultan, a fin de establecer las consecuencias tributarias y dar respuesta a cada uno de los criterios planteados.
+
+1.- En relación con las normas que regulan el IVA, el Art. 21 del Decreto Ley N°825, de 1974, contempla sólo tres situaciones en las cuales procede rebajar del débito fiscal el Impuesto al Valor Agregado originalmente facturado que corresponde a la suma que se descuenta o restituye: (i) en caso de bonificaciones y descuentos otorgados por el vendedor a los compradores sobre ventas afectas, con posterioridad a la facturación, sea que dichas bonificaciones o descuentos correspondan a operaciones gravadas del mismo o de anteriores períodos tributarios; (ii) en caso de cantidades restituidas a compradores o a los beneficiaros del servicio en caso de la devolución de bienes o servicios resciliados por los contratantes cuando las operaciones se encuentren gravadas y la devolución de las especies o resciliación del servicio se haya producido dentro de los 3 meses desde la entrega de las especies, o desde que el prestador del servicio percibió la remuneración o ésta se puso, en cualquier forma, a su disposición; (iii) sumas devueltas a los compradores por la devolución de envases o depósitos constituidos por los compradores para garantizar su devolución, cuando dichas sumas hayan sido incluidas en el valor de la venta afecta a impuesto.
+Por otra parte, el descuento o bonificación comprendido en el Art. 21 N°1 del Decreto Ley N°825 constituye una reducción o disminución en el monto de la contraprestación que debe enterar una de las partes como precio o remuneración por los servicios prestados por la otra parte.
+
+Como se puede apreciar, los premios pagados por las máquinas tragamonedas al jugador ganador no pueden ser calificados como un descuento o bonificación, toda vez que el premio constituye el lucro propio del juego obtenido por la parte vencedora, y de ningún modo puede estimarse como una disminución del valor o precio de los servicios.
+
+En relación con la posibilidad de descontar del débito fiscal el Impuesto al Valor Agregado correspondiente a las cantidades restituidas a los compradores en caso de la devolución de fichas sin uso, cabe mencionar que el N°2 del Art. 21 del Decreto Ley N° 825 contempla la situación en que se restituye al cliente la suma originalmente pagada por causa de la resciliación de los servicios contratados.
+
+La resciliación, también denominada mutuo disenso por la doctrina, se encuentra consagrada legalmente en los Art. 1567 y 1545 del Código Civil. De conformidad con lo dispuesto por el inciso primero del Art. 1567 del Código Civil, toda obligación puede extinguirse por una convención en que las partes interesadas, siendo capaces de disponer libremente de lo suyo, consienten en darla por nula. A su vez el Art. 1545 señala que todo contrato legalmente celebrado es una ley para los contratantes y no puede ser invalidado sino por consentimiento mutuo o causas legales.
+La resciliación corresponde a una causa voluntaria de extinción de las obligaciones consistente en el acuerdo que los mismos contratantes toman para dejar sin efecto un contrato celebrado. Se sostiene que las obligaciones y los contratos que son susceptibles de ser dejadas sin efecto por resciliación son aquellos cuya ejecución se encuentra pendiente .
+Sobre el particular, se puede estimar que en caso que las partes acuerden dejar sin efecto los servicios por resciliación, y fruto de ello, se produzca la restitución de las fichas por una de las partes y la devolución del dinero pagado por ellas por la otra, dicha devolución queda comprendida en el supuesto previsto por el N°2 del Art. 21 del Decreto Ley N°825, pudiendo el prestador del servicio recuperar el Impuesto al Valor Agregado originado en los servicios dejados sin efecto, deduciendo del débito fiscal el monto del impuesto que corresponde a la suma que se restituye, en la forma determinada por la Ley.
+2.- En lo que respecta al documento que debe ser emitido en caso de haber mediado una devolución de fichas de tragamonedas sin uso, cabe mencionar que el Art. 57 del Decreto Ley N°825 dispone en lo pertinente que los vendedores y prestadores de servicios afectos al Impuesto al Valor Agregado deberán emitir Notas de Crédito por los descuentos o bonificaciones y por las devoluciones a que se refieren los números 2° y 3° del Art. 21 del mismo Decreto Ley.
+
+A su vez, el Art. 21 ya citado, señala que del impuesto o débito fiscal se deducirá el Impuesto al Valor Agregado correspondiente a las cantidades restituidas a los compradores o beneficiarios del servicio, en razón de bienes devueltos y servicios resciliados por los contratantes, siempre que corresponda a operaciones afectas y la devolución de las especies o resciliación del servicio se hubiera producido dentro del plazo de tres meses establecido en el inciso segundo del Art. 70.
+
+Ahora bien, a la luz de la normativa contenida en el Art. 57, del Decreto Ley N°825, en concordancia con el artículo 21 N°2 del citado Decreto Ley, la resciliación de servicios es uno de los supuestos bajo los cuales procede la emisión de una Nota de Crédito, habilitando de acuerdo con la normativa citada, al vendedor o prestador de servicio para deducir del débito fiscal el monto del Impuesto al Valor Agregado que corresponde a la suma que se restituye al adquirente en razón del servicio resciliado.
+
+3.- Respecto a las normas de la LIR, el Servicio, en el oficio ya señalado expresó que los ingresos provenientes de la explotación de las máquinas de juego en análisis, se clasifican dentro de las rentas a que alude el N° 4, del artículo 20, de la Ley precitada, específicamente como provenientes de las empresas de diversión y esparcimiento, y en virtud de dicha tipificación se afectan con los impuestos generales de la Ley del ramo, esto es, con el Impuesto de Primera Categoría y Global Complementario o Adicional, según corresponda.
+Si bien no se indicó expresamente, se entiende que el ingreso bruto correspondiente a esta actividad, es el que deviene de la realización de las operaciones respectivas, es decir, el dinero introducido por los clientes en las máquinas o la cantidad pagada para adquirir las fichas u otros medios necesarios para jugar.
+Ahora bien, respecto de su consulta, sobre el tratamiento tributario de las devoluciones de fichas vendidas y no usadas, cabe expresar que tales sumas constituyen en esencia un menor ingreso bruto que se produce con motivo de la resciliación de un contrato de prestación de servicios no ejecutado, a consecuencia de la cual se produce la restitución de las fichas y la devolución del dinero pagado por ellas.
+Por su parte, respecto de los premios pagados, cabe expresar que el Servicio, a través de diversos pronunciamientos, ha señalado que para que un gasto pueda ser calificado de necesario para producir la renta de conformidad con el artículo 31, de la LIR, debe reunir los siguientes requisitos copulativos: a) Que se relacione directamente con el giro o actividad que se desarrolla; b) Que se trate de gastos necesarios para producir la renta, entendiéndose esta expresión en el sentido de lo que es menester, indispensable o que hace falta para un determinado fin, contraponiéndose a lo superfluo; c) Que no se encuentren ya rebajados como parte integrante del costo directo de los bienes y servicios requeridos para la obtención de la renta; d) Que el contribuyente haya incurrido efectivamente en el gasto, sea que éste se encuentre pagado o adeudado al término del ejercicio, y e) Que se acrediten o justifiquen en forma fehaciente.
+Por lo tanto, en la medida en que se pueda apreciar el cumplimiento de los requisitos descritos, especialmente aquellos que señalan las letras d) y e), esto es, que el contribuyente pueda probar la efectividad de los premios pagados, tales sumas constituirían un gasto tributario necesario para producir la renta de esta actividad.
+
+III.- CONCLUSIÓN:
+
+1.- Respecto del IVA, el premio otorgado por las máquinas tragamonedas al jugador vencedor no se asimila con la situación regulada en el Art. 21 N°1 del Decreto Ley N°825, atendido que el premio constituye el lucro propio del juego obtenido por la parte vencedora, y de ningún modo puede estimarse como una disminución del valor de los servicios pactados.
+
+No obstante lo anterior, las devoluciones de fichas de tragamonedas no usadas, al corresponder a una resciliación de servicios quedan comprendidas en el supuesto previsto por el N°2 del artículo 21 del Decreto Ley N°825, pudiendo el prestador de los servicios recuperar el IVA originado en los servicios dejados sin efecto, deduciendo del débito fiscal, el Impuesto al Valor Agregado que corresponde a la suma que se restituye al adquirente en la forma prevista por la Ley.
+2.- Para documentar la devolución de fichas vendidas y no usadas, conforme a lo dispuesto por el Art. 57 del Decreto Ley N°825 en relación con el Art. 21 del mismo cuerpo legal, se debe emitir una Nota de Crédito.
+
+3.- Respecto de la LIR, el premio otorgado por las máquinas tragamonedas en análisis, constituye un gasto tributario necesario para producir la renta, en la medida en que se dé cumplimiento a los requisitos copulativos ya indicados en el análisis.
+
+Por su parte, las devoluciones de fichas de tragamonedas no usadas constituyen un menor ingreso bruto, que se produce como consecuencia de la resciliación de un contrato cuya obligación, en este caso la prestación de un servicio, no se ha cumplido.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 1355, de 20.06.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos.

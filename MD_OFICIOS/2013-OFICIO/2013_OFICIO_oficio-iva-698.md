@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 698 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8°, ART. 52° – CÓDIGO DE COMERCIO, ART. 3° – RES. EX. N° 6080, DE 1999. (ORD. N° 69..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja698.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja698.doc"
+materia: "iva"
+fecha: "2013-04-10"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8°, ART. 52° – CÓDIGO DE COMERCIO, ART. 3° – RES. EX. N° 6080, DE 1999. (ORD. N° 698, DE 10.04.2013)
+
+DOCUMENTACIÓN QUE SE DEBE EMITIR POR LOS INGRESOS PERCIBIDOS POR CONCEPTO DE “DERECHO UNIVERSITARIO”.
+
+I.- ANTECEDENTES:
+
+Por Decreto N° 150, de 25/3/1991, YYY aprobó la creación de XXXX cuyo objeto según lo señalado, tanto en el referido decreto de creación, como en la escritura de constitución de la sociedad, es el desarrollo, coordinación, promoción y apoyo a las actividades que realice TTT en materias de adaptación y desarrollo a la Tecnología, asistencia técnica, educación continua y prestación de servicios técnicos orientados hacia la comunidad en general.
+
+En cumplimiento de su objeto social la XXXX realiza la administración del proyecto, actuando por cuenta propia efectuando las siguientes funciones y actividades:
+
+a) Facturación y percepción de los ingresos del proyecto.
+b) Realización de pagos de proveedores de bienes y servicios correspondientes a gastos operacionales del proyecto.
+c) Adquisición de activos fijos
+d) Pago de honorarios a prestadores de servicios del proyecto
+e) Gestión administrativa del proyecto.
+
+La XXXX descontará de los ingresos una suma equivalente al “Derecho Universitario”. Este ingreso propio de la Sociedad se registra en un proyecto y se genera el pago de todos los impuestos relacionados al ingreso de acuerdo a la normativa del SII.
+
+Finalmente, la XXXX debe rendir cuenta de la administración encomendada en la fecha de término de cada proyecto.
+
+II.- ANÁLISIS:
+
+El Art. 8°, del D.L. N° 825, de 1974, grava con Impuesto al Valor Agregado, las ventas y los servicios, éstos últimos siempre que provengan del ejercicio de alguna de las actividades clasificadas en el Art. 20°, N°s 3 ó 4, de la Ley sobre Impuesto a la Renta.
+
+A su vez, en el Art. 20°, N° 3, de la mencionada Ley, se clasifican las rentas del comercio, que para efectos tributarios son todas aquellas provenientes de la realización de alguno de los actos de comercio contenidos en el Art. 3°, del Código de Comercio, dentro de los cuales se encuentra el mandato comercial.
+
+Por otra parte y en lo que dice relación con la documentación a emitir, el Art. 52° del D.L: N° 825, establece la obligación de emitir facturas o boletas a las personas que celebren cualquiera de las convenciones a que se refieren los Títulos II y III de ese cuerpo legal (los artículos 2° y 8° están en el Título II), aun cuando dichas operaciones se encuentren exentas, en este caso de IVA.
+
+En virtud de dicha norma legal, este Servicio emitió la Res. Ex. N° 6080, de 10/9/1999, modificada por las Res. Ex. N°s 6444 y 8377, ambas de 1999, mediante la cual se dispuso, para las personas naturales o jurídicas que tributen de acuerdo con las normas establecidas en el Artículo Nº 20° Nº 1, letras a) y b), y números 3, 4 y 5 del mismo artículo, de la Ley sobre Impuesto a la Renta y para aquellos que sean contribuyentes del impuesto establecido en el título II del D.L. Nº 825, de 1974, la obligación de emitir la documentación allí establecida por todas aquellas operaciones de venta o servicio que se encuentren no afectas o exentas de IVA, salvo que sean efectuadas por medio de instrumentos públicos o privados firmados ante Notario.
+
+Respecto de su consulta y debido a que la descripción de la actividad que da origen al ingreso denominado “derecho universitario”, no resultaba suficiente para determinar su afectación con Impuesto al Valor Agregado, y en consecuencia la documentación tributaria a emitir, es que se solicitaron mayores antecedentes sobre el mismo a la XXXX, los cuales permitieron efectuar el siguiente análisis.
+
+Del Decreto N° 150, de 25/3/1991, que aprueba la creación de la XXXX, se desprende que la XXXX, fue creada por la Universidad TTT, exclusivamente para prestarle apoyo en el desarrollo, coordinación y promoción de las actividades que ésta realice en el ámbito de la educación.
+
+Es así como la XXXX, administra como mandatario a nombre propio proyectos educacionales únicamente para la Universidad TTT. Estos proyectos pueden consistir en la realización de Postítulos, Actividades de Capacitación, Asesorías, etc., los cuales son dictados por la Universidad TTT, pero gestionados administrativamente por la ocurrente, es decir, ella se encarga de pagar los honorarios, realizar el pago a los proveedores de bienes y servicios, etc.
+
+Evidentemente como administradora del proyecto dichos desembolsos son cubiertos por los ingresos que el proyecto genera, pero que en su calidad de mandataria también se encarga de percibir.
+
+Por dicha gestión, la XXXX recibe el ingreso objeto de esta consulta denominado “Derecho Universitario”, que se encuentra estipulado en el Decreto N° 969, de fecha 23/01/1997, de TTT. Dicho pago equivalente al 10% de los ingresos brutos del proyecto, no teniendo ninguna otra participación en la distribución de los excedentes que genere el proyecto administrado.
+
+III.- CONCLUSIÓN:
+
+De las normas legales señaladas precedentemente, cabe concluir que los ingresos percibidos por la XXX, por concepto de “Derecho Universitario”, no se encuentran afectos a IVA, toda vez que el mandato encomendado, a saber, realizar la gestión administrativa de los proyectos efectuados por la TTT, es de carácter civil y no comercial, no encontrando dicha actividad una clasificación dentro de aquellas detalladas en el N° 3 o 4, de la Ley sobre Impuesto a la Renta, presupuesto básico para que los servicios se encuentren gravados con IVA.
+
+Respecto de la emisión de documentos tributarios, procede emitir por la percepción de los referidos ingresos, facturas por servicios no gravados y/o exentos de IVA, establecidas mediante Res. Ex. N° 6080, de 1999, salvo que dichos servicios se encuentren estipulados en un instrumento público o privado firmado ante Notario.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 698, de 10.04.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

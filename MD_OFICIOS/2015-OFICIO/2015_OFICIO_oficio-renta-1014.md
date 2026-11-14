@@ -1,0 +1,45 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1014 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42° TER – DECRETO LEY N° 3500, ART. 71° – OFICIO N° 1142, DE 2012 (ORD. N° 1014, DE 14.04.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1014.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja1014.doc"
+materia: "renta"
+fecha: "2015-04-14"
+exenta: false
+impuestos: ["renta"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 42° TER – DECRETO LEY N° 3500, ART. 71° – OFICIO N° 1142, DE 2012 (ORD. N° 1014, DE 14.04.2015)
+
+TRIBUTACIÓN DE EXCEDENTES DE LIBRE DISPOSICIÓN DE AFILIADOS PENSIONADOS AL 7 DE NOVIEMBRE DE 2001, QUE SIGUIERON TRABAJANDO Y REALIZANDO COTIZACIONES VOLUNTARIAS.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la tributación que afecta a los afiliados a una AFP, pensionados antes del 7 de noviembre de 2001, y que hicieron su primer retiro de Excedentes de Libre Disposición (ELD) también antes de esa fecha, acogiéndose a lo dispuesto en el artículo 71 del D.L. N°3.500, que posteriormente a dicha fecha siguieron trabajando y realizando cotizaciones voluntarias, solicitando se aclare la tributación que afecta al nuevo ELD conformado con tales cotizaciones voluntarias.
+I.- ANTECEDENTES.
+Señala, que este Servicio a través de su jurisprudencia, ha expresado reiteradamente que un pensionado antes del 7 de noviembre de 2001, que hizo su primer retiro de Excedentes de Libre Disposición (ELD), también antes de esa fecha, acogiéndose a lo dispuesto en el artículo 71 del D.L. N° 3.500, y continuó trabajando y realizando cotizaciones voluntarias después del 7 de noviembre de 2001 (cotizaciones voluntarias nuevas), podrá conformar un nuevo excedente y retirarlo acogiéndolo a lo dispuesto en el artículo 42 ter de la Ley sobre Impuesto a la Renta (LlR).
+Agrega, que dicha disposición establece que para acogerse al beneficio tributario de retirar 800 UTM libres de impuestos durante un año, o 1200 UTM parceladas en 200 UTM por año, al momento de pensionarse y determinar el ELD, se debe establecer qué cotizaciones voluntarias tienen 48 meses o más de antigüedad a esta fecha (fecha de pensión y determinación de ELD), ya que sólo las cotizaciones voluntarias que conformen el ELD y que cumplan con este requisito de antigüedad podrán retirarse con beneficio tributario.
+Al respecto, consulta sobre la situación de un afiliado que retira este nuevo excedente conformado por cotizaciones voluntarias efectuadas con posterioridad al 7 de noviembre de 2001, en el sentido si podrá acogerse al beneficio tributario señalado, esto es, de retirar libres de impuestos las 800 o las 1200 UTM a las que se refiere la norma y, si así fuera, cómo se aprecia el requisito de antigüedad de 48 meses que deben cumplir las nuevas cotizaciones voluntarias.
+En su opinión, si los afiliados se pensionaron antes del 7 de noviembre de 2001, todas las cotizaciones voluntarias realizadas a contar de esa fecha tendrán menos de 48 meses de antigüedad respecto a la fecha de pensión, por lo que entiende que no podrán acoger el nuevo excedente conformado por cotizaciones voluntarias nuevas al beneficio tributario del artículo 42 ter de la LlR.
+II.- ANÁLISIS.
+Sobre el particular cabe informar que este Servicio a través de su jurisprudencia ya emitió un pronunciamiento sobre la materia a la que se refiere su presentación, expresando que el retiro del nuevo ELD, debe sujetarse a las normas contenidas en el artículo 42 ter de la LIR, pudiendo ser retirado libre de impuesto por los montos que la misma disposición señala, ello en la medida que se cumplan los requisitos que ella establece.
+Ahora bien, en relación con la forma de apreciar la condición o requisito de antigüedad de 48 meses que deben cumplir las cotizaciones voluntarias nuevas, para que su retiro como ELD pueda sujetarse a la liberación de impuestos de 800 o 1200 UTM que indica el artículo 42 ter de la LIR, cabe expresar que el propio inciso segundo de este artículo dispone que para dichos efectos, la “...cotización voluntaria, depósitos de ahorro voluntario o depósitos de ahorro previsional voluntario colectivo, deberán haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a la determinación de dicho excedente.”.
+
+III.- CONCLUSIÓN.
+Un contribuyente pensionado, que continúa trabajando y enterando nuevas cotizaciones voluntarias bajo la vigencia del artículo 42 ter de la LIR, deberá determinar nuevamente su ELD, y al efectuar retiros con cargo a este nuevo excedente, conformado por las cotizaciones efectuadas bajo el imperio de la nueva disposición, éste quedará sujeto al régimen establecido en el artículo 42 ter de la LIR, en la medida que se cumplan los requisitos que la propia norma establece.
+Para que opere la exención a que se refiere el artículo 42 ter de la LIR, las nuevas cotizaciones voluntarias que conforman el nuevo ELD que se determine, deberán haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a la determinación de dicho excedente.
+
+MICHEL JORRATT DE LUIS
+DIRECTOR (T y P)
+
+Oficio N° 1014, de 14.04.2015
+Subdirección Normativa
+Dpto. de impuestos Directos

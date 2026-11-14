@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 127 (2013)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – D.S. N° 55, DE 1977, ART. 22°, ART. 73°– RES. EX. N° 551, DE 1975 – RES. EX., N° 1496, D..."
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja127.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2013/ja127.doc"
+materia: "iva"
+fecha: "2013-01-22"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – D.S. N° 55, DE 1977, ART. 22°, ART. 73°– RES. EX. N° 551, DE 1975 – RES. EX., N° 1496, DE 1976. (ORD. N° 127, DE 22.01.2013)
+
+CONSULTA SOBRE PROCEDENCIA DE AUTORIZAR AL CENTRO DE EDUCACIÓN Y TRABAJO RÉGIMEN CERRADO, EN EL COMPLEJO PENITENCIARIO PARA QUE EMITA FACTURAS DE COMPRA A LOS INTERNOS DEL TALLER ARTESANAL, POR LOS PRODUCTOS MANUFACTURADOS POR ELLOS Y COMERCIALIZADOS POR EL CENTRO EN UNA SALA DEL COMPLEJO PENITENCIARIO.
+
+I.- ANTECEDENTES:
+
+El Centro de Educación y Trabajo Régimen Cerrado “CET” en el Complejo Penitenciario de XXX, es una unidad laboral que forma parte del establecimiento penitenciario, cuyo objetivo principal es apoyar a los internos en su reinserción laboral. Para ello, dicha unidad cuenta con talleres para la elaboración de productos manufacturados, prestaciones de servicios y talleres artesanales, donde los internos pueden elaborar, entre otras cosas, artesanía en madera, cuero y papel. Los insumos necesarios para la elaboración de dichos productos son proporcionados por sus familiares y la comercialización de éstos se efectúa en una sala de ventas en la parte exterior del complejo penitenciario, que el CET abrió recientemente para tal efecto y en la cual emite los respectivos documentos tributarios como boletas o facturas.
+
+Sin perjuicio de lo anterior y por la condición actual de las personas recluidas en el complejo penitenciario, no es posible acreditar con documentos tributarios la procedencia de estos productos artesanales, razón por la cual se solicita la autorización para emitir facturas de compra, en virtud de la Res. Ex. N° 551, de 29/5/1975.
+
+II.- ANÁLISIS:
+
+La Res. Ex. N° 551, de 29/5/1975, establece para las empresas obligadas a llevar contabilidad completa, la exigencia de emitir, en lo pertinente, facturas de compra por las operaciones que efectúen con particulares.
+
+Al respecto, este Servicio impartió instrucciones sobre la materia, mediante Circular N° 81, de 18/6/1975, señalando en su N° 3, que dichas empresas deberán emitir facturas de compra por las adquisiciones que efectúen a personas que no reúnen la calidad de “vendedores”, a que se refiere el Art. 2, N° 1, del D.L. N° 825, de 1974, es decir, particulares que ocasionalmente venden bienes de escaso valor unitario a este tipo de empresas.
+
+En atención a lo anterior, esto es, que los particulares que efectúan la venta de los referidos bienes no reúnen la calidad de “vendedores”, porque no se dedican en forma habitual a la venta de bienes corporales muebles, no se configura respecto de este tipo de operaciones, el hecho gravado venta. En tal condición la empresa adquirente no debe retener Impuesto al Valor Agregado alguno por dicha operación, tal como lo instruye el N° 5, de la mencionada Circular N° 81.
+
+De lo anterior se concluye que la emisión de facturas de compra amparadas por la Res. Ex. N° 551, de 1975, sólo procede cuando la venta de bienes de escaso valor unitario es efectuada por personas que no se dedican en forma habitual a ello.
+
+En cambio, en el caso bajo análisis, los internos que trabajan en el taller artesanal del CET, son personas que en ejercicio del derecho que les otorga el Art. 63°, del Decreto N° 943, del Ministerio de Justicia, manufacturan diversas artesanías con materiales propios cuyo objeto es comercializarlas directamente al público, sin perjuicio del apoyo en la difusión y comercialización que Gendarmería pueda otorgarles, constituyéndose por lo tanto en vendedores habituales de dichos bienes, requisito que otorga a la operación el carácter de hecho gravado con Impuesto al Valor Agregado, en conformidad a lo dispuesto en el Art. 2°, N° 1, del D.L. N° 825. En atención a ello, no resulta aplicable en este caso la Res. Ex. N° 551, de 1975.
+
+Por otra parte y sin perjuicio de lo anterior, atendiendo a lo difícil que les resulta el cumplimiento de sus obligaciones tributarias, en lo que dice relación con la emisión de documentos y pago del Impuesto al Valor Agregado, este Servicio presume respecto de los artesanos, que son contribuyentes de difícil fiscalización, en la medida que se trate de personas naturales, que por cualquier causa no emitan sus propias facturas de venta. En atención a ello, mediante Res. Ex. N° 1496, de 31/12/1976, se dispuso el cambio de sujeto del IVA al adquirente, en las transferencias que estos contribuyentes de difícil fiscalización, que no emitan facturas, realicen a comerciantes o industriales establecidos, a cooperativas o a empresas del Estado, semifiscales o de administración autónoma.
+
+Ahora bien, según lo manifestado en antecedentes adjuntos a la presentación del contribuyente, los internos artesanos que trabajan en el taller, elaboran los productos y luego los entregan en consignación para su venta al CET, quien sólo es el intermediario para comercializarlos al público en general, no existiendo venta de productos entre los internos y el CET, de forma tal que aun cuando los internos cumplen los requisitos para ser considerados tributariamente contribuyentes de difícil fiscalización no procede tampoco la emisión de facturas de compra de aquellas dispuestas en la Res. Ex. N° 1496, por parte del Centro de Educación y Trabajo, pues éste no es el adquirente de los productos elaborados por aquellos.
+
+Así las cosas, lo que corresponde en este caso es aplicar lo dispuesto en los artículos 22° y 73°, del Decreto Supremo de Hacienda N° 55 , de 1977, Reglamento del D.L. N° 825, de 1974, en que se instruye la forma de operar cuando se realizan ventas de bienes por cuenta de un tercero.
+
+De este modo y tal como señala el mencionado Art. 22°, el mandatario es tributariamente responsable sólo del Impuesto al Valor Agregado correspondiente a la comisión cobrada por efectuar el encargo, siempre que exista un cobro por tal concepto. Por su parte, el inciso final del mencionado artículo sindica al mandante como responsable y sujeto del impuesto respecto del IVA recargado en la venta de los bienes.
+
+Para tal efecto, esto es que el mandante cumpla con su obligación tributaria, el mandatario debe emitir a su mandante, dentro de cada período tributario, a lo menos una liquidación donde se informen las ventas efectuadas por su cuenta y el Impuesto al Valor Agregado recargado en dichas operaciones, tal como dispone el Art. 73°, del D.S. de Hacienda N° 55.
+
+Por lo tanto, en el caso bajo análisis, cuando el CET venda al público los productos entregados en consignación por los internos, deberá emitir una boleta o factura propia, según corresponda, registrando en ella el nombre de su mandante o una simbología especial que lo individualice, según lo instruye la Circular N° 126, de 23/9/1977, en su N° 20, letra H), N°1), referido a la documentación a emitir por comisionistas, consignatarios y en general toda persona que realice ventas por cuentas de terceros.
+
+Sin embargo, el débito fiscal de dichas operaciones, no constituye débito fiscal del CET, pues en su calidad de mandatario, éste no es el sujeto del tributo, debiendo trasladarlo al mandante mediante la liquidación que debe efectuar dentro de cada período tributario, según dispone el Art. 73°, del D.S. de Hacienda N° 55.
+
+De lo anterior se sigue que los sujetos del impuesto por dichas ventas son los internos artesanos que trabajan en el CET, quienes deberán cumplir con la obligación de declarar y pagar el Impuesto al Valor Agregado, dentro de los plazos legales.
+
+No obstante, considerando que los internos artesanos cumplen los requisitos para ser considerados contribuyentes de difícil fiscalización, la misma Circular N° 126, en su N° 20, letra H), N° 1, párrafo final, precavió esta situación señalando que “si el mandante es un “vendedor” de difícil fiscalización, la liquidación que le emite el consignatario o mandatario, hará las veces de “factura de compra”, y éste último deberá retener, declarar y pagar el IVA de la operación realizada”.
+
+III.- CONCLUSIÓN:
+
+Del análisis precedente se concluye que no procede en el caso en consulta la emisión de facturas de compra de aquellas dispuestas por la Res. Ex. 551, de 1975, así como tampoco de aquellas establecidas en la Res. Ex. 1.496, de 1976.
+
+Para documentar la operación, el Centro de Educación y Trabajo deberá proceder conforme a lo señalado en los Art. 22° y 73°, del D.S. de Hacienda N° 55, de 1977, emitiendo en cada período tributario las correspondientes liquidaciones a los internos artesanos por las ventas efectuadas por cuenta de éstos, debiendo además retener, declarar y pagar el IVA contenido en dichos documentos, por ser el mandante de la operación un contribuyente de difícil fiscalización.
+
+JULIO PEREIRA GANDARILLAS
+DIRECTOR
+
+Oficio N° 127, de 22.01.2013
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

@@ -1,0 +1,73 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 842 (2013)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO LEY N° 3063, ART. 46° – CIRCULAR N° 24, DE 1993 – OFICIO N° 3053 DE 2006. (ORD. N° 842, DE 25.04.2013)"
+tags: [SII, 2013, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja842.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2013/ja842.doc"
+materia: "renta"
+fecha: "2013-04-25"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: ["en el artículo 46, del D", "los que han sido explicados en la Circular N° 24, de 1993 y entre otros, en Oficio N° 3.053, de 2006, los cuales pueden ser consultados en la página web de este Servicio, www.sii.cl, circunstancias todas que sólo podrán ser determinadas, caso a caso, previo análisis de los respectivos antecedentes, "]
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – DECRETO LEY N° 3063, ART. 46° – CIRCULAR N° 24, DE 1993 – OFICIO N° 3053 DE 2006. (ORD. N° 842, DE 25.04.2013)
+
+APLICACIÓN DE LAS FRANQUICIAS TRIBUTARIAS APLICABLES EN EL ÁMBITO EDUCATIVO, EN EL CASO DE DONACIONES EFECTUADAS A ENTIDADES QUE INDICA, CON EL OBJETO DE IMPLEMENTAR PROYECTOS RELACIONADOS CON EDUCACIÓN DE PRIMERA INFANCIA.
+
+I.- ANTECEDENTES.
+
+Señala que la Organización de las Naciones Unidas para la Educación (UNESCO) ha efectuado una serie de consultas sobre franquicias tributarias por donaciones efectuadas por donantes privados, con el objeto de implementar proyectos relacionados con educación de primera infancia.
+
+Puntualiza que un consorcio de empresas agrupadas en Chile, de origen Vasco, donarán aproximadamente 100 mil dólares para apoyar el trabajo de jardines comunitarios, en comunas de alta vulnerabilidad social, lo que se realizará a través de proyectos a definir en conjunto por UNESCO y el Ministerio de Educación (MINEDUC).
+
+Agrega que los donatarios serían fundaciones y corporaciones educacionales, fundaciones sociales, departamentos de educación municipal, corporaciones municipales y organizaciones comunitarias.
+
+II.- ANÁLISIS.
+
+De los antecedentes descritos en su presentación, este Servicio entiende que los donatarios serían Corporaciones o Fundaciones de carácter educacional, regidas y constituidas por las normas del Título XXXIII, del Libro I del Código Civil; Fundaciones de carácter social, regidas y constituidas por las mismas normas citadas; Departamentos de Educación y Corporaciones, ambos Municipales, y Organizaciones Comunitarias, constituidas en conformidad a la Ley N° 19.418; entidades que recibirían las donaciones con la finalidad de implementar proyectos educacionales, desarrollados por jardines infantiles comunitarios, que funcionarían en comunas de alta vulnerabilidad social.
+
+Conforme se indica en el artículo 3°, de la Ley N° 17.301, que creó la Junta Nacional de Jardines Infantiles, y artículo 5° de su Reglamento , los Jardines Infantiles Comunitarios son aquellos establecimientos que atienden a un grupo reducido de párvulos, producto de una iniciativa comunitaria, proporcionándoles una atención integral que asegure una educación oportuna y pertinente; y que están a cargo o son patrocinados por una persona jurídica comunitaria constituida de conformidad a la Ley N° 19.418.
+
+En el ordenamiento jurídico vigente, existen diversas normas legales que contemplan beneficios tributarios a los donantes, las que establecen en forma expresa quienes deben ser los donatarios hábiles o receptores de las donaciones, a través de la indicación de las calidades que deben reunir; los fines a los cuales deben destinarse estas sumas, esto es, el tipo de proyectos que pueden financiar; así como las autoridades competentes que deben autorizar los proyectos respectivos, y otras condiciones de tipo general. Entre estas disposiciones legales, se pueden mencionar las siguientes:
+
+a) Artículo 69, de la Ley N° 18.681, de 1987, sobre donaciones efectuadas en dinero, a las Universidades e Institutos Profesionales Estatales o Particulares, destinadas al financiamiento de las actividades educacionales desarrolladas por tales entidades;
+
+b) Artículo 3º, de la Ley N° 19.247, de 1993, sobre donaciones en dinero efectuadas a Establecimientos Educacionales y otras entidades destinadas a financiar un proyecto educativo, debidamente aprobado por la autoridad competente;
+
+c) Artículo 2° y siguientes de la Ley N° 19.885, de 2003, sobre donaciones en dinero efectuadas a instituciones sin fines de lucro constituidas conforme a las normas del Título XXXIII del Libro I del Código Civil, cuyo objeto sea proveer directamente servicios a personas de escasos recursos;
+
+d) Artículo 8°, de la Ley N° 18.985, de 1990, sobre donaciones efectuadas en dinero o especies, a las Universidades e Institutos Profesionales Estatales o Particulares y otras instituciones que indica, cuyo objeto sea la investigación, desarrollo y difusión de la cultura y el arte, mediante el financiamiento de un proyecto cultural o artístico debidamente aprobado por la autoridad competente;
+
+e) Artículo 31, N° 7, de la LIR, norma que se aplica a las donaciones en dinero o especies destinadas a financiar programas de instrucción básica o media, particulares, técnico o profesional o universitaria en el país, ya sea, privados o fiscales, y
+
+f) Artículo 46, del Decreto Ley N° 3.063, sobre rentas municipales, norma que se refiere a las donaciones en dinero, efectuadas a establecimientos educacionales e instituciones que indica, destinadas a financiar los fines de las mismas entidades o que van en ayuda de personas de escasos recursos o a financiar proyectos de investigación o difusión de las ciencias y las artes.
+
+Del análisis de estas disposiciones legales, y basado sólo en lo indicado en su presentación, se puede concluir que la norma legal citada en la letra a) anterior, no tendría aplicación en los casos a que se refiere su requerimiento, ya que las entidades donatarias no reúnen las calidades para ser donatarios hábiles conforme lo establece expresamente esta disposición. De la misma forma, se considera que tampoco es posible la aplicación de las normas citadas en las letras b) y c), ya que ellas exigen que los programas o proyectos, sean educacionales o sociales, respectivamente, y que se encuentren debidamente aprobados por autoridad competente, deben ser realizados directamente por las entidades donatarias, lo que no se cumpliría en la especie, según se desprende de su presentación. Asimismo, tampoco cabría la aplicación de las normas citadas en las letras d) y e) precedentes, ya que las donaciones en cuestión no están destinadas a los fines que contemplan las normas legales allí citadas.
+
+Teniendo en consideración que las sumas donadas tendrían como destino el financiamiento o realización de programas educacionales, los que serán desarrollados por jardines infantiles comunitarios, a favor de menores de escasos recursos, a juicio de este Servicio sería aplicable a dichas donaciones, y en tales circunstancias, las disposiciones del artículo 46, del Decreto Ley N° 3.063 de 1979, sobre rentas municipales, citado en la letra f) anterior, siempre que se cumplan los requisitos que establece esta norma legal, cuya regulación se contiene en el Decreto con Fuerza de Ley N° 1, del Ministerio de Hacienda, de 1986, y cuyas instrucciones de carácter tributario se encuentran contenidas en Circular N° 24, de 1993, de este Servicio, la que se encuentra publicada en su página web www.sii.cl. Esta norma legal dispone que los donatarios deben cumplir, entre otras, con las siguientes condiciones:
+
+a) Que se encuentren regidas por las normas del Título XXXIII del Libro I del Código Civil, o bien, se encuentren creadas por Ley, estando, en ambos casos, con su personalidad jurídica vigente;
+
+b) Que tengan por objeto la creación, investigación o difusión de las artes y las ciencias o la realización de programas de acción social en beneficio exclusivo de sectores de mayor necesidad;
+
+c) Que si se trata de instituciones sin fines de lucro cuyo objeto sea la realización de programas de acción social en beneficio de los sectores de mayor necesidad, deberán acreditar esta circunstancia mediante un certificado expedido, dentro del plazo de 30 días contados desde su requerimiento, por el Alcalde de la Municipalidad donde desarrollen su labor, en el que se indique que efectúan programas que benefician efectivamente a personas que habitan en condiciones de extrema pobreza.
+Al respecto, y para los efectos señalados, se estima que es posible considerar el financiamiento o implementación de los proyectos educacionales, de los establecimientos preescolares en referencia, como gastos propios de dichas entidades donatarias, dada su naturaleza, y el fin de las mismas, conforme lo dispone el artículo 46, del D. L. N° 3.063, en cuanto indica que estas instituciones sólo podrán destinar las donaciones a solventar sus gastos, en relación a su letra b), que dispone que debe encontrarse enmarcado dentro de un programa de acción social en beneficio exclusivo de sectores de mayor necesidad, al momento de su transferencia a los beneficiarios; ello en el entendido que efectivamente estén destinados a proyectos en el ámbito de la educación en beneficio de menores en situación de pobreza.
+
+III.- CONCLUSIÓN.
+A juicio de este Servicio, en caso que los donatarios a que se refiere, sean Corporaciones o Fundaciones, regidas por las normas del Título XXXIII del Libro I del Código Civil, que tengan su personalidad jurídica vigente, y cuyo objeto sea la realización de programas de acción social en beneficio exclusivo de sectores de mayor necesidad, pueden ser calificados como donatarios hábiles para recibir las citadas donaciones, sólo en dinero, para los efectos previstos en el artículo 46, del D. L. N° 3.063, y siempre que cumplan los demás requisitos legales; los que han sido explicados en la Circular N° 24, de 1993 y entre otros, en Oficio N° 3.053, de 2006, los cuales pueden ser consultados en la página web de este Servicio, www.sii.cl, circunstancias todas que sólo podrán ser determinadas, caso a caso, previo análisis de los respectivos antecedentes, en la instancia de fiscalización que corresponda.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR SUBROGANTE
+
+Oficio N° 842, de 25.04.2013
+Subdirección Normativa
+Dpto. de Impuestos Directos

@@ -1,0 +1,5 @@
+archive: circu18.zip
+published_to: PDF_CIRCULARES/2014-CIRCULAR/circu18.pdf
+members:
+  Cir_N°18_24032014.pdf  kept=PDF_CIRCULARES/2014-CIRCULAR  (byte-identical to the published circular)
+  suplemento_AT2014.pdf  sha256=52927348dea923143c9e1c66c6e4f544d7d0565121bde0c90d343661c8c80ac4  kept=SIN_PROCESAR/SUPLEMENTOS/2014-CIRCULAR/suplemento_AT2014.pdf

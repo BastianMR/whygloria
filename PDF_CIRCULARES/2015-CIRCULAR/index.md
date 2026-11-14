@@ -22,7 +22,7 @@
 * [circu20.pdf](./circu20.pdf)
 * [circu21.pdf](./circu21.pdf)
 * [circu22.pdf](./circu22.pdf)
-* [circu22.zip](./circu22.zip)
+* [circu22.source.txt](./circu22.source.txt)
 * [circu23.pdf](./circu23.pdf)
 * [circu24.pdf](./circu24.pdf)
 * [circu25.pdf](./circu25.pdf)

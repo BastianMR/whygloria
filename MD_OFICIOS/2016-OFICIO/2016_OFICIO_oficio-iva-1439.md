@@ -1,0 +1,76 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1439 (2016)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12, LETRA F), LETRA E), N°11, ART. 2, N°1 – LEY N° 20.780, DE 2014 – LEY N° 20.899,..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1439.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja1439.doc"
+materia: "iva"
+fecha: "2016-05-24"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 12, LETRA F), LETRA E), N°11, ART. 2, N°1 – LEY N° 20.780, DE 2014 – LEY N° 20.899, DE 2016, ART. 4, ART. 8, N°8 – DECRETO LEY N° 910, DE 1975, ART. 21. (ORD. N° 1439, DE 24.05.2016)
+
+SOLICITA GRAVAR CON IVA SÓLO LAS VIVIENDAS DE ALTO VALOR.
+
+Mediante el ordinario indicado en el antecedente se ha remitido a este Servicio su presentación de fecha 05.11.2015, enviada al correo electrónico de la Presidencia de la República.
+
+I ANTECEDENTES
+
+Por encargo del Sr. Subsecretario de Hacienda, se da respuesta a la presentación que usted hiciera a S.E. la Presidenta de la República, donde expone – entre otras cosas - que ha tomado conocimiento que el próximo año (esto es, a partir del año 2016) las viviendas quedaran afectas al pago del Impuesto al Valor Agregado (IVA) y pide que esa medida solo afecte a las viviendas de mayor valor.
+
+II ANÁLISIS
+
+Sobre el particular, este Servicio se permite señalar que la Ley N° 20.780, en estricto rigor, no introdujo un nuevo impuesto respecto de la venta de bienes inmuebles sino que se limitó a modificar el impuesto existente, por presentar algunas inconsistencias que requerían corregirse.
+Asimismo, es necesario aclarar desde ya que el IVA sólo afecta la venta “habitual” de bienes corporales inmuebles. De este modo, la venta de bienes corporales inmuebles efectuada por una persona que no es vendedor habitual, como ocurre por ejemplo en el caso de la venta de una casa usada efectuada por su propietario, no se encontrará afecta al pago del IVA.
+
+Finalmente, y para evitar que las modificaciones afectasen de inmediato a las ventas de bienes corporales inmuebles, la Ley N° 20.780, complementada por la Ley N° 20.899 , contempla las siguientes excepciones.
+
+a) El artículo 6° transitorio dispuso que las modificaciones introducidas en materia de IVA no se aplicarán a las ventas o transferencias de dominio de bienes corporales inmuebles que se efectúen en virtud de un acto o contrato cuya celebración se hubiere válidamente prometido con anterioridad al 1° de enero de 2016.
+
+b) El artículo 7° transitorio declaró exentas de IVA a las ventas de bienes corporales inmuebles que cuenten con un permiso de edificación con anterioridad al 1° de enero de 2016 y cuya venta se realice dentro del plazo de un año, contado desde el 1° de enero de 2016, es decir, hasta el 1° de enero de 2017.
+
+c) De acuerdo a la norma agregada al artículo 7° transitorio antes referido, también estarán exentas de IVA, en el caso de bienes corporales inmuebles nuevos que cuenten con el permiso de construcción a la fecha señalada en la letra b) anterior, la venta u otras transferencias de dominio, incluido el contrato de arriendo con opción de compra, que se graven como consecuencia de estas modificaciones siempre que respecto de tales bienes se haya ingresado, al 1 de enero de 2017, la solicitud de recepción definitiva de la obra ante la Dirección de Obras Municipales correspondiente conforme lo establece el artículo 144 de la Ley General de Urbanismo y Construcciones.
+
+Dicho lo anterior, y en lo que refiere al motivo de su inquietud, puede informarse que muy probablemente la aplicación del IVA en la venta de bienes corporales inmuebles no tendrá efecto para usted, sin perjuicio que pueda beneficiarse de otras franquicias, según se expone a continuación
+Por de pronto, se informa que, conforme a la nueva letra F, agregada al artículo 12 de la Ley sobre Impuesto a las Ventas y Servicios en virtud de la modificación introducida por el artículo 2°, numeral 5, letra b), de la Ley N° 20.780, sobre reforma tributaria, se encuentra exenta de IVA, en términos generales, la venta de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, cuando ésta haya sido financiada, en todo o parte, por el referido subsidio.
+
+Al respecto, se hace presente que, en virtud de las recientes modificaciones introducidas por la Ley N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias, publicada mediante su inserción en el Diario Oficial de fecha 08.02.2016, el beneficio tributario antes referido ha sido mejorado y precisado.
+
+Conforme el nuevo texto del artículo 12, Letra F, de la Ley sobre Impuesto a las Ventas y Servicios, tras las modificaciones introducidas por la Ley N° 20.899 y en lo que interesa a su consulta, está exenta:
+
+“La venta de una vivienda efectuada al beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, los contratos generales de construcción y los contratos de arriendo con opción de compra, cuando tales ventas, contratos o arriendos con opción de compra hayan sido financiados en definitiva, en todo o parte, por el referido subsidio. Para estos efectos, se considerará también como beneficiario de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, a la persona natural o jurídica que adquiera o encargue la construcción de un bien corporal inmueble para venderlo o entregarlo en arriendo con opción de compra al beneficiario de un subsidio habitacional otorgado por dicho Ministerio, siempre que lo anterior conste en el contrato respectivo, debiendo aplicarse el impuesto al valor agregado en caso contrario. En este caso, si la venta o el contrato de arriendo con opción de compra posteriores no se celebran con beneficiarios de tales subsidios, deberá aplicarse el impuesto al valor agregado conforme a las reglas que corresponda según el caso, sin que proceda la exención establecida en el número 11, de la letra E, del artículo 12, y la venta a un tercero de una vivienda entregada en arrendamiento con opción de compra al beneficiario de un subsidio habitacional otorgado por el mismo Ministerio, cuando la opción de compra sea financiada, en todo o parte, por el señalado subsidio.”
+
+Como se advierte, la ley sobre reforma tributaria eximió expresamente de IVA a las ventas de viviendas efectuadas al beneficiario de un subsidio habitacional otorgado por el Ministerio de la Vivienda y Urbanismo. La exención opera sea que el referido subsidio sirva para financiar en todo o en parte la adquisición de la vivienda respectiva.
+
+Por otra parte, de afectarle la aplicación de IVA en la compra de su vivienda, la carga de dicho impuesto puede verse sustancialmente disminuida por el efecto combinado de las siguientes medidas.
+
+a) Se introdujo una modificación al artículo 2° N° 1°) de la Ley de IVA, relativa al concepto de venta, en virtud de la cual se excluye expresamente del hecho gravado IVA al terreno.
+
+b) Si bien se mantuvo el crédito especial de las empresas constructoras establecido en el artículo 21 del decreto ley N° 910, de 1975, el cual tiene como efecto reducir el monto del impuesto aplicable a los inmuebles habitacionales, la Ley N° 20.780 limitó dicho beneficio a los inmuebles habitacionales cuyo valor no exceda de 2.000 UF, con el objeto de focalizar la medida hacia los sectores más desmejorados.
+
+Sin perjuicio de lo anterior, de acuerdo al artículo duodécimo transitorio de la Ley N° 20.780, el nuevo límite de 2.000 UF se hará efectivo de forma gradual: 4.000 UF, para el año 2015, 3.000 UF para el año 2016 y a partir del año 2017 se aplica el límite permanente de 2.000 UF; que en el caso de viviendas financiadas en todo o parte con subsidios otorgados por el Ministerio de Vivienda y Urbanismo, el límite aumenta a 2.200 UF, conforme lo dispuesto en el artículo 8°, N° 10 de la Ley N° 20.899 .
+
+Por otra parte, el artículo 4° de la Ley N° 20.899 agregó en el artículo 21 del decreto ley N° 910 de 1975, a las empresas constructoras como beneficiarias del crédito allí establecido por las ventas de viviendas que se encuentren exentas de Impuesto al Valor Agregado, por efectuarse a beneficiarios de un subsidio habitacional otorgado por el Ministerio de Vivienda y Urbanismo, conforme lo dispuesto en la primera parte del artículo 12, letra F, del decreto ley N° 825.
+
+III CONCLUSIÓN
+
+Como puede apreciarse, la Ley N° 20.780, en conjunción con la Ley N° 20.899, contemplan una serie de medidas paliativas que, individualmente o en su conjunto, constituyen un alivio importante para las personas que adquieren inmuebles habitacionales de ciertos valores y características.
+Finalmente se precisa que, si bien la Ley N° 20.899 introdujo otras modificaciones a la Ley sobre Impuesto a las Ventas y Servicios en lo que dice relación con los bienes corporales inmuebles, dichas modificaciones no son relevantes para el caso planteado por el peticionario.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1439, de 24.05.2016
+Subdirección Normativa
+Dpto. de Técnica Tributaria

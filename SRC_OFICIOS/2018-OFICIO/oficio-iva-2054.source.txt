@@ -1,0 +1,5 @@
+source: oficio-iva-2054.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja2054.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2018/ja2054.doc
+materia: iva
+retrieved: 2026-11-11

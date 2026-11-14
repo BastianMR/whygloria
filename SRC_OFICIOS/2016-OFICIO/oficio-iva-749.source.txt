@@ -1,0 +1,5 @@
+source: oficio-iva-749.html
+url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja749.htm
+doc_url: https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2016/ja749.doc
+materia: iva
+retrieved: 2026-11-11

@@ -1,0 +1,69 @@
+---
+type: "SII Oficio"
+title: "Oficio IVA N° 1494 (2015)"
+description: "VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8° LETRA G). (ORD. N° 1494, DE 02.06.2015)"
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1494.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_ventas/2015/ja1494.doc"
+materia: "iva"
+fecha: "2015-06-02"
+exenta: false
+impuestos: ["iva"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+VENTAS Y SERVICIOS – NUEVO TEXTO – ACTUAL LEY SOBRE IMPUESTO A LAS – ART. 8° LETRA G). (ORD. N° 1494, DE 02.06.2015)
+
+APLICACIÓN DEL ARTÍCULO 8°, LETRA G), DEL D.L. N° 825 DE 1974.
+
+Se ha solicitado un pronunciamiento a este Servicio, en relación a la aplicación de IVA en el arrendamiento de un inmueble con opción de compra, sin ningún tipo de instalaciones previas, y las que de haberlas serán de cargo y propiedad del arrendatario, en el sentido que tal arrendamiento no se encuentra afecto a IVA.
+
+I. ANTECEDENTES:
+
+Señala el contribuyente que está negociando un contrato de arrendamiento de un inmueble con opción de compra.
+
+El inmueble es un sitio eriazo, que no cuenta con ningún tipo de muebles o de instalaciones o maquinarias; y ningún tipo de edificación; es más, será el arrendatario quien intervendrá el inmueble incorporando instalaciones en las cuales ejercerá un giro comercial.
+
+Las instalaciones serán de propiedad del arrendatario, quien podrá desmantelarlas al término del contrato. Hoy en día los elementos constructivos permiten levantar instalaciones en tiempos muy breves.
+
+Señala que en el contexto descrito será el arrendatario quien por su giro ejercerá una actividad afecta a IVA, para lo cual requiere un sitio sin construcciones de ningún tipo, en el cual procederá la construcción de instalaciones, conforme a las normas constructivas y urbanísticas.
+
+Indica que la condición descrita, esto es, ejercer una actividad afecta a IVA, no significa para el arrendatario del terreno, que el arrendamiento de este bien se encuentre afecto a IVA, ya que no ha arrendado un inmueble con instalaciones ni maquinarias y un terreno vacío no es por sí solo un establecimiento de comercio.
+
+Por último, el contribuyente hace presente los Oficios N° 2018 de 30 de agosto de 2011; N° 1826 de 27 de mayo del 2009 y el N° 2918 del 9 de junio de 2006. En relación al primero de ellos menciona que aquél dispone que los inmuebles entregados en arrendamiento, que no cuenten con ningún tipo de muebles, no se encuentran gravados con IVA, cuando la responsabilidad de amoblarlos es del arrendatario. En el caso que se consulta la responsabilidad de fabricar las instalaciones es exclusivamente del arrendatario.
+
+Con respecto al Oficio N° 1826, indica que éste establece que por inmuebles con instalaciones, para los efectos del IVA, se refiere a cualquier clase de elementos y construcciones que permiten el ejercicio de alguna actividad comercial o industrial. En el caso que se consulta, el inmueble por sí solo al no contar con instalaciones o construcciones no se le puede otorgar una destinación, salvo que se incorporen instalaciones, las que si son de cargo y propiedad del arrendatario, no transforma al contrato en un inmueble habilitado previamente por el arrendador.
+
+Y, sobre el oficio N° 2918, manifiesta que éste ha concluido que en el caso de un inmueble en que las instalaciones que se generen sean de propiedad del arrendatario, el arrendamiento de un galpón desocupado no constituye un hecho gravado con IVA.
+
+II. ANÁLISIS:
+
+Sobre el particular, cabe señalar que de conformidad al artículo 8°, letra g), del D.L. N°825, de 1974, se grava con Impuesto al Valor Agregado “El arrendamiento, subarrendamiento, usufructo o cualquiera otra forma de cesión del uso o goce temporal de bienes corporales muebles, inmuebles amoblados, inmuebles con instalaciones o maquinarias que permitan el ejercicio de una actividad comercial o industrial y de todo tipo de establecimientos de comercio”.
+
+De acuerdo a lo anterior, para que el arrendamiento, o cualquier cesión del uso de un bien raíz se encuentre gravada con IVA, es necesario que el bien objeto de dichos actos jurídicos se encuentre dotado de bienes corporales muebles o cuente con instalaciones que permitan el desarrollo de una actividad comercial o industrial.
+
+En el caso bajo análisis nos encontramos con la situación donde el contribuyente entregará en arriendo con opción de compra un sitio eriazo que no contaría con ningún tipo de muebles e instalaciones, siendo el arrendatario quien le incorporaría instalaciones en las cuales ejercería su giro comercial, siendo éstos de su propiedad las cuales podrá desmantelar al término del contrato.
+
+De lo señalado por el contribuyente en su presentación, se puede concluir que la operación descrita no estaría afecta a IVA en el entendido que el arriendo recae exclusivamente sobre un bien inmueble.
+
+Sin embargo, se hace presente que la afectación con IVA o no del arrendamiento en consulta pende del contenido del contrato de arriendo con opción de compra que hace alusión el contribuyente en su presentación y que no fue acompañado a esta consulta.
+
+III. CONCLUSIÓN:
+
+De lo señalado por el contribuyente en su presentación se puede concluir que la operación descrita no estaría afecta a IVA en el entendido que el arriendo recae exclusivamente sobre un bien inmueble.
+
+No obstante lo anterior, esta Dirección hace presente que los supuestos de hecho planteados en la consulta no pueden ser verificados a priori, por lo que su concurrencia definitiva debe ser establecida en el proceso de fiscalización respectivo.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 1494, de 02.06.2015
+Subdirección Normativa
+Dpto. de Impuestos Indirectos

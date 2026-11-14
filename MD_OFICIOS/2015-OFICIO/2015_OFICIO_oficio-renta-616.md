@@ -1,0 +1,59 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 616 (2015)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.885, ART. N° 11°, ART. N° 13° – CIRCULAR N° 71, DE 2010 – OFICIO N° 4290, DE 2006. (ORD. N° 616, DE 26.02...."
+tags: [SII, 2015, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja616.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2015/ja616.doc"
+materia: "renta"
+fecha: "2015-02-26"
+exenta: false
+impuestos: []
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – LEY N° 19.885, ART. N° 11°, ART. N° 13° – CIRCULAR N° 71, DE 2010 – OFICIO N° 4290, DE 2006. (ORD. N° 616, DE 26.02.2015)
+
+LIMITACIONES QUE ESTABLECEN LOS ARTÍCULOS 11 Y 13, DE LA LEY N° 19.885, RESPECTO DE LAS DONACIONES QUE OTORGAN BENEFICIOS TRIBUTARIOS AL DONANTE, EN LA SITUACIÓN QUE CONSULTA.
+
+I.- ANTECEDENTES.
+
+Señala, que una sociedad ha propuesto hacer una donación a una Fundación para implementar en su Escuela de Formación Profesional de Oficios, un banco de repuestos, partes y piezas de automóviles, para la enseñanza de la mecánica, electricidad y electrónica automotriz. Al respecto, solicita se indique si se pierden los beneficios tributarios de Ley N°19.885, a favor de las donaciones hechas a esta Fundación, en caso que el donatario con cargo a los dineros recibidos compra estos repuestos directamente de la sociedad donante o de otras del mismo grupo de empresas, a precio de costo, conforme a lo establecido en el artículo 11 de la referida Ley. A su juicio, no se perderían tales beneficios ya que el donatario no estaría realizando una contraprestación a favor del donante como lo exige la norma citada para la aplicación de la limitación que establece.
+
+Asimismo, consulta sobre la aplicación, en esta situación, de la limitación que contempla el artículo 13 de la misma Ley.
+
+II.- ANÁLISIS.
+
+Las instrucciones sobre lo dispuesto en los artículos 11 y 13 de la Ley N°19.885, fueron impartidas por este Servicio mediante la Circular N° 71, de 2010.
+
+Respecto del artículo 11, se señaló que esta disposición prohíbe la realización de prestaciones por parte del donatario, ya que para que las donaciones sean consideradas como tales, deben ser a título gratuito; y como rasgo fundamental de este contrato, debe existir una disminución del patrimonio del donante y el recíproco enriquecimiento o aumento del patrimonio del donatario.
+Dicho instructivo añade que, al utilizar la norma legal la expresión prestación, ha querido significar que las instituciones que reciban donaciones que permitan a los donantes acceder a beneficios tributarios, no podrán efectuar a tales donantes ninguna prestación, ya sea, en forma directa o indirecta, que implique un beneficio o servicio a favor del donante, cuyo pago pueda ser imputable al monto donado. Asimismo, indica que la disposición legal citada no prohíbe estrictamente la realización de prestaciones por parte del donatario en la medida que éstas sean remuneradas, de manera tal, que la remuneración guarde relación con la prestación.
+Por su parte, en Oficio N°4.290 de 2006, se señaló que el donante y donatario pueden celebrar ciertos contratos, que se ajusten a los precios del mercado, sin que ello signifique una contraprestación prohibida por la norma del aludido artículo 11, por lo que se indicó que el donatario no estaba impedido de adquirir del donante los bienes a que se refiere tal pronunciamiento, en tanto que el precio del bien se ajuste al normal o de mercado. Agrega que, sin embargo, la donación no puede condicionarse a la compra futura de un bien del donante o a la prestación de un servicio por el donatario, puesto que ello constituiría una contraprestación de las mencionadas por el artículo 11 de la Ley N°19.885, esto es, de aquellas que la Ley denomina otras contraprestaciones efectuadas en forma indirecta y que se realiza con ocasión o a causa de la donación.
+
+Por consiguiente, conforme a lo expresado se puede concluir que el texto del artículo 11 de la Ley en comento, no prohíbe en términos absolutos determinadas prestaciones del donatario a favor del donante, siempre que no se realicen en forma exclusiva, en condiciones especiales o exigiendo menos requisitos que los que exijan en general; pudiendo realizarse éstas, siempre que se efectúen a precios de mercado.
+
+En relación a las prohibiciones que establece el artículo 13 de la Ley en comento, respecto del donante, cabe señalar que no se podrán utilizar los beneficios tributarios que la Ley establece cuando entre otros casos, dentro de los dos años anteriores a la donación, hubieren realizado transacciones, operaciones o cualquier otro acto con la entidad donataria, en condiciones de precio o financiamiento distintas a las normales del mercado. De los antecedentes descritos en su presentación no se verifica el hecho de que se hubieren realizado tales transacciones, operaciones o cualquier otro acto con la entidad donataria, razón por la cual dicha limitación no sería aplicable.
+
+III.- CONCLUSIONES.
+
+A juicio de esta Dirección y basado en los antecedentes que describe en su presentación, se concluye que los beneficios tributarios que establece la Ley N°19.885, a favor de las donaciones hechas a esta Fundación, no se pierden en caso que el donatario, con cargo a los dineros recibidos, compre los repuestos directamente de la sociedad donante o de otras del mismo grupo de empresas, en tanto que el precio del bien se ajuste al normal o de mercado, y siempre que dicha compra no haya sido establecida como una condición para efectuar la misma donación, puesto que en tal caso, el hecho de la compra aún a precio normal, constituiría una prestación de las mencionadas por el artículo 11 de la Ley N°19.885.
+
+Se hace presente que el precio de costo que describe en su presentación, no correspondería al precio normal cobrado en operaciones de venta de repuestos, así como tampoco al valor de mercado de los mismos, por lo que de cobrarse dicho precio, la operación también se comprendería dentro de las prestaciones que la Ley prohíbe.
+
+Respecto de la limitación que establece el artículo 13 de la Ley N°19.885, cabe señalar que de los antecedentes descritos en su presentación no se verifica la realización de transacciones, operaciones o cualquier otro acto con la entidad donataria dentro de los dos años anteriores a la donación, razón por la cual dicha limitación no sería aplicable.
+
+En todo caso, se hace presente que la verificación de las circunstancias de hecho que rodean la operación, son materias propias de la instancia de fiscalización respectiva.
+
+JUAN ALBERTO ROJAS BARRANTI
+DIRECTOR (S)
+
+Oficio N° 616, de 26.02.2015
+Subdirección Normativa
+Dpto. de Impuestos Directos

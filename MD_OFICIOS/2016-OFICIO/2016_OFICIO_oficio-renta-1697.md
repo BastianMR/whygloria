@@ -1,0 +1,61 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 1697 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°6, ART. 42, N°1 – CIRCULAR N° 42, DE 1990. (ORD. N° 1697, DE 15.06.2016)"
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1697.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja1697.doc"
+materia: "renta"
+fecha: "2016-06-15"
+exenta: false
+impuestos: ["renta", "segunda-categoria"]
+formularios: []
+regimen: ["no-aplica"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART. 31, N°6, ART. 42, N°1 – CIRCULAR N° 42, DE 1990. (ORD. N° 1697, DE 15.06.2016)
+
+PROCEDENCIA DE LA DEDUCCIÓN COMO GASTO DE LA REMUNERACIÓN PAGADA A UN SOCIO DE SOCIEDAD DE PERSONAS QUE TRABAJA EFECTIVA Y PERMANENTEMENTE EN ELLA, PESE A NO ESTAR AFECTA AL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA.
+
+Se ha solicitado un pronunciamiento a este Servicio sobre la procedencia de la deducción como gasto del sueldo empresarial que se asigne a un socio de una sociedad de personas que trabaja en ella, pero que por su monto no resulta gravado con el Impuesto Único de Segunda Categoría.
+
+I.- ANTECEDENTES.
+
+Manifiesta que este Servicio, a través de diversas Circulares, especialmente la N°42 de 1990, y diversos pronunciamientos, entre los cuales menciona el Oficio N°1374 de 2009, se ha referido a los requisitos que deben cumplirse para que opere el denominado “Sueldo Empresarial o Patronal“.
+
+Luego de reproducir el N°6, del artículo 31 de la Ley sobre Impuesto a la Renta (LIR), indica que este Servicio ha señalado los requisitos que debe reunir para su deducción, exigiendo, entre otros, que las remuneraciones queden sujetas al Impuesto Único de Segunda Categoría, manifestando que muchos intérpretes, incluyendo algunos fiscalizadores de este Servicio, han sostenido que si la remuneración que se asigna el socio o empresario individual no queda afecta al Impuesto Único de Segunda Categoría, no puede ser calificada como sueldo empresarial, y, por consiguiente, no puede ser aceptada como gasto en la contabilidad de la empresa de la cual el socio es parte, posición que estima errónea, puesto que la norma sólo fija un monto máximo para el beneficio, equivalente a las 60 UF, tope que con las modificaciones introducidas al D.L. N°3.500 de 1980, por la Ley N° 20.255 de 2008, debe reajustarse anualmente, quedando en 73,2 UF para el año 2015.
+
+De esta manera, para cumplir con lo dictaminado por este Servicio, para que un sueldo empresarial asignado pueda ser contabilizado como gasto, por ejemplo, un pequeño empresario estaría obligado a asignarse un sueldo de $750.000.- o más, puesto que, descontadas las cotizaciones previsionales obligatorias que debe pagar, quedaría una renta afecta a Impuesto Único de $600.000.-, la que si quedaría afecta impuesto.
+
+Por el contrario, si su realidad sólo le permite asignarse un sueldo de $500.000.-, dicha remuneración no quedará afecta al señalado Impuesto, ya que descontadas las cotizaciones previsionales quedará muy por debajo de la remuneración mínima afecta a impuesto y por consiguiente dicho sueldo no podría ser contabilizado como gasto.
+
+En mérito a lo anterior, consulta si puede ser considerado como sueldo empresarial, y, por consiguiente, aceptado como gasto necesario para producir la renta de la sociedad, la remuneración que se asigne un socio de una sociedad de personas que efectiva y permanentemente trabaje en ella, y que por razones presupuestarias se ha fijado un sueldo menor, el cual por su monto no queda afecto al Impuesto Único de Segunda Categoría.
+
+II.- ANÁLISIS.
+
+Sobre el particular, cabe señalar que el inciso 3°, del N° 6, del artículo 31 de la LIR, dispone que se aceptará como gasto la remuneración del socio de sociedades de personas y socio gestor de sociedades en comandita por acciones, y las que se asigne el empresario individual, que efectiva y permanentemente trabajen en el negocio o empresa, hasta por el monto que hubiere estado afecto a cotizaciones previsionales obligatorias, considerando dichas remuneraciones como rentas clasificadas en el N° 1, del artículo 42 de la LIR.
+
+Este Servicio, a través de su Circular N° 42 de 1990, impartió instrucciones sobre la materia, precisando que tal norma exige el cumplimiento copulativo de varios requisitos, entre los cuales figura el que las remuneraciones queden sujetas al Impuesto Único de Segunda Categoría conforme con las normas generales que regulan este tributo.
+
+Sin embargo, el texto legal o las instrucciones en referencia, no exigen un monto mínimo para hacer uso de la deducción, sin perjuicio de limitarla “hasta por el monto que hubiera estado afecto a cotizaciones previsionales obligatorias”.
+
+En tales circunstancias, nada impide que la remuneración que se asigne a un socio de sociedad de personas que trabaje efectiva y permanentemente en ella, pero que por su monto no resulte gravada con el Impuesto Único de Segunda Categoría, pueda deducirse como gasto necesario para producir la renta.
+
+El fundamento de la exigencia legal, de reconocer tal remuneración como rentas del artículo 42 N° 1 de la LIR, apunta a establecer que la remuneración del socio es una renta afecta al Impuesto Único de Segunda Categoría, sin que pueda gozar de exenciones o beneficios especiales, salvo cuando una norma legal establezca de manera expresa tal beneficio para las personas señaladas. Al respecto, se precisa que dicha remuneración mantiene el carácter de renta afecta al Impuesto Único de Segunda Categoría, aun cuando no resulte gravada por aplicación de la escala progresiva de tasas de dicho tributo, en el caso que la suma total no exceda de una cantidad equivalente a 13,5 UTM.
+
+III.- CONCLUSIÓN.
+
+No existe inconveniente para deducir de la renta bruta de una sociedad de personas, en conformidad a lo dispuesto en el inciso 3°, del N° 6, del artículo 31 de la LIR, la remuneración que se asigne su socio, que trabaje en ella efectiva y permanentemente, aunque por su monto no resulte gravada con el Impuesto Único de Segunda Categoría. Ello, en la medida que se cumpla con las demás exigencias establecidas en dicha norma legal, y las instrucciones contenidas en la Circular N°42 de 1990, de este Servicio.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 1697, de 15.06.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos

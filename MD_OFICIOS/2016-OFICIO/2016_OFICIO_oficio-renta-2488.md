@@ -1,0 +1,88 @@
+---
+type: "SII Oficio"
+title: "Oficio Renta N° 2488 (2016)"
+description: "RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART.31, ART. 34 BIS N°1, ART. 74, ART. 78, ART. 79, ART. 84 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 13, ..."
+tags: [SII, 2016, oficio]
+source_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2488.htm"
+source_format: "html"
+retrieved: "2026-11-11"
+doc_url: "https://www.sii.cl/normativa_legislacion/jurisprudencia_administrativa/ley_impuesto_renta/2016/ja2488.doc"
+materia: "renta"
+fecha: "2016-09-06"
+exenta: false
+impuestos: ["renta", "iva"]
+formularios: []
+regimen: ["renta-presunta"]
+ref_legal: []
+status_vigencia: "desconocido"
+replaced_by: []
+relaciones: []
+---
+
+RENTA – ACTUAL LEY SOBRE IMPUESTO A LA – ART.31, ART. 34 BIS N°1, ART. 74, ART. 78, ART. 79, ART. 84 – LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS, ART. 13, ART. 52 – LEY N° 20.780, DE 2014 – CIRCULARES N° 23, DE 1988, N°8 DE 2014 Y N° 37, DE 2015. (ORD. N° 2488, DE 06.09.2016)
+
+FORMA DE ACREDITAR LOS INGRESOS POR SERVICIOS DE TRANSPORTE Y LOS GASTOS POR COMPRA DE COMBUSTIBLES, POR PARTE DE UNA EMPRESA DE TRANSPORTE TERRESTRE DE PASAJEROS, OBLIGADA A DECLARAR SUS RENTAS EFECTIVAS SEGÚN CONTABILIDAD.
+
+Se ha solicitado un pronunciamiento a este Servicio, sobre la forma de acreditar para efectos tributarios, los ingresos por servicios de transporte y los gastos por compra de combustible, por parte de una empresa de transporte terrestre de pasajeros, obligada a declarar sus rentas efectivas según contabilidad.
+
+I.- ANTECEDENTES.
+
+Una empresa con giro en transporte terrestre de pasajeros por buses interurbanos, producto de las modificaciones efectuadas por la Ley N°20.630, de 2012, a las normas contenidas en el artículo 34 bis de la Ley sobre Impuesto a la Renta (LIR), no cumple con los requisitos para seguir tributando en base a renta presunta, por lo que se encuentra obligada a declarar renta efectiva según contabilidad, de acuerdo a lo establecido en el N°1 de ese artículo.
+
+Al respecto, solicita se instruya sobre la forma, requisitos y obligaciones que deberá cumplir una empresa con giro en transporte terrestre de pasajeros, obligada a declarar renta efectiva, para acreditar los ingresos obtenidos por la venta de pasajes.
+
+A juicio de la Dirección Regional, dada la modalidad de prestación de los servicios, ello hace que la emisión de documentos tributarios, en particular una boleta por cada operación, dificulte o entrabe las actividades que realiza, por lo que se mantendría vigente el supuesto tenido en vista por la Resolución Exenta N°1.110 de 1978, de eximir a las empresas de movilización urbana e interurbana de la obligación de emitir boletas.
+
+De esta manera, indica, la conclusión necesaria es que debería emitirse una factura exenta de IVA, que dé cuenta de las operaciones realizadas en cierto período de tiempo, por ejemplo, diariamente, lo que, sin embargo, será igualmente dificultoso para el contribuyente, atendida la modalidad de prestación del servicio.
+
+Por otro lado, señala que se han recibido frecuentes consultas relativas a la forma de acreditar fehacientemente los gastos de combustible soportados por contribuyentes que desarrollan el transporte público de pasajeros. Este Servicio ha expresado , que de conformidad con lo dispuesto por el inciso primero del artículo 31 de la LlR, los gastos necesarios para producir la renta, deben acreditarse o justificarse en forma fehaciente. En este sentido, señala que los proveedores de combustible no extienden facturas a las empresas de transporte de pasajeros, por no estar autorizados según lo establecido en la Circular N°78 de 1998, que instruye en relación con la Resolución Exenta N°6.289 del mismo año, toda vez que la emisión de facturas y/o guías de despacho está referida en la ley sólo a las operaciones entre contribuyentes del IVA.
+
+Más aún, la Resolución Exenta N°286 de 1988, prohibió expresamente la emisión de facturas a esta clase de contribuyentes, al determinar que los usuarios adquirentes de combustibles, que no tengan derecho a crédito fiscal, deben solicitar únicamente boletas de ventas y servicios, por tales adquisiciones.
+
+Por lo tanto, sólo restaría al contribuyente solicitar a su proveedor la emisión de boletas “nominativas”, lo que tampoco ha resultado posible según la práctica habitual de los expendedores de combustible.
+
+En consecuencia, y a fin de dar respuesta a los contribuyentes, solicita instruir, en relación con la actividad de transporte terrestre de pasajeros:
+
+1) La forma de acreditar los ingresos obtenidos por concepto de venta de pasajes.
+2) La forma de acreditar costos por compras de combustible.
+3) Revisar las instrucciones vigentes sobre la materia, considerando las recientes modificaciones legales relativas a la renta presunta de estos contribuyentes.
+
+II.- ANÁLISIS.
+
+1.- Cabe indicar en primer término, que el artículo 34 bis N°1 de la LIR, dispone que los contribuyentes que a cualquier título posean o exploten vehículos motorizados de transporte terrestre quedarán afectos al Impuesto de Primera Categoría por las rentas efectivas que obtengan de dicha actividad, según contabilidad; sin perjuicio de lo dispuesto en los números 2° y 3° de ese artículo, que autorizan, bajo los supuestos que contempla, a declarar en base a presunción de rentas por los ingresos de dicha actividad .
+
+Por la actividad de transporte remunerado de pasajeros, el contribuyente en consulta, debe declarar sus rentas efectivas según contabilidad, de acuerdo al artículo 68 de la LlR; debe efectuar las retenciones de impuesto a que se refieren los números 1, 2 y 4 del artículo 74 de la LlR y enterarlas en arcas fiscales en los plazos señalados en los artículos 78 y 79 del mismo cuerpo legal; efectuar pagos provisionales mensuales conforme a las normas del artículo 84 de la ley del ramo, y dar cumplimiento a todas las demás obligaciones tributarias, ya sea de carácter legal o administrativas en su calidad de contribuyente de la Primera Categoría que declara rentas efectivas según contabilidad.
+
+Para efectos de determinar la renta líquida imponible del Impuesto de Primera Categoría y el cálculo de los pagos provisionales mensuales obligatorios, deben ser considerados ingresos brutos de acuerdo a lo establecido en el artículo 34 bis N°1 de la LIR, en relación a lo dispuesto en el artículo 29 de la LIR. El inciso primero, del artículo 31 de la misma ley, permite deducir de la renta bruta todos los gastos necesarios para producir las rentas de la empresa, siempre que no hayan sido rebajados en virtud del artículo 30, pagados o adeudados durante el ejercicio comercial correspondiente, los que en todo caso deben ser acreditados o justificados en forma fehaciente ante este Servicio.
+
+Por su parte, en relación al Impuesto a las Ventas y Servicios, el artículo 13, del Decreto Ley N°825, en su N°3, establece que estarán liberadas del impuesto del Título II de esta ley, las empresas de movilización urbana, interurbana, interprovincial y rural, sólo respecto de los ingresos provenientes del transporte de pasajeros. El artículo 52 de la misma ley, dispone que las personas que celebren cualquier contrato o convención de los mencionados en los Títulos II y III deberán emitir facturas o boletas, según el caso, por las operaciones que efectúen; aun cuando en la venta de los productos o prestación de los servicios no se apliquen los impuestos de dicha ley, incluso cuando se trate de convenciones que versen sobre bienes o servicios exentos de dichos impuestos. No obstante, el artículo 56 del mismo texto legal establece que este Servicio podrá eximir de las obligaciones señaladas a determinadas actividades, grupos o gremios de contribuyentes, a contribuyentes que vendan o transfieran productos exentos o que presten servicios exentos, y a contribuyentes afectos a los impuestos establecidos en esta ley, cuando por la modalidad de comercialización de algunos productos, o de prestación de algunos servicios, la emisión de boletas, facturas y otros documentos por cada operación pueda dificultar o entrabar las actividades que ellos desarrollan.
+
+Al respecto, y tal como se expresa en el requerimiento, mediante Resolución Exenta N°1.110 de 1978, de este Servicio, se eximió de la obligación de emitir boletas, entre otras empresas a las que presten servicios de movilización urbana, interurbana, interprovincial y rural, sólo respecto de los ingresos provenientes del transporte de pasajeros; norma que se encuentra vigente. De esta forma, no resultan aplicables a la empresa en cuestión las instrucciones relativas a la emisión de facturas o boletas por sus servicios exentos de IVA, dispuesto en la Resolución Exenta N°6.080, de 1999, cuyas instrucciones están contenidas en la Circular N°39, de 2000, ya que en su Resolutivo N°6, dispone que los contribuyentes autorizados por este Servicio para no emitir documentos por operaciones no afectas o exentas de IVA, no les corresponderá emitir los documentos que establece esa Resolución para respaldar las operaciones exentas o no afectas a que se refiere.
+
+2.- Por lo tanto, teniendo en consideración lo señalado precedentemente, en cuanto a la forma de acreditar los ingresos por cobro de pasajes, en atención a que la empresa de transporte de pasajeros en cuestión está liberada de la obligación de emitir boletas por cada operación que realice, para dichos efectos deberá emitir documentos o comprobantes internos, que den cuenta fehacientemente de los ingresos por cobro de pasajes; los que deberán guardar la debida correlación con los libros de contabilidad autorizados, principales y auxiliares y con sus registros, planillas o nóminas que deba llevar; y los demás documentos o antecedentes que deban confeccionarse de acuerdo a las instrucciones de carácter general o especial que se hubieren dictado por otras entidades en las materias de su competencia; antecedentes todos que deberán ser puestos a disposición de este Servicio cuando sean requeridos en sus actividades normales de fiscalización.
+
+En cuanto al segundo punto en consulta, relativo a la forma de acreditar los gastos por compra de combustibles, corresponde consignar que este Servicio ha instruido en el resolutivo N°2, de la Resolución Exenta N°286, de 1988, tal como lo señala en su presentación, que las empresas de movilización urbana, interurbana, interprovincial y rural, respecto de los ingresos provenientes del transporte de pasajeros, que no dan derecho a crédito fiscal, deben solicitar únicamente boletas de ventas y servicios en establecimientos vendedores del ramo, por sus adquisiciones de combustible. En la Circular N°23, del mismo año, se ratifica lo antes resuelto al indicar que en las ventas de combustible a dichas empresas, no deben otorgar factura ni guía de despacho, sino solamente boletas. Agrega que los vendedores de combustible pueden emitir boletas en las que se identifique el adquirente del producto con su nombre, domicilio y N° de RUT, como se indicó en la Circular N°46 de 1987.
+
+Sin perjuicio de lo antes indicado, cabe tener presente que mediante la Resolución Exenta N°5 de 2015 , modificada por la Resolución N°55, de 2015, se estableció que a contar del 1° de febrero de 2015, respecto de los contribuyentes-comercio que hayan optado por emitir boletas de ventas y servicios en formato papel, el comprobante o recibo de pago generado en transacciones pagadas a través de medios electrónicos, mediante el uso de “tarjetas de crédito” o “tarjetas de débito”, otorgado en la forma y condiciones que se establecen en esa Resolución, tendrá el valor de boleta de ventas y servicios. Por tanto, los contribuyentes, que sean expendedores de combustible, no deberán emitir boleta en las operaciones que se paguen del modo antes indicado.
+
+Sin embargo, el mismo instructivo agrega que los contribuyentes-comercio deberán emitir normalmente la boleta de ventas y servicios en las operaciones cuyo pago se realice en dinero efectivo o materialice a través de un medio de pago que no sea una tarjeta “de crédito” o “de débito”.
+
+Por otro lado, también se deberá considerar que la Resolución citada, establece que ella no se aplicará en los siguientes casos:
+
+a) A los contribuyentes que operen máquinas registradoras, terminales de punto de ventas, impresoras fiscales u otro dispositivo similar, autorizados por este Servicio para emitir vales en reemplazo de boletas, de acuerdo a normas particulares, quienes deberán continuar emitiendo aquellos en reemplazo de las boletas de compras y ventas afectas.
+b) Los contribuyentes que cuenten con dos o más establecimientos de venta a consumidores finales, en los cuales en al menos uno de ellos se utilicen sistemas autorizados de emisión de vales en reemplazo de boletas y que adicionalmente cuenten con al menos un establecimiento que emita boletas timbradas, deberán acogerse a las disposiciones de esta resolución sólo en el establecimiento que emita boletas timbradas.
+
+III.- CONCLUSIONES.
+
+A efectos de dar cumplimiento a las obligaciones asociadas a la tributación con el Impuesto de Primera Categoría y del pago provisional mensual, la empresa de transporte remunerado de pasajeros, obligada a declarar sus rentas efectivas según contabilidad, deberá acreditar sus ingresos por venta de pasajes con los documentos de carácter interno que estime necesario emitir al efecto y que den cuenta, fehacientemente, de las operaciones de que se trata, lo que deberá ser concordante con sus registros contables y demás documentos que se encuentre obligado a llevar.
+
+Los proveedores de combustible deben emitir boletas a solicitud de los contribuyentes con giro en transporte terrestre de pasajeros obligados a declarar sus rentas efectivas, según contabilidad, conforme a lo instruido en la Resolución Exenta N°286 y Circular N°23, ambas de 1988; sin perjuicio de la aplicación de lo establecido en la Resolución Exenta N°5 de 2015, en los casos y con las excepciones que establece.
+
+Todo lo señalado se debe entender sin perjuicio del ejercicio de las facultades de este Servicio para verificar el cumplimiento de tales obligaciones; y revisar la procedencia y correlación entre ingresos y gastos del contribuyente, de acuerdo con las facultades que la ley otorga.
+
+FERNANDO BARRAZA LUENGO
+DIRECTOR
+
+Oficio N° 2488, de 06.09.2016
+Subdirección Normativa
+Dpto. de Impuestos Directos
