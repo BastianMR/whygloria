@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2024)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Santa Cruz."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso17.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Santa Cruz."
 fecha: "2024-01-31"
 exenta: true

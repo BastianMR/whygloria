@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 29 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                     | CIRCULAR N° 29..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu29.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de agosto de 2026 e información adicional relacionada con dicho impuesto."
 fecha: "2026-07-14"
 exenta: false

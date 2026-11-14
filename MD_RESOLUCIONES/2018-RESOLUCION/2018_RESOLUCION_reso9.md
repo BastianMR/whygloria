@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso9.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 64, DE 06 DE JULIO DE 2016 QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2018-01-30"
 exenta: true

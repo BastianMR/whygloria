@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2018)"
 description: "MAT: Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso17.pdf"
 materia: "Establece procedimiento alternativo para inscripción de inversiones en el Registro de Inversiones en el Extranjero."
 fecha: "2018-02-20"
 exenta: true

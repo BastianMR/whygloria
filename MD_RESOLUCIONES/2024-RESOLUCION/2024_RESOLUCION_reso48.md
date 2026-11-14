@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN GE 268308"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso48.pdf"
 materia: "DETERMINA QUE LA REPÚBLICA DE SINGAPUR NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H."
 fecha: "2024-04-15"
 exenta: true

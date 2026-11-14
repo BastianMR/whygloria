@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2022)"
 description: "DELEGA FACULTAD RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso34.pdf"
 materia: "DELEGA FACULTAD RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2022-04-19"
 exenta: true

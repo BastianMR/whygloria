@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso27.pdf"
 materia: "DELEGA FACULTADES EN EL DIRECTOR REGIONAL DE LA XIX DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO NORTE."
 fecha: "2014-02-28"
 exenta: true

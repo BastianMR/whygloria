@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 4 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00357866"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso4.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Consejo de Defensa del Estado y el Servicio de Impuestos Internos."
 fecha: "2026-01-14"
 exenta: true

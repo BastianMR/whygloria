@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 57.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu57.pdf"
 materia: "Facultad del Servicio para examinar las hojas sueltas y sistemas tecnológicos que sirvan de soporte a la contabilidad y registros auxiliares. Requerimiento de antecedentes con el fin de recabar información del contribuyente."
 fecha: "2015-06-26"
 exenta: false

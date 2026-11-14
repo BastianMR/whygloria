@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°39.- GE258810 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu39.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de octubre de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-09-13"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 1 (2025)"
 description: "DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº01.- 305745.2024 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu1.pdf"
 materia: "Imparte instrucciones sobre normas del Código Tributario en materia de aplicación de reajustes e intereses moratorios tras las modificaciones introducidas por la Ley N° 21.713. Modifica la Circular N° 9 de 1988."
 fecha: "2025-01-02"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso18.pdf"
 materia: "AUTORIZA LA EMISIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LAS COMUNAS DE TIERRA AMARILLA, DIEGO DE ALMAGRO, CHAÑARAL, ALTO DEL CARMEN Y COPIAPÓ POR LA RAZÓN QUE INDICA."
 fecha: "2020-02-06"
 exenta: true

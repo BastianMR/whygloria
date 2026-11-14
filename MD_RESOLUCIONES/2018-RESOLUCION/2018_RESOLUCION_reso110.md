@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso110.pdf"
 materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y"
 fecha: "2018-11-09"
 exenta: true

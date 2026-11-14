@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 35 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                           ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu35.pdf"
 materia: "Actualiza instrucciones sobre mecanismos de impugnación administrativa: RAV, RAF y Recurso Jerárquico. Deja sin efecto Circulares N°34 de 27 de junio de 2018, N°26 de 18 junio de 2026 y el Capítulo IV de la Circular N°12 de 2021."
 fecha: "2026-08-31"
 exenta: false

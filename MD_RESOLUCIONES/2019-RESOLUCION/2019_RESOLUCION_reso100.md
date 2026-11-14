@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 306- SDAC - 2019 GE00128138"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso100.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LA SUBSECRETARÍA DEL MEDIO AMBIENTE."
 fecha: "2019-09-05"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso25.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA LA OBTENCIÓN, RECUPERACIÓN Y CAMBIO DE CLAVE TRIBUTARIA Y ADMINISTRACIÓN DE REPRESENTANTES ELECTRÓNICOS. DEJA SIN EFECTO CIRCULAR N° 58 DE 2004."
 fecha: "2021-03-01"
 exenta: true

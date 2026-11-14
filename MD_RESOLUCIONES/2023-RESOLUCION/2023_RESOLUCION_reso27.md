@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2023)"
 description: "SUBDIRECCIÓN DE GESTION ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso27.pdf"
 materia: "DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES Y DEJA SIN EFECTO RESOLUCIONES QUE INDICA."
 fecha: "2023-03-14"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso92.pdf"
 materia: "DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO"
 fecha: "2018-10-03"
 exenta: true

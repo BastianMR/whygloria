@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 17 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 17 34.2016 ID 14.2016 SN |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu17.pdf"
 materia: "Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2016 y/o hasta el 30 de abril de 2017, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2015 y/o al 31 de diciembre de 2016."
 fecha: "2016-04-13"
 exenta: false

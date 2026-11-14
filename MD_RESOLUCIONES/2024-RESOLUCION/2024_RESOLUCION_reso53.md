@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2024)"
 description: "SUBDIRECCI Ó N DE ASUNTOS CORPORATIVOS GE00281504"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso53.pdf"
 materia: "Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses"
 fecha: "2024-05-02"
 exenta: true

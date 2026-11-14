@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 201 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso201.pdf"
 materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA. MODIFICA LA RESOLUCIÓN N°158, DE 2025."
 fecha: "2025-12-23"
 exenta: true

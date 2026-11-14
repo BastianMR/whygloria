@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 54 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE308673 | CIRCULAR Nº54.- |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu54.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de enero 2025."
 fecha: "2024-12-27"
 exenta: false

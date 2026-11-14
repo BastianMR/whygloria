@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso5.pdf"
 materia: "Aprueba Adendum Anexo al Convenio de Colaboración entre el Servicio de Impuestos Internos y la Corporación de Fomento de la Producción."
 fecha: "2020-01-17"
 exenta: true

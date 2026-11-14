@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO 77318607274 77318611085"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso63.pdf"
 materia: "AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO QUE INDICA, COMO RECEPTORAS DE PAÑALES CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2018-08-10"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 24 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos | CIRCULAR N° 24.- 240813.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu24.pdf"
 materia: "Imparte instrucciones sobre efectos tributarios de las modificaciones introducidas por la Ley N° 21.484, de responsabilidad parental y pago efectivo de deudas de pensiones de alimentos."
 fecha: "2023-06-08"
 exenta: false

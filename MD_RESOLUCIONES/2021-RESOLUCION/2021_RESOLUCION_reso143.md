@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 200604"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso143.pdf"
 materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2021-12-30"
 exenta: true

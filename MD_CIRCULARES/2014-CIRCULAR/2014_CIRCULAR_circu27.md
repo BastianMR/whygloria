@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 27 (2014)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 27.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu27.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS MAYO 2014"
 fecha: "2014-04-16"
 exenta: false

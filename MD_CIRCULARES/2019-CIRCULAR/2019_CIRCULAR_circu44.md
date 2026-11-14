@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 44 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 44.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu44.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre de 2019 y el 9 de diciembre de 2019, ambos inclusive."
 fecha: "2019-11-11"
 exenta: false

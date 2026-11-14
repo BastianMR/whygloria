@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso77.pdf"
 materia: "MODIFICA RESOLUCION EX SII N° 13, DE 2016, RESPECTO UNIDAD QUE INDICA DEL DEPARTAMENTO SUBDIRECCIÓN DESARROLLO DE PERSONAS."
 fecha: "2017-08-23"
 exenta: true

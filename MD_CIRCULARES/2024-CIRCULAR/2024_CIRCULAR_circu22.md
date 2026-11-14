@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2024)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N°22.- 261259.2023 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu22.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.622 a la Ley de donaciones con fines culturales, contenida en el artículo 8° de la Ley N° 18.985."
 fecha: "2024-05-16"
 exenta: false

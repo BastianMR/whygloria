@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2018)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso18.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°129 DE 29 DE DICIEMBRE DE 2017, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2018-02-20"
 exenta: true

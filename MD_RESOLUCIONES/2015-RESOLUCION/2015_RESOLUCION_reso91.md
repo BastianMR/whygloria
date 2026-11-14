@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES c-211-2015 sd SDAC-19-2015"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso91.pdf"
 materia: "AUTORIZA COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE SE SEÑALA."
 fecha: "2015-11-20"
 exenta: true

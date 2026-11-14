@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00230991"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso25.pdf"
 materia: "DELEGA EN EL SUBDIRECTOR JURÍDICO LA FACULTAD DE TRAMITAR LAS SOLICITUDES DE AVENIMIENTO EXTRAJUDICIAL DEL ARTÍCULO 132 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2023-03-09"
 exenta: false

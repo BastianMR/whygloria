@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2016)"
 description: "SUPERINTENDENCIA DE PENSIONES"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso107.pdf"
 materia: "I. MODIFICACIONES AL LIBRO II, TÍTULO XIV DEL COMPENDIO DE NORMAS DEL SISTEMA DE PENSIONES DE LA SUPERINTENDENCIA DE PENSIONES, A LA RESOLUCIÓN N° 9 DE 2012, DEL SERVICIO DE IMPUESTOS INTERNOS, Y A LA CIRCULAR NORMATIVA N° 2 DE LA TESORERÍA GENERAL DE LA REPÚBLICA."
 fecha: "2016-11-24"
 exenta: false

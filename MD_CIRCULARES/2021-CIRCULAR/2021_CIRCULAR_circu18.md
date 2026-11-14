@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N° 18 178765.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu18.pdf"
 materia: "Imparte instrucciones sobre el artículo trigésimo segundo transitorio de la Ley N° 21.210 de 24 de febrero de 2020, que establece un régimen opcional y transitorio destinado a solucionar diferencias de impuestos cuyo origen sea correlativo con diferencias en el capital propio tributario informado al"
 fecha: "2021-04-01"
 exenta: false

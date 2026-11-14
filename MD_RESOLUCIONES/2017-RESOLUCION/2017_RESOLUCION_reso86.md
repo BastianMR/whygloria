@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso86.pdf"
 materia: "ELIMINA OBLIGACIÓN DE GENERACIÓN Y ENVÍO DEL LIBRO CONTABLE ELECTRÓNICO DE COMPRAS Y VENTAS SEGÚN RESOLUCIÓN EX. SII N° 150, DEL 2005."
 fecha: "2017-09-07"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2026)"
 description: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2027"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso135.pdf"
 materia: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2027"
 fecha: "2026-10-02"
 exenta: true

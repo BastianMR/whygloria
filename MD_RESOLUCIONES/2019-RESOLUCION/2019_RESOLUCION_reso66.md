@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2019)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso66.pdf"
 materia: "DELEGA FACULTADES QUE INDICA, RELATIVAS AL PAGO DE VIATICOS."
 fecha: "2019-05-27"
 exenta: true

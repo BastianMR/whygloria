@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2022)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso32.pdf"
 materia: "DELEGA FACULTAD EN LA JEFATURA QUE INDICA."
 fecha: "2022-04-12"
 exenta: true

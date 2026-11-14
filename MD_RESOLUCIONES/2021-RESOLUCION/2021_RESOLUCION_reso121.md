@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2021)"
 description: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso121.pdf"
 materia: "CORRIGE ERROR DE TRANSCRIPCIÓN EN LA RESOLUCIÓN EXENTA SII N° 110 DE 2021."
 fecha: "2021-10-26"
 exenta: true

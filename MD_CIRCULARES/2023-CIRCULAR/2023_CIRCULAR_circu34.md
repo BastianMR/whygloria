@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos | CIRCULAR N°34.- 249136.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu34.pdf"
 materia: "Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta."
 fecha: "2023-08-11"
 exenta: false

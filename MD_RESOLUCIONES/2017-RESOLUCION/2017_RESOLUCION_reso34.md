@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso34.pdf"
 materia: "FIJA NUEVO PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RENTAS OBTENIDAS POR TERCEROS, FORMULARIO N° 1932."
 fecha: "2017-03-22"
 exenta: true

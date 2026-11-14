@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº23.- |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu23.pdf"
 materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2023. sobre Impuesto a la Renta, y 11 del Código Tributario."
 fecha: "2023-05-19"
 exenta: false

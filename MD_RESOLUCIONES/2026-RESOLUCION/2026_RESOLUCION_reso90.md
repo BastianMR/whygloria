@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS GE00383638"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso90.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE SE INDICA."
 fecha: "2026-07-01"
 exenta: true

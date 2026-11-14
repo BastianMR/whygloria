@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso56.pdf"
 materia: "INCORPORA Y REGULA EL USO DE CÉDULA RUT ELECTRÓNICA (e-RUT)"
 fecha: "2016-06-22"
 exenta: true

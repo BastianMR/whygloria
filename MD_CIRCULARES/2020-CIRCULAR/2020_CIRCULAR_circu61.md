@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 61 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 61 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu61.pdf"
 materia: "Imparte instrucciones sobre el Procedimiento General de Devolución o Recuperación de los Impuestos del D.L. N° 825 de 1974"
 fecha: "2020-09-11"
 exenta: false

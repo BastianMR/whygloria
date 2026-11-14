@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 52.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu52.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE DICIEMBRE DEL AÑO 2013 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
 fecha: "2013-11-13"
 exenta: false

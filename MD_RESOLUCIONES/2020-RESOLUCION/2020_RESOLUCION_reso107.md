@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso107.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR DEVOLUCIÓN DE REMANENTES DE IVA, CONFORME LO DISPUESTO POR LA LEY N° 21.256."
 fecha: "2020-09-08"
 exenta: true

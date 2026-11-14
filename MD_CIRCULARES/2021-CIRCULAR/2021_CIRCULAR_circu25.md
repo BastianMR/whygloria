@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 25 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°25.- 176859 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu25.pdf"
 materia: "Imparte instrucciones sobre la obligatoriedad de las boletas de honorarios electrónicas."
 fecha: "2021-04-21"
 exenta: false

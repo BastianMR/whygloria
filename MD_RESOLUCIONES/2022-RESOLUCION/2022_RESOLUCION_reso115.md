@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00228328"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso115.pdf"
 materia: "INSTRUYE SOBRE LOS PROCEDIMIENTOS PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES."
 fecha: "2022-11-30"
 exenta: false

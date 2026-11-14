@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso10.pdf"
 materia: "REGULA FORMA DE IMPETRAR EL BENEFICIO ESTABLECIDO EN LA LEY N° 21.207, SOBRE POSTERGACIÓN Y PAGO EN CUOTAS DEL IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2020-01-22"
 exenta: true

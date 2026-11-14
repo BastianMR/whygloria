@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 56.- |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu56.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE ENERO DEL AÑO 2019, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
 fecha: "2018-12-14"
 exenta: false

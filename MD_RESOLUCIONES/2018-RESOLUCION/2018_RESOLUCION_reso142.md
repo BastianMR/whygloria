@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 142 (2018)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena del Libro."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso142.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Chilena del Libro."
 fecha: "2018-12-27"
 exenta: true

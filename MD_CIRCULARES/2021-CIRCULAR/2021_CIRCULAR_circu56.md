@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°56.- 194184.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu56.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2021 e información adicional relacionada con dicho tributo."
 fecha: "2021-10-13"
 exenta: false

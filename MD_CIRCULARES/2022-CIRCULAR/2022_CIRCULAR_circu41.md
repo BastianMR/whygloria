@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 41 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 41.- GE222964 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu41.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-09-12"
 exenta: false

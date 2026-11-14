@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2025)"
 description: "RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso132.pdf"
 materia: "RECTIFICA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025."
 fecha: "2025-10-06"
 exenta: true

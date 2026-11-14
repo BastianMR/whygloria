@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00361440"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso29.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Agencia de Sustentabilidad y Cambio Climático y el Servicio de Impuestos Internos."
 fecha: ""
 exenta: true

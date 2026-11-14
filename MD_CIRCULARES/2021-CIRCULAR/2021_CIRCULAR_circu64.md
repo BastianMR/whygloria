@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 64 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°64.- 198820.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu64.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2021 y el 9 de enero de 2022, ambos inclusive."
 fecha: "2021-12-09"
 exenta: false

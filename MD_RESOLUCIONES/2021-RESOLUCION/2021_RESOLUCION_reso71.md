@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77320979279 GE00185243"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso71.pdf"
 materia: "AUTORIZA A NATURA COSMÉTICOS S.A PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS EN LA FORMA QUE SE INDICA."
 fecha: "2021-07-01"
 exenta: true

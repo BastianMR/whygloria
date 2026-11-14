@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso30.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°109 DE 27 DE DICIEMBRE DE 2013, EN LOS TÉRMINOS QUE INDICA"
 fecha: "2014-03-19"
 exenta: true

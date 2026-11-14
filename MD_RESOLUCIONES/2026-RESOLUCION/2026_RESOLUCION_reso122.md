@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2026)"
 description: "SUBDIRECCIÓN DE AVALUACIONES OFICINA DE PROCEDIMIENTOS, NORMATIVA Y RELACIÓN DE AVALUACIONES GE393820"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso122.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Cochamó."
 fecha: "2026-09-10"
 exenta: true

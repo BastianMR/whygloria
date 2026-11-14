@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu18.pdf"
 materia: "SUPLEMENTO TRIBUTARIO CON LA NORMATIVA VIGENTE PARA EFECTUAR LA DECLARACIÓN DE LOS IMPUESTOS ANUALES A LA RENTA CORRESPONDIENTES AL AÑO TRIBUTARIO 2014"
 fecha: "2014-03-24"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2020)"
 description: "DEPARTAMENTO EMISOR Departamento de Impuestos Directos 6-2020 CIRC.SN 1-2020 CIRC.TT | CIRCULAR N° 21 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu21.pdf"
 materia: "MATERIA Imparte instrucciones sobre derogación del artículo 145-L del Código del Trabajo, respecto del tratamiento tributario de las remuneraciones percibidas por trabajadores de artes y espectáculos, que se desempeñan bajo dependencia y subordinación con una duración determinada, pactada a plazo fi"
 fecha: "2020-03-25"
 exenta: false

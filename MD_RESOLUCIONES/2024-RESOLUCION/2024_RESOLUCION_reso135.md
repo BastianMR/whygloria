@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2024)"
 description: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso135.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES SANTIAGO, 30 DE DICIEMBRE DE 2024"
 fecha: "2024-12-30"
 exenta: true

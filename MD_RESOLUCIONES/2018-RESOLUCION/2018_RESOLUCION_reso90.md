@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 223 - DOP - 2018 77318585792"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso90.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE ARICA, SR. FERNANDO RAFAEL MANTEROLA SALAS, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-10-03"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTIBUYENTE GE00313626"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso40.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión para el Mercado Financiero y el Servicio de Impuestos Internos."
 fecha: "2025-03-27"
 exenta: true

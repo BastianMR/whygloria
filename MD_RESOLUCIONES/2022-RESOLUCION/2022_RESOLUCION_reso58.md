@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00215065"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso58.pdf"
 materia: "EXIME DEL RÉGIMEN GENERAL DE OPERACIÓN DE VENTAS DE GAS LICUADO DE PETRÓLEO ESTABLECIDO EN RESOLUCIÓN EX. SII N° 1087 DE 1978, A CONTRIBUYENTE QUE INDICA."
 fecha: "2022-06-28"
 exenta: true

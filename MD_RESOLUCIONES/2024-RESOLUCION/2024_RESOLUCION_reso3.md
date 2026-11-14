@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2024)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00268343"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso3.pdf"
 materia: "MODIFICA ESTRUCTURA DE XX DIRECCIÓN REGIONAL DE CHILLÁN INCORPORANDO OFICINA DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS Y CREA GRUPO DE CUMPLIMIENTO TRIBUTARIO EN TERRENO."
 fecha: "2024-01-08"
 exenta: true

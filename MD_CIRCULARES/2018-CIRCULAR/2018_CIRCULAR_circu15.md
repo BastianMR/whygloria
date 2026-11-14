@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 15 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu15.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2018-03-09"
 exenta: false

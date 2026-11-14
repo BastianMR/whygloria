@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 43 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 43.- 20.2016 ID 10.2016 SN |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu43.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, modificada por la Ley N° 20.899, al régimen tributario para la micro, pequeña y mediana empresa contenido en el artículo 14 ter de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Deja sin efecto Circular"
 fecha: "2016-07-11"
 exenta: false

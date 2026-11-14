@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 10 015-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu10.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2020 y el 9 de marzo de 2020, ambos inclusive."
 fecha: "2020-02-12"
 exenta: false

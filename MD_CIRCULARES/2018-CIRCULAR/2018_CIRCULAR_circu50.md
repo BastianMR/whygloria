@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2018)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN NORMATIVA, DEPTO. DE NORMAS INTERNACIONALES | CIRCULAR N°50.- |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu50.pdf"
 materia: "APLICACIÓN DE LA CLAUSULA DE LA NACION MAS FAVORECIDA A LOS CONVENIOS QUE INDICA"
 fecha: "2018-10-11"
 exenta: false

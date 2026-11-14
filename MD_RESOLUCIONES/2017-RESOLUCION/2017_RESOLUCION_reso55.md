@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso55.pdf"
 materia: "FIJA NUEVO PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL DE FONDO DE UTILIDADES TRIBUTABLES (FUT), FORMULARIO N° 1925."
 fecha: "2017-06-13"
 exenta: true

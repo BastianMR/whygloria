@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 191 (2025)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE00345265"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso191.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N°106, DE 02 DE SEPTIEMBRE DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
 fecha: "2025-12-19"
 exenta: true

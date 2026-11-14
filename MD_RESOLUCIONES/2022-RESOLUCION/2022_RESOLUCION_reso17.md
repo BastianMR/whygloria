@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00185621"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso17.pdf"
 materia: "AUTORIZA A CONTRIBUYENTE QUE INDICA PARA EMITIR BOLETAS DE PRESTACIÓN DE SERVICIOS DE TERCEROS ELECTRÓNICAS EN LA CONDICIÓN QUE SE SEÑALA"
 fecha: "2022-02-18"
 exenta: true

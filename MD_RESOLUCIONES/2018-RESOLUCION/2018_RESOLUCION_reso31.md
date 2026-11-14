@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso31.pdf"
 materia: "REESTRUCTURA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE. MODIFICA RES. EX N° 98, DE 2014"
 fecha: "2018-03-19"
 exenta: true

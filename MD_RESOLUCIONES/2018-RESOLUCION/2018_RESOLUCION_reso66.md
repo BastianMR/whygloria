@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 236 - SDAC - 2017 77317285097"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso66.pdf"
 materia: "AUTORIZA AL ARCHIVERO JUDICIAL DE SANTIAGO, SR. JULIAN MIRANDA OSSES, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-08-28"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2026)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS CONTENIDAS EN LAS RESOLUCIONES QUE SE INDICAN."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso116.pdf"
 materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS CONTENIDAS EN LAS RESOLUCIONES QUE SE INDICAN."
 fecha: "2026-08-31"
 exenta: true

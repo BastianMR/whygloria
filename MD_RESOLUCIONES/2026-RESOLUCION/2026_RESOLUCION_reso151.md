@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 151 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00399757"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso151.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Nacional de Pesca y Acuicultura y el Servicio de Impuestos Internos."
 fecha: "2026-11-03"
 exenta: true

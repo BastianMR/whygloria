@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 19.- |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu19.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2017-03-15"
 exenta: false

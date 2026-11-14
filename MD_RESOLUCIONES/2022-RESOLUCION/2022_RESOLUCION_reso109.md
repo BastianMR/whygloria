@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE204472"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso109.pdf"
 materia: "RESOLUCIÓN EX. SII N° 109."
 fecha: "2022-11-21"
 exenta: true

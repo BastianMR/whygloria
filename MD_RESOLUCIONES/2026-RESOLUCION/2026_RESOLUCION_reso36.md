@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 472-SDAC-2025 77325646505"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso36.pdf"
 materia: "AUTORIZA A TICKETERA LONKO TICKET LIMITADA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2026-03-06"
 exenta: true

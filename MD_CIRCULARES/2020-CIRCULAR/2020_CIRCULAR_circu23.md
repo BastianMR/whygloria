@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 23 035-2020 SN CIRC. 038-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu23.pdf"
 materia: "Anexo Suplemento Tributario Año 2020. Complementa Circular N° 8 de 2020."
 fecha: "2020-03-31"
 exenta: false

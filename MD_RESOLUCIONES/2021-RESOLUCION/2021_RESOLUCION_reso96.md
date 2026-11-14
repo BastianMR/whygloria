@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso96.pdf"
 materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR BONO ADICIONAL VARIABLE Y BONO PARA EL PAGO DE COTIZACIONES, ESTABLECIDOS EN LA LEY N° 21.354 DE FECHA 17.06.2021."
 fecha: "2021-08-17"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso69.pdf"
 materia: "MODIFICA CONTENIDO DEL FORMULARIO N° 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS."
 fecha: "2014-07-21"
 exenta: true

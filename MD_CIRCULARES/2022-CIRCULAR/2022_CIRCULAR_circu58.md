@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 58 (2022)"
 description: "DEPARTAMENTO EMISOR DEPARTAMENTO DE DELITOS TRIBUTARIOS DEPARTAMENTO DE DEFENSA JUDICIAL PENAL | CIRCULAR N°58.- GE00125685 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu58.pdf"
 materia: "IMPARTE INSTRUCCIONES SOBRE PROCESO DE SANCIÓN DEL DELITO TRIBUTARIO Deroga Circular N° 8 del 14 de enero del 2010 y otras instrucciones."
 fecha: "2022-12-28"
 exenta: false

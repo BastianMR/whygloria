@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 16.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu16.pdf"
 materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2016, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2016-04-08"
 exenta: false

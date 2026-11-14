@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 4 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 4.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu4.pdf"
 materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA LOS EFECTOS PREVISIONALES VIGENTES PARA EL AÑO CALENDARIO 2013"
 fecha: "2013-01-15"
 exenta: false

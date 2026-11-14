@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2023)"
 description: "Diario oficial en extracto."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso15.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2023-02-15"
 exenta: false

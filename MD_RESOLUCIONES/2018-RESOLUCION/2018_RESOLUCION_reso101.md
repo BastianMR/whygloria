@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso101.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE PUENTE ALTO, SR. RODRIGO ALEJANDRO MARTIN VERGARA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-10-11"
 exenta: true

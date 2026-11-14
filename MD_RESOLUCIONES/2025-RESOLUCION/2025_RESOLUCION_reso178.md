@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 178 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00350542 SDAC/2025"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso178.pdf"
 materia: "CREA REGISTRO DE OPERADORES DE MEDIOS DE PAGO ELECTRÓNICOS PARA FERIAS LIBRES."
 fecha: "2025-12-10"
 exenta: true

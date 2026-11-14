@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso49.pdf"
 materia: "EXCLUYE DE NÓMINA DE CONTRIBUYENTE SUJETO A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 126, DE 28 DE DICIEMBRE DE 2022, A REAL TIME INVERSIONES S.A."
 fecha: "2023-04-24"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 65 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 65.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu65.pdf"
 materia: "Imparte instrucciones sobre modificaciones introducidas al artículo 21° del D.L. N° 910, de 1975, por el artículo 5° de la Ley 20.780, de 29 de septiembre de 2014. 6(12)00"
 fecha: "2014-12-15"
 exenta: false

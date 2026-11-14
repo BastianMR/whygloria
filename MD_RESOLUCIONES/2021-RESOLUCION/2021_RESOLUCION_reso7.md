@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2021)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso7.pdf"
 materia: "REGULA OBLIGACIÓN DE ENTREGAR POR MEDIOS ELECTRÓNICOS INFORMACIÓN RELATIVA A BIENES RAÍCES POR PARTE DE NOTARIOS, CONSERVADORES Y CONTRIBUYENTES EN RELACIÓN CON LA DETERMINACIÓN DEL IMPUESTO TERRITORIAL Y SOBRETASA."
 fecha: "2021-01-22"
 exenta: true

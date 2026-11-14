@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2017)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Frutas de Chile A.G."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso75.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Frutas de Chile A.G."
 fecha: "2017-08-23"
 exenta: true

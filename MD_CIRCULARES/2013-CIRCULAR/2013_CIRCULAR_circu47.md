@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 47 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA | CIRCULAR N° 47.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu47.pdf"
 materia: "INSTRUYE PUBLICACIÓN DE ACTIVIDADES DE LAS AUTORIDADES QUE INDICA."
 fecha: "2013-09-26"
 exenta: false

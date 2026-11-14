@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                    | CIRCULAR N° 37 ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu37.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de octubre de 2026 información adicional relacionada con dicho impuesto."
 fecha: "2026-09-11"
 exenta: false

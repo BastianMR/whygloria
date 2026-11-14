@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00366616"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso40.pdf"
 materia: "Aprueba Convenio de Intercambio de información y colaboración entre la Ilustre Municipalidad de Pedro Aguirre Cerda y el Servicio de Impuestos Internos."
 fecha: "2026-03-10"
 exenta: true

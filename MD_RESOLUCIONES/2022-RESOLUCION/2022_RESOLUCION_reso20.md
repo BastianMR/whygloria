@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00194121"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso20.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el instituto de Previsión Social y el Servicio de Impuestos Internos."
 fecha: "2022-02-24"
 exenta: true

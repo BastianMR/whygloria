@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso22.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2021-02-25"
 exenta: true

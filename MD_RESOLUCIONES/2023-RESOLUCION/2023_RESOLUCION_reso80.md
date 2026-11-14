@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso80.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LAS MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2023-06-30"
 exenta: true

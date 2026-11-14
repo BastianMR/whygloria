@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA OFICINA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso60.pdf"
 materia: "DELEGA EN LOS SRES. DIRECTORES REGIONALES LA FACULTAD QUE INDICA."
 fecha: "2015-07-10"
 exenta: true

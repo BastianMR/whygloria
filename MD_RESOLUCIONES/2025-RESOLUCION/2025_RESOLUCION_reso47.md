@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00315465"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso47.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Hacienda y el Servicio de Impuestos Internos."
 fecha: "2025-04-10"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 46 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Indirectos | CIRCULAR N°46.- 255395.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu46.pdf"
 materia: "Imparte instrucciones sobre los efectos tributarios del artículo 64 bis de la Ley N° 20.998, incorporado por la Ley N° 21.581 y que exime de IVA a los servicios sanitarios rurales."
 fecha: "2023-10-13"
 exenta: false

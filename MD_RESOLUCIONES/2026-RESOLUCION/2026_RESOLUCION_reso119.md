@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2026)"
 description: "DELEGA FACULTAD QUE INDICA EN LA"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso119.pdf"
 materia: "FUNCIONARIA QUE SE INDIVIDUALIZA RESOLUCIÓN EXENTA N° 119."
 fecha: "2026-09-03"
 exenta: false

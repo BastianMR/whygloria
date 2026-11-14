@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 359 - SDAC - 2018 77318659075"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso119.pdf"
 materia: "INCORPÓRASE A SERVICIOS FINANCIEROS PROGRESO S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2018-12-03"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO GE00228918"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso121.pdf"
 materia: "AUTORIZA A SOCIEDAD DE SERVICIOS TRANSACCIONALES CAJA VECINA S.A., RUT N°76.727.730-K, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2022-12-21"
 exenta: true

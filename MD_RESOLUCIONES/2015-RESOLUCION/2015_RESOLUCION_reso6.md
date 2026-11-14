@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2015)"
 description: "Servicio de Impuestos Internos Subdirección de Estudios"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso6.pdf"
 materia: "APRUEBA CONVENIO PARA LA TRANSFERENCIA DE INFORMACIÓN CELEBRADO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y LA SUPERINTENDENCIA DE VALORES Y SEGUROS"
 fecha: "2015-01-22"
 exenta: true

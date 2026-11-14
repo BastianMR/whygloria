@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2023)"
 description: "MODIFICA RES. EX. SII N° 115 DEL 2022, EN LO REFERIDO AL PROCEDIMIENTO EXTRAORDINARIO PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso63.pdf"
 materia: "MODIFICA RES. EX. SII N° 115 DEL 2022, EN LO REFERIDO AL PROCEDIMIENTO EXTRAORDINARIO PARA EL REGISTRO DE LAS SOCIEDADES DE PROFESIONALES."
 fecha: "2023-05-30"
 exenta: false

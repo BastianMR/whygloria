@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°21.- 179438.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu21.pdf"
 materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2021, de acuerdo a lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
 fecha: "2021-04-08"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2022)"
 description: "Ex. SII N° 119 de 2020, por el siguiente:"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso72.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 119 DE 2020 QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE ENAJENACIÓN DE ENTIDADES EXTRANJERAS CON ACTIVOS SUBYACENTES EN CHILE POR MEDIO DE FORMULARIO N° 1921, EN LO RELATIVO A SUS OBLIGADOS, Y REEMPLAZA SUS INSTRUCCIONES."
 fecha: "2022-08-31"
 exenta: true

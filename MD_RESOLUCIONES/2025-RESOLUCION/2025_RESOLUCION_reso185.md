@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 185 (2025)"
 description: "SUBDIRECCION DE DESARROLLO DE PERSONAS GE 356915"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso185.pdf"
 materia: "DELEGA FACULTAD QUE INDICA."
 fecha: "2025-12-15"
 exenta: true

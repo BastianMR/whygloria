@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 10.- 02-2019 SN CIRC. 11-2019 OGN |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu10.pdf"
 materia: "INFORMA NUEVOS LÍMITES MÁXIMOS IMPONIBLES PARA EFECTOS PREVISIONALES, VIGENTES A PARTIR DEL 1° DE FEBRERO DE 2019 . ACLARA APLICACIÓN DE INFORMACIÓN CONTENIDA EN CIRCULAR N° 5 DE 2019."
 fecha: "2019-02-20"
 exenta: false

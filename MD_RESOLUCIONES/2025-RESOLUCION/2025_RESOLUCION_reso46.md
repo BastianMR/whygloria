@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00315466"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso46.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Educación y el Servicio de Impuestos Internos."
 fecha: "2025-04-10"
 exenta: true

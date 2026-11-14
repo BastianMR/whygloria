@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2024)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE274031"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso33.pdf"
 materia: "Individualiza a las personas que, en razón de su función o cargo, tienen atribuciones decisorias relevantes o influyen decisivamente en quienes tengan dichas atribuciones. Inciso segundo del Artículo 3° e inciso segundo del artículo 4°de la Ley N° 20.730, que Regula el Lobby y las Gestiones que repr"
 fecha: "2024-03-11"
 exenta: true

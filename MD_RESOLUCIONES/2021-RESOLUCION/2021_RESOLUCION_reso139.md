@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 139 (2021)"
 description: "Subdirección de Fiscalización"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso139.pdf"
 materia: "INSTRUYE SOBRE FACULTADES DE LOS FUNCIONARIOS FISCALIZADORES PARA EFECTUAR ACTUACIONES PROPIAS DE SU CARGO RELACIONADAS A LA APLICACIÓN Y FISCALIZACIÓN DE DECLARACIONES DE LOS IMPUESTOS ESTABLECIDOS EN LA LEY N°16.271 EFECTUADAS A TRAVÉS DEL FORM. N°4412."
 fecha: "2021-12-20"
 exenta: true

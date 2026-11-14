@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°7.- GE 237003 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu7.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de febrero de 2023 y el 09 de marzo de 2023, ambos inclusive."
 fecha: "2023-02-09"
 exenta: false

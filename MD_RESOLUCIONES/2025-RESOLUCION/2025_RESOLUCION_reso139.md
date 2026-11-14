@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 139 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00339552"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso139.pdf"
 materia: "AUTORIZACIÓN EXCEPCIONAL PARA EMISIÓN DE GUÍAS DE DESPACHO ELECTRÓNICAS CON GLOSA GENERAL EN TRASLADOS DE MERCADERÍA ENTRE BODEGAS DE MERCADOLIBRE CHILE LTDA."
 fecha: "2025-10-10"
 exenta: true

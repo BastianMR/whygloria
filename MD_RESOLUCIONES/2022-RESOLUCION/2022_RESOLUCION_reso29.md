@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00206100 188-SDAC"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso29.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE INDICA."
 fecha: ""
 exenta: true

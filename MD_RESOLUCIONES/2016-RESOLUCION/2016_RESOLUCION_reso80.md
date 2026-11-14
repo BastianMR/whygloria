@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso80.pdf"
 materia: "ESTABLECE REQUISITOS QUE DEBEN CUMPLIR LAS ENTIDADES QUE SE INDICAN PARA SER RECEPTORAS DE LA 'CARPETA TRIBUTARIA ELECTRÓNICA'."
 fecha: "2016-08-12"
 exenta: true

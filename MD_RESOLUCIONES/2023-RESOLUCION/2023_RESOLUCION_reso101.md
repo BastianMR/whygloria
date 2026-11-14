@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso101.pdf"
 materia: "CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 574 - SDAC - 2023"
 fecha: ""
 exenta: true

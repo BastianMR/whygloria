@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso19.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE DECLARAR FORMULARIOS N°s 29 Y 50 A TRAVÉS DE INTERNET."
 fecha: "2020-02-06"
 exenta: true

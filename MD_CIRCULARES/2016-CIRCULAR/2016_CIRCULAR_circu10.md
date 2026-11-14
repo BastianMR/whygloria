@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 10.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu10.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE ABRIL DEL AÑO 2016, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
 fecha: "2016-03-15"
 exenta: false

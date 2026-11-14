@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2022)"
 description: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso90.pdf"
 materia: "INCORPORA NUEVA COLUMNA AL REGISTRO REX POR OPERACIONES AFECTAS AL IMPUESTO ÚNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2022-09-22"
 exenta: true

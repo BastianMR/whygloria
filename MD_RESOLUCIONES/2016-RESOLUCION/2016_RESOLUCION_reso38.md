@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2016)"
 description: "DELEGA FACULTADES QUE INDICA."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/resosii38.pdf"
 materia: "DELEGA FACULTADES QUE INDICA."
 fecha: "2016-04-15"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso59.pdf"
 materia: "AUTORIZA A FALABELLA RETAIL S.A., RUT N° 77.261.280-K, A GENERAR REPRESENTACIONES IMPRESAS DE BOLETAS ELECTRÓNICAS EN LA FORMA QUE SEÑALA."
 fecha: "2013-06-17"
 exenta: true

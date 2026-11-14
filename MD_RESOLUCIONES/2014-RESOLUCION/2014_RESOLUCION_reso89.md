@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso89.pdf"
 materia: "CREA MODELO DE CERTIFICADO N° 40, QUE ACREDITA DONACIONES CON FINES CULTURALES A QUE SE REFIERE EL ARTÍCULO 8° DE LA LEY N°18.985, SUSTITUIDO POR LA LEY N° 20.675, DE 2013."
 fecha: "2014-08-29"
 exenta: true

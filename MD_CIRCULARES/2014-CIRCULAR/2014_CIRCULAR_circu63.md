@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 63 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 63.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu63.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre del año 2014 y el 9 de enero del año 2015."
 fecha: "2014-12-12"
 exenta: false

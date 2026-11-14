@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso35.pdf"
 materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA."
 fecha: "2026-03-05"
 exenta: true

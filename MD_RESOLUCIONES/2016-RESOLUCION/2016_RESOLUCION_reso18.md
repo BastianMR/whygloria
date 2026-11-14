@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2016)"
 description: "SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso18.pdf"
 materia: "AUTORIZA A DIRECTOR DE LA DIRECCIÓN DE GRANDES CONTRIBUYENTES PARA DELEGAR EN EL JEFE DEL DEPARTAMENTO JURÍDICO DE SU DEPENDENCIA LAS FACULTADES QUE INDICA."
 fecha: "2016-03-15"
 exenta: true

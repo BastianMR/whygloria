@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA GE00256882"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso107.pdf"
 materia: "DESIGNA SECRETARIOS SUPLENTES, EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE ARICA."
 fecha: "2023-09-06"
 exenta: true

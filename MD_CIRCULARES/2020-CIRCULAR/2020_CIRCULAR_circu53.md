@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 53 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N° 53 11.2020 SN 07.2020 ID |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu53.pdf"
 materia: "Imparte instrucciones sobre modificaciones introducidas al artículo 21 y 31 de la Ley sobre Impuesto a la Renta por el N° 11 y 13 del artículo segundo de la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020."
 fecha: "2020-08-10"
 exenta: false

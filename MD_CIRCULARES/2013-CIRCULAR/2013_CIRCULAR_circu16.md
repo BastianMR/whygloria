@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 16 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu16.pdf"
 materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2013, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2013-04-08"
 exenta: false

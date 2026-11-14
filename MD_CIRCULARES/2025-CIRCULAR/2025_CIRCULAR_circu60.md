@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 60 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N°60.- 346414.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu60.pdf"
 materia: "Elimina apartado 3.6.5 del Capítulo II de la Circular N° 39 de 2025."
 fecha: "2025-10-15"
 exenta: false

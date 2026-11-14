@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 23.- 2015 SN Circ. 2015 ID |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu23.pdf"
 materia: "Instruye sobre el plazo y procedimiento a través del cual los contribuyentes deben dar aviso a este Servicio, en caso de pérdidas de existencias en el inventario, así como respecto de la pérdida o inutilización fortuita de los libros de contabilidad y otros documentos, producto de la catástrofe ocur"
 fecha: "2015-03-31"
 exenta: false

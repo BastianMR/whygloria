@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 53 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°53.- 299756.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu53.pdf"
 materia: "MATERIA Imparte instrucciones en materias tributarias sobre el régimen de donaciones en apoyo a las entidades sin fines de lucro establecido en el Título VIII bis del Decreto Ley N° 3.063 de 1979, sobre Rentas Municipales; las donaciones efectuadas en conformidad con el artículo 69 de la Ley N° 18.6"
 fecha: "2024-12-19"
 exenta: false

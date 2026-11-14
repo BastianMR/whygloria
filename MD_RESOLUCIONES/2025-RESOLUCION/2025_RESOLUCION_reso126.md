@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso126.pdf"
 materia: "DETERMINA QUE LOS EMIRATOS ÁRABES UNIDOS NO TIENE UN RÉGIMEN FISCAL PREFERENCIAL PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA, EN CONFORMIDAD A LO SEÑALADO EN SU ARTÍCULO 41 H. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 61 DE 2025."
 fecha: "2025-09-25"
 exenta: true

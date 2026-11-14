@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso60.pdf"
 materia: "EMISIÓN DE BOLETAS DE SERVICIOS POR CUENTA DE EMPRESAS PRODUCTORAS U ORGANIZADORAS DE ESPECTÁCULOS PÚBLICOS Y REUNIONES PAGADAS."
 fecha: "2021-06-14"
 exenta: true

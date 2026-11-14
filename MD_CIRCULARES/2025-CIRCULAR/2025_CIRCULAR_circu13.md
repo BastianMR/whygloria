@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 13 (2025)"
 description: "DEPARTAMENTOEMISOR: Subdirección Jurídica Departamentode AsesoríaJurídica | CIRCULAR Nº13 304267.2024 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu13.pdf"
 materia: "Imparte instrucciones sobre el artículo 100 sexies del Código Tributario, incorporado por la Ley N° 21.713."
 fecha: "2025-02-07"
 exenta: false

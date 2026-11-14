@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 33 (2014)"
 description: "Subdirección Emisora Subdirección de Fiscalización"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu33.pdf"
 materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2014"
 fecha: "2014-05-27"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2023)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N°37.- 248776.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu37.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.558 a las normas transitorias de la Ley N° 21.420, vinculadas a la eliminación del artículo 21 del Decreto Ley N° 910 de 1975. Deja sin efecto la Circular N° 43 de 2022."
 fecha: "2023-09-06"
 exenta: false

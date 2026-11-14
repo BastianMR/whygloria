@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00156025"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso46.pdf"
 materia: "AUTORIZA COMO RECEPTORES ELECTRÓNICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: ""
 exenta: true

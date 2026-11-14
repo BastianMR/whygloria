@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 30 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº30.- |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu30.pdf"
 materia: "Tabla de Cálculos de Reajustes, Intereses y Multas Agosto de 2023. Modifica Circular Nº 27 de 2023."
 fecha: "2023-07-12"
 exenta: false

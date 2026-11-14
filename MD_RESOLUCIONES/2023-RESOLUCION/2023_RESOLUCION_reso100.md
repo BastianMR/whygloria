@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso100.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE SERVICIO DE IMPUESTOS INTERNOS Y LA UNIVERSIDAD DE TALCA."
 fecha: "2023-08-31"
 exenta: true

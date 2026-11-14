@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso2.pdf"
 materia: "INSTRUYE SOBRE PROCEDIMIENTO ESPECIAL Y TRANSITORIO PARA UTILIZAR BOLETAS DE HONORARIOS NO ELECTRÓNICAS EN LA FORMA Y CONDICIONES QUE SE ESTABLECE EN CASOS QUE INDICA"
 fecha: "2021-01-07"
 exenta: true

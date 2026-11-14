@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso39.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 91, DE 20 DE SEPTIEMBRE DE 2016 QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN NORMATIVA DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 137, DE 29 DE OCTUBRE DE 2008."
 fecha: "2018-04-13"
 exenta: true

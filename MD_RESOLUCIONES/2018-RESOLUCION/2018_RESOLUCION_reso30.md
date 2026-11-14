@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso30.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos."
 fecha: "2018-03-16"
 exenta: true

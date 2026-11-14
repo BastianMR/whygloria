@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°7.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu7.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE MARZO DE 2019, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHO TRIBUTO."
 fecha: "2019-02-11"
 exenta: false

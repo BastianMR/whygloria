@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 130 (2019)"
 description: "AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso130.pdf"
 materia: "AMPLÍA PLAZO ESTABLECIDO RESOLUCIÓN EX. SII N° 123, DE 2019."
 fecha: "2019-11-28"
 exenta: true

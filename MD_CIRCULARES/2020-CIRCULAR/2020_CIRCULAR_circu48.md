@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 48 (2020)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 48 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu48.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS AGOSTO 2020."
 fecha: "2020-07-14"
 exenta: false

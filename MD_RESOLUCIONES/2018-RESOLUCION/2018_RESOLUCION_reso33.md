@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso33.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos."
 fecha: "2018-03-22"
 exenta: true

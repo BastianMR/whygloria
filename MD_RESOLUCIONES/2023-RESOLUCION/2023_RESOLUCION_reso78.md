@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE241891"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso78.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos."
 fecha: "2023-06-28"
 exenta: true

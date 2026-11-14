@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2021)"
 description: "MAMM/AND/AGP DISTRIBUCIÓN: Internet Diario Oficial (en extracto)"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso66.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA DE MEJORAS EFECTUADAS POR PROPIETARIOS DE BIENES RAÍCES DE LA PRIMERA SERIE AGRÍCOLA."
 fecha: "2021-06-29"
 exenta: true

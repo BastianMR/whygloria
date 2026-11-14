@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2023)"
 description: "MATERIA Crea el Archivo Histórico Institucional del Servicio de Impuestos internos."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso91.pdf"
 materia: "TITULO DEL FONDO | RANGO DE AÑOS | CÓDIGO DE CLASIFICACIÓN"
 fecha: "2023-08-23"
 exenta: true

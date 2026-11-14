@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2013)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso35.pdf"
 materia: "AUTORIZA DELEGACIÓN DE FACULTAD QUE INDICA."
 fecha: "2013-03-22"
 exenta: true

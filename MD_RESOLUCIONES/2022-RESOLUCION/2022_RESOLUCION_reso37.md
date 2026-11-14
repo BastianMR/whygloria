@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2022)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso37.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2022-04-22"
 exenta: true

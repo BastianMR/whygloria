@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso63.pdf"
 materia: "La cantidad de $320.500."
 fecha: "2020-06-24"
 exenta: true

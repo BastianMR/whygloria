@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 62 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 62.- 351659.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu62.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de diciembre de 2025 e información adicional relacionada con dicho tributo."
 fecha: "2025-11-11"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00287365"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso92.pdf"
 materia: "Aprueba Addendum de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Estadística y el Servicio de Impuestos Internos."
 fecha: "2024-09-12"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso72.pdf"
 materia: "AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2013-07-24"
 exenta: true

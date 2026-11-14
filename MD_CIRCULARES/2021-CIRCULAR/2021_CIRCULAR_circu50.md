@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2021)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº50.- |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu50.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2021."
 fecha: "2021-08-13"
 exenta: false

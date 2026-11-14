@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 28 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección de Avaluaciones | CIRCULAR N° 28 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu28.pdf"
 materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210, publicada el 24 de febrero de 2020, a la Ley N° 17.235, sobre Impuesto Territorial, en materia de sobretasa."
 fecha: "2020-04-09"
 exenta: false

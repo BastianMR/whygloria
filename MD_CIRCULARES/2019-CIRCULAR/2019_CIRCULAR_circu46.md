@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 46 (2019)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE | CIRCULAR N°46.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu46.pdf"
 materia: "COMPLEMENTA CIRCULAR N° 42 DEL 30 DE OCTUBRE DE 2019. ESTABLECE PROCEDIMIENTO ESPECIAL Y TRANSITORIO PARA OBTENCIÓN Y RECUPERACIÓN DE CLAVE INICIAL INTERNET."
 fecha: "2019-11-26"
 exenta: false

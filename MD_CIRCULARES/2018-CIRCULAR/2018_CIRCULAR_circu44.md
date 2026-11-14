@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 44 (2018)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 44 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu44.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2018"
 fecha: "2018-08-23"
 exenta: false

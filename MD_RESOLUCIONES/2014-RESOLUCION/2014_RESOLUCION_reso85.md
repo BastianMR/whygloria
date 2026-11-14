@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2014)"
 description: "Plano de la comuna de Melipilla"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso85.pdf"
 materia: "REEMPLAZA PLANO DE PRECIOS DE LA COMUNA DE MELIPILLA CONTENIDO RESOLUCIÓN EX. SII N°132 DE 31.12.2012."
 fecha: "2014-08-22"
 exenta: true

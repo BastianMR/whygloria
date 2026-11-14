@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2018)"
 description: "AUTORIZA A DIRECTOR REGIONAL DE LA XX DIRECCIÓN REGIONAL, CHILLÁN, PARA DELEGAR EN JEFE DE UNIDAD DE SAN CARLOS LAS FACULTADES QUE INDICA."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso95.pdf"
 materia: "AUTORIZA A DIRECTOR REGIONAL DE LA XX DIRECCIÓN REGIONAL, CHILLÁN, PARA DELEGAR EN JEFE DE UNIDAD DE SAN CARLOS LAS FACULTADES QUE INDICA."
 fecha: "2018-10-05"
 exenta: true

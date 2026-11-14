@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 48 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 48.- 18.2016 ID 08.2016 SN |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu48.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 de 2014 y Ley N° 20.899 de 2016 a los artículos 41 A, 41 B, y 41 C, de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Y, créditos por impuesto pagado en el extranjero sobre rentas pasivas, conforme al ar"
 fecha: "2016-07-12"
 exenta: false

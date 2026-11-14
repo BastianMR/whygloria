@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 17 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu17.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2026 y el 9 de junio de 2026, ambos inclusive."
 fecha: "2026-05-12"
 exenta: false

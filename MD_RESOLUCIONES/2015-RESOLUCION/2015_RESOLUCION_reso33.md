@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2015)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso33.pdf"
 materia: "APRUEBA NORMA GENERAL DE PARTICIPACION CIUDADANA DEL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2015-03-31"
 exenta: true

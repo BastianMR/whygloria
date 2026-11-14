@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 519 - SDAC - 2023 77323131186"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso102.pdf"
 materia: "AUTORIZA A EMPRESA TUACCESO PRODUCCIONES SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: ""
 exenta: true

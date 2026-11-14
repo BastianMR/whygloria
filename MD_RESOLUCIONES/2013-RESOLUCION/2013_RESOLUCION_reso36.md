@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2013)"
 description: "DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso36.pdf"
 materia: "DELEGA FACULTADES QUE INDICA EN EL SUBDIRECTOR DE AVALUACIONES."
 fecha: "2013-03-27"
 exenta: true

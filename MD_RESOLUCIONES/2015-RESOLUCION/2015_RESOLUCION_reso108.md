@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso108.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA POR PARTE DE LOS EMPLEADORES DE TRABAJADORES DE LAS ARTES Y ESPECTÁCULOS, PARA FINES PREVISIONALES."
 fecha: "2015-12-24"
 exenta: true

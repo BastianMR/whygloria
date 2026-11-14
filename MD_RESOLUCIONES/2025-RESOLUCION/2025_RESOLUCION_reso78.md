@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2025)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Peñalolén."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso78.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Peñalolén."
 fecha: "2025-06-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2023)"
 description: "DESIGNA SECRETARIO GENERAL SUBROGANTE"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso14.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET"
 fecha: "2023-02-10"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00281724/GE00281405"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso55.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: "2024-05-07"
 exenta: true

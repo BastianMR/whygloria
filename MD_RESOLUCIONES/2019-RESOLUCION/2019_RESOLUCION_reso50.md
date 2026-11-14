@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 127- SDAC - 2019 GE00108544"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso50.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL SIGUIENTE ORGANISMO PÚBLICO:"
 fecha: "2019-04-24"
 exenta: true

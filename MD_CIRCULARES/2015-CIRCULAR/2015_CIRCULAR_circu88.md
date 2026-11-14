@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 88 (2015)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 88.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu88.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS DICIEMBRE 2015"
 fecha: "2015-11-18"
 exenta: false

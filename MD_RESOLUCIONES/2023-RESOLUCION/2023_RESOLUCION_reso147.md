@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 147 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE255547"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso147.pdf"
 materia: "Aprueba el Convenio de Intercambio de Información y Colaboración entre la Comisión Nacional de Riego y el Servicio de Impuestos Internos."
 fecha: "2023-12-27"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2020)"
 description: "DEPTO. DE ASESORÍA JURIDÍCA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA ID 49/2020 43-2020 SJ"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso21.pdf"
 materia: "DEPTO. DE ASESORÍA JURIDÍCA ÁREA DE APOYO JURÍDICO A LA GESTIÓN ADMINISTRATIVA ID 49/2020 43-2020 SJ"
 fecha: "2020-02-11"
 exenta: true

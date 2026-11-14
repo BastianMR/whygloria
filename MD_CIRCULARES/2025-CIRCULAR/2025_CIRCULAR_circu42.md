@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº42.- GE00324967 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu42.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de junio 2025"
 fecha: "2025-05-15"
 exenta: false

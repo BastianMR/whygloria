@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso88.pdf"
 materia: "COMPLEMENTA LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN CHILE POR MEDIO DE FORMULARIO N° 1946; Y MODIFICA LA RESOLUCIÓN EX. SII N° 107 DE 2017."
 fecha: "2018-09-28"
 exenta: true

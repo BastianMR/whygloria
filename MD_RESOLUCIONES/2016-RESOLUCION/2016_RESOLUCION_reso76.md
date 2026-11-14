@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso76.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE PUENTE ALTO SR. GONZALO ALEJANDRO MARTÍN IGLESIAS, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2016-08-09"
 exenta: true

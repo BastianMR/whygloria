@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 4 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso4.pdf"
 materia: "INSTRUYE SOBRE PROCEDIMIENTO GENERAL DE DEVOLUCIÓN Y RECUPERACIÓN DE IMPUESTOS, ESTABLECIDO EN LOS ARTÍCULOS 80 A 85 DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2022-01-18"
 exenta: true

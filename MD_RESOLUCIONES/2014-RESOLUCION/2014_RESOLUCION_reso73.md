@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2014)"
 description: "SUBDIRECCIÓN DE ESTUDIOS"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso73.pdf"
 materia: "Aprueba Protocolo de Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos."
 fecha: "2014-08-04"
 exenta: true

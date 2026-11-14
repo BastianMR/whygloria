@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso38.pdf"
 materia: "INCORPORA NUEVOS CÓDIGOS AL FORMULARIO N°29 DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO DE IMPUESTOS PARA OPERACIONES DOCUMENTADAS MEDIANTE LIQUIDACIONES-FACTURAS."
 fecha: "2026-03-09"
 exenta: true

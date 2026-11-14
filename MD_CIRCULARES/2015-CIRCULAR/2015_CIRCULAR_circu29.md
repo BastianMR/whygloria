@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 29 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINADE ANÁLISIS DE LAJURISPRUDENCIA | CIRCULARN°29.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu29.pdf"
 materia: "Modificaciones introducidas por el artículo 10 de la LeyN°20.780,de29deseptiembre de2014, al Artículo 97 N° 6 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974."
 fecha: "2015-05-05"
 exenta: false

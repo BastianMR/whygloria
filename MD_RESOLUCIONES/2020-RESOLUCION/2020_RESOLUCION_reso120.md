@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso120.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 110 DE 2015 QUE ESTABLECE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO N° 1913."
 fecha: "2020-09-29"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso85.pdf"
 materia: "DEROGA RESOLUCIONES QUE SE INDICAN, LAS CUALES ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1802, N°1803, N°1844, N°1855, N° 1864, N°1868 y N°1911."
 fecha: "2018-09-28"
 exenta: false

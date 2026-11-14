@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 706 - SDAC - 2016 77316130409"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso35.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°101 DE 08.08.2011 MODIFICADA POR LA RESOLUCIÓN 133, DEL 23.11.2011 EN LOS TÉRMINOS QUE INDICA."
 fecha: "2017-03-23"
 exenta: true

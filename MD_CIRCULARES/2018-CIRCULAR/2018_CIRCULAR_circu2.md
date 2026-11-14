@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 2 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 2 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu2.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE FEBRERO DEL AÑO 2018, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
 fecha: "2018-01-09"
 exenta: false

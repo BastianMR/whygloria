@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 37.- 14.2015 SN 50.2015 ID |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu37.pdf"
 materia: "Instruye sobre el nuevo régimen de tributación en base a renta presunta de los contribuyentes que tengan como actividad la explotación de bienes raíces agrícolas, la minería y el transporte terrestre de carga ajena o de pasajeros, conforme al nuevo texto del artículo 34 de la Ley sobre Impuesto a la"
 fecha: "2015-05-28"
 exenta: false

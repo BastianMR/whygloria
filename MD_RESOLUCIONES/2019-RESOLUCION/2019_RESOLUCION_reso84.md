@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2019)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso84.pdf"
 materia: "DESIGNA SECRETARIO TITULAR EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE LA SERENA."
 fecha: "2019-07-22"
 exenta: true

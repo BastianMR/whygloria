@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso110.pdf"
 materia: "REEMPLAZA LA ESTRUCTURA E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN; Y DEJA SIN EFECTO LAS RESOLUCIONES QUE SE SEÑALAN."
 fecha: "2019-09-30"
 exenta: true

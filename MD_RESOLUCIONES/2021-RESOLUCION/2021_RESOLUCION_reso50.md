@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2021)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso50.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 168 DE 28 DE DICIEMBRE DE 2020, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2021-05-10"
 exenta: true

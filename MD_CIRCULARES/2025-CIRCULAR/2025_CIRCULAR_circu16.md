@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°16.- 313901.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu16.pdf"
 materia: "Informa datos relacionados con aplicación del sistema de corrección monetaria. Cotizaciones de monedas de oro al 31.12.2024. Complementa Circular N° 9 de 2025."
 fecha: "2025-02-10"
 exenta: false

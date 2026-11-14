@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330801"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso76.pdf"
 materia: "FIJA NÓMINAS DE AGENTES RETENEDORES Y DE CONTRIBUYENTES SUJETOS A RETENCIÓN, CONFORME A RESOLUCIÓN EX. SII N° 42, DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA."
 fecha: "2025-06-26"
 exenta: true

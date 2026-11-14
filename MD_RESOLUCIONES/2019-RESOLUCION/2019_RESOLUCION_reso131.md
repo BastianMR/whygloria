@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 131 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso131.pdf"
 materia: "Designa puntos de contacto para efectos que indica."
 fecha: "2019-12-05"
 exenta: true

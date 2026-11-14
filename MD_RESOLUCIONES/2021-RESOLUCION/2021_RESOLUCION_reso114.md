@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2021 77318691947"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso114.pdf"
 materia: "INCORPÓRASE A INGE SOCIEDAD ANÓNIMA DE GARANTÍA RECÍPROCA, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
 exenta: false

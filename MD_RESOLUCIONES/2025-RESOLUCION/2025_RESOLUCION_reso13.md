@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2025)"
 description: "MATERIA: Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la mater..."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso13.pdf"
 materia: "Revoca facultad y deja sin efecto Resolución Exenta SII N° 69, de 2017; delega facultad en el Subdirector de Asistencia al Contribuyente en la materia que indica."
 fecha: "2025-01-24"
 exenta: true

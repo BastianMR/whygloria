@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2019)"
 description: "MATERIA: Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan..."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso38.pdf"
 materia: "Complementa Res. Ex. SII N° 16, de 06.02.2019, que estableció plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal."
 fecha: "2019-03-27"
 exenta: true

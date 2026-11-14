@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2023)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES GE00234258"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso6.pdf"
 materia: "MODIFICA NÓMINA DE GRANDES CONTRIBUYENTES ESTABLECIDA EN LA RESOLUCIÓN EX. SII N° 142, DE FECHA 30 DE DICIEMBRE DE 2021."
 fecha: "2023-01-23"
 exenta: true

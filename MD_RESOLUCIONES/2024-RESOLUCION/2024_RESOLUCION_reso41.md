@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso41.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS FORMULARIO N° 1947 Y FORMULARIO N° 1948, ESTABLECIDOS MEDIANTE RESOLUCIONES EX. SII N° 97 Y N° 98 RESPECTIVAMENTE, AMBAS DE FECHA 28.08.2020, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2024-03-28"
 exenta: true

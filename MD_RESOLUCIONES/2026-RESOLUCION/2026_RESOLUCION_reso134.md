@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2026)"
 description: "AUTORIZA EL ENVÍO DE INFORMACIÓN DE GUÍA AÉREA COURIER EN REEMPLAZO DE LA GUÍA DE DESPACHO."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso134.pdf"
 materia: "AUTORIZA EL ENVÍO DE INFORMACIÓN DE GUÍA AÉREA COURIER EN REEMPLAZO DE LA GUÍA DE DESPACHO."
 fecha: "2026-09-30"
 exenta: true

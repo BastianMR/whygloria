@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2019)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso32.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara de Comercio de Santiago."
 fecha: "2019-02-25"
 exenta: true

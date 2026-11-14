@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso38.pdf"
 materia: ""
 fecha: "2021-04-07"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso122.pdf"
 materia: "ESTABLECE NUEVA DENOMINACIÓN A DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS"
 fecha: "2015-12-29"
 exenta: true

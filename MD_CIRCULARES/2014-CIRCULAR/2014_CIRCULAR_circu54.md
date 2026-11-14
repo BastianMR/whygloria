@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 54 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 54 |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu54.pdf"
 materia: "TABLASDELIMPUESTOÚNICODESEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE NOVIEMBRE DEL AÑO 2014 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
 fecha: "2014-10-10"
 exenta: false

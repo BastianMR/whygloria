@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2023)"
 description: "MFM/BOB/LAS/AID Distribución:"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso109.pdf"
 materia: "DESIGNA SECRETARIA SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CHILLÁN."
 fecha: "2023-09-14"
 exenta: true

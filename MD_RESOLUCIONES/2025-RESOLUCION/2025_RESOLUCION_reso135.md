@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO ANÁLISIS DE RIESGOS DE INCUMPLIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso135.pdf"
 materia: "DISPÓNESE CAMBIO TOTAL DEL SUJETO DEL IVA Y AUTORIZA A MERCADOLIBRE CHILE LTDA., RUT N° 77.398.220-1, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-10-08"
 exenta: true

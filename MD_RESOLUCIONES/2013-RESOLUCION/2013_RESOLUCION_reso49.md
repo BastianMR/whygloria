@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso49.pdf"
 materia: "DÉJASE SIN EFECTO RESOLUCIÓN EXENTA SII N° 19, DEL 29 DE ENERO DE 2004."
 fecha: "2013-05-22"
 exenta: false

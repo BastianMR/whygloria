@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2023)"
 description: "SUBDIRECCIÓN NORMATIVA DEPARTAMENTO DE NORMAS INTERNACIONALES GE-234678"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso23.pdf"
 materia: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N°48, DE 31 DE MAYO DE 2018."
 fecha: "2023-03-03"
 exenta: true

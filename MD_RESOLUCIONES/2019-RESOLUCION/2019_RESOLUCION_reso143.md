@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso143.pdf"
 materia: "FIJA NÓMINA DE GRANDES"
 fecha: "2019-12-31"
 exenta: true

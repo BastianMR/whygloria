@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2013)"
 description: "adjudicación, deberá consignarse'."
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso96.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. N°1055, DE 2010 SOBRE NORMATIVA INTERNA DEL SERVICIO DE IMPUESTOS INTERNOS EN MATERIA DE ADQUISICIONES."
 fecha: "2013-11-20"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso111.pdf"
 materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL DE FONDO DE UTILIDADES TRIBUTABLES (FUT), FORMULARIO N° 1925."
 fecha: "2015-12-24"
 exenta: true

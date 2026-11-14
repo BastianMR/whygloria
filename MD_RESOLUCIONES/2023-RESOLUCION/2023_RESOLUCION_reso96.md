@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2023)"
 description: "REEMPLAZA FORMATO E INSTRUCCIONES DE LLENADO DE DECLARACIONES JURADAS N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso96.pdf"
 materia: "REEMPLAZA FORMATO E INSTRUCCIONES DE LLENADO DE DECLARACIONES JURADAS N°1929, N°1907, N°1937, N°1946, N°1950 y N°1951."
 fecha: "2023-08-31"
 exenta: true

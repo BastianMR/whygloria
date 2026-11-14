@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso1.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA N° 48, DEL 2015, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2016-01-06"
 exenta: true

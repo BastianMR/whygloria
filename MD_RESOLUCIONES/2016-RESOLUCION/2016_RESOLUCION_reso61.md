@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso61.pdf"
 materia: "IMPARTE INSTRUCCIONES REFERENTES AL PROCEDIMIENTO DE TÉRMINO DE GIRO DE EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS. COMPLEMENTA CIRCULAR N°66, DE 29 DE OCTUBRE DE 1998."
 fecha: "2016-06-30"
 exenta: true

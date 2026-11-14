@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00312888"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso31.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de La Unión."
 fecha: "2025-03-13"
 exenta: true

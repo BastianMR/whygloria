@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso23.pdf"
 materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN"
 fecha: "2014-02-21"
 exenta: true

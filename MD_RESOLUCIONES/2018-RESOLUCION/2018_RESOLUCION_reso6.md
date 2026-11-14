@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso6.pdf"
 materia: "AUTORIZA REEMPLAZO DE LA OBLIGACIÓN DE ENTREGA DE BOLETAS ELECTRÓNICAS POR EL ENVÍO POR CORREO ELECTRÓNICO A LA EMPRESA ENTEL PCS TELECOMUNICACIONES S.A. EN LA FORMA Y CONDICIONES QUE SE INDICAN."
 fecha: "2018-01-18"
 exenta: true

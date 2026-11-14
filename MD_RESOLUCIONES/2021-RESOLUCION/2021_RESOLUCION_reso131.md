@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 131 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso131.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos."
 fecha: "2021-11-19"
 exenta: true

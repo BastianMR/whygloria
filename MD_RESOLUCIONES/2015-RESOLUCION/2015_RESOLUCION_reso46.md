@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2015)"
 description: "Servicio de Impuestos Internos Subdirección de Estudios"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso46.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA Y EL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2015-05-13"
 exenta: true

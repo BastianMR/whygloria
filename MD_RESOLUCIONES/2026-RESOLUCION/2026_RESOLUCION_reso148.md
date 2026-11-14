@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 148 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso148.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA N°12 DE 2026, QUE APROBÓ LA SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) \"INICIO DE ACTIVIDADES\"."
 fecha: "2026-10-27"
 exenta: false

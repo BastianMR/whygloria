@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE336127"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso96.pdf"
 materia: "ESPECIFICA OPERACIONES FINANCIERAS QUE PUEDEN ACOGERSE AL PROCEDIMIENTO SIMPLIFICADO A QUE SE REFIERE EL ARTÍCULO 66 BIS DEL CODIGO TRIBUTARIO"
 fecha: "2025-08-07"
 exenta: true

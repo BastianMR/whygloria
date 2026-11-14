@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2016)"
 description: "MATERIA: FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso19.pdf"
 materia: "FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIÓN JURADA FORMULARIO N° 1851."
 fecha: "2016-03-18"
 exenta: true

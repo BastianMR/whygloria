@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 55 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 55.- |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu55.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los comprendidos entre el 10 de diciembre del"
 fecha: "2018-12-14"
 exenta: false

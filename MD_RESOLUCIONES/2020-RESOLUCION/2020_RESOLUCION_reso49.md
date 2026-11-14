@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2020)"
 description: "CREA MODELO DE CERTIFICADO Nº 66 SOBRE DONACIONES ASOCIADAS AL BROTE MUNDIAL DEL VIRUS DENOMINADO CORONAVIRUS-2 O COVID-19."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso49.pdf"
 materia: "CREA MODELO DE CERTIFICADO Nº 66 SOBRE DONACIONES ASOCIADAS AL BROTE MUNDIAL DEL VIRUS DENOMINADO CORONAVIRUS-2 O COVID-19."
 fecha: "2020-04-30"
 exenta: true

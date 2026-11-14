@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2021)"
 description: "DESIGNA RESPONSABLES PROCESOS Y DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso108.pdf"
 materia: "DESIGNA RESPONSABLES PROCESOS Y DELEGA FACULTAD QUE INDICA."
 fecha: "2021-09-10"
 exenta: true

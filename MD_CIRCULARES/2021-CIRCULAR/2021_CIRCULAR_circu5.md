@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 5 (2021)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº5.- |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu5.pdf"
 materia: "TABLADECÁLCULOS DEREAJUSTES, INTERESES YMULTAS FEBRERO 2021."
 fecha: "2021-01-14"
 exenta: false

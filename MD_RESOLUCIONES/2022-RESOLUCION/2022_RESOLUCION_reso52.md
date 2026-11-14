@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198150"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso52.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Empresa Información Comercial Limitada y el Servicio de Impuestos Internos."
 fecha: "2022-06-03"
 exenta: true

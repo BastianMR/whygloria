@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE318919"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso42.pdf"
 materia: "FIJA PROCEDIMIENTO SIMPLIFICADO PARA OTORGAR RUT A CONTRIBUYENTES NO DOMICILIADOS NI RESIDENTES EN CHILE"
 fecha: "2025-04-03"
 exenta: true

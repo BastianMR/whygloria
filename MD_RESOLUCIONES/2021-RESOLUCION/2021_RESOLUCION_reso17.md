@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso17.pdf"
 materia: "CORRIGE ERRORES DE TRANSCRIPCIÓN DE LA RESOLUCIÓN EXENTA SII N° 58 DE 2020"
 fecha: "2021-02-18"
 exenta: true

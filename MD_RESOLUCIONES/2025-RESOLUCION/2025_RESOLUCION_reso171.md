@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 171 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00346102"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso171.pdf"
 materia: "ESTABLECE EL PROCEDIMIENTO PARA APLICAR LA PRESUNCIÓN LEGAL DE TÉRMINO DE GIRO, SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69° DEL CÓDIGO TRIBUTARIO"
 fecha: "2025-11-27"
 exenta: true

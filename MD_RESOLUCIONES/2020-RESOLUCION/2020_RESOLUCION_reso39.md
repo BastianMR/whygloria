@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2020)"
 description: "Subdirección de Administración"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso39.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA N° 1 DE 2020 EN EL SENTIDO QUE INDICA"
 fecha: "2020-04-09"
 exenta: true

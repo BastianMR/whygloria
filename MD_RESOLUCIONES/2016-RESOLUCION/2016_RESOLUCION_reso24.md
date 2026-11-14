@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2016)"
 description: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso24.pdf"
 materia: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
 fecha: "2016-03-23"
 exenta: true

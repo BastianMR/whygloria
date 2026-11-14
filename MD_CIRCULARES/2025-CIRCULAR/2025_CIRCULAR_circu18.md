@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°18.- 305701.2024 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu18.pdf"
 materia: "MATERIA Imparte instrucciones sobre la competencia de las Unidades del Servicio para realizar actuaciones que indica de conformidad con las disposiciones del N° 11 de la letra B) del artículo 6°; inciso primero del artículo 65 bis y artículo 65 ter, todos del Código Tributario. Complementa Circular "
 fecha: "2025-02-21"
 exenta: false

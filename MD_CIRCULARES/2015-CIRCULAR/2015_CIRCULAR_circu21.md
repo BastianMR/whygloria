@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2015)"
 description: "DEPARTAMENTO EMISOR Subdirección de Asistencia al Contribuyente. Departamento de Atención y Asistencia de Contribuyentes. | CIRCULAR N° 21.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu21.pdf"
 materia: "MATERIA Instruye procedimiento para efectuar el Acuse de Recibo señalado en el nuevo N° 7 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios."
 fecha: "2015-03-24"
 exenta: false

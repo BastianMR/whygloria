@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 202 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357751"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso202.pdf"
 materia: "AUTORIZA A LA ENTIDAD QUE INDICA PARA INCORPORARSE AL REGISTRO DE OPERADORES DE MEDIOS DE PAGO ELECTRÓNICOS PARA FERIAS LIBRES."
 fecha: "2025-12-23"
 exenta: true

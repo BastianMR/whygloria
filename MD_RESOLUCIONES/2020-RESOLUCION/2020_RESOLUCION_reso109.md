@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso109.pdf"
 materia: "ACTUALIZA Y COMPLEMENTA RESOLUCIÓN EX. SII N° 120 DE 2016 SOBRE DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929."
 fecha: "2020-09-08"
 exenta: true

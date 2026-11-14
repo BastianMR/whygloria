@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 37.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu37.pdf"
 materia: "Imparte instrucciones sobre la aplicación de la exención contenida en el Art. 12°, letra E), N° 17, del D.L. N° 825, de 1974. Deroga en parte Circular N° 56 de 03/12/1991. 6(12)00"
 fecha: "2014-06-10"
 exenta: false

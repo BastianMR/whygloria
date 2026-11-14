@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2019)"
 description: "DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 53, DE 30.04.2019. COMPLEMENTA RESOLUCIÓN EX. SII N° 208 DE 2009"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso81.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 53, DE 30.04.2019. COMPLEMENTA RESOLUCIÓN EX. SII N° 208 DE 2009"
 fecha: "2019-06-28"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 138 (2021)"
 description: "Subdirección de Fiscalización"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso138.pdf"
 materia: "INSTRUYE FORMA DE DECLARACIÓN Y PAGO DE LOS IMPUESTOS ESTABLECIDOS EN LA LEY N° 16.271, SOBRE IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES, Y LA OBLIGACIÓN DE INFORMAR DEL ARTÍCULO 18 Nº 8, DE LA MISMA LEY."
 fecha: "2021-12-20"
 exenta: true

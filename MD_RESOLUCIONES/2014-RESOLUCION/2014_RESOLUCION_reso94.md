@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2014)"
 description: "Subdirección Contraloría Interna"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso94.pdf"
 materia: ""
 fecha: "2014-09-26"
 exenta: true

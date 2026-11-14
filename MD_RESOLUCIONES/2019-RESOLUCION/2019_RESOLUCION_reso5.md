@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso5.pdf"
 materia: "AUTORIZA A PROCEDER CONFORME AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA A LOS CONTRIBUYENTES QUE SEÑALA."
 fecha: "2019-01-21"
 exenta: true

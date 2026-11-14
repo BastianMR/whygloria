@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 45 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Comisión del Sistema Nacional de Certificación de Competencias Laborales."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso45.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Comisión del Sistema Nacional de Certificación de Competencias Laborales."
 fecha: "2016-05-23"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°42.- 299395.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu42.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de noviembre de 2024 e información adicional relacionada con dicho tributo."
 fecha: "2024-10-10"
 exenta: false

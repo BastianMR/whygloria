@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2026)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Rio Bueno"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso20.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Rio Bueno"
 fecha: "2026-02-04"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2024)"
 description: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso65.pdf"
 materia: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N° 48 DE 2018."
 fecha: "2024-06-19"
 exenta: true

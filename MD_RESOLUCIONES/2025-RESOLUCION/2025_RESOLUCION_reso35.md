@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00317586"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso35.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de El Quisco."
 fecha: "2025-03-20"
 exenta: true

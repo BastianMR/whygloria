@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN NACIONAL"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso44.pdf"
 materia: "REVOCA DELEGACIÓN DE FACULTAD DE DECIDIR LA INTERPOSICIÓN DE DENUNCIA O QUERELLA EN CASOS QUE INDICA."
 fecha: "2015-05-11"
 exenta: true

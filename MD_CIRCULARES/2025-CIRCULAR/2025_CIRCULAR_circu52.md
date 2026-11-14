@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº52.- GE00337730 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu52.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2025. Modifica Circular N° 49 de 2025."
 fecha: "2025-08-14"
 exenta: false

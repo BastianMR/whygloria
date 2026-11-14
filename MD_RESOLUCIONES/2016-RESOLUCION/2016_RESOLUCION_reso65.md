@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso65.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE; ESTABLECE ÁMBITOS DE COMPETENCIA Y MODIFICA RESOLUCIÓN EXENTA N° 98, DEL 21.10.2014."
 fecha: "2016-07-06"
 exenta: true

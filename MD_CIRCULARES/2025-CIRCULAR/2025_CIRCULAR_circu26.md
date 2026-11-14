@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 26 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº26.- GE00274893 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu26.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.641 al artículo 66 del Código Tributario y nuevo artículo 66 bis del mismo código. Complementa Circulares N° 31 de 2007 y N° 31 de 2014."
 fecha: "2025-04-03"
 exenta: false

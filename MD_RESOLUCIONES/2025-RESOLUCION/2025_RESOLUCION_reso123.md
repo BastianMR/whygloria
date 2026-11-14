@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2025)"
 description: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2026."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso123.pdf"
 materia: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2026."
 fecha: "2025-09-25"
 exenta: true

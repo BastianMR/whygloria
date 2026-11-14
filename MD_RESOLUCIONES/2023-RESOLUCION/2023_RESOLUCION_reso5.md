@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2023)"
 description: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso5.pdf"
 materia: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 fecha: "2023-01-16"
 exenta: true

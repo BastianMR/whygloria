@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2022)"
 description: "2021 en todo lo no modificado."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso67.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE."
 fecha: "2022-08-10"
 exenta: true

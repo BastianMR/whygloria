@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 32 (2020)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N° 32 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu32.pdf"
 materia: "MATERIA Tratamiento tributario de gastos y donaciones asociados al brote mundial del virus denominado coronavirus-2 o COVID-19 tras las modificaciones introducidas al artículo 31 de la Ley sobre Impuesto a la Renta por el N° 13 del artículo 2° de la Ley N° 21.210. Deja sin efecto Circular N° 19 de 2"
 fecha: "2020-04-29"
 exenta: false

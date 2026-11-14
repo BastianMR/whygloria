@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 33 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 33 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu33.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2018 y el 9 de julio del año 2018."
 fecha: "2018-06-11"
 exenta: false

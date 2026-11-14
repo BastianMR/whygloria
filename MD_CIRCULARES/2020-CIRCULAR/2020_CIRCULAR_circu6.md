@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 6 (2020)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 6.- 01-2020 SN CIRC. 004-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu6.pdf"
 materia: "informa nuevos límites máximos imponibles para efectos previsionales, vigentes para el año calendario 2020."
 fecha: "2020-01-17"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2025)"
 description: "MATERIA: Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso125.pdf"
 materia: "Aprueba Convenio de Colaboración entre Carabineros de Chile y el Servicio de Impuestos Internos."
 fecha: "2025-09-25"
 exenta: true

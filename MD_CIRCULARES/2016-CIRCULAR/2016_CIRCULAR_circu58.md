@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 58 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 58.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu58.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre del año 2016 y el 9 de octubre del año 2016."
 fecha: "2016-09-09"
 exenta: false

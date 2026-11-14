@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa. Impuestos Indirectos | CIRCULAR N°31.- GE00289851.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu31.pdf"
 materia: "Suspende provisionalmente lo instruido en la Circular N° 11 de 2024."
 fecha: "2024-07-12"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2016)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso112.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 49, DE 25 DE MAYO DE 2015, EN EL SENTIDO QUE INDICA Y APRUEBA NUEVO REGLAMENTO INTERNO DEL CONSEJO DE LA SOCIEDAD CIVIL."
 fecha: "2016-12-20"
 exenta: true

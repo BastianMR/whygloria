@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2022)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N° 39.- GE204576.2022 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu39.pdf"
 materia: "Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a los artículos 17 N° 6, 33 bis, 107 y 110 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974. Modifica Circulares N° 7 de 2002, N° 68 de 2010, N° 10 de 2012, N° 67 y N° 71 de 20"
 fecha: "2022-08-31"
 exenta: false

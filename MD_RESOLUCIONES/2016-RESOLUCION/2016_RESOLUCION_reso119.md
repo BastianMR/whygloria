@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso119.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EXENTA SII N° 4847 DE 1995 REEMPLAZANDO EL FORMULARIO 1891 E INSTRUCCIONES DE LLENADO."
 fecha: "2016-12-26"
 exenta: true

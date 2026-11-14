@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓNDEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso106.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. N° 110 DE 2015 Y REEMPLAZA DENOMINACIÓN, FORMATO, CONTENIDO E INSTRUCCIONES DE LA DECLARACIÓN JURADA FORMULARIO N° 1913."
 fecha: "2025-08-26"
 exenta: true

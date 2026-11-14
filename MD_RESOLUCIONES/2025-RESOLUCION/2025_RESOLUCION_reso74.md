@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2025)"
 description: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5°..."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso74.pdf"
 materia: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5° DE LA LEY 21.713."
 fecha: "2025-06-26"
 exenta: true

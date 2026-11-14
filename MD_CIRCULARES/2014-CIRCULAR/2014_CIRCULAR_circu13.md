@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 13 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 13 146-2012 ID 11-2013 SN Circ. |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu13.pdf"
 materia: "Instruye sobre las modificaciones incorporadas por la Ley N° 20.630 de 2012, a los artículos 15, 17 N° 8, 31 N° 9 y 41 de la Ley sobre Impuesto a la Renta, y la modificación introducida por el N° 1, del artículo 5°, de la Ley N° 20.727, al inciso 2°, del N° 8, del artículo 17, de la misma Ley. 6(12)"
 fecha: "2014-03-07"
 exenta: false

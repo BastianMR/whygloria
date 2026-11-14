@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso105.pdf"
 materia: "MODIFICA RESOLUCIÓN N° 120 DE 2016, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA 1929, SOBRE OPERACIONES EN EL EXTERIOR"
 fecha: "2017-10-17"
 exenta: true

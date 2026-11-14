@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 37 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu37.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE AGOSTO DEL AÑO 2017, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
 fecha: "2017-07-10"
 exenta: false

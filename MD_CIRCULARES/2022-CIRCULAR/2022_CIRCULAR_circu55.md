@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 55 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°55 231196.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu55.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de enero de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2022-12-09"
 exenta: false

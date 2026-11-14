@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES 163-SDAC-2016 77316982337"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso31.pdf"
 materia: "EXIME A PROMOTORA CMR FALABELLA S.A. DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ART. 17 INCISO 2° DEL D.L. N° 3475 DE 1980 Y FIJA REQUISITOS EN SU REEMPLAZO."
 fecha: "2016-04-06"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2021)"
 description: "día 19 de marzo de 2021, inclusive."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso30.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE RENTAS DEL ART. 42 Nº 1 (SUELDOS), OTROS COMPONENTES DE LA REMUNERACIÓN Y RETENCIONES DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA DE LA LEY DE LA RENTA, FORMULARIO N°1887"
 fecha: "2021-03-18"
 exenta: true

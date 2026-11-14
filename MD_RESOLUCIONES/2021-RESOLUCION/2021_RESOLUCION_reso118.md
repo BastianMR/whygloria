@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00192652"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso118.pdf"
 materia: "DISPONE CIERRE DE LA CENTRAL METROPOLITANA DE TIMBRAJE E INSTRUYE SOBRE AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS DE CONTRIBUYENTES QUE SE INDICA."
 fecha: "2021-10-15"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 21.- GE245706 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu21.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de junio de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-05-09"
 exenta: false

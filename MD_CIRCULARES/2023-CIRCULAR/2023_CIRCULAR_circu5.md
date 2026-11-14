@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 5 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°5.- 220105.2022 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu5.pdf"
 materia: "Imparte instrucciones sobre nuevo artículo 37 bis de la Ley sobre Impuesto a la Renta, incorporado por la Ley N° 21.420."
 fecha: "2023-01-12"
 exenta: false

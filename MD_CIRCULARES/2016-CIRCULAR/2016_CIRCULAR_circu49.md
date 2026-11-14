@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 49 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 49.- 13-2016 I.D. 3-2016 S.N. |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu49.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por las Leyes N°s 20.780 y 20.899 a la Ley sobre Impuesto a la Renta y demás normas legales, relacionadas con los nuevos regímenes generales de tributación sobre renta efectiva en base a contabilidad completa, vigentes a contar del 1° de enero de 2017. De"
 fecha: "2016-07-14"
 exenta: false

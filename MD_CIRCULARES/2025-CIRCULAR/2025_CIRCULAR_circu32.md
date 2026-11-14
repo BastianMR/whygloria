@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 32 (2025)"
 description: "DEPARTAMENTOEMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº32.- GE00310456 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu32.pdf"
 materia: "Refunde e imparte instrucciones en materia de término de giro, incorporando las modificaciones introducidas al Código Tributario por la Ley N°21.713, en lo pertinente. Deroga parcialmente la Circular N°66, de 1998; Circular N° 30, de 10 de mayo 2016 y Circular N°41, de 2 de julio de 2021, en la part"
 fecha: "2025-04-17"
 exenta: false

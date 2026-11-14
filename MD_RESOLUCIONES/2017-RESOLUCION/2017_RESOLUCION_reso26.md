@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2017)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso26.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Agencia Nacional de Inteligencia."
 fecha: "2017-03-03"
 exenta: true

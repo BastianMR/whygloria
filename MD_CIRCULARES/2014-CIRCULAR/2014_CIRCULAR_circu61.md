@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 61 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 61 |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu61.pdf"
 materia: "Modificación introducida por la Ley N° 20.780, de 29 de septiembre de 2014, al Art. 64, del D.L. N° 825, de 1974, relativa a la postergación del pago del Impuesto al Valor Agregado para grupo de contribuyentes que se indica. 6(12)00"
 fecha: "2014-12-01"
 exenta: false

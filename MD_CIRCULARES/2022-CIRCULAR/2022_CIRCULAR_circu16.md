@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°16.- 208708.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu16.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-04-12"
 exenta: false

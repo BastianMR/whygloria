@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 483 - DAAC - 2016"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso85.pdf"
 materia: "AUTORIZA A LA EMPRESA LOJAN SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2016-08-19"
 exenta: true

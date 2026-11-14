@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2020)"
 description: "Imparte instrucciones sobre consultas de interpretación y aplicación de disposiciones tributarias."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso59.pdf"
 materia: ""
 fecha: "2020-06-01"
 exenta: true

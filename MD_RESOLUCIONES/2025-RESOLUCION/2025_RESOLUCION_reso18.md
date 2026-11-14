@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00302421"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso18.pdf"
 materia: "Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre el Instituto de Previsión Social y el Servicio de Impuestos Internos."
 fecha: "2025-02-13"
 exenta: true

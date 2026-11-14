@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00264979"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso134.pdf"
 materia: "APRUEBA POLÍTICA INSTITUCIONAL DE IGUALDAD DE GÉNERO Y CONCILIACIÓN DE LA VIDA LABORAL, FAMILIAR Y PERSONAL DEL SERVICIO DE IMPUESTOS INTERNOS. DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N°24, DE 2023."
 fecha: "2023-11-29"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso85.pdf"
 materia: "AUTORIZA A EMPRESAS CLIENTES DE GASMAR A EMITIR FACTURA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA QUE INDICA. IMPONE OBLIGACIÓN DE MANTENER UN REGISTRO DE OPERACIONES A GASMAR S.A., RUT N°96.636.520-K."
 fecha: "2022-09-08"
 exenta: true

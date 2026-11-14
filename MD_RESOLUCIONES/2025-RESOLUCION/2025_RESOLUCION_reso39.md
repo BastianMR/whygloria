@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2025)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE 317031"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso39.pdf"
 materia: "ACTUALIZA NÓMINA DE BIENES AFECTOS CONTENIDA EN LA RESOLUCIÓN EX. N° 127 DE 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420."
 fecha: "2025-03-27"
 exenta: true

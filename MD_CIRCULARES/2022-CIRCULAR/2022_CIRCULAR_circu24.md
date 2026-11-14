@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 24 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°24.- 211193.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu24.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de junio de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-05-10"
 exenta: false

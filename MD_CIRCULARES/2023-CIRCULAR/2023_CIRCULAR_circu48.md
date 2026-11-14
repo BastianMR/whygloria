@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 48 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°48.- 263759.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu48.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de diciembre de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-11-10"
 exenta: false

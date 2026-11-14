@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE DESARROLLO DE PERSONAS"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso13.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE DESARROLLO DE PERSONAS Y ESTABLECE ÁMBITOS DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2016-03-10"
 exenta: true

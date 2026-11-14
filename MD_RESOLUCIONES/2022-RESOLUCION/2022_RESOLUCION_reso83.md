@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso83.pdf"
 materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N° 09, DE 2022."
 fecha: "2022-09-07"
 exenta: true

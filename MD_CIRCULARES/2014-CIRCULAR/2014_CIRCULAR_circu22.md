@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 22 06-2012 SN (Circ) 67-2012 ID |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu22.pdf"
 materia: "Tratamiento tributario de las donaciones que se efectúen al Fondo Nacional de Reconstrucción conforme a la Ley 20.444, en virtud de las modificaciones efectuada por la Ley N° 20.565. 6(12)00"
 fecha: "2014-04-08"
 exenta: false

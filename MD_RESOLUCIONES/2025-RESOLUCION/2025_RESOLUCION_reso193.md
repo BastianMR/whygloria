@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 193 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN GE354371"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso193.pdf"
 materia: "CREA REGISTRO DE PEQUEÑOS CONTRIBUYENTES QUE DESARROLLEN ACTIVIDADES DE SUBSISTENCIA."
 fecha: "2025-12-22"
 exenta: true

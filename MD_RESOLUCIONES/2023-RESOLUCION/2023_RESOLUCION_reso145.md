@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 145 (2023)"
 description: "FIJA REGISTRO DEL PRECIO CORRIENTE EN PLAZA DE HELICÓPTEROS, AVIONES Y YATES, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso145.pdf"
 materia: "FIJA REGISTRO DEL PRECIO CORRIENTE EN PLAZA DE HELICÓPTEROS, AVIONES Y YATES, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 fecha: "2023-12-21"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2021)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso126.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 fecha: "2021-11-10"
 exenta: false

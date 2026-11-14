@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso24.pdf"
 materia: "DEJA SIN EFECTO FACULTAD DELEGATORIA QUE INDICA, CONTENIDA EN LA RESOLUCIÓN EXENTA N° 90, DEL 2004"
 fecha: "2018-03-05"
 exenta: true

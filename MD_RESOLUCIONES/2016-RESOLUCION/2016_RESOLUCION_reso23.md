@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso23.pdf"
 materia: "EXIME DEL TIMBRAJE DE PAGARÉS A CONTRIBUYENTE QUE INDICA."
 fecha: "2016-03-23"
 exenta: true

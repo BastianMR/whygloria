@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE307212"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso44.pdf"
 materia: "INSTRUYE SOBRE FORMA DE DOCUMENTAR E IDENTIFICAR AL PAGADOR EN LAS OPERACIONES DE VENTA CONFORME AL ARTÍCULO 92 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-04-07"
 exenta: true

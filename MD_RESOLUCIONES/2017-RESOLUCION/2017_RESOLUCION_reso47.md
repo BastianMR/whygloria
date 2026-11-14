@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2017)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso47.pdf"
 materia: "Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 07 de 2016."
 fecha: "2017-05-12"
 exenta: true

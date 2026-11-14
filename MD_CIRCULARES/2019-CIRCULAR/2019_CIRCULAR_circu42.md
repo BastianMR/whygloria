@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2019)"
 description: "DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 42 |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu42.pdf"
 materia: "IMPARTE INSTRUCCIONES TRANSITORIAS MOTIVADAS EN LA SITUACIÓN DE EMERGENCIA Y HECHOS POSTERIORES RELACIONADOS."
 fecha: "2019-10-30"
 exenta: false

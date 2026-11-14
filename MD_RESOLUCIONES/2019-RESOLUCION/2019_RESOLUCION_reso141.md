@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO ÁREA DE RIESGOS DE DEVOLUCIONES Y GASTOS"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso141.pdf"
 materia: "DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE GANADO VIVO. DEJA SIN EFECTO RESOLUCIÓN EXENTA N° 3.721, DE 28 DE JULIO DE 2000."
 fecha: "2019-12-26"
 exenta: true

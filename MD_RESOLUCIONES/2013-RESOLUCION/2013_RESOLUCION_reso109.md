@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso109.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES."
 fecha: "2013-12-27"
 exenta: true

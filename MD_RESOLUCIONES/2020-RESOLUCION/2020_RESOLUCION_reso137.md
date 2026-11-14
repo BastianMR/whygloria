@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 137 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 535 - SDAC - 2020 77320943050"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso137.pdf"
 materia: "EXIME A CENTRO DE SERVICIOS MÉDICOS PORVENIR LIMITADA DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO."
 fecha: "2020-10-28"
 exenta: true

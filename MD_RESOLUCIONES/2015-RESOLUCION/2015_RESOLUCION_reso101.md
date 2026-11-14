@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2015)"
 description: "MATERIA: Fija plazo para presentación de declaraciones juradas que se indican."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso101.pdf"
 materia: "Fija plazo para presentación de declaraciones juradas que se indican."
 fecha: "2015-12-17"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 67 (2016)"
 description: "Complementada por Circular Nº 71, del 29 de diciembre de 2016"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu67.pdf"
 materia: "Instruye sobre el régimen de tributación que afecta a los fondos administrados por administradoras de fondos de terceros y carteras individuales, conforme lo establece la Ley N° 20.712, y los artículos 104, 106, 107, 108 y 109 de la Ley sobre Impuesto a la Renta (LIR)."
 fecha: "2016-12-07"
 exenta: false

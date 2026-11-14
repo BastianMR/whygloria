@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00383300"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso93.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
 fecha: "2026-07-10"
 exenta: true

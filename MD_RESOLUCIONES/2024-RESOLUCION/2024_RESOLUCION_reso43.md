@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 43 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE269961"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso43.pdf"
 materia: "Aprueba Modificación de Convenio de Intercambio de Información y Colaboración entre el Instituto Nacional de Propiedad Industrial y el Servicio de Impuestos Internos."
 fecha: "2024-04-03"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 26 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°26.- 285949.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu26.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de julio de 2024 e información adicional relacionada con dicho tributo."
 fecha: "2024-06-11"
 exenta: false

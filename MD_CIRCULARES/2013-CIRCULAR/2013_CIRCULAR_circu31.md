@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 31 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu31.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2013 y el 9 de julio del año 2013"
 fecha: "2013-06-17"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2017)"
 description: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso44.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2017-05-05"
 exenta: true

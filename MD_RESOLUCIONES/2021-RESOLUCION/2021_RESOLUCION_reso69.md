@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2021)"
 description: "Las facultades contempladas en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1° del D.F.L. N° 7 de 19..."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso69.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR DEVOLUCIÓN DE REMANENTES DE IVA, CONFORME LO DISPUESTO POR LA LEY N° 21.353 DE FECHA 17.06.2021."
 fecha: "2021-06-30"
 exenta: true

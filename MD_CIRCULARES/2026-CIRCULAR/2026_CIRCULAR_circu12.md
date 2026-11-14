@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 12 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                          | CIRCULAR N° 12 372094.2026 GE                            ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu12.pdf"
 materia: "Tasas a considerar para la determinación de la renta presunta en el año tributario 2026."
 fecha: "2026-04-01"
 exenta: false

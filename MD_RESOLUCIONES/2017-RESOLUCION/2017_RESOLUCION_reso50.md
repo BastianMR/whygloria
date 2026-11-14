@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso50.pdf"
 materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LAS REGIÓNES DE ATACAMA Y COQUIMBO"
 fecha: "2017-05-19"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE PERSONAS Y DE MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso26.pdf"
 materia: "AUTORIZA A INSTITUCIÓN SIN FINES DE LUCRO, COMO DISTRIBUIDORA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2014-02-28"
 exenta: true

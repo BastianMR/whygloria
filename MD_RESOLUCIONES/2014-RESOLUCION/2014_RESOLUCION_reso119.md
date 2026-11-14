@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2014)"
 description: "SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso119.pdf"
 materia: "SERVICIO IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 fecha: "2014-12-22"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 82 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 82.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu82.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre del año 2015 y el 9 de noviembre del año 2015."
 fecha: "2015-10-14"
 exenta: false

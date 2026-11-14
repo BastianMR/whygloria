@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso118.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2017-12-06"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso15.pdf"
 materia: "INFORMACIÓN QUE DEBE PROPORCIONAR EL GESTOR DE UN CONTRATO DE ASOCIACIÓN O CUENTAS EN PARTICIPACIÓN U OTRO ENCARGO FIDUCIARIO, EN EL FORMULARIO 22 SOBRE DECLARACIÓN DE IMPUESTOS ANUALES A LA RENTA."
 fecha: "2022-02-14"
 exenta: true

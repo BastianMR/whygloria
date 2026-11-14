@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 9 (2020)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 9 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu9.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020."
 fecha: "2020-02-12"
 exenta: false

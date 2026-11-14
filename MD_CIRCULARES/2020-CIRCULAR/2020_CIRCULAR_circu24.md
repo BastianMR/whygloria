@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 24 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Avaluaciones | CIRCULAR N° 24 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu24.pdf"
 materia: "MATERIA Imparte instrucciones sobre la aplicación de la Ley N°21.210, en relación a la rebaja del Impuesto Territorial correspondiente a propiedades de adultos mayores vulnerables económicamente, establecida en el artículo primero de la Ley N° 20.732, a las modificaciones introducidas por la misma L"
 fecha: "2020-04-03"
 exenta: false

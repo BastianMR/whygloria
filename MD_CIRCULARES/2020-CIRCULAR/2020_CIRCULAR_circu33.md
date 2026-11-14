@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 33 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 33 058-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu33.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2020 y el 9 de junio de 2020, ambos inclusive."
 fecha: "2020-05-11"
 exenta: false

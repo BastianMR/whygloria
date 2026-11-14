@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2013)"
 description: "DEPARTAMENTO EMISOR SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES | CIRCULAR N°: 07 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu7.pdf"
 materia: "NORMA APLICACIÓN DE AJUSTES AL AVALÚO DE TERRENO A CASOS PARTICULARES DE BIENES RAÍCES NO AGRÍCOLAS NO HABITACIONALES REAVALUADOS."
 fecha: "2013-02-06"
 exenta: false

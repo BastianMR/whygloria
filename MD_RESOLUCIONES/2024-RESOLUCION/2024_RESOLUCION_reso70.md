@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso70.pdf"
 materia: "INCORPÓRASE A CFC CAPITAL SA, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2024-07-03"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 1 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 1 |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu1.pdf"
 materia: "Instruye sobre las modificaciones introducidas por la Ley N° 20.780, a la Ley sobre Impuesto a la Renta y otras normas legales que se indican, que entran en vigencia a contar del 1° de enero de 2015."
 fecha: "2015-01-02"
 exenta: false

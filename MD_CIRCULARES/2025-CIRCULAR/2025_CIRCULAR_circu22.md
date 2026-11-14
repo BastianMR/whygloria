@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº22.- GE317305 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu22.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de abril 2025."
 fecha: "2025-03-11"
 exenta: false

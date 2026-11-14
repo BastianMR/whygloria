@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 335 - SDAC - 2019"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso134.pdf"
 materia: "AUTORIZA A EMPRESA PROPASS ETICKET LIMITADA, PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2019-12-06"
 exenta: true

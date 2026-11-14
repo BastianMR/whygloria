@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2023)"
 description: "MATERIA: Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos pa..."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso106.pdf"
 materia: "Aprueba Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos."
 fecha: "2023-09-06"
 exenta: true

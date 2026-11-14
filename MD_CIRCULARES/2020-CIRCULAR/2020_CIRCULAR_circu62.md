@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 62 (2020)"
 description: "DEPARTAMENTO EMISOR SUBDIRECCIÓN NORMATIVA IMPUESTOS DIRECTOS | CIRCULAR N° 62 25.2020 CIRC.SN 10.2020 CIRC.ID |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu62.pdf"
 materia: "Instruye sobre los nuevos regímenes tributarios incorporados por la Ley N° 21.210, para la micro, pequeña y mediana empresa contenidos en el artículo 14 letra D) de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2020. Reemplaza la Circular N°43 de 2016"
 fecha: "2020-09-24"
 exenta: false

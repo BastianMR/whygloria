@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE222813"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso108.pdf"
 materia: "RESOLUCIÓN EX. SII N° 108."
 fecha: "2022-11-21"
 exenta: true

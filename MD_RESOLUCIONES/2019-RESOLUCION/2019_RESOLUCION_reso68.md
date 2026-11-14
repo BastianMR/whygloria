@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso68.pdf"
 materia: "DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO"
 fecha: "2019-05-31"
 exenta: true

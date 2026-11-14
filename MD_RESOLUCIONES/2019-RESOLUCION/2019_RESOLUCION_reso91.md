@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00117905"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso91.pdf"
 materia: "EXIME A FUNDACIÓN PARA AYUDA Y REHABILITACIÓN DE DISCAPACITADOS 'PAR', DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2019-07-25"
 exenta: true

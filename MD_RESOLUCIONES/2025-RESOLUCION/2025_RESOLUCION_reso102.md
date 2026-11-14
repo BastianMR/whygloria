@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00303888"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso102.pdf"
 materia: "ESTABLECE CONDICIONES Y TÉRMINOS DE USO PARA QUE LOS ÓRGANOS DE LA ADMINISTRACIÓN DEL ESTADO QUE SE INDICAN, PUEDAN SOLICITAR E INTEGRAR LA CLAVE TRIBUTARIA SII EN SU SITIO WEB."
 fecha: "2025-08-14"
 exenta: true

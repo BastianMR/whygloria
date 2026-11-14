@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 77318576974"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso48.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE ANTOFAGASTA, SR. JUAN JOSE VELOSO MORA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2019-04-18"
 exenta: true

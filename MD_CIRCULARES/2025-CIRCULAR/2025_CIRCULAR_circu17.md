@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 17 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE314192 | CIRCULAR Nº17.- |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu17.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de marzo 2025."
 fecha: "2025-02-12"
 exenta: false

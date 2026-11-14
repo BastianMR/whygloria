@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso7.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y el Instituto Nacional de Propiedad Industrial."
 fecha: "2017-01-18"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2016)"
 description: "DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso57.pdf"
 materia: "DEJA SIN EFECTO LOS COBROS QUE INDICA Y DEROGA LAS RESOLUCIONES QUE LOS ESTABLECEN."
 fecha: "2016-06-22"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2020)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso110.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 fecha: "2020-09-11"
 exenta: false

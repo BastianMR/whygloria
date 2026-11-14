@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN GE 70.867"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso8.pdf"
 materia: "Resuelve solicitud de British American Tobacco Chile Operaciones S.A., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974."
 fecha: "2019-01-25"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                | CIRCULAR N°..."
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu15.pdf"
 materia: "SUPLEMENTO TRIBUTARIO CON LA NORMATIVA PARA EFECTUAR LA DECLARACION DE LOS IMPUESTOS ANUALES A LA RENTA CORRESPONDIENTES AL AÑO TRIBUTARIO 2013"
 fecha: "2013-03-28"
 exenta: false

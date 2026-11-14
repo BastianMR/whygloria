@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2025)"
 description: "OFICINA DE OPERACIONES SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00311615"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso23.pdf"
 materia: "Delega facultades en el Subdirector de Asistencia al Contribuyente en la materia que indica y deja sin efecto la Resolución Exenta SII N° 71, de 19.07.2016."
 fecha: "2025-02-21"
 exenta: true

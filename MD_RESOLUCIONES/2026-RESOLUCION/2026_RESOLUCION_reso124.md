@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2026)"
 description: "MANTÉNGASE VIGENTE LA NÓMINA DE BIENES AFECTOS DE LA RESOLUCIÓN EX. SI N°194 AÑO 2025, EN CONFORMIDAD A LO ESTABLECIDO EN EL ARTÍCULO 9°DE LA LEY N° 21.420."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso124.pdf"
 materia: "MANTÉNGASE VIGENTE LA NÓMINA DE BIENES AFECTOS DE LA RESOLUCIÓN EX. SI N°194 AÑO 2025, EN CONFORMIDAD A LO ESTABLECIDO EN EL ARTÍCULO 9°DE LA LEY N° 21.420."
 fecha: "2026-09-10"
 exenta: true

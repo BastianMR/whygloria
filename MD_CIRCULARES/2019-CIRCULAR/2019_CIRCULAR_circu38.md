@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 38 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 38.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu38.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE NOVIEMBRE DE 2019 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHO TRIBUTO."
 fecha: "2019-10-09"
 exenta: false

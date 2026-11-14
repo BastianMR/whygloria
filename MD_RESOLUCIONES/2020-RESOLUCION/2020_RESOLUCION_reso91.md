@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso91.pdf"
 materia: "ESTABLECE LA OBLIGACIÓN DE INFORMAR LAS TRANSACCIONES CON TARJETAS DE PAGO SEGÚN LO QUE SE INDICA."
 fecha: "2020-08-21"
 exenta: true

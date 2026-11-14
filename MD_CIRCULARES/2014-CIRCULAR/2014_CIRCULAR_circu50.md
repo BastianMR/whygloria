@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 50.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu50.pdf"
 materia: "Modificaciones al Decreto Ley N° 828 de 1974, que establece normas para el cultivo, elaboración, comercialización e impuestos que afectan al tabaco introducidas por el artículo 4° de la Ley N° 20.780 de 29 de Septiembre de 2014. 6(12)00"
 fecha: "2014-10-03"
 exenta: false

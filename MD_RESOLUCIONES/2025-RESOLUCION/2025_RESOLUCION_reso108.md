@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso108.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 125 DE 2020, SOBRE DECLARACION JURADA FORMULARIO N° 1952."
 fecha: "2025-08-26"
 exenta: true

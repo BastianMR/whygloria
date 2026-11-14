@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 62 (2014)"
 description: "Modificada por Circular N° 53, del 10 de agosto de 2020"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu62.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, que tienen incidencia en el impuesto a la renta y entraron en vigencia a contar del 1° de octubre de 2014. 6(12)00"
 fecha: "2014-12-02"
 exenta: false

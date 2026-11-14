@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 16 194-2016 ID 18-2016 SN |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu16.pdf"
 materia: "Cambio de criterio respecto del cómputo del plazo para invocar la exención contemplada en el artículo 42 ter de la Ley sobre Impuesto a la Renta."
 fecha: "2017-02-22"
 exenta: false

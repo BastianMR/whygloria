@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 150 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso150.pdf"
 materia: "Establece procedimiento simplificado para otorgar RUT y eximir de obligaciones de dar aviso de inicio de actividades, llevar contabilidad y declarar anualmente sus rentas, a contribuyentes no domiciliados ni residentes en Chile. Deja sin efecto Resolución Exenta SII Nº 36, de 2011."
 fecha: "2020-12-02"
 exenta: true

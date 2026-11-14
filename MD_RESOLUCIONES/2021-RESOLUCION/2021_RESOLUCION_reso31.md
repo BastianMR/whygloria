@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2021)"
 description: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso31.pdf"
 materia: "COMPLEMENTA Y MODIFICA RESOLUCIÓN EXENTA SII N° 14, DE 2021."
 fecha: "2021-03-19"
 exenta: true

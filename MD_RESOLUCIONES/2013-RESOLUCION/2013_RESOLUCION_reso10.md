@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso10.pdf"
 materia: "SUSTITUYE ESTRUCTURA Y CONTENIDO DEL FORMULARIO N° 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO DE IMPUESTOS."
 fecha: "2013-01-23"
 exenta: true

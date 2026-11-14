@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2020)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N° 42 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu42.pdf"
 materia: "Imparte instrucciones sobre la tributación y régimen de administración del Impuesto al Valor Agregado a servicios realizados por prestadores domiciliados o residentes en el extranjero."
 fecha: "2020-06-11"
 exenta: false

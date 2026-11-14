@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso91.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 110 DE 2024"
 fecha: "2026-07-10"
 exenta: true

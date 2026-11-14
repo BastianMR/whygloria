@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00364120"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso30.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración la Dirección de Compras y Contratación Pública y el Servicio de Impuestos Internos."
 fecha: "2026-02-27"
 exenta: true

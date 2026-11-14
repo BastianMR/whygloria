@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 130 (2025)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Paine."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso130.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Paine."
 fecha: "2025-10-02"
 exenta: true

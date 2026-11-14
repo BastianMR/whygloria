@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2017)"
 description: "Subdirección de Fiscalización Departamento de Análisis Selectivo del Cumplimiento Tributario"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso107.pdf"
 materia: "Establece la obligación de presentar declaración jurada anual sobre operaciones en chile por medio de formulario n° 1946; y deroga resoluciones n°s 1, 17, 73 de 2003; 29 de 2004; 50 de 2012; 25 de 2015; 28 y 117 de 2016."
 fecha: "2017-10-26"
 exenta: true

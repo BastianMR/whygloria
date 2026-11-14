@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 16 028-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu16.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2020 y el 9 de abril de 2020, ambos inclusive."
 fecha: "2020-03-10"
 exenta: false

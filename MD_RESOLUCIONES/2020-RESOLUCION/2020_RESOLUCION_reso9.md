@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2020)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso9.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2020-01-20"
 exenta: true

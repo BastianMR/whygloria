@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77321363505 GE00173099"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso12.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: ""
 exenta: true

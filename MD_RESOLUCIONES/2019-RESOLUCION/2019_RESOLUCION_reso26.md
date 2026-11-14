@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 134 - SDAC - 2018 77318540269"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso26.pdf"
 materia: "AUTORIZA IMPRESORA FISCAL MARCA EPSON, MODELO TM-T900FC, PARA EMITIR VALES QUE REEMPLACEN A LAS BOLETAS DE VENTAS Y SERVICIOS."
 fecha: "2019-02-18"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 63 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | 1875 CIRCULAR N° 63 277-2017ID 08-2017SN |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu63.pdf"
 materia: "Tratamiento tributario de las donaciones a que se refiere la Ley N°21.047, de 2017, efectuadas a la Conferencia Episcopal de Chile."
 fecha: "2017-12-29"
 exenta: false

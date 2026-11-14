@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 32 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 32.- 255856.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu32.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de septiembre de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-08-09"
 exenta: false

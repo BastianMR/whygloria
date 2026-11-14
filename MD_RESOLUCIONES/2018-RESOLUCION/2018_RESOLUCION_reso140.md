@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 140 (2018)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Manufacturas, Servicios y Turi..."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso140.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Asociación de Exportadores de Manufacturas, Servicios y Turismo A.G."
 fecha: "2018-12-27"
 exenta: true

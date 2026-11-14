@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2016)"
 description: "MATERIA: Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimient..."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso54.pdf"
 materia: "Resolución conjunta entre el Servicio de Impuestos Internos y el Servicio Nacional de Aduanas que establece instancias de coordinación, procedimientos y plazos para los efectos de resolver solicitudes de acuerdos anticipados de precios, valores o rentabilidades normales de mercado cuando se trate de"
 fecha: "2016-06-17"
 exenta: true

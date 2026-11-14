@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2020)"
 description: "MATERIA: EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso8.pdf"
 materia: "EXIME DE LA OBLIGACIÓN DE EMISIÓN DE GUÍA DE DESPACHO EN FORMATO ELECTRÓNICO A LOS CONTRIBUYENTES QUE INDICA."
 fecha: "2020-01-17"
 exenta: true

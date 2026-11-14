@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2016)"
 description: "DENIEGA SOLICITUD DE EXCLUSIÓN DE NÓMINA DE GRANDES CONTRIBUYENTES A COMPAÑÍA MINERA SAN GERONIMO, RUT N° 78.801.520-8."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso109.pdf"
 materia: "DENIEGA SOLICITUD DE EXCLUSIÓN DE NÓMINA DE GRANDES CONTRIBUYENTES A COMPAÑÍA MINERA SAN GERONIMO, RUT N° 78.801.520-8."
 fecha: "2016-12-01"
 exenta: true

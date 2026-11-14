@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2022)"
 description: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso69.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA."
 fecha: "2022-08-22"
 exenta: true

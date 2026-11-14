@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2020)"
 description: "RESOLUCIÓN EXENTA SII N° 68 RESOLUCION EXENTA TGR N°490"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso68.pdf"
 materia: "RESOLUCIÓN EXENTA SII N° 68 RESOLUCION EXENTA TGR N°490"
 fecha: "2020-06-26"
 exenta: true

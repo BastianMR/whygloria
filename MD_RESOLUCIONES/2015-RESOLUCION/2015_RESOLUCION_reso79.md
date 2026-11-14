@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso79.pdf"
 materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LA PROVINCIA DE CHOAPA Y LA COMUNA DE COQUIMBO."
 fecha: "2015-09-28"
 exenta: true

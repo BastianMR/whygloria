@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 44 (2020)"
 description: "DEPARTAMENTO EMISOR Departamento de Asesoría Jurídica | CIRCULAR N° 44 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu44.pdf"
 materia: "MATERIA Imparte instrucciones sobre Ley N° 21.210, de 24 de febrero de 2020, que modifica los artículos 6° letra A) Nº 2 y B), N° 4, 56; 26 bis; 98, 99, 100 bis, 111 bis y 165 del Código Tributario y articulo trigésimo tercero transitorio de la referida ley. Circular Miscelánea sobre Modificaciones "
 fecha: "2020-06-26"
 exenta: false

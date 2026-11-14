@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso100.pdf"
 materia: "INCORPÓRASE A LATAM FACTORS S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2018-10-10"
 exenta: false

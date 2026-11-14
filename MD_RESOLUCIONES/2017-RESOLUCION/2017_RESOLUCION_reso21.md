@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2017)"
 description: "MATERIA: ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso21.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA EL PAGO DEL IMPUESTO A LAS DONACIONES EFECTUADAS EN DINERO."
 fecha: "2017-02-10"
 exenta: true

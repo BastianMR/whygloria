@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 114 (2024)"
 description: "MATERIA: Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la..."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso114.pdf"
 materia: "Aprueba Convenio entre el Servicio de Impuestos Internos de la República de Chile y el Centro Interamericano de Administraciones Tributarias para la realización de la 59ª Asamblea General del CIAT."
 fecha: "2024-12-05"
 exenta: true

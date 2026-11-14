@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso51.pdf"
 materia: "CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77324627379 121-DCV-2024 GE278874"
 fecha: "2024-04-24"
 exenta: true

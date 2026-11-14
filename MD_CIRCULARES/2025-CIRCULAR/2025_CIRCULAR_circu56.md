@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº56.- GE00343037 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu56.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de octubre 2025."
 fecha: "2025-09-11"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2020)"
 description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso17.pdf"
 materia: "APRUEBACONVENIODE COLABORACIONMUTUAENTRESERVICIO DEIMPUESTOSINTERNOSEINSTITUTO PROFESIONALAIEP."
 fecha: ""
 exenta: true

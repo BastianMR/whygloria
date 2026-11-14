@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 87 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE 385032"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso87.pdf"
 materia: "MODIFÍCASE LA RESOLUCIÓN EX. SII N°193 DE 2025, QUE CREA REGISTRO DE PEQUEÑOS CONTRIBUYENTES QUE DESARROLLEN ACTIVIDADES DE SUBSISTENCIA."
 fecha: "2026-06-26"
 exenta: true

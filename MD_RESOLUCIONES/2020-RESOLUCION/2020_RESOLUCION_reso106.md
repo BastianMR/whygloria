@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2020)"
 description: "SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso106.pdf"
 materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: ""
 exenta: true

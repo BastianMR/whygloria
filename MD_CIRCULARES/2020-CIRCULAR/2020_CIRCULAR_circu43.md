@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 43 (2020)"
 description: "DEPARTAMENTOEMISOR Impuestos Directos | CIRCULAR N° 43 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu43.pdf"
 materia: "Imparte instrucciones sobre aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido enel artículovigésimoquintotransitoriodela Ley N° 21.210, que moderniza la legislación tributaria."
 fecha: "2020-06-24"
 exenta: false

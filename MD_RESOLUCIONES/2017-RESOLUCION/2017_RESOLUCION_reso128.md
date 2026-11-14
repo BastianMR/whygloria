@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2017)"
 description: "Anexo 1: Planos de precios de terrenos"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso128.pdf"
 materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2017-12-29"
 exenta: true

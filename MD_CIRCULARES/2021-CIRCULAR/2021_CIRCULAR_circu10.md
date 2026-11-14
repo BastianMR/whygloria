@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2021)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa Subdirección Normativa | CIRCULAR N°10.- 175338.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu10.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de marzo de 2021 e información adicional relacionada con dicho tributo."
 fecha: "2021-02-10"
 exenta: false

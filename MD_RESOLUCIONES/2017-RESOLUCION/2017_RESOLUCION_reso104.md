@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso104.pdf"
 materia: "AUTORIZA A IGT GLOBAL SOLUTIONS CORPORATION CHILE, RUT N° 78.465.510-5, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2017-10-13"
 exenta: true

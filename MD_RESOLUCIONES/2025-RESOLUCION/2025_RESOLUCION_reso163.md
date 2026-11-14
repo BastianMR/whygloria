@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 163 (2025)"
 description: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso163.pdf"
 materia: "Sii MODIFICA RESOLUCIÓN EX. SII N°24, DE 21 FEBRERO DE 2025, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2025-11-19"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2022)"
 description: "MATERIA: FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2023"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso95.pdf"
 materia: "FIJA PLAZO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2023"
 fecha: "2022-10-06"
 exenta: true

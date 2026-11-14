@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 136 (2019)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso136.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Cámara Nacional de Comercio, Servicios y Turismo."
 fecha: "2019-12-09"
 exenta: true

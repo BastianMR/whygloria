@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2025)"
 description: "AUTORIZA A EMPRESA DE CORREOS DE CHILE, RUT N° 60.503.000-9, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso14.pdf"
 materia: "AUTORIZA A EMPRESA DE CORREOS DE CHILE, RUT N° 60.503.000-9, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-01-30"
 exenta: true

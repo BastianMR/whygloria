@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00324769"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso66.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE INDICA."
 fecha: "2025-06-11"
 exenta: true

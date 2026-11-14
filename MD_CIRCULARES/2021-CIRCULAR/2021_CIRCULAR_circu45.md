@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°45.- 186349.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu45.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de agosto de 2021 e información adicional relacionada con dicho tributo."
 fecha: "2021-07-12"
 exenta: false

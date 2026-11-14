@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77317445545"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso51.pdf"
 materia: "EXIME A MARÍA AYUDA CORPORACIÓN DE BENEFICENCIA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2020-05-07"
 exenta: true

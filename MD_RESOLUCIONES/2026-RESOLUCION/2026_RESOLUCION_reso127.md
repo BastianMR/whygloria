@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso127.pdf"
 materia: "SOCIEDAD EMISORA DE TARJETAS LOS HÉROES S.A., RUT N° 76.965.737-1"
 fecha: "2026-09-15"
 exenta: true

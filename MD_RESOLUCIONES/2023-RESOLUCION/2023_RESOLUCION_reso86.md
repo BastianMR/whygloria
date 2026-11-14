@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE254130"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso86.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos."
 fecha: "2023-08-17"
 exenta: true

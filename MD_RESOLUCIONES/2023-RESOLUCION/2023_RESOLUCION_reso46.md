@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso46.pdf"
 materia: "OTORGA LA CALIDAD DE AGENTE RETENEDOR DE IVA, DE ACUERDO CON RES. EX N° 1087, DE 28.08.1978, A GAS DE CHILE S.A., RUT N° 96.694.400-5. DEROGA RESOLUCIÓN EX. SII N°58, de 28.06.2022."
 fecha: "2023-04-12"
 exenta: true

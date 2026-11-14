@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2014)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso34.pdf"
 materia: "DELEGA EN LOS JEFES DE DEPARTAMENTOS DE AVALUACIONES LA FACULTAD QUE INDICA."
 fecha: "2014-04-09"
 exenta: true

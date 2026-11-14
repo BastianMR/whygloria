@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2026)"
 description: "MODIFÍCASE LA RESOLUCIÓN EX. SII N° 179 DE 2025, QUE CREA EL REGISTRO DE FERIAS LIBRES."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso79.pdf"
 materia: "MODIFÍCASE LA RESOLUCIÓN EX. SII N° 179 DE 2025, QUE CREA EL REGISTRO DE FERIAS LIBRES."
 fecha: "2026-06-11"
 exenta: true

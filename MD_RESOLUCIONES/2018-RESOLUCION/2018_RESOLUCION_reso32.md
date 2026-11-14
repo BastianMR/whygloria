@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2018)"
 description: "MATERIA: Otorga condonación sobre las multas infraccionales en los casos que se señalan."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso32.pdf"
 materia: "Otorga condonación sobre las multas infraccionales en los casos que se señalan."
 fecha: "2018-03-21"
 exenta: true

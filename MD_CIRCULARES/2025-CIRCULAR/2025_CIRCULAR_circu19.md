@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°19.- GE00306107 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu19.pdf"
 materia: "MATERIA Imparte instrucciones sobre diversas modificaciones introducidas por la Ley N° 21.713 al Código Tributario. Modifica Circulares N°12 de 2021 y N°41 de 2021, modificada por la N°47 de 2022."
 fecha: "2025-03-06"
 exenta: false

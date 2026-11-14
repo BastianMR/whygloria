@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso91.pdf"
 materia: "ELIMINA OBLIGACIÓN DE GENERAR, ENVIAR Y MANTENER LA INFORMACIÓN ELECTRÓNICA DE COMPRAS SEGÚN RESOLUCIÓN EX. SII N° 63, DEL 2004."
 fecha: "2017-10-06"
 exenta: true

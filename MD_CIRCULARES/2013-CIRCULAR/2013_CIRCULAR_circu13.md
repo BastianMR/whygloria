@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 13 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 13.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu13.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE ABRIL DEL AÑO 2013 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
 fecha: "2013-03-12"
 exenta: false

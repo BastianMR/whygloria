@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso30.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y CORPORACIÓN SANTO TOMÁS PARA EL DESARROLLO Y LA CULTURA LIMITADA"
 fecha: "2017-03-15"
 exenta: true

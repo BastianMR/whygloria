@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2024)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso109.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 fecha: "2024-11-28"
 exenta: false

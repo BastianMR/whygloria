@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE340743"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso118.pdf"
 materia: "REEMPLAZA ANEXOS I y II DE LA RESOLUCIÓN EX. SII N°77, DE 2025."
 fecha: "2025-09-10"
 exenta: true

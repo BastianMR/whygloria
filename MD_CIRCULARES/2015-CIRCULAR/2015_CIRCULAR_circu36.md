@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 36 (2015)"
 description: "DEPARTAMENTO EMISOR SUBDIRECCION NORMATIVA IMPUESTOS DIRECTOS | CIRCULAR N° 36.- 06.2015 SN 36.2015 ID |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu36.pdf"
 materia: "Instruye sobre la aplicación del crédito de carácter tributario que procede por los desembolsos directamente relacionados con la implementación y aplicación de los sistemas de trazabilidad o marcación de bienes o productos establecidos en el artículo 13 bis del Decreto Ley N° 828 de 1974 y en el art"
 fecha: "2015-05-27"
 exenta: false

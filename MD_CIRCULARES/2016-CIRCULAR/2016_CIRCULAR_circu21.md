@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 21.- 13.2016 Circ. SN 28.2016 ID |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu21.pdf"
 materia: "Instruye sobre la vigencia y transición de las normas contenidas en la Ley N° 20.899, de 8 de febrero de 2016, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales tributarias."
 fecha: "2016-04-19"
 exenta: false

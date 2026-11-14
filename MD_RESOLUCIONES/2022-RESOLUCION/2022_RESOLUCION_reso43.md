@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 43 (2022)"
 description: "En extracto en el Diario Oficial"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso43.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2022-05-10"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2023)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 242917"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso50.pdf"
 materia: "DELEGA FACULTADES QUE INDICA."
 fecha: "2023-04-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso75.pdf"
 materia: "DEJA SIN EFECTO LA RESOLUCION EX. SII N°123 DE 2021, Y ACTUALIZA REQUISITOS PARA LA EMISIÓN DE GUÍAS DE DESPACHO Y FACTURAS, DE LOS CONTRIBUYENTES QUE INDICA."
 fecha: "2024-07-19"
 exenta: true

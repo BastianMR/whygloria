@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2023)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00206173"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso81.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL MINISTERIO PÚBLICO Y EL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2023-07-20"
 exenta: true

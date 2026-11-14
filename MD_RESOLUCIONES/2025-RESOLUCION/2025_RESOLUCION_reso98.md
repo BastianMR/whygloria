@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00330373"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso98.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Tesorería General de la República y el Servicio de Impuestos Internos."
 fecha: "2025-08-07"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2017)"
 description: "MATERIA: Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso49.pdf"
 materia: "Aprueba Modificación al Convenio de colaboración entre Corporación de Fomento de la Producción y Servicio de Impuestos Internos."
 fecha: "2017-05-16"
 exenta: true

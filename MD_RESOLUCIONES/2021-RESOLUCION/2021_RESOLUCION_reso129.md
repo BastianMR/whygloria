@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso129.pdf"
 materia: "ESTABLECE PROCEDIMIENTO DE TASACIÓN DE IVA DEL ARTICULO 20 DEL D.L. N° 825 DE 1974, LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2021-11-15"
 exenta: true

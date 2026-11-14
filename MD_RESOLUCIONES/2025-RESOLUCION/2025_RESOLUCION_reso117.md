@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2025)"
 description: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso117.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA SOLICITAR ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES."
 fecha: "2025-09-10"
 exenta: true

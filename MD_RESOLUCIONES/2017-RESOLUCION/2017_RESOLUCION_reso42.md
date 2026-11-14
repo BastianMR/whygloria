@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2017)"
 description: "MATERIA: DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso42.pdf"
 materia: "DELEGA FACULTAD QUE INDICA."
 fecha: "2017-04-13"
 exenta: true

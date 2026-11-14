@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 6 (2024)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°6.- 272708.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu6.pdf"
 materia: "Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros docu"
 fecha: "2024-02-05"
 exenta: false

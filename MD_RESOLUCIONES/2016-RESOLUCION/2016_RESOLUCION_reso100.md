@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77315921463"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso100.pdf"
 materia: "EXIME A FUNDACIÓN JÓVENES POR UNA AMÉRICA SOLIDARIA DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALA."
 fecha: "2016-10-20"
 exenta: true

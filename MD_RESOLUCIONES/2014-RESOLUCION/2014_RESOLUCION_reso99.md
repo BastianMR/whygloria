@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso99.pdf"
 materia: "REGULA INSCRIPCIÓN EN SISTEMA DE FACTURACIÓN GRATUITO DEL SII, DISPONIBLE EN INTERNET."
 fecha: "2014-10-21"
 exenta: true

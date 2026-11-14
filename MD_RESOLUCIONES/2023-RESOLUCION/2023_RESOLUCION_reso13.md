@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2023)"
 description: "SUBDIRECCION DE FISCALIZACION DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 236909"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso13.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EXENTA SII N°103 DE 31 DE AGOSTO DE 2021."
 fecha: "2023-02-09"
 exenta: true

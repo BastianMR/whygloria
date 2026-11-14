@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso75.pdf"
 materia: "REVOCA AUTORIZACIÓN A ENTEL PCS TELECOMUNICACIONES S.A. RUT N° 96.806.980-2, OTORGADA MEDIANTE LA RESOLUCIÓN EXENTA N° 6, DEL 18.01.2018."
 fecha: "2018-09-05"
 exenta: true

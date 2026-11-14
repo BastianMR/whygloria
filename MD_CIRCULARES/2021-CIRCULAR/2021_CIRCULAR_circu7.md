@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Impuestos Directos | CIRCULAR N°7.- 174206 GE CIRC ID 18-2020 |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu7.pdf"
 materia: "Imparte instrucciones sobre tasa de pagos provisionales mensuales obligatorios(PPMO) que deben aplicar durante los meses de abril de 2020 a marzo del 2021, los contribuyentes del IDPC que se encontraban sujetos al régimen de renta atribuida, sobre el recálculo voluntario del PPMO de acuerdo al nuevo"
 fecha: "2021-01-29"
 exenta: false

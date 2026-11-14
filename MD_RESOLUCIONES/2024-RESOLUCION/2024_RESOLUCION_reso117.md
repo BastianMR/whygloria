@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso117.pdf"
 materia: "FIJA DOCUMENTOS TRIBUTARIOS QUE DEBEN EMITIRSE POR LOS VENDEDORES DE BIENES MUEBLES USADOS PARA IDENTIFICAR A SU PROVEEDOR CONFORME AL ARTÍCULO 88 BIS DEL CÓDIGO TRIBUTARIO"
 fecha: "2024-12-12"
 exenta: true

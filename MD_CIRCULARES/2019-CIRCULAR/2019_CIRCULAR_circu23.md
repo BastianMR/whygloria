@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2019)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N°23.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu23.pdf"
 materia: "Se modifican instrucciones contenidas en el N° 4.1, de la Circular N° 12, de 18 de marzo de 1987, relativo a los requisitos que deben cumplir los contribuyentes para hacer uso del beneficio contenido en el Art. 29°, de la Ley N° 18.591, modificada por el Art. 392°, de la Ley N° 20.720 6(12)00"
 fecha: "2019-05-16"
 exenta: false

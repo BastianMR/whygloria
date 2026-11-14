@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE219587"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso110.pdf"
 materia: "RESOLUCIÓN EX. SII N° 110."
 fecha: "2022-11-25"
 exenta: true

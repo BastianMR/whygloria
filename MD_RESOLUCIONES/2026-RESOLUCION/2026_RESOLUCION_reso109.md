@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2026)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO DEFENSA JUDICIAL CIVIL GE00393873"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso109.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA"
 fecha: "2026-08-27"
 exenta: false

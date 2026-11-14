@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323991736"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso110.pdf"
 materia: "EXIME DEL RÉGIMEN GENERAL DE OPERACIÓN DE VENTAS DE GAS LICUADO DE PETRÓLEO, ESTABLECIDO EN RESOLUCIÓN EX. SII N° 1087 DE 1978, A CONTRIBUYENTE QUE INDICA."
 fecha: "2023-09-14"
 exenta: true

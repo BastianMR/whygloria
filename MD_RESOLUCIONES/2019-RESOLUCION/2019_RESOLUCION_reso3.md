@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2019)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso3.pdf"
 materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA."
 fecha: "2019-01-14"
 exenta: true

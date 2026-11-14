@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00194359"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso120.pdf"
 materia: "EXIME A SOCIEDAD PROTECTORA DE CIEGOS SANTA LUCIA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
 fecha: "2021-10-15"
 exenta: true

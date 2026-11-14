@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2015)"
 description: "AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso61.pdf"
 materia: "AUTORIZA EL PAGO EN MONEDA EXTRANJERA DEL IMPUESTO QUE INDICA."
 fecha: "2015-07-20"
 exenta: true

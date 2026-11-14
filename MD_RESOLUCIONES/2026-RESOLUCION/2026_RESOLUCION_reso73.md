@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2026)"
 description: "CREA REGISTRO ESPECIAL DE INSTITUCIONES DE BENEFICENCIA VENDEDORAS DE BIENES USADOS Y FIJA PROCEDIMIENTO DE INSCRIPCIÓN."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso73.pdf"
 materia: "CREA REGISTRO ESPECIAL DE INSTITUCIONES DE BENEFICENCIA VENDEDORAS DE BIENES USADOS Y FIJA PROCEDIMIENTO DE INSCRIPCIÓN."
 fecha: "2026-06-05"
 exenta: true

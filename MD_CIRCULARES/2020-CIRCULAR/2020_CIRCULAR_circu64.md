@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 64 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 64 130-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu64.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de noviembre de 2020 e información adicional relacionada con dicho tributo."
 fecha: "2020-10-13"
 exenta: false

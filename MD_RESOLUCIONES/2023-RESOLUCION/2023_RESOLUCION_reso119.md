@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso119.pdf"
 materia: "AJUSTA NÓMINA 'CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO' QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2023."
 fecha: "2023-10-13"
 exenta: true

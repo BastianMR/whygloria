@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Impuestos Directos | CIRCULAR N°10.- 300338.2024 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu10.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 artículo 41 E de la Ley sobre Impuesto a la Renta. Deja sin efecto la Circular N° 29 de 2013."
 fecha: "2025-01-30"
 exenta: false

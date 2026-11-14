@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2016)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso39.pdf"
 materia: "Aprueba Modificación a convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos."
 fecha: "2016-04-25"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso70.pdf"
 materia: "Fija plazo para la presentación de declaraciones juradas que se indican, para el Año Tributario 2019."
 fecha: "2018-08-30"
 exenta: true

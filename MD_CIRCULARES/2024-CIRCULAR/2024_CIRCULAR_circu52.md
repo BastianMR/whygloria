@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°52.- 306528.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu52.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de diciembre de 2024 y el 9 de enero de 2025, ambos inclusive."
 fecha: "2024-12-09"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRAIVO GE 96395"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso17.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N° 149.- DE 28 DE DICIEMBRE DE 2018, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2019-02-06"
 exenta: true

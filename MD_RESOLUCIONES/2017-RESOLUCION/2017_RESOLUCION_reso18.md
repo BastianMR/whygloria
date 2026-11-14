@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso18.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y FUNDACIÓN INSTITUTO PROFESIONAL DUOC UC"
 fecha: "2017-02-08"
 exenta: true

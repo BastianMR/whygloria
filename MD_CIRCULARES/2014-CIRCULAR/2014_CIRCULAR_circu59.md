@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 59 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 59.- 206-2014 SN 102-2014 ID 35-2014 NI |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu59.pdf"
 materia: "Modifica las instrucciones contenidas en Circular N°14, de 2014, relativas a la aplicación de los convenios para evitar la doble tributación internacional a las rentas e impuesto que establecen los artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta. 6(12)00"
 fecha: "2014-11-14"
 exenta: false

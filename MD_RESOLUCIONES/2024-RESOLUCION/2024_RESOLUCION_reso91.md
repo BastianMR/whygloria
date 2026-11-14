@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2024)"
 description: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2025."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso91.pdf"
 materia: "FIJA LAS FECHAS DE VENCIMIENTO PARA LA PRESENTACIÓN DE DECLARACIONES JURADAS QUE SE INDICAN, PARA EL AÑO TRIBUTARIO 2025."
 fecha: "2024-09-12"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 8 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 8 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu8.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE MARZO DEL AÑO 2018, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
 fecha: "2018-02-09"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2024)"
 description: "MFM/BOB/LAS/AID Distribución:"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso37.pdf"
 materia: "DESIGNA SECRETARIOS SUPLENTE Y TITULAR EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE RANCAGUA."
 fecha: "2024-03-15"
 exenta: true

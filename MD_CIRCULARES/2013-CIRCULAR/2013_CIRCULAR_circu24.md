@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 24 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 24 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu24.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE JUNIO DEL AÑO 2013 E INFORMACIÓN ADICIONAL RELACIONADACON DICHOS TRIBUTOS"
 fecha: "2013-05-10"
 exenta: false

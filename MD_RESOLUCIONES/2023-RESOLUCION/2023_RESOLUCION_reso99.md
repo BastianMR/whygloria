@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2023)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de San Clemente"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso99.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de San Clemente"
 fecha: "2023-08-31"
 exenta: true

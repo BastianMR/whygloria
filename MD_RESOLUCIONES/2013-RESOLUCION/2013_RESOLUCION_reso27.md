@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO PERSONAS Y MICRO Y PEQUEÑAS EMPRESAS"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso27.pdf"
 materia: "SUSTITÚYESE LAS INSTRUCCIONES DE LLENADO DE LA DECLARACIÓN JURADA FORMULARIO N° 1867 A QUE SE REFIERE LA RESOLUCIÓN EX. Nº 30 DE FECHA 26.02.2007."
 fecha: "2013-02-22"
 exenta: true

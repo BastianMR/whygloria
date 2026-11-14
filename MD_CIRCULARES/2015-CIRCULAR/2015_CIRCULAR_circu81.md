@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 81 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 81.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu81.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE NOVIEMBRE DEL AÑO 2015 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
 fecha: "2015-10-14"
 exenta: false

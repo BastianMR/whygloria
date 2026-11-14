@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso113.pdf"
 materia: "REVOCA AUTORIZACIÓN DE EMISIÓN EN PAPEL DE DOCUMENTOS TRIBUTARIOS, QUE DEBEN SER EMITIDOS EN FORMATO ELECTRÓNICO, A LOS CONTRIBUYENTES QUE INDICA."
 fecha: "2019-10-10"
 exenta: true

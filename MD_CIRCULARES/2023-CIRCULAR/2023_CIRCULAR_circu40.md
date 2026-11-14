@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 40 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°40.- GE258814 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu40.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2023 y el 9 de octubre de 2023, ambos inclusive."
 fecha: "2023-09-13"
 exenta: false

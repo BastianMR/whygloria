@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2013)"
 description: "MATERIA: AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso9.pdf"
 materia: "AUTORIZA AL CONTRIBUYENTE SPF S.A., RUT N° 76.121.871-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
 fecha: "2013-01-23"
 exenta: true

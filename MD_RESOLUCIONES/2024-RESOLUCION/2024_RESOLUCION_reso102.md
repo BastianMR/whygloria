@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2024)"
 description: "SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE TASACIONES GE290455"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso102.pdf"
 materia: "mejoras agrícolas ), adjuntando la plantilla en PDF del anexo I y los documentos de respaldo señalados en el anexo II. Aquellos contribuyentes que no puedan acceder a Internet podrán concurrir a cualquiera de las Unidades del Servicio para presentar la señalada declaración."
 fecha: "2024-10-24"
 exenta: true

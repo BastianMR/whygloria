@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 141 (2023)"
 description: "SUBDIRECCION DE FISCALIZACION DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00267145"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso141.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EXENTA SII N°103 DE 31 DE AGOSTO DE 2021 SOBRE REGISTRO ANUAL SOBRE RETENCIONES EFECTUADAS CONFORME A LOS ARTÍCULOS 42 N° 1 Y 74 Nº 1 DE LA LEY DE IMPUESTO A LA RENTA."
 fecha: "2023-12-13"
 exenta: true

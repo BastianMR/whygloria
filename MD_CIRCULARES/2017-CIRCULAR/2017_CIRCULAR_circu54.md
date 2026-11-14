@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 54 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 54 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu54.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE DICIEMBRE DEL AÑO 2017, E INFORMACIÓN ADICIONAL RELACIONADACON DICHO TRIBUTO."
 fecha: "2017-11-10"
 exenta: false

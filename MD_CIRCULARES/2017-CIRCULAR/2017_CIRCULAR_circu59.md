@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 59 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°59 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu59.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los comprendidos entre el 10 de diciembre del"
 fecha: "2017-12-15"
 exenta: false

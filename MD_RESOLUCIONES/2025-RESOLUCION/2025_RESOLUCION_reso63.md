@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACION DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso63.pdf"
 materia: "AUTORIZA A BANCO SANTANDER CHILE, RUT N° 97.036.000-K, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2025-05-22"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 180 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA OPERACIONES DE ASISTENCIA"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso180.pdf"
 materia: "SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES DE ENTERNET SOCIEDAD ANONIMA, RUT N° 76.407.930-2."
 fecha: "2025-12-11"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2022)"
 description: "Diario Oficial (en extracto)"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso11.pdf"
 materia: "FIJA VALORES DE MONTOS DE AVALÚO EXENTO, DE AVALÚO PARA CAMBIO DE TASA DEL IMPUESTO TERRITORIAL Y EXENCIÓN DE PLENO DERECHO, PARA PREDIOS NO AGRÍCOLAS REAVALUADOS CON VIGENCIA 1° DE ENERO DE 2022."
 fecha: "2022-02-01"
 exenta: true

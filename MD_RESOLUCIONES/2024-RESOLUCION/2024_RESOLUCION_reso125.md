@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 77324288347"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso125.pdf"
 materia: "INCORPÓRASE A COMISIÓN NACIONAL DE RIEGO, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2024-12-20"
 exenta: true

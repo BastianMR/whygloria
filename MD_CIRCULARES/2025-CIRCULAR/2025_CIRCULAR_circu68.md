@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 68 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 68.- GE00356812                                  ..."
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu68.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de enero 2026."
 fecha: "2025-12-15"
 exenta: false

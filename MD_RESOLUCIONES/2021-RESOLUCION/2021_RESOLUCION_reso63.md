@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2021)"
 description: "MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso63.pdf"
 materia: "MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES."
 fecha: "2021-06-23"
 exenta: true

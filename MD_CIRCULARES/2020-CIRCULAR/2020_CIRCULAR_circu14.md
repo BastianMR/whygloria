@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 14 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 14 05-2020 SN CIRC. 024-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu14.pdf"
 materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 2 letra c) de la Ley sobre Impuesto a la Renta."
 fecha: "2020-02-26"
 exenta: false

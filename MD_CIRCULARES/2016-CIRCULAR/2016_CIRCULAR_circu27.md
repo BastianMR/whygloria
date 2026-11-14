@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 27 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 27.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu27.pdf"
 materia: "MODIFICACIÓN INTRODUCIDA POR EL ARTÍCULO 3° DE LA LEY N° 20.899, DE 08 DE FEBRERO DE 2016, AL N° 6 DEL ARTÍCULO 97 DEL CÓDIGO TRIBUTARIO.."
 fecha: "2016-05-03"
 exenta: false

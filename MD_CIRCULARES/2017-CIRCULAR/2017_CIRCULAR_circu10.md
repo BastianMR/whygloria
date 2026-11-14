@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°10 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu10.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2017-02-10"
 exenta: false

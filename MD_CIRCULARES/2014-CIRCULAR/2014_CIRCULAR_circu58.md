@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 58 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 58.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu58.pdf"
 materia: "TABLASDELIMPUESTOÚNICODESEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE DICIEMBRE DEL AÑO 2014 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS"
 fecha: "2014-11-12"
 exenta: false

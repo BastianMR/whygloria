@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 166 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso166.pdf"
 materia: "INSTRUYE SOBRE DE OBLIGATORIEDAD DE EMISIÓN DE BOLETAS DE HONORARIOS ELECTRÓNICAS E IMPLEMENTA EXCEPCIONES ESTABLECIDAS EN EL ARTÍCULO 68 BIS DE LA LEY DE IMPUESTO A LA RENTA."
 fecha: "2020-12-23"
 exenta: true

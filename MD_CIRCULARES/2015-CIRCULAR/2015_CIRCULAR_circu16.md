@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2015)"
 description: "GABINETE DEL DIRECTOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 16.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu16.pdf"
 materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 1 de la Ley de la Renta."
 fecha: "2015-02-24"
 exenta: false

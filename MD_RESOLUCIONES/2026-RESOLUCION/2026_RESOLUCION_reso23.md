@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 363662"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso23.pdf"
 materia: "INSCRIPCIÓN DE OFICIO EN EL REGISTRO ESPECIAL DE OPERADORES DE PLATAFORMAS DIGITALES DE INTERMEDIACIÓN DE VENTAS CON DOMICILIO O RESIDENCIA EN CHILE."
 fecha: "2026-02-10"
 exenta: true

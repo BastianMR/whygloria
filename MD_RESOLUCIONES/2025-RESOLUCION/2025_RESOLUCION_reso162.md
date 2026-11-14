@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 162 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 1283-SDAC 2025 GE 352342"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso162.pdf"
 materia: "AUTORIZA A LA ENTIDAD QUE INDICA PARA SU HABILITACIÓN EN LA PLATAFORMA DE ACCESO UNICO A LA CLAVE TRIBUTARIA"
 fecha: "2025-11-13"
 exenta: false

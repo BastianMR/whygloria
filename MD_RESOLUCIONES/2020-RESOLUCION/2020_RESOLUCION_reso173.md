@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 173 (2020)"
 description: "RESOLUCIÓN EXENTA SII N°173.- RESOLUCIÓN EXENTA CORFO N° 1.398.-"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso173.pdf"
 materia: "RESOLUCIÓN EXENTA SII N°173.- RESOLUCIÓN EXENTA CORFO N° 1.398."
 fecha: "2020-12-30"
 exenta: true

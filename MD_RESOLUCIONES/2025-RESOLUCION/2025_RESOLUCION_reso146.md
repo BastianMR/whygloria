@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 146 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES GE00348142"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso146.pdf"
 materia: "AUTORIZA A LAS ENTIDADES QUE INDICA PARA SU HABILITACIÓN EN LA PLATAFORMA DE ACCESO UNICO A LA CLAVE TRIBUTARIA"
 fecha: "2025-10-20"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2025)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso37.pdf"
 materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
 fecha: "2025-03-26"
 exenta: true

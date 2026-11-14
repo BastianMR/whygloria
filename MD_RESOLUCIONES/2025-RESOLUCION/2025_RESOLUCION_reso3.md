@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00308060"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso3.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMO PÚBLICO QUE INDICA. MODIFICA LA RESOLUCIÓN N°80, DE 2024."
 fecha: "2025-01-07"
 exenta: true

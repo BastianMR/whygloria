@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES 209-SDF-2016 77316976489 527-16"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso30.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°119 DE 29 DE DICIEMBRE DE 2015, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2016-04-06"
 exenta: true

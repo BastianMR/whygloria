@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu22.pdf"
 materia: "SUPLEMENTO TRIBUTARIO CON LA NORMATIVA VIGENTE PARA EFECTUAR LA DECLARACION DE LOS IMPUESTOS ANUALES A LA RENTA CORRESPONDIENTES AL AÑO TRIBUTARIO 2015"
 fecha: "2015-03-26"
 exenta: false

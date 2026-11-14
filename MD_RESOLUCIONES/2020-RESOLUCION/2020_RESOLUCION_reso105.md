@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2020)"
 description: "RESOLUCIÓN EXENTA SII N° 105 RESOLUCIÓN EXENTA TGR N° 577"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso105.pdf"
 materia: "RESOLUCIÓN EXENTA SII N° 105 RESOLUCIÓN EXENTA TGR N° 577"
 fecha: "2020-09-03"
 exenta: true

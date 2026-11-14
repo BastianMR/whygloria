@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00377702"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso75.pdf"
 materia: "OTÓRGUESE ACCESO A LA SIGUIENTE INSTITUCIÓN A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) INICIO DE ACTIVIDADES"
 fecha: "2026-06-08"
 exenta: true

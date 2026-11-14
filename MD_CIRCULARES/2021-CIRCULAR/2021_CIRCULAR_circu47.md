@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 47 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Normas Internacionales | CIRCULAR N° 47 160744.2020 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu47.pdf"
 materia: "Modifica Circular N° 7 de 2018, que imparte instrucciones relativas a la aplicación de la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros ('Convención de la Apostilla') en el caso que indica."
 fecha: "2021-08-03"
 exenta: false

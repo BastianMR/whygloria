@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°22.- 179477.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu22.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de mayo de 2021 e información adicional relacionada con dicho tributo."
 fecha: "2021-04-09"
 exenta: false

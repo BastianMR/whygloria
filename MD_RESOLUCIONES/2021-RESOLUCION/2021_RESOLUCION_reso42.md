@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE180075"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso42.pdf"
 materia: "EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
 fecha: "2021-04-21"
 exenta: true

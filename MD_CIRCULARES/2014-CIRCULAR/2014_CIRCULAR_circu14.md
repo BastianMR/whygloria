@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 14 (2014)"
 description: "Modificada por Circular N° 59, del 14 de noviembre de 2014"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu14.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a la Ley sobre Impuesto a la Renta, relacionadas con la tributación internacional. 6(12)00 6"
 fecha: "2014-03-07"
 exenta: false

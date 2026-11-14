@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00316314"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso49.pdf"
 materia: "TRAMITACIÓN DE LAS AUTODENUNCIAS CONFORME AL ARTÍCULO 100 SEXIES DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-04-17"
 exenta: false

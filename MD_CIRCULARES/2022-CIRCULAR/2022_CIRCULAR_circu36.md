@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 36 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 36.- GE00219996.2022 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu36.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto de 2022 y el 9 de septiembre de 2022, ambos inclusive."
 fecha: "2022-08-10"
 exenta: false

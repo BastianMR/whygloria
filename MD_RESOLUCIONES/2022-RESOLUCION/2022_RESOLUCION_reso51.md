@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso51.pdf"
 materia: "'ACUERDO DE COLABORACIÓN TRIBUTARIA ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y ASOCIACIÓN DE EMPRESAS CHILENAS DE TECNOLOGÍA A.G."
 fecha: "2022-05-31"
 exenta: true

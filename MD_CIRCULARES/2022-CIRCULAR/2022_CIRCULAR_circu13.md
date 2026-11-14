@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 13 (2022)"
 description: "DEPARTAMENTO EMISOR: Departamento de Normas Internacionales, Subdirección Normativa Oficina de Gestión y Apoyo en Jurisprudencia Subdirección Jurídica | CIRC..."
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu13.pdf"
 materia: "Imparte instrucciones respecto de las disposiciones sobre el procedimiento de acuerdo mutuo, también denominado procedimiento amistoso, establecidas en los convenios para evitar la doble tributación internacional suscritos por Chile."
 fecha: "2022-03-18"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 11 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°11.- 174964 GE ID 21-2020 |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu11.pdf"
 materia: "Instruye sobre disminución transitoria de tasa de impuesto de primera categoría y tasa de pagos de contribuyentes acogidos al régimen Pro Pyme, provisionales mensuales conforme al artículo 1° de la Ley N° 21.256. Complementa y modifica instrucciones de la Circular N° 31 de 2020 tras modificaciones a"
 fecha: "2021-02-17"
 exenta: false

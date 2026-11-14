@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2014)"
 description: "ANEXA TABLAS DE COEFICIENTES GUÍAS DE TERRENO A PLANO DE PRECIOS DE LA COMUNA DE MELIPILLA CONTENIDO EN LA RESOLUCIÓN EX. SII N°108 DE 27.12.2013"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso84.pdf"
 materia: "ANEXA TABLAS DE COEFICIENTES GUÍAS DE TERRENO A PLANO DE PRECIOS DE LA COMUNA DE MELIPILLA CONTENIDO EN LA RESOLUCIÓN EX. SII N°108 DE 27.12.2013"
 fecha: "2014-08-22"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°31.- 179607.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu31.pdf"
 materia: "Instruye sobre modificaciones introducidas por la Ley N° 21.210 a los artículos 41 A y 41 B, y eliminación del artículo 41 C, de la Ley sobre Impuestoa la Renta. Deja sin efecto la Circular N° 48 de 2016 y parcialmente la Circular N° 44 de 2017."
 fecha: "2021-05-19"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 111 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso111.pdf"
 materia: "ACOGE PETICIÓN DE MULTICAJA S.A. RUT N° 76.828.790-2 Y MODIFICA RESOLUCIÓN EXENTA SII N° 08 DEL 24 DE ENERO DEL 2018, CONFORME SE INDICA."
 fecha: "2018-11-12"
 exenta: true

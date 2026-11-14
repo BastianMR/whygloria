@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 30 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 30 |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu30.pdf"
 materia: "Modificaciones introducidas por la Ley N° 20.899, de 8 de febrero de 2016, al Código Tributario. Modifica las Circulares N°s 47, 50, 54, 57, y 59, todas de 2015. Complementa la Circular N° 58, de 2015."
 fecha: "2016-05-10"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2019)"
 description: "MODIFICA RESOLUCIÓN EX. SII N° 126 DE 27.12.2016, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA N°1907 y N°1937."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso108.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 126 DE 27.12.2016, QUE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA N°1907 y N°1937."
 fecha: "2019-09-30"
 exenta: true

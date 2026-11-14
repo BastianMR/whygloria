@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso25.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA HACER EFECTIVO EL DERECHO AL CRÉDITO FISCAL DEL IMPUESTO A LAS VENTAS Y SERVICIOS, ESTABLECIDO EN EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY N° 20.780, DE 2014, MODIFICADO POR LA LEY N° 20.899, DE 2016."
 fecha: "2017-02-15"
 exenta: true

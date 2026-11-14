@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso117.pdf"
 materia: "CREA MODELO DE CERTIFICADO N° 59, SOBRE DONACIONES EFECTUADAS A LA CONFERENCIA EPISCOPAL DE CHILE CON MOTIVO DE LA VISITA DEL PAPA AL PAÍS"
 fecha: "2017-12-06"
 exenta: true

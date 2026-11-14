@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso12.pdf"
 materia: "ACLARA RES. EX. SII N° 12 DEL 10.03.2016 QUE INCORPORÓ NUEVOS PUNTOS FRONTERIZOS PARA LA DEVOLUCIÓN DE IVA TURISTA Y SIMPLIFICÓ EL PROCEDIMIENTO Y REEMPLAZA EN LOS TÉRMINOS QUE INDICA."
 fecha: "2017-01-25"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 133 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00306385"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso133.pdf"
 materia: "FIJA TASAS DE INTERÉS A APLICAR POR MORA EN EL PAGO DE TODO O PARTE DE IMPUESTOS O CONTRIBUCIONES PARA LOS SEMESTRES QUE SE INDICAN"
 fecha: "2024-12-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso13.pdf"
 materia: "ESTABLECE NORMAS Y PROCEDIMIENTOS DE OPERACIÓN DE LOS LIBROS ADICIONALES O AUXILIARES ELECTRÓNICOS."
 fecha: "2021-02-09"
 exenta: true

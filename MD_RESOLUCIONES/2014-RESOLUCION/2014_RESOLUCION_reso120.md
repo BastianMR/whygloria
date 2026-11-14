@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso120.pdf"
 materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS."
 fecha: "2014-12-26"
 exenta: true

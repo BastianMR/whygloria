@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE306524"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso17.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos."
 fecha: "2025-02-07"
 exenta: true

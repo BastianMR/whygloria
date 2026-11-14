@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso129.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Servicio Nacional de Capacitación y Empleo y el Servicio de Impuestos Internos."
 fecha: "2019-11-20"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 40 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 40.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu40.pdf"
 materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY 20.780, AL ARTÍCULO 21 DEL CÓDIGO TRI- BUTARIO EN MATERIA DE EMPLEO DE EXPE- DIENTES ELECTRÓNICOS."
 fecha: "2015-06-05"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso65.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EX. SII N° 63, DE 10.08.2018, EN LOS TÉRMINOS QUE INDICA, RESPECTO DE CORPORACIÓN RED ALIMENTOS."
 fecha: "2018-08-23"
 exenta: true

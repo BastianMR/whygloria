@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2020)"
 description: "MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso90.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Electoral y el Servicio de Impuestos Internos."
 fecha: "2020-08-12"
 exenta: true

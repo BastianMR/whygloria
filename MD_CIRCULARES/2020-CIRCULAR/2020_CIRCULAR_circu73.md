@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 73 (2020)"
 description: "Modificada por Circular N° 4, del 12 de enero de 2021"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu73.pdf"
 materia: "Instruye sobre las modificaciones introducidas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales relacionadas con el nuevo régimen general de tributación sobre renta efectiva según contabilidad completa, vigente a contar del 1° de enero de 2020."
 fecha: "2020-12-22"
 exenta: false

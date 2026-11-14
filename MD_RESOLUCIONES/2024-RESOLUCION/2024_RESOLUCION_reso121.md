@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2024)"
 description: "REITERA EXIGENCIAS LEGALES SOBRE EMISIÓN DE FACTURAS PARA EL CASO DE SUPERMERCADOS Y RESTAURANTES Y SU CUMPLIMIENTO."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso121.pdf"
 materia: "REITERA EXIGENCIAS LEGALES SOBRE EMISIÓN DE FACTURAS PARA EL CASO DE SUPERMERCADOS Y RESTAURANTES Y SU CUMPLIMIENTO."
 fecha: "2024-12-19"
 exenta: true

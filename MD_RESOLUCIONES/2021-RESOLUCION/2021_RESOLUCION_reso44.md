@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso44.pdf"
 materia: "Aprueba Addendum al Convenio de Colaboración entre la Dirección del Trabajo y el Servicio de Impuestos Internos."
 fecha: "2021-04-27"
 exenta: true

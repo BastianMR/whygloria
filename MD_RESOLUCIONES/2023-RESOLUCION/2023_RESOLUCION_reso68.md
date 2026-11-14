@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2023)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Coelemu"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso68.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII-MAPAS ' a la Ilustre Municipalidad de Coelemu"
 fecha: "2023-06-15"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2019)"
 description: "SERVICIO DE IMPUESTOS INTERNOS"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso55.pdf"
 materia: "MODIFICA TERRITORIOS JURISDICCIONALES DE LA XIII Y XV DIRECCIONES REGIONALES METROPOLITANAS SANTIAGO CENTRO Y SANTIAGO ORIENTE Y CAMBIA DEPENDENCIA DE UNIDAD DE ÑUÑOA Y CENTRAL METROPOLITANA DE TIMBRAJE."
 fecha: "2019-04-30"
 exenta: true

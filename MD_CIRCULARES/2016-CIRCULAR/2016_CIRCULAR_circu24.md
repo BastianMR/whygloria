@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 24 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 24.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu24.pdf"
 materia: "Modificación introducida por la Ley N° 20.899, de 8 de febrero de 2016, al artículo 9° de la Ley Orgánica del Servicio de Impuestos Internos. Modifica la Circular N° 41, de 5 de junio de 2015."
 fecha: "2016-05-03"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 8 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N°08.- 02.2013 SN 140.2012 ID |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu8.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630 a la Ley sobre Impuesto a la Renta (LIR), relacionadas con la tributación bajo el régimen de renta presunta en las actividades agrícola, de la minería, transporte terrestre de carga ajena y de pasajeros. 6(12)00"
 fecha: "2014-02-07"
 exenta: false

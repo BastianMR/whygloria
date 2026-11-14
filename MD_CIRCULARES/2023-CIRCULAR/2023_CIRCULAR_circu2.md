@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 2 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°02 233711.2022 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu2.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de febrero de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-01-09"
 exenta: false

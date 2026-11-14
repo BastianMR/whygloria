@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2019)"
 description: "Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artí..."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso11.pdf"
 materia: "Establece forma en que debe acreditarse la residencia de las personas sin domicilio ni residencia en Chile para efectos de la retención que establece el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta."
 fecha: "2019-01-30"
 exenta: true

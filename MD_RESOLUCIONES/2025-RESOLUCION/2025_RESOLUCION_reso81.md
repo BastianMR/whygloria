@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso81.pdf"
 materia: "MODIFICA FECHA DE ENTRADA EN VIGENCIA DE LA RESOLUCIÓN EXENTA SII N°41 DE 2025, QUE DISPONE FORMA DE SUSCRIPCIÓN DE LA DECLARACIÓN JURADA EXIGIDA POR LAS CIRCULARES N° 39 DE 1991 Y N° 27 DE 2007."
 fecha: "2025-06-30"
 exenta: true

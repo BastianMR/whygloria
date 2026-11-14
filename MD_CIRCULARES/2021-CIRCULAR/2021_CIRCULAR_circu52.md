@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°52.- 191594.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu52.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de septiembre de 2021 y el 9 de octubre de 2021, ambos inclusive."
 fecha: "2021-09-10"
 exenta: false

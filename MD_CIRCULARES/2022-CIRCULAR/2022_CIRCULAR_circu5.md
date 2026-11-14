@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 5 (2022)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 5.- GE 202177 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu5.pdf"
 materia: "Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2022."
 fecha: "2022-01-19"
 exenta: false

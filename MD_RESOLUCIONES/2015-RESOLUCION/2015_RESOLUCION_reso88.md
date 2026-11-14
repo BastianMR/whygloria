@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso88.pdf"
 materia: "EXIME DEL TIMBRAJE DE PAGARÉS A CONTRIBUYENTE QUE INDICA."
 fecha: "2015-11-11"
 exenta: true

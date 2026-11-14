@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso20.pdf"
 materia: "Fija nuevo plazo para la entrada en vigencia de la Resolución Ex. SII N°2 de 12 de enero de 2018, que deroga la Resolución Ex. SII N°39 de 27 de marzo de 2008, que excepciona las retenciones por cambio de sujeto de derecho de IVA a las operaciones respaldadas con documentos tributarios electrónicos."
 fecha: "2018-02-28"
 exenta: true

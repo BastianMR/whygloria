@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2023)"
 description: "ENCARGA FUNCIONES DE SECRETARÍA GENERAL A FUNCIONARIA QUE INDICA, DESIGNA SUBROGANTE Y DEJA SIN EFECTO LA RESOLUCIÓN QUE SEÑALA."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso28.pdf"
 materia: "ENCARGA FUNCIONES DE SECRETARÍA GENERAL A FUNCIONARIA QUE INDICA, DESIGNA SUBROGANTE Y DEJA SIN EFECTO LA RESOLUCIÓN QUE SEÑALA."
 fecha: "2023-03-15"
 exenta: true

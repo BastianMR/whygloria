@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2015)"
 description: "Al Diario Oficial (en extracto)"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso71.pdf"
 materia: "MODIFICA FECHA DE ACEPTACIÓN DE PROPUESTA DE REBAJA DEL IMPUESTO TERRITORIAL EFECTUADA POR EL SII EN EL MARCO DE LA LEY N° 20.732."
 fecha: "2015-08-10"
 exenta: true

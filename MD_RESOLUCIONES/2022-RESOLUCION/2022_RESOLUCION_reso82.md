@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2022)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA GE 221523"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso82.pdf"
 materia: "ACREDITA Y AUTORIZA A DOX PSC SPA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: "2022-09-07"
 exenta: true

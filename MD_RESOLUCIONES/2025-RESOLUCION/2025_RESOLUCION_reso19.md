@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2025)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Ancud"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso19.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de Ancud"
 fecha: "2025-02-14"
 exenta: true

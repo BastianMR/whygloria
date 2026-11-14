@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso112.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE FONDOS DE INVERSIÓN PÚBLICOS, PRIVADOS O FONDOS MUTUOS Y SALDOS AL CIERRE DEL EJERCICIO DE SUS PARTÍCIPES O APORTANTES. DECLARACIÓN JURADA FORMULARIO N° 1962."
 fecha: "2025-08-26"
 exenta: true

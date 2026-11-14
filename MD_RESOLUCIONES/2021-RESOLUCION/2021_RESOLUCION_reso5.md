@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2021)"
 description: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso5.pdf"
 materia: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 fecha: "2021-01-15"
 exenta: true

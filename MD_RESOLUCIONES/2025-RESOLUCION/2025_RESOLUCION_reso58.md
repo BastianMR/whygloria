@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso58.pdf"
 materia: "ESTABLECE PARÁMETROS OBJETIVOS PARA DETERMINAR LA COOPERACIÓN EFICAZ, EN LOS TÉRMINOS DEL ARTÍCULO 100 TER DEL CÓDIGO TRIBUTARIO"
 fecha: "2025-05-06"
 exenta: true

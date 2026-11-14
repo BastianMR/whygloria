@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2021)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso122.pdf"
 materia: "DELEGA FACULTAD EN LAS JEFATURAS QUE INDICA."
 fecha: "2021-10-29"
 exenta: true

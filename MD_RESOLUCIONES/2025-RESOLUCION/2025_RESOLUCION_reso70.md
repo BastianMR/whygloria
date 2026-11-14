@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso70.pdf"
 materia: "ESTABLECE PROCEDIMIENTO DE REGISTRO DE EMPRESAS CERTIFICADORAS INDEPENDIENTES DE ACUERDO CON EL Nº 18 DEL ARTICULO 8° DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-06-19"
 exenta: false

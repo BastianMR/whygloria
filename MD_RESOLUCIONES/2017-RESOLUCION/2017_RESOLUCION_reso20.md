@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso20.pdf"
 materia: "DEROGA RESOLUCIONES N°92 Y N°116, AMBAS DEL AÑO 2004, QUE ESTABLECEN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS FORMULARIOS N°1830 y N°1831, RESPECTIVAMENTE"
 fecha: "2017-02-10"
 exenta: true

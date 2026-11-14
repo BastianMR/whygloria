@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 46 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº46.- GE329129 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu46.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de Julio 2025"
 fecha: "2025-06-12"
 exenta: false

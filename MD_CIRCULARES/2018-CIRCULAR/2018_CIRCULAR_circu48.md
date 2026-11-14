@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 48 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu48.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2018-10-11"
 exenta: false

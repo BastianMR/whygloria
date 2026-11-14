@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 30 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE321389 | CIRCULAR Nº30.- |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu30.pdf"
 materia: "Informa tabla de cálculos de reajustes multas para el mes de Mayo 2025. Modifica Circular Nº 22 de 2025"
 fecha: "2025-04-17"
 exenta: false

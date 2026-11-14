@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2017)"
 description: "ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso99.pdf"
 materia: "ADECÚA DECLARACIÓN JURADA FORMULARIO N° 1922, SEGÚN LA NORMATIVA VIGENTE."
 fecha: "2017-10-13"
 exenta: true

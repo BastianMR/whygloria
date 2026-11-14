@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso3.pdf"
 materia: "FIJA TABLAS DE VALORES DE TROLEBUSES, MICROBUSES, CAMIONES, TAXIS, TAXIS COLECTIVOS, TAXIBUSES, AUTOMÓVILES, STATION WAGONS, FURGONES, CAMIONETAS, INCLUYENDO EL DE SUS ACOPLADOS O CARROS DE ARRASTRE."
 fecha: "2015-01-13"
 exenta: true

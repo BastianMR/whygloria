@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 136 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso136.pdf"
 materia: "OTÓRGUESE ACCESO A LA SIGUIENTE INSTITUCIÓN A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) INICIO DE ACTIVIDADES"
 fecha: "2026-10-06"
 exenta: true

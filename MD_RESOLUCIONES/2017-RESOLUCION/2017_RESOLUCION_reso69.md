@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2017)"
 description: "Delegación de facultades que indica."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso69.pdf"
 materia: "Delegación de facultades que indica."
 fecha: "2017-08-02"
 exenta: true

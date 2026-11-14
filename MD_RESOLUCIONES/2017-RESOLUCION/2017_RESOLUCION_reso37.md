@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2017)"
 description: "DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso37.pdf"
 materia: "DELEGA FACULTADES QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2017-03-28"
 exenta: true

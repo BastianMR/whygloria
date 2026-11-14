@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso94.pdf"
 materia: "AJUSTA NÓMINA \"CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO\" QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2026."
 fecha: "2026-07-15"
 exenta: true

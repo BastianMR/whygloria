@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 43 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 43.- GE204516. |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu43.pdf"
 materia: "Imparte instrucciones sobre la eliminación del artículo 21 del Decreto Ley N° 910 de 1975 y del párrafo primero del N° 6 del artículo 23 de la Ley sobre Impuesto a las Ventas y Servicios, contenida en el Decreto Ley N° 825 de 1974."
 fecha: "2022-09-14"
 exenta: false

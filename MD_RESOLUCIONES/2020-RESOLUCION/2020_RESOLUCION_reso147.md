@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 147 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77319882875 429-SDAC-2019"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso147.pdf"
 materia: "AUTORIZA A LA SOCIEDAD TRANSBANK S.A. PARA EMITIR BOLETA DE VENTAS Y SERVICIOS POR EL 'SERVICIO OPERACIÓN TRANSACCION EXTRANJERA' EN LA FORMA QUE INDICA."
 fecha: "2020-11-27"
 exenta: true

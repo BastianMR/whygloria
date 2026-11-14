@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2014)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso106.pdf"
 materia: "INCORPORA A LAS ADMINISTRADORAS DE FONDOS DE INVERSIÓN A LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL 1909 Y CERTIFICADO N° 38."
 fecha: "2014-11-14"
 exenta: true

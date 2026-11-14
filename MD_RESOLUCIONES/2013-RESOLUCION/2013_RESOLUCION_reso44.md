@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso44.pdf"
 materia: "AUTORIZA A INSTITUCIÓN SIN FINES DE LUCRO, COMO RECEPTORA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2013-05-09"
 exenta: true

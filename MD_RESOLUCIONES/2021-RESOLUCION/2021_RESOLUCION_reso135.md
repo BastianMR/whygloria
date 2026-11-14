@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 135 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00197579"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso135.pdf"
 materia: "RESOLUCIÓN EX. SII N° 135."
 fecha: "2021-12-10"
 exenta: true

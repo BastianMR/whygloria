@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso50.pdf"
 materia: "MODIFICA INSTRUCCIÓN CONTENIDA EN EL ANEXO 3 DE LA RESOLUCIÓN EX. SII Nº 40, DE FECHA 31 DE MARZO DE 2017."
 fecha: "2018-06-11"
 exenta: true

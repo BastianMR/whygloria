@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2020)"
 description: "MATERIA: Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley ..."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso38.pdf"
 materia: "Establece forma y oportunidad para presentar las declaraciones juradas que informan operaciones de derivados, conforme a los artículos 13 de la Ley N° 20.544, de 2011 y vigésimo transitorio de la Ley N° 21.210, de 2020."
 fecha: "2020-04-03"
 exenta: true

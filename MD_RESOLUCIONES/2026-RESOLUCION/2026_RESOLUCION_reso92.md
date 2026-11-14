@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2026)"
 description: "AUTORIZA ACCESO A LOS SERVICIOS DE INTEROPERABILIDAD CARTOGRAFÍA DIGITAL \"SII-MAPAS\" A LA ILUSTRE MUNICIPALIDAD DE CHONCHI."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso92.pdf"
 materia: "AUTORIZA ACCESO A LOS SERVICIOS DE INTEROPERABILIDAD CARTOGRAFÍA DIGITAL \"SII-MAPAS\" A LA ILUSTRE MUNICIPALIDAD DE CHONCHI."
 fecha: "2026-07-10"
 exenta: true

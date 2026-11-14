@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2017)"
 description: "Listado de países y jurisdicciones que se considera tienen un régimen fiscal preferencial. Análisis preliminar de cumplimiento de requisitos."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso124.pdf"
 materia: ""
 fecha: "2017-12-19"
 exenta: true

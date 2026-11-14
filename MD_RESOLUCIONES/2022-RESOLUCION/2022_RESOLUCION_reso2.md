@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2022)"
 description: "SUBDIRECCIONDEASISTENCIA ALCONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso2.pdf"
 materia: "APRUEBACONVENIODE COLABORACIONMUTUAENTRESERVICIO DEIMPUESTOSINTERNOSEINSTITUTODE ESTUDIOSBANCARIOS GUILLERMO SUBERCASEAUX."
 fecha: "2022-01-03"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE216724"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso59.pdf"
 materia: "EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE AUTORIZACIÓN PREVIA A LA EMISIÓN, DE LOS CERTIFICADOS DE DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
 fecha: "2022-07-12"
 exenta: true

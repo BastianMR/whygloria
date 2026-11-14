@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 149 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso149.pdf"
 materia: "AMPLIA PLAZO ESTABLECIDO POR RESOLUCIÓN EX. SII N° 123, DE 2019."
 fecha: "2020-11-30"
 exenta: true

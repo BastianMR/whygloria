@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso110.pdf"
 materia: "Establece la forma y procedimiento en que se hará efectiva la postergación del pago del Impuesto al Valor Agregado, establecida en el inciso tercero del artículo 64 del D.L. N° 825, de 1974."
 fecha: "2014-12-02"
 exenta: true

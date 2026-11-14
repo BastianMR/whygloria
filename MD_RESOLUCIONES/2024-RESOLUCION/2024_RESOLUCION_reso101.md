@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE285959"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso101.pdf"
 materia: "INSTRUYE SOBRE LA FORMA DE DOCUMENTAR LOS SERVICIOS PRESTADOS POR TRABAJADORES INDEPENDIENTES DE PLATAFORMAS DIGITALES SIN DOMICILIO O RESIDENCIA EN CHILE"
 fecha: "2024-10-24"
 exenta: true

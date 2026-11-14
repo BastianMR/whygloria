@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 256 - SDAC - 2018"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso81.pdf"
 materia: "EXIME A EMPRENDER CAPITAL SERVICIOS FINANCIEROS SPA DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO."
 fecha: "2018-09-12"
 exenta: true

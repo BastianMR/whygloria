@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2023)"
 description: "DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso83.pdf"
 materia: "DELEGA EN EL SUBDIRECTOR(A) JURÍDICO(A) Y EN LA JEFATURA DEL DEPARTAMENTO DE DEFENSA JUDICIAL PENAL, LAS FACULTADES QUE INDICA."
 fecha: "2023-08-03"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 154 (2025)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE312786"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso154.pdf"
 materia: "FÍJASE EXIGENCIAS SOBRE LAS FACTURAS Y GUÍAS DE DESPACHO QUE AMPARAN EL TRASLADO DE BIENES CORPORALES MUEBLES."
 fecha: ""
 exenta: true

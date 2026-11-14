@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2026)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN GE00301974"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso81.pdf"
 materia: "FIJA CONDICIONES PARA AUTORIZAR EXCEPCIONALMENTE EL TRASLADO DE FUNCIONARIOS A TRAVÉS DE VEHÍCULOS INSTITUCIONALES Y SERVICIOS DE TAXIS Y . Y DELEGA ESTA FACULTAD EN FUNCIONARIOS QUE INDICA"
 fecha: "2026-06-12"
 exenta: true

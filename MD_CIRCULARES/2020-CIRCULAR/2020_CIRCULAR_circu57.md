@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 57 113-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu57.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de octubre de 2020 e información adicional relacionada con dicho tributo."
 fecha: "2020-09-10"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2017)"
 description: "CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso76.pdf"
 materia: "CRITERIOS DE SEGMENTACIÓN DE CONTRIBUYENTES"
 fecha: "2017-08-23"
 exenta: true

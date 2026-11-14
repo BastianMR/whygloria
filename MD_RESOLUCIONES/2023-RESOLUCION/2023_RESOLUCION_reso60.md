@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00184687"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso60.pdf"
 materia: "FIJA MONTO MÍNIMO PARA LA EMISIÓN DE BOLETAS DE VENTAS Y SERVICIOS. DEROGA RESOLUCIÓN EX. SII N° 3943 DE FECHA 03.11.1992."
 fecha: "2023-05-17"
 exenta: true

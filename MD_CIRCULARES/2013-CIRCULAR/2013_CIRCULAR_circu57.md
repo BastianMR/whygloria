@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2013)"
 description: "DEPARTAMENTO EMISOR: Técnica Tributaria | CIRCULAR N° 57.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu57.pdf"
 materia: "Instrucciones relativas a la entrada en vigencia de la Ley N° 20.650 de 2012 que modifica la Ley N° 17.235 sobre Impuesto Territorial."
 fecha: "2013-11-27"
 exenta: false

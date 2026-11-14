@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 65 - SDAC - 2019 77319739018"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso36.pdf"
 materia: "INCORPÓRASE A FACTOTAL S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2019-03-19"
 exenta: false

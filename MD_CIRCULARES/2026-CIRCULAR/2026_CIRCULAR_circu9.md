@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 9 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu9.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2026 y el 9 de abril de 2026, ambos inclusive."
 fecha: "2026-03-10"
 exenta: false

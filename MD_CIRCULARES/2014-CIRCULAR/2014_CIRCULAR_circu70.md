@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 70 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 70 |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu70.pdf"
 materia: "Instruye sobre el régimen opcional y transitorio, vigente durante el año comercial 2015, de pago sobre las rentas acumuladas en el FUT al 31 de diciembre de 2014, y sobre los retiros en exceso que se mantengan a esa fecha."
 fecha: "2014-12-31"
 exenta: false

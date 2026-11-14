@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso15.pdf"
 materia: "TÉNGASE POR DESAFILIADOS DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA A LOS CONTRIBUYENTES QUE SE INDICAN."
 fecha: "2014-02-07"
 exenta: true

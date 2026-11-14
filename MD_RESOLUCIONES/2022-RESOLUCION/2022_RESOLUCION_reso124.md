@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2022)"
 description: "FIJA REGISTRO DEL PRECIO CORRIENTE EN PLAZA DE HELICOPTEROS, AVIONES Y YATES, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9° DE LA LEY N°21.420."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso124.pdf"
 materia: "FIJA REGISTRO DEL PRECIO CORRIENTE EN PLAZA DE HELICOPTEROS, AVIONES Y YATES, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9° DE LA LEY N°21.420."
 fecha: "2022-12-26"
 exenta: true

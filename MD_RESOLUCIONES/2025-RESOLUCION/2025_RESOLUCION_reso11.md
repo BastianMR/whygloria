@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2025)"
 description: "resolución se entenderá por:"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso11.pdf"
 materia: "DISPONE CAMBIO DE SUJETO DE DERECHO DEL IVA EN LAS VENTAS DE BERRIES. DEJA SIN EFECTO LAS RESOLUCIONES EX. SII N° 55 DE 2005 Y N° 58 DE 2006."
 fecha: "2025-01-17"
 exenta: true

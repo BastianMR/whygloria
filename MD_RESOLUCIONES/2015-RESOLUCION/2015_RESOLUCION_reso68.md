@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso68.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°125 DE 30 DE DICIEMBRE DE 2014, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2015-08-07"
 exenta: true

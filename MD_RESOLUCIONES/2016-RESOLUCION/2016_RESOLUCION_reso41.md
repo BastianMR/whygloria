@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso41.pdf"
 materia: "ESTABLECE NUEVO PROCEDIMIENTO PARA SOLICITAR LA DEVOLUCIÓN POR CAMBIO DE SUJETO DE DERECHO DEL IVA."
 fecha: "2016-05-06"
 exenta: true

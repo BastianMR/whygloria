@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS DEPARTAMENTO DE RIESGOS DE INCUMPLIMIENTO"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso83.pdf"
 materia: "ESTABLECE RÉGIMEN VOLUNTARIO DE CAMBIO TOTAL DEL SUJETO DE DERECHO DEL IVA EN SERVICIOS AGRÍCOLAS PRESTADOS A TERCEROS."
 fecha: "2026-06-23"
 exenta: true

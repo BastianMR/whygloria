@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2015)"
 description: "MATERIA: MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso76.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. N° 08, DE 28 DE ENERO DE 2003."
 fecha: "2015-09-16"
 exenta: true

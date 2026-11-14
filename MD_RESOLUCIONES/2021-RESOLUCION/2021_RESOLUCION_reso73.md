@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso73.pdf"
 materia: "ESTABLECE PROCEDIMIENTO DE POSTERGACIÓN DEL PAGO DEL IVA, EN VIRTUD DE LOS DECRETOS SUPREMOS DICTADOS A RAÍZ DE LA CATÁSTROFE GENERADA POR LA PANDEMIA GENERADA POR EL COVID-19."
 fecha: "2021-07-01"
 exenta: true

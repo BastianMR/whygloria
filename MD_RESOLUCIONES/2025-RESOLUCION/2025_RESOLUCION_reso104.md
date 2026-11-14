@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso104.pdf"
 materia: "REMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS CONTENIDAS EN LAS RESOLUCIONES QUE SE INDICAN. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 96 DE 2016"
 fecha: "2025-08-26"
 exenta: true

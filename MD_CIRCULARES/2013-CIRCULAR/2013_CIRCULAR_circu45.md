@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2013)"
 description: "Modificada por Circular N° 54, del 25 de noviembre de 2013"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu45.pdf"
 materia: "Instruye sobre la tributación establecida en el artículo 21 de la Ley sobre Impuesto a la Renta, con motivo de la sustitución de dicho artículo por la Ley N° 20.630 de 2012. 6(12)00"
 fecha: "2013-09-23"
 exenta: false

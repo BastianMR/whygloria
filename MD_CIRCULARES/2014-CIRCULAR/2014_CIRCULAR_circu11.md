@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 11 (2014)"
 description: "GABINETE DEL DIRECTOR OFICINA DE GESTION NORMATIVA | CIRCULAR N° 11.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu11.pdf"
 materia: "Nuevas escalas y tasas para la determinación de los impuestos que afectan a los contribuyentes mineros a que se refieren los artículos 23 y 34 N° 1 de la Ley de la Renta."
 fecha: "2014-02-25"
 exenta: false

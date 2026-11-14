@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°42.- 250892.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu42.pdf"
 materia: "MATERIA Imparte instrucciones en materias tributarias sobre el nuevo régimen de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional, la cesión voluntaria de terrenos en urbanizaciones y la transferencia gratuita del dominio de inmuebles de propiedad de ciertos Servicios de Viv"
 fecha: "2023-10-04"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00315404"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso48.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos."
 fecha: "2025-04-17"
 exenta: true

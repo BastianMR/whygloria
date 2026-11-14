@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 294- SDAC - 2019 GE00126283"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso98.pdf"
 materia: "AUTORIZA COMO RECEPTORES ELECTRÓNICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: "2019-08-22"
 exenta: true

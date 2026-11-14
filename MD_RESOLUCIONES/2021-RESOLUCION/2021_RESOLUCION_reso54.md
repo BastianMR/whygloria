@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2021)"
 description: "CSM/PSM/CGG/FWV DISTRIBUCIÓN:"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso54.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE CUENTAS FINANCIERAS RELACIONADAS CON PERSONAS CON RESIDENCIA TRIBUTARIA EN EL EXTRANJERO."
 fecha: "2021-06-01"
 exenta: true

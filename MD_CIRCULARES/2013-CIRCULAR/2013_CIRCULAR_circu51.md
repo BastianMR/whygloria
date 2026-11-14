@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 51 (2013)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 51.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu51.pdf"
 materia: "MODIFICA CIRCULAR N° 50, DE 2013, SOBRE TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS NOVIEMBRE 2013"
 fecha: "2013-11-08"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE198200"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso53.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 74 DE FECHA 02 DE JULIO DE 2020, ELIMINANDO OBLIGACIÓN DE ENVIAR EL RESUMEN DE VENTAS DIARIAS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2022-06-09"
 exenta: true

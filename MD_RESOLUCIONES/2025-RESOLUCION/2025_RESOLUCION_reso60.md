@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00321675-GE00322812-GE00322609 GE00323233 GE00323215"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso60.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A ORGANISMOS PÚBLICOS QUE SE INDICAN."
 fecha: "2025-05-07"
 exenta: true

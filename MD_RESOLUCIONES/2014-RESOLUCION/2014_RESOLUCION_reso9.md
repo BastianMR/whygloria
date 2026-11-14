@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 9 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso9.pdf"
 materia: "SUSTITUYE ESTRUCTURA Y CONTENIDO DEL FORMULARIO N° 50 SOBRE DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS."
 fecha: "2014-01-22"
 exenta: true

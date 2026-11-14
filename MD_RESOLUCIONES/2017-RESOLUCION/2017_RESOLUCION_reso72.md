@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 349 - SDAC - 2017"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso72.pdf"
 materia: "AUTORIZA A EMPRESA TICKETMUNDO CHILE SPA PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2017-08-11"
 exenta: true

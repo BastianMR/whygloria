@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 107 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso107.pdf"
 materia: "' CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE INSTITUTO DE DESARROLLO AGROPECUARIO"
 fecha: "2021-09-06"
 exenta: true

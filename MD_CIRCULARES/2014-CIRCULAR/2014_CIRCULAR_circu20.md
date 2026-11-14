@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 20 (2014)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 20 |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu20.pdf"
 materia: "REBAJA DEL IMPUESTO TERRITORIAL CORRESPONDIENTE A PROPIEDADES DE ADULTOS MAYORES VULNERABLES ECONÓMICAMENTE."
 fecha: "2014-04-04"
 exenta: false

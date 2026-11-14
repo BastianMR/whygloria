@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°34.- 178836.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu34.pdf"
 materia: "MATERIA Modificaciones introducidas por la Ley N° 21.210, publicada en el Diario Oficial de 24 de febrero de 2020, a la Ley única de fondos, contenida en el artículo primero de la Ley N° 20.712, sobre administración de fondos de terceros y carteras individuales."
 fecha: "2021-06-04"
 exenta: false

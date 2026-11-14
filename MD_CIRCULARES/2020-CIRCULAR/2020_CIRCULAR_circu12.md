@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 12 (2020)"
 description: "SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION | SUBBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACION | CIRCULAR Nº 12 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu12.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTASMARZO 2020 DEJA SIN EFECTO CIRCULAR N° 9,"
 fecha: "2020-02-12"
 exenta: false

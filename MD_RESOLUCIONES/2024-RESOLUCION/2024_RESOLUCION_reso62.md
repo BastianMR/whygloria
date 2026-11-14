@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2024)"
 description: "RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCION EXENTA SII N° 8, DE 2024."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso62.pdf"
 materia: "RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCION EXENTA SII N° 8, DE 2024."
 fecha: "2024-06-03"
 exenta: true

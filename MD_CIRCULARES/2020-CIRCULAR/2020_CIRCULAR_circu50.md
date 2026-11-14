@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 50 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu50.pdf"
 materia: "Imparte instrucciones sobre Registro de Compras y Ventas contenido en la Ley sobre Impuesto a las Ventas y Servicios."
 fecha: "2020-07-31"
 exenta: false

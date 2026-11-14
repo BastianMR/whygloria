@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2026)"
 description: "SUBDIRECCIÓN DE AVALUACIONES GE 389112"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso106.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE AVALUACIONES, ESTABLECE FUNCIONES, ÁMBITOS DE COMPETENCIA Y DEJA SIN EFECTO RES. EX. SII N° 26 DE 2022."
 fecha: "2026-08-21"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 2 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 02.2022 GE00201312 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu2.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de febrero de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-01-11"
 exenta: false

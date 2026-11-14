@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 10.- 17.2014 SN 136.2014 ID |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu10.pdf"
 materia: "Instruye sobre las modificaciones a la Ley sobre Impuesto a la Renta que se indican, efectuadas por la Ley N° 20.780 y que rigen a contar del 1° de enero de 2015. 6(12)00"
 fecha: "2015-01-30"
 exenta: false

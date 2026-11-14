@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 6 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos GE00364839   | CIRCULAR Nº06.-                                   ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu6.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de Marzo 2026."
 fecha: "2026-02-11"
 exenta: false

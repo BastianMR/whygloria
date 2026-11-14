@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso68.pdf"
 materia: "MODIFICA RES. EX. SII N° 61, DE 12.07.2017, AMPLIANDO UNIVERSO DE CONTRIBUYENTES EXIMIDOS DE LLEVAR LIBRO DE COMPRAS Y VENTAS."
 fecha: "2017-07-31"
 exenta: true

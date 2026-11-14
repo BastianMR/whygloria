@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 28 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 28.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu28.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA PARA EL MES DE AGOSTO DE 2019, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHO TRIBUTO."
 fecha: "2019-07-10"
 exenta: false

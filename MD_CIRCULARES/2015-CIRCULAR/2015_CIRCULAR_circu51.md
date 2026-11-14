@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 51 (2015)"
 description: "Complementada por Circular N° 25, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu51.pdf"
 materia: "Imparte instrucciones sobre la obligación de los órganos que indica de remitir información financiera y de otro tipo al Servicio de Impuestos Internos conforme al nuevo artículo 84 bis del Código Tributario incorporado por la Ley N° 20.780."
 fecha: "2015-06-22"
 exenta: false

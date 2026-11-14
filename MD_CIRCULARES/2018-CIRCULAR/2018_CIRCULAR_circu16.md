@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N°16.- 02-2018 SN Circ 39-2018 ID |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu16.pdf"
 materia: "Informa derogación del artículo 41 D de la Ley sobre Impuesto a la Renta"
 fecha: "2018-03-16"
 exenta: false

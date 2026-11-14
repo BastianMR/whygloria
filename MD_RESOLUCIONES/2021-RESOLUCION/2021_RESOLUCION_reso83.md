@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso83.pdf"
 materia: "RENUEVA PLAZO PARA COMPLEMENTAR LA INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES, DE ACUERDO A LAS RESOLUCIONES EX. SII N°s 62, 65, 75 y 79 de 2021."
 fecha: "2021-07-21"
 exenta: true

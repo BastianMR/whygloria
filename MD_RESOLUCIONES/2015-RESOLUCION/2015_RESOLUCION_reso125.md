@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2015)"
 description: "MATERIA: Aprueba Convenio de Colaboración entre el Comité de Seguros del Agro y el Servicio de Impuestos Internos."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso125.pdf"
 materia: "Aprueba Convenio de Colaboración entre el Comité de Seguros del Agro y el Servicio de Impuestos Internos."
 fecha: "2015-12-31"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2018)"
 description: "MATERIA : Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos ..."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso36.pdf"
 materia: "Establece forma de dar cumplimiento a la obligación establecida en el artículo 8° de la Ley N°20.780, sobre impuesto a las emisiones de compuestos contaminantes producidas por fuentes fijas y la forma de emitir el giro correspondiente."
 fecha: "2018-04-09"
 exenta: true

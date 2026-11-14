@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso70.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE RANCAGUA SR. MAURICIO ALFREDO ASTUDILLO PIZARRO, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2017-08-10"
 exenta: true

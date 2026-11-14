@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2020)"
 description: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso2.pdf"
 materia: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 fecha: "2020-01-10"
 exenta: true

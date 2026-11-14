@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2019)"
 description: "fecha 14 de enero de 2019, en el siguiente sentido:"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso92.pdf"
 materia: "CÓDIGO AÑO | TIPO | MARCAMODELOCILINDR. | | | COMB. | TRANS. TASACIÓN 2019 DICE | TASACIÓN 2019 DEBE DECIR | PERMISO 2019 DICE | PERMISO 2019 DEBE DECIR"
 fecha: "2019-01-14"
 exenta: true

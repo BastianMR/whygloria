@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 153 (2026)"
 description: "Subdirección Desarrollo de Personas Depto. Formación GE00395959"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso153.pdf"
 materia: "APRUEBA MEMORANDO DE ENTENDIMIENTO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS, LA FACULTAD DE ECONOMÍA Y NEGOCIOS DE LA UNIVERSIDAD DE CHILE Y EL INSTITUTO DE ESTUDIOS FISCALES DEL MINISTERIO DE HACIENDA DEL REINO DE ESPAÑA."
 fecha: "2026-11-04"
 exenta: true

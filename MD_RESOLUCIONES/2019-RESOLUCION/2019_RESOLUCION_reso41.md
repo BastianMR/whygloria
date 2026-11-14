@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL SERVICIO DE IMPUESTOS INTERNOS TESORERÍA GENERAL DE LA REPÚBLICA"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso41.pdf"
 materia: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL SERVICIO DE IMPUESTOS INTERNOS TESORERÍA GENERAL DE LA REPÚBLICA"
 fecha: "2019-04-01"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso49.pdf"
 materia: "Incorpora a las instituciones que realicen operaciones de crédito de dinero de manera masiva, de conformidad a lo dispuesto en el artículo 31 de la Ley Nº 18.010, a las obligaciones que establece la Resolución Ex. SII N°2, de 04 de enero de 2005, sobre Auxiliar de Registro de Impuesto de Timbres y E"
 fecha: "2014-05-26"
 exenta: true

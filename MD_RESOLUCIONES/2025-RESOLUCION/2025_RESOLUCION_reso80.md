@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00323232"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso80.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA PRESENTAR LA SOLICITUD DE NO SER NOTIFICADO POR CORREO ELECTRÓNICO EN LAS SITUACIONES QUE PREVÉ EL INCISO PRIMERO DEL ARTÍCULO 11 DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-06-26"
 exenta: true

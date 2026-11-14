@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso3.pdf"
 materia: "Aprueba Addendum al Convenio de Colaboración entre el Servicio de Impuestos Internos y el Ministerio de Desarrollo Social y Familia."
 fecha: "2022-01-11"
 exenta: true

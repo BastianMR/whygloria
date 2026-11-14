@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2025)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII N° 146, DE 2020, SOBRE DELEGACIÓN DE FACULTADES Y ASIGNACIÓN DE FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso97.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 146, DE 2020, SOBRE DELEGACIÓN DE FACULTADES Y ASIGNACIÓN DE FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA."
 fecha: "2025-08-07"
 exenta: true

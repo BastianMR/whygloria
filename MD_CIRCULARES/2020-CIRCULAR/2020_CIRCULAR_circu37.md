@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2020)"
 description: "DEPARTAMENTO EMISOR: Impuestos Indirectos | CIRCULAR N° 37 19.2020 CIRC.SN 18.2020 CIRC. II |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu37.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por el artículo tercero de la Ley N° 21.210, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, en materia deinmuebles."
 fecha: "2020-05-20"
 exenta: false

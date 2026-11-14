@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°56 28.2020 ID 13.2020 SN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu56.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 21.210 a la Ley sobre Impuesto a la Renta y demás normas legales, en materia de Impuesto Adicional."
 fecha: "2020-09-04"
 exenta: false

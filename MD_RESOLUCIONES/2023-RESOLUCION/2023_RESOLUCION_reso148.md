@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 148 (2023)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN GE267349"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso148.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N°106, DE 02 DE SEPTIEMBRE DE 2021, QUE REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ÁMBITO DE COMPETENCIA DE SUS UNIDADES."
 fecha: "2023-12-28"
 exenta: true

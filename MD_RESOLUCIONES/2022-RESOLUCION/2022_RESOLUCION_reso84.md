@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2022)"
 description: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso84.pdf"
 materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCION N°8 EXENTA, DE 2022."
 fecha: "2022-01-31"
 exenta: true

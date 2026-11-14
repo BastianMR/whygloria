@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 14 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N°14.- 237845.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu14.pdf"
 materia: "Imparte instrucciones sobre derogación del artículo 37 bis de la Ley sobre Impuesto a la Renta y sus efectos a partir del 1° enero de 2023. Deja sin efecto la Circular N° 5 de 2023."
 fecha: "2023-03-27"
 exenta: false

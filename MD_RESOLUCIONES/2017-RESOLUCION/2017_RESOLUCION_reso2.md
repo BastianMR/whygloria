@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2017)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación Familias Empresarias de Chile."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso2.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación Familias Empresarias de Chile."
 fecha: "2017-01-11"
 exenta: true

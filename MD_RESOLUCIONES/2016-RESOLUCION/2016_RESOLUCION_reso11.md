@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2016)"
 description: "Modifica Resoluciones N° 379, de 1991 y Exenta SII N° 75, de 2013."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso11.pdf"
 materia: ""
 fecha: "2016-03-07"
 exenta: true

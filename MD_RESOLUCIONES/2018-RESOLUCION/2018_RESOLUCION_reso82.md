@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2018)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso82.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Dirección General de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos."
 fecha: "2018-09-13"
 exenta: true

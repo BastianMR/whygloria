@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 213 - SDAC - 2018 77318589137"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso80.pdf"
 materia: "AMPLÍA AUTORIZACIÓN A SODEXO SOLUCIONES DE MOTIVACIÓN CHILE S.A.RUT N° 96.556.930-8. COMPLEMENTA RESOLUCIÓN EXENTA SII N°166 DE 04.11.2010, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2018-09-12"
 exenta: true

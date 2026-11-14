@@ -28,12 +28,15 @@ WhyGloria/
 │   ├── index.md
 │   ├── 2013-RESOLUCION/
 │   └── ...
+├── MD_OFICIOS/              markdown concepts, 2019 onward
+│   └── 2019-OFICIO/
 ├── PDF_CIRCULARES/          source PDFs, as SII publishes them
 │   ├── index.md
 │   ├── 2013-CIRCULAR/
 │   └── ...
 ├── PDF_RESOLUCIONES/
 │   └── 2013-RESOLUCION/
+├── PDF_OFICIOS/             source PDFs, 2019 onward
 └── SIN_PROCESAR/            local download inbox (not tracked)
 ```
 
@@ -81,9 +84,22 @@ why it is markdown and what is still pending live in
 
 ## License
 
-Released under the [MIT License](./LICENSE). The SII documents themselves are
-public information published by the Chilean tax authority; this repository only
-repackages them for accessibility.
+The [MIT License](./LICENSE) covers the code, the derived artifacts
+(`navigation/`, `series/`, `relaciones.json`) and the documentation — in other
+words, the work this project adds.
+
+It does **not** cover the documents. Circulares, resoluciones, oficios and any
+other SII publication in `MD_*`, `PDF_*` and `SRC_OFICIOS/` are works of the
+[Servicio de Impuestos Internos](https://www.sii.cl), reproduced with the source
+cited, for personal, non-commercial reference. All rights remain with the SII,
+whose terms are at
+[terminos_generales.htm](https://www.sii.cl/pagina/copyright/terminos_generales.htm).
+[NOTICE.md](./NOTICE.md) spells out the exact split.
+
+**Takedown.** This is a personal project of compilation and organisation, not an
+official source and not a commercial service. If the SII or any rights holder
+asks for a document to be removed, it is removed on request: open an issue and
+the affected files come out of the tree, with the rest of the corpus left intact.
 
 ## OKF navigation
 

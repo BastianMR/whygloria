@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2013)"
 description: "DEPARTAMENTO EMISOR Subdirección de Fiscalización Departamento de Atención y Asistencia de Contribuyentes | CIRCULAR N° 56.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu56.pdf"
 materia: "MATERIA Imparte instrucciones sobre cesión de créditos contenidos en una factura electrónica y establece procedimiento de anotaciones, correcciones o revocaciones de anotaciones en el Registro Público Electrónico de Transferencias de Créditos. Deroga Circular N° 23 de 2005 y Circular N° 27 de 2009."
 fecha: "2013-11-27"
 exenta: false

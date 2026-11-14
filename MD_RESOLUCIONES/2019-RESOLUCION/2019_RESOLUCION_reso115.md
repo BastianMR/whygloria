@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2019)"
 description: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso115.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N ° 111, DE 22 DE SEPTIEMBRE DE 2008, POR LAS RAZONES QUE INDICA."
 fecha: "2019-10-15"
 exenta: true

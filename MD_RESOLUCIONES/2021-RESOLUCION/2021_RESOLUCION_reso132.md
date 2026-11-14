@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2021)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE 176319"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso132.pdf"
 materia: "DELEGA FACULTADES QUE INDICA EN MATERIAS DE PERSONAS. REFUNDE Y DEJA SIN EFECTO RESOLUCIONES QUE INDICA."
 fecha: "2021-11-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE269585"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso24.pdf"
 materia: "Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Calera de Tango."
 fecha: "2024-02-07"
 exenta: true

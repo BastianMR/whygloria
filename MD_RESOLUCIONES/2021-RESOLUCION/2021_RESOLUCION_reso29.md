@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2021)"
 description: "MATERIA: Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso29.pdf"
 materia: "Autoriza para llevar el Libro de Remuneraciones en forma electrónica en los términos que indica."
 fecha: "2021-03-09"
 exenta: true

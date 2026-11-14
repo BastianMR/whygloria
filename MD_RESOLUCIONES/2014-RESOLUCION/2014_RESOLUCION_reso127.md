@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2014)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso127.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA COMUNICAR TASACIONES A VALOR DE MERCADO DE BIENES RAÍCES AL AMPARO DE LA LEY N° 20.780, DE 2014."
 fecha: "2014-12-30"
 exenta: true

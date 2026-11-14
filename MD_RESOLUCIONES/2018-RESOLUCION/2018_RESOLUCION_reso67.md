@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 394 - SDAC - 2016 77318575894"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso67.pdf"
 materia: "AUTORIZA AL NOTARIO SR. JUAN CARLOS SAN MARTIN MOLINA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-08-28"
 exenta: true

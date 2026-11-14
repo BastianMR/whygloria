@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 115 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN. DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso115.pdf"
 materia: "MODIFICA LA RESOLUCIÓN Ex. N° 187 de 2010 EN CUANTO REEMPLAZA FORMATO FORMULARIO N° 1805 E INSTRUCCIONES DE LLENADO."
 fecha: "2016-12-26"
 exenta: true

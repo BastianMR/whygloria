@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso55.pdf"
 materia: "AUTORIZA A DIRECTORES REGIONALES DELEGAR FACULTADES QUE INDICA."
 fecha: "2013-06-06"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2020)"
 description: "MATERIA: Resuelve solicitud de Importadora de Tabacos Austral Ltda., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de ..."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso34.pdf"
 materia: "Resuelve solicitud de Importadora de Tabacos Austral Ltda., en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del D.L. N° 828, de 1974."
 fecha: "2020-03-25"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2018)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES | CIRCULAR Nº 23 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu23.pdf"
 materia: "Actualiza instrucciones respecto del recurso de reposición de la resolución que fija el avalúo de un bien raíz, que formulen los contribuyentes y municipalidades con motivo de un proceso de retasación general o modificación individual. Deroga Circular N°21, de 04.04.2014"
 fecha: "2018-04-23"
 exenta: false

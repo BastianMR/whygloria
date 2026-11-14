@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso15.pdf"
 materia: "AUTORIZA LA OPCIÓN DE EMITIR, UTILIZANDO EL FORMATO DE FACTURA ELECTRÓNICA, EN MODALIDAD FACTURA TURISTA. MODIFICA RESOLUCIÓN EXENTA N° 46, DEL 10.05.2013 EN LOS TÉRMINOS QUE INDICA."
 fecha: "2018-02-14"
 exenta: true

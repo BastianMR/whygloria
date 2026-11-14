@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 68 (2014)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE CATASTRO Y TASACIONES | DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES DEPARTAMENTO DE C..."
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu68.pdf"
 materia: "Complementa la Circular N° 33, de 2013, respecto al procedimiento para determinar el avalúo fiscal de bienes raíces acogidos al régimen de Copropiedad Inmobiliaria, en conformidad a las modificaciones introducidas por la Ley N° 20.741 a la Ley N° 19.537, sobre Copropiedad Inmobiliaria, y actualiza e"
 fecha: "2014-12-26"
 exenta: false

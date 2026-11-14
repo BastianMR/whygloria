@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 4 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°4.- 173155.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu4.pdf"
 materia: "Informa datos relacionados con la aplicación del sistema de corrección monetaria; reajustabilidad de los saldos de los registros de rentas empresariales, del registro FUR y de los excesos de retiros no imputados y tablas de Impuesto Global Complementario correspondiente al año tributario 2021. Reemp"
 fecha: "2021-01-12"
 exenta: false

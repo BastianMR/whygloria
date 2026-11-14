@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso125.pdf"
 materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LA COMUNA DE CHAITEN DE LA REGION DE LOS LAGOS."
 fecha: "2017-12-21"
 exenta: true

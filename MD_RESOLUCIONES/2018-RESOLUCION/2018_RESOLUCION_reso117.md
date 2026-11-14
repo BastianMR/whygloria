@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso117.pdf"
 materia: "AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO QUE INDICA, COMO DISTRIBUIDORAS Y/O RECEPTORAS DE PRODUCTOS DE HIGIENE PERSONAL, CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE."
 fecha: "2018-11-27"
 exenta: true

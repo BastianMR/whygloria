@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2023)"
 description: "AJUSTA NÓMINA 'CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO' QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2023."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso48.pdf"
 materia: "AJUSTA NÓMINA 'CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO' QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2023."
 fecha: "2023-04-17"
 exenta: true

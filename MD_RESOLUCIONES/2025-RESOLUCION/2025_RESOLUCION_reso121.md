@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2025)"
 description: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso121.pdf"
 materia: "ACTUALIZA LA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°127 AÑO 2024, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420."
 fecha: "2025-09-16"
 exenta: true

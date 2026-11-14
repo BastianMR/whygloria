@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 35 (2017)"
 description: "SUBDIRECCIÓN EMISORA ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES | CIRCULAR N° 35.- |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu35.pdf"
 materia: "MATERIA COMPLEMENTACIRCULAR N° 4, DE 11.01.2017 QUE ESTABLECE REQUSITOS PARA EFECTOS DE HACER USO DEL CRÉDITO FISCAL CONTENIDO EN LA FACTURA ELECTRÓNICA."
 fecha: "2017-06-23"
 exenta: false

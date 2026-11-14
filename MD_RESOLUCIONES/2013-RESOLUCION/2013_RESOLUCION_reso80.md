@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2013)"
 description: "MATERIA: INSTRUYE SOBRE PRESENTACIÓN DE FORMULARIO 2667 DE SOLICITUD DE CONDONACIÓN DE INTERESES Y MULTAS."
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso80.pdf"
 materia: "INSTRUYE SOBRE PRESENTACIÓN DE FORMULARIO 2667 DE SOLICITUD DE CONDONACIÓN DE INTERESES Y MULTAS."
 fecha: "2013-09-05"
 exenta: true

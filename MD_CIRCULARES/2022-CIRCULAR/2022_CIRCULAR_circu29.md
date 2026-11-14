@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 29 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento Diseño de Procedimientos | CIRCULAR N° 29.- GE00213256 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu29.pdf"
 materia: "Instruye sobre sanciones del N° 6 del artículo 41 E de la Ley sobre Impuesto a la Renta (LIR), por la no presentación de las declaraciones juradas a que se refiere dicha norma, o su presentación errónea, incompleta, extemporánea, o maliciosamente falsa. Deja sin efecto la Circular N° 32 de 2021"
 fecha: "2022-06-24"
 exenta: false

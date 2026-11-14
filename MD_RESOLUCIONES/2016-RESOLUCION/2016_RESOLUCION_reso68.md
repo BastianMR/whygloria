@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2016)"
 description: "Subdirección de Fiscalización Oficina de Análisis de Elusión"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso68.pdf"
 materia: "CREA COMITÉ ANTI ELUSIÓN Y FIJA SUS ATRIBUCIONES Y FUNCIONES."
 fecha: "2016-07-11"
 exenta: true

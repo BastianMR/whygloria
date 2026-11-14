@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso72.pdf"
 materia: "MODIFICA RESOLUCIÓN EX.SII N° 80, DE 05 DE SEPTIEMBRE DE 2013, SOBRE PRESENTACIÓN DE FORMULARIO 2667 DE SOLICITUD DE CONDONACIÓN DE INTERESES Y MULTAS."
 fecha: "2016-07-20"
 exenta: true

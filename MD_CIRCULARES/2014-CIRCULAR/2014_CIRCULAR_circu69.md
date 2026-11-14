@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 69 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 69.- 128.2014 ID 16.2014 SN |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu69.pdf"
 materia: "Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario de las micro, pequeñas y medianas empresas contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2015. 6(12)00"
 fecha: "2014-12-30"
 exenta: false

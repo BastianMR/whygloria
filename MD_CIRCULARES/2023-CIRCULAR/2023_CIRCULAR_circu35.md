@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 35 (2023)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº35.- |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu35.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS SEPTIEMBRE 2023."
 fecha: "2023-08-16"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00224696"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso3.pdf"
 materia: "AUTORIZA A EMITIR MENSUALMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2023-01-12"
 exenta: true

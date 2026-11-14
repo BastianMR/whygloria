@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 40 - SDAC - 2019 77319728252"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso15.pdf"
 materia: "AUTORIZA A EMPRESA MARKETING Y NEGOCIOS S.A, PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2019-02-06"
 exenta: true

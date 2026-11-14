@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso62.pdf"
 materia: "CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 fecha: ""
 exenta: true

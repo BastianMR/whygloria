@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso58.pdf"
 materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TIMBRADOS QUE INDICA."
 fecha: "2016-06-23"
 exenta: true

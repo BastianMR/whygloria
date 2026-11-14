@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 12 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00093494"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso12.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE PUENTE ALTO, SR. SERGIO RODRIGO YABER LOZANO, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2019-01-30"
 exenta: true

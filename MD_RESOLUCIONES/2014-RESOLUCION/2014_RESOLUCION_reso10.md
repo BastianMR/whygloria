@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso10.pdf"
 materia: "AUTORIZA TIMBRAJE DE DOCUMENTOS A CONTRIBUYENTES DE LA UNIDAD NORTE EN LA FORMA QUE INDICA."
 fecha: "2014-01-23"
 exenta: true

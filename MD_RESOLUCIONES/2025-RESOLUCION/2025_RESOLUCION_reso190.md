@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 190 (2025)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN GE00267706"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso190.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA N° 66 DE 2016 EN LOS TÉRMINOS QUE INDICA."
 fecha: "2025-12-19"
 exenta: true

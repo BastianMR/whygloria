@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2018)"
 description: "DELEGA FACULTA QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso23.pdf"
 materia: "DELEGA FACULTA QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2018-03-05"
 exenta: true

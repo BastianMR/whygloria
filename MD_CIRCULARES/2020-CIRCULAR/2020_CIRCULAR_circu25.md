@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 25 (2020)"
 description: "DEPARTAMENTO EMISOR Depto. de Impuestos Indirectos 023.2020 CIRC.SN 020-2020 CIRC.II | CIRCULAR N° 25 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu25.pdf"
 materia: "Postergación del pago del Impuesto al Valor Agregado, e imparte instrucciones relativas a modificación efectuada por el artículo tercero, N° 29, de la Ley N° 21.210, al artículo 64 del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios. Deroga instrucciones contenidas en Circul"
 fecha: "2020-04-08"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2019)"
 description: "MATERIA: Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos..."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso16.pdf"
 materia: "Establece plazo para que los productores, fabricantes o importadores de tabaco elaborado, puedan finalizar la comercialización de aquellos productos que no tienen incorporada la marcación establecida por el Sistema de Trazabilidad Fiscal."
 fecha: "2019-02-16"
 exenta: true

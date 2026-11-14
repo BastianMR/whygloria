@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 33 (2013)"
 description: "Complementada por Circular N° 68, del 26 de diciembre de 2014"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu33.pdf"
 materia: "ACTUALIZA LOS PROCEDIMIENTOS PARA DETERMINAR EL AVALÚO FISCAL DE BIENES RAÍCES ACOGIDOS AL RÉGIMEN DE COPROPIEDAD INMOBILIARIA ESTABLECIDO EN LA LEY Nº 19.537."
 fecha: "2013-06-20"
 exenta: false

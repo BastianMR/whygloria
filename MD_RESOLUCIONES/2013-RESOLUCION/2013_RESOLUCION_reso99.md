@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso99.pdf"
 materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TIMBRADOS QUE INDICA."
 fecha: "2013-11-29"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 151 (2025)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS GE00319321"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso151.pdf"
 materia: "MODIFICA DENOMINACIÓN DE LOS DEPARTAMENTOS DE ADMINISTRACIÓN DE LAS DIRECCIONES REGIONALES Y DIRECCIÓN DE GRANDES CONTRIBUYENTES Y REDEFINE SUS FUNCIONES Y ATRIBUCIONES."
 fecha: "2025-10-23"
 exenta: true

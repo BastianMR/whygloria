@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 29 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°29.- 320774.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu29.pdf"
 materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2025 acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
 fecha: "2025-04-10"
 exenta: false

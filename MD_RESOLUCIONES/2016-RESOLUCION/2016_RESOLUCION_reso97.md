@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2016)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES 600-SDF-2016 77316078349 3336-3339-16"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso97.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°119 DE 29 DE DICIEMBRE DE 2015, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2016-09-30"
 exenta: true

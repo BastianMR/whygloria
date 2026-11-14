@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2021)"
 description: "DEPARTAMENTOEMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N° 19 178657.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu19.pdf"
 materia: "Instruye sobre la imputaciónde pérdidas a las rentas o cantidades que perciban a título de retiros o dividendos afectos a impuestos finales, durante los años comerciales2020al 2023."
 fecha: "2021-04-01"
 exenta: false

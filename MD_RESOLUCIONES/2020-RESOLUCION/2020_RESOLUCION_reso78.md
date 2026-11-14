@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso78.pdf"
 materia: "AUTORIZA A CORPORACIÓN ALIMENTOS BIOBIO SOLIDARIO, RUT Nº 65.115.308-5, PARA DISTRIBUIR ALIMENTOS A INSTITUCIONES SIN FINES DE LUCRO NO INSCRITAS EN EL REGISTRO ESPECIAL DE INSTITUCIONES AUTORIZADAS COMO RECEPTORAS DE LOS PRODUCTOS."
 fecha: "2020-07-09"
 exenta: true

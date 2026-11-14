@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2018)"
 description: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso42.pdf"
 materia: "DISPONE CAMBIO DE SUJETO TOTAL DE DERECHO PARA EL CUMPLIMIENTO DE IVA. DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 2, DE 12 DE ENERO DE 2018."
 fecha: "2018-04-30"
 exenta: true

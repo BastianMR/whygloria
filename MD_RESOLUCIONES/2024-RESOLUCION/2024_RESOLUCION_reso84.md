@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2024)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO Nº 1913"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso84.pdf"
 materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIÓN JURADA ANUAL DE CARACTERIZACIÓN TRIBUTARIA GLOBAL, FORMULARIO Nº 1913"
 fecha: "2024-08-30"
 exenta: true

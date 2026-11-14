@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 133 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso133.pdf"
 materia: "AMPLIA EL PLAZO ESTABLECIDO EN LA RESOLUCIÓN EXENTA SII N° 38 DE 2020, PARA PRESENTAR O RECTIFICAR LA DECLARACIÓN JURADA 1820 O 1829. RESPECTO DE OPERACIONES DE DERIVADOS CELEBRADOS, MODIFICADOS, CEDIDOS O LIQUIDADOS DURANTE EL AÑO 2020."
 fecha: "2020-10-05"
 exenta: true

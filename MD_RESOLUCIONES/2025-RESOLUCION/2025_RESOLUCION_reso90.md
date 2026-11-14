@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77325616236 412-DCV-2025"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso90.pdf"
 materia: "AUTORIZA A CONECTADOS SPA, RUT N° 76.832.409-3, PARA OPERAR UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2025-07-24"
 exenta: true

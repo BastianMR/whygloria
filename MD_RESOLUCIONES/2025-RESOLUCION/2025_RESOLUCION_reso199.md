@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 199 (2025)"
 description: "SUBDIRECCIÓN DE AVALUACIONES OFICINA DE PROYECTOS GE00354947"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso199.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SII-MAPAS\" a la Ilustre Municipalidad de"
 fecha: "2025-12-23"
 exenta: true

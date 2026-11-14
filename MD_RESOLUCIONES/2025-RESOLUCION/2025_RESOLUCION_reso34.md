@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2025)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso34.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2025-03-19"
 exenta: true

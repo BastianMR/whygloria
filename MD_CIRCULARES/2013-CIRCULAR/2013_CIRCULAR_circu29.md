@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 29 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS FISCALIZACIÓN INTERNACIONAL 1875 | CIRCULAR N° 29 145-2012 ID 07-2013 SN |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu29.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.630, a las normas sobre precios de transferencia contenidas en la Ley sobre Impuesto a la Renta. 6(12)00"
 fecha: "2013-06-14"
 exenta: false

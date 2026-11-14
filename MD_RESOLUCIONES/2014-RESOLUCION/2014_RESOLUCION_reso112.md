@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso112.pdf"
 materia: "Fija plazo para presentación de declaraciones juradas que se indican."
 fecha: "2014-12-04"
 exenta: true

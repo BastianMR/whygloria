@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 53 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento Impuestos Directos | CIRCULAR N°53.- 326589.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu53.pdf"
 materia: "Instruye sobre disminución transitoria de la tasa del impuesto de primera categoría y tasa de pagos provisionales mensuales de contribuyentes acogidos al N° 3 de la letra D) del artículo 14 de la Ley sobre Impuesto a la Renta."
 fecha: "2025-09-03"
 exenta: false

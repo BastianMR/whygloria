@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE00244780"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso132.pdf"
 materia: "INSTRUYE SOBRE LA FORMA DE DOCUMENTAR LOS SERVICIOS PRESTADOS POR TRABAJADORES INDEPENDIENTES DE PLATAFORMAS DIGITALES DOMICILIADAS O RESIDENTES EN CHILE."
 fecha: "2023-11-20"
 exenta: true

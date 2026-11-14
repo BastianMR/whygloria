@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00327866"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso69.pdf"
 materia: "INSTRUYE FORMA EN QUE LOS BANCOS COMERCIALES DEBEN CUMPLIR LA OBLIGACIÓN A QUE SE REFIERE EL INCISO SEGUNDO DEL ARTÍCULO 89 DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-06-19"
 exenta: true

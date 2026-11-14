@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso20.pdf"
 materia: "MODIFICA LA RESOLUCIÓN N° 379 DE 1991 EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA."
 fecha: "2014-02-10"
 exenta: true

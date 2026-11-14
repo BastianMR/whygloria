@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2021)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00181274"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso46.pdf"
 materia: "Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses"
 fecha: "2021-05-03"
 exenta: true

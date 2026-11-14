@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso13.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Superintendencia de Insolvencia y Reemprendimiento y el Servicio de Impuestos Internos."
 fecha: "2019-01-30"
 exenta: true

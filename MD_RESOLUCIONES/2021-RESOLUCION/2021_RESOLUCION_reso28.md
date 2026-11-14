@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 28 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso28.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Corporación Nacional de Desarrollo Indígena y el Servicio de Impuestos Internos."
 fecha: "2021-03-05"
 exenta: true

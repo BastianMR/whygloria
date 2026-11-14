@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2014)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 45.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu45.pdf"
 materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY 20.752 AL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY N° 20.322, ARTÍCULO 132 y 147 DEL CÓDIGO TRIBUTARIO, Y MODIFICA LA CIRCULAR N° 73, DE 2001."
 fecha: "2014-08-21"
 exenta: false

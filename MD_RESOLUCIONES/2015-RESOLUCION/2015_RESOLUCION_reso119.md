@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso119.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 fecha: "2015-12-29"
 exenta: true

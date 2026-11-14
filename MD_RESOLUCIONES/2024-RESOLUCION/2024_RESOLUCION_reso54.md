@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 54 (2024)"
 description: "SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS GE00280395"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso54.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N°28, DE 15 MARZO DE 2023, REEMPLAZANDO SUBROGANTES DE LA SECRETARÍA GENERAL."
 fecha: "2024-05-02"
 exenta: true

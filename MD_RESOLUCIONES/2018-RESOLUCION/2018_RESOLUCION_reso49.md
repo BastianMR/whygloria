@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 163 - SDAC - 2018"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso49.pdf"
 materia: "AUTORIZA A EMPRESA TICKETMUNDO SPA., PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2018-06-11"
 exenta: true

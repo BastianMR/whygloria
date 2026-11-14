@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77321777949 GE00183624"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso70.pdf"
 materia: "EXIME A FORUM SERVICIOS FINANCIEROS S.A. DE LA OBLIGACIÓN DE TIMBRAJE DE PAGARÉS ESTABLECIDA EN EL ARTICULO 17 INCISO 2° DEL D.L. N° 3.475 DE, 1980 Y FIJA REQUISITOS EN SU REEMPLAZO."
 fecha: "2021-07-01"
 exenta: true

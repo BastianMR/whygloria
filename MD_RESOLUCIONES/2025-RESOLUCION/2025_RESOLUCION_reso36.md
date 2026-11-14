@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 36 (2025)"
 description: "Subdirección Desarrollo de Personas Depto. Formación GE00306021"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso36.pdf"
 materia: "APRUEBA CONVENIO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y LA DIRECCIÓN NACIONAL DEL SERVICIO CIVIL."
 fecha: "2025-03-20"
 exenta: true

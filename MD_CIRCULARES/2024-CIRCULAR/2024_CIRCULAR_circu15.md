@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°15.- 279033.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu15.pdf"
 materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2024, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
 fecha: "2024-04-09"
 exenta: false

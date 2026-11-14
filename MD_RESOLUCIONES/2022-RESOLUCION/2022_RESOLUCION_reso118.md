@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198769"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso118.pdf"
 materia: "Aprueba Addendum al Convenio entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la ley 20.659 y su reglamento."
 fecha: "2022-12-07"
 exenta: true

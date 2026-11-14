@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso89.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre Subsecretaría de Transportes y el Servicio de Impuestos Internos."
 fecha: "2020-08-05"
 exenta: true

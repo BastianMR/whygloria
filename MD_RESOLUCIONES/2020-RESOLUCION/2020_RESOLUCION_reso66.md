@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2020)"
 description: "CSM/CGG/PAF/MSC/PSM DISTRIBUCIÓN:"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso66.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE CUENTAS FINANCIERAS RELACIONADAS CON PERSONAS CON RESIDENCIA TRIBUTARIA EN EL EXTRANJERO."
 fecha: "2020-06-25"
 exenta: true

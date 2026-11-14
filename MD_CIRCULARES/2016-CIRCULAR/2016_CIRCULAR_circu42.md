@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N° 42.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu42.pdf"
 materia: "VIGENCIA Y APLICACIÓN DE LAS NORMAS ANTI ELUSIÓN ESTABLECIDAS EN LOS ARTÍCULOS 4° BIS, 4° TER, 4° QUÁTER, 4° QUINQUIES, 100 BIS, 119 Y 160 BIS DEL CÓDIGO TRIBUTARIO.."
 fecha: "2016-07-11"
 exenta: false

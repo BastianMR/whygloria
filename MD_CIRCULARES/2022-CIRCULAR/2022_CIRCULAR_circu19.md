@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2022)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N°19.- 205702.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu19.pdf"
 materia: "Imparte instrucciones sobre las modificaciones al artículo 21 y 70 de la Ley sobre Impuesto a las Ventas y Servicios introducidas por el artículo 4 de la Ley N° 21.398, que establece medidas para incentivar la protección de los derechos de los consumidores."
 fecha: "2022-04-19"
 exenta: false

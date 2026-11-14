@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2023)"
 description: "Diario Oficial en extracto"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso56.pdf"
 materia: "DESIGNA SECRETARIOS TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA SEGUNDA SERIE, CON JURISDICCION EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE SANTIAGO."
 fecha: "2023-05-04"
 exenta: false

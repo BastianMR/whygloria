@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso52.pdf"
 materia: "ESTABLECE NUEVO REQUISITO PARA FACTURAS Y GUÍAS DE DESPACHO, ELECTRÓNICAS O NO ELECTRÓNICAS, EMITIDAS POR LA VENTA DE COMBUSTIBLES."
 fecha: "2015-06-10"
 exenta: true

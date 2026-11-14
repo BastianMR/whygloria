@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2024)"
 description: "SUBDIRECCIÓN DESARROLLO DE PERSONAS GE00280565 GE00296021"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso93.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ESPECÍFICO ENTRE SERVICIO DE IMPUESTOS INTERNOS Y LA FACULTAD DE ECONOMÍA Y NEGOCIOS DE LA UNIVERSIDAD DE CHILE."
 fecha: "2024-09-12"
 exenta: true

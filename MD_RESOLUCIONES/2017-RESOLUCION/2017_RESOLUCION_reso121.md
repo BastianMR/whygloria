@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso121.pdf"
 materia: "APRUEBA ACUERDO DE COLABORACIÓN SUSCRITO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y LA UNIVERSIDAD ADOLFO IBÁÑEZ."
 fecha: "2017-12-07"
 exenta: true

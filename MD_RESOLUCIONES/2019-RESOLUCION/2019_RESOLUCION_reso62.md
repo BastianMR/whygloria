@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2019)"
 description: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 241 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 62"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso62.pdf"
 materia: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 241 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX SII N° 62"
 fecha: "2019-05-10"
 exenta: false

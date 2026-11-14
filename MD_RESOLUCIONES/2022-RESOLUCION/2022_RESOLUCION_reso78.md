@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso78.pdf"
 materia: "INCORPORA NUEVOS CODIGOS AL FORMULARIO 50 SOBRE 'DECLARACIÓN Y PAGO SIMULTÁNEO MENSUAL DE IMPUESTOS' PARA DECLARAR Y PAGAR LA RETENCIÓN ASOCIADA AL IMPUESTO ÙNICO DEL ARTÍCULO 107 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2022-08-31"
 exenta: true

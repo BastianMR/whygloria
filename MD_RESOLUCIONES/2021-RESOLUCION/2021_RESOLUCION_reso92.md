@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2021)"
 description: "SUBDIRECCIONDEFISCALIZACION OFICINADEAPOYOLEGALYADMINISTRATIVO GE00176483"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso92.pdf"
 materia: "AUTORIZAAENEXS.A.,PARAOPERARDE ACUERDOALODISPUESTOENRESOLUCION EX.SIIN°172DE2010."
 fecha: "2021-07-30"
 exenta: true

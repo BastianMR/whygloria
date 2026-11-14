@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso64.pdf"
 materia: "REGISTRA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS A CONTRIBUYENTES QUE SEÑALA."
 fecha: "2014-07-01"
 exenta: true

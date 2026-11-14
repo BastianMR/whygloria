@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE179201"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso76.pdf"
 materia: "COMPLEMENTA INSTRUCCIONES INDICADAS EN RES. EX. SII N° 176 DE 2020."
 fecha: "2021-07-06"
 exenta: true

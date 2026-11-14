@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 41 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso41.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN MUTUA ENTRE SERVICIO DE IMPUESTOS INTERNOS Y UNIVERSIDAD TECNOLÓGICA DE CHILE INACAP Y OTROS."
 fecha: "2017-04-07"
 exenta: true

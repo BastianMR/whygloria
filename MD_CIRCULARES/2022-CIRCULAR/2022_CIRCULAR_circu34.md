@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2022)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR N°34.- |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu34.pdf"
 materia: "Imparte instrucciones acerca de nuevas sanciones aplicables a los delitos de comercio ilegal que sanciona el N° 8 del artículo 97 del Código Tributario y de ejercicio clandestino del comercio o la industria, que tipifica el N° 9 de la misma disposición."
 fecha: "2022-08-04"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 12 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°12.- 276243.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu12.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2024 y el 9 de abril de 2024, ambos inclusive."
 fecha: "2024-03-11"
 exenta: false

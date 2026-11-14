@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 63 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº63.- GE00351988 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu63.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de Diciembre 2025."
 fecha: "2025-11-12"
 exenta: false

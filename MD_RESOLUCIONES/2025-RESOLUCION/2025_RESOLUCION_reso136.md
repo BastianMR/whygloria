@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 136 (2025)"
 description: "SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN GE00343305"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso136.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA. DEJA SIN EFECTO RESOLUCIÓN EX. N° 136, DE 2023."
 fecha: "2025-10-08"
 exenta: true

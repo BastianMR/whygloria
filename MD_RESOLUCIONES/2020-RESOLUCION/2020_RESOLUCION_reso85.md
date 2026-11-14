@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2020)"
 description: "ESTABLECE FORMA DE DETERMINACIÓN DEL PROMEDIO DE INGRESOS BRUTOS A QUE SE REFIERE LA LETRA b) DEL N°1 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO..."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso85.pdf"
 materia: "ESTABLECE FORMA DE DETERMINACIÓN DEL PROMEDIO DE INGRESOS BRUTOS A QUE SE REFIERE LA LETRA b) DEL N°1 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2020-07-22"
 exenta: true

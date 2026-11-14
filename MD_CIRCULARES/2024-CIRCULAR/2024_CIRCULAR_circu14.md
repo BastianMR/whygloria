@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 14 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº14.- |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu14.pdf"
 materia: "Tabla de cálculos de reajustes, intereses y multas abril 2024."
 fecha: "2024-03-14"
 exenta: false

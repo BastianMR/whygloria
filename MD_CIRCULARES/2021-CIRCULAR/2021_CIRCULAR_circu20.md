@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 20 (2021)"
 description: "DEPARTAMENTOEMISOR: Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N° 20 178661.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu20.pdf"
 materia: "MATERIA Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210, al numeral 4° del artículo 40 de la Ley sobre Impuesto ala Renta."
 fecha: "2021-04-01"
 exenta: false

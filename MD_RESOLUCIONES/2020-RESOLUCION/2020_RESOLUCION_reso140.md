@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 140 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 429 - SDAC - 2020 77318691947"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso140.pdf"
 materia: "INCORPÓRASE A BICE FACTORING S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
 exenta: false

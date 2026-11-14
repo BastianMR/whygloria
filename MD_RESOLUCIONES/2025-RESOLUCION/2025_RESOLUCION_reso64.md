@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2025)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso64.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 fecha: "2025-05-27"
 exenta: false

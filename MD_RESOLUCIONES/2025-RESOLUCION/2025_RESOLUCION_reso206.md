@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 206 (2025)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00358342"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso206.pdf"
 materia: "DESIGNA Y ESTABLECE FUNCIONES DEL ENCARGADO DE LA IMPLEMENTACIÓN DE MODIFICACIONES QUE LA LEY Nº 21.719 INCORPORA EN LA LEY Nº 19.628"
 fecha: "2025-12-30"
 exenta: true

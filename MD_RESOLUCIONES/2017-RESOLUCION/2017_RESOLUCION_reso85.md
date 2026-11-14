@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso85.pdf"
 materia: "DIRECCIÓN DE GRANDES CONTRIBUYENTES SDF 509-2017"
 fecha: "2017-09-06"
 exenta: true

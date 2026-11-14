@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2025)"
 description: "IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE FISCALIZACIÓN UNIFICADO DEL ARTÍCULO 59 TER DEL CÓDIGO TRIBUTARIO."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso55.pdf"
 materia: "IMPARTE INSTRUCCIONES SOBRE EL PROCEDIMIENTO DE FISCALIZACIÓN UNIFICADO DEL ARTÍCULO 59 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-04-30"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso126.pdf"
 materia: "DELEGA EN EL SUBDIRECTOR DE ASISTENCIA AL CONTRIBUYENTE LA FACULTAD DE AUTORIZAR A CONTRIBUYENTES PARA ACOGERSE AL MODELO DE OPERACIÓN DE CONTABILIDAD ELECTRÓNICA."
 fecha: "2014-12-30"
 exenta: true

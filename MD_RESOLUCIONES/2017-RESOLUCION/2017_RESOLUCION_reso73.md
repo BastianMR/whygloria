@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°503-496-497-490-SDF/2017 Folios N°3820-3776-2797-3210-3664/2017"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso73.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°128 DE 28 DE DICIEMBRE DE 2016, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2017-08-17"
 exenta: true

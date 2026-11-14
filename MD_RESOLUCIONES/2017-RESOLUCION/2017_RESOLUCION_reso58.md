@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso58.pdf"
 materia: "ESTABLECE VIGENCIA DE CÓDIGO DE AUTORIZACIÓN DE FOLIOS PARA LOS DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS. DEROGA RESOLUCIÓN EX. SII N° 24, DEL 23 DE MARZO DE 2016."
 fecha: "2017-07-05"
 exenta: true

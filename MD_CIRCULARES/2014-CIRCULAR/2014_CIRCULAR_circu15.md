@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 15 35-2014 ID 02-2014 SN Circ. |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu15.pdf"
 materia: "Aclara y precisa la vigencia de las instrucciones contenidas en la Circular N° 13, del 7 de marzo de 2014, sobre los requisitos que deben cumplir los aportes a una sociedad de personas para que puedan constituir una reinversión de utilidades en los términos que establece el artículo 14 de la Ley sob"
 fecha: "2014-03-17"
 exenta: false

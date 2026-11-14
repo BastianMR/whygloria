@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 70 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 70.- 43-2015 ID 10-2015 SN |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu70.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, ambos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017 y reemplaza dos ejemplos contenidos en la Circ"
 fecha: "2015-07-23"
 exenta: false

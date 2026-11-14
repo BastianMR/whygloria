@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso25.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE SERVICIO DE IMPUESTOS INTERNOS Y CONSEJO NACIONAL DE TELEVISIÓN"
 fecha: "2024-02-07"
 exenta: true

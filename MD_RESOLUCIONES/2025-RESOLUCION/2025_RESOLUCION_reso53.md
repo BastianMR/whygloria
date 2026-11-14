@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 323262.2025 GE"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso53.pdf"
 materia: "INSTRUYE SOBRE LA OBLIGACIÓN DE ENTREGAR LA REPRESENTACIÓN IMPRESA O VIRTUAL DE LA BOLETA ELECTRÓNICA Y/O COMPROBANTE DE PAGO ELECTRÓNICO. DEJA SIN EFECTO RESOLUCIÓN EX. N° 12 DE 2025."
 fecha: "2025-04-29"
 exenta: true

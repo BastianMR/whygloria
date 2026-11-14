@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 138 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso138.pdf"
 materia: "APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL SERVICIO DE IMPUESTOS INTERNOS Y EL INSTITUTO CHILENO DE DERECHO TRIBUTARIO."
 fecha: "2026-10-06"
 exenta: true

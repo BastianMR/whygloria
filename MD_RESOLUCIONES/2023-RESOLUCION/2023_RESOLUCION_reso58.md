@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2023)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE235817"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso58.pdf"
 materia: "CREA EL COMITÉ DE GESTIÓN DE PROYECTOS DEL SERVICIO DE IMPUESTOS INTERNOS, DEFINE SU COMPOSICIÓN Y FUNCIONES"
 fecha: "2023-05-16"
 exenta: true

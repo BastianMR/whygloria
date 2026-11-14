@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 27 (2013)"
 description: "Subdirección Emisora Subdirección de Fiscalización"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu27.pdf"
 materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPM) con obligación tributaria anual cumplida, para aplicarse durante el AÑO 2013"
 fecha: "2013-05-29"
 exenta: false

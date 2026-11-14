@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2019)"
 description: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 240 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX. SII N° 40"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso40.pdf"
 materia: "SUPERINTENDENCIA DE PENSIONES NORMA DE CARÁCTER GENERAL N 240 SERVICIO DE IMPUESTOS INTERNOS RESOLUCIÓN EX. SII N° 40"
 fecha: "2019-03-29"
 exenta: true

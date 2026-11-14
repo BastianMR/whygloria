@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2020)"
 description: "SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso1.pdf"
 materia: "DELEGA FACULTADES Y ASIGNA FUNCIONES, EN LAS JEFATURAS Y MATERIAS QUE INDICA."
 fecha: "2020-01-02"
 exenta: true

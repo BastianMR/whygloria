@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 142 (2021)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES GE00199141"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso142.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 fecha: "2021-12-30"
 exenta: true

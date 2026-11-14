@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 2 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 2.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu2.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE FEBRERO DEL AÑO 2016 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
 fecha: "2016-01-12"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso68.pdf"
 materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS, FIJA PROCEDIMIENTO PARA SOLICITAR Y RECLAMAR DEL BONO DE ALIVIO A MYPES ESTABLECIDO EN LA LEY N°21.354 DE FECHA 17.06.2021."
 fecha: "2021-06-30"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 43 (2015)"
 description: "Complementada por Circular N° 25, del 3 de mayo de 2016"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu43.pdf"
 materia: "Facultad de exigir la emisión de facturas y boletas especiales en medios distintos al papel"
 fecha: "2015-06-09"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2021)"
 description: "MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impue..."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso81.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Relaciones Económicas Internacionales y el Servicio de Impuestos Internos."
 fecha: "2021-07-09"
 exenta: true

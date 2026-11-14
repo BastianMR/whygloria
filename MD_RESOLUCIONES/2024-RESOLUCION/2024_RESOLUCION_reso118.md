@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2024)"
 description: "ESTABLECE LA FORMA Y OPORTUNIDAD EN QUE LAS ENTIDADES QUE INDICA DEBEN INFORMAR SEGÚN LO DISPUESTO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso118.pdf"
 materia: "ESTABLECE LA FORMA Y OPORTUNIDAD EN QUE LAS ENTIDADES QUE INDICA DEBEN INFORMAR SEGÚN LO DISPUESTO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 fecha: "2024-12-12"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 38 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°38.- 181679.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu38.pdf"
 materia: "Exención temporal de Impuesto de Timbres y Estampillas, de acuerdo con lo establecido en las Leyes N° 21.299 y N° 21.307, ambas del año 2021."
 fecha: "2021-06-11"
 exenta: false

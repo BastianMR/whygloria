@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 78 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 197 - SDAC - 2018 77318566628"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso78.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE SAN FERNANDO, SR. JORGE EDUARDO OSNOVIKOFF ROMERO, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: ""
 exenta: true

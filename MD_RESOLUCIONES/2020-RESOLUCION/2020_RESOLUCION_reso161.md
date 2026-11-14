@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 161 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso161.pdf"
 materia: "INSTRUYE SOBRE LA OBLIGACIÓN DE INFORMAR SALDOS DE LOS REGISTROS DE RENTAS EMPRESARIALES POR PARTE DE LOS CONTRIBUYENTES QUE PASAN A ESTAR SUJETOS A LOS REGÍMENES PRO PYME DE LOS N° 3 Y 8 DE LA LETRA D) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2020-12-16"
 exenta: true

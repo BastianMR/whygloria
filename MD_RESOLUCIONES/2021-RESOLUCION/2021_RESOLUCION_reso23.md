@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso23.pdf"
 materia: "MODIFICA LA FECHA DE ENTRADA EN VIGENCIA DE LA OBLIGACIÓN CONTENIDA EN LA SUBLETRA E) DE LA LETRA E) DE LA RESOLUCIÓN EX. SII N° 176 DE FECHA 31.12.2020, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2021-02-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE ANÁLISIS DE LA JURISPRUDENCIA | CIRCULAR N° 39.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu39.pdf"
 materia: "Imparte instrucciones sobre nuevo número 3° que se intercala en el artículo 165 del Código Tributario por la Ley N° 20.780. 6(12)"
 fecha: "2015-06-05"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 47 - SDAC - 2018"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso19.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL SIGUIENTE ORGANISMO PÚBLICO:"
 fecha: "2018-02-22"
 exenta: true

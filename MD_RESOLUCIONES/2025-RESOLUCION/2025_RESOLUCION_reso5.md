@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE307353"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso5.pdf"
 materia: "ESTABLECE FORMA Y PLAZO DE PRESENTACIÓN DE LA DECLARACIÓN JURADA PARA INFORMACIÓN DE ABONOS RECIBIDOS, CONFORME AL ARTÍCULO 85 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2025-01-09"
 exenta: true

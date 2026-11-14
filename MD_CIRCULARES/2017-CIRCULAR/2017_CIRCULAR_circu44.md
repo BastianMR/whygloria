@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 44 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 44.- 38-2017 ID 2-2017 SN |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu44.pdf"
 materia: "Instrucciones sobre las modificaciones efectuadas por la Ley N° 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al inciso 1° y párrafo segundo, del N° 2, del inciso 4°, del artícu"
 fecha: "2017-08-25"
 exenta: false

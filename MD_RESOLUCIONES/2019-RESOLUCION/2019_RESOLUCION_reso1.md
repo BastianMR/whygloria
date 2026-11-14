@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2019)"
 description: "OFICINA DE ASISTENCIA Y EDUCACIÓN AL"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso1.pdf"
 materia: "INCORPÓRASE A FACTORING SECURITY S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2019-01-07"
 exenta: false

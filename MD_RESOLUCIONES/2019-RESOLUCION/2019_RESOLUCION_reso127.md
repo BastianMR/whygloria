@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 391- SDAC - 2019"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso127.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL SERVICIO LOCAL DE EDUCACIÓN LAS BARRANCAS."
 fecha: "2019-11-15"
 exenta: true

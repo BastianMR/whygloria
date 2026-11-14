@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 49 (2017)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES | CIRCULAR Nº 49 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu49.pdf"
 materia: "Sustituye el N° 1 del Capítulo II de la Circular N° 7, de 2017, que Instruye sobre procedimiento a seguir ante presentaciones de revisiones y/o modificación individual de avalúos de los bienes raíces y/o de eliminación de la sobretasa del impuesto territorial a los sitios no edificados, propiedades "
 fecha: "2017-09-22"
 exenta: false

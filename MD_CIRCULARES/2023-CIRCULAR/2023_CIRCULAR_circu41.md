@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 41 (2023)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº41.- |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu41.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS OCTUBRE 2023."
 fecha: "2023-09-13"
 exenta: false

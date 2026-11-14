@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso86.pdf"
 materia: "AJUSTA NÓMINA \"CONTRIBUYENTES IVA SD AFECTOS A CAMBIO DE SUJETO\" QUE RIGE ENTRE EL 1° DE ENERO Y EL 31 DE DICIEMBRE DE 2025."
 fecha: "2025-07-15"
 exenta: true

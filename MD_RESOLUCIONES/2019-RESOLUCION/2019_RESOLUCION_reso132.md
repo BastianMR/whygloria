@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 132 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 77319764785"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso132.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE SAN JAVIER, SR. GERARDO CARLOS NAVARRO ESCALA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2019-12-05"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso98.pdf"
 materia: "CREA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Y ESTABLECE FUNCIONES Y ÁMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2014-10-21"
 exenta: true

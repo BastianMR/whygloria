@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso21.pdf"
 materia: "MODIFICA LAS RESOLUCIONES EX. SII N°55 Y N°67, AMBAS DE 2020."
 fecha: "2022-02-24"
 exenta: true

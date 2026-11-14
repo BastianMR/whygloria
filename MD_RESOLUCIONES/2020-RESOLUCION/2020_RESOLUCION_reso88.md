@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso88.pdf"
 materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR EL APORTE ESTABLECIDO EN EL ARTÍCULO 4° DEL ARTÍCULO PRIMERO DE LA LEY N° 21.252."
 fecha: "2020-08-03"
 exenta: true

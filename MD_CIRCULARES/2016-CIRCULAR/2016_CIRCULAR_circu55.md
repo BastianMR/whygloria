@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 55 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 55.- 02-2016 SN 10-2016ID |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu55.pdf"
 materia: "Refunde y actualiza instrucciones sobre la aplicación del crédito tributario establecido a favor de las empresas constructoras que instalen sistemas solares térmicos (SST) en las viviendas, con motivo de las modificaciones incorporadas por la Ley N° 20.897 a la Ley N° 20.365."
 fecha: "2016-08-19"
 exenta: false

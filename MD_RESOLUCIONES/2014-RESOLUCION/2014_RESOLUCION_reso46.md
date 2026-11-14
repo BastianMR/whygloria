@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso46.pdf"
 materia: "AUTORIZA COMO EMISOR DE BOLETAS ELECTRÓNICAS A CONTRIBUYENTE QUE SE SEÑALA."
 fecha: "2014-05-16"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso62.pdf"
 materia: "AUTORIZA A INSTITUCIÓN SIN FINES DE LUCRO, COMO RECEPTORA DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE."
 fecha: "2015-07-21"
 exenta: true

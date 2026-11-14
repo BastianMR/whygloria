@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 3 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°03.- 254807.2023 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu3.pdf"
 materia: "MATERIA Imparte instrucciones sobre el impuesto denominado royalty minero, establecido en la Ley N° 21.591, modificada por la Ley N° 21.647."
 fecha: "2024-01-10"
 exenta: false

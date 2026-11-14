@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2023)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE235817"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso57.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS, Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA"
 fecha: "2023-05-16"
 exenta: true

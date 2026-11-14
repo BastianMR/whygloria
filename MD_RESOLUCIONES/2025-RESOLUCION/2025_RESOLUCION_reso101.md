@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2025)"
 description: "SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso101.pdf"
 materia: "ACREDITA Y AUTORIZA AL CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: "2025-08-14"
 exenta: true

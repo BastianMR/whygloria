@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso97.pdf"
 materia: "ESTABLECE FUNCIONES DEL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y AMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2014-10-21"
 exenta: true

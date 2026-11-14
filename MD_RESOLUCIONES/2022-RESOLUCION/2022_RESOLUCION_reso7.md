@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2022)"
 description: "DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso7.pdf"
 materia: "DESIGNA RESPONSABLES DE PROCESOS Y DELEGA FACULTAD QUE INDICA."
 fecha: "2022-01-28"
 exenta: true

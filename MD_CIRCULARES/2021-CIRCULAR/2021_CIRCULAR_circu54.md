@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 54 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N° 54 178849.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu54.pdf"
 materia: "MATERIA Imparte instrucciones sobre la modificación al artículo 35 de la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del Decreto Ley N° 824 de 1974, por la Ley N° 21.210."
 fecha: "2021-09-30"
 exenta: false

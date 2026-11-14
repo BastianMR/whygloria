@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 12 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº 12.- |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu12.pdf"
 materia: "Imparte instrucciones sobre derechos de los contribuyentes, comparecencia, notificaciones, procedimientos administrativos y judiciales de impugnación que establece la Ley N° 21.210, que moderniza la legislación tributaria"
 fecha: "2021-02-17"
 exenta: false

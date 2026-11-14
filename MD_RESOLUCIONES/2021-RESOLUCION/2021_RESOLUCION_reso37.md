@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2021)"
 description: "Establece formato de los Registros Tributarios de Rentas Empresariales que deben llevar los contribuyentes acogidos al Régimen De Tributación establecido en ..."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso37.pdf"
 materia: ""
 fecha: "2021-03-31"
 exenta: true

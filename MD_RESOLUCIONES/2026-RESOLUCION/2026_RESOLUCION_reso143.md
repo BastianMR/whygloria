@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 143 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00390001"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso143.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N°160, DE 12 DE NOVIEMBRE DE 2025 Y CREA ÁREA QUE INDICA. MODIFICA RESOLUCIÓN EXENTA SII N°87, DE 17 DE JULIO DE 2025."
 fecha: "2026-10-22"
 exenta: false

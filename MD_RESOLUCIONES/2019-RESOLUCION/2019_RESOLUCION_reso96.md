@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 96 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso96.pdf"
 materia: "Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Corporación Administrativa del Poder Judicial y el Servicio de Impuestos Internos."
 fecha: "2019-08-14"
 exenta: true

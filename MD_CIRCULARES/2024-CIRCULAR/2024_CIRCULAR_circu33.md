@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 33 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa. Impuestos Indirectos | CIRCULAR N°33.- 291584.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu33.pdf"
 materia: "Deja sin efecto lo instruido en la Circular N° 11 de 2024."
 fecha: "2024-07-26"
 exenta: false

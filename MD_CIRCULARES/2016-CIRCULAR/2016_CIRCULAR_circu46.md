@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 46 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 46.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu46.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DE IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE AGOSTO DEL AÑO 2016, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
 fecha: "2016-07-12"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2019)"
 description: "SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso82.pdf"
 materia: "REEMPLAZA ANEXO I DE RESOLUCIÓN EX. SII N°48, DE 31 DE MAYO DE 2018."
 fecha: "2019-07-02"
 exenta: false

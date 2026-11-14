@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso75.pdf"
 materia: "AUTORIZA IMPRESORA FISCAL MARCA SAM4S, MODELO ELLIX40S, PARA EMITIR VALES QUE REEMPLACEN A LAS BOLETAS DE VENTAS Y SERVICIOS."
 fecha: "2014-08-11"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2023)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso76.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE 2022, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2023-06-28"
 exenta: true

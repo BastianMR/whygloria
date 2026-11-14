@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00217002"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso60.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Fundación de Asistencia Legal del Colegio Médico."
 fecha: "2022-07-12"
 exenta: true

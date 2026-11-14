@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 59 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Depto. Normas Internacionales | CIRCULAR N°59.- 183665.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu59.pdf"
 materia: "Aplicación de la cláusula de nación más favorecida a los convenios que indica"
 fecha: "2021-10-22"
 exenta: false

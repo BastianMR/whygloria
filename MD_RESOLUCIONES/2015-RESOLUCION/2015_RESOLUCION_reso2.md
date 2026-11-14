@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso2.pdf"
 materia: "FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS PARA LOS FINES QUE SEÑALA"
 fecha: "2015-01-13"
 exenta: true

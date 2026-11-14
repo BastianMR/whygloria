@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso56.pdf"
 materia: "COMUNICA NUEVA CODIFICACIÓN DE LAS ACTIVIDADES ECONÓMICAS"
 fecha: "2018-07-09"
 exenta: true

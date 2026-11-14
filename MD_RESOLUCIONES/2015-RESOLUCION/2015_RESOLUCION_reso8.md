@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2015)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso8.pdf"
 materia: "AUTORIZA DELEGACIÓN DE FACULTAD QUE INDICA"
 fecha: "2015-02-13"
 exenta: true

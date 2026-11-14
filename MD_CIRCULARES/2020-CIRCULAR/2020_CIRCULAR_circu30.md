@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 30 (2020)"
 description: "SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | SUBDIRECCIÓN EMISORA SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 30 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu30.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES YMULTASMAYO 2020."
 fecha: "2020-04-21"
 exenta: false

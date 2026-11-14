@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 104 (2019)"
 description: "Subdirección de Contraloría Interna Departamento de Auditoría Interna"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso104.pdf"
 materia: "APRUEBA PARTICIPACIÓN COMO SERVICIO PILOTO EN EL PROYECTO DE CALIDAD DE LA AUDITORÍA INTERNA DEL SECTOR PÚBLICO."
 fecha: "2019-09-27"
 exenta: true

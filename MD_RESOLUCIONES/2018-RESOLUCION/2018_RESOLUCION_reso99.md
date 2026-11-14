@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso99.pdf"
 materia: "AUTORIZA A LIGA CHILENA CONTRA EL MAL DE PARKINSON, COMO RECEPTORA DE PRODUCTOS DE HIGIENE PERSONAL, CUYA COMERCIALIZACIÓN SE HA VUELTO INVIABLE."
 fecha: "2018-10-09"
 exenta: true

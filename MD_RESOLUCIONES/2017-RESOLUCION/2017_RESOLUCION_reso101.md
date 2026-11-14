@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2017)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso101.pdf"
 materia: "MODIFICASE LA RESOLUCIÓN EXENTA SII N° 112, DEL 24 DE DICIEMBRE DE 2015, QUE CREA LA DECLARACIÓN JURADA ANUAL N° 1926 SOBRE BASE IMPONIBLE DE PRIMERA CATEGORÍA Y DATOS CONTABLES BALANCE."
 fecha: "2017-10-13"
 exenta: true

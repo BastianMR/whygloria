@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2021)"
 description: "MATERIA: ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso21.pdf"
 materia: "ESTABLECE TIPOS DE CARPETA TRIBUTARIA Y REGULA SU USO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 80, DE 2016."
 fecha: "2021-02-24"
 exenta: true

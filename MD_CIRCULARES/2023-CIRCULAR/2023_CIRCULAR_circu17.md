@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 17 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 17.- 242727.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu17.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de mayo de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-04-10"
 exenta: false

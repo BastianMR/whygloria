@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso99.pdf"
 materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE DIVIDENDOS DISTRIBUIDOS Y CRÉDITOS CORRESPONDIENTES POR ACCIONES EN CUSTODIA."
 fecha: "2020-08-28"
 exenta: true

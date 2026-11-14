@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE330324"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso75.pdf"
 materia: "FIJA TASAS DE INTERÉS A APLICAR POR MORA EN EL PAGO DE TODO O PARTE DE IMPUESTOS O CONTRIBUCIONES PARA LOS SEMESTRES QUE SE INDICAN"
 fecha: "2025-06-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2023)"
 description: "SUBDIRECCIÓN EMISORA: SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR Nº 45.- |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu45.pdf"
 materia: "TABLA DE CÁLCULOS DE REAJUSTES, INTERESES Y MULTAS NOVIEMBRE 2023."
 fecha: "2023-10-11"
 exenta: false

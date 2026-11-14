@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 44 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 44.- 19-2016 ID 09-2016 SN |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu44.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 y la Ley N° 20.899 a los N°s 5, 6 y 8 del artículo 17, al artículo 18 y a los N°s 8 y 9, del inciso 1°, del artículo 41, todos de la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. Deja sin efecto Circular N"
 fecha: "2016-07-12"
 exenta: false

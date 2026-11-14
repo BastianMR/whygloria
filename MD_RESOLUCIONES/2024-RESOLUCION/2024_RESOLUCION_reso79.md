@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2024)"
 description: "SANTIAGO, 23 DE AGOSTO DE 2024."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso79.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIONES EXENTAS N° 1055 DE 2010 Y N° 96 DE 2013"
 fecha: "2024-08-23"
 exenta: true

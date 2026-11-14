@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 4 (2017)"
 description: "Modificada por Circular Nº 35, del 23 de junio de 2017"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu4.pdf"
 materia: "MATERIA ESTABLECE REQUISITOS PARA EFECTOS DE HACER USO DEL CRÉDITO FISCAL CONTENIDO EN LA FACTURA ELECTRÓNICA POR MODIFICACIONES ESTABLECIDAS A LA LEY DE MÉRITO EJECUTIVO."
 fecha: "2017-01-11"
 exenta: false

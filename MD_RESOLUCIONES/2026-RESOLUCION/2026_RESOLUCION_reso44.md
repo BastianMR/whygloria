@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso44.pdf"
 materia: "ANOTESE, COMUNÍQUESE Y PUBLIQUESE EN INTERNET."
 fecha: "2026-03-24"
 exenta: false

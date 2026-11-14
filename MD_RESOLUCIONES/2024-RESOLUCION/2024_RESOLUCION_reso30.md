@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso30.pdf"
 materia: "CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA"
 fecha: "2024-03-05"
 exenta: true

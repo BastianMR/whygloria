@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 129 (2025)"
 description: "MATERIA: Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Iquique."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso129.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía Digital \"SIIMAPAS\" a la Ilustre Municipalidad de Iquique."
 fecha: "2025-10-01"
 exenta: true

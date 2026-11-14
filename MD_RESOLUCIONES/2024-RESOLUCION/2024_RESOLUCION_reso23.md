@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 23 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE249513"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso23.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio Agrícola Ganadero y el Servicio de Impuestos Internos."
 fecha: "2024-02-07"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 47 (2017)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES | CIRCULAR Nº 47 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu47.pdf"
 materia: "Actualiza instrucciones operativas referidas al Certificado de Asignación de Roles de Avalúo que utilizan Notarías, Conservadores de Bienes Raíces, Ministerio de Bienes Nacionales, SERVIU, Empresas de Gestión Inmobiliaria y Propietarios en General. Deroga Circular N° s 5, de 09.01.1998, 11, de 10.02"
 fecha: "2017-09-15"
 exenta: false

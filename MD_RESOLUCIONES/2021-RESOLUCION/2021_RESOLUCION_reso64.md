@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00175290"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso64.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA LA EMISIÓN MASIVA DE BOLETAS DE HONORARIOS ELECTRÓNICA."
 fecha: "2021-06-24"
 exenta: true

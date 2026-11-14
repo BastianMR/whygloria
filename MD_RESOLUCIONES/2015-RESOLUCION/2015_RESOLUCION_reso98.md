@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2015)"
 description: "DISPONE DECLARACIÓN DE PREDIOS AGRÍCOLAS CON MEJORAS EFECTUADAS POR LOS PROPIETARIOS."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso98.pdf"
 materia: "DISPONE DECLARACIÓN DE PREDIOS AGRÍCOLAS CON MEJORAS EFECTUADAS POR LOS PROPIETARIOS."
 fecha: "2015-11-30"
 exenta: true

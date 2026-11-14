@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2014)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 52 09-2014 SN 108-2014 ID |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu52.pdf"
 materia: "Instruye sobre las modificaciones de la tasa del Impuesto de Primera Categoría, la gradualidad en que éstas entran en vigencia y sobre las normas relacionadas con los Pagos Provisionales Mensuales de los contribuyentes de la Primera Categoría, a raíz de las modificaciones efectuadas a la Ley sobre I"
 fecha: "2014-10-10"
 exenta: false

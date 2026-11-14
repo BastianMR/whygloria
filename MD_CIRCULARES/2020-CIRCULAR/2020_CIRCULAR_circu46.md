@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 46 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N° 46 083-2020 OGN |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu46.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de julio de 2020 y el 9 de agosto de 2020, ambos inclusive."
 fecha: "2020-07-09"
 exenta: false

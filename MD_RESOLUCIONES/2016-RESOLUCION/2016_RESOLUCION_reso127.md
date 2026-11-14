@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso127.pdf"
 materia: "DECLARA TÉRMINO DE GIRO SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO INCORPORADO POR LA LEY 20.899, DEL 08.02.2016."
 fecha: "2016-12-28"
 exenta: true

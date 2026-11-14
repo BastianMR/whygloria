@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 39 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu39.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de agosto del año 2013 y el 9 de septiembre del año 2013"
 fecha: "2013-08-13"
 exenta: false

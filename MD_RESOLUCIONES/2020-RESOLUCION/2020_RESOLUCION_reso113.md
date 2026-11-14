@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso113.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EXENTA SII N°107 DE 2017 Y LA ESTRUCTURA E INSTRUCCIONES DE LA DECLARACIÓN JURADA ANUAL SOBRE OPERACIONES EN CHILE POR MEDIO DE FORMULARIO N°1946."
 fecha: "2020-09-15"
 exenta: true

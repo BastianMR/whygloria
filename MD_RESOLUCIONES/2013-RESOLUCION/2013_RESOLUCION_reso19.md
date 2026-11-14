@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2013)"
 description: "RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013."
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso19.pdf"
 materia: "RECTIFICA LISTA ANEXA QUE CONTIENE RESOLUCION N° 04 EXENTA, DE 2013."
 fecha: "2013-02-12"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 90 (2024)"
 description: "CREA LA OFICINA DE CRIMEN ORGANIZADO Y DEFINE SUS FUNCIONES"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso90.pdf"
 materia: "CREA LA OFICINA DE CRIMEN ORGANIZADO Y DEFINE SUS FUNCIONES"
 fecha: "2024-09-11"
 exenta: true

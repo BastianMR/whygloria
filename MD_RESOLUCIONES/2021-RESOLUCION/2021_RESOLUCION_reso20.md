@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso20.pdf"
 materia: "REFUNDE Y REESTRUCTURA DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE. DEJA SIN EFECTO RES. EX N° 98, DE 2014, RES. EX 65 DE 2016 Y N° 31, DE 2018."
 fecha: "2021-02-24"
 exenta: true

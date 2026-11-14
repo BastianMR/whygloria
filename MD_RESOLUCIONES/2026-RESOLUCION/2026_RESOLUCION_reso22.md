@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2026)"
 description: "DEJA SIN EFECTO LA RESOLUCIÓN EX. N° 209 DE 2025, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO ..."
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso22.pdf"
 materia: "DEJA SIN EFECTO LA RESOLUCIÓN EX. N° 209 DE 2025, QUE FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA."
 fecha: "2026-02-05"
 exenta: true

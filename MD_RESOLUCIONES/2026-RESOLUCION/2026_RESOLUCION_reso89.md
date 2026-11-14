@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2026)"
 description: "Anexo N°1: Nómina de Helicópteros y Aviones"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso89.pdf"
 materia: "ACTUALIZA NÓMINA DE BIENES AFECTOS DE LA RES. EX. N°194 AÑO 2025, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9° DE LA LEY N° 21.420."
 fecha: "2026-06-26"
 exenta: true

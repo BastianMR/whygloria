@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2019)"
 description: "COMPLEMENTA RESOLUCIONES EX. SII NÚMEROS 208, DE 2009 Y 117, DE 2011"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso53.pdf"
 materia: "COMPLEMENTA RESOLUCIONES EX. SII NÚMEROS 208, DE 2009 Y 117, DE 2011"
 fecha: "2019-04-30"
 exenta: true

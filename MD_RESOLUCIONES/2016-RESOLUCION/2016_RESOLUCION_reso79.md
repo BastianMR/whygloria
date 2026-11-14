@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso79.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada."
 fecha: "2016-08-09"
 exenta: true

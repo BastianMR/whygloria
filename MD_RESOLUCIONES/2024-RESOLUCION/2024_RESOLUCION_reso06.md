@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA GE00269322"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso06.pdf"
 materia: "INSTRUYE SOBRE DECLARACIÓN JURADA QUE DEBEN PRESENTAR LAS ASOCIACIONES CULTURALES PARA ACCEDER A LA EXENCIÓN DE IMPUESTO AL VALOR AGREGADO POR SERVICIOS CULTURALES."
 fecha: "2024-01-10"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 208 (2025)"
 description: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso208.pdf"
 materia: "RESOLUCIÓN EX. SII Nº208."
 fecha: "2025-12-30"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso62.pdf"
 materia: "MODIFICA LA RESOLUCIÓN N° 379, DE 1991, EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA ."
 fecha: "2013-06-17"
 exenta: true

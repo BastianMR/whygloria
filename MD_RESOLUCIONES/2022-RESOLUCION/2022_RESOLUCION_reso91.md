@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 91 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00211053"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso91.pdf"
 materia: "RESOLUCIÓN EX. SII N° 91."
 fecha: "2022-09-29"
 exenta: true

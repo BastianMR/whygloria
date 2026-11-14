@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2018)"
 description: "DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso25.pdf"
 materia: "DEROGA RESOLUCIÓN SII EX. N° 56, DE 30.06.2015."
 fecha: "2018-03-05"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 184- SDAC - 2019 GE00114619"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso71.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LA SUBSECRETARÍA DE DEFENSA."
 fecha: "2019-06-04"
 exenta: true

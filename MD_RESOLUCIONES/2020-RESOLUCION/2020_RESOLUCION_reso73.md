@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 73 (2020)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso73.pdf"
 materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CONCEPCIÓN."
 fecha: "2020-07-02"
 exenta: true

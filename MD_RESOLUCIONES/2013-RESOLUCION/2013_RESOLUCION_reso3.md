@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2013)"
 description: "Diario Oficial en extracto"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso3.pdf"
 materia: "ASIGNA FUNCIONES DE SECRETARIO GENERAL AL FUNCIONARIO QUE INDICA, RESPECTO DE LOS PLANOS DE PRECIOS PREPARADOS POR LAS DIRECCIONES REGIONALES Y DESIGNA SUBROGANTE."
 fecha: "2013-01-09"
 exenta: false

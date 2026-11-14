@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2023)"
 description: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE FECHA 29.12.2022, EN LOS TÉRMINOS QUE INDICA."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso39.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII Nº 128 DE FECHA 29.12.2022, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2023-03-30"
 exenta: true

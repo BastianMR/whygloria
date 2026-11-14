@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2024)"
 description: "FIJA NÓMINA DE BIENES AFECTOS, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5° DE LA LEY N° 21.713."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso127.pdf"
 materia: "FIJA NÓMINA DE BIENES AFECTOS, SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY N° 21.420, MODIFICADA POR EL ARTÍCULO 5° DE LA LEY N° 21.713."
 fecha: "2024-12-23"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2018)"
 description: "MATERIA: Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G.."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso10.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y el Consejo Minero de Chile A.G.."
 fecha: "2018-01-30"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00364500"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso25.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre SHERIFF SPA y el Servicio de Impuestos Internos."
 fecha: "2026-02-19"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 8 (2022)"
 description: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso8.pdf"
 materia: "FIJA TABLAS DE VALORES DE VEHÍCULOS DE TRANSPORTE TERRESTRE DE CARGA O PASAJEROS, INCLUIDO SU REMOLQUE, ACOPLADO O CARRO SIMILAR."
 fecha: "2022-01-31"
 exenta: true

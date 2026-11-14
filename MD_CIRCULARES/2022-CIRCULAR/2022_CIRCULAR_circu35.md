@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 35 (2022)"
 description: "DEPARTAMENTO EMISOR: Departamento de Asesoría Jurídica | CIRCULAR Nº 35.- GE126944 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu35.pdf"
 materia: "Imparte instrucciones acerca del cumplimiento del deber de mantener la reserva de la información que el Servicio recopila respecto de los contribuyentes. Deja sin efecto la Circular N°43, de 1998 y sus modificaciones."
 fecha: "2022-08-04"
 exenta: false

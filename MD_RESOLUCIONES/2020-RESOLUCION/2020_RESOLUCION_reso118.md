@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso118.pdf"
 materia: "EXIME A INSTITUCIONES QUE INDICA, DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SE SEÑALAN."
 fecha: "2020-09-28"
 exenta: true

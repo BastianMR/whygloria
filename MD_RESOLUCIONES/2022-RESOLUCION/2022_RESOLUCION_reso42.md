@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2022)"
 description: "SUBDIRECCIÓN DE INFORMÁTICA GE 208653"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso42.pdf"
 materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: "2022-05-06"
 exenta: true

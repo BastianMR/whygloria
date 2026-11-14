@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 160 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00347254"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso160.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA. DEJA SIN EFECTO LA RESOLUCIÓN EXENTA SII N° 128 DE 2024."
 fecha: "2025-11-12"
 exenta: false

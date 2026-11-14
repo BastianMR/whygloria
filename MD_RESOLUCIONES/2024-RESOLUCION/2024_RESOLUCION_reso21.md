@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2024)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso21.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 fecha: "2024-02-05"
 exenta: true

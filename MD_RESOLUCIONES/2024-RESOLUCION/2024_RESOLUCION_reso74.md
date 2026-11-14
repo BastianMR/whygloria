@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 74 (2024)"
 description: "SUBDIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN GE00285242"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso74.pdf"
 materia: "ACREDITA Y AUTORIZA A CONTRIBUYENTE QUE INDICA PARA ACTUAR COMO PRESTADOR DE SERVICIOS DE CERTIFICACIÓN DIGITAL DE IDENTIDADES Y EMITIR CERTIFICADOS DIGITALES DE USO Y PAGO TRIBUTARIO."
 fecha: "2024-07-19"
 exenta: true

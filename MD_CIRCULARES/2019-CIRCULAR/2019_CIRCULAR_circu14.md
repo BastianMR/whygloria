@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 14 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 14.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu14.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de marzo de 2019 y el 9 de abril de 2019."
 fecha: "2019-03-12"
 exenta: false

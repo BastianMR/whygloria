@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA GE00268340"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso16.pdf"
 materia: "DESIGNA SECRETARIA TITULAR EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CONCEPCIÓN."
 fecha: "2024-01-24"
 exenta: true

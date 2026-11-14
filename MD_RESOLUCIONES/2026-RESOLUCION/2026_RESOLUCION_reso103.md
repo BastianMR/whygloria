@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2026)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS DEPARTAMENTO DE FORMACION GE 387702"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso103.pdf"
 materia: "Aprueba Anexo de Convenio de Colaboración entre la Facultad de Economía y Negocios de la Universidad de Chile y el Servicio de Impuestos Internos."
 fecha: "2026-08-11"
 exenta: true

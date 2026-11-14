@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso119.pdf"
 materia: "OTÓRGUESE ACCESO A LAS SIGUIENTES INSTITUCIONES A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) INICIO DE ACTIVIDADES"
 fecha: "2025-09-15"
 exenta: false

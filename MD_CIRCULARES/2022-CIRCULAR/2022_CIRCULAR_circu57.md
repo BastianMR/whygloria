@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2022)"
 description: "DEPARTAMENTOEMISOR SubdirecciondeAvaluaciones | CIRCULARN°57.- GE206755 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu57.pdf"
 materia: "MATERIAImparteinstruccionessobreelimpuesto establecido en el articulo 9°de la Ley N°21.420."
 fecha: "2022-12-26"
 exenta: false

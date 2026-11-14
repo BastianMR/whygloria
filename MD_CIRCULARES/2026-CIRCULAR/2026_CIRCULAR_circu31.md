@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2026)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos                                                                                                                       ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu31.pdf"
 materia: "Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes, así como sobre plazo y procedimiento para dar aviso en caso de pérdidas de existencias en el inventario y pérdida o inutilización fortuita de los libros de contabilidad y otros docu"
 fecha: "2026-07-28"
 exenta: false

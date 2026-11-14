@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso1.pdf"
 materia: "AUTORIZA COMO RECEPTOR DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL ORGANISMO PÚBLICO QUE SE SEÑALA."
 fecha: "2013-01-08"
 exenta: true

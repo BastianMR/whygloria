@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 41 (2014)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE AVALUACIONES | CIRCULAR Nº 41.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu41.pdf"
 materia: "COMPLEMENTA CIRCULAR N° 20, DE 2014, RESPECTO DE LA REBAJA DEL IMPUESTO TERRITORIAL CORRESPONDIENTE A PROPIEDADES DE ADULTOS MAYORES VULNERABLES ECONÓMICAMENTE."
 fecha: "2014-07-21"
 exenta: false

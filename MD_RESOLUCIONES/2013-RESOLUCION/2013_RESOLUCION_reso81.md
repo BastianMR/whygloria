@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 81 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCION NORMATIVA DEPTO NORMAS INTERNACIONALES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso81.pdf"
 materia: "SOLICITA INFORMACION SOBRE TRUSTS CONSTITUIDOS EN EL EXTRANJERO"
 fecha: "2013-09-10"
 exenta: true

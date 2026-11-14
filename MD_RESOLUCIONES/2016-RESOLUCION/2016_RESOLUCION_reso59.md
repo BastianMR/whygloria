@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES 250-SDF-2016 77316993347 982-16"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso59.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°119 DE 29 DE DICIEMBRE DE 2015, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2016-06-24"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE OPERACIONES DE ASISTENCIA GE00357793"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso1.pdf"
 materia: "AUTORIZA A LA ENTIDAD QUE INDICA PARA INCORPORARSE AL REGISTRO DE OPERADORES DE MEDIOS DE PAGO ELECTRÓNICOS PARA FERIAS LIBRES."
 fecha: "2026-01-05"
 exenta: true

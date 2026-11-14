@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2025)"
 description: "CREA LA OFICINA DE RELACIONES INTERNACIONALES."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso68.pdf"
 materia: "CREA LA OFICINA DE RELACIONES INTERNACIONALES."
 fecha: "2025-06-19"
 exenta: true

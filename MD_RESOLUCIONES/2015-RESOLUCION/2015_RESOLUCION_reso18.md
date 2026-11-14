@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso18.pdf"
 materia: "ESTABLECE FORMA Y PLAZO DE EMISIÓN DE FACTURAS POR PAGOS DE REMANENTES A CLIENTES FINALES ESTABLECIDOS EN LA LEY N° 20.571."
 fecha: "2015-03-09"
 exenta: true

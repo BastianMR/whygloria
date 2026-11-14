@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2023)"
 description: "DEPARTAMENTOEMISOR: Subdirección Normativa Oficinade Gestión Normativa | CIRCULARN° 15.- 242550.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu15.pdf"
 materia: "Informa porcentaje de reajuste a aplicar a los impuestos anuales a la renta a declarar y pagar en el año tributario 2023, de acuerdo con lo dispuesto en el artículo 72 de la Ley sobre Impuesto a la Renta."
 fecha: "2023-04-06"
 exenta: false

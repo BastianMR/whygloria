@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2021)"
 description: "ELIMINASE LA APOSICIÓN DE CUÑO SECO, EN LA AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso113.pdf"
 materia: "ELIMINASE LA APOSICIÓN DE CUÑO SECO, EN LA AUTORIZACIÓN DE DOCUMENTOS TRIBUTARIOS EN PAPEL."
 fecha: "2021-10-05"
 exenta: true

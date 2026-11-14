@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 20 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE 266102"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso20.pdf"
 materia: "INFORMACIÓN QUE EMPRESAS DE TELECOMUNICACIONES DEBEN ENTREGAR RESPECTO DE PROVEEDORES SIN DOMICILIO NI RESIDENCIA EN CHILE ."
 fecha: "2024-01-31"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2025)"
 description: "FIJA PROCEDIMIENTO DE INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso84.pdf"
 materia: "FIJA PROCEDIMIENTO DE INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA DEL PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2025-07-10"
 exenta: true

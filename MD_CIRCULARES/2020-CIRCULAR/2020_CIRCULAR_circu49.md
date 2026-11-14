@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 49 (2020)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa, Depto. Técnica Tributaria | CIRCULAR N° 49 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu49.pdf"
 materia: "MATERIA Imparte instrucciones sobre declaración y pago del denominado impuesto a las fuentes fijas contaminantes, contenido en el artículo 8° de la Ley N° 20.780, modificado por las Leyes N° 20.899, que simplifica el sistema de tributación a la renta y perfecciona otras disposiciones legales, y N° 2"
 fecha: "2020-07-20"
 exenta: false

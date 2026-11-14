@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2021)"
 description: "MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso117.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos."
 fecha: "2021-10-14"
 exenta: true

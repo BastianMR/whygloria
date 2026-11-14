@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso125.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE TRUSTS; FIJA FORMATO Y MECANISMO DE DECLARACIÓN; Y DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N° 46 DE 2018."
 fecha: "2020-09-30"
 exenta: true

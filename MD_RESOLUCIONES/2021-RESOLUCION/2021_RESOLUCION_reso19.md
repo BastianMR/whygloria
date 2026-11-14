@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso19.pdf"
 materia: "ESTABLECE FORMATO DE LOS REGISTROS TRIBUTARIOS DE RENTAS EMPRESARIALES QUE DEBEN LLEVAR LOS CONTRIBUYENTES DEL RÉGIMEN DE TRIBUTACIÓN DE LA LETRA A) DE ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA, VIGENTE A PARTIR DEL 01 DE ENERO DE 2020."
 fecha: "2021-02-23"
 exenta: true

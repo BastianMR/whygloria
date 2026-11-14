@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00360035"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso17.pdf"
 materia: "DECLARA TÉRMINO DE GIRO A LOS CONTRIBUYENTES QUE SE IDENTIFICAN, QUE PRESENTAN 36 O MÁS PERIODOS TRIBUTARIOS SIN OPERACIONES SEGÚN LO DISPUESTO EN EL INCISO FINAL DEL ARTÍCULO 69 DEL CÓDIGO TRIBUTARIO."
 fecha: "2026-01-28"
 exenta: true

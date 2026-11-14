@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 148 (2018)"
 description: "MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso148.pdf"
 materia: "DESIGNA RESPONSABLES DE PROCESOS QUE INDICA."
 fecha: "2018-12-27"
 exenta: true

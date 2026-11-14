@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 121 (2019)"
 description: "MATERIA: OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso121.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y/O MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2019-10-30"
 exenta: true

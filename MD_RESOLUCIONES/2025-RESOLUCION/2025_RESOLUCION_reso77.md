@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2025)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO. DE CICLO DE VIDA GE323922"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso77.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA LA OBTENCIÓN DE RUT E INICIO DE ACTIVIDADES"
 fecha: "2025-06-26"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 72 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE 00179151"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso72.pdf"
 materia: "AUTORIZA REPRESENTACIÓN VIRTUAL Y/O IMPRESA DE GUÍAS DE DESPACHO ELECTRÓNICAS A LOS CONTRIBUYENTES QUE INDICA EN LA MODALIDAD SEÑALADA."
 fecha: "2021-07-01"
 exenta: true

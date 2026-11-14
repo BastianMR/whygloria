@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 149 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS GE00369426 238-DTE-2025"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso149.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 143, DE FECHA 24.09.2009, QUE AUTORIZÓ LA OPERACIÓN DE UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2026-10-27"
 exenta: true

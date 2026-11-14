@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2021)"
 description: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso98.pdf"
 materia: "REEMPLAZA FORMATO, CONTENIDO E INSTRUCCIONES DE DECLARACIONES JURADAS QUE SE INDICAN, Y MODIFICA RESOLUCIÓN EXENTA SII Nº 86 DE 2018"
 fecha: "2021-08-26"
 exenta: true

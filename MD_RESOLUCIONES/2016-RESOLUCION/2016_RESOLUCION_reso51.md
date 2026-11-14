@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso51.pdf"
 materia: "FIJA NUEVO PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL DE FONDO DE UTILIDADES TRIBUTABLES (FUT), FORMULARIO N° 1925."
 fecha: "2016-06-07"
 exenta: true

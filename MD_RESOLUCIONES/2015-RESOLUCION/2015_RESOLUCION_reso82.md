@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso82.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°125 DE 30 DE DICIEMBRE DE 2014, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2015-09-29"
 exenta: true

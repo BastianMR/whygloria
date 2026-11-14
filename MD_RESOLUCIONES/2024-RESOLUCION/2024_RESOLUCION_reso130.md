@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 130 (2024)"
 description: "SUPRIME EL DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso130.pdf"
 materia: "SUPRIME EL DEPARTAMENTO SUBDIRECCIÓN DE ASUNTOS CORPORATIVOS."
 fecha: "2024-12-26"
 exenta: true

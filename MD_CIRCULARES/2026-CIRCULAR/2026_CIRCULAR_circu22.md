@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2026)"
 description: "DEPARTAMENTO EMISOR: Departamento de Impuestos Indirectos                                                                                                    ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu22.pdf"
 materia: "Imparte instrucciones sobre la aplicación transitoria del límite al crédito fiscal del impuesto específico al petróleo diésel establecido en el artículo 4° de la Ley N° 21.811, respecto del beneficio regulado en el Decreto Supremo de Hacienda N° 311 de 1986, que reglamenta el artículo 7° de la Ley N"
 fecha: "2026-06-05"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2016)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso40.pdf"
 materia: "Aprueba Adendum Anexo al convenio de colaboración entre la Corporación de Fomento para la Producción y Servicio de Impuestos Internos."
 fecha: "2016-04-25"
 exenta: true

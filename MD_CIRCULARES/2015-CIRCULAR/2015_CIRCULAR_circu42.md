@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2015)"
 description: "029-2015 II (009-2015 Circ-SN)"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu42.pdf"
 materia: "Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, a los artículos 2°, 8°, 9°, 12° letra F, 16° letras D y G, 18°,19°, y 23° N° 6 del D.L. N° 825, de 1974, y normas transitorias respectivas, relacionadas con la inclusión en la normativa tributaria sobre el Impuesto al Val"
 fecha: "2015-06-05"
 exenta: false

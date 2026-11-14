@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso88.pdf"
 materia: "'CONVENIO DE INTERCAMBIO DE INFORMACIÓN Y COLABORACIÓN ENTRE INSTITUTO FORESTAL Y SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2021-07-27"
 exenta: true

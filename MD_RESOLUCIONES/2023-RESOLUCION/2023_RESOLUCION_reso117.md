@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2023)"
 description: "DISPONE LA EJECUCIÓN DE ACCIONES DE TRATAMIENTO EN LAS DIRECCIONES REGIONALES QUE SE INDICAN."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso117.pdf"
 materia: "DISPONE LA EJECUCIÓN DE ACCIONES DE TRATAMIENTO EN LAS DIRECCIONES REGIONALES QUE SE INDICAN."
 fecha: "2023-10-04"
 exenta: true

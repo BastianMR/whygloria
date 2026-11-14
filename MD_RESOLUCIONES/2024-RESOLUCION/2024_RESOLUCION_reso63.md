@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA GE00280626"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso63.pdf"
 materia: "DELEGA EN EL (LA) SUBDIRECTOR (A) JURÍDICO(A), EN LOS (LAS) DIRECTORES (AS) REGIONALES Y EN EL DIRECTOR (A) DE GRANDES CONTRIBUYENTES LAS FACULTADES QUE INDICA."
 fecha: "2024-06-06"
 exenta: true

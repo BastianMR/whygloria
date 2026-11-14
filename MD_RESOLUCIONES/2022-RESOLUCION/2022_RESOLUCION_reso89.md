@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 89 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE209341"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso89.pdf"
 materia: "Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Villa Alemana."
 fecha: "2022-09-15"
 exenta: true

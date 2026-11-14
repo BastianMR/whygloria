@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2024)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00303592"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso116.pdf"
 materia: "FIJA FORMA Y PERIODICIDAD DE LAS SESIONES DEL COMITÉ EJECUTIVO. DEJA SIN EFECTO RESOLUCIÓN EX. SII N° 68 DE 2016."
 fecha: "2024-12-10"
 exenta: false

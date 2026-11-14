@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 6 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 6.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu6.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO"
 fecha: "2019-02-11"
 exenta: false

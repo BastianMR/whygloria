@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2025)"
 description: "COMPLEMENTA Y RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCIÓN EXENTA N°07 DE 2025."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso27.pdf"
 materia: "COMPLEMENTA Y RECTIFICA EN EL MODO QUE INDICA LISTADO ANEXO DE LA RESOLUCIÓN EXENTA N°07 DE 2025."
 fecha: "2025-03-04"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 97 (2013)"
 description: "Anexo: Convenio de Colaboración"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso97.pdf"
 materia: "Aprueba Convenio de Colaboración entre la Subsecretaría de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos."
 fecha: "2013-11-27"
 exenta: true

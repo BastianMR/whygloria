@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso69.pdf"
 materia: "MODIFICA RES. EX. SII N° 56, DE 30 DE JUNIO DE 2015, EN EL SENTIDO QUE INDICA."
 fecha: "2015-08-07"
 exenta: true

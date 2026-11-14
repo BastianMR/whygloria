@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso3.pdf"
 materia: "Aprueba Convenio de Colaboración entre Ministerio De Desarrollo Social y Familia y el Servicio de Impuestos Internos."
 fecha: "2021-01-12"
 exenta: true

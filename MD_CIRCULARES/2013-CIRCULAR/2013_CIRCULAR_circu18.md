@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2013)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 18 |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu18.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de abril del año 2013 y el 9 de mayo del año 2013"
 fecha: "2013-04-10"
 exenta: false

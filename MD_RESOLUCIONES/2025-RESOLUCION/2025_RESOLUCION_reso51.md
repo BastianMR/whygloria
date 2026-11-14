@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso51.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos."
 fecha: "2025-04-24"
 exenta: true

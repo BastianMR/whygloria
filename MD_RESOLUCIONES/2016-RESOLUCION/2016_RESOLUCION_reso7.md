@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2016)"
 description: "MAT.: Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Interese..."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso7.pdf"
 materia: "Designa sujetos pasivos conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios y revoca Resolución Exenta SII N° 39 de 2015."
 fecha: "2016-02-05"
 exenta: true

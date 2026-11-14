@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 16 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 16.- 05-2019 SN CIRC. 0017-2019 OGN |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu16.pdf"
 materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR Y PAGAR EN EL AÑO TRIBUTARIO 2019, DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2019-04-09"
 exenta: false

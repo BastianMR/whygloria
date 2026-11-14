@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2024)"
 description: "MATERIA: Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servic..."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso49.pdf"
 materia: "Aprueba Prórroga y Modificación de Convenio Interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos."
 fecha: "2024-04-18"
 exenta: true

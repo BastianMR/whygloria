@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 40 (2014)"
 description: "Diario Oficial (en extracto)"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso40.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2014-04-25"
 exenta: true

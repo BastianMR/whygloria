@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 117 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso117.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 50 DE 2012 REEMPLAZANDO EL FORMULARIO 1848 E INSTRUCCIONES DE LLENADO."
 fecha: "2016-12-26"
 exenta: true

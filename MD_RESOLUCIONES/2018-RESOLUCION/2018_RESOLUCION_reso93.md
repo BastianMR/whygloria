@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 93 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso93.pdf"
 materia: "SUSPENDE CALIDAD DE AGENTE RETENEDOR A CONTRIBUYENTES QUE INDICA, CONFORME A RESOLUCIÓN EX. SII N° 42 DE 30 DE ABRIL DE 2018, QUE DISPUSO EL CAMBIO DE SUJETO PARA EL CUMPLIMIENTO DE IVA."
 fecha: "2018-10-05"
 exenta: true

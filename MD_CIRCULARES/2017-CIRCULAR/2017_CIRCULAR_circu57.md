@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 57 72-2017 ID 3-2017 SN |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu57.pdf"
 materia: "Precisa el concepto de establecimiento permanente, en relación con la obligación de inscripción en el Rol Único Tributario."
 fecha: "2017-12-07"
 exenta: false

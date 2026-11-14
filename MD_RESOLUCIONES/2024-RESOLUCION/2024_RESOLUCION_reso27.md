@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso27.pdf"
 materia: "EXIME DEL RÉGIMEN GENERAL DE OPERACIÓN DE VENTAS DE GAS LICUADO DE PETRÓLEO, ESTABLECIDO EN RESOLUCIÓN EX. SII N° 1087, DE 1978, A CONTRIBUYENTE QUE INDICA."
 fecha: "2024-02-14"
 exenta: true

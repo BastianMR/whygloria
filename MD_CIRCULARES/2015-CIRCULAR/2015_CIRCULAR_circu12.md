@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 12 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 12 |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu12.pdf"
 materia: "Instruye sobre las modificaciones efectuadas a los artículos 41 A y 41 C de la Ley sobre Impuesto a la Renta por las Leyes N°s 20.727 y 20.780 de 2014, y la incorporación de los artículos 41 F y 41 H efectuada por esta última Ley."
 fecha: "2015-01-30"
 exenta: false

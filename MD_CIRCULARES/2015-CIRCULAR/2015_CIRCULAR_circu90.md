@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 90 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 90.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu90.pdf"
 materia: "TABLAS DEL IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DEL IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE ENERO DEL AÑO 2016 E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
 fecha: "2015-12-11"
 exenta: false

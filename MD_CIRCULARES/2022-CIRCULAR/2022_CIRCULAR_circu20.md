@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 20 (2022)"
 description: "DEPARTAMENTO EMISOR Departamento de Técnica Tributaria | CIRCULAR N°20.- 204839.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu20.pdf"
 materia: "MATERIA Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.420 a la Ley N° 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones."
 fecha: "2022-04-21"
 exenta: false

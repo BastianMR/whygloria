@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 33 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso33.pdf"
 materia: "AUTORIZA MODALIDAD DE TIMBRAJE DE GUÍAS DE DESPACHO EN FORMATO PAPEL EN LA FORMA QUE INDICA."
 fecha: "2020-03-24"
 exenta: true

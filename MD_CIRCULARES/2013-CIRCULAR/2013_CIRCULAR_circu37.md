@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2013)"
 description: "DEPARTAMENTO EMISOR: Técnica Tributaria | CIRCULAR N° 37.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu37.pdf"
 materia: "Complementa instrucciones relacionadas con las tasaciones que corresponde efectuar al Servicio de Impuestos Internos en la tramitación de Concesiones Marítimas"
 fecha: "2013-07-30"
 exenta: false

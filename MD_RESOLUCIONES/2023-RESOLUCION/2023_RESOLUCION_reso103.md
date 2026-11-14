@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 77323155277"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso103.pdf"
 materia: "INCORPÓRASE A ACF CAPITAL S.A. EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
 exenta: false

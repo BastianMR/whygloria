@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°45.- 299422.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu45.pdf"
 materia: "CÓDIGO TRIBUTARIO | CÓDIGO TRIBUTARIO | VIGENCIAS"
 fecha: "2024-10-25"
 exenta: false

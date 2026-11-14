@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2021)"
 description: "CSM/PSM/CGG/FWV DISTRIBUCIÓN:"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso51.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LA DECLARACIÓN JURADA ANUAL SOBRE CRÉDITOS Y PPM PUESTOS A DISPOSICIÓN DE LOS SOCIOS, FORMULARIO Nº 1837"
 fecha: "2021-05-18"
 exenta: true

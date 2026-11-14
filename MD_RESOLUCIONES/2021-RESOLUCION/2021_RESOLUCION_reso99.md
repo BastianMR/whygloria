@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso99.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 08, DE FECHA 10.01.2007, EN LOS TÉRMINOS QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN EXENTA SII Nº 25, DE FECHA 24.03.2016."
 fecha: "2021-08-27"
 exenta: true

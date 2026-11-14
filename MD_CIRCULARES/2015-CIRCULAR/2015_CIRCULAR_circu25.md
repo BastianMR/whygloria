@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 25 (2015)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 25 |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu25.pdf"
 materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2015, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2015-04-08"
 exenta: false

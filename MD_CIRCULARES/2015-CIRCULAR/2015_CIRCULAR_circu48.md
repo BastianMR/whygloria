@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 48 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 48.- 42.2015 ID 08.2015 SN |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu48.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780, al régimen tributario para la micro, pequeña y mediana empresa contenido en la Ley sobre Impuesto a la Renta, que rigen a contar del 1° de enero de 2017. 6(12)00"
 fecha: "2015-06-15"
 exenta: false

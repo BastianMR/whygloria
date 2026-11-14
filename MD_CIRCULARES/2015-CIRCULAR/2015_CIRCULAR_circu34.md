@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2015)"
 description: "Modificada por Circular N° 23, del 3 de mayo de 2016 Modificada por Circular N° 12, del 17 de febrero de 2021 Dejada sin efecto por Circular N° 35, del 30 de..."
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu34.pdf"
 materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LAS LEYES 20.420 Y 20.780, AL INCISO PRIMERO DEL ARTÍCULO 11 Y POR LA LEY 20.780, AL ARTÍCULO 13 DEL CÓDIGO TRIBUTARIO."
 fecha: "2015-05-15"
 exenta: false

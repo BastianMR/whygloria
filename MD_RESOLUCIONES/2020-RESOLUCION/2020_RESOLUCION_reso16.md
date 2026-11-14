@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00149378"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso16.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS AL SERVICIO DE SALUD ACONCAGUA HOSPITAL DE PUTAENDO."
 fecha: "2020-02-05"
 exenta: true

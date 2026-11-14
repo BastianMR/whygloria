@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 45 (2020)"
 description: "DEPARTAMENTO EMISOR: Impuestos Directos | CIRCULAR N° 45 27.2020 SN 20.2020 ID |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu45.pdf"
 materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.210 a los artículos 41 F y 41 G de la Ley sobre Impuesto a la Renta. Reemplaza, en lo pertinente, la Circular N° 12 de 2015. Complementa Circular N° 40 de 2016."
 fecha: "2020-07-07"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso65.pdf"
 materia: "FIJA REQUISITOS DE LLENADO PARA LAS FACTURAS, NOTAS DE CRÉDITO Y NOTAS DE DÉBITO UTILIZADAS EN LA VENTA DE CIGARRILLOS, EMITIDAS POR CONTRIBUYENTES OBLIGADOS AL CAMBIO DE SUJETO A PRODUCTOS DE TABACO."
 fecha: "2022-08-02"
 exenta: true

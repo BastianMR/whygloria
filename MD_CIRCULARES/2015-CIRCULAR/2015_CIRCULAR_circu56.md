@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 56 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 56.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu56.pdf"
 materia: "Facultad de ordenar el diseño y ejecución de actividades de muestreo y punto fijo para la fiscalización del correcto cumplimiento tributario de los contribuyentes."
 fecha: "2015-06-25"
 exenta: false

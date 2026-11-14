@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE265852"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso13.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Transporte y el Servicio de Impuestos Internos."
 fecha: "2024-01-24"
 exenta: true

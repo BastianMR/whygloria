@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 84 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso84.pdf"
 materia: "Aprueba Acuerdo de Colaboración Tributaria entre el Servicio de Impuestos Internos y la Corporación Chilena de la Madera."
 fecha: "2021-07-23"
 exenta: true

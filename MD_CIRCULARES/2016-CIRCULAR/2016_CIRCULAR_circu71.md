@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 71 (2016)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 71.- 15-2016 ID 5-2016 SN |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu71.pdf"
 materia: "Instrucciones sobre el régimen de tributación aplicable a los Fondos administrados por Administradoras de Fondos de Terceros y Carteras Individuales, establecido en la Ley N° 20.712, conforme a las modificaciones efectuadas por las leyes 20.780 y 20.899, y que rigen a partir del 1 de enero de 2017; "
 fecha: "2016-12-29"
 exenta: false

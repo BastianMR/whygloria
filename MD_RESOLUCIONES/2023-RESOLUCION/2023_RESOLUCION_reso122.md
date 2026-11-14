@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA 77323077574 GE261704"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso122.pdf"
 materia: "AUTORIZA A BETTERFLY CHILE SPA, RUT N° 76.837.328-0, PARA OPERAR UN SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2023-10-18"
 exenta: true

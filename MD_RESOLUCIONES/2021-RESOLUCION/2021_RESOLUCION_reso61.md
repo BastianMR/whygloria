@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 61 (2021)"
 description: "MATERIA: Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso61.pdf"
 materia: "Aprueba Convenio Intercambio de Información y Colaboración entre la Subsecretaría de Telecomunicaciones y el Servicio de Impuestos Internos."
 fecha: "2021-06-14"
 exenta: true

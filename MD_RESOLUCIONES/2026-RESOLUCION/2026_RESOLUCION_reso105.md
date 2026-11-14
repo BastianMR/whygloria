@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2026)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso105.pdf"
 materia: "COMPLEMENTA Y MODIFICA NÓMINA DE GRANDES CONTRIBUYENTES, ESTABLECIDA EN LA RESOLUCIÓN EX. SII N° 208, DE FECHA 30 DE DICIEMBRE DE 2025."
 fecha: "2026-08-20"
 exenta: true

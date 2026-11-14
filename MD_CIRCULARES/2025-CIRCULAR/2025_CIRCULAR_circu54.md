@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 54 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°54.- 342398.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu54.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de octubre de 2025 e información adicional relacionada con dicho tributo."
 fecha: "2025-09-09"
 exenta: false

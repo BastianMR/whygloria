@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 71 (2015)"
 description: "Complementada por Circular N° 39, del 8 de julio de 2016"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu71.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 a la Ley sobre Impuesto a la Renta, relacionadas con la tributación establecida en su artículo 21 y las normas sobre retención de impuesto contenidas en el N° 4, del artículo 74. También se instruye sobre las modificaciones incorporad"
 fecha: "2015-07-23"
 exenta: false

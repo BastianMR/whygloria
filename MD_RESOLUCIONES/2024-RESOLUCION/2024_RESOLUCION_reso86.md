@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE293549"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso86.pdf"
 materia: "INSTRUYE SOBRE OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE BIENES RAÍCES ARRENDADOS POR MEDIO DE FORMULARIO N° 1835; DEJA SIN EFECTO RESOLUCIÓN EX. SII N°98 de 31 DE AGOSTO DE 2023."
 fecha: "2024-08-30"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 11 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº11.- GE00369075                                   ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu11.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de abril 2026."
 fecha: "2026-03-19"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 51 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso51.pdf"
 materia: "CREA MODELO DE CERTIFICADO N° 62, SOBRE DONACIONES EFECTUADAS A LOS ÓRGANOS Y SERVICIOS PÚBLICOS INCLUIDOS EN LA LEY DE PRESUPUESTOS QUE, FORMAN PARTE DEL FISCO."
 fecha: "2019-04-30"
 exenta: true

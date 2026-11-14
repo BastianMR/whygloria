@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2024)"
 description: "MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuesto..."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso124.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Corporación de Fomento de la Producción y el Servicio de Impuestos Internos."
 fecha: "2024-12-19"
 exenta: true

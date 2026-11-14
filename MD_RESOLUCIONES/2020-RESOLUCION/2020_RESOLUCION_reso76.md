@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso76.pdf"
 materia: "PRORROGA APLICACIÓN DE MEDIDAS TRIBUTARIAS, EN RELACIÓN AL IMPUESTO A LA RENTA, A RAÍZ DE LA CATÁSTROFE GENERADA POR LA PROPAGACIÓN DEL COVID-19 EN CHILE, PARA LOS CONTRIBUYENTES QUE SE INDICAN."
 fecha: "2020-07-08"
 exenta: true

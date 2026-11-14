@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00357882"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso65.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Dirección General de Movilización Nacional y el Servicio de Impuestos Internos."
 fecha: "2026-05-20"
 exenta: true

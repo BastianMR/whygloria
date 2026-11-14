@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE 10317 446 - SDAC - 2017"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso106.pdf"
 materia: "AUTORIZA COMO RECEPTORES ELECTRÓNICOS DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS SIGUIENTES ORGANISMOS PÚBLICOS:"
 fecha: "2017-10-20"
 exenta: true

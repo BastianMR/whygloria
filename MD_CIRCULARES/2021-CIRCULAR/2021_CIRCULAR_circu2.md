@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 2 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°2.- 173071.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu2.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2021 y el 9 de febrero de 2021, ambos inclusive."
 fecha: "2021-01-12"
 exenta: false

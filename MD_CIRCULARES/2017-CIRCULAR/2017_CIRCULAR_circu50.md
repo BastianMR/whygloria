@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2017)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS INDIRECTOS | CIRCULAR N° 50 |"
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu50.pdf"
 materia: "Instruye sobre las modificaciones incorporadas por la Ley N° 20.956 al N° 16 de la letra E. del artículo 12°, y al artículo 36°, ambos del Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios, que rigen a contar del 1° de noviembre de 2016. 6(12)00"
 fecha: "2017-10-06"
 exenta: false

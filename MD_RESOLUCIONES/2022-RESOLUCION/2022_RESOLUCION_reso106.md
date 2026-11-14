@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 106 (2022)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE DEFENSA JUDICIAL CIVIL GE00197271"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso106.pdf"
 materia: "FIJA CRITERIOS GENERALES PARA ACEPTAR LAS BASES DE ACUERDO PARA CONCILIAR Y AVENIR, CONFORME CON LO DISPUESTO EN LOS ARTÍCULOS 132, 132 BIS y 132 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2022-11-17"
 exenta: true

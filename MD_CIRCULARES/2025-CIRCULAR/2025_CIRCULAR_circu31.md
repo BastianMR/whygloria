@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR Nº31.- GE00312320 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu31.pdf"
 materia: "Imparte instrucciones acerca de las normas incorporadas en el Código Tributario por las Leyes N° 21.713 y N° 21.716, en materia de medidas antielusión. Deja sin efecto la Circular N° 65 de 2015."
 fecha: "2025-04-17"
 exenta: false

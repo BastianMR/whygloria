@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°601-615 SDF-2017 Folio N°5041 5350-2017"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso112.pdf"
 materia: "DIRECCIÓN DE GRANDES CONTRIBUYENTES Reg. N°601-615 SDF-2017."
 fecha: "2017-11-15"
 exenta: true

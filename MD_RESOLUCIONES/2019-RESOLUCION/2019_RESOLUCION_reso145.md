@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 145 (2019)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso145.pdf"
 materia: "FIJA VALORES DE TERRENOS Y CONSTRUCCIONES PARA EL REAVALÚO 2020, DE LOS BIENES RAÍCES NO AGRÍCOLAS CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, UBICADOS EN LAS ÁREAS URBANAS."
 fecha: "2019-12-31"
 exenta: true

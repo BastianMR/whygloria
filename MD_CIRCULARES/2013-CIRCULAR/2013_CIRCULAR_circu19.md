@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2013)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 19 80-2012 ID 07-2012 SN Circ. |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu19.pdf"
 materia: "Instruye sobre la aplicación de los beneficios tributarios por la inversión privada en Investigación y Desarrollo contemplados en la Ley N° 20.241, modificada por la Ley N° 20.570. 6(12)00"
 fecha: "2013-04-15"
 exenta: false

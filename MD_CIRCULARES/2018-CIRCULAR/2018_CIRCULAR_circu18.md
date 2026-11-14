@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2018)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N°18.- |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu18.pdf"
 materia: "INFORMA PORCENTAJE DE REAJUSTE A APLICAR A LOS IMPUESTOS ANUALES A LA RENTA A DECLARAR EN EL AÑO TRIBUTARIO 2018, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 72 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2018-04-06"
 exenta: false

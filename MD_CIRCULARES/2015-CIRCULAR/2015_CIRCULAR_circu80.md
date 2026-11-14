@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 80 (2015)"
 description: "043-2014 II (008-2014 Circ-SN)"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu80.pdf"
 materia: "Aclara y precisa el concepto de 'laboratorio', para efectos de gravar la actividad desarrollada por estos establecimientos con el Impuesto al Valor Agregado. 6(12)00"
 fecha: "2015-09-29"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA APOYO LEGAL Y ADMINISTRATIVO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso47.pdf"
 materia: "HABILITA PLATAFORMA Y REGULA EL PROCEDIMIENTO DE SOLICITUD DEL PRÉSTAMO SOLIDARIO ESTABLECIDO EN EL ART. 9° DE LA LEY N°21.323."
 fecha: "2021-05-07"
 exenta: true

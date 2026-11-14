@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 30 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso30.pdf"
 materia: "FIJA NÓMINA DE TERRITORIOS O JURISDICCIONES QUE TIENEN UN RÉGIMEN FISCAL PREFERENCIAL, CONFORME AL ARTÍCULO 41 H DE LA LEY SOBRE IMPUESTO A LA RENTA"
 fecha: "2025-03-06"
 exenta: true

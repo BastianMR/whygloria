@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 157 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso157.pdf"
 materia: "IMPARTE REGLAS ESPECIALES PARA DETERMINACIÓN Y PUESTA A DISPOSICIÓN DE LOS PAGOS PROVISIONALES MENSUALES QUE DEBERÁN EFECTUAR LAS EMPRESAS ACOGIDAS AL RÉGIMEN PRO PYME DEL ARTÍCULO 14 LETRA D) N°3 LETRA k) Y N° 8 LETRA a) NUMERAL viii, AMBOS DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2020-12-15"
 exenta: true

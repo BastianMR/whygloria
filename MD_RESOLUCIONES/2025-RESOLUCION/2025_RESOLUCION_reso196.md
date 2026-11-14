@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 196 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00354332"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso196.pdf"
 materia: "Aprueba Convenio de Intercambio de información y colaboración entre el Servicio de Impuestos Internos y la Ilustre Municipalidad de Isla de Maipo."
 fecha: "2025-12-23"
 exenta: true

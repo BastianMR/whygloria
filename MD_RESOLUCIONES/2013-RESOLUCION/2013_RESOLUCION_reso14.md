@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE FISCALIZACIÓN INTERNACIONAL"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso14.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL INFORMATIVA DE PRECIOS DE TRANSFERENCIA"
 fecha: "2013-01-31"
 exenta: true

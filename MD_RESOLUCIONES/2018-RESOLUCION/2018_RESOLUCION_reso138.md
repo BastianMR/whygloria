@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 138 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 77318655087"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso138.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE BUIN, SR. ELIAS SALOMON MOHOR ALBORNOZ, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-12-20"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso77.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Servicios de Información Avanzada Comercial y Financiera."
 fecha: "2016-08-09"
 exenta: true

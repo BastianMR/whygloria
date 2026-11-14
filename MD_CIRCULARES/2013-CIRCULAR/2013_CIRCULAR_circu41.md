@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 41 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN | CIRCULAR N° 41.- |"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu41.pdf"
 materia: "MODIFICA Y COMPLEMENTA CIRCULAR N° 21 DEL 19 DE ABRIL DE 2013, SOBRE POLÍTICA DE CONDONACIÓN DE INTERESES Y SANCIONES PECUNIARIAS."
 fecha: "2013-09-05"
 exenta: false

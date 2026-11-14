@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso80.pdf"
 materia: "CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00294366"
 fecha: "2024-08-28"
 exenta: true

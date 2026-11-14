@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso128.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 fecha: "2016-12-28"
 exenta: true

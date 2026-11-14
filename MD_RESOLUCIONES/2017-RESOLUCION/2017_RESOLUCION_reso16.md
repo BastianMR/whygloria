@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2017)"
 description: "Lo dispuesto en los artículos 1° y 7° de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el D.F.L. N° 7, de 1980, de Hacienda; en los artícu..."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso16.pdf"
 materia: "ESTABLECE PROCEDIMIENTO A QUE DEBERÁN AJUSTARSE LOS CONTRIBUYENTES PARA ACREDITAR EL PAGO DEL TRIBUTO, CUANDO CORRESPONDA, ANTE LOS MINISTROS DE FE QUE SE INDICAN."
 fecha: "2017-01-31"
 exenta: true

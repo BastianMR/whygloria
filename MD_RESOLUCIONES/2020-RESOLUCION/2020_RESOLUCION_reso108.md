@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso108.pdf"
 materia: "DEJA SIN EFECTO LAS INSTRUCCIONES RELATIVAS A VALES EN REEMPLAZO DE BOLETAS Y VALES ELECTRÓNICOS EN REEMPLAZO DE LA BOLETA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2020-09-08"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 58 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°58.- 347066.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu58.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de noviembre de 2025 e información adicional relacionada con dicho tributo."
 fecha: "2025-10-10"
 exenta: false

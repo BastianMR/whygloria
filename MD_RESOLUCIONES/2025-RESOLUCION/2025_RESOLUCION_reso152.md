@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 152 (2025)"
 description: "MATERIA: Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuesto..."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso152.pdf"
 materia: "Aprueba prórroga del Convenio interadministrativo entre la Tesorería General de la República, el Banco del Estado de Chile y el Servicio de Impuestos Internos para disponibilizar canales de pago que faciliten la recaudación y el pago de tributos y otros ingresos públicos."
 fecha: "2025-10-29"
 exenta: true

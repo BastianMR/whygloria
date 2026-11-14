@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2018)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA DEPTO. DE NORMAS INTERNACIONALES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso48.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR ANUALMENTE INFORMACIÓN SOBRE CUENTAS FINANCIERAS, DE CONFORMIDAD AL ARTÍCULO 62 TER DEL CÓDIGO TRIBUTARIO."
 fecha: "2018-05-31"
 exenta: true

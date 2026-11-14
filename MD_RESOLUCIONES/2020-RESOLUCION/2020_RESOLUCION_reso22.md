@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2020)"
 description: "MODIFICA SUBROGANCIA DE SECRETARÍA GENERAL"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso22.pdf"
 materia: "MODIFICA SUBROGANCIA DE SECRETARÍA GENERAL"
 fecha: "2020-02-12"
 exenta: false

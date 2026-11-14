@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso21.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE ESTABLECÍAN LA OBLIGACIÓN DE PRESENTAR LAS DECLARACIONES JURADAS N°s 1884, 1885 Y 1886; Y SUS RESPECTIVOS CERTIFICADOS."
 fecha: "2018-03-02"
 exenta: true

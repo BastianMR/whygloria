@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2026)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso27.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN"
 fecha: "2026-02-20"
 exenta: true

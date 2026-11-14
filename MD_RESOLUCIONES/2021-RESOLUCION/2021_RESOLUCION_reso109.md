@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2021)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso109.pdf"
 materia: "PRORROGA EL PLAZO FIJADO EN EL N° 2 DE LA LETRA B DEL RESOLUTIVO 1° DE LA RESOLUCIÓN EX. N° 41 DE 2021 PARA RESOLVER LAS RECLAMACIONES DE PRÉSTAMO SOLIDARIO."
 fecha: "2021-09-15"
 exenta: true

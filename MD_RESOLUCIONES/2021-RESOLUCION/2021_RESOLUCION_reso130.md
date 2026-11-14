@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 130 (2021)"
 description: "MATERIA: Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso130.pdf"
 materia: "Aprueba Convenio de Colaboración entre Secretaría y Administración General del Ministerio de Hacienda y Servicio de Impuestos Internos."
 fecha: "2021-11-15"
 exenta: true

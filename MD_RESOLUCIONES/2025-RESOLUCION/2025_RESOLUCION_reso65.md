@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 65 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE323473"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso65.pdf"
 materia: "Aprueba Adendum al Convenio de Intercambio de Información y Colaboración entre la Unidad de Análisis Financiero y el Servicio de Impuestos Internos."
 fecha: "2025-05-29"
 exenta: true

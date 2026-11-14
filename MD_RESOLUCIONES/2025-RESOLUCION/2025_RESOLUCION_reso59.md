@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00322869"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso59.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA EFECTUAR DENUNCIAS ANÓNIMAS DE CONFORMIDAD AL ARTÍCULO 100 QUÁTER DEL CÓDIGO TRIBUTARIO"
 fecha: "2025-05-06"
 exenta: true

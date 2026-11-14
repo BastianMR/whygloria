@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso80.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA DECLARAR MEJORAS DE BIENES RAÍCES AL AMPARO DE LA LEY N° 20.780."
 fecha: "2015-09-29"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso53.pdf"
 materia: "ESTABLECE CRITERIOS GENERALES Y SITUACIONES QUE CONFIGURAN EL HECHO GRAVADO, EN LOS CASOS QUE SEÑALA LA LETRA G, DEL ARTICULO 8°, DEL D.L. N° 825 DE 1974, LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2021-05-25"
 exenta: true

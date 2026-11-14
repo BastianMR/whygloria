@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00314906"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso24.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N°54 DE 02 MAYO DE 2024, REEMPLAZANDO ORDEN DE SUBROGANTES DE LA SECRETARÍA GENERAL DEL SERVICIO DE IMPUESTOS INTERNOS"
 fecha: "2025-02-21"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso71.pdf"
 materia: "Aprueba Acuerdo de Confidencialidad entre el Banco Interamericano de Desarrollo y el Servicio de Impuestos Internos."
 fecha: "2024-07-04"
 exenta: true

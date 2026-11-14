@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 8 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°8.- GE 236992 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu8.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de marzo de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-02-09"
 exenta: false

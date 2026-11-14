@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2020)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCION DE AVALUACIONES | CIRCULAR Nº 7 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu7.pdf"
 materia: "Actualiza instrucciones para la aplicación 'F2890 EN LÍNEA', sobre declaración de enajenación e inscripción de bienes raíces y procedimiento de traspaso de información de Notarios y Conservadores de Bienes Raíces al Servicio de Impuestos Internos. Deroga Circulares N°41, de 1998, N°10 de 2004, N°39 "
 fecha: "2020-01-17"
 exenta: false

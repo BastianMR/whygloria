@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 38 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso38.pdf"
 materia: "INCORPÓRASE A SERVICIO DE COOPERACIÓN TÉCNICA, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
 exenta: false

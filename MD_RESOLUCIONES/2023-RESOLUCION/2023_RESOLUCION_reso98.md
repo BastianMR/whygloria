@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 98 (2023)"
 description: "a) Los corredores de propiedades, intermediarios y mandatarios, de arrendadores o arrendatarios, de bienes raíces agrícolas y/o no agrícolas, cuya participac..."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso98.pdf"
 materia: "INSTRUYE OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE BIENES RAÍCES ARRENDADOS POR MEDIO DE FORMULARIO N° 1835; DEJA SIN EFECTO RESOLUCIONES EXENTAS SII Nº 19 DE 2005, N° 30 DE 2005, N° 64 DE 2005 y N° 12 DE 2015."
 fecha: "2023-08-31"
 exenta: true

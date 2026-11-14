@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 153 (2018)"
 description: "MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso153.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EXENTA N° 4847 DE 1995 Y EL FORMULARIO N° 1891 E INSTRUCCIONES DE LLENADO"
 fecha: "2018-12-28"
 exenta: true

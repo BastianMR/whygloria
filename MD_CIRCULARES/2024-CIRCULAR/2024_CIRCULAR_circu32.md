@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 32 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°32.- 284962.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu32.pdf"
 materia: "Imparte instrucciones sobre la exención temporal de impuesto de timbres y estampillas a los créditos con garantía hipotecaria establecida en el artículo 6° de la Ley N° 21.673."
 fecha: "2024-07-19"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 34 (2018)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso34.pdf"
 materia: "OMISIÓN DE GIRO DE ROLES DE CONTRIBUCIONES QUE SE INDICAN CUYA CUOTA NO SUPERE LOS MONTOS SEÑALADOS."
 fecha: "2018-03-28"
 exenta: true

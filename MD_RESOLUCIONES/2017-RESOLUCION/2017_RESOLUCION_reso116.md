@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2017)"
 description: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso116.pdf"
 materia: "Fija nuevo plazo para presentar las Declaraciones Juradas sobre balance de 8 columnas y otros antecedentes; y sobre Base Imponible de Primera Categoría y Datos Contables Balance, Formularios N°s 1847 y 1926 respectivamente."
 fecha: "2017-12-01"
 exenta: true

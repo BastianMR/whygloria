@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso29.pdf"
 materia: "INSTRUYE SOBRE PROCEDIMIENTO Y PLAZO PARA COMUNICAR TASACIONES A VALOR DE MERCADO DE BIENES RAÍCES AL AMPARO DE LAS LEYES N° 20.780, DE 2014, Y N° 20.899, DE 2016."
 fecha: "2016-04-05"
 exenta: true

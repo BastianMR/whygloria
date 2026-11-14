@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00231813"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso56.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Registro Civil e Identificación y el Servicio de Impuestos Internos."
 fecha: "2025-04-30"
 exenta: true

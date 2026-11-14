@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso101.pdf"
 materia: "CREA MODELO DE CERTIFICADO N° 72, Y ESTABLECE OBLIGACIÓN DE INFORMAR LAS DONACIONES A QUE SE REFIERE EL ARTÍCULO 18 DE LA LEY N° 21.258."
 fecha: "2021-08-31"
 exenta: true

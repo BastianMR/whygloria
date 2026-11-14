@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2026)"
 description: "RESOLUCIÓN EXENTA SII N°24.- RESOLUCIÓN EXENTA TGR N°01.-"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso24.pdf"
 materia: "RESOLUCIÓN EXENTA SII N°24.- RESOLUCIÓN EXENTA TGR N°01."
 fecha: "2026-02-10"
 exenta: true

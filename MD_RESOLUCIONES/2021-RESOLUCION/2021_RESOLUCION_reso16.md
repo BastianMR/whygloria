@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2021)"
 description: "DESIGNA SECRETARIO GENERAL SUBROGANTE"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso16.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN INTERNET"
 fecha: "2021-02-15"
 exenta: false

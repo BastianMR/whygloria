@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2014)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso109.pdf"
 materia: "INCORPORA A LAS ADMINISTRADORAS DE FONDOS DE INVERSIÓN Y DE FONDOS MUTUOS A LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA ANUAL 1807."
 fecha: "2014-11-27"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2020)"
 description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR DECLARACIONES JURADAS N°1933, N°3225 Y N° 3226."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso35.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR DECLARACIONES JURADAS N°1933, N°3225 Y N° 3226."
 fecha: "2020-03-26"
 exenta: true

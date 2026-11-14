@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 198 (2025)"
 description: "MATERIA: Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso198.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Fondo Nacional de Salud y el Servicio de Impuestos Internos."
 fecha: "2025-12-23"
 exenta: true

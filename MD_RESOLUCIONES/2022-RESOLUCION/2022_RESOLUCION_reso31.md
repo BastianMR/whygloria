@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 31 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE173334"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso31.pdf"
 materia: "AUTORIZA A EDEREND CHILE S.A RUT N° 96.781.350-8, A EMITIR DOCUMENTOS TRIBUTARIOS EN LA FORMA QUE INDICA."
 fecha: "2022-04-11"
 exenta: true

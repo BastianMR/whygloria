@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 37 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso37.pdf"
 materia: "MODIFICA LA RESOLUCIÓN EX. SII N° 30 DE FECHA 25.03.2022 Y APLICA LO DISPUESTO EN DICHA RESOLUCIÓN A LA RESTITUCIÓN DEL PRÉSTAMO TASA CERO DEL ARTÍCULO 9° DE LA LEY N° 21.323."
 fecha: "2023-03-21"
 exenta: true

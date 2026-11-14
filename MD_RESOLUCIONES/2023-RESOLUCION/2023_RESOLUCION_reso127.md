@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 127 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso127.pdf"
 materia: "INSTRUYE SOBRE PRESENTACIÓN DE DECLARACIÓN DE IMPUESTOS FORMULARIO 29 FUERA DE PLAZO A TRAVÉS DE INTERNET."
 fecha: "2023-11-13"
 exenta: true

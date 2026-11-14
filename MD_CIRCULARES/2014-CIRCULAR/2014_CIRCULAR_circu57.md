@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 57.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu57.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de noviembre del año 2014 y el 9 de diciembre del año 2014."
 fecha: "2014-11-12"
 exenta: false

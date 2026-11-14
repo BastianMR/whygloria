@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 26 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Jurídica Depto. de Asesoría Jurídica Of. de Gestión y Apoyo en la Jurisprudencia                                           ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu26.pdf"
 materia: "Actualiza instrucciones sobre el recurso de reposición administrativa voluntaria, en conformidad con las modificaciones introducidas por la Ley N°21.713 al artículo 124 del Código Tributario. Modifica Circular N°12 de 2021. Deja sin efecto Circular N°23 de 2018."
 fecha: "2026-06-18"
 exenta: false

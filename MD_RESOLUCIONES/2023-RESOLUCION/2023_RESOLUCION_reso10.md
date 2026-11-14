@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE00235752"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso10.pdf"
 materia: "ESTABLECE PROCEDIMIENTO PARA DECLARAR Y PAGAR O SUSPENDER LA CONTRIBUCIÓN PARA EL DESARROLLO REGIONAL REGULADA EN EL ARTÍCULO TRIGÉSIMO SEGUNDO DE LA LEY N° 21.210."
 fecha: "2023-01-27"
 exenta: true

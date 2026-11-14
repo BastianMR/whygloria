@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2018)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso123.pdf"
 materia: "EXCLUYE DE NÓMINA DE CONTRIBUYENTES SUJETOS A RETENCIÓN, FIJADA CONFORME A RESOLUCIÓN EX. SII N° 54, DE 29 DE JUNIO DE 2018."
 fecha: "2018-12-14"
 exenta: true

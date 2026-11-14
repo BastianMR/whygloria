@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2017)"
 description: "DIRECCIÓN DE GRANDES CONTRIBUYENTES 521-SDF-2017 593-2017 / 4857-17"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso92.pdf"
 materia: "DIRECCIÓN DE GRANDES CONTRIBUYENTES 521-SDF-2017 593-2017 / 4857-17"
 fecha: "2017-10-06"
 exenta: true

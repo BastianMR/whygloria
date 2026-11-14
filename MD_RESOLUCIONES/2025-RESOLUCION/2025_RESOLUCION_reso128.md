@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 128 (2025)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso128.pdf"
 materia: "INSTRUYE SOBRE LAS CARACTERÍSTICAS DEL DOCUMENTO TRIBUTARIO QUE LOS CREADORES DE CONTENIDO DIGITAL DEBEN EMITIR."
 fecha: "2025-10-01"
 exenta: true

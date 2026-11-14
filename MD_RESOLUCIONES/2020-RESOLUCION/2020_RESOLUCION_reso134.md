@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 134 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso134.pdf"
 materia: "AUTORIZA COMO RECEPTOR ELECTRÓNICO DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS A LOS ORGANISMOS PÚBLICOS QUE INDICA."
 fecha: ""
 exenta: true

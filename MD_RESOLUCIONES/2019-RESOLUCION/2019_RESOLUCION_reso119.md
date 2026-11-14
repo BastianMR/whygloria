@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 119 (2019)"
 description: "MATERIA: Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso119.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Impuestos Internos y el Ministerio del Medio Ambiente."
 fecha: "2019-10-28"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 47 (2022)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 47.- GE00219143 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu47.pdf"
 materia: "Imparte instrucciones acerca de las modificaciones introducidas al Código Tributario por la Ley N° 21.453, obligando a inversionistas, bancos y otras instituciones financieras que se indican a entregar, anualmente, al Servicio de Impuestos Internos, información sobre inversiones, saldos y sumas de a"
 fecha: "2022-10-12"
 exenta: false

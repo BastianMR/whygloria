@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 80 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso80.pdf"
 materia: "ESTABLECE PROCEDIMIENTO DE IDENTIFICACIÓN COMO CONTRIBUYENTE CATALOGADO COMO EXPORTADOR DE SERVICIOS PRESTADOS Y UTILIZADOS TOTALMENTE EN EL EXTRANJERO"
 fecha: "2019-06-28"
 exenta: true

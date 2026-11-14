@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2026)"
 description: "SUBDIRECCIÓN JURÍDICA OFICINA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN GE00375644"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso64.pdf"
 materia: "Designa en calidad de Sujetos Pasivos a los servidores públicos que se indican, en razón de su función o cargo, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N°20.730, que Regula el Lobby y las Gestiones que representen Intereses Particulares ante las autoridades y funcionarios. Deja sin e"
 fecha: "2026-04-30"
 exenta: true

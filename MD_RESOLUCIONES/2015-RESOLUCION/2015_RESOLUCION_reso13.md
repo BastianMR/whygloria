@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2015)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso13.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 08, DEL 10 DE ENERO DEL 2007, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2015-02-24"
 exenta: true

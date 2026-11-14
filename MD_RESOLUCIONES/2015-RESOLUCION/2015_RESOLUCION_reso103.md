@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 103 (2015)"
 description: "SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso103.pdf"
 materia: "ACTUALIZA NORMAS DE FUNCIONAMIENTO DEL COMITÉ BIPARTITO DE CAPACITACIÓN DEL SII."
 fecha: "2015-12-21"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 37 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 37.- GE00219991.2022 |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu37.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de septiembre de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-08-10"
 exenta: false

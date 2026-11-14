@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 62 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso62.pdf"
 materia: "Aprueba Acuerdo sobre Intercambio de Información entre Servicio Nacional De Aduanas y Servicio de Impuestos Internos."
 fecha: "2017-07-14"
 exenta: true

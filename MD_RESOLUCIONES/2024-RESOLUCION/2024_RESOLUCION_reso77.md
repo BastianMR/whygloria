@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 77 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00269784/77323550624"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso77.pdf"
 materia: "AUTORIZA A BANCO DE CHILE A EXIMIRSE DE LA OBLIGACIÓN DE LA EMISIÓN DE LIQUIDACIÓN A QUE HACE REFRENCIA EL RESOLUTIVO 3° DE LA RES. EX. N° 328, DE 1977, CUMPLIENDO REQUISITOS QUE SE INDICAN."
 fecha: "2024-08-01"
 exenta: true

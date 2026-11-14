@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 152 (2026)"
 description: "SUBDIRECCIÓN DE CONTRALORÍA INTERNA GE00402534"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso152.pdf"
 materia: "DELEGA EN EL SUBDIRECTOR DE CONTRALORÍA INTERNA LA FACULTAD QUE SE CONTIENE EN EL ARTÍCULO 41 BIS DE LA LEY ORGÁNICA DEL SERVICIO."
 fecha: "2026-11-03"
 exenta: true

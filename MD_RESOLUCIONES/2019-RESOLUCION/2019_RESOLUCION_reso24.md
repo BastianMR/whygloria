@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 24 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE SISTEMAS DE FISCALIZACIÓN"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso24.pdf"
 materia: "Resuelve solicitud de Philip Morris Chile Comercializadora Ltda. de fecha 17.01.2019, complementada por presentación de 01.02.2019, en orden a prorrogar a su respecto, el plazo establecido para implementar el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis"
 fecha: "2019-02-15"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 39.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu39.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de octubre de 2019 y el 9 de noviembre de 2019, ambos inclusive."
 fecha: "2019-10-10"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS INTERNACIONALES Y GRUPOS EMPRESARIALES GE00360708"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso15.pdf"
 materia: "APRUEBA ACUERDO DE COOPERACIÓN CON GRUPO EMPRESARIAL ENEL"
 fecha: "2026-01-21"
 exenta: true

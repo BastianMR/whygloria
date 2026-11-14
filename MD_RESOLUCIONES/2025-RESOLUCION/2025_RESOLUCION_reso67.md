@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso67.pdf"
 materia: "ESTABLECE MEDIDAS PARA ASEGURAR EL CUMPLIMIENTO DEL DEBER DE RESERVA DE CONFORMIDAD CON EL ARTÍCULO 206 DEL CÓDIGO TRIBUTARIO"
 fecha: "2025-06-12"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso35.pdf"
 materia: "Aprueba Convenio Intercambio de Información y Colaboración entre el Banco Central de Chile y el Servicio de Impuestos Internos."
 fecha: "2021-03-31"
 exenta: true

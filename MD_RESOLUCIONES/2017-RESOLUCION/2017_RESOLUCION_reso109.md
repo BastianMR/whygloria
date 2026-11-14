@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 109 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso109.pdf"
 materia: "DESIGNA RESPONSABLES EN LAS CERTIFICACIONES DIGITALES QUE INDICA."
 fecha: "2017-11-06"
 exenta: true

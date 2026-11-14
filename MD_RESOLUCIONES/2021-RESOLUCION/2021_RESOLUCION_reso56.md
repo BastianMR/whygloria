@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso56.pdf"
 materia: "INCORPORA A LA TABLA DE DEPRECIACIÓN DE RES. EX.SII N°43 DE 2002, LOS VEHÍCULOS ELÉCTRICOS O HÍBRIDOS CON RECARGA ELÉCTRICA EXTERIOR, Y OTROS CALIFICADOS COMO CERO EMISIONES POR RESOLUCIÓN FUNDADA DEL MINISTERIO DE ENERGÍA."
 fecha: "2021-06-09"
 exenta: true

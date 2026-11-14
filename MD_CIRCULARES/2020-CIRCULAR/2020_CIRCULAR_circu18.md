@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 18 (2020)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE | CIRCULAR N° 18 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu18.pdf"
 materia: "Procedimiento especial y transitorio del Servicio de Impuestos Internos para la obtención y recuperación de clave inicial internet."
 fecha: "2020-03-19"
 exenta: false

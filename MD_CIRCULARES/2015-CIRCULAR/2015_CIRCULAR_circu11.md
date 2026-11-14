@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 11 (2015)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS 1875 | CIRCULAR N° 11.- 01.2015 SN 05.2015 ID |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu11.pdf"
 materia: "Instruye sobre las modificaciones efectuadas por la Ley N° 20.780 al beneficio tributario contenido en el artículo 57 bis de la Ley sobre Impuesto a la Renta a contar del 1° de enero de 2015, su derogación a partir del 1° de enero de 2017 y sobre el tratamiento del saldo de ahorro por las inversione"
 fecha: "2015-01-30"
 exenta: false

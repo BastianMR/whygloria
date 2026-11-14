@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 5 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO MEDIANAS Y GRANDES EMPRESAS"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso5.pdf"
 materia: "ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIONES JURADAS SEMESTRALES QUE INDICA. DEROGA RESOLUCIÓN EXENTA SII N°117 DEL 03 DE OCTUBRE DEL 2011."
 fecha: ""
 exenta: true

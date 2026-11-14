@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2018)"
 description: "MATERIA: DESIGNA RESPONSABLES DE PROCESOS QUE INDICA, DELEGA FACULTADES Y DEROGA RESOLUCIÓN EX. SII N°2101 DE 12 DE MAYO DE 2017."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso29.pdf"
 materia: "DESIGNA RESPONSABLES DE PROCESOS QUE INDICA, DELEGA FACULTADES Y DEROGA RESOLUCIÓN EX. SII N°2101 DE 12 DE MAYO DE 2017."
 fecha: "2018-03-16"
 exenta: false

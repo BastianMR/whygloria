@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 36 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 36.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu36.pdf"
 materia: "OPERACIONES DE CRÉDITO DE DINERO - Valor de la Unidad de Fomento para los días comprendidos entre el 10 de junio del año 2016 y el 9 de julio del año 2016."
 fecha: "2016-06-15"
 exenta: false

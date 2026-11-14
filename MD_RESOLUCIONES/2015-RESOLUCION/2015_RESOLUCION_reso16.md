@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 16 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso16.pdf"
 materia: "REEMPLAZA LOS FORMATOS Y LAS INSTRUCCIONES DE LAS DECLARACIONES JURADAS FORMULARIOS N°s 1851, 1852 Y 1853 Y MODIFICA LA OBLIGACIÓN DE PRESENTAR DICHAS DECLARACIONES."
 fecha: "2015-03-03"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE 227667"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso17.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Subsecretaría de Turismo, el Servicio Nacional de Turismo y el Servicio de Impuestos Internos."
 fecha: "2023-02-17"
 exenta: true

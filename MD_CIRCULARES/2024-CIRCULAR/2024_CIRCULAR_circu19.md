@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 19 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°19.- 282557.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu19.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de mayo de 2024 y el 9 de junio de 2024, ambos inclusive."
 fecha: "2024-05-10"
 exenta: false

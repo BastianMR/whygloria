@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2016)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso14.pdf"
 materia: "Aprueba convenio de intercambio de información entre el Servicio de Impuestos Internos y Servicios Equifax Chile Limitada."
 fecha: "2016-03-11"
 exenta: true

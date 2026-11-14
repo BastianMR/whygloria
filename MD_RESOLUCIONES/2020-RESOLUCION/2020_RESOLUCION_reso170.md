@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 170 (2020)"
 description: "Diario Oficial en extracto"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso170.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2020-12-29"
 exenta: false

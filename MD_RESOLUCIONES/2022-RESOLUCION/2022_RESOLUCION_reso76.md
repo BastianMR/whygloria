@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 76 (2022)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso76.pdf"
 materia: "INSTRUYE SOBRE LA RETENCIÓN DE IMPUESTOS DE 15% POR RESCATES DE LA CUENTA DE INVERSIÓN Y OTRAS CANTIDADES PAGADAS EN VIRTUD DE UN CONTRATO DE SEGURO DE VIDA CON AHORRO CON CUENTA ÚNICA DE INVERSIÓN."
 fecha: "2022-08-31"
 exenta: true

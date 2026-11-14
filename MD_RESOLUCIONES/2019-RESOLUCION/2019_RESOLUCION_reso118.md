@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2019)"
 description: "Subdirección de Administración Depto. de Adquisiciones"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso118.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN N° 37, DE 2013, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2019-10-25"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 86 (2015)"
 description: "CREA OFICINA QUE INDICA EN LA SUBDIRECCIÓN DE FISCALIZACIÓN, FIJA SU DEPENDENCIA Y SEÑALA SUS FUNCIONES."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso86.pdf"
 materia: "CREA OFICINA QUE INDICA EN LA SUBDIRECCIÓN DE FISCALIZACIÓN, FIJA SU DEPENDENCIA Y SEÑALA SUS FUNCIONES."
 fecha: "2015-10-20"
 exenta: true

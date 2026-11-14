@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 29 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00136007"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso29.pdf"
 materia: "EXIME A ORGANIZACIÓN NO GUBERNAMENTAL DE DESARROLLO CANALES 'ONG CANALES', DE LA OBLIGACIÓN DE TIMBRAJE EN LA EMISIÓN DE CERTIFICADOS POR DONACIONES Y FIJA REQUISITOS QUE SEÑALAN."
 fecha: "2020-03-11"
 exenta: true

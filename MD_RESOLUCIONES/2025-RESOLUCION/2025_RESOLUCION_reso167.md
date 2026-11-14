@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 167 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO DEFENSA JUDICIAL CIVIL GE00353319"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso167.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA."
 fecha: "2025-11-27"
 exenta: true

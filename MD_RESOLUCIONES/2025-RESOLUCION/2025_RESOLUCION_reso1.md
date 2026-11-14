@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2025)"
 description: "SUBDIRECCION NORMATIVA"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso1.pdf"
 materia: "CREA REGISTRO DE PEQUEÑOS ARTESANOS EXONERADOS DE IVA EN LAS VENTAS DE PRODUCTOS QUE ELABOREN CON MATERIAS PRIMAS."
 fecha: "2025-01-02"
 exenta: true

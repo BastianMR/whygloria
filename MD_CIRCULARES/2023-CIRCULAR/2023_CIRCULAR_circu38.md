@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 38 (2023)"
 description: "DEPARTAMENTO EMISOR Subdirección de Avaluaciones | CIRCULAR N°38.- 256519.2023 GE |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu38.pdf"
 materia: "Modifica Circular N° 57 de 2022, que imparte instrucciones sobre el impuesto establecido en el artículo 9 de la Ley N° 21.420, en la parte relativa a la exención que beneficia a bienes de empresas."
 fecha: "2023-09-06"
 exenta: false

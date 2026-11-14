@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 26 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 26 178148.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu26.pdf"
 materia: "Imparte instrucciones sobre diversas modificaciones incorporadas por la Ley N° 21.210, de 24 de febrero de 2020, al Decreto Ley N° 825, de 1974, Ley sobre Impuesto a las Ventas y Servicios."
 fecha: "2021-04-21"
 exenta: false

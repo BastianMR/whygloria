@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 22 (2020)"
 description: "DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 08.2020 SN 03.2020 ID | CIRCULAR N° 22 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu22.pdf"
 materia: "MATERIA Modificaciones efectuadas por la Ley N° 21.210 publicada el 24 de febrero de 2020, a la Ley N° 20.544, que regula el tratamiento tributario de los instrumentos derivados."
 fecha: "2020-03-30"
 exenta: false

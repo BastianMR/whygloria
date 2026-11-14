@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 20 (2020)"
 description: "DEPARTAMENTO EMISOR: Departamento de Impuestos Directos 09.2020 CIRC SN 04.2020 CIRC ID | CIRCULAR N° 20 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu20.pdf"
 materia: "MATERIA Modificación efectuada por la Ley N° 21.210 de 24 de febrero de 2010, al artículo 10 de la Ley N° 19.885, que incentiva y norma el buen uso de donaciones que dan origen a beneficios tributarios y los extiende a otros fines sociales y públicos."
 fecha: "2020-03-25"
 exenta: false

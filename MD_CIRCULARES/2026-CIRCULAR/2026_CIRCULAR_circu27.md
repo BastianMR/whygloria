@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 27 (2026)"
 description: "DEPARTAMENTO EMISOR DEPARTAMENTO DE ASESORÍA JURÍDICA                                                                                                        ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu27.pdf"
 materia: "Pone en conocimiento la Política de Condonaciones contenida en el Decreto N° 437, de 30 de abril de 2025, dictado en cumplimiento de lo dispuesto en el artículo 207 del Código tributario Deroga Circular N° 50, 20 de julio de 2016"
 fecha: "2026-06-23"
 exenta: false

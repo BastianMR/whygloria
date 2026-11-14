@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 67 (2020)"
 description: "DEPARTAMENTO EMISOR: Oficina de Gestión Normativa | CIRCULAR N°67 168738.2020 GE |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu67.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2020 e información adicional relacionada con dicho tributo."
 fecha: "2020-11-11"
 exenta: false

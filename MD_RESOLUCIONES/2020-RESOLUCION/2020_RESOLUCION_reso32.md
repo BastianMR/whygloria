@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 32 (2020)"
 description: "MATERIA: AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS QUE SE INDICAN."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso32.pdf"
 materia: "AMPLÍA EL PLAZO PARA PRESENTAR LAS DECLARACIONES JURADAS QUE SE INDICAN."
 fecha: "2020-03-23"
 exenta: true

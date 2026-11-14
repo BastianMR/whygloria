@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 83 (2018)"
 description: "Subdirección de Fiscalización DEPARTAMENTO DE ANÁLISIS MASIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso83.pdf"
 materia: "RESOLUCION EX. SII N° 83.SANTIAGO, 14 DE SEPTIEMBRE DE 2018 VISTOS:"
 fecha: "2018-09-14"
 exenta: true

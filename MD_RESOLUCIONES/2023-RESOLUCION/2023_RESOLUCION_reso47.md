@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2023)"
 description: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII- MAPAS ' a la Ilustre Municipalidad de Arica"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso47.pdf"
 materia: "Autoriza acceso a los Servicios de Interoperabilidad Cartografía D igital ' SII- MAPAS ' a la Ilustre Municipalidad de Arica"
 fecha: "2023-04-13"
 exenta: true

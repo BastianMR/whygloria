@@ -41,3 +41,5 @@
 * [2026_CIRCULAR_circu39](./2026_CIRCULAR_circu39.md)
 * [2026_CIRCULAR_circu40](./2026_CIRCULAR_circu40.md)
 * [2026_CIRCULAR_circu41](./2026_CIRCULAR_circu41.md)
+* [2026_CIRCULAR_circu42](./2026_CIRCULAR_circu42.md)
+* [2026_CIRCULAR_circu43](./2026_CIRCULAR_circu43.md)

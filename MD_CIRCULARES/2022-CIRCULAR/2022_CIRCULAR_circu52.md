@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 52 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 52.- 228131.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu52.pdf"
 materia: "Tablas de Impuesto Único de Segunda Categoría para el mes de diciembre de 2022, e información adicional relacionada con dicho tributo."
 fecha: "2022-11-09"
 exenta: false

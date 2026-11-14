@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 112 (2023)"
 description: "RESOLUCIÓN EXENTA SII N°112.RESOLUCIÓN EXENTA TGR N° 513.-"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso112.pdf"
 materia: "RESOLUCIÓN EXENTA SII N°112.RESOLUCIÓN EXENTA TGR N° 513."
 fecha: "2023-09-21"
 exenta: true

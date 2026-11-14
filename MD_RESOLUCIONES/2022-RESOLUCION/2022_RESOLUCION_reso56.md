@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso56.pdf"
 materia: "DESIGNA SECRETARIO TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CHILLÁN."
 fecha: "2022-06-24"
 exenta: true

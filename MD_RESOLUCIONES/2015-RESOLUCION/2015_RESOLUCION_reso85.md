@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2015)"
 description: "SUBDIRECCIÓN DE RECURSOS HUMANOS"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso85.pdf"
 materia: "CREA EL DEPARTAMENTO DE DESARROLLO ORGANIZACIONAL DEPENDIENTE DEL DEPARTAMENTO SUBDIRECCIÓN DE RECURSOS HUMANOS. OTRAS MEDIDAS QUE INDICA."
 fecha: "2015-10-20"
 exenta: true

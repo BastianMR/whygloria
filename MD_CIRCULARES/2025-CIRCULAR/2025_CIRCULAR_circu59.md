@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 59 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº59.- GE347371 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu59.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de noviembre 2025."
 fecha: "2025-10-13"
 exenta: false

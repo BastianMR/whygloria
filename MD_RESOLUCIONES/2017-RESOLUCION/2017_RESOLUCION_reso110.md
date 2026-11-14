@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 110 (2017)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE INFORMÁTICA"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso110.pdf"
 materia: "REORGANIZA LAS UNIDADES QUE CONFORMAN EL DEPARTAMENTO SUBDIRECCIÓN DE INFORMÁTICA Y ESTABLECE SUS ÁMBITOS DE COMPETENCIA."
 fecha: "2017-11-15"
 exenta: true

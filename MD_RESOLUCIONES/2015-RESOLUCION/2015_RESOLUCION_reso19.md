@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2015)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso19.pdf"
 materia: "FIJA NUEVO PLAZO PARA PRESENTACIÓN DE DECLARACIONES JURADAS FORMULARIOS N°s 1851, 1852 y 1853, ESTABLECIDAS MEDIANTE RESOLUCIÓN EXENTA QUE SE INDICA."
 fecha: "2015-03-09"
 exenta: true

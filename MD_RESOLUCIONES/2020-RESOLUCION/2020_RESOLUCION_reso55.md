@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso55.pdf"
 materia: "REGULA INSCRIPCIÓN EN EL RÉGIMEN DE TRIBUTACIÓN SIMPLIFICADA ESTABLECIDO EN EL ARTÍCULO 35 A DEL NUEVO PÁRRAFO 7° BIS DE LA LEY SOBRE IMPUESTO A LAS VENTAS Y SERVICIOS."
 fecha: "2020-05-20"
 exenta: true

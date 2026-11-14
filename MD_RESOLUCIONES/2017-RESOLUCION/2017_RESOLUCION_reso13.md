@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso13.pdf"
 materia: "AUTORIZA EL USO DE DOCUMENTOS TRIBUTARIOS EN PAPEL A LOS CONTRIBUYENTES DE LA REGIÓN DE LA ARAUCANÍA."
 fecha: "2017-01-31"
 exenta: true

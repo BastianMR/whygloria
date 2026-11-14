@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 13 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso13.pdf"
 materia: "AUTORIZA COMO EMISORES DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS Y BOLETAS ELECTRÓNICAS A CONTRIBUYENTES QUE SEÑALA."
 fecha: "2014-01-31"
 exenta: true

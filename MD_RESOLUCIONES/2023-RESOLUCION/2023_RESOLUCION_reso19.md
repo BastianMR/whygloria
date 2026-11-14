@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 19 (2023)"
 description: "RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso19.pdf"
 materia: "RECTIFICA EN EL MODO QUE INDICA LISTA ANEXA DE LA RES. EX. N°4, DE 2023, COMPLEMENTADA POR LA RES. EX. N° 12, DEL 2023."
 fecha: "2023-02-22"
 exenta: true

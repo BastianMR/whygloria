@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 5 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°05.- 309893.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu5.pdf"
 materia: "Operaciones de crédito de dinero. Valor de la Unidad de Fomento para los días comprendidos entre el 10 de enero de 2025 y el 9 de febrero de 2025, ambos inclusive."
 fecha: "2025-01-09"
 exenta: false

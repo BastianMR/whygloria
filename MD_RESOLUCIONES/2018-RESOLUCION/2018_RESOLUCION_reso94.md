@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso94.pdf"
 materia: "AUTORIZA AL CONSERVADOR DE BIENES RAÍCES DE CAUQUENES, SR. YAMIL ABRAHAM ANTONIO NAJLE ALEE, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2018-10-05"
 exenta: true

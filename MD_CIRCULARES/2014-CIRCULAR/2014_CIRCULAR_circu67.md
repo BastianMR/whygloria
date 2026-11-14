@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 67 (2014)"
 description: "DEPARTAMENTO EMISOR OFICINA ANÁLISIS DE LA JURISPRUDENCIA | CIRCULAR N° 67.- |"
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu67.pdf"
 materia: "Modificaciones introducidas por la Ley N° 20.780, de 29 de septiembre de 2014, al Artículo 97 N° 20 del Código Tributario, contenido en el Decreto Ley N° 830, de 1974."
 fecha: "2014-12-24"
 exenta: false

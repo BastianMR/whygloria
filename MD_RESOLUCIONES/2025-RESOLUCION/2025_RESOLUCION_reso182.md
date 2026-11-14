@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 182 (2025)"
 description: "COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso182.pdf"
 materia: "COMPLEMENTA LISTADO ANEXO DE LA RESOLUCIÓN EX. N° 7 DE 2025"
 fecha: "2025-12-15"
 exenta: true

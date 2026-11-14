@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 67 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°67.- 356101.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu67.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de enero de 2026 e información adicional relacionada con dicho tributo."
 fecha: "2025-12-10"
 exenta: false

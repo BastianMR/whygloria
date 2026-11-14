@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 25 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso25.pdf"
 materia: "Aprueba Addendum Modificación Convenio de Colaboración entre Tesorería General de la República y Servicio de Impuestos Internos"
 fecha: "2020-02-19"
 exenta: true

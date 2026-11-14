@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 42 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00367346"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso42.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Ministerio de Bienes Nacionales y el Servicio de Impuestos Internos."
 fecha: "2026-03-19"
 exenta: true

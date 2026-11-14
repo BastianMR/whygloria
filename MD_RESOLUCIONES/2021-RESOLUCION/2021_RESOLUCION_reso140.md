@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 140 (2021)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00186688"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso140.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre el Servicio de Cooperación Técnica y el Servicio de Impuestos Internos."
 fecha: "2021-12-28"
 exenta: true

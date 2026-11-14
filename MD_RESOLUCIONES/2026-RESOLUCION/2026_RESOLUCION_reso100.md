@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso100.pdf"
 materia: "OTÓRGUESE ACCESO A LA SIGUIENTE INSTITUCIÓN LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API) INICIO DE ACTIVIDADES"
 fecha: "2026-07-28"
 exenta: false

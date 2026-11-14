@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 22 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318684611 423 - SDAC - 2018"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso22.pdf"
 materia: "AUTORIZA LA EMISION EXCEPCIONAL DE FACTURAS POR OPERACIONES DE LEASING AUTOMOTRIZ A CONTRIBUYENTE QUE INDICA."
 fecha: "2019-02-08"
 exenta: true

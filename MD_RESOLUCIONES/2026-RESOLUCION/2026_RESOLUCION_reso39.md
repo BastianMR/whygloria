@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00367995"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso39.pdf"
 materia: "Aprueba Convenio de Intercambio de Información entre el Ministerio Público y el Servicio de Impuestos Internos."
 fecha: "2026-03-10"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 123 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso123.pdf"
 materia: "ESTABLECE FORMA Y PLAZO PARA PRESENTAR DECLARACIÓN JURADA ANUAL SOBRE RENTAS OBTENIDAS POR TERCEROS, FORMULARIO N° 1932."
 fecha: "2016-12-26"
 exenta: true

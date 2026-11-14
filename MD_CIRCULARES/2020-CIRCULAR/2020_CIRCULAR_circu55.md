@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 55 (2020)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N° 55 |"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu55.pdf"
 materia: "Imparte instrucciones sobre exención a la importación de bienes de capital establecida en el artículo 12, letra B, N° 10 del Decreto Ley N° 825 de 1974, Ley sobre Impuesto a las Ventas y Servicios, modificado por las Leyes N° 20.848, N° 20.899 y N° 21.210. Deja sin efecto la Circular N° 48 de 1978"
 fecha: "2020-08-18"
 exenta: false

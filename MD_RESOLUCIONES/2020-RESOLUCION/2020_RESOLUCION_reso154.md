@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 154 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso154.pdf"
 materia: "Aprueba Convenio Intercambio de Información y Colaboración entre la Dirección de Presupuesto y el Servicio de Impuestos Internos."
 fecha: "2020-12-11"
 exenta: true

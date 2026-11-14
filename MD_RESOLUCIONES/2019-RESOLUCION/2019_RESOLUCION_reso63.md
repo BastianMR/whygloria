@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 117-SDAC-2019"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso63.pdf"
 materia: "MODIFICA RES. EX. N° 5856 DEL 6 DE OCTUBRE DE 1998 QUE ELIMINA OTORGAMIENTO DE BOLETAS DE HONORARIOS POR PROFESIONALES Y SOCIEDADES DE PROFESIONALES AL FONDO NACIONAL DE SALUD."
 fecha: "2019-05-17"
 exenta: false

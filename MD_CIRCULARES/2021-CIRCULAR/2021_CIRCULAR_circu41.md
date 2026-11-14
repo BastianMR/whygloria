@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 41 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°41.- |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu41.pdf"
 materia: "MATERIA Imparte instrucciones sobre modificaciones introducidas por la Ley N° 21.210 al Código Tributario, en relación con las normas que regulan la relación de los contribuyentes con el Servicio de Impuestos Internos, incluyendo normas sobre sitio electrónico, facilitación del cumplimiento tributar"
 fecha: "2021-07-02"
 exenta: false

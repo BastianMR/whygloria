@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2026)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE384050"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso88.pdf"
 materia: "FIJA TASAS DE INTERÉS A APLICAR POR MORA EN EL PAGO DE TODO O PARTE DE IMPUESTOS O CONTRIBUCIONES PARA EL SEMESTRE QUE SE INDICA"
 fecha: "2026-06-26"
 exenta: true

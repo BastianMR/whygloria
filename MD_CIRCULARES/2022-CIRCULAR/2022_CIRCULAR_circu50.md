@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2022)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Indirectos | CIRCULAR N°50.- 215276.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu50.pdf"
 materia: "Imparte instrucciones sobre las modificaciones introducidas por los números 1 y 2 del artículo 6 de la Ley N° 21.420, a los artículos 2° N° 2°) y 12 letra E de la Ley sobre Impuesto a las Ventas y Servicios. Modifica el segundo párrafo del N° 3 de la letra Bdel Título II de la Circular N° 21 de 1991"
 fecha: "2022-10-27"
 exenta: false

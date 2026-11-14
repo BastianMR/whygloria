@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN OFICINA DE APOYO LEGAL"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso39.pdf"
 materia: "HABILITA PLATAFORMA, INSTRUYE SOBRE REQUISITOS Y FIJA PROCEDIMIENTO PARA SOLICITAR EL BONO CLASE MEDIA ESTABLECIDO EN LOS INCISOS PRIMERO Y SEGUNDO DEL ARTÍCULO CUARTO DE LA LEY N° 21.323."
 fecha: "2021-04-14"
 exenta: true

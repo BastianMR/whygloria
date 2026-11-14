@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 39 (2021)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Impuestos Directos | CIRCULAR N°39.- 181615.2021 GE |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu39.pdf"
 materia: "Complementa Circular N° 43 de 2020, que imparte instrucciones sobre la aplicación del régimen opcional de impuesto sustitutivo de los impuestos finales establecido en el artículo vigésimo quinto transitorio de la Ley N° 21.210."
 fecha: "2021-06-25"
 exenta: false

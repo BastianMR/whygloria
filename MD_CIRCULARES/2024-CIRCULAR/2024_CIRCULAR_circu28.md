@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 28 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°28.- 289351.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu28.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de agosto de 2024 e información adicional relacionada con dicho tributo."
 fecha: "2024-07-09"
 exenta: false

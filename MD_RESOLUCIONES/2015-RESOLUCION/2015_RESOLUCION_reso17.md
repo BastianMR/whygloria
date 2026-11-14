@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2015)"
 description: "SANTIAGO, 04 DE MARZO DE 2015 HOY SE HA RESUELTO LO QUE SIGUE: RESOLUCIÓN EXENTA SII N° 17.-"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso17.pdf"
 materia: "ANÓTESE COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO"
 fecha: "2015-03-04"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 1 (2021)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Directos | CIRCULAR N° 1.- |"
 tags: [SII, 2021, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2021/circu1.pdf"
 materia: "Imparte instrucciones sobre la tributación del retiro único y extraordinario de fondos previsionales, establecido en la Ley N° 21.295"
 fecha: "2021-01-11"
 exenta: false

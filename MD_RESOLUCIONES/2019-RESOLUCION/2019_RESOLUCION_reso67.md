@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 67 (2019)"
 description: "FIJA COEFICIENTES DE AJUSTE PARA LA TASACIÓN DE OBRAS CIVILES DE HORMIGÓN ARMADO"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso67.pdf"
 materia: "FIJA COEFICIENTES DE AJUSTE PARA LA TASACIÓN DE OBRAS CIVILES DE HORMIGÓN ARMADO"
 fecha: "2019-05-29"
 exenta: true

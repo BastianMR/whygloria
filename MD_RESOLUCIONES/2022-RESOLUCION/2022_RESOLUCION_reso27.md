@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 27 (2022)"
 description: "SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA GE00185755"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso27.pdf"
 materia: "RESOLUCIÓN EX. SII N° 27."
 fecha: "2022-03-09"
 exenta: true

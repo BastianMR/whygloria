@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídica | CIRCULAR N°23.- GE00308534 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu23.pdf"
 materia: "MATERIA Imparte instrucciones sobre el nuevo texto del artículo 64 del Código Tributario, reemplazado por la Ley N° 21.713. Deja sin efecto Circular N° 45 de 2001 y numerales 19) y 20) del apartado IV de la Circular N° 23 de 1975."
 fecha: "2025-03-27"
 exenta: false

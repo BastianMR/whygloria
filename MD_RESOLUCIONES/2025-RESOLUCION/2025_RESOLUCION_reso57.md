@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 57 (2025)"
 description: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso57.pdf"
 materia: "OTORGA CONDONACIÓN SOBRE LOS INTERESES Y MULTAS INFRACCIONALES EN LOS CASOS QUE SE INDICAN"
 fecha: "2025-05-05"
 exenta: true

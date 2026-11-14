@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 25 (2018)"
 description: "DEPARTAMENTO EMISOR SISTEMAS DE FISCALIZACIÓN | CIRCULAR N° 25 17-2006SDF (Circ) |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu25.pdf"
 materia: "Instruye sobre el procedimiento para solicitar el Pago Diferido del Impuesto a la Renta a través de Internet. Complementa Circular N° 17 de fecha 17 de marzo de 2006 6(12)00"
 fecha: "2018-04-24"
 exenta: false

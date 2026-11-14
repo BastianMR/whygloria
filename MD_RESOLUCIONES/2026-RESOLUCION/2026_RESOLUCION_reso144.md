@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 144 (2026)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso144.pdf"
 materia: "FÍJASE EXIGENCIAS SOBRE LAS FACTURAS Y GUÍAS DE DESPACHO QUE AMPARAN EL TRASLADO DE BIENES CORPORALES MUEBLES Y DEJA SIN EFECTO LA RESOLUCIÓN EX. SII N° 154, DE 2025."
 fecha: "2026-10-23"
 exenta: true

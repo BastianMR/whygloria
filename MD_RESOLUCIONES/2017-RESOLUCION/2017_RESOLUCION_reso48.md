@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso48.pdf"
 materia: "MODIFICA RESOLUCIÓN EXENTA SII N° 83, DEL 30.08.2004"
 fecha: "2017-05-12"
 exenta: true

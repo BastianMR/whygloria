@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 59 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00234260"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso59.pdf"
 materia: "AUTORIZA A SABORES CARD SPA, RUT N° 76.969.846-9, PARA OPERAR SISTEMA DE INTERMEDIACIÓN ELECTRÓNICO EN LA VENTA DE COLACIONES."
 fecha: "2023-05-17"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 63 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso63.pdf"
 materia: "AUTORIZA A LA ENTIDAD QUE INDICA PARA SU HABILITACIÓN EN LA PLATAFORMA DE ACCESO UNICO A LA CLAVE TRIBUTARIA"
 fecha: "2026-04-29"
 exenta: false

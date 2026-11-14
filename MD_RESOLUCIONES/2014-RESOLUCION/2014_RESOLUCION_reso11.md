@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso11.pdf"
 materia: "Establece obligación de presentar Declaración Jurada Anual sobre desembolsos y otras partidas o cantidades a que se refiere el inciso tercero del artículo 21 de la Ley sobre Impuesto a la Renta y deroga Resolución Exenta N° 4.845 de 1995."
 fecha: "2014-01-28"
 exenta: false

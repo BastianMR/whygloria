@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 51 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N°51.- 306453.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu51.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de enero de 2025 e información adicional relacionada con dicho tributo."
 fecha: "2024-12-09"
 exenta: false

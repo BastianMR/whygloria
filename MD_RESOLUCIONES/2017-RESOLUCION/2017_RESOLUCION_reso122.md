@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 122 (2017)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso122.pdf"
 materia: "Aprueba Convenio de Coordinación entre Contraloría General de la República y Servicio de Impuestos Internos."
 fecha: "2017-12-07"
 exenta: true

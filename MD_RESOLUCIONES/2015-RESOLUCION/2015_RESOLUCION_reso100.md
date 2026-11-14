@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 100 (2015)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso100.pdf"
 materia: "ESTABLECE NUEVA DENOMINACIÓN 'DEPARTAMENTO DE ASISTENCIA AL CONTRIBUYENTE' EN LAS DIRECCIONES REGIONALES."
 fecha: "2015-12-01"
 exenta: true

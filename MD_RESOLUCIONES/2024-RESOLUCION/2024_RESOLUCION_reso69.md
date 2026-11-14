@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2024)"
 description: "DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso69.pdf"
 materia: "DESIGNA RESPONSABLES DE PROCESOS, DELEGA FACULTADES QUE INDICA Y DEJA SIN EFECTO RESOLUCIÓN QUE INDICA."
 fecha: "2024-06-28"
 exenta: true

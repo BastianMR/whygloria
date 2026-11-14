@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 75 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso75.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Comisión Administradora del Sistema de Créditos para Estudios Superiores y el Servicio de Impuestos Internos."
 fecha: "2020-07-03"
 exenta: true

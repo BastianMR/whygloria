@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 105 (2019)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso105.pdf"
 materia: "MODIFICA RESOLUCIÓN EX. SII N° 110, DE 24.12.2015, QUE ESTABLECE DECLARACIÓN JURADA ANUAL N° 1913, DE CARACTERIZACIÓN TRIBUTARIA GLOBAL."
 fecha: "2019-09-30"
 exenta: true

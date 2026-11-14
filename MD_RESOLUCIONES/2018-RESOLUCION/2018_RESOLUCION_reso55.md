@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 55 (2018)"
 description: "MAT.: Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso55.pdf"
 materia: "Actualiza listado de países contenido en la Resolución Exenta SII N° 124, de 19.12.2017."
 fecha: "2018-07-05"
 exenta: true

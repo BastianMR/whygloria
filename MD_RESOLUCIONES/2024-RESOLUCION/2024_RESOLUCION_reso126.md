@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2024)"
 description: "Lo que transcribo para su conocimiento y demás fines."
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso126.pdf"
 materia: "COMPLEMENTA LISTA ANEXA DE LA RESOLUCIÓN EXENTA N°08 DE 2024."
 fecha: "2024-12-20"
 exenta: true

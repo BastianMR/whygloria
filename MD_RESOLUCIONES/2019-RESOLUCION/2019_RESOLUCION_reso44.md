@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2019)"
 description: "SUPERINTENDENCIA DE SEGURIDAD SOCIAL"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso44.pdf"
 materia: "CIRCULAR CONJUNTA N° 3411 RESOLUCIÓN EX SII N° 44 CIRCULAR CONJUNTA N°6"
 fecha: "2019-04-09"
 exenta: false

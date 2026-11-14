@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso35.pdf"
 materia: "EXCLÚYASE DE LA RESOLUCIÓN EXENTA N° 78 DE 23.08.2017 Y DE SU ANEXO, AL CONTRIBUYENTE QUE INDICA."
 fecha: "2019-03-15"
 exenta: true

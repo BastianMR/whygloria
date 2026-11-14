@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 50 (2024)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Departamento de Técnica Tributaria | CIRCULAR N°50.- 297989.2024 GE |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu50.pdf"
 materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 al artículo 9 de la Ley N° 21.420. Deja sin efecto las Circulares N° 57 de 2022 y N° 38 de 2023."
 fecha: "2024-11-28"
 exenta: false

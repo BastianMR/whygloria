@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2020)"
 description: "Complementada por Circular N° 11, del 17 de febrero de 2021"
 tags: [SII, 2020, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2020/circu31.pdf"
 materia: "Imparte instrucciones sobre nuevos regímenes transitorios de depreciación de los activos inmovilizados establecidos en los artículos vigésimo primero transitorio y vigésimo segundo transitoriode la Ley N° 21.210, de 24 de febrero de 2020."
 fecha: "2020-04-24"
 exenta: false

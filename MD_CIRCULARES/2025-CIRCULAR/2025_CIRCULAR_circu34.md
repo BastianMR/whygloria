@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Jurídica Departamento de Asesoría Jurídicas | CIRCULAR N° 34.- 314023.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu34.pdf"
 materia: "MATERIA Imparte instrucciones sobre las modificaciones introducidas por la Ley N° 21.713 a los artículos 101 y 206 del Código Tributario. Modifica Circular N° 35 de 2022"
 fecha: "2025-04-25"
 exenta: false

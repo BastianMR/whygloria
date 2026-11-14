@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2016)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ANÁLISIS SELECTIVO DEL CUMPLIMIENTO TRIBUTARIO"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso120.pdf"
 materia: "ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIÓN ANUAL SOBRE OPERACIONES EN EL EXTERIOR POR MEDIO DE FORMULARIO N° 1929; Y DEROGA RESOLUCIONES N°s 16 Y 113 DE 2015."
 fecha: "2016-12-26"
 exenta: true

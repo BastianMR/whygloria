@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2022)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°21.- 202082.2022 GE |"
 tags: [SII, 2022, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2022/circu21.pdf"
 materia: "MATERIA Tratamiento tributario de seguros de vida con ahorro."
 fecha: "2022-04-21"
 exenta: false

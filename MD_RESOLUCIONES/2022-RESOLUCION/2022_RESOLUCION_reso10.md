@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 10 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso10.pdf"
 materia: "AUTORIZA A EMPRESA LIVETICKETS SPA, PARA EMITIR BOLETAS DE SERVICIOS DE INGRESO A ESPECTÁCULOS PÚBLICOS, POR CUENTA DE TERCEROS, EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: ""
 exenta: true

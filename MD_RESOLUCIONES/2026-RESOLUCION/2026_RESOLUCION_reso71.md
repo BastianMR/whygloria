@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00367351"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso71.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre la Contraloría General de la República y el Servicio de Impuestos Internos."
 fecha: ""
 exenta: true

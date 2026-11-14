@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 99 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES GE00121360"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso99.pdf"
 materia: "MODIFICA RES. EX. SII N° 18 DE 22.04.2003 Y RES. EX. SII N° 45 DE 01.09.2003, ELIMINANDO LA OBLIGACIÓN DE ENTREGAR UN EJEMPLAR IMPRESO DEL DTE Y DEJA SIN EFECTO RES. EX. N° 11 DE 14.02.2003"
 fecha: "2019-09-02"
 exenta: true

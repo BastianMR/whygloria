@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2021)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso15.pdf"
 materia: "ESTABLECE LA FORMA EN QUE ESTE SERVICIO PONDRÁ A DISPOSICIÓN LA INFORMACIÓN QUE DEBE PROPORCIONAR A LOS CONTRIBUYENTES ACOGIDOS AL ARTÍCULO 14 LETRA D) N°3 Y N°8, DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2021-02-15"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 26 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 77318642499"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso26.pdf"
 materia: "AUTORIZA AL NOTARIO PÚBLICO DE ANTOFAGASTA, SR. GONZALO MARTÍN HURTADO PERALTA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2020-02-28"
 exenta: true

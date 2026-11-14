@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 47 (2019)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DEFENSA JUDICIAL CIVIL"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso47.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA"
 fecha: "2019-04-18"
 exenta: false

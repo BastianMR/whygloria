@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso46.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y la Dirección del Trabajo."
 fecha: "2016-05-24"
 exenta: true

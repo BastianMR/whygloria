@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 71 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso71.pdf"
 materia: "MODIFICA RESOLUCIÓN N° 379, DE 04 DE DICIEMBRE DE 1991, EN LO RELACIONADO CON EL DEPARTAMENTO SUBDIRECCIÓN DE FISCALIZACIÓN Y ESTABLECE AMBITO DE COMPETENCIA DE LAS UNIDADES QUE LO CONFORMAN."
 fecha: "2013-07-22"
 exenta: true

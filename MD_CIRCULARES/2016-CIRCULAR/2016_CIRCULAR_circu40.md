@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 40 (2016)"
 description: "Complementada por Circular N° 11, del 30 de enero de 2025"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu40.pdf"
 materia: "Instrucciones sobre el artículo 41 G de la Ley sobre Impuesto a la Renta, incorporado por la Ley N°20.780 y modificado por la Ley N°20.899, que regula el tratamiento tributario de las rentas pasivas percibidas o devengadas por entidades controladas sin domicilio ni residencia en Chile (Sustituye a l"
 fecha: "2016-07-08"
 exenta: false

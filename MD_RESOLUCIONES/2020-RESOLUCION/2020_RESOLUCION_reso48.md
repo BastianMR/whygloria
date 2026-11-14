@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 48 (2020)"
 description: "SERVICIOS DE IMPUESTOS INTERNOS"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso48.pdf"
 materia: "OTORGA CONDONACIÓN DE LAS MULTAS INFRACCIONALES EN LOS CASOS QUE SE SEÑALAN."
 fecha: "2020-04-29"
 exenta: true

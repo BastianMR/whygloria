@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 58 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE ASISTENCIA Y EDUCACIÓN AL CONTRIBUYENTE 147 - SDAC - 2019 77319770819"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso58.pdf"
 materia: "INCORPÓRASE A EUROCAPITAL S.A., EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: "2019-05-07"
 exenta: false

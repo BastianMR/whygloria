@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 25 (2019)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 25 |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu25.pdf"
 materia: "REFERENCIA: N° Y NOMBRE DEL VOLUMEN: REF. LEGAL: Arts. 42 N° 1, 43 al 47 y 52 bis de la sobre Impuesto a la Renta."
 fecha: "2019-06-11"
 exenta: false

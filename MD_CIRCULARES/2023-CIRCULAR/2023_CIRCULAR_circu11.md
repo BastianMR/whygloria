@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 11 (2023)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa | CIRCULAR N° 11.- GE239561 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu11.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de abril de 2023 e información adicional relacionada con dicho tributo."
 fecha: "2023-03-09"
 exenta: false

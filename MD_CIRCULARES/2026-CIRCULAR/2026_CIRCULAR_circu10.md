@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 10 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                  | CIRCULAR N°10.- 3..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu10.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de abril de 2026 información adicional relacionada con dicho impuesto."
 fecha: "2026-03-10"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 79 (2021)"
 description: "AMPLIA PLAZO PARA EL ENVÍO DE LA INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES, DE ACUERDO A LAS RESOLUCIONES EX. SII N°s 62, 65 y 75 de 2021."
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso79.pdf"
 materia: "AMPLIA PLAZO PARA EL ENVÍO DE LA INFORMACIÓN QUE DEBEN ENTREGAR LAS MUNICIPALIDADES, DE ACUERDO A LAS RESOLUCIONES EX. SII N°s 62, 65 y 75 de 2021."
 fecha: "2021-07-08"
 exenta: true

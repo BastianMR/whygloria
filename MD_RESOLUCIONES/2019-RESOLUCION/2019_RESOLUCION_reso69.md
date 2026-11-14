@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 69 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77319782729 166 - SDAC - 2019"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso69.pdf"
 materia: "AUTORIZA A LA SOCIEDAD SUPER 10 S.A. PARA CUMPLIR LA OBLIGACIÓN DE ENTREGAR BOLETAS EN PAPEL MEDIANTE EL ENVÍO DE BOLETAS ELECTRÓNICAS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2019-06-03"
 exenta: true

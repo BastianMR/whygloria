@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 137 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 77318692039"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso137.pdf"
 materia: "AUTORIZA A LA SOCIEDAD NATURA COSMÉTICOS S.A. PARA CUMPLIR LA OBLIGACIÓN DE ENTREGAR BOLETAS EN PAPEL MEDIANTE EL ENVÍO DE BOLETAS ELECTRÓNICAS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2018-12-20"
 exenta: true

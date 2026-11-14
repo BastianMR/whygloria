@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 204 (2025)"
 description: "SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES DE UBER RIDES CHILE SPA, RUT N° 77.183.959-2."
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso204.pdf"
 materia: "SOLICITUD DE ACCESO A LA INTERFAZ DE PROGRAMACIÓN DE APLICACIONES (API), DE INICIO DE ACTIVIDADES DE UBER RIDES CHILE SPA, RUT N° 77.183.959-2."
 fecha: "2025-12-26"
 exenta: true

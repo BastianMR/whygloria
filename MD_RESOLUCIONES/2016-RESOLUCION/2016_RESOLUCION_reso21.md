@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2016)"
 description: "RECTIFICA RESOLUCIÓN EX. SII N° 3 DEL 14 DE ENERO DE 2016, QUE FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso21.pdf"
 materia: "RECTIFICA RESOLUCIÓN EX. SII N° 3 DEL 14 DE ENERO DE 2016, QUE FIJA LISTA DE VALORES DE VEHÍCULOS MOTORIZADOS."
 fecha: "2016-03-22"
 exenta: true

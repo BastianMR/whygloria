@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 18 (2021)"
 description: "OFICINA DE GESTIÓN NORMATIVA SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN NORMATIVA"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso18.pdf"
 materia: "ESTABLECE ESCALA DE TASAS CONFORME AL PRECIO INTERNACIONAL DE LOS MINERALES QUE SE INDICAN Y PARA LOS EFECTOS QUE SE SEÑALAN."
 fecha: "2021-02-22"
 exenta: false

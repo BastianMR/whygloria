@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 35 (2022)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso35.pdf"
 materia: "DESIGNA SECRETARIOS, TITULARES Y SUPLENTES, EN TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE PUNTA ARENAS."
 fecha: "2022-04-21"
 exenta: true

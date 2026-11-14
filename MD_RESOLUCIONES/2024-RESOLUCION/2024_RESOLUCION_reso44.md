@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 44 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA 77323497416 GE277348"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso44.pdf"
 materia: "AUTORIZA A EMITIR MENSUALMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2024-04-11"
 exenta: true

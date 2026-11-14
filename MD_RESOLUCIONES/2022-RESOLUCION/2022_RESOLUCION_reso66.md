@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 66 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE-128077"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso66.pdf"
 materia: "EMISIÓN DE DOCUMENTOS TRIBUTARIOS ELECTRÓNICOS EN OPERACIONES DE COMPRA Y VENTA DE MONEDA EXTRANJERA."
 fecha: "2022-08-02"
 exenta: true

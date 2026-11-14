@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 15 (2019)"
 description: "DEPARTAMENTO EMISOR: SUBDIRECCIÓN AVALUACIONES OFICINADE NORMAS Y CASOS ESPECIALES | CIRCULAR Nº 15.- |"
 tags: [SII, 2019, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2019/circu15.pdf"
 materia: "Imparte instrucciones respecto de la inclusión de predios en el Catastro de los Bienes Raíces, de conformidad con las normas de la Ley N° 17.235, sobre Impuesto Territorial. Deroga la Circular N° 38 de 01.07.1997, sobre Actualización y Complementación de Instrucciones para la Clasificación, Enrolami"
 fecha: "2019-03-15"
 exenta: false

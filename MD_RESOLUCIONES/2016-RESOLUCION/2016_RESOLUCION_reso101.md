@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2016)"
 description: "MATERIA: Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A."
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso101.pdf"
 materia: "Aprueba convenio de colaboración entre el Servicio de Impuestos Internos y Transunion Soluciones de Información Chile S.A."
 fecha: "2016-10-20"
 exenta: true

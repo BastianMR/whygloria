@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección Normativa Oficina de Gestión Normativa                                                                                     ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu7.pdf"
 materia: "Tablas de impuesto único de segunda categoría para el mes de marzo de 2026 e información adicional relacionada con dicho tributo. Modifica Circulares N° 62 de 2025, N° 67 de 2025 y N° 2 de 2026."
 fecha: "2026-02-12"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 88 (2025)"
 description: "SUBDIRECCIÓN JURÍDICA DPTO. DE ASESORÍA JURÍDICA GE00332334"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso88.pdf"
 materia: "DELEGA EN LOS (LAS) SUBDIRECTORES (AS) LAS FACULTADES QUE INDICA Y REVOCA RESOLUCIONES EX.SII N° 58, DE 24 DE ABRIL DE 2009 Y EX SII N° 23, DE 21 DE FEBRERO DE 2025."
 fecha: "2025-07-17"
 exenta: true

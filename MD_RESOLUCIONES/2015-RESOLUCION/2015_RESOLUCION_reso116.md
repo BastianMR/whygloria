@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 116 (2015)"
 description: "MATERIA: REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008."
 tags: [SII, 2015, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2015/reso116.pdf"
 materia: "REVOCA DELEGACIÓN DE FACULTADES QUE INDICA Y DEROGA LA RESOLUCIÓN EX. SII N° 138, DE 29 DE OCTUBRE DE 2008."
 fecha: "2015-12-29"
 exenta: true

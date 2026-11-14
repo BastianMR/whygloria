@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2019)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso14.pdf"
 materia: "Aprueba Adendum Anexo al Convenio de Colaboración entre la Dirección Del Trabajo y el Servicio de Impuestos Internos."
 fecha: "2019-02-05"
 exenta: true

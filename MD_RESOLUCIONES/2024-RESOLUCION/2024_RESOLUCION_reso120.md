@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 120 (2024)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE DISEÑO DE PROCEDIMIENTOS GE305749"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso120.pdf"
 materia: "ESTABLECE CRITERIOS PARA DEFINIR UN CASO COMO RELEVANTE O DE INTERÉS INSTITUCIONAL CONFORME AL NUMERAL 5° DE LA LETRA C DEL INCISO SEGUNDO DEL ARTÍCULO 6° DEL CÓDIGO TRIBUTARIO."
 fecha: "2024-12-18"
 exenta: true

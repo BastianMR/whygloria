@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 64 (2025)"
 description: "DEPARTAMENTO EMISOR Subdirección Normativa Impuestos Indirectos | CIRCULAR N°64.- 329125.2025 GE |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu64.pdf"
 materia: "MATERIA Imparte instrucciones sobre nuevo régimen tributario especial para comerciantes de ferias libres introducido en la Ley sobre Impuesto a las Ventas y Servicios, por la Ley N° 21.745."
 fecha: "2025-11-28"
 exenta: false

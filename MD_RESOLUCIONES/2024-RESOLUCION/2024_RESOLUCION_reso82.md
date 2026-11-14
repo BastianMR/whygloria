@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE SUBDIRECCIÓN NORMATIVA SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso82.pdf"
 materia: "PROCEDIMIENTO DE EXCLUSIÓN DEL REGISTRO DE SOCIEDADES DE PROFESIONALES POR INCUMPLIMIENTO DE REQUISITOS."
 fecha: "2024-08-29"
 exenta: true

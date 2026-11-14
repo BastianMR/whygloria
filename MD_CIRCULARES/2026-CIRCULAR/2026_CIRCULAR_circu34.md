@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 34 (2026)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos   | CIRCULAR Nº 34 GE00391988                                    ..."
 tags: [SII, 2026, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2026/circu34.pdf"
 materia: "Informa tabla de cálculos de reajustes y multas para el mes de septiembre 2026."
 fecha: "2026-08-17"
 exenta: false

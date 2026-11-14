@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 68 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE OFICINA DE CANALES DIGITALES 77322451687"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso68.pdf"
 materia: "INCORPÓRASE A CORPORACIÓN DE FOMENTO DE LA PRODUCCIÓN, EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA POR MANDATO."
 fecha: ""
 exenta: false

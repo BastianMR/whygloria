@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2023)"
 description: "PRORROGA DEL PLAZO DE PRESENTACIÓN DE DECLARACIONES JURADAS EN MATERIA DE PRECIOS DE TRANSFERENCIA, FORMULARIOS N°s 1907, 1937, 1950 Y 1951."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso70.pdf"
 materia: "PRORROGA DEL PLAZO DE PRESENTACIÓN DE DECLARACIONES JURADAS EN MATERIA DE PRECIOS DE TRANSFERENCIA, FORMULARIOS N°s 1907, 1937, 1950 Y 1951."
 fecha: "2023-06-20"
 exenta: true

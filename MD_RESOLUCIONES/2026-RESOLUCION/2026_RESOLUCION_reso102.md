@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2026)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso102.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA"
 fecha: "2026-07-31"
 exenta: false

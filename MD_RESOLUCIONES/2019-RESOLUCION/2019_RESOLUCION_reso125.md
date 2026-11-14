@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2019)"
 description: "DELEGA FACULTAD QUE INDICA, RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso125.pdf"
 materia: "DELEGA FACULTAD QUE INDICA, RELATIVA A ENAJENACIÓN DE ACCIONES DE PROPIEDAD DEL SERVICIO DE IMPUESTOS INTERNOS."
 fecha: "2019-11-12"
 exenta: false

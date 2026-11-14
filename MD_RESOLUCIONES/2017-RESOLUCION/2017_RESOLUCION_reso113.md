@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 113 (2017)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE 489 - SDAC - 2017 77315807651"
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso113.pdf"
 materia: "AUTORIZA AL NOTARIO SR. LUIS ALBERTO MALDONADO CONCHA, PARA EMITIR BOLETAS DE HONORARIOS ELECTRÓNICAS, EN LA FORMA QUE INDICA."
 fecha: "2017-11-27"
 exenta: true

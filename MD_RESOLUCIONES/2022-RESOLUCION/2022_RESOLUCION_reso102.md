@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 102 (2022)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE198216"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso102.pdf"
 materia: "RESOLUCIÓN EX. SII N° 102."
 fecha: "2022-11-08"
 exenta: true

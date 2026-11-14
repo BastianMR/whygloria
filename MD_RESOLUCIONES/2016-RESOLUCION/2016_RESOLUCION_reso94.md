@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 94 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso94.pdf"
 materia: "INCORPÓRASE EN LA NÓMINA DE ENTIDADES PARA SER RECEPTORA DE LA CARPETA TRIBUTARIA."
 fecha: "2016-09-23"
 exenta: false

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 1 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso1.pdf"
 materia: "INFORMA SOBRE LA OBLIGACIÓN DE INSCRIPCIÓN EN EL REGISTRO DE TASADORES"
 fecha: "2018-01-02"
 exenta: true

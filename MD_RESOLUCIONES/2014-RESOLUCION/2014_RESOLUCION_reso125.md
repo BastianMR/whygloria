@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso125.pdf"
 materia: "FIJA NÓMINA DE GRANDES CONTRIBUYENTES"
 fecha: "2014-12-30"
 exenta: true

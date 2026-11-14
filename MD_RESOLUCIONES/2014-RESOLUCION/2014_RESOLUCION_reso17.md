@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 17 (2014)"
 description: "SUBDIRECCIÓN JURÍDICA DEPTO. DE DEFENSA JUDICIAL"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso17.pdf"
 materia: "APRUEBA PROTOCOLO DE ACUERDO ENTRE EL SERVICIO DE IMPUESTOS INTERNOS, LA SUBSECRETARÍA DEL INTERIOR, CARABINEROS DE CHILE, POLICÍA DE INVESTIGACIONES DE CHILE, DIRECCIÓN GENERAL DEL TERRITORIO MARÍTIMO Y DE MARINA MERCANTE."
 fecha: "2014-02-07"
 exenta: false

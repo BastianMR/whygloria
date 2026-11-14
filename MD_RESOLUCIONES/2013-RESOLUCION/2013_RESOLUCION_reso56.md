@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 56 (2013)"
 description: "SUBDIRECCIÓN DE AVALUACIONES"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso56.pdf"
 materia: "REEMPLAZA PLANOS DE PRECIOS DE LAS COMUNAS DE CATEMU, PANQUEHUE, CHILLÁN Y CONCEPCIÓN DE LA RESOLUCIÓN N° 132 DE 31.12.2012 Y CORRIGE ERROR DE TRANSCRIPCIÓN."
 fecha: "2013-06-06"
 exenta: true

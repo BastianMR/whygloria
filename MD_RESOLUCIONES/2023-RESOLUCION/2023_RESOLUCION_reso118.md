@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 118 (2023)"
 description: "MAT: Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile."
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso118.pdf"
 materia: "Aprueba Convenio de Colaboración entre el Servicio de Impuestos Internos y la Facultad de Economía y Negocios de la Universidad de Chile."
 fecha: "2023-10-06"
 exenta: true

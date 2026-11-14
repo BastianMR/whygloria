@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 57 (2016)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA | CIRCULAR N° 57.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu57.pdf"
 materia: "TABLAS DE IMPUESTO ÚNICO DE SEGUNDA CATEGORÍA Y DE IMPUESTO GLOBAL COMPLEMENTARIO PARA EL MES DE OCTUBRE DEL AÑO 2016, E INFORMACIÓN ADICIONAL RELACIONADA CON DICHOS TRIBUTOS."
 fecha: "2016-09-09"
 exenta: false

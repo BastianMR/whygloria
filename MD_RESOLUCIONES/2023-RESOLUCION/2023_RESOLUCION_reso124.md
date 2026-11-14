@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 124 (2023)"
 description: "SUBDIRECCIÓN DE FISCALIZCIÓN DEPARTAMENTO DE ANÁLISIS DE RIESGOS DE INCUMPLIMIENTO GE253633"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso124.pdf"
 materia: "AUTORIZA A TRANSBANK S.A., RUT N° 96.689.310-9, PARA RETENER Y ENTERAR EN ARCAS FISCALES EL IMPUESTO AL VALOR AGREGADO SEGÚN SE INDICA."
 fecha: "2023-10-25"
 exenta: true

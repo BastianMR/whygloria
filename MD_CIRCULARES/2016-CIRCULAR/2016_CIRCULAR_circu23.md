@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 23 (2016)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 23.- |"
 tags: [SII, 2016, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2016/circu23.pdf"
 materia: "IMPARTE INSTRUCCIONES ACERCA DE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY N° 20.899, AL ARTÍCULO 11, DEL CÓDIGO TRIBUTA- RIO. MODIFICA EN LAS PARTES PERTINENTES LA CIR- CULAR N° 34, DE 2015."
 fecha: "2016-05-03"
 exenta: false

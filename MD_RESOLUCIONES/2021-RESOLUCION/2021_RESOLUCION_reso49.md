@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 49 (2021)"
 description: "SUBDIRECCIÓN DE DESARROLLO DE PERSONAS SUBDIRECCIÓN DE ADMINISTRACIÓN"
 tags: [SII, 2021, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso49.pdf"
 materia: "MODIFICA RESOLUCION EXENTA SII N° 146, DE 2020, SOBRE DELEGACION DE FACULTADES."
 fecha: "2021-05-10"
 exenta: true

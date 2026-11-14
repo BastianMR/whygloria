@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2026)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso50.pdf"
 materia: "DEJA SIN EFECTO RESOLUCIÓN EXENTA SII N°3509, DE 13.07.2000 QUE INSTRUYE SOBRE CANJE DE INFORMACIÓN COMPUTARIZADA; Y, LA RESOLUCIÓN EXENTA SII N° 5395 DE 07.12.2000, QUE LA COMPLEMENTA."
 fecha: "2026-04-08"
 exenta: true

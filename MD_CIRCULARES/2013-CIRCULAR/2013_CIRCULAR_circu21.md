@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 21 (2013)"
 description: "Dejada sin efecto por Circular N° 50, del 20 de julio de 2016"
 tags: [SII, 2013, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2013/circu21.pdf"
 materia: "POLÍTICA DE CONDONACIÓN DE INTERESES Y SANCIONES PECUNIARIAS IMPUESTAS POR INFRACCIONES A LAS OBLIGACIONES TRIBUTARIAS CONTEMPLADAS EN EL ARTÍCULO 97 N° 1 INCISO 1°, N° 2 Y N° 11 DEL CÓDIGO TRIBUTARIO; CONDONACIÓN DE RECARGOS POR MORA EN EL PAGO DEL IMPUESTO TERRITORIAL Y SUPERVISIÓN DE LA CONCESIÓN"
 fecha: "2013-04-19"
 exenta: false

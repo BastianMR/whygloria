@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 172 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso172.pdf"
 materia: "ESTABLECE FORMA Y PLAZO PARA EJERCER LA OPCIÓN DEL INCENTIVO AL AHORRO A QUE SE REFIERE LA LETRA E) DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA."
 fecha: "2020-12-30"
 exenta: true

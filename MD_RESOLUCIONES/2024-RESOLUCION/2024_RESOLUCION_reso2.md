@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 2 (2024)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA GE00265693"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso2.pdf"
 materia: "CREA PLATAFORMA DE MANDATARIOS DIGITALES, Y ESTABLECE CONDICIONES Y TÉRMINOS DE USO."
 fecha: "2024-01-04"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 92 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS DIRECCIÓN DE GRANDES CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso92.pdf"
 materia: "COMPLEMENTA RESOLUCIÓN EXENTA SII N°109 DE 27 DE DICIEMBRE DE 2013, EN LOS TÉRMINOS QUE INDICA."
 fecha: "2014-09-15"
 exenta: true

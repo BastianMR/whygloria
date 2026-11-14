@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 42 (2018)"
 description: "DEPARTAMENTO EMISOR IMPUESTOS DIRECTOS | CIRCULAR N° 42 180-2018 ID 7-2018 SN (Circ.) |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu42.pdf"
 materia: "Complementa Circular N°54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a los productos de higiene personal que presenten una pérdida de su valor comercial que dificulte o haga imposible su comercialización."
 fecha: "2018-08-09"
 exenta: false

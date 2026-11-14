@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 43 (2025)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº43.- GE328070 |"
 tags: [SII, 2025, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2025/circu43.pdf"
 materia: "Tabla de Cálculos de Reajustes, Intereses y Multas sobre Pagos Provisionales Mensuales Obligatorios (PPMO) con obligación tributaria anual cumplida, para aplicarse durante el año 2025. Impuesto a la Renta, y artículos 53 y 97 Nº Código Tributario."
 fecha: "2025-06-05"
 exenta: false

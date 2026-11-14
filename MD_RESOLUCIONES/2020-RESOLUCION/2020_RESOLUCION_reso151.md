@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 151 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso151.pdf"
 materia: "Regula la validación de los Certificados de Residencia emitidos por administraciones tributarias extranjeras para efectos tributarios, especialmente de las retenciones a que se refiere el artículo 74 N° 4 de la Ley sobre Impuesto a la Renta y sobre las cantidades sujetas a la obligación de restituci"
 fecha: "2020-12-09"
 exenta: true

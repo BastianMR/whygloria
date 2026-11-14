@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 11 (2013)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPARTAMENTO DE ASESORÍA JURÍDICA"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso11.pdf"
 materia: "REORGANIZA ÁREAS JURÍDICAS DE DIRECCIONES REGIONALES QUE INDICA."
 fecha: "2013-01-23"
 exenta: true

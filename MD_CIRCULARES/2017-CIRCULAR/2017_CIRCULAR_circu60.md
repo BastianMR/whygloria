@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 60 (2017)"
 description: "DEPARTAMENTO EMISOR OFICINA DE GESTIÓN NORMATIVA                                                                                                        | CIR..."
 tags: [SII, 2017, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2017/circu60.pdf"
 materia: "Suplemento Tributario con la normativa vigente para efectuar la declaración de los Impuestos Anuales a la Renta correspondientes al Año Tributario 2018"
 fecha: "2017-12-15"
 exenta: false

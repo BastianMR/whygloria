@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 47 (2015)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 47.- |"
 tags: [SII, 2015, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2015/circu47.pdf"
 materia: "Obligación de incorporar sellos o marcas distintivas como mecanismo de 'trazabilidad' de bienes afectos a impuestos específicos."
 fecha: "2015-06-11"
 exenta: false

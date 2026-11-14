@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2025)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE GE00292095"
 tags: [SII, 2025, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2025/reso82.pdf"
 materia: "Aprueba Convenio de Intercambio de Información y Colaboración entre la Unidad Administradora de los Tribunales Tributarios y Aduaneros, y del Tribunal de Contratación Pública y el Servicio de Impuestos Internos."
 fecha: "2025-07-03"
 exenta: true

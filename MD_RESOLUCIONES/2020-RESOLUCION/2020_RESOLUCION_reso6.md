@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 6 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso6.pdf"
 materia: "Aprueba Adendum Convenio entre Subsecretaria de Economía y Empresas de Menor Tamaño y Servicio de Impuestos Internos para la Interoperación que se deriva de la Implementación de la Ley 20.659 y su reglamento."
 fecha: "2020-01-17"
 exenta: true

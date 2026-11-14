@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 14 (2020)"
 description: "MATERIA: Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes..."
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso14.pdf"
 materia: "Crea Registro Anual sobre Retenciones efectuadas conforme a los artículos 42 N° 2 y 48 de la Ley sobre Impuesto a la Renta, y exime a contribuyentes que se indican de la obligación de presentar la Declaración Jurada Formulario N° 1879, en los casos que se señalan."
 fecha: "2020-01-28"
 exenta: true

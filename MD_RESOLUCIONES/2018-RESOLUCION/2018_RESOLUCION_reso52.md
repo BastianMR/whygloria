@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 52 (2018)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 553 - SDAC - 2017"
 tags: [SII, 2018, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2018/reso52.pdf"
 materia: "EXIME A INSTITUCIONES SIN FINES DE LUCRO QUE SEÑALA, DE TIMBRAR CERTIFICADOS POR DONACIONES A QUE SE REFIERE EL N°5 DEL ARTÍCULO 1° DE LA LEY N°19.885 Y FIJA CONDICIONES QUE SE INDICAN."
 fecha: "2018-06-25"
 exenta: true

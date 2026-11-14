@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 7 (2018)"
 description: "DEPARTAMENTO EMISOR: DEPARTAMENTO DE ASESORÍA JURÍDICA | CIRCULAR Nº 7 |"
 tags: [SII, 2018, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2018/circu7.pdf"
 materia: "Imparte instrucciones relativas a la aplicación de la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros (Convención de la Apostilla)."
 fecha: "2018-01-26"
 exenta: false

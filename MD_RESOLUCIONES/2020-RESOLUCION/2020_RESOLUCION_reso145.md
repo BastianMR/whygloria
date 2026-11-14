@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 145 (2020)"
 description: "SUBDIRECCIÓN DE FISCALIZACIÓN"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso145.pdf"
 materia: "AMPLÍA PLAZO PARA RESTITUIR APORTE FISCAL DEL ART. 4° DEL ART. PRIMERO DE LA LEY N° 21.252 PARA LA PROTECCIÓN DE LOS INGRESOS DE LA CLASE MEDIA CON MOTIVO DE LA PROPAGACIÓN DEL COVID-19."
 fecha: "2020-11-26"
 exenta: true

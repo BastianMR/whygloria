@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 39 (2022)"
 description: "SUBDIRECCION DE ASUNTOS CORPORATIVOS GE 210128"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso39.pdf"
 materia: "Individualiza a las personas que, en razón de su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, conforme lo dispuesto en el Art. 3° inciso 2° de la Ley N° 20.730, que Regula el Lobby y las Gestiones que representen Intereses"
 fecha: "2022-05-02"
 exenta: true

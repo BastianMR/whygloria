@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 70 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPTO DE OPERACIONES"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso70.pdf"
 materia: "PRORROGA VIGENCIA DE EMISIÓN DE LOS DOCUMENTOS TRIBUTARIOS AUTORIZADOS EN FORMATO PAPEL QUE INDICA."
 fecha: "2020-06-30"
 exenta: true

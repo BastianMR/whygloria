@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 46 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE OPERACIONES 79-SDAC-2019 77319748081"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso46.pdf"
 materia: "AUTORIZA AL CONTRIBUYENTE SABORES CARD SPA., RUT N° 76.969.846-9, PARA OPERAR UN SISTEMA ELECTRÓNICO DE INTERMEDIACIÓN EN LA VENTA DE COLACIONES."
 fecha: "2019-04-17"
 exenta: true

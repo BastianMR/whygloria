@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2013)"
 description: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL"
 tags: [SII, 2013, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2013/reso108.pdf"
 materia: "ANÓTESE, COMUNÍQUESE Y PUBLÍQUESE EN EXTRACTO EN EL DIARIO OFICIAL"
 fecha: "2013-12-27"
 exenta: true

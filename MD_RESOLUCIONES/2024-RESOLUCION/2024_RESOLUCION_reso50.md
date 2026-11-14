@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 50 (2024)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE279231"
 tags: [SII, 2024, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2024/reso50.pdf"
 materia: "Aprueba Addendum al Convenio de Intercambio de Información y Colaboración entre el Servicio de Tesorerías y el Servicio de Impuestos Internos."
 fecha: "2024-04-24"
 exenta: true

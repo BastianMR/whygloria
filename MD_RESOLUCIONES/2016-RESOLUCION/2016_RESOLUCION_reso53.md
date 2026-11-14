@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 53 (2016)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso53.pdf"
 materia: "OTORGA POR UNA SOLA VEZ EL PLAZO QUE SE INDICA PARA INFORMAR AL SII DE LAS MODIFICACIONES RELACIONADAS CON LA ACTUALIZACIÓN DE LOS SOCIOS Y COMUNEROS; Y EL PORCENTAJE DE PARTICIPACIÓN EN EL CAPITAL Y/O UTILIDADES."
 fecha: "2016-06-15"
 exenta: true

@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 60 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN DE FISCALIZACIÓN DEPARTAMENTO DE ATENCIÓN Y ASISTENCIA DE CONTRIBUYENTES"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso60.pdf"
 materia: "EXIME DEL TIMBRAJE DE PAGARÉS A CONTRIBUYENTE QUE INDICA."
 fecha: "2014-06-20"
 exenta: true

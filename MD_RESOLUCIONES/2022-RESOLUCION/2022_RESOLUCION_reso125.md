@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 125 (2022)"
 description: "INSTRUYE GIRO Y PAGO DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso125.pdf"
 materia: "INSTRUYE GIRO Y PAGO DEL IMPUESTO ESTABLECIDO EN EL ARTÍCULO 9 DE LA LEY 21.420."
 fecha: "2022-12-26"
 exenta: true

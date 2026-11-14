@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 7 (2023)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y ESTUDIOS TRIBUTARIOS GE00224776"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso7.pdf"
 materia: "RESOLUCIÓN EX. SII N° 07."
 fecha: "2023-01-25"
 exenta: true

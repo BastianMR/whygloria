@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 108 (2016)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA"
 tags: [SII, 2016, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2016/reso108.pdf"
 materia: "CREA EL DEPARTAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS EN LA DIRECCIÓN DE GRANDES CONTRIBUYENTES; DEJA SIN EFECTO RESOLUCIÓN QUE SEÑALA Y AUTORIZA DELEGACIÓN DE FACULTADES QUE INDICA."
 fecha: "2016-11-25"
 exenta: false

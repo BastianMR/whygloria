@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 3 (2014)"
 description: "SERVICIO DE IMPUESTOS INTERNOS SUBDIRECCIÓN JURÍDICA DEPTO. DE ASESORÍA JURÍDICA"
 tags: [SII, 2014, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2014/reso3.pdf"
 materia: "MODIFICA TERRITORIOS JURISDICCIONALES DE LA XIII Y XIV DIRECCIONES REGIONALES METROPOLITANAS SANTIAGO CENTRO Y PONIENTE, CREA UNIDAD NORTE Y AUTORIZA DELEGACIÓN DE FACULTADES."
 fecha: "2014-01-10"
 exenta: true

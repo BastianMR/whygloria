@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 21 (2023)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO DE CICLO DE VIDA"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso21.pdf"
 materia: "AUTORIZA A EMITIR DIARIAMENTE UNA ÚNICA BOLETA ELECTRÓNICA DE VENTAS Y SERVICIOS EN LA FORMA Y CONDICIONES QUE INDICA."
 fecha: "2023-03-02"
 exenta: true

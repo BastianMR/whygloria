@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 30 (2024)"
 description: "DEPARTAMENTO EMISOR: Subdirección de Fiscalización Departamento de Diseño de Procedimientos | CIRCULAR Nº30.- |"
 tags: [SII, 2024, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2024/circu30.pdf"
 materia: "Tabla de cálculos de reajustes, intereses y multas agosto 2024."
 fecha: "2024-07-10"
 exenta: false

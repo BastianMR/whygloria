@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 95 (2017)"
 description: "MATERIA : Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos."
 tags: [SII, 2017, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2017/reso95.pdf"
 materia: "Aprueba Convenio de Cooperación entre la I. Municipalidad de San Felipe y el Servicio de Impuestos Internos."
 fecha: "2017-10-13"
 exenta: true

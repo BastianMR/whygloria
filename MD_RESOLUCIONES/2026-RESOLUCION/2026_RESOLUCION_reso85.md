@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 85 (2026)"
 description: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA RESOLUCIÓN EXENTA N° 85 SANTIAGO, 24 DE JUNIO DE 2026"
 tags: [SII, 2026, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2026/reso85.pdf"
 materia: "DELEGA FACULTAD QUE INDICA EN LA FUNCIONARIA QUE SE INDIVIDUALIZA RESOLUCIÓN EXENTA N° 85 SANTIAGO, 24 DE JUNIO DE 2026"
 fecha: "2026-06-24"
 exenta: false

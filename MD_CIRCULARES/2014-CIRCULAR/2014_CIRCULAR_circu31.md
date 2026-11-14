@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 31 (2014)"
 description: "Complementada por Circular N° 38, del 30 de abril de 2025 Modificada por Circular N° 38, del 30 de abril de 2025 Complementada por Circular N° 26, del 03 de ..."
 tags: [SII, 2014, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2014/circu31.pdf"
 materia: "Regula obligación de inscribirse en el registro del Rol Único Tributario y de dar Aviso de Inicio de Actividades, respecto de personas sin domicilio ni residencia en Chile y de otros entes con o sin personalidad jurídica constituidos u organizados en el extranjero."
 fecha: "2014-05-19"
 exenta: false

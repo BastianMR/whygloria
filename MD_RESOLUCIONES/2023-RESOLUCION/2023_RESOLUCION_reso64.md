@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 64 (2023)"
 description: "Diario Oficial, en extracto"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso64.pdf"
 materia: "DESIGNA SECRETARIA TITULAR Y SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAICES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCION EN EL TERRITORIO DE LA I. CORTE DE APELACIONES DE LA SERENA"
 fecha: "2023-05-31"
 exenta: true

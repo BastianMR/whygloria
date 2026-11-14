@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 101 (2022)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE DEPARTAMENTO CICLO DE VIDA GE00224705"
 tags: [SII, 2022, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2022/reso101.pdf"
 materia: "ELIMINA LA OBLIGACIÓN DE AUTORIZAR ANTE EL SERVICIO DE IMPUESTOS INTERNOS, LOS CERTIFICADOS DE DONACIONES QUE SE SEÑALAN."
 fecha: "2022-10-27"
 exenta: true

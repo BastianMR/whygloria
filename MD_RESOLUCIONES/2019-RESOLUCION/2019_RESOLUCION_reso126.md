@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 126 (2019)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2019, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2019/reso126.pdf"
 materia: "AUTORIZA MODALIDAD DE TIMBRAJE DE DOCUMENTOS TRIBUTARIOS EN LA FORMA QUE INDICA."
 fecha: "2019-11-14"
 exenta: true

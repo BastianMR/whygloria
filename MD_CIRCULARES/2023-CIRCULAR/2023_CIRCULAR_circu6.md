@@ -3,6 +3,7 @@ type: "SII Circular"
 title: "Circular N° 6 (2023)"
 description: "DEPARTAMENTO EMISOR Impuestos Directos | CIRCULAR N°6.- GE 236987 |"
 tags: [SII, 2023, circular]
+source_url: "https://www.sii.cl/normativa_legislacion/circulares/2023/circu6.pdf"
 materia: "Reitera instrucciones sobre el tratamiento tributario de gastos y donaciones asociados a la ocurrencia de catástrofes."
 fecha: "2023-02-09"
 exenta: false

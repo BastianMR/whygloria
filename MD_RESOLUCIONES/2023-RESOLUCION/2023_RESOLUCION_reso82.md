@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2023)"
 description: "SUBDIRECCIONDEFISCALIZACION DEPARTAMENTODEDISENODEPROCEDIMIENTOS GE00253821"
 tags: [SII, 2023, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2023/reso82.pdf"
 materia: "PRORROGA DEL PLAZO PARA PRESENTARLOSFORMULARIOSNUMEROS 29Y50HASTA31DEAGOSTODE 2023, CONFORMEALDECRETON°944DE2023."
 fecha: "2023-07-24"
 exenta: false

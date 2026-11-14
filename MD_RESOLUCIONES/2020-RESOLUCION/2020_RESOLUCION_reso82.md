@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 82 (2020)"
 description: "SUBDIRECCIÓN DE ASISTENCIA AL CONTRIBUYENTE"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso82.pdf"
 materia: "INSTRUYE SOBRE EL PROCEDIMIENTO PARA ACOGERSE A LOS REGÍMENES TRIBUTARIOS DEL ARTÍCULO 14 DE LA LEY SOBRE IMPUESTO A LA RENTA. DEJA SIN EFECTO LA RESOLUCIÓN EXENTA N° 93 DE 22.09.2016."
 fecha: "2020-07-17"
 exenta: true

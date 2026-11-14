@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 142 (2020)"
 description: "MZR Distribución Internet"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso142.pdf"
 materia: ""
 fecha: "2020-11-20"
 exenta: false

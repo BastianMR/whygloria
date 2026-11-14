@@ -3,6 +3,7 @@ type: "SII Resolución"
 title: "Resolución N° 15 (2020)"
 description: "SUBDIRECCIÓN DE GESTIÓN ESTRATÉGICA Y"
 tags: [SII, 2020, resolucion]
+source_url: "https://www.sii.cl/normativa_legislacion/resoluciones/2020/reso15.pdf"
 materia: "Aprueba Adendum Convenio de Intercambio de Información y Colaboración entre la Subsecretaria de Economía y Empresas de Menor Tamaño y el Servicio de Impuestos Internos"
 fecha: "2019-12-13"
 exenta: true
