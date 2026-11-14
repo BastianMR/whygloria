@@ -9,7 +9,7 @@ tags: []
 
 Generated from concept frontmatter by `python scripts/navigation.py`. Do not edit.
 
-## renta (1360)
+## renta (1363)
 * [2013_CIRCULAR_circu1](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu1.md) - vigente
 * [2013_CIRCULAR_circu10](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu10.md) - vigente
 * [2013_CIRCULAR_circu11](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu11.md) - vigente
@@ -780,6 +780,8 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 * [2026_CIRCULAR_circu4](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu4.md) - vigente
 * [2026_CIRCULAR_circu40](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu40.md) - vigente
 * [2026_CIRCULAR_circu41](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu41.md) - vigente
+* [2026_CIRCULAR_circu42](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu42.md) - vigente
+* [2026_CIRCULAR_circu43](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu43.md) - vigente
 * [2026_CIRCULAR_circu5](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu5.md) - vigente
 * [2026_CIRCULAR_circu6](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu6.md) - vigente
 * [2026_CIRCULAR_circu7](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu7.md) - vigente
@@ -1362,6 +1364,7 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 * [2026_RESOLUCION_reso141](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso141.md) - vigente
 * [2026_RESOLUCION_reso143](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso143.md) - vigente
 * [2026_RESOLUCION_reso147](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso147.md) - vigente
+* [2026_RESOLUCION_reso155](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso155.md) - desconocido
 * [2026_RESOLUCION_reso27](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso27.md) - vigente
 * [2026_RESOLUCION_reso40](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso40.md) - vigente
 * [2026_RESOLUCION_reso48](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso48.md) - vigente
@@ -2176,7 +2179,7 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 * [2026_RESOLUCION_reso98](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso98.md) - vigente
 * [2026_RESOLUCION_reso99](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso99.md) - vigente
 
-## segunda-categoria (336)
+## segunda-categoria (337)
 * [2013_CIRCULAR_circu13](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu13.md) - vigente
 * [2013_CIRCULAR_circu15](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu15.md) - vigente
 * [2013_CIRCULAR_circu16](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu16.md) - vigente
@@ -2417,6 +2420,7 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 * [2026_CIRCULAR_circu37](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu37.md) - vigente
 * [2026_CIRCULAR_circu39](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu39.md) - vigente
 * [2026_CIRCULAR_circu4](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu4.md) - vigente
+* [2026_CIRCULAR_circu42](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu42.md) - vigente
 * [2026_CIRCULAR_circu7](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu7.md) - vigente
 * [2013_RESOLUCION_reso24](../MD_RESOLUCIONES/2013-RESOLUCION/2013_RESOLUCION_reso24.md) - vigente
 * [2013_RESOLUCION_reso39](../MD_RESOLUCIONES/2013-RESOLUCION/2013_RESOLUCION_reso39.md) - vigente
@@ -2969,7 +2973,7 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 * [2025_RESOLUCION_reso179](../MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso179.md) - vigente
 * [2025_RESOLUCION_reso95](../MD_RESOLUCIONES/2025-RESOLUCION/2025_RESOLUCION_reso95.md) - vigente
 
-## unclassified (823)
+## unclassified (824)
 No value for this dimension in the frontmatter. Kept visible on purpose.
 * [2013_CIRCULAR_circu41](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu41.md) - vigente
 * [2013_CIRCULAR_circu42](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu42.md) - vigente
@@ -3746,6 +3750,7 @@ No value for this dimension in the frontmatter. Kept visible on purpose.
 * [2026_RESOLUCION_reso150](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso150.md) - vigente
 * [2026_RESOLUCION_reso152](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso152.md) - vigente
 * [2026_RESOLUCION_reso153](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso153.md) - vigente
+* [2026_RESOLUCION_reso154](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso154.md) - vigente
 * [2026_RESOLUCION_reso16](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso16.md) - derogado
 * [2026_RESOLUCION_reso17](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso17.md) - vigente
 * [2026_RESOLUCION_reso19](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso19.md) - vigente

@@ -15,6 +15,7 @@ import re
 from datetime import date
 from pathlib import Path
 
+import sii_pdfs
 import vigencia
 
 VOCAB = json.loads((Path(__file__).with_name("tax_vocab.json")).read_text(encoding="utf-8"))
@@ -47,7 +48,19 @@ DATE_MONTH_FIRST_RE = re.compile(rf"({MONTH_ALT})\s+(\d{{1,2}})\s+de\s+(\d{{4}})
 DATE_HEADER_RE = re.compile(
     rf"\b(\d{{1,2}})\s+de\s+({MONTH_ALT})\s+de\s+(\d{{4}})\b", re.I
 )
+# Oficios sign in their own first line as `(ORD. N° 1273, DE 06-05-2019)`. The
+# number is part of the match because an oficio cites other oficios before its own.
+OFICIO_FECHA_RE = re.compile(
+    r"(?:ORD\.?|OFICIO|ORDINARIO)\s*N[°º.]?\s*(\d+)\s*[,\-]?\s*DE\s+"
+    r"(\d{1,2})[./-](\d{1,2})[./-](\d{4})",
+    re.I,
+)
 LOWERCASE_WORD_RE = re.compile(r"\s+[A-ZÁÉÍÓÚ][a-záéíóúñ]{3,}")
+# A *Suplemento Tributario* serves a tax year that is not the year of the circular
+# that carried it, so the year is read from its own cover: "AÑO TRIBUTARIO 2018",
+# or the title block when the phrase is split.
+ANIO_TRIBUTARIO_RE = re.compile(r"A[ÑN]O\s*TRIBUTARIO\s*:?\s*(\d{4})", re.I)
+SUPLEMENTO_ANIO_RE = re.compile(r"SUPLEMENTO\s+TRIBUTARIO\s+A[ÑN]O\s*(\d{4})", re.I)
 SENTENCE_END_RE = re.compile(r"\.\s+(?=[A-ZÁÉÍÓÚ])")
 MEDIANTE_RE = re.compile(r",\s+(?:mediante|en virtud|por la cual|por las cuales)\b", re.I)
 DATE_NUMERIC_RE = re.compile(r"(\d{1,2})[/.\-](\d{1,2})[/.\-](\d{4})")
@@ -124,6 +137,11 @@ def _iso(day: int, month: int, year: int) -> str:
 def _subject_line(body: str) -> str:
     """Older documents carry the subject as an unlabelled uppercase line."""
     for raw in body.splitlines()[:40]:
+        # A markdown table row is a form field or a column header, never a subject:
+        # a declaración jurada layout has no subject line at all, and a table header
+        # read as one produced "CODIGO ANO | TIPO | MARCA" as a MATERIA.
+        if raw.lstrip().startswith("|"):
+            continue
         value = _clean(raw).lstrip("#* ").strip()
         if len(value) < 25 or value.startswith("|"):
             continue
@@ -144,6 +162,10 @@ def _subject_line(body: str) -> str:
                 "SERVICIO DE IMPUESTOS",
                 "OFICINA",
                 "GE0",
+                # A declaración jurada layout carries this oath as boilerplate on the
+                # form itself; it is not the document's subject, and reading it as one
+                # gave every layout the same MATERIA.
+                "DECLARO BAJO JURAMENTO",
             )
         ):
             continue
@@ -236,6 +258,20 @@ def extract_fecha(body: str, year: str = "") -> str:
     return ""
 
 
+def extract_anio_tributario(body: str) -> str:
+    """The *año tributario* the document serves, when it states one.
+
+    A *Suplemento Tributario* is published with the circular of one year for the
+    tax year that follows (the 2017 circu60 archive carries the AT2018 supplement),
+    so the folder year is not the answer and the cover is.
+    """
+    for pattern in (ANIO_TRIBUTARIO_RE, SUPLEMENTO_ANIO_RE):
+        match = pattern.search(body[:4000])
+        if match:
+            return match.group(1)
+    return ""
+
+
 def extract_ref_legal(body: str) -> list[str]:
     from_vistos = False
     match = REF_LEGAL_RE.search(body)
@@ -291,7 +327,9 @@ def extract_exenta(body: str) -> bool:
     return any(EXENTA_RE.match(line) for line in body.splitlines()[:25])
 
 
-def extract_from_pdf(pdf: Path, year: str = "", number: int | None = None) -> dict:
+def extract_from_pdf(
+    pdf: Path, year: str = "", number: int | None = None, kind: str = ""
+) -> dict:
     """Header fields the conversion dropped, read from page 1 of the source PDF.
 
     Deterministic and only used as a fallback: the PDF is versioned in the repo,
@@ -315,37 +353,98 @@ def extract_from_pdf(pdf: Path, year: str = "", number: int | None = None) -> di
         )
         exenta = any(int(found) == int(number) for found in signature.findall(flat))
     return {
-        "materia": extract_materia(flat),
-        "fecha": extract_fecha(flat, year),
+        # An oficio has no MATERIA cell: the subject and the legal references share
+        # one wrapped header line, so a rule that picked it produced wrong values.
+        # It stays empty and is reported as a gap until SII's own `pubLegal` field
+        # from the listing API is carried into the concept.
+        "materia": "" if kind == "OFICIO" else extract_materia(flat),
+        "fecha": extract_oficio_fecha(flat, number, year)
+        if kind == "OFICIO"
+        else extract_fecha(flat, year),
         "exenta": exenta,
     }
 
 
 def mirror_pdf(path: Path, root: Path) -> Path | None:
-    """The tracked source PDF that belongs to a concept, if it exists."""
+    """The tracked source that belongs to a concept, if it exists.
+
+    `PDF_<family>` holds the source for every family except the oficios up to
+    2018: SII published those as an HTML page plus a Word twin, so their source is
+    the `.html` in `SRC_OFICIOS`, and that is where their attribution is read from.
+    """
     folder = path.parent.name
-    kind = "CIRCULARES" if folder.endswith("CIRCULAR") else "RESOLUCIONES"
-    base = root / f"PDF_{kind}" / folder
+    family = {
+        "CIRCULAR": "CIRCULARES",
+        "RESOLUCION": "RESOLUCIONES",
+        "OFICIO": "OFICIOS",
+        "FORMULARIO": "FORMULARIOS",
+    }
+    kind = family.get(folder.rsplit("-", 1)[-1], "RESOLUCIONES")
+    year = folder.split("-", 1)[0]
+    html_branch = (
+        kind == "OFICIOS"
+        and year.isdigit()
+        and int(year) < sii_pdfs.OFICIO_FIRST_YEAR
+    )
+    # The source can still be in the inbox: the header is read at conversion time,
+    # before `--publish` moves the file into the mirror.
+    if html_branch:
+        bases = [root / "SRC_OFICIOS" / folder, root / "SIN_PROCESAR" / folder]
+    else:
+        bases = [root / f"PDF_{kind}" / folder, root / "SIN_PROCESAR" / folder]
+    extensions = (".html",) if html_branch else (".pdf",)
     suffix = path.stem.split("_")[-1]
-    for candidate in (base / f"{suffix}.pdf", base / f"{suffix}_afecta.pdf"):
-        if candidate.exists():
-            return candidate
-    match = re.search(r"(\d+)", suffix)
-    if match:
-        found = sorted(base.glob(f"*{match.group(1)}.pdf"))
-        if len(found) == 1:
-            return found[0]
+    # A *Suplemento Tributario* was published inside the circular `.zip` as a PDF or
+    # a Word file, so its published source carries that suffix instead.
+    suplemento = sii_pdfs.suplemento_number(suffix) is not None
+    if suplemento:
+        extensions = (".pdf", ".docx", ".doc")
+    for base in bases:
+        for extension in extensions:
+            for candidate in (
+                base / f"{suffix}{extension}",
+                base / f"{suffix}_afecta{extension}",
+            ):
+                if candidate.exists():
+                    return candidate
+        # An oficio number is not unique, a *Suplemento* shares the number of its
+        # circular and a declaración jurada ships a layout and its instructions under
+        # one DJ number, so the loose glob fallback is unsafe for all three.
+        if kind not in ("OFICIOS", "FORMULARIOS") and not suplemento:
+            match = re.search(r"(\d+)", suffix)
+            if match:
+                found = sorted(base.glob(f"*{match.group(1)}.pdf"))
+                if len(found) == 1:
+                    return found[0]
     return None
 
 
-def extract_metadata(body: str, kind: str, year: str = "") -> dict:
+def extract_oficio_fecha(body: str, number: int | None, year: str = "") -> str:
+    """The signature of an oficio, only when it carries this document's number."""
+    if number is None:
+        return ""
+    for match in OFICIO_FECHA_RE.finditer(body[:4000]):
+        if int(match.group(1)) != int(number):
+            continue
+        day, month, found_year = (int(part) for part in match.group(2, 3, 4))
+        if year and not (int(year) - 1 <= found_year <= int(year)):
+            continue
+        return _iso(day, month, found_year)
+    return ""
+
+
+def extract_metadata(
+    body: str, kind: str, year: str = "", number: int | None = None
+) -> dict:
     return {
-        "materia": extract_materia(body),
+        "materia": "" if kind == "OFICIO" else extract_materia(body),
         "ref_legal": extract_ref_legal(body),
         "impuestos": extract_impuestos(body),
         "formularios": extract_formularios(body),
         "regimen": extract_regimen(body),
         "exenta": kind == "RESOLUCION" and extract_exenta(body),
-        "fecha": extract_fecha(body, year),
+        "fecha": extract_oficio_fecha(body, number, year)
+        if kind == "OFICIO"
+        else extract_fecha(body, year),
         "relaciones": vigencia.extract_relaciones(body),
     }

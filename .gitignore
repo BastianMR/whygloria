@@ -4,3 +4,6 @@ __pycache__/
 # Local download inbox, worked on disk only. `--publish` moves the converted
 # files into the tracked PDF_* mirror.
 SIN_PROCESAR/
+
+# ODD working artifacts (task documents and their log), kept local like the inbox.
+odd/

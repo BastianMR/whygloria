@@ -79,7 +79,24 @@ that invented a law change every few months. Distinguishing the two tables needs
 the section context around the table, not the table itself. A wrong bracket
 table is worse than a missing one, so nothing was published.
 
-## What the corpus already carries
+## Not built, and not going to be
+
+These are closed decisions, not open TODOs. Each was measured and rejected.
+
+- **UF.** A daily table, present in 41 documents and published on demand. Turning
+a daily source into a monthly or annual series needs an aggregation rule first
+(which day, and what to do with a gap), and the corpus does not say. Publishing
+it without that rule would invent values. Out.
+- **Límites en UF/UTM.** Present in 9 documents, but they change *per reform*, not
+per period, so they are not a series: a "series" of one point per law is a table
+dressed up as a timeline. Out.
+- **Segunda categoría brackets.** Covered above: the parser invented law changes.
+Out until the section context around the table is parsed.
+- **Dólar observado and interés por mora.** One document and zero respectively.
+The corpus does not carry them, so there is nothing to derive.
+
+To reopen any of these, the rule that makes it safe has to exist first, and it has
+to be written here before the code.
 
 ## What the corpus already carries
 
@@ -97,5 +114,5 @@ table header:
 | dólar observado | 1 | 0 | 1 | effectively absent |
 | interés por mora | 0 | 0 | 0 | absent |
 
-The next series after this review are IPC and the segunda categoría brackets,
-both of which share the annual table shape.
+IPC is built. The segunda categoría brackets stay out, so the section context
+around the table is the next piece of work, not another extraction pass.

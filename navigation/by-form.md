@@ -241,7 +241,7 @@ Generated from concept frontmatter by `python scripts/navigation.py`. Do not edi
 ## F45 (1)
 * [2021_RESOLUCION_reso117](../MD_RESOLUCIONES/2021-RESOLUCION/2021_RESOLUCION_reso117.md) - vigente
 
-## unclassified (2815)
+## unclassified (2819)
 No value for this dimension in the frontmatter. Kept visible on purpose.
 * [2013_CIRCULAR_circu1](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu1.md) - vigente
 * [2013_CIRCULAR_circu10](../MD_CIRCULARES/2013-CIRCULAR/2013_CIRCULAR_circu10.md) - vigente
@@ -1098,6 +1098,8 @@ No value for this dimension in the frontmatter. Kept visible on purpose.
 * [2026_CIRCULAR_circu4](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu4.md) - vigente
 * [2026_CIRCULAR_circu40](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu40.md) - vigente
 * [2026_CIRCULAR_circu41](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu41.md) - vigente
+* [2026_CIRCULAR_circu42](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu42.md) - vigente
+* [2026_CIRCULAR_circu43](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu43.md) - vigente
 * [2026_CIRCULAR_circu5](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu5.md) - vigente
 * [2026_CIRCULAR_circu6](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu6.md) - vigente
 * [2026_CIRCULAR_circu7](../MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu7.md) - vigente
@@ -2971,6 +2973,8 @@ No value for this dimension in the frontmatter. Kept visible on purpose.
 * [2026_RESOLUCION_reso151](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso151.md) - vigente
 * [2026_RESOLUCION_reso152](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso152.md) - vigente
 * [2026_RESOLUCION_reso153](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso153.md) - vigente
+* [2026_RESOLUCION_reso154](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso154.md) - vigente
+* [2026_RESOLUCION_reso155](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso155.md) - desconocido
 * [2026_RESOLUCION_reso16](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso16.md) - derogado
 * [2026_RESOLUCION_reso17](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso17.md) - vigente
 * [2026_RESOLUCION_reso18](../MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso18.md) - vigente

@@ -6376,6 +6376,16 @@
       "replaced_by": [],
       "status_vigencia": "vigente"
     },
+    "MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu42.md": {
+      "relaciones": [],
+      "replaced_by": [],
+      "status_vigencia": "vigente"
+    },
+    "MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu43.md": {
+      "relaciones": [],
+      "replaced_by": [],
+      "status_vigencia": "vigente"
+    },
     "MD_CIRCULARES/2026-CIRCULAR/2026_CIRCULAR_circu5.md": {
       "relaciones": [],
       "replaced_by": [],
@@ -18196,6 +18206,11 @@
           "type": "modifica"
         }
       ],
+      "replaced_by": [],
+      "status_vigencia": "vigente"
+    },
+    "MD_RESOLUCIONES/2026-RESOLUCION/2026_RESOLUCION_reso154.md": {
+      "relaciones": [],
       "replaced_by": [],
       "status_vigencia": "vigente"
     },
